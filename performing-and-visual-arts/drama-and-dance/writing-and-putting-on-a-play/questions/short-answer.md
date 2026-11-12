@@ -19,3 +19,12 @@ Answer in a short sentence of your own.
 
 **6. (Sub lesson 6)** What is the film counterpart of the one-act play in the Grade 9 guide?
 **Answer: The short film — its story structured and produced compactly.**
+
+**7. (Sub lesson 7)** List theatre's five key stages.
+**Answer: Writing the text; setting the direction; choosing actors; rehearsal parts; promotion work.**
+
+**8. (Sub lesson 8)** Name the rehearsal kinds in this part.
+**Answer: Word study, trial rehearsal, improvisation, running the whole play without stopping, costume fitting, costume parade.**
+
+**9. (Sub lesson 9)** Tell the play's story in summary, naming its four characters.
+**Answer: Abebe, Yalemworq, Tewabech and Balew; two merchants debate peace vs a full stomach; Tewabech settles it for peace; father and daughter go home in peace.**

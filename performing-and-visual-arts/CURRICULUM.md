@@ -151,6 +151,23 @@ lessons are the books'.
   14602–14607, GIFs 14620–14621, all drawn and
   frame-checked).
 
-**The whole course stands at 131 lessons, 1,878 questions and
-191 pictures/GIFs.** See ABOUT.md for the full book list and
+- **PVA FIX — audit close-out, Band C (Drama and Dance) —
+  BUILT 2026-11-12:** the audit's misses in the Drama and
+  Dance title closed: 53 placements stocked, 22 citations
+  fixed, 28 NEW lessons (What Theatre Is; Play: Every Craft
+  Needs the Others — summary only; Ethiopian Traditional
+  Dances; Finding Ideas for Theatre and Film; Indigenous
+  Knowledge on Stage and Screen; What Performing Art Does
+  for a Community; and 22 teacher-guide evidence lessons,
+  from Simple Drama Structures and Making Art Together to
+  Genres of Theatre and Film and Styles and Approaches in
+  Theatre and Film), 467 questions added, 8 media filed
+  (pictures 14400–14407, all drawn and looked at; dance
+  motion carried by the books' counted step protocols, one
+  described-only GIF slot logged). The Grade 7 model play is
+  the book's own ተስፈኛዋ ተማሪ "The Hopeful Student"; ሰላም is
+  the Grade 8 book's play — both taught as summaries.
+
+**The whole course stands at 159 lessons, 2,345 questions and
+199 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.

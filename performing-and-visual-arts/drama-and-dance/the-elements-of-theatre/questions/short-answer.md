@@ -19,3 +19,18 @@ Answer in a short sentence of your own.
 
 **6. (Sub lesson 6)** What does the Grade 6 guide add about genres?
 **Answer: Theatre's (technical) genres (የተውኔት ዘውጎች) and how theatre is prepared/staged.**
+
+**7. (Sub lesson 7)** State the book's contrast: books, music, painting, theatre — each one's focus.
+**Answer: Books focus on many things; music on sound; painting on colours and visual elements; theatre only on the human being.**
+
+**8. (Sub lesson 8)** Name three roles children hold in children's and youth theatres.
+**Answer: Any three of: writing, preparing, acting, stage preparation, music and dance, costume design, audiencehood.**
+
+**9. (Sub lesson 9)** Name the three closing practicals.
+**Answer: A group theatre piece shown in class; a short mobile-camera recording shown to classmates with its idea/feeling stated; a school photograph with its idea/feeling told.**
+
+**10. (Sub lesson 10)** List the things to grasp when preparing theatre.
+**Answer: The audience; actors' performance ability; the director's leading/organising; the aim and the makers' attitude; the writer's structure and characters; visual effects of costume/light/landscapes; the sound performance.**
+
+**11. (Sub lesson 11)** How does the section say theatre differs from music and drawing? Answer from the section's account.
+**Answer: Theatre is a combined art performed by actors — conflicts, actions and atmospheres — on a stage before an audience, carrying setting, character, plot, theme, dialogue and music together.**

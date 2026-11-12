@@ -38,6 +38,24 @@ The set concludes: **Seqota**, **Wollo**, **Argoba** culture, and **Raya Kobo** 
 
 Now the performer's choice: choose a regional traditional dance you appreciate, and perform it in a group. Describe the dress used by the dances of your own area. And hear the wider survey with it: the country's folk dances are taught region by region, each nation and nationality with its own culture — a whole country's worth of dancing, of which this lesson's photographs are the doorway.
 
+## Sub lesson 5 — Dances of Our Community (teacher guide — evidence)
+
+The community has its own dances — danced at its celebrations, in its places, by its people. The guide's way is to **watch them and join in simple form**: stand with the watchers first, learn what the dance is for, then step in simply, as a guest of the dance.
+
+A community dance is not begun from a book. It is begun by being there.
+
+## Sub lesson 6 — Ethiopian Folk Dance — an introduction (teacher guide — evidence)
+
+What is dance, at its root? The guide introduces it as **a way of knowing and communicating** — a people tells what it knows, and speaks to others, through dance.
+
+And Ethiopia's folk dance is a **symbol of its mosaic culture**: **every Ethiopian ethnic group has its own unique steps and rhythm**, and the dances together picture the country — many pieces, one mosaic.
+
+## Sub lesson 7 — Dance in history — before writing
+
+Traditional dance is older than books. **Before written languages were created (before 3300 BC), traditional dance was a method of transmitting words, their performance and histories, generation to generation.** Communities also used it for **healing** and for **expressing feelings** — as is done now.
+
+Ethiopia's many dance kinds rest on each area's **custom**, its **spiritual and material cultures** and its **social contexts**; they differ in dress, in method (in pairs, in union, individually), in melody, materials, instruments, gender and time — and at weddings, festivals, hunting and work they have strengthened **joy and social relation** since ancient times. In general: **traditional dance is a main expression of culture.** (Fig. 34, printed p. 87, shows a dance performed at festival time.)
+
 ## Say it to your companion
 
 Compare two dances for your companion — dress first, then instruments — and name all nine amhara-region dances..

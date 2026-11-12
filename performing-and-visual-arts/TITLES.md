@@ -70,7 +70,16 @@ The titles, in ladder order:
    writing and putting on a play, mime, fables and first plays,
    theatre and film through history, folk dance styles and
    eskesta, dance composition and modern dance, women's
-   traditional plays, and the Hoya Hoye and Buhe play songs.
+   traditional plays, and the Hoya Hoye and Buhe play songs. The
+   audit close-out added: what theatre is; the play where every
+   craft needs the others (summary only); Ethiopian traditional
+   dances; finding ideas for theatre and film; indigenous
+   knowledge on stage and screen; what performing art does for
+   a community; and the teacher-guide evidence lessons — simple
+   drama structures, making art together, costume and make-up,
+   the elements of drama and of film making, literary and
+   technical elements of theatre, genres of theatre and film,
+   and styles and approaches in theatre and film.
 5. **Culture and Values** — the arts as a people's memory:
    traditional dress then and now, houses then and now, the
    festivals and their arts (Meskel, Timket, Arafa, Genna, New

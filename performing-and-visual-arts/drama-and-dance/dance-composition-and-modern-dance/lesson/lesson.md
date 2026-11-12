@@ -10,11 +10,15 @@ The Grade 5 guide names **the elements of dance (የውዝዋዜ አላባዊያ
 
 [Picture 10023 — a composed dance formation, traditional and modern]
 
+The Grade 6 teacher guide opens dance at its true beginning (§1.2, printed p. 17): **dance (ውዝዋዜ) as the beginning of body movement — body movement is the foundation of dance**, introduced as its own topic before the regional styles. Every element in this sub lesson — body, space, partner — is built on that foundation-stone: first the body moves; then movement becomes dance.
+
 ## Sub lesson 2 — Composing a traditional dance (teacher guide — evidence)
 
 The federal guide teaches **dance composition** directly: first **traditional dance in Ethiopia** itself; then **the basic elements of dance composition**; then **composition in dance — building a dance from its elements**. Its picture is dancers arranged in a **composed formation**, and its moving idea is the GIF beside this part: **a short dance phrase built element by element** — step, turn, gesture combined. A second guide part joins the performing side: the **compositional techniques of performance in music and dance** — the techniques used to **compose and perform** traditional music, and arranging movement into a **performable whole**.
 
 [GIF 10088 — a dance phrase built element by element]
+
+Composing stands on rhythm: the Grade 6 guide's rhythm-in-dance teaching (§2.2, printed p. 45) holds that **rhythm is felt and shown in movement** — the dancer's body keeps the music's rhythm visibly, stepping exactly on the beat. A composed dance is, before anything else, rhythm made visible in an ordered body.
 
 ## Sub lesson 3 — Modern dance: styles and techniques (teacher guide — evidence)
 

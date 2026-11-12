@@ -25,6 +25,8 @@ it is proved:
 2. **Story 2 — ታዛዧ ዉሻ (The Obedient Dog)** — ታዛዧ ዉሻ (The Obedient Dog): the house-building, the sulking, the counsel, the apology and the promise.
 3. **Story 3 — የተዋበ መንደር (The Beautiful Village), and telling your own** — የተዋበ መንደር (The Beautiful Village): cleaning and planting together; then Exercise 9 — tell your own folktale and its lesson.
 
+4. **Telling folk tales and histories** — Behind this lesson's three stories stands the community's own act: **telling folk tales and stories (የሃገረሰብ ተረትና ታሪኮች መንገር)** — the community's tales and histor
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: gallop like the horse, wa
 
 ## Sub lesson 3 — Show how each one moves
 Sub lesson 3 questions from the type files. Pass mark: show the movement of all six pictured animals, ending with the bird's take-off — crouch, push, spread, beat, lift.
+
+## Sub lesson 4 — Dances copied from plants and animals (teacher guide — evidence)
+Pass mark: the learner can make a short dance from a plant's or animal's movement. The gate draws from this sub lesson's whole question set.

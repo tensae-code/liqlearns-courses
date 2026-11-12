@@ -16,6 +16,8 @@ countries: Ethiopia
 | Sub lesson 2 — Composing a traditional dance (teacher guide — evidence) | Book 3, Lessons 17–19, printed pp. 28–31; Lessons 26–27, printed pp. 44–47 |
 | Sub lesson 3 — Modern dance: styles and techniques (teacher guide — evidence) | Book 4, Lessons 5–6, printed pp. 6–8; Lesson 15, printed pp. 22–23 |
 | Sub lesson 4 — Harmony and composition in music, for dancers too (teacher guide — evidence) | Book 3, Lessons 14–16, printed pp. 25–28 |
+| Sub lesson 1 — The elements of dance — dance as the beginning of body movement (teacher guide — evidence) | Grade 6 Teacher Guide, §1.2, printed p. 17 (teacher guide — evidence) |
+| Sub lesson 2 — Composing a traditional dance — rhythm in dance (teacher guide — evidence) | Grade 6 Teacher Guide, §2.2, printed p. 45 (teacher guide — evidence) |
 
 **Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 

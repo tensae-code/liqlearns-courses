@@ -16,3 +16,15 @@ Answer in a short sentence of your own.
 
 **5. (Sub lesson 5)**  Beside African theatre, the guide also teaches the history of…
 **Answer: Theatre in the world — world theatre history.**
+
+**6. (Sub lesson 6)** Name the guide's two film questions.
+**Answer: What film art is (its nature), and how film art began (its beginnings).**
+
+**7. (Sub lesson 7)** What does 'collaborative live art' mean here?
+**Answer: Many people making the work together, live before an audience, combining words, voice, movement and visual elements.**
+
+**8. (Sub lesson 8)** List the seven stages in order.
+**Answer: Writing; pre-preparation; implementation time; photography; sound recording; post-preparation; distribution (showing).**
+
+**9. (Sub lesson 9)** Name four local histories the book lists.
+**Answer: Any four of: shimglina (elder mediation), Timket celebration, mass (ቅዳሴ) system, mewlid system, traditional medicine, mirqat (blessing) system, wedding system, mourning (ለቅሶ) system.**

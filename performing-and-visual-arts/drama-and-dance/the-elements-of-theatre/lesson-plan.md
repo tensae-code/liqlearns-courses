@@ -17,6 +17,16 @@ The parts of this lesson, in order — the list the learner sees from the start,
 5. **Building the stage world: set, costumes, sound, light, props** — painted set against built set; costume fitting context; sound prepared for every scene; dim, flickering light for suspense and dreams; hand props and fixed props; the script as the object that shows all (Grade 5, printed pp. 34–35).
 6. **Elements and genres of theatre in the guides (teacher guide — evidence)** — the basic elements again — actors, audience, organiser/director, stage, artistic inputs, script — and theatre's genres and staging preparation (Grade 5 teacher guide, §1.3, printed pp. 15–20; Grade 6 teacher guide, §1.3, printed pp. 19–26).
 
+7. **Theatre as expression — the human at the centre** — Books focus on many things; **music focuses on sound; painting focuses on colours and visual elements — theatre focuses only on the human being.** That is the G
+
+8. **Children in theatre; film and photography's messages** — Behind a stage stand **actors, writer, director, stage designer and other participants — and the audience is greatly important**. Theatre raises varied social t
+
+9. **Close of the unit — the practice set** — The unit closes in practice (Fig. 36 shows a **photography exhibition**). The practicals: **prepare a short theatre piece in groups** from printed theatre books
+
+10. **Preparing theatre — the things to grasp** — To prepare theatre keeping its standard, the Grade 8 book lists what must be grasped (§1.3.2): the **audience**; the **actors' performance ability**; the **dire
+
+11. **Theatre as movement — a play's building parts** — The Grade 4 book calls theatre a **combined art-word** (§2.5): actors perform **conflicts, actions and atmospheres** on a stage before an audience, and its prep
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

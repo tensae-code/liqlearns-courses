@@ -16,6 +16,20 @@ The parts of this lesson, in order — the list the learner sees from the start,
 4. **Wolayta and Gambella techniques (teacher guide — evidence)** — Wolayta — the waist leads, the further south the more lower-body movement; Gambella — the agile waist spin and the cowrie fringe that sounds (Grade 7 teacher guide, printed pp. 12–13).
 5. **Slow movements (teacher guide — evidence)** — ዝግ እንቅስቃሴዎች — perceiving and performing controlled, slow body movement, with its own 'what is slow movement?' lesson; cited at section level from the scanned guide (Grade 2 teacher guide, §1.2, printed pp. 7–8).
 
+6. **Performing Traditional Dance — the protocol** — The Grade 7 book gives the performance itself a procedure (§2.3): **choose familiar local traditional songs suited to the learners**; **group learners 3–4 per g
+
+7. **Folk dance — what it is, in the Grade 8 account** — As years pass, human cultures and beliefs slowly turn into **custom** — and **folk dances are among the strongest ways to show a country or area's customs to th
+
+8. **Folk Dance Categories** — Dances can also be classified **by their performers** (§1.2.4): by **age difference, gender and social level** — group dances founded on gender difference; danc
+
+9. **Check the culture first — before performing** — Because traditional dance is an **identity expression**, the Grade 8 book demands a check before performing (§2.2): confirm that the **dress condition, the rhyt
+
+10. **The Wollo protocol** — The book gives Wollo's performance as a sequence (§2.2): **first wear the area's traditional dress; run a few minutes and loosen the body; activate shoulders, n
+
+11. **The Gojjam protocol — zinab inqitqit** — Gojjam's sequence (§2.2) mirrors Wollo's start and finds its own heart: **wear the area's traditional dress; run a few minutes and loosen the body; move all bod
+
+12. **Categories of Ethiopian dance** — The Grade 8 guide teaches dance by **major categories**: the techniques of the peoples' dances — **Tigray, Amhara, Shoa and Wolayta** are named in its teaching 
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -36,6 +50,7 @@ Open floor, a drum or clapping for the beat, and modest traditional dress or pra
    - ADD IMAGE [Picture 10022]: a picture of four dance panels — an eskesta dancer mid shoulder-shake, Tigray dancers in a circle, women in long skirts spreading like butterflies, and waist-moving dancers of the south — the student names the dance in each panel and the body part that leads it.
    - ADD GIF [GIF 10087]: a GIF of a drawn dancer, stooped slightly, shaking chest and shoulders on a 1-2-3-4 count and rising on the fourth beat, again and again — the student counts along and says which beat the rise falls on.
    - ADD AUDIO: drum tracks at the dances' own counts — the two-beat Tigray drum, the fast eskesta count, the unpausing Gurage tempo — the student steps to each in turn.
+   - ADD IMAGE [Picture 14407]: a ladder of the Wollo protocol's eight steps — the student recites the sequence, then performs it.
 3. **Say it to your companion** — as in lesson/lesson.md.
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
@@ -48,6 +63,8 @@ Open floor, a drum or clapping for the beat, and modest traditional dress or pra
 - VIDEO — the script in video-script.md, filmed (made later) → the student watches and does what it shows.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 14407] — the Wollo protocol in order → the student works from the picture as the slot line says.
 
 ## If the learner is stuck
 - Eskesta becomes whole-body bouncing → isolate: feet planted, the shake lives in neck, shoulders and chest; count 1-2-3-4 and rise.

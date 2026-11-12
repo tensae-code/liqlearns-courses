@@ -16,3 +16,15 @@ Sub lesson 4 questions from the type files. Pass mark: name theatre's four roots
 
 ## Sub lesson 5 — African and world theatre and film (teacher guide — evidence)
 Sub lesson 5 questions from the type files. Pass mark: name the two eras of African film history and the guide's one-line definition of African film.
+
+## Sub lesson 6 — What film art is — and how it began (teacher guide — evidence)
+Pass mark: the learner can tell film's nature and beginning as the guide frames them. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 7 — Theatre — collaborative and improvised (teacher guide — evidence)
+Pass mark: the learner can explain theatre as collaborative, live, improvised and scripted. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 8 — Film's seven preparation stages
+Pass mark: the learner can recite film's seven stages in order. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 9 — Local histories — theatre and film's foundation
+Pass mark: the learner can tell how local histories found theatre and film, naming four. The gate draws from this sub lesson's whole question set.

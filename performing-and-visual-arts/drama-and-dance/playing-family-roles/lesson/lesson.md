@@ -14,6 +14,8 @@ In acting, you bring it out by becoming another person for a little while. You a
 
 Your first stage is your own family — the people you watch most closely of all.
 
+The Grade 2 teacher guide's own chapter introduction (printed p. 24) frames this whole lesson: **expressing creativity means bringing out what is inside the child through the arts**. Children carry **different talents** and express what they think and feel in different ways — solo and group singing, folk dance, drama games played from their own desire, dancing music, decorating work with colour are the chapter's outcomes, reached by simple pictures and music, drama games with music and dance, acting and group work. (The guide is a scan read visually; this framing is cited at the section level its placements give — the chapter introduction, printed p. 24.)
+
 ## Sub lesson 2 — The family and their work
 
 A family works together, and each member has their **responsibilities** — the jobs that are theirs.

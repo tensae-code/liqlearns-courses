@@ -16,3 +16,24 @@ Sub lesson 4 questions from the type files. Pass mark: contrast Wolayta and Gamb
 
 ## Sub lesson 5 — Slow movements (teacher guide — evidence)
 Sub lesson 5 questions from the type files. Pass mark: perform one movement as slowly as a growing plant, without a single jerk.
+
+## Sub lesson 6 — Performing Traditional Dance — the protocol
+Pass mark: the learner can run a performance by the book's protocol. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 7 — Folk dance — what it is, in the Grade 8 account
+Pass mark: the learner can define folk dance in the Grade 8 account, with its street-dance name. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 8 — Folk Dance Categories
+Pass mark: the learner can classify dances by their performers. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 9 — Check the culture first — before performing
+Pass mark: the learner can run the culture-check before performing an area's dance. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 10 — The Wollo protocol
+Pass mark: the learner can perform the Wollo protocol in its sequence. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 11 — The Gojjam protocol — zinab inqitqit
+Pass mark: the learner can perform the Gojjam protocol and name its tremble. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 12 — Categories of Ethiopian dance (teacher guide — evidence)
+Pass mark: the learner can sort dances by the guide's regional categories. The gate draws from this sub lesson's whole question set.

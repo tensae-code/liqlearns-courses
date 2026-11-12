@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: tell The Obedient Dog bac
 
 ## Sub lesson 3 — Story 3 — የተዋበ መንደር (The Beautiful Village), and telling your own
 Sub lesson 3 questions from the type files. Pass mark: tell The Beautiful Village back, show the planting order (dig, place, cover, water), and tell a folktale of your own with its lesson.
+
+## Sub lesson 4 — Telling folk tales and histories (teacher guide — evidence)
+Pass mark: the learner can tell a folk tale aloud as oral literature performed. The gate draws from this sub lesson's whole question set.

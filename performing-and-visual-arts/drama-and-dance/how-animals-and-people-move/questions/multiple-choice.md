@@ -19,3 +19,15 @@ a) loudly and high  b) softly and low  c) backwards
 **4. (Sub lesson 3)** A bird's take-off starts with —
 a) singing  b) a crouch and a push with its legs  c) closing its wings
 **Answer: b)** — crouch, push, spread the wings, beat, and lift.
+
+**5. (Sub lesson 4)** In §5.3, dances are created by —
+a) imitating the movements of plants and animals  b) copying letters  c) reading scores
+**Answer: a) imitating the movements of plants and animals.**
+
+**6. (Sub lesson 4)** Nature serves here as —
+a) an audience  b) choreography — the dance's maker-source  c) a costume
+**Answer: b) choreography — the dance's maker-source.**
+
+**7. (Sub lesson 4)** The syllabus joins this to —
+a) group singing with beat-following movement and role play expressing nature  b) silent reading  c) exams
+**Answer: a) group singing with beat-following movement and role play expressing nature.**

@@ -17,6 +17,12 @@ The parts of this lesson, in order — the list the learner sees from the start,
 5. **Screenwriting basics (teacher guide — evidence)** — 12-point Courier; scene headings EXT./INT., place, DAY/NIGHT; characters introduced in capitals with age and one trait; subtext over on-the-nose dialogue (Grade 8 teacher guide, printed pp. 25–27).
 6. **Story shapes: one act, the short film, three acts (teacher guide — evidence)** — the one-act play's single story architecture; the short film's counterpart structure; the full-length play and the three-act structure with the screenwriter's vocabulary (Grade 9 teacher guide, printed pp. 47–51; Grade 10 teacher guide, printed pp. 23–26).
 
+7. **Theatre's key stages** — The Grade 8 book numbers theatre's own making (§1.3.2): **(1) Writing the theatre's text** — the writer spreads the theatre's whole idea; **(2) Setting the dire
+
+8. **Stage movement and the rehearsal kinds** — **Stage movement** is the time of putting the play on its feet: actors perform movements expressing the dramatic action, of beauty and meaning, **by the directo
+
+9. **Worked example — the model play 'ሰላም' (Peace), in summary** — The Grade 8 book prints a starter script for rehearsal practice — **'ሰላም' (Peace)** — taught here in **summary only; its dialogue is never transcribed**. Its ch
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

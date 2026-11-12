@@ -25,6 +25,8 @@ it is proved:
 2. **How animals move** — horses galloping, a hen walking, a cat prowling softly, a donkey standing — each animal's own way.
 3. **Show how each one moves** — the six-picture practice set — bird, kid goat, sheep, hen, donkey, cow with calf — and the bird's take-off.
 
+4. **Dances copied from plants and animals** — The Grade 4 guide's Chapter 5 (§5.3) turns the copying around into making: **creating dances by imitating the movements of plants and animals** (ከዕፅዋትና ከእንስሳት እ
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

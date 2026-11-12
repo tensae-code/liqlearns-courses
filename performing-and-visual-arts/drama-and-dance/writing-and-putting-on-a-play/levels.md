@@ -19,3 +19,12 @@ Sub lesson 5 questions from the type files. Pass mark: write one correct scene h
 
 ## Sub lesson 6 — Story shapes: one act, the short film, three acts (teacher guide — evidence)
 Sub lesson 6 questions from the type files. Pass mark: tell the one-act, short-film and three-act shapes apart and name the three acts.
+
+## Sub lesson 7 — Theatre's key stages
+Pass mark: the learner can recite theatre's key stages in order. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 8 — Stage movement and the rehearsal kinds
+Pass mark: the learner can name the rehearsal kinds and stage movement's meaning. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 9 — Worked example — the model play 'ሰላም' (Peace), in summary
+Pass mark: the learner can tell the model play's summary and its settling argument. The gate draws from this sub lesson's whole question set.

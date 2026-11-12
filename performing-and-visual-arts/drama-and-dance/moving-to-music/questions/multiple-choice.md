@@ -19,3 +19,15 @@ a) back to back  b) two by two, holding hands  c) in one long line
 **4. (Sub lesson 4)** Appreciation for a dance is shown by —
 a) describing it from a chair  b) dancing it yourself, alone or in a group  c) drawing it only
 **Answer: b).**
+
+**5. (Sub lesson 1)** In the guide's account, the body's movement —
+a) answers the music  b) ignores the music  c) leads the music always
+**Answer: a) answers the music.**
+
+**6. (Sub lesson 1)** Dancers rise on —
+a) a high phrase  b) a low phrase  c) silence
+**Answer: a) a high phrase.**
+
+**7. (Sub lesson 1)** Free movement here is —
+a) random motion  b) listening done with the whole body  c) standing still
+**Answer: b) listening done with the whole body.**

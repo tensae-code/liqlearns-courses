@@ -19,3 +19,18 @@ Sub lesson 5 questions from the type files. Pass mark: name the two set kinds, t
 
 ## Sub lesson 6 — Elements and genres of theatre in the guides (teacher guide — evidence)
 Sub lesson 6 questions from the type files. Pass mark: name the six basic elements in the guide's list.
+
+## Sub lesson 7 — Theatre as expression — the human at the centre
+Pass mark: the learner can explain theatre's human focus and the audience's union with it. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 8 — Children in theatre; film and photography's messages
+Pass mark: the learner can tell how children join theatre, and how film and photography carry messages. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 9 — Close of the unit — the practice set
+Pass mark: the learner can do the unit's three practicals and state each piece's idea and feeling. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 10 — Preparing theatre — the things to grasp
+Pass mark: the learner can recite the grasp-list for preparing theatre. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 11 — Theatre as movement — a play's building parts
+Pass mark: the learner can name the six building parts and theatre's combined nature. The gate draws from this sub lesson's whole question set.

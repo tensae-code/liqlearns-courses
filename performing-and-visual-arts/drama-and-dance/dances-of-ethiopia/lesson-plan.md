@@ -26,6 +26,12 @@ it is proved:
 3. **The Amhara region — Gojjam, Gondar, Awi, Kemise, Shewa** — the Amhara set opens: Gojjam outdoors in white; Gondar women in embroidered dress, albaso hair; Awi; Kemise (Oromo of Wollo); Shewa.
 4. **Seqota, Wollo, Argoba, Raya — and choosing one to perform** — Seqota, Wollo, Argoba, Raya Kobo with its drummer; choose one dance and perform it in a group; the country's region-by-region survey.
 
+5. **Dances of Our Community** — The community has its own dances — danced at its celebrations, in its places, by its people. The guide's way is to **watch them and join in simple form**: stand
+
+6. **Ethiopian Folk Dance — an introduction** — What is dance, at its root? The guide introduces it as **a way of knowing and communicating** — a people tells what it knows, and speaks to others, through danc
+
+7. **Dance in history — before writing** — Traditional dance is older than books. **Before written languages were created (before 3300 BC), traditional dance was a method of transmitting words, their per
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

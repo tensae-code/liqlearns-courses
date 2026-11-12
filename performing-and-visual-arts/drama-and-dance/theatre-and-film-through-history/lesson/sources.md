@@ -11,6 +11,8 @@ countries: Ethiopia
 **Book 4:** *Performing and Visual Arts Teacher Guide Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, ISBN 978-997744-2-046-9, printed pp. i–ix + 1–79. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g09-teacher-placements.md.
 
 **Book 5:** *Performing and Visual Arts Teacher Guide Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, printed pp. i–vi + 1–78. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
+**Book 6:** *Grade 3 Performing and Visual Arts Teacher Guide (፫ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. i–iv + body to printed p.79 + syllabus to printed p.96. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-teacher-placements.md.
+**Book 7:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,6 +21,11 @@ countries: Ethiopia
 | Sub lesson 3 — Theatre and film in Ethiopia (teacher guide — evidence) | Book 3, printed pp. 17–25 |
 | Sub lesson 4 — History of Ethiopian theatre and film (teacher guide — evidence) | Book 4, Lessons 7–11, printed pp. 12–17 |
 | Sub lesson 5 — African and world theatre and film (teacher guide — evidence) | Book 5, Lessons 26–29, printed pp. 41–48 |
+| Sub lesson 6 — What film art is — and how it began (teacher guide — evidence) | Grade 3 Teacher Guide, §2.3, printed pp. 41–42 |
+| Sub lesson 7 — Theatre — collaborative and improvised (teacher guide — evidence) | Grade 7 Teacher Guide, printed pp. 14–16 |
+| Sub lesson 8 — Film's seven preparation stages | Grade 8 Student Textbook, §1.3, printed pp. 39–40 |
+| Sub lesson 9 — Local histories — theatre and film's foundation | Grade 8 Student Textbook, §3.3, printed pp. 98–99 |
+| Sub lesson 1 — Theatre and film, and their participants — the Grade 7 first-performance account | Grade 7 Student Textbook, §1.3, printed p. 24 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

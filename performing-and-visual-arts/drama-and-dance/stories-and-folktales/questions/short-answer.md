@@ -12,3 +12,6 @@ Answer in a word or a short line.
 
 **3. (Sub lesson 1)** What had Selam learned from her father?
 **Answer:** photography — learned by watching him.
+
+**4. (Sub lesson 4)** What makes told tales 'performance'?
+**Answer: The teller performs them aloud for gathered listeners — the tale lives in the telling.**

@@ -20,6 +20,12 @@ countries: Ethiopia
 | Sub lesson 4 — The rehearsal ladder and the script's format (teacher guide — evidence) | Book 2, printed pp. 22–25 |
 | Sub lesson 5 — Screenwriting basics (teacher guide — evidence) | Book 2, printed pp. 25–27 |
 | Sub lesson 6 — Story shapes: one act, the short film, three acts (teacher guide — evidence) | Book 3, Lessons 28–29, printed pp. 47–51 |
+| Sub lesson 7 — Theatre's key stages | Grade 8 Student Textbook, §1.3.2, printed p. 41 |
+| Sub lesson 8 — Stage movement and the rehearsal kinds | Grade 8 Student Textbook, §2.3.1, printed pp. 59–60 |
+| Sub lesson 9 — Worked example — the model play 'ሰላም' (Peace), in summary | Grade 8 Student Textbook, §2.3.1, printed pp. 61–63 |
+| Sub lesson 4 — The rehearsal ladder and the script's format — the student book's first-reading and table-reading account | Grade 8 Student Textbook, §2.3.1, printed pp. 58–59 |
+| Sub lesson 4 — The rehearsal ladder and the script's format — the student book's technical, final and farewell rehearsals | Grade 8 Student Textbook, §2.3.1, printed p. 61 |
+| Sub lesson 6 — Story shapes: one act, the short film, three acts — the Grade 10 full-length account (teacher guide — evidence) | Grade 10 Teacher Guide, Lessons 16–18, printed pp. 23–26 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

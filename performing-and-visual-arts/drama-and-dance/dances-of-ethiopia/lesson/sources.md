@@ -7,6 +7,9 @@ countries: Ethiopia
 **Book 4:** *Grade 4 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–100. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g04-student-placements.md.
 
 **Book 8:** *Grade 6 Performing and Visual Arts Teacher Guide (6ተኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መማሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2014 E.C., printed pp. I–VI + body from printed p. 1 + syllabus to printed p. 119. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
+**Book 9:** *Grade 1 Performing and Visual Arts Teacher Guide (፩ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2014 E.C., printed pp. i–ii + body/syllabus to printed p. 93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-teacher-placements.md.
+**Book 10:** *Grade 7 Performing and Visual Arts Teacher's Guide Book* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021), printed pp. 1–161 as promised by its contents; the library file is TRUNCATED — its body ends at printed p.109, and Units 4–5 are placed from its contents and syllabus only. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
+**Book 11:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -21,6 +24,9 @@ countries: Ethiopia
 | Sub lesson 3 — Wag Himra, Awi and Kemise dance photographs; perform one, alone and in a group | Grade 4 Student Textbook, Figures 2.7–2.9 + Activity 2.4, printed p. 28 |
 | Sub lesson 4 — Seqota, Wollo, Argoba, Raya | Grade 3 Student Textbook, printed pp. 62–63 |
 | Sub lesson 4 — Folk dances of the country (teacher guide — evidence) | Grade 6 Teacher Guide, §3.2, printed pp. 69–70 |
+| Sub lesson 5 — Dances of Our Community (teacher guide — evidence) | Grade 1 Teacher Guide, §3.2, printed p. 45 |
+| Sub lesson 6 — Ethiopian Folk Dance — an introduction (teacher guide — evidence) | Grade 7 Teacher Guide, printed p. 8 |
+| Sub lesson 7 — Dance in history — before writing | Grade 8 Student Textbook, §3.1.3, printed pp. 85–86 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

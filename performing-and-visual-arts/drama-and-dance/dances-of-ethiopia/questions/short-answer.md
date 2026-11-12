@@ -12,3 +12,12 @@ Answer in a word or a short line.
 
 **3. (Sub lesson 2)** Which two things do you look at when you compare two dances?
 **Answer:** the dress, and the music instruments used.
+
+**4. (Sub lesson 5)** How do you begin learning a community's dance?
+**Answer:** By watching it in its own place, then joining in simple form.
+
+**5. (Sub lesson 6)** What two things does dance do, in the guide's introduction?
+**Answer:** It is a way of knowing and a way of communicating.
+
+**6. (Sub lesson 7)** What is the section's general conclusion about traditional dance?
+**Answer:** That traditional dance is a main expression of culture.

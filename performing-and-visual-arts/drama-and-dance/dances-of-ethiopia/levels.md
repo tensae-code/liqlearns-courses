@@ -13,3 +13,12 @@ Sub lesson 3 questions from the type files. Pass mark: name Gojjam, Gondar, Awi,
 
 ## Sub lesson 4 — Seqota, Wollo, Argoba, Raya — and choosing one to perform
 Sub lesson 4 questions from the type files. Pass mark: choose one appreciated dance and perform it in a group, and describe the dress of your own area's dance.
+
+## Sub lesson 5 — Dances of Our Community (teacher guide — evidence)
+Pass mark: the learner can name the guide's way into a community dance: watch, then join simply. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 6 — Ethiopian Folk Dance — an introduction (teacher guide — evidence)
+Pass mark: the learner can define folk dance as the guide introduces it. The gate draws from this sub lesson's whole question set.
+
+## Sub lesson 7 — Dance in history — before writing
+Pass mark: the learner can tell what dance did before writing and name what Ethiopia's dances rest on. The gate draws from this sub lesson's whole question set.

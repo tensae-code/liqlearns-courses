@@ -16,6 +16,14 @@ The parts of this lesson, in order — the list the learner sees from the start,
 4. **History of Ethiopian theatre and film (teacher guide — evidence)** — theatre rooted in prehistory and everyday public life — plays, rituals, church ceremonies, school drama; film arriving with modernisation, local production, film schools (Grade 9 teacher guide, Lessons 7–11, printed pp. 12–17).
 5. **African and world theatre and film (teacher guide — evidence)** — the history of African theatre and of world theatre; African film as the product of African societies' historical experience — colonial era and post-independence era — and world film history (Grade 10 teacher guide, Lessons 26–29, printed pp. 41–48).
 
+6. **What film art is — and how it began** — The Grade 3 guide teaches film from its root (§2.3): **what film art is (የፊልም ጥበብ ምንነት)** — its nature as an art — and **how film art began (አጀማመር)** — its begi
+
+7. **Theatre — collaborative and improvised** — The Grade 7 guide's account of theatre (printed pp. 14–16) adds two working truths. Theatre is a **collaborative live art** — combining **words, voice, movement
+
+8. **Film's seven preparation stages** — Film crosses the limits of drama and theatre — of place, time and reach — and the Grade 8 book gives its making as **seven preparation stages** (§1.3): **(1) Wr
+
+9. **Local histories — theatre and film's foundation** — Theatre and film stand on real life. The Grade 8 book (§3.3) teaches that their **historical foundation is on social activities performed in the real world**: t
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -36,6 +44,7 @@ Attention for a long story; a timeline strip of paper helps the class hold the c
 2. **The explanation** — the lesson's parts in order (lesson/lesson.md), with these add-on slots at their exact places:
    - ADD IMAGE [Picture 10021]: a picture of a vintage cinema with a projector beam cutting to the screen, beside a theatre stage with actors before an audience — the student says which art is live and which is projected, and names one Ethiopian house or hall from the lesson.
    - ADD AUDIO: a listening timeline: a voice walks the centuries — Greek theatron, Fabula in 1913, Hager Fikir in 1935, the first Ethiopian film in 1957 E.C. — while the student points along a drawn timeline.
+   - ADD IMAGE [Picture 14403]: a strip of film's seven preparation stages in order — the student recites the stages from the strip.
 3. **Say it to your companion** — as in lesson/lesson.md.
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
@@ -47,6 +56,8 @@ Attention for a long story; a timeline strip of paper helps the class hold the c
 - VIDEO — the script in video-script.md, filmed (made later) → the student watches and does what it shows.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 14403] — film's seven preparation stages → the student works from the picture as the slot line says.
 
 ## If the learner is stuck
 - Mixes theatre and film → theatre is LIVE, in a place, before an audience; film is recorded — projected audio-video that travels without its actors.

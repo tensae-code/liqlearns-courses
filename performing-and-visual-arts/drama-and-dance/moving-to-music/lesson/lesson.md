@@ -12,6 +12,8 @@ Hear the New Year music and the dances around you? In free movement, your body a
 
 The Grade 1 dance strand begins exactly here: moving the body to what is heard — free and guided body movement to music, swaying and stepping in a circle to a beat.
 
+The Grade 5 guide gives this movement its law (§2.2, printed p. 46): **expressing music sounds in dance movement — the body's movement answers the music; the dancers dance the sounds heard**, rising on a high phrase and sinking on a low one. Free movement, in the guide's account, is not random: it is listening, done with the whole body.
+
 ## Sub lesson 2 — Free dance movements
 
 **Free dance movement** is body movement and dance done to music **without being limited to set dances**.

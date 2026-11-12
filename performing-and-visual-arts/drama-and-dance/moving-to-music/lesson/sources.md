@@ -5,6 +5,7 @@ countries: Ethiopia
 **Book 2:** *Grade 2 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 2ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., printed pp. i–vi + 1–96. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-student-placements.md.
 
 **Book 6:** *Grade 1 Performing and Visual Arts Teacher Guide (፩ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2014 E.C., printed pp. i–ii + body/syllabus to printed p. 93. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g01-teacher-placements.md.
+**Book 7:** *Grade 5 Performing and Visual Arts Teacher Guide (፭ኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter ii–v + body from printed p.1 + syllabus tables at the end. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g05-teacher-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -16,6 +17,7 @@ countries: Ethiopia
 | Sub lesson 3 — Partner dance (practice) | Grade 2 Student Textbook, Activity 5.2.4, printed p. 89 |
 | Sub lesson 4 — Dances that carry our values | Grade 2 Student Textbook, §3.1.3, printed pp. 53–54 |
 | Sub lesson 4 — Showing appreciation by dancing | Grade 2 Student Textbook, §4.1.1, printed pp. 64–65 |
+| Sub lesson 1 — Free movement to music — expressing music sounds in dance movement (teacher guide — evidence) | Grade 5 Teacher Guide, §2.2, printed p. 46 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

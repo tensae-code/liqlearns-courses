@@ -40,6 +40,12 @@ Your work: show the class how each pictured animal moves. The kid goat skips and
 
 [GIF 9751 — a bird taking off: crouch, push, wings spread wide, beat hard, and up into the air]
 
+## Sub lesson 4 — Dances copied from plants and animals (teacher guide — evidence)
+
+The Grade 4 guide's Chapter 5 (§5.3) turns the copying around into making: **creating dances by imitating the movements of plants and animals** (ከዕፅዋትና ከእንስሳት እንቅስቃሴዎች ውዝዋዜዎችን መቅዳት) — nature as choreography.
+
+The syllabus joins it to singing with beat-following movement and role play to express nature, and singing about nature — stars, rivers, birds. You have learned how plants sway and animals move; now their movements become your dances.
+
 ## Say it to your companion
 
 Show your companion three animal movements; they name the animal for each one..

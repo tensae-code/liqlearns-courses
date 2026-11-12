@@ -32,6 +32,12 @@ The lesson: even a good dog errs — what matters is hearing counsel, apologisin
 
 Now the book hands the telling to YOU: tell a folktale you know, and explain what you learned from it. Every story in this lesson leaves a lesson in the hand — that is what folktales are FOR.
 
+## Sub lesson 4 — Telling folk tales and histories (teacher guide — evidence)
+
+Behind this lesson's three stories stands the community's own act: **telling folk tales and stories (የሃገረሰብ ተረትና ታሪኮች መንገር)** — the community's tales and histories, told aloud. The guide names it **oral literature as performance**: the teller performs, the listeners gather, and the tale lives in the telling.
+
+(The guide's syllabus joins the same chapter to identifying the history of visual art — cave art and colour painting — taught in its own lessons.)
+
 ## Say it to your companion
 
 Tell your companion one of the three stories in your own words, and finish with its lesson in one line..

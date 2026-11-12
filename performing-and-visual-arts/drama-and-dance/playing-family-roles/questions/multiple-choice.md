@@ -19,3 +19,15 @@ a) name the person and the responsibility without being told  b) laugh loudly  c
 **4. (Sub lesson 2)** Before acting a person, you must first be able to —
 a) sing their song  b) say their work — list their responsibilities  c) draw their house
 **Answer: b)** — watch well, say the work, then act it.
+
+**5. (Sub lesson 1)** The Grade 2 guide defines expressing creativity as —
+a) copying the teacher  b) bringing out what is inside the child through the arts  c) finishing first
+**Answer: b) bringing out what is inside the child through the arts.**
+
+**6. (Sub lesson 1)** Children express what they think and feel —
+a) all in the same way  b) in different ways, carrying different talents  c) only by writing
+**Answer: b) in different ways, carrying different talents.**
+
+**7. (Sub lesson 1)** The chapter's outcomes include —
+a) solo and group singing, folk dance and drama games  b) only examinations  c) only drawing
+**Answer: a) solo and group singing, folk dance and drama games.**

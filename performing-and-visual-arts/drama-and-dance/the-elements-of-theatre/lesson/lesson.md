@@ -10,6 +10,8 @@ Theatre presents actors' conflicts, actions and atmospheres on a stage before an
 
 [Picture 10018 — a stage world labelled by its elements]
 
+The Grade 7 book gives this same ground as a named list of **seven elements** (§1.3.1): **idea, theme (ጭብጥ), character, setting (መቼት — when + where), conflict, dramatic action and dialogue**. Its character can be **an animal, an object, an abstract idea or a spirit being** — wider than a person alone. Learn the seven as a list; the rest of this lesson then deepens each one.
+
 ## Sub lesson 2 — The actor's three tools: body, voice, mind
 
 **Actors** are real people who understand the story and, **leaving their own character, take on the character's**. What is expected of them: **learn songs, dances and movements; attend rehearsals and grow ability; heed the director's directions; work together**. And an actor needs **three tools**: **BODY** — fit for every movement; theatre needs much breath, so physical exercise; **VOICE** — words and letters reaching listeners clearly, without piling up; **MIND** — picturing the character, feeling, focus. Body carries, voice reaches, mind believes.
@@ -29,6 +31,38 @@ The stage world is built: **SET** in two ways — a **PAINTED set** (the back wa
 ## Sub lesson 6 — Elements and genres of theatre in the guides (teacher guide — evidence)
 
 The guides set the same elements in a row: **actors/performers (ተዋንያን), audience (ታዳሚዎች), the organiser/director (አዘጋጅ), the performance place/stage (የመከወኛ ቦታ), artistic inputs/materials (ጥበባዊ ግብዓቶች), and the play script (ጽሁፈ-ተውኔት)**. The Grade 6 guide adds theatre's **composition/writing (ድርሰት)**, its **(technical) genres (የተውኔት ዘውጎች)**, and **how theatre is prepared and staged (የተውኔት አዘገጃጀት)** — the whole journey from writing to stage, which the next lesson walks step by step.
+
+The Grade 6 teacher guide's own theatre section (§1.3, printed pp. 19–26) covers this same ground from the teacher's side: **composition/writing (ድርሰት), the elements of theatre (የተውኔት አላባዊያን), the (technical) genres of theatre (የተውኔት ዘውጎች), and how theatre is prepared/staged (የተውኔት አዘገጃጀት)** — with film art named in the section's scope. The guide evidence confirms the pupil account and adds the preparation/staging treatment.
+
+## Sub lesson 7 — Theatre as expression — the human at the centre
+
+Books focus on many things; **music focuses on sound; painting focuses on colours and visual elements — theatre focuses only on the human being.** That is the Grade 6 book's deep cut (§2.7): theatre is the art branch that lets us express idea and feeling, and its centre is always a person.
+
+Theatre is **group work presented to an audience** — and more than in the other arts, its **group coordination passes to the audience**, who become part of the theatre and form a union with it. (Fig. 35 shows child actors showing a theatre work.)
+
+## Sub lesson 8 — Children in theatre; film and photography's messages
+
+Behind a stage stand **actors, writer, director, stage designer and other participants — and the audience is greatly important**. Theatre raises varied social topics and has a big role in **teaching society, criticising, inspiring and advancing it**.
+
+**Children participate in theatre**: besides the great theatre houses, **children's and youth theatres** are established in our country and others, where children take part directly in **writing, preparing, acting, stage preparation, music and dance, costume design and audiencehood**. **Film**, hard to make whole in class, can be shared simply — **short recordings with a mobile camera in groups**, shown to classmates. And **photography** expresses message by single and successive shots — seasons, festivals, weddings, school stays, games, market places, plants, landscapes — gathered photographs can be shown as a **photo exhibition**.
+
+## Sub lesson 9 — Close of the unit — the practice set
+
+The unit closes in practice (Fig. 36 shows a **photography exhibition**). The practicals: **prepare a short theatre piece in groups** from printed theatre books or video-recorded works and show it in class; **make a short recording in pairs or groups in the school compound with a mobile camera** and show classmates, saying **the feeling and idea the short video meant to show**; and **photograph something seen in the school** with a mobile camera and tell the idea and feeling it should convey.
+
+Idea and feeling, stated aloud, close every piece — that is the unit's own test of itself.
+
+## Sub lesson 10 — Preparing theatre — the things to grasp
+
+To prepare theatre keeping its standard, the Grade 8 book lists what must be grasped (§1.3.2): the **audience**; the **actors' performance ability**; the **director's leading and organising** of the theatre; the theatre's **aim** and the attitude its makers receive; the **writer's work** in creating an astonishing structure and characters; and the **visual effects of costume, light and landscapes** in wide or narrow space, and the **sound performance**.
+
+Grasp these before you begin, and the preparation stands on all its legs at once.
+
+## Sub lesson 11 — Theatre as movement — a play's building parts
+
+The Grade 4 book calls theatre a **combined art-word** (§2.5): actors perform **conflicts, actions and atmospheres** on a stage before an audience, and its preparation is its own **movement (rehearsal) process**.
+
+The work carries six building parts: **setting, character, plot, theme, dialogue and music** (Fig. 2.31 shows a drama scene). The book's own activity asks how theatre differs from music and drawing — and to perform a dramatic play in groups.
 
 ## Say it to your companion
 
