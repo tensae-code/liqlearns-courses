@@ -1,17 +1,20 @@
 # Sources — Graphs of accelerated motion
 
-countries: Ethiopia
+countries: Ethiopia, Nicaragua
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 10* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 204 printed pp. Printed page = PDF page − 8. Contributors: Fikadu Eshetu (PhD), Writer; Mideksa Kasahun (MSc), Writer; Moges Tsega (PhD), Content Editor; Samuel Assefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). © 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-teacher-placements.md.
+
+**Book 3:** *Física — Módulo Autoformativo, Décimo grado* (student textbook) — Nicaragua, Ministerio de Educación (MINED). Title as printed: Física — Módulo Autoformativo, Décimo grado (Educación Secundaria a Distancia en el Campo); author Profesora Luz Marina Ortiz Narvaez; Ministerio de Educación (MINED), Nicaragua. Grade 10 (Décimo grado). Student book. Repo path: grade-10/gov/nicaragua/physics/student/full-year.pdf. Recorded size: 84,279,222 bytes (books.json). PDF pages: 184. Offset: printed p. = PDF p. − 9. Verdict: COMPLETE — full text read cover to the closing Ecuaciones/Bibliografía. Read in full from the recorded MINED source (https://www.mined.gob.ni/biblioteca/wp-content/uploads/2024/09/LISTO-Fisica-10-Grado.pdf), fetched whole at 84,279,222 bytes — an exact match to the recorded size — in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nicaragua-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Graphs of accelerated motion | Ethiopia, *Grade 10 Student Textbook*, printed pp. 42–49 |
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 10 Student Textbook*, printed pp. 42–49 |
 | Unit 2 — Uniformly Accelerated Motion pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 10 Teacher's Guide*, printed pp. 27–58 |
+| Acceleration–time graphs (Nicaragua) | Nicaragua, *Física — Módulo Autoformativo, Décimo grado*, §1.3 Gráficos de aceleración en función del tiempo, printed p. 39 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Nicaragua).**
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

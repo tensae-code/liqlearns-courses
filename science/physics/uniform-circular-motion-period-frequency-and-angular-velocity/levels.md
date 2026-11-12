@@ -1,0 +1,4 @@
+# Uniform circular motion — period, frequency and angular velocity — depth
+
+Whole-lesson pass mark: the learner states what uniform circular motion is, defines period and frequency and flips between them with f = 1/T, computes the linear velocity v = 2πr/T = 2πrf and the angular velocity ω = 2π/T = 2πf for a turning body and joins them with v = ωr, and explains why the velocity changes direction at every instant while the speed stays constant — answering the lesson's questions from the lesson text.
+This lesson has three sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — timing real turnings (a wheel, a swung ball, a fan) to read off T and f, computing tangential speeds for points at different radii on the same turning body, and converting between v and ω until the learner can predict which point on a wheel travels fastest and say why.
