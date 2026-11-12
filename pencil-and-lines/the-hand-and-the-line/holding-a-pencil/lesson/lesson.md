@@ -20,8 +20,9 @@ makes with a pencil — if the hand is wrong, every shape fights you.
 The book shows it in five pictures, like this:
 
 1. The pencil lies on the table. Your hand comes down open.
-2. Two fingers — your thumb and your first finger — take the pencil,
-   like a bird taking something small with its beak.
+2. Two fingers — your thumb and your first finger — take the pencil
+   near the front, near the tip, like a bird taking something small
+   with its beak.
 
 ## Sub lesson 2 — Resting the pencil
 
