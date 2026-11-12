@@ -2931,3 +2931,870 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 14016 | pictures/14016.webp | walk confidently lit main road | Health Education — Staying Safe on the Street — Self-Defence Principles and Resolving Conflict |
 | 14017 | pictures/14017.gif | Ball in a Box pass down the line then run | Physical Education — Games for Communication and Cooperation |
 | 14018 | pictures/14018.gif | Dragon Snake line turns to shield its tail | Physical Education — World Games — Dragon Snake and Stocking |
+| 21003 | pictures/21003.gif | the enclosing circle shrinking onto Ethiopia’s outline | Social Studies — Shapes countries come in — and Ethiopia’s compact shape |
+| 21013 | pictures/21013.webp | a Rift cross-section with lakes sitting on the valley floor | Social Studies — Inside the Rift — the lakes section |
+| 21014 | pictures/21014.webp | a map tracing the Rift’s southern arm to Chew Bahir | Social Studies — The Chew Bahir Rift |
+| 21015 | pictures/21015.webp | a sea advancing over a land outline, layers settling beneath it | Social Studies — When the sea covered Ethiopia — sedimentary rocks |
+| 21016 | pictures/21016.gif | the shoreline advancing then retreating, leaving layers behind | Social Studies — When the sea covered Ethiopia — sedimentary rocks |
+| 21017 | pictures/21017.webp | a basement rock outcrop with a planed surface line | Social Studies — Ethiopia’s oldest rocks and the great planing |
+| 21018 | pictures/21018.webp | a dome rising, lava spreading, then a rift dropping between faults | Social Studies — Uplift, lava floods and the splitting Rift |
+| 21019 | pictures/21019.gif | the dome cracking and the rift floor dropping | Social Studies — Uplift, lava floods and the splitting Rift |
+| 21020 | pictures/21020.webp | a drainage map with three arrow colours leaving the highlands | Social Studies — Three ways Ethiopia’s water drains |
+| 21021 | pictures/21021.webp | the Abbay, Tekeze and Baro rivers traced from highlands to border | Social Studies — The Nile-bound rivers — Abbay, Tekeze, Baro |
+| 21022 | pictures/21022.webp | the Shebelle, Genale, Awash and Omo rivers traced, each ending marked | Social Studies — Shebelle, Genale, Awash and Omo |
+| 21023 | pictures/21023.webp | a lakes map with Tana and the Rift chain highlighted | Social Studies — Ethiopia’s lakes — highland and Rift |
+| 21024 | pictures/21024.webp | a gorge river in flood and in dry season, side by side | Social Studies — What Ethiopian rivers are like |
+| 21025 | pictures/21025.webp | a year wheel with the three seasons and ITCZ arrows | Social Studies — Kiremt, Bega and Belg — Ethiopia’s seasons |
+| 21026 | pictures/21026.gif | the ITCZ band sliding north then south over Ethiopia | Social Studies — Kiremt, Bega and Belg — Ethiopia’s seasons |
+| 21027 | pictures/21027.webp | a rainfall map with the three timing regions in three colours | Social Studies — Where and when Ethiopia’s rain falls |
+| 21028 | pictures/21028.webp | a temperature map from red lowlands to blue peaks | Social Studies — Ethiopia’s temperature pattern |
+| 21029 | pictures/21029.webp | an altitude staircase with the five zones and their crops | Social Studies — Ethiopia’s five climate zones — Bereha to Wurch |
+| 21030 | pictures/21030.webp | the five traditional zones as a farming staircase with crops and homes | Social Studies — Ethiopia’s five traditional climate zones |
+| 21031 | pictures/21031.webp | a mountain transect with vegetation belts stacked by altitude | Social Studies — Why vegetation changes with the land |
+| 21032 | pictures/21032.webp | a soils map beside profile strips of each main type | Social Studies — Ethiopia’s main soils |
+| 21033 | pictures/21033.webp | a ten-soil name strip beside the student book’s shorter list | Social Studies — Major soil types of Ethiopia |
+| 21034 | pictures/21034.webp | a rising population growth curve with doubling-time markers | Social Studies — How Ethiopia’s population grew |
+| 21035 | pictures/21035.gif | the growth curve steepening decade by decade | Social Studies — How Ethiopia’s population grew |
+| 21036 | pictures/21036.webp | a population-density map | Social Studies — Where Ethiopians live — and why there |
+| 21037 | pictures/21037.webp | altitude bands beside matching population bars | Social Studies — Altitude decides settlement |
+| 21038 | pictures/21038.webp | a malaria-risk altitude band map | Social Studies — Disease follows altitude and water |
+| 21039 | pictures/21039.webp | arrows from crowded highland farms to towns and farm schemes | Social Studies — Why people move inside Ethiopia |
+| 21040 | pictures/21040.webp | a road map radiating from Addis Ababa, with a donkey cart inset | Social Studies — Getting around — roads first |
+| 21041 | pictures/21041.webp | the Addis Ababa to Djibouti corridor drawn across a Horn of Africa map | Social Studies — What landlocked costs — Ethiopia’s road to the sea |
+| 21042 | pictures/21042.webp | a mineral distribution map with a symbol per mineral | Social Studies — Ethiopia’s minerals — what is where |
+| 21043 | pictures/21043.webp | three bars | Social Studies — Why agriculture runs Ethiopia’s economy |
+| 21044 | pictures/21044.webp | an eroded, fragmented hillside farm | Social Studies — What holds Ethiopian farming back |
+| 21045 | pictures/21045.webp | four panels | Social Studies — Primary work in Ethiopia |
+| 21046 | pictures/21046.webp | a weaver beside a textile factory line | Social Studies — Making things — craft and factory |
+| 21047 | pictures/21047.webp | two cargo stacks | Social Studies — What Ethiopia buys and sells |
+| 21048 | pictures/21048.webp | a language map of Ethiopia in many colours | Social Studies — Ethiopia’s many languages |
+| 21049 | pictures/21049.webp | a pie chart of the census religion shares | Social Studies — Ethiopia’s religions in numbers |
+| 21050 | pictures/21050.webp | coffee cherries beside an export-share chart | Social Studies — Cash crops and coffee’s crown |
+| 21051 | pictures/21051.webp | a five-step activity chain with the fifth step marked guide-only | Social Studies — The fifth sector — quinary activities (teacher-guide extension) |
+| 21052 | pictures/21052.webp | a forest-cover shrinking chart, 1950s to 1980s to now | Social Studies — Forests under pressure — and how Ethiopia answers |
+| 21053 | pictures/21053.webp | a community forest boundary with guards and a notice | Social Studies — Saving Ethiopia’s forests |
+| 21054 | pictures/21054.webp | rows of pupils planting seedlings on a hillside | Social Studies — Green Legacy — planting a country green |
+| 21055 | pictures/21055.gif | a seedling being planted and watered | Social Studies — Green Legacy — planting a country green |
+| 21056 | pictures/21056.webp | a Green Legacy component wheel | Social Studies — The Green Legacy movement |
+| 21057 | pictures/21057.webp | the CRGE vision as two pillars under one roof | Social Studies — Ethiopia’s green economy — the CRGE pillars |
+| 21058 | pictures/21058.webp | a climate-smart farm | Social Studies — Ethiopia’s green-economy plan |
+| 21059 | pictures/21059.webp | a Horn of Africa map with the six neighbours and the Red Sea labelled | Social Studies — Ethiopia among its neighbours |
+| 21060 | pictures/21060.webp | the four named endemics in their habitats | Social Studies — Ethiopia’s wildlife and its endemics |
+| 21061 | pictures/21061.webp | a steep farmed slope with rills becoming gullies | Social Studies — Why Ethiopia’s soil is degrading |
+| 21062 | pictures/21062.webp | a field group with leader, register and meeting point marked | Social Studies — Fieldwork safety — supervision and responsibility |
+| 21063 | pictures/21063.webp | a four-terrain hazard strip | Social Studies — Staying safe in mountains, water, bogs and dig sites |
+| 21064 | pictures/21064.webp | a pupil with an introduction letter interviewing a farmer | Social Studies — Asking people properly — field questionnaires and interviews |
+| 21065 | pictures/21065.webp | the earth with Geo + Graphos = writing the earth labelled | Social Studies — What geography is |
+| 21066 | pictures/21066.webp | a five-layer diagram of the spheres around the earth | Social Studies — How wide geography reaches — the five spheres |
+| 21067 | pictures/21067.webp | a landscape split into labelled natural features, one per sub-branch | Social Studies — Physical geography — the nature side |
+| 21068 | pictures/21068.webp | a town scene with population, farming, trade and transport labelled | Social Studies — Human geography — the people side |
+| 21069 | pictures/21069.webp | one town pinned by coordinates and by neighbour labels | Social Studies — Two ways to say where a place is |
+| 21070 | pictures/21070.webp | centre-to-border arrows on compact versus elongated outlines | Social Studies — What size and shape do to a country |
+| 21071 | pictures/21071.webp | a geological time column with Ethiopia’s rocks marked | Social Studies — Reading deep time — eras and periods |
+| 21072 | pictures/21072.webp | a cross-section showing uplift and faulting inside, rain and wind wearing the surface | Social Studies — Forces from inside and outside the earth |
+| 21073 | pictures/21073.gif | a fault block sinking to form a valley | Social Studies — Forces from inside and outside the earth |
+| 21074 | pictures/21074.webp | one day’s storm beside a 30-year rainfall chart for the same town | Social Studies — Weather today, climate in general |
+| 21075 | pictures/21075.webp | seven element icons around a weather station | Social Studies — The elements we measure |
+| 21076 | pictures/21076.webp | a mountain profile with temperatures falling as altitude rises | Social Studies — Latitude and altitude — the two big controls |
+| 21077 | pictures/21077.gif | a thermometer dropping as a marker climbs a mountain profile | Social Studies — Latitude and altitude — the two big controls |
+| 21078 | pictures/21078.webp | moist air rising, raining, then descending dry over a range | Social Studies — Rain shadows and why seasons move |
+| 21079 | pictures/21079.gif | air flowing over the range, cloud forming then clearing | Social Studies — Rain shadows and why seasons move |
+| 21080 | pictures/21080.webp | a coastal versus inland temperature pair with a current arrow offshore | Social Studies — Sea’s moderation and ocean currents |
+| 21081 | pictures/21081.webp | a rain gauge and a maximum-minimum thermometer labelled | Social Studies — Measuring temperature and rainfall |
+| 21082 | pictures/21082.gif | rain filling a gauge and the reading being taken | Social Studies — Measuring temperature and rainfall |
+| 21083 | pictures/21083.webp | a school weather station with all five instruments labelled | Social Studies — The rest of the weather station |
+| 21084 | pictures/21084.gif | anemometer cups spinning faster as the wind rises | Social Studies — The rest of the weather station |
+| 21085 | pictures/21085.webp | a resource wall | Social Studies — What counts as a natural resource |
+| 21086 | pictures/21086.webp | a cross-section of rain soaking to an aquifer, with a well | Social Studies — Water underground |
+| 21087 | pictures/21087.webp | five factor icons feeding one soil profile | Social Studies — How soil is made |
+| 21088 | pictures/21088.webp | giant lobelia moorland above a juniper forest edge | Social Studies — Vegetation of the high mountains |
+| 21089 | pictures/21089.webp | three panels | Social Studies — Rainforest, woodland and savanna |
+| 21090 | pictures/21090.webp | sparse thorn scrub beside a green river strip | Social Studies — Plants of the dry lands and riverbanks |
+| 21091 | pictures/21091.webp | a census enumerator at a doorway with a form | Social Studies — Counting people — censuses and surveys |
+| 21092 | pictures/21092.webp | Ethiopia’s population pyramid with the young base highlighted | Social Studies — Reading a population pyramid |
+| 21093 | pictures/21093.webp | 100 worker figures carrying 77 dependent figures | Social Studies — How many depend on each worker |
+| 21094 | pictures/21094.webp | three aerial-style settlement patterns | Social Studies — Rural settlement patterns |
+| 21095 | pictures/21095.webp | a pastoral camp beside a small town street | Social Studies — Temporary homes, and what makes a town |
+| 21096 | pictures/21096.webp | queues at a clinic, a school and a shrinking fuelwood pile | Social Studies — When growth outruns services |
+| 21097 | pictures/21097.webp | a four-step chain from farm to factory to shop to office | Social Studies — Four kinds of work |
+| 21098 | pictures/21098.webp | a forest with fuel, poles, bees and a protected spring marked | Social Studies — What forests do for the economy |
+| 21099 | pictures/21099.webp | a mixed smallholder farm | Social Studies — Subsistence farming — feeding the nation |
+| 21100 | pictures/21100.webp | an electric train and an Ethiopian Airlines jet over a route map | Social Studies — Trains, planes and boats |
+| 21101 | pictures/21101.webp | a junction scene with the four cause factors labelled | Social Studies — Road safety — causes and prevention |
+| 21102 | pictures/21102.webp | Konso-style terraces as a cultural-landscape panorama | Social Studies — Cultural landscapes — land shaped by people |
+| 21103 | pictures/21103.webp | Lalibela and Simien panels with a visitor | Social Studies — Tourism — selling the landscape |
+| 21104 | pictures/21104.webp | arrows both ways between a village and its land, water and forest | Social Studies — People and environment — a two-way street |
+| 21105 | pictures/21105.webp | a before-and-after hillside | Social Studies — How people change the land — and pollute it |
+| 21106 | pictures/21106.gif | trees clearing and a gully deepening on a hillside | Social Studies — How people change the land — and pollute it |
+| 21107 | pictures/21107.webp | a balance scale tipping to the people side | Social Studies — Over-population — too many for the resources |
+| 21108 | pictures/21108.webp | a balance scale tipping to the resources side, an idle mine and farm | Social Studies — Under-population — too few to use the resources |
+| 21109 | pictures/21109.webp | a river carrying waste past a washing point | Social Studies — Polluting air and water |
+| 21110 | pictures/21110.webp | a soil profile thinning, roots exposed | Social Studies — Losing the topsoil |
+| 21111 | pictures/21111.gif | rain washing a topsoil layer away | Social Studies — Losing the topsoil |
+| 21112 | pictures/21112.webp | terraces and a closed, regreening hillside | Social Studies — Holding the soil — conservation toolkit |
+| 21113 | pictures/21113.webp | a queue at a protected spring versus a drying unprotected source | Social Studies — Why clean water runs short |
+| 21114 | pictures/21114.webp | a forest-cover shrinking chart from the 1950s to the 1980s and beyond | Social Studies — Growth eating the forest |
+| 21115 | pictures/21115.gif | the green forest area shrinking on a map of Ethiopia | Social Studies — Growth eating the forest |
+| 21116 | pictures/21116.webp | a real garden photographed from above beside its map | Social Studies — What a map is |
+| 21117 | pictures/21117.gif | the view tilting from ground level to bird’s-eye | Social Studies — What a map is |
+| 21118 | pictures/21118.webp | a sketch route map beside a modern topographic sheet | Social Studies — Maps through history |
+| 21119 | pictures/21119.webp | one map used four ways, in four panels | Social Studies — Four things maps let you do |
+| 21120 | pictures/21120.webp | a full map with all components labelled around its margins | Social Studies — Parts every map must have |
+| 21121 | pictures/21121.webp | the same town at three scales | Social Studies — Scale — how much smaller the map is |
+| 21122 | pictures/21122.gif | zooming out through the three scales | Social Studies — Scale — how much smaller the map is |
+| 21123 | pictures/21123.webp | one scale shown as words, fraction and bar together | Social Studies — Saying scale three ways — and converting |
+| 21124 | pictures/21124.webp | a ruler laid between two towns on a map | Social Studies — Measuring straight distances on a map |
+| 21125 | pictures/21125.webp | a string laid along a winding river, then straightened against a ruler | Social Studies — Measuring winding distances — string method |
+| 21126 | pictures/21126.gif | the string tracing the curve, then lifting straight | Social Studies — Measuring winding distances — string method |
+| 21127 | pictures/21127.webp | a rectangular field on a map with its sides measured | Social Studies — Areas of regular shapes on maps |
+| 21128 | pictures/21128.webp | a lake under a grid, squares being counted and shaded | Social Studies — Areas of irregular shapes — counting squares |
+| 21129 | pictures/21129.gif | squares filling the lake shape one by one | Social Studies — Areas of irregular shapes — counting squares |
+| 21130 | pictures/21130.webp | a graticule with one point’s two lines highlighted | Social Studies — Locating by latitude and longitude |
+| 21131 | pictures/21131.webp | a grid square highlighted by its easting and northing pair | Social Studies — Four-figure grid references |
+| 21132 | pictures/21132.gif | the reading finger moving right along the corridor, then up | Social Studies — Four-figure grid references |
+| 21133 | pictures/21133.webp | one grid square magnified into tenths with a point pinned | Social Studies — Six-figure grid references |
+| 21134 | pictures/21134.webp | a sixteen-point compass rose over a map | Social Studies — Compass points — direction on a map |
+| 21135 | pictures/21135.webp | three north arrows fanning from one point, slightly apart | Social Studies — True, magnetic and grid north — and bearings |
+| 21136 | pictures/21136.webp | a hand-drawn school-compound sketch beside the real compound plan | Social Studies — Drawing a sketch map |
+| 21137 | pictures/21137.gif | a sketch map being drawn feature by feature | Social Studies — Drawing a sketch map |
+| 21138 | pictures/21138.webp | a symbol sheet | Social Studies — Reading map symbols |
+| 21139 | pictures/21139.webp | a contour map beside the hills it describes | Social Studies — Reading a landscape from its map |
+| 21140 | pictures/21140.webp | a table becoming a line graph | Social Studies — Drawing line graphs |
+| 21141 | pictures/21141.gif | points plotting, then joining into a line | Social Studies — Drawing line graphs |
+| 21142 | pictures/21142.webp | Kokosa’s rainfall bars beside an export pie chart | Social Studies — Bar graphs and pie charts |
+| 21143 | pictures/21143.gif | rainfall bars growing month by month | Social Studies — Bar graphs and pie charts |
+| 22000 | pictures/22000.webp | split scene | Physics — Physics in everyday life and society (drawn render: panels) |
+| 22001 | pictures/22001.webp | society meeting/conference scene with the EPS | Physics — Physics communities |
+| 22002 | pictures/22002.webp | panels | Physics — Where physics knowledge comes from (drawn render: panels) |
+| 22003 | pictures/22003.webp | simple experiment beside the model drawn | Physics — Experiments, models and theories (drawn render: panels) |
+| 22004 | pictures/22004.webp | career wheel around a physics graduate | Physics — Careers that use physics (drawn render: panels) |
+| 22005 | pictures/22005.webp | news-wall of the six discoveries with | Physics — Physics today |
+| 22006 | pictures/22006.webp | JWST beside the Ethiopian Science and | Physics — New telescopes |
+| 22007 | pictures/22007.webp | speedometer reading (scalar) beside a wind | Physics — Scalars and vectors (drawn render: vector) |
+| 22008 | pictures/22008.webp | arrows joined head-to-tail with the resultant | Physics — Adding vectors with drawings (drawn render: vector) |
+| 22009 | pictures/22009.webp | walker's three-leg path with the straight-line | Physics — Subtracting vectors graphically (drawn render: graph) |
+| 22010 | pictures/22010.webp | slanted arrow with its horizontal and | Physics — Splitting a vector into components (drawn render: vector) |
+| 22011 | pictures/22011.webp | xy-plane with i and j arrows | Physics — Unit vectors |
+| 22012 | pictures/22012.webp | vectors' component table adding row by | Physics — Adding vectors algebraically (drawn render: vector) |
+| 22013 | pictures/22013.webp | arrows with the angle between them | Physics — The dot product (drawn render: vector) |
+| 22014 | pictures/22014.webp | arrows on a table with a | Physics — The cross product (drawn render: vector) |
+| 22015 | pictures/22015.webp | car with velocity and acceleration arrows | Physics — Acceleration |
+| 22016 | pictures/22016.webp | ramp with a rolling ball and | Physics — Experiment: acceleration down a slope (drawn render: panels) |
+| 22017 | pictures/22017.webp | five equations as five cards | Physics — The five motion equations (drawn render: panels) |
+| 22018 | pictures/22018.webp | s–t curves | Physics — Reading displacement–time graphs (drawn render: graph) |
+| 22019 | pictures/22019.webp | v–t graph with its area shaded | Physics — Reading velocity–time graphs (drawn render: graph) |
+| 22020 | pictures/22020.webp | ball at five instants on the | Physics — Falling and thrown objects (drawn render: arcfixed) |
+| 22021 | pictures/22021.webp | falling ball beside a ruler and | Physics — Experiment: measure the acceleration of gravity (drawn render: arcfixed) |
+| 22022 | pictures/22022.webp | feather and a stone falling together | Physics — Free fall |
+| 22023 | pictures/22023.webp | merry-go-round with the angle swept marked | Physics — Going round in circles |
+| 22024 | pictures/22024.webp | velocity arrows at two points of | Physics — Centripetal acceleration |
+| 22025 | pictures/22025.webp | child on a merry-go-round with the | Physics — Centripetal force |
+| 22026 | pictures/22026.webp | swinging mass tracing a cone with | Physics — The conical pendulum (drawn render: circle) |
+| 22027 | pictures/22027.webp | passenger lurching forward as a car | Physics — Force and inertia |
+| 22028 | pictures/22028.webp | same push applied to a light | Physics — Newton's second law |
+| 22029 | pictures/22029.webp | book on a table with the | Physics — Action and reaction |
+| 22030 | pictures/22030.webp | incline block with its free-body diagram | Physics — Solving problems with Newton's laws (drawn render: panels) |
+| 22031 | pictures/22031.webp | block being pushed harder and harder | Physics — Friction |
+| 22032 | pictures/22032.webp | block | Physics — Experiment: find the coefficient of friction (drawn render: panels) |
+| 22033 | pictures/22033.webp | hanging sign held by two angled | Physics — Equilibrium |
+| 22034 | pictures/22034.webp | person pulling a load with a | Physics — Work |
+| 22035 | pictures/22035.webp | ball at a hilltop (PE) and | Physics — Kinetic and potential energy (drawn render: panels) |
+| 22036 | pictures/22036.webp | workers raising the same load | Physics — Work–energy theorem; power (drawn render: panels) |
+| 22037 | pictures/22037.webp | curved frictionless track with energy bars | Physics — Conservation of energy |
+| 22038 | pictures/22038.webp | force–time graph with the area shaded | Physics — Momentum and impulse (drawn render: graph) |
+| 22039 | pictures/22039.webp | pistol recoiling as its bullet leaves | Physics — Conservation of momentum (drawn render: panels) |
+| 22040 | pictures/22040.webp | carts bouncing apart beside two carts | Physics — Collisions |
+| 22041 | pictures/22041.webp | bullet striking a hanging block and | Physics — The ballistic pendulum (drawn render: circle) |
+| 22042 | pictures/22042.webp | flipped bat with its wobbling path | Physics — Centre of mass (drawn render: panels) |
+| 22043 | pictures/22043.webp | hot and a cold body touching | Physics — What heat is (drawn render: fluid) |
+| 22044 | pictures/22044.webp | metal rod over a flame with | Physics — Conduction |
+| 22045 | pictures/22045.webp | pan of water with circulating arrows | Physics — Convection |
+| 22046 | pictures/22046.webp | Sun's rays crossing empty space to | Physics — Radiation |
+| 22047 | pictures/22047.webp | equal flames under equal masses of | Physics — Specific heat capacity (drawn render: heat) |
+| 22048 | pictures/22048.webp | railway gap open in the morning | Physics — Thermal expansion |
+| 22049 | pictures/22049.webp | frozen lake cross-section with fish alive | Physics — Expansion of liquids; water's strange 0–4 °C behaviour (drawn render: fluid) |
+| 22050 | pictures/22050.webp | heating curve with plateaus at melting | Physics — Changes of state (drawn render: graph) |
+| 22051 | pictures/22051.webp | steam condensing on a cool lid | Physics — Latent heat |
+| 22052 | pictures/22052.webp | calorimeter cup with thermometer | Physics — Calorimetry |
+| 22053 | pictures/22053.webp | charged spheres | Physics — Electric charge and Coulomb's law (drawn render: efield) |
+| 22054 | pictures/22054.webp | field-line patterns for a single charge | Physics — Electric fields and field lines (drawn render: efield) |
+| 22055 | pictures/22055.webp | contour-like equipotential rings around a charge | Physics — Electric potential (drawn render: efield) |
+| 22056 | pictures/22056.webp | electrons drifting slowly through a wire | Physics — Current, voltage and resistance (drawn render: lattice) |
+| 22057 | pictures/22057.webp | straight and curved current–voltage graphs side | Physics — Ohm's law (drawn render: graph) |
+| 22058 | pictures/22058.webp | lamp circuits | Physics — Resistors in series and parallel (drawn render: circuit) |
+| 22059 | pictures/22059.webp | circuit board with ammeter and voltmeter | Physics — Experiment: series vs parallel circuits (drawn render: circuit) |
+| 22060 | pictures/22060.webp | circuit drawn right and wrong for | Physics — Ammeters and voltmeters |
+| 22061 | pictures/22061.webp | galvanometer with its shunt resistor drawn | Physics — Turning a galvanometer into an ammeter or voltmeter (drawn render: circuit) |
+| 22062 | pictures/22062.webp | long wire | Physics — The potentiometer |
+| 22063 | pictures/22063.webp | diamond-shaped bridge circuit with its centre | Physics — The Wheatstone bridge (drawn render: bridge) |
+| 22064 | pictures/22064.webp | three lamp types with their wattages | Physics — Electrical power; which lamp is efficient (drawn render: panels) |
+| 22065 | pictures/22065.webp | two-loop circuit with branch currents labelled | Physics — Kirchhoff's rules |
+| 22066 | pictures/22066.webp | parallel-plate capacitor charging | Physics — Capacitors |
+| 22067 | pictures/22067.webp | dielectric slab half-slid into a capacitor | Physics — Dielectrics |
+| 22068 | pictures/22068.webp | capacitor network being reduced step by | Physics — Capacitor networks and stored energy (drawn render: plates) |
+| 22069 | pictures/22069.webp | home wiring diagram with parallel branches | Physics — Household circuits; reading resistor colour codes (drawn render: circuit) |
+| 22070 | pictures/22070.webp | nucleus of clustered protons and neutrons | Physics — Inside the nucleus (drawn render: nucleus) |
+| 22071 | pictures/22071.webp | alpha particles scattering off a gold | Physics — Discovering the nucleus |
+| 22072 | pictures/22072.webp | protons pushed apart by repulsion but | Physics — The strong force |
+| 22073 | pictures/22073.webp | separate nucleons on one scale pan | Physics — Binding energy and mass defect (drawn render: nucleus) |
+| 22074 | pictures/22074.webp | nucleus emitting each radiation type in | Physics — Three kinds of radiation |
+| 22075 | pictures/22075.webp | Geiger counter near a sample | Physics — Dose and detectors |
+| 22076 | pictures/22076.webp | halving staircase | Physics — Half-life and the decay law (drawn render: nucleus) |
+| 22077 | pictures/22077.webp | tracer's path glowing through a plant's | Physics — Radiation at work |
+| 22078 | pictures/22078.webp | neutron entering a uranium nucleus and | Physics — Fission |
+| 22079 | pictures/22079.webp | light nuclei merging with an energy | Physics — Fusion |
+| 22080 | pictures/22080.webp | time–distance–shielding trio as three icons | Physics — Staying safe around radiation (drawn render: nucleus) |
+| 22081 | pictures/22081.webp | molecule with its spectrum beside it | Physics — Physics and chemistry |
+| 22082 | pictures/22082.webp | book's two figures | Physics — Balance and movement |
+| 22083 | pictures/22083.webp | small panels | Physics — Blood, voice and eye |
+| 22084 | pictures/22084.webp | starlight passing through a prism into | Physics — Reading the stars with physics (drawn render: wave) |
+| 22085 | pictures/22085.webp | seismic waves bouncing off layers underground | Physics — Physics that reads the Earth (drawn render: wave) |
+| 22086 | pictures/22086.webp | obelisk | Physics — Engineering |
+| 22087 | pictures/22087.webp | telescope and a particle detector feeding | Physics — How technology creates new physics (drawn render: graph) |
+| 22088 | pictures/22088.webp | Roentgen's hand X-ray beside a modern | Physics — Seeing inside the body |
+| 22089 | pictures/22089.webp | ultrasound probe and the grainy image | Physics — Ultrasound and radiation therapy (drawn render: wave) |
+| 22090 | pictures/22090.webp | radar dish sweeping with a returning | Physics — Radar |
+| 22091 | pictures/22091.webp | night-vision view of a warm person | Physics — Missiles and night vision (drawn render: panels) |
+| 22092 | pictures/22092.webp | message travelling three ways | Physics — Communication |
+| 22093 | pictures/22093.webp | ball's arc with equal-spaced dots bunching | Physics — Projectile motion |
+| 22094 | pictures/22094.webp | package falling from a moving plane | Physics — Projectiles launched horizontally (drawn render: arcfixed) |
+| 22095 | pictures/22095.webp | launches from one cliff | Physics — Time of flight and range (drawn render: arcfixed) |
+| 22096 | pictures/22096.webp | arc with velocity arrows shrinking upward-component | Physics — Projectiles launched at an angle (drawn render: vector) |
+| 22097 | pictures/22097.webp | arcs at 30° | Physics — How far, how high |
+| 22098 | pictures/22098.webp | wheel with the swept angle and | Physics — Describing rotation |
+| 22099 | pictures/22099.webp | linear and angular equation sets as | Physics — The rotational motion equations (drawn render: circle) |
+| 22100 | pictures/22100.webp | points on one wheel | Physics — From spin to speed |
+| 22101 | pictures/22101.webp | spanner turning a nut | Physics — Torque |
+| 22102 | pictures/22102.webp | same mass near and far from | Physics — Moment of inertia |
+| 22103 | pictures/22103.webp | F = ma and τ = | Physics — τ = Iα |
+| 22104 | pictures/22104.webp | ellipse with the Sun at one | Physics — Kepler's first law |
+| 22105 | pictures/22105.webp | equal-area slices of one orbit | Physics — Kepler's second and third laws (drawn render: orbit) |
+| 22106 | pictures/22106.webp | masses with attraction arrows quadrupling as | Physics — Universal gravitation (drawn render: orbit) |
+| 22107 | pictures/22107.webp | planet circling with gravity and velocity | Physics — Orbits |
+| 22108 | pictures/22108.webp | particle diagrams of the three states | Physics — Fluids |
+| 22109 | pictures/22109.webp | stiletto heel and a snowshoe on | Physics — Pressure |
+| 22110 | pictures/22110.webp | tyre gauge reading with the atmospheric | Physics — Absolute and gauge pressure (drawn render: fluid) |
+| 22111 | pictures/22111.webp | equal-sized cubes of different materials on | Physics — Density (drawn render: fluid) |
+| 22112 | pictures/22112.webp | classroom with its invisible 100-plus kg | Physics — The ideal gas law |
+| 22113 | pictures/22113.webp | small piston pushed down | Physics — Pascal's principle |
+| 22114 | pictures/22114.webp | diver with pressure arrows growing as | Physics — Pressure under water |
+| 22115 | pictures/22115.webp | crushed bottle after hot water cools | Physics — Air pressure around us (drawn render: fluid) |
+| 22116 | pictures/22116.webp | U-tube manometer with uneven levels labelled | Physics — Barometers and manometers (drawn render: fluid) |
+| 22117 | pictures/22117.webp | submerged block with bigger pressure arrows | Physics — Archimedes' principle |
+| 22118 | pictures/22118.webp | steel ship floating high with its | Physics — Why ships float (drawn render: fluid) |
+| 22119 | pictures/22119.webp | smooth parallel streamlines beside chaotic turbulent | Physics — Flow rate and kinds of flow (drawn render: fluid) |
+| 22120 | pictures/22120.webp | pipe narrowing with speed arrows lengthening | Physics — Continuity |
+| 22121 | pictures/22121.webp | gas cylinder chained upright with its | Physics — High pressure |
+| 22122 | pictures/22122.webp | bar magnet sawn in half producing | Physics — Magnets and the Earth's field (drawn render: field) |
+| 22123 | pictures/22123.webp | line pattern for a bar magnet | Physics — Magnetic field lines (drawn render: field) |
+| 22124 | pictures/22124.webp | wire with circular field rings and | Physics — A current makes a magnetic field (drawn render: field) |
+| 22125 | pictures/22125.webp | coil-wrapped nail lifting paper clips | Physics — Make an electromagnet (drawn render: field) |
+| 22126 | pictures/22126.webp | magnet plunging into a coil with | Physics — Electromagnetic induction |
+| 22127 | pictures/22127.webp | loop tilted at three angles to | Physics — Magnetic flux |
+| 22128 | pictures/22128.webp | magnet approaching a coil whose induced | Physics — Faraday's law; Lenz's law (drawn render: field) |
+| 22129 | pictures/22129.webp | iron core with few primary turns | Physics — Transformers |
+| 22130 | pictures/22130.webp | motor and a generator side by | Physics — Motors and generators (drawn render: field) |
+| 22131 | pictures/22131.webp | silicon lattice diagram with one bond | Physics — Semiconductors |
+| 22132 | pictures/22132.webp | lattices | Physics — Doping |
+| 22133 | pictures/22133.webp | P and N blocks joined | Physics — The diode |
+| 22134 | pictures/22134.webp | I–V curve with its flat reverse | Physics — Forward and reverse bias (drawn render: graph) |
+| 22135 | pictures/22135.webp | sine wave with its lower half | Physics — Half-wave rectification (drawn render: wave) |
+| 22136 | pictures/22136.webp | bridge diamond with current paths for | Physics — Full-wave bridge rectifier (drawn render: bridge) |
+| 22137 | pictures/22137.webp | LED glowing and a photodiode drinking | Physics — LEDs and photodiodes (drawn render: lattice) |
+| 22138 | pictures/22138.webp | NPN and PNP layer diagrams with | Physics — The transistor |
+| 22139 | pictures/22139.webp | small tap (base) controlling a big | Physics — How a transistor controls current (drawn render: lattice) |
+| 22140 | pictures/22140.webp | three configurations as three circuit sketches | Physics — Transistor configurations; beta (drawn render: circuit) |
+| 22141 | pictures/22141.webp | tiny wavy input becoming a big | Physics — Amplifiers and switches (drawn render: lattice) |
+| 22142 | pictures/22142.webp | chip with its pins beside a | Physics — Integrated circuits |
+| 22143 | pictures/22143.webp | smooth wave beside a square wave | Physics — Analog vs digital (drawn render: wave) |
+| 22144 | pictures/22144.webp | parallel switches and one lamp | Physics — Logic gates |
+| 22145 | pictures/22145.webp | series switches and one lamp | Physics — Logic gates |
+| 22146 | pictures/22146.webp | switch wired so the lamp is | Physics — Logic gates |
+| 22147 | pictures/22147.webp | AND gate with a NOT bubble | Physics — Logic gates |
+| 22148 | pictures/22148.webp | drone over a farm with soil | Physics — Electronics in daily life (drawn render: panels) |
+| 22149 | pictures/22149.webp | pupil-built circuit on a bench with | Physics — Project: build a half-wave rectifier (drawn render: circuit) |
+| 22150 | pictures/22150.gif | an arrow growing longer and swinging direction | Physics — Scalars and vectors |
+| 22151 | pictures/22151.gif | the angle opening from 0° to 180° | Physics — The dot product |
+| 22152 | pictures/22152.gif | fingers curling from the first vector to | Physics — The cross product |
+| 22153 | pictures/22153.gif | a dot moving along a track while | Physics — Reading displacement–time graphs |
+| 22154 | pictures/22154.gif | the area under a v–t curve filling | Physics — Reading velocity–time graphs |
+| 22155 | pictures/22155.gif | the two objects falling side by side | Physics — Free fall |
+| 22156 | pictures/22156.gif | a point circling at steady rate while | Physics — Going round in circles |
+| 22157 | pictures/22157.gif | the velocity arrow rotating as the object | Physics — Centripetal acceleration |
+| 22158 | pictures/22158.gif | a ball on a string circling | Physics — Centripetal force |
+| 22159 | pictures/22159.gif | the pendulum mass circling while its string | Physics — The conical pendulum |
+| 22160 | pictures/22160.gif | a tennis ball squashing against a racket | Physics — Momentum and impulse |
+| 22161 | pictures/22161.gif | the recoil | Physics — Conservation of momentum |
+| 22162 | pictures/22162.gif | the strike-and-swing in one motion | Physics — The ballistic pendulum |
+| 22163 | pictures/22163.gif | the bat tumbling while a dot on | Physics — Centre of mass |
+| 22164 | pictures/22164.gif | the circulation loop running continuously | Physics — Convection |
+| 22165 | pictures/22165.gif | the two thermometers racing at different speeds | Physics — Specific heat capacity |
+| 22166 | pictures/22166.gif | the bimetallic strip curling as it heats | Physics — Thermal expansion |
+| 22167 | pictures/22167.gif | the thermometer needle climbing then settling | Physics — Calorimetry |
+| 22168 | pictures/22168.gif | the spheres separating and the force arrows | Physics — Electric charge and Coulomb's law |
+| 22169 | pictures/22169.gif | a test charge drifting along a field | Physics — Electric fields and field lines |
+| 22170 | pictures/22170.gif | the slow electron drift against the instant | Physics — Current, voltage and resistance |
+| 22171 | pictures/22171.gif | the needle swinging to zero as the | Physics — The Wheatstone bridge |
+| 22172 | pictures/22172.gif | current arrows splitting at a junction and | Physics — Kirchhoff's rules |
+| 22173 | pictures/22173.gif | charge accumulating on the plates as the | Physics — Capacitors |
+| 22174 | pictures/22174.gif | particles streaming at the foil | Physics — Discovering the nucleus |
+| 22175 | pictures/22175.gif | an alpha particle leaving and the nucleus | Physics — Three kinds of radiation |
+| 22176 | pictures/22176.gif | a crowd of nuclei randomly flashing out | Physics — Half-life and the decay law |
+| 22177 | pictures/22177.gif | the split | Physics — Fission |
+| 22178 | pictures/22178.gif | the two nuclei approaching | Physics — Fusion |
+| 22179 | pictures/22179.gif | the vocal cords vibrating as air passes | Physics — Blood, voice and eye |
+| 22180 | pictures/22180.gif | sound pulses bouncing back from layers to | Physics — Ultrasound and radiation therapy |
+| 22181 | pictures/22181.gif | the pulse going out | Physics — Radar |
+| 22182 | pictures/22182.gif | light pulses bouncing down a fiber | Physics — Communication |
+| 22183 | pictures/22183.gif | a dropped ball and a horizontally thrown | Physics — Projectile motion |
+| 22184 | pictures/22184.gif | the package keeping pace under the plane | Physics — Projectiles launched horizontally |
+| 22185 | pictures/22185.gif | the launch angle sweeping and the arc | Physics — How far, how high |
+| 22186 | pictures/22186.gif | fingers curling with the wheel while the | Physics — Describing rotation |
+| 22187 | pictures/22187.gif | the wheel spinning with both arrows growing | Physics — From spin to speed |
+| 22188 | pictures/22188.gif | a skater pulling her arms in and | Physics — Moment of inertia |
+| 22189 | pictures/22189.gif | the masses approaching and the force arrows | Physics — Universal gravitation |
+| 22190 | pictures/22190.gif | the planet perpetually falling around the Earth | Physics — Orbits |
+| 22191 | pictures/22191.gif | the compass needle swinging as the current | Physics — A current makes a magnetic field |
+| 22192 | pictures/22192.gif | the loop tilting and the lines through | Physics — Magnetic flux |
+| 22193 | pictures/22193.gif | a coil spinning between magnet poles while | Physics — Motors and generators |
+| 22194 | pictures/22194.gif | the output trace drawing only the top | Physics — Half-wave rectification |
+| 22195 | pictures/22195.gif | alternate diode pairs lighting as the input | Physics — Full-wave bridge rectifier |
+| 22196 | pictures/22196.gif | either switch closing and the lamp lighting | Physics — Logic gates |
+| 22197 | pictures/22197.gif | the lamp lighting only when the second | Physics — Logic gates |
+| 21916 | pictures/21916.webp | wire through card, compasses circling it; solenoid with bar-magnet-like poles | Physics — A current makes a magnetic field |
+| 21917 | pictures/21917.gif | compass needles flipping into circles when the current switches on | Physics — A current makes a magnetic field |
+| 21881 | pictures/21881.webp | falling ball photographed at equal time flashes, gaps growing | Physics — Acceleration — steady change of velocity |
+| 21882 | pictures/21882.gif | strobe fall — gaps widening flash by flash | Physics — Acceleration — steady change of velocity |
+| 21818 | pictures/21818.webp | cart with velocity arrows growing longer each second | Physics — Acceleration — velocity changing |
+| 21819 | pictures/21819.gif | cart speeding up, velocity arrows growing frame by frame | Physics — Acceleration — velocity changing |
+| 21940 | pictures/21940.webp | stage lights mixing to white on one side; stacked filters darkening to black on the other | Physics — Adding light, subtracting light — colour mixing |
+| 21941 | pictures/21941.gif | three lights fading up into white, then filters stacking into darkness | Physics — Adding light, subtracting light — colour mixing |
+| 21876 | pictures/21876.webp | same two vectors added by both constructions, same resultant | Physics — Adding vectors by drawing — triangle and parallelogram |
+| 21877 | pictures/21877.gif | second arrow sliding nose-to-tail into place | Physics — Adding vectors by drawing — triangle and parallelogram |
+| 21875 | pictures/21875.webp | two arrows nose-to-tail on one line making one longer or shorter arrow | Physics — Adding and subtracting vectors in a line |
+| 21907 | pictures/21907.webp | circuit with both meters correctly placed, ticked; the swapped version crossed | Physics — Ammeter in series, voltmeter in parallel |
+| 21816 | pictures/21816.webp | car journey timeline with one overall average and a speedometer snapshot | Physics — Average speed and instantaneous speed |
+| 21817 | pictures/21817.webp | out-and-back journey with the displacement arrow shrinking to zero; position–time graph with chord and tangent | Physics — Average velocity and instantaneous velocity |
+| 21870 | pictures/21870.webp | three scales as parallel thermometers with ice and steam points aligned | Physics — Converting Celsius, Fahrenheit and Kelvin |
+| 21813 | pictures/21813.webp | one length as a chain — km → m → cm → mm — with × and ÷ factors on the arrows | Physics — Converting units |
+| 21901 | pictures/21901.webp | two charges with force arrows growing and shrinking as distance changes | Physics — Coulomb's law — how strong the charge force is |
+| 21905 | pictures/21905.webp | circuit with current, voltage and resistance labelled; birds safe on one wire | Physics — Current, voltage, resistance — Ohm's law |
+| 21890 | pictures/21890.webp | rock, wood and oil meeting one tank of water, each finding its level | Physics — Density and specific gravity |
+| 21899 | pictures/21899.webp | cloud-to-ground lightning path beside a building's lightning rod and earth wire | Physics — Discharge, lightning and grounding |
+| 21900 | pictures/21900.gif | charge building in a cloud, then flashing down | Physics — Discharge, lightning and grounding |
+| 21814 | pictures/21814.webp | winding path and a straight arrow between the same start and finish — distance vs displacement | Physics — Distance and displacement |
+| 21815 | pictures/21815.gif | walker tracing the winding path while the displacement arrow draws itself straight | Physics — Distance and displacement |
+| 21874 | pictures/21874.webp | one force drawn three ways — freehand, to scale, with its bearing marked | Physics — Drawing vectors — arrows with scale and direction |
+| 21914 | pictures/21914.webp | Earth with field lines and a compass needle aligning to them | Physics — Earth the magnet — and the compass |
+| 21915 | pictures/21915.gif | compass needle swinging, then settling north | Physics — Earth the magnet — and the compass |
+| 21888 | pictures/21888.webp | spring recovering and a clay strip staying bent, side by side | Physics — Elasticity and plasticity — bounce back or stay bent |
+| 21889 | pictures/21889.gif | spring stretching and springing back while clay stays bent | Physics — Elasticity and plasticity — bounce back or stay bent |
+| 21894 | pictures/21894.webp | neutral atom's equal +/− counts, then one electron leaving | Physics — Electric charge — two kinds, conserved |
+| 21903 | pictures/21903.webp | real battery-bulb-wire loop beside its symbol diagram | Physics — Electric circuits — the complete loop |
+| 21904 | pictures/21904.gif | break opening and the bulb dying; closing and it lighting | Physics — Electric circuits — the complete loop |
+| 21902 | pictures/21902.webp | field lines radiating from + and into − charges, and the dipole pattern | Physics — Electric fields and field lines |
+| 21908 | pictures/21908.webp | home scene with hazards ringed — wet hands at a switch, frayed cord, overloaded socket | Physics — Electrical safety at home |
+| 21926 | pictures/21926.webp | interlocked electric and magnetic sine waves travelling together | Physics — Electromagnetic waves — light's family |
+| 21927 | pictures/21927.gif | two fields oscillating in step as the wave advances | Physics — Electromagnetic waves — light's family |
+| 21883 | pictures/21883.webp | equation-choice flowchart — what you know, what you want, which equation | Physics — The equations of uniformly accelerated motion |
+| 21920 | pictures/21920.webp | wire between magnet poles kicking sideways when current flows | Physics — Force on a current-carrying wire — the motor effect |
+| 21921 | pictures/21921.gif | wire kicking each time the circuit closes | Physics — Force on a current-carrying wire — the motor effect |
+| 21918 | pictures/21918.webp | charge's path bending sideways as it enters a field region | Physics — Force on a moving charge in a magnetic field |
+| 21919 | pictures/21919.gif | charge's path curving under the sideways force | Physics — Force on a moving charge in a magnetic field |
+| 21831 | pictures/21831.webp | shoe gripping rough ground vs sliding on a smooth floor; car stuck in mud | Physics — Friction — the grip that resists |
+| 21812 | pictures/21812.webp | base-quantity blocks combining into derived-quantity blocks — length × length → area | Physics — Fundamental and derived quantities |
+| 21884 | pictures/21884.webp | one accelerating car with its three graphs stacked and aligned in time | Physics — Graphs of accelerated motion |
+| 21885 | pictures/21885.gif | car accelerating while its velocity–time line climbs in step | Physics — Graphs of accelerated motion |
+| 21822 | pictures/21822.webp | same journey three ways — track, position–time graph, velocity–time graph | Physics — Graphs of motion — reading slopes and areas |
+| 21823 | pictures/21823.gif | moving dot and its graph tracing itself in step | Physics — Graphs of motion — reading slopes and areas |
+| 21855 | pictures/21855.webp | spring stretching in equal steps under equal added masses | Physics — Hooke's law — springs stretch in proportion |
+| 21856 | pictures/21856.gif | pulse travelling along a flicked string | Physics — Hooke's law — springs stretch in proportion |
+| 21803 | pictures/21803.webp | timeline strip of contributor portraits across the centuries | Physics — How physics grew — the people who pushed it |
+| 21857 | pictures/21857.webp | rope wave and a slinky compression wave side by side | Physics — How waves travel — transverse and longitudinal |
+| 21858 | pictures/21858.gif | transverse wave and longitudinal compressions propagating side by side | Physics — How waves travel — transverse and longitudinal |
+| 21844 | pictures/21844.webp | ramp, wedge splitting wood, and a screw unwrapped into its ramp spiral | Physics — Inclined plane, wedge and screw |
+| 21845 | pictures/21845.gif | screw turning and advancing into wood | Physics — Inclined plane, wedge and screw |
+| 21869 | pictures/21869.webp | thermometer family laid out with its jobs captioned | Physics — Kinds of thermometer — which for which job |
+| 21833 | pictures/21833.webp | rolling ball (KE) and a raised stone above a peg (PE) side by side | Physics — Kinetic energy and potential energy |
+| 21834 | pictures/21834.gif | raised stone falling — PE visibly trading into KE | Physics — Kinetic energy and potential energy |
+| 21930 | pictures/21930.webp | ray bouncing off a mirror at equal angles; the same ray scattering off rough paper | Physics — Laws of reflection — mirror bounce and rough scatter |
+| 21935 | pictures/21935.webp | both lens kinds with ray diagrams and image positions | Physics — Lenses — bending light to form images |
+| 21936 | pictures/21936.gif | parallel rays converging through a convex lens to its focus | Physics — Lenses — bending light to form images |
+| 21842 | pictures/21842.webp | three lever classes with F, L, E marked in different orders | Physics — Levers — three classes |
+| 21843 | pictures/21843.gif | seesaw lever lifting a load as the fulcrum position changes the ease | Physics — Levers — three classes |
+| 21929 | pictures/21929.webp | ray from a candle to an eye, straight-line path drawn | Physics — Light — a wave you can see |
+| 21863 | pictures/21863.webp | three waveforms — loud, high-pitched, different timbre — under one ear | Physics — Loudness, pitch and timbre — and noise pollution |
+| 21841 | pictures/21841.webp | machine diagram with load, effort and both travel distances labelled | Physics — MA, VR and efficiency — measuring a machine |
+| 21912 | pictures/21912.webp | iron filings around a bar magnet forming the field pattern | Physics — Magnetic fields — drawing the invisible |
+| 21913 | pictures/21913.gif | filings scattering, then aligning as the magnet slides under the card | Physics — Magnetic fields — drawing the invisible |
+| 21924 | pictures/21924.webp | motor cutaway with magnet and coil labelled | Physics — Magnetism at work — applications |
+| 21925 | pictures/21925.gif | simple motor coil spinning between poles | Physics — Magnetism at work — applications |
+| 21911 | pictures/21911.webp | bar magnet being sawn in half, each half growing its own N and S | Physics — Magnets — poles and properties |
+| 21808 | pictures/21808.webp | tape, ruler and a caliper-style instrument each measuring a different object | Physics — Measuring length |
+| 21809 | pictures/21809.webp | beam balance beside shop scales; sundial beside a stopwatch | Physics — Measuring mass and time |
+| 21810 | pictures/21810.gif | beam balance settling level as the masses balance | Physics — Measuring mass and time |
+| 21938 | pictures/21938.webp | compound microscope and refracting telescope, ray paths drawn through both | Physics — Microscopes and telescopes |
+| 21933 | pictures/21933.webp | ray diagrams for the three mirrors with the same object | Physics — Mirrors — plane, concave, convex |
+| 21934 | pictures/21934.gif | object sliding toward a concave mirror while its image flips and grows | Physics — Mirrors — plane, concave, convex |
+| 21840 | pictures/21840.webp | three panels — big load small movement; small load big movement; effort down, load up | Physics — Multipliers and direction changers |
+| 21826 | pictures/21826.webp | passenger lurching forward as a car brakes | Physics — Newton's first law — inertia |
+| 21827 | pictures/21827.gif | car braking — the passenger lurches forward | Physics — Newton's first law — inertia |
+| 21828 | pictures/21828.webp | same push on a light and a heavy cart, accelerations compared | Physics — Newton's second law — force, mass, acceleration |
+| 21829 | pictures/21829.gif | two carts, one push — the light cart speeds up more | Physics — Newton's second law — force, mass, acceleration |
+| 21830 | pictures/21830.webp | hand on a wall with two equal opposite arrows | Physics — Newton's third law — action and reaction |
+| 21853 | pictures/21853.webp | swinging pendulum and a bouncing mass on a spring, timers beside both | Physics — Pendulum and spring — timing oscillations |
+| 21854 | pictures/21854.gif | pendulum swinging and spring bouncing side by side | Physics — Pendulum and spring — timing oscillations |
+| 21802 | pictures/21802.webp | physics as foundations under houses labelled chemistry, medicine, engineering, geology | Physics — Physics inside other subjects |
+| 21880 | pictures/21880.webp | one moving car located from two different origins | Physics — Position and displacement — with a frame of reference |
+| 21835 | pictures/21835.webp | two pupils carrying the same load upstairs — one running, one walking, with a clock | Physics — Power — how fast work is done |
+| 21807 | pictures/21807.webp | prefix ladder from pico to tera with a familiar object on each rung | Physics — Prefixes, scientific notation and significant figures |
+| 21909 | pictures/21909.webp | both finished circuits lit, side by side | Physics — Project: build series and parallel lamp circuits |
+| 21910 | pictures/21910.gif | series lamp unscrewed and both die, vs parallel lamp unscrewed and the other stays lit | Physics — Project: build series and parallel lamp circuits |
+| 21850 | pictures/21850.webp | pupil-made machine sketch beside the built version | Physics — Project: design your own simple machine |
+| 21848 | pictures/21848.webp | three pulley setups lifting the same load with different efforts | Physics — Pulleys — fixed, movable, compound |
+| 21849 | pictures/21849.gif | movable pulley rising as the rope is pulled | Physics — Pulleys — fixed, movable, compound |
+| 21804 | pictures/21804.webp | ruler scale zoomed — the estimated last digit sits between two marks | Physics — Reading a measuring scale |
+| 21805 | pictures/21805.gif | pointer creeping between two marks while the estimated digit appears | Physics — Reading a measuring scale |
+| 21939 | pictures/21939.webp | three overlapping light circles making white in the middle | Physics — Red, green, blue — how eyes build colour |
+| 21931 | pictures/21931.webp | ray bending into water, then trapped bouncing inside a glass block and fibre | Physics — Refraction and total internal reflection |
+| 21932 | pictures/21932.gif | ray's bending changing as its angle grows until it reflects internally | Physics — Refraction and total internal reflection |
+| 21886 | pictures/21886.webp | two cars passing, with the closing speed each driver sees | Physics — Relative velocity — motion seen by a moving observer |
+| 21887 | pictures/21887.gif | viewpoint switching from roadside to inside one car as the other passes | Physics — Relative velocity — motion seen by a moving observer |
+| 21906 | pictures/21906.webp | two lamps in series vs parallel, brightness compared | Physics — Resistors in series and parallel |
+| 21873 | pictures/21873.webp | two sorting trays — numbers-only quantities vs arrow quantities | Physics — Scalars and vectors |
+| 21837 | pictures/21837.webp | kitchen scene with machines ringed — knife, scissors, bottle opener, broom | Physics — Simple machines at home |
+| 21838 | pictures/21838.webp | farm and workshop scene with machines ringed — hoe, axe, crowbar, wheelbarrow | Physics — Simple machines at work |
+| 21836 | pictures/21836.webp | ramp, lever and pulley, each captioned with its purpose | Physics — Simple machines — what they are for |
+| 21859 | pictures/21859.webp | vibrating kirar string with compressions and rarefactions spreading from it | Physics — Sound — a travelling vibration |
+| 21860 | pictures/21860.gif | compressions pulsing outward from a vibrating source | Physics — Sound — a travelling vibration |
+| 21878 | pictures/21878.webp | one diagonal arrow dissolving into its horizontal and vertical partners | Physics — Splitting a vector — components |
+| 21879 | pictures/21879.gif | diagonal arrow projecting its shadows onto both axes | Physics — Splitting a vector — components |
+| 21893 | pictures/21893.webp | ladder against a wall with all forces and moments marked, balanced | Physics — Static equilibrium — balanced forces and balanced turning |
+| 21865 | pictures/21865.webp | temperature danger-band strip with the action for each band | Physics — Staying safe in extreme heat and cold |
+| 21811 | pictures/21811.webp | lab bench with rule icons — no food, wash hands, report accidents | Physics — Staying safe in the physics laboratory |
+| 21891 | pictures/21891.webp | wire under load with force, area, original length and extension labelled | Physics — Stress and strain |
+| 21864 | pictures/21864.webp | one day at three temperatures — cold morning, hot afternoon, fever | Physics — Temperature — how hot, how cold |
+| 21801 | pictures/21801.webp | branch map — one trunk, limbs for mechanics, acoustics, optics, thermodynamics, electromagnetism, nuclear physics | Physics — The branches of physics |
+| 21928 | pictures/21928.webp | spectrum as one long strip, wavelength shrinking left to right, uses and dangers under each band | Physics — The electromagnetic spectrum — uses and dangers |
+| 21897 | pictures/21897.webp | homemade electroscope, leaves apart under a charged rod | Physics — The electroscope — seeing charge |
+| 21898 | pictures/21898.gif | leaves spreading as the charged rod nears | Physics — The electroscope — seeing charge |
+| 21937 | pictures/21937.webp | eye cross-section with rays focusing on, before and behind the retina, plus the correcting lens for each | Physics — The eye — and fixing its focus |
+| 21839 | pictures/21839.webp | six types in a two-family tree; bicycle with component machines labelled | Physics — The six simple machines — and compound machines |
+| 21871 | pictures/21871.webp | metal bar lengthening into an expansion gap; ring whose hole grows on heating | Physics — Thermal expansion — things grow when heated |
+| 21872 | pictures/21872.gif | bimetallic strip curling as it heats | Physics — Thermal expansion — things grow when heated |
+| 21867 | pictures/21867.webp | homemade liquid thermometer beside a laboratory one in the same water bath | Physics — Thermometers and temperature scales — including making your own |
+| 21868 | pictures/21868.gif | liquid column rising as the bath warms | Physics — Thermometers and temperature scales — including making your own |
+| 21895 | pictures/21895.webp | three panels — rubbing, contact, induction — with electron arrows | Physics — Three ways to charge a body |
+| 21896 | pictures/21896.gif | electrons transferring during rubbing and contact | Physics — Three ways to charge a body |
+| 21922 | pictures/21922.webp | two hanging wires bowing toward (same current) and away (opposite) | Physics — Two wires pull or push each other |
+| 21923 | pictures/21923.gif | wires bowing toward each other as currents switch on | Physics — Two wires pull or push each other |
+| 21820 | pictures/21820.webp | equally spaced position dots along a straight track | Physics — Uniform motion |
+| 21821 | pictures/21821.gif | dot marching at perfectly even spacing | Physics — Uniform motion |
+| 21851 | pictures/21851.webp | wave train with crest, trough, wavelength and amplitude all measured | Physics — Wave words — period, frequency, wavelength, amplitude |
+| 21852 | pictures/21852.gif | wave travelling while its wavelength and period are counted off | Physics — Wave words — period, frequency, wavelength, amplitude |
+| 21824 | pictures/21824.webp | push, pull, stretch and squash around one object; spring balance weighing a stone | Physics — What a force is — pushes, pulls and weight |
+| 21825 | pictures/21825.gif | spring stretching under a hanging mass | Physics — What a force is — pushes, pulls and weight |
+| 21800 | pictures/21800.webp | Lalibela church and a smartphone — physics at work in both | Physics — What physics is |
+| 21866 | pictures/21866.webp | heated rail, warming room and rising thermometer in one strip | Physics — What temperature change does |
+| 21846 | pictures/21846.webp | windlass drawing water from a well, wheel and axle labelled | Physics — Wheel and axle |
+| 21847 | pictures/21847.gif | windlass winding rope and raising a bucket | Physics — Wheel and axle |
+| 21861 | pictures/21861.webp | two waves adding into a bigger wave, cancelling, and standing still in a rope | Physics — When waves meet — superposition and standing waves |
+| 21862 | pictures/21862.gif | two wave trains crossing and a standing wave settling | Physics — When waves meet — superposition and standing waves |
+| 21806 | pictures/21806.webp | six different local measures of one object converging into one SI value | Physics — Why measurements need standards — the SI base quantities |
+| 21832 | pictures/21832.webp | pushing a box across the floor (work) vs pushing a wall (no work) | Physics — Work in physics — force times distance |
+| 21892 | pictures/21892.webp | copper and steel wires under the same load stretching by different amounts | Physics — Young's modulus — how stiff a material is |
+| 21512 | pictures/21512.webp | acids properties and behaviour | Chemistry — Acids — properties and behaviour |
+| 21593 | pictures/21593.gif | acids properties and behaviour in motion | Chemistry — Acids — properties and behaviour |
+| 21773 | pictures/21773.webp | The two routes side by side. | Chemistry — Addition vs condensation polymerisation |
+| 21779 | pictures/21779.webp | City air with pollutant sources labelled. | Chemistry — Air pollution |
+| 21685 | pictures/21685.webp | Ethanol hydrogen-bonded in water. | Chemistry — Alcohol properties — hydrogen bonding again |
+| 21691 | pictures/21691.webp | Ethanal and propanone, carbonyls marked. | Chemistry — Aldehydes and ketones — the carbonyl group |
+| 21692 | pictures/21692.webp | A silver-mirror tube beside a negative one. | Chemistry — Aldehydes vs ketones — telling them apart |
+| 21693 | pictures/21693.gif | the silver mirror forming | Chemistry — Aldehydes vs ketones — telling them apart |
+| 21540 | pictures/21540.webp | alkane properties gases liquids and the trend | Chemistry — Alkane properties — gases, liquids and the trend |
+| 21544 | pictures/21544.webp | alkane reactions burning and substitution | Chemistry — Alkane reactions — burning and substitution |
+| 21539 | pictures/21539.webp | alkanes and the homologous series | Chemistry — Alkanes and the homologous series |
+| 21546 | pictures/21546.webp | alkanes at work fuels | Chemistry — Alkanes at work — fuels |
+| 21547 | pictures/21547.webp | alkenes addition across the double bond | Chemistry — Alkenes — addition across the double bond |
+| 21548 | pictures/21548.webp | alkynes ethyne from carbide | Chemistry — Alkynes — ethyne from carbide |
+| 21527 | pictures/21527.webp | alloys mixing metals on purpose | Chemistry — Alloys — mixing metals on purpose |
+| 21528 | pictures/21528.webp | aluminium extraction by electrolysis | Chemistry — Aluminium — extraction by electrolysis |
+| 21751 | pictures/21751.webp | The Haber loop with recycle arrows. | Chemistry — Ammonia — the Haber process |
+| 21752 | pictures/21752.gif | unreacted gases looping back | Chemistry — Ammonia — the Haber process |
+| 21712 | pictures/21712.webp | HCl and NaOH dissolving, ions shown. | Chemistry — Arrhenius acids and bases — and where the idea stops |
+| 21437 | pictures/21437.webp | atomic number and mass number | Chemistry — Atomic number and mass number |
+| 21452 | pictures/21452.webp | atomic radius size trends | Chemistry — Atomic radius — size trends |
+| 21572 | pictures/21572.gif | atomic radius size trends in motion | Chemistry — Atomic radius — size trends |
+| 21439 | pictures/21439.webp | average atomic mass the weighted mean | Chemistry — Average atomic mass — the weighted mean |
+| 21478 | pictures/21478.webp | balancing equations inspection lcm and algebra | Chemistry — Balancing equations — inspection, LCM and algebra |
+| 21583 | pictures/21583.gif | balancing equations inspection lcm and algebra in motion | Chemistry — Balancing equations — inspection, LCM and algebra |
+| 21482 | pictures/21482.webp | balancing redox equations | Chemistry — Balancing redox equations |
+| 21731 | pictures/21731.webp | Two half-equations being combined. | Chemistry — Balancing redox equations |
+| 21514 | pictures/21514.webp | bases properties and behaviour | Chemistry — Bases — properties and behaviour |
+| 21523 | pictures/21523.webp | batteries dry cells and the car battery | Chemistry — Batteries — dry cells and the car battery |
+| 21549 | pictures/21549.webp | benzene kekul s ring and the hybrid | Chemistry — Benzene — Kekulé's ring and the hybrid |
+| 21551 | pictures/21551.webp | benzene reactions substitution not addition | Chemistry — Benzene reactions — substitution, not addition |
+| 21434 | pictures/21434.webp | bohr s model electrons in fixed levels | Chemistry — Bohr's model — electrons in fixed levels |
+| 21570 | pictures/21570.gif | bohr s model electrons in fixed levels in motion | Chemistry — Bohr's model — electrons in fixed levels |
+| 21616 | pictures/21616.webp | Hydrogen levels n=1 to ∞, with jumps. | Chemistry — Bohr's model and hydrogen energy levels |
+| 21617 | pictures/21617.gif | electron jumping levels, photon leaving | Chemistry — Bohr's model and hydrogen energy levels |
+| 21664 | pictures/21664.webp | A heating curve with flat plateaus. | Chemistry — Boiling, vapour pressure and heating curves |
+| 21665 | pictures/21665.gif | temperature pausing while heat flows in | Chemistry — Boiling, vapour pressure and heating curves |
+| 21713 | pictures/21713.webp | A proton passing, both pairs labelled. | Chemistry — Brønsted–Lowry — protons handed over |
+| 21714 | pictures/21714.gif | the proton hopping across | Chemistry — Brønsted–Lowry — protons handed over |
+| 21720 | pictures/21720.webp | A buffer soaking up H⁺ and OH⁻. | Chemistry — Buffers — holding pH steady |
+| 21721 | pictures/21721.gif | acid drops entering, pH needle steady | Chemistry — Buffers — holding pH steady |
+| 21467 | pictures/21467.webp | burning wood a transformation in full | Chemistry — Burning wood — a transformation in full |
+| 21416 | pictures/21416.webp | calculating with significant figures | Chemistry — Calculating with significant figures |
+| 21700 | pictures/21700.webp | Vinegar and soap beside their acids. | Chemistry — Carboxylic acids in daily life |
+| 21694 | pictures/21694.webp | Ethanoic acid with its carboxyl group. | Chemistry — Carboxylic acids — structure and names |
+| 21762 | pictures/21762.webp | A rotating kiln cross-section. | Chemistry — Cement — clinker to concrete |
+| 21763 | pictures/21763.gif | the kiln rotating, material tumbling | Chemistry — Cement — clinker to concrete |
+| 21761 | pictures/21761.webp | Pottery stages, clay to kiln. | Chemistry — Ceramics — from clay to fired ware |
+| 21476 | pictures/21476.webp | chemical reactions reactants become products | Chemistry — Chemical reactions — reactants become products |
+| 21406 | pictures/21406.webp | chemistry in building cement steel glass and the gerd | Chemistry — Chemistry in building — cement, steel, glass and the GERD |
+| 21404 | pictures/21404.webp | chemistry in farming and food | Chemistry — Chemistry in farming and food |
+| 21405 | pictures/21405.webp | chemistry in medicine six kinds of drug | Chemistry — Chemistry in medicine — six kinds of drug |
+| 21403 | pictures/21403.webp | chemistry the central science | Chemistry — Chemistry, the central science |
+| 21536 | pictures/21536.webp | chlorine bleach and disinfectant from brine | Chemistry — Chlorine — bleach and disinfectant from brine |
+| 21786 | pictures/21786.webp | A factory before/after cleaner production. | Chemistry — Cleaner production — Unit 5 review |
+| 21555 | pictures/21555.webp | coal coke coal gas and coal tar | Chemistry — Coal — coke, coal gas and coal tar |
+| 21669 | pictures/21669.webp | Collision diagrams for each factor. | Chemistry — Collision theory — what speeds a reaction up — Unit 4 review |
+| 21670 | pictures/21670.gif | hotter particles colliding harder and oftener | Chemistry — Collision theory — what speeds a reaction up — Unit 4 review |
+| 21506 | pictures/21506.webp | converting concentration units | Chemistry — Converting concentration units |
+| 21463 | pictures/21463.webp | coordinate covalent bonds | Chemistry — Coordinate covalent bonds |
+| 21578 | pictures/21578.gif | coordinate covalent bonds in motion | Chemistry — Coordinate covalent bonds |
+| 21530 | pictures/21530.webp | copper from chalcopyrite to pure wire | Chemistry — Copper — from chalcopyrite to pure wire |
+| 21745 | pictures/21745.webp | A droplet on iron, zones marked. | Chemistry — Corrosion — iron as its own cell |
+| 21746 | pictures/21746.gif | a pit deepening under a droplet | Chemistry — Corrosion — iron as its own cell |
+| 21638 | pictures/21638.webp | One pair, two pairs, three pairs shared. | Chemistry — Covalent bonding and Lewis structures |
+| 21639 | pictures/21639.gif | two atoms' electrons pairing between them | Chemistry — Covalent bonding and Lewis structures |
+| 21460 | pictures/21460.webp | covalent bonding sharing electron pairs | Chemistry — Covalent bonding — sharing electron pairs |
+| 21577 | pictures/21577.gif | covalent bonding sharing electron pairs in motion | Chemistry — Covalent bonding — sharing electron pairs |
+| 21554 | pictures/21554.webp | cracking and what octane number means | Chemistry — Cracking — and what octane number means |
+| 21545 | pictures/21545.webp | cycloalkanes alkanes in rings | Chemistry — Cycloalkanes — alkanes in rings |
+| 21429 | pictures/21429.webp | dalton s atomic theory | Chemistry — Dalton's atomic theory |
+| 21618 | pictures/21618.webp | One electron — particle and wave. | Chemistry — De Broglie — matter waves |
+| 21424 | pictures/21424.webp | democritus atoms and the void | Chemistry — Democritus — atoms and the void |
+| 21566 | pictures/21566.gif | democritus atoms and the void in motion | Chemistry — Democritus — atoms and the void |
+| 21411 | pictures/21411.webp | derived units and density | Chemistry — Derived units and density |
+| 21560 | pictures/21560.gif | derived units and density in motion | Chemistry — Derived units and density |
+| 21657 | pictures/21657.webp | A gas in a piston, four gauges. | Chemistry — Describing a gas — P, V, T, n |
+| 21432 | pictures/21432.webp | discovering the electron cathode rays | Chemistry — Discovering the electron — cathode rays |
+| 21568 | pictures/21568.gif | discovering the electron cathode rays in motion | Chemistry — Discovering the electron — cathode rays |
+| 21435 | pictures/21435.webp | discovering the neutron | Chemistry — Discovering the neutron |
+| 21433 | pictures/21433.webp | discovering the nucleus the gold foil experiment | Chemistry — Discovering the nucleus — the gold-foil experiment |
+| 21569 | pictures/21569.gif | discovering the nucleus the gold foil experiment in motion | Chemistry — Discovering the nucleus — the gold-foil experiment |
+| 21431 | pictures/21431.webp | discovering the proton | Chemistry — Discovering the proton |
+| 21443 | pictures/21443.webp | d bereiner s triads | Chemistry — Döbereiner's triads |
+| 21538 | pictures/21538.webp | drawing organic molecules functional groups | Chemistry — Drawing organic molecules; functional groups |
+| 21673 | pictures/21673.webp | Rate curves meeting and running level. | Chemistry — Dynamic equilibrium |
+| 21674 | pictures/21674.gif | two rates converging to equal | Chemistry — Dynamic equilibrium |
+| 21451 | pictures/21451.webp | effective nuclear charge and shielding | Chemistry — Effective nuclear charge and shielding |
+| 21747 | pictures/21747.webp | A hydrogen–oxygen fuel cell. | Chemistry — Electrochemistry review — including fuel cells |
+| 21739 | pictures/21739.webp | An electroplating bath coating a key. | Chemistry — Electrolysis at work in industry |
+| 21740 | pictures/21740.gif | the coating building up | Chemistry — Electrolysis at work in industry |
+| 21735 | pictures/21735.webp | Brine electrolysis, three products. | Chemistry — Electrolysis case studies |
+| 21736 | pictures/21736.gif | gas bubbles forming at both electrodes | Chemistry — Electrolysis case studies |
+| 21525 | pictures/21525.webp | electrolysis of molten salts and what electrolysis is for | Chemistry — Electrolysis of molten salts — and what electrolysis is for |
+| 21598 | pictures/21598.gif | electrolysis of molten salts and what electrolysis is for in motion | Chemistry — Electrolysis of molten salts — and what electrolysis is for |
+| 21494 | pictures/21494.webp | electrolytes solutions that conduct | Chemistry — Electrolytes — solutions that conduct |
+| 21732 | pictures/21732.webp | A cell with battery, electrodes, ions. | Chemistry — Electrolytic cells — electricity forcing change |
+| 21733 | pictures/21733.gif | ions drifting to opposite electrodes | Chemistry — Electrolytic cells — electricity forcing change |
+| 21524 | pictures/21524.webp | electrolytic cells forcing a reaction with electricity | Chemistry — Electrolytic cells — forcing a reaction with electricity |
+| 21612 | pictures/21612.gif | wave stretching: λ up, ν down | Chemistry — Electromagnetic radiation and the spectrum |
+| 21454 | pictures/21454.webp | electron affinity | Chemistry — Electron affinity |
+| 21440 | pictures/21440.webp | electron configuration filling the shells | Chemistry — Electron configuration — filling the shells |
+| 21571 | pictures/21571.gif | electron configuration filling the shells in motion | Chemistry — Electron configuration — filling the shells |
+| 21448 | pictures/21448.webp | electron configuration sublevel notation | Chemistry — Electron configuration — sublevel notation |
+| 21455 | pictures/21455.webp | electronegativity | Chemistry — Electronegativity |
+| 21485 | pictures/21485.webp | empirical and molecular formulas | Chemistry — Empirical and molecular formulas |
+| 21498 | pictures/21498.webp | energy in dissolving why some mixtures warm or cool | Chemistry — Energy in dissolving — why some mixtures warm or cool |
+| 21681 | pictures/21681.webp | An ammonia plant with compromise conditions. | Chemistry — Equilibrium at work in industry — Unit 5 review |
+| 21701 | pictures/21701.webp | Fruits labelled with their ester scents. | Chemistry — Esters are nature's scents |
+| 21689 | pictures/21689.webp | An ether with its oxygen bridge. | Chemistry — Ethers — structure and names |
+| 21407 | pictures/21407.webp | ethiopia s chemical industries | Chemistry — Ethiopia's chemical industries |
+| 21519 | pictures/21519.webp | exothermic and endothermic enthalpy change | Chemistry — Exothermic and endothermic — enthalpy change |
+| 21595 | pictures/21595.gif | exothermic and endothermic enthalpy change in motion | Chemistry — Exothermic and endothermic — enthalpy change |
+| 21737 | pictures/21737.webp | An electrode thickening as charge passes. | Chemistry — Faraday's first law — mass from charge |
+| 21738 | pictures/21738.webp | Two series cells depositing differently. | Chemistry — Faraday's second law |
+| 21699 | pictures/21699.webp | A straight chain beside a kinked one. | Chemistry — Fatty acids — saturated and unsaturated |
+| 21517 | pictures/21517.webp | fertilisers feeding the soil n p k | Chemistry — Fertilisers — feeding the soil (N, P, K) |
+| 21642 | pictures/21642.webp | Water molecules linked by hydrogen bonds. | Chemistry — Forces between molecules |
+| 21643 | pictures/21643.gif | temporary dipoles flickering on and off | Chemistry — Forces between molecules |
+| 21653 | pictures/21653.webp | Four crystals side by side. | Chemistry — Four kinds of crystal — Unit 2 review |
+| 21479 | pictures/21479.webp | four types of chemical reaction | Chemistry — Four types of chemical reaction |
+| 21584 | pictures/21584.gif | four types of chemical reaction in motion | Chemistry — Four types of chemical reaction |
+| 21553 | pictures/21553.webp | fractional distillation of crude oil | Chemistry — Fractional distillation of crude oil |
+| 21744 | pictures/21744.webp | A pH probe drawn as a small cell. | Chemistry — From volts to equilibrium — and a pH meter |
+| 21741 | pictures/21741.webp | A labelled Daniell cell with salt bridge. | Chemistry — Galvanic cells — chemistry making electricity |
+| 21742 | pictures/21742.gif | electrons flowing, lighting a bulb | Chemistry — Galvanic cells — chemistry making electricity |
+| 21522 | pictures/21522.webp | galvanic cells the daniell cell | Chemistry — Galvanic cells — the Daniell cell |
+| 21597 | pictures/21597.gif | galvanic cells the daniell cell in motion | Chemistry — Galvanic cells — the Daniell cell |
+| 21711 | pictures/21711.webp | A bench with the units' simple apparatus. | Chemistry — Grade 11 chemistry practicals and activities |
+| 21785 | pictures/21785.webp | A principles wheel/poster. | Chemistry — Green chemistry — the principles |
+| 21784 | pictures/21784.webp | The main greenhouse gases with sources. | Chemistry — Greenhouse gases — which and how much |
+| 21447 | pictures/21447.webp | groups and periods | Chemistry — Groups and periods |
+| 21708 | pictures/21708.webp | Hydrogen adding across a double bond. | Chemistry — Hardening oils — hydrogenation |
+| 21709 | pictures/21709.gif | a double bond becoming single as H adds | Chemistry — Hardening oils — hydrogenation |
+| 21619 | pictures/21619.webp | The sharp orbit fades into a cloud of probability. | Chemistry — Heisenberg's uncertainty principle |
+| 21620 | pictures/21620.gif | orbit fading into a probability cloud | Chemistry — Heisenberg's uncertainty principle |
+| 21750 | pictures/21750.webp | A plant flow in general form. | Chemistry — How a chemical industry works |
+| 21759 | pictures/21759.webp | Molten glass being shaped. | Chemistry — How glass is made |
+| 21760 | pictures/21760.gif | a gather of glass being blown | Chemistry — How glass is made |
+| 21717 | pictures/21717.webp | Strong acid fully split; weak barely. | Chemistry — How strong is 'weak'? Ka and Kb |
+| 21764 | pictures/21764.webp | Cane in, crystals out. | Chemistry — How sugar is made |
+| 21475 | pictures/21475.webp | how this chemistry course works the ethiopian grade 10 way | Chemistry — How this Chemistry course works — the Ethiopian Grade 10 way |
+| 21400 | pictures/21400.webp | how this chemistry course works the ethiopian grade 9 way | Chemistry — How this Chemistry course works — the Ethiopian Grade 9 way |
+| 21471 | pictures/21471.webp | hydrogen bonding and intermolecular forces | Chemistry — Hydrogen bonding and intermolecular forces |
+| 21703 | pictures/21703.webp | An ester splitting back in two. | Chemistry — Hydrolysing esters — and making soap |
+| 21726 | pictures/21726.webp | One indicator in three colours. | Chemistry — Indicators — choosing by colour range |
+| 21727 | pictures/21727.gif | colour sweeping as pH rises | Chemistry — Indicators — choosing by colour range |
+| 21768 | pictures/21768.webp | Fermenters and a distillation column. | Chemistry — Industrial ethanol |
+| 21457 | pictures/21457.webp | ionic bonding electron transfer | Chemistry — Ionic bonding — electron transfer |
+| 21574 | pictures/21574.gif | ionic bonding electron transfer in motion | Chemistry — Ionic bonding — electron transfer |
+| 21631 | pictures/21631.webp | Sodium gives — chlorine takes — the ions attract. | Chemistry — Ionic bonding — electrons transferred |
+| 21632 | pictures/21632.gif | the electron moving from Na to Cl | Chemistry — Ionic bonding — electrons transferred |
+| 21474 | pictures/21474.webp | ionic vs polar covalent vs nonpolar covalent the full comparison | Chemistry — Ionic vs polar covalent vs nonpolar covalent — the full comparison |
+| 21453 | pictures/21453.webp | ionisation energy | Chemistry — Ionisation energy |
+| 21573 | pictures/21573.gif | ionisation energy in motion | Chemistry — Ionisation energy |
+| 21529 | pictures/21529.webp | iron and steel the blast furnace | Chemistry — Iron and steel — the blast furnace |
+| 21599 | pictures/21599.gif | iron and steel the blast furnace in motion | Chemistry — Iron and steel — the blast furnace |
+| 21542 | pictures/21542.webp | isomers same formula different structure | Chemistry — Isomers — same formula, different structure |
+| 21438 | pictures/21438.webp | isotopes | Chemistry — Isotopes |
+| 21683 | pictures/21683.webp | Primary, secondary, tertiary skeletons. | Chemistry — Kinds of alcohols |
+| 21658 | pictures/21658.webp | Molecules bouncing elastically in a box. | Chemistry — Kinetic molecular theory of gases |
+| 21659 | pictures/21659.gif | collisions with walls making pressure | Chemistry — Kinetic molecular theory of gases |
+| 21420 | pictures/21420.webp | laboratory apparatus naming the kit | Chemistry — Laboratory apparatus — naming the kit |
+| 21419 | pictures/21419.webp | laboratory safety rules | Chemistry — Laboratory safety rules |
+| 21564 | pictures/21564.gif | laboratory safety rules in motion | Chemistry — Laboratory safety rules |
+| 21634 | pictures/21634.webp | Steps up — then the lattice pays it back. | Chemistry — Lattice energy — why ionic solids hold together |
+| 21635 | pictures/21635.gif | ions settling into a lattice | Chemistry — Lattice energy — why ionic solids hold together |
+| 21679 | pictures/21679.webp | A balance tipping, then re-levelling. | Chemistry — Le Chatelier's principle |
+| 21680 | pictures/21680.gif | a stressed equilibrium shifting | Chemistry — Le Chatelier's principle |
+| 21715 | pictures/21715.webp | A lone pair moving into an empty orbital. | Chemistry — Lewis acids and bases — electron pairs |
+| 21633 | pictures/21633.webp | Dot symbols across one period. | Chemistry — Lewis dot symbols |
+| 21461 | pictures/21461.webp | lewis formulas covalent molecules | Chemistry — Lewis formulas — covalent molecules |
+| 21458 | pictures/21458.webp | lewis symbols and formulas ionic compounds | Chemistry — Lewis symbols and formulas — ionic compounds |
+| 21575 | pictures/21575.gif | lewis symbols and formulas ionic compounds in motion | Chemistry — Lewis symbols and formulas — ionic compounds |
+| 21490 | pictures/21490.webp | limiting reactants | Chemistry — Limiting reactants |
+| 21615 | pictures/21615.webp | Hydrogen's lines beside a full rainbow. | Chemistry — Line spectra — fingerprints of elements |
+| 21686 | pictures/21686.webp | A fermentation vessel bubbling CO₂. | Chemistry — Making alcohols — including fermentation |
+| 21687 | pictures/21687.gif | fermentation bubbling | Chemistry — Making alcohols — including fermentation |
+| 21543 | pictures/21543.webp | making alkanes decarboxylation wurtz hydrogenation | Chemistry — Making alkanes — decarboxylation, Wurtz, hydrogenation |
+| 21698 | pictures/21698.webp | The oxidation ladder, three rungs. | Chemistry — Making carboxylic acids |
+| 21704 | pictures/21704.webp | The esterification equation, ⇌ arrows. | Chemistry — Making esters — esterification |
+| 21690 | pictures/21690.webp | The Williamson route as a flow. | Chemistry — Making ethers |
+| 21497 | pictures/21497.webp | making things dissolve faster | Chemistry — Making things dissolve faster |
+| 21588 | pictures/21588.gif | making things dissolve faster in motion | Chemistry — Making things dissolve faster |
+| 21487 | pictures/21487.webp | mass mass problems | Chemistry — Mass–mass problems |
+| 21489 | pictures/21489.webp | mass volume problems | Chemistry — Mass–volume problems |
+| 21667 | pictures/21667.webp | A concentration–time curve with its tangent. | Chemistry — Measuring and expressing reaction rate |
+| 21668 | pictures/21668.gif | bubbles forming fast, then slowing | Chemistry — Measuring and expressing reaction rate |
+| 21408 | pictures/21408.webp | measuring numbers need units | Chemistry — Measuring — numbers need units |
+| 21445 | pictures/21445.webp | mendeleev s periodic table | Chemistry — Mendeleev's periodic table |
+| 21465 | pictures/21465.webp | metallic bonding the electron sea | Chemistry — Metallic bonding — the electron sea |
+| 21579 | pictures/21579.gif | metallic bonding the electron sea in motion | Chemistry — Metallic bonding — the electron sea |
+| 21644 | pictures/21644.webp | Kernels held in a pool of electrons. | Chemistry — Metallic bonding |
+| 21521 | pictures/21521.webp | metallic vs electrolytic conduction | Chemistry — Metallic vs electrolytic conduction |
+| 21596 | pictures/21596.gif | metallic vs electrolytic conduction in motion | Chemistry — Metallic vs electrolytic conduction |
+| 21526 | pictures/21526.webp | metals and the reactivity series | Chemistry — Metals and the reactivity series |
+| 21470 | pictures/21470.webp | millikan s oil drop experiment weighing the electron s charge | Chemistry — Millikan's oil-drop experiment — weighing the electron's charge |
+| 21582 | pictures/21582.gif | millikan s oil drop experiment weighing the electron s charge in motion | Chemistry — Millikan's oil-drop experiment — weighing the electron's charge |
+| 21496 | pictures/21496.webp | miscible and immiscible liquids | Chemistry — Miscible and immiscible liquids |
+| 21430 | pictures/21430.webp | modern atomic theory dalton corrected | Chemistry — Modern atomic theory — Dalton corrected |
+| 21504 | pictures/21504.webp | molality per kilogram of solvent | Chemistry — Molality — per kilogram of solvent |
+| 21503 | pictures/21503.webp | molarity | Chemistry — Molarity |
+| 21502 | pictures/21502.webp | mole fraction | Chemistry — Mole fraction |
+| 21486 | pictures/21486.webp | mole ratios reading the balanced equation | Chemistry — Mole ratios — reading the balanced equation |
+| 21483 | pictures/21483.webp | molecular mass formula mass molar mass | Chemistry — Molecular mass, formula mass, molar mass |
+| 21651 | pictures/21651.webp | The MO diagram for O₂. | Chemistry — Molecular orbital theory and bond order |
+| 21652 | pictures/21652.gif | electrons filling bonding then antibonding levels | Chemistry — Molecular orbital theory and bond order |
+| 21684 | pictures/21684.webp | A branched alcohol named step by step. | Chemistry — Naming alcohols |
+| 21541 | pictures/21541.webp | naming alkanes the iupac rules | Chemistry — Naming alkanes — the IUPAC rules |
+| 21550 | pictures/21550.webp | naming benzene compounds | Chemistry — Naming benzene compounds |
+| 21702 | pictures/21702.webp | An ester split into its two halves. | Chemistry — Naming esters |
+| 21473 | pictures/21473.webp | naming ionic compounds | Chemistry — Naming ionic compounds |
+| 21557 | pictures/21557.webp | natural gas crude oil and petroleum the precise words | Chemistry — Natural gas, crude oil and petroleum — the precise words |
+| 21749 | pictures/21749.webp | Ethiopian resources mapped to industries. | Chemistry — Natural resources — industry's starting materials |
+| 21777 | pictures/21777.webp | The nitrogen cycle over farmland. | Chemistry — Nature's cycles — water, carbon, nitrogen |
+| 21778 | pictures/21778.gif | the water cycle circulating | Chemistry — Nature's cycles — water, carbon, nitrogen |
+| 21509 | pictures/21509.webp | net ionic equations | Chemistry — Net ionic equations |
+| 21591 | pictures/21591.gif | net ionic equations in motion | Chemistry — Net ionic equations |
+| 21444 | pictures/21444.webp | newlands octaves | Chemistry — Newlands' octaves |
+| 21753 | pictures/21753.webp | The three Ostwald stages as a flow. | Chemistry — Nitric acid — the Ostwald process |
+| 21754 | pictures/21754.webp | Fertiliser bags with their nitrogen forms. | Chemistry — Nitrogen fertilisers |
+| 21532 | pictures/21532.webp | nitrogen the inert four fifths of air | Chemistry — Nitrogen — the inert four-fifths of air |
+| 21531 | pictures/21531.webp | nonmetals the opposite set | Chemistry — Nonmetals — the opposite set |
+| 21505 | pictures/21505.webp | normality and equivalents | Chemistry — Normality and equivalents |
+| 21472 | pictures/21472.webp | one side pays for both the coordinate bond analogy | Chemistry — One side pays for both — the coordinate bond analogy |
+| 21537 | pictures/21537.webp | organic chemistry w hler and the end of vitalism | Chemistry — Organic chemistry — Wöhler and the end of vitalism |
+| 21730 | pictures/21730.webp | Electrons leaving one species, entering another. | Chemistry — Oxidation and reduction — OIL RIG in Grade 12 form |
+| 21480 | pictures/21480.webp | oxidation numbers | Chemistry — Oxidation numbers |
+| 21510 | pictures/21510.webp | oxides acidic basic amphoteric neutral peroxides | Chemistry — Oxides — acidic, basic, amphoteric, neutral, peroxides |
+| 21481 | pictures/21481.webp | oxidising and reducing agents | Chemistry — Oxidising and reducing agents |
+| 21585 | pictures/21585.gif | oxidising and reducing agents in motion | Chemistry — Oxidising and reducing agents |
+| 21682 | pictures/21682.webp | Five oxygen groups on one chart. | Chemistry — Oxygen functional groups — the map |
+| 21534 | pictures/21534.webp | oxygen manufacture and abundance | Chemistry — Oxygen — manufacture and abundance |
+| 21765 | pictures/21765.webp | Pulp becoming a sheet on rollers. | Chemistry — Paper and pulp |
+| 21501 | pictures/21501.webp | percent concentration | Chemistry — Percent concentration |
+| 21468 | pictures/21468.webp | percent error | Chemistry — Percent error |
+| 21491 | pictures/21491.webp | percentage yield | Chemistry — Percentage yield |
+| 21628 | pictures/21628.webp | Trend arrows across a mini table. | Chemistry — Periodic trends |
+| 21629 | pictures/21629.gif | atoms shrinking across a period | Chemistry — Periodic trends |
+| 21442 | pictures/21442.webp | periodicity patterns that predict | Chemistry — Periodicity — patterns that predict |
+| 21756 | pictures/21756.webp | Farm-chemical containers with safety marks. | Chemistry — Pesticides and herbicides |
+| 21533 | pictures/21533.webp | phosphorus white and red | Chemistry — Phosphorus — white and red |
+| 21613 | pictures/21613.webp | Photons strike — electrons leave the metal. | Chemistry — Planck, photons and the photoelectric effect |
+| 21614 | pictures/21614.gif | photons knocking electrons off metal | Chemistry — Planck, photons and the photoelectric effect |
+| 21462 | pictures/21462.webp | polar and nonpolar molecules | Chemistry — Polar and nonpolar molecules |
+| 21771 | pictures/21771.webp | Monomer units linking into a chain. | Chemistry — Polymers — chains of monomers |
+| 21772 | pictures/21772.gif | units clicking into a chain | Chemistry — Polymers — chains of monomers |
+| 21422 | pictures/21422.webp | practical measuring mass volume and density | Chemistry — Practical: measuring mass, volume and density |
+| 21565 | pictures/21565.gif | practical measuring mass volume and density in motion | Chemistry — Practical: measuring mass, volume and density |
+| 21414 | pictures/21414.webp | precision vs accuracy | Chemistry — Precision vs accuracy |
+| 21562 | pictures/21562.gif | precision vs accuracy in motion | Chemistry — Precision vs accuracy |
+| 21734 | pictures/21734.webp | Competing ions, the winner marked. | Chemistry — Preferential discharge — which ion wins |
+| 21507 | pictures/21507.webp | preparing a solution of known concentration | Chemistry — Preparing a solution of known concentration |
+| 21590 | pictures/21590.gif | preparing a solution of known concentration in motion | Chemistry — Preparing a solution of known concentration |
+| 21516 | pictures/21516.webp | preparing salts choosing the method | Chemistry — Preparing salts — choosing the method |
+| 21594 | pictures/21594.gif | preparing salts choosing the method in motion | Chemistry — Preparing salts — choosing the method |
+| 21767 | pictures/21767.webp | Four preservation methods, four panels. | Chemistry — Preserving food |
+| 21695 | pictures/21695.webp | Two acid molecules paired as a dimer. | Chemistry — Properties of carboxylic acids |
+| 21464 | pictures/21464.webp | properties of covalent compounds | Chemistry — Properties of covalent compounds |
+| 21459 | pictures/21459.webp | properties of ionic compounds | Chemistry — Properties of ionic compounds |
+| 21576 | pictures/21576.gif | properties of ionic compounds in motion | Chemistry — Properties of ionic compounds |
+| 21636 | pictures/21636.webp | A blow shifts the lattice — like charges repel. | Chemistry — Properties of ionic compounds |
+| 21637 | pictures/21637.gif | lattice shifting and splitting on a blow | Chemistry — Properties of ionic compounds |
+| 21656 | pictures/21656.webp | The three-state comparison. | Chemistry — Properties of solids, liquids and gases |
+| 21436 | pictures/21436.webp | protons neutrons and electrons compared | Chemistry — Protons, neutrons and electrons compared |
+| 21426 | pictures/21426.webp | proving conservation of mass by weighing | Chemistry — Proving conservation of mass by weighing |
+| 21567 | pictures/21567.gif | proving conservation of mass by weighing in motion | Chemistry — Proving conservation of mass by weighing |
+| 21710 | pictures/21710.webp | Open versus sealed packets after storage. | Chemistry — Rancidity — why fats spoil — Unit 6 review |
+| 21688 | pictures/21688.webp | A reaction map centred on ethanol. | Chemistry — Reactions of alcohols |
+| 21696 | pictures/21696.webp | An acid fizzing on a carbonate. | Chemistry — Reactions of carboxylic acids |
+| 21697 | pictures/21697.gif | fizzing as CO₂ forms | Chemistry — Reactions of carboxylic acids |
+| 21450 | pictures/21450.webp | representative elements and family names | Chemistry — Representative elements and family names |
+| 21671 | pictures/21671.webp | Evaporation and condensation in a closed bottle. | Chemistry — Reversible reactions |
+| 21672 | pictures/21672.gif | forward and reverse running at once | Chemistry — Reversible reactions |
+| 21515 | pictures/21515.webp | salts normal acid and basic hygroscopic deliquescent efflorescent | Chemistry — Salts — normal, acid and basic; hygroscopic, deliquescent, efflorescent |
+| 21722 | pictures/21722.webp | NaCl solution with pH 7 marked. | Chemistry — Salts that stay neutral |
+| 21724 | pictures/21724.webp | An ammonium ion handing a proton to water. | Chemistry — Salts that turn acidic |
+| 21723 | pictures/21723.webp | An acetate ion leaving OH⁻ behind. | Chemistry — Salts that turn basic |
+| 21499 | pictures/21499.webp | saturated and supersaturated solutions | Chemistry — Saturated and supersaturated solutions |
+| 21589 | pictures/21589.gif | saturated and supersaturated solutions in motion | Chemistry — Saturated and supersaturated solutions |
+| 21417 | pictures/21417.webp | scientific notation | Chemistry — Scientific notation |
+| 21563 | pictures/21563.gif | scientific notation in motion | Chemistry — Scientific notation |
+| 21622 | pictures/21622.webp | s is a sphere; p dumbbells point three ways. | Chemistry — Shapes of s, p and d orbitals |
+| 21623 | pictures/21623.gif | p orbitals turning in space | Chemistry — Shapes of s, p and d orbitals |
+| 21412 | pictures/21412.webp | si prefixes bigger and smaller by tens | Chemistry — SI prefixes — bigger and smaller by tens |
+| 21561 | pictures/21561.gif | si prefixes bigger and smaller by tens in motion | Chemistry — SI prefixes — bigger and smaller by tens |
+| 21415 | pictures/21415.webp | significant figures counting meaningful digits | Chemistry — Significant figures — counting meaningful digits |
+| 21769 | pictures/21769.webp | A micelle trapping a grease droplet. | Chemistry — Soap and detergents — Unit 3 review |
+| 21770 | pictures/21770.gif | micelles forming around grease | Chemistry — Soap and detergents — Unit 3 review |
+| 21757 | pictures/21757.webp | The Solvay tower flow. | Chemistry — Sodium carbonate — the Solvay process |
+| 21758 | pictures/21758.webp | A membrane-cell diagram. | Chemistry — Sodium hydroxide — chlor-alkali |
+| 21666 | pictures/21666.webp | Ordered crystal beside disordered glass. | Chemistry — Solids — crystalline and amorphous — Unit 3 review |
+| 21495 | pictures/21495.webp | solubility rules will it dissolve | Chemistry — Solubility rules — will it dissolve? |
+| 21508 | pictures/21508.webp | solution stoichiometry moles from molarity volume | Chemistry — Solution stoichiometry — moles from molarity × volume |
+| 21774 | pictures/21774.webp | Three chain structures in three panels. | Chemistry — Sorting polymers — Unit 4 review |
+| 21775 | pictures/21775.gif | a thermoplastic softening and resetting | Chemistry — Sorting polymers — Unit 4 review |
+| 21627 | pictures/21627.webp | The table coloured by block. | Chemistry — Sorting the elements — blocks and kinds |
+| 21743 | pictures/21743.webp | A reduction-potential ladder. | Chemistry — Standard potentials — ranking the push |
+| 21535 | pictures/21535.webp | sulphur mined with hot water the contact process | Chemistry — Sulphur — mined with hot water; the Contact Process |
+| 21755 | pictures/21755.webp | The Contact plant stages. | Chemistry — Sulphuric acid — the Contact process |
+| 21492 | pictures/21492.webp | suspensions solutions and colloids | Chemistry — Suspensions, solutions and colloids |
+| 21586 | pictures/21586.gif | suspensions solutions and colloids in motion | Chemistry — Suspensions, solutions and colloids |
+| 21766 | pictures/21766.webp | Hides in tanning drums. | Chemistry — Tanning — hide to leather |
+| 21410 | pictures/21410.webp | temperature scales kelvin celsius fahrenheit | Chemistry — Temperature scales — kelvin, Celsius, Fahrenheit |
+| 21559 | pictures/21559.gif | temperature scales kelvin celsius fahrenheit in motion | Chemistry — Temperature scales — kelvin, Celsius, Fahrenheit |
+| 21518 | pictures/21518.webp | testing for ions | Chemistry — Testing for ions |
+| 21511 | pictures/21511.webp | testing oxides with indicators | Chemistry — Testing oxides with indicators |
+| 21592 | pictures/21592.gif | testing oxides with indicators in motion | Chemistry — Testing oxides with indicators |
+| 21718 | pictures/21718.webp | An equilibrium pushed back by common ions. | Chemistry — The common ion effect |
+| 21719 | pictures/21719.gif | the equilibrium shifting left | Chemistry — The common ion effect |
+| 21645 | pictures/21645.webp | Kernels in a sea of electrons. | Chemistry — The electron-sea model |
+| 21646 | pictures/21646.gif | electrons drifting through the lattice | Chemistry — The electron-sea model |
+| 21676 | pictures/21676.webp | Building an equilibrium expression. | Chemistry — The equilibrium constant Kc |
+| 21469 | pictures/21469.webp | the factor label method converting units by cancelling | Chemistry — The factor-label method — converting units by cancelling |
+| 21581 | pictures/21581.gif | the factor label method converting units by cancelling in motion | Chemistry — The factor-label method — converting units by cancelling |
+| 21402 | pictures/21402.webp | the five branches of chemistry | Chemistry — The five branches of chemistry |
+| 21621 | pictures/21621.webp | One electron — four numbers fix its state. | Chemistry — The four quantum numbers |
+| 21776 | pictures/21776.webp | The four spheres in one diagram. | Chemistry — The four spheres of the environment |
+| 21660 | pictures/21660.webp | The laws as graphs, gathered in PV = nRT. | Chemistry — The gas laws and the ideal gas equation |
+| 21661 | pictures/21661.gif | a piston compressing gas at constant T | Chemistry — The gas laws and the ideal gas equation |
+| 21423 | pictures/21423.webp | the greek four elements | Chemistry — The Greek four elements |
+| 21782 | pictures/21782.webp | Infrared rays trapped by greenhouse gases. | Chemistry — The greenhouse effect and global warming |
+| 21783 | pictures/21783.gif | rays bouncing back under a gas layer | Chemistry — The greenhouse effect and global warming |
+| 21654 | pictures/21654.webp | Three states, three levels of motion. | Chemistry — The kinetic theory of matter |
+| 21655 | pictures/21655.gif | particles heating: solid to liquid to gas motion | Chemistry — The kinetic theory of matter |
+| 21425 | pictures/21425.webp | the law of conservation of mass | Chemistry — The law of conservation of mass |
+| 21427 | pictures/21427.webp | the law of definite proportions and molecular weight | Chemistry — The law of definite proportions — and molecular weight |
+| 21428 | pictures/21428.webp | the law of multiple proportions | Chemistry — The law of multiple proportions |
+| 21662 | pictures/21662.webp | Surface molecules held by inward forces. | Chemistry — The liquid state |
+| 21663 | pictures/21663.gif | fastest molecules escaping the surface | Chemistry — The liquid state |
+| 21446 | pictures/21446.webp | the modern periodic law | Chemistry — The modern periodic law |
+| 21626 | pictures/21626.webp | The table — periods across, groups down. | Chemistry — The modern periodic table |
+| 21484 | pictures/21484.webp | the mole counting by weighing | Chemistry — The mole — counting by weighing |
+| 21630 | pictures/21630.webp | Completing the outer shell of eight. | Chemistry — The octet rule — why atoms bond |
+| 21513 | pictures/21513.webp | the ph scale | Chemistry — The pH scale |
+| 21449 | pictures/21449.webp | the s p d and f blocks | Chemistry — The s, p, d and f blocks |
+| 21418 | pictures/21418.webp | the scientific method | Chemistry — The scientific method |
+| 21409 | pictures/21409.webp | the seven si base units | Chemistry — The seven SI base units |
+| 21728 | pictures/21728.webp | Four titration curves, points marked. | Chemistry — Titrations and their curves — Unit 1 review |
+| 21729 | pictures/21729.gif | the pH jump as drops fall | Chemistry — Titrations and their curves — Unit 1 review |
+| 21706 | pictures/21706.webp | A triglyceride with three tails. | Chemistry — Triglycerides — the structure of fats |
+| 21413 | pictures/21413.webp | uncertainty no measurement is exact | Chemistry — Uncertainty — no measurement is exact |
+| 21678 | pictures/21678.webp | A Q-versus-K number line. | Chemistry — Using K and Q — which way will it go? |
+| 21649 | pictures/21649.webp | Three hybrid sets: sp³, sp², sp. | Chemistry — Valence bond theory and hybridisation |
+| 21650 | pictures/21650.gif | orbitals merging into hybrids | Chemistry — Valence bond theory and hybridisation |
+| 21441 | pictures/21441.webp | valence electrons the outer shell | Chemistry — Valence electrons — the outer shell |
+| 21488 | pictures/21488.webp | volume volume problems gases only | Chemistry — Volume–volume problems — gases only |
+| 21640 | pictures/21640.webp | Five shapes, fixed by repulsion. | Chemistry — VSEPR — the shapes of molecules |
+| 21641 | pictures/21641.gif | a lone pair squeezing bond angles | Chemistry — VSEPR — the shapes of molecules |
+| 21716 | pictures/21716.webp | The pH scale 0–14 with household examples. | Chemistry — Water ionises itself — pH and pOH |
+| 21780 | pictures/21780.webp | A river with runoff and algal bloom. | Chemistry — Water pollution |
+| 21781 | pictures/21781.gif | algae spreading over a pond | Chemistry — Water pollution |
+| 21500 | pictures/21500.webp | what changes solubility temperature and pressure | Chemistry — What changes solubility — temperature and pressure |
+| 21401 | pictures/21401.webp | what chemistry is substance matter and transformation | Chemistry — What chemistry is — substance, matter and transformation |
+| 21558 | pictures/21558.gif | what chemistry is substance matter and transformation in motion | Chemistry — What chemistry is — substance, matter and transformation |
+| 21675 | pictures/21675.webp | A sealed flask with its three conditions. | Chemistry — What equilibrium needs |
+| 21748 | pictures/21748.webp | Raw material in, products out. | Chemistry — What industrial chemistry is |
+| 21725 | pictures/21725.webp | A Ka-versus-Kb balance deciding pH. | Chemistry — When both ions hydrolyse |
+| 21705 | pictures/21705.webp | Animal fat and seed-oil sources. | Chemistry — Where fats and oils come from |
+| 21552 | pictures/21552.webp | where hydrocarbons come from oil gas coal | Chemistry — Where hydrocarbons come from — oil, gas, coal |
+| 21456 | pictures/21456.webp | why atoms bond the octet rule | Chemistry — Why atoms bond — the octet rule |
+| 21520 | pictures/21520.webp | why chemical change matters energy for life and industry | Chemistry — Why chemical change matters — energy for life and industry |
+| 21647 | pictures/21647.webp | Layers slide over the sea — the sheet bends. | Chemistry — Why metals conduct and bend |
+| 21648 | pictures/21648.gif | layers sliding over the electron sea | Chemistry — Why metals conduct and bend |
+| 21466 | pictures/21466.webp | why metals conduct properties of metals | Chemistry — Why metals conduct — properties of metals |
+| 21580 | pictures/21580.gif | why metals conduct properties of metals in motion | Chemistry — Why metals conduct — properties of metals |
+| 21707 | pictures/21707.webp | Packed tails (solid) beside kinked (liquid). | Chemistry — Why oils are liquid and fats are solid |
+| 21493 | pictures/21493.webp | why things dissolve solvation | Chemistry — Why things dissolve — solvation |
+| 21587 | pictures/21587.gif | why things dissolve solvation in motion | Chemistry — Why things dissolve — solvation |
+| 21556 | pictures/21556.webp | workout draw it name it fix the wrong name | Chemistry — Workout: draw it, name it, fix the wrong name |
+| 21421 | pictures/21421.webp | writing a laboratory report | Chemistry — Writing a laboratory report |
+| 21477 | pictures/21477.webp | writing chemical equations | Chemistry — Writing chemical equations |
+| 21624 | pictures/21624.webp | Boxes fill by Hund's rule — singly first. | Chemistry — Writing electron configurations |
+| 21625 | pictures/21625.gif | boxes filling one by one, then pairing | Chemistry — Writing electron configurations |
+
+## Computer Science and ICT — Grade 11 Unit 6 Python band (Ethiopia Wave 3, E6)
+
+- 18100 — 18100.webp — "One instruction, two low-level forms" — lesson programming/machine-language-and-assembly-language
+- 18101 — 18101.webp — "Compilers and interpreters — two ways to translate" — lesson programming/high-level-languages-compilers-and-interpreters
+- 18102 — 18102.gif — statements lighting up one at a time as an interpreter translates and executes each in turn — lesson programming/high-level-languages-compilers-and-interpreters — frame-checked
+- 18103 — 18103.webp — "Syntax error or logic error?" — lesson programming/syntax-and-semantics-and-the-two-kinds-of-error
+- 18104 — 18104.webp — "Python and IDLE — two places to write code" — lesson programming/python-and-idle-where-python-code-is-written
+- 18105 — 18105.webp — "The Python shell — type, Enter, answer" — lesson programming/the-python-shell-first-lines-with-print
+- 18106 — 18106.gif — typing print(5 + 6) character by character at the >>> prompt, the answer 11 appearing, the prompt returning — lesson programming/the-python-shell-first-lines-with-print — frame-checked
+- 18107 — 18107.webp — "Writing and running a script — four steps" — lesson programming/writing-and-running-a-python-script
+- 18108 — 18108.gif — the editor holding the circle script, the Run Module button appearing, then the shell panel opening with 28.26 and the prompt — lesson programming/writing-and-running-a-python-script — frame-checked
+- 18109 — 18109.webp — "A variable — a labelled box in memory" — lesson programming/variables-storing-values-in-memory
+- 18110 — 18110.gif — the variable box x holding 5 under x = 5, then 9 under x = 9 — lesson programming/variables-storing-values-in-memory — frame-checked
+- 18111 — 18111.webp — "Identifiers — which names are allowed?" — lesson programming/identifiers-the-rules-for-naming-variables
+- 18112 — 18112.webp — "Four data types — four cards" — lesson programming/python-data-types-int-float-str-bool
+- 18113 — 18113.webp — "Type conversion — fixing a clash" — lesson programming/type-conversion-when-python-does-it-when-you-must
+- 18114 — 18114.webp — "Statements do. Expressions are valued." — lesson programming/statements-and-expressions-telling-them-apart
+- 18115 — 18115.webp — "A simple program — input, process, print" — lesson programming/writing-a-simple-python-program-input-process-print
+- 18116 — 18116.gif — the Radius: prompt waiting, 3 being typed, then Area: 28.26 and Circumference: 18.84 printing (teacher guide item 25's input-typing GIF) — lesson programming/writing-a-simple-python-program-input-process-print — frame-checked
+- 18117 — 18117.webp — "Comments — notes inside code (never run)" — lesson programming/python-comments-notes-inside-code (teacher evidence)
