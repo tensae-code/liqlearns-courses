@@ -25,3 +25,11 @@ a) Light travels too fast  b) Its wavelength is very small, and diffraction is s
 **6.** (Sub lesson 3) For a diffraction grating, the first-order maximum of wavelength λ sits where…
 a) d sin θ = λ/2  b) sin θ = dλ  c) d sin θ = λ  d) θ = λ/d²
 **Answer: c) d sin θ = λ**
+
+**7.** (Sub lesson 4) Polarization can happen to light but not to sound in air because…
+a) Light is faster  b) Light is a transverse wave and sound in air is longitudinal — only transverse vibrations have a plane to select  c) Sound is too loud  d) Filters absorb sound
+**Answer: b) Light is a transverse wave and sound in air is longitudinal — only transverse vibrations have a plane to select**
+
+**8.** (Sub lesson 4) Unpolarized light of intensity 100 units passes a polarizing filter, then a second filter whose axis is at 60° to the first. The final intensity is…
+a) 50 units  b) 25 units  c) 12.5 units  d) 0 units
+**Answer: c) 12.5 units — the first filter halves unpolarized light to 50; Malus's law then gives 50 × cos²60° = 50 × 0.25 = 12.5**

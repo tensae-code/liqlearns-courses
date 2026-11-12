@@ -16,3 +16,6 @@ Answer in a sentence or two.
 
 **5.** (Sub lesson 3) Why does a grating beat a prism for separating two very close wavelengths?
 **Answer: The grating's maxima are extremely sharp (thousands of slits interfering), and each wavelength peaks at its own angle d sin θ = nλ, so two close wavelengths give two separate narrow peaks instead of one smeared band.**
+
+**6.** (Sub lesson 4) Why do polarizing sunglasses cut the glare from a wet road so well?
+**Answer: Light reflected from a flat surface like a wet road is partly polarized horizontally; the sunglasses' filters have vertical transmission axes, so they block that horizontally polarized glare while still passing enough ordinary light to see by.**

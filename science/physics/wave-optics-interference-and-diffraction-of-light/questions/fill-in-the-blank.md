@@ -16,3 +16,6 @@ Fill in the missing word.
 
 **5.** (Sub lesson 3) In the grating formula d sin θ = nλ, the whole number n is called the _____ of the maximum.
 **Answer: order**
+
+**6.** (Sub lesson 4) The rule I = I₀ cos²θ for light passing a second polarizing filter is called _____ law.
+**Answer: Malus's**

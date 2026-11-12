@@ -13,3 +13,6 @@ Fill in the missing word.
 
 **4.** (Sub lesson 3) Physics judges a model by testing its _____ against the world.
 **Answer: predictions**
+
+**5.** (Sub lesson 4) The cooled glow of the hot early universe, now at about 2.7 K, is called the cosmic _____ background.
+**Answer: microwave**

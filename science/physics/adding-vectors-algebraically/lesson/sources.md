@@ -1,6 +1,6 @@
 # Sources — Adding vectors algebraically
 
-countries: Ethiopia, Palestine, Sudan
+countries: Ethiopia, Palestine, Sudan, United States
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -8,12 +8,15 @@ countries: Ethiopia, Palestine, Sudan
 
 **Book 3:** *الفيزياء — للصف الثاني الثانوي (Physics — Second Secondary Year), revised edition* (student textbook) — Sudan, Sudan Ministry of Education / NCCER — title page: "المنقح" (revised); second-edition preface lists the changes. Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 16,681,047. PDF pages: 213. Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 5 units through Heat and the laws of thermodynamics, ending with unit exercises. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 4:** *College Physics for AP® Courses 2e* (student textbook) — United States, OpenStax, Rice University (senior contributing authors Lyublinskaya, Wolfe, Ingram, Pujji, Oberoi, Czuba); © 2026 Rice University per this PDF's licence page; CC BY-NC-SA 4.0. Title as printed: College Physics for AP® Courses 2e — OpenStax, Rice University (senior contributing authors Lyublinskaya, Wolfe, Ingram, Pujji, Oberoi, Czuba); © 2026 Rice University per this PDF's licence page; CC BY-NC-SA 4.0. Grade: 12 · Student book · Repo path: grade-12/approved-private/united-states/physics-for-ap-courses-2e.pdf · Release: full-quality-oversized-books (asset 266,882,977 bytes — exact match after a resume-download; the first grab attempt landed truncated and was discarded). Byte size: 266,882,977 · PDF pages: 1,773 · Offset: the PDF carries the book's printed folios; chapter starts cited by printed page from the book's own contents. Verdict: COMPLETE — identity proven by title/licence pages; full contents read (34 chapters); chapter openings verified in the text layer. Read basis stated honestly: for a 1,773-page reference textbook, placements are filed at chapter level from the complete contents plus verified chapter content — the same chapter-level basis as the other very large books in this set. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Algebraic addition and subtraction in two dimensions | Grade 11 Student Textbook, printed pp. 36–42 |
 | Arithmetic (component) addition of vectors | Palestine, *Physics for Grade 10*, Unit 1, Ch. 2: Vectors, printed p. 21 |
 | Unit 1: parallelogram rule and vector equations (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. ~15 |
+| Ch. 3 Two-Dimensional Kinematics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 3 Two-Dimensional Kinematics — vectors, components, projectile motion (chapter-level placement from the complete contents plus verified chapter content) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Sudan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Sudan, United States).**
 
-Searchable tags: physics, grade 11, vectors, adding vectors algebraically, component, palestine
+Searchable tags: physics, grade 11, vectors, adding vectors algebraically, component, palestine, united states

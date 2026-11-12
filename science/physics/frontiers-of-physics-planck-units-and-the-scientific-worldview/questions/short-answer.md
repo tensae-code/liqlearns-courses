@@ -13,3 +13,6 @@ Answer in a sentence or two.
 
 **4.** (Sub lesson 3) Give the essay's one-test rule for models, with a course example.
 **Answer: A model is judged by whether its predictions meet the world; failure directs its replacement. Example: Rutherford's atom failed (collapse, spectral smear), Bohr's stationary-state model repaired those failures, and the wave picture later repaired Bohr's.**
+
+**5.** (Sub lesson 4) Name the two largest components of the modern universe picture and say how each is detected.
+**Answer: Dark matter — about five times the mass of the shining matter, detected only by its gravity (galaxy rotation, cluster binding); dark energy — roughly two-thirds of the universe's content, detected by its effect: the accelerating expansion of the universe found in 1998.**

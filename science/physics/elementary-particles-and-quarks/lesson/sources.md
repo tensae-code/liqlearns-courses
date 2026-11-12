@@ -1,8 +1,10 @@
 # Sources — Elementary particles and quarks — the fundamental interactions
 
-countries: Italy
+countries: Italy, United States
 
 **Book 1:** *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti. Grade 12 span (filed Grade 12) · Student book · First edition February 2012 (colophon), with “Physics in English” · Repo: release `mid-size-books-6`, asset `grade-12-gov-italy-physics-student-full-year.pdf` — 27,398,676 bytes (matched asset) · PDF pages: 427 · Offset: placements cite chapter and PDF page (from chapter openers and section headings throughout the text). Verdict: COMPLETE (closes with Ch. 36 on the frontiers of physics — Planck-scale constants and the scientific worldview — and the orientation pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
+
+**Book 2:** *College Physics for AP® Courses 2e* (student textbook) — United States, OpenStax, Rice University (senior contributing authors Lyublinskaya, Wolfe, Ingram, Pujji, Oberoi, Czuba); © 2026 Rice University per this PDF's licence page; CC BY-NC-SA 4.0. Title as printed: College Physics for AP® Courses 2e — OpenStax, Rice University (senior contributing authors Lyublinskaya, Wolfe, Ingram, Pujji, Oberoi, Czuba); © 2026 Rice University per this PDF's licence page; CC BY-NC-SA 4.0. Grade: 12 · Student book · Repo path: grade-12/approved-private/united-states/physics-for-ap-courses-2e.pdf · Release: full-quality-oversized-books (asset 266,882,977 bytes — exact match after a resume-download; the first grab attempt landed truncated and was discarded). Byte size: 266,882,977 · PDF pages: 1,773 · Offset: the PDF carries the book's printed folios; chapter starts cited by printed page from the book's own contents. Verdict: COMPLETE — identity proven by title/licence pages; full contents read (34 chapters); chapter openings verified in the text layer. Read basis stated honestly: for a 1,773-page reference textbook, placements are filed at chapter level from the complete contents plus verified chapter content — the same chapter-level basis as the other very large books in this set. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -10,9 +12,10 @@ countries: Italy
 | Sub lessons 1–2 — Quarks, generations and antimatter | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.35: the fundamental matter particles — PDF p. 330 |
 | Sub lesson 3 — Interactions, carriers and the Higgs | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.35: the fundamental interactions strand of the particle survey — PDF p. 330 |
 | Do it first; key ideas; Do It Yourself | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, as cited in the rows above |
+| Ch. 33 Particle Physics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 33, printed p. 1567 — quarks, leptons, forces, accelerators |
 
-**Acceptance count: taught in 1 country (Italy).**
+**Acceptance count: taught in 2 countries (Italy, United States).**
 
 Placement choice, on the record: this NEW LESSON was built for the Italy placement “Elementary particles and quarks — the fundamental interactions” — italy-placements.md, Book 3, Ch.35, PDF p. 330 — the same particle gap named for Bulgaria G10 in this expansion. Brazil's **The three fundamental interactions** (`physics/the-three-fundamental-interactions`) teaches the interactions' own story; this lesson is the particle survey and cross-references it rather than duplicating it. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 
-Searchable tags: elementary particles, quarks, standard model, leptons, hadrons, antimatter, higgs, exchange particles, fundamental interactions, italy, amaldi
+Searchable tags: elementary particles, quarks, standard model, leptons, hadrons, antimatter, higgs, exchange particles, fundamental interactions, italy, amaldi, united states

@@ -1,8 +1,12 @@
 # Sources — Frontiers of physics — Planck units and the scientific worldview
 
-countries: Italy
+countries: Italy, United States
 
 **Book 1:** *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti. Grade 12 span (filed Grade 12) · Student book · First edition February 2012 (colophon), with “Physics in English” · Repo: release `mid-size-books-6`, asset `grade-12-gov-italy-physics-student-full-year.pdf` — 27,398,676 bytes (matched asset) · PDF pages: 427 · Offset: placements cite chapter and PDF page (from chapter openers and section headings throughout the text). Verdict: COMPLETE (closes with Ch. 36 on the frontiers of physics — Planck-scale constants and the scientific worldview — and the orientation pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
+
+**Book 2:** *College Physics for AP® Courses 2e* (student textbook) — United States, OpenStax, Rice University (senior contributing authors Lyublinskaya, Wolfe, Ingram, Pujji, Oberoi, Czuba); © 2026 Rice University per this PDF's licence page; CC BY-NC-SA 4.0. Title as printed: College Physics for AP® Courses 2e — OpenStax, Rice University (senior contributing authors Lyublinskaya, Wolfe, Ingram, Pujji, Oberoi, Czuba); © 2026 Rice University per this PDF's licence page; CC BY-NC-SA 4.0. Grade: 12 · Student book · Repo path: grade-12/approved-private/united-states/physics-for-ap-courses-2e.pdf · Release: full-quality-oversized-books (asset 266,882,977 bytes — exact match after a resume-download; the first grab attempt landed truncated and was discarded). Byte size: 266,882,977 · PDF pages: 1,773 · Offset: the PDF carries the book's printed folios; chapter starts cited by printed page from the book's own contents. Verdict: COMPLETE — identity proven by title/licence pages; full contents read (34 chapters); chapter openings verified in the text layer. Read basis stated honestly: for a 1,773-page reference textbook, placements are filed at chapter level from the complete contents plus verified chapter content — the same chapter-level basis as the other very large books in this set. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
+
+**Book 3:** *College Physics 2e* (student textbook) — United States, OpenStax, Rice University; CC BY-NC-SA. Title as printed: College Physics 2e — OpenStax, Rice University; CC BY-NC-SA. Grade: 13 · Student book · Repo path: grade-13/approved-private/united-states/college-physics-2e.pdf · Release: full-quality-oversized-books (asset 263,463,256 bytes — exact match). Byte size: 263,463,256 · PDF pages: 1,671 · Offset: printed folios carried in the PDF; chapter starts cited from this edition's own contents. Verdict: COMPLETE — identity proven by title page; full contents read. The text is the same 34-chapter OpenStax course as *College Physics for AP® Courses 2e* WITHOUT the AP apparatus (no "Connection for AP® Courses"/"Test Prep" sections; chapters run ~6–8% shorter), filed with its own chapter placements at this edition's own printed pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -10,9 +14,13 @@ countries: Italy
 | Sub lessons 1–2 — Constants and Planck units | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.36: Planck-scale constants — PDF p. 392 |
 | Sub lesson 3 — The scientific worldview | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.36: closing essay on the scientific vision — PDF p. 392 |
 | Do it first; key ideas; Do It Yourself | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, as cited in the rows above |
+| Ch. 34 Frontiers of Physics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 34, printed p. 1607 — cosmology, dark matter/energy, open questions as the course close |
+| Ch. 34 Frontiers of Physics (College Physics 2e) | United States, *College Physics 2e*, Ch. 34, printed p. 1517 |
 
-**Acceptance count: taught in 1 country (Italy).**
+**Acceptance count: taught in 2 countries (Italy, United States).**
 
 Placement choice, on the record: this NEW LESSON was built for the Italy placement “Frontiers of physics — Planck units and the scientific worldview” — italy-placements.md, Book 3, Ch.36, PDF p. 392 — a capstone essay chapter with no existing slug. It sits in physics/ as the Physics title's capstone and is registered in CURRICULUM.md Unit 18 (Physics).
 
-Searchable tags: frontiers of physics, planck units, planck length, constants of nature, quantum gravity, scientific worldview, models, italy, amaldi
+Extension note, on the record: the United States placements (Book 2, Ch. 34 Frontiers of Physics, printed p. 1607; Book 3, Ch. 34, printed p. 1517) close the college course with cosmology and dark matter/energy, a strand this lesson — built on the Planck-units and scientific-worldview close — did not carry; Sub lesson 4 (Cosmology, dark matter and dark energy — the universe as the last laboratory), its key idea and its questions were added in this merge to stock that strand, traced to those chapters and pages.
+
+Searchable tags: frontiers of physics, planck units, planck length, constants of nature, quantum gravity, scientific worldview, models, italy, amaldi, united states

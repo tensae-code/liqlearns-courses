@@ -25,3 +25,11 @@ a) Thermodynamics and optics  b) General relativity and quantum theory  c) Class
 **6.** (Sub lesson 3) In the closing essay's account, when a model fails against the world, that is…
 a) The method working — the failure directs the repair, as Rutherford's failure directed Bohr's  b) A scandal ending the subject  c) Proof that nothing can be known  d) A reason to keep the model anyway
 **Answer: b) A scandal ending the subject**
+
+**7.** (Sub lesson 4) Dark matter is believed to exist because…
+a) Telescopes photograph it directly  b) Galaxies rotate and clusters hold together as if far more mass were pulling than the shining matter provides  c) It emits the cosmic microwave background  d) It makes the expansion accelerate
+**Answer: b) Galaxies rotate and clusters hold together as if far more mass were pulling than the shining matter provides**
+
+**8.** (Sub lesson 4) The discovery of 1998 that changed cosmology was that the universe's expansion is…
+a) Slowing down  b) Stopped  c) Accelerating — the effect attributed to dark energy  d) Reversing
+**Answer: c) Accelerating — the effect attributed to dark energy**

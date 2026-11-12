@@ -1,6 +1,6 @@
 # Sources — Discovering the nucleus — Rutherford to Chadwick
 
-countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia
+countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia
 
 **Book 5:** *Fisika untuk SMA/MA Kelas XII* (student textbook) — Indonesia, Kemdikbudristek, Republik Indonesia, 2022. Title as printed: FISIKA — SMA/MA KELAS XII (Buku Siswa), Kemdikbudristek, Republik Indonesia, 2022. Grade: 12 (Kelas XII, Fase F) · Student book · Authors: Lia Laela Sarah, Irma Rahma Suwarma · Repo path: grade-12/gov/indonesia/fisika/student/full-year.pdf (TSV copy secured as GitHub release grade-12-gov-indonesia-fisika-student-full-year.pdf) · Verdict: COMPLETE (chapter structure verified against the Grade 12 teacher guide's chapter-by-chapter schemes and the student book's published contents: 9 chapters). Citation basis: the printed pages below are the teacher-guide Panduan Khusus page starts, which mirror the student chapters in order, exactly as given in the placements file. Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
 
+**Book 6:** *College Physics for AP® Courses 2e* (student textbook) — United States, OpenStax, Rice University (senior contributing authors Lyublinskaya, Wolfe, Ingram, Pujji, Oberoi, Czuba); © 2026 Rice University per this PDF's licence page; CC BY-NC-SA 4.0. Title as printed: College Physics for AP® Courses 2e — OpenStax, Rice University (senior contributing authors Lyublinskaya, Wolfe, Ingram, Pujji, Oberoi, Czuba); © 2026 Rice University per this PDF's licence page; CC BY-NC-SA 4.0. Grade: 12 · Student book · Repo path: grade-12/approved-private/united-states/physics-for-ap-courses-2e.pdf · Release: full-quality-oversized-books (asset 266,882,977 bytes — exact match after a resume-download; the first grab attempt landed truncated and was discarded). Byte size: 266,882,977 · PDF pages: 1,773 · Offset: the PDF carries the book's printed folios; chapter starts cited by printed page from the book's own contents. Verdict: COMPLETE — identity proven by title/licence pages; full contents read (34 chapters); chapter openings verified in the text layer. Read basis stated honestly: for a 1,773-page reference textbook, placements are filed at chapter level from the complete contents plus verified chapter content — the same chapter-level basis as the other very large books in this set. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How the nucleus was found — Rutherford and the neutron | Grade 11 Student Textbook, printed pp. 291–298 |
@@ -19,9 +21,10 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia
 | Ch. 5 Electronics, §5.1 Electron (Malaysia) | Malaysia, *Physics Form 5*, Ch. 5 Electronics, §5.1 Electron — printed p. 174 — thermionic emission and cathode-ray oscilloscope open electronics (the electron first, devices after) |
 | Strand 8 §8.1 History of the Atom (Fiji, Year 13) | Fiji, *Physics for Year 13*, Strand 8 §8.1 History of the Atom — printed p. 194 |
 | Bab 9, Subbab A Penemuan Inti Atom (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab A Penemuan Inti Atom — guide p. 200 |
+| Ch. 30 Atomic Physics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 30 Atomic Physics, printed p. 1411 — atomic spectra, X-rays, lasers |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, discovering the nucleus — rutherford to chadwick, neutron
+Searchable tags: physics, grade 11, nuclear physics, discovering the nucleus — rutherford to chadwick, neutron, united states

@@ -1,6 +1,6 @@
 # Sources — What heat is
 
-countries: Ethiopia, Brazil, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Syria, Slovenia, Sudan
+countries: Ethiopia, Brazil, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Syria, Slovenia, Sudan, United States
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Brazil, Samoa (curriculum evidence only), Gabon (teacher-gu
 
 **Book 8:** *الفيزياء — للصف الثاني الثانوي (Physics — Second Secondary Year), revised edition* (student textbook) — Sudan, Sudan Ministry of Education / NCCER — title page: "المنقح" (revised); second-edition preface lists the changes. Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 16,681,047. PDF pages: 213. Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 5 units through Heat and the laws of thermodynamics, ending with unit exercises. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 9:** *Physics for Utah SEEd Standards, Revised 2025 — Utah State Board of Education OER Textbook* (student textbook) — United States, Utah State Board of Education (content © Utah State Board of Education 2025, CC BY-NC-SA; built on CK-12 Foundation material, CC BY-NC 3.0; printed May 2025). Title as printed: Physics for Utah SEEd Standards, Revised 2025 — Utah State Board of Education OER Textbook (content © Utah State Board of Education 2025, CC BY-NC-SA; built on CK-12 Foundation material, CC BY-NC 3.0; printed May 2025). Grade: 12 · Student book · Repo path: grade-12/approved-private/united-states/science/full-year.pdf. Byte size: 28,763,414 · PDF pages: 191 · Offset: printed p. N ≈ PDF p. N+2 (the PDF carries its own printed folios). Verdict: COMPLETE — full text read (32,125 words); title/credits pages prove identity; the book is organised by Utah SEEd standard, one chapter per standard. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The concept of heat | Grade 11 Student Textbook, printed pp. 176–178 |
@@ -29,7 +31,8 @@ countries: Ethiopia, Brazil, Samoa (curriculum evidence only), Gabon (teacher-gu
 | Unit 5 Heat and the laws of thermodynamics: heat as molecular-motion energy (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. 159 |
 
 | Thermal energy — heat transfer observed at the casserole, conduction in context (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 3: L'énergie thermique, printed p. 35 |
+| Thermal energy — PHYS.2.2 (Utah SEEd) | United States, *Physics for Utah SEEd Standards (Revised 2025)*, PHYS.2.2 Thermal Energy, printed p. 50 — thermal energy as its own standard |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Brazil, Syria, Slovenia, Sudan).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Syria, Slovenia, Sudan, United States).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
 
-Searchable tags: physics, grade 11, heat conduction and calorimetry, what heat is, temperature
+Searchable tags: physics, grade 11, heat conduction and calorimetry, what heat is, temperature, united states
