@@ -1975,6 +1975,48 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 20954 | pictures/20954.gif | tracing the while loop around as num grows 2, 4, 6, 8 | Computer Science and ICT — If and While in Flowgorithm — Even or Odd |
 | 20955 | pictures/20955.gif | the bowl sliding to catch falling apples | Computer Science and ICT — Project: A Scratch Game and an Ethiopian Story |
 | 20956 | pictures/20956.gif | a sprite reaching the edge and bouncing back | Computer Science and ICT — Scratch Loops and Conditions |
+| 20500 | pictures/20500.webp | the four forms of an image | Computer Science and ICT — What an Image Is |
+| 20501 | pictures/20501.webp | a photo zoomed into pixels | Computer Science and ICT — Digital Images — Made of Pixels |
+| 20502 | pictures/20502.gif | zooming in until pixels appear | Computer Science and ICT — Digital Images — Made of Pixels |
+| 20503 | pictures/20503.webp | RGB mixing and the parts of a logo | Computer Science and ICT — Digital Images — Made of Pixels |
+| 20504 | pictures/20504.gif | the three basics overlapping | Computer Science and ICT — Digital Images — Made of Pixels |
+| 20505 | pictures/20505.webp | the three-stage flow — input, analysis, output | Computer Science and ICT — Image Processing — Capture, Work, Output |
+| 20506 | pictures/20506.webp | five forms merging into one screen | Computer Science and ICT — Multimedia — Many Forms, One Presentation |
+| 20507 | pictures/20507.webp | a four-scene storyboard strip | Computer Science and ICT — Storyboarding — Planning Before Making |
+| 20508 | pictures/20508.webp | the six planning steps as a staircase | Computer Science and ICT — Storyboarding — Planning Before Making |
+| 20509 | pictures/20509.webp | the shelf of programs, Photoshop forward | Computer Science and ICT — Image Processing Software — Meeting Photoshop |
+| 20510 | pictures/20510.webp | the Create New panel | Computer Science and ICT — Starting Photoshop — A New Canvas |
+| 20511 | pictures/20511.gif | clicking Create and the canvas opening | Computer Science and ICT — Starting Photoshop — A New Canvas |
+| 20512 | pictures/20512.webp | the Photoshop window, parts A to K | Computer Science and ICT — The Photoshop Window — Naming Its Parts |
+| 20513 | pictures/20513.webp | a tool family fanned open | Computer Science and ICT — The Photoshop Toolbox — Selecting and Moving Tools |
+| 20514 | pictures/20514.gif | right-clicking a tool and its family flying out | Computer Science and ICT — The Photoshop Toolbox — Selecting and Moving Tools |
+| 20515 | pictures/20515.webp | retouching and painting tools, before and after | Computer Science and ICT — Toolbox — Retouching and Painting Tools |
+| 20516 | pictures/20516.gif | the Clone Stamp copying texture over a blemish | Computer Science and ICT — Toolbox — Retouching and Painting Tools |
+| 20517 | pictures/20517.webp | drawing, typing and navigation tools | Computer Science and ICT — Toolbox — Drawing, Typing and Navigation Tools |
+| 20518 | pictures/20518.webp | a crop border being pulled in | Computer Science and ICT — Cropping with the Crop Tool |
+| 20519 | pictures/20519.gif | the crop border dragged tighter, then Enter | Computer Science and ICT — Cropping with the Crop Tool |
+| 20520 | pictures/20520.webp | the 8 and 10 options, the locked border | Computer Science and ICT — Cropping to a Print Size |
+| 20521 | pictures/20521.webp | a dashed marquee over a photo | Computer Science and ICT — Cropping with the Marquee Tool |
+| 20522 | pictures/20522.gif | the marching-ants marquee being drawn | Computer Science and ICT — Cropping with the Marquee Tool |
+| 20523 | pictures/20523.webp | the Image Size window | Computer Science and ICT — Resizing an Image |
+| 20524 | pictures/20524.webp | an eye before and after red-eye fixing | Computer Science and ICT — Fixing Red Eye |
+| 20525 | pictures/20525.gif | painting over the eye, the red fading | Computer Science and ICT — Fixing Red Eye |
+| 20526 | pictures/20526.webp | a dark photo and its lightened copy | Computer Science and ICT — Brightening a Dark Photo |
+| 20527 | pictures/20527.webp | a hot spot and the Clone Stamp settings | Computer Science and ICT — Removing Hot Spots with the Clone Stamp |
+| 20528 | pictures/20528.gif | the shiny area darkening stroke by stroke | Computer Science and ICT — Removing Hot Spots with the Clone Stamp |
+| 20529 | pictures/20529.webp | a histogram and its three sliders | Computer Science and ICT — Colour Correction — Levels and the Histogram |
+| 20530 | pictures/20530.gif | the white slider moving, the photo brightening | Computer Science and ICT — Colour Correction — Levels and the Histogram |
+| 20531 | pictures/20531.webp | an S-curve and the contrast it makes | Computer Science and ICT — Colour Correction — Curves |
+| 20532 | pictures/20532.gif | a point on the curve dragged, contrast changing | Computer Science and ICT — Colour Correction — Curves |
+| 20533 | pictures/20533.webp | one photo at three saturation levels | Computer Science and ICT — Colour Correction — Saturation |
+| 20534 | pictures/20534.gif | the saturation slider sweeping grey to vivid | Computer Science and ICT — Colour Correction — Saturation |
+| 20535 | pictures/20535.webp | the Image menu's auto options | Computer Science and ICT — Auto Colour and the Automatic Fixes |
+| 20536 | pictures/20536.webp | soft, sharpened, over-sharpened | Computer Science and ICT — Sharpening — What It Does and When to Stop |
+| 20537 | pictures/20537.webp | the Unsharp Mask dialog | Computer Science and ICT — Sharpen with Unsharp Mask |
+| 20538 | pictures/20538.webp | the Smart Sharpen panel, Amount 150% | Computer Science and ICT — Sharpen with Smart Sharpen |
+| 20539 | pictures/20539.webp | grey High Pass edges, then the blended result | Computer Science and ICT — Sharpen with High Pass |
+| 20540 | pictures/20540.gif | the High Pass blend bringing the photo back, sharpened | Computer Science and ICT — Sharpen with High Pass |
+| 20541 | pictures/20541.webp | a finished business card | Computer Science and ICT — Project: Design a Card in Photoshop |
 | 11400 | pictures/11400.webp | desert types and rainfall bars | Social Studies — Global Issues — What a Desert Is |
 | 11401 | pictures/11401.webp | desertification panels, land losing its cover | Social Studies — Global Issues — Desertification |
 | 11402 | pictures/11402.gif | GIF: topsoil washing away in the rain | Social Studies — Global Issues — Desertification |
@@ -2311,3 +2353,61 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 14405 | pictures/14405.webp | Amhara dances by district, a table (incl. minjar) | Performing and Visual Arts — Ethiopian Traditional Dances |
 | 14406 | pictures/14406.webp | the thirteen natures board | Performing and Visual Arts — Indigenous Knowledge in Theatre and Film |
 | 14407 | pictures/14407.webp | the Wollo protocol ladder — 8 steps | Performing and Visual Arts — Folk Dance Styles and Eskesta |
+| 13500 | pictures/13500.webp | children walking hand in hand along a zigzag line | Physical Education — Walking in Patterns |
+| 13501 | pictures/13501.webp | children running on the spot with arms out like wings | Physical Education — Running Basics |
+| 13502 | pictures/13502.gif | children running on the spot, then opening the arms like wings | Physical Education — Running Basics |
+| 13503 | pictures/13503.webp | children two-foot jumping through a zigzag of rings | Physical Education — Jumping and Hopping |
+| 13504 | pictures/13504.gif | the kangaroo two-foot jump | Physical Education — Jumping and Hopping |
+| 13505 | pictures/13505.webp | children sliding sideways in a line | Physical Education — Sliding and Changing Direction |
+| 13506 | pictures/13506.gif | the sideways slide | Physical Education — Sliding and Changing Direction |
+| 13507 | pictures/13507.webp | a child jumping in a sack, then stepping out and running | Physical Education — Combined Travelling and On-the-Spot Movements |
+| 13508 | pictures/13508.gif | the sack chain | Physical Education — Combined Travelling and On-the-Spot Movements |
+| 13509 | pictures/13509.webp | a child skipping with their own rope | Physical Education — Heart and Breathing Fitness |
+| 13510 | pictures/13510.gif | continuous rope skipping with a steady rhythm | Physical Education — Heart and Breathing Fitness |
+| 13511 | pictures/13511.webp | two children holding hands and jumping together | Physical Education — Muscle Strength and Endurance |
+| 13512 | pictures/13512.gif | the frog jump | Physical Education — Muscle Strength and Endurance |
+| 13513 | pictures/13513.webp | a child in a seated forward stretch touching their toes | Physical Education — Stretching and Flexibility |
+| 13514 | pictures/13514.gif | the waist twist right and left with control | Physical Education — Stretching and Flexibility |
+| 13515 | pictures/13515.webp | a child springing up from lying on their back into a run | Physical Education — Agility — Rising, Running and Quick Changes |
+| 13516 | pictures/13516.gif | lying on the back, rising and running in one quick movement | Physical Education — Agility — Rising, Running and Quick Changes |
+| 13517 | pictures/13517.webp | a child side-rolling on a mat | Physical Education — Gymnastics Basics — Positions, Rolls and Supports |
+| 13518 | pictures/13518.gif | the forward roll | Physical Education — Gymnastics Basics — Positions, Rolls and Supports |
+| 13519 | pictures/13519.webp | a child balancing on one leg with arms stretched out | Physical Education — Balance and Calisthenics |
+| 13520 | pictures/13520.gif | a one-leg balance with arms out, held through a wobble | Physical Education — Balance and Calisthenics |
+| 13521 | pictures/13521.webp | children clapping overhead on the count | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 13522 | pictures/13522.gif | the counted clap sequence | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 13523 | pictures/13523.webp | a counted waist-bend sequence with the count numbers shown | Physical Education — Counted Gymnastics Sequences |
+| 13524 | pictures/13524.gif | a counted 1-to-8 waist sequence performed on the counts | Physical Education — Counted Gymnastics Sequences |
+| 13525 | pictures/13525.webp | children sprinting from a start line on a signal | Physical Education — Sprinting and Hurdle Running |
+| 13526 | pictures/13526.gif | a sprint start on a signal | Physical Education — Sprinting and Hurdle Running |
+| 13527 | pictures/13527.webp | a circle of children passing a ball sideways | Physical Education — Ball Handling on the Spot |
+| 13528 | pictures/13528.gif | throwing a ball above the head and catching it without moving the feet | Physical Education — Ball Handling on the Spot |
+| 13529 | pictures/13529.webp | one child kicking a ball to a partner who traps it | Physical Education — Kicking, Passing and Dribbling |
+| 13530 | pictures/13530.gif | the two-step run-up kick to a partner | Physical Education — Kicking, Passing and Dribbling |
+| 13600 | pictures/13600.webp | two rows passing a ball | Physical Education — Games for Self-Control |
+| 13601 | pictures/13601.webp | handkerchief-snatch game in a circle | Physical Education — Games for Playing Together |
+| 13602 | pictures/13602.webp | Cat and Mouse around a circle | Physical Education — Games for Quick Decisions |
+| 13603 | pictures/13603.webp | copying a partner's movement | Physical Education — Games for Self-Leadership |
+| 13604 | pictures/13604.webp | a child copying a partner's two movements | Physical Education — Games for Self-Leadership and Positive Thinking |
+| 13605 | pictures/13605.webp | finding a ball with eyes covered | Physical Education — Games for Awareness and Quick Response |
+| 13606 | pictures/13606.webp | the Fishing game played together | Physical Education — Games for Communication and Cooperation |
+| 13607 | pictures/13607.webp | girls dancing a local traditional dance | Physical Education — Traditional Dances of Our Area (Girls) |
+| 13608 | pictures/13608.webp | boys dancing with sticks at Buhe | Physical Education — Traditional Dances of Our Area (Boys) |
+| 13609 | pictures/13609.webp | boys and girls dancing together in a circle | Physical Education — Traditional Dances of Our Area (Joint) |
+| 13610 | pictures/13610.webp | girls playing a local traditional game | Physical Education — Traditional Games of Our Area (Girls) |
+| 13611 | pictures/13611.webp | boys playing a local traditional game | Physical Education — Traditional Games of Our Area (Boys) |
+| 13612 | pictures/13612.webp | children holding each other in a chain game | Physical Education — Traditional Games of Our Area (Joint) |
+| 13613 | pictures/13613.webp | men performing the work fukera dance while threshing | Physical Education — Traditional Dances of Our District |
+| 13614 | pictures/13614.webp | a child playing the five-pebble Qilmosh game | Physical Education — Traditional Games of Our District |
+| 13615 | pictures/13615.webp | a men's work dance | Physical Education — Traditional Dances of Our Zone |
+| 13616 | pictures/13616.webp | the genna stick-and-ball game | Physical Education — Traditional Games of Our Zone |
+| 13617 | pictures/13617.webp | the four parts of physical fitness | Physical Education — What Physical Fitness Is |
+| 13618 | pictures/13618.webp | three gymnastics movements in a strip | Physical Education — What Gymnastics Is and Why We Do It |
+| 13619 | pictures/13619.webp | crossing at a marked pedestrian crossing | Health Education — Paying Attention and Crossing the Road Safely |
+| 13620 | pictures/13620.gif | ball travelling down a row | Physical Education — Games for Self-Control |
+| 13621 | pictures/13621.gif | the mouse slips through the circle gap | Physical Education — Games for Quick Decisions |
+| 13622 | pictures/13622.gif | the joint circle-dance step | Physical Education — Traditional Dances of Our Area (Joint) |
+| 13623 | pictures/13623.gif | the Qilmosh toss and gather | Physical Education — Traditional Games of Our District |
+| 13624 | pictures/13624.gif | the genna strike sends the ball into the circle | Physical Education — Traditional Games of Our Zone |
+| 13625 | pictures/13625.gif | the name-called dash into the circle | Physical Education — Games for Awareness and Quick Response |
+| 13626 | pictures/13626.gif | leader moves, partner mirrors | Physical Education — Games for Self-Leadership |
