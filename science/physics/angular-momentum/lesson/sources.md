@@ -1,10 +1,12 @@
 # Sources — Angular momentum
 
-countries: Sri Lanka, Kuwait
+countries: Sri Lanka, Kuwait, Bhutan
 
 **Book 1:** *Science for Technology: Physics Part II* (student textbook) — Sri Lanka, Educational Publications Department, first edition 2016. Title as printed: தொழினுட்பவியலுக்கான விஞ்ஞானம், பௌதிகவியல் பகுதி – II; G.C.E. (A/L) Technology stream; Educational Publications Department; first edition 2016. Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/science-for-technology/textbook/physics-part-2.pdf · Release: mid-size-books-5. Byte size: 19,930,228 · PDF pages: 124 · Offset: printed p. N = PDF p. N+8 (printed p. 1 = PDF p. 9). Verdict: COMPLETE — identity proven by cover/title/imprint; full contents (printed pp. vii–viii) read; Chapter 1 read at its opening. Read basis: contents-anchored read with chapter-opening verification (image-only scan). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
 
 **Book 2:** *الفيزياء، الصف الثاني عشر، الفصل الدراسي الأول (Physics, Grade 12, Term 1 — student book)* — Kuwait. Grade 12, student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait. Repo path: grade-12/gov/kuwait/physics/student/term-1.pdf (release full-quality-oversized-books). Bytes: 111,651,248 (exact vs record). PDF pages: 122. Offset: PDF page = printed page + 3 (proven: Unit 1 opener PDF 15 carries printed folio 12). Verdict: COMPLETE read (contents pages read visually; Arabic text layer is font-garbled). Coverage gap in the secured set, carried on the record: the Grade 12 Term 1 applications book is not in the records. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
+**Book 3:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,7 +17,9 @@ countries: Sri Lanka, Kuwait
 | Do it first; key ideas; Do It Yourself | Sri Lanka, *Science for Technology: Physics Part II*, as cited in the rows above |
 | Ch. 2, lesson 2-4 "Angular Momentum (L)" — angular momentum and its conservation (Kuwait, Grade 12 Term 1) | Kuwait, *Physics, Grade 12, Term 1 (student book)*, printed p. 76 |
 
-**Acceptance count: taught in 2 countries (Sri Lanka, Kuwait).**
+| Angular momentum — the momentum of turning, and why it is conserved — Ch. 11: angular momentum of a particle and of a rigid body — printed pp. 302–310 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 11: angular momentum of a particle and of a rigid body — printed pp. 302–310 |
+
+**Acceptance count: taught in 3 countries (Sri Lanka, Kuwait, Bhutan).**
 
 Placement choice, on the record: this NEW LESSON was built for the Sri Lanka placement “Angular momentum” — sri-lanka-placements.md, §1.10 — கோண உந்தம் (angular momentum) as its own section; cross-reference: the moment-of-inertia lesson `moment-of-inertia-rotations-mass` (§1.9 of the same chapter) — printed p. 14. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

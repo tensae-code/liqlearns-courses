@@ -1,6 +1,6 @@
 # Sources — Echoes at work — echolocation and ultrasound
 
-countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only)
+countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodi
 
 **Book 7:** *PISA Sample Test — Physics Grade 8 (Teacher)* (PRIVATE exam-prep / sample-test booklet — NOT a MoEYS textbook, labelled PRIVATE and cited as evidence of the tested syllabus only, outside the acceptance count) — Cambodia, Preah Sisowath High School, New Generation School, 2026. Grade 8 · Teacher version — the teacher twin of the student booklet: its preface describes it as "answers and explanations to the exercises, Grade 8 Physics, aligned to PISA standards". Repo path: grade-08/gov/cambodia/physics/pisa-physics-sample-test-teacher.pdf. Byte size: 9,312,197 (no size recorded; Contents API). PDF pages: 170. Offset: printed p. = PDF p. − 8. Verdict: COMPLETE structural read — same contents list as the student version (verified page-for-page at the contents), with the extra ~69 pages being the worked answers/explanations following the same items. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
 
+**Book 8:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Echo: reflected sound, the 0.1 s rule, hard surfaces reflecting and soft absorbing | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 197–198 (student placement 58) |
@@ -28,7 +30,9 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodi
 | Ch. 6 Lesson 2: echoes at work — sonar, bats, ultrasound ranging (Cambodia, Grade 8 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 8, Student version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 6 Lesson 2 — printed p. 80 |
 | Ch. 6: worked answers on sound production, echoes, resonance (Cambodia, Grade 8, teacher version — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 8, Teacher version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 6 — printed pp. 72–92 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Kenya).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+| Ch. 6: uses of ultrasound (medical scanning, SONAR — ocean depth, bats) and radio waves in RADAR — printed pp. 151–158 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 6: uses of ultrasound (medical scanning, SONAR — ocean depth, bats) and radio waves in RADAR — printed pp. 151–158 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Kenya, Bhutan).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

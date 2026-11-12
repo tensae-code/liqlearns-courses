@@ -1,8 +1,10 @@
 # Sources — The universe as a whole — galaxies, size and history of everything
 
-countries: Slovenia
+countries: Slovenia, Bhutan
 
 **Book 1:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
+
+**Book 2:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,7 +14,9 @@ countries: Slovenia
 | Sub lesson 3 — The history of everything — expansion and the hot beginning | Slovenia, *Fizika 8*, Universe: Vesolje (The Universe) — printed p. 77 (unit folder 147) |
 | Do it first; key ideas; Do It Yourself | Slovenia, *Fizika 8*, as cited in the rows above |
 
-**Acceptance count: taught in 1 country (Slovenia).**
+| Elementary particles and the Big Bang — quarks, leptons and the early universe — Ch. 44 Quarks, Leptons, and the Big Bang — printed p. 1334 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 44 Quarks, Leptons, and the Big Bang — printed p. 1334 |
+
+**Acceptance count: taught in 2 countries (Slovenia, Bhutan).**
 
 Placement choice, on the record: this NEW LESSON was built for the Slovenia placement “The universe as a whole — galaxies, size and history of everything” — slovenia-placements.md, Universe: Vesolje (The Universe) — printed p. 77 (unit folder 147). It sits in earth-and-space/ and is registered in CURRICULUM.md Unit 19 (Earth and Space).
 

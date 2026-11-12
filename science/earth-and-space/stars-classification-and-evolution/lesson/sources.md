@@ -1,10 +1,12 @@
 # Sources — Stars — classification and evolution
 
-countries: Bulgaria, Yemen
+countries: Bulgaria, Yemen, Bhutan
 
 **Book 1:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
 **Book 2:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
+**Book 3:** *Physics Textbook, Class X* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2015, Reprint 2018. Grade: 10 · Student book · Repo path: grade-10/gov/bhutan/physics/full-year.pdf (source: REC Bhutan, x-physics-textbook-2019.pdf). Byte size: 5,022,766 (exact match). PDF pages: 193 (record: 193). Offset: printed p. = PDF p. − 25 (printed p. 1 is PDF p. 26); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 193 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,7 +17,9 @@ countries: Bulgaria, Yemen
 | Do it first; key ideas; Do It Yourself | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, as cited in the rows above |
 | U9 Cosmic physics: stars, their birth and evolution (printed pp. 204–205) and distances between stars (printed p. 208) — the stars birth-and-evolution strand of the cosmic placement (Yemen, Grade 12) — stocked into this existing shared lesson per the Yemen merge brief; the placements file tags it NEW LESSON NEEDED: Cosmic physics — the expanding universe, galaxies and the life of stars | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U9 Cosmic physics: stars, their birth and evolution (printed pp. 204–205) and distances between stars (printed p. 208) — the stars birth-and-evolution strand of the cosmic placement — printed p. 198 |
 
-**Acceptance count: taught in 2 countries (Bulgaria, Yemen).**
+| The life of a star — how stars evolve over billions of years — Ch. 6: evolution of stars and galaxies over long timescales — printed p. 140 (Bhutan, Class X (Grade 10)) | Bhutan, *Physics Textbook, Class X*, Ch. 6: evolution of stars and galaxies over long timescales — printed p. 140 |
+
+**Acceptance count: taught in 3 countries (Bulgaria, Yemen, Bhutan).**
 
 Placement choice, on the record: this NEW LESSON was built for the Bulgaria placement “Stars — classification and evolution” — bulgaria-placements.md, Book 4, L40–41, printed pp. 210, 214 — earth-and-space/ had no stellar-evolution lesson. It sits in earth-and-space/ and is registered in CURRICULUM.md.
 

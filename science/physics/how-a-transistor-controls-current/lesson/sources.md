@@ -1,6 +1,6 @@
 # Sources — How a transistor controls current
 
-countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait
+countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait
 
 **Book 5:** *الفيزياء، الصف الثاني عشر، الفصل الدراسي الثاني (Physics, Grade 12, Term 2 — student book + applications, two bound sections)* — Kuwait. Grade 12, Term 2 — recorded as "workbook", but the file binds TWO sections: section 1 (student book + applications: Unit 2) and section 2 (student book, "2/2": Units 3–4); the record's kind label understates the file. Edition: Ministry of Education, Kuwait; section-2 title page: second edition 1447H / 2025–2026. Repo path: grade-12/gov/kuwait/physics/student/term-2-workbook.pdf (release mid-size-books-2). Bytes: 27,964,924 (exact vs record). PDF pages: 158. Offset: section 1: PDF = printed + 3 (proven: PDF 14–16 carry printed folios 11–13); section 2 restarts its own printed pagination: PDF = printed + 13 (proven: PDF 83 carries printed folio 70). Verdict: COMPLETE read (both sections' contents read visually; content verified on contact sheets — the file is image-only, no usable text layer). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 6:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How a transistor works — biasing and the current rule | Grade 12 Student Textbook, printed pp. 156–157 |
@@ -20,7 +22,9 @@ countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait
 | Ch.8 The transistor as amplifier and as switch (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.8 The transistor as amplifier and as switch — printed p. 182 |
 | Unit 3, Ch. 1, lesson 1-2 "The Transistor" (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 79 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Malaysia, Egypt, Kuwait).**
+| Ch. 41 Conduction of Electricity in Solids: metals, semiconductors, doping, the transistor — printed pp. 1252, 1270 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 41 Conduction of Electricity in Solids: metals, semiconductors, doping, the transistor — printed pp. 1252, 1270 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

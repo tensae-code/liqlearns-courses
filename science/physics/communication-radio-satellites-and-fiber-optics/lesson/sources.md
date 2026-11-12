@@ -1,6 +1,6 @@
 # Sources — Communication — radio, satellites and fiber optics
 
-countries: Ethiopia, Sudan, Indonesia, United States, Iraq, Egypt, Bulgaria
+countries: Ethiopia, Sudan, Indonesia, United States, Iraq, Egypt, Bulgaria, Bhutan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Sudan, Indonesia, United States, Iraq, Egypt, Bulgaria
 
 **Book 7:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
+**Book 8:** *Physics Textbook, Class X* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2015, Reprint 2018. Grade: 10 · Student book · Repo path: grade-10/gov/bhutan/physics/full-year.pdf (source: REC Bhutan, x-physics-textbook-2019.pdf). Byte size: 5,022,766 (exact match). PDF pages: 193 (record: 193). Offset: printed p. = PDF p. − 25 (printed p. 1 is PDF p. 26); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 193 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Physics in communication | Grade 12 Student Textbook, printed pp. 20–23 |
@@ -26,6 +28,8 @@ countries: Ethiopia, Sudan, Indonesia, United States, Iraq, Egypt, Bulgaria
 | Ch.3 Optical fibres (enrichment) — light kept inside the fibre by total reflection (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — Term 2 (English), 2025–2026*, Ch.3 Optical fibres (enrichment) — light kept inside the fibre by total reflection — printed p. 61 |
 | L19 Modern applications of radio waves and microwaves (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L19 Modern applications of radio waves and microwaves — printed p. 102 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Indonesia, United States, Iraq, Egypt, Bulgaria).**
+| Ch. 5: communication through waves — information along optical fibres, global transmission via satellites, reflection/refraction/diffraction in communication — printed pp. 113–115 (Bhutan, Class X (Grade 10)) | Bhutan, *Physics Textbook, Class X*, Ch. 5: communication through waves — information along optical fibres, global transmission via satellites, reflection/refraction/diffraction in communication — printed pp. 113–115 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Sudan, Indonesia, United States, Iraq, Egypt, Bulgaria, Bhutan).**
 
 Searchable tags: physics, grade 12, application of physics in other fields, communication — radio, satellites and fiber optics, magnet, united states, iraq, egypt

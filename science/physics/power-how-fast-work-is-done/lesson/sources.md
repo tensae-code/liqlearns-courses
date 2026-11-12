@@ -1,6 +1,6 @@
 # Sources — Power — how fast work is done
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Nicaragua, Slovenia, Sudan, Cambodia, Mongolia, Yemen
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Nicaragua, Slovenia, Sudan, Cambodia, Mongolia, Yemen, Bhutan
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Nicaragua, Sloven
 
 **Book 12:** *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)* (student textbook) — Yemen, Republic of Yemen, Ministry of Education, Curriculum Sector / General Directorate of Curricula; printing 1448H – 2027 (cover). Grade: 10 · Student book · Repo: release `mid-size-books`, asset `grade-10-gov-yemen-physics-student-full-year.pdf` — 13,235,390 bytes. PDF pages: 210. Printed page = PDF page − 1 (folios 3–7 verified on PDF pp. 4–8). Verdict: COMPLETE (Unit 8 evaluation, then appendices from printed p. 196; contents and closing pages agree). Structure: 8 units — physics & measurement; motion in a straight line; properties of solids and fluids; work, power & energy; electrostatics; electric current; thermal measurements; the effect of heat on bodies. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
+**Book 13:** *Physics Textbook, Class X* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2015, Reprint 2018. Grade: 10 · Student book · Repo path: grade-10/gov/bhutan/physics/full-year.pdf (source: REC Bhutan, x-physics-textbook-2019.pdf). Byte size: 5,022,766 (exact match). PDF pages: 193 (record: 193). Offset: printed p. = PDF p. − 25 (printed p. 1 is PDF p. 26); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 193 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Power — how fast work is done | Ethiopia, *Grade 9 Student Textbook*, printed pp. 80–84 |
@@ -43,7 +45,9 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Nicaragua, Sloven
 | §1.3 (Mongolia, Grade 11) | Mongolia, *Физик XI*, §1.3 — printed p. 29 |
 | U4 Power (Yemen, Grade 10) | Yemen, *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)*, U4 Power — printed p. 92 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nicaragua, Slovenia, Sudan, Cambodia, Mongolia, Yemen).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
+| Ch. 3: work and power, incl. work where force is not along the displacement, W = Fd — printed p. 42 (Bhutan, Class X (Grade 10)) | Bhutan, *Physics Textbook, Class X*, Ch. 3: work and power, incl. work where force is not along the displacement, W = Fd — printed p. 42 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Nicaragua, Slovenia, Sudan, Cambodia, Mongolia, Yemen, Bhutan).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

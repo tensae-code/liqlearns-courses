@@ -1,6 +1,6 @@
 # Sources — Continuity — narrow means fast
 
-countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt
+countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt
 
 **Book 7:** *Physics, Second Secondary — First Term* (student textbook, English-medium edition) — Egypt, Ministry of Education, Egypt, 2025–2026 school year (cover and title page). Grade: Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/egypt/Physics_EN_Secondary2_TR1.pdf · Byte size: 29,643,367 (= recorded size exactly) · PDF pages: 99 · Offset: printed pages follow the segment the part sits in — front matter and Units 1–2: PDF = printed (proven: PDF p.27 footer "27", p.39 footer "39", p.45 footer "45"); the Properties-of-Matter segment: printed = PDF − 1 (proven: PDF p.63 header "62", p.79 header "78"); the Gas Laws segment: PDF = printed again (PDF p.82 header "82" … p.98 header "98"). Verdict: COMPLETE — all four units, six chapters, chapter summaries and exercise sets present to the end. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثاني الثانوي، الفصل الدراسي الأول* (grade-11/gov/egypt/Physics_Arabic_2_Secondary_TR1.pdf, 16,164,999 bytes = recorded size exactly, 98 PDF pages), and the French edition, *Physique, Deuxième année secondaire — Premier semestre* (grade-11/gov/egypt/Physics_F_Secondary2_TR1.pdf, 26,076,189 bytes = recorded size exactly, 99 PDF pages). Library debt, carried on the record: Egypt Grade 10 Physics (both terms) is absent from the secured set — the Grade 10 Term 2 slot in the records holds Philosophy and Logic, not Physics. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
+**Book 8:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The equation of continuity | Grade 12 Student Textbook, printed pp. 105–106 |
@@ -29,6 +31,8 @@ countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt
 | Ch. 1 Lesson 8: fluid dynamics (Cambodia, Grade 11) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១១ (Physics, Grade 11)*, Ch. 1 Lesson 8 — printed p. 106 |
 | Ch.4 Steady flow and the continuity equation (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — First Term (English), 2025–2026*, Ch.4 Steady flow and the continuity equation — printed p. 52 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt).**
+| Ch. 14 Fluids — printed p. 386 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 14 Fluids — printed p. 386 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan).**
 
 Searchable tags: physics, grade 12, fluid mechanics, continuity — narrow means fast, incompressible, uganda, kenya, cambodia, egypt

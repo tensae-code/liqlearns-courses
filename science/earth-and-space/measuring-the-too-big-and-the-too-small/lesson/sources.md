@@ -1,17 +1,21 @@
 # Sources — Measuring the too-big and the too-small
 
-countries: Ethiopia (teacher-guide evidence only), Slovenia
+countries: Ethiopia (teacher-guide evidence only), Slovenia, Bhutan
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
 **Book 3:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
+
+**Book 4:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — measuring the too-big and the too-small (teacher guide — evidence): Unit 6's outcome strand on techniques for measuring and estimating quantities too big (the Earth itself) and too small (continental drift, the guide's printed example) to measure directly; the globe-and-string and change-over-time workings are the lesson's own classroom realisation of that strand, built to the guide's two named cases | Ethiopia, *General Science Teacher's Guide, Grade 7*, Unit 6 outcomes, printed p. 110 |
 | Introduction: Merjenje in velikostne stopnje (Measurement and orders of magnitude) (Slovenia) | Slovenia, *Fizika 8*, Introduction: Merjenje in velikostne stopnje (Measurement and orders of magnitude) — printed p. 15 |
 
-**Acceptance count: taught in 1 country (Slovenia).** Ethiopia is named as teacher-guide evidence only (*General Science Teacher's Guide, Grade 7* — teacher guide), not added to this count.
+| Ch. 7: relative size/position of heavenly bodies — the parallax method and Kepler's third law — printed pp. 167–169 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 7: relative size/position of heavenly bodies — the parallax method and Kepler's third law — printed pp. 167–169 |
+
+**Acceptance count: taught in 2 countries (Slovenia, Bhutan).** Ethiopia is named as teacher-guide evidence only (*General Science Teacher's Guide, Grade 7* — teacher guide), not added to this count.
 
 PAIRING WARNING, carried exactly: this Grade 7 teacher guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.). Every guide row below is syllabus-level teacher evidence only, never a page-key to the student book, and teacher evidence never counts as pupil-taught.
 

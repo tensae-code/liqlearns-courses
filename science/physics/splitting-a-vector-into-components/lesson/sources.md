@@ -1,6 +1,6 @@
 # Sources — Splitting a vector into components
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait, Bhutan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Sloveni
 
 **Book 8:** *الفيزياء، الصف العاشر، الفصل الدراسي الأول (Physics, Grade 10, Term 1 — student book + applications workbook)* — Kuwait. Grade 10, student book + applications (workbook), Term 1. Edition: First edition 2026/2027 (1448H), Ministry of Education, Kuwait. Repo path: grade-10/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 43,688,933 (exact vs record). PDF pages: 134. Offset: PDF page = printed page + 1 (proven: PDF p. 22 carries printed folio 21). Verdict: COMPLETE read (contents + unit/chapter openers + spot content pages; text layer readable). Coverage gap in the secured set, carried on the record: Grade 10 Unit 2 (Matter and its Mechanical Properties) is in neither Grade 10 file. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 9:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Components of a vector | Grade 11 Student Textbook, printed pp. 26–33 |
@@ -29,7 +31,9 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Sloveni
 | Bab 1 Vektor (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 1 Vektor — printed p. 1 — trigonometric resolution of vectors and of forces on a block-and-rope setup |
 | Ch. 3, lesson 3-2 "Vector Addition and Resolution" (second half) — resolution into components (Kuwait, Grade 10 Term 1) | Kuwait, *Physics, Grade 10, Term 1 (student book + applications workbook)*, printed p. 81 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+| Ch. 3 Vectors: components, unit vectors, multiplying vectors — printed p. 40 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 3 Vectors: components, unit vectors, multiplying vectors — printed p. 40 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait, Bhutan).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

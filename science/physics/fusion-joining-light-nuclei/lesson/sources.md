@@ -1,6 +1,6 @@
 # Sources — Fusion — joining light nuclei
 
-countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan
+countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan
 
 **Book 7:** *فزیک — صنف دوازدهم (Physics — Grade 12)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فزیک — صنف دوازدهم (Physics — Grade 12), Ministry of Education, Kabul. Grade: 12 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul (cover and book-data page read from the secured file itself). Repo path (record): grade-12/gov/afghanistan/فیزیک_صنف_دوازدهم.pdf — in_pushed: true; record byte size/pages: null. Read from: the library's own secured copy via the pusher-token GitHub route: migrated release asset grade-12-gov-afghanistan-64aaf3baa7.pdf in release mid-size-books-7 (asset id 703998749), 21,089,794 bytes, 192 PDF pages. Verdict: COMPLETE — full contents (3 contents pages) with printed pages read; the book closes with Ch. 6's summary and questions, a periodic table (printed p. 182) and the reference list on the final PDF page. Printed ↔ PDF offset: printed p. 1 = PDF p. 10 (printed p. 182 = PDF p. 191). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
 
+**Book 8:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Nuclear fusion and power production | Grade 11 Student Textbook, printed pp. 322–326 |
@@ -27,7 +29,9 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan
 | L37 Nuclear synthesis (fusion) (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L37 Nuclear synthesis (fusion) — printed p. 196 |
 | Ch. 6 — nuclear fusion (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 6 — printed p. 169 — nuclear fusion |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan).**
+| Ch. 43 Energy from the Nucleus — printed p. 1309 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 43 Energy from the Nucleus — printed p. 1309 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

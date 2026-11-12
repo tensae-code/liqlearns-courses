@@ -1,6 +1,6 @@
 # Sources — Motors and generators — electricity to motion, motion to electricity
 
-countries: Ethiopia, Argentina, Afghanistan
+countries: Ethiopia, Argentina, Afghanistan, Bhutan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Argentina, Afghanistan
 
 **Book 4:** *فیزیک — صنف دهم (Physics — Grade 10)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فیزیک — صنف دهم (Physics — Grade 10), Ministry of Education, Kabul. Grade: 10 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul. Repo path (record): grade-10/gov/afghanistan/فیزیک_صنف_دهم.pdf — in_pushed: true; record byte size/pages: null. Read from: official ministry PDF, moe.gov.af (G10-Dr-physic.pdf). Verdict: COMPLETE — full text fetched; complete contents with printed pages read; chapter 1 opening read in Dari. Printed ↔ fetched offset: contents printed pp. 1–9 precede the body; printed p. 1 = Chapter 1 start. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
 
+**Book 5:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The motor: the nudge-and-spin build (Activity 7.39); anatomy — source, permanent magnet, rotating loop, shaft; hundreds of turns on iron; refrigerators, air conditioners, trains | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 225–233 (student placement 70) |
@@ -18,7 +20,9 @@ countries: Ethiopia, Argentina, Afghanistan
 | Ch. 9 — generators (Afghanistan, Grade 10) | Afghanistan, *فیزیک — صنف دهم (Physics — Grade 10)*, Ch. 9 — printed p. 239 — generators |
 | Ch. 4 — the bicycle dynamo, a small generator working by induction (Afghanistan, Grade 9) | Afghanistan, *فزیک — صنف نهم (Physics — Grade 9)*, Ch. 4 — printed p. 71 — the bicycle dynamo, read in the body: a small generator working by induction, turning the wheel's rotational energy into light |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Argentina, Afghanistan).**
+| Ch. 4: force on a current-carrying conductor in a magnetic field, applied in simple electric motors — printed p. 98 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 4: force on a current-carrying conductor in a magnetic field, applied in simple electric motors — printed p. 98 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Argentina, Afghanistan, Bhutan).**
 
 Assessment warning carried exactly as the placements direct: the student book's Unit 7 review questions (printed pp. 232–233) are a copy-paste of Unit 6's questions — the size-ordering question, the ‘biggest object’ question and the Earth–Sun movement item reappear there as Unit 7 items — so NOTHING from that review is carried into this lesson's questions or into any Unit 7 lesson's assessment; every question in this build is written from the Unit 7 sections themselves. Two summary claims no section teaches (electron-current direction; force on a current-carrying wire in an external field, printed pp. 228–230) are likewise NOT taught as Unit 7 content anywhere in this build.
 

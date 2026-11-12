@@ -1,6 +1,6 @@
 # Sources — Faraday's law; Lenz's law
 
-countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus
+countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -19,6 +19,8 @@ countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus
 
 **Book 8:** *Фізіка. 10 клас (Physics, Grade 10)* (student textbook — study aid) — Belarus, Hromyka A. U., Zenkovich U. I., Lutsevich A. A., Slesar I. E.; Minsk, «Адукацыя і выхаванне», 2013 (signed to print 13.06.2013); Belarusian-language edition. Grade: 10 · Student book · Repo: release `mid-size-books-7`, asset `grade-10-gov-belarus-physics-student-full-year.pdf` — 9,997,702 bytes (matched asset). PDF pages: 274. Printed page ≈ PDF page − 4 at the back (contents printed pp. 268–270). Verdict: COMPLETE (Laboratory experiment at printed p. 249, appendix p. 260, answers p. 264, contents and colophon present). Structure: Molecular physics — Ch.1 Foundations of molecular-kinetic theory (§§1–8); Ch.2 Foundations of thermodynamics (§§9–12); Electrodynamics — Ch.3 Electrostatics (§§13–21); Ch.4 Direct current (§§22–23); Ch.5 Current in different media (§§24–28); Ch.6 Magnetic field & electromagnetic induction (§§29–35). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
 
+**Book 9:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Faraday's law — emf from changing flux | Grade 12 Student Textbook, printed pp. 129–130 |
@@ -32,6 +34,8 @@ countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus
 
 | §33 Magnetic flux; electromagnetic induction; Lenz's rule; §34 The law of electromagnetic induction, the vortex electric field (printed p. 237) (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §33 Magnetic flux; electromagnetic induction; Lenz's rule; §34 The law of electromagnetic induction, the vortex electric field (printed p. 237) — printed p. 232 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus).**
+| Ch. 30 Induction and Inductance: Faraday's law and Lenz's law — printed p. 864 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 30 Induction and Inductance: Faraday's law and Lenz's law — printed p. 864 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan).**
 
 Searchable tags: physics, grade 12, electromagnetism, faraday's law; lenz's law, energy, flux, iraq

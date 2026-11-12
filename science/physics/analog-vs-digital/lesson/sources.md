@@ -1,6 +1,6 @@
 # Sources — Analog vs digital
 
-countries: Ethiopia, Indonesia, United States
+countries: Ethiopia, Indonesia, United States, Bhutan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -8,13 +8,17 @@ countries: Ethiopia, Indonesia, United States
 
 **Book 3:** *Physics for Utah SEEd Standards, Revised 2025 — Utah State Board of Education OER Textbook* (student textbook) — United States, Utah State Board of Education (content © Utah State Board of Education 2025, CC BY-NC-SA; built on CK-12 Foundation material, CC BY-NC 3.0; printed May 2025). Title as printed: Physics for Utah SEEd Standards, Revised 2025 — Utah State Board of Education OER Textbook (content © Utah State Board of Education 2025, CC BY-NC-SA; built on CK-12 Foundation material, CC BY-NC 3.0; printed May 2025). Grade: 12 · Student book · Repo path: grade-12/approved-private/united-states/science/full-year.pdf. Byte size: 28,763,414 · PDF pages: 191 · Offset: printed p. N ≈ PDF p. N+2 (the PDF carries its own printed folios). Verdict: COMPLETE — full text read (32,125 words); title/credits pages prove identity; the book is organised by Utah SEEd standard, one chapter per standard. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
 
+**Book 4:** *Physics Textbook, Class X* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2015, Reprint 2018. Grade: 10 · Student book · Repo path: grade-10/gov/bhutan/physics/full-year.pdf (source: REC Bhutan, x-physics-textbook-2019.pdf). Byte size: 5,022,766 (exact match). PDF pages: 193 (record: 193). Offset: printed p. = PDF p. − 25 (printed p. 1 is PDF p. 26); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 193 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Analog and digital signals; logic levels | Grade 12 Student Textbook, printed pp. 163–164 |
 | Bab 6, Subbab A Sistem Elektronika (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 6, Subbab A Sistem Elektronika — guide p. 137 — digital instruments introduction |
 | Digital waves — PHYS.4.4 (Utah SEEd) | United States, *Physics for Utah SEEd Standards (Revised 2025)*, PHYS.4.4 Digital Waves, printed p. 174 — digital vs analogue information in waves |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, United States).**
+| Ch. 5: analogue vs digital signals — more information can be sent digitally; communication through sound waves — printed pp. 117, 119 (Bhutan, Class X (Grade 10)) | Bhutan, *Physics Textbook, Class X*, Ch. 5: analogue vs digital signals — more information can be sent digitally; communication through sound waves — printed pp. 117, 119 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, United States, Bhutan).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

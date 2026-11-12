@@ -1,8 +1,10 @@
 # Sources — The first law of thermodynamics — heat, work and internal energy in one account
 
-countries: Slovenia
+countries: Slovenia, Bhutan
 
 **Book 1:** *FIZIKA 9 — i-učbenik za fiziko v 9. razredu osnovne šole (interactive textbook for Physics in Grade 9 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Robert Repnik, Milan Svetec, Maja Jug, Tomaž Ahčin, Goran Bezjak, Zvonko Jagličič & Marko Gosak; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0199-8; approved by the Expert Council for General Education, 19.6.2014. Grade: 9 · Student (interactive textbook) · Repo path: grade-09/gov/slovenia/fizika-9-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-09-gov-slovenia-fizika-9-iucbenik.zip) · Bytes: 221,315,735 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Premo enakomerno gibanje) to p. 233 (closing tasks) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (433 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
+
+**Book 2:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,7 +14,9 @@ countries: Slovenia
 | Sub lesson 3 — Special cases — and why engines are this law at work | Slovenia, *Fizika 9*, Heat and internal energy: Energijski zakon (The energy law) — printed p. 141 (unit folder 188) |
 | Do it first; key ideas; Do It Yourself | Slovenia, *Fizika 9*, as cited in the rows above |
 
-**Acceptance count: taught in 1 country (Slovenia).**
+| The first law of thermodynamics — heat, work and internal energy in one account — Ch. 18: the first law and its special cases — printed p. 528 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 18: the first law and its special cases — printed p. 528 |
+
+**Acceptance count: taught in 2 countries (Slovenia, Bhutan).**
 
 Placement choice, on the record: this NEW LESSON was built for the Slovenia placement “The first law of thermodynamics — heat, work and internal energy in one account” — slovenia-placements.md, Heat and internal energy: Energijski zakon (The energy law) — printed p. 141 (unit folder 188). It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics). Cross-reference, on the record: Italy's *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1* stocks the neighbouring lesson physics/thermodynamic-systems-and-heat-engines, which carries the same first law (ΔU = Q − W) inside its wider systems-and-heat-engines treatment (Ch. 10, printed p. 410; Ch. 11, printed p. 456); this lesson is the standalone first-law account the placements name as its own lesson — the one the Moldova and Bhutan books will also stock into later.
 

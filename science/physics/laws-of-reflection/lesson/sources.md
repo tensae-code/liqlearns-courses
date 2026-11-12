@@ -1,6 +1,6 @@
 # Sources — Laws of reflection — mirror bounce and rough scatter
 
-countries: Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq, Cambodia, Mongolia, Bulgaria, Yemen, Afghanistan, Belarus
+countries: Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq, Cambodia, Mongolia, Bulgaria, Yemen, Afghanistan, Belarus, Bhutan
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq, 
 
 **Book 16:** *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай) (Physics, Grade 8)* (student textbook) — Belarus, Isachenkava & Liashchynski, ed. Isachenkava; Minsk, «Народная асвета», 2010 (signed to print 14.05.2010); Belarusian-language edition. Grade: 8 · Student book · Repo: release `mid-size-books-7`, asset `grade-08-gov-belarus-physics-student-full-year.pdf` — 18,653,720 bytes (matched asset). PDF pages: 184. Printed page ≈ PDF page. Verdict: COMPLETE (Ch.4 Laboratory experiment, density appendix at printed p. 179, answers at p. 180, contents and colophon present). Structure: Ch.1 Thermal phenomena (§§1–12); Ch.2 Electromagnetic phenomena (§§13–34); Ch.3 Light phenomena (§§35–43); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
 
+**Book 17:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Laws of reflection — mirror bounce and rough scatter | Ethiopia, *Grade 10 Student Textbook*, printed pp. 190–195 |
@@ -57,7 +59,9 @@ countries: Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq, 
 
 | §37 Reflection of light (Belarus, Grade 8) | Belarus, *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай)*, §37 Reflection of light — printed p. 142 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq, Cambodia, Mongolia, Bulgaria, Yemen, Afghanistan, Belarus).** Uganda is also named as teacher-guide evidence only (*Physics Teacher's Guide — Senior One (NCDC Prototype)* — teacher guide), not added as a second count for Uganda.
+| Ch. 5: laws of reflection (taught inside the refraction chapter) — printed p. 119 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 5: laws of reflection (taught inside the refraction chapter) — printed p. 119 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq, Cambodia, Mongolia, Bulgaria, Yemen, Afghanistan, Belarus, Bhutan).** Uganda is also named as teacher-guide evidence only (*Physics Teacher's Guide — Senior One (NCDC Prototype)* — teacher guide), not added as a second count for Uganda.
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
