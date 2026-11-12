@@ -466,3 +466,18 @@ Grown by band D3 (Grade 10 depth added, not duplicated): `word-processing/adding
 - Compressing and uncompressing files — zipping — `files-and-folders/compressing-and-uncompressing-files-zipping/`
 
 Grown by band D1 (Grade 10 depth added, not duplicated): `files-and-folders/what-a-file-is/` (+ Sub lesson 4, file management; the book's six-unit road map filed here), `files-and-folders/drives-where-files-live/`, `files-and-folders/creating-and-saving-a-document-file/` (+ Sub lesson 3, saving in a different format), `files-and-folders/deleting-a-file-recycle-bin-and-permanent-delete/` (+ Sub lessons 3–4, deleting and restoring at Grade 10 depth).
+
+**Band E2 — Grade 11 Unit 2 (Emerging Technologies), 12 new lessons — the New Technologies title opens:**
+
+- Emerging technologies — and what AI is — `new-technologies/emerging-technologies-and-what-ai-is/`
+- Machine Learning — computers that learn from data — `new-technologies/machine-learning-computers-that-learn-from-data/`
+- Robotics — machines that do people's tasks — `new-technologies/robotics-machines-that-do-peoples-tasks/`
+- Natural Language Processing — computers understanding language — `new-technologies/natural-language-processing-computers-understanding-language/`
+- Expert systems — a program that imitates an expert — `new-technologies/expert-systems-a-program-that-imitates-an-expert/`
+- AI at work — eleven application areas — `new-technologies/ai-at-work-eleven-application-areas/`
+- Augmented Reality — digital information laid over the real world — `new-technologies/augmented-reality-digital-information-laid-over-the-real-world/`
+- Virtual Reality — a fully simulated world — `new-technologies/virtual-reality-a-fully-simulated-world/`
+- AR or VR? Telling them apart — `new-technologies/ar-or-vr-telling-them-apart/`
+- AR and VR at work — education, health, entertainment — `new-technologies/ar-and-vr-at-work-education-health-entertainment/`
+- Data Science — finding hidden patterns in data — `new-technologies/data-science-finding-hidden-patterns-in-data/`
+- Big data — and the privacy problem — `new-technologies/big-data-and-the-privacy-problem/`

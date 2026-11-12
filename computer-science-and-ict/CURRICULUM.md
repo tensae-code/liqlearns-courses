@@ -227,3 +227,16 @@ convert, "flowing conditions" for following conditions.
 **Grade 10 now stands complete: 80 new lessons across its
 six units** (plus growths in 17 earlier lessons). The
 course now stands at 375 lessons.
+
+**Band E2 (Grade 11, Unit 2) — BUILT 2026-11-12:** 12 new
+lessons, 153 questions, 20 media filed (pictures/GIFs
+16500–16519) — the New Technologies title opens:
+emerging technologies and what AI is, Machine Learning,
+robotics, NLP, expert systems and MYCIN, AI at work in
+eleven fields, AR, VR, AR vs VR, AR/VR applications,
+Data Science, big data and privacy — taught exactly as
+the book teaches, no post-book developments. Book errors
+taught corrected and named in sources: "Datata
+generalization" in the review matching, the guide's
+contents misnumbering Data Science as 2.2 (it is §2.3).
+The course now stands at 387 lessons.
