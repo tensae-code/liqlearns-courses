@@ -1,6 +1,6 @@
 # Sources — Light travels in straight lines
 
-countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq
+countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (t
 
 **Book 18:** *الفيزياء كتاب الطالب للصف الثاني المتوسط (Physics, Student Book, Second Intermediate = Grade 8)* (student textbook) — Iraq, Ministry of Education. Fifth revised edition, 2023 / 1445H (revised from the 2021 Grade-8 Science book). Grade: 8 · Student book · Repo: release `mid-size-books`, asset `grade-08-gov-iraq-physics-student-full-year.pdf` — 25,704,229 bytes (matched asset). PDF pages: 88. Printed page = PDF page (offset 0). Verdict: COMPLETE (Ch.6 review questions close the book, printed p. 88). Structure: 3 units / 6 chapters / 13 lessons — Motion & Force; Force, Work & Energy; Sound & Light. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 19:** *រូបវិទ្យា ថ្នាក់ទី១០ — Physics, Grade 10* (student textbook) — Cambodia, Ministry of Education, Youth and Sport (MoEYS). Grade 10 · Student textbook (Sala Digital record 00004303); imprint page dated 13 [month illegible] 2020, print run 35,000; preface credits JICA-supported textbook work. Repo path: grade-10/gov/cambodia/physics/student/full-year.pdf (TSV row points at the release copy: releases/download/mid-size-books-7/grade-10-gov-cambodia-physics-student-full-year.pdf). Byte size: 34,881,828 (exact match, staging copy). PDF pages: 193. Offset: printed p. = PDF p. − 5 (printed p. 1 is PDF p. 6). Verdict: COMPLETE structural read — contents page and every chapter/lesson opener read from rendered pages; the legacy-font text layer does not extract, so interior prose was sampled, not machine-read. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Experiment 4 — the straight tube and the bent tube | Ethiopia, *Grade 4 Student Textbook*, §2.6, printed pp. 59–60 |
@@ -34,11 +36,12 @@ countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (t
 
 | Ch 8: rectilinear propagation, rays and beams (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 8: rectilinear propagation, rays and beams — printed p. 201 |
 | Unit 3 Ch.6 L1 Light and its properties (transparent/translucent/opaque, shadows, eclipses) (Iraq, Grade 8) | Iraq, *الفيزياء كتاب الطالب للصف الثاني المتوسط (Physics, Student Book, Second Intermediate = Grade 8)*, Unit 3 Ch.6 L1 Light and its properties (transparent/translucent/opaque, shadows, eclipses) — printed p. 71 |
+| Ch. 4 Lesson 1: geometrical optics and models of light (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 4 Lesson 1 — printed p. 138 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Fiji, Kenya, Iraq).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Fiji, Kenya, Iraq, Cambodia).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides. Flame safety: in the book the candle is the class's light source; this lesson keeps the candle as adult-handled, with a torch named as the home substitute.
 
 Grade 6 extension (2026-11-12): the Grade 6 student book is COMPLETE.
 
-Searchable tags: light travels straight, straight lines, candle tube experiment, energy, bounces into eyes, light travels in straight lines, kenya, iraq
+Searchable tags: light travels straight, straight lines, candle tube experiment, energy, bounces into eyes, light travels in straight lines, kenya, iraq, cambodia

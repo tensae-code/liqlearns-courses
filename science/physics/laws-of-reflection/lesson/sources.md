@@ -1,6 +1,6 @@
 # Sources — Laws of reflection — mirror bounce and rough scatter
 
-countries: Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq
+countries: Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq, Cambodia
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq
 
 **Book 10:** *الفيزياء كتاب الطالب للصف الثاني المتوسط (Physics, Student Book, Second Intermediate = Grade 8)* (student textbook) — Iraq, Ministry of Education. Fifth revised edition, 2023 / 1445H (revised from the 2021 Grade-8 Science book). Grade: 8 · Student book · Repo: release `mid-size-books`, asset `grade-08-gov-iraq-physics-student-full-year.pdf` — 25,704,229 bytes (matched asset). PDF pages: 88. Printed page = PDF page (offset 0). Verdict: COMPLETE (Ch.6 review questions close the book, printed p. 88). Structure: 3 units / 6 chapters / 13 lessons — Motion & Force; Force, Work & Energy; Sound & Light. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 11:** *រូបវិទ្យា ថ្នាក់ទី១០ — Physics, Grade 10* (student textbook) — Cambodia, Ministry of Education, Youth and Sport (MoEYS). Grade 10 · Student textbook (Sala Digital record 00004303); imprint page dated 13 [month illegible] 2020, print run 35,000; preface credits JICA-supported textbook work. Repo path: grade-10/gov/cambodia/physics/student/full-year.pdf (TSV row points at the release copy: releases/download/mid-size-books-7/grade-10-gov-cambodia-physics-student-full-year.pdf). Byte size: 34,881,828 (exact match, staging copy). PDF pages: 193. Offset: printed p. = PDF p. − 5 (printed p. 1 is PDF p. 6). Verdict: COMPLETE structural read — contents page and every chapter/lesson opener read from rendered pages; the legacy-font text layer does not extract, so interior prose was sampled, not machine-read. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Laws of reflection — mirror bounce and rough scatter | Ethiopia, *Grade 10 Student Textbook*, printed pp. 190–195 |
@@ -37,9 +39,10 @@ countries: Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq
 
 | Ch 8: reflection, rotation of a mirror, images by plane mirrors and mirrors at an angle (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 8: reflection, rotation of a mirror, images by plane mirrors and mirrors at an angle — printed p. ~220 |
 | Unit 3 Ch.6 L2 Reflection of light (plane and spherical mirrors) (Iraq, Grade 8) | Iraq, *الفيزياء كتاب الطالب للصف الثاني المتوسط (Physics, Student Book, Second Intermediate = Grade 8)*, Unit 3 Ch.6 L2 Reflection of light (plane and spherical mirrors) — printed p. 75 |
+| Ch. 4 Lesson 1: geometrical optics and models of light (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 4 Lesson 1 — printed p. 138 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq).** Uganda is also named as teacher-guide evidence only (*Physics Teacher's Guide — Senior One (NCDC Prototype)* — teacher guide), not added as a second count for Uganda.
+**Acceptance count: taught in 9 countries (Ethiopia, Syria, Slovenia, Malaysia, Indonesia, Uganda, Kenya, Iraq, Cambodia).** Uganda is also named as teacher-guide evidence only (*Physics Teacher's Guide — Senior One (NCDC Prototype)* — teacher guide), not added as a second count for Uganda.
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: laws of reflection — mirror bounce and rough scatter, grade 10 physics, unit 6, angle of incidence = angle of reflection, measured from the normal., incident ray, reflected ray and normal lie in one plane., smooth surface: specular reflection. rough surface: diffuse reflection., uganda, kenya, iraq
+Searchable tags: laws of reflection — mirror bounce and rough scatter, grade 10 physics, unit 6, angle of incidence = angle of reflection, measured from the normal., incident ray, reflected ray and normal lie in one plane., smooth surface: specular reflection. rough surface: diffuse reflection., uganda, kenya, iraq, cambodia

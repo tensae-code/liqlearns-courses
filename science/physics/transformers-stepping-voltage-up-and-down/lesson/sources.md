@@ -1,6 +1,6 @@
 # Sources — Transformers — stepping voltage up and down
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Haiti (programme evidence only), Syria, Malaysia, Indonesia, Uganda, Kenya, Iraq
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Haiti (programme evidence only), Syria, Malaysia, Indonesia, Uganda, Kenya, Iraq, Cambodia (private-booklet evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -19,6 +19,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Haiti (prog
 
 **Book 9:** *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)* (student textbook) — Iraq, Ministry of Education. 2024 / 1446H printing. Grade: 9 · Student book · Repo: release `mid-size-books`, asset `grade-09-gov-iraq-physics-student-full-year.pdf` — 6,030,991 bytes (matched asset). PDF pages: 176. Printed page = PDF page (offset 0). Verdict: COMPLETE (9 chapters, then a full contents list and quantity/unit tables, printed pp. 173–176). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 10:** *Diploma Exam-Preparation Papers — Physics (Grade 9 syllabus), papers 1–12* (PRIVATE exam-prep booklet — NOT a MoEYS textbook, labelled PRIVATE and cited as evidence of the tested syllabus only, outside the acceptance count) — Cambodia. Grade 9 (diploma syllabus) · Student exam papers — a cover-to-cover set of mock papers headed "Preparation for the lower-secondary diploma exam (Diploma)", Physics, papers 1–12, each 45 minutes, 35 marks. Repo path: grade-09/gov/cambodia/physics/student/lesson-excerpt.pdf. Byte size: 432,129 (exact match with books.json record). PDF pages: 12. Printed pagination: each paper is one page, numbered by paper. Verdict: COMPLETE read — all 12 papers read from rendered pages. Library debt, carried on the record: the library record names this file "រូបវិទ្យាថ្នាក់ទី៩ (Sala 00003739)", a Grade 9 textbook excerpt, but the secured file is this private diploma exam-prep set — the real Grade 9 textbook has never been held under this record. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transformers | Grade 12 Student Textbook, printed pp. 131–133 |
@@ -32,7 +34,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Haiti (prog
 
 | Ch 5 applications of electromagnetic induction (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 5 applications of electromagnetic induction — printed p. 100 |
 | Ch.7 The electric transformer (induced current, transformer types, power losses) (Iraq, Grade 9) | Iraq, *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)*, Ch.7 The electric transformer (induced current, transformer types, power losses) — printed p. 133 |
+| Papers 3, 11: transformer turns and voltages (240 V → 12 V) (Cambodia, Grade 9 diploma syllabus — private-booklet evidence) | Cambodia, *Diploma Exam-Preparation Papers — Physics, Grade 9 syllabus (PRIVATE booklet — mock papers 1–12)*, Papers 3, 11 — printed papers 3, 11 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Syria, Malaysia, Indonesia, Uganda, Kenya, Iraq).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 4e année / NS4* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Syria, Malaysia, Indonesia, Uganda, Kenya, Iraq).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 4e année / NS4* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
-Searchable tags: physics, grade 12, electromagnetism, transformers — stepping voltage up and down, induction, uganda, kenya, iraq
+Searchable tags: physics, grade 12, electromagnetism, transformers — stepping voltage up and down, induction, uganda, kenya, iraq, cambodia

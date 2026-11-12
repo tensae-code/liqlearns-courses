@@ -1,6 +1,6 @@
 # Sources — Newton's third law — action and reaction
 
-countries: Ethiopia, Palestine, Andorra (curriculum-programme evidence only), Slovenia, Sudan
+countries: Ethiopia, Palestine, Andorra (curriculum-programme evidence only), Slovenia, Sudan, Cambodia
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Palestine, Andorra (curriculum-programme evidence only), Sl
 
 **Book 6:** *الفيزياء — للصف الأول الثانوي (Physics — First Secondary Year)* (student textbook) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht al-Ruda. ISBN 978-99942-53-54-8; legal deposit 741/2008; prepared by staff of Sudan University of Science and Technology. Grade 10 (First Secondary) · Student book · Repo path: grade-10/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books. Byte size: 17,263,083. PDF pages: 89. Offset: printed p. 1 ≈ PDF p. 5 (printed = PDF − 4). Verdict: COMPLETE — the whole book is the mechanics volume (its preface scopes it to the science of motion/mechanics); 5 chapters, ending with the energy chapter and the deposit page. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 7:** *រូបវិទ្យា ថ្នាក់ទី១០ — Physics, Grade 10* (student textbook) — Cambodia, Ministry of Education, Youth and Sport (MoEYS). Grade 10 · Student textbook (Sala Digital record 00004303); imprint page dated 13 [month illegible] 2020, print run 35,000; preface credits JICA-supported textbook work. Repo path: grade-10/gov/cambodia/physics/student/full-year.pdf (TSV row points at the release copy: releases/download/mid-size-books-7/grade-10-gov-cambodia-physics-student-full-year.pdf). Byte size: 34,881,828 (exact match, staging copy). PDF pages: 193. Offset: printed p. = PDF p. − 5 (printed p. 1 is PDF p. 6). Verdict: COMPLETE structural read — contents page and every chapter/lesson opener read from rendered pages; the legacy-font text layer does not extract, so interior prose was sampled, not machine-read. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Newton's third law — action and reaction | Ethiopia, *Grade 9 Student Textbook*, printed pp. 72–73 |
@@ -23,9 +25,10 @@ countries: Ethiopia, Palestine, Andorra (curriculum-programme evidence only), Sl
 | Bloc 3: forces as interaction model, Newton's third law, force pairs (curriculum programme — evidence) | Andorra, *Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*, Bloc 3, printed p. 28 |
 | Forces: Zakon o vzajemnem učinku (The law of mutual action) (Slovenia) | Slovenia, *Fizika 8*, Forces: Zakon o vzajemnem učinku (The law of mutual action) — printed p. 167 (unit folder 219) |
 | Ch 4 Newton's laws (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. 42 |
+| Ch. 1 Lesson 2: Newton's laws of motion (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 1 Lesson 2 — printed p. 34 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Slovenia, Sudan).** Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Slovenia, Sudan, Cambodia).** Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: newton's third law — action and reaction, grade 9 physics, unit 4, action and reaction are equal, opposite, and act on different bodies., push a wall and the wall pushes back equally., walking: foot pushes ground back, ground pushes walker forward., palestine
+Searchable tags: newton's third law — action and reaction, grade 9 physics, unit 4, action and reaction are equal, opposite, and act on different bodies., push a wall and the wall pushes back equally., walking: foot pushes ground back, ground pushes walker forward., palestine, cambodia

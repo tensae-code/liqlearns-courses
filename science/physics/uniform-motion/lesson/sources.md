@@ -1,6 +1,6 @@
 # Sources — Uniform motion
 
-countries: Ethiopia, Bolivia, Nicaragua, Slovenia
+countries: Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Bolivia, Nicaragua, Slovenia
 
 **Book 6:** *FIZIKA 9 — i-učbenik za fiziko v 9. razredu osnovne šole (interactive textbook for Physics in Grade 9 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Robert Repnik, Milan Svetec, Maja Jug, Tomaž Ahčin, Goran Bezjak, Zvonko Jagličič & Marko Gosak; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0199-8; approved by the Expert Council for General Education, 19.6.2014. Grade: 9 · Student (interactive textbook) · Repo path: grade-09/gov/slovenia/fizika-9-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-09-gov-slovenia-fizika-9-iucbenik.zip) · Bytes: 221,315,735 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Premo enakomerno gibanje) to p. 233 (closing tasks) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (433 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
 
+**Book 7:** *រូបវិទ្យា ថ្នាក់ទី១០ — Physics, Grade 10* (student textbook) — Cambodia, Ministry of Education, Youth and Sport (MoEYS). Grade 10 · Student textbook (Sala Digital record 00004303); imprint page dated 13 [month illegible] 2020, print run 35,000; preface credits JICA-supported textbook work. Repo path: grade-10/gov/cambodia/physics/student/full-year.pdf (TSV row points at the release copy: releases/download/mid-size-books-7/grade-10-gov-cambodia-physics-student-full-year.pdf). Byte size: 34,881,828 (exact match, staging copy). PDF pages: 193. Offset: printed p. = PDF p. − 5 (printed p. 1 is PDF p. 6). Verdict: COMPLETE structural read — contents page and every chapter/lesson opener read from rendered pages; the legacy-font text layer does not extract, so interior prose was sampled, not machine-read. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Uniform motion | Ethiopia, *Grade 9 Student Textbook*, printed pp. 52 |
@@ -23,9 +25,10 @@ countries: Ethiopia, Bolivia, Nicaragua, Slovenia
 | Uniform rectilinear motion (MRU) (Nicaragua) | Nicaragua, *Física — Módulo Autoformativo, Décimo grado*, Unidad I §1.1 Movimiento Rectilíneo Uniforme (MRU): características, ecuaciones y gráficas, printed p. 5 |
 | Uniform motion: Premo enakomerno gibanje (Straight uniform motion) (Slovenia) | Slovenia, *Fizika 8*, Uniform motion: Premo enakomerno gibanje (Straight uniform motion) — printed p. 98 (unit folder 149) |
 | Accelerated motion: Premo enakomerno gibanje (Straight uniform motion — the recap the year opens with) (Slovenia) | Slovenia, *Fizika 9*, Accelerated motion: Premo enakomerno gibanje (Straight uniform motion — the recap the year opens with) — printed p. 1 (unit folder 169) |
+| Ch. 1 Lesson 1: rectilinear motion (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 1 Lesson 1 — printed p. 18 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Nicaragua, Slovenia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia).**
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: uniform motion, grade 9 physics, unit 3, uniform motion means constant velocity in a straight line., equal displacements happen in equal times., position marks every second sit evenly spaced.
+Searchable tags: uniform motion, grade 9 physics, unit 3, uniform motion means constant velocity in a straight line., equal displacements happen in equal times., position marks every second sit evenly spaced., cambodia

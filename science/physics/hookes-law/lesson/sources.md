@@ -1,6 +1,6 @@
 # Sources — Hooke's law — springs stretch in proportion
 
-countries: Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia, Fiji, Kenya
+countries: Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only)
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -19,6 +19,8 @@ countries: Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia, Fiji, Kenya
 
 **Book 8:** *Secondary Physics — Student's Book Two* (student textbook) — Kenya, Kenya Literature Bureau (KLB), 5th edition 2013; © Ministry of Education, Kenya · ISBN 978-9966-10-212-6 (first published 1988; 5th edition 2013). Title as printed: Secondary Physics — Student's Book Two (KLB, 5th edition 2013). Grade: Form Two (Grade 10) · Student book · Repo path: grade-10/approved-private/kenya/kenya-physics-form2-klb.pdf (read from the phase3-staging copy of the same path, 7,473,471 bytes) · Byte size: 7,473,471 (staging copy) · PDF pages: 230 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Fluid Flow, each with Revision Exercises. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
 
+**Book 9:** *Diploma Exam-Preparation Papers — Physics (Grade 9 syllabus), papers 1–12* (PRIVATE exam-prep booklet — NOT a MoEYS textbook, labelled PRIVATE and cited as evidence of the tested syllabus only, outside the acceptance count) — Cambodia. Grade 9 (diploma syllabus) · Student exam papers — a cover-to-cover set of mock papers headed "Preparation for the lower-secondary diploma exam (Diploma)", Physics, papers 1–12, each 45 minutes, 35 marks. Repo path: grade-09/gov/cambodia/physics/student/lesson-excerpt.pdf. Byte size: 432,129 (exact match with books.json record). PDF pages: 12. Printed pagination: each paper is one page, numbered by paper. Verdict: COMPLETE read — all 12 papers read from rendered pages. Library debt, carried on the record: the library record names this file "រូបវិទ្យាថ្នាក់ទី៩ (Sala 00003739)", a Grade 9 textbook excerpt, but the secured file is this private diploma exam-prep set — the real Grade 9 textbook has never been held under this record. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Hooke's law — springs stretch in proportion | Ethiopia, *Grade 9 Student Textbook*, printed pp. 122–128 |
@@ -33,9 +35,10 @@ countries: Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia, Fiji, Kenya
 | Ch. 9 §9.60 Hooke's law (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 9 §9.60 Hooke's law — printed p. 67 |
 
 | Ch 7 Hooke's law: stretching materials, compressing a spring (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 7 Hooke's law: stretching materials, compressing a spring — printed p. 148 |
+| Paper 12: spring constant problems (Cambodia, Grade 9 diploma syllabus — private-booklet evidence) | Cambodia, *Diploma Exam-Preparation Papers — Physics, Grade 9 syllabus (PRIVATE booklet — mock papers 1–12)*, Paper 12 — printed paper 12 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia, Fiji, Kenya).**
+**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia, Fiji, Kenya).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: hooke's law — springs stretch in proportion, grade 9 physics, unit 6, hooke's law: f = kx, within the elastic limit., extension is proportional to load, beyond the elastic limit the spring is permanently damaged., ecuador, nicaragua, sri lanka, kenya
+Searchable tags: hooke's law — springs stretch in proportion, grade 9 physics, unit 6, hooke's law: f = kx, within the elastic limit., extension is proportional to load, beyond the elastic limit the spring is permanently damaged., ecuador, nicaragua, sri lanka, kenya, cambodia

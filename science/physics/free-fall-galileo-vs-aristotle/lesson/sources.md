@@ -1,6 +1,6 @@
 # Sources — Free fall — Galileo vs Aristotle
 
-countries: Ethiopia, Bolivia, Palestine, Slovenia
+countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,15 +10,18 @@ countries: Ethiopia, Bolivia, Palestine, Slovenia
 
 **Book 4:** *FIZIKA 9 — i-učbenik za fiziko v 9. razredu osnovne šole (interactive textbook for Physics in Grade 9 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Robert Repnik, Milan Svetec, Maja Jug, Tomaž Ahčin, Goran Bezjak, Zvonko Jagličič & Marko Gosak; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0199-8; approved by the Expert Council for General Education, 19.6.2014. Grade: 9 · Student (interactive textbook) · Repo path: grade-09/gov/slovenia/fizika-9-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-09-gov-slovenia-fizika-9-iucbenik.zip) · Bytes: 221,315,735 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Premo enakomerno gibanje) to p. 233 (closing tasks) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (433 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
 
+**Book 5:** *PISA Sample Test — Physics Grade 8 (Student)* (PRIVATE exam-prep / sample-test booklet — NOT a MoEYS textbook, labelled PRIVATE and cited as evidence of the tested syllabus only, outside the acceptance count) — Cambodia, Preah Sisowath High School, New Generation School, 2026; school-produced, aligned to PISA standards per its preface. Grade 8 · Student version. Repo path: grade-08/gov/cambodia/physics/pisa-physics-sample-test-student.pdf. Byte size: 8,424,218 (no size recorded; Contents API). PDF pages: 101. Offset: printed p. = PDF p. − 8. Verdict: COMPLETE structural read — full contents list read; PISA-format stimulus + questions throughout. Library debt, carried on the record: the library holds no MoEYS textbook for Grades 7–8 — only these private booklets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Describing freely falling bodies — review of vertical motion | Grade 11 Student Textbook, printed pp. 75–79 |
 | Vertical motion: characteristics, gravity acceleration, free-fall equations (Bolivia) | Bolivia, *Texto de Aprendizaje, Física, Cuarto Año*, Vertical motion, PDF pp. 31–38 approx. |
 | Vertical fall, free fall, and a practical activity measuring g with a free-fall apparatus | Palestine, *Physics for Grade 10*, Unit 1, Ch. 3: Describing Motion (Kinematics), printed p. 39 |
 | Accelerated motion: Prosto padanje (Free fall) (Slovenia) | Slovenia, *Fizika 9*, Accelerated motion: Prosto padanje (Free fall) — printed p. 24 (unit folder 172) |
+| Ch. 1 Lesson 3: free fall — Newton's vacuum tube, the hammer-feather idea (Cambodia, Grade 8 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 8, Student version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 1 Lesson 3 — printed p. 7 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Palestine, Slovenia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Palestine, Slovenia).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, free fall — galileo vs aristotle, acceleration, palestine
+Searchable tags: physics, grade 11, motion in one and two dimensions, free fall — galileo vs aristotle, acceleration, palestine, cambodia

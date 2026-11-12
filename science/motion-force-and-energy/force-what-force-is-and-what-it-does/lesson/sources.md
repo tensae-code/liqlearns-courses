@@ -1,6 +1,6 @@
 # Sources — Force — what force is and what it does
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia
 
 **Book 6:** *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)* (student textbook) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Sixth revised edition, 2023 / 1445H (revised from the 2021 Grade-7 Science book). Grade: 7 · Student book · Repo: release `mid-size-books`, asset `grade-07-gov-iraq-physics-student-full-year.pdf` — 32,972,568 bytes (matched asset). PDF pages: 88. Printed page = PDF page (offset 0; contents and lesson starts align). Verdict: COMPLETE (ends with Ch.5 chapter test, printed p. 88). Structure: 5 chapters / 12 lessons, each lesson built on the 5-stage learning cycle (engage–explore–explain–evaluate–extend) stated in the preface. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 7:** *PISA Sample Test — Physics Grade 8 (Student)* (PRIVATE exam-prep / sample-test booklet — NOT a MoEYS textbook, labelled PRIVATE and cited as evidence of the tested syllabus only, outside the acceptance count) — Cambodia, Preah Sisowath High School, New Generation School, 2026; school-produced, aligned to PISA standards per its preface. Grade 8 · Student version. Repo path: grade-08/gov/cambodia/physics/pisa-physics-sample-test-student.pdf. Byte size: 8,424,218 (no size recorded; Contents API). PDF pages: 101. Offset: printed p. = PDF p. − 8. Verdict: COMPLETE structural read — full contents list read; PISA-format stimulus + questions throughout. Library debt, carried on the record: the library holds no MoEYS textbook for Grades 7–8 — only these private booklets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Force as an interaction; throwing, holding, walking, cutting | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 182–184 |
@@ -25,9 +27,10 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia
 
 | Chapitre 11, Notion of force — characteristics of a force, measuring its intensity (dynamometer), representing a force (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, Chapitre 11, printed p. 94 |
 | Ch.2 L2 Classifying force by its effect on bodies (Iraq, Grade 7) | Iraq, *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)*, Ch.2 L2 Classifying force by its effect on bodies — printed p. 33 |
+| Ch. 2 Lesson 1: force, measured with a dynamometer (Cambodia, Grade 8 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 8, Student version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 2 Lesson 1 — printed p. 12 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Slovenia, Iraq).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Slovenia, Iraq).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Placement: Student item 82 — g07-student-placements.md (Unit 7). This lesson rests on the student book only. Cross-reference: the Materials title's Force, friction and gravity lesson treats force at primary depth; this is the Grade 7 treatment in the new title, not a copy of that file.
 
-Searchable tags: force contact non-contact gravity magnetism friction effects grade 7 unit 7 ethiopia, palestine, iraq
+Searchable tags: force contact non-contact gravity magnetism friction effects grade 7 unit 7 ethiopia, palestine, iraq, cambodia

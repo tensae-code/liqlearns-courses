@@ -1,6 +1,6 @@
 # Sources — The kinetic theory of matter
 
-countries: Ethiopia, United States
+countries: Ethiopia, United States, Cambodia
 
 **Book 1:** *Chemistry Textbook, Grade 11* (Student Textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tsegaye Girma (PhD), Abera Gure (PhD). Content editor: Chala Regasa (MSc). Curriculum editor: Taye Hirpassa (BSc, MA). Language editor: Meseret Getnet (PhD). Illustrator: Asresahegn Kassaye (MSc). Designer: Daniel Tesfay (MSc). Evaluators: Tolessa Mergo Roro (BSc, MEd), Nega Gichile (BSc, MA), Sefiw Melesse (MSc). ISBN: 978-99990-0-018-5. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g11-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, United States
 
 **Book 4:** *College Physics 2e* (student textbook) — United States, OpenStax, Rice University; CC BY-NC-SA. Title as printed: College Physics 2e — OpenStax, Rice University; CC BY-NC-SA. Grade: 13 · Student book · Repo path: grade-13/approved-private/united-states/college-physics-2e.pdf · Release: full-quality-oversized-books (asset 263,463,256 bytes — exact match). Byte size: 263,463,256 · PDF pages: 1,671 · Offset: printed folios carried in the PDF; chapter starts cited from this edition's own contents. Verdict: COMPLETE — identity proven by title page; full contents read. The text is the same 34-chapter OpenStax course as *College Physics for AP® Courses 2e* WITHOUT the AP apparatus (no "Connection for AP® Courses"/"Test Prep" sections; chapters run ~6–8% shorter), filed with its own chapter placements at this edition's own printed pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
 
+**Book 5:** *រូបវិទ្យា ថ្នាក់ទី១០ — Physics, Grade 10* (student textbook) — Cambodia, Ministry of Education, Youth and Sport (MoEYS). Grade 10 · Student textbook (Sala Digital record 00004303); imprint page dated 13 [month illegible] 2020, print run 35,000; preface credits JICA-supported textbook work. Repo path: grade-10/gov/cambodia/physics/student/full-year.pdf (TSV row points at the release copy: releases/download/mid-size-books-7/grade-10-gov-cambodia-physics-student-full-year.pdf). Byte size: 34,881,828 (exact match, staging copy). PDF pages: 193. Offset: printed p. = PDF p. − 5 (printed p. 1 is PDF p. 6). Verdict: COMPLETE structural read — contents page and every chapter/lesson opener read from rendered pages; the legacy-font text layer does not extract, so interior prose was sampled, not machine-read. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Part 1 — The kinetic theory: all matter is made of particles in motio… | Book 1 (Grade 11 Student Textbook), printed pp. 145–148 |
@@ -18,9 +20,10 @@ countries: Ethiopia, United States
 | Whole lesson (teacher guide — evidence) | Book 2 (Grade 11 Teacher Guide), printed pp. 91–118 — unit pedagogy, harmonised answers and worked solutions |
 | Ch. 13 Temperature, Kinetic Theory, and the Gas Laws (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 13, printed p. 565 — temperature, kinetic theory and the gas laws |
 | Ch. 13 Temperature, Kinetic Theory, and the Gas Laws (College Physics 2e) | United States, *College Physics 2e*, Ch. 13, printed p. 533 |
+| Ch. 2 Lesson 2: the kinetic theory of matter — particles in motion explain temperature and states (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 2 Lesson 2 — printed p. 82 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, United States).**
+**Acceptance count: taught in 3 countries (Ethiopia, United States, Cambodia).**
 
 Pairing warning (carried exactly from the placements): the Grade 11 teacher guide is an EDITION-MATCHED COMPANION to the student textbook (same writers and editors, first published August 2023 under GEQIP-E), with heading-level divergences — (1) the guide's contents list no §1.3.3 "Discovery of the Neutron" heading (the student book has it as its own section); (2) the guide's contents fold Le Chatelier's principle out of the heading list — §5.2.6 is titled "Equilibrium and Industry" where the student book has §5.2.6 Le Chatelier and §5.2.7 Industry; (3) the guide gives "Reactions of aldehydes and ketones" its own heading §6.3.3, which the student contents fold into §6.3; (4) the guide splits carboxylic-acid nomenclature into two headings (§6.4.1/§6.4.2) where the student book has one. The student book's numbering governs; the guide's contents-page numbering is not imported. Book errors are taught corrected and named only here: the guide's contents print "PHYSICAL STATS OF MATTER" for Unit 3, "Itroduction" (§2.1), "Reversible and Rrreversible" (§5.2.1), mislabel the solid state as §3.4.1, garble the Unit 6 contents page numbers, and its body answer text at printed p.204 contains a formula slip "C2H25" in one worked ester answer; the student book's contents headings mislabel the running header "UNIT 1" on contents pp. III and V for Units 3 and 6 matter, and its book-care page prints "Tis textbook" for "This textbook". None of these is reproduced in the teaching text.
 
-Searchable tags: chemistry, Grade 11, Physical States of Matter, The kinetic theory of matter, Gas, Particles in motion, Solid → liquid → gas, They vibrate about fixed positions, united states
+Searchable tags: chemistry, Grade 11, Physical States of Matter, The kinetic theory of matter, Gas, Particles in motion, Solid → liquid → gas, They vibrate about fixed positions, united states, cambodia

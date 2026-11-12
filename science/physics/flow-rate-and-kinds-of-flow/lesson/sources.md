@@ -1,6 +1,6 @@
 # Sources — Flow rate and kinds of flow
 
-countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya
+countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya
 
 **Book 5:** *Secondary Physics — Student's Book Two* (student textbook) — Kenya, Kenya Literature Bureau (KLB), 5th edition 2013; © Ministry of Education, Kenya · ISBN 978-9966-10-212-6 (first published 1988; 5th edition 2013). Title as printed: Secondary Physics — Student's Book Two (KLB, 5th edition 2013). Grade: Form Two (Grade 10) · Student book · Repo path: grade-10/approved-private/kenya/kenya-physics-form2-klb.pdf (read from the phase3-staging copy of the same path, 7,473,471 bytes) · Byte size: 7,473,471 (staging copy) · PDF pages: 230 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Fluid Flow, each with Revision Exercises. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
 
+**Book 6:** *រូបវិទ្យា ថ្នាក់ទី១១ — Physics, Grade 11* (student textbook) — Cambodia, Ministry of Education, Youth and Sport (MoEYS). Grade 11 · Student textbook (Sala Digital record 00004277). Repo path: grade-11/gov/cambodia/physics/student/full-year.pdf (TSV row points at the release copy: releases/download/mid-size-books-7/grade-11-gov-cambodia-physics-student-full-year.pdf). Byte size: 49,443,392 (exact match, staging copy). PDF pages: 256. Offset: printed p. = PDF p. − 4 (printed p. 1 is PDF p. 5). Verdict: COMPLETE structural read — contents page and lesson openers read from rendered pages (same legacy-font text layer as Grade 10). Library debt, carried on the record: no Cambodia Grade 12 Physics record exists in the library at all. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Fluid flow — steady, turbulent, and flow rate | Grade 12 Student Textbook, printed pp. 103–104 |
@@ -21,7 +23,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya
 | Fluid Flow (Uganda, Senior Three home-study) | Uganda, *Physics Home-Study Learning — Senior Three (NCDC, 2020)*, Fluid Flow — PDF p. 33 |
 
 | Ch 10 Fluid flow: types of flow (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 10 Fluid flow: types of flow — printed p. 193 |
+| Ch. 1 Lesson 8: fluid dynamics (Cambodia, Grade 11) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១១ (Physics, Grade 11)*, Ch. 1 Lesson 8 — printed p. 106 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya).**
+**Acceptance count: taught in 6 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia).**
 
-Searchable tags: physics, grade 12, fluid mechanics, flow rate and kinds of flow, laminar, sri lanka, united states, uganda, kenya
+Searchable tags: physics, grade 12, fluid mechanics, flow rate and kinds of flow, laminar, sri lanka, united states, uganda, kenya, cambodia

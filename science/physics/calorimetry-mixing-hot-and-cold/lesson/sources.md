@@ -1,6 +1,6 @@
 # Sources — Calorimetry — mixing hot and cold
 
-countries: Ethiopia, Palestine, Haiti (programme evidence only), Sudan
+countries: Ethiopia, Palestine, Haiti (programme evidence only), Sudan, Cambodia (private-booklet evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Palestine, Haiti (programme evidence only), Sudan
 
 **Book 5:** *الفيزياء — للصف الثاني الثانوي (Physics — Second Secondary Year), revised edition* (student textbook) — Sudan, Sudan Ministry of Education / NCCER — title page: "المنقح" (revised); second-edition preface lists the changes. Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 16,681,047. PDF pages: 213. Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 5 units through Heat and the laws of thermodynamics, ending with unit exercises. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 6:** *PISA Sample Test — Physics Grade 7 (Teacher)* (PRIVATE exam-prep / sample-test booklet — NOT a MoEYS textbook, labelled PRIVATE and cited as evidence of the tested syllabus only, outside the acceptance count) — Cambodia, Preah Sisowath High School, New Generation School. Grade 7 · Teacher version (questions with the teacher apparatus). The cover names the school and its teacher committee, and carries a "copying this book is prohibited" notice. Recorded in the library as "PISA Sample Test — Physics Grade 7 (Teacher)". Repo path: grade-07/gov/cambodia/physics/pisa-physics-sample-test-teacher.pdf. Byte size: 12,115,518 (no size recorded; downloaded via Contents API). PDF pages: 254. Offset: printed p. = PDF p. − 6. Verdict: COMPLETE structural read — full contents list read; the booklet is PISA-format stimulus texts each followed by questions, so the contents list is the content map. Library debt, carried on the record: the library holds no MoEYS textbook for Grades 7–8 — only these private booklets, recorded as if they were the country's Physics books for those grades. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Calorimetry — the method of mixtures | Grade 11 Student Textbook, printed pp. 203–212 |
@@ -19,7 +21,8 @@ countries: Ethiopia, Palestine, Haiti (programme evidence only), Sudan
 | Theme: heat exchanges, measuring quantities of heat (programme evidence) | Haiti, *Programme détaillé NS, Physique 2e année*, Theme: heat exchanges, measuring quantities of heat, printed p. 52 |
 | Theme: Conservation de l'énergie — calorimetry re-used to show energy transfers inside an isolated system; microscopic description of the transfers (programme evidence) | Haiti, *Programme détaillé NS, Physique 3e année*, Theme: Conservation de l'énergie, PDF p. 5 |
 | Unit 5: heat quantity measurement and units (joule, kilocalorie) (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. 162 |
+| Ch. 1 Unit 2: quantity of heat — solar water heating, saving energy in industry (Cambodia, Grade 7 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 7, Teacher version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 1 Unit 2 — printed p. 22 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Sudan).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* and *Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Sudan).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* and *Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
-Searchable tags: physics, grade 11, heat conduction and calorimetry, calorimetry — mixing hot and cold, specific heat, palestine
+Searchable tags: physics, grade 11, heat conduction and calorimetry, calorimetry — mixing hot and cold, specific heat, palestine, cambodia

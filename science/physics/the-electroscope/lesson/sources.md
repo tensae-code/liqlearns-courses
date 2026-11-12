@@ -1,6 +1,6 @@
 # Sources — The electroscope — seeing charge
 
-countries: Ethiopia, Sri Lanka, Uganda, Kenya, Iraq
+countries: Ethiopia, Sri Lanka, Uganda, Kenya, Iraq, Cambodia
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 10* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 204 printed pp. Printed page = PDF page − 8. Contributors: Fikadu Eshetu (PhD), Writer; Mideksa Kasahun (MSc), Writer; Moges Tsega (PhD), Content Editor; Samuel Assefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). © 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-teacher-placements.md.
@@ -13,6 +13,8 @@ countries: Ethiopia, Sri Lanka, Uganda, Kenya, Iraq
 
 **Book 6:** *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)* (student textbook) — Iraq, Ministry of Education. 2024 / 1446H printing. Grade: 9 · Student book · Repo: release `mid-size-books`, asset `grade-09-gov-iraq-physics-student-full-year.pdf` — 6,030,991 bytes (matched asset). PDF pages: 176. Printed page = PDF page (offset 0). Verdict: COMPLETE (9 chapters, then a full contents list and quantity/unit tables, printed pp. 173–176). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 7:** *រូបវិទ្យា ថ្នាក់ទី១០ — Physics, Grade 10* (student textbook) — Cambodia, Ministry of Education, Youth and Sport (MoEYS). Grade 10 · Student textbook (Sala Digital record 00004303); imprint page dated 13 [month illegible] 2020, print run 35,000; preface credits JICA-supported textbook work. Repo path: grade-10/gov/cambodia/physics/student/full-year.pdf (TSV row points at the release copy: releases/download/mid-size-books-7/grade-10-gov-cambodia-physics-student-full-year.pdf). Byte size: 34,881,828 (exact match, staging copy). PDF pages: 193. Offset: printed p. = PDF p. − 5 (printed p. 1 is PDF p. 6). Verdict: COMPLETE structural read — contents page and every chapter/lesson opener read from rendered pages; the legacy-font text layer does not extract, so interior prose was sampled, not machine-read. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — The electroscope — seeing charge | Ethiopia, *Grade 10 Student Textbook*, printed pp. 97–98 |
@@ -24,9 +26,10 @@ countries: Ethiopia, Sri Lanka, Uganda, Kenya, Iraq
 
 | Ch 9: the electroscope, charges in air, applications and dangers of electrostatics (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 9: the electroscope, charges in air, applications and dangers of electrostatics — printed p. ~248 |
 | Ch.1 §§1-4–1-5 (the electroscope and charging it) (Iraq, Grade 9) | Iraq, *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)*, Ch.1 §§1-4–1-5 (the electroscope and charging it) — printed p. 5 (opener list) |
+| Ch. 3 Lesson 1: electrostatics (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 3 Lesson 1 — printed p. 102 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sri Lanka, Uganda, Kenya, Iraq).**
+**Acceptance count: taught in 6 countries (Ethiopia, Sri Lanka, Uganda, Kenya, Iraq, Cambodia).**
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: the electroscope — seeing charge, grade 10 physics, unit 4, an electroscope detects charge by its leaves diverging., both leaves get the same charge and repel each other apart., wider divergence means more charge., sri lanka, uganda, kenya, iraq
+Searchable tags: the electroscope — seeing charge, grade 10 physics, unit 4, an electroscope detects charge by its leaves diverging., both leaves get the same charge and repel each other apart., wider divergence means more charge., sri lanka, uganda, kenya, iraq, cambodia
