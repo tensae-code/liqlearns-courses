@@ -36,3 +36,10 @@ Doing-lessons keep the books' exact step orders; full video
 scripts where the placements name them; the Grade 7
 teacher-guide items are stocked inside the lessons as labelled
 evidence.
+
+**Band A1 (Grade 7, Units 1–2) — BUILT 2026-11-12:** 27
+lessons, 333 questions, 38 media filed (pictures/GIFs
+10100–10137) — First Steps (15), Hardware (12). The Grade 7
+book's own shape (its six-unit road map and brainstorm-first
+rhythm) is filed inside the opening lesson, What ICT Is.
+Grade 7 now stands complete: 59 lessons.

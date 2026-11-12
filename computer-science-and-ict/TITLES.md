@@ -91,6 +91,27 @@ The titles, in ladder order:
 
 (Registered here band by band as the build lands.)
 
+**First Steps** (band A1, from Ethiopia Grade 7): What ICT Is ·
+IT and ICT — Telling Them Apart · The Five Elements of an ICT
+System · Data — Raw Facts With No Meaning Yet · From Data to
+Information · The User in an ICT System · Communication in an
+ICT System · Technology — Tools People Make to Solve Problems
+· ICT in Daily Life — Communication · ICT in Education · ICT
+in Entertainment · ICT in E-Commerce — and ICT in Big Issues ·
+What a Computer Is — Input, Process, Store, Output · What
+Computers Are Good At — and the Harm of Overuse · Hardware and
+Software — the Two Parts of a Computer System.
+
+**Hardware** (band A1, from Ethiopia Grade 7): Computer
+Hardware — the Part You Can Touch · Input Devices — Putting
+Data In · Keyboard and Mouse · More Input Devices — Scanner,
+Touch Screen, Light Pen, Camera · Barcode Reader and
+Microphone · The CPU — the Brain of the Computer · Inside the
+CPU — ALU, Control Unit, Registers · Output Devices — Getting
+Results Out · Storage Devices — Keeping Data · RAM and ROM ·
+Hard Disk, Optical Disk, Flash Disk and SD Card · Units of
+Data Storage — Bit, Byte, KB, MB, GB, TB.
+
 **Software** (band A2, from Ethiopia Grade 7): Computer
 Software · System Software and the Operating System · Utilities
 and Language Translators · Application Software · System or
