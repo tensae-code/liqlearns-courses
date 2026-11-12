@@ -10,3 +10,9 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 2) Lemon juice and yeast together form a gas.**
 **Answer: True**
+**4. In a physical change, nothing new is formed.**
+**Answer: True**
+
+**5. Souring is a physical change.**
+**Answer: False**
+

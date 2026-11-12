@@ -15,6 +15,9 @@ The families explain the care lessons on both sides of this one: the coming-back
 
 [Picture 13232 — rain refilling a pond beside a petrol barrel emptying for good]
 
+## Grade 5 — renewable and non-renewable, Ethiopia's own lists
+The Grade 5 book re-draws the family line at country scale. **Renewable** resources replace themselves — **trees, animals, plants, air** — and last long if used with care. **Non-renewable** ones cannot — **natural fuel, coal, and minerals: gold, copper, diamond, iron, brass, salt, stone**. The class debate the book sets: **is water renewable — and why?** (Its cycle renews it; its sources can still be spoiled or drained — the care condition the renewable family's own rule names.)
+
 ## Say it to your companion
 Tell your companion both rules with their examples, then sort the book's starting table — soil, water, minerals, walia, trees — as far as the rule lets you, saying which entries need care-thinking (soil renews slowly; a walia is a living resource whose kind can finish if unprotected).
 

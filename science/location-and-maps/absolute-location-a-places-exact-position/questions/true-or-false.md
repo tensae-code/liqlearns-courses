@@ -13,3 +13,13 @@ Say whether each sentence is true or false, and why.
 
 **4. (Sub lesson 4) Every town inside the Amhara Region lies inside its coordinate box.**
 **Answer: True** — The box holds the entire region.
+
+**5. (Sub lesson 5) Ethiopia has two time zones.**
+**Answer: False** — The whole country keeps one time zone, GMT+3.
+
+**6. (Sub lesson 6) Ethiopia's location has no effect on its climate.**
+**Answer: False** — The book lists climate among the things its position shapes.
+
+**7. (Sub lesson 7) East Africa lies wholly north of the equator.**
+**Answer: False** — It spans 18° N to 26° S — it crosses the equator.
+

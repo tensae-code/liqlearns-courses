@@ -14,12 +14,17 @@ countries: Ethiopia
 
 **Book 9:** *አካባቢ ሳይንስ የመምህራን መምሪያ አራተኛ ክፍል — Environmental Science Teacher Guide, Grade 4, Oromia edition* (teacher guide) — Ethiopia, Oromia Education Bureau, © 2014 E.C./2022, 95 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md
 
+**Book 10:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል — Environmental Science Student Textbook, Grade 5* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md
+**Book 11:** *አካባቢ ሳይንስ አምስተኛ ክፍል የመምህሩ መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 5* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. Printed page = PDF page − 7. The file holds printed pp. 1–75 only (TRUNCATED — see the honesty note below). Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-teacher-placements.md
+
 | Lesson part | Where it comes from |
 |---|---|
 | What relative location is (teacher guide — evidence) (teacher guide — evidence) | Ethiopia, *Environmental Science Teacher Guide, Grade 2*, printed pp. 3–8 (teacher guide — evidence); Ethiopia, *Environmental Science Teacher Guide, Grade 3*, printed p. 2 (teacher guide — evidence); Ethiopia, *Environmental Science Student Textbook, Grade 2*, printed pp. 3–4 |
 | Our zone's relative location | Ethiopia, *Environmental Science Student Textbook, Grade 3*, printed pp. 3–5 |
 | Your sub-city, described both ways (teacher guide — evidence) (teacher guide — evidence) | Ethiopia, *Environmental Science Teacher Guide, Grade 3*, printed pp. 6–9 (teacher guide — evidence) |
 | Two ways of fixing a place — the Grade 4 definitions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, printed pp. 5–10; Ethiopia, *Environmental Science Teacher Guide, Grade 4, SNNP edition*, printed pp. 20–23 (teacher guide — evidence); Ethiopia, *Environmental Science Teacher Guide, Grade 4, Oromia edition*, printed pp. 23–27 (teacher guide — evidence) |
+| Ethiopia among its neighbours | Ethiopia, *Environmental Science Student Textbook, Grade 5*, printed p. 4; Ethiopia, *Environmental Science Teacher Guide, Grade 5*, printed pp. 6–8 (teacher guide — evidence) |
+| How long our borders are | Ethiopia, *Environmental Science Student Textbook, Grade 5*, printed p. 5 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
@@ -33,4 +38,7 @@ COMPLETE: the Grade 4 student book's contents promise 5 chapters ending at print
 
 COMPLETE: both Grade 4 regional teacher guides are complete in hand (SNNP printed pp. 1–143; Oromia printed pp. 1–95). The Grade 4 national teacher guide is link-only and is NOT claimed. Every part from these books is teacher-guide evidence.
 
-Searchable tags: relative location, አንጻራዊ መገኛ, South Gondar, landmarks, relative and absolute location, Grade 4 definitions
+COMPLETE: the Grade 5 student book's contents promise ends at printed p. 178 (Chapter 6 review) and the file's last printed page is 178. Book misprint, noted and not taught: the running heads inside Chapter 6 are misprinted "ምዕራፍ 5" (Chapter 5) although the chapter itself is Chapter 6.
+TRUNCATED: the Grade 5 teacher guide file holds printed pp. 1–75 (Units 1–3); the contents page promises 5 units running to printed p. 106 — Units 4 and 5 are NOT in the file. Every part from this book is teacher-guide evidence and is never counted as pupil-taught.
+
+Searchable tags: relative location, አንጻራዊ መገኛ, South Gondar, landmarks, relative and absolute location, Grade 4 definitions, Ethiopia neighbours, border lengths, Somalia 1600 km, Djibouti 310 k, Ethiopia neighbours, border lengths, Somalia 1600 km, Djibouti 310 kmk

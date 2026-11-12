@@ -15,3 +15,9 @@ Say whether each sentence is true or false.
 **Answer: True**
 **5. (Sub lesson 5) Ice, water and steam are one material in three states.**
 **Answer: True**
+**6. Gaining heat energy speeds a state's particles into the next state.**
+**Answer: True**
+
+**7. The deodorant in Experiment 4 stayed in its corner.**
+**Answer: False**
+

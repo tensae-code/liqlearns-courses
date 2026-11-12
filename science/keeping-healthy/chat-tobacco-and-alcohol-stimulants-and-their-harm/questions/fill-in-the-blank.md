@@ -7,3 +7,9 @@ Fill in each blank with the right word.
 
 **2. The book casts pupils as guests on a community-health ___ programme.**
 **Answer: radio**
+**3. The shopkeeper in the opener cannot function without his 8-o'clock ______.**
+**Answer: chat**
+
+**4. Getachew the driver's hands shake without ______.**
+**Answer: areke**
+

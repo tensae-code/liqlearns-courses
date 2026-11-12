@@ -10,3 +10,7 @@ Sub lesson 2 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 3 — The same message in the Grade 4 book
 Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: The book-care rules do not change as you grow — (answer: cover it, keep it dry and clean, use a bookmark, never tear, repair, hand over carefully).
+
+## Sub lesson 4 — The same message in the Grade 5 and Grade 6 books
+Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: the book-care message stands at printed page ii of the Grade 5 and Grade 6 books too
+

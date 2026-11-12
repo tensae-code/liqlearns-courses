@@ -13,3 +13,10 @@ Say whether each sentence is true or false, and why.
 
 **4. (Sub lesson 4) South-west lies between south and west.**
 **Answer: True** — Each sub-direction sits between two main directions.
+
+**5. (Sub lesson 5) A compass has only the four main directions.**
+**Answer: False** — It has sixteen: the four main points and twelve sub-directions.
+
+**6. (Sub lesson 6) A compass needle settles pointing south.**
+**Answer: False** — It settles pointing north.
+

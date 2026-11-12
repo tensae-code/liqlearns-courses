@@ -7,3 +7,6 @@ Fill in each blank with the right word.
 
 **2. (Sub lesson 2) Properties seen without changing the thing are ___ properties.**
 **Answer: physical**
+**3. Solute + solvent = ______.**
+**Answer: solution**
+

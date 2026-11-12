@@ -20,3 +20,23 @@ a) Virus  b) Village  c) Victory
 **5. A person carrying HIV —**
 a) always looks very sick at once  b) can look healthy for many years yet pass it on  c) cannot pass it to anyone
 **Answer: b) can look healthy for many years yet pass it on**
+**6. Sharing a toothbrush or razor —**
+a) cannot spread HIV  b) can spread HIV  c) cleans the blood
+**Answer: b) can spread HIV**
+
+**7. Swimming together —**
+a) spreads HIV  b) does not spread HIV  c) spreads it only in rivers
+**Answer: b) does not spread HIV**
+
+**8. Why is spread rising again, as the chapter warns?**
+a) a new virus appeared  b) attention to prevention faded after early success  c) rain increased
+**Answer: b) attention to prevention faded after early success**
+
+**9. Which is a great contributor to spread in the region?**
+a) low reach of health services  b) too many clinics  c) cold weather
+**Answer: a) low reach of health services**
+
+**10. The reliable protection the book names is —**
+a) abstinence  b) sharing carefully  c)  luck
+**Answer: a) abstinence**
+

@@ -11,3 +11,5 @@ They all meet at the poles.
 Their zero line passes through Greenwich.
 
 Longitude tells how far east or west a place is.
+
+Pole to pole. Zero at the prime meridian. Three hundred and sixty degrees in all.

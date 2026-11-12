@@ -37,6 +37,7 @@ A bucket of water, a small iron or stone ball, and a sponge — the book's own t
 - GIF [GIF 13211] — the ball dropping straight down and the sponge bobbing on the surface, side by side → the student calls 'sink' and 'float' as each lands.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13448] — a picture of oil on water and the pen pressure test → the student explains both with the formulas.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

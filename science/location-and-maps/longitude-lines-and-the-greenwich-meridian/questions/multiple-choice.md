@@ -22,3 +22,7 @@ a) east from 0°  b) south from 0°  c) from the equator
 a) meet at poles  b) never meet and keep equal length  c) are shorter at the middle
 **Answer: b) never meet and keep equal length** — Latitude lines are parallel and equal in length.
 
+**6. (Sub lesson 3) The prime meridian's longitude is —**
+a) 180°  b) 0°  c) 90°
+**Answer: b) 0°** — The prime meridian is the zero line of longitude.
+

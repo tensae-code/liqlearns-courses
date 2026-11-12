@@ -7,3 +7,6 @@ Say whether each sentence is true or false.
 
 **2. A full grain store can carry a community through a dry year.**
 **Answer: True**
+**3. Crop loss by locusts and hail is a famine cause.**
+**Answer: True**
+

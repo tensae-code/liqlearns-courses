@@ -9,3 +9,9 @@ Say whether each sentence is true or false.
 **Answer: True**
 **3. Skins and parts of wild animals are used for ornaments.**
 **Answer: True**
+**4. Habitat destruction is one of the two main reasons wildlife is shrinking.**
+**Answer: True**
+
+**5. The gelada is found in many countries.**
+**Answer: False**
+

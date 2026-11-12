@@ -13,3 +13,7 @@ Say whether each sentence is true or false, and why.
 
 **4. (Sub lesson 4) The teacher guides teach that natural resources brought to market should be traded legally.**
 **Answer: True** — Both guides carry the legal/illegal distinction (teacher guide — evidence).
+
+**5. (Sub lesson 5) East Africa imports raw materials and exports factory goods.**
+**Answer: False** — It is the other way round: raw goods out, factory goods in.
+

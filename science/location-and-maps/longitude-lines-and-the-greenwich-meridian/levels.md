@@ -7,3 +7,7 @@ Sub lesson 1 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 2 — Greenwich, the 0° line
 Sub lesson 2 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: The 0° longitude line is called — (answer: the Greenwich meridian).
+
+## Sub lesson 3 — Longitude — the meridians, the Grade 6 measure
+Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: prime meridian 0°, 180° east and 180° west, all meridians meeting at the poles
+

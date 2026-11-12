@@ -15,3 +15,7 @@ These are latitude lines. They tell how far north or south a place is.
 ኬንትሮስ — longitude: from the prime meridian, all the way around.
 
 Together they can fix any place on earth.
+
+Zero at the equator. Ninety at the poles. One hundred and eleven kilometres in a degree.
+
+Latitude first. Then longitude. Always in that order.

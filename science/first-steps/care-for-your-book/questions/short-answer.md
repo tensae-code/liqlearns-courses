@@ -10,3 +10,7 @@ Answer in a sentence or two, in your own words.
 
 **3. (Sub lesson 3) Name three rules from the book-care message.**
 **Answer:** Any three of: cover the book; keep it dry and clean; use a bookmark; never tear pages or pictures; repair torn pages; hand it over carefully.
+
+**4. (Sub lesson 4) Why does the same message open every book in the series?**
+**Answer:** Because every book needs the same care: a cared-for book stays clean, whole and readable all year, for its pupil and for the next pupil.
+

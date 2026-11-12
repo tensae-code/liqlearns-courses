@@ -7,3 +7,9 @@ Fill in each blank with the right word.
 
 **2. Soil is also used for building, ___ and household goods.**
 **Answer: pottery**
+**3. Soil erosion in Amharic is ______.**
+**Answer: መሸርሸር**
+
+**4. Terracing in Amharic is ______.**
+**Answer: እርከን**
+

@@ -8,3 +8,5 @@ Sub lesson 1 questions from the type files. Pass mark: group six named animals b
 ## Sub lesson 2 — By food, and by body and covering
 Sub lesson 2 questions from the type files. Pass mark: place an animal in the food table and in the five body groups by its covering, naming the covering as the proof
 
+
+Grade 5/6 depth (added 2026-11-12): the pass mark grows — the learner also applies the backbone divide and the insect test, recites both metamorphosis sequences, sorts useful against harmful insects, and climbs the five-rung vertebrate ladder with each rung's marks, ending at the bat verdict.

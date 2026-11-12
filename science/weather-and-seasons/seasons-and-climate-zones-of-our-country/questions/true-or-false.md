@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 1) Dega is cooler than qolla.**
 **Answer: True**
+**4. East Africa's climate is the same everywhere because it is tropical.**
+**Answer: False**
+

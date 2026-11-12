@@ -20,6 +20,12 @@ A sketch map of a woreda shows its kebeles and its main places. We read it by as
 
 Now draw: your own woreda as a rough sketch map, your kebele marked inside it, and the things that border it on each side written or drawn at the edges.
 
+## Sub lesson 4 — Drawing a sketch map — the eight steps
+
+Grade 5 teaches sketch-map drawing as a craft with **eight printed steps**: choose the area, walk it and look, fix north, draw the big shapes first, add the roads and paths, add the main places, name everything and add a key, then check the drawing against the ground. Then the book holds up a worked example to judge: pupil **Zerihun's sketch map of the Amhara Region**, critiqued step by step against the eight. A good sketch map is not a guess — it is the steps, followed.
+
+[Picture 13305 — the eight steps of drawing a sketch map as a numbered strip]
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: how villages group into a kebele and kebeles into a woreda, and how to read — and draw — a woreda sketch map. Then answer one question they ask you about it.
@@ -29,3 +35,4 @@ Explain this lesson's one thing to your companion in your own words: how village
 1. Draw your woreda's sketch map with your kebele marked.
 2. Write what borders your kebele on the east and on the west.
 3. Ask at home: how many villages are in our kebele?
+4. Draw a sketch map of your school area by the eight steps and judge a partner's against them.

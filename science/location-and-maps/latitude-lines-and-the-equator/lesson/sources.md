@@ -8,11 +8,15 @@ countries: Ethiopia
 
 **Book 7:** *አካባቢ ሳይንስ የመምህሩ መምሪያ 4ኛ ክፍል — Environmental Science Teacher Guide, Grade 4, SNNP edition* (teacher guide) — Ethiopia, SNNP Regional State Education Bureau, 143 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md
 
+**Book 8:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል — Environmental Science Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md
+
 | Lesson part | Where it comes from |
 |---|---|
 | Lines that run east–west and never meet | Ethiopia, *Environmental Science Student Textbook, Grade 3*, printed pp. 6–8 |
 | The equator, the starting line | Ethiopia, *Environmental Science Student Textbook, Grade 3*, printed pp. 6–8 |
 | Latitude and longitude together — the Grade 4 grid | Ethiopia, *Environmental Science Student Textbook, Grade 4*, printed pp. 5–10; Ethiopia, *Environmental Science Teacher Guide, Grade 4, SNNP edition*, printed pp. 18–20 (teacher guide — evidence) |
+| Latitude — the parallels, the Grade 6 measure | Ethiopia, *Environmental Science Student Textbook, Grade 6*, printed p. 4 |
+| Giving a position — latitude first, then longitude | Ethiopia, *Environmental Science Student Textbook, Grade 6*, printed p. 7 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
@@ -22,4 +26,6 @@ COMPLETE: the Grade 4 student book's contents promise 5 chapters ending at print
 
 COMPLETE: both Grade 4 regional teacher guides are complete in hand (SNNP printed pp. 1–143; Oromia printed pp. 1–95). The Grade 4 national teacher guide is link-only and is NOT claimed. Every part from these books is teacher-guide evidence.
 
-Searchable tags: latitude, የኬክሮስ ዲግሪ, equator, globe, ኬክሮስ, ኬንትሮስ, prime meridian, 90 degrees
+COMPLETE: the Grade 6 student book's contents promise ends at printed p. 177 (Chapter 6) and the file's last printed page is 177.
+
+Searchable tags: latitude, የኬክሮስ ዲግሪ, equator, globe, ኬክሮስ, ኬንትሮስ, prime meridian, 90 degrees, latitude, parallels, hemisphere, 111 km, equator crossing, latitude, parallels, hemisphere, 111 km, equator crossingsg

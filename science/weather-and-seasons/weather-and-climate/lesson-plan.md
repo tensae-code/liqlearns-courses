@@ -49,6 +49,8 @@ Your seven-day weather record from the last lesson; a farmer or elder to ask abo
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
 - IMAGE [Picture 13218] — a picture of one town shown in sun, rain and cold under one "climate" label → the student says which parts are weather and which single word covers them all.
+- IMAGE [Picture 13450] — a picture of the five weather instruments → the student matches element to instrument.
+- GIF [GIF 13451] — a GIF of the rain cycle turning → the student names evaporation, condensation and rain in turn.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

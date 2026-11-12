@@ -11,3 +11,7 @@ Many kebeles together: a woreda.
 Here is a sketch map. Find your kebele. What borders it on this side?
 
 Now draw your own woreda.
+
+Eight steps. Choose, walk, fix north, draw — then check against the ground.
+
+Zerihun's map is judged by the steps. Yours will be too.

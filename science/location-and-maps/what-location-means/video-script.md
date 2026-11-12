@@ -17,3 +17,7 @@ Now you: where is your bag? Say what is near it.
 Where is a place? We say it against the places around it.
 
 And a map? A map draws that 'where' small, on paper, so your eyes can see the whole place at once.
+
+A map flattens the Earth. A globe keeps it round.
+
+From above. Simplified. Reduced. To scale. That is a map.

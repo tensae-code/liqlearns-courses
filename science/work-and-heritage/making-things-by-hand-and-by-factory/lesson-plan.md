@@ -16,6 +16,12 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 4. **Cottage and modern industry — the Grade 4 picture** — cottage industry (የጎጆ ኢንዱስትሪ) and its thousand-year tools; light and heavy modern industry; the region's metal-factory towns (Grade 4 student pp.116–118).
 
+5. **Industry in Ethiopia — cottage and modern** — industries few and clustered (Addis Ababa, Dire Dawa, Kombolcha, Mekelle, Nazreth…); cottage industry (weaving, pottery, woodwork, metalwork, leatherwork) is the foundation; modern industry recent, mostly food, under 10% of GDP, with printed problems (Grade 5).
+
+6. **Industry in East Africa — cottage, light and heavy** — industry transforms natural resources into useful things; two kinds — cottage and modern; modern splits into light industry (consumer goods) and heavy industry (raw materials and machinery — metal and cement in Ethiopia and Kenya, metal in Zambia and Zimbabwe) (Grade 6).
+
+7. **Why industry is still small** — after civil wars and crises, industry is under 8.9% of the region's total economies — yet it is known for creating jobs and stirring the other sectors to life (Grade 6).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -27,6 +33,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Say and use what the part "Cottage industry — by hand and skill" teaches, in their own words.
 3. Say and use what the part "Modern industry — by factory" teaches, in their own words.
 4. Say and use what the part "Cottage and modern industry — the Grade 4 picture" teaches, in their own words.
+5. Say and use what the part "Industry in Ethiopia — cottage and modern" teaches, in their own words.
+6. Say and use what the part "Industry in East Africa — cottage, light and heavy" teaches, in their own words.
+7. Say and use what the part "Why industry is still small" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.

@@ -19,3 +19,7 @@ Care for your book — and your book will teach you all year.
 And in the Grade 4 book, the same message stands at the front.
 
 Cover it. Keep it dry. Use a bookmark. Never tear. Repair. Hand it over carefully.
+
+The same message, in the Grade 5 book. The same message, in the Grade 6 book.
+
+Care for your book — it is your habit now, not only a rule.

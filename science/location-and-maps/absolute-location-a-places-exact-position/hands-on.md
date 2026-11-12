@@ -10,3 +10,7 @@ Describe one classroom object two ways: relatively ('beside the window') and by 
 
 ## Fix a lake, fix a region
 On a gridded map of a lake or a region, read the top, bottom, left and right edge numbers and write the place's absolute location in the full form: latitude range first, then longitude.
+
+## Frame your country
+On a blank frame, mark Ethiopia's four extremes and label each with its place name. Then add the region's bigger frame around it in another colour.
+

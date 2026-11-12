@@ -30,3 +30,27 @@ a) statecraft  b) art and literature, as an author  c) engineering
 a) natural heritages  b) intangible heritages  c) castles
 **Answer: b) intangible heritages** — The guides' own term (teacher guide — evidence).
 
+**8. (Sub lesson 6) Timket is which kind of heritage?**
+a) tangible  b) intangible  c) natural only
+**Answer: b) intangible** — Timket is a festival — carried in performance, one of the four UNESCO intangible festivals.
+
+**9. (Sub lesson 6) Harar Jugol is listed by UNESCO for which region?**
+a) Amhara  b) Tigray  c) Harari
+**Answer: c) Harari** — The table places Harar Jugol in Harari.
+
+**10. (Sub lesson 7) Protecting heritage means —**
+a) rebuilding it in a new style  b) guarding it without changing its content  c) hiding it from everyone
+**Answer: b) guarding it without changing its content** — Protection keeps the heritage as it is — its content unchanged.
+
+**11. (Sub lesson 7) Showing Ethiopia's heritage to the world with phones and computers grows —**
+a) tourism  b) erosion  c) silence
+**Answer: a) tourism** — Information technology promotes heritage and grows tourism.
+
+**12. (Sub lesson 8) Which pair are the traditional institutions that keep culture?**
+a) libraries and museums  b) churches and mosques  c) offices and archives
+**Answer: b) churches and mosques** — Churches and mosques are the traditional keepers named in the book.
+
+**13. (Sub lesson 8) An archive keeps —**
+a) only new newspapers  b) records and writings of the past  c) farm tools only
+**Answer: b) records and writings of the past** — Libraries and archives keep the written record.
+

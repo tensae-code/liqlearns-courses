@@ -1,0 +1,20 @@
+# Sources — Elements, compounds and mixtures
+
+countries: Ethiopia
+
+**Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
+
+**Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Atoms, elements and compounds | Ethiopia, *Grade 5 Student Textbook*, printed p. 57 |
+| Atoms, elements and compounds | Ethiopia, *Grade 6 Student Textbook*, printed pp. 53–58 |
+| Mixtures — and what is not matter | Ethiopia, *Grade 5 Student Textbook*, printed p. 57 |
+| Mixtures — and what is not matter | Ethiopia, *Grade 6 Student Textbook*, printed pp. 64–65 |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+Both student books are COMPLETE (Grade 5: 178 printed pp.; Grade 6: 177 printed pp.). The Grade 6 book's element classes and its fixed-ratio openers (builders 4:1, tella makers 2:1) are carried as the placements record them.
+
+Searchable tags: matter atoms, elements metals non-metals metalloids, compounds fixed ratio, mixtures, H2O

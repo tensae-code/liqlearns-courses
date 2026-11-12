@@ -9,3 +9,7 @@ Love. A name. Care. Food. Clothes. School.
 መብታችን ይከበር — let our rights be respected.
 
 Work within your strength — and protectors stand ready: family, teachers, kebele, government.
+
+Every person under eighteen is a child. That is the 1989 rule.
+
+Life. A name. Care. Protection. Four rights to hold.

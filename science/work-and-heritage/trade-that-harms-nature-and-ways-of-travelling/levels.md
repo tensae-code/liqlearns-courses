@@ -10,3 +10,13 @@ Sub lesson 2 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 3 — Transport — the blood vessel of the country
 Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Transport is called — (answer: the blood vessel of a country).
+
+## Sub lesson 4 — Transport — land, rail and air
+Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: transport is land, rail and air; weak country-to-country roads choke the region's trade
+
+## Sub lesson 5 — The Northern Corridor
+Sub lesson 5 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: the Northern Corridor runs 1,700 km, Mombasa–Nairobi–Kampala, to Rwanda and Burundi
+
+## Sub lesson 6 — The Central Corridor and the roads to come
+Sub lesson 6 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: the Central Corridor runs 1,300 km from Dar es Salaam; planned lines will join Addis Ababa to Nairobi and Juba, and Lamu to Ethiopia
+

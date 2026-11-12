@@ -9,3 +9,6 @@ Fill in each blank with the right word.
 **Answer: gas**
 **3. (Sub lesson 5) Pupils measure the local boiling point of water with a ___, with adult help.**
 **Answer: thermometer**
+**4. Iodine and solid carbon dioxide change by ______ (ዝልትነት).**
+**Answer: sublimation**
+

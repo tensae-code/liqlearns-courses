@@ -26,3 +26,11 @@ a) under 12  b) under 18  c) at school
 a) went to school  b) worked beyond their strength and missed school  c) played all day
 **Answer: b) worked beyond their strength and missed school** — Loads beyond strength, and no schooling — their rights were violated.
 
+**7. (Sub lesson 4) Under the 1989 convention, a child is every person under —**
+a) 12  b) 16  c) 18
+**Answer: c) 18** — The convention counts every person under 18 as a child.
+
+**8. (Sub lesson 4) Which of these is a printed right of the child?**
+a) to work instead of school  b) a name and a nationality  c) to be treated cruelly
+**Answer: b) a name and a nationality** — Life, a name and a nationality stand first among the printed rights.
+

@@ -28,6 +28,14 @@ A map is the tool that shows location. Where a body or a place sits is described
 
 [Picture 12214 — a simple sketch map beside the real place it shows]
 
+## Sub lesson 5 — Map and globe — two ways to show the Earth
+
+There are two ways to show the whole Earth. A **map** is the Earth — or part of it — reduced and drawn flat, as seen from above; cartographers make maps from field data and aerial images. A **globe** is the Earth's true model, round like the Earth itself. Maps are used to find a place's location, size, direction and distance, and they serve travellers, pilots, ship captains, the military and town planners.
+
+## Sub lesson 6 — What a map is (teacher guide — evidence)
+
+The Grade 5 teacher guide defines a map with care (teacher guide — evidence). A map is a tool that shows places and events on the Earth's surface, in part or in whole, drawn **from above** on flat paper, **simplified** in content, **reduced** in size, and drawn **to scale** (ልኬት). A map shows a place's location, its direction, its area and its distances, and it shows both natural and man-made things.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: what location (መገኛ) means — every thing and every place is somewhere, and we say where by pointing to what is near it. Then answer one question they ask you about it.
@@ -37,3 +45,4 @@ Explain this lesson's one thing to your companion in your own words: what locati
 1. Name where five things in your classroom are, each time naming something near the thing.
 2. At home, say where your house is by naming two things near it.
 3. Draw your classroom and mark where the desk, the door and your seat are.
+4. Draw the same place as a flat map and say how a globe would show it differently.

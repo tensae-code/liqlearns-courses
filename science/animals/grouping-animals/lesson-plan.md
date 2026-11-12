@@ -47,6 +47,8 @@ Animal pictures, or a farmyard and its neighbours to sort; five boxes or chalk c
 - GIF [GIF 12164] — a picture of animals being sorted into groups by their coverings — fur, feathers, scales → the student calls each animal's group as it lands in its pile.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13459] — a picture of the backbone divide and the insect's three parts → the student applies the insect test.
+- GIF [GIF 13460] — a GIF of metamorphosis stages → the student counts 4 against 3.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

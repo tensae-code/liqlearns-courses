@@ -26,6 +26,20 @@ Citizens whose research, discoveries and deeds serve the country greatly are cal
 
 The teacher guides carry the same heritage lesson (teacher guide — evidence), and the Oromia guide's syllabus spells the skill: list the heritages found in your zone and surroundings, state their uses, and tell natural heritages from man-made heritages and from intangible heritages (የማይታዩ ቅርሶች).
 
+## Sub lesson 6 — Heritage — touchable and untouchable; Ethiopia's UNESCO heritage
+
+Grade 5 defines heritage as the identity-bearing creations of past ages, valuable in science, history, culture and art — and sorts it in two. **Tangible** heritage can be touched: Gondar's royal castles, Lalibela's rock churches, Aksum's obelisks, the Tiya stelae, old coins and tools, Tana's monasteries, Sof Omar cave. **Intangible** heritage is carried in performance: Meskel Demera, Timket, Fiche Chembelala, Irecha, Ashenda. The book's **UNESCO table** pins them by region — Lalibela, the Simien Mountains and Gondar in Amhara; Aksum in Tigray; the Lower Awash in Afar; the Lower Omo, Tiya and Konso in the Southern Nations; Harar Jugol in Harari — and names four UNESCO intangible festivals: **Timket, Meskel, Fiche Chembelala, Irecha**.
+
+[Picture 13318 — a nine-pin UNESCO heritage chart plus the four festival names]
+
+## Sub lesson 7 — Protecting and promoting heritage
+
+Heritage survives only if it is guarded — by **citizens and government together**. The Grade 5 book's duties: protect heritage **without changing its content**; teach citizens to guard it; build **heritage-protection institutions**; and use **information technology** to show the country to the world. Done well, protection grows **tourism** — while the heritage itself keeps the people's identity as living evidence of who they are.
+
+## Sub lesson 8 — The institutions that keep culture
+
+Who keeps a people's culture, day by day? The book names the institutions. The **traditional** keepers are **churches and mosques** — the old houses of faith and learning. The **modern** keepers are **culture and tourism offices, libraries and archives, art houses and museums**. The lesson's field step is simple and real: ask a local institution how it protects heritage, and report what it says back to the class.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: heritage is the wealth handed down — rock churches, castles, mountains, songs and values — and Lalibela, Gondar and the Simien Mountains stand on the world's own list. Then answer one question they ask you about it.
@@ -35,3 +49,4 @@ Explain this lesson's one thing to your companion in your own words: heritage is
 1. Sort eight heritages you know into natural, cultural and historical — then sort the cultural ones again: tangible or intangible.
 2. Draw one UNESCO site of the region and caption it with its place.
 3. Research one of the four great figures and report three deeds.
+4. Sort eight named heritages into tangible and intangible and name the institution that keeps one of them.

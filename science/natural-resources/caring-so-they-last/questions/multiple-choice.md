@@ -28,3 +28,23 @@ a) one seedling for every tree cut  b) many seedlings for every tree cut  c) no 
 **7. Intercropping means —**
 a) sowing crops together  b) burning fields  c) grazing everywhere
 **Answer: a) sowing crops together**
+**8. Sustainable development must not compromise —**
+a) today's needs  b) future generations' ability to meet their needs  c) exports
+**Answer: b) future generations' ability to meet their needs**
+
+**9. Agenda 2030 was signed in —**
+a) 2015  b) 2000  c) 2030
+**Answer: a) 2015**
+
+**10. How many goals does it carry?**
+a) 7  b) 17  c) 30
+**Answer: b) 17**
+
+**11. Which is one of the book's three pupil projects?**
+a) building a road  b) sorting dumped rubbish by kind  c) catching wildlife
+**Answer: b) sorting dumped rubbish by kind**
+
+**12. Substitution (teacher guide — evidence) means —**
+a) replacing non-renewable resources with renewable ones  b) using more fuel  c) stopping all farming
+**Answer: a) replacing non-renewable resources with renewable ones**
+

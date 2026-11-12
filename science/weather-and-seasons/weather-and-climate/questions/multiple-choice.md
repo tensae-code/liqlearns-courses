@@ -28,3 +28,19 @@ a) today's state of the air  b) the long-term average of wind, temperature, rain
 **7. (Sub lesson 3) The book's worked example uses a station average for —**
 a) Debre Berhan, over 25 years  b) one school, over one week  c) the capital, over one day
 **Answer: a) Debre Berhan, over 25 years**
+**8. Wind speed is measured by —**
+a) a barometer  b) an anemometer  c) a rain gauge
+**Answer: b) an anemometer**
+
+**9. Air pressure is measured by —**
+a) a thermometer  b) a wind vane  c) a barometer
+**Answer: c) a barometer**
+
+**10. The annual average is the 12 months —**
+a) added only  b) added and divided by 12  c) multiplied
+**Answer: b) added and divided by 12**
+
+**11. Ethiopia's kiremt rain comes on winds from —**
+a) Asia, dry  b) the Atlantic, moist  c) the poles
+**Answer: b) the Atlantic, moist**
+

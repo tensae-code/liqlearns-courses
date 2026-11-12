@@ -13,3 +13,13 @@ Sub lesson 3 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 4 — Cottage and modern industry — the Grade 4 picture
 Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Cottage industry works with — (answer: simple hand tools and traditional methods, at small scale).
+
+## Sub lesson 5 — Industry in Ethiopia — cottage and modern
+Sub lesson 5 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Ethiopia's modern industry is under 10% of GDP; cottage industry is its foundation
+
+## Sub lesson 6 — Industry in East Africa — cottage, light and heavy
+Sub lesson 6 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: light industry makes consumer goods; heavy industry makes raw materials and machinery
+
+## Sub lesson 7 — Why industry is still small
+Sub lesson 7 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: industry is under 8.9% of the region's economies, yet it creates jobs and stirs other sectors
+

@@ -17,3 +17,7 @@ The farmer sells what the family does not eat — the surplus.
 Crop market. Animal market. Vegetables and fruit. Factory goods.
 
 And the guides add: trade in nature's goods must be legal, or it eats the future.
+
+Raw goods out. Factory goods in. That is the region's trade shape.
+
+Burundi: coffee, eighty-six in a hundred. Zambia: copper, ninety-four.

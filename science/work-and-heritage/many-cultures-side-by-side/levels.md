@@ -7,3 +7,10 @@ Sub lesson 1 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 2 — Eating, singing, celebrating — differently
 Sub lesson 2 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Which can differ between cultures in one community? (answer: Food preparation and eating customs).
+
+## Sub lesson 3 — Why cultures differ — diffusion and assimilation
+Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: one borrowed feature is diffusion; a whole culture taken over is assimilation
+
+## Sub lesson 4 — Culture is always changing
+Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: culture always changes, slow or fast, and not every incoming change is good
+

@@ -17,3 +17,5 @@ Sub lesson 4 questions from the type files. Pass mark: run water through its thr
 
 ## Sub lesson 5 — Boiling, melting and the candle — the Grade 4 depth
 Pass mark: the learner can define boiling, boiling point, melting and melting point through water, give the candle's melt-and-set as a second example, and say the local boiling point is measured with a thermometer with adult help — proved by this sub lesson's own questions (the gate pool is the whole set; no hardness ranking is written in questions/).
+
+Grade 6 depth (added 2026-11-12): the pass mark grows — the learner also explains each state by its particles and binding, defines sublimation and deposition with an example, and states Experiment 4's two verdicts (liquid volume fixed, gas spreads).

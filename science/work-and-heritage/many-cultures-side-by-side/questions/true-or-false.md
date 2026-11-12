@@ -8,3 +8,9 @@ Say whether each sentence is true or false, and why.
 **2. (Sub lesson 2) Neighbours of different faiths can celebrate in the same community.**
 **Answer: True** — The lesson pictures faiths celebrating together.
 
+**3. (Sub lesson 3) Diffusion means a society gives up its whole culture.**
+**Answer: False** — That is assimilation. Diffusion borrows single features.
+
+**4. (Sub lesson 4) Culture changes only when a whole generation passes.**
+**Answer: False** — Change can be slow or fast; today's technology-driven change is fast.
+

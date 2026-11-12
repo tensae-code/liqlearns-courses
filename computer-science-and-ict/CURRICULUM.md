@@ -121,3 +121,12 @@ Explorer, making files of every kind, and every file operation
 in the book's exact step orders. The Grade 9 book's own shape
 is filed inside the opening lesson, What a File Is. The course
 now stands at 204 lessons.
+
+**Band C4 (Grade 9, Unit 3 — the Excel and PowerPoint parts)
+— BUILT 2026-11-12:** 19 new lessons, 198 questions, 28 media
+filed (pictures/GIFs 13700–13727) — Spreadsheets (6: formulas,
+references relative and absolute, the fill handle, and Ebsa's
+gulit-market shopping-bill project kept whole) and
+Presentations (13: from opening PowerPoint to running a show
+and building a full deck). **Grade 9's Unit 3 now stands
+complete.** The course now stands at 223 lessons.

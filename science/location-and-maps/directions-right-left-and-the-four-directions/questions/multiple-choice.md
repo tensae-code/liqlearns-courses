@@ -33,3 +33,20 @@ a) south-west  b) north-east  c) west
 **8. (Sub lesson 4) How many directions are there in all, with the sub-directions?**
 a) four  b) six  c) eight
 **Answer: c) eight** — Four main directions plus four sub-directions make eight.
+
+**9. (Sub lesson 5) How many directions does the compass give?**
+a) four  b) eight  c) sixteen
+**Answer: c) sixteen** — Four main points plus twelve sub-directions built between them.
+
+**10. (Sub lesson 5) Between north and east, the middle sub-direction is —**
+a) north-east  b) east-north-east  c) north-north-east
+**Answer: a) north-east** — North-east stands exactly between north and east; the other two lean toward north and toward east.
+
+**11. (Sub lesson 6) When a compass needle stops swinging, it points —**
+a) south  b) north  c) wherever you face
+**Answer: b) north** — The needle settles pointing north; all other directions are counted from there.
+
+**12. (Sub lesson 6) Why does the needle swing before it settles?**
+a) it is broken  b) it is finding north  c) it is measuring distance
+**Answer: b) it is finding north** — The swing is the needle finding its line; the settle is north found.
+

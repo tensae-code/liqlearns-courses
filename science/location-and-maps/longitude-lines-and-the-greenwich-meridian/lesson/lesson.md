@@ -16,6 +16,10 @@ Longitude lines (የኬንትሮስ ዲግሪ ልኬት) are drawn from pole to 
 
 Longitude tells how far east or west of the 0° meridian a place is. That starting line passes through Greenwich. Latitude and longitude compared: latitude lines keep equal length and never meet; longitude lines meet at the poles.
 
+## Sub lesson 3 — Longitude — the meridians, the Grade 6 measure
+
+Grade 6 measures the meridians exactly, as it did the parallels. Longitude lines are imaginary lines running **from pole to pole**. The **prime meridian is 0°**; the lines run **180° east and 180° west** — **360° in all** — and every meridian meets the others at the two poles. Where latitude told us how far north or south, longitude tells us how far east or west of that zero line a place stands.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: longitude lines (የኬንትሮስ ዲግሪ) — the imaginary lines drawn pole to pole, measured from the 0° Greenwich meridian. Then answer one question they ask you about it.
@@ -25,3 +29,4 @@ Explain this lesson's one thing to your companion in your own words: longitude l
 1. On a ball, draw longitude lines from top to bottom, meeting at both ends.
 2. Find the Greenwich line on a globe or map.
 3. Write two sentences: one about latitude, one about longitude.
+4. Explain why all meridians meet at the poles and parallels never meet.

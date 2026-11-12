@@ -26,6 +26,18 @@ Grade 4 fills in both kinds. Cottage industry (የጎጆ ኢንዱስትሪ) use
 
 [Picture 12209 — a weaver at a loom beside a factory floor]
 
+## Sub lesson 5 — Industry in Ethiopia — cottage and modern
+
+Ethiopia's industries are few, and they **cluster**: Addis Ababa, Dire Dawa, Kombolcha, Mekelle, Nazreth, with Bahir Dar, Debre Berhan, Jimma, Hawassa and Bure emerging — clustered because transport lines came first, a sea port is near, or government chose central places. Two kinds stand as before: **cottage industry** — weaving, pottery, woodwork, metalwork, leatherwork; slow and labour-heavy, yet the **foundation** of modern industry — and **modern industry**: recent and undeveloped, mostly food production, unevenly spread, **under 10% of GDP**. Its printed problems: light-industry only, capital shortage, weak links between industries, backward thinking, missing infrastructure, no clear industrial policy.
+
+## Sub lesson 6 — Industry in East Africa — cottage, light and heavy
+
+Grade 6 defines industry for the whole region: industry is the **transforming of natural resources into things useful to people** — cotton into clothes, skins and horn into ornaments, minerals into household goods and tools. The region's industry is of two kinds, **cottage** and **modern** — and modern industry itself splits: **light** industry makes consumer goods people use directly, while **heavy** industry makes raw materials and production machinery. The printed examples of heavy industry: metal and cement industries in **Ethiopia and Kenya**, and metal industries in **Zambia and Zimbabwe**.
+
+## Sub lesson 7 — Why industry is still small
+
+Why is the region's industry so small? Most East African countries have lived through **civil war and social-economic crisis**, so industry holds **under 8.9% of the countries' total economies**. Yet the book ends the point hopefully: the sector is known for **creating jobs** and for **stirring the other sectors of the economy to life** — a factory wakes farms, transport and trade around it.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: industry — turning farm and mineral products into other useful things: cottage industry by hand and skill, and modern factory industry, with their products named. Then answer one question they ask you about it.
@@ -35,3 +47,4 @@ Explain this lesson's one thing to your companion in your own words: industry �
 1. Follow one object at home back to its making: what was it before industry changed it?
 2. Draw a weaver's product and a factory product side by side.
 3. Visit or picture a local potter or weaver; list their tools.
+4. Classify six workshops and factories as cottage, light or heavy, with the book's reason for each.

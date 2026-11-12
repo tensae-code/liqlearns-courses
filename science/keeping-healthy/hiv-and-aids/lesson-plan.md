@@ -39,6 +39,7 @@ Nothing but care in speaking: this lesson is taught kindly, the way the books te
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
 - IMAGE [Picture 13240] — a picture of a health worker showing a sterile single-use needle packet → the student says which printed prevention the picture keeps.
+- IMAGE [Picture 13469] — a picture of the Table 6.2 sort → the student sorts all eleven items without prompting.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

@@ -13,3 +13,13 @@ Answer in a sentence or two, in your own words.
 
 **4. (Sub lesson 4) Write the Amhara Region's absolute location.**
 **Answer:** Between 8°40′–14°50′ N latitude and 35°10′–40°20′ E longitude.
+
+**5. (Sub lesson 5) Give Ethiopia's absolute location in one sentence.**
+**Answer:** Ethiopia lies between 3° and 15° N latitude and 33° and 48° E longitude.
+
+**6. (Sub lesson 6) Name two effects of Ethiopia's location — one gain, one difficulty.**
+**Answer:** Gain: e.g. one time zone for the whole country / geopolitical weight / its tropical climate. Difficulty: no seaport of its own, or Nile-water politics with downstream countries.
+
+**7. (Sub lesson 7) State East Africa's extent in degrees.**
+**Answer:** From 18° N to 26° S latitude, and from 22° E to 57° E longitude.
+

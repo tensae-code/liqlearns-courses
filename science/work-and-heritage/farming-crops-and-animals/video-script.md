@@ -17,3 +17,9 @@ Eighty of every hundred Ethiopians live by farming.
 Crops and animals together — that is mixed farming, ቅይጥ ግብርና.
 
 Cereals, pulses, oilseeds — and three seasons to grow them in.
+
+Eighty-two in every hundred Ethiopians live from the land.
+
+First in Africa for cattle. Tenth in the world.
+
+Old farming shifts and mixes. New farming irrigates and exports.

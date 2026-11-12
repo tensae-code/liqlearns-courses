@@ -15,3 +15,9 @@ Transport — the blood vessel of a country.
 Donkey, horse, mule, camel, tankwa, cart — the old vessels.
 
 Land, air and water — the modern vessels. Fast or slow, they join the maker to the user.
+
+Land, rail and air. And one great airline: Ethiopian.
+
+Northern: Mombasa to Kampala, seventeen hundred kilometres.
+
+Central: Dar es Salaam, thirteen hundred — wide and comfortable.

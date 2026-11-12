@@ -17,3 +17,27 @@ a) feathers  b) scales  c) soft skin
 **4. (Sub lesson 2) In the book's food table, the lion is a —**
 a) plant-eater  b) meat-eater  c) eater of both
 **Answer: b) meat-eater**
+**5. Invertebrates make up more than —**
+a) 5% of animal species  b) 50%  c) 95% of animal species
+**Answer: c) 95% of animal species**
+
+**6. The insect test is —**
+a) wings  b) three pairs of legs  c) eight legs
+**Answer: b) three pairs of legs**
+
+**7. Complete metamorphosis has —**
+a) 3 stages  b) 4 stages — egg, larva, pupa, adult  c) 2 stages
+**Answer: b) 4 stages — egg, larva, pupa, adult**
+
+**8. Fish breathe through —**
+a) lungs only  b) gills (ስንጥብ)  c) their skin only
+**Answer: b) gills (ስንጥብ)**
+
+**9. A tadpole grows into a —**
+a) fish  b) frog (an amphibian)  c) reptile
+**Answer: b) frog (an amphibian)**
+
+**10. The bat is a —**
+a) bird, because it flies  b) mammal — hair, milk, live birth  c) reptile
+**Answer: b) mammal — hair, milk, live birth**
+

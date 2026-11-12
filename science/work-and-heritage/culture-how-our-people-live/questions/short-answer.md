@@ -13,3 +13,7 @@ Answer in a sentence or two, in your own words.
 
 **4. (Sub lesson 4) Why does naming a neighbour's language and culture with respect matter?**
 **Answer:** Because the region's peoples live side by side in one shared life; respect keeps that life peaceful.
+
+**5. (Sub lesson 5) Sort these into the two kinds: a plough, a song of grief, a house, a way of greeting.**
+**Answer:** Material: the plough, the house. Spiritual: the song of grief, the way of greeting.
+

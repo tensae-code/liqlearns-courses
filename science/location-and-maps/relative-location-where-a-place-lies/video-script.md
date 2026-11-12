@@ -15,3 +15,7 @@ Two ways to fix a place.
 By its neighbours — that is relative.
 
 By numbers that never change — latitude and longitude. That is absolute.
+
+Ethiopia, told by its neighbours. Eritrea north. Kenya south.
+
+Six borders, six lengths. Somalia longest. Djibouti shortest.

@@ -43,6 +43,11 @@ And the book measures: pupils **measure the local boiling point of water with a 
 
 [Picture 13212 — ice, water and steam in a row, all labelled "water", with a candle melting beside them]
 
+## Grade 6 — particles, sublimation, and Experiment 4
+The Grade 6 book explains the states by their **particles**. In a **solid** they sit **ordered with a strong binding force**; in a **liquid** somewhat farther apart with weaker binding; in a **gas** very far apart, weakly bound and nearly free. **Gaining heat energy speeds the particles into the next state; losing it draws them back together** — water runs ice → water → vapour and back. Some solids jump straight to gas with no liquid between — **sublimation (ዝልትነት)**: iodine, solid carbon dioxide and ammonium chloride. The reverse jump, gas straight to solid, is **deposition (መከማቸት)**. **Experiment 4** tests the states' behaviour: a wood block's length × width × height measured; water measured then poured between vessels — **its volume stays fixed while its shape changes**; an air-filled balloon emptied into a lidded barrel; and deodorant sprayed in one corner of a closed classroom — after about seven minutes, did it stay in the corner? (It did not — gas spreads.)
+
+[Picture 13445 — three particle diagrams under ice, water and steam, plus the sublimation jump]
+
 ## Say it to your companion
 Teach your companion the three rules with the three proofs: the stone that keeps its shape, the water that takes the bowl's shape, the balloon that fills with air. Your companion must state each rule back before you show the next proof.
 

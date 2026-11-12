@@ -22,3 +22,19 @@ a) Different songs and dances  b) Different numbers of fingers  c) Different wea
 a) something to hide  b) the normal shape of a real community  c) impossible
 **Answer: b) the normal shape of a real community** — The lesson treats it as normal.
 
+**6. (Sub lesson 3) A village adopts one wedding custom from its neighbours. That is —**
+a) assimilation  b) diffusion  c) erosion
+**Answer: b) diffusion** — Borrowing a single feature is diffusion (የባህል ስርፀት).
+
+**7. (Sub lesson 3) A cause of cultural diversity named in the book is —**
+a) landform and climate  b) the price of grain  c) the school timetable
+**Answer: a) landform and climate** — Landform, climate, minerals, native plants and beliefs shape each culture.
+
+**8. (Sub lesson 4) Today's fastest cultural change is driven by —**
+a) science and technology  b) the seasons  c) silence
+**Answer: a) science and technology** — Science and technology, helped by education, media and contact between peoples.
+
+**9. (Sub lesson 4) The book's warning about incoming change is —**
+a) all change is good  b) not every incoming change is good  c) change must be stopped
+**Answer: b) not every incoming change is good** — Harmful foreign customs can spoil good ones — judge each change.
+

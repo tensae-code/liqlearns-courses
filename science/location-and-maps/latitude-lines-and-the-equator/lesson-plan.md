@@ -15,6 +15,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 3. **Latitude and longitude together — the Grade 4 grid** — latitude 0°–90° from the equator and longitude from the prime meridian, 360° around, working together (Grade 4 student pp.5–10; SNNP TG pp.18–20, teacher guide — evidence).
 
+4. **Latitude — the parallels, the Grade 6 measure** — imaginary east–west lines: equator 0°, poles 90°, 180° in all; each degree about 111 km; latitude splits the Earth into northern and southern hemispheres (Grade 6).
+
+5. **Giving a position — latitude first, then longitude** — a position is stated latitude first, then longitude; the equator crosses Uganda, Kenya and Somalia; the prime meridian crosses Algeria, Burkina Faso, Ghana, Mali and Togo — no East African country lies on it (Grade 6).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -25,6 +29,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Say and use what the part "Lines that run east–west and never meet" teaches, in their own words.
 2. Say and use what the part "The equator, the starting line" teaches, in their own words.
 3. Say and use what the part "Latitude and longitude together — the Grade 4 grid" teaches, in their own words.
+4. Say and use what the part "Latitude — the parallels, the Grade 6 measure" teaches, in their own words.
+5. Say and use what the part "Giving a position — latitude first, then longitude" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -35,6 +41,8 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
    - ADD IMAGE [Picture 12009]: a picture of a globe with the equator and parallel latitude lines marked — the student studies the picture and names what it shows in the lesson's own words.
    - ADD GIF [GIF 12045]: a drawn GIF of latitude lines appearing one by one on a globe, the equator first — the student watches the motion, then does or describes the movement themselves.
    - ADD IMAGE [Picture 12215]: a picture of a globe with the equator, latitude lines and the prime meridian marked — the student points to the equator and the prime meridian and says each one's number.
+   - ADD Picture [Picture 13304]: a picture of a globe with the equator and parallels drawn and the 0°–90° scale marked — the student studies it and names what it shows in the lesson's own words.
+   - ADD IMAGE: a picture of an Africa map with the equator and prime meridian drawn and the crossing countries shaded — the student studies it and names what it shows in the lesson's own words.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -48,6 +56,13 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 
 - IMAGE [Picture 12215] — a globe with the equator, latitude lines and the prime meridian marked → the student names the two starting lines and their numbers.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 13304] — a globe with the equator and parallels drawn and the 0°–90° scale marked → the student studies it and names what it shows.
+- IMAGE (described) — an Africa map with the equator and prime meridian drawn and the crossing countries shaded → the student studies it and names what it shows.
+
+
+
+
 
 ## If the learner is stuck
 - The words are new → go back to the lesson's picture and say what it shows, in home words first, then in the lesson's words.

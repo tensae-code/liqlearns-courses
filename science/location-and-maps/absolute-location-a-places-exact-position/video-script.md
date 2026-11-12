@@ -17,3 +17,9 @@ Lake Tana, fixed step by step: eleven degrees twenty, to twelve degrees seventee
 Thirty-seven, to thirty-seven degrees thirty-six, east.
 
 And the whole Amhara Region sits in one box of numbers.
+
+Ethiopia in numbers: 3 to 15 north, 33 to 48 east.
+
+No seaport of its own. One time zone. The Nile's source.
+
+East Africa's frame: 18 north to 26 south, 22 to 57 east.

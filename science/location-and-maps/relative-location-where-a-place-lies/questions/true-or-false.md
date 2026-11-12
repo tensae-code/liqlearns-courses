@@ -13,3 +13,10 @@ Say whether each sentence is true or false, and why.
 
 **4. (Sub lesson 4) Relative and absolute location are the same way of fixing a place.**
 **Answer: False** — One uses neighbours; the other uses numbers that never change.
+
+**5. (Sub lesson 5) Somalia lies west of Ethiopia.**
+**Answer: False** — Somalia lies to the east and south-east; the west holds South Sudan and Sudan.
+
+**6. (Sub lesson 6) Ethiopia's border with Kenya is longer than its border with Somalia.**
+**Answer: False** — Kenya's is 760 km; Somalia's is 1,600 km — much longer.
+

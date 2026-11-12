@@ -9,3 +9,9 @@ Fill in each blank with the right word.
 **Answer: wire**
 **3. Gold is worked into ___ at the goldsmith's bench.**
 **Answer: jewellery**
+**4. Natural gas lies in the ______ lowlands (region).**
+**Answer: Ogaden**
+
+**5. Potash lies in the ______ lowlands.**
+**Answer: Danakil**
+

@@ -11,3 +11,6 @@ Say whether each sentence is true or false, and why.
 **3. (Sub lesson 3) Children's rights are gifts that adults may give or withhold.**
 **Answer: False** — They are rights — owed to every child, not favours.
 
+**4. (Sub lesson 4) Work that harms a child's education and health is allowed if the family needs money.**
+**Answer: False** — The convention protects children from exploitative work that harms education, health or safety.
+

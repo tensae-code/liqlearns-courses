@@ -35,6 +35,10 @@ A real plant to dig beside (with leave) or a potted plant; plants of three sizes
 - IMAGE [Picture 12153] — a picture of a labelled plant — root, stem, leaf and flower — beside a big tree, a shrub and grass → the student names every part on the small plant, then finds each on the tree.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13455] — a picture of the seedless plants → the student names each and its mark.
+- IMAGE [Picture 13456] — a picture of the seeded plants and the flower's four parts → the student labels sepal, petal, stamen, pistil.
+- GIF [GIF 13458] — a GIF of dough rising → the student names the fungus at work.
+- GIF [GIF 13457] — a GIF of a bee carrying pollen → the student names the transfer and its kind.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

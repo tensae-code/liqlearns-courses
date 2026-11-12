@@ -12,3 +12,9 @@ Say whether each sentence is true or false.
 **Answer: True**
 **4. (Sub lesson 3) A place's climate can be hot or cold, wet or dry.**
 **Answer: True**
+**5. Climate is the day-to-day state over 30–35 years.**
+**Answer: False**
+
+**6. The range is biggest minus smallest.**
+**Answer: True**
+

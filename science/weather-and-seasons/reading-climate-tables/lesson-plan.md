@@ -35,6 +35,7 @@ The climate-table picture; a pencil for the averaging; a thermometer record star
 - IMAGE [Picture 13221] — a picture of the three-station climate table as a bar chart of rainy and dry months → the student finds each station's tallest and shortest bar.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13452] — a picture of the table-to-graph working → the student names the five workings in order.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

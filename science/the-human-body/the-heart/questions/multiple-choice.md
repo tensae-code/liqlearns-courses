@@ -17,3 +17,19 @@ a) slower  b) stopped  c) faster
 **4. The heart pumps —**
 a) air  b) blood  c) food
 **Answer: b) blood**
+**5. Arteries carry blood —**
+a) back to the heart  b) away from the heart  c) only to the lungs
+**Answer: b) away from the heart**
+
+**6. Which blood cells fight disease?**
+a) red cells  b) platelets  c) white cells
+**Answer: c) white cells**
+
+**7. How many blood groups are there?**
+a) two  b) four — A, B, AB, O  c) eight
+**Answer: b) four — A, B, AB, O**
+
+**8. The pulmonary circuit runs between —**
+a) heart and the whole body  b) heart and lungs  c) two lungs
+**Answer: b) heart and lungs**
+

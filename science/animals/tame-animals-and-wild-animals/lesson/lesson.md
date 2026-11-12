@@ -19,6 +19,14 @@ Their **uses**: **food; scientific study; tourism income; and skins and parts fo
 
 [Picture 13233 — a walia ibex, a red fox and birds in a mountain park]
 
+## Grade 5 — Ethiopia's wild animals; endemics and protected areas
+Wild animals live independent of humans — on land, in water, in trees, in the air. Ethiopia's named wildlife: hyena, fox, giraffe, zebra (የሜዳ አህያ — the plains zebra as printed), lion, leopard, guereza, monkeys and many birds — **845 bird species, 28 of them found only in Ethiopia**. Poaching for teeth, skins and meat, and habitat destruction, are shrinking their numbers. The **endemics — found only in Ethiopia**: **gelada monkey, red fox (Simien fox), walia ibex, Menelik's bushbuck, korki, mountain nyala, the wild ass** and endemic birds. Table 4.2 pins each to its home: walia and gelada in the **Simien Mountains National Park**; red fox in the Simien and Bale highlands; Menelik's bushbuck in Shewa and Bale highlands; korki in Nech Sar Park and the Sankele sanctuary; nyala in the Bale highlands; the wild ass in Afar and the south-eastern lowlands; the flamingo around the Rift lakes. Three protection-area kinds: **national parks, wildlife sanctuaries/reserves, and controlled hunting areas**.
+
+[Picture 13462 — the named wild animals and the seven endemics with their homes]
+
+## Grade 6 — the big five; wildlife under threat
+East Africa's wildlife crowns in the **"big five": African elephant (the largest), lion, buffalo (ጎሽ), black rhinoceros and leopard**. Highland forests hold tree animals (monkeys, chimpanzees, gorillas) and many tree birds; savannas hold flesh-eaters and grass-eaters together in one ecosystem; deserts hold their own kinds. Wildlife's uses: viewer pleasure and recreation, foreign exchange from tourists, science and education research, and job creation. But numbers are shrinking for two main reasons: **illegal hunting (poaching)** — animals killed to sell skin, teeth and horns, many elephants killed yearly in Kenya for ivory — and **forest destruction**, as fast population growth clears habitat for farms, fuel and settlement, so animals migrate away or vanish; bush fire, city expansion and industry add to it. The book's group project: interview local elders about which wild animals lived nearby before and have now disappeared or migrated, and why.
+
 ## Say it to your companion
 Take your companion through ten animal names. For each: domestic or wild — and the proof (where does it live? who cares for it?). Then the services: let them name what the donkey, the cow and the dog do for people.
 

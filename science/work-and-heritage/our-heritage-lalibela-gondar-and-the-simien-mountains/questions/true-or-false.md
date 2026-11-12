@@ -11,3 +11,15 @@ Say whether each sentence is true or false, and why.
 **3. (Sub lesson 4) Tewodros II and Menelik II are named for statecraft.**
 **Answer: True** — The two emperors head the four named figures.
 
+**4. (Sub lesson 6) The Tiya stelae are intangible heritage.**
+**Answer: False** — Standing stones can be touched and visited — they are tangible heritage.
+
+**5. (Sub lesson 7) Heritage protection is the government's job alone.**
+**Answer: False** — Citizens and government protect it together.
+
+**6. (Sub lesson 8) Museums are traditional institutions older than churches.**
+**Answer: False** — The book classes museums with the modern institutions; churches and mosques are the traditional ones.
+
+
+**5. (Sub lesson 5) The teacher guides' heritage parts are counted as pupil-taught.**
+**Answer: False** — Teacher-guide parts are evidence only; they are never counted as pupil-taught.

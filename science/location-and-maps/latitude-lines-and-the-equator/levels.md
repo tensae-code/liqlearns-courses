@@ -10,3 +10,10 @@ Sub lesson 2 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 3 — Latitude and longitude together — the Grade 4 grid
 Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Latitude runs from the equator 0° to — (answer: 90° at the poles).
+
+## Sub lesson 4 — Latitude — the parallels, the Grade 6 measure
+Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: equator 0°, poles 90°, 180° of latitude, about 111 km per degree
+
+## Sub lesson 5 — Giving a position — latitude first, then longitude
+Sub lesson 5 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: a position is stated latitude first, then longitude, both in degrees
+

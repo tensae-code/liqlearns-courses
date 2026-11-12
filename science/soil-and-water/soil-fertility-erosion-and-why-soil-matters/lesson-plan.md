@@ -35,6 +35,8 @@ A slope after rain, or the picture; a local agriculture worker to interview, the
 - IMAGE [Picture 13226] — a picture of rain running off smooth bare soil in a gully, beside grass-covered coarse soil soaking it in → the student points to where the water went in each half.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13463] — a picture of soils and the six holding methods → the student names a method and how it holds.
+- GIF [GIF 13464] — a GIF of rain washing a bare slope → the student names the strongest cause shown.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

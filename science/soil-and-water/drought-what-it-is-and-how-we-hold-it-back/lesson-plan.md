@@ -41,6 +41,7 @@ A dry season memory; a terraced hillside or the picture to study.
 - IMAGE [Picture 13228] — a picture of cracked dry earth, then the same land terraced and planted → the student names two works the second half shows.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13466] — a picture of drought's causes and Ethiopia's satellites → the student names a cause, an effect family and a satellite.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

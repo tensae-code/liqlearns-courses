@@ -7,3 +7,6 @@ Fill in each blank with the right word.
 
 **2. Famine can follow the ___ of drought.**
 **Answer: spread**
+**3. Farmers must hear climate ______ from the experts.**
+**Answer: forecasts**
+

@@ -15,3 +15,12 @@ Say whether each sentence is true or false.
 
 **5. HIV passes by insect bites and drinking from one glass.**
 **Answer: False**
+**6. Eating together can spread HIV.**
+**Answer: False**
+
+**7. Mother-to-child is a true transmission route in Table 6.2.**
+**Answer: True**
+
+**8. Youth in their teens and twenties are among the most exposed.**
+**Answer: True**
+

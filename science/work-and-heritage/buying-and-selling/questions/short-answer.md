@@ -13,3 +13,7 @@ Answer in a sentence or two, in your own words.
 
 **4. (Sub lesson 4) Why must trade in natural resources be legal?**
 **Answer:** So the resource is taken by right, in measure, and stays alive for the community's future.
+
+**5. (Sub lesson 5) Why is leaning on one product risky, and what newer sector is joining the trade?**
+**Answer:** If the one product's price falls, the whole country's earnings fall with it. The newer sector is flower production.
+

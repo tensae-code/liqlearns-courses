@@ -29,3 +29,28 @@ a) the blood vessel of a country  b) the roof of a country  c) a market
 **7. (Sub lesson 3) Which of these is traditional transport?**
 a) aeroplane  b) tankwa boat  c) train
 **Answer: b) tankwa boat** — The tankwa is the traditional reed boat.
+
+**8. (Sub lesson 4) The region's three kinds of transport are —**
+a) land, rail and air  b) camel, cart and foot only  c) sea, river and canal
+**Answer: a) land, rail and air** — Land, rail and air — the book's three kinds.
+
+**9. (Sub lesson 4) Trade around Lake Victoria is held back by —**
+a) too many railways  b) congested roads carrying the heavy freight  c) no ports
+**Answer: b) congested roads carrying the heavy freight** — Most heavy freight rides congested roads, and the congestion chokes trade.
+
+**10. (Sub lesson 5) The Northern Corridor starts at the port of —**
+a) Dar es Salaam  b) Mombasa  c) Lamu
+**Answer: b) Mombasa** — Mombasa is the Northern Corridor's sea door.
+
+**11. (Sub lesson 5) The Northern Corridor's length is —**
+a) 1,300 km  b) 1,700 km  c) 700 km
+**Answer: b) 1,700 km** — 1,700 km from Mombasa to Rwanda and Burundi.
+
+**12. (Sub lesson 6) The Central Corridor's port is —**
+a) Mombasa  b) Dar es Salaam  c) Djibouti
+**Answer: b) Dar es Salaam** — Dar es Salaam is the Central Corridor's sea door, 1,300 km from the landlocked countries.
+
+**13. (Sub lesson 6) Which planned line is printed in the book?**
+a) Addis Ababa–Nairobi  b) Kampala–Juba only  c) Lamu–Mombasa
+**Answer: a) Addis Ababa–Nairobi** — Addis Ababa–Nairobi, Addis Ababa–Juba and the Lamu lines are the planned roads.
+

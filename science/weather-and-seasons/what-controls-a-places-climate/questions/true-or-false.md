@@ -7,3 +7,6 @@ Say whether each sentence is true or false.
 
 **2. Height above sea level has nothing to do with climate.**
 **Answer: False**
+**3. Ocean currents can bring heat or cold with them.**
+**Answer: True**
+

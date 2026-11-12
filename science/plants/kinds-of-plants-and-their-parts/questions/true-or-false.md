@@ -7,3 +7,12 @@ Say whether each sentence is true or false.
 
 **2. Teff is a small plant.**
 **Answer: True**
+**3. Ferns have true roots, stems and leaves.**
+**Answer: True**
+
+**4. Angiosperms bear naked seed with no fruit.**
+**Answer: False**
+
+**5. Algae have true roots and leaves.**
+**Answer: False**
+

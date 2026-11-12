@@ -8,12 +8,18 @@ countries: Ethiopia
 
 **Book 7:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል — Environmental Science Student Textbook, Grade 4* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md
 
+**Book 8:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል — Environmental Science Student Textbook, Grade 5* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md
+**Book 9:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል — Environmental Science Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md
+
 | Lesson part | Where it comes from |
 |---|---|
 | What absolute location is (teacher guide — evidence) (teacher guide — evidence) | Ethiopia, *Environmental Science Teacher Guide, Grade 3*, printed p. 4 (teacher guide — evidence) |
 | Stating it: latitude first, then longitude | Ethiopia, *Environmental Science Student Textbook, Grade 3*, printed pp. 9–10; Ethiopia, *Environmental Science Teacher Guide, Grade 3*, printed pp. 6–9 (teacher guide — evidence) |
 | Worked example — Lake Tana's absolute location | Ethiopia, *Environmental Science Student Textbook, Grade 4*, printed pp. 10–12 |
 | The Amhara Region's absolute location | Ethiopia, *Environmental Science Student Textbook, Grade 4*, printed pp. 10–12 |
+| Ethiopia's absolute location | Ethiopia, *Environmental Science Student Textbook, Grade 5*, printed p. 6 |
+| What Ethiopia's location causes | Ethiopia, *Environmental Science Student Textbook, Grade 5*, printed p. 7 |
+| East Africa's extent — the region's four corners | Ethiopia, *Environmental Science Student Textbook, Grade 6*, printed p. 8 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
@@ -23,4 +29,7 @@ COMPLETE: contents promises 5 chapters ending at printed p.92 and the file's fin
 
 COMPLETE: the Grade 4 student book's contents promise 5 chapters ending at printed p.148 and the file's final printed page is 148.
 
-Searchable tags: absolute location, ፍፁማዊ መገኛ, latitude and longitude, South Gondar, degrees and minutes, Lake Tana coordinates, Amhara Region coordinates
+COMPLETE: the Grade 5 student book's contents promise ends at printed p. 178 (Chapter 6 review) and the file's last printed page is 178. Book misprint, noted and not taught: the running heads inside Chapter 6 are misprinted "ምዕራፍ 5" (Chapter 5) although the chapter itself is Chapter 6.
+COMPLETE: the Grade 6 student book's contents promise ends at printed p. 177 (Chapter 6) and the file's last printed page is 177.
+
+Searchable tags: absolute location, ፍፁማዊ መገኛ, latitude and longitude, South Gondar, degrees and minutes, Lake Tana coordinates, Amhara Region coordinates, Ethiopia absolute location, Moyale, Akobo, Ogaden, East Africa extent, Ras Kasa, Ethiopia absolute location, Moyale, Akobo, Ogaden, East Africa extent, Ras Kasara

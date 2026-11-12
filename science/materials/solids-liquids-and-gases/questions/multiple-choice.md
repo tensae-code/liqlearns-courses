@@ -24,3 +24,19 @@ a) the temperature at which a liquid boils  b) the size of a pot  c) the colour 
 **6. (Sub lesson 5) The candle in the flame melts and then —**
 a) vanishes  b) re-solidifies as it cools  c) becomes water
 **Answer: b) re-solidifies as it cools**
+**7. In a gas, the particles are —**
+a) tightly ordered  b) very far apart and nearly free  c) frozen still
+**Answer: b) very far apart and nearly free**
+
+**8. Sublimation is a solid jumping straight to —**
+a) liquid  b) gas  c) another solid
+**Answer: b) gas**
+
+**9. Water poured between vessels keeps its —**
+a) shape  b) volume  c) temperature always
+**Answer: b) volume**
+
+**10. The reverse of sublimation is —**
+a) melting  b) deposition  c) boiling
+**Answer: b) deposition**
+

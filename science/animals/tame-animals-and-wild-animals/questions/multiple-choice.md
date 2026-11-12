@@ -24,3 +24,23 @@ a) birds, mammals, and crawling and creeping animals  b) big and small only  c) 
 **6. One thing wild animals give us in the book is —**
 a) tourism income  b) homework  c) rain
 **Answer: a) tourism income**
+**7. How many of Ethiopia's bird species are found only in Ethiopia?**
+a) 845  b) 28  c) 5
+**Answer: b) 28**
+
+**8. The walia ibex's home in Table 4.2 is —**
+a) Nech Sar Park  b) the Simien Mountains National Park  c) Afar
+**Answer: b) the Simien Mountains National Park**
+
+**9. Which is NOT one of the big five?**
+a) buffalo  b) giraffe  c) leopard
+**Answer: b) giraffe**
+
+**10. Elephants in Kenya are killed yearly for —**
+a) milk  b) ivory  c) their tails
+**Answer: b) ivory**
+
+**11. A protection-area kind is —**
+a) a controlled hunting area  b) a market  c) a factory
+**Answer: a) a controlled hunting area**
+

@@ -14,6 +14,11 @@ And this is how seeing itself works: **we see things when light bounces off them
 
 [GIF 13216 — a ray drawn straight from candle to eye, then blocked when the tube bends]
 
+## Grade 6 — Experiment 6: the three-card test
+The Grade 6 book proves the straight line with a stricter test. **Experiment 6**: a candle is viewed through **aligned holes in three 20 × 20 cm cardboards** (the alignment checked with a dry thin wire): the flame is visible **only while the holes line up**; shifting the middle card hides it — **light travels in a straight line**. The chapter's frame: light is **energy**; we see by it; it travels in a straight line (a **light ray** marks its path) through transparent media and through vacuum, at different speeds in different media; meeting a body, light can **bounce back, be absorbed, or pass through**.
+
+[GIF 13449 — the middle card sliding and the flame vanishing]
+
 ## Say it to your companion
 Tell your companion the experiment and the rule: why the straight tube shows the flame, why the bent tube hides it, and how light reaches your eye from anything you see.
 

@@ -14,6 +14,11 @@ That is why the book says density **tells what a body is made of**: two things o
 
 [GIF 13211 — the ball dropping straight down and the sponge bobbing on the surface, side by side]
 
+## Grade 5 — density's formula, and pressure
+The Grade 5 book gives density its formula: **density = mass ÷ volume**, world unit **kg/m³**; pure water's density is **1 g/cm³ = 1000 kg/m³**. Solids are generally denser than liquids — which answers the opener: **oil and water in one glass separate, the oil on top**. Then the twin idea: **pressure = force ÷ the area it lands on**, world unit the **pascal**; with the same force, **a bigger area means less pressure and a smaller area more**. The opener experiments: pressing a **pen's two ends into the two palms** (which palm hurts?) and a **goat against a donkey on soft ground** — whose hoof sinks deeper? Uses follow: horses', elephants' and oxen's broad feet, tractors' wide tyres, and why boats float.
+
+[Picture 13448 — oil floating on water, and the pen pressed into two palms]
+
 ## Say it to your companion
 Tell your companion the bucket story: what sank, what floated, and what density means — matter packed into volume.
 

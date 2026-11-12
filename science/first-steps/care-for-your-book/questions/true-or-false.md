@@ -10,3 +10,7 @@ Say whether each sentence is true or false, and why.
 
 **3. (Sub lesson 3) The book-care rules change completely in Grade 4.**
 **Answer: False** — The same message stands at the front of the Grade 4 book.
+
+**4. (Sub lesson 4) The book-care message disappears from the older books.**
+**Answer: False** — It stands at printed page ii of the Grade 5 and Grade 6 books, exactly as in the younger books.
+

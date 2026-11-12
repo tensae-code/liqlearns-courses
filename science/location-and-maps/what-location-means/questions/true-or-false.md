@@ -13,3 +13,10 @@ Say whether each sentence is true or false, and why.
 
 **4. (Sub lesson 4) A map and the real place it shows have nothing in common.**
 **Answer: False** — The map shows the same features, matched one to one.
+
+**5. (Sub lesson 5) A map is drawn as seen from the side.**
+**Answer: False** — A map is drawn as seen from above, reduced and flat.
+
+**6. (Sub lesson 6) A map shows only natural things, never man-made things.**
+**Answer: False** — It shows both natural and man-made things.
+

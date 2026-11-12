@@ -40,6 +40,7 @@ A pencil — the book's own worked example — and two or three other small thin
 - IMAGE [Picture 13209] — a picture of a pencil with its properties labelled → the student adds the properties of their own pencil beside it.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13446] — a picture of the dissolving glasses and the boiling-point set-up → the student names solute, solvent, solution.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

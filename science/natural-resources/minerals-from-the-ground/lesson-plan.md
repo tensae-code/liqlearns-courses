@@ -39,6 +39,7 @@ Local mineral things to collect or visit: a stone, sand, gravel, salt — the Gr
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
 - IMAGE [Picture 13231] — a picture of a quarry and a goldsmith's bench → the student names the mineral at work in each place.
+- IMAGE [Picture 13467] — a picture of the mineral map → the student pins five minerals to their places.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

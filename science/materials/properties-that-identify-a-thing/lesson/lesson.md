@@ -15,6 +15,11 @@ The Grade 4 teacher guides set the second family beside the first: a **chemical 
 
 So the two families divide the world of properties cleanly: **physical** — known by looking and measuring, the thing unchanged; **chemical** — known by a change that makes something new. The next materials lessons take each family out to work: burning and gas-making for the chemical side.
 
+## Grade 5 — properties at the bench: Experiments 3.1–3.3
+The Grade 5 book splits properties by what testing does to the thing. **Physical properties** can be observed **without changing what a thing is**: lustre, bendability, volume, **solubility**, colour, taste, melting/boiling/freezing points, density, hardness. **Experiment 3.1**: sugar dissolves in water, sand does not — introducing **solute + solvent = solution**, and that the solvent must be the larger part. **Experiment 3.2**: with an alcohol lamp, thermometer and iron stand, pupils heat water and **read its boiling point for themselves**; alcohol's boiling point is given as **78 °C** for comparison. **Chemical properties** show only when matter reacts and becomes a new substance — **iron rusting in damp air** is the lead example. **Experiment 3.3** burns a spoon of sugar and a spoon of fine copper over an alcohol lamp to see **which catches first** — substances differ in how fast they react. (Lamp work is adult-led, as the book's safety framing requires.)
+
+[Picture 13446 — two glasses — sugar vanishing, sand sitting — and the boiling-point set-up]
+
 ## Say it to your companion
 Give your companion a thing's property list — no name — and let them guess the thing. Then explain the two families: physical (the thing unchanged) and chemical (a new thing made).
 

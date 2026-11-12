@@ -9,3 +9,9 @@ Fill in each blank with the right word.
 **Answer: HIV**
 **3. AIDS is the stage when the body's ___ has failed and companion diseases begin.**
 **Answer: defence**
+**4. ______ is the virus; AIDS is the defence capacity destroyed.**
+**Answer: HIV**
+
+**5. Countries screen jointly at ______ posts and transport hubs.**
+**Answer: border**
+

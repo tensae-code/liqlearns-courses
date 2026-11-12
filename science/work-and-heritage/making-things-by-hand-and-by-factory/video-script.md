@@ -15,3 +15,9 @@ Industry is the changing.
 የጎጆ ኢንዱስትሪ — cottage industry: hand tools, small scale, thousands of years old.
 
 Modern industry: machines, much made in a short time — light industry from the farm, heavy industry from minerals.
+
+Under ten percent. Clustered in a few cities. Standing on cottage work.
+
+Light makes what people use. Heavy makes what light needs.
+
+Small today — under nine percent — but a factory wakes a whole town.

@@ -13,3 +13,13 @@ Say whether each sentence is true or false, and why.
 
 **4. (Sub lesson 4) Heavy industry makes production tools themselves.**
 **Answer: True** — Heavy industry works minerals with complex machines to make the tools of production.
+
+**5. (Sub lesson 5) Ethiopia's industries are spread evenly across the whole country.**
+**Answer: False** — They cluster in a few cities where transport, ports or government choice came first.
+
+**6. (Sub lesson 6) Light industry makes production machinery.**
+**Answer: False** — Light industry makes consumer goods; heavy industry makes raw materials and machinery.
+
+**7. (Sub lesson 7) Industry is the region's biggest sector.**
+**Answer: False** — Agriculture is the biggest; industry is under 8.9% of the total economies.
+

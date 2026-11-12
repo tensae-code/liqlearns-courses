@@ -10,3 +10,7 @@ Sort cards of goods into 'sold by farmers' and 'bought by farmers' as the readin
 
 ## Count your community's cultures
 At your market or school, list the communities you meet and one mark of each one's culture — dress, food, language or custom. Write what all of you share.
+
+## Sort your home's culture
+List ten things from your own home and street. Sort them into two columns — material and spiritual — and defend one hard case to your partner.
+

@@ -12,6 +12,16 @@ And why does any of this matter? The book's chain is short and total: **no soil 
 
 [Picture 13226 — rain running off smooth bare soil in a gully, beside grass-covered coarse soil soaking it in]
 
+## Grade 5 — soils, the erosion emergency, and fighting it
+Soil — the layer covering the rock, holding organic and inorganic matter, minerals, water and air — is called the **greatest natural resource** because all crops grow in it. By particle size: **loam, sand, clay**; by the FAO classification Ethiopia has about **18 soil types**. The emergency in one number: about **960 million tonnes of soil are washed away in Ethiopia every year**. Two pictured fighting methods: modern **check-dam/barrier work**, and the **Konso people's traditional terracing**, praised as ancient and effective. Pupils collect local soils, sort them by particle size, list erosion's human and natural causes, and report on local protection methods. The Grade 5 teacher guide's soils subtopic (teacher guide — evidence) names soil types and their differences and what erosion (መሸርሸር) means, with red, black and sandy soils pictured in three bowls.
+
+[Picture 13463 — three soil handfuls and the six holding methods on one hillside]
+
+## Grade 6 — why soil washes away: four causes; holding it: six methods
+Erosion's **four basic causes**: **(1) slope** — steep land erodes in rain while flat land barely does; **(2) climate** — semi-dry areas with fast-falling seasonal rain; **(3) vegetation cover** — grass and roots hold the soil, bare land is carried away fast; **(4) the soil's own nature** — red soil holds water long, fertile light soil is easily carried. The **six remedies**: **afforestation (ድነና)** — planting where no forest stood; **reforestation (ዳግም ድነና)** — replanting land once forested; **contour ploughing (አግድም ማረስ)** — ploughing across the slope, slowing rainwater so it sinks in; **agroforestry (ጣምራ የደን እርሻ)** — trees on farmland with crops and livestock; **terracing (እርከን)** — steps cut into steep land, the Konso people holding a rich history of it; and **stone-and-soil bunds** that slow floodwater, trap silt and cut erosion. A group project sends pupils to a real eroded site nearby: study its causes, propose a remedy, and actually demonstrate one. The Grade 6 teacher guide's closing lists (teacher guide — evidence) name the same conservation family — reforestation, afforestation, agroforestry, terracing, contour ploughing and crop rotation — with fallow land used properly, natural fertiliser, irrigation and modern methods beside them.
+
+[GIF 13464 — rain washing topsoil off a bare slope]
+
 ## Say it to your companion
 Tell your companion the six fertility deciders, why fine soil is in more danger than coarse, and the four-link chain from soil to food.
 

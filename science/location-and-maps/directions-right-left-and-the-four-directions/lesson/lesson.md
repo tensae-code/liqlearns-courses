@@ -30,6 +30,18 @@ Now the four main directions gain four helpers. Between north and east lies nort
 
 [GIF 12220 — the eight direction labels appearing one by one around a turning child]
 
+## Sub lesson 5 — Sixteen directions — the full compass
+
+Direction is the line along which something moves or faces. You know the four main directions — north, east, south, west. The compass gives more: **sixteen directions** in all. Between each pair of main directions stand three sub-directions, built step by step — between north and east, for example, come north-north-east, north-east and east-north-east. Four main points plus twelve sub-directions make the full compass rose, and with it a direction can be told much more exactly.
+
+[Picture 13300 — a 16-point compass rose with the main and sub-directions labelled]
+
+## Sub lesson 6 — The needle settles north
+
+Watch the needle. When a compass is moved, its needle swings — then it settles, always pointing north. That settling is the compass's whole work: wherever you stand, it finds north for you, and from north every other direction of the sixteen can be counted round the rose.
+
+[GIF 13330 — a compass needle swinging and settling north]
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: the directions — right and left, front and back on your own body, and east, west, north and south found from the sun. Then answer one question they ask you about it.
@@ -39,3 +51,4 @@ Explain this lesson's one thing to your companion in your own words: the directi
 1. Tomorrow morning, stand facing the sunrise. Spread your arms and name east, west, north and south.
 2. Draw your classroom. Write which side is east (toward the sunrise).
 3. Say where three things in your home are, using right, left, front and back.
+4. Count the sixteen directions round a drawn compass rose, starting and ending at north.

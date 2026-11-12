@@ -10,3 +10,10 @@ Answer in a sentence or two, in your own words.
 
 **3. (Sub lesson 4) Name the four sub-directions.**
 **Answer:** North-east, north-west, south-east and south-west.
+
+**4. (Sub lesson 5) Name the three sub-directions between north and east, in order from north.**
+**Answer:** North-north-east, north-east, east-north-east.
+
+**5. (Sub lesson 6) From north, how do you find east on the compass rose?**
+**Answer:** Count round the rose a quarter-turn clockwise from north: north, the sub-directions, then east.
+

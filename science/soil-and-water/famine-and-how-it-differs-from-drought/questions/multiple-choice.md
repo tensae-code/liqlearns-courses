@@ -17,3 +17,15 @@ a) modern farming not spreading  b) too many grain stores  c) terraced fields
 **4. Political instability and ___ are named among famine's roots.**
 a) civil war  b) festivals  c) rains
 **Answer: a) civil war**
+**5. Which is a printed cause of famine?**
+a) war  b) too many schools  c) cold storage
+**Answer: a) war**
+
+**6. In drought-time markets, animals' price —**
+a) rises  b) falls, as everyone sells  c) never changes
+**Answer: b) falls, as everyone sells**
+
+**7. An indigenous coping method is —**
+a) waiting silently  b) harvesting rainwater  c) burning fodder plots
+**Answer: b) harvesting rainwater**
+

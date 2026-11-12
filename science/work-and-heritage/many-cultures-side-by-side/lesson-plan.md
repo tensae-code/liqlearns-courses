@@ -13,6 +13,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Many cultures, one community** — cultural diversity means many cultures in one community: neighbours who speak different languages, follow different religions, prepare food differently, marry with different ceremonies, and sing and dance their own songs.
 2. **Eating, singing, celebrating — differently** — even the table differs: eating customs vary from culture to culture, and so do the songs at a wedding and the dances at a festival.
 
+3. **Why cultures differ — diffusion and assimilation** — cultures differ by landform, climate, minerals, native plants, beliefs; neighbours borrow: one feature borrowed is diffusion (የባህል ስርፀት); a whole culture taken over is assimilation (Grade 5).
+
+4. **Culture is always changing** — change can be slow or fast; today's fast science-and-technology change reshapes work, food, dress, housing; not every incoming change is good (Grade 5).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +26,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 ## What the learner can do when it ends
 1. Say and use what the part "Many cultures, one community" teaches, in their own words.
 2. Say and use what the part "Eating, singing, celebrating — differently" teaches, in their own words.
+3. Say and use what the part "Why cultures differ — diffusion and assimilation" teaches, in their own words.
+4. Say and use what the part "Culture is always changing" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -30,6 +36,8 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 1. **Do it first** — At one festival, you may hear three languages and see five kinds of dress. Is that a problem — or a richness? Decide, then read. (lesson/lesson.md).
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12023]: a picture of a festival where neighbours of different languages and faiths celebrate together — the student studies the picture and names what it shows in the lesson's own words.
+   - ADD IMAGE: a picture of two neighbouring villages exchanging one custom, drawn as an exchanged item with an arrow — the student studies it and names what it shows in the lesson's own words.
+   - ADD IMAGE: a picture of six dress-and-ornament panels, one per community, for the identification activity — the student studies it and names what it shows in the lesson's own words.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -41,6 +49,13 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE (described) — two neighbouring villages exchanging one custom, drawn as an exchanged item with an arrow → the student studies it and names what it shows.
+- IMAGE (described) — six dress-and-ornament panels, one per community, for the identification activity → the student studies it and names what it shows.
+
+
+
+
 
 ## If the learner is stuck
 - The words are new → go back to the lesson's picture and say what it shows, in home words first, then in the lesson's words.

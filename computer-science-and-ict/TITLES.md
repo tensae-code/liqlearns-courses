@@ -288,3 +288,19 @@ Drive and Flash Drive · This PC — Seeing Every Drive; Safe
 Removal · File Explorer — Changing the View, Columns and
 Preview (teacher-guide evidence only) · Project: Design a
 Filing System.
+
+**Spreadsheets** (band C4, from Ethiopia Grade 9): Excel
+Formulas — Operators and the Equals Sign · Cell References —
+Naming a Cell · Relative Cell References · The Fill Handle —
+Copying a Formula · Absolute Cell References · Project: A
+Shopping Bill in Excel.
+
+**Presentations** (band C4, from Ethiopia Grade 9):
+Presentation Software — Slides That Show Your Ideas · Opening
+PowerPoint and Starting Blank · Adding Slides · Slide Layouts
+· Themes and Readable Slide Design · Slide Backgrounds ·
+PowerPoint Bullets — Size, Colour, Shape · Adding Content to a
+Slide · Tables and Charts on Slides · SmartArt, Pictures and
+Video on Slides · The Four PowerPoint Views · Running a Slide
+Show; Changing Slide Order · Project: Build and Present a
+Slide Deck.

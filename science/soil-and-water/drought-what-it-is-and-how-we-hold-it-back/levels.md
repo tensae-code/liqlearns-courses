@@ -7,3 +7,5 @@ Pass mark: the learner can drought defined, its main cause named, and deforestat
 
 ## Sub lesson 2 — Holding it back — the works
 Pass mark: the learner can the watershed works and the drought-prone place rules — proved by this sub lesson's own questions (the gate pool is the whole set; no hardness ranking is written in questions/).
+
+Grade 5/6 depth (added 2026-11-12): the pass mark grows — the learner also recites drought's four causes and three effect families, places the drought-prone east/south-east, names both satellites with dates, dates 1966 and 1977 E.C., and states the joint coping strategies.

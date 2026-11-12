@@ -36,6 +36,7 @@ A highland memory and a lowland memory — mist on a mountain road, heat on a pl
 - IMAGE [Picture 13222] — a picture of a highland town in mist and a lowland town in sun, side by side → the student says which controller explains most of the difference.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13453] — a picture of the five controllers on one landscape → the student turns each dial and states its effect.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

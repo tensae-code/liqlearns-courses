@@ -7,3 +7,6 @@ Answer each question in a few words.
 
 **2. How does HIV weaken a person, in the book's words?**
 **Answer: it weakens the whole body**
+**3. Name the four routes Table 6.2 marks with a tick.**
+**Answer: Mother to child; blood contact; sharing sharp things; sharing a toothbrush or razor.**
+

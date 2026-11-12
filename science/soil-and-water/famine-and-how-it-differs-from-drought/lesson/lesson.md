@@ -18,6 +18,9 @@ So famine is fought on three fields: the sky's rain, the farmer's production, an
 
 [Picture 13229 — a full grain store beside an empty field]
 
+## Grade 5 — famine and its causes; coping with drought, Ethiopia's own methods
+**Famine** is the event of severe food shortage from natural or human-made problems. Printed causes: **climate change (drought and rain failure), high population, crop loss (pests, locusts, hail), poverty, war, price inflation and political pressure**. The book's discussion: in drought-time markets, which falls in price — grain or animals — and why? (Grain rises as it vanishes; animals fall as everyone sells and no one can feed them — the reasoning the discussion teaches.) Then the **indigenous coping list**: sow productive, fast-maturing and drought-resistant crops; build market links; keep small animals (sheep, goats, chickens), bees and fodder plots; strengthen community natural-resource management and planting; **harvest rainwater**; care for lakes, rivers, ponds and wetlands; use water sparingly with varied irrigation; improve environmental care (environmental education, improved fuel-saving stoves); and make sure farmers **hear climate forecasts** from the experts.
+
 ## Say it to your companion
 Tell your companion what famine is, why drought does not always bring it, and the three other roots the book names.
 

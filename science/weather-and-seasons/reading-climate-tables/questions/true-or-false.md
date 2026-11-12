@@ -7,3 +7,6 @@ Say whether each sentence is true or false.
 
 **2. One month's weather tells a station's whole climate.**
 **Answer: False**
+**3. Finding the wettest month is one of the book's workings.**
+**Answer: True**
+

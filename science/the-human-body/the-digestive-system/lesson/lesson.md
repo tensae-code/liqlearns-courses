@@ -16,6 +16,14 @@ Each part does **its own job** on the food as it passes — the book sets the jo
 
 [GIF 13201 — a bite of food travelling down the tube part by part]
 
+## Grade 5 — the mouth starts both digestions; stomach and intestines
+The Grade 5 book walks the same tube with the jobs spelled out. **Digestion** runs through the tube helped by **digestive juices (enzymes)**. The **mouth starts both kinds at once** — teeth chew (**physical**) while **saliva works on starch (chemical)**, with the tongue pushing the food — taught through a worked example of eating bread. The **stomach's acid kills microbes** while its juices start on **protein**. The **small intestine finishes digestion and absorbs food through its wall into the blood**. The **appendix (ትርፍ አንጀት)** sits at the junction of small and large intestine with **no digestive use**. The **large intestine** makes no juices — it **absorbs water, stores faeces, and passes them out through the anus**.
+
+[Picture 13440 — the stomach, small intestine, appendix and large intestine labelled]
+
+## Grade 5 — keeping the digestive system healthy
+Three named troubles, with causes and responses. **Constipation** — answer: drink water, eat vegetables. **Gastritis/stomach ulcer** — the stomach's own acid is held off by its **mucus shield**; when the shield fails, the acid bites the wall. **Appendicitis** — **pain to the right of the navel means urgent care**: a burst appendix can kill.
+
 ## Say it to your companion
 Walk your companion down the tube: name each part as the bite reaches it, in order, without skipping — mouth, pharynx, oesophagus, stomach, small intestine, large intestine, rectum, anus.
 

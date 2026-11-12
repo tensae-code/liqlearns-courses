@@ -16,6 +16,12 @@ The parts of this lesson, in order — the list the learner sees from the start,
 4. **Great thinkers and heroes of the region** — the four named figures and the research task (Grade 4 student pp.131–132).
 5. **Our heritages in the teacher guides (teacher guide — evidence)** — heritage listing and sorting as the guides' stated competency (SNNP TG pp.104–106; Oromia TG pp.72–75, teacher guide — evidence).
 
+6. **Heritage — touchable and untouchable; Ethiopia's UNESCO heritage** — heritage defined; tangible heritage (Gondar, Lalibela, Aksum, Tiya…) and intangible (Meskel Demera, Timket, Fiche Chembelala, Irecha, Ashenda…); the UNESCO table by region, and the four UNESCO intangible festivals (Grade 5).
+
+7. **Protecting and promoting heritage** — citizens and government together: protect without changing its content, teach citizens to guard it, build protection institutions, use information technology to show the country to the world (Grade 5).
+
+8. **The institutions that keep culture** — traditional institutions: churches and mosques; modern ones: culture and tourism offices, libraries and archives, art houses, museums (Grade 5).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -28,6 +34,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Say and use what the part "Tourism — and why visitors come" teaches, in their own words.
 4. Say and use what the part "Great thinkers and heroes of the region" teaches, in their own words.
 5. Say and use what the part "Our heritages in the teacher guides (teacher guide — evidence)" teaches, in their own words.
+6. Say and use what the part "Heritage — touchable and untouchable; Ethiopia's UNESCO heritage" teaches, in their own words.
+7. Say and use what the part "Protecting and promoting heritage" teaches, in their own words.
+8. Say and use what the part "The institutions that keep culture" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -36,6 +45,9 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 1. **Do it first** — A church cut down into living rock, eight hundred years ago. A castle city. Mountains that touch the sky. All three are yours — handed down. What does 'handed down' demand of you? (lesson/lesson.md).
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12212]: a picture triptych of a Lalibela rock church, a Gondar castle and the Simien peaks — the student names each site and its place.
+   - ADD Picture [Picture 13318]: a picture of a nine-pin UNESCO heritage chart plus the four festival names — the student studies it and names what it shows in the lesson's own words.
+   - ADD IMAGE: a picture of a guard, a teacher, an office and a phone all serving one monument — the student studies it and names what it shows in the lesson's own words.
+   - ADD IMAGE: a picture of a church, a mosque, a museum and a library in one row — the student studies it and names what it shows in the lesson's own words.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -47,6 +59,14 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 13318] — a nine-pin UNESCO heritage chart plus the four festival names → the student studies it and names what it shows.
+- IMAGE (described) — a guard, a teacher, an office and a phone all serving one monument → the student studies it and names what it shows.
+- IMAGE (described) — a church, a mosque, a museum and a library in one row → the student studies it and names what it shows.
+
+
+
+
 
 ## If the learner is stuck
 - The words are new → go back to the lesson's picture and say what it shows, in home words first, then in the lesson's words.

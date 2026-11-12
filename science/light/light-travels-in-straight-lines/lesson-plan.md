@@ -38,6 +38,7 @@ A candle (adult's care, or a torch in its place), a straight plastic tube and a 
 - GIF [GIF 13216] — a ray drawn straight from candle to eye, then blocked when the tube bends → the student says the rule at the moment the ray stops.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- GIF [GIF 13449] — a GIF of the three-card test → the student states what the flame's disappearance proves.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

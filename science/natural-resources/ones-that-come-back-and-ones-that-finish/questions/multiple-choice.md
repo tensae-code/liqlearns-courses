@@ -17,3 +17,15 @@ a) air  b) plants  c) gold
 **4. Diesel is —**
 a) renewable  b) non-renewable  c) not a resource
 **Answer: b) non-renewable**
+**5. Which is non-renewable in the book's list?**
+a) trees  b) air  c) gold
+**Answer: c) gold**
+
+**6. Renewable resources last long if —**
+a) never touched  b) used with care  c) burned quickly
+**Answer: b) used with care**
+
+**7. How many minerals does the book's non-renewable list name?**
+a) seven — gold, copper, diamond, iron, brass, salt, stone  b) two  c) none
+**Answer: a) seven — gold, copper, diamond, iron, brass, salt, stone**
+

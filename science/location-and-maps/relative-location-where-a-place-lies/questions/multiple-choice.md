@@ -33,3 +33,20 @@ a) its neighbours  b) latitude and longitude numbers  c) its age
 **8. (Sub lesson 4) 'North of the river' is an example of —**
 a) absolute location  b) relative location  c) a coordinate
 **Answer: b) relative location** — It fixes the place against a neighbour.
+
+**9. (Sub lesson 5) Which country lies north of Ethiopia?**
+a) Kenya  b) Eritrea  c) Somalia
+**Answer: b) Eritrea** — Eritrea is Ethiopia's northern neighbour.
+
+**10. (Sub lesson 5) Ethiopia's southern neighbour is —**
+a) Sudan  b) Djibouti  c) Kenya
+**Answer: c) Kenya** — Kenya lies to the south of Ethiopia.
+
+**11. (Sub lesson 6) Ethiopia's longest border is with —**
+a) Djibouti  b) Kenya  c) Somalia
+**Answer: c) Somalia** — The Somalia border runs 1,600 km, the longest of the six.
+
+**12. (Sub lesson 6) The shortest border, 310 km, is with —**
+a) Djibouti  b) Eritrea  c) Sudan
+**Answer: a) Djibouti** — Djibouti's border is the shortest at 310 km.
+

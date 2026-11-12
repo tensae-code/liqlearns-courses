@@ -17,3 +17,23 @@ a) planting trees  b) deforestation  c) terracing
 **4. (Sub lesson 2) Which is one of the book's works against drought?**
 a) soil and stone terraces  b) free grazing everywhere  c) cutting the forest
 **Answer: a) soil and stone terraces**
+**5. Which is one of drought's four printed causes?**
+a) too much irrigation  b) surface waters drying up  c) cold winters
+**Answer: b) surface waters drying up**
+
+**6. Drought's effects fall in three families: environmental, economic and —**
+a) social  b) musical  c) chemical
+**Answer: a) social**
+
+**7. Ethiopia's drought-prone side is the —**
+a) western highlands  b) eastern and south-eastern lowlands  c) Lake Tana shore
+**Answer: b) eastern and south-eastern lowlands**
+
+**8. ETRSS-1 was launched on —**
+a) Tahsas 10, 2012 E.C.  b) Meskel 2000 E.C.  c) never
+**Answer: a) Tahsas 10, 2012 E.C.**
+
+**9. The unforgettable drought-famine years are dated —**
+a) 1966 and 1977 E.C.  b) 1900 and 1950 E.C.  c) 2015 and 2020 E.C.
+**Answer: a) 1966 and 1977 E.C.**
+

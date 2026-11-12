@@ -9,3 +9,7 @@ Many languages. Many faiths. Many songs.
 One community.
 
 That is cultural diversity — and it is our richness.
+
+One borrowed custom: diffusion. A whole culture replaced: assimilation.
+
+Culture always changes. Judge each change — not all of it is good.

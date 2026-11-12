@@ -8,3 +8,5 @@ Sub lesson 1 questions from the type files. Pass mark: climb the five zones in o
 ## Sub lesson 2 — What controls weather and climate
 Sub lesson 2 questions from the type files. Pass mark: list the six controls and state the altitude rule with the mountain proof
 
+
+Grade 6 depth (added 2026-11-12): the pass mark grows — the learner also states the equatorial belt's figures (5° N–5° S, up to 2,000 mm, about 27 °C), names where the region's desert and semi-desert lie, and notes desertification's spread.

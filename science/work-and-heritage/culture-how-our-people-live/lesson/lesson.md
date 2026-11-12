@@ -22,6 +22,12 @@ Grade 4 counts the region's people: about 80.5% live in the countryside and 19.5
 
 The teacher guides widen the same picture (teacher guide — evidence): each region holds different cultures side by side, and the SNNP guide adds the languages spoken in the region as its own topic — many tongues, one shared life. Naming a neighbour's culture and language with respect is part of living together.
 
+## Sub lesson 5 — Material culture and spiritual culture
+
+Grade 5 sorts culture into two kinds. Culture is a society's **whole way of life** — Ethiopia's shared values are named: **tolerance, respect, love of country** — and its elements run from language and religion to music, food and dress. **Material culture** is the touchable part: things made and used, like farm tools, household goods and house forms. **Spiritual culture** cannot be touched: music, **enguruguro, fukera, shelela**, beliefs, and the ways of greeting and of grieving.
+
+[Picture 13317 — two baskets of examples, touchable and untouchable, sorted visually]
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: what culture is — a people's whole way of life: language, religion, song, work and customs, built up by people through history, not found in nature. Then answer one question they ask you about it.
@@ -31,3 +37,4 @@ Explain this lesson's one thing to your companion in your own words: what cultur
 1. Write your town's culture picture: faiths, languages, work, market day.
 2. List five parts of your own people's culture.
 3. Ask an elder: what custom from your childhood is still kept today?
+4. Sort six examples of culture into material and spiritual, with a reason for each.

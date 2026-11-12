@@ -7,3 +7,6 @@ Fill in each blank with the right word.
 
 **2. Soil holds minerals, tiny living things, remains, air and ___.**
 **Answer: water**
+**3. Plateau and mountain areas hold ______ fertile soil.**
+**Answer: black**
+

@@ -24,6 +24,10 @@ Grade 4 follows the goods. The farmer sells the surplus left after family use �
 
 The teacher guides carry trade one step further (teacher guide — evidence): the region's natural resources and their products are brought to market and traded — and that trade has a legal form and an illegal form. Legal trade follows the rules and keeps the resource alive for next year; illegal trade in natural resources takes without right and eats the future. Trade fairly, trade legally.
 
+## Sub lesson 5 — Trade — raw goods out, factory goods in
+
+Grade 6 draws the region's whole trade pattern in one shape: **farm raw materials and minerals are exported** to the developed countries, and **industrial goods are imported** in return. Some countries lean on a single product — **Burundi 86% coffee, Zambia 94% copper**. Africa supplies **20% of the world's coffee**, and East Africa's chief coffee producers are Ethiopia, Uganda, Kenya and Tanzania. A newer sector is joining the trade: **flower production** — Uganda, Tanzania and Kenya are known for it, and in Ethiopia it is new and encouraging, creating jobs and earning foreign exchange from America and Europe.
+
 ## Say it to your companion
 
 Explain this lesson's one thing to your companion in your own words: trade — buying and selling between people: farmers sell farm products and buy industrial goods, while townspeople and traders supply those goods to everyone. Then answer one question they ask you about it.
@@ -33,3 +37,4 @@ Explain this lesson's one thing to your companion in your own words: trade — b
 1. Keep a one-day trade diary: everything your family bought or sold today.
 2. Draw trade's two-way road between a farm and a town, with goods labelled both ways.
 3. Role-play a market bargain kindly: seller names a price, buyer answers, both end satisfied.
+4. Draw the region's trade pattern as two arrows and say which single product Burundi and Zambia each lean on.

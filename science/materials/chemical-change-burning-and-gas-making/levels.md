@@ -7,3 +7,5 @@ Pass mark: the learner can describe, predict, burn with tongs (adult), compare: 
 
 ## Sub lesson 2 — Experiment 3 — the balloon that fills itself
 Pass mark: the learner can lemon juice and yeast make gas; the balloon over the bottle's neck inflates — gas forming is a chemical change — proved by this sub lesson's own questions (the gate pool is the whole set; no hardness ranking is written in questions/).
+
+Grade 5 depth (added 2026-11-12): the pass mark grows — the learner also names the four state changes with their Amharic arrow labels, recites the seven signs, and separates the two change kinds on Table 3.2's four rows.

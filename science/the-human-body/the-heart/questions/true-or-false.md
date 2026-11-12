@@ -10,3 +10,9 @@ Say whether each sentence is true or false.
 
 **3. You can feel your heartbeat by resting a hand on your chest.**
 **Answer: True**
+**4. The heart is about fist-sized.**
+**Answer: True**
+
+**5. Platelets carry oxygen.**
+**Answer: False**
+

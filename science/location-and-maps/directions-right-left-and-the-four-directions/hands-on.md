@@ -10,3 +10,7 @@ One child turns slowly while the others call 'front!', 'back!', 'right side!', '
 
 ## Alemnesh's day
 Draw a small map with your home in the middle. Mark the eight directions around it. Now trace one day of your own movements — to school, to the market, home again — and label each move with its direction.
+
+## Count the sixteen
+Draw a compass rose. Mark the four main points, then build the three sub-directions between each pair, and count all sixteen aloud with a partner.
+

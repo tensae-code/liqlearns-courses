@@ -7,3 +7,6 @@ Fill in each blank with the right word.
 
 **2. Waste is held in the ___ before it leaves the body.**
 **Answer: rectum**
+**3. The stomach is shielded from its own acid by a ______ shield.**
+**Answer: mucus**
+

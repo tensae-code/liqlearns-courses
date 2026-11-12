@@ -16,6 +16,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 4. **The eight directions** — the four sub-directions (NE, NW, SE, SW) added to the four main ones, traced through Alemnesh's day of movements from her house (Grade 4 student pp.1–3).
 
+5. **Sixteen directions — the full compass** — direction is the line along which something moves or faces; the compass gives sixteen directions — the four main points plus twelve sub-directions built between them (Grade 5).
+
+6. **The needle settles north** — a compass needle swings, then settles pointing north — the settling motion is what a compass does (Grade 5, GIF need).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -27,6 +31,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Say and use what the part "Finding east and west from the sun (teacher guide — evidence)" teaches, in their own words.
 3. Say and use what the part "The four main directions, and places beside the road" teaches, in their own words.
 4. Say and use what the part "The eight directions" teaches, in their own words.
+5. Say and use what the part "Sixteen directions — the full compass" teaches, in their own words.
+6. Say and use what the part "The needle settles north" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -39,6 +45,8 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
    - ADD GIF [GIF 12042]: a drawn GIF of a child turning — front, right side, back, left side — in sequence — the student watches the motion, then does or describes the movement themselves.
    - ADD IMAGE [Picture 12200]: a picture of a compass rose with the eight directions labelled — the student names all eight in order around the rose.
    - ADD GIF [GIF 12220]: the eight direction labels appearing one by one around a turning child — the student says each label as it appears.
+   - ADD Picture [Picture 13300]: a picture of a 16-point compass rose with the main and sub-directions labelled — the student studies it and names what it shows in the lesson's own words.
+   - ADD GIF [GIF 13330]: a compass needle swinging and settling north — the student watches the motion and says what it proves.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -54,6 +62,13 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - IMAGE [Picture 12200] — a compass rose with the eight directions labelled → the student names all eight around the rose.
 - GIF [GIF 12220] — the eight direction labels appearing one by one around a turning child → the student says each label as it appears.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 13300] — a 16-point compass rose with the main and sub-directions labelled → the student studies it and names what it shows.
+- GIF [GIF 13330] — a compass needle swinging and settling north → the student studies it and names what it shows.
+
+
+
+
 
 ## If the learner is stuck
 - The words are new → go back to the lesson's picture and say what it shows, in home words first, then in the lesson's words.

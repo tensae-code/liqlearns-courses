@@ -37,3 +37,12 @@ a) the languages spoken in the region  b) the moon's phases  c) sea fish
 **9. (Sub lesson 4) Different cultures in one region live —**
 a) far apart, never meeting  b) side by side  c) only in books
 **Answer: b) side by side** — Side by side, in one shared life.
+
+**10. (Sub lesson 5) A farm tool is an example of —**
+a) spiritual culture  b) material culture  c) no culture
+**Answer: b) material culture** — Material culture is things made and used — touchable things.
+
+**11. (Sub lesson 5) Fukera and shelela belong to —**
+a) material culture  b) spiritual culture  c) foreign culture
+**Answer: b) spiritual culture** — They are carried in performance and memory, not touchable — spiritual culture.
+

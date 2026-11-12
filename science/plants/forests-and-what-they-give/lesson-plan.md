@@ -36,6 +36,7 @@ A church forest or grove nearby to visit or picture; failing that, the picture o
 - IMAGE [Picture 13236] — a picture of a church forest full of tall trees and birds → the student names the gifts the picture is already giving.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13461] — a picture of the vegetation staircase and the cover story → the student recites the three cover numbers.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

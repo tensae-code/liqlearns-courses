@@ -7,3 +7,9 @@ Fill in each blank with the right word.
 
 **2. There are ___ lungs, one on each side of the heart.**
 **Answer: two**
+**3. The trachea in Amharic is ______.**
+**Answer: ትንቧ**
+
+**4. Breathing in is ______ (ምጋት/ኢ-ምጋት — pick the 'in' word).**
+**Answer: ምጋት**
+

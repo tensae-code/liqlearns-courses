@@ -12,6 +12,8 @@ countries: Ethiopia
 
 **Book 9:** *Grade 4 Environmental Science Teacher Guide — Oromia Education Bureau edition* (የአካባቢ ሳይንስ የመምህራን መምሪያ አራተኛ ክፍል) (teacher's guide) — Ethiopia, Oromia Education Bureau, © 2014 E.C. (2022), prepared with Asella Teachers' Training College. COMPLETE: printed pp. 1–95 (all 5 units + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
+**Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Solids keep their shape | Ethiopia, *Grade 3 Student Textbook*, Chapter 2, solids, printed p. 28 |
@@ -27,10 +29,14 @@ countries: Ethiopia
 | Boiling, melting and the candle — the Grade 4 depth (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, §2.3, printed pp. 58–61 |
 | Boiling, melting and the candle — the Grade 4 depth (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — Oromia edition*, §1.5, printed pp. 10–13 |
 
+| Grade 6 — particles, sublimation, and Experiment 4 | Ethiopia, *Grade 6 Student Textbook*, printed pp. 70–74 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty: this teacher's guide scan is TRUNCATED mid-unit — printed pp. 1–66 held, stopping inside subtopic 3.3; the rest of Unit 3 and Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp. 1–148) and both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies to the Grade 4 rows. The fire-safety framing of the boiling-point measurement (adult help) is carried as the placement gives it.
+
+Grade 6 extension (2026-11-12): the Grade 6 student book is COMPLETE (printed pp. 1–177).
 
 Searchable tags: solids liquids gases, states of matter, physical change, ice water vapour, boiling point, melting point, candle melting

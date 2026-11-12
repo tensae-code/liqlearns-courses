@@ -17,3 +17,19 @@ a) is the same everywhere  b) differs by place and identifies it  c) is always w
 **4. Plant and animal remains in soil are —**
 a) never there  b) part of what soil holds  c) poison to soil
 **Answer: b) part of what soil holds**
+**5. Soil is formed from weathered rock mixed with —**
+a) plastic  b) decayed plant and animal remains  c) glass
+**Answer: b) decayed plant and animal remains**
+
+**6. How many ingredients make soil, as the book counts?**
+a) three  b) five  c) nine
+**Answer: b) five**
+
+**7. River valleys hold —**
+a) alluvial soil  b) no soil  c) only sand
+**Answer: a) alluvial soil**
+
+**8. Which is one of soil's five ingredients?**
+a) gas  b) smoke  c) paint
+**Answer: a) gas**
+

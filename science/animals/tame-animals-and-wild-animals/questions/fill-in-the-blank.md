@@ -9,3 +9,9 @@ Fill in each blank with the right word.
 **Answer: wild**
 **3. The walia ___ and the red fox are pictured wild animals of the mountain park.**
 **Answer: ibex**
+**4. Animals found only in Ethiopia are called ______ animals.**
+**Answer: endemic**
+
+**5. The buffalo in Amharic, as the book prints it, is ______.**
+**Answer: ጎሽ**
+

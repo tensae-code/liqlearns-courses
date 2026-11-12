@@ -42,6 +42,7 @@ Seedling bed space at school or home, native tree seed or seedlings, water, a sl
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
 - IMAGE [Picture 13235] — a picture of terraced hillsides with new seedlings → the student names two protection methods the picture shows at once.
+- IMAGE [Picture 13468] — a picture of two generations handing on one green valley → the student says the definition in one sentence.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

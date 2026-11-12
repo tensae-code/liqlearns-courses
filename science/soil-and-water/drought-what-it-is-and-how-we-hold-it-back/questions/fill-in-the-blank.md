@@ -7,3 +7,9 @@ Fill in each blank with the right word.
 
 **2. (Sub lesson 2) Stopping free ___ lets the plant cover recover.**
 **Answer: grazing**
+**3. The second Ethiopian satellite is named ET-______-RSS.**
+**Answer: Smart**
+
+**4. Drought is expected on average about every ______ years.**
+**Answer: ten**
+

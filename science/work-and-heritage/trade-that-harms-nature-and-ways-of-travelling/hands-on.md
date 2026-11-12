@@ -10,3 +10,7 @@ Two teams: 'this trade feeds us' vs 'this trade eats nature' — then together w
 
 ## Compare the vessels
 Choose one good your family buys. Trace how it travelled to you — every vessel it rode. Then write which leg was traditional and which was modern, and which was faster.
+
+## Draw both corridors
+On one region map, draw the Northern Corridor in one colour and the Central in another, solid; add the three planned lines dashed. Mark every port and capital the corridors serve.
+

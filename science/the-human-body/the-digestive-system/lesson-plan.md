@@ -37,6 +37,7 @@ A bite of food to follow in the mind; paper, clay or cloth for the group model o
 - GIF [GIF 13201] — a bite of food travelling down the tube part by part → the student names each part as the bite arrives.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13440] — a picture of the tube with stomach, small intestine, appendix and large intestine labelled and their jobs captioned → the student names each part and its Grade 5 job.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

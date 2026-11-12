@@ -37,3 +37,12 @@ a) takes without right  b) follows the rules and keeps the resource for the futu
 **9. (Sub lesson 4) Illegal trade in natural resources harms —**
 a) no one  b) only the buyer  c) the resource and the community's future
 **Answer: c) the resource and the community's future** — Taking without right eats next year's resource too.
+
+**10. (Sub lesson 5) The region's trade pattern sends out —**
+a) factory goods  b) raw farm goods and minerals  c) only flowers
+**Answer: b) raw farm goods and minerals** — Raw materials go out; industrial goods come in.
+
+**11. (Sub lesson 5) Zambia's single-product dependence is —**
+a) 86% coffee  b) 94% copper  c) 20% coffee
+**Answer: b) 94% copper** — Zambia leans 94% on copper; Burundi's 86% is coffee.
+

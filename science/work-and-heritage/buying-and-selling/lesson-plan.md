@@ -16,6 +16,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **Markets — how countryside and town feed each other** — the farmer's surplus, the four market kinds, and the countryside↔town exchange (Grade 4 student pp.121–124).
 4. **Bringing natural resources to market — legal and illegal trade (teacher guide — evidence)** — marketing the region's natural resources and their products; legal and illegal natural-resource trade (SNNP TG pp.100–102; Oromia TG pp.65–69, teacher guide — evidence).
 
+5. **Trade — raw goods out, factory goods in** — the region's foreign-trade pattern: farm raw materials and minerals exported, industrial goods imported; single-product dependence (Burundi 86% coffee, Zambia 94% copper); Africa supplies 20% of the world's coffee; flower production is the newer sector (Grade 6).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -27,6 +29,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Say and use what the part "The two-way road of trade" teaches, in their own words.
 3. Say and use what the part "Markets — how countryside and town feed each other" teaches, in their own words.
 4. Say and use what the part "Bringing natural resources to market — legal and illegal trade (teacher guide — evidence)" teaches, in their own words.
+5. Say and use what the part "Trade — raw goods out, factory goods in" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -36,6 +39,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12031]: a picture of a farmer selling grain and buying oil and clothes at market — the student studies the picture and names what it shows in the lesson's own words.
    - ADD IMAGE [Picture 12210]: a picture of a busy market day with grain sacks and animals — the student names which market kind each stall belongs to.
+   - ADD IMAGE: a picture of a balance — coffee sacks and copper on one pan, machines and factory goods on the other — the student studies it and names what it shows in the lesson's own words.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -48,6 +52,12 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 
 - IMAGE [Picture 12210] — a busy market day with grain sacks and animals → the student sorts stalls by market kind.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE (described) — a balance — coffee sacks and copper on one pan, machines and factory goods on the other → the student studies it and names what it shows.
+
+
+
+
 
 ## If the learner is stuck
 - The words are new → go back to the lesson's picture and say what it shows, in home words first, then in the lesson's words.

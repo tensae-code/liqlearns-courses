@@ -37,6 +37,8 @@ Room to jump on the spot; a quiet moment to feel the chest.
 - GIF [GIF 13203] — a heart squeezing and relaxing in rhythm → the student squeezes and opens a fist in time with it.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13441] — a picture of the three vessels, the four blood groups and the three cell kinds → the student traces one drop from heart to cell and back.
+- GIF [GIF 13442] — a GIF of a blood dot travelling both circulation loops → the student names each circuit as the dot runs it.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

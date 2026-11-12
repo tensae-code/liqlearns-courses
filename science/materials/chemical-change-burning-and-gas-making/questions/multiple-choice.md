@@ -17,3 +17,19 @@ a) still paper  b) a new body  c) unburned
 **4. (Sub lesson 2) In Experiment 3, the balloon inflates because —**
 a) a gas is formed in the bottle  b) someone blows it  c) the bottle grows
 **Answer: a) a gas is formed in the bottle**
+**5. Which is a physical change?**
+a) paper burning  b) paper tearing  c) iron rusting
+**Answer: b) paper tearing**
+
+**6. Gas → liquid is —**
+a) evaporation  b) condensation  c) freezing
+**Answer: b) condensation**
+
+**7. Which is a sign of a chemical change?**
+a) a precipitate forms  b) the thing gets bigger only  c) it is moved
+**Answer: a) a precipitate forms**
+
+**8. Ash can be turned back into paper —**
+a) yes, by cooling  b) no, never  c) only by freezing
+**Answer: b) no, never**
+

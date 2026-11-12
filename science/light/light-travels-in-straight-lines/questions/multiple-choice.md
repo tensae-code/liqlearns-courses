@@ -17,3 +17,19 @@ a) energy  b) water  c) stone
 **4. We see things when light —**
 a) sleeps on them  b) bounces off them into our eyes  c) hides from them
 **Answer: b) bounces off them into our eyes**
+**5. In Experiment 6, the flame is visible when —**
+a) any one hole is covered  b) the three holes line up  c) the cards are removed
+**Answer: b) the three holes line up**
+
+**6. The cards in Experiment 6 measure —**
+a) 20 × 20 cm  b) 1 m square  c) 5 cm
+**Answer: a) 20 × 20 cm**
+
+**7. Alignment of the holes is checked with —**
+a) a wet string  b) a dry thin wire  c) a mirror
+**Answer: b) a dry thin wire**
+
+**8. Meeting a body, light can —**
+a) only stop  b) bounce back, be absorbed, or pass through  c) turn into sound
+**Answer: b) bounce back, be absorbed, or pass through**
+

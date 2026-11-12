@@ -38,6 +38,7 @@ The animals of your own home and street to classify; a walk where wild signs mig
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
 - IMAGE [Picture 13233] — a picture of a walia ibex, a red fox and birds in a mountain park → the student names each animal's kind: bird, mammal, or crawling kind.
+- IMAGE [Picture 13462] — a picture of Ethiopia's wildlife and endemics → the student pins two endemics to their homes.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

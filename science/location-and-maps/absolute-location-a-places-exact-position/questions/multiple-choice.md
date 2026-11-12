@@ -37,3 +37,28 @@ a) 35°10′–40°20′ E  b) 8°40′–14°50′ E  c) 11°20′–12°17′ 
 **9. (Sub lesson 4) The Amhara Region's latitude range is —**
 a) 35°10′–40°20′ N  b) 8°40′–14°50′ N  c) 0°–90° N
 **Answer: b) 8°40′–14°50′ N** — From 8°40′ north to 14°50′ north.
+
+**10. (Sub lesson 5) Ethiopia's southern extreme, at 3° N, is —**
+a) the Ogaden  b) Moyale  c) the Akobo river
+**Answer: b) Moyale** — Moyale, in the south, sits at 3° N.
+
+**11. (Sub lesson 5) Ethiopia spans how many degrees east–west?**
+a) 12 degrees  b) 15 degrees  c) 48 degrees
+**Answer: b) 15 degrees** — From 33° E to 48° E is a span of 15 degrees.
+
+**12. (Sub lesson 6) One effect of Ethiopia's location the book states plainly is —**
+a) it has many seaports  b) it has no seaport of its own  c) it has two time zones
+**Answer: b) it has no seaport of its own** — Ethiopia is landlocked — it has no seaport of its own.
+
+**13. (Sub lesson 6) Ethiopia's position feeds politics over which river's water?**
+a) the Awash  b) the Nile  c) the Baro
+**Answer: b) the Nile** — As the Nile's great source, Ethiopia's position feeds Nile-water politics downstream.
+
+**14. (Sub lesson 7) East Africa's eastern extreme, at 57° E, is —**
+a) Mauritius  b) Ras Kasar  c) the Maputo river
+**Answer: a) Mauritius** — Mauritius, the island country, is the region's eastern corner.
+
+**15. (Sub lesson 7) The region's northern corner is at —**
+a) Liuwa National Park  b) Ras Kasar, Eritrea  c) Maputo
+**Answer: b) Ras Kasar, Eritrea** — Ras Kasar in Eritrea marks 18° N, the north of the region.
+

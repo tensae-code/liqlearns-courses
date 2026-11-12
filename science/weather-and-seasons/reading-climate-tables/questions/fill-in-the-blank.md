@@ -7,3 +7,6 @@ Fill in each blank with the right word.
 
 **2. The book sets pupils to record their own school's daily ___ for a month.**
 **Answer: temperature**
+**3. The annual ______ is the 12 months added and divided by 12.**
+**Answer: mean**
+

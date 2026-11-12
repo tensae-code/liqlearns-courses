@@ -7,3 +7,6 @@ Say whether each sentence is true or false.
 
 **2. Air is a non-renewable resource.**
 **Answer: False**
+**3. Coal is a renewable resource.**
+**Answer: False**
+

@@ -29,3 +29,20 @@ a) 90° at the poles  b) 360°  c) 10°
 **7. (Sub lesson 3) Longitude is measured from —**
 a) the equator  b) the prime meridian  c) Lake Tana
 **Answer: b) the prime meridian** — Longitude's starting line is the prime meridian.
+
+**8. (Sub lesson 4) The equator's latitude is —**
+a) 90°  b) 0°  c) 180°
+**Answer: b) 0°** — The equator is the starting line, 0°.
+
+**9. (Sub lesson 4) One degree of latitude covers about how much ground?**
+a) 11 km  b) 111 km  c) 1,111 km
+**Answer: b) 111 km** — Each degree spans about 111 km on the ground.
+
+**10. (Sub lesson 5) A position is stated —**
+a) longitude first  b) latitude first, then longitude  c) in kilometres
+**Answer: b) latitude first, then longitude** — The fixed order is latitude first, then longitude.
+
+**11. (Sub lesson 5) The equator crosses which of these?**
+a) Ethiopia  b) Kenya  c) Tanzania
+**Answer: b) Kenya** — The equator crosses Uganda, Kenya and Somalia.
+

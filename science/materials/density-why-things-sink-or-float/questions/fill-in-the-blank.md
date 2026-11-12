@@ -7,3 +7,6 @@ Fill in each blank with the right word.
 
 **2. Density is matter packed into a body's ___.**
 **Answer: volume**
+**3. Pressure = force ÷ ______.**
+**Answer: area**
+

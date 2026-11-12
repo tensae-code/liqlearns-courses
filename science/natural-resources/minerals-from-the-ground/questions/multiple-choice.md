@@ -24,3 +24,23 @@ a) opal  b) plastic  c) rubber
 **6. One use of minerals in the Grade 4 book is —**
 a) export income  b) making rain  c) growing crops directly
 **Answer: a) export income**
+**7. Tantalum is mined at —**
+a) Kenticha  b) Asosa  c) Adola only
+**Answer: a) Kenticha**
+
+**8. Nickel is found around —**
+a) Shakiso  b) Asosa  c) Shiré
+**Answer: b) Asosa**
+
+**9. Mining contributes how much of Ethiopia's GDP?**
+a) under 1%  b) 25%  c) 50%
+**Answer: a) under 1%**
+
+**10. Tanzania's first mineral, at 2% of the world's trade, is —**
+a) pumice  b) gold  c) soda ash
+**Answer: b) gold**
+
+**11. Kenya is world-known for —**
+a) fluorspar, soda ash and kaolin  b) opal only  c) potash
+**Answer: a) fluorspar, soda ash and kaolin**
+

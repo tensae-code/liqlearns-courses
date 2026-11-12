@@ -16,6 +16,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **The peoples of the Amhara Region and what culture is** — the region's peoples and their shared tuba culture; culture as a handed-down, changing way of life (Grade 4 student pp.101–102).
 4. **The different cultures and languages of our region (teacher guide — evidence)** — the region's different cultures, and (SNNP only) its languages (SNNP TG pp.91–94; Oromia TG pp.56–59, teacher guide — evidence).
 
+5. **Material culture and spiritual culture** — culture is a society's whole way of life; Ethiopia's shared values are tolerance, respect, love of country; culture divides into material culture (things made and used) and spiritual culture (things not touchable) (Grade 5).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -27,6 +29,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Say and use what the part "Our town — a reading" teaches, in their own words.
 3. Say and use what the part "The peoples of the Amhara Region and what culture is" teaches, in their own words.
 4. Say and use what the part "The different cultures and languages of our region (teacher guide — evidence)" teaches, in their own words.
+5. Say and use what the part "Material culture and spiritual culture" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -36,6 +39,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12022]: a picture of a Saturday market with farmers and townspeople trading — the student studies the picture and names what it shows in the lesson's own words.
    - ADD IMAGE: a picture of people of several communities in their own dress at one market — the student names what marks each community's culture.
+   - ADD Picture [Picture 13317]: a picture of two baskets of examples, touchable and untouchable, sorted visually — the student studies it and names what it shows in the lesson's own words.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -48,6 +52,12 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 
 - IMAGE (described) — people of several communities in their own dress at one market → the student names the marks of culture it shows.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 13317] — two baskets of examples, touchable and untouchable, sorted visually → the student studies it and names what it shows.
+
+
+
+
 
 ## If the learner is stuck
 - The words are new → go back to the lesson's picture and say what it shows, in home words first, then in the lesson's words.

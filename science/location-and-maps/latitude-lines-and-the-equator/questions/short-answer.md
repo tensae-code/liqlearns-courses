@@ -10,3 +10,10 @@ Answer in a sentence or two, in your own words.
 
 **3. (Sub lesson 3) How far around the earth do the longitude lines run?**
 **Answer:** 360° — all the way around the earth from the prime meridian.
+
+**4. (Sub lesson 4) What two halves does latitude divide the Earth into?**
+**Answer:** The northern hemisphere and the southern hemisphere, split by the equator.
+
+**5. (Sub lesson 5) Name the three East African countries the equator crosses.**
+**Answer:** Uganda, Kenya and Somalia.
+

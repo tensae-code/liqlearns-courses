@@ -29,3 +29,12 @@ a) tear out hard pages  b) cover the book and keep it dry and clean  c) write on
 **7. (Sub lesson 3) If a page tears, the message says to —**
 a) hide the book  b) tear out the page  c) repair the torn page
 **Answer: c) repair the torn page** — A mended page can still be read.
+
+**8. (Sub lesson 4) Where does the book-care message stand in the Grade 5 and Grade 6 books?**
+a) at the very back  b) on printed page ii, at the front  c) only in the teacher's book
+**Answer: b) on printed page ii, at the front** — Printed page ii is the front-matter page that carries the message in every book of the series.
+
+**9. (Sub lesson 4) By Grade 5 and Grade 6, who keeps the book-care habit?**
+a) only the teacher  b) the pupil, by themselves  c) nobody — the rule ends
+**Answer: b) the pupil, by themselves** — The message stays the same; the older pupil keeps it as their own habit.
+

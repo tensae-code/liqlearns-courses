@@ -18,6 +18,14 @@ The parts of this lesson, in order — the list the learner sees from the start,
 5. **Kinds of crops and the three growing seasons** — the five crop families, the meher/belg/irrigation seasons, traditional against modern farming, and the crop-sample board project (Grade 4 student pp.113–114).
 6. **Animals we keep and what they do for us** — the kept animals and their services — food, transport, farm power (Grade 4 student p.115).
 
+7. **Agriculture — Ethiopia's backbone** — agriculture — crop growing and animal keeping together — is the country's greatest economic base: over 82% of Ethiopians make their living from it (Grade 5).
+
+8. **Crops and where they grow** — cereals (wheat, barley, teff, sorghum, maize), pulses, oil crops, coffee; highlands raise teff, barley, wheat, maize — lowlands sorghum and zengada; mostly kiremt-fed, once a year (Grade 5).
+
+9. **Traditional farming and modern farming** — traditional: home consumption, shifting cultivation, mixed farming; modern: industrial inputs where rain or irrigation allows — coffee, oil seeds, flowers, tea, spices earn exports (Grade 5).
+
+10. **Animal husbandry — first in Africa** — Ethiopia 1st in Africa, 10th in the world for cattle; livestock 30% of GDP, 2nd among foreign-exchange earners; traditional and modern methods; pastoralists move with their herds (Grade 5).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -31,6 +39,10 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 4. Say and use what the part "Agriculture — the backbone, and mixed farming" teaches, in their own words.
 5. Say and use what the part "Kinds of crops and the three growing seasons" teaches, in their own words.
 6. Say and use what the part "Animals we keep and what they do for us" teaches, in their own words.
+7. Say and use what the part "Agriculture — Ethiopia's backbone" teaches, in their own words.
+8. Say and use what the part "Crops and where they grow" teaches, in their own words.
+9. Say and use what the part "Traditional farming and modern farming" teaches, in their own words.
+10. Say and use what the part "Animal husbandry — first in Africa" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.

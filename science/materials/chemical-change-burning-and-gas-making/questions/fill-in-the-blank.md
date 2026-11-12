@@ -7,3 +7,6 @@ Fill in each blank with the right word.
 
 **2. (Sub lesson 2) The balloon is stretched over the neck of a plastic ___.**
 **Answer: bottle**
+**3. Liquid → gas is ______ (ፈሳሽ→ጋዝ).**
+**Answer: evaporation**
+

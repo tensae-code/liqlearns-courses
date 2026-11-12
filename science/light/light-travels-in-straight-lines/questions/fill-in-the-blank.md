@@ -7,3 +7,6 @@ Fill in each blank with the right word.
 
 **2. Experiment 4 uses a ___ as its light source.**
 **Answer: candle**
+**3. A ______ marks light's straight path.**
+**Answer: ray**
+

@@ -44,6 +44,7 @@ A drawing of a mountain to carry the five zones; local knowledge of your own pla
 - IMAGE [Picture 12152] — a picture of a mountain with a cold rainy top and a hot dry foot → the student explains both ends of the mountain with the altitude rule.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13454] — a picture of the region's wettest and driest zones → the student places their home zone inside the region.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

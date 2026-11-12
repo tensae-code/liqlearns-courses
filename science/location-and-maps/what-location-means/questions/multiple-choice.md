@@ -33,3 +33,20 @@ a) a song about a place  b) a tool that shows where places sit, drawn small  c) 
 **8. (Sub lesson 4) Where a place sits is described —**
 a) against other bodies and places  b) by its colour  c) by guessing
 **Answer: a) against other bodies and places** — Location is always told against what is around.
+
+**9. (Sub lesson 5) A globe is —**
+a) a flat drawing  b) the Earth's true, round model  c) a list of places
+**Answer: b) the Earth's true, round model** — The globe keeps the Earth's real shape; the map flattens it.
+
+**10. (Sub lesson 5) Who uses maps in their work?**
+a) only pupils  b) travellers, pilots, captains and town planners  c) nobody outside school
+**Answer: b) travellers, pilots, captains and town planners** — Maps serve travellers, pilots, ship captains, the military and town planners.
+
+**11. (Sub lesson 6) A map is drawn —**
+a) from above, simplified and to scale  b) from ground level, life-size  c) from memory only
+**Answer: a) from above, simplified and to scale** — The guide's definition: from above on flat paper, simplified, reduced, drawn to scale.
+
+**12. (Sub lesson 6) The word ልኬት in the guide's definition means the map's —**
+a) title  b) scale  c) colour
+**Answer: b) scale** — ልኬት is the scale — the fixed shrinking between map and ground.
+

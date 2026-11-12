@@ -7,3 +7,9 @@ Say whether each sentence is true or false.
 
 **2. A bent tube hides the candle flame from your eye.**
 **Answer: True**
+**3. Shifting the middle card hides the flame.**
+**Answer: True**
+
+**4. Light travels in curves through air.**
+**Answer: False**
+

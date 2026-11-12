@@ -35,6 +35,7 @@ Nothing to handle — this lesson is told, never shown. The book's activity is a
 - IMAGE [Picture 13243] — a picture of a 'keep away' sign over drawings of chat leaves, a cigarette plant and a drinks bottle → the student names each stimulant the picture warns against.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13470] — a picture of addiction's balance scale → the student recites the cost list from memory.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

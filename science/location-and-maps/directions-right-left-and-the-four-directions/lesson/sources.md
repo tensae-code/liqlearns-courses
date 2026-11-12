@@ -10,12 +10,16 @@ countries: Ethiopia
 
 **Book 4:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል — Environmental Science Student Textbook, Grade 4* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md
 
+**Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል — Environmental Science Student Textbook, Grade 5* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md
+
 | Lesson part | Where it comes from |
 |---|---|
 | Right and left, front and back, on your own body (teacher guide — evidence) | Ethiopia, *Environmental Science Teacher Guide, Grade 1*, printed pp. 4–6 (teacher guide — evidence) |
 | Finding east and west from the sun (teacher guide — evidence) (teacher guide — evidence) | Ethiopia, *Environmental Science Teacher's Guide, Grade 1 (student book NOT held; this file is guide-sourced)*, guide §1.2, printed p. 4 (teacher guide — evidence) |
 | The four main directions, and places beside the road | Ethiopia, *Environmental Science Student Textbook, Grade 2*, printed pp. 3–4 |
 | The eight directions | Ethiopia, *Environmental Science Student Textbook, Grade 4*, printed pp. 1–3 |
+| Sixteen directions — the full compass | Ethiopia, *Environmental Science Student Textbook, Grade 5*, printed p. 1 |
+| The needle settles north | Ethiopia, *Environmental Science Student Textbook, Grade 5*, printed p. 1 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
@@ -29,4 +33,6 @@ Publisher figure-number misprint in the Grade 2 student book (activity 4.10 refe
 
 COMPLETE: the Grade 4 student book's contents promise 5 chapters ending at printed p.148 and the file's final printed page is 148.
 
-Searchable tags: directions, east west north south, right and left, sunrise, sunset, eight directions, north-east, Alemnesh
+COMPLETE: the Grade 5 student book's contents promise ends at printed p. 178 (Chapter 6 review) and the file's last printed page is 178. Book misprint, noted and not taught: the running heads inside Chapter 6 are misprinted "ምዕራፍ 5" (Chapter 5) although the chapter itself is Chapter 6.
+
+Searchable tags: directions, east west north south, right and left, sunrise, sunset, eight directions, north-east, Alemnesh, sixteen directions, compass rose, sub-directions, needle settles nort, sixteen directions, compass rose, sub-directions, needle settles northt

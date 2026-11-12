@@ -10,3 +10,7 @@ Look at a picture of a house, a church and a mosque. For each one, say what stan
 
 ## Match the map to the place
 Draw your classroom as a map on paper — desk, door, windows — then stand at the door and check: does every thing on your map sit where the real thing sits?
+
+## Flat or round?
+Draw your schoolyard twice: once flat, as a map from above; once on a ball or an orange, as a globe. Which drawing stretched the yard's shape? Talk about why.
+

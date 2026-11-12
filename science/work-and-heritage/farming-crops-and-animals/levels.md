@@ -19,3 +19,16 @@ Sub lesson 5 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 6 — Animals we keep and what they do for us
 Sub lesson 6 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Bees are kept for — (answer: honey).
+
+## Sub lesson 7 — Agriculture — Ethiopia's backbone
+Sub lesson 7 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: over 82% of Ethiopians live from agriculture — crops and animals together
+
+## Sub lesson 8 — Crops and where they grow
+Sub lesson 8 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: highlands grow teff, barley, wheat, maize; lowlands grow sorghum and zengada
+
+## Sub lesson 9 — Traditional farming and modern farming
+Sub lesson 9 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: traditional farming shifts fields and mixes crops with cattle; modern farming grows export earners with irrigation and inputs
+
+## Sub lesson 10 — Animal husbandry — first in Africa
+Sub lesson 10 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Ethiopia is 1st in Africa and 10th in the world for cattle; livestock gives 30% of GDP
+

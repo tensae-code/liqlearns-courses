@@ -13,3 +13,7 @@ Sub lesson 3 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 4 — The different cultures and languages of our region (teacher guide — evidence)
 Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: A region's cultures live — (answer: side by side, with their languages, in one shared life).
+
+## Sub lesson 5 — Material culture and spiritual culture
+Sub lesson 5 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: material culture can be touched; spiritual culture — music, beliefs, greetings — cannot
+

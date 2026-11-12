@@ -25,6 +25,11 @@ The Grade 4 book unpacks the letters. **HIV**: **Human** (found in people), **Im
 
 [Picture 13240 — a health worker showing a sterile single-use needle packet]
 
+## Grade 5 — risk, the danger of relaxing, and Table 6.2's sort; Grade 6 — across East Africa
+HIV is the virus; AIDS is the body's defence capacity destroyed. Any section of society can be infected, but the most exposed are named: **people unstable in marriage, youth in their teens and twenties, drug users, and workers living far from their partners**. The chapter's warning, credited to Amhara Region Health Bureau information: after earlier strong joint work cut infection and death sharply, the spread is **rising again in every region, town and countryside — because attention to prevention faded after the early success**. The opener scenario (summary): the cutter Eteye Asegedech, lacking a new razor, reuses one blade on girl after girl; one child bleeds heavily, survives — then falls chronically ill; pupils name the likely disease and the risky behaviours. Then **Table 6.2**, the sorting exercise itself: eating together ✗; coughing/sneezing ✗; **mother to child ✓**; **blood contact ✓**; hugging ✗; playing ball together ✗; sharing a toilet ✗; swimming together ✗; **sharing sharp things ✓**; **sharing a toothbrush or razor ✓**. Prevention: **abstinence is named the reliable protection**; not sharing sharp things protects; and pupils carry a duty — teach those who share sharp instruments to stop. The Grade 6 book reframes the epidemic regionally: the great contributors to spread are **economic poverty, low reach of education, low reach of health services, citizen unemployment, and harmful traditional practices and beliefs**; free movement across borders also carries communicable diseases, so countries work jointly — border-post and transport-hub screening in the Ebola response is the printed example — and Ethiopia's joint work against HIV/AIDS with its neighbours is described as comparatively good.
+
+[Picture 13469 — Table 6.2 redrawn as a two-column sort with the book's eleven items]
+
 ## Say it to your companion
 Tell your companion: how HIV spreads, and five ways it does not. Your companion checks you against the picture of the razor and needle marked 'do not share', beside children eating together safely.
 

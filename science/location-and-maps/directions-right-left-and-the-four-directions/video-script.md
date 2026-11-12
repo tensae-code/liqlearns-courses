@@ -17,3 +17,7 @@ And on your own body: right, left, front, back.
 North. East. South. West. Four directions.
 
 Now the helpers: north-east, south-east, south-west, north-west. Eight directions — and Alemnesh's whole day can be told with them.
+
+Sixteen directions on the compass. Four main. Twelve built between them.
+
+The needle swings — then it settles. It always settles north.

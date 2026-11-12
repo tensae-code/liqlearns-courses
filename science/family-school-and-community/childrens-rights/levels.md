@@ -10,3 +10,7 @@ Sub lesson 2 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 3 — When children are made to work and miss school — a story (plot summary only)
 Sub lesson 3 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: A child is — (answer: anyone under 18).
+
+## Sub lesson 4 — The rights of the child — the 1989 convention
+Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: under the 1989 convention a child is every person under 18, with rights to life, name, care and protection
+

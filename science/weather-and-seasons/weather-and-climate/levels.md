@@ -11,3 +11,5 @@ Sub lesson 2 questions from the type files. Pass mark: list the elements, pick o
 
 ## Sub lesson 3 — Grade 4: the long average, worked at Debre Berhan
 Pass mark: the learner can state the Grade 4 definition — the long-term average of wind, temperature, rainfall and cloud recorded over many years — name the Debre Berhan 25-year average as its worked example, and describe a climate as hot or cold, wet or dry — proved by this sub lesson's own questions (the gate pool is the whole set; no hardness ranking is written in questions/).
+
+Grade 5 depth (added 2026-11-12): the pass mark grows — the learner also matches all five instruments, computes an annual average and a range, and tells how rain forms and which winds bring Ethiopia's kiremt.

@@ -31,6 +31,16 @@ The two regional teacher guides teach the same difference — weather against cl
 
 [Picture 13218 — one town shown in sun, rain and cold under one "climate" label]
 
+## Grade 5 — elements, instruments, averages; how rain forms
+**Weather (የአየር ጠባይ)** is the day-to-day state — rain, temperature, wind, cloud — and the daily radio/TV weather news is a forecast; **climate (የአየር ንብረት)** is the same state repeated over **30–35 years**, and it shapes where people settle. The elements each have an instrument: **temperature by thermometer, rain by rain gauge, air pressure by barometer, wind direction by wind vane, wind speed by anemometer**. Working rules: **annual average = the 12 months added and divided by 12; the range = biggest minus smallest**. And how rain forms: sun-driven **evaporation** from seas and plants **condenses** into cloud and falls. Ethiopia's rains ride winds from different directions in different seasons: the **kiremt** rain (June–September) comes on moist south-west/south-east winds from the Atlantic — heaviest over the Gurage–Jimma highlands, Shewa, Gojjam and Gondar, lessening north-eastward; the dry **bega** north-east wind from Asia brings none; in April and October the south-east wind from the Indian Ocean gives moderate rain to the eastern lowlands. The Grade 5 teacher guide's climate subtopic (teacher guide — evidence) teaches the same weather/climate difference and elements.
+
+[Picture 13450 — the five weather instruments in one station panel]
+
+## Grade 6 — East Africa's weather at region scale (teacher guide — evidence)
+The Grade 6 teacher guide carries climate to the region (teacher guide — evidence): East Africa's climate regions are taught as the region's own map — the pupil who knows Ethiopia's zones now meets the region's. No pupil text for this row is in hand; it stands as evidence beside the Grade 5 teaching and the Grade 6 student climate content built into the zones and controllers lessons.
+
+[GIF 13451 — the evaporation-cloud-rain cycle turning]
+
 ## Say it to your companion
 Teach your companion the difference with one example of each from your own place: today's rain (weather) against the rainy season that always comes (climate). Then list the elements and let them catch the two key ones.
 

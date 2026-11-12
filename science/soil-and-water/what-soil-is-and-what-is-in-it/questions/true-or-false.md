@@ -7,3 +7,6 @@ Say whether each sentence is true or false.
 
 **2. Soil goes down forever, as far as you can dig.**
 **Answer: False**
+**3. Living micro-organisms are one of soil's ingredients.**
+**Answer: True**
+

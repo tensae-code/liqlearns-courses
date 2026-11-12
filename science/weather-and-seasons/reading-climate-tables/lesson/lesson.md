@@ -16,6 +16,11 @@ Then the table turns home: the book sets you to **record your own school's daily
 
 [Picture 13221 — the three-station climate table as a bar chart of rainy and dry months]
 
+## Grade 5 — working with real climate data: Kombolcha's year
+Table 4.1 of the Grade 5 book prints **Kombolcha town's monthly temperature and rainfall**, and sets five workings on it: compute the **annual mean temperature**, the **annual mean rainfall**, the **temperature range**, find the **wettest month** and the **hottest and coldest months** — and **draw the year as a bar or line graph**. The figures themselves are the pupil's to read from the book's table in class; this lesson teaches the five workings in the book's order, on the book's own town. (No figure from the table is reprinted here — the workings are the teaching.)
+
+[Picture 13452 — Kombolcha's rainfall year as a finished bar graph beside its table]
+
 ## Say it to your companion
 Tell your companion how to read the table: what the rows and columns hold, and the three hunts — wettest, driest, and the averages.
 

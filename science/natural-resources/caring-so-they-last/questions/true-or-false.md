@@ -12,3 +12,9 @@ Say whether each sentence is true or false.
 
 **4. Free grazing is one of the traditional ways of protecting soil.**
 **Answer: False**
+**5. Soil, water, plant and wildlife protection are named as sustainable-development work.**
+**Answer: True**
+
+**6. A light burning uselessly by day is fine under Agenda 2030.**
+**Answer: False**
+

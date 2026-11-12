@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Lines that meet at the poles** — longitude lines (የኬንትሮስ ዲግሪ ልኬት) are drawn from pole to pole.
 2. **Greenwich, the 0° line** — longitude tells how far east or west of the 0° meridian a place is.
 
+3. **Longitude — the meridians, the Grade 6 measure** — imaginary pole-to-pole lines: prime meridian 0°, 180° east and 180° west (360° in all), all meeting at the two poles (Grade 6).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +24,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 ## What the learner can do when it ends
 1. Say and use what the part "Lines that meet at the poles" teaches, in their own words.
 2. Say and use what the part "Greenwich, the 0° line" teaches, in their own words.
+3. Say and use what the part "Longitude — the meridians, the Grade 6 measure" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -31,6 +34,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12010]: a picture of a globe with longitude lines joining at the poles — the student studies the picture and names what it shows in the lesson's own words.
    - ADD GIF [GIF 12046]: a drawn GIF of longitude lines sweeping from pole to pole on a globe — the student watches the motion, then does or describes the movement themselves.
+   - ADD IMAGE: a picture of a globe with meridians converging at the poles and the prime meridian highlighted — the student studies it and names what it shows in the lesson's own words.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -43,6 +47,12 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE (described) — a globe with meridians converging at the poles and the prime meridian highlighted → the student studies it and names what it shows.
+
+
+
+
 
 ## If the learner is stuck
 - The words are new → go back to the lesson's picture and say what it shows, in home words first, then in the lesson's words.

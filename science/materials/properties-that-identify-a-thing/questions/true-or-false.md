@@ -10,3 +10,9 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 2) Burning wood to ash shows a chemical property.**
 **Answer: True**
+**4. In a solution, the solvent is the larger part.**
+**Answer: True**
+
+**5. A chemical property can be seen without the matter reacting.**
+**Answer: False**
+

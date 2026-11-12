@@ -25,6 +25,16 @@ Four keys, one craft: given any animal of our woreda, the grouped mind can place
 
 [GIF 12164 — animals being sorted into groups by their coverings — fur, feathers, scales]
 
+## Grade 5 — with and without backbones; insects; metamorphosis
+Animals divide into **invertebrates (ኢ-ደንደሴ — no backbone; more than 95% of all animal species)** and **vertebrates** (held for Grade 6). **Insects (ሦስት አፅቄዎች)** have **three body parts**: the **head** (feelers, eyes, mouth), the **thorax** (where the **three pairs of legs** and the wings attach — **three pairs of legs is the insect test**) and the **abdomen** (about 12 segments, with breathing holes and the reproductive parts). Insects grow by changing form: **complete metamorphosis** runs four stages (**egg → larva → pupa → adult**; the fly's life cycle is pictured) and **incomplete metamorphosis** three (**egg → nymph → adult**, growing by moulting; the grasshopper is pictured). Warm weather speeds insect breeding. Class sorting: social and useful insects (**bees, silkworms, butterflies, ants**) against harmful ones (**locusts, termites, the house fly, the malaria mosquito**).
+
+[Picture 13459 — a worm, snail and butterfly against a fish and bird; a labelled insect]
+
+## Grade 6 — the vertebrate ladder: fish, amphibians, reptiles, birds, mammals
+Backboned animals climb a ladder of **five groups: fish, amphibians, reptiles, birds, mammals**. **Fish** — the first vertebrates: water-living, breathing through **gills (ስንጥብ)**, covered smooth or scaly, moving by fins, laying eggs with **external fertilisation**. **Amphibians** — frogs, toads, caecilians: live in water and on land, moist smooth skin, four legs, lungs on land and gills in water, **cold-blooded (ደመ ቀዝቃዛ)**, eggs in water with external fertilisation, young **tadpoles (እንቁሪዎች)** growing gradually into adults — linked by the book to Grade 5's incomplete metamorphosis. **Reptiles** — cold-blooded land animals, fully lung-breathing, dry hard scaly covering, eggs with **internal fertilisation**. **Birds** — **warm-blooded (ደመ ሞቃት)**, lung-breathing, feather-covered egg-layers with internal fertilisation; their **beaks (ምንቃር)** and claws differ by what they eat. **Mammals** — warm-blooded, with hair, ears, teeth and milk glands, giving birth and suckling young — monkeys, humans, whales, kangaroos, dolphins, cattle. The chapter's closing question: is the **bat (የሌሊት ወፍ)** a bird or a mammal — and why? (A mammal: hair, milk, live birth — it flies, but flight is not the test.)
+
+[GIF 13460 — the metamorphosis stage sequences growing through their stages]
+
 ## Say it to your companion
 Deal your companion animal names like cards. They must group the whole hand four times — by young, by movement, by food, by body — and you check each grouping against the book's tables.
 

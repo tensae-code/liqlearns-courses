@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **When rights are broken — and who protects children** — rights violations, child labour exploitation, and the protectors (Grade 2 student pp.108–109).
 3. **When children are made to work and miss school — a story (plot summary only)** — the Ato Lebewled story (plot summary only) and the violations list; a child is under 18 (Grade 3 student pp.87–88).
 
+4. **The rights of the child — the 1989 convention** — under the UN convention of 1989 every person under 18 is a child; the printed rights: life, a name and a nationality; to know and be cared for by parents or caregivers; protection from exploitative work; special protection from cruel treatment (Grade 6).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -24,6 +26,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Say and use what the part "What every child should have — with the rights song" teaches, in their own words.
 2. Say and use what the part "When rights are broken — and who protects children" teaches, in their own words.
 3. Say and use what the part "When children are made to work and miss school — a story (plot summary only)" teaches, in their own words.
+4. Say and use what the part "The rights of the child — the 1989 convention" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -33,6 +36,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12213]: a picture of children at school with books, food and clothes, beside a child carrying a load too heavy — the student says which side shows rights kept and which shows rights broken.
    - ADD AUDIO: the rights song መብታችን ይከበር sung as a sing-along (theme summary in the lesson; audio made later) — the student joins the theme, never a transcription.
+   - ADD IMAGE: a picture of a child holding four shield-cards, one per printed right — the student studies it and names what it shows in the lesson's own words.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -45,6 +49,12 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE (described) — a child holding four shield-cards, one per printed right → the student studies it and names what it shows.
+
+
+
+
 
 ## If the learner is stuck
 - The words are new → go back to the lesson's picture and say what it shows, in home words first, then in the lesson's words.

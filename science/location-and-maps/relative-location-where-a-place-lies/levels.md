@@ -13,3 +13,10 @@ Sub lesson 3 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 4 — Two ways of fixing a place — the Grade 4 definitions
 Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Relative location fixes a place — (answer: against its neighbours); absolute location fixes it by — (answer: latitude and longitude numbers).
+
+## Sub lesson 5 — Ethiopia among its neighbours
+Sub lesson 5 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Eritrea north, Djibouti and Somalia east, Kenya south, Sudan and South Sudan west
+
+## Sub lesson 6 — How long our borders are
+Sub lesson 6 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Somalia's border is longest at 1,600 km and Djibouti's shortest at 310 km
+

@@ -10,3 +10,7 @@ Sort product cards into 'by hand' and 'by factory', defending each sort with how
 
 ## Sort the making
 List ten made things you use this week. Sort them: made by cottage industry, by modern industry, or by both together — and say what told you.
+
+## Transform something
+Take one natural thing — clay, cotton, a skin, a piece of wood. Draw its journey: cottage way and factory way, side by side, until it becomes a useful thing. Label where light or heavy industry touches the journey.
+

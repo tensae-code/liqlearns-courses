@@ -18,6 +18,11 @@ Soil's **colour differs by place — black, red, grey, brown, white** — and co
 
 [Picture 13223 — a soil pit showing the dark top layer and roots reaching down]
 
+## Grade 6 — soil and its five ingredients
+The Grade 6 book opens soil up. Soil is among the most important of all resources, **formed from weathered rock mixed with decayed plant and animal remains**; plateau and mountain areas hold **black fertile soil**, river valleys hold **alluvial soil**. And soil itself is made of **five things: minerals, organic matter, living micro-organisms, gas and water**. The Grade 6 teacher guide's soils subtopic (teacher guide — evidence) compares East Africa's main soil types beside this same five-part making.
+
+[Picture 13465 — a spadeful of soil exploded into its five labelled parts]
+
 ## Say it to your companion
 Tell your companion the definition by roots, the five things soil holds, and why two fields can wear different colours.
 

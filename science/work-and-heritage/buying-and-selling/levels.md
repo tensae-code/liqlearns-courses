@@ -13,3 +13,7 @@ Sub lesson 3 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 4 — Bringing natural resources to market — legal and illegal trade (teacher guide — evidence)
 Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Illegal trade in natural resources — (answer: takes without right and harms the resource's future).
+
+## Sub lesson 5 — Trade — raw goods out, factory goods in
+Sub lesson 5 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: the region exports raw goods and imports factory goods; Burundi leans 86% on coffee, Zambia 94% on copper
+

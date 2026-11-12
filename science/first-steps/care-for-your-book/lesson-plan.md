@@ -15,6 +15,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 3. **The same message in the Grade 4 book** — the Grade 4 book-care message (printed ii) — the same ten rules, now the older pupil's own responsibility.
 
+4. **The same message in the Grade 5 and Grade 6 books** — the book-care message (printed ii) opens the Grade 5 and Grade 6 books too — by now caring for the book is the older pupil's own habit, not a new rule.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -25,6 +27,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Say and use what the part "The book-care message" teaches, in their own words.
 2. Say and use what the part "Using the book kindly" teaches, in their own words.
 3. Say and use what the part "The same message in the Grade 4 book" teaches, in their own words.
+4. Say and use what the part "The same message in the Grade 5 and Grade 6 books" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.

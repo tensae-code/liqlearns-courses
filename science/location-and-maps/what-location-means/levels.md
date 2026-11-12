@@ -13,3 +13,10 @@ Sub lesson 3 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 4 — What a map is
 Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: A map is — (answer: the tool that shows where places sit, drawn small).
+
+## Sub lesson 5 — Map and globe — two ways to show the Earth
+Sub lesson 5 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: a map draws the Earth flat and reduced; a globe is its true, round model
+
+## Sub lesson 6 — What a map is (teacher guide — evidence)
+Sub lesson 6 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: a map is drawn from above, simplified, reduced and to scale, and shows location, direction, area and distance
+

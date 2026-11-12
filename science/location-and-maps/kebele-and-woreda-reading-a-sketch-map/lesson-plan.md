@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Reading a woreda sketch map** — a sketch map of a woreda shows its kebeles and its main places.
 3. **Drawing your own woreda** — now draw: your own woreda as a rough sketch map, your kebele marked inside it, and the things that border it on each side written or drawn at the edges.
 
+4. **Drawing a sketch map — the eight steps** — the Grade 5 book's eight printed steps for a sketch map of one's own area, then a worked example judged against them: pupil Zerihun's sketch map of the Amhara Region.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -24,6 +26,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Say and use what the part "Villages make a kebele, kebeles make a woreda" teaches, in their own words.
 2. Say and use what the part "Reading a woreda sketch map" teaches, in their own words.
 3. Say and use what the part "Drawing your own woreda" teaches, in their own words.
+4. Say and use what the part "Drawing a sketch map — the eight steps" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -33,6 +36,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12005]: a picture of a simple woreda sketch map with kebeles marked — the student studies the picture and names what it shows in the lesson's own words.
    - ADD GIF [GIF 12043]: a drawn GIF of zooming out from village to kebele to woreda on a sketch map — the student watches the motion, then does or describes the movement themselves.
+   - ADD Picture [Picture 13305]: a picture of the eight steps of drawing a sketch map as a numbered strip — the student studies it and names what it shows in the lesson's own words.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -45,6 +49,12 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 - VIDEO — the video-script filmed (made later) → the student follows the script's actions and answers.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 13305] — the eight steps of drawing a sketch map as a numbered strip → the student studies it and names what it shows.
+
+
+
+
 
 ## If the learner is stuck
 - The words are new → go back to the lesson's picture and say what it shows, in home words first, then in the lesson's words.

@@ -38,6 +38,8 @@ Your own breath — and a hand on the ribs to feel the chest rise and fall.
 - GIF [GIF 13206] — lungs swelling and shrinking with a breath → the student breathes in and out in time with the picture.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13443] — a picture of the breathing road with the alveoli magnified → the student walks a breath down the road naming each part.
+- GIF [GIF 13444] — a GIF of the bottle-lung model working → the student maps sheet and balloons onto diaphragm and lungs.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

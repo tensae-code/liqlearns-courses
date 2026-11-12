@@ -61,6 +61,7 @@ A plastic bottle of water, a bowl and a cup for the pouring experiment; a balloo
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
 - IMAGE [Picture 13212] — a picture of ice, water and steam in a row, all labelled "water", with a candle melting beside them → the student names the state and the change at each step.
+- IMAGE [Picture 13445] — a picture of the three particle arrangements and the sublimation jump → the student explains each state by its particles.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

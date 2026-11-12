@@ -13,3 +13,7 @@ Say whether each sentence is true or false, and why.
 
 **4. (Sub lesson 4) The teacher guides teach the cultures of the region as a lesson topic.**
 **Answer: True** — Both guides carry it as Unit 4's first topic (teacher guide — evidence).
+
+**5. (Sub lesson 5) Beliefs are part of material culture because everyone holds them.**
+**Answer: False** — Beliefs cannot be touched; they belong to spiritual culture.
+

@@ -17,3 +17,19 @@ a) heats up  b) stays the same  c) cools
 **4. The third controller is distance from —**
 a) the capital  b) seas and oceans  c) the school
 **Answer: b) seas and oceans**
+**5. Higher altitude means —**
+a) hotter  b) cooler  c) no change
+**Answer: b) cooler**
+
+**6. Nearer the equator means —**
+a) colder  b) hotter and wetter  c) drier always
+**Answer: b) hotter and wetter**
+
+**7. Which did Grade 6 add to the controllers list?**
+a) ocean currents and forest cover  b) the moon's phases  c) river length
+**Answer: a) ocean currents and forest cover**
+
+**8. Farther inland from the sea generally means —**
+a) more rain  b) less rain  c) snow
+**Answer: b) less rain**
+

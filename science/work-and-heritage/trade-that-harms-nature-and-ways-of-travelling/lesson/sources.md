@@ -10,11 +10,16 @@ countries: Ethiopia
 
 **Book 8:** *አካባቢ ሳይንስ የመምህራን መምሪያ አራተኛ ክፍል — Environmental Science Teacher Guide, Grade 4, Oromia edition* (teacher guide) — Ethiopia, Oromia Education Bureau, © 2014 E.C./2022, 95 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md
 
+**Book 9:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል — Environmental Science Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md
+
 | Lesson part | Where it comes from |
 |---|---|
 | When trade strips nature | Ethiopia, *Environmental Science Student Textbook, Grade 3*, printed pp. 78–81 |
 | Transport — the camel and the truck | Ethiopia, *Environmental Science Student Textbook, Grade 3*, printed pp. 78–81 |
 | Transport — the blood vessel of the country | Ethiopia, *Environmental Science Student Textbook, Grade 4*, printed pp. 125–126; Ethiopia, *Environmental Science Teacher Guide, Grade 4, SNNP edition*, printed pp. 102–104 (teacher guide — evidence); Ethiopia, *Environmental Science Teacher Guide, Grade 4, Oromia edition*, printed pp. 69–72 (teacher guide — evidence) |
+| Transport — land, rail and air | Ethiopia, *Environmental Science Student Textbook, Grade 6*, printed pp. 157–158 |
+| The Northern Corridor | Ethiopia, *Environmental Science Student Textbook, Grade 6*, printed p. 158 |
+| The Central Corridor and the roads to come | Ethiopia, *Environmental Science Student Textbook, Grade 6*, printed p. 159 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
@@ -24,4 +29,6 @@ COMPLETE: the Grade 4 student book's contents promise 5 chapters ending at print
 
 COMPLETE: both Grade 4 regional teacher guides are complete in hand (SNNP printed pp. 1–143; Oromia printed pp. 1–95). The Grade 4 national teacher guide is link-only and is NOT claimed. Every part from these books is teacher-guide evidence.
 
-Searchable tags: trade and nature, charcoal, transport, camel, ship of the desert, transport, tankwa, blood vessel of a country
+COMPLETE: the Grade 6 student book's contents promise ends at printed p. 177 (Chapter 6) and the file's last printed page is 177.
+
+Searchable tags: trade and nature, charcoal, transport, camel, ship of the desert, transport, tankwa, blood vessel of a country, Northern Corridor, Central Corridor, Mombasa, Dar es Salaam, transport bottlenec, Northern Corridor, Central Corridor, Mombasa, Dar es Salaam, transport bottleneckc

@@ -35,6 +35,7 @@ A place to dig a small hole or look at a bank where soil layers show; a handful 
 - IMAGE [Picture 13223] — a picture of a soil pit showing the dark top layer and roots reaching down → the student runs a finger along the root depth and names the soil's end.
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
+- IMAGE [Picture 13465] — a picture of soil's five ingredients → the student names all five.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck

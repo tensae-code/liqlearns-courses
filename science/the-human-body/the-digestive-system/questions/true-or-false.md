@@ -10,3 +10,9 @@ Say whether each sentence is true or false.
 
 **3. Each part of the digestive tube does its own job on the food.**
 **Answer: True**
+**4. The appendix has no digestive use.**
+**Answer: True**
+
+**5. The large intestine makes digestive juices.**
+**Answer: False**
+

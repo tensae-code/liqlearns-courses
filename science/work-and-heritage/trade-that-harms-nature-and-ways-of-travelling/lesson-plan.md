@@ -15,6 +15,12 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 3. **Transport — the blood vessel of the country** — transport as 'the blood vessel of a country'; traditional kinds and modern land/air/water kinds, compared by speed and load (Grade 4 student pp.125–126; SNNP TG pp.102–104 and Oromia TG pp.69–72, teacher guide — evidence).
 
+4. **Transport — land, rail and air** — the region's transport falls into land, rail and air; Ethiopian Airlines stands among the world's foremost; flow runs centre-to-port only, and roads joining country to country are lacking (Grade 6); trade's bottleneck is transport — congested roads around Lake Victoria (Grade 6).
+
+5. **The Northern Corridor** — 1,700 km from Mombasa through Nairobi and Kampala to Rwanda and Burundi; it carries Uganda's and Rwanda's great cargoes and serves freight to Ethiopia and South Sudan; congestion in Mombasa and Nairobi makes it hard (Grade 6).
+
+6. **The Central Corridor and the roads to come** — 1,300 km from Dar es Salaam to Burundi, Rwanda and Uganda — wide and comfortable, few problems; Rwanda's and Burundi's tea and coffee, and western Tanzania's cotton, leave by it; planned lines: Addis Ababa–Nairobi, Addis Ababa–Juba, Lamu into Ethiopia and South Sudan (Grade 6).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -25,6 +31,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Say and use what the part "When trade strips nature" teaches, in their own words.
 2. Say and use what the part "Transport — the camel and the truck" teaches, in their own words.
 3. Say and use what the part "Transport — the blood vessel of the country" teaches, in their own words.
+4. Say and use what the part "Transport — land, rail and air" teaches, in their own words.
+5. Say and use what the part "The Northern Corridor" teaches, in their own words.
+6. Say and use what the part "The Central Corridor and the roads to come" teaches, in their own words.
 
 ## What you need
 Paper and a pencil. Nothing else — the lesson's own world (home, school, neighbourhood) supplies the rest.
@@ -34,6 +43,7 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 2. **The explanation** — the parts of the lesson in order (lesson/lesson.md).
    - ADD IMAGE [Picture 12032]: a picture of a loaded camel and a loaded truck on the same road — the student studies the picture and names what it shows in the lesson's own words.
    - ADD IMAGE [Picture 12211]: a picture of a donkey carrying sacks on a track beside a lorry on a road — the student compares their speed and load.
+   - ADD Picture [Picture 13319]: a picture of the Northern and Central corridors as bold lines from the sea to the landlocked capitals, with the planned lines dashed — the student studies it and names what it shows in the lesson's own words.
 3. **Say it to your companion** — the learner explains the lesson's one thing to a companion and answers one question back (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching, short-answer — served at the learner's level (levels.md).
@@ -46,6 +56,12 @@ Paper and a pencil. Nothing else — the lesson's own world (home, school, neigh
 
 - IMAGE [Picture 12211] — a donkey carrying sacks beside a lorry on a road → the student compares speed and load.
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+- IMAGE [Picture 13319] — the Northern and Central corridors as bold lines from the sea to the landlocked capitals, with the planned lines dashed → the student studies it and names what it shows.
+
+
+
+
 
 ## If the learner is stuck
 - The words are new → go back to the lesson's picture and say what it shows, in home words first, then in the lesson's words.

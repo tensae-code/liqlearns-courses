@@ -26,3 +26,11 @@ a) another kebele, a river, a road  b) only clouds  c) nothing
 a) To know where places are and what borders them  b) To sleep  c) To hide places
 **Answer: a) To know where places are and what borders them** — Maps tell us where places are.
 
+**7. (Sub lesson 4) What is judged against the eight steps in the book's worked example?**
+a) a photograph  b) Zerihun's sketch map of the Amhara Region  c) a globe
+**Answer: b) Zerihun's sketch map of the Amhara Region** — Zerihun's sketch map is the worked example critiqued against the steps.
+
+**8. (Sub lesson 4) Why fix north early when drawing a sketch map?**
+a) to make it colourful  b) so every place is drawn in its true direction  c) to fill the page
+**Answer: b) so every place is drawn in its true direction** — With north fixed at the top, directions on the sketch stay true.
+

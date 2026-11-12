@@ -1846,6 +1846,78 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 13346 | pictures/13346.gif | a symbol picked and the whole list's bullets changing at once | Computer Science and ICT — Making a Bulleted List |
 | 13347 | pictures/13347.webp | a header repeats on every page | Computer Science and ICT — Adding a Header and Footer |
 | 13348 | pictures/13348.webp | preset headers — ready-made designs | Computer Science and ICT — Preset Headers and Footers — and Removing Them |
+| 12500 | pictures/12500.webp | files on a desktop, each kind with its own icon | Computer Science and ICT — What a File Is |
+| 12515 | pictures/12515.webp | the Grade 9 road — six units | Computer Science and ICT — What a File Is |
+| 12516 | pictures/12516.webp | a folder holds files together | Computer Science and ICT — Folders — Containers for Files |
+| 12517 | pictures/12517.webp | paper first — then computer | Computer Science and ICT — Folders — Containers for Files |
+| 12518 | pictures/12518.gif | a folder opening, a subfolder opening inside it | Computer Science and ICT — Folders — Containers for Files |
+| 12519 | pictures/12519.webp | why folders matter — one spill vs in folders | Computer Science and ICT — Why We Organise Files into Folders |
+| 12520 | pictures/12520.gif | loose files sorting themselves into labelled folders | Computer Science and ICT — Why We Organise Files into Folders |
+| 12521 | pictures/12521.webp | File Explorer — nine parts | Computer Science and ICT — File Explorer — Naming Its Parts |
+| 12522 | pictures/12522.webp | opening File Explorer — three ways | Computer Science and ICT — Opening File Explorer |
+| 12523 | pictures/12523.gif | the taskbar icon being clicked and the window opening | Computer Science and ICT — Opening File Explorer |
+| 12524 | pictures/12524.webp | Ethiopian Cultural Foods — a document being made | Computer Science and ICT — Creating and Saving a Document File |
+| 12525 | pictures/12525.gif | typing into the blank document, then saving it | Computer Science and ICT — Creating and Saving a Document File |
+| 12526 | pictures/12526.webp | Notepad — a plain text file | Computer Science and ICT — Making a Plain Text File in Notepad |
+| 12527 | pictures/12527.gif | searching "Notepad" from Start and the editor opening | Computer Science and ICT — Making a Plain Text File in Notepad |
+| 12528 | pictures/12528.webp | making a picture in Paint | Computer Science and ICT — Making a Picture in Paint |
+| 12529 | pictures/12529.gif | a shape being drawn and filled with colour | Computer Science and ICT — Making a Picture in Paint |
+| 12530 | pictures/12530.webp | Audacity — record an audio file | Computer Science and ICT — Recording an Audio File in Audacity |
+| 12531 | pictures/12531.webp | starting a presentation file — Ethiopian Wildlife slide | Computer Science and ICT — Starting a Presentation File |
+| 12532 | pictures/12532.webp | creating a new folder — Home tab's New folder button | Computer Science and ICT — Creating a New Folder |
+| 12533 | pictures/12533.gif | the new folder appearing and its name being typed | Computer Science and ICT — Creating a New Folder |
+| 12534 | pictures/12534.webp | copying makes a second file | Computer Science and ICT — Copying a File |
+| 12535 | pictures/12535.gif | the right-click Copy → open folder → Paste sequence | Computer Science and ICT — Copying a File |
+| 12536 | pictures/12536.webp | renaming — the right-click menu, Rename highlighted | Computer Science and ICT — Renaming a File or Folder |
+| 12537 | pictures/12537.gif | the slow second click turning a filename into an editable box | Computer Science and ICT — Renaming a File or Folder |
+| 12538 | pictures/12538.webp | one typing renames the whole row | Computer Science and ICT — Renaming Many Files at Once |
+| 12539 | pictures/12539.gif | one typed name rippling down the whole selected row | Computer Science and ICT — Renaming Many Files at Once |
+| 12540 | pictures/12540.webp | the Address bar shows the path | Computer Science and ICT — Navigating with the Address Bar |
+| 12541 | pictures/12541.gif | clicking the arrow beside a folder and its subfolders dropping down | Computer Science and ICT — Navigating with the Address Bar |
+| 12542 | pictures/12542.webp | the Navigation pane — read the triangles | Computer Science and ICT — The Navigation Pane — Expanding the Folder Tree |
+| 12543 | pictures/12543.webp | pin to Quick access | Computer Science and ICT — The Navigation Pane — Expanding the Folder Tree |
+| 12544 | pictures/12544.gif | a right-pointing triangle flipping down as subfolders unfold | Computer Science and ICT — The Navigation Pane — Expanding the Folder Tree |
+| 12545 | pictures/12545.webp | moving a file — three methods | Computer Science and ICT — Moving a File |
+| 12546 | pictures/12546.gif | a file being dragged from one window and dropped into another | Computer Science and ICT — Moving a File |
+| 12547 | pictures/12547.webp | two fates when you delete — Recycle Bin vs Shift+Delete | Computer Science and ICT — Deleting a File — Recycle Bin and Permanent Delete |
+| 12548 | pictures/12548.gif | a file being restored from the Recycle Bin | Computer Science and ICT — Deleting a File — Recycle Bin and Permanent Delete |
+| 12549 | pictures/12549.webp | searching for a file — half-typed name, matches listed | Computer Science and ICT — Searching for a File |
+| 12550 | pictures/12550.gif | results narrowing as more of the name is typed | Computer Science and ICT — Searching for a File |
+| 12551 | pictures/12551.webp | a drive is not a driver | Computer Science and ICT — Drives — Where Files Live |
+| 12552 | pictures/12552.webp | kinds of drive — hard disk, optical, flash | Computer Science and ICT — Hard Disk, Optical Drive and Flash Drive |
+| 12553 | pictures/12553.webp | This PC — every drive in one window | Computer Science and ICT — This PC — Seeing Every Drive; Safe Removal |
+| 12554 | pictures/12554.gif | the Eject click and the safe-to-remove moment | Computer Science and ICT — This PC — Seeing Every Drive; Safe Removal |
+| 12555 | pictures/12555.webp | Details view — add a column, Date Created ticked | Computer Science and ICT — File Explorer — Changing the View, Columns and Preview |
+| 12556 | pictures/12556.gif | the same folder flipping through Tiles, List and Extra-large icons | Computer Science and ICT — File Explorer — Changing the View, Columns and Preview |
+| 12557 | pictures/12557.webp | plan it — then build it | Computer Science and ICT — Project: Design a Filing System |
+| 13700 | pictures/13700.webp | a cell showing a result with its formula in the formula bar | Computer Science and ICT — Excel Formulas — Operators and the Equals Sign |
+| 13701 | pictures/13701.gif | Show Formulas toggling results and formulas | Computer Science and ICT — Excel Formulas — Operators and the Equals Sign |
+| 13702 | pictures/13702.webp | a formula pointing by arrows at the cells it references | Computer Science and ICT — Cell References — Naming a Cell |
+| 13703 | pictures/13703.gif | a referenced value changing and the total updating by itself | Computer Science and ICT — Cell References — Naming a Cell |
+| 13704 | pictures/13704.webp | a mark sheet with F2's formula built by clicking each mark cell | Computer Science and ICT — Relative Cell References |
+| 13705 | pictures/13705.gif | clicking cell after cell, the formula growing in the formula bar | Computer Science and ICT — Relative Cell References |
+| 13706 | pictures/13706.webp | the fill handle square enlarged, the cells below filled | Computer Science and ICT — The Fill Handle — Copying a Formula |
+| 13707 | pictures/13707.gif | dragging the handle down, totals appearing row by row | Computer Science and ICT — The Fill Handle — Copying a Formula |
+| 13708 | pictures/13708.webp | a copied column — one reference changing, the $ reference fixed | Computer Science and ICT — Absolute Cell References |
+| 13709 | pictures/13709.webp | the finished shopping sheet — price, tax, net price, grand total | Computer Science and ICT — Project: A Shopping Bill in Excel |
+| 13710 | pictures/13710.webp | a speaker beside a screen of slides, one slide enlarged | Computer Science and ICT — Presentation Software — Slides That Show Your Ideas |
+| 13711 | pictures/13711.webp | the File menu with New, Open and Recent marked | Computer Science and ICT — Opening PowerPoint and Starting Blank |
+| 13712 | pictures/13712.webp | a title slide's two placeholders and the split New Slide button | Computer Science and ICT — Adding Slides |
+| 13713 | pictures/13713.gif | the bottom half of New Slide opening the layout gallery | Computer Science and ICT — Adding Slides |
+| 13714 | pictures/13714.webp | the layout gallery with six different arrangements | Computer Science and ICT — Slide Layouts |
+| 13715 | pictures/13715.gif | a slide's contents rearranging as a new layout is clicked | Computer Science and ICT — Slide Layouts |
+| 13716 | pictures/13716.webp | one deck before and after a theme, sizes marked | Computer Science and ICT — Themes and Readable Slide Design |
+| 13717 | pictures/13717.gif | a theme click restyling every slide at once | Computer Science and ICT — Themes and Readable Slide Design |
+| 13718 | pictures/13718.webp | the Format Background panel with its fill choices | Computer Science and ICT — Slide Backgrounds |
+| 13719 | pictures/13719.webp | a slide list restyled with large coloured arrow bullets | Computer Science and ICT — PowerPoint Bullets — Size, Colour, Shape |
+| 13720 | pictures/13720.webp | a content placeholder with its six icons labelled | Computer Science and ICT — Adding Content to a Slide |
+| 13721 | pictures/13721.webp | a slide with a small table beside a slide with a chart | Computer Science and ICT — Tables and Charts on Slides |
+| 13722 | pictures/13722.webp | one slide each for SmartArt, a photo, and a video frame | Computer Science and ICT — SmartArt, Pictures and Video on Slides |
+| 13723 | pictures/13723.webp | the same deck shown in the four views in a grid | Computer Science and ICT — The Four PowerPoint Views |
+| 13724 | pictures/13724.gif | switching from Normal to Slide Sorter | Computer Science and ICT — The Four PowerPoint Views |
+| 13725 | pictures/13725.webp | a slide mid-drag in Slide Sorter, insertion line showing | Computer Science and ICT — Running a Slide Show; Changing Slide Order |
+| 13726 | pictures/13726.gif | a slide dragged past two others to its new position | Computer Science and ICT — Running a Slide Show; Changing Slide Order |
+| 13727 | pictures/13727.webp | the finished tourism deck's slides in a row | Computer Science and ICT — Project: Build and Present a Slide Deck |
 | 11400 | pictures/11400.webp | desert types and rainfall bars | Social Studies — Global Issues — What a Desert Is |
 | 11401 | pictures/11401.webp | desertification panels, land losing its cover | Social Studies — Global Issues — Desertification |
 | 11402 | pictures/11402.gif | GIF: topsoil washing away in the rain | Social Studies — Global Issues — Desertification |
@@ -2065,3 +2137,96 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 12512 | pictures/12512.webp | an elder reciting poetry to a circle of seated listeners at dusk | Afan Oromo — Listening |
 | 12513 | pictures/12513.webp | the kinds of afwalaloo in a picture strip — weedduu, sirba, eebba, faaruu gootaa, hurursa | Afan Oromo — Listening |
 | 12514 | pictures/12514.webp | figures of speech in a picture strip — a boy beside a lion, a speaking hyena, an odaa tree | Afan Oromo — Word |
+| 13300 | pictures/13300.webp | a 16-point compass rose with main and sub-directions labelled | Science — Directions — Right, Left and the Four Directions |
+| 13301 | pictures/13301.webp | Ethiopia outlined with each neighbour named around it | Science — Relative Location — Where a Place Lies |
+| 13302 | pictures/13302.webp | a bar chart of Ethiopia's six border lengths | Science — Relative Location — Where a Place Lies |
+| 13303 | pictures/13303.webp | Ethiopia inside a latitude/longitude frame, four extremes marked | Science — Absolute Location — A Place's Exact Position |
+| 13304 | pictures/13304.webp | a globe with equator and parallels, 0°–90° scale marked | Science — Latitude Lines and the Equator |
+| 13305 | pictures/13305.webp | the eight steps of drawing a sketch map as a numbered strip | Science — Kebele and Woreda — Reading a Sketch Map |
+| 13306 | pictures/13306.webp | Ethiopia map, Addis Ababa centre, famous sites by direction | Science — Ethiopia's Famous Places by Direction |
+| 13307 | pictures/13307.webp | a gridded map square showing how a reference is read | Science — The National Grid and Grid References |
+| 13308 | pictures/13308.webp | a satellite beaming to a phone, a car unit and a survey unit | Science — GPS and Digital Maps |
+| 13309 | pictures/13309.webp | one map with callouts to scale bar, north arrow, key box, year | Science — Map Scale, Key and Symbols |
+| 13310 | pictures/13310.webp | region chart by three groups + the four added countries, capitals listed | Science — East Africa — Its Countries and Capitals |
+| 13311 | pictures/13311.webp | three movers panels — births, deaths, migration | Science — Population — How a Country's People Grow |
+| 13312 | pictures/13312.webp | same people on a small square vs a large square (density) | Science — East Africa's Population and Density |
+| 13313 | pictures/13313.webp | language-families chart in four columns with examples | Science — Ethiopia's Four Language Families |
+| 13314 | pictures/13314.webp | a bridge with an elder and a child on its two banks | Science — Heritage of East Africa |
+| 13315 | pictures/13315.webp | chimney crossed out beside visitors; three attraction groups | Science — Tourism — the Smokeless Industry |
+| 13316 | pictures/13316.webp | four-panel farm chart (food, cash, livestock, fishery) | Science — East Africa's Farming |
+| 13317 | pictures/13317.webp | two sorted panels: material culture / spiritual culture | Science — Culture — How Our People Live |
+| 13318 | pictures/13318.webp | nine UNESCO heritage boxes + four festival names | Science — Our Heritage — Lalibela, Gondar and the Simien Mountains |
+| 13319 | pictures/13319.webp | Northern and Central corridors as bold lines, planned lines dashed | Science — Work and Livelihood — Trade That Harms Nature; Ways of Travelling |
+| 13330 | pictures/13330.gif | a compass needle swinging and settling north | Science — Directions — Right, Left and the Four Directions |
+| 13331 | pictures/13331.gif | a dot tracing easting-then-northing to the target square | Science — The National Grid and Grid References |
+| 13332 | pictures/13332.gif | zooming from the whole Earth down to one lake | Science — GPS and Digital Maps |
+| 13400 | pictures/13400.webp | two sets of teeth | Science — Teeth: two sets, four jobs |
+| 13401 | pictures/13401.webp | the two-glass saliva experiment, before and after | Science — Experiment 2.1: saliva and the starch test |
+| 13402 | pictures/13402.webp | the male and female organs and where fertilisation happens | Science — The human reproductive system |
+| 13403 | pictures/13403.webp | the book's two-column table of changes | Science — Adolescence and its changes |
+| 13404 | pictures/13404.webp | menstruation | Science — Menstruation and menstrual hygiene |
+| 13405 | pictures/13405.webp | traditional measures | Science — Measuring: traditional and modern measures |
+| 13406 | pictures/13406.webp | the home-made tin-and-string balance | Science — Measuring: making and using a balance |
+| 13407 | pictures/13407.gif | the balance tipping as the heavier bottle side goes down | Science — Measuring: making and using a balance |
+| 13408 | pictures/13408.webp | a ruler, a kilogram weight and a clock side by side | Science — Measuring: units of mass, length and time |
+| 13409 | pictures/13409.webp | a graduated cylinder with a stone being lowered in | Science — Measuring: volume and displacement |
+| 13410 | pictures/13410.gif | a stone sinking and the water level rising to the new mark | Science — Measuring: volume and displacement |
+| 13411 | pictures/13411.webp | different thermometers and the Celsius fixed points | Science — Measuring: temperature, thermometers and the Celsius scale |
+| 13412 | pictures/13412.gif | a thermometer's column rising as water heats to boiling | Science — Measuring: temperature, thermometers and the Celsius scale |
+| 13413 | pictures/13413.webp | elements, compounds and mixtures sorted with the book's examples | Science — Elements, compounds and mixtures |
+| 13414 | pictures/13414.webp | the four oxide characters and the acid/base/salt chain | Science — Oxides, acids, bases and salts |
+| 13415 | pictures/13415.webp | the four separations in the book's figure order | Science — Mixtures and how to separate them |
+| 13416 | pictures/13416.gif | drops condensing and running down the distillation tube | Science — Mixtures and how to separate them |
+| 13417 | pictures/13417.webp | the four kinds of motion and Almaz's two routes | Science — Motion, distance and speed |
+| 13418 | pictures/13418.webp | contact and non-contact forces, friction and gravity | Science — Force, friction and gravity |
+| 13419 | pictures/13419.gif | a nail sliding across the gap to the magnet | Science — Force, friction and gravity |
+| 13420 | pictures/13420.webp | the six simple machines in one gallery | Science — Simple machines |
+| 13421 | pictures/13421.gif | a crowbar levering a heavy stone out of the ground | Science — Simple machines |
+| 13422 | pictures/13422.gif | the two gears turning together at different speeds | Science — Simple machines |
+| 13423 | pictures/13423.webp | a drum skin mid-vibration with air waves leaving it | Science — Sound and vibration |
+| 13424 | pictures/13424.webp | one pot shown three ways | Science — Heat and how it travels |
+| 13425 | pictures/13425.gif | the circulation loop turning in the pot | Science — Heat and how it travels |
+| 13426 | pictures/13426.webp | electricity and magnets | Science — Electricity and magnets |
+| 13427 | pictures/13427.gif | two magnets sliding apart as like poles approach | Science — Electricity and magnets |
+| 13428 | pictures/13428.webp | reflection, refraction and dispersion in three panels | Science — Reflection, refraction and splitting light |
+| 13429 | pictures/13429.gif | water pouring into the cup until the hidden coin appears | Science — Reflection, refraction and splitting light |
+| 13430 | pictures/13430.webp | the three drainage systems and the three kinds of lake | Science — Ethiopia's rivers and lakes |
+| 13431 | pictures/13431.webp | the three great lakes to scale, with the depth ladder | Science — The great lakes and the Nile |
+| 13432 | pictures/13432.gif | the two branches flowing together | Science — The great lakes and the Nile |
+| 13433 | pictures/13433.webp | the three water problems | Science — Water problems: sharing, pollution and the lake weed |
+| 13435 | pictures/13435.gif | the weed mat spreading across open water | Science — Water problems: sharing, pollution and the lake weed |
+| 13436 | pictures/13436.webp | a dam, a wind turbine, a solar panel and a biogas digester in one panel | Science — Energy sources around us |
+| 13437 | pictures/13437.gif | water rushing through a dam and a bulb lighting | Science — Energy sources around us |
+| 13438 | pictures/13438.webp | four pollution scenes, one per kind, with a 'what would you do?' strip | Science — Pollution and its four kinds |
+| 13439 | pictures/13439.webp | protecting yourself | Science — Protecting yourself: sexual violence and saying no |
+| 13440 | pictures/13440.webp | the stomach, small intestine, appendix and large intestine labelled | Science — The digestive system |
+| 13441 | pictures/13441.webp | arteries out, veins back, the capillary web; the four blood groups | Science — The heart |
+| 13442 | pictures/13442.gif | a dot of blood travelling both loops in turn | Science — The heart |
+| 13443 | pictures/13443.webp | the air road from nose to alveoli, with the alveoli magnified | Science — The lungs and breathing |
+| 13444 | pictures/13444.gif | the diaphragm sheet pulled down and the balloons swelling | Science — The lungs and breathing |
+| 13445 | pictures/13445.webp | three particle diagrams under ice, water and steam, plus the sublimation jump | Science — Solids, liquids and gases |
+| 13446 | pictures/13446.webp | two glasses | Science — Properties that identify a thing |
+| 13447 | pictures/13447.webp | the state-change cross and the two-column comparison of changes | Science — Chemical change: burning and gas-making |
+| 13448 | pictures/13448.webp | oil floating on water, and the pen pressed into two palms | Science — Density: why things sink or float |
+| 13449 | pictures/13449.gif | the middle card sliding and the flame vanishing | Science — Light travels in straight lines |
+| 13450 | pictures/13450.webp | the five weather instruments in one station panel | Science — Weather and climate |
+| 13451 | pictures/13451.gif | the evaporation-cloud-rain cycle turning | Science — Weather and climate |
+| 13452 | pictures/13452.webp | Kombolcha's rainfall year as a finished bar graph beside its table | Science — Reading climate tables and averaging |
+| 13453 | pictures/13453.webp | one hillside carrying altitude, latitude, sea distance, currents and forest | Science — What controls a place's climate |
+| 13454 | pictures/13454.webp | the region's wettest and driest zones on the eight-type map, simplified | Science — Seasons and climate zones of our country |
+| 13455 | pictures/13455.webp | algae, fungi, mosses and ferns | Science — Kinds of plants and their parts |
+| 13456 | pictures/13456.webp | a pine cone, a flowering mango, and a cut-open flower | Science — Kinds of plants and their parts |
+| 13457 | pictures/13457.gif | a bee carrying pollen from one flower to the next | Science — Kinds of plants and their parts |
+| 13458 | pictures/13458.gif | dough rising | Science — Kinds of plants and their parts |
+| 13459 | pictures/13459.webp | a worm, snail and butterfly against a fish and bird; a labelled insect | Science — Grouping animals: by young, by movement, by food and by body |
+| 13460 | pictures/13460.gif | the metamorphosis stage sequences growing through their stages | Science — Grouping animals: by young, by movement, by food and by body |
+| 13461 | pictures/13461.webp | the altitude staircase dressed with its four vegetation kinds; the three-step cover chart | Science — Forests and what they give |
+| 13462 | pictures/13462.webp | the named wild animals and the seven endemics with their homes | Science — Tame animals and wild animals |
+| 13463 | pictures/13463.webp | three soil handfuls and the six holding methods on one hillside | Science — Soil fertility, erosion, and why soil matters |
+| 13464 | pictures/13464.gif | rain washing topsoil off a bare slope | Science — Soil fertility, erosion, and why soil matters |
+| 13465 | pictures/13465.webp | a spadeful of soil exploded into its five labelled parts | Science — What soil is and what is in it |
+| 13466 | pictures/13466.webp | cracked earth with the four causes; ETRSS-1 in orbit over Ethiopia | Science — Drought: what it is and how we hold it back |
+| 13467 | pictures/13467.webp | a minerals map of Ethiopia and the region with the named places pinned | Science — Minerals from the ground |
+| 13468 | pictures/13468.webp | two generations handing one green valley on intact | Science — Caring so they last: looking after natural resources |
+| 13469 | pictures/13469.webp | Table 6.2 redrawn as a two-column sort with the book's eleven items | Science — HIV and AIDS: how it spreads and how it does not |
+| 13470 | pictures/13470.webp | a balance scale | Science — Chat, tobacco and alcohol: stimulants and their harm |

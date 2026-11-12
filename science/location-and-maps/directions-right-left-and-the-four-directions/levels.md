@@ -13,3 +13,10 @@ Sub lesson 3 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 4 — The eight directions
 Sub lesson 4 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: Between north and east lies — (answer: north-east).
+
+## Sub lesson 5 — Sixteen directions — the full compass
+Sub lesson 5 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: the compass gives sixteen directions — four main points and twelve sub-directions
+
+## Sub lesson 6 — The needle settles north
+Sub lesson 6 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: a compass needle swings and then settles pointing north
+

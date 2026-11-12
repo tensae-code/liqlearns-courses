@@ -16,3 +16,13 @@ Sub lesson 4 questions from the type files. Pass mark: answer that part's questi
 
 ## Sub lesson 5 — Our heritages in the teacher guides (teacher guide — evidence)
 Sub lesson 5 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: የማይታዩ ቅርሶች are — (answer: intangible heritages).
+
+## Sub lesson 6 — Heritage — touchable and untouchable; Ethiopia's UNESCO heritage
+Sub lesson 6 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: tangible heritage can be touched; intangible heritage is performed; UNESCO lists both kinds for Ethiopia
+
+## Sub lesson 7 — Protecting and promoting heritage
+Sub lesson 7 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: protect heritage unchanged, teach citizens, build institutions, show it to the world with technology
+
+## Sub lesson 8 — The institutions that keep culture
+Sub lesson 8 questions from the type files. Pass mark: answer that part's questions correctly in the learner's own words — the key fact: churches and mosques are the traditional keepers; offices, libraries, archives, art houses and museums the modern ones
+

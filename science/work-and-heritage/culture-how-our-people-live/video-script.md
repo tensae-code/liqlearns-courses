@@ -13,3 +13,7 @@ People build culture through history — it is not found in nature.
 Amhara, Agew, Qimant, Oromo, Argobba — many peoples, one region, a shared tuba culture.
 
 Culture: a way of life, handed down — and still growing, still changing.
+
+Two kinds of culture. One you can touch. One you carry inside.
+
+Tolerance. Respect. Love of country. Values all Ethiopia shares.

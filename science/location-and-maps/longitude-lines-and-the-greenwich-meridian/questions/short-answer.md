@@ -8,3 +8,6 @@ Answer in a sentence or two, in your own words.
 **2. (Sub lesson 1) Say one difference between latitude and longitude lines.**
 **Answer:** Latitude lines run east–west and never meet; longitude lines run pole to pole and meet at the poles.
 
+**3. (Sub lesson 3) How are meridians different from parallels?**
+**Answer:** Parallels run east–west and never meet; meridians run pole to pole and all meet at the two poles.
+

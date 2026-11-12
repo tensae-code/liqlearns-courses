@@ -49,3 +49,36 @@ a) honey  b) milk  c) wool only
 **12. (Sub lesson 6) Which animal is kept in a hive?**
 a) the goat  b) the bee  c) the donkey
 **Answer: b) the bee** — Bees are kept for honey.
+
+**13. (Sub lesson 7) Agriculture means —**
+a) only crop growing  b) crop growing and animal keeping together  c) only trade
+**Answer: b) crop growing and animal keeping together** — The book joins the two: crops and animals are one agriculture.
+
+**14. (Sub lesson 7) What share of Ethiopians make their living from agriculture?**
+a) about half  b) over 82%  c) under 10%
+**Answer: b) over 82%** — Over 82% — it is the country's greatest economic base.
+
+**15. (Sub lesson 8) Which set is a highland crop set?**
+a) sesame and castor  b) teff, barley, wheat, maize  c) only coffee
+**Answer: b) teff, barley, wheat, maize** — Those four cereals are the highland growers' set.
+
+**16. (Sub lesson 8) Most Ethiopian crops depend on which rains?**
+a) the belg only  b) the kiremt  c) imported water
+**Answer: b) the kiremt** — Crops are grown mainly once a year, depending on the kiremt rains.
+
+**17. (Sub lesson 9) Shifting cultivation means —**
+a) moving fields as the soil tires  b) shifting crops to market  c) changing seed every week
+**Answer: a) moving fields as the soil tires** — The farmer moves to a new field when the old soil tires — a traditional feature.
+
+**18. (Sub lesson 9) Which is an export earner of modern farming?**
+a) coffee  b) only home teff  c) firewood
+**Answer: a) coffee** — Coffee heads the export list with oil seeds, flowers, tea leaf and spices.
+
+**19. (Sub lesson 10) Ethiopia's rank in Africa for cattle is —**
+a) 10th  b) 1st  c) 5th
+**Answer: b) 1st** — First in Africa — and 10th in the whole world.
+
+**20. (Sub lesson 10) Modern animal husbandry improves results by —**
+a) moving more often  b) better feed, health care and improved breeds  c) keeping more animals on less land
+**Answer: b) better feed, health care and improved breeds** — Feed, health care and breeds are the modern method's three tools.
+
