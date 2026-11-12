@@ -5012,3 +5012,63 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 30532 | GIF: a primary key dragged onto a foreign key, the link line appears | computer-science-and-ict/databases/one-to-one-one-to-many-many-to-many |
 | 30533 | GIF: rows dimming as filters apply | computer-science-and-ict/databases/filtering-by-date-and-or-and-between |
 | 30534 | GIF: rows re-sorting from ascending to descending | computer-science-and-ict/databases/order-by-ascending-and-descending-results |
+| 31300 | A driver program between a computer and its printer | computer-science-and-ict/hardware/installation-updates-and-device-drivers |
+| 31301 | The seven install steps as a numbered strip | computer-science-and-ict/hardware/installing-software-on-a-pc |
+| 31302 | Five store signs + a warning over an unknown download | computer-science-and-ict/hardware/installing-apps-on-mobile-devices |
+| 31303 | The Control Panel route to uninstall, as a numbered strip | computer-science-and-ict/hardware/uninstalling-software-on-a-pc |
+| 31304 | A long-pressed app icon with its Uninstall option open | computer-science-and-ict/hardware/uninstalling-and-disabling-apps-on-a-phone |
+| 31305 | Symptom → fault → cause chain under a magnifying glass | computer-science-and-ict/hardware/troubleshooting-find-the-fault-find-its-cause |
+| 31306 | Task Manager with a frozen app selected and End Task highlighted | computer-science-and-ict/hardware/fixing-a-slow-or-frozen-application |
+| 31307 | Malware in the background + a nearly full disk — two suspects | computer-science-and-ict/hardware/fixing-a-slow-computer-malware-and-full-disk |
+| 31308 | Checklist chain — volume, player, speakers, driver | computer-science-and-ict/hardware/fixing-sound-that-is-not-working |
+| 31309 | A bin emptying temporary files out of a disk | computer-science-and-ict/hardware/disk-cleanup-deleting-files-a-disk-no-longer-needs |
+| 31310 | An update travelling from a server, a shield arriving with it | computer-science-and-ict/hardware/windows-update-downloading-fixes-and-features |
+| 31311 | A drive being scanned with a tick + a stuck program ended | computer-science-and-ict/hardware/check-disk-and-closing-stuck-programs |
+| 31312 | A timeline of restore points with a rollback arrow | computer-science-and-ict/hardware/system-restore-rolling-back-to-when-it-worked |
+| 31313 | Computers linked by cable and waves, one broken link circled | computer-science-and-ict/hardware/network-troubleshooting-detect-then-fix |
+| 31314 | Six small scenes — cable to overload | computer-science-and-ict/hardware/six-basic-network-problems |
+| 31315 | A fault-finder checklist over a local network map, outside greyed | computer-science-and-ict/hardware/step-1-identify-the-network-problem |
+| 31316 | A six-step loop from scenario to a written record | computer-science-and-ict/hardware/steps-2-to-6-test-a-scenario-fix-verify-document |
+| 31317 | A command window address block + a ping packet bouncing back | computer-science-and-ict/hardware/command-line-tools-ipconfig-and-ping |
+| 31318 | A route drawn hop by hop, the loss hop marked | computer-science-and-ict/hardware/command-line-tools-tracert-nslookup-and-netstat |
+| 31319 | Five hardware tools in a labelled row | computer-science-and-ict/hardware/hardware-tools-for-network-maintenance |
+| 31320 | Scattered pieces becoming one continuous block (Grade 12 view) | computer-science-and-ict/hardware/defragmenting-putting-a-files-pieces-back-together |
+| 31330 | GIF: the AutoPlay dialog appearing and Install being chosen | computer-science-and-ict/hardware/installing-software-on-a-pc |
+| 31331 | GIF: a program selected and Uninstall/Change clicked | computer-science-and-ict/hardware/uninstalling-software-on-a-pc |
+| 31332 | GIF: a long press opening the options and Uninstall being tapped | computer-science-and-ict/hardware/uninstalling-and-disabling-apps-on-a-phone |
+| 31333 | GIF: Ctrl+Alt+Delete → Task Manager → End Task | computer-science-and-ict/hardware/fixing-a-slow-or-frozen-application |
+| 31334 | GIF: scattered blocks sliding together into one file | computer-science-and-ict/hardware/defragmenting-putting-a-files-pieces-back-together |
+| 31335 | GIF: a ping packet travelling out and its reply returning | computer-science-and-ict/hardware/command-line-tools-ipconfig-and-ping |
+| 31336 | GIF: Ctrl+Alt+Delete → Task Manager → Restart Explorer (teacher evidence) | computer-science-and-ict/hardware/watching-performance-task-manager |
+| 26000 | pictures/26000.webp | a managed pasture, half lush and half weedy, showing what management changes | Agriculture — Feed resources — natural pasture |
+| 26001 | pictures/26001.webp | straw bales stacked after harvest beside a green forage plot | Agriculture — Crop residues and forage crops |
+| 26002 | pictures/26002.webp | four sacks — bran, oil cake, a molasses drum, brewery grains — each labelled with what it gives | Agriculture — Agro-industrial by-products as feed |
+| 26003 | pictures/26003.webp | a manger piled high with hay and straw, volume emphasised | Agriculture — Roughages — bulky, fibrous feeds |
+| 26004 | pictures/26004.webp | a small scoop of concentrate beside the big pile of roughage it supplements | Agriculture — Concentrates — energy and protein in small amounts |
+| 26005 | pictures/26005.webp | a feed trough divided into labelled nutrient sections | Agriculture — The nutrients animals need |
+| 26006 | pictures/26006.webp | the Pearson Square diagram with maize and soybean meal entered | Agriculture — Balancing a ration — the Pearson Square |
+| 26007 | pictures/26007.webp | cut grass drying in the field, then bales and a tripod stack | Agriculture — Making hay |
+| 26008 | pictures/26008.webp | chopped green forage being packed into a pit silo and sealed | Agriculture — Making and feeding silage |
+| 26009 | pictures/26009.webp | ingredient piles entering a mixer and one uniform feed coming out | Agriculture — Compound feed — factory-mixed rations |
+| 26010 | pictures/26010.webp | a calf standing between its parents, inheriting a marked trait from each | Agriculture — Genes, heredity and why breeding matters |
+| 26011 | pictures/26011.webp | an exotic bull arriving at an Ethiopian farm, with a question mark over the climate | Agriculture — Breed introduction — gains and risks |
+| 26012 | pictures/26012.webp | a row of cows, the best marked to keep, judged once by themselves and once by their calves | Agriculture — Selection — mass and progeny |
+| 26013 | pictures/26013.webp | the comparison table drawn as two mating diagrams | Agriculture — In-breeding and cross-breeding compared |
+| 26014 | pictures/26014.webp | an AI technician at work with a semen flask from an AI centre | Agriculture — Artificial insemination — how and why |
+| 26015 | pictures/26015.webp | the ET sequence — donor cow, flushing, microscope check, recipient cow | Agriculture — Embryo transfer — many calves from one best cow |
+| 26016 | pictures/26016.webp | an ear-tagged cow beside an open herd record book | Agriculture — Marking animals and keeping herd records |
+| 26017 | pictures/26017.webp | a cow resting comfortably in a clean, airy barn | Agriculture — Why we house animals — comfort and welfare |
+| 26018 | pictures/26018.webp | the four housing types in four panels | Agriculture — Four kinds of animal housing |
+| 26019 | pictures/26019.webp | a farm plan with a well-drained, spaced, expandable housing site marked | Agriculture — Choosing where to build — site selection |
+| 26020 | pictures/26020.webp | a cutaway barn showing drained concrete floor, 3 m height and east–west orientation against the sun path | Agriculture — Building an animal house that works |
+| 26021 | pictures/26021.webp | a healthy cow and a sick cow side by side, the signs labelled | Agriculture — Spotting a sick animal; how disease spreads |
+| 26022 | pictures/26022.webp | a disease map of Ethiopia with the major diseases pinned to the animals they attack | Agriculture — The big diseases — FMD, anthrax and the rest |
+| 26023 | pictures/26023.webp | the four internal parasites drawn at the organs they inhabit | Agriculture — Internal parasites — worms and flukes |
+| 26024 | pictures/26024.webp | a tick engorged on a cow's hide, with lice and mites magnified beside it | Agriculture — External parasites — ticks, lice and mites |
+| 26025 | pictures/26025.webp | a farmer's ledger — milk, animals and money shrinking as disease strikes | Agriculture — The cost of a sick herd |
+| 26026 | pictures/26026.webp | a farm gate with a footbath and protective clothing, sick animals penned apart | Agriculture — Keeping disease out — hygiene and biosecurity |
+| 26027 | pictures/26027.webp | a farmer preparing a plant remedy, plant and mortar shown | Agriculture — Ethnoveterinary knowledge — learning from local farmers |
+| 26028 | pictures/26028.gif | the Pearson Square being filled in step by step | Agriculture — Balancing a ration — the Pearson Square |
+| 26029 | pictures/26029.gif | grass being turned as it dries | Agriculture — Making hay |
+| 26030 | pictures/26030.gif | chopping, packing down and sealing the silo in sequence | Agriculture — Making and feeding silage |
+| 26031 | pictures/26031.gif | sunlight sweeping, correctly oriented barn staying shaded | Agriculture — Building an animal house that works |
