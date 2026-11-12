@@ -1,0 +1,18 @@
+# Sources — Thermodynamic systems and the heat engine
+
+countries: Italy
+
+**Book 1:** *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2020, ISBN 9788808938060. Title as printed: Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica. Grades 9–10 span of the liceo course (filed Grade 9) · Student book · New edition, Geneva preface February 2020 · Repo: release `mid-size-books-6`, asset `grade-09-gov-italy-physics-student-full-year.pdf` — 87,948,360 bytes (matched asset) · PDF pages: 553 · Offset: front matter is roman-numbered (index at printed pp. IV–X); placements cite printed (theory) pages as cited from the book's index. Verdict: COMPLETE (index closes with Ch. 11, “Verso l'esame” at printed p. 510 and the analytic index at p. 514). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — The system and its internal energy | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, Ch.10 Internal energy (p. 410), the first law stated and applied (p. 423) — printed p. 410 |
+| Sub lesson 2 — Transformations | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, Ch.10 Thermodynamic transformations and work (pp. 414–418), adiabatic transformations (p. 431); the specific heats of a perfect gas (p. 427) — printed p. 410 |
+| Sub lesson 3 — Heat engines, Carnot, the second law and entropy | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, Ch.11 Heat engines (p. 456), the second law (p. 459), Carnot's cycle (p. 464), entropy (p. 474) and its microscopic interpretation (p. 482) — printed p. 410 |
+| Do it first; key ideas; Do It Yourself | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, as cited in the rows above |
+
+**Acceptance count: taught in 1 country (Italy).**
+
+Placement choice, on the record: this NEW LESSON was built for the Italy placement “Thermodynamic systems and the heat engine” — italy-placements.md, Book 1, Ch.10 (printed p. 410) and Ch.11 — the standing thermodynamics gap in its fullest form in the whole expansion group. The existing lesson **Thermodynamics — the laws and heat engines** (`physics/thermodynamics-laws-and-heat-engines`, stocked from Ecuador) states the laws as a whole; this lesson is the fuller systems/internal-energy/transformations/Carnot treatment and cross-references it rather than duplicating it. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
+
+Searchable tags: thermodynamics, thermodynamic system, internal energy, first law, transformations, adiabatic, isothermal, heat engine, carnot, second law, entropy, italy, amaldi

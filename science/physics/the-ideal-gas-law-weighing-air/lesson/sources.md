@@ -1,6 +1,6 @@
 # Sources — The ideal gas law — weighing air
 
-countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only)
+countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only), Italy
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -8,12 +8,15 @@ countries: Ethiopia, Palestine, Papua New Guinea (teacher-guide evidence only)
 
 
 **Book 3:** *Physics Teacher Guide Grade 12 (Secondary, Standards Based)* (teacher guide) — Papua New Guinea, Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE". Title as printed: Physics, Senior High, Grade 12 Teacher Guide — Standards-Based (Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE"). Grade: 12 · Teacher guide · Repo path: grade-12/gov/papua-new-guinea/physics/teacher/grade-12-physics-teachers-guide.pdf · Release: mid-size-books-8. Byte size: 7,123,027 (exact match: books.json = source-URL download) · PDF pages: 148 (exact match) · Offset: printed p. N ≈ PDF p. N (guide paginated ii, then 1–148; teaching content printed pp. 49–148). Verdict: COMPLETE — full text read (40,333 words); title/copyright pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/papua-new-guinea-placements.md.
+
+**Book 4:** *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2020, ISBN 9788808938060. Title as printed: Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica. Grades 9–10 span of the liceo course (filed Grade 9) · Student book · New edition, Geneva preface February 2020 · Repo: release `mid-size-books-6`, asset `grade-09-gov-italy-physics-student-full-year.pdf` — 87,948,360 bytes (matched asset) · PDF pages: 553 · Offset: front matter is roman-numbered (index at printed pp. IV–X); placements cite printed (theory) pages as cited from the book's index. Verdict: COMPLETE (index closes with Ch. 11, “Verso l'esame” at printed p. 510 and the analytic index at p. 514). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The ideal-gas equation in a fluids unit | Grade 12 Student Textbook, printed pp. 80–82 |
 | Moles and Avogadro's number, ideal gases | Palestine, *Physics for Grade 10*, Unit 3, Ch. 2: Thermodynamics, printed p. 110 |
 | Temperature in quantity of gases (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Thermal Physics, Topic Temperature in Quantity of Gases, printed p. 66 approx. |
+| Temperature and gases (Italy) | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, Ch.9: the perfect gas; the microscopic model of matter (printed p. 364); pressure and temperature from the microscopic point of view (printed pp. 367–370); real gases (p. 377) — printed p. 360 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Palestine).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Italy).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, the ideal gas law — weighing air, temperature, palestine

@@ -1,0 +1,4 @@
+# How this Physics course works — the Italian (Amaldi) way — depth
+
+Whole-lesson pass mark: the learner can do all of these — Name the three Amaldi volumes in order and the territory each carries; List a chapter's parts in order — theory, stop-and-think prompts, model problems, exercises, formula map, test, self-test — and say what each part is for; Say where the course's mathematics comes from and when it is taught; Name the examination the course is mapped onto, and the Agenda-2030 strand the 2020 Vol. 1 adds — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

@@ -1,17 +1,20 @@
 # Sources — The diode — a one-way gate for current
 
-countries: Ethiopia, Bahamas (curriculum evidence only)
+countries: Ethiopia, Bahamas (curriculum evidence only), Italy
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
 **Book 2:** *Curriculum Guidelines — Physics, Grades 10, 11, 12* (curriculum — teacher/curriculum evidence, NOT a student book, cited as it is) — Bahamas, Ministry of Education, Department of Education, 2010. Title as printed: Curriculum Guidelines — Physics, Grades 10, 11, 12 (Ministry of Education, Department of Education, 2010). Grade: 10–12 · Kind: curriculum (teacher/curriculum evidence — NOT a student book) · Edition/year: 2010 (PDF generated 27 Jan 2012) · Repo path: grade-10/gov/bahamas/curriculum/bahamas-bgcse-physics-curriculum-grades-10-12.pdf. Byte size: 3,560,520 (exact match to record) · PDF pages: 316 · Offset: printed p. ii = PDF p. 2; printed scope table pp. xiii–xiv ≈ PDF pp. 13–14; Scope of Work printed p. 53 onward. Verdict: COMPLETE — read in full (text layer, 84,778 words); identity confirmed on title page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bahamas-placements.md.
 
+
+**Book 3:** *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti. Grade 12 span (filed Grade 12) · Student book · First edition February 2012 (colophon), with “Physics in English” · Repo: release `mid-size-books-6`, asset `grade-12-gov-italy-physics-student-full-year.pdf` — 27,398,676 bytes (matched asset) · PDF pages: 427 · Offset: placements cite chapter and PDF page (as for Vol. 2, from chapter openers and section headings). Verdict: COMPLETE (closes with Ch. 36 on the frontiers of physics — Planck-scale constants and the scientific worldview — and the orientation pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The p-n junction diode | Grade 12 Student Textbook, printed pp. 147–148 |
 | Electronics: thermionic emission, CRO, diode, half-wave rectification (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv |
+| The diode and the transistor (Italy) | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.34/35 §Il diodo e il transistore (solid-state strand inside the quanta unit) — PDF p. 300 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Italy).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

@@ -25,3 +25,11 @@ a) The speed of light  b) Whether cause comes before effect  c) Which distant ev
 **6.** (Sub lesson 3) The energy stored in 1 kg of mass is about…
 a) 9 × 10¹⁶ J  b) 9 J  c) 3 × 10⁸ J  d) 1 J
 **Answer: a) 9 × 10¹⁶ J**
+
+**7.** (Sub lesson 4) The Lorentz factor γ = 1/√(1 − v²/c²) at v = 0.8c is…
+a) 0.6  b) 1.25  c) 1.67  d) 0.8
+**Answer: c) 1.67**
+
+**8.** (Sub lesson 4) A massive body can never reach c because…
+a) Its fuel always runs out  b) Its relativistic momentum and energy grow without limit as v approaches c  c) Light pushes it back  d) γ becomes zero
+**Answer: b) Its relativistic momentum and energy grow without limit as v approaches c**

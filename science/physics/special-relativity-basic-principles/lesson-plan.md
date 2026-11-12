@@ -11,6 +11,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 1. **The two postulates** — the relativity principle (physics identical in every inertial frame, Galileo's reference-point insight completed) and the invariance of c: light from a moving source travels at the same c as light from a resting one, so everyday speed-addition fails for light
 2. **Time dilation, length contraction and relative simultaneity** — the light-clock shows moving clocks ticking slower; moving rods measure shorter along their motion; distant "at the same time" depends on the observer — while cause-and-effect order and spacetime separations are agreed by all; general relativity in outline: mass–energy curves spacetime
 3. **E = mc² — mass is energy** — mass–energy equivalence: because c² is huge, a small mass holds enormous energy; the account behind the Sun, fission and fusion, and why "mass is conserved" survives as an everyday approximation
+4. **The Lorentz transformations and relativistic dynamics** — the equations that translate time and position between frames (t′ = γ(t − vx/c²), x′ = γ(x − vt), with γ = 1/√(1 − v²/c²)), from which dilation and contraction fall out as arithmetic; and dynamics rebuilt on them: relativistic momentum p = γmv grows without limit as v → c, so no massive body reaches c, and total energy E = γmc² joins rest energy and motion in one account (Italy's Amaldi Vol. 3, Ch.29–31)
 
 ## Before this lesson
 - Recommended first: **Motion needs a reference point** and **How waves travel — transverse and longitudinal**. Recommended, never forced.
@@ -20,7 +21,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. Say, in their own words: A moving clock ticks slower (time dilation) and a moving object measures shorter along its motion (length contraction), because both measurements must respect the same c.
 3. Say, in their own words: Simultaneity is relative — observers in relative motion disagree about which distant events happen "now", but agree on cause and effect.
 4. Say, in their own words: E = mc² means mass is stored energy; a small mass loss releases a large energy, as in stars and nuclear reactions.
-5. Answer the lesson's questions from the lesson text alone.
+5. Say, in their own words: The Lorentz transformations translate an event's time and place between frames using γ, and relativistic momentum p = γmv is why a massive body can approach c but never reach it.
+6. Answer the lesson's questions from the lesson text alone.
 
 ## What you need
 No apparatus: two torches and a corridor for the opening thought experiment, plus the lesson's worked numbers — relativity at this depth is reasoned, not benched.

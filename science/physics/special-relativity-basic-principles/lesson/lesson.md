@@ -32,6 +32,16 @@ The postulates also rewrite energy. Einstein showed that mass itself is a stored
 
 Because c² is enormous (≈ 9 × 10¹⁶ m²/s²), a tiny mass holds a huge energy: 1 kg of anything corresponds to about 9 × 10¹⁶ J — more than a large power station produces in a year. This **mass–energy equivalence** runs both ways: energy released in a reaction comes from a small loss of mass, and energy added to a system adds (immeasurably little) mass. It is the account behind the Sun's shining and behind nuclear fission and fusion, where the products weigh slightly less than the starting nuclei and the missing mass leaves as energy. In ordinary chemistry the mass change is far too small to measure, which is why the older rule "mass is conserved" worked so well for so long: it is an excellent approximation, and E = mc² is the exact law it approximates.
 
+## Sub lesson 4 — The Lorentz transformations and relativistic dynamics
+
+The first three sub lessons followed the postulates with pictures. This one writes the translation between frames as equations — the **Lorentz transformations**. If one frame moves at speed v along the x-direction past another, an event timed t at place x in the first frame is timed and placed in the second by:
+
+**t′ = γ(t − vx/c²)** and **x′ = γ(x − vt)**, where **γ = 1/√(1 − v²/c²)**.
+
+The factor γ is 1 at rest and grows as v approaches c. Nothing new has been assumed: time dilation, length contraction and relative simultaneity are all inside these two lines — set a moving clock's positions equal and dilation falls out; measure a rod's two ends at one t′ and contraction falls out. What the transformations add is *precision*: any event, any speed, translated exactly, with c itself unchanged by the translation.
+
+Dynamics must be rebuilt on the same factor. Newton's momentum p = mv fails at high speed; experiment and the transformations together give **relativistic momentum p = γmv**. As v → c, γ — and so the momentum and the energy needed to go faster — grows without limit: that is why no massive body ever reaches c, however long it is pushed. Energy joins the same account: a body's total energy is **E = γmc²**, which at rest (γ = 1) is exactly the E = mc² of Sub lesson 3, and whose growth above mc² is the kinetic energy. Mass, momentum and energy are one ledger, kept in every frame by the Lorentz transformations.
+
 ## The key ideas
 
 - Special relativity rests on two **postulates**: physics is the same in every inertial frame, and the speed of light in vacuum, **c**, is the same for all observers.
@@ -39,6 +49,7 @@ Because c² is enormous (≈ 9 × 10¹⁶ m²/s²), a tiny mass holds a huge ene
 - **Length contraction**: a moving object measures shorter along its direction of motion; **simultaneity is relative** — observers in relative motion disagree about which distant events are "now", while agreeing on cause-and-effect order and on spacetime separations.
 - **E = mc²**: mass and energy are equivalent; a small mass loss releases a large energy, the account behind stars and nuclear power.
 - **General relativity** extends the theory to gravity: mass–energy curves spacetime.
+- The **Lorentz transformations** (with γ = 1/√(1 − v²/c²)) translate time and place between frames exactly; **relativistic momentum p = γmv** and total energy **E = γmc²** grow without limit as v → c, so no massive body reaches light speed.
 
 ## Say it to your companion
 Explain to your companion why a torch on a moving train does not send faster light, and follow the chain aloud: same c for everyone → the light-clock's diagonal path → time dilation. Then state E = mc² in words: what c² does to a small mass, and one place nature cashes it in. If your companion can say why "at the same time" needs an observer attached, the lesson has landed.
@@ -46,4 +57,5 @@ Explain to your companion why a torch on a moving train does not send faster lig
 ## Do It Yourself
 1. A spacecraft's clock, watched from Earth, ticks once every 2 seconds while the same clock at rest ticks once every second. In one Earth hour, how many ticks does the spacecraft clock make, and how many would the resting clock make? Say what this shows about time.
 2. Two flags stand far apart. A stationary observer sees lightning hit both at the same instant. A second observer races toward one flag. Explain, using the fixed speed of light, why the racing observer judges the strikes to happen at different times.
-3. Calculate the energy equivalent of 0.001 kg (one gram) using E = mc² with c = 3.0 × 10⁸ m/s, and compare it with a 100 W bulb burning for a day (8.64 × 10⁶ J). What does the comparison teach about c²?
+3. A particle moves at 0.8c. Calculate γ, and say in words what that γ does to its momentum compared with the Newtonian mv.
+4. Calculate the energy equivalent of 0.001 kg (one gram) using E = mc² with c = 3.0 × 10⁸ m/s, and compare it with a 100 W bulb burning for a day (8.64 × 10⁶ J). What does the comparison teach about c²?

@@ -1,0 +1,4 @@
+# Elementary particles and quarks — the fundamental interactions — depth
+
+Whole-lesson pass mark: the learner can do all of these — Give the quark content and charge of proton and neutron, and say why quarks are never isolated; Lay out the three generations of quarks and leptons and antimatter's rule; Match each interaction to its exchange particle and range character; Say what the Higgs field and boson account for and when the boson was found — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

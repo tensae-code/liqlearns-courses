@@ -1,0 +1,4 @@
+# Non-inertial frames and apparent forces — depth
+
+Whole-lesson pass mark: the learner can do all of these — Say what makes a frame inertial, and why a cruising car qualifies but a braking or turning car does not; Give both accounts — inertial and non-inertial — of the braking-bus lurch and the turning-car slide; Write the apparent force in an accelerating frame (−m·a_frame) and use it in a lift example; Name the centrifugal and Coriolis forces and one real effect of each — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

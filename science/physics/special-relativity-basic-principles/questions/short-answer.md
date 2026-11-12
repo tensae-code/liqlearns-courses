@@ -13,3 +13,6 @@ Answer in a sentence or two.
 
 **4.** (Sub lesson 3) A reaction releases energy and its products are found to weigh slightly less than the starting materials. Where did the released energy come from, and which equation keeps the account?
 **Answer: From the missing mass itself — mass and energy are equivalent, and E = mc² converts the small mass loss into the large energy released.**
+
+**5.** (Sub lesson 4) What do the Lorentz transformations do, and which three effects of Sub lesson 2 fall out of them?
+**Answer: They translate an event's time and position from one inertial frame to another moving at v, using γ = 1/√(1 − v²/c²). Time dilation, length contraction and relative simultaneity are all contained in them — each falls out as arithmetic when the transformations are applied to a clock, a rod, or two distant events.**

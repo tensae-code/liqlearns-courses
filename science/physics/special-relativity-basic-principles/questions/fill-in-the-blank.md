@@ -16,3 +16,6 @@ Fill in the missing word.
 
 **5.** (Sub lesson 3) In E = mc², the quantity that makes a small mass worth a huge energy is c raised to the power _____.
 **Answer: two (c²)**
+
+**6.** (Sub lesson 4) In relativistic dynamics, momentum is p = _____ mv, where the blank is the Lorentz factor.
+**Answer: γ (gamma)**

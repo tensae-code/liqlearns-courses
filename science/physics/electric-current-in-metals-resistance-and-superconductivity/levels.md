@@ -1,0 +1,4 @@
+# Electric current in metals — resistance and temperature, superconductivity — depth
+
+Whole-lesson pass mark: the learner can do all of these — Describe the electron sea, and distinguish random motion, drift and signal speed; Use ρ ≈ ρ₀(1 + αΔT) in a worked number and explain the lattice-scattering cause; State what Onnes found in 1911, what a critical temperature is, and the Meissner effect; Name applications that depend on resistance being exactly zero — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

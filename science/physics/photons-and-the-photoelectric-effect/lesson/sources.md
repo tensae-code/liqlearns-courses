@@ -1,9 +1,11 @@
 # Sources — Photons and the photoelectric effect
 
-countries: Papua New Guinea (teacher-guide evidence only)
+countries: Papua New Guinea (teacher-guide evidence only), Italy
 
 **Book 1:** *Physics Teacher Guide Grade 12 (Secondary, Standards Based)* (teacher guide) — Papua New Guinea, Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE". Title as printed: Physics, Senior High, Grade 12 Teacher Guide — Standards-Based (Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE"). Grade: 12 · Teacher guide · Repo path: grade-12/gov/papua-new-guinea/physics/teacher/grade-12-physics-teachers-guide.pdf · Release: mid-size-books-8. Byte size: 7,123,027 (exact match: books.json = source-URL download) · PDF pages: 148 (exact match) · Offset: printed p. N ≈ PDF p. N (guide paginated ii, then 1–148; teaching content printed pp. 49–148). Verdict: COMPLETE — full text read (40,333 words); title/copyright pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/papua-new-guinea-placements.md.
 
+
+**Book 2:** *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti. Grade 12 span (filed Grade 12) · Student book · First edition February 2012 (colophon), with “Physics in English” · Repo: release `mid-size-books-6`, asset `grade-12-gov-italy-physics-student-full-year.pdf` — 27,398,676 bytes (matched asset) · PDF pages: 427 · Offset: placements cite chapter and PDF page (from chapter openers and section headings throughout the text). Verdict: COMPLETE (closes with Ch. 36 on the frontiers of physics — Planck-scale constants and the scientific worldview — and the orientation pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Atomic and Nuclear Physics, Topic Photons, printed p. 96 approx. |
@@ -11,8 +13,9 @@ countries: Papua New Guinea (teacher-guide evidence only)
 | Sub lesson 2 — The photoelectric effect — light knocking electrons out (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Atomic and Nuclear Physics, Topic Photons, printed p. 96 approx. |
 | Sub lesson 3 — Einstein's equation — the energy account (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Atomic and Nuclear Physics, Topic Photons, printed p. 96 approx. |
 | Do it first; key ideas; Do It Yourself (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Atomic and Nuclear Physics, Topic Photons, printed p. 96 approx. |
+| The photoelectric effect (Italy) | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.32 La crisi della fisica classica: the photoelectric effect strand of the chapter on the crisis of classical physics — PDF p. 200 |
 
-**Acceptance count: taught in 0 countries — stands on teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Italy).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
 
 Placement choice, on the record: this NEW LESSON was built for the Papua New Guinea placement "Photons and the photoelectric effect" — papua-new-guinea-placements.md, Book 2, Unit Atomic and Nuclear Physics, Topic Photons, printed p. 96 approx. — the Physics expansion's first photoelectric-effect lesson; no existing slug teaches photons and the photoelectric effect. (The existing wave-particle-duality lesson touches the effect in one line as duality evidence; this lesson teaches it completely at school depth.) It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics) beside the modern-physics lessons. The source is a TEACHER GUIDE (the Grade 12 Standards-Based guide), so the lesson rests on teacher-guide evidence only and is counted nowhere. The page is sequence-derived from the guide's own pagination where the text layer dropped folios, and is marked "approx." honestly.
 
