@@ -1063,6 +1063,44 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9905 | pictures/9905.gif | a white flower filling with yellow | Afan Oromo — Word |
 | 9906 | pictures/9906.gif | days lighting up across the week | Afan Oromo — Word |
 | 9907 | pictures/9907.gif | boat, train and plane each moving in their own band | Afan Oromo — Reading |
+| 10100 | pictures/10100.webp | the six-unit road map | Computer Science and ICT — What ICT Is |
+| 10101 | pictures/10101.webp | devices ring around ICT | Computer Science and ICT — What ICT Is |
+| 10102 | pictures/10102.webp | IT vs ICT overlapping circles | Computer Science and ICT — IT and ICT, Telling Them Apart |
+| 10103 | pictures/10103.webp | five elements diagram | Computer Science and ICT — The Five Elements of an ICT System |
+| 10104 | pictures/10104.webp | jumbled names and numbers with question mark | Computer Science and ICT — Data |
+| 10105 | pictures/10105.gif | data items sorting under a title | Computer Science and ICT — From Data to Information |
+| 10106 | pictures/10106.webp | same list bare then titled | Computer Science and ICT — From Data to Information |
+| 10107 | pictures/10107.webp | user with arrows to software, data, hardware | Computer Science and ICT — The User in an ICT System |
+| 10108 | pictures/10108.gif | message travelling between two computers | Computer Science and ICT — Communication in an ICT System |
+| 10109 | pictures/10109.webp | two computers exchanging a message through a device | Computer Science and ICT — Communication in an ICT System |
+| 10110 | pictures/10110.webp | phone and TV as technology at home | Computer Science and ICT — Technology |
+| 10111 | pictures/10111.webp | letter beside phone with SMS/email/social media | Computer Science and ICT — ICT in Daily Life: Communication |
+| 10112 | pictures/10112.webp | health/agriculture/transport panels (teacher guide) | Computer Science and ICT — ICT in Daily Life: Communication |
+| 10113 | pictures/10113.webp | classroom interactive board and audio listener | Computer Science and ICT — ICT in Education |
+| 10114 | pictures/10114.webp | film, music and online game panels | Computer Science and ICT — ICT in Entertainment |
+| 10115 | pictures/10115.webp | phone shopping basket with payment arrow | Computer Science and ICT — ICT in E-Commerce and Big Issues |
+| 10116 | pictures/10116.webp | phone with health-ministry prevention message (teacher guide) | Computer Science and ICT — ICT in E-Commerce and Big Issues |
+| 10117 | pictures/10117.webp | four-step cycle diagram | Computer Science and ICT — What a Computer Is |
+| 10118 | pictures/10118.gif | data travelling round the four-step cycle | Computer Science and ICT — What a Computer Is |
+| 10119 | pictures/10119.webp | strong computer beside tired child | Computer Science and ICT — What Computers Are Good At |
+| 10120 | pictures/10120.webp | computer split into hardware and software halves | Computer Science and ICT — Hardware and Software |
+| 10121 | pictures/10121.webp | desktop parts grouped into the four families | Computer Science and ICT — Computer Hardware |
+| 10122 | pictures/10122.webp | the eight input devices in a labelled grid | Computer Science and ICT — Input Devices |
+| 10123 | pictures/10123.webp | keyboard and mouse with type / point-and-click captions | Computer Science and ICT — Keyboard and Mouse |
+| 10124 | pictures/10124.gif | pointer moving, clicking and dragging an icon | Computer Science and ICT — Keyboard and Mouse |
+| 10125 | pictures/10125.webp | scanner, touch screen, light pen, camera panels + joystick tile (teacher guide) | Computer Science and ICT — More Input Devices |
+| 10126 | pictures/10126.gif | finger tapping a touch screen | Computer Science and ICT — More Input Devices |
+| 10127 | pictures/10127.webp | barcode reader scanning stripes + voice wave into microphone | Computer Science and ICT — Barcode Reader and Microphone |
+| 10128 | pictures/10128.gif | scan beam sweeping a barcode | Computer Science and ICT — Barcode Reader and Microphone |
+| 10129 | pictures/10129.webp | CPU chip opened into three parts | Computer Science and ICT — The CPU |
+| 10130 | pictures/10130.webp | ALU / control unit / registers three boxes | Computer Science and ICT — Inside the CPU |
+| 10131 | pictures/10131.webp | four output devices with their outputs | Computer Science and ICT — Output Devices |
+| 10132 | pictures/10132.gif | printer feeding out a printed page | Computer Science and ICT — Output Devices |
+| 10133 | pictures/10133.webp | now shelf (primary) beside keep-for-good cabinet (secondary) | Computer Science and ICT — Storage Devices |
+| 10134 | pictures/10134.webp | RAM vs ROM two-column chart | Computer Science and ICT — RAM and ROM |
+| 10135 | pictures/10135.gif | RAM contents vanishing at power-off while ROM stays | Computer Science and ICT — RAM and ROM |
+| 10136 | pictures/10136.webp | four secondary devices + tape/floppy tiles (teacher guide) | Computer Science and ICT — Secondary Storage Devices |
+| 10137 | pictures/10137.webp | staircase of storage units | Computer Science and ICT — Units of Data Storage |
 | 10500 | pictures/10500.webp | software makes hardware work | Computer Science and ICT — Computer Software |
 | 10501 | pictures/10501.webp | the operating system manages | Computer Science and ICT — System Software and the Operating System |
 | 10502 | pictures/10502.webp | utilities and translators | Computer Science and ICT — Utilities and Language Translators |
@@ -1172,3 +1210,26 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11227 | pictures/11227.webp | a farmer between two armies, a checkpoint-taxed merchant behind | Social Studies — Zemene Mesafint — the Cost to the People |
 | 11228 | pictures/11228.webp | a sultanates map with Shewa highlighted inland, Dahlak and Zeila as gateways | Social Studies — The Sultanates — Shewa, the Oldest Sultanate |
 | 11229 | pictures/11229.gif | a chisel carving down into rock, Bete Giyorgis emerging | Social Studies — Zagwe — the Rock-Hewn Churches of Lalibela |
+| 11080 | pictures/11080.webp | school enrolment as a bar graph and a line graph | Social Studies — Population — Counting and Graphing Growth |
+| 11081 | pictures/11081.webp | the world growth curve bending up from 1750 | Social Studies — Population — Why the World Grew Fast |
+| 11082 | pictures/11082.webp | Ethiopia's growth curve with the doubling point marked | Social Studies — Population — Ethiopia's Growth |
+| 11083 | pictures/11083.webp | a dot-density world map, crowded places and empty spaces | Social Studies — Population — Distribution |
+| 11084 | pictures/11084.webp | five ways to carry: donkey, truck, train, ship, aeroplane | Social Studies — Transport — Kinds of Transport |
+| 11085 | pictures/11085.webp | the mode comparison table as a clean grid | Social Studies — Transport — Choosing a Mode |
+| 11086 | pictures/11086.webp | a street scene marked up safe and unsafe | Social Studies — Road Safety — Staying Alive on the Road |
+| 11087 | pictures/11087.webp | a zebra crossing with the red standing and green walking figures | Social Studies — Road Safety — Signs and Crossings |
+| 11088 | pictures/11088.gif | the pedestrian light changing from red to green and figures crossing | Social Studies — Road Safety — Signs and Crossings |
+| 11089 | pictures/11089.webp | the Ethiopian study's age chart, the student bar highlighted | Social Studies — Road Safety — What Accidents Cost |
+| 11090 | pictures/11090.webp | a globe on its tilted stand with routes drawn over it | Social Studies — Maps and Globes — the Globe |
+| 11091 | pictures/11091.gif | a globe spinning west to east, the day and night line moving | Social Studies — Maps and Globes — the Globe |
+| 11092 | pictures/11092.webp | the same town from above and as a map, side by side | Social Studies — Maps and Globes — What a Map Is |
+| 11093 | pictures/11093.webp | globe against map, a two-column comparison | Social Studies — Maps and Globes — Globe or Map |
+| 11094 | pictures/11094.webp | a globe with equator, prime meridian, Cancer and Capricorn labelled | Social Studies — Maps and Globes — Latitude and Longitude |
+| 11095 | pictures/11095.webp | shrinking parallel circles beside equal meridians | Social Studies — Maps and Globes — How Parallels and Meridians Behave |
+| 11096 | pictures/11096.webp | the same area at three scales, detail thinning as coverage widens | Social Studies — Maps and Globes — Kinds of Maps and Scale |
+| 11097 | pictures/11097.webp | a map with its seven margin items ringed and numbered | Social Studies — Maps and Globes — Reading a Map's Margins |
+| 11098 | pictures/11098.webp | satellites beaming to a plane, a ship and a hand receiver | Social Studies — Maps and Globes — GPS |
+| 11099 | pictures/11099.webp | the three-figure Homo line and Ethiopia's fossil sites | Social Studies — Human Evolution — Fossils and the First Humans |
+| 11100 | pictures/11100.webp | two population pyramids: wide-based and column-shaped | Social Studies — Population — Measuring Change |
+| 11101 | pictures/11101.webp | a balance scale in three states: people-heavy, balanced, resource-heavy | Social Studies — Population and Resources — Too Many, Too Few, Just Right |
+| 11102 | pictures/11102.webp | transport history: walker, pack animal, wooden cart, modern vehicles | Social Studies — Transport — Kinds of Transport |

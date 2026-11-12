@@ -26,6 +26,13 @@ Grade 8 guide, and the acceptance reckoning.
 Building — Ethiopia Wave 3 (Social Studies, Grades 7–8).
 Band records land here as each band is built and verified.
 
+- **Population, Transport and Maps — BUILT** (Grade 7 student
+  Chapter 2 + teacher guide Unit 2): 20 lessons, 208 questions,
+  pictures 11080–11102, GIFs 11088 + 11091 (both frame-checked).
+  Three guide-only lessons (human evolution; population measuring
+  change; population and resources) stand on teacher-guide
+  evidence only, counted nowhere. No guide coverage claimed for
+  maps/globes/GPS — the guide has none.
 - **Ethiopia: Ancient and Medieval — BUILT** (Grade 7 student
   Chapter 4 + teacher guide Unit 6): 29 lessons, 395 questions,
   pictures 11200–11228, GIF 11229 (Lalibela chisel, frame-checked).
