@@ -873,3 +873,20 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9757 | pictures/9757.gif | planting a seedling: dig, place, cover, water | Performing and Visual Arts — Stories and Folktales |
 | 9758 | pictures/9758.gif | ድምቡሸ ገላ (Dimbushe Gela): a pair holding hands and turning round together | Performing and Visual Arts — Traditional Games |
 | 9759 | pictures/9759.gif | four movements in sequence: walk, hen, dog run, bird fly | Performing and Visual Arts — How Things Move |
+| 9000 | pictures/9000.webp | a child covering a book with paper, a bookmark beside it | Performing and Visual Arts — Caring for Your Book |
+| 9001 | pictures/9001.webp | a two-family strip: drawing and photograph / singing, dancing, acting | Performing and Visual Arts — What the Arts Are |
+| 9002 | pictures/9002.webp | children outdoors: houses, animals, birds, trees | Performing and Visual Arts — Observing Our Surroundings |
+| 9003 | pictures/9003.webp | a mother serving food to her children at a mesob | Performing and Visual Arts — Looking at Pictures |
+| 9004 | pictures/9004.webp | a nine-panel board of a child's day | Performing and Visual Arts — Pictures of What We Do Every Day |
+| 9005 | pictures/9005.webp | a coin's two faces: singer / drawing | Performing and Visual Arts — How the Arts Belong Together |
+| 9006 | pictures/9006.webp | a classroom board where the arts carry four subjects | Performing and Visual Arts — How the Arts Help Us Learn |
+| 9007 | pictures/9007.webp | children on a visit, looking at artworks | Performing and Visual Arts — Appreciating the Arts |
+| 9008 | pictures/9008.webp | a white ቀሚስ with tibeb borders and a cross, beside a tibeb-pattern shirt | Performing and Visual Arts — Traditional Dress |
+| 9009 | pictures/9009.webp | an old-times round house and a house of today, two halves | Performing and Visual Arts — Houses Then and Now |
+| 9010 | pictures/9010.webp | Demera fire, Timket procession, Genna game strip | Performing and Visual Arts — Festivals and Their Arts |
+| 9011 | pictures/9011.webp | handicraft weaving, wedding dance, debo work strip | Performing and Visual Arts — Old Arts and Today's Arts |
+| 9012 | pictures/9012.webp | neighbours greeting an elder, eating around a mesob | Performing and Visual Arts — Our Community's Values |
+| 9013 | pictures/9013.gif | a child getting up: lying, sitting, standing with a stretch | Performing and Visual Arts — Pictures of What We Do Every Day |
+| 9014 | pictures/9014.gif | a music note, a theatre mask and a drawing sliding together into one | Performing and Visual Arts — How the Arts Belong Together |
+| 9015 | pictures/9015.gif | a Genna player swinging a curved stick and striking the ball | Performing and Visual Arts — Festivals and Their Arts |
+| 9016 | pictures/9016.gif | a long pestle pounding grain in a tall mortar, rising and falling | Performing and Visual Arts — Old Arts and Today's Arts |

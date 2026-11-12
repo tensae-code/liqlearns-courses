@@ -51,8 +51,16 @@ lessons are the books'.
   Ethiopia; Moving to Music; Traditional Games; Stories and
   Folktales; Riddles), 173 questions, 23 media filed (pictures/GIFs
   9700–9712, 9750–9759, all drawn and frame-checked).
-- Remaining groups (First Steps + Culture and Values; Visual Art;
-  Music — Listening + Songs; and the upper-grade depth the read
-  placed beyond the first map — upper-grade music and drama) are
-  being built and registered here as they land. See ABOUT.md for
-  the full book list and the acceptance reckoning.
+- **First Steps + Culture and Values — BUILT 2026-11-12:** all 13
+  lessons (Caring for Your Book; What the Arts Are; Observing Our
+  Surroundings; Looking at Pictures; Pictures of What We Do Every
+  Day; How the Arts Belong Together; How the Arts Help Us Learn;
+  Appreciating the Arts; Traditional Dress; Houses Then and Now;
+  Festivals and Their Arts; Old Arts and Today's Arts; Our
+  Community's Values), 226 questions, 17 media filed (pictures/GIFs
+  9000–9016, all drawn and frame-checked).
+- Remaining groups (Visual Art; Music — Listening + Songs; and
+  the upper-grade depth the read placed beyond the first map —
+  upper-grade music and drama) are being built and registered
+  here as they land. See ABOUT.md for the full book list and the
+  acceptance reckoning.
