@@ -146,3 +146,28 @@ figures taught as printed. The G10 remainders outside these titles
 (population measures, employment and poverty, geospatial skills,
 charts) belong to the Grade 12 bands. Build log:
 ethiopia-2026-11-11/build-logs/wave4-geo-B-g10-africa.md.
+
+## Ethiopia Grade 10 History (1500–1900) — built 2026-11-12 (Wave 4 History Band B; picture range 22800–22834)
+
+20 new lessons + 1 extended, 287 questions written. **The Modern
+World** +7 (capitalism, nationalism, Italy unifies, Germany unifies,
+the American Civil War, the Eastern Question, cottage industries);
+**Africa after 1500** +8 (before the Scramble, why Europe colonised,
+the Scramble and Berlin 1884–85, company/direct/assimilation, indirect
+and settler rule, West Africa resists, Maji-Maji, what colonial rule
+did to Africa); **Modern Ethiopia** +5 (Tewodros II, Yohannes IV,
+Menilek II, repulsing three aggressions, Adwa 1896) — and the caravan
+lesson extended with the Grade 10 depth as its Sub lesson 3 (+7
+questions, now 20). All story-first with story-style video scripts;
+guide-only parts (the capitalism definition, Berlin mechanics, the
+Gafat foundry) stand as labelled teacher evidence inside their
+lessons. Pictures 22800–22821 (22 drawn PIL, every one read — 17
+regenerated once for text overflow and re-read clean); GIFs
+22830–22834 all frame-checked PASS. Honesty carried: Italy's reversed
+north/south exercise claim taught corrected; the "Tewodos" misprint
+named; the guide (June 2022) predating the student book (August 2023)
+and its blank-ISBN pre-print state stated; Maji-Maji taught at exactly
+the placement's depth. The G10 book's later units (1906–1991, the
+World Wars, the post-1945 world, Africa since 1960, post-1991,
+indigenous knowledge) belong to Bands C–E. Build log:
+ethiopia-2026-11-11/build-logs/wave4-hist-B-g10-1500-1900.md.

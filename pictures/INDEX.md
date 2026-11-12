@@ -2664,3 +2664,57 @@ and lift; step 4's hold never opens while the pencil tilts back).
 - 14928 — 14928.webp — "Slide Master view: one master with its layouts beneath, a logo on all of them" — lesson presentations/creating-a-slide-master
 - 14929 — 14929.gif — a logo placed once on the master appearing on every layout — lesson presentations/creating-a-slide-master — frame-checked
 - 14930 — 14930.webp — "Relative vs absolute references: one changes when copied, one stays fixed — summary-only flag on both halves" — lesson spreadsheets/relative-cell-references (summary growth)
+
+## Computer Science and ICT — Grade 10 Unit 1 Files band (Ethiopia Wave 3, D1)
+
+- 14100 — 14100.webp — "Grade 10 — the road ahead" — lesson files-and-folders/what-a-file-is (grown)
+- 14101 — 14101.webp — "From filing cabinet to computer files" — lesson files-and-folders/what-a-file-is (grown)
+- 14102 — 14102.webp — "Drives and drive letters" — lesson files-and-folders/drives-where-files-live (grown)
+- 14103 — 14103.webp — "The ending tells you the kind of file" — lesson files-and-folders/file-name-extensions-reading-a-files-ending
+- 14104 — 14104.webp — "Common file extensions" (the book's table redrawn) — lesson files-and-folders/common-file-extensions-the-full-table
+- 14105 — 14105.webp — "The directory tree" — lesson files-and-folders/directory-structure-root-parent-and-child
+- 14106 — 14106.webp — "One file, two paths" — lesson files-and-folders/file-paths-absolute-and-relative
+- 14107 — 14107.webp — "Changing a file's format" — lesson files-and-folders/file-conversion-changing-a-files-format
+- 14108 — 14108.webp — "Vector or bitmap? (teacher guide)" — lesson files-and-folders/file-conversion-changing-a-files-format
+- 14109 — 14109.webp — "Import in — export out" — lesson files-and-folders/import-and-export-data-in-data-out
+- 14110 — 14110.webp — "Save As — choose the format" — lesson files-and-folders/creating-and-saving-a-document-file (grown)
+- 14111 — 14111.webp — "Backup — a copy kept apart" — lesson files-and-folders/backup-and-recovery-copies-that-protect-your-data
+- 14112 — 14112.webp — "Backing up in Windows — the strip" — lesson files-and-folders/backing-up-files-in-windows
+- 14113 — 14113.webp — "Zipping — same data, smaller size" — lesson files-and-folders/compressing-and-uncompressing-files-zipping
+- 14114 — 14114.webp — "Deleting — three routes to the Bin" — lesson files-and-folders/deleting-a-file-recycle-bin-and-permanent-delete (grown)
+- 14115 — 14115.webp — "Restoring — and when you cannot" — lesson files-and-folders/deleting-a-file-recycle-bin-and-permanent-delete (grown)
+- 14116 — 14116.webp — "Naming a file — valid and invalid" — lesson files-and-folders/naming-a-file-the-rules-and-forbidden-characters
+- 14120 — 14120.gif — a USB stick plugging in and the E: drive letter appearing — lesson files-and-folders/drives-where-files-live (grown) — frame-checked
+- 14121 — 14121.gif — a highlight travelling down the tree from the root to the file — lesson files-and-folders/file-paths-absolute-and-relative — frame-checked
+- 14122 — 14122.gif — the Save As route clicked through in order — lesson files-and-folders/creating-and-saving-a-document-file (grown) — frame-checked
+- 14123 — 14123.gif — the Settings → Update & Security → Backup click path — lesson files-and-folders/backing-up-files-in-windows — frame-checked
+- 14124 — 14124.gif — a folder visibly shrinking into its zipped form — lesson files-and-folders/compressing-and-uncompressing-files-zipping — frame-checked
+- 14125 — 14125.gif — the Restore click sending the file home — lesson files-and-folders/deleting-a-file-recycle-bin-and-permanent-delete (grown) — frame-checked
+- 14126 — 14126.gif — a bitmap going blocky on zoom while the vector stays smooth (teacher guide — evidence) — lesson files-and-folders/file-conversion-changing-a-files-format — frame-checked
+| 22800 | pictures/22800.webp | two ways of making cloth: home workshop beside steam factory | Social Studies — Capitalism — private ownership, factories, new classes |
+| 22801 | pictures/22801.webp | peoples shaded by language over state borders | Social Studies — Nationalism — the feeling that made nation states |
+| 22802 | pictures/22802.webp | jigsaw map of the Italian states, Rome last | Social Studies — Italy unifies — Cavour and the patriots |
+| 22803 | pictures/22803.webp | Versailles Hall of Mirrors, 1871 | Social Studies — Germany unifies — Bismarck, Blood and Iron |
+| 22804 | pictures/22804.webp | Union/Confederacy division map | Social Studies — The American Civil War — union against slavery's states |
+| 22805 | pictures/22805.webp | Balkan peoples and the watching Great Powers | Social Studies — The Eastern Question — nationalism in the Balkans |
+| 22806 | pictures/22806.webp | pre-1880 Africa map with the small footholds marked | Social Studies — Before the Scramble — Africa trading, mostly unruled |
+| 22807 | pictures/22807.webp | Kipling poem page as an annotated document | Social Studies — Why Europe colonised — motives and the civilizing-mission claim |
+| 22808 | pictures/22808.webp | Berlin conference table, fourteen flags, no Africans | Social Studies — The Scramble and Berlin 1884–85 |
+| 22809 | pictures/22809.webp | three administration panels: company office, resident's office, classroom | Social Studies — Company rule, direct rule, assimilation |
+| 22810 | pictures/22810.webp | chief under a district officer beside a settler farm estate | Social Studies — Indirect rule and settler rule |
+| 22811 | pictures/22811.webp | West Africa resistance map: Samori Ture, Asante, French advance | Social Studies — West Africa resists — Samori Ture, Ahmadu Seku, Asante |
+| 22812 | pictures/22812.webp | Maji-Maji map of southern Tanganyika | Social Studies — Maji-Maji — and resistance in the south and north |
+| 22813 | pictures/22813.webp | boundary lines cutting one people's homeland | Social Studies — What colonial rule did to Africa |
+| 22814 | pictures/22814.webp | blacksmith, weaver and potter panels | Social Studies — Cottage industries — skilled hands, low status |
+| 22815 | pictures/22815.webp | Tewodros's crown and cannons on the Maqdala road | Social Studies — Tewodros II — ending the Era of Warlords |
+| 22816 | pictures/22816.webp | Yohannes's centre-and-regions web | Social Studies — Yohannes IV — unity by decentralisation |
+| 22817 | pictures/22817.webp | Ethiopia taking its present shape | Social Studies — Menilek II — the present shape of Ethiopia |
+| 22818 | pictures/22818.webp | three aggressions in sequence, 1868 / 1875–76 / 1885–89 | Social Studies — Repulsing three aggressions — Britain, Egypt, the Mahdists |
+| 22819 | pictures/22819.webp | Adwa battlefield, forces converging in the northern hills | Social Studies — Adwa 1896 — the victory that echoed worldwide |
+| 22820 | pictures/22820.webp | amole salt bar and Maria Theresa thaler; Afkala and Jabarti traders | Social Studies — The Caravan Trade Routes and Goods (Sub lesson 3) |
+| 22821 | pictures/22821.webp | Gafat foundry casting the Sebastopol mortar | Social Studies — Tewodros II — ending the Era of Warlords (teacher guide — evidence) |
+| 22830 | pictures/22830.gif | a factory line displacing home looms one by one | Social Studies — Capitalism — private ownership, factories, new classes |
+| 22831 | pictures/22831.gif | the Italian states clicking together | Social Studies — Italy unifies — Cavour and the patriots |
+| 22832 | pictures/22832.gif | colonial colours spreading across the map year by year, 1880–1914 | Social Studies — The Scramble and Berlin 1884–85 |
+| 22833 | pictures/22833.gif | a smith hammering a ploughshare | Social Studies — Cottage industries — skilled hands, low status |
+| 22834 | pictures/22834.gif | the boundary line being drawn around the expanding state | Social Studies — Menilek II — the present shape of Ethiopia |

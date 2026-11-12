@@ -25,3 +25,15 @@ a) Harar  b) Gondar and on to Metema  c) Zeila  d) Jimma only
 **6. (Sub lesson 2)** Harar, Zeila and Berbera were reached from Seqa through —
 a) Adwa  b) Sodo, Aliyu Amba and Abduresul  c) Gondar  d) Mitsiwa
 **Answer: b) Sodo, Aliyu Amba and Abduresul** — Sodo–Aliyu Amba–Abduresul to Harar, Zeila and Berbera.
+
+**7. (Sub lesson 3)** In the Grade 10 book, Bonga is named as —
+a) A port on the Red Sea  b) The capital of Kafa, from which two major trade routes started  c) A district of Gondar  d) A market in Harar
+**Answer: b) The capital of Kafa, from which two major trade routes started** — The Grade 10 depth names Bonga, capital of Kafa, as the routes' starting point.
+
+**8. (Sub lesson 3)** The Muslim traders who played the pivotal role in the long-distance trade were the —
+a) Negadras only  b) Afkala and Jabarti (Jeberti)  c) Gult-holders  d) Ras and Dejjazmach
+**Answer: b) Afkala and Jabarti (Jeberti)** — The Grade 10 book gives them the pivotal role.
+
+**9. (Sub lesson 3)** The medium of exchange in the long-distance trade was —
+a) Paper notes and cheques  b) Salt bars (amole) and Maria Theresa thalers  c) Gold dust only  d) Cowrie shells only
+**Answer: b) Salt bars (amole) and Maria Theresa thalers** — Both served as the medium of exchange.

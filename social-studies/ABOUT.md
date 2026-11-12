@@ -249,3 +249,27 @@ pp. 202, 205): the unit's basic terms — variable, field survey and
 the geospatial set — filed here as the course glossary reference for
 the maps-and-GIS title; the unit's closing class-data pie-chart
 project stands with the Grade 12 geospatial bands.
+
+## Ethiopia, History Grade 10 — the book's shape, its glossary and its guide's way (teacher evidence)
+
+**The Grade 10 course shape** (student book, printed pp. i–iii, 1):
+a nine-unit road map — the world and Africa units alternating with
+the Ethiopia units, closing on indigenous knowledge systems.
+
+**The Grade 10 glossary** (student book, printed pp. 231–236): the
+course's terms reference, from capitalism and the Cold War to
+Ethiopia's federal and indigenous vocabulary — filed here as the
+reference shelf for these titles, not a lesson.
+
+**The Grade 10 guide's way** (teacher guide, printed pp. 1–2): the
+fixed lesson script and a 77-period budget — Unit 1 = 6, Unit 2 = 7,
+Unit 3 = 14, Unit 4 = 7, Unit 5 = 7, Unit 6 = 14, Unit 7 = 9,
+Unit 8 = 5, Unit 9 = 8. The guide's per-unit pedagogy summaries are
+marking and method evidence for their units, filed here; where a
+guide compression touches a lesson (the guide folds §2.2 Motives
+into §2.1), the lesson's own sources say so.
+
+**The guide's bibliography** (teacher guide, printed p. 151): Bahru
+Zewde, Clapham, Pankhurst, Balsvik, Rubenson, Sishagne, Shillington,
+Teferi Mekonen — the sourcing shelf behind the book, recorded here
+as provenance.

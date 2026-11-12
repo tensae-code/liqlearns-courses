@@ -12,6 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **Barter, salt money, and the negadras** — Say caravans traded by barter with amole salt bars as money, led by a negadras who coordinated, chose rest places and organised defence.
 2. **The routes from Bonga** — Trace both route families from Bonga: north-west to Gondar and Metema (and to Mitsiwa via Adwa), and east to Harar, Zeila and Berbera.
+3. **The Grade 10 depth: two routes from Bonga, the traders, and trade as the great connector** — the Grade 10 book's wider telling: two major routes from Bonga, capital of Kafa; the Muslim traders Afkala and Jabarti (Jeberti) in the pivotal role; amole and Maria Theresa thalers as the medium of exchange; and trade as the most important catalyst in relations between peoples and polities.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -23,6 +24,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Say how caravan trade was paid for (barter; amole salt bars as money).
 2. Name the negadras's three jobs.
 3. Trace the Bonga routes to Gondar/Metema, Mitsiwa, and Harar/Zeila/Berbera.
+4. Name the Afkala and Jabarti (Jeberti) traders, the two moneys (amole, Maria Theresa thalers), and trade's role as the most important catalyst between peoples and polities.
 
 ## What you need
 Paper and a pencil. Nothing else.
@@ -32,6 +34,7 @@ Paper and a pencil. Nothing else.
 2. **The explanation** — the sections of lesson/lesson.md, in order.
    - ADD IMAGE [Picture 11607]: a picture of caravan routes from Bonga redrawn — the student studies it and answers the picture task in the lesson text at that place.
    - ADD GIF [GIF 11632]: a picture of a caravan moving along the route from Bonga towards Gondar — the student watches the motion and says what moves, where from, and where to.
+   - ADD IMAGE [Picture 22820]: a picture of what the caravan paid with — an amole salt bar and a Maria Theresa thaler — and of the Afkala and Jabarti traders — the student names the two moneys and the traders' role.
    - ADD AUDIO: a voice reading the lesson's key names and dates aloud, slowly, twice — the student listens, then says them back without looking.
 3. **Say it to your companion** — the retelling task in lesson/lesson.md.
    - ADD VIDEO: the script in video-script.md, filmed — the story of this lesson in the super-simple voice (made later, when videos are made).
@@ -42,6 +45,7 @@ Paper and a pencil. Nothing else.
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 11607] — a picture of caravan routes from Bonga redrawn → the student studies it at its marked place in the lesson.
 - GIF [GIF 11632] — a caravan moving along the route from Bonga towards Gondar → the student watches it at its marked place in the lesson.
+- IMAGE [Picture 22820] — what the caravan paid with (amole, Maria Theresa thaler) and the Afkala and Jabarti traders → the student studies it at its marked place in Sub lesson 3.
 - AUDIO — key names and dates read aloud (described slot only; no audio file is made in this build) → the student listens and repeats.
 - VIDEO — the video-script filmed (made later) → the student retells along with it.
 
