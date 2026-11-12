@@ -45,6 +45,10 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
+
+## Grade 11 depth (added 2026-11-12)
+Sub lessons 4–6 add the Grade 11 Geography student book's own five-zone treatment with altitudes, temperatures and crops (printed pp. 52–54), with Picture 27100 and GIF 27131 at sub lesson 4. Note the acceptance change in lesson/sources.md: the lesson no longer rests on teacher-guide evidence only.
+
 ## If the learner is stuck
 - Go back to the Do it first task and do it again slowly, out loud; then re-read only the part that answers it.
 - Every question in questions/ is answerable from lesson/lesson.md alone — if one feels impossible, the learner has skipped a part; find it together.

@@ -201,3 +201,37 @@ Enset Peoples), and five guide-only lessons whose homes sit in Bands
 C–E (Islam's spread, the mirror image, slave-trade economics, the
 moving court, Napoleon). Build log:
 ethiopia-2026-11-11/build-logs/wave4-hist-A-g09-ancient.md.
+
+## Ethiopia Grade 11 Geography — built 2026-11-12 (Wave 4 Geography Band C; picture range 27000–27132 after renumbering)
+
+98 lessons created + 4 extended, 1,020 questions. **The Land and
+Air** +24 created (Earth's formation, supercontinents, drift, the
+timescale and its four eras, dating, climates sorted three ways,
+Köppen's letters/code/trial, latitude and climate controls, drainage
+patterns) and 4 extended (continents, the five oceans, the weather
+controllers, and Ethiopia's weather zones — whose acceptance line
+rises from evidence-only to pupil-taught now that Grade 11 stocks
+its upper sub lessons); **Resources and Conflict** +29 (Unit 3 land,
+soil, water, forests and rivers; Unit 6 habitats, invaders, the
+vicious cycle; Unit 7 land breakdown, desertification, drought,
+famine); **Population, Transport and Maps** +28 (the transition
+model, measures, migration, policies, Malthus and his answerers,
+unemployment, the digital divide, and the whole maps/GIS/ArcMap
+set); **People and Resources** +15 (HDI, determinism vs possibilism,
+Von Thünen/Weber/Christaller, climate extremes, poverty traps and
+case studies, landlocked, intra-African trade). Pictures
+27000–27100 + 27132 (102 drawn PIL, all read via contact sheets);
+GIFs 27101–27131 (31, all frame-checked; the halving GIF remade
+with exact labels). Two lessons stand on teacher-guide evidence
+only (Köppen zones of Ethiopia; the geographer's questions) and
+carry the 0-countries line. Honesty carried: Rodinia 750 vs 3800 Ma
+(student governs), Panthalassa and Sanetti misprints corrected,
+Nile 55.5 vs 58.5 BCM named, landlocked 49 taught over the summary's
+"over 30", "Easter Boserup" corrected. The brief-list topics the
+G11 book does not teach (plate boundaries, folding, volcanism,
+weathering as named lessons) were not built — no page, no lesson;
+the G7–8 lessons on them stand untouched. The band's media was
+first built at 21600–21730 and renumbered +5400 into 27000–27132
+on the coordinator's order after another stream took the 21600s.
+Build log:
+ethiopia-2026-11-11/build-logs/wave4-geo-C-g11-physical.md.

@@ -18,6 +18,20 @@ Africa is second in area and in population, and the book calls it 'the continent
 
 North America and South America are the two American continents. Antarctica is ice-bound and ringed by the Southern Ocean. Europe lies west of Asia. Australia is the smallest of the seven in the book's table.
 
+## Sub lesson 4 — Africa and Antarctica — Grade 11 portraits
+
+Grade 11 depth: Africa is the second-largest continent, crossed by the equator and both tropics, holding the Sahara and the Nile, with 54 countries. Antarctica is its opposite: ice-covered and uninhabited, a continent with no permanent people at all.
+
+[Picture 27098 — a labelled world map with one landmark pinned on each continent]
+
+## Sub lesson 5 — Asia, Europe and Australia — Grade 11 portraits
+
+Grade 11 depth: Asia is the largest continent, a third of all land, with the Himalayas and the Dead Sea. Europe is the second-smallest, industrial continent. Australia is the smallest continent of all — an island continent.
+
+## Sub lesson 6 — The two Americas — Grade 11 portraits
+
+Grade 11 depth: North America is joined to South America at Panama. South America holds the Amazon river and rainforest, Angel Falls, and the Andes — the portrait facts the Grade 11 book adds to the seven you placed in the earlier sub lessons.
+
 ## Say it to your companion
 
 Explain the seven in place to your companion in your own words: what it is, the one figure or fact you would never want to forget from it, and one example from your own surroundings. Your companion asks you one hard question about it — answer from the lesson.

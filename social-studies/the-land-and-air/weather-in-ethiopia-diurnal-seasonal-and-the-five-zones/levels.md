@@ -10,3 +10,12 @@ Sub lesson 2 questions from the type files (3 items). Pass mark: answer its ques
 
 ## Sub lesson 3 — Working like a weather station (teacher guide — evidence)
 Sub lesson 3 questions from the type files (3 items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.
+
+## Sub lesson 4 — Bereha and Kolla — the hot lowlands (Grade 11 depth) (Grade 11 depth)
+Sub lesson 4 questions from the type files (3 new items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.
+
+## Sub lesson 5 — Woina-Dega and Dega — the temperate and cold highlands (Grade 11 depth) (Grade 11 depth)
+Sub lesson 5 questions from the type files (4 new items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.
+
+## Sub lesson 6 — Wurch — and mapping your own kebele (Grade 11 depth) (Grade 11 depth)
+Sub lesson 6 questions from the type files (3 new items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.

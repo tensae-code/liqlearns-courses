@@ -10,3 +10,12 @@ Answer in a sentence or a short list.
 
 **3. (Sub lesson 3)** (Teacher guide — evidence) What is that day's mean temperature, and how is it found?
 **Answer:** 20 — (28 + 12) ÷ 2.
+
+**4. (Sub lesson 4)** Give Bereha's altitude and temperature.
+**Answer:** Below 500 m, over 30 °C.
+
+**5. (Sub lesson 5)** Which zones grow wheat?
+**Answer:** Woina-Dega and Dega.
+
+**6. (Sub lesson 6)** What task does the book set with the zones?
+**Answer:** Map the zones of your own kebele and woreda.

@@ -7,3 +7,12 @@ Say True or False, and why.
 
 **2. (Sub lesson 3)** (Teacher guide — evidence) Pupils collect real data at a nearby meteorological station.
 **Answer: True**
+
+**3. (Sub lesson 4)** Kolla grows sorghum, sesame and groundnuts.
+**Answer: True**
+
+**4. (Sub lesson 5)** The Afar and Somali lowlands are Bereha country.
+**Answer: True**
+
+**5. (Sub lesson 6)** Wurch is the warmest zone.
+**Answer: False**

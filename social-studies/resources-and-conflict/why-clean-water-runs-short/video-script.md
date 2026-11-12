@@ -1,0 +1,10 @@
+# Video script — Why clean water runs short
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+Rivers are great. Taps still queue.
+The shortage is of clean water, delivered.
+Causes: stripped catchments, pollution, missing distribution.
+Answers: restore, guard, build — cause by cause.

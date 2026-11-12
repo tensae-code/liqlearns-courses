@@ -17,3 +17,19 @@ a) rises  b) falls — high land is colder  c) never changes
 **4. (Sub lesson 3)** A mountain barrier makes —
 a) both sides equally wet  b) a wet windward side and a dry sheltered side  c) no rain anywhere
 **Answer: b) a wet windward side and a dry sheltered side**
+
+**5. (Sub lesson 4)** Insolation is strongest at a sun angle of —
+a) 90 degrees  b) 0 degrees  c) 45 degrees
+**Answer: a) 90 degrees**
+
+**6. (Sub lesson 5)** The extreme case of continentality is —
+a) Asia  b) Iceland  c) the Congo
+**Answer: a) Asia**
+
+**7. (Sub lesson 5)** Air moves, in circulation, from —
+a) high pressure to low pressure  b) low to high only  c) east to west only
+**Answer: a) high pressure to low pressure**
+
+**8. (Sub lesson 6)** The normal lapse rate is —
+a) 6.4 °C per kilometre  b) 64 °C per kilometre  c) 0.4 °C total
+**Answer: a) 6.4 °C per kilometre**

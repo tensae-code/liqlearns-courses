@@ -18,6 +18,20 @@ The Pacific is 155.1 million km², the Atlantic 76.8, the Indian 68.1, the South
 
 Each ocean holds named seas: the Pacific holds the Coral, Japan, China and Java seas; the Atlantic holds the Mediterranean, Caribbean and Baltic; the Indian holds the Red Sea and the Persian Gulf. Your task: rank the five oceans smallest to largest.
 
+## Sub lesson 4 — Arctic and Atlantic — Grade 11 portraits
+
+Grade 11 depth: the Arctic is the smallest ocean, ice-covered. The Atlantic is second-largest, holding many shallow seas, and its deepest point is the Puerto Rico Trench.
+
+[Picture 27099 — a trench diagram comparing the deepest point of each ocean]
+
+## Sub lesson 5 — Indian and Pacific — Grade 11 portraits
+
+Grade 11 depth: the Indian Ocean is the warm ocean of monsoons and chokepoints. The Pacific is by far the largest ocean, and its Mariana Trench holds Challenger Deep — the deepest point on Earth.
+
+## Sub lesson 6 — The Southern Ocean — Grade 11 portrait
+
+Grade 11 depth: the Southern Ocean is the newest of the five, delimited in the year 2000 to 60 degrees south. The Grade 11 book gives each ocean its area, its average depth and its deepest trench — the table your sketch map should carry.
+
 ## Say it to your companion
 
 Explain the five oceans to your companion in your own words: what it is, the one figure or fact you would never want to forget from it, and one example from your own surroundings. Your companion asks you one hard question about it — answer from the lesson.

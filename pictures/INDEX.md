@@ -2765,3 +2765,136 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 22531 | pictures/22531.gif | dynastic wheel turning through one cycle | Social Studies — China's dynastic cycle and the Mandate of Heaven |
 | 22532 | pictures/22532.gif | Gadaa power-transfer wheel | Social Studies — Gadaa — government by age grades |
 | 22533 | pictures/22533.gif | Bantu migration arrows spreading slowly | Social Studies — Kongo and the Bantu movements (Grade 9 depth) |
+| 27000 | pictures/27000.webp | the solar system with the Sun and the planets in order | Social Studies — How the Earth formed |
+| 27001 | pictures/27001.webp | world maps at the Rodinia, Gondwana and Pangaea stages | Social Studies — Supercontinents — Rodinia, Gondwana and Pangaea |
+| 27002 | pictures/27002.webp | two continents pulling apart at a mid-ocean ridge, with arrows of movement | Social Studies — Continental drift — continents still on the move |
+| 27003 | pictures/27003.webp | a long timeline strip divided into eons, eras, periods and epochs, most of it Precambrian | Social Studies — The geological timescale — Earth's timetable |
+| 27004 | pictures/27004.webp | flat layers, a numbered stack, and an intrusion cutting two layers | Social Studies — Relative dating — reading the order of rock layers |
+| 27005 | pictures/27005.webp | a halving bar stepping 100 to 50 to 25 to 12.5, beside the parent and daughter pairs | Social Studies — Absolute dating — half-life clocks in rocks |
+| 27006 | pictures/27006.webp | a world map of Precambrian shield areas | Social Studies — The Precambrian — Earth's long first chapter |
+| 27007 | pictures/27007.webp | a trilobite, an early fish and a first amphibian — life of the Paleozoic | Social Studies — The Paleozoic — ancient life and the making of Pangaea |
+| 27008 | pictures/27008.webp | a dinosaur-age landscape, with Laurasia and Gondwanaland on a small map beside it | Social Studies — The Mesozoic — dinosaurs and the splitting of Pangaea |
+| 27009 | pictures/27009.webp | a mammal-and-bird landscape, with a small map of the continents today | Social Studies — The Cenozoic — mammals, modern continents and us |
+| 27010 | pictures/27010.webp | a world map in two hemisphere halves, with the land and water ratios marked | Social Studies — A water world — how land and ocean are shared out |
+| 27011 | pictures/27011.webp | a three-stage map strip — Pangaea, cracking, late Cretaceous | Social Studies — Sketching the moving map — Pangaea to today |
+| 27012 | pictures/27012.webp | a Greek three-zone globe beside a data table being sorted into climate boxes | Social Studies — Sorting the world's climates — three ways |
+| 27013 | pictures/27013.webp | a simplified Köppen world map with the five letters colour-coded | Social Studies — Köppen's five letters — A B C D E |
+| 27014 | pictures/27014.webp | one code, Cfa, broken into its three letters, with a meaning under each | Social Studies — Cracking the Köppen code — what the small letters mean |
+| 27015 | pictures/27015.webp | five landscape panels — desert, Mediterranean shore, continental forest, tundra, Ethiopian afro-alpine top | Social Studies — What each Köppen climate feels like |
+| 27016 | pictures/27016.webp | a balance scale with the system's strengths on one side and weaknesses on the other | Social Studies — Köppen on trial — strengths and weaknesses |
+| 27017 | pictures/27017.webp | a world climate-regions map with the three low-latitude belts highlighted | Social Studies — Low-latitude climate regions — wet, savanna, desert |
+| 27018 | pictures/27018.webp | a latitude ladder from equator to pole, with each region's landscape pinned at its band | Social Studies — Mid- and high-latitude climate regions |
+| 27019 | pictures/27019.webp | sun rays striking straight at the equator and slanting at the pole, the slanting beam spread over more ground | Social Studies — Latitude — why the equator is hot and the poles are not |
+| 27020 | pictures/27020.webp | a coast and interior pair of temperature curves across a year, the interior swinging wider | Social Studies — Coasts, winds and pressure belts — the other climate controls |
+| 27021 | pictures/27021.webp | an orographic-rain diagram — moist air rising, raining on the windward side, descending dry | Social Studies — Ocean currents and mountains — climate's last controls |
+| 27022 | pictures/27022.webp | two Ethiopia maps side by side — Köppen types and agroecological zones | Social Studies — Ethiopia's five zones in Köppen letters |
+| 27023 | pictures/27023.webp | a bridge joining a mountain landscape on one side to a town on the other, with question words above it | Social Studies — The geographer's questions — what geography asks |
+| 27024 | pictures/27024.webp | one piece of land drawn five ways — farm, ecosystem, title deed, bank asset, sacred place | Social Studies — Land and resources — what counts as a resource |
+| 27025 | pictures/27025.webp | a terraced, tree-planted hillside with a check dam in its gully | Social Studies — What land does for us — and managing it well |
+| 27026 | pictures/27026.webp | a global soil-erosion map beside a gullied field | Social Studies — Soil under pressure |
+| 27027 | pictures/27027.webp | a lake edge choked with water hyacinth and plastic, beside a clean protected spring | Social Studies — Water under pressure |
+| 27028 | pictures/27028.webp | a cleared slope beside a Green Legacy planting line of seedlings | Social Studies — Forests under pressure — and how Ethiopia answers |
+| 27029 | pictures/27029.webp | photographs of degraded land — Atsbi-Womberta in Tigray, Rajasthan badlands, a Ghana cotton farm, Bolivian badlands | Social Studies — Why land degrades — the cause chain |
+| 27030 | pictures/27030.webp | stone bunds following a hillside contour, with a healed gully below | Social Studies — The conservation toolkit — terraces, bunds and closures |
+| 27031 | pictures/27031.webp | a world map of trans-state rivers, with the Danube and Nile picked out | Social Studies — Rivers that cross borders |
+| 27032 | pictures/27032.webp | the Grand Ethiopian Renaissance Dam, with the Blue Nile below it | Social Studies — The world's great shared rivers — a table to map |
+| 27033 | pictures/27033.webp | the Kariba Dam on the Zambia–Zimbabwe border, run by a two-country authority | Social Studies — Sharing a river — the organisations that make it work |
+| 27034 | pictures/27034.webp | a Nile basin map with Ethiopia's tributaries in one colour, and the 1959 split shown as two shares with Ethiopia's share blank | Social Studies — The Nile — who gets the water? |
+| 27035 | pictures/27035.webp | four small scenes — a region pulling away, a signing table, a mine gate protest, two herders at a shrinking waterhole | Social Studies — When resources cause conflict |
+| 27036 | pictures/27036.webp | a world map dotted with named conflict places, one symbol per resource | Social Studies — Fights over water, land, oil and diamonds |
+| 27037 | pictures/27037.webp | elders mediating under a tree beside a courtroom — the informal and formal ends of the ladder | Social Studies — Settling resource conflicts — six ways |
+| 27038 | pictures/27038.webp | the five-stage transition diagram, with birth, death and total-population curves | Social Studies — The demographic transition model |
+| 27039 | pictures/27039.webp | the population-size and growth-rate chart, 1950 to 2100 | Social Studies — How many people will there be? Reading population projections |
+| 27040 | pictures/27040.webp | a regional-population chart with Sub-Saharan Africa's line climbing past all others | Social Studies — Where the world's growth is happening |
+| 27041 | pictures/27041.webp | a crowded city edge of informal housing beside a classroom of young people — the problem and the dividend side by side | Social Studies — Population in the developing world — pressure and dividend |
+| 27042 | pictures/27042.webp | a world support-ratio map, with Japan marked | Social Studies — Ageing countries — the support ratio |
+| 27043 | pictures/27043.webp | a three-step staircase — farms, factories, clinics — with the population curve steepening at each step | Social Studies — Why population exploded — deaths fell first |
+| 27044 | pictures/27044.webp | a four-row chart, one row per measure, showing what each counts and what each misses | Social Studies — Counting births — four fertility measures |
+| 27045 | pictures/27045.webp | the two formulas as labelled fraction bars, over a clinic scene | Social Studies — Counting deaths — death rate and infant mortality rate |
+| 27046 | pictures/27046.webp | a net-migration-by-region chart, with arrows from sender to receiver regions | Social Studies — Migration — moving for work, safety and family |
+| 27047 | pictures/27047.webp | a border gate with counters clicking in and out, and a balance needle between them | Social Studies — Counting movers — migration rates |
+| 27048 | pictures/27048.webp | a two-column direct and indirect table redrawn as two hands — one labelled, one behind the back | Social Studies — Population policies — government's open and hidden hand |
+| 27049 | pictures/27049.webp | two countries with the same GDP arrow — one with schools and clinics drawn in, one without | Social Studies — Growth is not development — the HDI |
+| 27050 | pictures/27050.webp | two debaters' desks — one holding a map like a script, the other holding a map like a menu | Social Studies — Does geography decide? Determinism versus possibilism |
+| 27051 | pictures/27051.webp | a concentric-ring land-use model, with the city at the centre | Social Studies — Von Thünen's rings — farming around a city |
+| 27052 | pictures/27052.webp | a location-triangle diagram with factory, market and two sources at its corners | Social Studies — Weber's triangle — where should the factory go? |
+| 27053 | pictures/27053.webp | three hexagon diagrams for K = 3, K = 4 and K = 7, side by side | Social Studies — Christaller's hexagons — how towns arrange themselves |
+| 27054 | pictures/27054.webp | a global temperature-change curve, 1940 to 2100 | Social Studies — Climate extremes — weather beyond the limits |
+| 27055 | pictures/27055.webp | a household asset staircase descending step by step, with each flood year marked | Social Studies — Poverty traps — how one flood makes the next one worse |
+| 27056 | pictures/27056.webp | a raised-floor house with a ditch ring, beside the flooded Baro plain | Social Studies — Case study: living with the Baro River floods |
+| 27057 | pictures/27057.webp | a world poverty-risk map, with the 11 most at-risk countries marked | Social Studies — Case study: a herd, three droughts, and the trap |
+| 27058 | pictures/27058.webp | a world distribution map of landlocked countries | Social Studies — Landlocked — countries with no sea |
+| 27059 | pictures/27059.webp | a lorry queue at a border post, with a day-counter beside it | Social Studies — What landlocked costs — Ethiopia’s road to the sea |
+| 27060 | pictures/27060.webp | an intra-African agricultural exports chart by region, 2003–2018 | Social Studies — Trading with neighbours — Africa's regional blocs |
+| 27061 | pictures/27061.webp | a ranked bar chart of the top exporters, South Africa's bar dwarfing the rest | Social Studies — Who trades what inside Africa |
+| 27062 | pictures/27062.webp | a border market, with a trader's calculator on a sack of produce | Social Studies — Why African trade leaks — barriers and informal trade |
+| 27063 | pictures/27063.webp | one unbroken forest block beside the same block cut into shrinking fragments | Social Studies — Habitats breaking apart |
+| 27064 | pictures/27064.webp | a sustainable-intensification diagram beside a single-crop field stretching to the horizon | Social Studies — Intensification — feeding more, costing the land |
+| 27065 | pictures/27065.webp | four gauges — fish, grass, forest, aquifer — each needle in the red | Social Studies — Overexploitation — taking faster than nature replaces |
+| 27066 | pictures/27066.webp | a mayapple beside a stand of purple loosestrife | Social Studies — Invaders — species out of place |
+| 27067 | pictures/27067.webp | water hyacinth mats on Lake Tana | Social Studies — Weeds on water — the hyacinth on Lake Tana |
+| 27068 | pictures/27068.webp | a spread-versus-cost curve, with the four phases marked along it | Social Studies — Stop them early — the four phases of invasion |
+| 27069 | pictures/27069.webp | a circular vicious-cycle diagram — poverty, overexploitation, degradation | Social Studies — The vicious cycle — poverty and a damaged environment |
+| 27070 | pictures/27070.webp | a vicious-cycle-of-land-degradation diagram | Social Studies — Poor land, poor people — breaking the link |
+| 27071 | pictures/27071.webp | a paired image — intact forest providing services, deforested slope putting lives at risk | Social Studies — Forests and the poor — a two-way street |
+| 27072 | pictures/27072.webp | a four-panel set — eroded soil, a dumped river, a smoky sky, an overflowing landfill | Social Studies — Degradation in all its forms |
+| 27073 | pictures/27073.webp | a farm mosaic — several crops, trees and animals on one holding | Social Studies — Sustainable development — living without eating the future |
+| 27074 | pictures/27074.webp | a city-edge settlement with queues at a water point and a clinic | Social Studies — Too many needs, too few services — DC population challenges |
+| 27075 | pictures/27075.webp | a chart of education's share of income against total fertility | Social Studies — Family size — education and income per child |
+| 27076 | pictures/27076.webp | two staircases — one doubling at each step, one adding the same step — diverging | Social Studies — Malthus — mouths multiply, food adds |
+| 27077 | pictures/27077.webp | portraits of three thinkers in a row — Malthus, Marx, Boserup — with a one-line claim under each | Social Studies — Answers to Malthus — Marx and Boserup |
+| 27078 | pictures/27078.webp | 100 workers carrying 149 dependants — the EDR table redrawn | Social Studies — Work and want of work — unemployment and dependency |
+| 27079 | pictures/27079.webp | Ethiopian photographs — pale degraded soil in Tigray, severely degraded land near Alaba Kulito | Social Studies — Three ways land breaks down |
+| 27080 | pictures/27080.webp | a world drylands map beside an Afar desert landscape | Social Studies — Desertification — when drylands give up |
+| 27081 | pictures/27081.webp | a photo triptych — drought-stricken livestock, a failed crop, a water queue in Ethiopia | Social Studies — Drought — five kinds of dry |
+| 27082 | pictures/27082.webp | an aid distribution line beside a rebuilt village grain store | Social Studies — Famine — when hunger becomes general |
+| 27083 | pictures/27083.webp | paired photographs — fuelwood collection, and forest burning for shifting cultivation | Social Studies — Why forests fall |
+| 27084 | pictures/27084.webp | a split scene — a student video-calling a teacher, and an identical student beyond the signal's edge | Social Studies — The digital divide — connected and left out |
+| 27085 | pictures/27085.webp | a hillside beside its topographic map extract of the same ground | Social Studies — Topographic maps — flat pictures of uneven land |
+| 27086 | pictures/27086.webp | a hachured landform drawing, with steep and gentle patches contrasted | Social Studies — Hachures — drawing steepness |
+| 27087 | pictures/27087.webp | a contour representation figure, with an index contour labelled | Social Studies — Contours — lines of equal height |
+| 27088 | pictures/27088.webp | four contour figures — hill, ridge, valley — each with its landform sketch | Social Studies — Reading hills, ridges and valleys from contours |
+| 27089 | pictures/27089.webp | depression and plateau contour figures, with ticks and shapes marked | Social Studies — Reading saddles, plateaus, spurs and cliffs from contours |
+| 27090 | pictures/27090.webp | a basin-and-drainage-pattern figure, with the divide drawn in | Social Studies — Drawing a watershed boundary |
+| 27091 | pictures/27091.webp | the four drainage patterns as four small map sketches in a row | Social Studies — Drainage patterns — what rivers draw |
+| 27092 | pictures/27092.webp | several data layers stacking into one finished map | Social Studies — GIS — maps that answer questions |
+| 27093 | pictures/27093.webp | a components-of-GIS diagram — hardware, software, data, people, methods | Social Studies — The five parts of a GIS |
+| 27094 | pictures/27094.webp | a real-world scene becoming point, line, polygon and grid layers | Social Studies — Raster and vector — two ways to store the world |
+| 27095 | pictures/27095.webp | an .mxd file icon with arrows pointing out to the separate data files it references | Social Studies — ArcMap documents — open, save, close |
+| 27096 | pictures/27096.webp | an ArcMap menus-and-tools figure, with the toolbar numbered | Social Studies — ArcMap tools — the toolbar and the toolbox |
+| 27097 | pictures/27097.webp | a Table of Contents panel with its four layer kinds stacked in order | Social Studies — Add, remove, display — finishing a map in ArcMap |
+| 27098 | pictures/27098.webp | a labelled world map with one landmark pinned on each continent | Social Studies — Continents — The Seven in Place |
+| 27099 | pictures/27099.webp | a trench diagram comparing the deepest point of each ocean | Social Studies — Water Bodies — The Five Oceans |
+| 27100 | pictures/27100.webp | Ethiopia's traditional climate-zone map beside an altitude staircase | Social Studies — Weather in Ethiopia — Diurnal and Seasonal Variation and the Five Agro-Climatic Zones |
+| 27101 | pictures/27101.gif | gas and dust swirling and clumping into a planet | Social Studies — How the Earth formed |
+| 27102 | pictures/27102.gif | landmasses drifting together into one block, then splitting | Social Studies — Supercontinents — Rodinia, Gondwana and Pangaea |
+| 27103 | pictures/27103.gif | a ridge opening and the two plates carrying continents away from it | Social Studies — Continental drift — continents still on the move |
+| 27104 | pictures/27104.gif | layers being laid down one on another, then an intrusion rising through them | Social Studies — Relative dating — reading the order of rock layers |
+| 27105 | pictures/27105.gif | the parent share halving step by step while the daughter share grows | Social Studies — Absolute dating — half-life clocks in rocks |
+| 27106 | pictures/27106.gif | three maps morphing one into the next as the continents slide | Social Studies — Sketching the moving map — Pangaea to today |
+| 27107 | pictures/27107.gif | the ITCZ band sliding north then south across the year, switching the savanna between rain and drought | Social Studies — Low-latitude climate regions — wet, savanna, desert |
+| 27108 | pictures/27108.gif | the tilted Earth circling the Sun, the lit half shifting between hemispheres | Social Studies — Latitude — why the equator is hot and the poles are not |
+| 27109 | pictures/27109.gif | air sinking at the subtropical high, flowing out both ways, the belt shifting with the seasons | Social Studies — Coasts, winds and pressure belts — the other climate controls |
+| 27110 | pictures/27110.gif | a temperature counter dropping 6.4 degrees for each kilometre climbed up a mountain profile | Social Studies — Ocean currents and mountains — climate's last controls |
+| 27111 | pictures/27111.gif | rain washing topsoil off a bare slope while a terraced slope holds | Social Studies — Soil under pressure |
+| 27112 | pictures/27112.gif | runoff slowing step by step down a terraced slope and dropping its soil | Social Studies — The conservation toolkit — terraces, bunds and closures |
+| 27113 | pictures/27113.gif | the birth and death curves separating, then closing again, as the stage marker travels | Social Studies — The demographic transition model |
+| 27114 | pictures/27114.gif | a seesaw of workers and elders tipping as the worker side shrinks | Social Studies — Ageing countries — the support ratio |
+| 27115 | pictures/27115.gif | arrows pulsing from sender regions to receiver regions across a world map | Social Studies — Migration — moving for work, safety and family |
+| 27116 | pictures/27116.gif | the rings lighting up one by one outward from the city | Social Studies — Von Thünen's rings — farming around a city |
+| 27117 | pictures/27117.gif | the factory point sliding toward the heavier corner as the material index changes | Social Studies — Weber's triangle — where should the factory go? |
+| 27118 | pictures/27118.gif | circles of market areas pressing into hexagons as they grow | Social Studies — Christaller's hexagons — how towns arrange themselves |
+| 27119 | pictures/27119.gif | a forest block being perforated, dissected and shrunk, step by step | Social Studies — Habitats breaking apart |
+| 27120 | pictures/27120.gif | an aquifer level falling as the pump keeps drawing | Social Studies — Overexploitation — taking faster than nature replaces |
+| 27121 | pictures/27121.gif | a green mat spreading across open water, week by week | Social Studies — Weeds on water — the hyacinth on Lake Tana |
+| 27122 | pictures/27122.gif | the cycle's arrows rotating once, each pass leaving the household poorer and the hillside barer | Social Studies — The vicious cycle — poverty and a damaged environment |
+| 27123 | pictures/27123.gif | the doubling staircase racing away from the adding staircase | Social Studies — Malthus — mouths multiply, food adds |
+| 27124 | pictures/27124.gif | a plane of rising water slicing a hill, each waterline becoming a contour ring on the map below | Social Studies — Contours — lines of equal height |
+| 27125 | pictures/27125.gif | a valley's V contours tracing themselves upstream as the eye travels | Social Studies — Reading hills, ridges and valleys from contours |
+| 27126 | pictures/27126.gif | a boundary line tracing itself from high point to high point around the basin | Social Studies — Drawing a watershed boundary |
+| 27127 | pictures/27127.gif | data layers stacking one by one into the combined map | Social Studies — GIS — maps that answer questions |
+| 27128 | pictures/27128.gif | one lake appearing three ways — photograph, polygon outline, raster grid | Social Studies — Raster and vector — two ways to store the world |
+| 27129 | pictures/27129.gif | double-clicking the .mxd and the map opening with its layers | Social Studies — ArcMap documents — open, save, close |
+| 27130 | pictures/27130.gif | a layer being dragged in, appearing on the map, then removed by right-click | Social Studies — Add, remove, display — finishing a map in ArcMap |
+| 27131 | pictures/27131.gif | climbing the altitude staircase zone by zone | Social Studies — Weather in Ethiopia — Diurnal and Seasonal Variation and the Five Agro-Climatic Zones |
+| 27132 | pictures/27132.webp | sun rays striking straight at the equator and slanting at the pole | Social Studies — Weather and Climate — The Controllers |

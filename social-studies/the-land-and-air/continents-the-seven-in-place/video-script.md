@@ -13,3 +13,5 @@ Asia is bounded by the Pacific Ocean to the east, the Indian Ocean to the south,
 Africa is second in area and in population, and the book calls it 'the continent where humankind began'.
 
 North America and South America are the two American continents.
+
+Grade 11 depth: Grade 11 depth: Africa is the second-largest continent, crossed by the equator and both tropics, holding the Sahara and the Nile, with 54 countries. Grade 11 depth: Asia is the largest continent, a third of all land, with the Himalayas and the Dead Sea. Grade 11 depth: North America is joined to South America at Panama.

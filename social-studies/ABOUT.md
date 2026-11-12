@@ -293,3 +293,25 @@ blank — and is cited as such wherever it stands as evidence.
 Taddesse Tamirat, Mohammed Hassen, the *Futuh al-Habasha*,
 Trimingham, Teshale Tibebu and the SNNPR profile — the sourcing
 shelf behind the book, recorded here as provenance.
+
+## Ethiopia, Geography Grade 11 — the book's shape, its guide's way and period map (teacher evidence)
+
+**The Grade 11 book's shape** (student book, printed pp. I–IV, 1
+and unit openings): eight units from the Formation of Continents
+to Geo-spatial Information — brainstorm-first, Ethiopia-anchored,
+map-throughout. An eight-unit road-map picture and a course-intro
+video script are named at this level; neither is a lesson.
+
+**The Grade 11 guide's way** (teacher guide, printed pp. 1–11):
+the student book re-walked as lessons with answers, plus the
+active-learning method kit and the standard lesson shape
+(pp. 5–11) — pedagogy evidence for the units it serves.
+
+**The official period map** (teacher guide appendix, printed
+pp. 3–10): Units 1–8 = 10/16/16/14/14/14/17/14 periods, 115 in
+all — the book's own weighting, filed here as structure evidence.
+
+**The guide's references** (teacher guide, printed p. 236):
+opening with de By (2001), *Principles of Geographic Information
+Systems* — the sourcing shelf for the maps-and-GIS title, recorded
+here as provenance.

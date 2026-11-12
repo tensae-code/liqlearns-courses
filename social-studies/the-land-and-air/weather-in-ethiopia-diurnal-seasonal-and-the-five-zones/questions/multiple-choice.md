@@ -17,3 +17,19 @@ a) three  b) five  c) seven
 **4. (Sub lesson 3)** (Teacher guide — evidence) A day with highest 28 and lowest 12 has range —
 a) 40  b) 16  c) 20
 **Answer: b) 16**
+
+**5. (Sub lesson 4)** Bereha lies below —
+a) 500 metres  b) 1,500 metres  c) 3,300 metres
+**Answer: a) 500 metres**
+
+**6. (Sub lesson 5)** Teff, wheat and maize mark —
+a) Woina-Dega  b) Bereha  c) Wurch
+**Answer: a) Woina-Dega**
+
+**7. (Sub lesson 5)** Dega's altitude band is —
+a) 2,300–3,300 m  b) 500–1,500 m  c) above 3,300 m
+**Answer: a) 2,300–3,300 m**
+
+**8. (Sub lesson 6)** Above 3,300 metres, the crop that still ripens is —
+a) barley  b) teff  c) sesame
+**Answer: a) barley**

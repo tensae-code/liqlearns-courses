@@ -13,3 +13,5 @@ Oceans are the largest water bodies of all — largest in the area they cover an
 The Pacific is 155.1 million km², the Atlantic 76.8, the Indian 68.1, the Southern 20.3 and the Arctic 14.1 million km².
 
 Each ocean holds named seas: the Pacific holds the Coral, Japan, China and Java seas; the Atlantic holds the Mediterranean, Caribbean and Baltic; the Indian holds the Red Sea and the Persian Gulf.
+
+Grade 11 depth: Grade 11 depth: the Arctic is the smallest ocean, ice-covered. Grade 11 depth: the Indian Ocean is the warm ocean of monsoons and chokepoints. Grade 11 depth: the Southern Ocean is the newest of the five, delimited in the year 2000 to 60 degrees south.

@@ -10,3 +10,6 @@ Draw the lesson's main picture from memory — the diagram, map, table or cross-
 
 ## Teach it on the spot
 Close the lesson. Teach the whole of sub lesson 1 aloud, as if to a younger learner, with no notes. Where you stop or guess, that is the part to re-read.
+
+## Grade 11 depth — draw and defend
+Draw the Grade 11 picture of this lesson (Ethiopia's traditional climate-zone map beside an altitude staircase with the five zones stacked) from memory, label it, and defend every label aloud to a partner.

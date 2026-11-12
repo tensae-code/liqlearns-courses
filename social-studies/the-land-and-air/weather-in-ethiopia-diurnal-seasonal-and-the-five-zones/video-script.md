@@ -20,3 +20,5 @@ The west receives rain all year.
 Five zones, hot to cold:
 Bereha. Kola. Woina Dega. Dega. Wurch.
 Each zone grows its own range of crops.
+
+Grade 11 depth: Grade 11 depth, from the student book itself: Bereha is desert lowland below 500 metres, over 30 degrees, pastoralist country — the Afar and Somali lowlands. Grade 11 depth: Woina-Dega, 1,500 to 2,300 metres, is the temperate highland zone of teff, wheat and maize. Grade 11 depth: Wurch, above 3,300 metres, is afro-alpine country, where barley is the crop that still ripens.

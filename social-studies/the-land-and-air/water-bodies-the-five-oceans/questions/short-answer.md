@@ -10,3 +10,12 @@ Answer in a sentence or a short list.
 
 **3. (Sub lesson 3)** Name two seas of the Pacific from the table.
 **Answer:** Any two of: Coral, Japan, China, Java seas.
+
+**4. (Sub lesson 4)** Which ocean is ice-covered and smallest?
+**Answer:** The Arctic.
+
+**5. (Sub lesson 5)** What is the deepest point on Earth, and where?
+**Answer:** Challenger Deep, in the Mariana Trench (Pacific).
+
+**6. (Sub lesson 6)** When was the Southern Ocean delimited?
+**Answer:** In 2000, to 60°S.
