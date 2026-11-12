@@ -324,6 +324,50 @@ student book — guide material is syllabus-level
 teacher evidence only. Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSL-science-g8-u5.md`.
 
+Band GS-N (Grade 8, Unit 7 — Physical Phenomena): 22
+new lessons, 264 questions, 37 media filed (pictures
+34700–34721, GIFs 34730–34744) — six in Light at
+Grade 8 depth and three NEW titles: Sound (5 lessons,
+TITLES entry 21), Heat (4 lessons, TITLES entry 22)
+and Electricity and Magnetism (7 lessons, TITLES entry
+23); Units 21–23 below. The primary Materials lessons
+on this ground are single whole lessons and stand
+unchanged as the new titles' recommended-first
+neighbours — the Grade 8 unit splits the ground into
+full sections with laws (Ohm's law, series/parallel
+measurement, field lines) that have no foothold in a
+single-lesson growth. The guide's six-section split
+(Vision and Imaging as its §7.2) is filed exactly as
+placed, as teacher evidence. Book errors disposed of
+exactly: Unit 7's copy-pasted Unit 6 review questions
+were carried into NO lesson's questions; §7.5.2's
+Figure 7.9 cite is wrong (the pattern is Figure 7.10)
+and is flagged, not reproduced; Activity 7.22's
+"silver cloth" table head loses to its own "white
+cloth" procedure, which the radiation lesson follows;
+the summary's two untaught claims are taught nowhere
+as Unit 7 content; the book's 120 V wall-outlet figure
+is taught as printed and noted. Pairing carried
+exactly: the Grade 8 guide is a federal new-syllabus
+book, NOT edition-matched to the Amhara student book.
+Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSN-science-g8-u7.md`.
+
+**General Science (Ethiopia, Grades 7–8) — COMPLETE
+2026-11-12.** All 14 bands built and registered: 154
+new lessons (Grade 7: 85; Grade 8: 69), 1,966
+questions, 244 media, plus 12 grown lessons deepened
+in place. Five new titles were opened (Earth and
+Space, Motion Force and Energy, Sound, Heat,
+Electricity and Magnetism). Ten lessons stand on
+teacher-guide evidence only, at acceptance 0, each
+labelled: the Grade 7 laboratory report, the seven
+kinds of reaction around the home, the atmosphere and
+measuring-the-too-big-and-the-too-small lessons,
+resource depletion, environmental degradation, the
+two Grade 8 measurement lessons, and the two Grade 8
+solar-system comparison lessons.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -441,6 +485,12 @@ teacher evidence only. Build log:
 5. **Sunlight keeps everything alive, and what light is used for** (`light/sunlight-keeps-everything-alive`) — the sun is our main light source: plants make their food with sunlight, animals eat plants, people eat both — without sunlight nothing lives; sunli…
 6. **Things light passes through** (`light/things-light-passes-through`) — some materials let light through — glass, water, air — and we test them the book's way, with a torch
 7. **Things that block light, and shadows** (`light/things-that-block-light-and-shadows`) — wall, wooden table and book block light; blocked light is why houses are dark at night and why you cast a shadow in the sun; leafy trees give shade
+8. **Light — how seeing works** (`light/light-how-seeing-works`) — two rival theories of seeing are judged on evidence — rays leaving the eyes to fetch the object, against light reflected from the object into the eye; the reflected-light account wins (Grade 8 General Science)
+9. **Light — sources, and the straight-line rule** (`light/light-sources-and-the-straight-line-rule`) — bodies split into luminous (making their own light) and non-luminous (seen only by reflected light — the Moon among them), and light travels in straight lines (Grade 8 General Science)
+10. **Materials and light — transparent, translucent, opaque** (`light/materials-and-light-transparent-translucent-opaque`) — a semi-guided investigation — predict first, then devise your own test — sorts everyday materials into the three classes the science names (Grade 8 General Science)
+11. **Reflection — laws, mirror images and the periscope** (`light/reflection-laws-mirror-images-and-the-periscope`) — reflection splits into regular (polished surfaces) and diffuse (rough surfaces) under the same two laws; a plane mirror's virtual image has four properties, and two mirrors build a periscope (Grade 8 General Science)
+12. **Refraction — why the spoon looks broken** (`light/refraction-why-the-spoon-looks-broken`) — when light crosses obliquely into a different transparent medium its direction changes at the boundary — bending towards the normal going in, away coming out (Grade 8 General Science)
+13. **Dispersion — splitting and remixing white light** (`light/dispersion-splitting-and-remixing-white-light`) — white light is a mixture of seven colours — violet, indigo, blue, green, yellow, orange, red — split by a prism because each colour bends differently, and remixed by Newton's disc (Grade 8 General Science)
 
 ## Unit 6 — Weather and Seasons
 
@@ -1564,3 +1614,29 @@ teacher evidence only. Build log:
 12. **Energy — forms and conversions** (`motion-force-and-energy/energy-forms-and-conversions`) — energy wears eight named forms — electrical, thermal, sound, radiant, chemical, nuclear, gravitational and mechanical — and its story is conversion from form to form (Grade 7 General Science)
 13. **Energy — sources, and using energy wisely** (`motion-force-and-energy/energy-sources-and-using-energy-wisely`) — energy sources split into non-renewable (finite) and renewable (endless) — and because the finite ones run out, energy must be used wisely (Grade 7 General Science)
 14. **Force, motion and energy — problem set** (`motion-force-and-energy/force-motion-and-energy-problem-set`) — the unit's review problems worked as one set — reading a speed–time graph, gravity on a falling ball, kinetic energy calculated backwards (Grade 7 General Science)
+
+
+## Unit 21 — Sound
+
+1. **Sound — vibration, volume and pitch** (`sound/sound-vibration-volume-and-pitch`) — every sound is a vibrating object setting the surrounding medium vibrating in turn; volume and pitch are two independent qualities — loudness from amplitude, pitch from frequency (Grade 8 General Science)
+2. **Sound — media and speed: solid beats liquid beats gas** (`sound/sound-media-and-speed-solid-beats-liquid-beats-gas`) — sound travels out in all directions through matter — air, liquids and solids alike — and never through a vacuum; solids carry it fastest (Grade 8 General Science)
+3. **Hearing — the path from vibration to brain** (`sound/hearing-the-path-from-vibration-to-brain`) — hearing is a relay in order — object vibrates, air vibrated, vibrations reach the ear, inner ear vibrates, electrical signals carry to the brain (Grade 8 General Science)
+4. **Echoes at work — echolocation and ultrasound** (`sound/echoes-at-work-echolocation-and-ultrasound`) — reflected sound at a boundary is an echo, heard separately only when it returns at least 0.1 s after the original — bats, dolphins, sonar and ultrasound above 20 kHz put it to work (Grade 8 General Science)
+5. **Noise pollution — harm, rights and compromise** (`sound/noise-pollution-harm-rights-and-compromise`) — noise pollution is sound that is loud, long-lasting, unpleasant or harmful — its hearing harm named, and the rights on both sides argued to a compromise (Grade 8 General Science)
+
+## Unit 22 — Heat
+
+1. **Heat — conduction, conductors and insulators** (`heat/heat-conduction-conductors-and-insulators`) — heat is transfer driven by temperature difference — from the hotter to the cooler until temperatures equalise — and conduction through contact sorts materials into conductors (copper and aluminium best) and insulators (Grade 8 General Science)
+2. **Heat — convection currents in liquids and gases** (`heat/heat-convection-currents-in-liquids-and-gases`) — in fluids the particles move freely, so warmed fluid expands, grows lighter and rises while cooler heavier fluid sinks — a convection current, traced by sawdust (Grade 8 General Science)
+3. **Heat — radiation and the black/white test** (`heat/heat-radiation-and-the-black-white-test`) — radiation transfers heat by electromagnetic waves with no contact and no particles, working even through a vacuum — and black surfaces absorb it where white reflect it, proved by a two-hour fair test (Grade 8 General Science)
+4. **Insulation — slowing heat down** (`heat/insulation-slowing-heat-down`) — an insulator slows heat transfer in BOTH directions — the defended claim of the two ice cubes, one under a wool blanket — so food, houses and the gabi all use it (Grade 8 General Science)
+
+## Unit 23 — Electricity and Magnetism
+
+1. **Circuits — source, load, wires, and open vs closed** (`electricity-and-magnetism/circuits-source-load-wires-open-and-closed`) — open tinkering with battery, wire and bulb earns the concepts: current electricity is charge flowing continuously, and a circuit runs only when its loop is closed (Grade 8 General Science)
+2. **Series and parallel circuits — one path, many paths** (`electricity-and-magnetism/series-and-parallel-circuits-one-path-many-paths`) — a series circuit is a one-way circular road — break any part and everything stops — while a parallel circuit gives each load its own branch, which is how home lighting is deduced (Grade 8 General Science)
+3. **Voltage, resistance and Ohm's law — V = IR** (`electricity-and-magnetism/voltage-resistance-and-ohms-law`) — what sets the current is two governors — voltage, the strength of the power source, and resistance — tied by Ohm's law V = IR and its three rearrangements (Grade 8 General Science)
+4. **Magnets — poles attract and repel; what is magnetic** (`electricity-and-magnetism/magnets-poles-and-magnetic-materials`) — a magnet acts without touching, its force strongest at its two poles; unlike poles attract, like poles repel, and a cut magnet is never a single pole — each piece is a whole magnet (Grade 8 General Science)
+5. **Magnetic fields — field lines, Earth's field and the compass** (`electricity-and-magnetism/magnetic-fields-earths-field-and-the-compass`) — the field around a magnet is made visible by iron filings; Earth itself is a magnet, and a compass is made from a floated needle (Grade 8 General Science)
+6. **Electromagnets — a magnet you switch on** (`electricity-and-magnetism/electromagnets-a-magnet-you-switch-on`) — a current creates a magnetic field around a wire; wound on an iron nail and switched, it lifts clips — and drops them all when the switch opens (Grade 8 General Science)
+7. **Motors and generators — electricity to motion, motion to electricity** (`electricity-and-magnetism/motors-and-generators-electricity-to-motion-motion-to-electricity`) — one machine runs both directions: the motor turns current into spin, the generator turns spin into current — closing on AC against DC (Grade 8 General Science)
