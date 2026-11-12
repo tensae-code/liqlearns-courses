@@ -619,3 +619,25 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 - IoT advantages — and what can go wrong — `new-technologies/iot-advantages-and-what-can-go-wrong/`
 - How an IoT system works — sense, connect, process, respond — `new-technologies/how-an-iot-system-works-sense-connect-process-respond/`
 - IoT applications — home, city, health, cars and farms — `new-technologies/iot-applications-home-city-health-cars-and-farms/`
+
+**Band F6 — Grade 12 Unit 6 (Fundamentals of Programming), 19 new lessons:**
+
+- Program flow control — the order code runs in — `programming/program-flow-control-the-order-code-runs-in/`
+- Conditional expressions — == is not = — `programming/conditional-expressions-equals-is-not-assignment/`
+- The if statement — do it only if it's true — `programming/the-if-statement-do-it-only-if-true/`
+- if…else — one action or the other — `programming/if-else-one-action-or-the-other/`
+- Indentation in Python — spaces that mean something — `programming/python-syntax-and-indentation-spaces-that-mean-something/`
+- if…elif…else — a chain of choices — `programming/if-elif-else-a-chain-of-choices/`
+- and / or — combining tests in one if — `programming/and-or-combining-tests-in-one-if/`
+- Loops — and the for loop over a sequence — `programming/loops-and-the-for-loop-over-a-sequence/`
+- Counting with range() — start, stop-before, step — `programming/counting-with-range-start-stop-before-step/`
+- For loops over a list and over a string — `programming/for-loops-over-a-list-and-over-a-string/`
+- break and continue — leave early, or skip one — `programming/break-and-continue-in-a-for-loop/`
+- The while loop — and the increment that ends it — `programming/the-while-loop-and-the-increment-that-ends-it/`
+- break and continue inside while — `programming/break-and-continue-inside-while/`
+- Comments — the # that the interpreter ignores — `programming/comments-in-python-the-hash-the-interpreter-ignores/`
+- Commenting out code in IDLE — Alt+3 and Alt+4 — `programming/commenting-out-code-in-idle-alt3-and-alt4/`
+- The interpreter — the layer that runs your Python — `programming/the-python-interpreter-the-layer-that-runs-your-code/`
+- From .py to .pyc to the PVM — how Python runs — `programming/from-py-to-pyc-to-the-pvm-how-python-runs/`
+- Bugs and debugging — turning on [DEBUG ON] — `programming/bugs-and-debugging-turning-on-debug-on/`
+- Breakpoints and stepping — hunting a TypeError — `programming/breakpoints-and-stepping-hunting-a-typeerror/`

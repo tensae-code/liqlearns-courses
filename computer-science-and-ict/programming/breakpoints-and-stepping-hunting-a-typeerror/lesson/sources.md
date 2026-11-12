@@ -1,0 +1,19 @@
+# Sources — Breakpoints and stepping — hunting a TypeError
+
+countries: Ethiopia
+
+**Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
+
+**Book 2:** *Information Technology, Grade 12 Teacher Guide* (teacher guide) — Ethiopia, Ministry of Education, writers Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc), eds. Gezahagn Gebeyehu Gamu, Berhane Woldegabriel Zeweldi, Temesgen Debelo Ayana, illus. Selamneh Belete Tekle, designer Dagnachew Melesew Alemayehu, August 2023, ©2023 MoE, GEQIP-E, ISBN 978-99990-0-047-5, Hawassa University, 161 PDF pp. Printed page = PDF page − 5. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-teacher-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Debug Control — Go, Step, Over, and watching variables | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 192–194 (student placement item 135) |
+| Sub lesson 2 — Breakpoints — the yellow pause line — and the trace-and-fix | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 192–194 (student placement item 135) |
+| Teacher evidence filed in this lesson (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 6, printed p. 150 — see the honesty note below for exactly what is filed and where |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+BOOK ERROR flagged: Figure 6.30 on printed p. 193 — the breakpoint figure — carries a printed Word cross-reference failure, the words 'error: reference source not found'. The breakpoint teaching itself is complete in the text and is taught in full; the broken figure reference is named here only. GUIDE FAULTS flagged (teacher item 39's caution, guide printed pp. 151–153): three of the guide's keyed Unit 6 review programs do not answer the student questions as printed — (1) the pass/fail key uses mark > 50 where the student question asks pass at 50 or above (≥ 50): this course follows the STUDENT question (see the if…else and elif lessons, where mark 50 passes); (2) the counting key uses range(1, user_input), stopping one short of the number the student question asks to reach: this course uses range(1, n + 1) (see the range lesson); (3) the key omits part 3(c) of that question — showing the variable's data type before and after reassignment — which the range lesson's sources record and whose behaviour was verified for this band (type before: int; after reassigning text: str). The guide's worked divide-by-zero walkthrough (item 38, guide printed p. 150) is filed in Sub lesson 2 as labelled teacher evidence and scripted in full in video-script.md. The calculator and alphabet review programs keyed in item 39 are practised in the elif and list/string lessons' Do It Yourself blocks (calculator shape verified: choice 1, 6 and 3 gives 9). All code in this lesson was run in Python 3: '50' + 10 raises TypeError, int('50') + 10 = 60, 50 / 0 raises ZeroDivisionError — outputs match the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions, subject to the three faults above (guide item 40).
+
+Searchable tags: breakpoint, Debug Control, Go, Step, Over, TypeError, debugging, divide by zero, Grade 12 ICT Ethiopia, Unit 6 programming

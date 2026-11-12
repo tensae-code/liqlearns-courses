@@ -373,3 +373,35 @@ gathered three ways, the origin of the word "cloud",
 service models compared by benefit, fog as the
 intelligent gateway, the IoT home in detail. The
 course now stands at 500 lessons.
+
+**Band F6 (Grade 12, Unit 6) — BUILT 2026-11-12:** 19 new
+lessons, 247 questions, 34 media filed (pictures/GIFs
+31700–31718, 31720–31734) — Fundamentals of
+Programming in the Programming title, all Python:
+flow control, conditional expressions, if, if…else,
+indentation, if…elif…else, and/or, for loops, range(),
+loops over lists and strings, break and continue in
+for and in while, comments, commenting out in IDLE,
+the interpreter, the .py → .pyc → PVM process, and
+debugging with breakpoints and stepping. Every
+program in these lessons was RUN in Python 3 before
+filing and its output matches the lesson text.
+Errors taught corrected and named in sources: the
+book's two printed "error: reference source not
+found" failures (p.171, p.193), Figure 6.10's "'on'
+Operator" caption, Key Terms listing nested if /
+nested loop though the unit never teaches them (no
+lesson invented for them), the guide's backwards
+int() wording, and the guide's three review-key
+faults against the student questions (pass at > 50
+where the student asks ≥ 50; a counting range one
+short; part 3(c) omitted) — lessons built to the
+student questions. Teacher evidence: the worked
+divide-by-zero debugging walkthrough (FULL video
+script in the breakpoints lesson). Noted for the
+course ABOUT page: the guide's 102-period Grade 12
+year and its fixed teaching rhythm, and the guide's
+keys as the build's answer source. **Grade 12 Units
+2, 4 and 6 now stand built; Units 1, 3 and 5 follow
+in Bands F1, F3 and F5.** The course now stands at
+519 lessons.
