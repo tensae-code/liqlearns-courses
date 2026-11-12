@@ -1,6 +1,6 @@
 # Sources — Torque — the twisting effect of a force
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Bahrain (solutions-manual evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Sudan
+countries: Ethiopia, Zambia (teacher-module evidence only), Bahrain (solutions-manual evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Sudan, Fiji
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -19,6 +19,10 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bahrain (solutions-m
 
 **Book 8:** *الفيزياء — للصف الثاني الثانوي (Physics — Second Secondary Year), revised edition* (student textbook) — Sudan, Sudan Ministry of Education / NCCER — title page: "المنقح" (revised); second-edition preface lists the changes. Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 16,681,047. PDF pages: 213. Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 5 units through Heat and the laws of thermodynamics, ending with unit exercises. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 9:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
+**Book 10:** *Year 12 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji, 2016. Title as printed: Year 12 Physics (Ministry of Education, Curriculum Development Unit, Fiji, 2016). Grade: 12 · Student book · Repo path: grade-12/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL mirror; GitHub Contents route timed out — see log). Byte size: 4,399,755 (no size in record) · PDF pages: 163 · Offset: printed p. N ≈ PDF p. N+2 (front matter i–ii + chapter re-start; TOC printed pp. 1–160). Verdict: COMPLETE — full text read (34,427 words); title page proves identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Torque | Grade 12 Student Textbook, printed pp. 50–51 |
@@ -29,8 +33,10 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bahrain (solutions-m
 | §1.8 — torque (முறுக்கம்) inside the rotation chapter | Sri Lanka, *Science for Technology: Physics Part II*, printed p. 8 |
 | U2 Torque (moment) of a force; torque of a couple (printed p. 37) (Syria) | Syria, *Physics & Chemistry, Grade 9 Basic*, U2 Torque (moment) of a force; torque of a couple (printed p. 37) — printed p. 29 |
 | Unit 3 Torque and equilibrium (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. ~70 |
+| Ch. 5 Moments (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 5 Moments — principle of moments, levers — printed p. 34 |
+| Ch. 1 §1.5 Moments (Fiji, Year 12) | Fiji, *Year 12 Physics*, Ch. 1 §1.5 Moments — printed p. 45 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Sri Lanka, Syria, Sudan).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Sri Lanka, Syria, Sudan, Fiji).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

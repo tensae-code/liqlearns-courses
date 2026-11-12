@@ -1,6 +1,6 @@
 # Sources — Energy — forms and conversions
 
-countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan
+countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabo
 
 **Book 9:** *الفيزياء — للصف الأول الثانوي (Physics — First Secondary Year)* (student textbook) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht al-Ruda. ISBN 978-99942-53-54-8; legal deposit 741/2008; prepared by staff of Sudan University of Science and Technology. Grade 10 (First Secondary) · Student book · Repo path: grade-10/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books. Byte size: 17,263,083. PDF pages: 89. Offset: printed p. 1 ≈ PDF p. 5 (printed = PDF − 4). Verdict: COMPLETE — the whole book is the mechanics volume (its preface scopes it to the science of motion/mechanics); 5 chapters, ending with the energy chapter and the deposit page. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 10:** *Year 12 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji, 2016. Title as printed: Year 12 Physics (Ministry of Education, Curriculum Development Unit, Fiji, 2016). Grade: 12 · Student book · Repo path: grade-12/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL mirror; GitHub Contents route timed out — see log). Byte size: 4,399,755 (no size in record) · PDF pages: 163 · Offset: printed p. N ≈ PDF p. N+2 (front matter i–ii + chapter re-start; TOC printed pp. 1–160). Verdict: COMPLETE — full text read (34,427 words); title page proves identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight forms of energy | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 193–194 |
@@ -33,10 +35,11 @@ countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabo
 | Theme: Energy, forms of energy (programme evidence) | Haiti, *Programme détaillé NS, Physique 2e année*, Theme: Energy, forms of energy, printed p. 51 |
 | U2 Energy and its transformations (Syria) | Syria, *Physics & Chemistry, Grade 9 Basic*, U2 Energy and its transformations — printed p. 55 |
 | Ch 5.3: energy and its nine listed forms (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. 69 |
+| Ch. 2 Energy §§2.1–2.2 (Fiji, Year 12) | Fiji, *Year 12 Physics*, Ch. 2 Energy §§2.1–2.2 Energy transformation, heat energy — printed p. 75 |
 
 | What is energy? (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 5e année*, Palier 3, Leçon 24: Qu'est-ce que l'énergie?, printed p. 29 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Argentina, Syria, Sudan).** Bolivia is named as teacher-compendium evidence only (Compendio para Maestras y Maestros, Área Física 2023–2024 — teacher compendium), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Argentina, Syria, Sudan, Fiji).** Bolivia is named as teacher-compendium evidence only (Compendio para Maestras y Maestros, Área Física 2023–2024 — teacher compendium), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 Placement: Student item 88 — g07-student-placements.md (Unit 7). This lesson rests on the student book only.
 

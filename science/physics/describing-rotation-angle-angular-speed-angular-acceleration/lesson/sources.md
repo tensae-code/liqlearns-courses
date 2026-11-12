@@ -1,6 +1,6 @@
 # Sources — Describing rotation — angle, angular speed, angular acceleration
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Sri Lanka
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Sri Lanka, Fiji
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -8,13 +8,17 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Sri Lanka
 
 
 **Book 3:** *Science for Technology: Physics Part II* (student textbook) — Sri Lanka, Educational Publications Department, first edition 2016. Title as printed: தொழினுட்பவியலுக்கான விஞ்ஞானம், பௌதிகவியல் பகுதி – II; G.C.E. (A/L) Technology stream; Educational Publications Department; first edition 2016. Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/science-for-technology/textbook/physics-part-2.pdf · Release: mid-size-books-5. Byte size: 19,930,228 · PDF pages: 124 · Offset: printed p. N = PDF p. N+8 (printed p. 1 = PDF p. 9). Verdict: COMPLETE — identity proven by cover/title/imprint; full contents (printed pp. vii–viii) read; Chapter 1 read at its opening (rotation vs circular motion, Earth/fan/grindstone examples). Read basis: contents-anchored read with chapter-opening verification (image-only scan). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
+
+**Book 4:** *Physics for Year 13* (student textbook) — Fiji, Ministry of Education, Heritage and Arts, Fiji — Curriculum Advisory Services; based on the Year 13 Physics Syllabus 2018. Title as printed: Physics for Year 13 (Ministry of Education, Heritage and Arts, Fiji — Curriculum Advisory Services; based on the Year 13 Physics Syllabus 2018). Grade: 13 · Student book · Repo path: grade-13/gov/fiji/physics/student/full-year.pdf · Release: mid-size-books-7. Byte size: 12,431,417 (release asset; no size in record) · PDF pages: 221 · Offset: printed p. N ≈ PDF p. N+4 (front matter i–iv + reference pages). Verdict: COMPLETE — full text read (45,871 words); copyright/acknowledgement pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Rotational kinematics — angular displacement, velocity, acceleration | Grade 12 Student Textbook, printed pp. 39–41 |
 | §8.1 Rotational Motion — angular displacement/velocity/acceleration (solutions manual — evidence) | Bahrain, *فيز 217 (Physics 217) Term 2 — Solutions Manual for Glencoe Physics: Principles and Problems*, §8.1 (Ch. 8 Rotational Motion), solutions from PDF p. 84 |
 | Ch. 1, §§1.1–1.7 — angular displacement, angular velocity, rotational frequency, period, tangential velocity, ω–v relation, angular acceleration | Sri Lanka, *Science for Technology: Physics Part II*, printed pp. 3–8 |
+| Strand 1 §§1.4–1.5 Rotational kinematics and dynamics (Fiji, Year 13) | Fiji, *Physics for Year 13*, Strand 1 §§1.4–1.5 Rotational kinematics and dynamics — printed p. 17 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Sri Lanka).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Sri Lanka, Fiji).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

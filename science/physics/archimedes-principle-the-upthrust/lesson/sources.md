@@ -1,6 +1,6 @@
 # Sources — Archimedes' principle — the upthrust
 
-countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia
+countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sr
 
 **Book 9:** *Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM)* (student textbook) — Malaysia, Ministry of Education Malaysia. Title as printed: Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM), Ministry of Education Malaysia; Koay Kheng Chuan, Chia Song Choy et al.; Penerbit Bestari Sdn. Bhd., first published 2020, ISBN 978-983-092-447-2, Book Serial No. 0130. Grade: Form 5 (= Grade 11) · Kind: student · Files: grade-11/gov/malaysia/fizik/student/full-year-dlp.pdf (DLP) and grade-11/gov/malaysia/fizik/student/full-year.pdf (Malay) — the Malay and DLP files are the SAME book in two languages, cited together in this one entry; Malaysia counts ONCE per lesson. Offset: printed pages are the textbook's own contents pages. Verdict: COMPLETE (full contents read at section level; Ch. 1, 2 and 4 section titles confirmed against the bilingual KSSM module contents). Reading route, on the record: placements were made from public copies of the same editions and afterwards verified against the secured GitHub files — identical ISBNs/serial numbers (verification re-pull: Form 5 DLP asset 89,457,972 bytes, 267 PDF pages, Book Serial No. 0130/KPM 2020, ISBN 978-983-092-447-2; Form 5 Malay asset 85,778,654 bytes, 268 PDF pages, Malay edition's own ISBN 978-983-092-446-5). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/malaysia-placements.md.
 
+**Book 10:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Archimedes' principle and buoyant force | Grade 12 Student Textbook, printed pp. 96–100 |
@@ -32,7 +34,8 @@ countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sr
 | U2 Archimedes' thrust (Syria) | Syria, *Physics & Chemistry, Grade 7 Basic*, U2 Archimedes' thrust — printed p. 88 |
 | Density, pressure and buoyancy: Vzgon in plavanje (Buoyancy and floating); Plavanje v vodi in zraku (Floating in water and in air) (Slovenia) | Slovenia, *Fizika 8*, Density, pressure and buoyancy: Vzgon in plavanje (Buoyancy and floating) — printed p. 241 (unit folder 164); Plavanje v vodi in zraku (Floating in water and in air) — printed p. 251 (unit folder 165) |
 | Ch. 2 Pressure, §2.5 Archimedes' Principle (Malaysia) | Malaysia, *Physics Form 5*, Ch. 2, §2.5 Archimedes' Principle |
+| Ch. 10 §9.30 Archimedes' principle (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 10 §9.30 Archimedes' principle, floating/sinking — printed p. 77 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, archimedes' principle — the upthrust, density, pressure, teacher, palestine, sri lanka

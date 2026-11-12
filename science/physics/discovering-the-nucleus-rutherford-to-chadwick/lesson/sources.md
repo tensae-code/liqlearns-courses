@@ -1,6 +1,6 @@
 # Sources — Discovering the nucleus — Rutherford to Chadwick
 
-countries: Ethiopia, Barbados, Malaysia
+countries: Ethiopia, Barbados, Malaysia, Fiji
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Barbados, Malaysia
 
 **Book 3:** *Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM)* (student textbook) — Malaysia, Ministry of Education Malaysia. Title as printed: Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM), Ministry of Education Malaysia; Koay Kheng Chuan, Chia Song Choy et al.; Penerbit Bestari Sdn. Bhd., first published 2020, ISBN 978-983-092-447-2, Book Serial No. 0130. Grade: Form 5 (= Grade 11) · Kind: student · Files: grade-11/gov/malaysia/fizik/student/full-year-dlp.pdf (DLP) and grade-11/gov/malaysia/fizik/student/full-year.pdf (Malay) — the Malay and DLP files are the SAME book in two languages, cited together in this one entry; Malaysia counts ONCE per lesson. Offset: printed pages are the textbook's own contents pages. Verdict: COMPLETE (full contents read at section level; Ch. 1, 2 and 4 section titles confirmed against the bilingual KSSM module contents). Reading route, on the record: placements were made from public copies of the same editions and afterwards verified against the secured GitHub files — identical ISBNs/serial numbers (verification re-pull: Form 5 DLP asset 89,457,972 bytes, 267 PDF pages, Book Serial No. 0130/KPM 2020, ISBN 978-983-092-447-2; Form 5 Malay asset 85,778,654 bytes, 268 PDF pages, Malay edition's own ISBN 978-983-092-446-5). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/malaysia-placements.md.
 
+**Book 4:** *Physics for Year 13* (student textbook) — Fiji, Ministry of Education, Heritage and Arts, Fiji — Curriculum Advisory Services; based on the Year 13 Physics Syllabus 2018. Title as printed: Physics for Year 13 (Ministry of Education, Heritage and Arts, Fiji — Curriculum Advisory Services; based on the Year 13 Physics Syllabus 2018). Grade: 13 · Student book · Repo path: grade-13/gov/fiji/physics/student/full-year.pdf · Release: mid-size-books-7. Byte size: 12,431,417 (release asset; no size in record) · PDF pages: 221 · Offset: printed p. N ≈ PDF p. N+4 (front matter i–iv + reference pages). Verdict: COMPLETE — full text read (45,871 words); copyright/acknowledgement pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How the nucleus was found — Rutherford and the neutron | Grade 11 Student Textbook, printed pp. 291–298 |
 | Ch. 32 Models of the Atom — Dalton→Thomson→Rutherford→Bohr→wave model | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 32 Models of the Atom, printed p. 496 |
 | Ch. 5 Electronics, §5.1 Electron (Malaysia) | Malaysia, *Physics Form 5*, Ch. 5 Electronics, §5.1 Electron — printed p. 174 — thermionic emission and cathode-ray oscilloscope open electronics (the electron first, devices after) |
+| Strand 8 §8.1 History of the Atom (Fiji, Year 13) | Fiji, *Physics for Year 13*, Strand 8 §8.1 History of the Atom — printed p. 194 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Barbados, Malaysia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Malaysia, Fiji).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

@@ -1,6 +1,6 @@
 # Sources — Hooke's law — springs stretch in proportion
 
-countries: Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia
+countries: Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia, Fiji
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia
 
 **Book 6:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
 
+**Book 7:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Hooke's law — springs stretch in proportion | Ethiopia, *Grade 9 Student Textbook*, printed pp. 122–128 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia
 | Elastic potential energy (Nicaragua) | Nicaragua, *Física — Módulo Autoformativo, Décimo grado*, §4.2.5 Energía potencial elástica, printed p. 162 |
 | §3.4 — Hooke's law | Sri Lanka, *Science for Technology: Physics Part II*, printed p. 50 |
 | Forces: Merjenje sil (Measuring forces — the spring dynamometer) and Hookov zakon (Hooke's law) (Slovenia) | Slovenia, *Fizika 8*, Forces: Merjenje sil (Measuring forces — the spring dynamometer) — printed p. 111 (unit folder 152); Hookov zakon (Hooke's law) — printed p. 118 (unit folder 218) |
+| Ch. 9 §9.60 Hooke's law (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 9 §9.60 Hooke's law — printed p. 67 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Ecuador, Nicaragua, Sri Lanka, Slovenia, Fiji).**
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

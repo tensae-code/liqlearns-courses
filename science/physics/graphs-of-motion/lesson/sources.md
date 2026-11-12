@@ -1,6 +1,6 @@
 # Sources — Graphs of motion — reading slopes and areas
 
-countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia
+countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia
 
 **Book 6:** *Physics Form 4, Kurikulum Standard Sekolah Menengah (KSSM)* (student textbook) — Malaysia, Ministry of Education Malaysia. Title as printed: Physics Form 4, Kurikulum Standard Sekolah Menengah (KSSM), Ministry of Education Malaysia; writers incl. Chia Song Choy, Koay Kheng Chuan, Dr. Ooi Hean Beng et al.; Sasbadi Sdn. Bhd., first published 2019, ISBN 978-983-77-1530-1, Book Serial No. 0175KPM 2019. Grade: Form 4 (= Grade 10) · Kind: student · Files: grade-10/gov/malaysia/fizik/student/full-year-dlp.pdf (DLP) and grade-10/gov/malaysia/fizik/student/full-year.pdf (Malay) — the Malay and DLP files are the SAME book in two languages, cited together in this one entry; Malaysia counts ONCE per lesson. Offset: printed pages are the textbook's own contents pages. Verdict: COMPLETE (full contents read at section level from the textbook's own contents pages). Reading route, on the record: placements were made from public copies of the same editions and afterwards verified against the secured GitHub files — identical ISBNs/serial numbers (verification re-pull: Form 4 DLP asset 100,977,794 bytes, 316 PDF pages, Book Serial No. 0175/KPM 2019, ISBN 978-983-77-1530-1; Form 4 Malay asset 50,666,448 bytes, 298 PDF pages, Malay edition's own ISBN 978-967-5332-40-1). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/malaysia-placements.md.
 
+**Book 7:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Graphs of motion — reading slopes and areas | Ethiopia, *Grade 9 Student Textbook*, printed pp. 53–62 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia
 | Describing motion curves: position–time, velocity–time cases (fixed, uniform, uniformly accelerated) | Palestine, *Physics for Grade 10*, Unit 1, Ch. 3: Describing Motion (Kinematics), printed p. 32 |
 | Uniform motion: Grafična predstavitev gibanja (Graphical representation of motion) (Slovenia) | Slovenia, *Fizika 8*, Uniform motion: Grafična predstavitev gibanja (Graphical representation of motion) — printed p. 91 (unit folder 216) |
 | Ch. 2 Force and Motion I, §2.2 Linear Motion Graphs (Malaysia) | Malaysia, *Physics Form 4*, Ch. 2, §2.2 Linear Motion Graphs — printed p. 37 |
+| Ch. 6 Kinematics (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 6 Kinematics — displacement/time and velocity/time graphs, equations of motion — printed p. 38 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji).**
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

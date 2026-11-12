@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 
 **Book 8:** *الفيزياء — للصف الأول الثانوي (Physics — First Secondary Year)* (student textbook) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht al-Ruda. ISBN 978-99942-53-54-8; legal deposit 741/2008; prepared by staff of Sudan University of Science and Technology. Grade 10 (First Secondary) · Student book · Repo path: grade-10/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books. Byte size: 17,263,083. PDF pages: 89. Offset: printed p. 1 ≈ PDF p. 5 (printed = PDF − 4). Verdict: COMPLETE — the whole book is the mechanics volume (its preface scopes it to the science of motion/mechanics); 5 chapters, ending with the energy chapter and the deposit page. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 9:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sources: non-renewable (wood as the book lists it, fossil fuels, nuclear fuels) and renewable (sun, wind, water) | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 194–195 |
@@ -31,11 +33,12 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 | Bloc 4: conservation and degradation of energy, energy efficiency and saving (curriculum programme — evidence) | Andorra, *Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*, Bloc 4, printed p. 31 |
 | Work and energy: Energijski viri (Energy sources) (Slovenia) | Slovenia, *Fizika 9*, Work and energy: Energijski viri (Energy sources) — printed p. 36 (unit folder 174) |
 | Ch 5.3.1: sources of energy and their importance (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. ~70 |
+| Ch. 9 §9.70 Sources of energy (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 9 §9.70 Sources of energy — printed p. 69 |
 
 | Energy sources — Gabon's primary way in, braided into the palier competence statement (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 3: Les sources d'énergie, printed p. 30 |
 | Renewable sources named and localised — hydroelectric, solar, wind; Gabon's rivers make hydro concrete (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 4e année*, Palier 1: L'énergie hydroélectrique, solaire, éolienne, printed p. 3 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Argentina, Slovenia, Sudan).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
 
 Placement: Student item 89 — g07-student-placements.md (Unit 7), extended by Teacher items 16 and 17 — g07-teacher-placements.md, filed above as labelled teacher-evidence parts; the lesson's acceptance count stays 1 on the student book. BOOK ERRORS, taught corrected and flagged here: (1) the energy-conservation paragraph on the student book's printed p. 195 is duplicated verbatim inside itself — it is taught once here; (2) the book lists wood among non-renewable sources — taught as the book sorts it, with the tension named in talk (trees regrow, but the book's finite list is the lesson's rule). PAIRING: see the warning under Book 2.
 

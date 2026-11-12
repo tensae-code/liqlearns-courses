@@ -1,6 +1,6 @@
 # Sources — Newton's second law — F = ma
 
-countries: Ethiopia, Samoa (curriculum evidence only), Ecuador, Palestine, Papua New Guinea (teacher-guide evidence only), Barbados, Bahamas (curriculum evidence only), Sri Lanka, Slovenia, Malaysia, Sudan
+countries: Ethiopia, Samoa (curriculum evidence only), Ecuador, Palestine, Papua New Guinea (teacher-guide evidence only), Barbados, Bahamas (curriculum evidence only), Sri Lanka, Slovenia, Malaysia, Sudan, Fiji
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Samoa (curriculum evidence only), Ecuador, Palestine, Papua
 
 **Book 11:** *الفيزياء — للصف الأول الثانوي (Physics — First Secondary Year)* (student textbook) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht al-Ruda. ISBN 978-99942-53-54-8; legal deposit 741/2008; prepared by staff of Sudan University of Science and Technology. Grade 10 (First Secondary) · Student book · Repo path: grade-10/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books. Byte size: 17,263,083. PDF pages: 89. Offset: printed p. 1 ≈ PDF p. 5 (printed = PDF − 4). Verdict: COMPLETE — the whole book is the mechanics volume (its preface scopes it to the science of motion/mechanics); 5 chapters, ending with the energy chapter and the deposit page. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 12:** *Year 12 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji, 2016. Title as printed: Year 12 Physics (Ministry of Education, Curriculum Development Unit, Fiji, 2016). Grade: 12 · Student book · Repo path: grade-12/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL mirror; GitHub Contents route timed out — see log). Byte size: 4,399,755 (no size in record) · PDF pages: 163 · Offset: printed p. N ≈ PDF p. N+2 (front matter i–ii + chapter re-start; TOC printed pp. 1–160). Verdict: COMPLETE — full text read (34,427 words); title page proves identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Newton's second law | Grade 11 Student Textbook, printed pp. 102–107 |
@@ -39,7 +41,8 @@ countries: Ethiopia, Samoa (curriculum evidence only), Ecuador, Palestine, Papua
 | Accelerated motion: Zveza med maso, silo in pospeškom (The relation between mass, force and acceleration) (Slovenia) | Slovenia, *Fizika 9*, Accelerated motion: Zveza med maso, silo in pospeškom (The relation between mass, force and acceleration) — printed p. 15 (unit folder 171) |
 | Ch. 2 Force and Motion I, §2.6 Force (Malaysia) | Malaysia, *Physics Form 4*, Ch. 2, §2.6 Force — printed p. 64 |
 | Ch 4 Newton's laws (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. 42 |
+| Ch. 1 §1.4 Forces (Fiji, Year 12) | Fiji, *Year 12 Physics*, Ch. 1 §1.4 Forces — printed p. 27 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Ecuador, Palestine, Barbados, Sri Lanka, Slovenia, Malaysia, Sudan).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 9 countries (Ethiopia, Ecuador, Palestine, Barbados, Sri Lanka, Slovenia, Malaysia, Sudan, Fiji).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Searchable tags: physics, grade 11, dynamics, newton's second law — f = ma, acceleration, ecuador, palestine, sri lanka

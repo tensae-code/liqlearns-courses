@@ -1,6 +1,6 @@
 # Sources — Motors and generators
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Syria
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Syria, Fiji
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (cu
 
 **Book 5:** *الفيزياء والكيمياء للصف التاسع الأساسي (Physics & Chemistry, Grade 9 Basic)* (student textbook) — Syria, Ministry of Education; 2025–2026 printing, first printed 2021–2022. Combined physics-and-chemistry book. Image-only PDF — read from rendered pages. Grade: 9 · Student book · Release: full-quality-oversized-books · Asset: grade-09-gov-syria-physics-chemistry-student-full-year.pdf · Byte size: 216,070,616 (matched asset) · PDF pages: 180 · Offset: printed page = PDF page (folios 2–8 verified). Verdict: COMPLETE (contents end with U6 radioactivity at printed p. 173 inside 180 PDF pages). Structure: U1 Electricity & magnetism (physics); U2 Mechanics & energy (physics); U3 Waves & oscillations (physics); U4 Inorganic chemistry; U5 Organic chemistry; U6 Nuclear chemistry. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/syria-placements.md.
 
+**Book 6:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Relays and the electric bell | Grade 12 Student Textbook, printed pp. 134–137 |
@@ -20,7 +22,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (cu
 | Electric motors and generators (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Electromagnetism, Topic Electric Motors and Generators, printed p. 88 approx. |
 | Fleming's left-hand rule, DC motor, moving-coil galvanometer (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiii |
 | U1 Project: electric motors and their kinds (Syria) | Syria, *Physics & Chemistry, Grade 9 Basic*, U1 Project: electric motors and their kinds — printed p. 27 |
+| Ch. 16 §§16.40–16.70 Motor effect, induction, generator (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 16 §§16.40–16.70 Motor effect, induction, generator effect — printed p. 161 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Syria).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Syria, Fiji).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Searchable tags: physics, grade 12, electromagnetism, motors and generators, generator

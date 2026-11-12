@@ -1,6 +1,6 @@
 # Sources — Scalars and vectors
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine, Nigeria (teacher-guide evidence only), Italy, Sudan
+countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine, Nigeria (teacher-guide evidence only), Italy, Sudan, Fiji
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine
 
 **Book 8:** *الفيزياء — للصف الثاني الثانوي (Physics — Second Secondary Year), revised edition* (student textbook) — Sudan, Sudan Ministry of Education / NCCER — title page: "المنقح" (revised); second-edition preface lists the changes. Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 16,681,047. PDF pages: 213. Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 5 units through Heat and the laws of thermodynamics, ending with unit exercises. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 9:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
+**Book 10:** *Year 12 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji, 2016. Title as printed: Year 12 Physics (Ministry of Education, Curriculum Development Unit, Fiji, 2016). Grade: 12 · Student book · Repo path: grade-12/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL mirror; GitHub Contents route timed out — see log). Byte size: 4,399,755 (no size in record) · PDF pages: 163 · Offset: printed p. N ≈ PDF p. N+2 (front matter i–ii + chapter re-start; TOC printed pp. 1–160). Verdict: COMPLETE — full text read (34,427 words); title page proves identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Scalars and vectors; kinds of vectors | Grade 11 Student Textbook, printed pp. 17–21 |
@@ -28,8 +32,10 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine
 | Theme 1 Topic 2: vectors (teacher guide — evidence) | Nigeria, *Excellence in Physics for Senior Secondary — Teacher's Guide Book 2*, Theme 1 Topic 2, printed p. 3 |
 | Vectors (Italy) | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, Ch.1 Vectors: components (printed p. 19), multiplying a vector by a vector (p. 22), vector quantities for equilibrium (p. 26) — printed p. 18 |
 | Unit 1 Vectors: scalar vs vector quantities, introduced through locating Sennar and Kosti from Khartoum (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. 1 |
+| Ch. 3 Scalars and vectors (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 3 Scalars and vectors — addition/subtraction, Pythagoras, scalar multiplication — printed p. 18 |
+| Ch. 1 Mechanics §§1.1–1.3 (Fiji, Year 12) | Fiji, *Year 12 Physics*, Ch. 1 Mechanics §§1.1–1.3 — measurements, relationships, vectors — printed p. 1 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nicaragua, Palestine, Italy, Sudan).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* and *Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guides), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Nicaragua, Palestine, Italy, Sudan, Fiji).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* and *Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guides), not added to this count.
 
 Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 
