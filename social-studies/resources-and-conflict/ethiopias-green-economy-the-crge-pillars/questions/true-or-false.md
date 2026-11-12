@@ -8,3 +8,6 @@ Say whether each sentence is true or false.
 **2. (Sub lesson 2)** Agriculture is where the green economy must first prove itself.
 **Answer: True**
 
+
+**3. (Sub lesson 3)** Protecting forests includes cutting fuelwood demand.
+**Answer: True**

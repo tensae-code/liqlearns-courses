@@ -14,6 +14,10 @@ Questionnaires and interview schedules must be reviewed — by the teacher, in s
 
 In the field, interviewers minimise disturbance to the people and places they study. And as on all fieldwork, first-aid kits are required equipment — asking people properly includes being ready if anything goes wrong.
 
+## Sub lesson 3 — Questionnaires and interviews as research methods — the Grade 12 frame
+
+The Grade 12 student book sets asking inside the whole research frame: questionnaires and interviews are methods — techniques — chosen inside an approach. A counting study asks many people the same fixed questions by questionnaire, producing numbers that can be replicated; a qualitative study interviews fewer people more deeply, producing understanding that numbers cannot carry. The Grade 9 guide's rules from Sub lessons 1–2 — teacher review before surveying, a letter of introduction, minimum disturbance — are how either method is carried out properly in the field.
+
 ## Say it to your companion
 
 Tell your companion the proper way to ask people in the field, before and during.

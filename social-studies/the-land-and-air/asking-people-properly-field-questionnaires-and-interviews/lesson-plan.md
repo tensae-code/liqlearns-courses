@@ -12,6 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **Before you ask (teacher guide — evidence)** — review and introduction
 2. **While you ask (teacher guide — evidence)** — minimum disturbance, first aid ready
+3. **Questionnaires and interviews as research methods — the Grade 12 frame**
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -22,6 +23,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Name the review requirement.
 2. Say what interviewers carry.
 3. State the disturbance rule.
+
+3. Answer, from the lesson alone, the questions of sub lesson 3 (Questionnaires and interviews as research methods — the Grade 12 frame).
 
 ## What you need
 Paper and a pencil. Nothing else, beyond what hands-on.md names for its activities.

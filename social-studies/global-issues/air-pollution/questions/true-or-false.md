@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 1)** Clean air has a pleasant smell.
 **Answer: False** — clean air has no smell at all.
+
+**4. (Sub lesson 3)** Ground-level ozone and the ozone layer have the same effect on health.
+**Answer: False**

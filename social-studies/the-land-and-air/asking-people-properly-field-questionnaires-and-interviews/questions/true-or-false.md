@@ -8,3 +8,6 @@ Say whether each sentence is true or false.
 **2. (Sub lesson 2)** Asking properly includes being ready if anything goes wrong.
 **Answer: True**
 
+
+**3. (Sub lesson 3)** The approach is chosen before the method.
+**Answer: True**

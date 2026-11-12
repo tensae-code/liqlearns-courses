@@ -14,6 +14,10 @@ Ethiopia’s Climate Resilient Green Economy vision, as printed: to reach middle
 
 On the farm the vision becomes climate-smart agriculture: farming that raises yields, withstands climate shocks and keeps emissions low together — trees, crops and livestock integrated on the same holding. Agriculture, the backbone sector, is where the green economy must first prove itself.
 
+## Sub lesson 3 — The four pillars — the Grade 12 statement
+
+The Grade 12 book states the CRGE as about 60 prioritised, sector-based initiatives aiming at middle-income status by 2025 on a green path, built on four pillars. (i) Improving crop and livestock production practices — higher farmer income and food security at lower emissions, limiting soil emissions and land-expansion pressure on forests, raising livestock productivity. (ii) Protecting and re-establishing forests for economic and ecosystem services including carbon stocks — cutting fuelwood demand, afforestation and reforestation, area closure. (iii) Expanding renewable electricity — hydro, geothermal, solar, wind — for domestic and regional markets, supply growing about 14% a year, with export potential to neighbours. (iv) Leapfrogging to modern energy-efficient technologies in transport, industry and buildings — fuel-efficiency standards, and an electric rail network on renewable power. Four pillars, one promise: grow, without cooking the ground you grow on.
+
 ## Say it to your companion
 
 Tell your companion the CRGE vision in full, and how climate-smart agriculture carries it on a farm.

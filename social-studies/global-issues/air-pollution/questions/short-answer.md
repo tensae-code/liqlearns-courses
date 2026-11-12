@@ -10,3 +10,6 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 2)** Why does the book begin with the bad smell of wastes?
 **Answer:** Because it is the everyday sign of air pollution that pupils can detect themselves — clean air has no smell, so a bad smell announces something toxic has mixed into the air.
+
+**4. (Sub lesson 3)** How do the two ozones differ?
+**Answer:** Ground-level ozone (from NOx and VOCs) is a harmful pollutant; the stratospheric ozone layer protects by absorbing ultraviolet radiation.

@@ -18,3 +18,15 @@ a) trees, crops and livestock  b) only trees  c) only irrigation
 a) use more fuel  b) clear more forest  c) keep emissions low
 **Answer: c) keep emissions low**
 
+
+**5. (Sub lesson 3)** The CRGE holds about how many prioritised initiatives?
+a) 6  b) 60  c) 600
+**Answer: b) 60**
+
+**6. (Sub lesson 3)** Pillar (iii) expands…
+a) coal power  b) renewable electricity  c) diesel generation
+**Answer: b) renewable electricity**
+
+**7. (Sub lesson 3)** The electric rail network is part of pillar…
+a) (i)  b) (ii)  c) (iv)
+**Answer: c) (iv)**

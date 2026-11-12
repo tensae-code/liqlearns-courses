@@ -8,3 +8,6 @@ Answer in a short sentence.
 **2. (Sub lesson 2)** Why agriculture first?
 **Answer: It is the backbone sector — most jobs, exports and food stand on it.**
 
+
+**3. (Sub lesson 3)** Name the four pillars in order.
+**Answer:** (i) Better crop and livestock practices; (ii) protecting and re-establishing forests; (iii) expanding renewable electricity; (iv) leapfrogging to energy-efficient technology in transport, industry and buildings.

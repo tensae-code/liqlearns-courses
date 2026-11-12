@@ -4883,3 +4883,132 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 28765 | pictures/28765.webp | Picture — a maze solved three ways, one thinker frozen at the entrance | Civics and Citizenship — Ethiopia — Getting better at critical thinking — strategies that work |
 | 28766 | pictures/28766.webp | Picture — a woman at a fork with a water pot, a bird above one path | Civics and Citizenship — Ethiopia — Critical thinking in problem solving — evidence before omens |
 | 28767 | pictures/28767.webp | Picture — a key labelled critical thinking unlocking a door labelled problem solved | Civics and Citizenship — Ethiopia — Critical thinking in problem solving — evidence before omens |
+| 26900 | pictures/26900.webp | one dimension drawn both ways — aligned figure and horizontal figure | Technology & Design — Dimensioning — lines, symbols |
+| 26901 | pictures/26901.webp | plate dimensioned twice — Ø20 size; 50 / 30 location to centre | Technology & Design — Size and location dimensions |
+| 26902 | pictures/26902.webp | stepped bar in chain (30/40/50) and parallel (30/70/120 from datum) arrangements | Technology & Design — Arranging dimensions |
+| 26903 | pictures/26903.webp | counter-bored hole block, note "Ø10 THRU / CB Ø18, 5 DEEP", centre cross | Technology & Design — Placing dimensions |
+| 26904 | pictures/26904.webp | tin can beside its flat development (rectangle = circumference + base circle) | Technology & Design — Surface development |
+| 26905 | pictures/26905.gif | flat box development folding up into an open box | Technology & Design — Surface development |
+| 26906 | pictures/26906.webp | prism, cone, oblique pyramid, each beside its development | Technology & Design — Developing solids |
+| 26907 | pictures/26907.gif | cone's radial development sweeping open like a fan | Technology & Design — Developing solids |
+| 26908 | pictures/26908.webp | cylinder piercing a prism, intersection curve with piercing points on the prism face | Technology & Design — Intersections |
+| 22300 | pictures/22300.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — climate-change-the-basic-concepts |
+| 22301 | pictures/22301.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-warming-trend-what-the-record-shows |
+| 22302 | pictures/22302.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — natural-climate-change-milankovitch-cycles |
+| 22303 | pictures/22303.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — sun-dust-and-volcanoes-natural-coolers-and-warmers |
+| 22304 | pictures/22304.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — human-causes-of-climate-change |
+| 22305 | pictures/22305.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — consequences-of-climate-change-heat-rain-sea |
+| 22306 | pictures/22306.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — consequences-poles-ecosystems-people |
+| 22307 | pictures/22307.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — adaptation-living-with-climate-change |
+| 22308 | pictures/22308.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — mitigation-cutting-the-gases |
+| 22309 | pictures/22309.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — climate-conventions-how-the-world-organised |
+| 22310 | pictures/22310.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — kyoto-paris-and-carbon-neutrality |
+| 22311 | pictures/22311.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — variability-is-not-change-the-discipline-of-a-data-record |
+| 22312 | pictures/22312.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — climate-change-vs-africas-development |
+| 22313 | pictures/22313.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-ozone-hole-and-the-treaty-that-is-healing-it |
+| 22314 | pictures/22314.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — biodiversity-the-variety-of-life-under-threat |
+| 22315 | pictures/22315.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — water-pollution-point-nonpoint-and-dead-zones |
+| 22316 | pictures/22316.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — land-degradation-and-poisoned-soils |
+| 22317 | pictures/22317.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-sustainability-challenge-energy-wealth-and-green-design |
+| 22318 | pictures/22318.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — environmental-education-learning-for-the-planet |
+| 22319 | pictures/22319.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — environmental-movements-people-organising-for-nature |
+| 22320 | pictures/22320.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — indigenous-knowledge-that-protects-the-environment |
+| 22321 | pictures/22321.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-linked-crises-climate-desertification-drought-famine |
+| 22322 | pictures/22322.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — desertification-land-turning-unproductive |
+| 22323 | pictures/22323.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — what-causes-desertification |
+| 22324 | pictures/22324.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — what-desertification-costs |
+| 22325 | pictures/22325.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — desertification-in-east-africa |
+| 22326 | pictures/22326.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — drought-when-the-rain-fails |
+| 22327 | pictures/22327.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — three-kinds-of-drought |
+| 22328 | pictures/22328.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — famine-and-food-security-availability-is-not-enough |
+| 22329 | pictures/22329.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — famines-in-history |
+| 22330 | pictures/22330.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — why-famines-happen |
+| 22331 | pictures/22331.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — doing-geographical-research |
+| 22332 | pictures/22332.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — research-approaches-and-design |
+| 22333 | pictures/22333.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — parts-of-a-research-project |
+| 22334 | pictures/22334.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — gis-maps-that-think |
+| 22335 | pictures/22335.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — making-maps-with-gis |
+| 22336 | pictures/22336.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — your-own-enquiry-a-locality-research-project |
+| 22337 | pictures/22337.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — planning-a-geography-field-trip-the-11-step-pattern |
+| 22338 | pictures/22338.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — action-research-improving-your-own-practice-in-cycles |
+| 22360 | pictures/22360.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-warming-trend-what-the-record-shows |
+| 22361 | pictures/22361.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — natural-climate-change-milankovitch-cycles |
+| 22362 | pictures/22362.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — consequences-poles-ecosystems-people |
+| 22363 | pictures/22363.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — variability-is-not-change-the-discipline-of-a-data-record |
+| 22364 | pictures/22364.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — desertification-land-turning-unproductive |
+| 22365 | pictures/22365.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — gis-maps-that-think |
+| 22366 | pictures/22366.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — making-maps-with-gis |
+| 29700 | Ethics balance — new technology vs rules being written | computer-science-and-ict/computers-in-society/ethics-and-law-in-information-systems |
+| 29701 | Bank login on a public computer (teacher guide evidence) | computer-science-and-ict/computers-in-society/ethics-and-law-in-information-systems |
+| 29702 | What breaking ethics costs (teacher guide evidence) | computer-science-and-ict/computers-in-society/ethics-and-law-in-information-systems |
+| 29703 | Data scattered across phone, mail, bank, social | computer-science-and-ict/computers-in-society/privacy-your-data-spread-across-systems |
+| 29704 | Copied page with a PERMISSION? stamp | computer-science-and-ict/computers-in-society/digital-ownership-ask-the-creator-first |
+| 29705 | An app asking for credentials, magnifier asking WHY? | computer-science-and-ict/computers-in-society/information-gathering-check-the-request |
+| 29706 | Cracked shield, arrow to the REPORT office | computer-science-and-ict/computers-in-society/security-breaches-liability-and-reporting-them |
+| 29707 | INSA chip over for/against monitoring debate boxes (teacher guide evidence) | computer-science-and-ict/computers-in-society/security-breaches-liability-and-reporting-them |
+| 29708 | Gains vs problems — a two-sided panel | computer-science-and-ict/computers-in-society/how-information-systems-change-society |
+| 29709 | Clock — time replaces reading; anonymity (teacher guide evidence) | computer-science-and-ict/computers-in-society/how-information-systems-change-society |
+| 29710 | Café table, three figures each on a phone | computer-science-and-ict/computers-in-society/screens-and-socialising |
+| 29711 | Phone with hurt arriving from social, games, forums, texts | computer-science-and-ict/computers-in-society/cyberbullying-hurtful-content-online |
+| 29712 | Clock dissolving, school books untouched | computer-science-and-ict/computers-in-society/social-media-and-gaming-addiction |
+| 29713 | Copied paragraph, the real author faded beneath | computer-science-and-ict/computers-in-society/plagiarism-other-peoples-work-is-not-yours |
+| 29714 | Five-step plagiarism checklist (teacher guide evidence) | computer-science-and-ict/computers-in-society/plagiarism-other-peoples-work-is-not-yours |
+| 29715 | Shield over Ethiopia with attack arrows | computer-science-and-ict/computers-in-society/cybercrime-and-defending-digital-resources |
+| 29716 | Jobs taken over vs jobs created panels | computer-science-and-ict/computers-in-society/automation-lost-jobs-and-new-skills |
+| 29717 | Jobs balance beam (teacher guide evidence) | computer-science-and-ict/computers-in-society/automation-lost-jobs-and-new-skills |
+| 29718 | Dumped phone leaking cadmium, lead, mercury | computer-science-and-ict/computers-in-society/e-waste-what-is-inside-a-thrown-away-device |
+| 29719 | Hazardous electronics + solar, wind, biogas (teacher guide evidence) | computer-science-and-ict/computers-in-society/e-waste-what-is-inside-a-thrown-away-device |
+| 29720 | Green technology chips + paper stack to email | computer-science-and-ict/computers-in-society/green-technology-and-paperless-systems |
+| 29721 | Health-data phone + sore eyes, neck and back figure | computer-science-and-ict/computers-in-society/health-effects-of-information-systems |
+| 29722 | The harm chain diagram (teacher guide evidence) | computer-science-and-ict/computers-in-society/health-effects-of-information-systems |
+| 29723 | IP light-bulb with the four type chips | computer-science-and-ict/computers-in-society/intellectual-property-owning-a-creative-work |
+| 29724 | Copyright / patent / trademark comparison chart (teacher guide evidence) | computer-science-and-ict/computers-in-society/intellectual-property-owning-a-creative-work |
+| 29725 | Locked recipe card + locked source code | computer-science-and-ict/computers-in-society/trade-secrets-valuable-information-kept-confidential |
+| 29726 | Invention drawing with PATENT seal + eipo.gov.et portal box | computer-science-and-ict/computers-in-society/patents-an-exclusive-right-for-an-invention |
+| 29727 | Patent vs trademark two shields (teacher guide evidence) | computer-science-and-ict/computers-in-society/patents-an-exclusive-right-for-an-invention |
+| 29728 | Book, song and program each with a © sign | computer-science-and-ict/computers-in-society/copyright-automatic-protection-for-original-works |
+| 29729 | Signs that tell enterprises apart — trademarks | computer-science-and-ict/computers-in-society/trademarks-the-sign-that-tells-enterprises-apart |
+| 29730 | A person built of data tiles, service doors | computer-science-and-ict/computers-in-society/digital-identity-your-information-online |
+| 29731 | Identity record checklist — limit, check, correct, remove duplicates | computer-science-and-ict/computers-in-society/digital-identity-management-limit-check-correct |
+| 29732 | Profile privacy toggles + guarded fields (teacher guide evidence) | computer-science-and-ict/computers-in-society/digital-identity-management-limit-check-correct |
+| 29733 | ID card in an Ethiopia outline with service chips | computer-science-and-ict/computers-in-society/the-national-id-project-and-digital-ethiopia-2025 |
+| 29734 | Shared document with writers in four places | computer-science-and-ict/computers-in-society/digital-collaboration-working-together-through-technology |
+| 29735 | GIF: a shared document gaining edits from Addis, Hawassa and Jimma in turn | computer-science-and-ict/computers-in-society/digital-collaboration-working-together-through-technology |
+| 29736 | Five people linked by workflow lines — people first | computer-science-and-ict/computers-in-society/digital-collaboration-components-people-first |
+| 29737 | Five tool trays with example names | computer-science-and-ict/computers-in-society/collaborative-tools-five-kinds |
+| 29738 | Phone, tablet and laptop doors — devices | computer-science-and-ict/computers-in-society/digital-collaboration-components-devices |
+| 29739 | Group practical five-step numbered strip | computer-science-and-ict/computers-in-society/collaborating-on-a-shared-document-group-practical |
+| 29740 | GIF: the group document gaining its steps beside a screen-shared meeting window | computer-science-and-ict/computers-in-society/collaborating-on-a-shared-document-group-practical |
+| 29741 | Four DO badges of digital citizenship | computer-science-and-ict/computers-in-society/digital-citizenship-active-and-thoughtful |
+| 29742 | Dam with #It_is_my_dam and four platform chips | computer-science-and-ict/computers-in-society/raising-a-national-voice-online-the-gerd-campaign |
+| 29743 | mHealth phone with record, message and consultation (teacher guide evidence, guide-only lesson) | computer-science-and-ict/computers-in-society/mobile-health-care-delivered-by-phone |
+| 29744 | Campaign poster shared to a crowd + Ambassador chip (teacher guide evidence) | computer-science-and-ict/computers-in-society/digital-citizenship-active-and-thoughtful |
+| 30500 | Relational grid — one column labelled field, one row labelled record | computer-science-and-ict/databases/the-relational-data-model-tables-of-rows-and-columns |
+| 30501 | Fields tagged with their data types and example values | computer-science-and-ict/databases/creating-a-table-and-entering-records-in-access |
+| 30502 | Access SQL data types chart | computer-science-and-ict/databases/creating-a-table-and-entering-records-in-access |
+| 30503 | Five-table school database — Sid as primary key and foreign key | computer-science-and-ict/databases/primary-keys-and-foreign-keys |
+| 30504 | Starting Access — search and blank-database strip | computer-science-and-ict/databases/creating-a-database-in-microsoft-access |
+| 30505 | Query Design → SQL View → Run strip | computer-science-and-ict/databases/creating-a-query-in-access |
+| 30506 | Two tables with a join line and a combined result table | computer-science-and-ict/databases/queries-across-multiple-tables |
+| 30507 | Chosen columns showing, matching rows lit — WHERE at work | computer-science-and-ict/databases/query-criteria-asking-for-exactly-the-records-you-want |
+| 30508 | Database is not the DBMS — two labelled boxes | computer-science-and-ict/databases/the-database-approach-and-the-dbms |
+| 30509 | The Relationships window — 1 and ∞ ends labelled | computer-science-and-ict/databases/one-to-one-one-to-many-many-to-many |
+| 30510 | SQL — one doorway, three corridors: DDL, DML, DQL | computer-science-and-ict/databases/sql-and-its-three-families |
+| 30511 | A CREATE TABLE statement colour-coded | computer-science-and-ict/databases/create-table-syntax-and-rules |
+| 30512 | DEPARTMENT and COURSE — matching types across a relationship | computer-science-and-ict/databases/creating-two-linked-tables-department-and-course |
+| 30513 | A table gaining, losing and resizing columns under ALTER | computer-science-and-ict/databases/alter-table-add-drop-and-change-columns |
+| 30514 | One ALTER statement drawing a link line between two tables | computer-science-and-ict/databases/adding-a-foreign-key-with-alter |
+| 30515 | A table vanishing under DROP, with a warning sign | computer-science-and-ict/databases/drop-table-and-why-it-cannot-be-undone |
+| 30516 | An INSERT statement with arrows from values into columns | computer-science-and-ict/databases/insert-adding-a-record |
+| 30517 | The COURSE table after insertion — one description cell blank | computer-science-and-ict/databases/insert-examples-full-rows-and-partial-rows |
+| 30518 | A salary column before and after UPDATE, WHERE highlighted | computer-science-and-ict/databases/update-change-rows-and-never-forget-where |
+| 30519 | Rows disappearing from a table whose structure remains | computer-science-and-ict/databases/delete-removing-records-safely |
+| 30520 | A query sentence broken into its clause blocks | computer-science-and-ict/databases/select-the-parts-of-a-query |
+| 30521 | SELECT * — one short query above a full table of results | computer-science-and-ict/databases/select-star-getting-a-whole-table |
+| 30522 | A sales table shrinking as each filter applies | computer-science-and-ict/databases/filtering-by-date-and-or-and-between |
+| 30523 | A salary list flipping from lowest-first to highest-first | computer-science-and-ict/databases/order-by-ascending-and-descending-results |
+| 30530 | GIF: the cursor launching Access and choosing Blank database | computer-science-and-ict/databases/creating-a-database-in-microsoft-access |
+| 30531 | GIF: the click path Create tab → SQL View → Run | computer-science-and-ict/databases/creating-a-query-in-access |
+| 30532 | GIF: a primary key dragged onto a foreign key, the link line appears | computer-science-and-ict/databases/one-to-one-one-to-many-many-to-many |
+| 30533 | GIF: rows dimming as filters apply | computer-science-and-ict/databases/filtering-by-date-and-or-and-between |
+| 30534 | GIF: rows re-sorting from ascending to descending | computer-science-and-ict/databases/order-by-ascending-and-descending-results |

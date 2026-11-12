@@ -18,3 +18,11 @@ course, with no pupil book read, so every lesson stands on
 labelled guide evidence at 0 countries' acceptance. Its
 course-intro picture and five-unit intro video ideas are
 course-level material held here, not lessons.
+
+## Ethiopia, Technical Drawing — the guide's solution plates and references (teacher evidence)
+
+**The solution plates** (teacher guide, pp. 100–104): the
+guide's worked plates for the dimensioning, development and
+intersection units — the marking shelf behind Bands A and B.
+**The Reference bibliography** (teacher guide, p. 105): the
+guide's own sourcing shelf for the whole course.

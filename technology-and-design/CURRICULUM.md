@@ -22,8 +22,15 @@ course, never presented as the current syllabus unchecked.
   secondary), sectioning words and practice, types of section,
   conventional practice in sectioning. Pictures 26800–26808,
   GIFs 26810–26815 (drawn, frame-checked).
-- **Band B — Units 4–5**: dimensioning, surface development and
-  intersection of solids — registered when that band lands.
+- **Band B — Units 4–5** (7 lessons, 93 questions):
+  dimensioning (lines and symbols, size and location, the two
+  arranging methods, placing dimensions), surface development,
+  developing solids (parallel line, radial line, triangulation)
+  and intersections of solids. Pictures 26900–26904, 26906,
+  26908; GIFs 26905, 26907 (drawn, frame-checked; two renders
+  remade when their geometry was wrong). Honesty carried: Unit
+  5's misnumbering (its lessons are numbered 6.1–6.3, there is
+  no Unit 6) taught corrected and flagged in sources.
 
 Build logs: ethiopia-2026-11-11/build-logs/wave4-td-A-units1-3.md
 and wave4-td-B-units4-5.md.

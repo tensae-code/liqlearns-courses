@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files (5 items). Pass mark: name the two be
 ## Sub lesson 2 — While you ask (teacher guide — evidence)
 Sub lesson 2 questions from the type files (5 items). Pass mark: name the conduct rule and the required equipment.
 
+
+## Sub lesson 3 — Questionnaires and interviews as research methods — the Grade 12 frame
+Sub lesson 3 questions from the type files (5 items). Pass mark: answer its questions from lesson.md alone, without the lesson open.

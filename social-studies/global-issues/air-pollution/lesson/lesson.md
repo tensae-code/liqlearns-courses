@@ -14,6 +14,10 @@ Air is by nature **without smell, taste or colour**. **Air pollution** is when n
 
 The book cites a WHO study: **only one person in ten breathes clean air**. Nine out of ten people, on that study, breathe air that has been changed against them. Pupils are set to name the **main causes** of air pollution and the **defences** against it — smoke from factories, vehicles and households, and burning wastes, answered by controlling smoke and waste at their sources.
 
+## Sub lesson 3 — Smog and ground-level ozone — the Grade 12 chemistry
+
+The Grade 12 book adds the chemistry. Air pollution is the intrusion of chemicals, particles or biological elements into the air, from many actors. Carbon monoxide does its quiet harm; hydrocarbon VOCs both warm the climate and cook up ozone; and photochemical smog — the word itself a blend of smoke and fog — forms in sunlit, traffic-heavy air. Ground-level ozone, formed from NOx and VOCs, is a pollutant that harms lungs, and must be distinguished carefully from the protective ozone layer high above: same gas, opposite verdicts, decided by altitude.
+
 ## Say it to your companion
 
 Say the definition of air pollution and the WHO figure. Your companion names two causes and one defence for each; then swap.

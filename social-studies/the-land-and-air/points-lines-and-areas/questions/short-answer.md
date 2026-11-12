@@ -10,3 +10,6 @@ Answer in one or two sentences, from the lesson.
 
 **3. (Sub lesson 3)** What two things define every feature?
 **Answer:** Its location in a coordinate system, and its attributes.
+
+**4. (Sub lesson 4)** Name three display forms from the Grade 12 book.
+**Answer:** Any three of: dot maps, choropleth maps, isarithm maps, volume representations.

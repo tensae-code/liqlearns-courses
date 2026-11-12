@@ -24,6 +24,7 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 
 1. **What clean air is, and what spoils it** — describe clean air (no smell, taste or colour) and define air pollution as toxic substances mixing into air against living things.
 2. **How little clean air is left** — state the WHO figure the book cites — one person in ten breathes clean air — and name main causes and defences.
+3. **Smog and ground-level ozone — the Grade 12 chemistry**
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -35,6 +36,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Define air pollution in the book's terms.
 3. State the WHO figure the book cites: only one person in ten breathes clean air.
 4. Name main causes and defences from the lesson.
+
+3. Answer, from the lesson alone, the questions of sub lesson 3 (Smog and ground-level ozone — the Grade 12 chemistry).
 
 ## What you need
 Paper and a pencil.

@@ -10,3 +10,6 @@ Say True or False, and why.
 
 **3. (Sub lesson 3)** Points, lines and areas are the three shapes a map model uses.
 **Answer: True**
+
+**4. (Sub lesson 4)** Dot maps are one of the display forms named.
+**Answer: True**

@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files (5 items). Pass mark: state the visio
 ## Sub lesson 2 — Climate-smart agriculture
 Sub lesson 2 questions from the type files (5 items). Pass mark: say what climate-smart agriculture joins together.
 
+
+## Sub lesson 3 — The four pillars — the Grade 12 statement
+Sub lesson 3 questions from the type files (5 items). Pass mark: answer its questions from lesson.md alone, without the lesson open.

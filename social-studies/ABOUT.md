@@ -356,3 +356,11 @@ hang on.
 own sourcing shelf for the modern-Ethiopia units. The threads at
 student #49, #53 and #54 (cross-unit links the book itself
 draws) are recorded here as the book states them.
+
+## Ethiopia, Geography Grade 12 — the course shape and glossary (student + guide evidence)
+
+**The Grade 12 course shape** (student book #1): the book's own
+map of its eight units — the frame the Grade 12 geography
+lessons hang on. **The Grade 12 glossary** (student book #88):
+the book's own word list for the climate, issues and enquiry
+titles.

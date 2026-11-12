@@ -13,6 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Points — features too small to draw true**
 2. **Lines — features that run**
 3. **Areas — features with extent**
+4. **Map forms and generalisation — the Grade 12 depth**
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -23,6 +24,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Answer, from the lesson alone, the questions of sub lesson 1 (Points — features too small to draw true).
 2. Answer, from the lesson alone, the questions of sub lesson 2 (Lines — features that run).
 3. Answer, from the lesson alone, the questions of sub lesson 3 (Areas — features with extent).
+
+4. Answer, from the lesson alone, the questions of sub lesson 4 (Map forms and generalisation — the Grade 12 depth).
 
 ## What you need
 Paper and a pencil. Nothing else, beyond what hands-on.md names for its activities.

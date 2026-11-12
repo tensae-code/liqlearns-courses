@@ -12,6 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **The vision** — middle-income, no net emissions rise
 2. **Climate-smart agriculture** — the farm pillar at work
+3. **The four pillars — the Grade 12 statement**
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -22,6 +23,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. State the CRGE vision.
 2. Say what the letters join.
 3. Describe climate-smart agriculture.
+
+3. Answer, from the lesson alone, the questions of sub lesson 3 (The four pillars — the Grade 12 statement).
 
 ## What you need
 Paper and a pencil. Nothing else, beyond what hands-on.md names for its activities.

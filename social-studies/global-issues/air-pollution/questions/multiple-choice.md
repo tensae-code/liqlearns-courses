@@ -17,3 +17,15 @@ a) One in two  b) Nine in ten  c) One in ten
 **4. (Sub lesson 2)** The everyday sign of air pollution the book gives is —
 a) the bad smell of wastes  b) rainbow colours  c) cold wind
 **Answer: a) the bad smell of wastes** — the bad smell of wastes is its everyday sign.
+
+**5. (Sub lesson 3)** 'Smog' is a blend of the words…
+a) smoke and fog  b) smoke and gas  c) sun and fog
+**Answer: a) smoke and fog**
+
+**6. (Sub lesson 3)** Ground-level ozone forms from…
+a) NOx and VOCs  b) oxygen and water  c) CO₂ and methane
+**Answer: a) NOx and VOCs**
+
+**7. (Sub lesson 3)** VOCs both warm the climate and…
+a) make rain  b) cook up ozone  c) clean the air
+**Answer: b) cook up ozone**

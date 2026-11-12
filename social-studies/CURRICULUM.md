@@ -311,3 +311,24 @@ sources; the book's contents-scramble and its cover misprint
 the pictures are schematic timeline panels, not period
 photographs. Build log: ethiopia-2026-11-11/build-logs/
 wave4-hist-D-g12-modern-ethiopia.md.
+
+## Ethiopia Grade 12 Geography, climate/issues/enquiry — built 2026-11-12 (Wave 4 Geography Band E; pictures 22300–22338, GIFs 22360–22366)
+
+39 lessons created + 4 extended, 488 new questions: the whole
+climate-change unit and the environmental-issues units in
+**Global Issues** (30, including the reassigned "Variability is
+not change" and "Climate change vs Africa's development"),
+**Desertification in East Africa** in Resources and Conflict
+(G12, book pp. 199–202), and the research/fieldwork set in The
+Land and Air (doing research, research design, parts of a
+project, your own enquiry, the 11-step field trip, action
+research on guide evidence) plus two GIS lessons. The band's
+assigned 22200 block was partly occupied by another stream; it
+used only verified-unused numbers inside its range and overwrote
+nothing. Honesty carried: the Unit 2 summary's "risen by about
+10C" taught corrected (named in sources); the G12 guide pairing
+mismatch carried in full (the 2023 guide is still owed).
+REMAINDER: G12 Units 1, 3, 4 and 5 were outside this band's
+scope and pass to a follow-up band (Geo F), with the G12 guide's
+Ethiopia/Horn items. Build log: ethiopia-2026-11-11/build-logs/
+wave4-geo-E-g12-climate-issues.md.

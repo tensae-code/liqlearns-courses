@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files (3 items). Pass mark: answer its ques
 
 ## Sub lesson 3 — Areas — features with extent
 Sub lesson 3 questions from the type files (3 items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.
+
+## Sub lesson 4 — Map forms and generalisation — the Grade 12 depth
+Sub lesson 4 questions from the type files (5 items). Pass mark: answer its questions from lesson.md alone, without the lesson open.

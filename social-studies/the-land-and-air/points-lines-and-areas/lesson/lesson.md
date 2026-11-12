@@ -18,6 +18,10 @@ A line models a feature that runs from place to place: a road, a river, a bounda
 
 An area, or polygon, models a feature with extent: a lake, a park, a region. Every feature of all three kinds is defined the same way — by its location in a coordinate system, plus its attributes, the facts that describe it.
 
+## Sub lesson 4 — Map forms and generalisation — the Grade 12 depth
+
+The Grade 12 book completes the picture: the same point, line and area features are displayed by matching map forms — dot maps, choropleth maps and isarithm maps, and volume representations. Before representation comes generalisation: selecting and symbolising so that each feature and attribute on the map earns its place in effective communication. Symbolisation is the graphic coding of information into map context — a well chosen symbol says in one glance what a paragraph cannot.
+
 ## Say it to your companion
 
 Explain points, lines and areas to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.
