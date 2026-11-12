@@ -1,6 +1,6 @@
 # Sources — Semiconductors — silicon and its lattice
 
-countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia
+countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -28,11 +28,14 @@ countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Bela
 
 **Book 13:** *Физика за VIII одделение (Physics for Grade 8)* (student textbook) — North Macedonia, Prof. Dr Lambe Barandovski (Institute of Physics, Faculty of Natural Sciences and Mathematics, Skopje) & Vera Zoroska MSc; Просветно дело (Prosvetno delo), Skopje; imprint: Skopje 2025, CIP record 2026; ISBN 978-608-228-592-4; 236 printed pages, print run 13,171; approved for use by decision of the National Textbook Commission of the Republic of North Macedonia, 25.06.2026, no. 26-766/1. Grade: 8 · Student book · Repo path: grade-08/gov/north-macedonia/physics/student/full-year.pdf (release copy: releases/download/mid-size-books/grade-08-gov-north-macedonia-physics-student-full-year.pdf). Byte size: 27,010,647 (no size recorded in books.json — the book was verified by page count and identity instead). PDF pages: 238 (record: 238). Offset: printed p. = PDF p. − 1 (printed p. 49 is PDF p. 50). Verdict: COMPLETE — full text layer, all 238 pages; contents read in full, theme openers and interiors read. Library note, carried on the record: the Grade 8 record carries no file size in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
+**Book 14:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6* (student textbook) — Laos, MoES/RIES (file footer: "2_TB Physics M6.pdf", 30 Jul 2015). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6. Grade: 11 (ມ.6) · Student book · Record: 3,389,691 bytes, 209 pages · Repo path: grade-11/gov/laos/physics/student/laos-g11-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m6/m6_physics.pdf (recorded source_url). Offset: student printed pages from its own TOC where legible (Lesson 1 p. 1, Lesson 2 p. 7, Lesson 5 p. 37, Part II opens p. 49, Lessons 11–25 pp. 89–194); the teacher guide's parallel pagination is given alongside for the lesson titles. Verdict: COMPLETE for structure and placements — the student book's TOC skeleton (5 parts, 25 lessons) and its opening body were read (Brownian motion, Perrin, Avogadro's number 6.02×10²³, atomic diameters in pm, molar mass work — all legible in the fetched text), and the lesson titles were read in clean Lao from the Grade 11 teacher guide's table of contents (Book 4 in laos-placements.md), which parallels this book lesson-for-lesson; the student file's legacy font encoding garbles its own lesson titles in text extraction, so titles are cited from the guide. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Semiconductors — between conductor and insulator | Grade 12 Student Textbook, printed pp. 143–144 |
 | Ch. 30 Electronic Devices — vacuum tubes, oscilloscope, semiconductors, semiconductor resistors | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 30 Electronic Devices, printed p. 468 |
 | Unit 3, Ch. 1, lesson 1-1 "The Diode" (opening part) — semiconductors and doping (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 68 |
+| Part IV, Lesson 21 Current in Semiconductors (Laos, Grade 11) | Laos, *ຟີຊິກສາດ (Physics, Grade 11 / ມ.6)*, Part IV, Lesson 21 Current in Semiconductors — student p. 153 [guide p. 202] |
 
 | Ch 11 Electronics: energy band theory, intrinsic and extrinsic semiconductors, n-type and p-type (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 11 Electronics: energy band theory, intrinsic and extrinsic semiconductors, n-type and p-type — printed p. 187 |
 | Ch.7 Solid-state electronics (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.7 Solid-state electronics — printed p. 199 |
@@ -47,8 +50,8 @@ countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Bela
 | Ch. 14 Semiconductor Electronics — energy bands, intrinsic/extrinsic semiconductors (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 14 Semiconductor Electronics — energy bands, intrinsic/extrinsic semiconductors |
 | Theme 3 §3.6: conductors, semiconductors, insulators (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 3 §3.6: conductors, semiconductors, insulators — printed p. 133 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia).**
+**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia, Laos).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 
-Searchable tags: physics, grade 12, basics of electronics, semiconductors — silicon and its lattice, electron, kenya, iraq, egypt, yemen, north macedonia
+Searchable tags: physics, grade 12, basics of electronics, semiconductors — silicon and its lattice, electron, kenya, iraq, egypt, yemen, north macedonia, laos

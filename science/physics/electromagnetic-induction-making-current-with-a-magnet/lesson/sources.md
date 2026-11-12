@@ -1,6 +1,6 @@
 # Sources — Electromagnetic induction — making current with a magnet
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Haiti (programme evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya, Iraq, Egypt, Kuwait, Yemen, Afghanistan, Bhutan, Uzbekistan, Iran
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Haiti (programme evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya, Iraq, Egypt, Kuwait, Yemen, Afghanistan, Bhutan, Uzbekistan, Iran, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -58,6 +58,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, H
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 27:** *ແບບຮຽນ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Textbook, Physics, Secondary Year 7)* (student textbook) — Laos, MoES / RIES, 2016 (cover and title page read from the secured file itself). Grade: 12 (ມ.7) · Student book · Record: 4,699,501 bytes, 305 pages · Repo path: grade-12/gov/laos/physics/student/laos-g12-physics-student.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (4,699,501 bytes), pdfinfo 305 pages, cover proves identity (the recorded MoES source is the same file per the staging note). Offset: printed p. = PDF p. − 7 (printed p. 1 = PDF p. 8; Lesson 30 runs printed pp. 289–298 = PDF pp. 296–305, so the file ends exactly at the book's end). Verdict: COMPLETE — full TOC (10 parts, 30 lessons) read from the book's own contents pages; body spot-read across the book in text and image (rotation opening, Doppler named in English in the sound-phenomena lesson, Faraday/Lenz in the induction lesson, transformer in the AC part, Bohr/Planck/Einstein and the photoelectric strand in the atomic part, Lesson 30's radiation-uses body with its sievert dose table read to the final exercise page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Electromagnetic induction — the discovery | Grade 12 Student Textbook, printed pp. 126–127 |
@@ -73,6 +75,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Ch. 23 Electromagnetic Induction, AC Circuits, and Electrical Technologies (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 23, printed p. 1079 — induction, AC circuits and electrical technologies (generators, transformers, RL/RC/RLC) |
 | Ch. 23 Electromagnetic Induction, AC Circuits, and Electrical Technologies (College Physics 2e) | United States, *College Physics 2e*, Ch. 23, printed p. 1015 |
 | Unit 2, Ch. 1, lesson 1-1 "Electromagnetic Induction" (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 14 |
+| Part V, Lesson 15 Electromagnetic Induction (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part V, Lesson 15 Electromagnetic Induction — printed p. 120 |
 
 | Chapter: Electromagnetic Induction (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Electromagnetic Induction chapter — PDF p. 39 |
 
@@ -89,6 +92,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Ch. IV, Temas 40–41: Faraday's discovery; electromagnetic induction; alternating induction current; Lenz's rule and the right-hand rule in the chapter summary (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. IV, Temas 40–41: Faraday's discovery; electromagnetic induction; alternating induction current; Lenz's rule and the right-hand rule in the chapter summary — printed pp. 98–100 |
 | §3-7, The phenomenon of electromagnetic induction (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-7 — printed p. 85 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya, Iraq, Egypt, Kuwait, Yemen, Afghanistan, Bhutan, Uzbekistan, Iran).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 19 countries (Ethiopia, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya, Iraq, Egypt, Kuwait, Yemen, Afghanistan, Bhutan, Uzbekistan, Iran, Laos).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
-Searchable tags: physics, grade 12, electromagnetism, electromagnetic induction — making current with a magnet, activity, current, sri lanka, united states, uganda, kenya, iraq, egypt, yemen, iran
+Searchable tags: physics, grade 12, electromagnetism, electromagnetic induction — making current with a magnet, activity, current, sri lanka, united states, uganda, kenya, iraq, egypt, yemen, iran, laos

@@ -1,15 +1,18 @@
 # Sources — Electrolysis of molten salts — and what electrolysis is for
 
-countries: Ethiopia
+countries: Ethiopia, Laos
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
+
+**Book 2:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6* (student textbook) — Laos, MoES/RIES (file footer: "2_TB Physics M6.pdf", 30 Jul 2015). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6. Grade: 11 (ມ.6) · Student book · Record: 3,389,691 bytes, 209 pages · Repo path: grade-11/gov/laos/physics/student/laos-g11-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m6/m6_physics.pdf (recorded source_url). Offset: student printed pages from its own TOC where legible (Lesson 1 p. 1, Lesson 2 p. 7, Lesson 5 p. 37, Part II opens p. 49, Lessons 11–25 pp. 89–194); the teacher guide's parallel pagination is given alongside for the lesson titles. Verdict: COMPLETE for structure and placements — the student book's TOC skeleton (5 parts, 25 lessons) and its opening body were read (Brownian motion, Perrin, Avogadro's number 6.02×10²³, atomic diameters in pm, molar mass work — all legible in the fetched text), and the lesson titles were read in clean Lao from the Grade 11 teacher guide's table of contents (Book 4 in laos-placements.md), which parallels this book lesson-for-lesson; the student file's legacy font encoding garbles its own lesson titles in text extraction, so titles are cited from the guide. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Electrolysis of molten salts | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed pp. 190–194 (section 4.4.1) |
+| Part IV, Lesson 18 Current in Electrolytes — electrolytic conduction (Laos, Grade 11) | Laos, *ຟີຊິກສາດ (Physics, Grade 11 / ມ.6)*, Part IV, Lesson 18 Current in Electrolytes — student p. 132 [guide p. 184] |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Laos).**
 
 Book errors taught corrected, named here only: the contents misprints "SOLLUTIONS" for Solutions (Unit 2) and lists Unit 6 sections 6.3 and 6.4 both as aromatic hydrocarbons — in the body 6.3 covers alkenes and alkynes and is taught so; the Unit 3 summary repeats its deliquescent-salt sentence twice — taught once; "Phosphorous" is used throughout for the element phosphorus — taught corrected as phosphorus; several Unit 6 review reaction equations are typeset in garbled layout — the reactions are taught from the section text, where they are recoverable.
 
-Searchable tags: chemistry, electrolysis, molten, salts, what, Ethiopia Grade 10
+Searchable tags: chemistry, electrolysis, molten, salts, what, Ethiopia Grade 10, laos

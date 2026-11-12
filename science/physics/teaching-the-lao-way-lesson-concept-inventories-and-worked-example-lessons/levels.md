@@ -1,0 +1,4 @@
+# Teaching the Lao way — lesson concept inventories and worked-example lessons — depth
+
+Whole-lesson pass mark: the learner can do all of these — The guide inventories each part's concepts before the lessons (Part II: force types, inertia, friction kinds, Hooke's Law, centre of gravity, pressure); Guide and student book mirror each other lesson for lesson — 28 lessons, notes and answer keys throughout; The worked-example lesson (student Lesson 5) is taught as content, and the guide's keys complete the system — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

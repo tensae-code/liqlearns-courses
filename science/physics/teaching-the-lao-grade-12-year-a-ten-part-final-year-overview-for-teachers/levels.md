@@ -1,0 +1,4 @@
+# Teaching the Lao Grade 12 (ມ.7) year — a ten-part final-year overview for teachers — depth
+
+Whole-lesson pass mark: the learner can do all of these — The guide's overview (printed pp. 2–4) walks rotation → quantum mechanics → nuclear physics as one teaching arc, naming Doppler and Quantum Mechanics in English; The introduction carries the subject's aims and the ມ.5–ມ.7 hours table — ມ.7 is the heaviest year (3 hrs/week); Per-lesson guidance covers all 30 lessons (pp. 10–242); an answers section closes the guide (p. 247 to the end) — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

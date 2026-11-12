@@ -1,6 +1,6 @@
 # Sources — Archimedes' principle — the upthrust
 
-countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen, Afghanistan, Belarus, Bhutan, Uzbekistan, Iran, North Macedonia
+countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen, Afghanistan, Belarus, Bhutan, Uzbekistan, Iran, North Macedonia, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -59,6 +59,8 @@ countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sr
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 28:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6* (student textbook) — Laos, MoES/RIES (file footer: "2_TB Physics M6.pdf", 30 Jul 2015). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6. Grade: 11 (ມ.6) · Student book · Record: 3,389,691 bytes, 209 pages · Repo path: grade-11/gov/laos/physics/student/laos-g11-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m6/m6_physics.pdf (recorded source_url). Offset: student printed pages from its own TOC where legible (Lesson 1 p. 1, Lesson 2 p. 7, Lesson 5 p. 37, Part II opens p. 49, Lessons 11–25 pp. 89–194); the teacher guide's parallel pagination is given alongside for the lesson titles. Verdict: COMPLETE for structure and placements — the student book's TOC skeleton (5 parts, 25 lessons) and its opening body were read (Brownian motion, Perrin, Avogadro's number 6.02×10²³, atomic diameters in pm, molar mass work — all legible in the fetched text), and the lesson titles were read in clean Lao from the Grade 11 teacher guide's table of contents (Book 4 in laos-placements.md), which parallels this book lesson-for-lesson; the student file's legacy font encoding garbles its own lesson titles in text extraction, so titles are cited from the guide. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Archimedes' principle and buoyant force | Grade 12 Student Textbook, printed pp. 96–100 |
@@ -74,6 +76,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Bab 4 Fluida (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 4 Fluida — chapter 4 — buoyancy/Archimedes in the fluids sequence |
 | Ch. 11 Fluid Statics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 11 Fluid Statics, printed p. 473 — pressure, Pascal, buoyancy |
 | Ch. 11 Fluid Statics (College Physics 2e) | United States, *College Physics 2e*, Ch. 11 Fluid Statics, printed p. 443 |
+| Part I (Lessons 2–3) — Archimedes' principle named in the same summary (Laos, Grade 11) | Laos, *ຟີຊິກສາດ (Physics, Grade 11 / ມ.6)*, Part I (Lessons 2–3) — [guide Part I summary] |
 
 | Floating and Sinking (Uganda, Senior Three home-study) | Uganda, *Physics Home-Study Learning — Senior Three (NCDC, 2020)*, Floating and Sinking — PDF p. 25 |
 
@@ -92,6 +95,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | §2-4, Buoyancy (شناوری) (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §2-4 — printed p. 40 |
 | Theme 3 §3.4: the thrust force (Archimedes force) — depends on the submerged volume and the liquid's density, not on the body's mass (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 3 §3.4: the thrust force (Archimedes force) — depends on the submerged volume and the liquid's density, not on the body's mass — printed p. 85 |
 
-**Acceptance count: taught in 21 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen, Afghanistan, Belarus, Bhutan, Uzbekistan, Iran, North Macedonia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 22 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Iraq, Bulgaria, Yemen, Afghanistan, Belarus, Bhutan, Uzbekistan, Iran, North Macedonia, Laos).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
-Searchable tags: physics, grade 12, fluid mechanics, archimedes' principle — the upthrust, density, pressure, teacher, palestine, sri lanka, united states, uganda, kenya, iraq, yemen, iran, north macedonia
+Searchable tags: physics, grade 12, fluid mechanics, archimedes' principle — the upthrust, density, pressure, teacher, palestine, sri lanka, united states, uganda, kenya, iraq, yemen, iran, north macedonia, laos

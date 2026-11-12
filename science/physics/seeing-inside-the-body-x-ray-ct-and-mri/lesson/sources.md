@@ -1,6 +1,6 @@
 # Sources — Seeing inside the body — X-ray, CT and MRI
 
-countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia
+countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 
 **Book 8:** *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)* (student textbook) — North Macedonia, Prof. Dr Lambe Barandovski & Marija Vele... (printed: Марија Велевска); Просветно дело (Prosvetno delo), Skopje, 2026, I издание (1st edition), print run 3,300; ISBN 978-9989-0-1382-9; 296 printed pages. Grade: 11 (gymnasium year II) · Student book · Repo path: grade-11/gov/north-macedonia/physics/student/full-year.pdf (read from the copy on disk in phase3-staging; byte size matches the record exactly). Byte size: 35,749,372 (exact match). PDF pages: 299 (record: 299). Offset: printed p. = PDF p. − 2 (printed p. 48 is PDF p. 50). Verdict: COMPLETE — full text layer, all 299 pages; contents read in full, theme interiors sampled. Library note, carried on the record: in the secured file the ministry approval-decision fields (date and number) are printed BLANK — the text approving use "for (second) year" is present but its date/number are unfilled, so the approval cannot be cited from the held copy. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
+**Book 9:** *ແບບຮຽນ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Textbook, Physics, Secondary Year 7)* (student textbook) — Laos, MoES / RIES, 2016 (cover and title page read from the secured file itself). Grade: 12 (ມ.7) · Student book · Record: 4,699,501 bytes, 305 pages · Repo path: grade-12/gov/laos/physics/student/laos-g12-physics-student.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (4,699,501 bytes), pdfinfo 305 pages, cover proves identity (the recorded MoES source is the same file per the staging note). Offset: printed p. = PDF p. − 7 (printed p. 1 = PDF p. 8; Lesson 30 runs printed pp. 289–298 = PDF pp. 296–305, so the file ends exactly at the book's end). Verdict: COMPLETE — full TOC (10 parts, 30 lessons) read from the book's own contents pages; body spot-read across the book in text and image (rotation opening, Doppler named in English in the sound-phenomena lesson, Faraday/Lenz in the induction lesson, transformer in the AC part, Bohr/Planck/Einstein and the photoelectric strand in the atomic part, Lesson 30's radiation-uses body with its sievert dose table read to the final exercise page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — X-rays | Grade 12 Student Textbook, printed pp. 12–14 |
@@ -25,6 +27,7 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 | Sub lesson 3 — MRI — magnetism and radio waves | Grade 12 Student Textbook, printed pp. 12–14 |
 | Ch. 55 — X-rays (honest note: taught in 1968 as laboratory physics, long before the medical-imaging framing of this slug) | Sri Lanka, *Intermediate Physics, Part V: Magnetism and Electricity* (1968), printed p. 516 |
 | Ch. 32 Medical Applications of Nuclear Physics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 32 Medical Applications of Nuclear Physics, printed p. 1521 — imaging, radiation therapy, biological effects |
+| Part IX, Lesson 26 The Hydrogen Atom and X-Rays — the X-ray half of the lesson (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part IX, Lesson 26 The Hydrogen Atom and X-Rays — printed p. 233 |
 
 | Lesson 3: X-Rays and their properties (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Electrons and X-Rays chapter, Lesson 3 — PDF p. 52 |
 
@@ -33,6 +36,6 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 | Ch. 5 — X-rays (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 5 — printed p. 123 — X-rays (شعاع ایکس, named in English in the TOC) |
 | Theme 4 §4.5: X-rays and their application (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 4 §4.5: X-rays and their application — printed p. 231 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos).**
 
-Searchable tags: physics, grade 12, application of physics in other fields, seeing inside the body — x-ray, ct and mri, magnet, roentgen, sri lanka, united states, uganda, kenya, egypt, north macedonia
+Searchable tags: physics, grade 12, application of physics in other fields, seeing inside the body — x-ray, ct and mri, magnet, roentgen, sri lanka, united states, uganda, kenya, egypt, north macedonia, laos

@@ -1,6 +1,6 @@
 # Sources — Faraday's law; Lenz's law
 
-countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran
+countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -29,6 +29,8 @@ countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhu
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 13:** *ແບບຮຽນ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Textbook, Physics, Secondary Year 7)* (student textbook) — Laos, MoES / RIES, 2016 (cover and title page read from the secured file itself). Grade: 12 (ມ.7) · Student book · Record: 4,699,501 bytes, 305 pages · Repo path: grade-12/gov/laos/physics/student/laos-g12-physics-student.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (4,699,501 bytes), pdfinfo 305 pages, cover proves identity (the recorded MoES source is the same file per the staging note). Offset: printed p. = PDF p. − 7 (printed p. 1 = PDF p. 8; Lesson 30 runs printed pp. 289–298 = PDF pp. 296–305, so the file ends exactly at the book's end). Verdict: COMPLETE — full TOC (10 parts, 30 lessons) read from the book's own contents pages; body spot-read across the book in text and image (rotation opening, Doppler named in English in the sound-phenomena lesson, Faraday/Lenz in the induction lesson, transformer in the AC part, Bohr/Planck/Einstein and the photoelectric strand in the atomic part, Lesson 30's radiation-uses body with its sievert dose table read to the final exercise page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Faraday's law — emf from changing flux | Grade 12 Student Textbook, printed pp. 129–130 |
@@ -39,6 +41,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Bab 3, Subbab E GGL Induksi (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 3, Subbab E GGL Induksi — guide p. 77 — induced EMF |
 | Ch.2 Electromagnetic induction (opener §§: magnetism intro; effect of electric and magnetic fields on charged particles; flux, Faraday and Lenz in the chapter body) (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.2 Electromagnetic induction (opener §§: magnetism intro; effect of electric and magnetic fields on charged particles; flux, Faraday and Lenz in the chapter body) — printed p. 45 |
 | L13 Electromagnetic induction; Faraday's law (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L13 Electromagnetic induction; Faraday's law — printed p. 77 |
+| Part V, Lesson 15 Electromagnetic Induction — Faraday and Lenz both named in the body (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part V, Lesson 15 Electromagnetic Induction — printed p. 120 |
 
 | §33 Magnetic flux; electromagnetic induction; Lenz's rule; §34 The law of electromagnetic induction, the vortex electric field (printed p. 237) (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §33 Magnetic flux; electromagnetic induction; Lenz's rule; §34 The law of electromagnetic induction, the vortex electric field (printed p. 237) — printed p. 232 |
 
@@ -46,6 +49,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Ch. 6 Electromagnetic Induction — Faraday's laws, Lenz's law, induced EMF, eddy currents, inductance (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 6 Electromagnetic Induction — Faraday's laws, Lenz's law, induced EMF, eddy currents, inductance |
 | §3-8–3-9, Faraday's law of electromagnetic induction; Lenz's law (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-8–3-9 — printed pp. 87, 91 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran).**
+**Acceptance count: taught in 12 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos).**
 
-Searchable tags: physics, grade 12, electromagnetism, faraday's law; lenz's law, energy, flux, iraq, iran
+Searchable tags: physics, grade 12, electromagnetism, faraday's law; lenz's law, energy, flux, iraq, iran, laos

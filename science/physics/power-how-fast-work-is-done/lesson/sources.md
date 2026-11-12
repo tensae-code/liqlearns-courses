@@ -1,6 +1,6 @@
 # Sources — Power — how fast work is done
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Nicaragua, Slovenia, Sudan, Cambodia, Mongolia, Yemen, Bhutan, India, Iran, North Macedonia
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Nicaragua, Slovenia, Sudan, Cambodia, Mongolia, Yemen, Bhutan, India, Iran, North Macedonia, Laos
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Nicaragua, Sloven
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 18:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5* (student textbook) — Laos, MoES / RIES (ສ.ວ.ສ.), 2014 printing (imprint in file). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5. Grade: 10 (ມ.5) · Student book · Record: 2,849,732 bytes, 213 pages · Repo path: grade-10/gov/laos/physics/student/laos-g10-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m5/m5_physics.pdf (recorded source_url). Offset: printed page = the book's own lesson-start pages from its table of contents; front matter is unnumbered, so PDF page ≈ printed page + ~5 in the opening lessons. Verdict: COMPLETE for structure and placements — the book's own TOC (7 parts, 28 lessons, printed pages legible in the fetched text) was read, Part I's body was read (mechanics of motion, reference systems, the 24,000 km/h satellite example, vectors x′ox axes work), and lesson titles were taken from the bilingual TOC of the current RIES teacher guide for the same course, whose part/lesson sequence matches this book's TOC one-for-one. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Power — how fast work is done | Ethiopia, *Grade 9 Student Textbook*, printed pp. 80–84 |
@@ -54,16 +56,17 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | §2.4 (Mongolia, Grade 8) | Mongolia, *Физик VIII*, §2.4 — printed p. 73 |
 | §1.3 (Mongolia, Grade 11) | Mongolia, *Физик XI*, §1.3 — printed p. 29 |
 | U4 Power (Yemen, Grade 10) | Yemen, *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)*, U4 Power — printed p. 92 |
+| Part V, Lesson 19 Work and Power (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part V, Lesson 19 Work and Power — printed p. 142 |
 
 | Ch. 3: work and power, incl. work where force is not along the displacement, W = Fd — printed p. 42 (Bhutan, Class X (Grade 10)) | Bhutan, *Physics Textbook, Class X*, Ch. 3: work and power, incl. work where force is not along the displacement, W = Fd — printed p. 42 |
 | Ch. 5, §5.10 Power — printed p. 83 (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 5, §5.10 Power — printed p. 83 |
 | §3-7, Power (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §3-7 — printed p. 73 |
 | Theme 1 §1.10: power and the efficiency coefficient (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 1 §1.10: power and the efficiency coefficient — printed p. 49 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Nicaragua, Slovenia, Sudan, Cambodia, Mongolia, Yemen, Bhutan, India, Iran, North Macedonia).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
+**Acceptance count: taught in 12 countries (Ethiopia, Nicaragua, Slovenia, Sudan, Cambodia, Mongolia, Yemen, Bhutan, India, Iran, North Macedonia, Laos).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: power — how fast work is done, grade 9 physics, unit 4, power p = w/t, measured in watts., same work in less time means more power., power joins force ideas to time, cambodia, yemen, iran, north macedonia
+Searchable tags: power — how fast work is done, grade 9 physics, unit 4, power p = w/t, measured in watts., same work in less time means more power., power joins force ideas to time, cambodia, yemen, iran, north macedonia, laos

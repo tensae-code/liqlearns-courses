@@ -1,0 +1,4 @@
+# How this Physics course works — the Lao Grade 11 (ມ.6) way — depth
+
+Whole-lesson pass mark: the learner can do all of these — The Lao Grade 11 course: 5 parts / 25 lessons — matter, electrostatics, DC, current in media, geometrical optics; The year opens with Brownian motion and Perrin as visible evidence for molecules; Avogadro's number is worked in Lesson 1; Part IV teaches conduction medium by medium in six lessons — metals, electrolytes, gases, air, semiconductors — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

@@ -1,6 +1,6 @@
 # Sources — Uniform motion
 
-countries: Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia, Mongolia, Belarus, Iran
+countries: Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia, Mongolia, Belarus, Iran, Laos
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia, Mongolia, Belarus, 
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 12:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5* (student textbook) — Laos, MoES / RIES (ສ.ວ.ສ.), 2014 printing (imprint in file). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5. Grade: 10 (ມ.5) · Student book · Record: 2,849,732 bytes, 213 pages · Repo path: grade-10/gov/laos/physics/student/laos-g10-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m5/m5_physics.pdf (recorded source_url). Offset: printed page = the book's own lesson-start pages from its table of contents; front matter is unnumbered, so PDF page ≈ printed page + ~5 in the opening lessons. Verdict: COMPLETE for structure and placements — the book's own TOC (7 parts, 28 lessons, printed pages legible in the fetched text) was read, Part I's body was read (mechanics of motion, reference systems, the 24,000 km/h satellite example, vectors x′ox axes work), and lesson titles were taken from the bilingual TOC of the current RIES teacher guide for the same course, whose part/lesson sequence matches this book's TOC one-for-one. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Uniform motion | Ethiopia, *Grade 9 Student Textbook*, printed pp. 52 |
@@ -37,12 +39,13 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Accelerated motion: Premo enakomerno gibanje (Straight uniform motion — the recap the year opens with) (Slovenia) | Slovenia, *Fizika 9*, Accelerated motion: Premo enakomerno gibanje (Straight uniform motion — the recap the year opens with) — printed p. 1 (unit folder 169) |
 | Ch. 1 Lesson 1: rectilinear motion (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 1 Lesson 1 — printed p. 18 |
 | §2.1 Жигд хөдөлгөөн (Uniform motion) (Mongolia, Grade 8) | Mongolia, *Физик VIII*, §2.1 Жигд хөдөлгөөн (Uniform motion) — printed p. 46 |
+| Part I, Lesson 2 Uniform Linear Motion — velocity, equation and distance–time graph of uniform motion (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part I, Lesson 2 Uniform Linear Motion — printed p. 6 |
 
 | §3 Uniform motion, speed; §5 Non-uniform motion, average speed (printed p. 22) (Belarus, Grade 7) | Belarus, *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай)*, §3 Uniform motion, speed; §5 Non-uniform motion, average speed (printed p. 22) — printed p. 12 |
 | §1-2, Motion with constant velocity (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §1-2 — printed p. 13 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia, Mongolia, Belarus, Iran).**
+**Acceptance count: taught in 9 countries (Ethiopia, Bolivia, Nicaragua, Slovenia, Cambodia, Mongolia, Belarus, Iran, Laos).**
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: uniform motion, grade 9 physics, unit 3, uniform motion means constant velocity in a straight line., equal displacements happen in equal times., position marks every second sit evenly spaced., cambodia, iran
+Searchable tags: uniform motion, grade 9 physics, unit 3, uniform motion means constant velocity in a straight line., equal displacements happen in equal times., position marks every second sit evenly spaced., cambodia, iran, laos

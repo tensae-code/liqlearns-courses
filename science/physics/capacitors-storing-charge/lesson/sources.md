@@ -1,6 +1,6 @@
 # Sources — Capacitors — storing charge
 
-countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait, Bulgaria, Yemen, Afghanistan, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia
+countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait, Bulgaria, Yemen, Afghanistan, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -45,6 +45,8 @@ countries: Ethiopia, Bolivia, Bahamas (curriculum evidence only), Italy, Sri Lan
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 21:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6* (student textbook) — Laos, MoES/RIES (file footer: "2_TB Physics M6.pdf", 30 Jul 2015). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6. Grade: 11 (ມ.6) · Student book · Record: 3,389,691 bytes, 209 pages · Repo path: grade-11/gov/laos/physics/student/laos-g11-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m6/m6_physics.pdf (recorded source_url). Offset: student printed pages from its own TOC where legible (Lesson 1 p. 1, Lesson 2 p. 7, Lesson 5 p. 37, Part II opens p. 49, Lessons 11–25 pp. 89–194); the teacher guide's parallel pagination is given alongside for the lesson titles. Verdict: COMPLETE for structure and placements — the student book's TOC skeleton (5 parts, 25 lessons) and its opening body were read (Brownian motion, Perrin, Avogadro's number 6.02×10²³, atomic diameters in pm, molar mass work — all legible in the fetched text), and the lesson titles were read in clean Lao from the Grade 11 teacher guide's table of contents (Book 4 in laos-placements.md), which parallels this book lesson-for-lesson; the student file's legacy font encoding garbles its own lesson titles in text extraction, so titles are cited from the guide. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Capacitors and capacitance | Grade 11 Student Textbook, printed pp. 270–273 |
@@ -60,6 +62,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | L5 Electric capacitance; capacitors (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L5 Electric capacitance; capacitors — printed p. 30 |
 | U5 Capacitance and capacitors; connecting capacitors in circuits (printed p. 132) (Yemen, Grade 10) | Yemen, *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)*, U5 Capacitance and capacitors; connecting capacitors in circuits (printed p. 132) — printed p. 127 |
 | Ch. 6 — capacitance, the parallel-plate capacitor and joining capacitors (Afghanistan, Grade 10) | Afghanistan, *فیزیک — صنف دهم (Physics — Grade 10)*, Ch. 6 — printed p. 160 — capacitance concept p. 160, parallel-plate capacitor p. 161, joining capacitors p. 164 |
+| Part II, Lesson 10 Capacitors (ເຄື່ອງທ້ອນໄຟຟ້າ, "charge-storing device") — incl. joining capacitors, per the guide summary (Laos, Grade 11) | Laos, *ຟີຊິກສາດ (Physics, Grade 11 / ມ.6)*, Part II, Lesson 10 Capacitors (ເຄື່ອງທ້ອນໄຟຟ້າ, "charge-storing device") — [guide p. 112] |
 
 | §20 Capacitance; capacitors; capacitance of a parallel-plate capacitor (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §20 Capacitance; capacitors; capacitance of a parallel-plate capacitor — printed p. 143 |
 
@@ -69,8 +72,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §1-10, Capacitors — Ch. 1 opens with capacitive touchscreens as the everyday face of capacitors (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §1-10 — printed p. 28 |
 | Theme 1 §§1.5, 1.11: electric capacitance, capacitors; connecting capacitors (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 1 §§1.5, 1.11: electric capacitance, capacitors; connecting capacitors — printed pp. 31, 62 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Bolivia, Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait, Bulgaria, Yemen, Afghanistan, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 19 countries (Ethiopia, Bolivia, Italy, Sri Lanka, Fiji, Indonesia, Iraq, Cambodia, Kuwait, Bulgaria, Yemen, Afghanistan, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 
-Searchable tags: physics, grade 11, electrostatics and electric circuit, capacitors — storing charge, capacitance, sri lanka, iraq, cambodia, yemen, iran, north macedonia
+Searchable tags: physics, grade 11, electrostatics and electric circuit, capacitors — storing charge, capacitance, sri lanka, iraq, cambodia, yemen, iran, north macedonia, laos

@@ -1,6 +1,6 @@
 # Sources — A current makes a magnetic field
 
-countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia
+countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -45,6 +45,8 @@ countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Eg
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 21:** *ແບບຮຽນ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Textbook, Physics, Secondary Year 7)* (student textbook) — Laos, MoES / RIES, 2016 (cover and title page read from the secured file itself). Grade: 12 (ມ.7) · Student book · Record: 4,699,501 bytes, 305 pages · Repo path: grade-12/gov/laos/physics/student/laos-g12-physics-student.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (4,699,501 bytes), pdfinfo 305 pages, cover proves identity (the recorded MoES source is the same file per the staging note). Offset: printed p. = PDF p. − 7 (printed p. 1 = PDF p. 8; Lesson 30 runs printed pp. 289–298 = PDF pp. 296–305, so the file ends exactly at the book's end). Verdict: COMPLETE — full TOC (10 parts, 30 lessons) read from the book's own contents pages; body spot-read across the book in text and image (rotation opening, Doppler named in English in the sound-phenomena lesson, Faraday/Lenz in the induction lesson, transformer in the AC part, Bohr/Planck/Einstein and the photoelectric strand in the atomic part, Lesson 30's radiation-uses body with its sievert dose table read to the final exercise page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Current creates magnetism — Oersted to Ampère | Grade 12 Student Textbook, printed pp. 122–125 |
@@ -54,6 +56,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Strand 6 §§6.2–6.4 Fields due to currents (Fiji, Year 13) | Fiji, *Physics for Year 13*, Strand 6 §§6.2–6.4 Current-carrying conductor, Ampère's law, fields due to currents — printed p. 150 |
 | Bab 3, Subbab D Medan Magnet di Sekitar Kawat Berarus (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 3, Subbab D Medan Magnet di Sekitar Kawat Berarus — guide p. 75 |
 | Unit 3, Ch. 2, lesson 2-2 "Electric Currents and Magnetic Fields" (Kuwait, Grade 11 Term 2) | Kuwait, *Physics, Grade 11, Term 2 (student book + applications, two bound sections)*, printed p. 123 |
+| Part V, Lesson 13 The Magnetic Field of a Current Through a Conductor (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part V, Lesson 13 The Magnetic Field of a Current Through a Conductor — printed p. 106 |
 
 | Ch 6: field pattern of a straight current-carrying conductor (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 6: field pattern of a straight current-carrying conductor — printed p. 117 |
 | Ch.6 Electricity and magnetism §§6-1–6-5 (field of a straight wire and of a loop, the electromagnet and its uses) (Iraq, Grade 9) | Iraq, *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)*, Ch.6 Electricity and magnetism §§6-1–6-5 (field of a straight wire and of a loop, the electromagnet and its uses) — printed p. 111 |
@@ -71,6 +74,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §3-5, Magnetic field produced by an electric current — straight wire, loop and solenoid fields (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-5 — printed p. 76 |
 | Theme 3 §3.12: magnetic field of an electric current; the electromagnet (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 3 §3.12: magnetic field of an electric current; the electromagnet — printed p. 157 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia).**
+**Acceptance count: taught in 19 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos).**
 
-Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq, egypt, yemen, iran, north macedonia
+Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq, egypt, yemen, iran, north macedonia, laos

@@ -1,8 +1,10 @@
 # Sources — Brownian motion and the kinetic theory of matter
 
-countries: Palestine
+countries: Palestine, Laos
 
 **Book 1:** *الفيزياء للصف العاشر (Physics for Grade 10)* (student textbook) — Palestine, Ministry of Education, State of Palestine. Title as printed: Physics for Grade 10, Ministry of Education, State of Palestine — ministerial decision page: adopted for teaching in Palestine's schools from school year 2017/2018; ministerial curriculum committee named at the end of the book (incl. Dr Sabri Saidam, Dr Shahnaz Al-Far). Grade 10 · Student book (Arabic medium) · Repo path: grade-10/gov/palestine/physics/full-year.pdf. Byte size: 2,226,145 (no size in record). PDF pages: 160. Offset: printed p. N ≈ PDF p. N+5 (Unit 1 opens printed p. 2 = PDF p. 7; Ch. 1 printed p. 4 per the contents page). Verdict: COMPLETE — full text read (Arabic text layer throughout; extraction is RTL-garbled in places but every chapter, activity and question set is legible); contents page + unit/chapter sequence prove identity; book closes with the project chapter and the curriculum committee page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/palestine-placements.md.
+
+**Book 2:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6* (student textbook) — Laos, MoES/RIES (file footer: "2_TB Physics M6.pdf", 30 Jul 2015). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6. Grade: 11 (ມ.6) · Student book · Record: 3,389,691 bytes, 209 pages · Repo path: grade-11/gov/laos/physics/student/laos-g11-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m6/m6_physics.pdf (recorded source_url). Offset: student printed pages from its own TOC where legible (Lesson 1 p. 1, Lesson 2 p. 7, Lesson 5 p. 37, Part II opens p. 49, Lessons 11–25 pp. 89–194); the teacher guide's parallel pagination is given alongside for the lesson titles. Verdict: COMPLETE for structure and placements — the student book's TOC skeleton (5 parts, 25 lessons) and its opening body were read (Brownian motion, Perrin, Avogadro's number 6.02×10²³, atomic diameters in pm, molar mass work — all legible in the fetched text), and the lesson titles were read in clean Lao from the Grade 11 teacher guide's table of contents (Book 4 in laos-placements.md), which parallels this book lesson-for-lesson; the student file's legacy font encoding garbles its own lesson titles in text extraction, so titles are cited from the guide. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -10,9 +12,10 @@ countries: Palestine
 | Sub lesson 2 — The kinetic theory — matter made of moving particles | Palestine, *Physics for Grade 10*, Unit 3, Ch. 2: Thermodynamics, printed p. 108 |
 | Sub lesson 3 — Temperature, diffusion and pressure in the particle picture | Palestine, *Physics for Grade 10*, Unit 3, Ch. 2: Thermodynamics, printed p. 108 |
 | Do it first; key ideas; Do It Yourself | Palestine, *Physics for Grade 10*, Unit 3, Ch. 2: Thermodynamics, printed p. 108 |
+| Part I, Lesson 1 Composition of Matter — Brown (1773–1857) and the pollen-grain motion are treated in the body text (stocked into this existing shared lesson per the Laos merge; the placements file tags it NEW LESSON NEEDED: Brownian motion — the visible evidence for molecules) (Laos, Grade 11) | Laos, *ຟີຊິກສາດ (Physics, Grade 11 / ມ.6)*, Part I, Lesson 1 Composition of Matter — student p. 1 |
 
-**Acceptance count: taught in 1 country (Palestine).**
+**Acceptance count: taught in 2 countries (Palestine, Laos).**
 
 Placement choice, on the record: this NEW LESSON was built for the Palestine placement "Brownian motion and the kinetic theory of matter" — palestine-placements.md, Book 1, Unit 3, Ch. 2: Thermodynamics, printed p. 108 — a topic no existing slug covers at this depth. It sits in science/physics/ and is registered in CURRICULUM.md Unit 18.
 
-Searchable tags: brownian motion, kinetic theory, kinetic molecular theory, particles, diffusion, temperature, palestine, grade 10
+Searchable tags: brownian motion, kinetic theory, kinetic molecular theory, particles, diffusion, temperature, palestine, grade 10, laos

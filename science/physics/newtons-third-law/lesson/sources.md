@@ -1,6 +1,6 @@
 # Sources — Newton's third law — action and reaction
 
-countries: Ethiopia, Palestine, Andorra (curriculum-programme evidence only), Slovenia, Sudan, Cambodia, Egypt, Bulgaria, Belarus, Bhutan, India, Iran
+countries: Ethiopia, Palestine, Andorra (curriculum-programme evidence only), Slovenia, Sudan, Cambodia, Egypt, Bulgaria, Belarus, Bhutan, India, Iran, Laos
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Palestine, Andorra (curriculum-programme evidence only), Sl
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 16:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5* (student textbook) — Laos, MoES / RIES (ສ.ວ.ສ.), 2014 printing (imprint in file). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5. Grade: 10 (ມ.5) · Student book · Record: 2,849,732 bytes, 213 pages · Repo path: grade-10/gov/laos/physics/student/laos-g10-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m5/m5_physics.pdf (recorded source_url). Offset: printed page = the book's own lesson-start pages from its table of contents; front matter is unnumbered, so PDF page ≈ printed page + ~5 in the opening lessons. Verdict: COMPLETE for structure and placements — the book's own TOC (7 parts, 28 lessons, printed pages legible in the fetched text) was read, Part I's body was read (mechanics of motion, reference systems, the 24,000 km/h satellite example, vectors x′ox axes work), and lesson titles were taken from the bilingual TOC of the current RIES teacher guide for the same course, whose part/lesson sequence matches this book's TOC one-for-one. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Newton's third law — action and reaction | Ethiopia, *Grade 9 Student Textbook*, printed pp. 72–73 |
@@ -46,6 +48,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Ch. 1 Lesson 2: Newton's laws of motion (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 1 Lesson 2 — printed p. 34 |
 | Ch.3 Newton's third law (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — First Term (English), 2025–2026*, Ch.3 Newton's third law — printed p. 43 |
 | L9 Third principle of mechanics; L10 Kinds of forces in mechanics (printed p. 46) (Bulgaria, Grade 9 Part 1) | Bulgaria, *Физика и астрономия, Първа част за 9. клас (Педагог 6, 2024)*, L9 Third principle of mechanics; L10 Kinds of forces in mechanics (printed p. 46) — printed p. 43 |
+| Part II, Lesson 7 Newton's Laws — all three laws in one lesson (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part II, Lesson 7 Newton's Laws — printed p. 54 |
 
 | §21 Newton's third law; Galileo's principle of relativity (Belarus, Grade 9) | Belarus, *Фізіка. 9 клас (пад рэд. А. А. Сакольскага)*, §21 Newton's third law; Galileo's principle of relativity — printed p. 102 |
 
@@ -54,8 +57,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Ch. 4, §4.6 — printed p. 56 (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 4, §4.6 — printed p. 56 |
 | §2-1, Newton's laws of motion — the third law (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §2-1 — printed p. 28 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Palestine, Slovenia, Sudan, Cambodia, Egypt, Bulgaria, Belarus, Bhutan, India, Iran).** Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
+**Acceptance count: taught in 12 countries (Ethiopia, Palestine, Slovenia, Sudan, Cambodia, Egypt, Bulgaria, Belarus, Bhutan, India, Iran, Laos).** Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: newton's third law — action and reaction, grade 9 physics, unit 4, action and reaction are equal, opposite, and act on different bodies., push a wall and the wall pushes back equally., walking: foot pushes ground back, ground pushes walker forward., palestine, cambodia, egypt, iran
+Searchable tags: newton's third law — action and reaction, grade 9 physics, unit 4, action and reaction are equal, opposite, and act on different bodies., push a wall and the wall pushes back equally., walking: foot pushes ground back, ground pushes walker forward., palestine, cambodia, egypt, iran, laos

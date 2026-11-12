@@ -1,6 +1,6 @@
 # Sources — Projectiles launched horizontally
 
-countries: Ethiopia, Fiji, Kuwait
+countries: Ethiopia, Fiji, Kuwait, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Fiji, Kuwait
 
 **Book 3:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 4:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5* (student textbook) — Laos, MoES / RIES (ສ.ວ.ສ.), 2014 printing (imprint in file). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5. Grade: 10 (ມ.5) · Student book · Record: 2,849,732 bytes, 213 pages · Repo path: grade-10/gov/laos/physics/student/laos-g10-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m5/m5_physics.pdf (recorded source_url). Offset: printed page = the book's own lesson-start pages from its table of contents; front matter is unnumbered, so PDF page ≈ printed page + ~5 in the opening lessons. Verdict: COMPLETE for structure and placements — the book's own TOC (7 parts, 28 lessons, printed pages legible in the fetched text) was read, Part I's body was read (mechanics of motion, reference systems, the 24,000 km/h satellite example, vectors x′ox axes work), and lesson titles were taken from the bilingual TOC of the current RIES teacher guide for the same course, whose part/lesson sequence matches this book's TOC one-for-one. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Horizontal projection | Grade 12 Student Textbook, printed pp. 26–28 |
 | Ch. 7 Projectile motion (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 7 Projectile motion — falling bodies, free fall — printed p. 49 |
 | Activity 1 "The Speed of Projectiles" (for lesson 1-3) (Kuwait, Grade 11 Term 1 applications workbook) | Kuwait, *Physics, Grade 11, Term 1 — applications workbook*, printed p. 11 |
+| Part III, Lesson 14 Horizontal Throwing Motion (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part III, Lesson 14 Horizontal Throwing Motion — printed p. 108 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Kuwait).**
+**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Kuwait, Laos).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 
-Searchable tags: physics, grade 12, two-dimensional motion, projectiles launched horizontally, projectile
+Searchable tags: physics, grade 12, two-dimensional motion, projectiles launched horizontally, projectile, laos

@@ -1,6 +1,6 @@
 # Sources — Half-life and the decay law
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Bahamas (curriculum evidence only), Malaysia, Indonesia, Uganda, Kenya, Kuwait, Afghanistan, Bhutan, India, Iran, North Macedonia
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Bahamas (curriculum evidence only), Malaysia, Indonesia, Uganda, Kenya, Kuwait, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, B
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 17:** *ແບບຮຽນ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Textbook, Physics, Secondary Year 7)* (student textbook) — Laos, MoES / RIES, 2016 (cover and title page read from the secured file itself). Grade: 12 (ມ.7) · Student book · Record: 4,699,501 bytes, 305 pages · Repo path: grade-12/gov/laos/physics/student/laos-g12-physics-student.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (4,699,501 bytes), pdfinfo 305 pages, cover proves identity (the recorded MoES source is the same file per the staging note). Offset: printed p. = PDF p. − 7 (printed p. 1 = PDF p. 8; Lesson 30 runs printed pp. 289–298 = PDF pp. 296–305, so the file ends exactly at the book's end). Verdict: COMPLETE — full TOC (10 parts, 30 lessons) read from the book's own contents pages; body spot-read across the book in text and image (rotation opening, Doppler named in English in the sound-phenomena lesson, Faraday/Lenz in the induction lesson, transformer in the AC part, Bohr/Planck/Einstein and the photoelectric strand in the atomic part, Lesson 30's radiation-uses body with its sievert dose table read to the final exercise page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The decay law and half-life | Grade 11 Student Textbook, printed pp. 312–316 |
@@ -46,6 +48,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Ch. 6 Nuclear Physics, §6.1 Radioactive Decay (Malaysia) | Malaysia, *Physics Form 5*, Ch. 6, §6.1 Radioactive Decay — printed p. 200 |
 | Bab 9, Subbab E Peluruhan Radioaktif (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab E Peluruhan Radioaktif — guide p. 204 |
 | Unit 4, Ch. 2, lesson 2-2 "Radioactive Decay" (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 121 |
+| Part X, Lesson 28 Radioactive Decay (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part X, Lesson 28 Radioactive Decay — printed p. 259 |
 
 | Lesson 2: Half Life (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Radioactivity chapter, Lesson 2 — PDF p. 60 |
 
@@ -57,8 +60,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §4-6, Natural radioactivity and half-life — the decay law (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §4-6 — printed p. 115 |
 | Theme 4 §§4.8–4.9: the radioactive decay law; radioactive series (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 4 §§4.8–4.9: the radioactive decay law; radioactive series — printed pp. 255, 263 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Barbados, Malaysia, Indonesia, Uganda, Kenya, Kuwait, Afghanistan, Bhutan, India, Iran, North Macedonia).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Malaysia, Indonesia, Uganda, Kenya, Kuwait, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, half-life and the decay law, half-life, uganda, kenya, iran, north macedonia
+Searchable tags: physics, grade 11, nuclear physics, half-life and the decay law, half-life, uganda, kenya, iran, north macedonia, laos

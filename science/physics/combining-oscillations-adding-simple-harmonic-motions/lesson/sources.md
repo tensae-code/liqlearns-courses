@@ -1,0 +1,19 @@
+# Sources — Combining oscillations — adding simple harmonic motions
+
+countries: Laos
+
+**Book 1:** *ແບບຮຽນ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Textbook, Physics, Secondary Year 7)* (student textbook) — Laos, MoES / RIES, 2016 (cover and title page read from the secured file itself). Grade: 12 (ມ.7) · Student book · Record: 4,699,501 bytes, 305 pages · Repo path: grade-12/gov/laos/physics/student/laos-g12-physics-student.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (4,699,501 bytes), pdfinfo 305 pages, cover proves identity (the recorded MoES source is the same file per the staging note). Offset: printed p. = PDF p. − 7 (printed p. 1 = PDF p. 8; Lesson 30 runs printed pp. 289–298 = PDF pp. 296–305, so the file ends exactly at the book's end). Verdict: COMPLETE — full TOC (10 parts, 30 lessons) read from the book's own contents pages; body spot-read across the book in text and image (rotation opening, Doppler named in English in the sound-phenomena lesson, Faraday/Lenz in the induction lesson, transformer in the AC part, Bohr/Planck/Einstein and the photoelectric strand in the atomic part, Lesson 30's radiation-uses body with its sievert dose table read to the final exercise page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The whole lesson | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part II, Lesson 5 Combining Oscillations — printed p. 33 |
+| Sub lesson 1 — Adding oscillations along the same line (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part II, Lesson 5 Combining Oscillations — printed p. 33 |
+| Sub lesson 2 — Different frequencies — beats (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part II, Lesson 5 Combining Oscillations — printed p. 33 |
+| Sub lesson 3 — Adding oscillations at right angles — Lissajous figures (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part II, Lesson 5 Combining Oscillations — printed p. 33 |
+| Do it first; key ideas; Do It Yourself | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, as cited in the rows above |
+
+**Acceptance count: taught in 1 country (Laos).**
+
+Placement: NEW LESSON built for the Laos placement "NEW LESSON NEEDED: Combining oscillations (adding simple harmonic motions)" — laos-placements.md, Book 5, Part II, Lesson 5 Combining Oscillations — printed p. 33.
+
+Searchable tags: combining oscillations, superposition, beats, lissajous figures, phase difference, resultant amplitude, laos, grade 12

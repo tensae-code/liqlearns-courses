@@ -1,6 +1,6 @@
 # Sources — Three kinds of radiation — alpha, beta, gamma
 
-countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Syria, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Bulgaria, Yemen, Afghanistan, Bhutan, Uzbekistan, India, Iran, North Macedonia
+countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Syria, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Bulgaria, Yemen, Afghanistan, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bah
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 23:** *ແບບຮຽນ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Textbook, Physics, Secondary Year 7)* (student textbook) — Laos, MoES / RIES, 2016 (cover and title page read from the secured file itself). Grade: 12 (ມ.7) · Student book · Record: 4,699,501 bytes, 305 pages · Repo path: grade-12/gov/laos/physics/student/laos-g12-physics-student.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (4,699,501 bytes), pdfinfo 305 pages, cover proves identity (the recorded MoES source is the same file per the staging note). Offset: printed p. = PDF p. − 7 (printed p. 1 = PDF p. 8; Lesson 30 runs printed pp. 289–298 = PDF pp. 296–305, so the file ends exactly at the book's end). Verdict: COMPLETE — full TOC (10 parts, 30 lessons) read from the book's own contents pages; body spot-read across the book in text and image (rotation opening, Doppler named in English in the sound-phenomena lesson, Faraday/Lenz in the induction lesson, transformer in the AC part, Bohr/Planck/Einstein and the photoelectric strand in the atomic part, Lesson 30's radiation-uses body with its sievert dose table read to the final exercise page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Radioactivity — alpha, beta and gamma | Grade 11 Student Textbook, printed pp. 299–311 |
@@ -60,6 +62,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Bab 9, Subbab D Partikel Radiasi (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab D Partikel Radiasi — guide p. 202 |
 | Ch. 31 Radioactivity and Nuclear Physics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 31 Radioactivity and Nuclear Physics, printed p. 1475 — decay, half-life, binding energy, fission/fusion |
 | Ch. 31 Radioactivity and Nuclear Physics (College Physics 2e) | United States, *College Physics 2e*, Ch. 31, printed p. 1393 |
+| Part X, Lesson 28 Radioactive Decay (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part X, Lesson 28 Radioactive Decay — printed p. 259 |
 
 | Chapter: Radioactivity (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Radioactivity chapter — PDF p. 57 |
 
@@ -75,8 +78,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §4-6, Natural radioactivity and half-life (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §4-6 — printed p. 115 |
 | Theme 4 §4.7: natural radioactivity (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 4 §4.7: natural radioactivity — printed p. 244 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Barbados, Syria, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Bulgaria, Yemen, Afghanistan, Bhutan, Uzbekistan, India, Iran, North Macedonia).** Andorra is named as curriculum-programme evidence only (*Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programme), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 18 countries (Ethiopia, Barbados, Syria, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya, Bulgaria, Yemen, Afghanistan, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos).** Andorra is named as curriculum-programme evidence only (*Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programme), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, three kinds of radiation — alpha, beta, gamma, radiation, united states, uganda, kenya, yemen, iran, north macedonia
+Searchable tags: physics, grade 11, nuclear physics, three kinds of radiation — alpha, beta, gamma, radiation, united states, uganda, kenya, yemen, iran, north macedonia, laos

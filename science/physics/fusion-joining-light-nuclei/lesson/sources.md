@@ -1,6 +1,6 @@
 # Sources — Fusion — joining light nuclei
 
-countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia
+countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -24,12 +24,15 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, 
 
 **Book 11:** *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)* (student textbook) — North Macedonia, Prof. Dr Lambe Barandovski & Marija Vele... (printed: Марија Велевска); Просветно дело (Prosvetno delo), Skopje, 2026, I издание (1st edition), print run 3,300; ISBN 978-9989-0-1382-9; 296 printed pages. Grade: 11 (gymnasium year II) · Student book · Repo path: grade-11/gov/north-macedonia/physics/student/full-year.pdf (read from the copy on disk in phase3-staging; byte size matches the record exactly). Byte size: 35,749,372 (exact match). PDF pages: 299 (record: 299). Offset: printed p. = PDF p. − 2 (printed p. 48 is PDF p. 50). Verdict: COMPLETE — full text layer, all 299 pages; contents read in full, theme interiors sampled. Library note, carried on the record: in the secured file the ministry approval-decision fields (date and number) are printed BLANK — the text approving use "for (second) year" is present but its date/number are unfilled, so the approval cannot be cited from the held copy. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
+**Book 12:** *ແບບຮຽນ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Textbook, Physics, Secondary Year 7)* (student textbook) — Laos, MoES / RIES, 2016 (cover and title page read from the secured file itself). Grade: 12 (ມ.7) · Student book · Record: 4,699,501 bytes, 305 pages · Repo path: grade-12/gov/laos/physics/student/laos-g12-physics-student.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (4,699,501 bytes), pdfinfo 305 pages, cover proves identity (the recorded MoES source is the same file per the staging note). Offset: printed p. = PDF p. − 7 (printed p. 1 = PDF p. 8; Lesson 30 runs printed pp. 289–298 = PDF pp. 296–305, so the file ends exactly at the book's end). Verdict: COMPLETE — full TOC (10 parts, 30 lessons) read from the book's own contents pages; body spot-read across the book in text and image (rotation opening, Doppler named in English in the sound-phenomena lesson, Faraday/Lenz in the induction lesson, transformer in the AC part, Bohr/Planck/Einstein and the photoelectric strand in the atomic part, Lesson 30's radiation-uses body with its sievert dose table read to the final exercise page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Nuclear fusion and power production | Grade 11 Student Textbook, printed pp. 322–326 |
 | Ch. 6 Nuclear Physics, §6.2 Nuclear Energy (Malaysia) | Malaysia, *Physics Form 5*, Ch. 6, §6.2 Nuclear Energy — printed p. 208 |
 | Bab 9, Subbab F Reaksi Inti (Fisi dan Fusi) (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab F Reaksi Inti (Fisi dan Fusi) — guide p. 205 |
 | Unit 4, Ch. 2, lesson 2-3 "Nuclear Fission and Fusion" (second part) — fusion (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 131 |
+| Part X, Lesson 29 Nuclear Reactions (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part X, Lesson 29 Nuclear Reactions — printed p. 274 |
 
 | Ch 10: nuclear fusion (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 10: nuclear fusion — printed p. 184 |
 | L37 Nuclear synthesis (fusion) (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L37 Nuclear synthesis (fusion) — printed p. 196 |
@@ -40,8 +43,8 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, 
 | §6-4, Nuclear fusion (گداخت هسته‌ای) — Mathematical branch only | Iran, *Physics (3), Grade 12, Mathematical Sciences* (Iran, book code 112209 — Mathematical branch only), §6-4 — printed p. 152 |
 | Theme 4 §§4.11–4.12: fusion and nuclear reactors (with the fission lesson) (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 4 §§4.11–4.12: fusion and nuclear reactors (with the fission lesson) — printed pp. 271, 277 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia).**
+**Acceptance count: taught in 12 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, fusion — joining light nuclei, isotope, kenya, iran, north macedonia
+Searchable tags: physics, grade 11, nuclear physics, fusion — joining light nuclei, isotope, kenya, iran, north macedonia, laos

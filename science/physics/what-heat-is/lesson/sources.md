@@ -1,6 +1,6 @@
 # Sources — What heat is
 
-countries: Ethiopia, Brazil, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Syria, Slovenia, Sudan, United States, Iraq, Cambodia, Uzbekistan, Iran, North Macedonia
+countries: Ethiopia, Brazil, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Syria, Slovenia, Sudan, United States, Iraq, Cambodia, Uzbekistan, Iran, North Macedonia, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Brazil, Samoa (curriculum evidence only), Gabon (teacher-gu
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 17:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6* (student textbook) — Laos, MoES/RIES (file footer: "2_TB Physics M6.pdf", 30 Jul 2015). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6. Grade: 11 (ມ.6) · Student book · Record: 3,389,691 bytes, 209 pages · Repo path: grade-11/gov/laos/physics/student/laos-g11-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m6/m6_physics.pdf (recorded source_url). Offset: student printed pages from its own TOC where legible (Lesson 1 p. 1, Lesson 2 p. 7, Lesson 5 p. 37, Part II opens p. 49, Lessons 11–25 pp. 89–194); the teacher guide's parallel pagination is given alongside for the lesson titles. Verdict: COMPLETE for structure and placements — the student book's TOC skeleton (5 parts, 25 lessons) and its opening body were read (Brownian motion, Perrin, Avogadro's number 6.02×10²³, atomic diameters in pm, molar mass work — all legible in the fetched text), and the lesson titles were read in clean Lao from the Grade 11 teacher guide's table of contents (Book 4 in laos-placements.md), which parallels this book lesson-for-lesson; the student file's legacy font encoding garbles its own lesson titles in text extraction, so titles are cited from the guide. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The concept of heat | Grade 11 Student Textbook, printed pp. 176–178 |
@@ -45,6 +47,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | U3 Heat (Syria) | Syria, *Physics & Chemistry, Grade 7 Basic*, U3 Heat — printed p. 102 |
 | Heat and internal energy: Notranja energija (Internal energy); Toplota (Heat) (Slovenia) | Slovenia, *Fizika 9*, Heat and internal energy: Notranja energija (Internal energy) — printed p. 118 (unit folder 185); Toplota (Heat) — printed p. 122 (unit folder 186) |
 | Unit 5 Heat and the laws of thermodynamics: heat as molecular-motion energy (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. 159 |
+| Part I, Lesson 5 Energy of Gases — kinetic energy of gas molecules / internal energy (Laos, Grade 11) | Laos, *ຟີຊິກສາດ (Physics, Grade 11 / ມ.6)*, Part I, Lesson 5 Energy of Gases — student p. 37 [guide p. 55] |
 
 | Thermal energy — heat transfer observed at the casserole, conduction in context (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 3: L'énergie thermique, printed p. 35 |
 | Thermal energy — PHYS.2.2 (Utah SEEd) | United States, *Physics for Utah SEEd Standards (Revised 2025)*, PHYS.2.2 Thermal Energy, printed p. 50 — thermal energy as its own standard |
@@ -55,6 +58,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | §4-3, Heat (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §4-3 — printed p. 96 |
 | Theme 2 §2.9: internal energy, heat and temperature distinguished (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 2 §2.9: internal energy, heat and temperature distinguished — printed p. 90 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Brazil, Syria, Slovenia, Sudan, United States, Iraq, Cambodia, Uzbekistan, Iran, North Macedonia).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
+**Acceptance count: taught in 12 countries (Ethiopia, Brazil, Syria, Slovenia, Sudan, United States, Iraq, Cambodia, Uzbekistan, Iran, North Macedonia, Laos).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
 
-Searchable tags: physics, grade 11, heat conduction and calorimetry, what heat is, temperature, united states, iraq, cambodia, iran, north macedonia
+Searchable tags: physics, grade 11, heat conduction and calorimetry, what heat is, temperature, united states, iraq, cambodia, iran, north macedonia, laos

@@ -1,6 +1,6 @@
 # Sources — Ohm's law
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka,
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 13:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6* (student textbook) — Laos, MoES/RIES (file footer: "2_TB Physics M6.pdf", 30 Jul 2015). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6. Grade: 11 (ມ.6) · Student book · Record: 3,389,691 bytes, 209 pages · Repo path: grade-11/gov/laos/physics/student/laos-g11-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m6/m6_physics.pdf (recorded source_url). Offset: student printed pages from its own TOC where legible (Lesson 1 p. 1, Lesson 2 p. 7, Lesson 5 p. 37, Part II opens p. 49, Lessons 11–25 pp. 89–194); the teacher guide's parallel pagination is given alongside for the lesson titles. Verdict: COMPLETE for structure and placements — the student book's TOC skeleton (5 parts, 25 lessons) and its opening body were read (Brownian motion, Perrin, Avogadro's number 6.02×10²³, atomic diameters in pm, molar mass work — all legible in the fetched text), and the lesson titles were read in clean Lao from the Grade 11 teacher guide's table of contents (Book 4 in laos-placements.md), which parallels this book lesson-for-lesson; the student file's legacy font encoding garbles its own lesson titles in text extraction, so titles are cited from the guide. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ohm's law — ohmic and non-ohmic conductors | Grade 11 Student Textbook, printed pp. 245–246 |
@@ -41,9 +43,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Ch.1 Ohm's law proper (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.1 Ohm's law proper — printed p. 10 |
 | Exp.3 Ohm's law (Yemen, Grade 10) | Yemen, *الأنشطة والتجارب العملية — الفيزياء — Grade 10 (Activities and Practical Experiments notebook)*, Exp.3 Ohm's law — printed p. 10 |
 | §2-2, Electrical resistance and Ohm's law (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §2-2 — printed p. 43 |
+| Part III, Lesson 12 Electrical Resistance — Ohm's law, resistivity vs wire and temperature, superconductivity named in the guide summary (Laos, Grade 11) | Laos, *ຟີຊິກສາດ (Physics, Grade 11 / ມ.6)*, Part III, Lesson 12 Electrical Resistance — student p. 95 [guide p. 135] |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
+**Acceptance count: taught in 10 countries (Ethiopia, Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 
-Searchable tags: physics, grade 11, electrostatics and electric circuit, ohm's law, voltage, ecuador, sri lanka, united states, egypt, yemen, iran
+Searchable tags: physics, grade 11, electrostatics and electric circuit, ohm's law, voltage, ecuador, sri lanka, united states, egypt, yemen, iran, laos

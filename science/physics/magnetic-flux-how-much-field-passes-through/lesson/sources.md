@@ -1,6 +1,6 @@
 # Sources — Magnetic flux — how much field passes through
 
-countries: Ethiopia, Bulgaria, Belarus, Iran
+countries: Ethiopia, Bulgaria, Belarus, Iran, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,14 +14,17 @@ countries: Ethiopia, Bulgaria, Belarus, Iran
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 6:** *ແບບຮຽນ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Textbook, Physics, Secondary Year 7)* (student textbook) — Laos, MoES / RIES, 2016 (cover and title page read from the secured file itself). Grade: 12 (ມ.7) · Student book · Record: 4,699,501 bytes, 305 pages · Repo path: grade-12/gov/laos/physics/student/laos-g12-physics-student.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (4,699,501 bytes), pdfinfo 305 pages, cover proves identity (the recorded MoES source is the same file per the staging note). Offset: printed p. = PDF p. − 7 (printed p. 1 = PDF p. 8; Lesson 30 runs printed pp. 289–298 = PDF pp. 296–305, so the file ends exactly at the book's end). Verdict: COMPLETE — full TOC (10 parts, 30 lessons) read from the book's own contents pages; body spot-read across the book in text and image (rotation opening, Doppler named in English in the sound-phenomena lesson, Faraday/Lenz in the induction lesson, transformer in the AC part, Bohr/Planck/Einstein and the photoelectric strand in the atomic part, Lesson 30's radiation-uses body with its sievert dose table read to the final exercise page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Magnetic flux | Grade 12 Student Textbook, printed pp. 128–129 |
 | L7 Magnetic field; magnetic induction (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L7 Magnetic field; magnetic induction — printed p. 46 |
+| Part V, Lesson 15 Electromagnetic Induction (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part V, Lesson 15 Electromagnetic Induction — printed p. 120 |
 
 | §30 Magnetic-field induction; lines of magnetic induction (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §30 Magnetic-field induction; lines of magnetic induction — printed p. 208 |
 | §3-7, Electromagnetic induction — magnetic flux (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-7 — printed p. 85 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bulgaria, Belarus, Iran).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bulgaria, Belarus, Iran, Laos).**
 
-Searchable tags: physics, grade 12, electromagnetism, magnetic flux — how much field passes through, flux, iran
+Searchable tags: physics, grade 12, electromagnetism, magnetic flux — how much field passes through, flux, iran, laos

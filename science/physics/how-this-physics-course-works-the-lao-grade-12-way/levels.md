@@ -1,0 +1,4 @@
+# How this Physics course works — the Lao Grade 12 (ມ.7) way — depth
+
+Whole-lesson pass mark: the learner can do all of these — The Lao Grade 12 course: 10 parts / 30 lessons, from Rotation (Part I) to Nuclear Physics (Part X); Mechanics returns only as rotation and oscillation — translation mechanics is assumed from Grade 10; The year's weight: waves and sound (Doppler), magnetism to induction, four AC lessons to the series RLC circuit, atomic and nuclear physics — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

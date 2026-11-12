@@ -1,6 +1,6 @@
 # Sources — Heat — convection currents in liquids and gases
 
-countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran
+countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -22,12 +22,15 @@ countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 10:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5* (student textbook) — Laos, MoES / RIES (ສ.ວ.ສ.), 2014 printing (imprint in file). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5. Grade: 10 (ມ.5) · Student book · Record: 2,849,732 bytes, 213 pages · Repo path: grade-10/gov/laos/physics/student/laos-g10-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m5/m5_physics.pdf (recorded source_url). Offset: printed page = the book's own lesson-start pages from its table of contents; front matter is unnumbered, so PDF page ≈ printed page + ~5 in the opening lessons. Verdict: COMPLETE for structure and placements — the book's own TOC (7 parts, 28 lessons, printed pages legible in the fetched text) was read, Part I's body was read (mechanics of motion, reference systems, the 24,000 km/h satellite example, vectors x′ox axes work), and lesson titles were taken from the bilingual TOC of the current RIES teacher guide for the same course, whose part/lesson sequence matches this book's TOC one-for-one. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The convection loop: warmed fluid expands, lightens, rises; cool fluid sinks; the sawdust beaker (Activity 7.19) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 203–205 (student placement 61) |
 | Sub lesson 2 — The two-bottle exchange (Activity 7.20): predict, watch, conclude | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 203–205 (student placement 61) |
 | A charcoal-heated room keyed as convection and radiation together (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, printed pp. 126–127, 132–133 (teacher placement 22) |
 | Ch. 11 §§11.30–11.40 Heat transfer; land and sea breeze (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 11 §§11.30–11.40 Heat transfer; land and sea breeze — Fiji/Pacific coastal way of teaching convection — printed p. 92 |
+| Part VII, Lesson 26 Heat Transfer — conduction, convection and radiation taught as one transfer lesson (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part VII, Lesson 26 Heat Transfer — printed p. 190 |
 
 | Ch 6: convection (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 6 — printed p. 109 |
 
@@ -37,8 +40,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | §5 Convection (Belarus, Grade 8) | Belarus, *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай)*, §5 Convection — printed p. 20 |
 | §4-5, Methods of heat transfer — convection (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §4-5 — printed p. 111 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran).**
+**Acceptance count: taught in 8 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos).**
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
-Searchable tags: convection, convection current, fluids, sawdust loop, two-bottle test, Ethiopia Grade 8 General Science Unit 7, uganda, kenya, iran
+Searchable tags: convection, convection current, fluids, sawdust loop, two-bottle test, Ethiopia Grade 8 General Science Unit 7, uganda, kenya, iran, laos

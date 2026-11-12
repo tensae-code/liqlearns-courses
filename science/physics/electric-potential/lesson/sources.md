@@ -1,6 +1,6 @@
 # Sources — Electric potential
 
-countries: Ethiopia, Bolivia, Italy, Fiji, Indonesia, United States, Cambodia, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, India, Iran, North Macedonia
+countries: Ethiopia, Bolivia, Italy, Fiji, Indonesia, United States, Cambodia, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, India, Iran, North Macedonia, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -41,6 +41,8 @@ countries: Ethiopia, Bolivia, Italy, Fiji, Indonesia, United States, Cambodia, M
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 19:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6* (student textbook) — Laos, MoES/RIES (file footer: "2_TB Physics M6.pdf", 30 Jul 2015). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6. Grade: 11 (ມ.6) · Student book · Record: 3,389,691 bytes, 209 pages · Repo path: grade-11/gov/laos/physics/student/laos-g11-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m6/m6_physics.pdf (recorded source_url). Offset: student printed pages from its own TOC where legible (Lesson 1 p. 1, Lesson 2 p. 7, Lesson 5 p. 37, Part II opens p. 49, Lessons 11–25 pp. 89–194); the teacher guide's parallel pagination is given alongside for the lesson titles. Verdict: COMPLETE for structure and placements — the student book's TOC skeleton (5 parts, 25 lessons) and its opening body were read (Brownian motion, Perrin, Avogadro's number 6.02×10²³, atomic diameters in pm, molar mass work — all legible in the fetched text), and the lesson titles were read in clean Lao from the Grade 11 teacher guide's table of contents (Book 4 in laos-placements.md), which parallels this book lesson-for-lesson; the student file's legacy font encoding garbles its own lesson titles in text extraction, so titles are cited from the guide. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Electric potential and equipotentials | Grade 11 Student Textbook, printed pp. 232–238 |
@@ -54,6 +56,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §3.1 Цахилгаан хүчдэл (Electric voltage) (Mongolia, Grade 9) | Mongolia, *Физик IX*, §3.1 Цахилгаан хүчдэл (Electric voltage) — printed p. 98 |
 | L3 Potential of the electrostatic field; L4 Electrostatic induction (printed p. 26) (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L3 Potential of the electrostatic field; L4 Electrostatic induction (printed p. 26) — printed p. 22 |
 | U5 Electric potential (Yemen, Grade 10) | Yemen, *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)*, U5 Electric potential — printed p. 122 |
+| Part II, Lesson 9 Electric Potential and Potential Difference (Laos, Grade 11) | Laos, *ຟີຊິກສາດ (Physics, Grade 11 / ມ.6)*, Part II, Lesson 9 Electric Potential and Potential Difference — [guide p. 103] |
 
 | §19 The unit of voltage; calculating work in an electric field (Belarus, Grade 8) | Belarus, *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай)*, §19 The unit of voltage; calculating work in an electric field — printed p. 76 |
 | §16 Potentiality of the electrostatic field, potential; §17 Potential difference and its link to field intensity (printed p. 130) (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §16 Potentiality of the electrostatic field, potential; §17 Potential difference and its link to field intensity (printed p. 130) — printed p. 121 |
@@ -63,8 +66,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §1-7–1-8, Electric potential energy; Electric potential (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §1-7–1-8 — printed pp. 20, 22 |
 | Theme 1 §1.4: electric potential and voltage (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 1 §1.4: electric potential and voltage — printed p. 25 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Bolivia, Italy, Fiji, Indonesia, United States, Cambodia, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, India, Iran, North Macedonia).** Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
+**Acceptance count: taught in 16 countries (Ethiopia, Bolivia, Italy, Fiji, Indonesia, United States, Cambodia, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, India, Iran, North Macedonia, Laos).** Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 
-Searchable tags: physics, grade 11, electrostatics and electric circuit, electric potential, field lines, united states, cambodia, yemen, iran, north macedonia
+Searchable tags: physics, grade 11, electrostatics and electric circuit, electric potential, field lines, united states, cambodia, yemen, iran, north macedonia, laos

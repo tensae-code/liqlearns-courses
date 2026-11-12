@@ -1,6 +1,6 @@
 # Sources — Falling and thrown objects
 
-countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus
+countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus
 
 **Book 6:** *Фізіка. 9 клас (пад рэд. А. А. Сакольскага) (Physics, Grade 9)* (student textbook — study aid / вучэбны дапаможнік) — Belarus, Isachenkava, Palchyk & Sokolski, ed. Sokolski; Minsk, «Народная асвета», 2010 (signed to print 28.07.2010); ISBN 978-985-03-1373-7; Belarusian-language edition (transl. from Russian by N. H. Liauchuk). Grade: 9 · Student book · Repo: release `mid-size-books-7`, asset `grade-09-gov-belarus-physics-student-full-year.pdf` — 17,769,911 bytes (matched asset). PDF pages: 216 (book 213 printed pp.). Printed page ≈ PDF page − 2 at the back (contents at printed p. 213). Verdict: COMPLETE (Ch.4 Laboratory experiment at printed p. 183, appendix p. 203, answers p. 209, contents and colophon present). Structure: Introduction (matter, space, time; scalars and vectors); Ch.1 Kinematics (§§4–15); Ch.2 Dynamics (§§16–26); Ch.3 Conservation laws (§§27–32); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
 
+**Book 7:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5* (student textbook) — Laos, MoES / RIES (ສ.ວ.ສ.), 2014 printing (imprint in file). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5. Grade: 10 (ມ.5) · Student book · Record: 2,849,732 bytes, 213 pages · Repo path: grade-10/gov/laos/physics/student/laos-g10-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m5/m5_physics.pdf (recorded source_url). Offset: printed page = the book's own lesson-start pages from its table of contents; front matter is unnumbered, so PDF page ≈ printed page + ~5 in the opening lessons. Verdict: COMPLETE for structure and placements — the book's own TOC (7 parts, 28 lessons, printed pages legible in the fetched text) was read, Part I's body was read (mechanics of motion, reference systems, the 24,000 km/h satellite example, vectors x′ox axes work), and lesson titles were taken from the bilingual TOC of the current RIES teacher guide for the same course, whose part/lesson sequence matches this book's TOC one-for-one. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Vertical motion and free fall | Grade 11 Student Textbook, printed pp. 70–74 |
@@ -22,11 +24,12 @@ countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus
 | Vertical launches, up and down (Nicaragua) | Nicaragua, *Física — Módulo Autoformativo, Décimo grado*, §1.5 Lanzamientos verticales (ascendente y descendente), printed p. 54 |
 | Ch. 2 Force and Motion I, §2.3 Free Fall Motion (Malaysia) | Malaysia, *Physics Form 4*, Ch. 2, §2.3 Free Fall Motion — printed p. 46 |
 | Ch 3: motion under the acceleration of gravity (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. 30 |
+| Part III, Lesson 11 Vertical Motion (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part III, Lesson 11 Vertical Motion — printed p. 86 |
 
 | §24 Motion of a body under gravity (Belarus, Grade 9) | Belarus, *Фізіка. 9 клас (пад рэд. А. А. Сакольскага)*, §24 Motion of a body under gravity — printed p. 124 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus).**
+**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, falling and thrown objects, acceleration, ecuador, nicaragua
+Searchable tags: physics, grade 11, motion in one and two dimensions, falling and thrown objects, acceleration, ecuador, nicaragua, laos

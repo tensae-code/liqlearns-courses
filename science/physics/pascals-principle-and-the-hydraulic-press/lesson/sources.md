@@ -1,6 +1,6 @@
 # Sources — Pascal's principle — the hydraulic press
 
-countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, Malaysia, Fiji, Indonesia, Kenya, Cambodia, Egypt, Mongolia, Bulgaria, Afghanistan, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia
+countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, Malaysia, Fiji, Indonesia, Kenya, Cambodia, Egypt, Mongolia, Bulgaria, Afghanistan, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -50,6 +50,8 @@ countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, M
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 24:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6* (student textbook) — Laos, MoES/RIES (file footer: "2_TB Physics M6.pdf", 30 Jul 2015). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 6. Grade: 11 (ມ.6) · Student book · Record: 3,389,691 bytes, 209 pages · Repo path: grade-11/gov/laos/physics/student/laos-g11-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m6/m6_physics.pdf (recorded source_url). Offset: student printed pages from its own TOC where legible (Lesson 1 p. 1, Lesson 2 p. 7, Lesson 5 p. 37, Part II opens p. 49, Lessons 11–25 pp. 89–194); the teacher guide's parallel pagination is given alongside for the lesson titles. Verdict: COMPLETE for structure and placements — the student book's TOC skeleton (5 parts, 25 lessons) and its opening body were read (Brownian motion, Perrin, Avogadro's number 6.02×10²³, atomic diameters in pm, molar mass work — all legible in the fetched text), and the lesson titles were read in clean Lao from the Grade 11 teacher guide's table of contents (Book 4 in laos-placements.md), which parallels this book lesson-for-lesson; the student file's legacy font encoding garbles its own lesson titles in text extraction, so titles are cited from the guide. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pascal's principle and the hydraulic press | Grade 12 Student Textbook, printed pp. 82–87 |
@@ -59,6 +61,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Ch. 2 Pressure, §2.4 Pascal's Principle (Malaysia) | Malaysia, *Physics Form 5*, Ch. 2, §2.4 Pascal's Principle |
 | Ch. 10 §9.70 Hydraulic lift (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 10 §9.70 Hydraulic lift — printed p. 85 |
 | Bab 4 Fluida (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 4 Fluida — chapter 4 — Pascal's principle in the fluids sequence |
+| Part I (Lessons 2–3) — Pascal's law named in the guide's content summary for this part (Laos, Grade 11) | Laos, *ຟີຊິກສາດ (Physics, Grade 11 / ມ.6)*, Part I (Lessons 2–3) — [guide Part I summary] |
 
 | Ch 4: transmission of pressure in liquids, hydraulic machines (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 4: transmission of pressure in liquids, hydraulic machines — printed p. ~90 |
 | Ch. 1 Lesson 4: hydrostatic pressure (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Ch. 1 Lesson 4 — printed p. 60 |
@@ -79,6 +82,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | §2-3, Pressure in fluids — Pascal's principle (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §2-3 — printed p. 32 |
 | Theme 3 §§3.1.1–3.1.2: transmission of pressure, Pascal's law; hydraulic machines (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 3 §§3.1.1–3.1.2: transmission of pressure, Pascal's law; hydraulic machines — printed pp. 73, 75 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Fiji, Indonesia, Kenya, Cambodia, Egypt, Mongolia, Bulgaria, Afghanistan, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count. Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
+**Acceptance count: taught in 19 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Fiji, Indonesia, Kenya, Cambodia, Egypt, Mongolia, Bulgaria, Afghanistan, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count. Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
 
-Searchable tags: physics, grade 12, fluid mechanics, pascal's principle — the hydraulic press, hydraulic, palestine, sri lanka, kenya, cambodia, egypt, iran, north macedonia
+Searchable tags: physics, grade 12, fluid mechanics, pascal's principle — the hydraulic press, hydraulic, palestine, sri lanka, kenya, cambodia, egypt, iran, north macedonia, laos

@@ -1,6 +1,6 @@
 # Sources — Collisions — bouncing and sticking
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United States, Yemen, Afghanistan, Bhutan, India
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United States, Yemen, Afghanistan, Bhutan, India, Laos
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United Stat
 
 **Book 7:** *Physics Part–I, Textbook for Class XI, NCERT (National Council of Educational Research and Training), New Delhi* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books/grade-11-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-keph1. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World, later chapters +1) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 8:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5* (student textbook) — Laos, MoES / RIES (ສ.ວ.ສ.), 2014 printing (imprint in file). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5. Grade: 10 (ມ.5) · Student book · Record: 2,849,732 bytes, 213 pages · Repo path: grade-10/gov/laos/physics/student/laos-g10-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m5/m5_physics.pdf (recorded source_url). Offset: printed page = the book's own lesson-start pages from its table of contents; front matter is unnumbered, so PDF page ≈ printed page + ~5 in the opening lessons. Verdict: COMPLETE for structure and placements — the book's own TOC (7 parts, 28 lessons, printed pages legible in the fetched text) was read, Part I's body was read (mechanics of motion, reference systems, the 24,000 km/h satellite example, vectors x′ox axes work), and lesson titles were taken from the bilingual TOC of the current RIES teacher guide for the same course, whose part/lesson sequence matches this book's TOC one-for-one. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Collisions — elastic and perfectly inelastic | Grade 11 Student Textbook, printed pp. 157–161 |
@@ -22,10 +24,11 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United Stat
 | Collisions — PHYS.1.3 (Utah SEEd) | United States, *Physics for Utah SEEd Standards (Revised 2025)*, PHYS.1.3, printed p. 32 — elastic vs inelastic collisions |
 | U1 Two-dimensional collisions (elastic/inelastic treated by components) (Yemen, Grade 12) | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U1 Two-dimensional collisions (elastic/inelastic treated by components) — printed p. 10 |
 | Ch. 6 — collisions, elastic and inelastic (Afghanistan, Grade 11) | Afghanistan, *فیزیک — صنف یازدهم (Physics — Grade 11)*, Ch. 6 — printed p. 159 — collisions and conservation of linear momentum p. 159, elastic collision p. 162, inelastic collision p. 164 |
+| Part VI, Lesson 23 Motion Under Reaction Force — reaction/propulsion motion (rockets) closes the momentum part (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part VI, Lesson 23 Motion Under Reaction Force — printed p. 173 |
 
 | Ch. 9 Center of Mass and Linear Momentum — printed p. 214 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 9 Center of Mass and Linear Momentum — printed p. 214 |
 | Ch. 5, §5.11 Collisions — printed p. 83 (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 5, §5.11 Collisions — printed p. 83 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, United States, Yemen, Afghanistan, Bhutan, India).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, United States, Yemen, Afghanistan, Bhutan, India, Laos).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count.
 
-Searchable tags: physics, grade 11, dynamics, collisions — bouncing and sticking, momentum, united states, yemen
+Searchable tags: physics, grade 11, dynamics, collisions — bouncing and sticking, momentum, united states, yemen, laos
