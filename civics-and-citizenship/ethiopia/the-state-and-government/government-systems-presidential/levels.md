@@ -1,0 +1,3 @@
+# Government systems — presidential — depth
+
+This lesson is one whole lesson — it has no sub lessons. Pass mark: the learner can state and use the whole lesson's one thing — in the presidential system a separately elected president is both head of state and head of government for a fixed term — in their own words, on a fresh example. Practice deepens by more items and harder corners of the same one thing: the lesson's cases judged from the other side, its lists recalled in a different order, its rule applied to the learner's own street and school.

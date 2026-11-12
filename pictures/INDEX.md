@@ -4626,3 +4626,260 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 23409 | pictures/23409.webp | joining old and new | Social Studies — Indigenous knowledge in development |
 | 23410 | pictures/23410.webp | heritage split diagram (cultural/natural, tangible/intangible) | Social Studies — Heritage |
 | 23411 | pictures/23411.webp | Ethiopia on the register strip | Social Studies — Ethiopia's UNESCO heritages |
+| 30900 | XML: looks or meaning? — the same page styled for display, and labelled for meaning | computer-science-and-ict/internet-and-the-web/xml-marking-up-what-data-is |
+| 30901 | What XML is used for — nested book record beside the storage case | computer-science-and-ict/internet-and-the-web/what-xml-is-used-for |
+| 30902 | Parts of an XML document (1) — declaration, DOCTYPE and internal declarations labelled | computer-science-and-ict/internet-and-the-web/parts-of-an-xml-document-declaration-and-dtd |
+| 30903 | Root, elements and the tree — document beside its upside-down tree | computer-science-and-ict/internet-and-the-web/root-elements-and-data-the-xml-tree |
+| 30904 | Attributes and comments — quoted attribute, greyed comment | computer-science-and-ict/internet-and-the-web/xml-attributes-and-comments |
+| 30905 | Viewing XML in three windows — editor, browser, Notepad tree | computer-science-and-ict/internet-and-the-web/viewing-xml-browser-text-editor-and-xml-notepad |
+| 30906 | Well-formed: five rules — root, case, nesting, quoting, comments | computer-science-and-ict/internet-and-the-web/well-formed-xml-root-case-and-nesting-rules |
+| 30907 | Whitespace and entities — spaces kept, references swapped in | computer-science-and-ict/internet-and-the-web/whitespace-and-entity-references-in-xml |
+| 30908 | Inside a bookstore record — text-holding, element-holding, attribute-carrying | computer-science-and-ict/internet-and-the-web/naming-xml-elements-and-empty-elements |
+| 30909 | Attribute or element? — two person records, gender carried two ways | computer-science-and-ict/internet-and-the-web/attributes-or-elements-two-ways |
+| 30910 | Entities: declare once, use by name — reference token and its expansion | computer-science-and-ict/internet-and-the-web/entities-declare-once-reference-by-name |
+| 30911 | DTD: the album rulebook — document checked line by line | computer-science-and-ict/internet-and-the-web/dtd-the-rulebook-inside-the-document |
+| 30912 | HTML or XML? — the two-column comparison chart | computer-science-and-ict/internet-and-the-web/html-or-xml-telling-the-two-markup-languages-apart |
+| 30913 | XML: strengths and weaknesses — the two panels | computer-science-and-ict/internet-and-the-web/xml-strengths-and-weaknesses |
+| 30914 | The college document grows — four growth stages | computer-science-and-ict/internet-and-the-web/building-an-xml-document-the-college-project |
+| 30915 | A website's folder tree — root, index and four subfolders | computer-science-and-ict/internet-and-the-web/publishing-a-website-root-index-and-folders |
+| 30916 | Hosting: files go to a server — upload and the domain name plate | computer-science-and-ict/internet-and-the-web/hosting-and-domain-names-putting-a-site-on-a-server |
+| 30917 | Domain extensions (TLDs) — six extensions with their owner kinds | computer-science-and-ict/internet-and-the-web/domain-extensions-com-edu-gov-org-mil-net |
+| 30918 | HTTPS: read the address bar — padlock versus Not secure | computer-science-and-ict/internet-and-the-web/https-and-ssl-keeping-visitors-information-safe |
+| 30920 | GIF: an XML document unfolding into its tree, level by level | computer-science-and-ict/internet-and-the-web/root-elements-and-data-the-xml-tree |
+| 30921 | GIF: an element collapsing by its − sign and expanding by its + sign in a browser | computer-science-and-ict/internet-and-the-web/viewing-xml-browser-text-editor-and-xml-notepad |
+| 30922 | GIF: the &publisher; reference expanding into its full text | computer-science-and-ict/internet-and-the-web/entities-declare-once-reference-by-name |
+| 30923 | GIF: the college XML tree growing department by department | computer-science-and-ict/internet-and-the-web/building-an-xml-document-the-college-project |
+| 30924 | GIF: an upload arrow moving a site file to a server until the site is live | computer-science-and-ict/internet-and-the-web/hosting-and-domain-names-putting-a-site-on-a-server |
+| 30100 | Emerging technologies — arriving soon (timeline) | computer-science-and-ict/new-technologies/emerging-technologies-new-evolving-soon |
+| 30101 | Big data — sources into one store | computer-science-and-ict/new-technologies/bigdata-too-massive-for-ordinary-tools |
+| 30102 | The 5 Vs of big data | computer-science-and-ict/new-technologies/the-5-vs-of-bigdata |
+| 30103 | What big data is good for — six benefit tiles | computer-science-and-ict/new-technologies/what-bigdata-is-good-for |
+| 30104 | Big data in health and education | computer-science-and-ict/new-technologies/bigdata-in-healthcare-and-education |
+| 30105 | Big data in five more fields — banking, farming, factories, shops, transport | computer-science-and-ict/new-technologies/bigdata-in-banking-farming-factories-shops-and-transport |
+| 30106 | Big data — four challenges | computer-science-and-ict/new-technologies/bigdata-challenges-growth-people-security-mixing-sources |
+| 30107 | Cloud computing — not on your PC | computer-science-and-ict/new-technologies/cloud-computing-services-over-the-internet |
+| 30108 | Cloud benefits — anywhere access | computer-science-and-ict/new-technologies/cloud-benefits-anywhere-access-and-flexible-resources |
+| 30109 | Pay only for what you use — meter and the provider's job | computer-science-and-ict/new-technologies/cloud-benefits-provider-updates-security-and-pay-as-you-go |
+| 30110 | Hosting a website — two roads | computer-science-and-ict/new-technologies/hosting-a-website-your-own-server-or-the-cloud |
+| 30111 | Cloud limitations — six warnings | computer-science-and-ict/new-technologies/cloud-limitations-downtime-ownership-lock-in-support-and-fees |
+| 30112 | Public cloud and private cloud | computer-science-and-ict/new-technologies/public-cloud-and-private-cloud |
+| 30113 | Hybrid cloud and community cloud | computer-science-and-ict/new-technologies/hybrid-cloud-and-community-cloud |
+| 30114 | SaaS — software you subscribe to | computer-science-and-ict/new-technologies/saas-software-you-subscribe-to-not-install |
+| 30115 | PaaS — paints, brushes and paper | computer-science-and-ict/new-technologies/paas-a-ready-platform-for-building-applications |
+| 30116 | IaaS — rent the computing itself | computer-science-and-ict/new-technologies/iaas-computing-resources-rented-in-the-cloud |
+| 30117 | Fog computing — close to the data | computer-science-and-ict/new-technologies/fog-computing-processing-at-the-edge-near-the-data |
+| 30118 | IoT — things that send and receive | computer-science-and-ict/new-technologies/internet-of-things-everyday-things-that-send-and-receive-data |
+| 30119 | IoT — good sides and warnings | computer-science-and-ict/new-technologies/iot-advantages-and-what-can-go-wrong |
+| 30120 | How IoT works — four steps | computer-science-and-ict/new-technologies/how-an-iot-system-works-sense-connect-process-respond |
+| 30121 | IoT applications — everywhere | computer-science-and-ict/new-technologies/iot-applications-home-city-health-cars-and-farms |
+| 30122 | Customer data — gathered three ways (teacher guide evidence) | computer-science-and-ict/new-technologies/what-bigdata-is-good-for |
+| 30123 | Where the word 'cloud' comes from (teacher guide evidence) | computer-science-and-ict/new-technologies/cloud-computing-services-over-the-internet |
+| 30124 | Three service models — by benefit (teacher guide evidence) | computer-science-and-ict/new-technologies/saas-software-you-subscribe-to-not-install |
+| 30125 | The connected home (teacher guide evidence) | computer-science-and-ict/new-technologies/iot-applications-home-city-health-cars-and-farms |
+| 30126 | GIF: data streams flowing along a pipeline into a store that fills | computer-science-and-ict/new-technologies/bigdata-too-massive-for-ordinary-tools |
+| 30127 | GIF: a file saved from a school computer up into a cloud folder | computer-science-and-ict/new-technologies/cloud-computing-services-over-the-internet |
+| 30128 | GIF: a surveillance stream checked locally at the fog node; only an alert travels to the cloud | computer-science-and-ict/new-technologies/fog-computing-processing-at-the-edge-near-the-data |
+| 30129 | GIF: data packets stopped and handled at the fog gateway while only some travel on | computer-science-and-ict/new-technologies/fog-computing-processing-at-the-edge-near-the-data |
+| 30130 | GIF: a temperature reading travelling sense → connect → process → respond | computer-science-and-ict/new-technologies/how-an-iot-system-works-sense-connect-process-respond |
+| 31700 | One program path shown three ways — straight, branching, looping back | computer-science-and-ict/programming/program-flow-control-the-order-code-runs-in |
+| 31701 | A two-column Python-versus-maths operator chart — = and == are different jobs | computer-science-and-ict/programming/conditional-expressions-equals-is-not-assignment |
+| 31702 | A gate that opens for a true test and stays shut for a false one | computer-science-and-ict/programming/the-if-statement-do-it-only-if-true |
+| 31703 | A fork with true and false roads — numbers arriving labelled even or odd | computer-science-and-ict/programming/if-else-one-action-or-the-other |
+| 31704 | Five mini-programs, ticked or crossed for colon and indentation faults | computer-science-and-ict/programming/python-syntax-and-indentation-spaces-that-mean-something |
+| 31705 | A staircase of conditions with a value stepping down until one catches it | computer-science-and-ict/programming/if-elif-else-a-chain-of-choices |
+| 31706 | Two switches in series labelled AND beside two in parallel labelled OR | computer-science-and-ict/programming/and-or-combining-tests-in-one-if |
+| 31707 | A loop arrow carrying a variable through a row of items one by one | computer-science-and-ict/programming/loops-and-the-for-loop-over-a-sequence |
+| 31708 | Three number lines, one per range form, the end number faded as not included | computer-science-and-ict/programming/counting-with-range-start-stop-before-step |
+| 31709 | A word breaking into single letters passing one by one through a loop | computer-science-and-ict/programming/for-loops-over-a-list-and-over-a-string |
+| 31710 | A loop track with an exit gate labelled break and a hop-over labelled continue | computer-science-and-ict/programming/break-and-continue-in-a-for-loop |
+| 31711 | A loop gate re-asking 'still less than 5?' with a counter climbing inside | computer-science-and-ict/programming/the-while-loop-and-the-increment-that-ends-it |
+| 31712 | A while loop with one value jumping the exit and another skipped over | computer-science-and-ict/programming/break-and-continue-inside-while |
+| 31713 | A program with grey # lines the interpreter steps over | computer-science-and-ict/programming/comments-in-python-the-hash-the-interpreter-ignores |
+| 31714 | The IDLE Format menu open with Comment Out Region highlighted | computer-science-and-ict/programming/commenting-out-code-in-idle-alt3-and-alt4 |
+| 31715 | A program, an interpreter layer and hardware stacked with arrows | computer-science-and-ict/programming/the-python-interpreter-the-layer-that-runs-your-code |
+| 31716 | A three-stage pipeline — source file, bytecode file, virtual machine | computer-science-and-ict/programming/from-py-to-pyc-to-the-pvm-how-python-runs |
+| 31717 | An IDLE window with the Debug menu open and [DEBUG ON] at the prompt | computer-science-and-ict/programming/bugs-and-debugging-turning-on-debug-on |
+| 31718 | A program line highlighted beside a Debug Control panel — values 50 and 0 | computer-science-and-ict/programming/breakpoints-and-stepping-hunting-a-typeerror |
+| 31720 | GIF: an execution dot travelling straight, then splitting, then looping | computer-science-and-ict/programming/program-flow-control-the-order-code-runs-in |
+| 31721 | GIF: a number down the true road, then another down the false road | computer-science-and-ict/programming/if-else-one-action-or-the-other |
+| 31722 | GIF: a value stepping down the elif chain until a condition catches it | computer-science-and-ict/programming/if-elif-else-a-chain-of-choices |
+| 31723 | GIF: a variable moving item to item along a list | computer-science-and-ict/programming/loops-and-the-for-loop-over-a-sequence |
+| 31724 | GIF: a counter stepping along a number line, stopping before the last number | computer-science-and-ict/programming/counting-with-range-start-stop-before-step |
+| 31725 | GIF: characters leaving a word one at a time | computer-science-and-ict/programming/for-loops-over-a-list-and-over-a-string |
+| 31726 | GIF: a loop runner exiting at break, then hopping one item at continue | computer-science-and-ict/programming/break-and-continue-in-a-for-loop |
+| 31727 | GIF: a counter climbing until the while gate closes | computer-science-and-ict/programming/the-while-loop-and-the-increment-that-ends-it |
+| 31728 | GIF: selected lines gaining # marks in one menu action | computer-science-and-ict/programming/commenting-out-code-in-idle-alt3-and-alt4 |
+| 31729 | GIF: a file transforming .py → .pyc → running output | computer-science-and-ict/programming/from-py-to-pyc-to-the-pvm-how-python-runs |
+| 31730 | GIF: a code block sliding in under an if line as it is indented, then running (teacher evidence) | computer-science-and-ict/programming/python-syntax-and-indentation-spaces-that-mean-something |
+| 31731 | GIF: a counter adding 1 again and again inside a loop arrow (teacher evidence) | computer-science-and-ict/programming/counting-with-range-start-stop-before-step |
+| 31732 | GIF: lines commented out one by one until the output window goes blank (teacher evidence) | computer-science-and-ict/programming/commenting-out-code-in-idle-alt3-and-alt4 |
+| 31733 | GIF: the debugger stepping from the breakpoint into the error message (teacher evidence) | computer-science-and-ict/programming/breakpoints-and-stepping-hunting-a-typeerror |
+| 31734 | GIF: execution pausing at a breakpoint line, then stepping line by line | computer-science-and-ict/programming/breakpoints-and-stepping-hunting-a-typeerror |
+| 28600 | pictures/28600.webp | Picture — two arrows between citizen and state | Civics and Citizenship — Ethiopia — Citizen and citizenship — member of the state |
+| 28601 | pictures/28601.webp | Picture — teachers talking with parents at a village house | Civics and Citizenship — Ethiopia — Citizen and citizenship — member of the state |
+| 28602 | pictures/28602.webp | Picture — a child with a school bag and a market basket | Civics and Citizenship — Ethiopia — Citizen and citizenship — member of the state |
+| 28603 | pictures/28603.webp | Picture — three doors into citizenship: soil, blood, application | Civics and Citizenship — Ethiopia — Becoming a citizen — birth, descent, naturalisation |
+| 28604 | pictures/28604.webp | Picture — three doors opening onto the same flag | Civics and Citizenship — Ethiopia — Becoming a citizen — birth, descent, naturalisation |
+| 28605 | pictures/28605.webp | Picture — a family with an adopted child beside two exit doors | Civics and Citizenship — Ethiopia — Becoming a citizen by adoption; losing citizenship |
+| 28606 | pictures/28606.webp | Picture — a passport handed back, and one stamped cancelled | Civics and Citizenship — Ethiopia — Becoming a citizen by adoption; losing citizenship |
+| 28607 | pictures/28607.webp | Picture — the Proclamation cover beside an eight-item checklist | Civics and Citizenship — Ethiopia — Ethiopian citizenship law — descent and naturalisation |
+| 28608 | pictures/28608.webp | Picture — a family at an office desk with three flags | Civics and Citizenship — Ethiopia — Ethiopian citizenship law — descent and naturalisation |
+| 28609 | pictures/28609.webp | Picture — a shield over a citizen's certificate | Civics and Citizenship — Ethiopia — Ethiopian citizenship law — citizenship cannot be taken away |
+| 28610 | pictures/28610.webp | Picture — a map outline filled with people and a government building | Civics and Citizenship — Ethiopia — The state — an organised political community |
+| 28611 | pictures/28611.webp | Picture — Ethiopia's map ringed by its uniqueness list | Civics and Citizenship — Ethiopia — The state — an organised political community |
+| 28612 | pictures/28612.webp | Picture — Ethiopia's map with its six neighbours labelled | Civics and Citizenship — Ethiopia — Elements of the state — people, land, government, sovereignty |
+| 28613 | pictures/28613.webp | Picture — flag and anthem above two sovereignty panels | Civics and Citizenship — Ethiopia — Elements of the state — people, land, government, sovereignty |
+| 28614 | pictures/28614.webp | Picture — a four-part diagram of the elements | Civics and Citizenship — Ethiopia — Elements of the state — people, land, government, sovereignty |
+| 28615 | pictures/28615.webp | Picture — community policing and a health post side by side | Civics and Citizenship — Ethiopia — What government does — order, services, security, the economy |
+| 28616 | pictures/28616.webp | Picture — a guard post beside the Renaissance Dam | Civics and Citizenship — Ethiopia — What government does — order, services, security, the economy |
+| 28617 | pictures/28617.webp | Picture — four panels of the four functions | Civics and Citizenship — Ethiopia — What government does — order, services, security, the economy |
+| 28618 | pictures/28618.webp | Picture — four panels: crown, few chairs, fist, wide circle | Civics and Citizenship — Ethiopia — Forms of government — one, few, force, the people |
+| 28619 | pictures/28619.webp | Picture — four thrones-to-ballot panels | Civics and Citizenship — Ethiopia — Forms of government — one, few, force, the people |
+| 28620 | pictures/28620.webp | Picture — the six contrasts as a two-column chart | Civics and Citizenship — Ethiopia — State or government? — telling them apart |
+| 28621 | pictures/28621.webp | Picture — a parliament building while cabinets change | Civics and Citizenship — Ethiopia — State or government? — telling them apart |
+| 28622 | pictures/28622.webp | Picture — an outline of Ethiopia with changing seals above it | Civics and Citizenship — Ethiopia — State or government? — telling them apart |
+| 28623 | pictures/28623.webp | Picture — a stone building with changing nameplates | Civics and Citizenship — Ethiopia — State or government? — telling them apart |
+| 28624 | pictures/28624.gif | GIF — governments changing above an unchanging building | Civics and Citizenship — Ethiopia — State or government? — telling them apart |
+| 28625 | pictures/28625.webp | Picture — two family tables: one deciding alone, one sharing rules | Civics and Citizenship — Ethiopia — State structures — power at the centre or shared |
+| 28626 | pictures/28626.webp | Picture — three diagrams of power | Civics and Citizenship — Ethiopia — State structures — power at the centre or shared |
+| 28627 | pictures/28627.webp | Picture — arrows flowing down from a capital to smaller provinces | Civics and Citizenship — Ethiopia — State structures — the unitary state |
+| 28628 | pictures/28628.webp | Picture — a pyramid with one capital at the top | Civics and Citizenship — Ethiopia — State structures — the unitary state |
+| 28629 | pictures/28629.webp | Picture — a two-storey house of federal and regional rooms | Civics and Citizenship — Ethiopia — State structures — the federal state |
+| 28630 | pictures/28630.webp | Picture — two overlapping circles of power under one constitution | Civics and Citizenship — Ethiopia — State structures — the federal state |
+| 28631 | pictures/28631.webp | Picture — separate flags in a loose circle around a small table | Civics and Citizenship — Ethiopia — State structures — the confederation |
+| 28632 | pictures/28632.webp | Picture — a ring of flags holding a small shared banner | Civics and Citizenship — Ethiopia — State structures — the confederation |
+| 28633 | pictures/28633.webp | Picture — a parliament chamber with the prime minister's bench | Civics and Citizenship — Ethiopia — Government systems — parliamentary |
+| 28634 | pictures/28634.webp | Picture — a parliament chamber and a presidential palace side by side | Civics and Citizenship — Ethiopia — Government systems — parliamentary |
+| 28635 | pictures/28635.webp | Picture — two chairs: a ceremonial throne and a working desk | Civics and Citizenship — Ethiopia — Government systems — parliamentary |
+| 28636 | pictures/28636.webp | Picture — two separate ballot boxes on one polling day | Civics and Citizenship — Ethiopia — Government systems — presidential |
+| 28637 | pictures/28637.webp | Picture — one chair combining crown and desk | Civics and Citizenship — Ethiopia — Government systems — presidential |
+| 28638 | pictures/28638.webp | Picture — a timeline with three seals: crown, star, ballot box | Civics and Citizenship — Ethiopia — Governments Ethiopia has lived under |
+| 28639 | pictures/28639.webp | Picture — a timeline 1974–1991–today with three seats of power | Civics and Citizenship — Ethiopia — Governments Ethiopia has lived under |
+| 28640 | pictures/28640.webp | Picture — three columns, each with a building and a crack | Civics and Citizenship — Ethiopia — Judging Ethiopia's governments — what each built, what each broke |
+| 28641 | pictures/28641.webp | Picture — a three-column balance chart, one column per era | Civics and Citizenship — Ethiopia — Judging Ethiopia's governments — what each built, what each broke |
+| 28642 | pictures/28642.webp | Picture — a class election with ballot slips going into a box | Civics and Citizenship — Ethiopia — Democracy — rule of the people, lived daily |
+| 28643 | pictures/28643.webp | Picture — a crowd at a ballot box with demos and kratos above | Civics and Citizenship — Ethiopia — Democracy — rule of the people, lived daily |
+| 28644 | pictures/28644.webp | Picture — hands raised in a class vote, then the class cooperating | Civics and Citizenship — Ethiopia — Democracy — rule of the people, lived daily |
+| 28645 | pictures/28645.webp | Picture — a school office door: one chair, or a council table | Civics and Citizenship — Ethiopia — Democracy — rule of the people, lived daily |
+| 28646 | pictures/28646.webp | Picture — the Athenian Assembly on its hill, the excluded outside | Civics and Citizenship — Ethiopia — Democracy begins — Athens |
+| 28647 | pictures/28647.webp | Picture — the Athenian Assembly, citizens raising hands | Civics and Citizenship — Ethiopia — Democracy begins — Athens |
+| 28648 | pictures/28648.webp | Picture — a balance: market stall against school, clinic, houses | Civics and Citizenship — Ethiopia — Forms of democracy — liberal and social |
+| 28649 | pictures/28649.webp | Picture — two town squares with different state roles | Civics and Citizenship — Ethiopia — Forms of democracy — liberal and social |
+| 28650 | pictures/28650.webp | Picture — a referendum ballot with two boxes and a queue | Civics and Citizenship — Ethiopia — Exercising democracy — directly and through representatives |
+| 28651 | pictures/28651.webp | Picture — voters at a polling station and the parliament they fill | Civics and Citizenship — Ethiopia — Exercising democracy — directly and through representatives |
+| 28652 | pictures/28652.webp | Picture — a referendum queue at a school polling station | Civics and Citizenship — Ethiopia — Exercising democracy — directly and through representatives |
+| 28653 | pictures/28653.gif | GIF — a hand dropping a ballot into a box | Civics and Citizenship — Ethiopia — Exercising democracy — directly and through representatives |
+| 28654 | pictures/28654.webp | Picture — two gates: a ballot cast, then services arriving | Civics and Citizenship — Ethiopia — Procedural and substantive democracy — the vote, and what follows it |
+| 28655 | pictures/28655.webp | Picture — an election poster, then voters with water, school, clinic | Civics and Citizenship — Ethiopia — Procedural and substantive democracy — the vote, and what follows it |
+| 28656 | pictures/28656.webp | Picture — a town meeting under a tree, a woman chairing | Civics and Citizenship — Ethiopia — Principles of democracy — sovereignty, constitution, participation, checks, openness, choice, law |
+| 28657 | pictures/28657.webp | Picture — nine principle stones forming an arch | Civics and Citizenship — Ethiopia — Principles of democracy — sovereignty, constitution, participation, checks, openness, choice, law |
+| 28658 | pictures/28658.webp | Picture — a constitution book at the head of principle plaques | Civics and Citizenship — Ethiopia — Principles of democracy — sovereignty, constitution, participation, checks, openness, choice, law |
+| 28659 | pictures/28659.webp | Picture — a second row of plaques completing a wall of ten | Civics and Citizenship — Ethiopia — Principles of democracy — sovereignty, constitution, participation, checks, openness, choice, law |
+| 28660 | pictures/28660.webp | Picture — a mobile classroom tent beside herded cattle | Civics and Citizenship — Ethiopia — Values of democracy — tolerance, liberty, justice, equality, civility, diversity |
+| 28661 | pictures/28661.webp | Picture — pupils of many backgrounds in one meeting circle | Civics and Citizenship — Ethiopia — Values of democracy — tolerance, liberty, justice, equality, civility, diversity |
+| 28662 | pictures/28662.webp | Picture — a water pipe reaching a dry distant village | Civics and Citizenship — Ethiopia — Values of democracy — tolerance, liberty, justice, equality, civility, diversity |
+| 28663 | pictures/28663.webp | Picture — elders in a circle under a tree, eight practices on a map | Civics and Citizenship — Ethiopia — Indigenous democracy in Ethiopia — councils, consensus, elders |
+| 28664 | pictures/28664.webp | Picture — six named institutions on Ethiopia's map | Civics and Citizenship — Ethiopia — Indigenous democracy in Ethiopia — councils, consensus, elders |
+| 28665 | pictures/28665.webp | Picture — elders in a circle, the eight traditions around the ring | Civics and Citizenship — Ethiopia — Indigenous democracy in Ethiopia — councils, consensus, elders |
+| 28666 | pictures/28666.webp | Picture — an assembly under a sycamore, a staff being passed | Civics and Citizenship — Ethiopia — Indigenous democracy in Ethiopia — councils, consensus, elders |
+| 28667 | pictures/28667.gif | GIF — the staff of office being handed over | Civics and Citizenship — Ethiopia — Indigenous democracy in Ethiopia — councils, consensus, elders |
+| 28668 | pictures/28668.webp | Picture — two pans of a balance: reforms against obstacles | Civics and Citizenship — Ethiopia — Democracy in Ethiopia — what helps it, what holds it |
+| 28669 | pictures/28669.webp | Picture — a road under construction splitting around obstacles | Civics and Citizenship — Ethiopia — Democracy in Ethiopia — what helps it, what holds it |
+| 28670 | pictures/28670.webp | Picture — scales level between a principal's son and an ordinary pupil | Civics and Citizenship — Ethiopia — The rule of law — equality before the law |
+| 28671 | pictures/28671.webp | Picture — a couple waiting at a red light on an empty road | Civics and Citizenship — Ethiopia — The rule of law — equality before the law |
+| 28672 | pictures/28672.gif | GIF — the light turning green and the couple crossing | Civics and Citizenship — Ethiopia — The rule of law — equality before the law |
+| 28673 | pictures/28673.webp | Picture — four springs feeding one river labelled law | Civics and Citizenship — Ethiopia — Sources of law — constitution, custom, belief, legislation |
+| 28674 | pictures/28674.webp | Picture — a river drawn from four springs joining into one stream | Civics and Citizenship — Ethiopia — Sources of law — constitution, custom, belief, legislation |
+| 28675 | pictures/28675.webp | Picture — a car waiting at a red light on an empty road | Civics and Citizenship — Ethiopia — Why the rule of law matters |
+| 28676 | pictures/28676.webp | Picture — a market where contracts are honoured | Civics and Citizenship — Ethiopia — Why the rule of law matters |
+| 28677 | pictures/28677.webp | Picture — three signposts: judge, equal rulings, calm street | Civics and Citizenship — Ethiopia — Signs of the rule of law — independent courts, equal law, peace |
+| 28678 | pictures/28678.webp | Picture — a judge's bench, a roped empty throne, a free defendant | Civics and Citizenship — Ethiopia — Signs of the rule of law — independent courts, equal law, peace |
+| 28679 | pictures/28679.webp | Picture — two panels: a finger changing a law; a ruler bowing to a law book | Civics and Citizenship — Ethiopia — Rule of law or rule of man? |
+| 28680 | pictures/28680.webp | Picture — two panels: a book above a king; a king above a small book | Civics and Citizenship — Ethiopia — Rule of law or rule of man? |
+| 28681 | pictures/28681.webp | Picture — four cracks in a courthouse wall, a citizen telephoning police | Civics and Citizenship — Ethiopia — What weakens the rule of law |
+| 28682 | pictures/28682.webp | Picture — a courthouse wall with four labelled cracks | Civics and Citizenship — Ethiopia — What weakens the rule of law |
+| 28683 | pictures/28683.webp | Picture — a constitution book beside a building shaped by its outline | Civics and Citizenship — Ethiopia — Constitution and constitutionalism — the rulebook, and obeying it |
+| 28684 | pictures/28684.webp | Picture — a class writing its one-page constitution on the board | Civics and Citizenship — Ethiopia — Constitution and constitutionalism — the rulebook, and obeying it |
+| 28685 | pictures/28685.webp | Picture — a constitution as a house frame with a flag on the roof | Civics and Citizenship — Ethiopia — Purposes of a constitution |
+| 28686 | pictures/28686.webp | Picture — a constitution book used as a plumb line for smaller laws | Civics and Citizenship — Ethiopia — Purposes of a constitution |
+| 28687 | pictures/28687.webp | Picture — an official handing an account book to watching citizens | Civics and Citizenship — Ethiopia — Importance of constitutionalism — limited power, real rights |
+| 28688 | pictures/28688.webp | Picture — a ruler handing power to a successor under an open constitution | Civics and Citizenship — Ethiopia — Importance of constitutionalism — limited power, real rights |
+| 28689 | pictures/28689.webp | Picture — one bound book beside loose documents; two padlocks | Civics and Citizenship — Ethiopia — Kinds of constitution — written, unwritten, rigid, flexible |
+| 28690 | pictures/28690.webp | Picture — two books, one bound, one carried as custom, a lock labelled rigid | Civics and Citizenship — Ethiopia — Kinds of constitution — written, unwritten, rigid, flexible |
+| 28691 | pictures/28691.webp | Picture — two constitutions: one casting a shadow, one casting none | Civics and Citizenship — Ethiopia — Kinds of constitution — effective or nominal, federal or unitary |
+| 28692 | pictures/28692.webp | Picture — a paper crown beside a working crown | Civics and Citizenship — Ethiopia — Kinds of constitution — effective or nominal, federal or unitary |
+| 28693 | pictures/28693.webp | Picture — a calm kebele street beside the same street emptied by fear | Civics and Citizenship — Ethiopia — Constitutionalism, peace and stability |
+| 28694 | pictures/28694.webp | Picture — two disputing parties shaking hands across an open constitution | Civics and Citizenship — Ethiopia — Constitutionalism, peace and stability |
+| 28695 | pictures/28695.webp | Picture — a newborn's hand inside an adult's, seven rights labelled around | Civics and Citizenship — Ethiopia — Human rights — born with them |
+| 28696 | pictures/28696.webp | Picture — four linked rings labelled with the four features | Civics and Citizenship — Ethiopia — Features of human rights — for all, inborn, untakeable, joined |
+| 28697 | pictures/28697.webp | Picture — four rings linked in one chain over a crowd | Civics and Citizenship — Ethiopia — Features of human rights — for all, inborn, untakeable, joined |
+| 28698 | pictures/28698.webp | Picture — a child asleep while shield stars labelled with rights settle over the house | Civics and Citizenship — Ethiopia — Children's rights — the Convention in plain words |
+| 28699 | pictures/28699.webp | Picture — a town scene with each listed benefit visible | Civics and Citizenship — Ethiopia — Why human rights must be respected |
+| 28700 | pictures/28700.webp | Picture — neighbours of different languages sharing one water point in peace | Civics and Citizenship — Ethiopia — Why human rights must be respected |
+| 28701 | pictures/28701.webp | Picture — a village inside two concentric shields | Civics and Citizenship — Ethiopia — The responsibility to protect — state first, world behind it |
+| 28702 | pictures/28702.webp | Picture — a shield held jointly by village, government and nations | Civics and Citizenship — Ethiopia — The responsibility to protect — state first, world behind it |
+| 28703 | pictures/28703.webp | Picture — three stacked documents as descending steps | Civics and Citizenship — Ethiopia — Human rights instruments — world, Africa, nation |
+| 28704 | pictures/28704.webp | Picture — a timeline wall from 1948 to 2006 with dated plaques | Civics and Citizenship — Ethiopia — Human rights instruments — world, Africa, nation |
+| 28705 | pictures/28705.webp | Picture — two office doors beside three verbs | Civics and Citizenship — Ethiopia — Protecting rights at home — institutions and the state's three duties |
+| 28706 | pictures/28706.webp | Picture — three panels: stepping back, shielding, building a clinic | Civics and Citizenship — Ethiopia — Protecting rights at home — institutions and the state's three duties |
+| 28707 | pictures/28707.webp | Picture — three steps ascending: speaker, pupil and patient, clean valley | Civics and Citizenship — Ethiopia — Human rights classified — liberty, equality, solidarity |
+| 28708 | pictures/28708.webp | Picture — a three-storey house of rights | Civics and Citizenship — Ethiopia — Human rights classified — liberty, equality, solidarity |
+| 28709 | pictures/28709.webp | Picture — a service counter queue served strictly in turn | Civics and Citizenship — Ethiopia — The right to equality |
+| 28710 | pictures/28710.webp | Picture — very different people standing on one level line marked Article 25 | Civics and Citizenship — Ethiopia — The right to equality |
+| 28711 | pictures/28711.webp | Picture — a federal constitution above nine regional constitutions | Civics and Citizenship — Ethiopia — Human rights under Ethiopia's regional constitutions |
+| 28712 | pictures/28712.webp | Picture — a map of Ethiopia's regions stamped with constitution years | Civics and Citizenship — Ethiopia — Human rights under Ethiopia's regional constitutions |
+| 28713 | pictures/28713.webp | Picture — a citizen between a police station and a courthouse | Civics and Citizenship — Ethiopia — Human rights under Ethiopia's regional constitutions |
+| 28714 | pictures/28714.webp | Picture — an elder, a mother and a health worker in discussion | Civics and Citizenship — Ethiopia — Human rights challenges in Ethiopia — traditions, poverty, flight |
+| 28715 | pictures/28715.webp | Picture — a child at a loom with an empty school desk through a doorway | Civics and Citizenship — Ethiopia — Human rights challenges in Ethiopia — traditions, poverty, flight |
+| 28716 | pictures/28716.webp | Picture — a family carrying bundles away from smoke | Civics and Citizenship — Ethiopia — Human rights challenges in Ethiopia — traditions, poverty, flight |
+| 28717 | pictures/28717.webp | Picture — a child carrying water past a closed school gate | Civics and Citizenship — Ethiopia — Human rights challenges in Ethiopia — traditions, poverty, flight |
+| 28718 | pictures/28718.webp | Picture — a circle of parents, teachers and officials around a school plan | Civics and Citizenship — Ethiopia — Community engagement — deciding together |
+| 28719 | pictures/28719.webp | Picture — a village map beside a circle linked by shared interest | Civics and Citizenship — Ethiopia — Community engagement — deciding together |
+| 28720 | pictures/28720.webp | Picture — four panels: terraced hillside, handshake, raised hands, mapped problem | Civics and Citizenship — Ethiopia — Why engage the community — knowledge, trust, power, solutions |
+| 28721 | pictures/28721.webp | Picture — parents, teachers and elders around one table planning a fence | Civics and Citizenship — Ethiopia — Why engage the community — knowledge, trust, power, solutions |
+| 28722 | pictures/28722.webp | Picture — a woman opening her door to two drought-thin children | Civics and Citizenship — Ethiopia — Volunteering — giving time for nothing back |
+| 28723 | pictures/28723.webp | Picture — a pupil volunteer in four small scenes | Civics and Citizenship — Ethiopia — Volunteering — giving time for nothing back |
+| 28724 | pictures/28724.webp | Picture — a woman welcoming children at the door of a modest home | Civics and Citizenship — Ethiopia — Volunteering — giving time for nothing back |
+| 28725 | pictures/28725.webp | Picture — parents, pupils and a teacher planning a school improvement | Civics and Citizenship — Ethiopia — Community engagement — the social, political and economic sides |
+| 28726 | pictures/28726.webp | Picture — a queue at a ballot box with a poster and a meeting behind | Civics and Citizenship — Ethiopia — Community engagement — the social, political and economic sides |
+| 28727 | pictures/28727.webp | Picture — residents and engineers over a water-point plan | Civics and Citizenship — Ethiopia — Community engagement — the social, political and economic sides |
+| 28728 | pictures/28728.webp | Picture — three labelled scenes: wedding association, meeting, cooperative | Civics and Citizenship — Ethiopia — Community engagement — the social, political and economic sides |
+| 28729 | pictures/28729.webp | Picture — two pupils face to face after a shove, a supervisor stepping in | Civics and Citizenship — Ethiopia — Conflict and peace — what they really are |
+| 28730 | pictures/28730.webp | Picture — two panels: silent guns; former enemies farming together | Civics and Citizenship — Ethiopia — Conflict and peace — what they really are |
+| 28731 | pictures/28731.webp | Picture — three small scenes feeding one word: conflict | Civics and Citizenship — Ethiopia — Causes of conflict — home and school |
+| 28732 | pictures/28732.webp | Picture — roots under cracked ground labelled scarcity, interest, pride, fear | Civics and Citizenship — Ethiopia — Causes of conflict — home and school |
+| 28733 | pictures/28733.webp | Picture — two pupils across a table, a shared agreement bubble growing | Civics and Citizenship — Ethiopia — Conflict resolution — negotiation and the win-win |
+| 28734 | pictures/28734.webp | Picture — three doors of rising size: helper, arbitrator, courtroom | Civics and Citizenship — Ethiopia — Conflict resolution — mediation, arbitration, litigation |
+| 28735 | pictures/28735.webp | Picture — two boys and one textbook, an elder seated between them | Civics and Citizenship — Ethiopia — Conflict resolution — mediation, arbitration, litigation |
+| 28736 | pictures/28736.webp | Picture — many peoples in national dress celebrating in one square | Civics and Citizenship — Ethiopia — Peace building — peace as a practice |
+| 28737 | pictures/28737.webp | Picture — a broken bridge rebuilt plank by plank by both villages | Civics and Citizenship — Ethiopia — Peace building — peace as a practice |
+| 28738 | pictures/28738.webp | Picture — elders in a crescent under a huge odda tree, opponents shaking hands | Civics and Citizenship — Ethiopia — Indigenous conflict resolution — elders, forgiveness, compensation |
+| 28739 | pictures/28739.webp | Picture — three panels: clan assembly, Gurage council, Sultan with elders | Civics and Citizenship — Ethiopia — Indigenous conflict resolution — elders, forgiveness, compensation |
+| 28740 | pictures/28740.webp | Picture — students with notebooks before village elders under a tree | Civics and Citizenship — Ethiopia — Indigenous conflict resolution — elders, forgiveness, compensation |
+| 28741 | pictures/28741.webp | Picture — one claim on a phone, checked against book, teacher and newspaper | Civics and Citizenship — Ethiopia — Critical thinking — analyse, triangulate, decide |
+| 28742 | pictures/28742.webp | Picture — a phone with a sensational headline under a magnifying glass | Civics and Citizenship — Ethiopia — Critical thinking — analyse, triangulate, decide |
+| 28743 | pictures/28743.webp | Picture — a forked path: cheat sheet to clinic warning; evidence file to ballot box | Civics and Citizenship — Ethiopia — Why critical thinking matters |
+| 28744 | pictures/28744.webp | Picture — a crossroads with checked and unchecked signposts | Civics and Citizenship — Ethiopia — Why critical thinking matters |
+| 28745 | pictures/28745.webp | Picture — a magnifier over two advice slips, one ticked, one crossed | Civics and Citizenship — Ethiopia — Critical thinking skills — analysis |
+| 28746 | pictures/28746.webp | Picture — a football team in a huddle over a tactics board | Civics and Citizenship — Ethiopia — Critical thinking skills — analysis |
+| 28747 | pictures/28747.webp | Picture — a football move of four passes mirrored by pupils passing work | Civics and Citizenship — Ethiopia — Critical thinking skills — teamwork |
+| 28748 | pictures/28748.gif | GIF — a pass sequence moving the ball from defence to striker | Civics and Citizenship — Ethiopia — Critical thinking skills — teamwork |
+| 28749 | pictures/28749.webp | Picture — a 40-birr price tag, a 35-birr purse, a light-bulb path to an office | Civics and Citizenship — Ethiopia — Critical thinking skills — creativity |
+| 28750 | pictures/28750.webp | Picture — a blocked path and three ways around it: over, under, through | Civics and Citizenship — Ethiopia — Critical thinking skills — creativity |
+| 28751 | pictures/28751.webp | Picture — two pupils back to back, a third drawing a bridge of steps | Civics and Citizenship — Ethiopia — Problem solving — what it is |
+| 28752 | pictures/28752.webp | Picture — a dry field turning panel by panel to trees and green grass | Civics and Citizenship — Ethiopia — Problem solving — what it is |
+| 28753 | pictures/28753.webp | Picture — a dry hillside before and after: seedlings in rows, grass returning | Civics and Citizenship — Ethiopia — Problem solving — what it is |
+| 28754 | pictures/28754.gif | GIF — a dry field greening across a year | Civics and Citizenship — Ethiopia — Problem solving — what it is |
+| 28755 | pictures/28755.webp | Picture — six numbered footprints from a cracked field to a water trough | Civics and Citizenship — Ethiopia — Problem solving in six steps |
+| 28756 | pictures/28756.webp | Picture — six stepping stones across a stream, each labelled with a step | Civics and Citizenship — Ethiopia — Problem solving in six steps |
+| 28757 | pictures/28757.gif | GIF — a figure stepping stone to stone across the stream | Civics and Citizenship — Ethiopia — Problem solving in six steps |
+| 28758 | pictures/28758.webp | Picture — a principal's desk with files, warning letters and a scale | Civics and Citizenship — Ethiopia — Deciding by critical thinking — seven steps |
+| 28759 | pictures/28759.webp | Picture — a manager's desk with an unsigned dismissal letter and seven step-cards | Civics and Citizenship — Ethiopia — Deciding by critical thinking — seven steps |
+| 28760 | pictures/28760.webp | Picture — six tools on a workbench, each labelled with its skill | Civics and Citizenship — Ethiopia — Critical thinking skills — understand, connect, test, conclude, explain, self-check |
+| 28761 | pictures/28761.webp | Picture — a toolbox whose tools are labelled analyse, evaluate, infer, explain, check | Civics and Citizenship — Ethiopia — Critical thinking skills — understand, connect, test, conclude, explain, self-check |
+| 28762 | pictures/28762.webp | Picture — a broken classroom measured and questioned by two pupils, a habits checklist | Civics and Citizenship — Ethiopia — Habits of a critical thinker |
+| 28763 | pictures/28763.webp | Picture — a man nodding at three contradictory headlines, question marks unasked | Civics and Citizenship — Ethiopia — Habits of a critical thinker |
+| 28764 | pictures/28764.webp | Picture — a pupil's desk with objects rearranged into a pattern, a notebook of trials | Civics and Citizenship — Ethiopia — Getting better at critical thinking — strategies that work |
+| 28765 | pictures/28765.webp | Picture — a maze solved three ways, one thinker frozen at the entrance | Civics and Citizenship — Ethiopia — Getting better at critical thinking — strategies that work |
+| 28766 | pictures/28766.webp | Picture — a woman at a fork with a water pot, a bird above one path | Civics and Citizenship — Ethiopia — Critical thinking in problem solving — evidence before omens |
+| 28767 | pictures/28767.webp | Picture — a key labelled critical thinking unlocking a door labelled problem solved | Civics and Citizenship — Ethiopia — Critical thinking in problem solving — evidence before omens |

@@ -146,6 +146,11 @@ and verified:
   pictures 28500–28509 + 28511–28544, GIF 28510. The Grade 8
   guide's reversed progressive-tax definition is taught corrected
   in the Civic virtues lesson. Commit 193987481 (hash as pushed).
-- Bands M1 (Levels 1–6), M2 (Levels 7–12 + Level 1's deepening),
-  C3 (Levels 15–21, Grades 7–8), C4 (Levels 17–27 depth + Levels
-  22–27) — records land as each band is verified and committed.
+- **The Moral opening levels (Levels 1–12) — BUILT** (bands M1 +
+  M2, Moral Education Grades 1–6 guides): 132 lessons, 1,740
+  questions; pictures 28000–28083 + 28200–28258, 14 GIFs
+  frame-checked; teacher-guide evidence only throughout,
+  0-countries acceptance in every lesson. Commit 9a4727563.
+- Bands C3 (Levels 15–21, Grades 7–8) and C4 (Levels 17–27 depth
+  + Levels 22–27) — records land as each band is verified and
+  committed.

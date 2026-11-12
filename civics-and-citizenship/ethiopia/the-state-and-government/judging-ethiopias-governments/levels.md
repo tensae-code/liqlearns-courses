@@ -1,0 +1,3 @@
+# Judging Ethiopia's governments — what each built, what each broke — depth
+
+This lesson is one whole lesson — it has no sub lessons. Pass mark: the learner can state and use the whole lesson's one thing — each of Ethiopia's three eras is judged by the same measures: what it built, and what it broke — in their own words, on a fresh example. Practice deepens by more items and harder corners of the same one thing: the lesson's cases judged from the other side, its lists recalled in a different order, its rule applied to the learner's own street and school.

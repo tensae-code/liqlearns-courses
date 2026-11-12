@@ -1,0 +1,3 @@
+# Ethiopian citizenship law — citizenship cannot be taken away — depth
+
+This lesson is one whole lesson — it has no sub lessons. Pass mark: the learner can state and use the whole lesson's one thing — under Ethiopian law no one can be stripped of citizenship — it ends only by the citizen's own voluntary act — in their own words, on a fresh example. Practice deepens by more items and harder corners of the same one thing: the lesson's cases judged from the other side, its lists recalled in a different order, its rule applied to the learner's own street and school.
