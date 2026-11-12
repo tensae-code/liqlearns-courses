@@ -12,6 +12,10 @@ countries: Ethiopia
 
 **Book 5:** *Grade 4 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 4ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 167 printed pp. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g04-student-placements.md.
 
+**Book 6:** *Amharic Student Textbook, Grade 7* (አማርኛ የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed at Birhanena Selam Printing Enterprise; preparers ዘውዱ ምልክት መኮንን, መዓዛ ለገሰ በዕውቀቱ; editors ትንሣኤ ብርሀኔ ላቀው, ተሻገር አስማረ ደምሴ; 174 PDF pp., printed pp. 1–162. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g07-student-placements.md.
+
+**Book 7:** *Amharic Student Textbook, Grade 8* (አማርኛ የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C.; preparers እናትነሽ በዛብህ ምህረቴ, አምባው ደምሴ ቀኜ; editors ትንሣኤ ብርሀኔ ላቀው, ተሻገር አስማረ ደምሴ; 176 PDF pp., printed pp. 1–164. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g08-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the exclamation mark (ትዕምርተአንክሮ !) follows strongly emotional speech; the seven feelings catalogued with their exclamations: ድንጋጤ shock (ዋይ! ወይኔ!), መገረም surprise (ጉድ! ጉድ እኮ ነው!), ደስታ joy (የምሥራች! እንኳን ደሰ አለህ!), ትካዜ despair (እህህ…! ምን ልሁን!…), ዛቻ threat (ቆይ አሳይሃለሁ! እንገናኛለን!), ማሞገስ admiration (ጎሽ! አበጀህ! ጎበዝ!), ማበረታት encouragement (አይዞህ! አትፍራ! በርታ!) | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.96–97 |
@@ -39,6 +43,11 @@ countries: Ethiopia
 
 | Sub lesson 8 — the Grade 4 book's new-marks note box: single dot (.), colon (፡-), slash እዝባር (/), ellipsis ሦስት ነጠብጣብ (…) — abbreviation, 'more follows', cut-off feeling or speech (G4S-157) | Ethiopia, *Grade 4 Amharic Student Textbook*, printed p. 114 |
 
+| Sub lesson 9 — punctuation — naming the marks in dialogue | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 16 |
+| Sub lesson 9 — punctuation repair | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 22 |
+| Sub lesson 9 — field-trip punctuation | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 58 |
+| Sub lesson 9 — punctuating a dialogue | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 90 |
+| Sub lesson 10 — punctuating a passage — the father, the son and the donkey | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 117 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The name እዝባር is used by the books for two different marks: the Grade 5 student book (printed pp.82–83) gives እዝባር as the slash (/), while the Grade 6 teacher guide (printed pp.28–29) gives እዝባር as the « » quotation marks. This lesson teaches the slash sense (pupil-taught, Grade 5) and records the teacher guide's quotation-mark sense in the parts table above as evidence; the lesson does not merge the two. Relatedly, the Grade 6 student book (printed pp.54–55) uses እዝባር for the figure/register form of dates and reference numbers — the same slash work taught in Sub lesson 3. (2) The Grade 6 teacher guide's introduction (printed p.VI) twice calls its companion book "Grade 7" — a template carry-over error flagged in the placements; the guide's cover, title page and content are Grade 6, and it is cited as such. Its ቅንፍና part is used here as labelled evidence for the parentheses the Grade 6 student book teaches directly. (3) The Grade 5 colon's printed glyph is ፡- (ኹለት ነጥብ ከሰረዝ — two dots with a dash); the charts draw it exactly so. (4) No hardness numbers are written anywhere in this lesson — the books give none.

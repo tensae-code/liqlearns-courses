@@ -22,3 +22,14 @@ Now the news. Something happened at our school.
 Four answers — and I have a news report. Read it aloud!
 
 Summarise it short. Report it plain. Two crafts, one writer.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 3 — Grade 5 and 6: the main-idea paragraph, a poem's message in prose, and the school-week news item: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

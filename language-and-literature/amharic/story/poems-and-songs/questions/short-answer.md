@@ -39,3 +39,30 @@ Answer in a short sentence, from the poem or song.
 
 **13. (Sub lesson 12)** In what three ways do poetry's words differ from prose words, by the chapter's teaching?
 **Answer:** In form, in meaning, and in use.
+
+**14. (Sub lesson 17)** What was the Abay before its change, in the poem?
+**Answer:** A stream of weeping carrying black soil and tears, making the country grieve.
+
+**15. (Sub lesson 18)** Name two topics the book offers for your poem.
+**Answer:** Any two of: our cities, our lakes, our peoples, our school, our friends, our parents.
+
+**16. (Sub lesson 19)** Give the refrain as the placements quote it.
+**Answer:** 'ዓባይ ዓባይ, ዓባይ ወንዛወንዙ, ብዙ ነው መዘዙ' — Abay, river of rivers, its tribute is much.
+
+**17. (Sub lesson 20)** What is the writing follow-on task?
+**Answer:** Write down another Abay song's lyrics and correct them into proper poem form.
+
+**18. (Sub lesson 21)** What did neighbours do when a house burned in the old era?
+**Answer:** They rebuilt it by rallying together (and pooled money for a dead ox).
+
+**19. (Sub lesson 22)** What is a ደቦ?
+**Answer:** A communal work party — neighbours working one person's field together.
+
+**20. (Sub lesson 23)** What two writing tasks does p.26 set?
+**Answer:** Summarise given poems in 2–3 sentences each; and collect oral poems from people in your area, in writing.
+
+**21. (Sub lesson 24)** What does አደብ ገዛ call the countryman to do?
+**Answer:** Take heed — discipline himself — and not fell the forest, seeing its benefits.
+
+**22. (Sub lesson 25)** Name two warnings from the poem's close.
+**Answer:** Any two of: insulting the great, glaring at the neighbour, spending time in bad places, nagging parents, wasting time in jest.

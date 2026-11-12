@@ -14,3 +14,9 @@ Sub lesson 2 questions from the type files. Pass mark: finish a given starter pa
 
 ## Sub lesson 3 — Continuing and growing a paragraph
 Sub lesson 3 questions from the type files. Pass mark: grow a paragraph of at least five lines from a starter sentence, and write a short paragraph from given points.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 4 — Grade 7: one paragraph, then correct its errors
+Sub lesson 4 questions from the type files. Pass mark: compose one paragraph on one topic, then correct it in a second pass.
+

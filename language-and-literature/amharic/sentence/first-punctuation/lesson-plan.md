@@ -100,3 +100,7 @@ The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md (KG3 workbook, printed p.141). A teacher
 sending this lesson sends the lesson and its question list as
 they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** this lesson stays one whole lesson with no sub lessons (his ruling 2026-11-09); a practice section — "Practice paragraphs from the older books" — was added from the Grade 5 student textbook (printed pp.8, 27), traced in lesson/sources.md. **Add-ons added:** ADD AUDIO — the two practice paragraphs read aloud with the pauses the marks command (described slot only).
+
+**Growth note (2026-11-12, Amharic fix build):** a plain section — 'Punctuating a whole passage — the father, the son and the donkey' (Grade 8, printed p. 117) — was added to lesson/lesson.md; this short single-skill lesson keeps no sub lessons (his ruling 2026-11-09). The passage's full work stands in More Punctuation.

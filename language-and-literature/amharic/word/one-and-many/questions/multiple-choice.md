@@ -41,3 +41,20 @@ a) Traditional music  b) Digital devices  c) Seasons
 **10. (Sub lesson 5)** A plural in this review is made by…
 a) Adding the many-ending to the word  b) Changing the first fidel  c) Doubling the word
 **Answer: a) Adding the many-ending to the word** — the -ኦች/-ዎች work of sub lessons 1–2, at the review page.
+
+**11. (Sub lesson 6)** እነሙኒት means what?
+a) Munit and her group  b) Many Munits  c) Munit's house
+**Answer: a) Munit and her group** — the እነ- collective plural: the named person and their people.
+
+**12. (Sub lesson 6)** Which is an -ኦች plural?
+a) ተማሪዎች  b) እነዳዊት  c) ሙኒት
+**Answer: a) ተማሪዎች** — farmers, students, bags — ገበሬዎች, ተማሪዎች, ቦርሳዎች.
+
+**13. (Sub lesson 6)** The እነ- plural names a person and what?
+a) Their group — the people with them  b) Their belongings  c) Their village only
+**Answer: a) Their group — the people with them** — a collective, not a count.
+
+
+**14. (Sub lesson 7)** Which of these is already a PLURAL form?
+a) ሴት  b) ነገረኞች  c) በሬ
+**Answer: b) ነገረኞች** — ነገረኞች carries the plural piece -ኦች; ሴት and በሬ are singular.

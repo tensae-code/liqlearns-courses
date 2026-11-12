@@ -107,3 +107,33 @@ lesson and its question list as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 9 — Grade 2: telephones — matching, phrases, and finishing a call: match the five device names to their pictures and finish a started telephone call with a partner.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 10 — Grade 5: the one-minute fluency check, fluent reading of The Wise Girl, and the river-crossing puzzle: The timed one-minute fluency check; Fluent reading practice on The Wise Girl; The river-crossing logic puzzle, spoken in groups.
+- Sub lesson 11 — Grade 5 and 6: the books' own debate motions: Debate: building a house or making friends?; Debate: traditional dress is better than modern dress — and the lists; Debate: whose fault are traffic accidents?; Debate: tourism's positive effects outweigh its negative — or the opposite.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 10 — Grade 5: the one-minute fluency check, fluent reading of The Wise Girl, and the river-crossing puzzle: The timed one-minute fluency check; Fluent reading practice on The Wise Girl; The river-crossing logic puzzle, spoken in groups.
+- Sub lesson 11 — Grade 5 and 6: the books' own debate motions: Debate: building a house or making friends?; Debate: traditional dress is better than modern dress — and the lists; Debate: whose fault are traffic accidents?; Debate: tourism's positive effects outweigh its negative — or the opposite.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 12 — Grade 7: talks on nature and a rare wild animal.
+- Sub lesson 13 — Grade 7: reporting an interview; the solution-seeking conversation.
+- Sub lesson 14 — Grade 7: telling a life aloud; famous lives.
+- Sub lesson 15 — Grade 7: water talks and speech tips.
+- Sub lesson 16 — Grade 7: group reports — trafficking, youths, health research.
+- Sub lesson 17 — Grade 7: community research, the verse court, at the doctor's.
+- Sub lesson 18 — Grade 7: serving my country at every level.
+- Sub lesson 19 — Grade 8: discussion, questions and presenting group points.
+- Sub lesson 20 — Grade 8: heritage talks, institutions, speech preparation.
+- Sub lesson 21 — Grade 8: patriots, true stories, the wise woman.
+- Sub lesson 22 — Grade 8: debates — many children; mothers vs fathers.
+- Sub lesson 23 — Grade 8: two-sided forest talks; the bee and the industrious woman.
+- Sub lesson 24 — Grade 8: children's work talks and mothers' advice.
+- Sub lesson 25 — Grade 8: the interview — protocol and Eli role play.
+- Sub lesson 26 — Grade 8: three ambassadors; my reactions to the play.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 27 — Grade 7: the love-poem exchange as role play.

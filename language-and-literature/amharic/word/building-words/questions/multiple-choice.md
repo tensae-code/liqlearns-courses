@@ -42,3 +42,20 @@ a) A doubled (reduplicated) word  b) A compound word  c) A plural
 **10. (Sub lesson 5)** ፎካሪ goes with which verb pattern?
 a) ይፎክራል  b) ይበላል  c) ይተኛል
 **Answer: a) ይፎክራል** — the agent-noun pattern, Grade 2 pp.85–86.
+
+**11. (Sub lesson 6)** ቤት + መንግሥት joins into what?
+a) ቤተመንግሥት  b) ቤትመንግሥትቤት  c) መንግሥትቤት
+**Answer: a) ቤተመንግሥት** — the Grade 5 book's own compound.
+
+**12. (Sub lesson 6)** አየር + አደር makes which compound?
+a) አየርመንገድ — airline  b) አየርአደርቤት  c) መንገድአየር
+**Answer: a) አየርመንገድ — airline** — the Grade 6 web's first line.
+
+**13. (Sub lesson 6)** ሸቀጥ doubled the book's way becomes what?
+a) ሸቀጣሸቀጥ  b) ሸቀጥሸቀጥጥ  c) አሸቀጠ
+**Answer: a) ሸቀጣሸቀጥ** — the doubling pattern: the word, then itself with -አ- between.
+
+
+**14. (Sub lesson 7)** ቤተመጽሐፍት is built from ቤተ- + መጻሕፍት and means —
+a) a church  b) a library  c) a court
+**Answer: b) a library** — ቤተ- 'house of' + books = the library, house of books.

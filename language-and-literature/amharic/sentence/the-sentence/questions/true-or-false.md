@@ -28,3 +28,21 @@ Say true or false.
 
 **9. (Sub lesson 12)** Every negative sentence is made by wrapping a verb in አል- … -ም.
 **Answer: False** — a being sentence negates with አይደለም (is not) and a having sentence with የላቸውም (they do not have); the wrap is for action verbs.
+
+**10. (Sub lesson 16)** እነአበበ in the model marks Abebe with his companions — the plural of a named person.
+**Answer: True**
+
+**11. (Sub lesson 17)** The p.142 table asks two things of each sentence: person and tense.
+**Answer: True**
+
+**12. (Sub lesson 18)** Grade 8's wise-woman chapter asks for 3 simple and 3 compound sentences of your own.
+**Answer: True**
+
+**13. (Sub lesson 19)** The four functions are declarative, interrogative, imperative and exclamatory.
+**Answer: True**
+
+**14. (Sub lesson 20)** Grade 8 converts questions the other way — into affirmative and negative statements.
+**Answer: True**
+
+**15. (Sub lesson 21)** Subject–verb number agreement is one of the p.46 error kinds.
+**Answer: True**

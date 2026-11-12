@@ -232,6 +232,30 @@ The Grade 4 book returns to compound sentences — ድርብ ዓረፍተነገ�
 
 በሌላ በኩል turns the sentence around to look from the other side: the first half shows one face of a thing; በሌላ በኩል, the second half shows its other face. Build one compound sentence with each of the five joiners, and feel how the joint changes the meaning each time — adding, pushing against, choosing, following, and turning to the other side.
 
+## Sub lesson 16 — Grade 7: rewriting with a plural subject
+
+Two Grade 7 grammar tasks of one kind. The listening lesson's partner (p.32): rewrite the opening passage of የወፏ ዝማሬ (The Bird's Song) with a PLURAL subject throughout — every verb and agreement must follow the subject into the plural. The panel chapter's partner (pp.37–38): rewrite sentences changing subject and predicate to plural, on the model አበበ ከትምህርትቤት ተመለሰ → እነአበበ ከትምህርትቤት ተመለሱ (Abebe returned from school → the Abebes / Abebe and his companions returned). The rule the pair teaches: when the subject changes number, the predicate's verb changes with it — subject and predicate are a matched pair, never changed one without the other.
+
+## Sub lesson 17 — Grade 7: person and tense in one table; hunting hidden questions
+
+Two Grade 7 grammar hunts. The table (p.142): complete a table classifying sentences by PERSON (1st / 2nd / 3rd) and by the verb's TENSE (present የአሁን, past የኃላፊ, future የትንቢት) — two questions asked of every sentence: who acts? when? The hunt (pp.148–149): in a set passage about people who repeat everything they hear without verifying, pick out the interrogative sentences — the question marks (ትዕምርተ ጥያቄ) are deliberately OMITTED from the text and must be recognised by sense. A question is a question by its meaning and its question word, with or without its mark.
+
+## Sub lesson 18 — Grade 8: affirmative and negative — the exercise pages
+
+The affirmative/negative and simple/compound work of this lesson stands on Grade 7's pages in the earlier sub lessons; Grade 8 sets the same work on its own pages, and those pages are now cited here. The Expert's Advice chapter (pp.4–5): write 5 affirmative and 5 negative sentences, on a model pair given. The እሮሮ chapter (pp.81–82): write 3 affirmative, negative and interrogative sentences each. The wise-woman chapter (p.60): sort sentences into simple (ነጠላ) and compound (ድርብ), and write 3 own of each. Same forms, fresh ground — the transfer the books intend.
+
+## Sub lesson 19 — Grade 8: naming sentence functions — p.108
+
+Grade 8's working-children chapter closes with the four sentence functions: state the function (አገልግሎት) of given sentences — declarative, exclamatory ('አምላክ ሆይ! አገራችን ሰላም አድርግልን!' — O God, make our country peaceful!), interrogative, and imperative. The functions themselves are stocked in this lesson from Grade 7's pages; this sub lesson carries Grade 8's own exercise page, so the form is practised where the book sets it — beside the shoe-shine and herding talks of the same lesson, which stand in Speaking and Performing.
+
+## Sub lesson 20 — Grade 7+8: turning statements into questions and commands
+
+Three conversion tasks of one family. Grade 7 (p.103): convert 10 statements into interrogative sentences — the statement's facts stay; its form turns to ask. Grade 7 (p.108): convert 10 statements into imperative sentences — the court chapter's grammar: what was stated is now commanded. Grade 8 (pp.90–91): the reverse road — convert interrogative sentences into affirmative and negative sentences, on a model given. Converting is not rewriting freely: change only the form the task names, and let the sentence's content pass through untouched, so the pair can be checked against each other.
+
+## Sub lesson 21 — Grade 8: correcting agreement errors; scrambled word order
+
+Two repairing grammars. Agreement (p.46): correct the agreement and grammar errors in given sentences — subject–verb number agreement, possessives, word choice — and rewrite them clean; the patriots talk shares the page. Word order (pp.50–51): correct scrambled word order in sentences — Amharic order is subject … object … verb, and a scrambled sentence is repaired by returning each part to its place, as Grade 7's copula lesson also practises (ናቸው እነዚህ በሬዎች → እነዚህ በሬዎች ናቸው). An error is found by reading the sentence against the rule it breaks; name the rule aloud before you mend.
+
 ## Say it to your companion
 
 Tell your companion: a sentence carries one complete idea, and it ends with ።, ? or !. Then take two short sentences of your own and join them with ስለ, the way the dialogue joins 1ኛ መወጣት እፈልጋለሁ and ሁልጊዜ አጠናለሁ. Your companion counts the verbs in your joined sentence: if there are two or more, they say "ውስብስብ!"

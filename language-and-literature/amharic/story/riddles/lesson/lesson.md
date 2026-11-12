@@ -82,6 +82,23 @@ roadside. Guess who speaks before the text tells you — then
 write your own Who-Am-I for a worker you know: teacher,
 farmer or soldier, as the book sets it.
 
+
+## Sub lesson 4 — Grade 5: the riddle session whole — formula, evenings, and classification by source
+
+
+### Riddles (እንቆቅልሽ) — the Grade 5 book's session
+
+The riddle game whole, as the Grade 5 book teaches it: who takes part; the order and formula with which the asker opens; why riddles are played in the evenings and on Sundays; how a riddle game differs from other verbal games; the rule for loser and winner; and why riddle-asking is called investigative (አመራማሪ) — worked through the book's example: "a small razor that shaves a country", answered "fire" (እሳት) by reasoning. Five riddles are set to solve (among them: "when I go I find her, when I return I lose her"). The riddle game stands in sub lessons 1 and 2 of this lesson from other books, and its classification there from the Grade 2 book; this part stocks the Grade 5 book's own session at its own pages.
+
+### Classifying riddles by source
+
+The review task that closes the session: classify riddle questions by their source — from plants, from animals, from objects, from the human body — in a table. A riddle is filed by where its answer lives.
+
+
+## Sub lesson 5 — Grade 7: the asker and the answerer — እንቆቅልህ!
+
+Grade 7 writes riddles in asker/answerer arrangement, on this model dialogue. ጠያቂ (asker): 'እንቆቅልህ!' — a riddle for you! መላሽ (answerer): 'ምን አውቅልህ!' — what do I solve for you? Asker: 'ዞሮ ዞሮ እራቱ ጥፊ እወቅልኝ' — going round and round, its supper is a slap — solve it for me! Answerer: 'ወንፊት' — a sieve. Asker: 'አውቀሀል። ተራው ያንተ ነው' — you solved it; the turn is yours. The dialogue IS the game: challenge, acceptance, riddle, answer, and the turn passing. Write the riddles you know in exactly this arrangement, as its companion work — naming the figure (ዘይቤ) in the mourning verses of the same pages — stands in Figures of Speech.
+
 ## Say it to your companion
 
 Ask your companion one riddle from this lesson — clues whole,

@@ -21,3 +21,9 @@ Pass mark: say the whole በላ family — በላሁ, በላህ, በላሽ, በ�
 
 ## Sub lesson 6 — Grade 2: verb patterns
 Sub lesson 6 questions from the type files. Pass mark: give ወደቀች's pattern ending, turn ቀረበ into its doing-now form, and give ይጨምራል's base verb.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 7 — Grade 8: verb forms for persons — the discussion chapters' work
+Sub lesson 7 questions from the type files. Pass mark: write two verbs in their 2nd and 3rd person plural forms and three timed sentences.
+

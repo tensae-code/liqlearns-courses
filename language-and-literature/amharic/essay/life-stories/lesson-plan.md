@@ -97,3 +97,11 @@ page in lesson/sources.md. A teacher sending this lesson sends the
 lesson and its question list as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Band 4):** sub lessons 6–7 grow this lesson with the Grade 10 federal guide's two biography listenings — Yetnebersh Nigussie (the Inclusive Education chapter's "Turning a Trial into Good Fortune", its source the two web biographies the guide's reference list cites) and the recorded life history of Haddis Alemayehu (the Life Skills chapter). There is no Grade 10 student book in the records, so both sub lessons stand on teacher-guide evidence only and are labelled (teacher guide — evidence) in the lesson and in sources.md; the guide-built parts are evidence, never pupil-taught. Sub lesson 7 is a different guide's presentation from Sub lesson 4's Grade 7 table, and the lesson keeps them distinct. No life facts are asserted beyond what the placements give. The first five sub lessons are unchanged, except that "Say it to your companion" now offers all the worked lives.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 8 — Grade 6: a biography paragraph from Haile Gebrselassie's data card: From facts to a biography paragraph — Haile Gebrselassie's card.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 8 — Grade 6: a biography paragraph from Haile Gebrselassie's data card: From facts to a biography paragraph — Haile Gebrselassie's card.

@@ -562,6 +562,173 @@ passage — not from your head.
   stripped wires; danger. After reading, write commands the way
   they are given over a loudspeaker.
 
+
+## Sub lesson 20 — Grade 5: waste, the Hidar custom, and traditional dress
+
+
+### Burn It or Bury It? (ማቃጠል ወይስ መቅበር) — sorting and disposing of waste
+
+Neighbours Tiruwork and Zeyneba disagree on waste disposal. Burning is quick and cheap, but its smoke pollutes the air and causes respiratory illness — "burning waste creates another waste". Burying biodegradable waste (grass, leaves, paper) makes compost for the soil; plastics, metals and cloth are sorted separately and sent to factories to be reused — a clean neighbourhood and income, "two birds with one stone". Finish with the book's comparison organiser: burning against burying, benefit against harm.
+
+### When Hidar Is Swept (ኅዳር ሲታጠን) — the Hidar cleaning custom
+
+On Hidar 12, mother Tirngo's family sweeps the yard, burns the burnable rubbish and sorts plastics, metals and cloth for the waste collectors. She explains the custom's origin: a century ago the "Hidar sickness" epidemic killed many; officials ordered everyone to clean and burn rubbish, and the practice stuck. Lowland (ቆላ) and highland (ደጋ) relatives only visit each other after Hidar has been "swept". Write a paragraph on what happens in your own area in Hidar.
+
+### Traditional Dress (ባህላዊ አለባበስ) — traditional dress and ornaments
+
+At Timket in Bichena town, Ato Shiferaw's family draws every eye with full traditional dress, itemised piece by piece: the man's ወንጨሬ trousers, እጀጠባባ shirt, ጋቢ wrap, embroidered shoes and ባርኔጣ hat; his wife's ጉንፍ ቀሚስ, መቀነት sash, ካባ cape, white ሻሽ headcloth, አልቦ foot ornament, አምባር bracelets, and crosses and necklaces (ማርዳ, ክታብ, ድሪ); their daughter's dress and ornaments. Onlookers resolve to wear their own traditional dress proudly at the next festival. Hold its proverb: ለጥምቀት ያልሆነ ቀሚስ ይበጣጠስ.
+
+### Ornaments by body part — the vocabulary organiser
+
+Sort the jewellery by the body part that wears it, in the book's organiser: ear — ጉትቻ; foot — አልቦ; neck — ክታብ, ማርዳ, ድሪ, መስቀል; hand — አምባር. Then choose the right ornament word to fill each blank sentence. The organiser is the teaching: a word is learned where it is worn.
+
+## Sub lesson 21 — Grade 5: heroism, debo, civilisation, and taking medicine properly
+
+
+### When Heroism Is Inherited (ጀግንነት ሲወረስ) — heroism passed from father to son
+
+In 1888 E.C., Italy prepares to invade; Negus Menelik calls the levy. Fitawrari Argaw arms himself — sword, shield, rifle kit — his wife prepares his provisions (ስንቅ), and he farewells his 3-year-old son. At Adwa on Yekatit 23 the Italians surrender within hours. Argaw raises his son in love of country, and the son fights forty years later at Maychew in the second invasion. Set the story on its organiser of main headings: the call, the journey, the farewell, the provisions.
+
+### Debo (ደቦ) — working together
+
+Hardworking farmer Mamuye Anagaw's teff is harvested by a debo work party. He leads with a praise-song (ፉከራ) for his sickle (ማጭድ); at midday injera and tella are served; the work-songs praise the diligent farmer and mock the lazy one who fears sun in Sene and rain in Hamle; by evening the field is cleared and the singing continues at home. The work-song element already stands in the Poems lesson; this part stocks the reading itself.
+
+### Culture and Civilisation (ባህልና ስልጣኔ) — what civilisation really means
+
+A dialogue: Asrat argues culture is a backward heirloom and being "civilised" means copying foreign fashions. Lubaba corrects him: civilisation is applying the science of the age usefully for one's own country, choosing the good from outside — the hen lays egg and shell-dust; take the egg, leave the dust (ኩስ) — and modernising one's own dress, food and medicine even for foreign markets instead of swallowing imports whole. Write a paragraph from the starter "Culture has many expressions".
+
+### Taking Medicines Properly — the five rules
+
+Felegush, whose father has diabetes (የስኳር ሕመም), gives her class the talk she has absorbed at hospital visits. Its core is FIVE RULES: (1) follow the use instructions carefully; (2) never raise or lower the dose without consulting the doctor; (3) never stop a prescribed medicine on your own decision; (4) do not crush or break pills unless a professional prescribed it; (5) never take medicine prescribed for another person, nor give yours to others. And one more standing rule: keep medicines and alcohol where children cannot reach them.
+
+## Sub lesson 22 — Grade 5 and 6: too much and too little food; our dress, our identity; festivals and dress
+
+
+### Disordered Eating (የተዛባ የአመጋገብ ሥርዓት) — too much and too little food
+
+Everything has its measure — "ሲበዛ ማርም ይመራል": in excess even honey turns bitter. The body needs the nutrient kinds: energy-and-heat givers, body-builders (ገንቢ), vitamins and minerals. Eating MORE than needed brings unwanted obesity and fat stores, and exposure to diabetes, blood pressure and kidney disease. Eating LESS than needed brings malnutrition: in children መቀጨጭ (wasting — thinness) against መቀንጨር (stunting — shortness), weakened learning and later productivity, even death. In Ethiopia the dominant disorder is deficiency, not excess. Complete the cause–effect organiser from the text.
+
+### Another's Gold Does Not Shine for You (የሰው ወርቅ አያደምቅ) — our dress, our identity
+
+An essay on the history of Ethiopian dress: animal skins and plant leaves first; silk-thread royal robes; እጀጠባብ (ej tebeb), ቡልኮ (bulko) and ካባ (kaba) woven across the regions, evidenced in museums — Wollega Museum (King Kumsa Moroda's clothes), Gondar's royal clothes, Jimma (Aba Jifar), the South (Gamo ancient dress). Western suits and kaport displaced national dress over a century ago; today an estimated ~90% of people on the street wear non-traditional clothes. The fashion industry now designs on a traditional base — but weavers (ሸማኔ, shemane) are not given due respect, and the youth idea that foreign factory clothes mean civilisation and home weaving means backwardness must be corrected, as the essay's Japanese example shows: follow foreign ways until 30, then return to one's own.
+
+### New Year and National Cultural Dress (አውደዓመትና የሀገር ባህል ልብሶች) — festivals and dress
+
+How youth prepare the New Year festival ground from the eve — cleaning, flags and banners, levelling the road, raising a shelter (ዳስ), food and drink — then arrive in matching national dress: ጥለት (tibeb) sewn onto factory kanatera cloth, ሰደርያ (sederiya) wraps, friend-groups in the same tibeb with small differences. Hold the old saying: "ለአውደዓመት ያልሆነ ቀሚስ ይበጣጠስ" — a dress not good enough for New Year may as well tear. After the feast, dancing.
+
+## Sub lesson 23 — Grade 6: regional dress, beauty, and athletes who overcome
+
+
+### Tingdirb (ጥንግድርብ) — regional dress of Ethiopia
+
+Gojjam's ceremonial garment of honour: three gabis sewn together lengthwise — its other name is ባለሦስት ፈርጅ ስፌት, "three-piece sewing". It is worn by high clergy and, in earlier times, by officials and nobles' wives at great feasts; much wider than an ordinary gabi; made from local cotton through many stages of spinning and weaving. The tibeb border is left with a gap (ህዳግ) so the embroidery stands out — a sign of honour and greatness.
+
+### Beauty (ውበት) — beauty inside and outside
+
+An essay: outer beauty against inner beauty — good character, morals, kindness, honesty. Traditional dress is the visible marker of identity: the region you come from (Gojjam, Gondar, Wollo, Shewa) can be read from your dress, and Ethiopians abroad are recognised by it. Tourists buy the clothes for their natural cotton, beauty and comfort; wearing them raises self-confidence and can grow the country's income.
+
+### Kayla Wheeler — athletes who overcome
+
+A biography: a para-swimmer born without two legs and one arm. Her parents raised her on the "it is possible" (የይቻላል) spirit instead of despair; she did everything other children did, used assistive technology at school, followed her doctor's advice to exercise, and loved swimming most. At 16 she broke the record to become champion in the 50 m para swimming event, then competed across Europe and Latin America. Her vision: to be a role model for other people with disabilities.
+
+### Coincidence or…? (አጋጣሚ ወይስ…?) — comparing two athletes
+
+The striking similarities between Haile Gebrselassie and Derartu Tulu: both born in 1966 E.C., both from Arsi Zone, both Olympic medallists, both have led the Ethiopian Athletics Federation, both now invest heavily in development. Is it chance, or something else? Then write, from a comparison table, a compare-and-contrast paragraph on Abebe Bikila against Tirunesh Dibaba: birthplace North Shewa against Arsi, marathon against track fame, deceased against living, their records, and raising Ethiopia's flag.
+
+## Sub lesson 24 — Grade 6: asking an expert, Mother Earth, kinds of heritage, and growing tourism's benefit
+
+
+### The Award-Winning Farmer (ተሸላሚው አርሶአደር) — asking an expert
+
+An interview dialogue: Gelaneh Tamrat of Yetnora kebele, Dejen woreda — "Green Ribbon" award winner for modern teff production — asks the crop expert: How should a teff field be prepared? (Fine and level, ploughed 3–5 times.) Can teff grow on waterlogged ኮትቻ (kotcha) soils? (Yes — build broad beds with the BBM and drain the excess water.) On acidic soils? (Treat with lime, ኖራ, by the general all-crop recommendation, since no teff-specific study exists.) He writes all the advice in his notebook to share with the kebele's farmers. Read it in two voices: asking, and answering.
+
+### Mother Earth (እናት መሬት) — soil care, and the clue-word method
+
+Human life is bound to the land: food and water come from it; the water cycle through her "womb" returns as rain; gold, diamond, oil, cement and iron come from her too. Treated well she gives unstintingly — but her wealth is of two kinds, exhaustible and renewable, so use with thrift and order. Protect the fertile topsoil from wind and flood (correct tillage, planting and caring for trees, stopping free grazing), let land rest (fallow) to regain nutrients, and feed it natural and artificial fertiliser. Her rule of reciprocity: "she honours who honours her; she wears out who wears her out." The lesson also teaches the vocabulary method itself: guess meanings before reading, check after, and note the clue word (ፍንጭ ሰጪ ቃል) in a 4-column table. Finish with a compare-and-contrast paragraph, "Mother and Earth", from an organiser.
+
+### Heritages (ቅርሶች) — kinds of heritage
+
+Heritage is more than old buildings. Tangible and intangible: festivals and religious feasts (Timket, Mawlid, Meskel, Arefa), oral literature and histories, the Adwa and Karamara victories, the Ashendye festival, the Awi horsemen's association, Debre Tabor's St Mercoreos horse ጉግስ. Natural heritage: attractive rivers, plains and parks — Lake Zengena, Tis Abay falls, Lake Tana; Choke, Simien Mountains and Alitash national parks; Erta Ale volcano, Sof Omar cave, Tiya stelae. Human heritage (ሰብአዊ ቅርሶች) — people themselves: Emperors Tewodros and Menelik, Dejazmach Belay Zeleke, laureate artist Afework Tekle, poet Kebede Mikael. World-recognised heritage: Lalibela's rock churches and Gondar's royal palaces. Heritages differ in origin, type and recognition.
+
+### Growing Tourism's Benefit (የቱሪዝምን ጥቅም የበለጠ ማሳደግ) — developing tourism
+
+What stakeholders (ባለድርሻ አካላት) must do for Ethiopia to gain what its attractions deserve: promote attractions at home and abroad by many methods; protect and care for heritages; build quality roads to sites; train the workforce to the age's standard; prepare attractive traditional and modern transport; build standard hotels and lodges so tourists stay longer. None of it is possible by government alone — the private sector must be awakened and brought in.
+
+## Sub lesson 25 — Grade 6: the coffee ceremony, HIV and AIDS, the health worker, customs that protect, early marriage, and empowering women
+
+
+### Our Traditional Coffee Ceremony (የቡና ባህላዊ ሥርዓታችን) — the coffee ceremony
+
+The coffee brewing and serving ceremony is the emblem of Ethiopian hospitality, now used even in big hotels and receptions, winning world recognition. Coffee is not only refreshment: gathering people over coffee strengthens social life, encourages cooperation and joint problem-solving and planning. But caffeine (ካፌን) in excess causes anxiety and sleeplessness, and worse over time; and the ceremony has faults to correct — wasting time in gossip (አሉባልታ), rumour and idle talk, and the harmful superstitions and divination (ጥንቆላ) acts that hide behind it. Keep the benefit, remove the harm: build the pros/cons organiser and write a paragraph from it.
+
+### Did You Know This? (ይህን ታውቁ ኖሯል?) — HIV and AIDS are not the same
+
+Begin with a KWL table on HIV/AIDS. The core teaching: HIV and AIDS are not the same word — HIV is the virus that attacks the body's disease-fighting cells and weakens the natural defence; AIDS is the stage, the condition, reached. The four stages: Stage 1 — the window period (የኤች አይ ቪ መደላደያ): after exposure the body needs 12 weeks to produce antibodies, so a negative test before 12 weeks is no proof of absence — retest after 12 weeks. Stage 2 — a long quiet period with few signs (slight weight loss, pneumonia, nail fungus, skin rash possible). Stage 3 — the season of accompanying diseases (ተጓዳኝ በሽታዎች): TB, mouth sores, diarrhoea and fever lasting over a month, heavy weight loss. Stage 4 — AIDS-indicating illnesses; with anti-HIV treatment (ፀረ-ኤች አይ ቪ ህክምና) suppressing the virus's multiplication, a person can live many years. Summarise the text in one paragraph.
+
+### Debritu (ደብሪቱ) — the health worker of our village
+
+A prose portrait of the kebele's health extension worker. Debritu spends her whole time helping people, walking from village to village, treating what she can and referring the seriously ill to a health institution, teaching farmers prevention and cleanliness; her school trainings give special focus to supporting people living with HIV. The changes her tireless work brought: farmers separated cattle barns from living houses; biogas and modern stoves (ዘመናዊ ምድጃ) are used against smoke eye-disease; malaria-breeding ponds are drained; support for people living with HIV grew; the habit of going to a health institution when ill developed; patient numbers fell greatly — and today the farmers gather to give their heroine an award. Summarise in one paragraph.
+
+### Her Dress, Not She, Is Abducted (ቀሚሷ እንጂ እሷ አትጠለፍም) — customs that protect girls
+
+An essay on the Waghimra society's code: every unmarried girl is believed a virgin, and a girl's honour is counted not hers alone but her family's, her kin's — the whole society's. In Wag land a girl is not abducted (ጠለፋ); such news would be a living death for the girl and a neck-bowing shame for the family. The only road the custom allows is courtship by elders' mediation — "your son for my daughter" (ልጅህን ለልጄ) — asked properly; a refused suitor asks elsewhere. Once a girl is engaged she wears the ማርዳ necklace as the sign, and no one approaches her family again — hence the saying: "ቀሚሷ እንጂ ልጃገረዷ አትጠለፍም" — her dress (the sign on it), not the girl, is what gets taken.
+
+### Early Marriage (ያለዕድሜ ጋብቻ) — early marriage and its harms
+
+Begin with KWL. Definition: marrying before 18; counted among harmful practices. Its harms stand in three branches. (1) Health: child pregnancy brings prolonged labour, possible death, damage to the reproductive organs and womb, fistula, frequent miscarriage (የጽንስ መጨንገፍ). (2) Social: schooling is cut off; child marriages mostly do not last (አይፀናም); divorce brings exclusion; she may flee elsewhere; even with children she lacks the capacity to care for them. (3) Psychological: married by family choice into an unhappy life, unable to bear marriage's responsibility, she falls into anxieties and mental harms, and may flee into worse. Write a paragraph on what must be done to prevent early marriage, from the harms organiser.
+
+### Empowering Women (ሴቶችን ማብቃት)
+
+Women hold a decisive role at home, in the locality and in the country; no social, economic or political programme that excludes women — half of society (የኅብረተሰቡ ግማሽ አካል) — can succeed: trying to reach the goal with half the knowledge and half the strength is empty toil. Women are the society's backbone (የጀርባ አጥንቶች), the firm foundation of family and national development; yet for ages, under social and cultural pressures, they have not contributed what is expected. So build their capacity: education is the chief solution — lighten their workload (የሥራ ጫና), remove harmful practices like early marriage, let them advance in schooling and share work equally with their brothers, and create working environments fitting women's natural character. Check comprehension by matching each paragraph to its main idea.
+
+### The Awramba listening and debate — its reading-passage half
+
+The Awramba placement is stocked whole in the Listening Stories lesson's Grade 6 customs sub lesson — the KWL, the community whose belief is love and religion is work, and the gender-work debate — at its own pages (printed pp. 174, 177). This row keeps the citation in this lesson too, where the Awramba reading already stands at sub lesson 12, so the Grade 6 text is cited in both its homes.
+
+
+## Sub lesson 26 — Grade 5 and 6: insults turned upside down, and the Chimchim game
+
+
+### "The Reversal" (የተገላቢጦሽ) — insults turned upside down
+
+A discussion essay in dialogue: Tigist and Sofia turn the animal insults upside down. "Donkey!" (አህያ) names a patient, hardworking, enduring animal — praise, not insult; "dog!" (ውሻ) names loyalty. Animals do not quarrel or kill over colour, race, nation, religion or clan — dogs and cats from America, Australia, South Africa and China meeting in one place understand each other. Among animals there is no superior and inferior, rich and poor, black and white — all are equal. So people should stop insulting difficult people with animal names — if anything, animals insulting a difficult animal would call it "human!" (ሰው). Work its comparison organiser (humans against animals) into two paragraphs, and re-punctuate its unpunctuated sentences as the book sets.
+
+### The Chimchim Game (የቺምቺም ጨዋታ) — traditional games in verse
+
+A traditional call-and-response dance game of the Wegdi-area youth on New Year eve: the whole night, house to house, dancing and receiving prizes (ሽልማት). The game runs in stages with changing refrains — first "እያጋመረ! እያጋመረ!", then "አበባ! መውዜር አበባ!", then "ህም! ህም! ነይ ዞማ ዓለም ዓለም" — while the lead singer (አቀንቃኝ) drops teasing verses about a coward who ran away (where were you on stick-fight day? you are ringed by cliffs, no escape) and the group (ተቀባይ) answers. The verses show the community admires courage and mocks cowardice. The refrain lines above are the game's own refrains as the placement gives them — a one-line fragment, not a transcription.
+
+## Sub lesson 27 — Grade 7: ምጣኔ! — the coffee-gathering debate
+
+A neighbourhood coffee gathering talks, and the talk is the reading. The neighbourhood's children stand in torn clothes, filthy, as if rolled in ash. One woman protests that people bear children beyond their means. Another answers with the proverb 'አህያ በወለደች ታርፋለች' — a donkey rests by giving birth — and that grown children will help with work. A third counters: planning to use children's labour harms mother and children — 'I believe in bearing only the children I can care for and raise.' The household head argues children are God's gifts and we must not interfere. A woman answers: 'ልጅ በዕድሉ ያድጋል' — a child grows by luck — no longer has acceptance; without feeding, clothing and care, nothing comes of it. Finally an educated married woman advises: childbearing is good when led by a plan; husband and wife share the responsibility; she spaced her second child 3 years after the first by practising family planning; her children are healthy and she works freely. 'Family planning does not mean not bearing children — it is the method by which we decide how many children we should have, from our income and living conditions.' All listen in silence, agree, and part to meet another day.
+
+## Sub lesson 28 — Grade 7: በጎፈቃድ — Volunteering, an old culture
+
+Ethiopia has an old and living culture of volunteer service: mutual help (መተጋገዝ) easing trouble — gathering to plough, thresh and store grain for the needy, the elderly and orphans, giving from one's harvest, reaching the needy with labour, profession, money and knowledge of one's own will. In Emperor Menelik's era of hardship the emperor himself set the example and volunteers dug and sowed, greatly reducing the disaster. In Haile Selassie's reign international volunteers in health and education helped modern volunteering grow. In the Derg's first years the 'እድገት በህብረት' campaign of secondary and higher-education students counts as volunteer practice. In the last 20 years youth volunteer services have contributed greatly — the summer volunteer service running since 2011 E.C., whose aim is not only serving some community segments but strengthening national unity and social values. The chapter's table work sets the services by era, and its organiser compares services in the text, services in our area, and the overlap.
+
+## Sub lesson 29 — Grade 7: የግድቡ ትሩፋት — The Benefits of the Dam
+
+The Abay, Ethiopia's great natural gift, flowed unused for ages; today Ethiopia has resolved to build the Grand Renaissance Dam by its own capacity. When finished, besides the 6,000 units of electric power, the dam will create a great reservoir lake 240 km long — pictured as the distance from Addis Ababa to Hawassa — with small and medium boats moving on it, islands forming, and large-scale fish farming. The stored water will change the area's climate balance, covering a formerly desert place with forests and making it green and preferred. Tourists' attention and hotel investment follow — the journey from poverty to prosperity. The book's questions ask for the main idea, what 'yesterday the Abay was a river' means, and a judgement of the author's feeling.
+
+## Sub lesson 30 — Grade 7: ጫት መቃምና መዘዙ — Chat Chewing and Its Consequences
+
+The number of chat chewers in Ethiopia is visibly rising — production grown, distribution shops opened in numbers. The harms are taught in three chains. Health: brief stimulation and euphoria, then depression, agitation or madness; over time dryness of stomach and intestines, reduced appetite, weakened resistance to communicable diseases (TB, hepatitis), changed mouth odour, spoiled teeth, raised heart rate and blood pressure; and the consequence passes to the child — babies of chewing mothers do not get enough breast milk and their growth is stunted. With chewing come sugar, cigarettes and alcohol after chewing — worsening diabetes, lung and heart disease, and careless relations exposing chewers to venereal diseases and HIV/AIDS. Economy: daily spending on chat, work time wasted, income falls, families cannot be led and can be broken. Social life: chewers spend most time chewing; participation and acceptance fall. The conclusion: do not hand your personal freedom to chat addiction.
+
+## Sub lesson 31 — Grade 7: የማይሸሹት ፍቅር — Love That Does Not Fade
+
+Passing under America's sky-touching buildings, the narrator's nose searches for air that smells Ethiopia; entering burger and pizza houses he sniffs for the smell of doro wet. It is not homesickness alone: Ethiopianness is a giant spirit imprisoned in his poor soul, and for this spirit America is too narrow — the only chamber tailored to it is wide Ethiopia. So in his spare time he goes, as into a warm narrow mother's womb, into the small Habesha shop of his childhood friend Fasil — a patriot who carried his country on his shoulders and set it with honour in the middle of the whites' city. In Fasil's shop: teff injera retailed, Habesha coffee sold, incense sprinkled, jebena coffee drunk, raw meat sold, the songs of Bahru Kenye, Tilahun Gessesse and Aster Aweke played; from the educated Habesha in a high place to the day labourer and the taxi driver, all come; talk, politics, information, iddir and equb collections heat the room. 'Sitting in that shop I feel not that I left my country, but that I am seated inside my country.' The hourly wages of the Habesha working until his back breaks seem to the narrator not the price of his labour but compensation for the failed yesterday of the one who left home. A closing poem carries the main idea: foot to head, America, Italy, Paris, Dubai were seen — what is sweetest is returning to sit in one's own country.
+
+## Sub lesson 32 — Grade 8: ግን ምን ነካን!? — But What Touched Us!?
+
+An essay on loving your own country. Mouth and hand have long been apart — the tongue condemns theft while the hand steals in secret. Self-pride and love of country are failing; a generation dreams of exile rather than work at home. The old saying 'የማያውቁት ሀገር አይናፍቅም' — one does not long for a country one does not know — is reversed. The real failing is swallowing foreign things unsorted: strong work culture, rights practice, science and technology would profit us — but habits against religion and moral values are swallowed whole, like the ox that sees the grass and not the cliff. People prefer a European village to Lalibela, Axum, Fasil's castle, Sof Omar and Tiya, and Hollywood actors to their own heroes. What is needed: heroes of work and heroes of thought — word and deed one. The book's organiser sorts the good things named into home-country / foreign / both.
+
+## Sub lesson 33 — Grade 8: ዘመን ያልሻረው ጥበብ — Tangible Heritage
+
+Craftsmanship time has not erased. Axum's obelisks (ሐውልቶች), made between 700–200 ዓመተ ዓለም, are unsurpassed in craft. Lalibela's rock-hewn churches, built at the start of the 12th century by King Lalibela, most carved from a single rock, are UNESCO World Heritage. The Fasil palace compound in Gondar was built by 17th–18th-century kings on 70,000 m², with six kings' palaces and once 12 named gates — only the two Italian-era gates now serve. The Harar Jegol wall, built by Amir Nur ibn Mujahid in 1551–1552, runs 3,334 m long and 3.66 m high around 48 hectares, with 5 gates and over 359 narrow lanes inside. After reading, match each site with its facts — the lesson's own check.
+
+## Sub lesson 34 — Grade 8: አለሚቱና መምህሯ — Alemitu and Her Teacher
+
+Alemitu, a Grade 8 student who keeps hearing her area's temperature is rising, organises questions and interviews her Social Science teacher, W/ro Weynshet. Climate change is not fully man-made, but human activity has a large share: population growth and expanding industries raise energy use, producing harmful chemicals that form a greenhouse-gas accumulation; building clears forests and creates pollution. Natural causes stand beside them. Continental drift: hundreds of millions of years ago the continents were joined, centred on Africa; they split and drifted — the Atlantic opened as the Americas separated — and Ethiopia's Afar rift is the same process still happening, changing how oceans distribute temperature and moisture. Volcanic eruption shades sunlight briefly with its particles, yet releases much carbon dioxide with lasting effect. The sun's light varies in an 11-year cycle; the ice age 500 years ago is known to have come from decreased sunlight, and scholars explain the current warming may be from increased sunlight. The text is an interview — learn from its form as well as its facts: a prepared questioner, an expert answering in parts.
+
 ## Say it to your companion
 
 Take one passage. Say its main idea in ONE sentence. Your

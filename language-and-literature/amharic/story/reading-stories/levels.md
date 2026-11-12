@@ -63,3 +63,71 @@ Sub lesson 18 questions from the type files. Pass mark: read a dialogue in two v
 
 ## Sub lesson 19 — Grade 2: competitions, telephones and kind animals
 Sub lesson 19 questions from the type files. Pass mark: say how the blind student's phone helps him, and retell how the ant repaid the bird.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 20 — Grade 5: greetings, the overloaded minibus, and the taxi stickers
+Sub lesson 20 questions from the type files. Pass mark: name the kinds of greeting Fatuma's friends discuss, retell Setotaw's stand in the minibus, and say what Mulugeta learns beside Azalu.
+
+## Sub lesson 21 — Grade 5: the honest officer, the wedding car, noise, and wasted water
+Sub lesson 21 questions from the type files. Pass mark: compare Wubit and Mesele point by point, state the wedding-car officer's reasoning, and retell Arega's search for quiet and Aregash's dream.
+
+## Sub lesson 22 — Grade 5: the animals' assembly, the buffalo, the Genna game, and Ete Mete
+Sub lesson 22 questions from the type files. Pass mark: report the assembly's vote, order the buffalo's growth stages, compare the Genna game then and now, and play Ete Mete by its steps in order.
+
+## Sub lesson 23 — Grade 5 and 6: the list, the clever lament, Demelash, and what left the mouth
+Sub lesson 23 questions from the type files. Pass mark: retell the servant's list and its failure, decode the lament verses line by line, and say why Demelash storms out and where Anchinalu is seen going at the end.
+
+## Sub lesson 24 — Grade 6: let us introduce our area — a school visit
+Sub lesson 24 questions from the type files. Pass mark: retell the club's visit in order — dawn, road, forest, cave, waterfall, picnic, home — and say the teacher's charge before the walk.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 25 — Grade 7: አራርቆ መውለድ — Spacing Births
+Sub lesson 25 questions from the type files. Pass mark: retell the story and state the book's definition of spacing.
+
+
+## Sub lesson 26 — Grade 7: ልጅ በልጅነት — A Child in Childhood
+Sub lesson 26 questions from the type files. Pass mark: retell the story and say what help the young mother was offered.
+
+
+## Sub lesson 27 — Grade 7: የጉለሌው ሰካራም — The Drunkard of Gulele
+Sub lesson 27 questions from the type files. Pass mark: retell the story and name its conflict — who clashes with whom.
+
+
+## Sub lesson 28 — Grade 7: በዓል አክባሪው ባል — The Husband Who Honoured the Holiday
+Sub lesson 28 questions from the type files. Pass mark: retell the story in first/next/at-last order and judge the wife's solution, as the book asks.
+
+
+## Sub lesson 29 — Grade 7: አራሽና ተኳሽ — The Ploughman and the Shooter
+Sub lesson 29 questions from the type files. Pass mark: retell the story on its six-step sequence table and say what its misty-sunrise opening does.
+
+
+## Sub lesson 30 — Grade 8: ወይ አለማወቅ! — the mother and the fire
+Sub lesson 30 questions from the type files. Pass mark: retell the story and say what the photograph proved.
+
+
+## Sub lesson 31 — Grade 8: ፍትህ ከሰው አልፎ… — the king, the donkey and justice
+Sub lesson 31 questions from the type files. Pass mark: retell the story and say what the king's proclamation forbade.
+
+
+## Sub lesson 32 — Grade 8: ቁጭት — Regret
+Sub lesson 32 questions from the type files. Pass mark: retell the story and explain its closing saying.
+
+
+## Sub lesson 33 — Grade 8: ምን ይሻላል? — What Would Be Better?
+Sub lesson 33 questions from the type files. Pass mark: retell Mimi's story and name the wrongs done to her.
+
+
+## Sub lesson 34 — Grade 8: ማኅበራዊ ሕይወት — Social Life, a dialogue story
+Sub lesson 34 questions from the type files. Pass mark: retell the dialogue's food chain and the mother's answer in your own words.
+
+
+## Sub lesson 35 — Grade 8: ደባ ራሱን ስለት ድጉሱን — Intrigue Is a Blade for Itself
+Sub lesson 35 questions from the type files. Pass mark: retell the story and explain how the elders' judgement teaches the trickster.
+
+
+## Sub lesson 36 — Grade 8: የኑሩ ትዝታ — Nuru's Memory
+Sub lesson 36 questions from the type files. Pass mark: retell the memory and state the elder's judgement.
+

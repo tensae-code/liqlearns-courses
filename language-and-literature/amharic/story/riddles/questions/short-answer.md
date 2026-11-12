@@ -16,3 +16,6 @@ Answer in a short sentence, from the lesson.
 
 **5. (Sub lesson 3)** Name two things the traffic policeman in the Who-Am-I reading does.
 **Answer:** Any two of: teaches pedestrians to keep left; fines speeding drivers; fines overloading drivers; stands in frost and heat at the roadside.
+
+**6. (Sub lesson 5)** What does the answerer say to accept the challenge?
+**Answer:** 'ምን አውቅልህ!' — what do I solve for you?

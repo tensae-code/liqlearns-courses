@@ -24,3 +24,12 @@ Sub lesson 3 questions from the type files. Pass mark: given a
 sentence with one word underlined, replace that word with its
 synonym and re-say/write the whole sentence standing, nothing
 else moved.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 4 — Grade 5: The Wise Girl's synonyms, and the Littering essay's antonyms
+Sub lesson 4 questions from the type files. Pass mark: match ጓደኛ to ወዳጅ and the Wise Girl set, and match ያናጋል to ያረጋጋል and the antonym set.
+
+
+

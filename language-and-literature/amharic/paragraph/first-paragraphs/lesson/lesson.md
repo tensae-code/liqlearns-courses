@@ -73,6 +73,10 @@ writes its paragraph together. And the Grade 4 book asks for a
 short paragraph on how you help your family in your spare time —
 idea first, then the sentences that carry it.
 
+## Sub lesson 4 — Grade 7: one paragraph, then correct its errors
+
+Grade 7's writing in its first chapter: write ONE paragraph on a chosen topic — my garden plot, my classroom, the neighbourhood I grew up in, my birthday, my friends, a football field — then find and correct the writing errors in it. The order is the teaching: a paragraph is first composed whole, on one topic, and only then corrected. Correction is a second reading with a different eye — the composing eye asks 'is it said?'; the correcting eye asks 'is it right?' The same two-pass work is asked in Descriptive Paragraphs, whose sources now carry this page too.
+
 ## Say it to your companion
 
 Read your companion the paragraph you grew. Your companion must

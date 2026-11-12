@@ -62,3 +62,14 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 5 — Grade 2: the instruments review plurals: make the plurals of the music chapter's instrument words at the review's own page.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 6 — Grade 5: singular and plural nouns, with the እነ- collective plural: Singular and plural nouns — the እነ- set.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 6 — Grade 5: singular and plural nouns, with the እነ- collective plural: Singular and plural nouns — the እነ- set.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 7 — Grade 8: singular and plural — the Iddir chapter's sets.

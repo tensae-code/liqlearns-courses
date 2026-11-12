@@ -42,3 +42,30 @@ Say if the sentence is true or false.
 
 **14. (Sub lesson 12)** Learners write short poems of their own in this chapter, and organise and analyse a poem's idea.
 **Answer: True.**
+
+**15. (Sub lesson 17)** In the poem the Abay is reconciled with itself and its people.
+**Answer: True**
+
+**16. (Sub lesson 18)** Correcting a poem guards its rhyme and breath-lines as well as its spelling.
+**Answer: True**
+
+**17. (Sub lesson 19)** The refrain 'ዓባይ ዓባይ' repeats the river's name to press its greatness home.
+**Answer: True**
+
+**18. (Sub lesson 20)** መዘዝ in the song's refrain is its tribute — what the great river is owed and gives.
+**Answer: True**
+
+**19. (Sub lesson 21)** After judgement, offender and offended embraced and held a reconciliation feast (እርቅ).
+**Answer: True**
+
+**20. (Sub lesson 22)** ነጭለባሽ — 'the white-clad' — names the police in the poem's world.
+**Answer: True**
+
+**21. (Sub lesson 23)** Oral heritage must be written down lest it be distorted or lost — the reading's own conclusion.
+**Answer: True**
+
+**22. (Sub lesson 24)** The poem warns the country could melt like fat into desert if the forest is destroyed.
+**Answer: True**
+
+**23. (Sub lesson 25)** The grandmothers' long age is presented as the fruit of a childhood of service in uprightness.
+**Answer: True**

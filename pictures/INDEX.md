@@ -3914,3 +3914,344 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 27209 | pictures/27209.webp | word chart — ንግድ | Amharic — Story — Grade 4 Honest Trade |
 | 27210 | pictures/27210.gif | traffic-light cycle flipping between cars and pedestrians | Amharic — Story — Grade 4 Road Safety |
 | 27211 | pictures/27211.gif | rain cycle — vapour rises, cloud forms, rain falls | Amharic — Story — Grade 4 Water |
+| 22251 | pictures/22251.webp | an intestinal wall magnified step by step down to one villus with its blood vessels and lacteal | Biology — Absorption — the villi at work |
+| 27600 | pictures/27600.webp | listening board — sound waves and the gebeta board with its stones | Amharic — Story — Listening Stories |
+| 27601 | pictures/27601.webp | a man and a woman in full Timket dress, tibeb hems, ማርዳ necklace and አምባር bracelet | Amharic — Story — Reading Passages |
+| 27602 | pictures/27602.webp | two children face to face in the Ete Mete clapping game, hands meeting | Amharic — Story — Reading Stories |
+| 27603 | pictures/27603.webp | an iron pot (ብረት ድስት) and a clay pot (ሸክላ ድስት) side by side | Amharic — Story — Poems and Songs |
+| 27610 | pictures/27610.gif | the Ete Mete sequence — own clap, partner clap, elbow-and-chest touch, speeding up | Amharic — Story — Reading Stories |
+| 27611 | pictures/27611.gif | a hand sowing gebeta stones hollow by hollow around the board | Amharic — Story — Listening Stories |
+| 29213 | pictures/29213.webp | alcohol, khat and drugs — body effects and risky sex overview | Biology — Alcohol, khat and drugs — body effects and risky sex |
+| 29214 | pictures/29214.webp | anaerobic respiration and fermentation overview | Biology — Anaerobic Respiration and Fermentation |
+| 29215 | pictures/29215.webp | applications of biology in day-to-day life overview | Biology — Applications of Biology in Day-to-Day Life |
+| 29216 | pictures/29216.webp | archaea and microbial growth factors overview | Biology — Archaea and Microbial Growth Factors |
+| 29217 | pictures/29217.webp | asexual reproduction — budding, fragmentation, parthenogenesis overview | Biology — Asexual reproduction — budding, fragmentation, parthenogenesis |
+| 29218 | pictures/29218.gif | asexual reproduction — budding, fragmentation, parthenogenesis in motion | Biology — Asexual reproduction — budding, fragmentation, parthenogenesis |
+| 21206 | pictures/21206.webp | axial and appendicular skeletons overview | Biology — Axial and appendicular skeletons |
+| 21207 | pictures/21207.webp | bacteria: structure and function overview | Biology — Bacteria: Structure and Function |
+| 21209 | pictures/21209.webp | bacterial cells — pili, flagella and the three domains overview | Biology — Bacterial cells — pili, flagella and the three domains |
+| 21210 | pictures/21210.webp | bacterial sexually transmitted infections overview | Biology — Bacterial sexually transmitted infections |
+| 21211 | pictures/21211.webp | bacterial shapes and how microbes are classified overview | Biology — Bacterial shapes and how microbes are classified |
+| 21208 | pictures/21208.webp | bacterial shapes, nutrition and reproduction overview | Biology — Bacterial Shapes, Nutrition and Reproduction |
+| 21212 | pictures/21212.webp | balancing water, salt and blood sugar overview | Biology — Balancing water, salt and blood sugar |
+| 21213 | pictures/21213.webp | barrier contraceptives overview | Biology — Barrier contraceptives |
+| 21214 | pictures/21214.webp | behaviour patterns — cycles, courtship, societies, territories overview | Biology — Behaviour patterns — cycles, courtship, societies, territories |
+| 21215 | pictures/21215.webp | bioaccumulation and resource depletion overview | Biology — Bioaccumulation and resource depletion |
+| 22230 | pictures/22230.webp | a two-branch map — inorganic and organic — with the four organic families on the second branch | Biology — Biochemical molecules — the map of the unit |
+| 21216 | pictures/21216.webp | bioinformatics — biology meets computing overview | Biology — Bioinformatics — biology meets computing |
+| 21217 | pictures/21217.webp | biology + technology = biotechnology overview | Biology — Biology + technology = biotechnology |
+| 21218 | pictures/21218.webp | biomining, biofuels and biogas overview | Biology — Biomining, Biofuels and Biogas |
+| 21221 | pictures/21221.webp | biotechnology in daily life — fuels, forensics and warfare overview | Biology — Biotechnology in daily life — fuels, forensics and warfare |
+| 21220 | pictures/21220.webp | biotechnology in medicine overview | Biology — Biotechnology in Medicine |
+| 21219 | pictures/21219.webp | biotechnology overview | Biology — Biotechnology |
+| 21222 | pictures/21222.webp | bird reproduction — the oviduct and the egg overview | Biology — Bird reproduction — the oviduct and the egg |
+| 22285 | pictures/22285.webp | the four blood groups as four red cells with their surface antigens drawn differently | Biology — Blood groups and the Rhesus factor |
+| 22257 | pictures/22257.webp | a pressure gauge on an artery, normal band and high zone marked | Biology — Blood pressure — and when it is too high |
+| 22261 | pictures/22261.webp | two chest diagrams — ribs up/diaphragm flat vs ribs down/diaphragm domed | Biology — Breathing in, breathing out |
+| 22262 | pictures/22262.gif | the chest expanding and relaxing with the diaphragm moving opposite | Biology — Breathing in, breathing out |
+| 21223 | pictures/21223.webp | c3, c4 and cam plants overview | Biology — C3, C4 and CAM Plants |
+| 22234 | pictures/22234.webp | the three monosaccharides as three simple ring diagrams | Biology — Carbohydrates — the single sugars |
+| 21224 | pictures/21224.webp | cardiac, skeletal and smooth muscle overview | Biology — Cardiac, skeletal and smooth muscle |
+| 21225 | pictures/21225.webp | causes of infertility overview | Biology — Causes of infertility |
+| 21226 | pictures/21226.webp | cellular metabolism: anabolism and catabolism overview | Biology — Cellular Metabolism: Anabolism and Catabolism |
+| 21228 | pictures/21228.webp | cellular respiration — glycolysis, krebs cycle, electron transport overview | Biology — Cellular respiration — glycolysis, Krebs cycle, electron transport |
+| 21227 | pictures/21227.webp | cellular respiration overview | Biology — Cellular Respiration |
+| 21229 | pictures/21229.webp | chromosome and multifactorial disorders overview | Biology — Chromosome and multifactorial disorders |
+| 29211 | pictures/29211.webp | a jumbled shelf of organisms being sorted into groups | Biology — Classification — grouping by shared characteristics |
+| 21231 | pictures/21231.webp | climate change and global warming overview | Biology — Climate change and global warming |
+| 21232 | pictures/21232.webp | climate change — causes, effects and conventions overview | Biology — Climate change — causes, effects and conventions |
+| 21230 | pictures/21230.webp | climate change: causes overview | Biology — Climate Change: Causes |
+| 21233 | pictures/21233.webp | co-dominance, incomplete dominance and blood groups overview | Biology — Co-dominance, incomplete dominance and blood groups |
+| 29206 | pictures/29206.webp | an insect net over grass and a fishing net in a stream | Biology — Collecting in the field — nets |
+| 21235 | pictures/21235.webp | conscious citizens and sustainable development overview | Biology — Conscious citizens and sustainable development |
+| 21236 | pictures/21236.webp | conservation of natural resources overview | Biology — Conservation of Natural Resources |
+| 21237 | pictures/21237.webp | conserving ethiopia's wildlife overview | Biology — Conserving Ethiopia's wildlife |
+| 21238 | pictures/21238.webp | conserving plants, soil and water in ethiopia overview | Biology — Conserving plants, soil and water in Ethiopia |
+| 21239 | pictures/21239.webp | controlling microorganisms: sterilisation and disinfection overview | Biology — Controlling Microorganisms: Sterilisation and Disinfection |
+| 21240 | pictures/21240.webp | counting populations — quadrats, mark-recapture, census overview | Biology — Counting populations — quadrats, mark-recapture, census |
+| 21241 | pictures/21241.webp | crocodile reproduction overview | Biology — Crocodile reproduction |
+| 22290 | pictures/22290.webp | the nitrogen cycle with the four bacterial processes labelled at their stations, and a legume root with nodules as an inset | Biology — Cycling of materials — decomposers and the nitrogen cycle |
+| 22247 | pictures/22247.webp | the canal drawn as one long tube with accessory organs attached | Biology — Digestion — the canal and its two kinds of breakdown |
+| 22252 | pictures/22252.webp | the digestion table as a journey strip from mouth to anus | Biology — Digestion — the whole journey |
+| 21245 | pictures/21245.webp | dihybrid crosses, independent assortment and test crosses overview | Biology — Dihybrid crosses, independent assortment and test crosses |
+| 22235 | pictures/22235.webp | the three disaccharides with their two halves marked, beside a Benedict's colour ladder from blue to brick-red | Biology — Disaccharides — and testing for sugars |
+| 22236 | pictures/22236.gif | the Benedict's colour change on heating | Biology — Disaccharides — and testing for sugars |
+| 22286 | pictures/22286.webp | a vein cross-section pair — working valve vs faulty valve with the vein stretched | Biology — Diseases of the circulatory system |
+| 21242 | pictures/21242.webp | dna profiling and forensic science overview | Biology — DNA Profiling and Forensic Science |
+| 21243 | pictures/21243.webp | dna replication — copying the instructions overview | Biology — DNA replication — copying the instructions |
+| 21244 | pictures/21244.gif | dna replication — copying the instructions in motion | Biology — DNA replication — copying the instructions |
+| 22255 | pictures/22255.webp | the two loops in two colours meeting at the heart | Biology — Double circulation — lungs loop and body loop |
+| 22256 | pictures/22256.gif | blood travelling both loops in turn | Biology — Double circulation — lungs loop and body loop |
+| 21247 | pictures/21247.webp | drug abuse and the nervous system overview | Biology — Drug abuse and the nervous system |
+| 22274 | pictures/22274.webp | a soil cross-section with earthworms tunnelling through it | Biology — Earthworms and the soil community |
+| 22270 | pictures/22270.webp | the three pyramid kinds side by side for one food chain | Biology — Ecological pyramids — energy, numbers, biomass |
+| 21248 | pictures/21248.webp | effects of climate change overview | Biology — Effects of Climate Change |
+| 22269 | pictures/22269.webp | a shrinking-bar diagram of energy at four trophic levels | Biology — Energy flow — and why it runs out |
+| 21250 | pictures/21250.webp | energy, metabolism and photosynthesis overview | Biology — Energy, metabolism and photosynthesis |
+| 21249 | pictures/21249.webp | energy transformation overview | Biology — Energy Transformation |
+| 21251 | pictures/21251.webp | environmental biotechnology: bioremediation and waste treatment overview | Biology — Environmental Biotechnology: Bioremediation and Waste Treatment |
+| 21252 | pictures/21252.webp | enzyme kinetics — rate and saturation overview | Biology — Enzyme kinetics — rate and saturation |
+| 21253 | pictures/21253.webp | enzymes at work in the body overview | Biology — Enzymes at work in the body |
+| 21254 | pictures/21254.webp | enzymes — the body's catalysts overview | Biology — Enzymes — the body's catalysts |
+| 21255 | pictures/21255.webp | ethical issues in biology overview | Biology — Ethical issues in biology |
+| 22203 | pictures/22203.webp | portraits of Ethiopian biologists with the Ethiopian problem each one worked on | Biology — Ethiopian biologists and their discoveries |
+| 22245 | pictures/22245.webp | a seed-store scene — Ethiopia's crop varieties being kept safe | Biology — Ethiopian geneticists and their work |
+| 22267 | pictures/22267.webp | a panel of Ethiopian physicians with the work each is known for | Biology — Ethiopian physicians and their work |
+| 22229 | pictures/22229.webp | a small herbarium-style panel of four named local medicinal plants | Biology — Ethiopia's medicinal plants |
+| 21258 | pictures/21258.webp | ethiopia's population — and survivorship curves overview | Biology — Ethiopia's population — and survivorship curves |
+| 21256 | pictures/21256.webp | ethiopia's renowned anthropologists and evolutionists overview | Biology — Ethiopia's Renowned Anthropologists and Evolutionists |
+| 21257 | pictures/21257.webp | ethiopia's response to climate change overview | Biology — Ethiopia's Response to Climate Change |
+| 21260 | pictures/21260.webp | evidence for evolution overview | Biology — Evidence for evolution |
+| 22264 | pictures/22264.webp | two kidneys with ureters, bladder and urethra labelled | Biology — Excretion — the kidney cleans the blood |
+| 22224 | pictures/22224.webp | a celery stalk in dyed water with dye visible in the cut strands, and a ringed stem with swelling above the ring | Biology — Experiments that prove the transport routes |
+| 22225 | pictures/22225.gif | dye climbing the celery stalk | Biology — Experiments that prove the transport routes |
+| 21261 | pictures/21261.webp | exponential vs logistic growth overview | Biology — Exponential vs logistic growth |
+| 21262 | pictures/21262.webp | extinction: causes and prevention overview | Biology — Extinction: Causes and Prevention |
+| 21263 | pictures/21263.webp | family planning — why, what, and where overview | Biology — Family planning — why, what, and where |
+| 21264 | pictures/21264.webp | fertilisation, implantation and pregnancy overview | Biology — Fertilisation, implantation and pregnancy |
+| 22276 | pictures/22276.webp | a green, algae-choked pond beside a clear one | Biology — Fertilisers, eutrophication and biofertilisers |
+| 21265 | pictures/21265.webp | food and nutrition security overview | Biology — Food and Nutrition Security |
+| 22289 | pictures/22289.webp | a grassland food web with arrows pointing eater-ward | Biology — Food chains and food webs |
+| 21266 | pictures/21266.webp | food security, nutrition security and biofortification overview | Biology — Food security, nutrition security and biofortification |
+| 21267 | pictures/21267.webp | frog reproduction — eggs, tadpoles, metamorphosis overview | Biology — Frog reproduction — eggs, tadpoles, metamorphosis |
+| 21268 | pictures/21268.gif | frog reproduction — eggs, tadpoles, metamorphosis in motion | Biology — Frog reproduction — eggs, tadpoles, metamorphosis |
+| 21270 | pictures/21270.webp | fungi — hyphae, roles and diseases overview | Biology — Fungi — hyphae, roles and diseases |
+| 21269 | pictures/21269.webp | fungi overview | Biology — Fungi |
+| 21271 | pictures/21271.webp | gene flow overview | Biology — Gene Flow |
+| 21272 | pictures/21272.webp | genetic drift overview | Biology — Genetic Drift |
+| 21273 | pictures/21273.webp | genetic engineering — insulin, crops and their risks overview | Biology — Genetic engineering — insulin, crops and their risks |
+| 21274 | pictures/21274.webp | genetic material — what carries heredity overview | Biology — Genetic material — what carries heredity |
+| 22216 | pictures/22216.webp | bean and maize seedlings side by side with cotyledon positions marked | Biology — Germination — what a seed needs, two ways it grows |
+| 22217 | pictures/22217.gif | a bean seedling lifting its cotyledons out of the soil while a maize seedling leaves its below | Biology — Germination — what a seed needs, two ways it grows |
+| 21275 | pictures/21275.webp | gram-positive and gram-negative walls overview | Biology — Gram-positive and Gram-negative walls |
+| 22209 | pictures/22209.webp | a pine cone open with seeds, beside a pine life-cycle circle | Biology — Gymnosperms — seeds in cones |
+| 21276 | pictures/21276.webp | harmful insects — pests and disease carriers overview | Biology — Harmful insects — pests and disease carriers |
+| 21277 | pictures/21277.webp | harmful traditional practices and health overview | Biology — Harmful traditional practices and health |
+| 21278 | pictures/21278.webp | homeostasis and the kidney overview | Biology — Homeostasis and the Kidney |
+| 21279 | pictures/21279.webp | homeostasis in the human body overview | Biology — Homeostasis in the human body |
+| 21280 | pictures/21280.webp | homeostasis — receptor, control centre, effector overview | Biology — Homeostasis — receptor, control centre, effector |
+| 21281 | pictures/21281.gif | homeostasis — receptor, control centre, effector in motion | Biology — Homeostasis — receptor, control centre, effector |
+| 21282 | pictures/21282.webp | hormonal, iud and permanent contraception overview | Biology — Hormonal, IUD and permanent contraception |
+| 21283 | pictures/21283.webp | hormone feedback in the menstrual cycle overview | Biology — Hormone feedback in the menstrual cycle |
+| 21284 | pictures/21284.webp | how diseases spread and how to prevent them overview | Biology — How Diseases Spread and How to Prevent Them |
+| 21285 | pictures/21285.webp | how life began — the competing accounts overview | Biology — How life began — the competing accounts |
+| 22226 | pictures/22226.webp | a shoot bending toward one-sided light with auxin shaded on the dark side | Biology — How plants respond — light, water, gravity and auxin |
+| 22227 | pictures/22227.gif | a shoot tip bending toward light over time | Biology — How plants respond — light, water, gravity and auxin |
+| 21286 | pictures/21286.webp | how populations are spread out overview | Biology — How populations are spread out |
+| 22214 | pictures/22214.webp | four seeds, one per dispersal method, with their travelling features labelled | Biology — How seeds travel — dispersal |
+| 22215 | pictures/22215.gif | an explosive pod bursting and scattering seeds | Biology — How seeds travel — dispersal |
+| 21287 | pictures/21287.webp | how sex is determined — xx and xy overview | Biology — How sex is determined — XX and XY |
+| 29210 | pictures/29210.webp | one animal and one plant with the characteristics labelled | Biology — How we know something is alive |
+| 21289 | pictures/21289.webp | human evolution overview | Biology — Human evolution |
+| 21290 | pictures/21290.webp | impacts of biology and technology on society and nature overview | Biology — Impacts of biology and technology on society and nature |
+| 21291 | pictures/21291.webp | incubation, hatching and caring for chicks overview | Biology — Incubation, hatching and caring for chicks |
+| 21292 | pictures/21292.webp | indigenous conservation — konso terraces and the guassa qero overview | Biology — Indigenous conservation — Konso terraces and the Guassa Qero |
+| 21293 | pictures/21293.webp | industrial uses of enzymes overview | Biology — Industrial uses of enzymes |
+| 21294 | pictures/21294.webp | inhibition — competitive, noncompetitive, uncompetitive overview | Biology — Inhibition — competitive, noncompetitive, uncompetitive |
+| 21295 | pictures/21295.webp | innate behaviour and reflex actions overview | Biology — Innate behaviour and reflex actions |
+| 22278 | pictures/22278.webp | an ion card set — name, job, food source — for the eight ions | Biology — Inorganic ions — small charged particles, many jobs |
+| 21296 | pictures/21296.webp | insect products — honey, silk, dyes and medicines overview | Biology — Insect products — honey, silk, dyes and medicines |
+| 21297 | pictures/21297.webp | insect reproduction and metamorphosis overview | Biology — Insect reproduction and metamorphosis |
+| 21298 | pictures/21298.gif | insect reproduction and metamorphosis in motion | Biology — Insect reproduction and metamorphosis |
+| 22207 | pictures/22207.webp | a leaf cross-section with layers labelled | Biology — Inside a leaf |
+| 22213 | pictures/22213.webp | a bean seed opened beside a maize grain, parts labelled | Biology — Inside a seed — dicots and monocots |
+| 22208 | pictures/22208.webp | stem and root cross-sections with xylem and phloem labelled | Biology — Inside stem and root — the vascular bundles |
+| 21299 | pictures/21299.webp | international climate conventions overview | Biology — International Climate Conventions |
+| 29219 | pictures/29219.webp | invertebrates — animals without backbones overview | Biology — Invertebrates — animals without backbones |
+| 29203 | pictures/29203.webp | three labelled seed trays — cold, room, warm | Biology — Investigation: temperature and seed germination |
+| 29220 | pictures/29220.webp | keeping body temperature steady overview | Biology — Keeping body temperature steady |
+| 29205 | pictures/29205.webp | a labelled laboratory bench | Biology — Laboratory tools and what each one does |
+| 29221 | pictures/29221.webp | lamarck vs darwin overview | Biology — Lamarck vs Darwin |
+| 22206 | pictures/22206.webp | a leaf and a root system with parts labelled | Biology — Leaf and root — the outside view |
+| 29222 | pictures/29222.webp | learned behaviour — habituation, conditioning, insight overview | Biology — Learned behaviour — habituation, conditioning, insight |
+| 29223 | pictures/29223.webp | learning from nature — biomimicry overview | Biology — Learning from nature — biomimicry |
+| 22279 | pictures/22279.webp | a phospholipid molecule enlarged, then the bilayer it forms | Biology — Lipids — glycerol and fatty acids |
+| 22280 | pictures/22280.gif | phospholipid molecules turning and settling into a two-layer sheet | Biology — Lipids — glycerol and fatty acids |
+| 29224 | pictures/29224.webp | lock and key, induced fit, transition state overview | Biology — Lock and key, induced fit, transition state |
+| 29225 | pictures/29225.gif | lock and key, induced fit, transition state in motion | Biology — Lock and key, induced fit, transition state |
+| 29226 | pictures/29226.webp | losing biodiversity — causes and costs overview | Biology — Losing biodiversity — causes and costs |
+| 29227 | pictures/29227.webp | making sperm and eggs overview | Biology — Making sperm and eggs |
+| 29228 | pictures/29228.webp | malting — from grain to tella overview | Biology — Malting — from grain to tella |
+| 29229 | pictures/29229.webp | meiosis — four different sex cells overview | Biology — Meiosis — four different sex cells |
+| 22243 | pictures/22243.webp | one cell dividing twice into four cells, with the chromosome number halved | Biology — Meiosis — halving the chromosomes |
+| 22244 | pictures/22244.gif | one cell dividing twice into four different cells | Biology — Meiosis — halving the chromosomes |
+| 29230 | pictures/29230.webp | mendel and the seven pea traits overview | Biology — Mendel and the seven pea traits |
+| 29231 | pictures/29231.webp | microbes in ethiopian fermented foods overview | Biology — Microbes in Ethiopian fermented foods |
+| 29233 | pictures/29233.webp | microorganisms — the unseen majority overview | Biology — Microorganisms — the unseen majority |
+| 29232 | pictures/29232.webp | microorganisms overview | Biology — Microorganisms |
+| 29234 | pictures/29234.webp | mitosis — one cell becomes two identical cells overview | Biology — Mitosis — one cell becomes two identical cells |
+| 29235 | pictures/29235.gif | mitosis — one cell becomes two identical cells in motion | Biology — Mitosis — one cell becomes two identical cells |
+| 22281 | pictures/22281.webp | a five-frame mitosis phase strip from one cell to two | Biology — Mitosis — the phases in order |
+| 22282 | pictures/22282.gif | a cell passing through the mitosis phases in order | Biology — Mitosis — the phases in order |
+| 29236 | pictures/29236.webp | monohybrid crosses and the law of segregation overview | Biology — Monohybrid crosses and the law of segregation |
+| 29237 | pictures/29237.gif | monohybrid crosses and the law of segregation in motion | Biology — Monohybrid crosses and the law of segregation |
+| 22232 | pictures/22232.webp | single beads joining into a chain, labelled monomer and polymer | Biology — Monomers and polymers — building big molecules from small |
+| 22233 | pictures/22233.gif | beads linking one by one into a chain | Biology — Monomers and polymers — building big molecules from small |
+| 29238 | pictures/29238.webp | muscle contraction — sliding filaments overview | Biology — Muscle contraction — sliding filaments |
+| 29239 | pictures/29239.gif | muscle contraction — sliding filaments in motion | Biology — Muscle contraction — sliding filaments |
+| 29240 | pictures/29240.webp | mutation, genetic drift and gene flow overview | Biology — Mutation, genetic drift and gene flow |
+| 29241 | pictures/29241.webp | mutations overview | Biology — Mutations |
+| 29243 | pictures/29243.webp | natural selection and speciation overview | Biology — Natural selection and speciation |
+| 29242 | pictures/29242.webp | natural selection overview | Biology — Natural Selection |
+| 29244 | pictures/29244.webp | negative and positive feedback overview | Biology — Negative and positive feedback |
+| 29245 | pictures/29245.webp | neurons, impulses and neurotransmitters overview | Biology — Neurons, impulses and neurotransmitters |
+| 21327 | pictures/21327.webp | neurons: the cells of the nervous system overview | Biology — Neurons: The Cells of the Nervous System |
+| 21328 | pictures/21328.webp | normal microbiota, germ theory and koch's postulates overview | Biology — Normal Microbiota, Germ Theory and Koch's Postulates |
+| 22240 | pictures/22240.webp | a nucleotide taken apart into its three pieces, beside a DNA–RNA comparison panel | Biology — Nucleic acids — DNA and RNA |
+| 21329 | pictures/21329.webp | organisation of the nervous system: brain and spinal cord overview | Biology — Organisation of the Nervous System: Brain and Spinal Cord |
+| 29246 | pictures/29246.webp | ozone depletion and acid rain overview | Biology — Ozone depletion and acid rain |
+| 29247 | pictures/29247.webp | parasitic stis and who is at risk overview | Biology — Parasitic STIs and who is at risk |
+| 22210 | pictures/22210.webp | a large flower with all parts labelled | Biology — Parts of a flower |
+| 22205 | pictures/22205.webp | a whole plant with shoot and root systems labelled | Biology — Parts of a flowering plant |
+| 29207 | pictures/29207.webp | a full microscope diagram with every part labelled | Biology — Parts of the light microscope |
+| 29249 | pictures/29249.webp | photosynthesis and the earth's atmosphere overview | Biology — Photosynthesis and the Earth's Atmosphere |
+| 21334 | pictures/21334.webp | photosynthesis — light reactions and the calvin cycle overview | Biology — Photosynthesis — light reactions and the Calvin cycle |
+| 22218 | pictures/22218.webp | a chloroplast diagram with its internal membranes labelled | Biology — Photosynthesis — the chloroplast at work |
+| 29248 | pictures/29248.webp | photosynthesis overview | Biology — Photosynthesis |
+| 21335 | pictures/21335.webp | photosynthetic pigments and absorption spectra overview | Biology — Photosynthetic Pigments and Absorption Spectra |
+| 22204 | pictures/22204.webp | a flowering plant and a conifer side by side with the shared plant marks labelled | Biology — Plants — characteristics and groups |
+| 22211 | pictures/22211.webp | the life-cycle circle with a bee carrying pollen at the pollination step | Biology — Pollination and the flowering-plant life cycle |
+| 22212 | pictures/22212.gif | a bee moving pollen from anther to stigma | Biology — Pollination and the flowering-plant life cycle |
+| 21336 | pictures/21336.webp | pollution — air and water overview | Biology — Pollution — air and water |
+| 22237 | pictures/22237.webp | a branching starch chain beside a cellulose fibre bundle | Biology — Polysaccharides — stores and walls |
+| 21337 | pictures/21337.webp | population pyramids — reading a country's future overview | Biology — Population pyramids — reading a country's future |
+| 21338 | pictures/21338.webp | properties of enzymes overview | Biology — Properties of enzymes |
+| 21339 | pictures/21339.webp | protein synthesis — from gene to protein overview | Biology — Protein synthesis — from gene to protein |
+| 22238 | pictures/22238.webp | two amino acids joining with a water molecule leaving | Biology — Proteins — chains of amino acids |
+| 21340 | pictures/21340.webp | protozoa and protozoan diseases overview | Biology — Protozoa and Protozoan Diseases |
+| 21341 | pictures/21341.webp | protozoa — malaria and its relatives overview | Biology — Protozoa — malaria and its relatives |
+| 21342 | pictures/21342.webp | proving a germ causes a disease — koch's postulates overview | Biology — Proving a germ causes a disease — Koch's postulates |
+| 22220 | pictures/22220.webp | the four-step starch-test sequence as a strip | Biology — Proving photosynthesis — the starch test |
+| 22221 | pictures/22221.gif | the iodine colour change spreading over the leaf | Biology — Proving photosynthesis — the starch test |
+| 22277 | pictures/22277.webp | a two-column sort board — pure fields on one side, applied on the other | Biology — Pure and applied biology — farming fields |
+| 21344 | pictures/21344.webp | rat reproduction — gestation, birth and pup care overview | Biology — Rat reproduction — gestation, birth and pup care |
+| 21345 | pictures/21345.webp | reading a pedigree overview | Biology — Reading a pedigree |
+| 21346 | pictures/21346.webp | reflex actions and the reflex arc overview | Biology — Reflex Actions and the Reflex Arc |
+| 21347 | pictures/21347.webp | reflexes and reaction time overview | Biology — Reflexes and reaction time |
+| 21348 | pictures/21348.webp | renewable and non-renewable resources overview | Biology — Renewable and non-renewable resources |
+| 22201 | pictures/22201.webp | a timeline of portraits with each biologist's discovery in a caption strip | Biology — The renowned biologists — who found what |
+| 21349 | pictures/21349.webp | renowned microbiologists in ethiopia overview | Biology — Renowned Microbiologists in Ethiopia |
+| 22228 | pictures/22228.webp | a seedling on a slowly turning clinostat staying straight beside one bent by gravity | Biology — Response experiments — light, water and gravity |
+| 21343 | pictures/21343.webp | rna — the working copy overview | Biology — RNA — the working copy |
+| 21350 | pictures/21350.webp | roadkill — traffic as an animal killer overview | Biology — Roadkill — traffic as an animal killer |
+| 29204 | pictures/29204.webp | a hand lens over a leaf beside microscope kinds | Biology — Seeing small things — hand lens and microscope kinds |
+| 21351 | pictures/21351.webp | selective breeding and ethiopia's genetic wealth overview | Biology — Selective breeding and Ethiopia's genetic wealth |
+| 21353 | pictures/21353.webp | sense organs — skin, tongue, nose, eye, ear overview | Biology — Sense organs — skin, tongue, nose, eye, ear |
+| 21352 | pictures/21352.webp | sense organs: the skin overview | Biology — Sense Organs: The Skin |
+| 21354 | pictures/21354.webp | sex-linked traits and phenocopies overview | Biology — Sex-linked traits and phenocopies |
+| 21355 | pictures/21355.webp | sexual reproduction — internal and external fertilisation overview | Biology — Sexual reproduction — internal and external fertilisation |
+| 21356 | pictures/21356.gif | sexual reproduction — internal and external fertilisation in motion | Biology — Sexual reproduction — internal and external fertilisation |
+| 21357 | pictures/21357.webp | single-gene disorders overview | Biology — Single-gene disorders |
+| 29209 | pictures/29209.webp | a correctly dressed pupil at a bench with safety signs | Biology — Staying safe in the laboratory |
+| 21358 | pictures/21358.webp | switching enzymes on and off overview | Biology — Switching enzymes on and off |
+| 21359 | pictures/21359.webp | synapses and neurotransmitters overview | Biology — Synapses and Neurotransmitters |
+| 21360 | pictures/21360.webp | taste and smell overview | Biology — Taste and Smell |
+| 21361 | pictures/21361.webp | technologies copied from living things overview | Biology — Technologies copied from living things |
+| 22248 | pictures/22248.webp | a jaw with the four tooth kinds labelled, beside a cut-through tooth | Biology — Teeth — four kinds, one structure |
+| 21362 | pictures/21362.webp | testing, counselling and gene therapy overview | Biology — Testing, counselling and gene therapy |
+| 22239 | pictures/22239.webp | a Biuret colour change from blue to purple beside a test tube rack | Biology — Testing for protein — Biuret and xanthoproteic |
+| 22260 | pictures/22260.webp | the whole air path drawn from nostril to one alveolar sac | Biology — The breathing system — air's path to the alveoli |
+| 21363 | pictures/21363.webp | the calvin cycle overview | Biology — The Calvin Cycle |
+| 22273 | pictures/22273.webp | the carbon cycle with photosynthesis and respiration arrows in opposite colours | Biology — The carbon cycle — and climate change |
+| 21374 | pictures/21374.webp | the cell cycle — interphase prepares overview | Biology — The cell cycle — interphase prepares |
+| 22241 | pictures/22241.webp | the cycle as a wheel with its stages marked | Biology — The cell cycle |
+| 22242 | pictures/22242.gif | the cycle wheel turning through one full cycle | Biology — The cell cycle |
+| 29212 | pictures/29212.webp | a stepped pyramid from species to kingdom | Biology — The classification ladder — species to kingdom |
+| 21364 | pictures/21364.webp | the dna double helix overview | Biology — The DNA double helix |
+| 21365 | pictures/21365.gif | the dna double helix in motion | Biology — The DNA double helix |
+| 21366 | pictures/21366.webp | the ear: hearing and balance overview | Biology — The Ear: Hearing and Balance |
+| 21367 | pictures/21367.webp | the endocrine system and hormones overview | Biology — The Endocrine System and Hormones |
+| 21375 | pictures/21375.webp | the endocrine system — glands and hormones overview | Biology — The endocrine system — glands and hormones |
+| 21368 | pictures/21368.webp | the eye and vision overview | Biology — The Eye and Vision |
+| 21377 | pictures/21377.webp | the four levels of protein structure overview | Biology — The four levels of protein structure |
+| 22253 | pictures/22253.webp | a cut-through heart with chambers and valves labelled | Biology — The heart — chambers, valves, beat |
+| 22254 | pictures/22254.gif | the heart beating with valves opening and closing in sequence | Biology — The heart — chambers, valves, beat |
+| 21369 | pictures/21369.webp | the human nervous system overview | Biology — The Human Nervous System |
+| 22287 | pictures/22287.webp | white blood cells surrounding an invading bacterium | Biology — The immune system — born with one, acquire the other |
+| 22288 | pictures/22288.gif | a white blood cell engulfing a bacterium | Biology — The immune system — born with one, acquire the other |
+| 21370 | pictures/21370.webp | the light-dependent reactions of photosynthesis overview | Biology — The Light-Dependent Reactions of Photosynthesis |
+| 22283 | pictures/22283.webp | liver, gall bladder and pancreas in place beside the canal | Biology — The liver — bile, storage, detox |
+| 22284 | pictures/22284.gif | bile droplets breaking a large fat globule into small ones | Biology — The liver — bile, storage, detox |
+| 22259 | pictures/22259.webp | a body outline with the main lymph vessels and node clusters marked | Biology — The lymphatic system — drainage and defence |
+| 21379 | pictures/21379.webp | the menstrual cycle, phase by phase overview | Biology — The menstrual cycle, phase by phase |
+| 22202 | pictures/22202.webp | a labelled light microscope in use, with a slide under its lens | Biology — The microscope — seeing the small world |
+| 21380 | pictures/21380.webp | the musculoskeletal system at a glance overview | Biology — The musculoskeletal system at a glance |
+| 22265 | pictures/22265.webp | one nephron enlarged with its three processes arrowed in order | Biology — The nephron — how urine is made |
+| 22266 | pictures/22266.gif | fluid travelling the nephron's tubule, changing as useful substances leave it back to the blood | Biology — The nephron — how urine is made |
+| 21371 | pictures/21371.webp | the nerve impulse overview | Biology — The Nerve Impulse |
+| 21381 | pictures/21381.webp | the nervous system — cranial and spinal nerves overview | Biology — The nervous system — cranial and spinal nerves |
+| 21372 | pictures/21372.webp | the origin of life on earth overview | Biology — The Origin of Life on Earth |
+| 22275 | pictures/22275.webp | the phosphorus cycle drawn from rock weathering to lake sediment | Biology — The phosphorus cycle |
+| 22219 | pictures/22219.webp | the equation as a balance diagram — inputs left, outputs right, light and chlorophyll over the arrow | Biology — The photosynthesis equation |
+| 21373 | pictures/21373.webp | the rh factor — why mothers and babies must match overview | Biology — The Rh factor — why mothers and babies must match |
+| 29202 | pictures/29202.webp | the five steps as a circular flow diagram | Biology — The scientific method — observe, question, hypothesise, test, conclude |
+| 21382 | pictures/21382.webp | the six enzyme classes overview | Biology — The six enzyme classes |
+| 22249 | pictures/22249.webp | a stomach with its muscle layers and two sphincters labelled | Biology — The stomach — churn and acid |
+| 22250 | pictures/22250.gif | peristalsis squeezing a food bolus along the canal | Biology — The stomach — churn and acid |
+| 22200 | pictures/22200.webp | a branching map of biology with one example organism on each branch | Biology — The sub-fields of biology |
+| 22246 | pictures/22246.webp | a body outline with the five systems in five colours | Biology — The systems of the human body |
+| 21383 | pictures/21383.webp | the three rs — reduction, refinement, replacement overview | Biology — The three Rs — reduction, refinement, replacement |
+| 22271 | pictures/22271.webp | the water cycle drawn over a landscape — lake, hills, clouds | Biology — The water cycle |
+| 22272 | pictures/22272.gif | water rising as vapour, gathering in a cloud, and falling as rain | Biology — The water cycle |
+| 21384 | pictures/21384.webp | theories of evolution: lamarck, darwin and the modern synthesis overview | Biology — Theories of Evolution: Lamarck, Darwin and the Modern Synthesis |
+| 21385 | pictures/21385.webp | tools technology gives biology overview | Biology — Tools technology gives biology |
+| 22222 | pictures/22222.webp | a whole plant with xylem and phloem routes in two colours | Biology — Transport in the plant — xylem up, phloem both ways |
+| 22223 | pictures/22223.gif | water rising through the xylem from root to leaf | Biology — Transport in the plant — xylem up, phloem both ways |
+| 21386 | pictures/21386.webp | treating plants ethically in biology overview | Biology — Treating plants ethically in biology |
+| 22268 | pictures/22268.webp | a four-step staircase of organisms, one per trophic level | Biology — Trophic levels — the steps of a food chain |
+| 22263 | pictures/22263.webp | lungs and heart linked by two arrows — oxygen in, carbon dioxide out | Biology — Two systems, one job — air and blood together |
+| 21387 | pictures/21387.webp | types of joints overview | Biology — Types of joints |
+| 21388 | pictures/21388.webp | useful insects in farming and as food overview | Biology — Useful insects in farming and as food |
+| 21389 | pictures/21389.webp | uses of microorganisms overview | Biology — Uses of Microorganisms |
+| 29208 | pictures/29208.webp | hands carrying a microscope by arm and base | Biology — Using a microscope — carry, focus, put away |
+| 21390 | pictures/21390.webp | vertebrates — animals with backbones overview | Biology — Vertebrates — animals with backbones |
+| 21391 | pictures/21391.webp | viral sexually transmitted infections — including hiv overview | Biology — Viral sexually transmitted infections — including HIV |
+| 21393 | pictures/21393.webp | viruses — cycles, uses and hiv overview | Biology — Viruses — cycles, uses and HIV |
+| 21392 | pictures/21392.webp | viruses overview | Biology — Viruses |
+| 22231 | pictures/22231.webp | the water molecule beside a raft spider walking on a pond surface | Biology — Water — the molecule life is dissolved in |
+| 21394 | pictures/21394.webp | what biology gives technology overview | Biology — What biology gives technology |
+| 29200 | pictures/29200.webp | a living scene with the marks of life labelled around it | Biology — What biology is |
+| 22258 | pictures/22258.webp | a test tube of settled blood — plasma above, cells below — with the three cell kinds drawn from it | Biology — What blood is made of |
+| 21395 | pictures/21395.webp | what makes an animal — and the animal family tree overview | Biology — What makes an animal — and the animal family tree |
+| 21396 | pictures/21396.webp | what regulates population growth overview | Biology — What regulates population growth |
+| 21397 | pictures/21397.webp | what speeds and slows enzymes overview | Biology — What speeds and slows enzymes |
+| 29201 | pictures/29201.webp | a four-panel strip of biology at work | Biology — Why biology matters in everyday life |
+| 21398 | pictures/21398.webp | why food insecurity happens overview | Biology — Why food insecurity happens |
+| 21399 | pictures/21399.webp | why species go extinct overview | Biology — Why species go extinct |
+| 29258 | pictures/29258.webp | Beryllium + alpha → neutrons out. | Chemistry — Chadwick and the neutron |
+| 29253 | pictures/29253.webp | Dalton kept — with three modern corrections. | Chemistry — Dalton revised — the modern atomic theory |
+| 29252 | pictures/29252.webp | Atoms join in fixed whole-number ratios. | Chemistry — Dalton's atomic theory |
+| 29261 | pictures/29261.webp | c = λν — the whole spectrum, radio to gamma. | Chemistry — Electromagnetic radiation and the spectrum |
+| 29254 | pictures/29254.webp | The ray bends to the positive plate — it is negative. | Chemistry — How the electron was discovered |
+| 29255 | pictures/29255.gif | ray bending to + plate | Chemistry — How the electron was discovered |
+| 29260 | pictures/29260.webp | Three hydrogens — same Z, different neutrons. | Chemistry — Isotopes and average atomic mass |
+| 29259 | pictures/29259.webp | Three particles — charge, mass, place. | Chemistry — Proton, neutron, electron |
+| 29256 | pictures/29256.webp | Most pass through — a few meet the nucleus. | Chemistry — Radioactivity and Rutherford's nucleus |
+| 29257 | pictures/29257.gif | particles scattering off a nucleus | Chemistry — Radioactivity and Rutherford's nucleus |
+| 29250 | pictures/29250.webp | Keep dividing — until one piece cannot be divided. | Chemistry — Where the idea of the atom came from |
+| 29251 | pictures/29251.gif | lump → pieces → one particle | Chemistry — Where the idea of the atom came from |
+| 28400 | pictures/28400.webp | dignity foundation, rights house | Civics and Citizenship — Ethiopia — Dignity First — Where Human Rights Come From |
+| 28401 | pictures/28401.webp | children on one level line | Civics and Citizenship — Ethiopia — Equality — Equal Rights, Equal Dignity, Equal Freedom |
+| 28402 | pictures/28402.webp | four equalities, four panels | Civics and Citizenship — Ethiopia — Four Equalities — Gender, Language, Religion, Culture |
+| 28403 | pictures/28403.webp | rights and responsibilities at school | Civics and Citizenship — Ethiopia — Children's Rights at School |
+| 28404 | pictures/28404.webp | equal service in turn | Civics and Citizenship — Ethiopia — Why Equal Treatment Matters — Less Favouritism, More Trust |
+| 28405 | pictures/28405.webp | queue made fair | Civics and Citizenship — Ethiopia — When Treatment Is Unequal — Discrimination and Its Damage |
+| 28406 | pictures/28406.webp | keepers of peace and law | Civics and Citizenship — Ethiopia — Keeping Peace and Law — Police, Courts and Defence |
+| 28407 | pictures/28407.webp | every child holding rights | Civics and Citizenship — Ethiopia — Human Rights — What They Are |
+| 28408 | pictures/28408.webp | rights and responsibilities balanced | Civics and Citizenship — Ethiopia — Respecting Rights and the Responsibilities That Come With Them |
+| 28409 | pictures/28409.webp | same respect for every person | Civics and Citizenship — Ethiopia — Human Dignity — Everyone's Worth |
+| 28410 | pictures/28410.webp | girl in class, woman at meeting | Civics and Citizenship — Ethiopia — Women's Rights |
+| 28411 | pictures/28411.webp | inclusion in the middle of the game | Civics and Citizenship — Ethiopia — Rights of Persons With Disabilities |
+| 28412 | pictures/28412.webp | rule-book with three purposes | Civics and Citizenship — Ethiopia — Law-Abidingness — What Law Is For |
+| 28413 | pictures/28413.webp | junction running by the rules | Civics and Citizenship — Ethiopia — Why Obey the Law |
+| 28414 | pictures/28414.webp | citizen reporting; disorder | Civics and Citizenship — Ethiopia — The Law-Abiding Citizen and What Lawlessness Brings |
+| 28415 | pictures/28415.webp | child before the flag | Civics and Citizenship — Ethiopia — Patriotism — Loving Your Country |
+| 28416 | pictures/28416.webp | children garlanding a hero's statue | Civics and Citizenship — Ethiopia — How Patriotism Shows |
+| 28417 | pictures/28417.webp | road and school handed to children | Civics and Citizenship — Ethiopia — What Patriotism Gives — To Citizen and Country |
+| 28418 | pictures/28418.webp | parent telling the country's story | Civics and Citizenship — Ethiopia — The Patriotic Citizen |
+| 28419 | pictures/28419.webp | many hands, one flag rope | Civics and Citizenship — Ethiopia — Loving Your Country — Pride, Peace and Progress |
+| 29100 | pictures/29100.webp | character grows in widening circles | Civics and Citizenship — Ethiopia — About the course |
+| 29101 | pictures/29101.webp | the citizen's seven steps | Civics and Citizenship — Ethiopia — About the course |
+| 29102 | pictures/29102.webp | eight units, one citizen | Civics and Citizenship — Ethiopia — About the course |
+| 29103 | pictures/29103.webp | the older course — a value on every pillar | Civics and Citizenship — Ethiopia — About the course (older generation) |
+| 29104 | pictures/29104.webp | a young tree staked straight | Civics and Citizenship — Ethiopia — About the course |

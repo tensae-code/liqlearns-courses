@@ -22,3 +22,27 @@ Answer in a few words, or one sentence.
 
 **7. (Sub lesson 6)** Name four products from the technology model bank, and say what the computer is for.
 **Answer: any four of — computer, photocopier, iron, laundry, hair-dryer (ካስክ), combine harvester, tractor, fridge. The computer is for writing, reading, film and internet.**
+
+**8. (Sub lesson 8)** What are the spacing organiser's three boxes?
+**Answer:** What spacing is; its benefit; the conclusion.
+
+**9. (Sub lesson 9)** Name two social problems the p.80 essay offers.
+**Answer:** Any two of: child labour exploitation, illegal trade, migration, unemployment.
+
+**10. (Sub lesson 10)** What is the p.86 cause-and-effect essay's title?
+**Answer:** የሰው ሀገር መናፈቅ — longing for foreign lands.
+
+**11. (Sub lesson 11)** Name three professions of the web.
+**Answer:** Any three of: agriculture, engineering, trade, teaching, medicine, politics, the military, industry.
+
+**12. (Sub lesson 12)** What was the clinic patient's test result in the outline?
+**Answer:** Pneumonia (ሳንባ ምች) — found by blood, urine, stool and x-ray tests.
+
+**13. (Sub lesson 13)** Name the four sources of a narrative in the definition.
+**Answer:** The narrator's own experience; learned by practice; thought out; heard from another.
+
+**14. (Sub lesson 14)** What essay is planned in the frame and later written?
+**Answer:** የሕፃናት ጉልበት ብዝበዛ ዓይነቶች — Kinds of Child Labour Exploitation.
+
+**15. (Sub lesson 15)** What story does the አውቆ አበድ essay build on?
+**Answer:** The embezzlement story — the cash worker who feigned madness in court.

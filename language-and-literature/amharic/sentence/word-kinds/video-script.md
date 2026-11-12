@@ -64,3 +64,15 @@ It walks **before** its noun.
 **አዲስ መኪና** — a new car.
 **ጎጂ ልማድ** — a harmful habit.
 Find the noun. Look just before it. There stands the **ቅጽል**.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 14 — Grade 5 and 6: adverbs whole — native and derived, the four kinds, and adverbs at work in sentences and a story: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 15 — Grade 6: picking out the adjectives: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

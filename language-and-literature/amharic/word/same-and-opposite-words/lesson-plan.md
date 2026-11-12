@@ -124,3 +124,17 @@ as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 3 — The Grade 1 book's opposite matching: match ጠባብ and ደስታ to their opposites at the book's own page.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 4 — Grade 5: the Littering essay's antonyms, in this lesson's home: Antonyms from 'Littering Is Forbidden!' (ቆሻሻ መጣል ክልክል ነው!).
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 4 — Grade 5: the Littering essay's antonyms, in this lesson's home: Antonyms from 'Littering Is Forbidden!' (ቆሻሻ መጣል ክልክል ነው!).
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 5 — Grade 7: synonyms — the nature chapter's set.
+- Sub lesson 6 — Grade 7: antonyms — the Tis Abay chapter's set.
+- Sub lesson 7 — Grade 7: opposites in context + Grade 8: synonym sets.
+- Sub lesson 8 — Grade 8: the bat cloze bank, Maru matching and word halves.

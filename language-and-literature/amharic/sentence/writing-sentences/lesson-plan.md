@@ -77,3 +77,11 @@ lesson and its question list as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 4 — Grade 1–2: the books' own sentence sets: make one sentence each with ራሳችሁን, ምክር, አደጋ and ፍሬን, and repair the instruments review's jumbled sentences.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 5 — Grade 5 and 6: unscrambling with punctuation, and dictation with the school-week task: Unscramble jumbled word order — the Grade 5 set; Unscramble five jumbled sentences — the Grade 6 set; Dictation with correct punctuation — the Grade 6 book's setting.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 5 — Grade 5 and 6: unscrambling with punctuation, and dictation with the school-week task: Unscramble jumbled word order — the Grade 5 set; Unscramble five jumbled sentences — the Grade 6 set; Dictation with correct punctuation — the Grade 6 book's setting.

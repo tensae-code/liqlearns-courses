@@ -108,3 +108,13 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 **Growth note (2026-11-12, Amharic fix build):** Sub lesson 15 added — compound sentences at the Grade 4 student book's review bench (printed p. 34), building ድርብ sentences with እና, ነገርግን, ወይም, ስለዚህ, በሌላ በኩል. The audit found the compound-sentence writing taught in Sub lesson 4 cited only to Grade 4 p. 4, with p. 34 uncited and በሌላ በኩል absent from that sub lesson's set; Sub lesson 15 stocks the p. 34 bench in full. Earlier sub lessons are unchanged.
 
 - Sub lesson 15 — Grade 4 review bench: compound sentences with በሌላ በኩል: one ድርብ sentence per joiner, the joint named each time.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 16 — Grade 7: rewriting with a plural subject.
+- Sub lesson 17 — Grade 7: person and tense in one table; hunting hidden questions.
+- Sub lesson 18 — Grade 8: affirmative and negative — the exercise pages.
+- Sub lesson 19 — Grade 8: naming sentence functions — p.108.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 20 — Grade 7+8: turning statements into questions and commands.
+- Sub lesson 21 — Grade 8: correcting agreement errors; scrambled word order.

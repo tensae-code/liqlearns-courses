@@ -80,3 +80,19 @@ Sub lesson 23, Grade 2: clothes and seasons (pupil-book parts): present the part
 Sub lesson 24, Grade 2: stories, the garden and cleanliness (pupil-book parts): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
 Sub lesson 25, Grade 2: music, behaviour and food (pupil-book parts): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
 Sub lesson 26, Grade 2: machines and wild animals (pupil-book parts): present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 27 — Grade 5: roads, a lake, and the forest heard: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 28 — Grade 5: medicines and foods, heard: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 29 — Grade 5: animals, festivals and games, heard: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 30 — Grade 6: cloaks, athletes' food, drought and the farming year, heard: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 31 — Grade 6: tourism, addiction and hate speech, heard: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 32 — Grade 6: HIV, customs and women, heard: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

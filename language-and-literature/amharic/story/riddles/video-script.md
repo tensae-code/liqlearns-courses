@@ -23,3 +23,14 @@ Yes! I am the orange.
 
 One more. This one sits in your mouth and never sits still…
 Guess in the pause. The answer comes last — that is the game.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 4 — Grade 5: the riddle session whole — formula, evenings, and classification by source: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

@@ -188,6 +188,51 @@ products — and that is the explanatory writer's whole lesson:
 explain for the reader you actually have, naming the thing
 and what it is for, in order, until it is clear.
 
+
+## Sub lesson 7 — Grade 6: an essay from a starter, and a true addiction story in two paragraphs
+
+
+### An essay from a starter — 'The foundation of friendship is love'
+
+Write a two-paragraph essay (ድርሰት) from the opening idea the book gives: "የጓደኝነት መሠረት ፍቅር ነው" — "The foundation of friendship is love." Paragraph one grows the idea; paragraph two proves it from life. Essay writing stands in sub lessons 1 and 2 of this lesson from the Grade 7 book; this starter and its page are the Grade 6 book's own.
+
+### A true addiction story, in two paragraphs
+
+Write, in two paragraphs, a story you know, heard or read about people with addiction — a true story, told plainly — and read it in class. The narrative essay stands in sub lesson 2 from the Grade 7 book; this task and its page are the Grade 6 book's own. (The literal/figurative sentence practice that rides with it stands in the Word Meanings lesson.)
+
+
+## Sub lesson 8 — Grade 7: the 3-paragraph essays — spacing and family planning
+
+Two Grade 7 three-paragraph essays. The spacing essay (p.16) is built from an organiser — what spacing is / its benefit / conclusion — the organiser IS the essay's skeleton: one paragraph per box, in the box's order. The family-planning essay (p.22) is written from gathered information on the importance of family planning, in three paragraphs. Its page-mates: the punctuation-repair sentences stand in More Punctuation, and the debate that shares the chapter stands in Speaking and Performing.
+
+## Sub lesson 9 — Grade 7: advice to mothers; a social problem explained
+
+Two writing tasks in the books' own frames. 'ምክር ለእናቶች' — Advice to Mothers (p.27): as if a health professional, write a 3-paragraph advice essay, then fix any punctuation problems in it. Advice writing speaks plainly, orders its counsel, and never frightens without helping. The expository follow-on (p.80): an expository essay on one social problem — child labour exploitation, illegal trade, migration, unemployment — then exchange with friends to check punctuation, conjunction use and unity of idea. Three checks, three different readers' questions: can I follow it? does it join? does it stay on its problem?
+
+## Sub lesson 10 — Grade 7: editing a set passage; ordering a cause-and-effect essay
+
+Two mending tasks. The narrative essay's partner (pp.70–71): correct the errors of punctuation and usage in a set patriotism passage — editing a GIVEN text, not your own: the editor's loyalty is to the reader, not to the writer's feelings. The ordering task (p.86): rewrite a scrambled, unpunctuated paragraph — a schoolboy's morning routine — with correct punctuation and the events in their true sequence, beside the chapter's cause-and-effect essay 'የሰው ሀገር መናፈቅ' (longing for foreign lands). A scrambled text is repaired in two passes: order first, punctuation second.
+
+## Sub lesson 11 — Grade 7: patriotism in the professions; a table into prose
+
+Two Grade 7 writing tasks on love of country. The professions essay (pp.129–130): from an organiser web, write 'የሀገር ፍቅር ስሜት መገለጫዎች' — Expressions of the Feeling of Love of Country — across the professions: agriculture, engineering, trade, teaching, medicine, politics, the military, industry; then correct, edit and rewrite the essay. One feeling, eight workplaces — the web keeps each profession's expression of it distinct. The table task (pp.140–141, beside the wax-and-gold vocabulary): express a data table in declarative sentences — the Amhara-region voluntary HIV counselling and testing figures for 2002–2005 E.C. — then fix the writing-system problems in what you wrote. A table-into-prose sentence must carry its number faithfully: change a figure and the prose lies, however fine its grammar.
+
+## Sub lesson 12 — Grade 8: essays from outlines — clinic, donkey, seed, tortoise
+
+Grade 8 builds essays from outlines (ቢጋር) again and again. The clinic outline (pp.3–4): a 3-paragraph essay from an outline — a burn-and-fever patient taken to a clinic; blood, urine, stool and x-ray tests; the result pneumonia (ሳንባ ምች); medicine without cure; another test follows. The Hero Donkey (p.40): a 4-paragraph narrative from a detailed branching bigar — childhood at a farmer's / sold to a salt trader / back worn bare / released / rubbing the bell-pole / the king's care / the freeing proclamation. From Seed to Harvest (p.70): narrative from a farmer's-tasks outline — clearing, weeding, sowing, threshing (መውቃት), harvesting (ማጨድ), loading, heaping, storing in the gotera. The Tortoise and the Hare (pp.74–75): narrative from a FULL outline — the hare's mocking, the challenge, the first race lost widely, the flooded river, the hare's heart-burst run, the sleeping under the tree, and the tortoise passing quietly to win again amid applause. An outline essay is judged by the outline: every box expanded, no box skipped, nothing imported that the outline forbids.
+
+## Sub lesson 13 — Grade 8: the narrative essay — the book's own definition
+
+Grade 8 defines its own form before setting it. The book's narrative-essay note (ዳኛቸው ወርቁ, 1977, p.171): a narrative essay narrates an event or action — 'it happened thus, or was done thus'; the story may be the narrator's own experience, learned by practice, thought out, or heard from another. The topics set on that definition: our school's construction, the Abay dam, our area's road works, የርከን ሥራዎች — a 3-paragraph narrative essay on one of them. A definition kept in the lesson matters: when your essay is judged, it is judged by THIS — does it narrate an event, in its order, from one of the four sources named?
+
+## Sub lesson 14 — Grade 8: main idea and detail; the bigar essay plan
+
+Two linked skills. Main-and-detail writing (pp.30–31): a paragraph in main-and-detail style from a bigar of the institute's services, and expanding ONE summary sentence — the club's Bahir Dar visits — into a paragraph of detail sentences. A main idea without details is a claim; details without a main idea are a heap. The bigar plan (pp.96–97): lay out, in a main-and-detail bigar frame — title / introduction / four paragraphs each with a main idea and detail lines / conclusion — the ideas for an essay 'የሕፃናት ጉልበት ብዝበዛ ዓይነቶች' (Kinds of Child Labour Exploitation); then (p.103) write the planned essay in the same style. Plan, write, revise (with the ten criteria, in its own lesson) — the book's full circuit for one essay.
+
+## Sub lesson 15 — Grade 8: cause and effect — አውቆ አበድ; man-made climate change
+
+Two Grade 8 cause-and-effect essays. 'አውቆ አበድ' — Going Mad Knowingly (pp.8–9): a 3-paragraph cause-and-effect essay built on the embezzlement story — the causes that lead a worker to feign madness, and the effects that fall on him when the act is exposed. The climate essay (p.130): 'ሰው ሠራሽ የአየር ንብረት ለውጥ ምክንያቶችና ውጤቶች' — Causes and Effects of Man-Made Climate Change — from its bigar: causes — forest devastation, industries' and vehicles' gas emissions → atmospheric carbon dioxide increases and the gases' balance is disturbed → effects — ice melting, ocean level rising, water evaporation increasing → unexpected rain and flood, land inundation, temperature increase. A cause-and-effect essay is a chain, not a list: each link must pull the next.
+
 ## Say it to your companion
 
 Your companion names three writing jobs: explaining how a jebena

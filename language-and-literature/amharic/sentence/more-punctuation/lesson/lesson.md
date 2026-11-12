@@ -110,6 +110,14 @@ The Grade 4 book gathers four marks in one note box and explains each. The **sin
 
 You have met each of these marks grown in the sub lessons above; the Grade 4 bench is where they are first set side by side as one family. Build a sentence of your own with each mark, and let each mark do its own work: shorten with the dot, announce with the colon, cut with እዝባር, trail off with ሦስት ነጠብጣብ.
 
+## Sub lesson 9 — Grade 7: punctuation in dialogue and repair work
+
+Four Grade 7 punctuation tasks. Naming (p.16): identify the punctuation marks in a dialogue passage BY NAME and explain their use orally — a mark you cannot name is a mark you cannot choose. Repair (p.22): rewrite four sentences with correct punctuation — a Lenin quotation 'መማር መማር አሁንም መማር', an exclamation, a shop-hours line 2:30–4:45, a surgery sentence. The field trip (p.58): replace the numbers standing in a field-trip passage with the proper punctuation marks — the numbers are placeholders; the sense decides which mark each placeholder hides. Dialogue (p.90): copy out a set dialogue — አበራ and ቀለሙ, school friends meeting on the way to school about a hard maths homework — supplying ALL its punctuation: speech needs its marks before it can be read as speech.
+
+## Sub lesson 10 — Grade 8: punctuating a passage — the father, the son and the donkey
+
+Choose from the punctuation marks — quotation marks, !, ፤, ?, ፣ — and insert them into a passage: the fable of the father, son and donkey. A man sets out with his son and their donkey. People criticise them for walking while a donkey exists; both ride — people call them cruel to one donkey. The father walks and the son rides — people criticise the boy: 'the eighth wonder'. The son walks and the father rides — people beat their breasts at the cruelty. The father concludes: 'In this world, whatever you do, you cannot please everyone; if you fear what people will say, you can do nothing.' Punctuating it, you decide where the people's cries are exclamations, where the father's speech opens and closes, and where his conclusion's two halves are joined — the marks carry the fable's voices.
+
 ## Say it to your companion
 
 Read the seven feelings' cries from Picture 8728 aloud, one by one, and let your companion name each feeling before you say it. Then take a sentence your companion says and repeat it back inside quotation marks — their exact words, no changes. Finish by reading a sentence with a parenthesis in it: lower your voice for the aside inside the ቅንፍ, the way a sentence whispers.

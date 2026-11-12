@@ -93,3 +93,21 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md. A teacher sending this lesson sends the
 lesson and its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 7 — Grade 6: an essay from a starter, and a true addiction story in two paragraphs: An essay from a starter — 'The foundation of friendship is love'; A true addiction story, in two paragraphs.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 7 — Grade 6: an essay from a starter, and a true addiction story in two paragraphs: An essay from a starter — 'The foundation of friendship is love'; A true addiction story, in two paragraphs.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 8 — Grade 7: the 3-paragraph essays — spacing and family planning.
+- Sub lesson 9 — Grade 7: advice to mothers; a social problem explained.
+- Sub lesson 10 — Grade 7: editing a set passage; ordering a cause-and-effect essay.
+- Sub lesson 11 — Grade 7: patriotism in the professions; a table into prose.
+- Sub lesson 12 — Grade 8: essays from outlines — clinic, donkey, seed, tortoise.
+- Sub lesson 13 — Grade 8: the narrative essay — the book's own definition.
+- Sub lesson 14 — Grade 8: main idea and detail; the bigar essay plan.
+- Sub lesson 15 — Grade 8: cause and effect — አውቆ አበድ; man-made climate change.

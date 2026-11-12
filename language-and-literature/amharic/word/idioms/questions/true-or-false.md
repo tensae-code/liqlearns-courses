@@ -7,3 +7,9 @@ Say true or false.
 
 **2. (Sub lesson 3)** ጥራዝ ነጠቅ praises a person for deep, real knowledge.
 **Answer: False** — ጥራዝ ነጠቅ means superficial, lacking real knowledge.
+
+**3. (Sub lesson 4)** የወርቅ ድርድር — the laying-out of gold — is the returned cousin's displayed wealth that dazzles the narrator.
+**Answer: True**
+
+**4. (Sub lesson 5)** 'The land was stripped' in the Regret text means its soil and forest were taken away until it lay bare.
+**Answer: True**

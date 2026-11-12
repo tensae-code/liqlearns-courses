@@ -39,3 +39,14 @@ A computer — for writing, for reading, for film, for the internet.
 A hair-dryer — **ካስክ**. A tractor. A fridge.
 Name the thing. Say what it is for.
 That is explaining.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 7 — Grade 6: an essay from a starter, and a true addiction story in two paragraphs: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

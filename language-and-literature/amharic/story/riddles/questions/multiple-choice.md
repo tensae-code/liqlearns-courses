@@ -21,3 +21,20 @@ a) Two or three  b) Eight to ten  c) Fifty
 **5. (Sub lesson 3)** What is the house riddle's answer?
 a) ትምህርትቤት, a school  b) ቤት, a house  c) ገበያ, a market
 **Answer: b) ቤት** — rooms to sleep, eat and receive guests.
+
+**6. (Sub lesson 4)** "A small razor that shaves a country" — the answer, by reasoning, is what?
+a) Fire (እሳት)  b) A knife  c) The wind
+**Answer: a) Fire (እሳት)** — the book's worked investigative example.
+
+**7. (Sub lesson 4)** When are riddles played, in the book's teaching?
+a) In the evenings and on Sundays  b) Only at harvest  c) During lessons only
+**Answer: a) In the evenings and on Sundays** — the session's own custom.
+
+**8. (Sub lesson 4)** Why is riddle-asking called investigative (አመራማሪ)?
+a) The answer must be reasoned out from the clues  b) It needs a book  c) It is played in silence
+**Answer: a) The answer must be reasoned out from the clues** — reasoning, not recall.
+
+
+**9. (Sub lesson 5)** The answer to 'going round and round, its supper is a slap' is —
+a) a mill  b) a sieve (ወንፊት)  c) a drum
+**Answer: b) a sieve (ወንፊት)** — the sieve turns round and round and is slapped/shaken at its work — ወንፊት.

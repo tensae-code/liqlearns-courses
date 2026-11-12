@@ -53,3 +53,18 @@ Sub lesson 16, Grade 2: washed shirts, sly mice and rainy nights: present the pa
 Sub lesson 17, Grade 2: judges, patience and balanced food: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
 Sub lesson 18, Grade 2: dialogues — read them in two voices: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
 Sub lesson 19, Grade 2: competitions, telephones and kind animals: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 20 — Grade 5: greetings, the overloaded minibus, and the taxi stickers: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 21 — Grade 5: the honest officer, the wedding car, noise, and wasted water: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 22 — Grade 5: the animals' assembly, the buffalo, the Genna game, and Ete Mete: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 23 — Grade 5 and 6: the list, the clever lament, Demelash, and what left the mouth: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 24 — Grade 6: let us introduce our area — a school visit: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

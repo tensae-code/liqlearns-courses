@@ -25,3 +25,12 @@ Answer in a few words.
 
 **8. (Sub lesson 12)** In the staged way of learning person, which three places do the learners stand in?
 **Answer: the speaker's place (first person), the listener's place (second person), and the place of the one talked about (third person)** — the pronoun changes as you change places.
+
+**9. (Sub lesson 16)** What question sorts adjective from adverb?
+**Answer:** What does the word describe — a thing (noun) or an action (verb)?
+
+**10. (Sub lesson 17)** Name the three types of adverb in the Grade 7 table.
+**Answer:** Of time (የጊዜ), of place (የቦታ), of manner (የሁኔታ).
+
+**11. (Sub lesson 18)** What are the two modifier kinds named?
+**Answer:** የስም ገላጭ (noun-modifier) and የግስ ገላጭ (verb-modifier).

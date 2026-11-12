@@ -40,6 +40,14 @@ These two teach the same lesson from the other side: an idiom can carry a judgem
 
 So the reader's habit is three steps: meet the saying whole; ask what it means as a saying; only then look back at the words and see how the picture was built.
 
+## Sub lesson 4 — Grade 7: idioms of the Blighted Hope story
+
+Grade 7's migrant-worker story carries its own idiom set, matched to similar meanings: የወርቅ ድርድር (a laying-out of gold — displayed wealth), ከወዲያ ወዲህ (back and forth), ክው አደረገኝ (it stunned me), ብቅ አለብኝ (it appeared in my mind), ስለታም ምላስ (a sharp tongue), ትዕቢተኛ አስተያየት (an arrogant comment). A sharp tongue wounds without a blade; a laying-out of gold dazzles before it deceives — the story's heroine learns both. Explain each phrase from the scene that carries it.
+
+## Sub lesson 5 — Grade 8: explaining a text's own sayings — forests and counsel
+
+Two Grade 8 chapters ask for a text's set phrases to be explained, not just matched: forests were devastated; the land was stripped; it was struck by drought — each phrase carrying the Regret narrator's whole hillside in it; and Rough Hands' 'the lamps did not shine by themselves'. The full sets stand in What a Word Means; here the idiom rule is practised: a set phrase is explained by the scene that coined it, and the explanation must work if the phrase is lifted into a new sentence.
+
 ## Say it to your companion
 
 Tell your companion what ፈሊጣዊ አነጋገር means: words combined, a meaning different from each word alone. Then take ሆድና ጀርባ: say its word-by-word meaning first (belly and back), then its real meaning (people who do not get along) — and let your companion do the same for እጅ አጠረው. Finish by describing two people to your companion, one with ጥራዝ ነጠቅ and one with ጥቁር እንግዳ, without naming which saying you used; your companion guesses the saying from the description.

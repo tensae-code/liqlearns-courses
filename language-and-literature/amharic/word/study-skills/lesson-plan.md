@@ -120,3 +120,18 @@ lesson and its question list as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 12 — Grade 1–2: classifying webs and tables: sort plants into root-eaten and fruit-eaten, and waste into turns-to-soil and does-not.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 13 — Grade 5 and 6: the three-part reading frame, the guess-the-word game, and the attraction word-web: The three-part reading frame — the Grade 5 book's own shape; Vocabulary game — guess the word; The attraction word-web, and finishing the historical paragraph.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 13 — Grade 5 and 6: the three-part reading frame, the guess-the-word game, and the attraction word-web: The three-part reading frame — the Grade 5 book's own shape; Vocabulary game — guess the word; The attraction word-web, and finishing the historical paragraph.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 14 — Grade 7: the cloze paragraph — siting a school.
+- Sub lesson 15 — Grade 8: completing passages from word banks.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 16 — Grade 7: names of waters — the cloze of waters.

@@ -173,3 +173,26 @@ are — choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 13 — Grade 2: perform it, and the spoken-poem kinds: sing Hoya Hoye in tune, write two festival-day sentences, and tell qererto from fukera by their pictures.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 14 — Grade 5: the iron pot, wake from your sleep, patriotism, and the driver: The Iron Pot and the Clay Pot (ብረትድስትና ሸክላድስት); The Iron Pot's words, and completing verse lines; Wake From Your Sleep! (ከእንቅልፋችሁ ንቁ!); Patriotism (አርበኝነት); The Driver (ሾፌሩ).
+- Sub lesson 15 — Grade 6: a praise poem, the oral poems of our area, and thoughts in poems: Beautiful Girl of My Country (ውቧ ያገሬ ልጅ) — praise poems; Our Locality (አካባቢያችን) — oral poems of our area; Thoughts in Poems (ሐሳብን በግጥሞች) — same thought, different words.
+- Sub lesson 16 — Grade 6: curse laziness, what 'country' means, a vision, a courtroom poem, and no ululation of joy: Curse Laziness (ስንፍናን ርገሙት) — against laziness; What 'Country' Means (ሀገር ማለት) — what is a homeland?; I Have a Vision (ራዕይ አለኝ) — a vision against addiction; Plaintiff and Defendant (ከሳሽና ተከሳሽ) — a courtroom poem; No Ululation of Joy (ድንቄም እልልታ) — against harmful customs; Write your own poem on HIV/AIDS.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 14 — Grade 5: the iron pot, wake from your sleep, patriotism, and the driver: The Iron Pot and the Clay Pot (ብረትድስትና ሸክላድስት); The Iron Pot's words, and completing verse lines; Wake From Your Sleep! (ከእንቅልፋችሁ ንቁ!); Patriotism (አርበኝነት); The Driver (ሾፌሩ).
+- Sub lesson 15 — Grade 6: a praise poem, the oral poems of our area, and thoughts in poems: Beautiful Girl of My Country (ውቧ ያገሬ ልጅ) — praise poems; Our Locality (አካባቢያችን) — oral poems of our area; Thoughts in Poems (ሐሳብን በግጥሞች) — same thought, different words.
+- Sub lesson 16 — Grade 6: curse laziness, what 'country' means, a vision, a courtroom poem, and no ululation of joy: Curse Laziness (ስንፍናን ርገሙት) — against laziness; What 'Country' Means (ሀገር ማለት) — what is a homeland?; I Have a Vision (ራዕይ አለኝ) — a vision against addiction; Plaintiff and Defendant (ከሳሽና ተከሳሽ) — a courtroom poem; No Ululation of Joy (ድንቄም እልልታ) — against harmful customs; Write your own poem on HIV/AIDS.- IMAGE [Picture 27603] — an iron pot (ብረት ድስት) and a clay pot (ሸክላ ድስት) side by side → the student says which pot is which before sub lesson 14.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 17 — Grade 7: ዓባይ ሐረግ ሆነ — Abay Became a Vine (the poem itself).
+- Sub lesson 18 — Grade 7: compose your own poem — the p.65 task.
+- Sub lesson 19 — Grade 7: ዓባይ — a song for the Abay.
+- Sub lesson 20 — Grade 7: old and poetic words of the Abay song.
+- Sub lesson 21 — Grade 7: የዘመነ ዘመን — The Bygone Era.
+- Sub lesson 22 — Grade 7: words of the old neighbourhood — the poem's cloze.
+- Sub lesson 23 — Grade 8: poem words and collecting oral poems.
+- Sub lesson 24 — Grade 8: ጥሪ — The Call.
+- Sub lesson 25 — Grade 8: አሁን መልካም ሥሩ! — Do Good Now!.

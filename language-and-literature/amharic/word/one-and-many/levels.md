@@ -18,3 +18,15 @@ Pass mark: state the system — a singular noun carries no marker; the plural is
 
 ## Sub lesson 5 — Grade 2: the instruments review plurals
 Sub lesson 5 questions from the type files. Pass mark: make the plurals of the music chapter's instrument words at the review's own page.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 6 — Grade 5: singular and plural nouns, with the እነ- collective plural
+Sub lesson 6 questions from the type files. Pass mark: pick singular from plural in sentences, and build the እነ- collective plural — እነሙኒት, እነዳዊት — correctly.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 7 — Grade 8: singular and plural — the Iddir chapter's sets
+Sub lesson 7 questions from the type files. Pass mark: turn three singulars into plurals and strip three plurals back, including one pronoun or verb.
+

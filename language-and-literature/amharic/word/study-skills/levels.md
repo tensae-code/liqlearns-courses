@@ -43,3 +43,24 @@ Sub lesson 11 questions from the type files. Pass mark: close a finished piece o
 
 ## Sub lesson 12 — Grade 1–2: classifying webs and tables
 Sub lesson 12 questions from the type files. Pass mark: sort plants into root-eaten and fruit-eaten, and waste into turns-to-soil and does-not.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 13 — Grade 5 and 6: the three-part reading frame, the guess-the-word game, and the attraction word-web
+Sub lesson 13 questions from the type files. Pass mark: run the three-part frame on a new text, play guess-the-word by synonym/antonym/picture/action, and sort attractions on the natural/cultural/historical web.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 14 — Grade 7: the cloze paragraph — siting a school
+Sub lesson 14 questions from the type files. Pass mark: complete a gapped paragraph from its bank and re-read it whole for flow.
+
+
+## Sub lesson 15 — Grade 8: completing passages from word banks
+Sub lesson 15 questions from the type files. Pass mark: complete one bank passage and say which two checks decided your hardest gap.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 16 — Grade 7: names of waters — the cloze of waters
+Sub lesson 16 questions from the type files. Pass mark: complete water cloze sentences and order the waters by size.
+

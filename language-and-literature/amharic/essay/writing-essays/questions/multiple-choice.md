@@ -37,3 +37,48 @@ a) only after the writing is finished  b) as a study note, before the writing  c
 **9. (Sub lesson 6)** In the technology model bank, the hair-dryer is named —
 a) ካስክ  b) ኮምፒውተር  c) ትራክተር
 **Answer: a) ካስክ** — the bank names each product and what it is for.
+
+**10. (Sub lesson 7)** What starter does the essay grow from?
+a) "የጓደኝነት መሠረት ፍቅር ነው" — the foundation of friendship is love  b) "Tourism is a smokeless industry"  c) "Life is a pair of legs"
+**Answer: a) "የጓደኝነት መሠረት ፍቅር ነው" — the foundation of friendship is love** — the book's own opening idea.
+
+**11. (Sub lesson 7)** How many paragraphs does the starter essay have?
+a) Two  b) One  c) Five
+**Answer: a) Two** — grow the idea, then prove it.
+
+**12. (Sub lesson 7)** The true addiction story must be what kind of story?
+a) A true one — known, heard or read — in two paragraphs  b) An invented fable  c) A poem
+**Answer: a) A true one — known, heard or read — in two paragraphs** — the book's own writing task.
+
+
+**13. (Sub lesson 8)** A three-paragraph essay from an organiser takes —
+a) any order the writer likes  b) one paragraph per box, in the box's order  c) two paragraphs per box
+**Answer: b) one paragraph per box, in the box's order** — what spacing is / its benefit / conclusion — the boxes become the paragraphs.
+
+**14. (Sub lesson 9)** The peer check after the social-problem essay tests —
+a) handwriting only  b) punctuation, conjunction use and unity of idea  c) length
+**Answer: b) punctuation, conjunction use and unity of idea** — the book's three checks, applied by friends' eyes.
+
+**15. (Sub lesson 10)** A scrambled text is repaired —
+a) punctuation first, order later  b) order first, then punctuation  c) by copying it neatly
+**Answer: b) order first, then punctuation** — first the events in true sequence; then the marks that serve them.
+
+**16. (Sub lesson 11)** In table-into-prose writing, the numbers must —
+a) be rounded away  b) be carried faithfully — a changed figure makes the prose lie  c) be removed
+**Answer: b) be carried faithfully — a changed figure makes the prose lie** — faithfulness to the figures is the form's first law.
+
+**17. (Sub lesson 12)** An outline essay is judged by —
+a) its length  b) its outline — every box expanded, none skipped  c) its handwriting
+**Answer: b) its outline — every box expanded, none skipped** — the outline is the contract; the essay is its fulfilment.
+
+**18. (Sub lesson 13)** A narrative essay, in the book's definition, narrates —
+a) an opinion  b) an event or action — 'it happened thus'  c) a definition
+**Answer: b) an event or action — 'it happened thus'** — event and action, in their order — that is the form.
+
+**19. (Sub lesson 14)** Details without a main idea are —
+a) a strong paragraph  b) a heap  c) a conclusion
+**Answer: b) a heap** — main idea orders; details fill — both are needed, in that relation.
+
+**20. (Sub lesson 15)** In the climate bigar, increased carbon dioxide leads to —
+a) colder oceans  b) the gases' balance disturbed, then ice melting and seas rising  c) more forests
+**Answer: b) the gases' balance disturbed, then ice melting and seas rising** — the chain runs causes → disturbed balance → melting, rising, flooding.

@@ -31,3 +31,12 @@ Say whether each sentence is true or false.
 
 **10. (Sub lesson 11)** Revision questions are asked only once, at the end of the school year.
 **Answer: False** — they close every chapter (የክለሳ ጥያቄዎች), before moving on to the next one.
+
+**11. (Sub lesson 14)** You read the whole paragraph before filling any gap.
+**Answer: True**
+
+**12. (Sub lesson 15)** አደብ ገዛ in the ጥሪ bank is the poem's call — 'take heed / discipline yourself'.
+**Answer: True**
+
+**13. (Sub lesson 16)** A ጉድጓድ (well) is dug; a ምንጭ (spring) rises by itself.
+**Answer: True**

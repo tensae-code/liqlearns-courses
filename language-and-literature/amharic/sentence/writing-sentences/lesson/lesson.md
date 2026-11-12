@@ -89,6 +89,23 @@ every word in its place, and the sentence says one whole thing.
   own page, with its plurals in One and Many and its agent
   nouns in Building Words.
 
+
+## Sub lesson 5 — Grade 5 and 6: unscrambling with punctuation, and dictation with the school-week task
+
+
+### Unscramble jumbled word order — the Grade 5 set
+
+Unscramble jumbled word order into correct sentences, as the Grade 5 book sets it beside its antonym matching. Word-order repair stands in sub lesson 3 of this lesson from other books; this set is the Grade 5 book's own, at its own page.
+
+### Unscramble five jumbled sentences — the Grade 6 set
+
+Unscramble five jumbled sentences into their correct order. The punctuation half of this same placement — the herders' dialogue (Demle and Berihun) — is stocked in the More Punctuation lesson; the unscrambling is stocked here, where unscrambling lives.
+
+### Dictation with correct punctuation — the Grade 6 book's setting
+
+Dictation: write the teacher's read-aloud sentences with correct punctuation while listening. Dictation stands in sub lesson 2 of this lesson from earlier books; this setting of it — sentences heard and written whole, marks and all — is the Grade 6 book's own, at its own pages. (The news item that rides with it stands in the Summary and News lesson.)
+
+
 ## Say it to your companion
 
 Read your companion the sentence you built in Sub lesson 1. Your

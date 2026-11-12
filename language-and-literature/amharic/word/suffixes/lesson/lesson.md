@@ -142,6 +142,23 @@ The work that goes with it is the builder's work: form words
 with affixes — take a word, add a prefix, add a suffix, and
 read what you have built.
 
+
+## Sub lesson 7 — Grade 5 and 6: the አድናቂ chain, stems and ending suffixes, and ዘመናቸው split
+
+
+### Root + suffix chains — the አድናቂ chain, and a paragraph on clean surroundings
+
+A root word plus suffix chains (ቅጥያዎች: -ዎች, -ኡ, -ን, -ነት) builds new words in a table: አድናቂ → አድናቂዎቹን; with ተቆርቋሪ, ዘፈን, ቀጣይ, ኃላፊ worked the same way. Suffix chains stand in sub lessons 1 and 4 of this lesson — the -ኣማ chains there are a different placement of the same book — the አድናቂ chain itself is stocked here. The writing that rides with it: a short paragraph on keeping one's own surroundings clean.
+
+### Stem + ending suffix — እንቅልፋችሁ
+
+Separate a word into ዋና ቃል (root/stem word) and መድረሻ ቅጥያ (ending suffix): እንቅልፍ + -ኣችሁ → እንቅልፋችሁ ("your sleep"); then work አጭሩ, ሕጻናት, ቀናት, ሰነፎች the same way. The person/possessive paradigm stands in sub lesson 3 from guide evidence; this part stocks the Grade 5 student book's own grammar lesson at its own page.
+
+### Word and suffix — ዘመናቸው split
+
+Split words into root and suffix as the Grade 6 book sets it: ዘመናቸው = ዘመን + -ኣቸው; then አካባቢያችን, ልጃቸው, ሰዎች, አገራት. Stem-and-suffix splitting stands in sub lessons 1 and 4 from other books and pages; this part stocks the Grade 6 book's own set at its own page.
+
+
 ## Say it to your companion
 
 Tell your companion: a ቅጥያ is a little piece on a word — before the stem or after it. Peel ውን off ክፍያውን for them. Then say the four house words — ቤቴ, ቤትህ, ቤትሽ, ቤታችን — and let your companion guess whose house each one is. Then build: give your companion the stem ኢትዮጵያ and let them add -አዊ; give them ሆድ and let them add -ኣም. Last, grow a family together: say the root ቆረጠ aloud, then its family — ተቆረጠ, አሰቆረጠ, አቆራረጠ, ተቆራረጠ — one form each, in turn. Then sort the pieces: say ኢ-, -አዊ, መ-, -ነት, -ኦሽ one by one, and let your companion call "prefix — before!" or "suffix — after!" for each one.

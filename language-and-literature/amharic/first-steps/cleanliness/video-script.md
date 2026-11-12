@@ -33,3 +33,14 @@ Cup of water — rinse, and spit.
 Across. Up and down. Tongue. Rinse.
 Every day. Morning and night.
 Clean teeth smile.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 4 — Grade 5: The Smile — Fatuma, Momina, and the dentist: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

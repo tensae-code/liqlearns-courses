@@ -575,6 +575,135 @@ one voice each.
   the ant bites the boy's foot hard — startled, he drops the
   rope, and the bird escapes.
 
+
+## Sub lesson 20 — Grade 5: greetings, the overloaded minibus, and the taxi stickers
+
+
+### Fatuma and Her Friends — greetings (ሠላምታ)
+
+A dialogue reading: Fatuma meets school friends — Selemon, Nurhussein, and Samrawit with her white cane — to discuss greetings (ሠላምታ). Greetings ask after health, family and neighbourhood; there are time-of-day greetings (morning and evening forms); the Muslim greeting አሰላም አልይኩም and its reply; greetings by touch or by sign; and why, in COVID-19 times, a distanced hand-raise replaces hand-kissing and handshake greetings. Read it in voices, one friend each.
+
+### The Insatiable One… — the overloaded minibus
+
+A minibus from Bahir Dar to Dangila is crammed beyond capacity. Passenger Setotaw protests and refuses to move, despite the driver and conductor (ረዳት) threatening to throw him out. At Dangila he does not get off — he produces a card and orders the driver to the police station: he is an inspector. Learn its vocabulary point: words used with one meaning in the text and another outside it (ጨሰ, ዱቄት, ወንበር).
+
+### The Taxi Stickers (ጥቅሶቹ) — the stickers in the taxi
+
+Mulugeta, walking on the left side of the road to the taxi rank, rides a taxi plastered with humorous stickers (ጥቅሶች) — "if people squeeze, one seat serves nine", "fear excess appetite, not excess loading", "marriage and a taxi are never full" — and laughs aloud. Beside him Azalu weeps: her husband died in a crash of an overloaded vehicle. Mulugeta's reflection ends the story: drivers are not the only ones at fault — passengers ride overloaded without defending their rights, and plead for offending drivers to be forgiven. Write a paragraph about the saddest thing in the story.
+
+## Sub lesson 21 — Grade 5: the honest officer, the wedding car, noise, and wasted water
+
+
+### For Conscience or for the Belly? (ለኅሊና ወይስ ለሆድ) — the honest traffic officer
+
+Two traffic officers hired together. Mesele has built a storey house and bought a car on bribes. Wubit rents and lives on her salary, unmoved by mockery. Wubit stops a truck that ran a light; its nervous driver tries to slip a paper-wrapped bundle into her pocket; she scatters it on the ground — the truck carries goods harmful to national security and the economy, and the driver is punished. Wubit is named the Amhara Region's best traffic professional of the year and promoted. Mesele, caught hiding illegally transported medicine in his house for an agreed 100,000 birr, is arrested and imprisoned. Compare the two officers in an organiser — similarities and differences. Hold its proverb: ሲሾም ያልበላ ሲሻር ይቆጨዋል.
+
+### The Veil and the Bolo Licence (ቬሎና ቦሎ) — the wedding car and the traffic officer
+
+A decorated wedding car is stopped: its bolo (roadworthiness licence) is unrenewed. The wedding party (ሚዜዎች) pleads with the saying ሠርግና ሞት አንድ ነው — "a wedding and a death are one". The officer answers that an unfit car could turn the wedding day into mourning; he weighs the matter and releases them with a warning. The party bursts into a teasing wedding song about "our groom with the veil, stopped by the man of the bolo". Afterwards, put the story's sentences back in event order.
+
+### The Homework (የቤት ሥራ) — noise pollution
+
+Arega, who shares one room with his family, is set an essay on noise pollution (የድምጽ ብክለት). Classmates' chatter defeats him at school; at home the television blares, his mother reopens it, and he storms out; under a tree the garage's welding noise drives him on; in the dense forest he finally reads with appetite — until youths arrive dancing to loud music even there; and the evening coffee gathering at home has its television on for no listener. Write a paragraph from the starter: "The environment is polluted not only by rubbish but also by sound."
+
+### The Water-Waster (የዉኃ ጡር) — saving water
+
+In a neighbourhood where water comes by queue once a fortnight, Aregash wastes water washing and playing. Mother and science teacher warn that every drop has value (እያንዳንዷ ጠብታ ዉኃ ዋጋ አላት) and the city's water shortage grows. In a dream she drinks the household's whole store and is still unquenchably thirsty — she wakes laughing with relief, goes for water, and finds none. Learn the idiom: የውኃ ጡር — one who cannot have enough water. Build an organiser of the harms of wasting water, then a paragraph on its given topic sentence.
+
+## Sub lesson 22 — Grade 5: the animals' assembly, the buffalo, the Genna game, and Ete Mete
+
+
+### The Assembly of Ethiopia's Wild Animals (የኢትዮጵያ የዱር እንስሳት ጉባኤ) — the animals' assembly
+
+A fable in meeting form: Ethiopia's wild animals convene in a forest; the lion chairs, the monkey (ጦጢት) keeps minutes. Agenda: our survival is threatened — organise and defend it. The giraffe (ቀጭኔ) complains the trees are cut so she finds no leaves, and people invade the protected area — she would emigrate to Kenya if she cannot go further. The rhinoceros (አውራሪስ) has one horn only, his sole defence, yet poachers ambush and shoot him and smuggle the horn abroad. After heated debate — emigrate, or organise and defend our rights — the vote chooses unity and rights; a follow-up assembly will settle how. Keep the meeting record as the book sets it: chair, secretary, speakers, proposals, decision.
+
+### Love That Species Did Not Limit (ዝርያ ያልገደበው ፍቅር) — the buffalo that kept coming home
+
+Gashaw finds a buffalo calf sunk to its waist in a swamp, digs it out with his spade, washes it clean, and with his father's permission raises it on grass, straw, injera and bran, licking salt (አሞሌ) and honey. The calf grows glossy, follows him, defends him from dogs, obeys his voice. Grown, it frightens neighbours, and under kebele pressure he releases it in a far forest — four times it finds its way back home; it now lives with him as his bull (ኮርማ በሬ). Put the growth-stage words in order, with reasons: ጥጃ (calf) → ወይፈን (young bull) → እምቦሳ → በሬ (bull).
+
+### Memories of the Genna Game (የገና ጨዋታ ትውስታ) — the Genna game, then and now
+
+A father–son dialogue: Ato Chane, who bears a Genna scar on his forehead, tells Temesgen how the game was played in his day — sticks cut curved (ቆልማማ ዱላ) from wanza; the ball (ሩሯ/ጥንጓ) of wood, hide or plastic; two team "fathers" chosen by agreement, players paired into two sides; a point when a team strikes the ball past the opponents' end line. There was NO referee and no clear rules; elders never separated fighters, and injuries were nobody's responsibility. In Genna there is no master and servant (በገና ጨዋታ የለም ሎሌ ጌታ) — all are equal. Today, the son notes, the game "has been given law": referees warn and send off with a red card (ቀይ ካርድ).
+
+### Ete Mete (እቴ ሜቴ) — children's games and their rules
+
+Children's games are named first — ትግል (wrestling), ድብብቆሽ, ልቅሞሽ, ቅልልቦሽ, እቴሜቴ, ጨረቃ ድንቡል ዕቃ, መሀረቤን ያያችሁ, እንቡሼ ገላ, ሰኞ ማስከኞ — most carried by song (ዜማ). Every game has its rules and order: turns, how winner and loser are known, how it starts and ends, and rule-breakers are out. Ete Mete itself is choreographed step by step for two facing players: clap your own hands, clap your partner's, touch elbow and your own chest in turn, faster and faster to its song, whose tempo rises from the seventh line. Then play it — the class plays the singing games in groups, by their rules.
+
+## Sub lesson 23 — Grade 5 and 6: the list, the clever lament, Demelash, and what left the mouth
+
+
+### The List (ዝርዝሩ)
+
+A folk tale: the servant nicknamed እንዳሉት — "As-He-Is-Told" — does nothing he has not been ordered. He walks past his master's dropped money-bag ("you never told me"); ordered to collect "whatever falls", he fills a sack with everything that drops, dung included. The master then dictates THE LIST: my purse, my coat, my hat, my whip, my money, or any of my horse's gear. On the next journey the horse stumbles and the MASTER falls; crying "lift me!", he is refused — the servant checks his written list: the master is not on it.
+
+### The Clever Lament (ታምረኛው ሙሾ)
+
+A folk tale: a brother stores his amole salt bars (አሞሌ) in his married sister's granary; she steals them and swears salt left long "turns to stone". To test her, he secretly swaps her sleeping baby for a monkey wrapped in cloth; she wails that her child "has turned into a monkey". At the staged funeral the siblings trade coded lament verses (ሙሾ ግጥም) that only they understand — hers: "my child has become a monkey"; his: "my amole has become stone"; hers concedes: "the amole is in the new granary"; his answers: "and your child is at her aunt's". Each recovers what was theirs. The ሙሾ kind itself is named in the Poems lesson from the Grade 6 book; this part stocks the tale.
+
+### Demelash (ደመላሽ) — verses that sting
+
+A story in prose: while an enemy has invaded and is massacring people, men gathered in a tej house feed verses to an azmari to vent their anger. One verse needles a man named Demelash — being called "Demelash", the name of the mule that carries others' loads, is no light thing in wartime. The azmari repeats it in song; Demelash flushes, sweat runs down his forehead, he sets down his berlé glass, glares at the drinkers and storms out.
+
+### What Left the Mouth (ከአፍ የወጣ አፋፍ) — quarrels, verses and forgiveness
+
+Woyzero Anchinalu's husband did wrong, repented and begged forgiveness at her feet before witnesses and elders — but she refused to forgive, nagging day and night, until he left the house, for the other woman (ጣውንት, the rival). Jealousy then burns Anchinalu; whenever the two women meet they duel with insulting verses (ጣውንታዊ መዘላለፍ — verse-duelling), trading couplets about faces, mirrors and noses. The neighbours, tired of the useless quarrelling, keep urging them to settle the matter through the traditional elders — and lately Anchinalu is often seen going to the very elders whose plea she once refused.
+
+## Sub lesson 24 — Grade 6: let us introduce our area — a school visit
+
+
+### Let Us Introduce Our Area (አካባቢያችንን እናስተዋውቃችሁ) — a school visit
+
+A first-person visit account. It is Sene, a Saturday; the Grade 6 learners of the school's Know-Your-Country club (ሀገርህን እወቅ ክበብ), who planned all year, gather at dawn with their provisions, their teacher carrying a photo camera. The teacher's charge: observe everything carefully, note it down, ask about what you don't understand — a visit is both learning and pleasure. A rough 7 km walk north to a dense forest; rivers wrestling with trees and rocks; monkeys and apes leaping branch to branch; then a huge cave that looks carved by a master architect, with a waterfall from its top breaking into a rainbow on the rocks. Rest, discussion with the teacher about what they didn't grasp, photos in turns, the shared picnic, the walk home — and the narrator retelling everything to his parents.
+
+
+## Sub lesson 25 — Grade 7: አራርቆ መውለድ — Spacing Births
+
+A girl who dreamed of health work loses her father; her mother falls seriously ill, and the whole household burden falls on her, with two brothers and a sister born in quick succession. Her results fall, but she perseveres to Grade 10 and becomes a health extension worker. At a Sunday community meeting she teaches spacing: spaced children are healthy and strong because each gets proper feeding and care with no rival; raise one child well for some years, then add another; closely-followed births exhaust mothers in body and mind. One attendee misunderstands — he has 'spaced' his children by birthplace: two at his father's, three at his in-laws', four here. The crowd laughs; she corrects him: spacing is an age gap of 3–4 years, not different birthplaces. A mother adds: unless family size matches income, the family falls into poverty; spaced mothers stay healthy.
+
+## Sub lesson 26 — Grade 7: ልጅ በልጅነት — A Child in Childhood
+
+Travelling from Chacha to Debre Berhan, the narrator notices at the morning bus stop a young woman with a baby on her back and a child under three in her hand, herself pregnant. She shyly says she is 21 and will soon have three children — 'ይኸውልህ ልጅ በልጅነት': see, a child bearing in childhood. Uneducated, come from the countryside by chance, she is taking her child for treatment. The narrator takes her afterwards to his friend, a family-planning expert, who explains that the government works with stakeholders to bring family-planning services to countryside and city, and names the methods — pills, implant, injection, diaphragm, condom and others — to be chosen according to circumstances, with continuing education at a health station. The narrator leaves resolved to help mothers who bear children unwillingly, in childhood or otherwise. Post-reading, the book asks you to draw the heroine.
+
+## Sub lesson 27 — Grade 7: የጉለሌው ሰካራም — The Drunkard of Gulele
+
+Tebejje, the chicken trader of Gulele in Addis Ababa, is so famed a drunkard that every drunkard's tale told over coffee attaches to him. East of the old timber customs, across the bridge, the first small grass-roofed house is his — he built it himself, and pride swells him: passers-by will ask 'whose house?' — 'Tebejje's' — 'which Tebejje?' — 'that drunkard of Gulele'. 'Woe, I, Tebejje, am ruined!' For this house's honour he must quit drink: all the drink in the house must pour out — drink and fire cannot dwell together in his house. But in the dark he gathers the bottles he threw outside, raises one, smells it — whisky! — and laughs quietly so no one hears. Three good gulps take the bottle to his mouth; he holds it to the moonlight: 'I have poured down about half of it.' Until the drink is gone he sits under the tree, tobacco never leaving his mouth except when he laughs. The book's conflict question is the story's key: whom does the main character clash with? Himself.
+
+## Sub lesson 28 — Grade 7: በዓል አክባሪው ባል — The Husband Who Honoured the Holiday
+
+From his 5,000 birr salary the man takes a taxi to buy a sheep and a chicken for the holiday. At the market entrance a grocery stirs his drink-desire — 'one-two' — then the card game he loves pulls him in; the stakes climb from five birr to ten, fifty, a hundred, and the sheep-and-chicken money ends on the four-cornered table. Fifty birr remains. He buys a sharp knife, wraps himself up and enters his house saying nothing; he sulks at his family while shame gnaws him. His wife, so the house shall not lose what it is used to, borrows from neighbours, buys all she planned, and the children's faces shine. Watching her, his fault magnifies; that evening over coffee he falls at her feet, confesses in the bedroom that he lost the money gambling, and vows: 'Since drink and gambling made me grieve my wife and children, from today I quit.' She forgives him.
+
+## Sub lesson 29 — Grade 7: አራሽና ተኳሽ — The Ploughman and the Shooter
+
+At dawn the old farmer Aya Yirsaw sets out: ploughshare and yoke on his left shoulder, his rifle (ምኒሽር) on his right, oxen driven before him. He has yoked the oxen and begun when news comes — the enemy has invaded. At once he unyokes and pushes towards the fighting. He spends the day performing great heroism and at sunset falls into the enemy's hands. His captors interrogate him shamefully: 'Why did you turn your ምኒሽር towards us?' Eyes unlowered, he answers with pride and defiance: 'Why did you brandish your guns to violate my country? … If my country did to you what you did on my country, would you hold back from taking the step I took?' They shoot him through the heart. They think they have removed an ordinary man; his country grieves — and greatly prides — and writes his name in gold: history will remember that ploughman-and-shooter forever.
+
+## Sub lesson 30 — Grade 8: ወይ አለማወቅ! — the mother and the fire
+
+A mother whose face was disfigured by fire; her only son is ashamed of her scarred face, will not be seen with her, tells friends his mother is dead, and — grown, graduated and honoured — introduces her to uninvited friends as 'my servant'. One day she shows him a photograph: a beautiful young woman, her own name on its back, from 30 years before. When he was a ten-month baby asleep on the bed and she was outside drying wheat, the house caught fire. The neighbours fought the fire, but no one thought of the baby. She ran in through the fire, wrapped him in a blanket and carried him out unburnt — her own clothes caught fire, and part of her body was damaged: 'your fire — I was burnt it for you.' The son falls at her feet weeping and begs forgiveness; she forgives and raises him; from then he makes teaching youths to honour parents his daily work.
+
+## Sub lesson 31 — Grade 8: ፍትህ ከሰው አልፎ… — the king, the donkey and justice
+
+A king let anyone wronged come straight to the palace, ring a bell and be heard; because his judgements were straight, the bell-ringers decreased and vanished. One day the bell sounds — the gatekeeper finds no person, only a donkey rubbing against the bell's pole. The king orders it brought in: 'he too may have been wronged.' The donkey is a salt trader's pack animal, its back badly wounded by loads. The king has it tied and fed with his own mules until it recovers, then proclaims: whoever beats, improperly loads or under-feeds a horse, mule or donkey will be heavily punished. By that donkey's cause the other pack animals too were freed — and justice, passing beyond people, reigned in the animals' village.
+
+## Sub lesson 32 — Grade 8: ቁጭት — Regret
+
+The narrator is born in a small lowland village with a bush of ግራር, ዝግባ, ሾላ and ዋርካ trees where children played. The people, having no electricity and no building material but wood, fell the bush — charcoal burners above all. The area is stripped, soil washes away, yields fail, hunger and poverty follow; a friend leaves seeking work and never returns. The narrator finishes school, understands that falling yield is the soil's stripping, and vows to change his area. He passes Grade 12, chooses forest development (የደን ልማት) out of his ቁጭት — his regret — graduates from Wondogenet Forestry College first in his choice and is posted as a forest-development expert. Visiting green foreign countries he grieves that Ethiopia could not keep its forest wealth. Through the kebele he teaches his birth area: the destruction began with our own felling. The assembly pledges to protect and restore the forests — and says of him: 'ቁጭቴን በልጄ ተወጣሁ' — I have discharged my regret through my child.
+
+## Sub lesson 33 — Grade 8: ምን ይሻላል? — What Would Be Better?
+
+Mimi, a 10-year-old living with relatives to attend school, works the work of a 20-year-old: rolling the big barrel to fetch water, washing, mopping, making beds. The food given her never satisfies her; the household's children eat what they like from the locked store-room and boast before her — and when stored honey or sugar disappears, she is blamed as usual and beaten even when she denies it. Her school results have fallen: first in first grade, this year she will not pass. She thinks of running away but fears the road. At last she goes to the neighbour, Auntie Altaye, and tells everything. Altaye is outraged, feeds her injera, and promises to speak to the uncle and aunt when they return — 'count it as being freed from prison' — and, if not, to return her to her family.
+
+## Sub lesson 34 — Grade 8: ማኅበራዊ ሕይወት — Social Life, a dialogue story
+
+Mamu worries beyond his age. Yesterday on television he watched the chain: a frog seized a frog and was about to swallow it when a snake sprayed its breath and the frog collapsed; the snake slowly swallowed it; a cat-like beast seized the snake, mangled and ate it; a bigger beast cut that beast's neck, ate its fill and stored the rest; a lion grappled with it, defeated it and tore and ate it. 'Stomach enemy to stomach — doesn't it sadden? Let me break our TV.' His mother answers: television is not Satan and must not be broken; useful messages and education also come by it; the eating-each-other is a natural obligation the Creator ordered — one must be sacrificed for another to live; and he himself loves meat — last festival the family ate their own ox, the friend that greeted him to school, laughing. Thoughtfulness is needed, but he must not torment his mind with excessive thought; he should learn to distinguish each matter's benefit and harm, truth and falsehood.
+
+## Sub lesson 35 — Grade 8: ደባ ራሱን ስለት ድጉሱን — Intrigue Is a Blade for Itself
+
+In a small village, Nesredin — quarrelsome and envious — begrudges his neighbour Sheikh Abdela's peace. He demands before the elders that Abdela's mango branches crossing the fence be cut at once; the elders order it, and Abdela accepts, saying Amen. Weeks later Nesredin drops his own money on the road behind Abdela, then spreads the rumour that Abdela found and took it. Abdela in fact goes house to house asking whose four thousand birr he found. Brought together, Nesredin claims he lost five thousand, not four — one thousand 'was kept from him'. The elders give their lesson: since Nesredin confirms five thousand was lost, the found four thousand is another person's and stays with Abdela until its owner comes; Nesredin's five thousand will be given him when someone reports finding five thousand. The story is also the book's window on ሽምግልና — the country's mediation and judgement — and asks whether Nesredin will repent.
+
+## Sub lesson 36 — Grade 8: የኑሩ ትዝታ — Nuru's Memory
+
+Saturdays and Sundays are Nuru's favourite days, for the television children's programmes and Ababa Tesfaye's sweet stories. Today a fully white cat with a broken hind leg comes and sits beside him — the cat he loves most. Stroking her leg, he remembers: running home from primary school with Efrem, they saw a hairy white cat playing, rolling a small ball. Efrem argued cats are thieves that eat hung meat, and raised his stone; Nuru argued that cats raised not to steal are lovable house animals that catch rats, and offered to take and raise her. Efrem threw anyway — the stone landed on her right hind thigh. As Efrem raised his foot to tread on the hurt leg again, Nuru pushed him with all his strength; they grappled until an elder separated them, heard Nuru, and told Efrem: loving and caring for animals, not hitting them, is proper; hitting is a disgrace (ነውር). He reconciled them, examined the cat's leg, and gave her to Nuru to hold. That cat is now Nuru's friend, living in his house, and the boys' friendship continued, strengthened.
+
 ## Say it to your companion
 
 Pick one story. Retell it in order — beginning, middle, end.

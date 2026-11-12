@@ -13,3 +13,6 @@ Answer in a few words, or one sentence.
 
 **4. (Sub lesson 4)** In the descriptive prose model, how is Wehni Amba's rock described, and where is its "nose"?
 **Answer: the rock is like bone; the mountain's nose is in the clouds — imagery words, not flat telling.**
+
+**5. (Sub lesson 6)** How can the two paragraphs be divided?
+**Answer:** By near view and far view, or by the place's look and its life — one subject, two aspects.

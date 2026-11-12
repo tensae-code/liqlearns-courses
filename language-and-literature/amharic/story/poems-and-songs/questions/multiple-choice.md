@@ -92,3 +92,84 @@ a) Staffs, raised and lowered as they sing  b) Flutes  c) Books
 **23. (Sub lesson 13)** At p.80, Hoya Hoye is…
 a) Sung in tune, then festival-day sentences are written  b) Only read silently  c) Copied ten times
 **Answer: a) Sung in tune, then festival-day sentences are written** — the performance task, Grade 2 p.80.
+
+**24. (Sub lesson 14)** What happens when the iron pot and the clay pot collide?
+a) The iron pot is unharmed and the clay pot shatters  b) Both shatter  c) The iron pot dents and the clay pot is fine
+**Answer: a) The iron pot is unharmed and the clay pot shatters** — a friendship between unequals does not last.
+
+**25. (Sub lesson 14)** What does እንክትክት mean in the poem's vocabulary?
+a) Shattered to bits  b) A shield  c) A stroll
+**Answer: a) Shattered to bits** — ድንኳን is the tent; መከታ the shield; ሽርሽር the stroll.
+
+**26. (Sub lesson 14)** What does the wake-up poem blame for disease in the home?
+a) Household rubbish left for months  b) Cold weather  c) Too much sleep itself
+**Answer: a) Household rubbish left for months** — the rubbish breeds disease-carrying organisms.
+
+**27. (Sub lesson 14)** In the Driver poem, what is the driver called for the country?
+a) Its pillar  b) Its enemy  c) Its guest
+**Answer: a) Its pillar** — he joins far people together.
+
+**28. (Sub lesson 15)** What does the praise poem's poet admit?
+a) His pen struggles to match the girl's beauty  b) He has never seen her  c) He dislikes traditional dress
+**Answer: a) His pen struggles to match the girl's beauty** — being Ethiopian is itself enough.
+
+**29. (Sub lesson 15)** Which genre sings at the grinding mill?
+a) የወፍጮ  b) የሀገር ፍቅር  c) የከብት እገዳ
+**Answer: a) የወፍጮ** — mill songs, love-of-country poems, herding poems — the three catalogued.
+
+**30. (Sub lesson 15)** In Thoughts in Poems, couplets are matched by what?
+a) Similar thought  b) Same first letter  c) Same length only
+**Answer: a) Similar thought** — same thought, different words.
+
+**31. (Sub lesson 16)** Which of these is one of the three fruitless people in Curse Laziness?
+a) The educated who will not speak truth  b) The farmer who ploughs  c) The student who studies at night
+**Answer: a) The educated who will not speak truth** — the educated silent, the rich ungiving, the poor unwilling.
+
+**32. (Sub lesson 16)** Above all, what does 'country' mean in Bedilu's poem?
+a) ወገን — your people  b) One language  c) One fenced plot
+**Answer: a) ወገን — your people** — an image in the mind, and your people.
+
+**33. (Sub lesson 16)** What is the courtroom poem's verdict?
+a) "ኤድስ ወደሰው አይሂድ፤ ሰው ወደኤድስ አይምጣ" — AIDS shall not go to people, and people shall not go to AIDS  b) AIDS is punished with prison  c) The plaintiff wins money
+**Answer: a) "ኤድስ ወደሰው አይሂድ፤ ሰው ወደኤድስ አይምጣ" — AIDS shall not go to people, and people shall not go to AIDS** — prevention as the verdict.
+
+**34. (Sub lesson 16)** Why is there 'no ululation of joy' in Wudalit Gedamu's poem?
+a) The girl's lot is sorrow, cutting and early marriage — there is nothing to rejoice in  b) The singers are tired  c) It is a harvest poem
+**Answer: a) The girl's lot is sorrow, cutting and early marriage — there is nothing to rejoice in** — the poem's own charge.
+
+
+**35. (Sub lesson 17)** The poem's chain of vows begins with the word —
+a) እንግዲህ was  b) ከእንግዲህ — from now on  c) አባይ Abay
+**Answer: b) ከእንግዲህ — from now on** — ከእንግዲህ carries each vow: from now on, no more tears.
+
+**36. (Sub lesson 18)** After composing, you exchange notebooks and —
+a) copy the partner's poem  b) correct each other's errors  c) memorise both poems
+**Answer: b) correct each other's errors** — peer correction is the task's second half.
+
+**37. (Sub lesson 19)** 'የሚበሉት ዉኃ' — 'the water they eat' — points to —
+a) ice  b) the fish and sustenance the river gives  c) rain
+**Answer: b) the fish and sustenance the river gives** — the desert's people eat and drink the Abay — its water is food as well as drink.
+
+**38. (Sub lesson 20)** ከጽንሰአዳም means —
+a) since last year  b) from the very beginning — since Adam's conception  c) at harvest time
+**Answer: b) from the very beginning — since Adam's conception** — the phrase reaches to creation itself — the river's age in the song.
+
+**39. (Sub lesson 21)** A quarrel in the bygone era was settled —
+a) in court first  b) by neighbours and the elder, before police or court  c) by fighting it out
+**Answer: b) by neighbours and the elder, before police or court** — neighbours cooled it; the elder heard both sides and reconciled them on the spot.
+
+**40. (Sub lesson 22)** እርቅ is —
+a) a grudge  b) reconciliation  c) a work party
+**Answer: b) reconciliation** — እርቅ is the reconciliation — and its feast; ቂም is the grudge it dissolves.
+
+**41. (Sub lesson 23)** A collected oral poem should be written down with —
+a) only its title  b) the poem as given, who gave it, and its occasion  c) a new ending
+**Answer: b) the poem as given, who gave it, and its occasion** — the giver and the occasion are part of the record.
+
+**42. (Sub lesson 24)** The poem asks everyone to raise —
+a) one seedling  b) ten seedlings (አስር ችግኝ)  c) a fence
+**Answer: b) ten seedlings (አስር ችግኝ)** — አስር ችግኝ — ten seedlings at his house — is the poem's practical call.
+
+**43. (Sub lesson 25)** The poem's title-call is —
+a) wait for tomorrow  b) do good NOW — what bears fruit tomorrow is planted today  c) rest in old age
+**Answer: b) do good NOW — what bears fruit tomorrow is planted today** — አሁን መልካም ሥሩ — the fruit of tomorrow is today's good.

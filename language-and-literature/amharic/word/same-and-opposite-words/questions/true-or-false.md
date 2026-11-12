@@ -15,3 +15,15 @@ same-meaning list.
 **4. (Sub lesson 2)** The opposite of ትልቅ (big) is ግዙፍ (huge).
 **False** — ግዙፍ means the same as ትልቅ. Its opposite is ትንሽ
 (small).
+
+**5. (Sub lesson 5)** Synonym partners are matched by meaning, not by similar spelling.
+**Answer: True**
+
+**6. (Sub lesson 6)** After matching opposites, the book asks for both words used in sentences.
+**Answer: True**
+
+**7. (Sub lesson 7)** እምሽክ in the fable is the rats' word for shredding the net with their teeth.
+**Answer: True**
+
+**8. (Sub lesson 8)** Word halves are joined into whole phrases, like ለሥራ→ክፍያ.
+**Answer: True**

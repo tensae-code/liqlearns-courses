@@ -21,3 +21,11 @@ a) his hand became shorter by measure  b) he fell into difficulty  c) he cut his
 **5. (Sub lesson 3)** ጥቁር እንግዳ is said of —
 a) a complete stranger  b) a close friend  c) a dark night
 **Answer: a) a complete stranger** — someone wholly unknown to you.
+
+**6. (Sub lesson 4)** ስለታም ምላስ — 'a sharp tongue' — means —
+a) a good singer  b) speech that wounds like a blade  c) a quiet person
+**Answer: b) speech that wounds like a blade** — the mistress's shouting, wounding speech is the story's sharp tongue.
+
+**7. (Sub lesson 5)** A set phrase is best explained from —
+a) its longest word  b) the scene in its text that coined it  c) a dictionary alone
+**Answer: b) the scene in its text that coined it** — the coining scene gives the phrase its charge.

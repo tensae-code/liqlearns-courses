@@ -42,3 +42,14 @@ Now name the whole system.
 And one word can carry both!
 **ከ-** in front… **ሴት** in the middle… **-ኦች** behind: **ከሴቶች**.
 Peel from the front. Peel from the back. The word stands in the middle.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 7 — Grade 5 and 6: the አድናቂ chain, stems and ending suffixes, and ዘመናቸው split: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

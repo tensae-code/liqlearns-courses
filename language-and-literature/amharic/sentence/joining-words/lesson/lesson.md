@@ -77,6 +77,14 @@ The Grade 4 book sets the same work at its own bench: complete each sentence wit
 
 The choosing is the learning. ወይም offers a choice between two things. እና adds one thing to another. አለበለዚያ warns what follows if the first part does not happen. ስለሆነም carries the result out of its reason. Read the two halves first, ask what the second half does to the first — chooses, adds, warns, or follows — and the bank gives you exactly one word that fits.
 
+## Sub lesson 5 — Grade 8: dependent clauses — the book's own pages
+
+Dependent clauses (ጥገኛ ሐረጎች) are stocked in this lesson from Grade 7 and Grade 5 pages; Grade 8 works them three more times, and those pages are cited here now. The heritage chapter (p.27): convert sentences into dependent clauses in their several forms (ሲ-, እየ-, ሊ-, ከ-…). The Maru chapter (pp.55–56): a word-set whose verb is made non-binding drops in rank and becomes a dependent clause — 'ሰናይት እንጀራ ትጋግራለች' (a simple sentence) becomes 'ሰናይት እንጀራ ስትጋግር' (a clause that cannot stand alone) — with conversions both ways. The climate chapter (pp.130–131): pick out the dependent clauses inside compound, climate-themed sentences. A dependent clause leans: it borrows its completeness from the main sentence it hangs on.
+
+## Sub lesson 6 — Grade 8: joining into compound sentences — the book's own pages
+
+Compound joining is stocked in this lesson from other pages; Grade 8's own joining tasks are cited here now. The Migrant Wane chapter (pp.65–66): join sentence pairs into compound sentences on a model given — including pairs about educated women spacing births and family increase. The debate chapter (pp.135–136): join dependent clauses with matching simple sentences to build compounds, on the model 'ሰው ሲከብር ሞት ይፈራል'. The ambassadors chapter (pp.140–141): build 5 compound sentences joining dependent clauses and simple sentences, on the model 'ዛፍ ሲጠፋ እምባጮ አድባር ይሆናል' — when a tree is lost, the stump becomes a seat. Joining is choosing: the conjunction must say the true relation — time, cause, contrast — between the two halves.
+
 ## Say it to your companion
 
 Join this pair three ways — with እና, with ነገርግን, with ስለዚህ — and say how the meaning moves each time: የሒሣብ ትምህርት እወዳለሁ + ጥሩ ውጤት አላመጣሁም. Then read your companion a leaning half — ሱሰኛነት ሰዎችን ስለሚጎዳ … — and let them finish it. Finish by reading a short paragraph of your own aloud and naming every transitional word you planted at its crossings.

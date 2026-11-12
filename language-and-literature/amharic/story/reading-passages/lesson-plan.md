@@ -194,3 +194,33 @@ remaking.
 - Sub lesson 17 — Grade 1: short passages: say what each little passage is about in one sentence, drum, game and fruit.
 - Sub lesson 18 — Grade 1: comprehension passages: answer each passage's questions from the passage, and use its new words in a sentence.
 - Sub lesson 19 — Grade 2: comprehension passages and a classification: write the Lettuce-and-Kale comparison table and sort six instruments into string, wind and hit-for-sound.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 20 — Grade 5: waste, the Hidar custom, and traditional dress: Burn It or Bury It? (ማቃጠል ወይስ መቅበር) — sorting and disposing of waste; When Hidar Is Swept (ኅዳር ሲታጠን) — the Hidar cleaning custom; Traditional Dress (ባህላዊ አለባበስ) — traditional dress and ornaments; Ornaments by body part — the vocabulary organiser.
+- Sub lesson 21 — Grade 5: heroism, debo, civilisation, and taking medicine properly: When Heroism Is Inherited (ጀግንነት ሲወረስ) — heroism passed from father to son; Debo (ደቦ) — working together; Culture and Civilisation (ባህልና ስልጣኔ) — what civilisation really means; Taking Medicines Properly — the five rules.
+- Sub lesson 22 — Grade 5 and 6: too much and too little food; our dress, our identity; festivals and dress: Disordered Eating (የተዛባ የአመጋገብ ሥርዓት) — too much and too little food; Another's Gold Does Not Shine for You (የሰው ወርቅ አያደምቅ) — our dress, our identity; New Year and National Cultural Dress (አውደዓመትና የሀገር ባህል ልብሶች) — festivals and dress.
+- Sub lesson 23 — Grade 6: regional dress, beauty, and athletes who overcome: Tingdirb (ጥንግድርብ) — regional dress of Ethiopia; Beauty (ውበት) — beauty inside and outside; Kayla Wheeler — athletes who overcome; Coincidence or…? (አጋጣሚ ወይስ…?) — comparing two athletes.
+- Sub lesson 24 — Grade 6: asking an expert, Mother Earth, kinds of heritage, and growing tourism's benefit: The Award-Winning Farmer (ተሸላሚው አርሶአደር) — asking an expert; Mother Earth (እናት መሬት) — soil care, and the clue-word method; Heritages (ቅርሶች) — kinds of heritage; Growing Tourism's Benefit (የቱሪዝምን ጥቅም የበለጠ ማሳደግ) — developing tourism.
+- Sub lesson 25 — Grade 6: the coffee ceremony, HIV and AIDS, the health worker, customs that protect, early marriage, and empowering women: Our Traditional Coffee Ceremony (የቡና ባህላዊ ሥርዓታችን) — the coffee ceremony; Did You Know This? (ይህን ታውቁ ኖሯል?) — HIV and AIDS are not the same; Debritu (ደብሪቱ) — the health worker of our village; Her Dress, Not She, Is Abducted (ቀሚሷ እንጂ እሷ አትጠለፍም) — customs that protect girls; Early Marriage (ያለዕድሜ ጋብቻ) — early marriage and its harms; Empowering Women (ሴቶችን ማብቃት); The Awramba listening and debate — its reading-passage half.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 20 — Grade 5: waste, the Hidar custom, and traditional dress: Burn It or Bury It? (ማቃጠል ወይስ መቅበር) — sorting and disposing of waste; When Hidar Is Swept (ኅዳር ሲታጠን) — the Hidar cleaning custom; Traditional Dress (ባህላዊ አለባበስ) — traditional dress and ornaments; Ornaments by body part — the vocabulary organiser.
+- Sub lesson 21 — Grade 5: heroism, debo, civilisation, and taking medicine properly: When Heroism Is Inherited (ጀግንነት ሲወረስ) — heroism passed from father to son; Debo (ደቦ) — working together; Culture and Civilisation (ባህልና ስልጣኔ) — what civilisation really means; Taking Medicines Properly — the five rules.
+- Sub lesson 22 — Grade 5 and 6: too much and too little food; our dress, our identity; festivals and dress: Disordered Eating (የተዛባ የአመጋገብ ሥርዓት) — too much and too little food; Another's Gold Does Not Shine for You (የሰው ወርቅ አያደምቅ) — our dress, our identity; New Year and National Cultural Dress (አውደዓመትና የሀገር ባህል ልብሶች) — festivals and dress.
+- Sub lesson 23 — Grade 6: regional dress, beauty, and athletes who overcome: Tingdirb (ጥንግድርብ) — regional dress of Ethiopia; Beauty (ውበት) — beauty inside and outside; Kayla Wheeler — athletes who overcome; Coincidence or…? (አጋጣሚ ወይስ…?) — comparing two athletes.
+- Sub lesson 24 — Grade 6: asking an expert, Mother Earth, kinds of heritage, and growing tourism's benefit: The Award-Winning Farmer (ተሸላሚው አርሶአደር) — asking an expert; Mother Earth (እናት መሬት) — soil care, and the clue-word method; Heritages (ቅርሶች) — kinds of heritage; Growing Tourism's Benefit (የቱሪዝምን ጥቅም የበለጠ ማሳደግ) — developing tourism.
+- Sub lesson 25 — Grade 6: the coffee ceremony, HIV and AIDS, the health worker, customs that protect, early marriage, and empowering women: Our Traditional Coffee Ceremony (የቡና ባህላዊ ሥርዓታችን) — the coffee ceremony; Did You Know This? (ይህን ታውቁ ኖሯል?) — HIV and AIDS are not the same; Debritu (ደብሪቱ) — the health worker of our village; Her Dress, Not She, Is Abducted (ቀሚሷ እንጂ እሷ አትጠለፍም) — customs that protect girls; Early Marriage (ያለዕድሜ ጋብቻ) — early marriage and its harms; Empowering Women (ሴቶችን ማብቃት); The Awramba listening and debate — its reading-passage half.
+
+- Sub lesson 26 — Grade 5 and 6: insults turned upside down, and the Chimchim game: "The Reversal" (የተገላቢጦሽ) — insults turned upside down; The Chimchim Game (የቺምቺም ጨዋታ) — traditional games in verse.- IMAGE [Picture 27601] — a man and a woman in full Timket dress, tibeb hems, the ማርዳ necklace and አምባር bracelet showing → the student names each garment and ornament before sub lesson 20.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 27 — Grade 7: ምጣኔ! — the coffee-gathering debate.
+- Sub lesson 28 — Grade 7: በጎፈቃድ — Volunteering, an old culture.
+- Sub lesson 29 — Grade 7: የግድቡ ትሩፋት — The Benefits of the Dam.
+- Sub lesson 30 — Grade 7: ጫት መቃምና መዘዙ — Chat Chewing and Its Consequences.
+- Sub lesson 31 — Grade 7: የማይሸሹት ፍቅር — Love That Does Not Fade.
+- Sub lesson 32 — Grade 8: ግን ምን ነካን!? — But What Touched Us!?.
+- Sub lesson 33 — Grade 8: ዘመን ያልሻረው ጥበብ — Tangible Heritage.
+- Sub lesson 34 — Grade 8: አለሚቱና መምህሯ — Alemitu and Her Teacher.

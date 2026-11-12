@@ -84,6 +84,19 @@ players beside it. (The same review's agent nouns, ፎካሪ
 ይፎክራል, live in Building Words, and its jumbled sentences in
 Writing Sentences, at the same pages.)
 
+
+## Sub lesson 6 — Grade 5: singular and plural nouns, with the እነ- collective plural
+
+
+### Singular and plural nouns — the እነ- set
+
+Pick out singular and plural nouns in sentences, as the Grade 5 book sets it — including the እነ- collective plural: እነሙኒት (Munit and her group), እነዳዊት (Dawit and his group), beside the -ኦች plurals ገበሬዎች, ተማሪዎች, ቦርሳዎች. Singular and plural stand in sub lessons 1–3 of this lesson from other books; the G5 እነ- set is stocked here at its own page.
+
+
+## Sub lesson 7 — Grade 8: singular and plural — the Iddir chapter's sets
+
+Grade 8's Iddir listening carries a full number workout. Words into plural forms: ሴት, በሬ, ጥቁር, ነገር, መጣሁ, ፈላጊ, ሰበርክ, ክፋ, አንተ — with models given. Plurals back into singulars: ነገረኞች, ምሁራን, መስፈርቶች, ጥበቦች, መሰከራችሁ, መከርን, ነጮች, እነርሱ, እኛ. Notice that pronouns and verbs change their number too, not nouns alone — አንተ (you, one) stands in the list beside ሴት (woman) to prove it. Strip a plural back by removing its plural piece; build a plural by adding the piece the word's own shape takes.
+
 ## Say it to your companion
 
 Tell your companion: a plural word names two or more and carries a plural piece — -ኦች, -ዎች or -አች. Make ቀሚስ many for them (ቀሚሶች), then strip ገበሬዎች back to one (ገበሬ) and let them name the piece that fell off.

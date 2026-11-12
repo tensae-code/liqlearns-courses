@@ -84,3 +84,74 @@ Sub lesson 25 questions from the type files. Pass mark: say ይቅርታ and አ
 
 ## Sub lesson 26 — Grade 2: machines and wild animals (pupil-book parts)
 Sub lesson 26 questions from the type files. Pass mark: say how radio and television differ, and say the hare's mistake in Strength or Cleverness?
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 27 — Grade 5: roads, a lake, and the forest heard
+Sub lesson 27 questions from the type files. Pass mark: retell the traffic-safety club's work, say what emboch does to Lake Tana, and give Sergeant Mulatu's crossing rules and the deforestation listening's chain in order.
+
+## Sub lesson 28 — Grade 5: medicines and foods, heard
+Sub lesson 28 questions from the type files. Pass mark: give the healers listening's true/false points, sort the two medicine vocabularies into their organisers, and name one protective food with what it gives the body.
+
+## Sub lesson 29 — Grade 5: animals, festivals and games, heard
+Sub lesson 29 questions from the type files. Pass mark: describe the gelada and its troop, compare the two national parks on the book's points, retell Ashendye's rounds, and say how a gebeta win is made.
+
+## Sub lesson 30 — Grade 6: cloaks, athletes' food, drought and the farming year, heard
+Sub lesson 30 questions from the type files. Pass mark: say how a bernos is made and why black sheep are preferred, name the three food groups on an athlete's plate, and list the farming year's stages from clearing to the granary.
+
+## Sub lesson 31 — Grade 6: tourism, addiction and hate speech, heard
+Sub lesson 31 questions from the type files. Pass mark: say why tourism is called a smokeless industry, draw addiction's five-branch effects web from hearing, and state the hate-speech law's purpose and what it prohibits.
+
+## Sub lesson 32 — Grade 6: HIV, customs and women, heard
+Sub lesson 32 questions from the type files. Pass mark: name HIV's transmission routes and its non-routes, sort customs into useful and harmful, retell the sky-tears mediation, and lay March 8 on its timeline.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 33 — Grade 7: ሥነተዋልዶና ጤና — Reproductive Health (listening)
+Sub lesson 33 questions from the type files. Pass mark: state the heard teaching's main points from your notes.
+
+
+## Sub lesson 34 — Grade 7: እፎይታ — Relief for a Widow (listening)
+Sub lesson 34 questions from the type files. Pass mark: retell the heard story as a talk, answering the book's two questions.
+
+
+## Sub lesson 35 — Grade 7: ዉኃው ታከመ — The Water Was Treated (listening)
+Sub lesson 35 questions from the type files. Pass mark: sort the heard statements into fit / unfit water and name the harms of the unfit side.
+
+
+## Sub lesson 36 — Grade 7: የተናዳፊዋ ማር — The Angry Woman's Bee (listening)
+Sub lesson 36 questions from the type files. Pass mark: explain the bee parallel and the saying ደግነት ለራስ ነው from the heard story.
+
+
+## Sub lesson 37 — Grade 7: የሱስ ተጠቂው — The Victim of Addiction (listening)
+Sub lesson 37 questions from the type files. Pass mark: define peer pressure from the heard text and say why the narrator tells his own history.
+
+
+## Sub lesson 38 — Grade 7: ደጃዝማች በላይ ዘለቀ — Belay Zeleke (listening)
+Sub lesson 38 questions from the type files. Pass mark: retell Belay Zeleke's history from a completed question table.
+
+
+## Sub lesson 39 — Grade 8: የጎዜ መስጊድ — The Goze Mosque (listening)
+Sub lesson 39 questions from the type files. Pass mark: describe the mosque from the hearing — building, surroundings, festivals, benefits.
+
+
+## Sub lesson 40 — Grade 8: ዕድር — Iddir (listening)
+Sub lesson 40 questions from the type files. Pass mark: answer the hearing's questions and name three duties of an iddir member.
+
+
+## Sub lesson 41 — Grade 8: ሽልንጌን and ስጦታ — two heard stories
+Sub lesson 41 questions from the type files. Pass mark: assign responsibility in ሽልንጌን and explain the uncle saying in ስጦታ.
+
+
+## Sub lesson 42 — Grade 8: ስግብግቡ ቀበሮና አሞራ — The Greedy Jackal and the Amora (listening)
+Sub lesson 42 questions from the type files. Pass mark: retell the heard story and give the judgement you think the king would give.
+
+
+## Sub lesson 43 — Grade 8: እሮሮ — Lament, a poem heard
+Sub lesson 43 questions from the type files. Pass mark: explain the lament's air exchange and its closing line.
+
+
+## Sub lesson 44 — Grade 8: ደኖችና የአየር ንብረት ለውጥ — Forests and Climate Change (listening)
+Sub lesson 44 questions from the type files. Pass mark: list forests' benefits from the hearing and explain their cooling work.
+

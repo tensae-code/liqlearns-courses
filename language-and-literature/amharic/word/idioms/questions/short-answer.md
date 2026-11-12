@@ -10,3 +10,9 @@ Answer in a few words.
 
 **3. (Sub lesson 3)** A visitor arrives whom nobody knows at all — not a friend of a friend, wholly unknown. Which saying fits him, and what does it mean?
 **Answer:** ጥቁር እንግዳ — a complete stranger.
+
+**4. (Sub lesson 4)** Explain ክው አደረገኝ.
+**Answer:** 'It stunned me' — the shock that stops a person still.
+
+**5. (Sub lesson 5)** Why must an idiom explanation work in a new sentence?
+**Answer:** Because an idiom travels — it will be used of new scenes, and the explanation must travel with it.

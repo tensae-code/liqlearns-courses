@@ -80,3 +80,7 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 **Growth note (2026-11-12, Amharic fix build):** Sub lesson 8 added — the new punctuation marks as the Grade 4 student book's note box presents them together at printed p. 114: single dot (.), colon (፡-), slash እዝባር (/), ellipsis ሦስት ነጠብጣብ (…), each explained — abbreviation, 'more follows', cut-off feeling/speech — with sentences built using them. The audit found these marks taught in Sub lessons 3–5 cited to the Grade 5 and Grade 6 books, with Grade 4 p. 114 cited nowhere; Sub lesson 8 stocks the Grade 4 note box as the family's first meeting place. Earlier sub lessons are unchanged.
 
 - Sub lesson 8 — The Grade 4 book's new marks: one sentence per mark — dot, colon, እዝባር, ሦስት ነጠብጣብ — each mark's work named.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 9 — Grade 7: punctuation in dialogue and repair work.
+- Sub lesson 10 — Grade 8: punctuating a passage — the father, the son and the donkey.

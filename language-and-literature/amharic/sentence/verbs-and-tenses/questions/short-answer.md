@@ -7,3 +7,6 @@ Answer in a few words.
 
 **2. (Sub lesson 4)** In ሰውየው ለልጁ ደብተር ገዛለት, name the direct object and the indirect object.
 **Answer: direct object (ቀጥተኛ ተሳቢ): ደብተር; indirect object (ኢቀጥተኛ ተሳቢ): ለልጁ.**
+
+**3. (Sub lesson 7)** Name three verbs of the pp.13–14 person work.
+**Answer:** Any three of: ከፈተ, መከረ, ፈለገ, ወደቀ, ዘፈነ, ከበረ.

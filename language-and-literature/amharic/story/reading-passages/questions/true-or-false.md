@@ -28,3 +28,27 @@ Say if the sentence is true or false.
 
 **9. (Sub lesson 16)** The migration reading ends by asking for a copied-out paragraph of the passage.
 **Answer: False** — it asks for what was grasped, explained, and the themes, written — not copying.
+
+**10. (Sub lesson 27)** The closing speaker says family planning does NOT mean not bearing children.
+**Answer: True**
+
+**11. (Sub lesson 28)** The summer volunteer service has run since 2011 E.C.
+**Answer: True**
+
+**12. (Sub lesson 29)** Besides power, the stored water is expected to green a formerly desert area.
+**Answer: True**
+
+**13. (Sub lesson 30)** Chat chewing is linked in the text to lost work time and falling income.
+**Answer: True**
+
+**14. (Sub lesson 31)** In the shop, iddir and equb money is collected among the talk and coffee.
+**Answer: True**
+
+**15. (Sub lesson 32)** The essay counts science and technology among the foreign things that WOULD profit us if chosen sorted.
+**Answer: True**
+
+**16. (Sub lesson 33)** Most of Lalibela's churches were carved from a single rock.
+**Answer: True**
+
+**17. (Sub lesson 34)** The sun's light is said to vary in an 11-year cycle.
+**Answer: True**

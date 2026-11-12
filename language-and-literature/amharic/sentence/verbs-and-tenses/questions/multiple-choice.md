@@ -37,3 +37,7 @@ a) እየቀረበች  b) ቀረበች  c) ይቀርባል
 **9. (Sub lesson 6)** ይጨምራል comes from which base verb?
 a) ጨመረ  b) ጨረሰ  c) መጣ
 **Answer: a) ጨመረ** — Grade 2 p.69.
+
+**10. (Sub lesson 7)** Writing a verb for a different person changes —
+a) only its translation  b) the verb's own form  c) nothing
+**Answer: b) the verb's own form** — person lives in the verb's form — ሰበርክ, ሰበራችሁ, ሰበሩ.

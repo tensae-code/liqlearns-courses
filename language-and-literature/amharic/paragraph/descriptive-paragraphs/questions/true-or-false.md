@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 3)** "First he rose, then he saddled the horse, then he rode out" is a ገላጭ paragraph opening.
 **Answer: False** — it recounts events in time order, so it is ተራኪ; ገላጭ explains what a thing is.
+
+**4. (Sub lesson 6)** Editing comes after the two paragraphs are composed.
+**Answer: True**

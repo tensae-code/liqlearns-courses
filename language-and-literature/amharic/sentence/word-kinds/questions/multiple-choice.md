@@ -65,3 +65,44 @@ a) ቀሚስ  b) ረጅም  c) neither word
 **16. (Sub lesson 13)** Which list is all adjectives, as the keyed answers name them?
 a) ትላልቅ, ጎበዝ, ሰፊ, ሩቅ  b) ቤት, ልጅ, መኪና, ልማድ  c) ሄደ, መጣ, ጻፈ, ሠራ
 **Answer: a) ትላልቅ, ጎበዝ, ሰፊ, ሩቅ** — big, clever, wide, far; the b list is nouns and the c list is verbs.
+
+**17. (Sub lesson 14)** ክፉኛ (badly) is which kind of adverb?
+a) A derived adverb (ምሥርት) — from the adjective ክፉ  b) A native adverb (ነባር)  c) A noun
+**Answer: a) A derived adverb (ምሥርት) — from the adjective ክፉ** — native words stand as they are; derived ones are built.
+
+**18. (Sub lesson 14)** ዛሬ (today) belongs to which of the four kinds?
+a) የጊዜ — time  b) የቦታ — place  c) የመጠን — degree
+**Answer: a) የጊዜ — time** — when, where, how, how much.
+
+**19. (Sub lesson 14)** In the night-story cloze, adverbs are chosen to fit what?
+a) The story's sense — hour, sound, fear, movement  b) The alphabet  c) The longest word wins
+**Answer: a) The story's sense — hour, sound, fear, movement** — the review's own task.
+
+**20. (Sub lesson 14)** ቶሎ (quickly) answers which adverb question?
+a) How? — manner  b) Where?  c) How much?
+**Answer: a) How? — manner** — ቶሎ tells how the action is done.
+
+**21. (Sub lesson 15)** In ታሪካዊ ቀን, which word is the adjective?
+a) ታሪካዊ — historic  b) ቀን  c) ነው
+**Answer: a) ታሪካዊ — historic** — the describing word before the noun.
+
+**22. (Sub lesson 15)** In ሐሰተኛ መረጃ, the adjective ሐሰተኛ means what?
+a) False, lying  b) True  c) Written
+**Answer: a) False, lying** — ሐሰተኛ መረጃ against እውነተኛ መረጃ — false against true.
+
+**23. (Sub lesson 15)** An adjective's job is to do what?
+a) Describe a noun  b) Do an action  c) Name a person
+**Answer: a) Describe a noun** — ቅጽል — the describer.
+
+
+**24. (Sub lesson 16)** ቶሎ in ቶሎ መጣ is an adverb because it describes —
+a) a noun  b) the verb መጣ — how he came  c) a bag
+**Answer: b) the verb መጣ — how he came** — ቶሎ tells HOW he came — it describes the verb.
+
+**25. (Sub lesson 17)** ትናንት in 'ዘርፌ ትናንት ደስተኛ ነበረች' is an adverb of —
+a) place  b) time  c) manner
+**Answer: b) time** — ትናንት — yesterday — tells WHEN: an adverb of time.
+
+**26. (Sub lesson 18)** In ጎበዟ ልጅ, ጎበዟ is a —
+a) verb-modifier  b) noun-modifier  c) conjunction
+**Answer: b) noun-modifier** — ጎበዟ (clever) describes the girl — a noun-modifier (የስም ገላጭ).

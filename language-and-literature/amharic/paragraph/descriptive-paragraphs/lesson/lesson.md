@@ -146,6 +146,10 @@ first; the thing follows. Go on through the book's row: ልብስ,
 describing word. These phrases dress the cotton→clothes
 concept web drawn in Study Skills at the same page.
 
+## Sub lesson 6 — Grade 7: two descriptive paragraphs — my school, my area
+
+Write two descriptive paragraphs on the attractiveness of your school or your home area, then edit them (p.12). Two paragraphs, not one: the first can carry the place's look, the second its life — or place them as near view and far view. Description is judged by the senses it wakes: a reader who has never seen your school should be able to stand in its compound when your two paragraphs end. Editing follows the composing, as in First Paragraphs; this lesson's sources now also carry Grade 7 p.9, whose composition-and-correction task belongs to the same work.
+
 ## Say it to your companion
 
 Read your companion a paragraph you wrote. Your companion must

@@ -44,3 +44,14 @@ Second time — the details.
 Notes open. Ears open.
 
 Gather. Order. Tell. That is how lives are kept.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 8 — Grade 6: a biography paragraph from Haile Gebrselassie's data card: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

@@ -28,3 +28,9 @@ Say whether each sentence is true or false.
 
 **9. (Sub lesson 9)** Extensive reading gives the class one shared short-fiction book, read as homework over two weeks or more.
 **Answer: True** — the time is adjusted to the learners' language background and the book's accessibility.
+
+**10. (Sub lesson 12)** The accused's defence offers another way the leg of meat could have reached his door — hyena and eagle fighting above the house.
+**Answer: True**
+
+**11. (Sub lesson 13)** A paragraph completion must honour its opening's voice and direction.
+**Answer: True**

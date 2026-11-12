@@ -205,6 +205,19 @@ Your task mirrors it: write an application to an office about
 a matter you want fulfilled — subject first, the facts, the
 humble request — then exchange, correct, and rewrite.
 
+
+## Sub lesson 8 — Grade 6: building a letter's reference number from its parts
+
+
+### Dates in figures, and the reference number built from parts
+
+Two official-writing skills the Grade 6 book sets together. (1) Write spelled-out Ethiopian dates in እዝባር (register) figure form: ሐምሌ አስር, ኹለት ሺህ አሥራ ሦስት → 10/11/2013. (2) Build a letter's reference number from its parts: office abbreviation + subject code (ሪፖርቶች, reports = 101) + file number + year — ደወዞባቱ 101/3055/13 — and its date line; practise on three offices (West Gojjam Education Department, Addis Ababa University, North Gondar Women & Children). Dates stand in the More Punctuation lesson from the Grade 5 book's slash pages, and reference-number building in sub lesson 4 of this lesson from other pages of this same book; this part stocks the Grade 6 book's own dates-and-reference placement at its own pages.
+
+
+## Sub lesson 9 — Grade 7: my greeting letter — the follow-on writing
+
+After the poem of the old neighbourhood, Grade 7 sets a greeting letter of your own: write a greeting letter (የሰላምታ ደብዳቤ) to a friend or family member, on the full model stocked in this lesson's greeting-letter sub lesson — date, sender, school and town, the greeting part, the body part, the closing part, signature. A follow-on letter is a test of transfer: the model was learned in another chapter; here it is used unprompted, on a person you really know, about things that really happened.
+
 ## Say it to your companion
 
 Name the letter kind for each errand, and why: (1) thanking

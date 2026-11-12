@@ -22,3 +22,51 @@ Say whether each sentence is true or false.
 
 **7. (Sub lesson 8)** A qene poem carries only the meaning on its surface.
 **Answer: False** — a qene poem carries two meanings: the surface meaning and a hidden second meaning under it.
+
+**8. (Sub lesson 12)** Nature talk topics include rivers, waterfalls and valleys.
+**Answer: True**
+
+**9. (Sub lesson 13)** An interview report presents the professional's answers in order, from prepared questions and notes.
+**Answer: True**
+
+**10. (Sub lesson 14)** Catherine Hamlin and Derartu Tulu are both among the book's famous-lives choices.
+**Answer: True**
+
+**11. (Sub lesson 15)** The water-source talk's web holds sources, uses, services, harms and causes of harm.
+**Answer: True**
+
+**12. (Sub lesson 16)** Field-research talks name their source — the health institution or people consulted.
+**Answer: True**
+
+**13. (Sub lesson 17)** Iddir and equb are researched by asking parents and local people.
+**Answer: True**
+
+**14. (Sub lesson 18)** The works named should grow with the rung — from neighbours to the whole country.
+**Answer: True**
+
+**15. (Sub lesson 19)** Disputed points between the two culture groups are settled by debate after the presentations.
+**Answer: True**
+
+**16. (Sub lesson 20)** The heritage talks compare tangible and intangible heritage with examples, in two groups.
+**Answer: True**
+
+**17. (Sub lesson 21)** True-story speaking tells of real people who worked diligently and changed their poverty life.
+**Answer: True**
+
+**18. (Sub lesson 22)** The judges' decision must be respected by both sides.
+**Answer: True**
+
+**19. (Sub lesson 23)** The bee is compared with the industrious woman for industry and providing.
+**Answer: True**
+
+**20. (Sub lesson 24)** The advice talk's bigar sets parents' experience against children's inexperience.
+**Answer: True**
+
+**21. (Sub lesson 25)** Eli says being shaken and losing hope have no place with her.
+**Answer: True**
+
+**22. (Sub lesson 26)** Every reaction in the play talk must name the scene that caused it.
+**Answer: True**
+
+**23. (Sub lesson 27)** His 'chaff of your door' verse is answered by 'be the fruit, and I'll taste you'.
+**Answer: True**

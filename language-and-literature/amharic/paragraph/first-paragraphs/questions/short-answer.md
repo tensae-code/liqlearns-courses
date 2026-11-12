@@ -10,3 +10,6 @@ Answer in a few words, or one sentence.
 
 **3. (Sub lesson 3)** In growing a paragraph, what does the last sentence do?
 **Answer: it rounds the paragraph off — it does not wander away to a new idea.**
+
+**4. (Sub lesson 4)** Name two topics the book offers for the paragraph.
+**Answer:** Any two of: my garden plot, my classroom, the neighbourhood I grew up in, my birthday, my friends, a football field.

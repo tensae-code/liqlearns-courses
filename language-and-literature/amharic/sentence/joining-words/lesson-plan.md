@@ -60,3 +60,7 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 **Growth note (2026-11-12, Amharic fix build):** Sub lesson 4 added — completing sentences with the right conjunction (ወይም, እና, አለበለዚያ, ስለሆነም) as the Grade 4 student book sets the task at printed p. 28. The audit found this sentence-completion work taught in Sub lesson 1 but cited only to the Grade 7 student book, with Grade 4 p. 28 uncited and አለበለዚያ absent from this lesson; Sub lesson 4 stocks the Grade 4 bench in full. The first three sub lessons are unchanged.
 
 - Sub lesson 4 — The Grade 4 book's conjunction bench: complete sentences choosing ወይም, እና, አለበለዚያ or ስለሆነም, and defend each choice.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 5 — Grade 8: dependent clauses — the book's own pages.
+- Sub lesson 6 — Grade 8: joining into compound sentences — the book's own pages.

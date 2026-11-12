@@ -207,6 +207,15 @@ whole, in sequence. A table holds a life still; a
 recording makes you chase it — main points on the first
 hearing, details on the second, nothing invented between.
 
+
+## Sub lesson 8 — Grade 6: a biography paragraph from Haile Gebrselassie's data card
+
+
+### From facts to a biography paragraph — Haile Gebrselassie's card
+
+Turn the fact card of Haile Gebrselassie into a flowing paragraph: name; parents; born 1966 E.C. in Arsi, Chialo, Tiyo woreda; his motto ይቻላል! — "It is possible!"; his records and medals at 2000 m, 5000 m and 10,000 m; now investing in development. The card gives facts in rows; the paragraph must make them walk in order — birth, rise, records, today. The review lesson then edits and rewrites the paragraph, as the book sets both passes.
+
+
 ## Say it to your companion
 
 Choose one of the worked lives — Abebe Bikila, Dr Haddis

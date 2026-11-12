@@ -19,3 +19,12 @@ Sub lesson 3 questions from the type files. Pass mark: take a mixed-up sentence 
 
 ## Sub lesson 4 — Grade 1–2: the books' own sentence sets
 Sub lesson 4 questions from the type files. Pass mark: make one sentence each with ራሳችሁን, ምክር, አደጋ and ፍሬን, and repair the instruments review's jumbled sentences.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 5 — Grade 5 and 6: unscrambling with punctuation, and dictation with the school-week task
+Sub lesson 5 questions from the type files. Pass mark: unscramble the books' jumbled sentences into correct order, punctuate the herders' dialogue in dictation form, and write sentences from dictation with every mark correct.
+
+
+

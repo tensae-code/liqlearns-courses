@@ -303,6 +303,109 @@ one in their use.
   and rising, singing their boast verses. Name each kind from
   its picture before you read its examples.
 
+
+## Sub lesson 14 — Grade 5: the iron pot, wake from your sleep, patriotism, and the driver
+
+
+### The Iron Pot and the Clay Pot (ብረትድስትና ሸክላድስት)
+
+A verse fable: an iron pot proposes friendship and protection to a clay pot; after a hundred steps together they collide — the iron pot is unharmed and the clay pot shatters. A friendship between unequals does not last. Answer its questions on motive, on what kinds of people the pots stand for, and on the lesson learned.
+
+### The Iron Pot's words, and completing verse lines
+
+Learn the poem's vocabulary: ድንኳን (tent, shelter), እንክትክት (shattered to bits), ሽርሽር (stroll), መከታ (shield), አጥቂ (attacker) — and use each in a sentence of your own. Then the writing the book sets: complete the poem's missing verse lines (ስንኝ) with your own rhyming lines, following its worked example. Parts of a poem stand elsewhere in this lesson; completing verse lines is this part's own work.
+
+### Wake From Your Sleep! (ከእንቅልፋችሁ ንቁ!)
+
+A poem on rubbish and disease: household rubbish left for months breeds disease-carrying organisms, makes young and old ill, kills children with diarrhoea; the smell steals health. Its charge: "Wake from your sleep, gird yourselves — do not be strangled by the rope of laziness." Learn the words whose meaning inside the poem differs from outside it (በሉ, አምጪ, ተደፍቶ, ታጠቁ), write the poem's main idea in a paragraph, and turn the poem into prose (ዝርው ጽሑፍ).
+
+### Patriotism (አርበኝነት)
+
+A patriotic poem: the patriot soldier is his country's shield; he strikes the invader, never tires morning or evening, puts country and people before himself, and his sacrifice is always remembered. Its comprehension is set in MULTIPLE-CHOICE form — choose the letter of the correct answer, as the book sets it — with synonym matching (ድንፋታ, ሰውቶ, ይዘክር, ደጀን, ይወደስ) and a writing task: repair scrambled verse couplets back into the poem's order.
+
+### The Driver (ሾፌሩ)
+
+A song-poem from the Roads Authority's "Driver, stay calm" song: the driver loses sleep, travels day and night up ascents and down descents, crossing rivers and valleys, joins far people together, and is the country's pillar. When you hold the wheel, drive calmly — travellers' lives are in your hand. Learn its antonyms (አቀበት, ascent ↔ ቁልቁለት, descent), then turn the poem into prose in three sentences.
+
+## Sub lesson 15 — Grade 6: a praise poem, the oral poems of our area, and thoughts in poems
+
+
+### Beautiful Girl of My Country (ውቧ ያገሬ ልጅ) — praise poems
+
+A praise poem for an Ethiopian girl's beauty in her traditional dress and braided hair (ሹሩባ). The poet admits his pen struggles to match her — being Ethiopian is itself enough. Afterwards, write a short praise poem for your mother or your father, on its model.
+
+### Our Locality (አካባቢያችን) — oral poems of our area
+
+Ethiopia, and the Amhara people in particular, hold many oral poem genres for social, cultural and religious life. This reading catalogues three: የወፍጮ — grinding-mill songs (the mill turns, fill the quern; another's house has no injera); የሀገር ፍቅር — love-of-country poems (missing home; the exile carried by donkey or horse still returns); የከብት እገዳ — cattle-herding poems (the herder's day with his lunch bag and water gourd). The oral-poem kinds themselves stand earlier in this lesson from other pages; this reading is stocked here whole. Explain the message of given oral poems in a few lines, then compose and read aloud your own — wedding, New Year, or farming.
+
+### Thoughts in Poems (ሐሳብን በግጥሞች) — same thought, different words
+
+A matching exercise in meaning: numbered couplets — work with your hands, walk with your feet, for a relative won't love you if you can't help yourself; a mother's house, however poor, beats another's house of fitfit sauce; saying sorry — are matched with couplets of similar thought. Then write your own poem on a chosen topic: ሀገር (country), እናት (mother), ትምህርት (education), ጓደኛዬ (my friend), or ትምህርትቤቴ (my school).
+
+## Sub lesson 16 — Grade 6: curse laziness, what 'country' means, a vision, a courtroom poem, and no ululation of joy
+
+
+### Curse Laziness (ስንፍናን ርገሙት) — against laziness
+
+Three people are fruitless: the educated who will not speak truth, the rich who will not give from his wealth, the poor whose heart will not work. The poet calls the youth to work, for a country is built by work; the lazy man prays with closed eyes to wake in Harar while sleeping in Entoto. So: curse laziness, study night and day, become your country's pride. Complete farming couplets with rhyming lines of your own — combines, herbicide, ploughing.
+
+### What 'Country' Means (ሀገር ማለት) — what is a homeland?
+
+The poem defines homeland to a child: ancestors who lived in peace and allotted homes; when the enemy dared, the army gathered from every people — Oromo, Tigray, Afar, Wolayta, all Ethiopia's children — and paid with their bones. A country is not fenced by one language or one plot; it is an image you hold in your mind (በህሊና); above all, country means ወገን — your people, who eat the fruit of their labour, your shelter, your seal of personhood. Summarise the poem's main idea in one paragraph.
+
+### I Have a Vision (ራዕይ አለኝ) — a vision against addiction
+
+A student speaks: today I am a learner, a citizen with a vision; I will chase knowledge without knowing weariness and pay the price to lift my people from poverty; I am a new plant that will bear fruit; I will break the strength of the addict's horse (የሱሰኛን ፈረስ ጉልበቱን ሰብሬ — addiction as a horse to be broken), keep my mind and body far from addiction, and tomorrow shine by hard work and better results, gladdening parents and kin. Complete poem lines against addiction in the same voice.
+
+### Plaintiff and Defendant (ከሳሽና ተከሳሽ) — a courtroom poem
+
+A courtroom poem-drama: humanity summons AIDS to court. The plaintiff's advocate tells the presiding judge (መሀል ዳኛ) how AIDS, the cruel one, finished his friends and relatives at once, and begs punishment. AIDS rises, angry: "You judged me without hearing my side — I did nothing to people; people themselves came to me." The chief judge agrees: if people sat still, learned from each other and stopped reckless mixing, when would they have met AIDS's trouble — and who comes to sue while himself at fault? The verdict: "ኤድስ ወደሰው አይሂድ፤ ሰው ወደኤድስ አይምጣ" — AIDS shall not go to people, and people shall not go to AIDS; let the disease's file be closed. Argue the case in class, as the lawyer of the plaintiff or of the defendant.
+
+### No Ululation of Joy (ድንቄም እልልታ) — against harmful customs
+
+A poem's charge: a girl whose lot is sorrow, injustice and violence — her cry stifled, her complaint buried inside, bound hand and foot like a lamb for slaughter, cut by the circumcision custom (በግርዛት ልማድ), her body wounded; before her wound has healed she is married off; her playthings scattered, her doll broken, snatched from play into a stranger's house; her pure body defiled, washed in her own blood by men who then answer with "ululation" — but there is no ululation of joy in it. Defend the judgement the book sets: female circumcision is NOT a useful custom. Retell the poem in prose narrative style (ዝርው/ትረካ).
+
+### Write your own poem on HIV/AIDS
+
+The Grade 6 book's own writing task, stocked here with its page: write a poem about HIV/AIDS, then revise it with the teacher's guidance and read it in class. Short-poem writing stands earlier in this lesson; this part adds the book's own topic and its page to that work.
+
+
+## Sub lesson 17 — Grade 7: ዓባይ ሐረግ ሆነ — Abay Became a Vine (the poem itself)
+
+The poem (by ጌትነት እንየው) is summarised, never transcribed. The Abay — Gihon, the Nile — rises from the covenant land carrying black soil and tears, long a stream of weeping that made the country grieve. Now, changed with the times, cleansed of the old curse, reconciled with itself and its people, it stands with its country. A chain of 'ከእንግዲህ' (from now on) vows runs through it: no more flooding as tears, hands no longer folded, love in place of scheming, counsel in place of iron and plots. The book's work on it: an organiser of the Abay's benefits and harms to Ethiopia; favourite verses with reasons; at most four verses showing the theme; and whether the title fits. The poetry-terms note that shares its pages (ሐረግ, ስንኝ, አርኬ, ቤት) is stocked in this lesson's earlier sub lessons.
+
+## Sub lesson 18 — Grade 7: compose your own poem — the p.65 task
+
+Using the poetry note and the read poem as model, Grade 7 sets you to compose: a poem on a chosen topic — our cities, our lakes, our peoples, our school, our friends, our parents — or one of your own. Then exchange notebooks with a neighbour and correct each other's errors: in a poem, correction guards the rhyme (ቤት) and the breath-lines (ሐረግ) as much as the spelling. This Grade 7 page is the citation for the composing work; the lesson's earlier composing sub lesson stands on the Grade 10 guide's evidence and is labelled so in sources.
+
+## Sub lesson 19 — Grade 7: ዓባይ — a song for the Abay
+
+A song lyric for the Abay (by እጅጋየሁ ሽባባው), summarised not transcribed: an ageless, undrying beauty flowing since creation from paradise; the country's glory and garment; the desert's sustenance — those in the desert eat and drink the Abay's water. Its refrain returns: 'ዓባይ ዓባይ, ዓባይ ወንዛወንዙ, ብዙ ነው መዘዙ' — Abay, river of rivers, its tribute is much. And a plea: that the river-water not behave like a person who hears the hungry and thirsty calling and does not answer. The book's questions: whose flesh and blood is the Abay presented as, with evidence? What does repeating ዓባይ four times in one verse do? What is 'የሚበሉት ዉኃ' — the water they eat? Complete a verse whose thought hangs unfinished.
+
+## Sub lesson 20 — Grade 7: old and poetic words of the Abay song
+
+The song's vocabulary is old and poetic, matched to meanings: የማያረጅ never-ageing, የማይደርቅ never-drying, ከጽንሰአዳም since Adam's conception — from the very beginning, ተራብን we hungered, ተጠማን we thirsted, ወራጅ flowing down, ለጋስ generous, ጥንት ancient time, መዘዝ tribute/consequence, ግርማ ሞገስ glory and grace. The writing follow-on: write down the lyrics of another sung poem about the Abay by other singers, and correct them into proper poem form — breath-lines and rhymes set right.
+
+## Sub lesson 21 — Grade 7: የዘመነ ዘመን — The Bygone Era
+
+The poem (መቅረዝ, 2001, adapted) is summarised by its scenes. When elders tell of the bygone era, the narrator longs for the age he never knew: people worked together communally (በደቦ), ate together from one መሶብ, shared and solved troubles side by side; there was no malice, envy or plotting. If people quarrelled, neighbours were called and the fight cooled at once — before the white-clad police (ነጭ ለባሽ) came, before a stick was thrown (ዘብጥያ) or a court judged. The neighbourhood elder set offender and offended right and left, heard both complaints (ሮሮ), and ruled: 'you be soft, you be reconciled'; the offender said 'forgive', the offended accepted, they embraced and held a reconciliation feast (እርቅ) — as if they had never been other than friends. And when disaster struck — a house burned, they rebuilt it by rallying; an ox died, they pooled money and bought another. The narrator, amazed, longs for the old era woven into today's mind. The book's organiser compares: in the old days / nowadays / what is common to both.
+
+## Sub lesson 22 — Grade 7: words of the old neighbourhood — the poem's cloze
+
+The bygone era's words fill a reflective cloze passage: ደቦ (communal work party), ደባ (plot), አበው (elders), ዘብጥያ (a thrown stick / beating), ሮሮ (complaint), እርቅ (reconciliation), አፅናንተው, ነጭለባሽ (the white-clad — police), ማዕድ (shared meal-table), ቂም (grudge), ሰክኖ. Each word is a piece of the old neighbourhood's furniture. The writing follow-on is a greeting letter to a friend or family member — the greeting letter's full model stands in Letters.
+
+## Sub lesson 23 — Grade 8: poem words and collecting oral poems
+
+Grade 8's intangible-heritage chapter works its poems' words in context, then sets two writing tasks: summarise given poems' ideas in 2–3 sentences each; and go out — ask people in your area and write down various oral poems. Collecting is Ethiopia's own way of keeping oral heritage: a poem carried in memory is written down before it can be distorted or lost, exactly as the heritage reading concludes. Write the poem as it was given to you, name who gave it, and mark the occasion it belongs to.
+
+## Sub lesson 24 — Grade 8: ጥሪ — The Call
+
+The poem (by ዋለልኝ, 2001, adapted) is summarised by its calls. The mountain, valley and ridge and their heart-drawing breeze — why changed today? The wild animals that lived in hope have fled and vanished — ሚዳቋ, ድኩላ and the four-legged, gone complaining with screams. By the air's disturbance and the sun's torment, man's dwelling nears its end. When our forest is destroyed unknowingly, who is the beneficiary, who is responsible? Before the country melts like fat (ስብ) into desert, let us strive and run for forest development. Bees suck from the forest's flowers — seeing all this benefit, don't fell the forest, countryman; take heed (አደብ ገዛ). Let everyone raise ten seedlings (አስር ችግኝ) at his house; if everyone plants and waters, from where would desertification come? Be covered with forest, my country Ethiopia. An appointment profits nothing — let us begin today.
+
+## Sub lesson 25 — Grade 8: አሁን መልካም ሥሩ! — Do Good Now!
+
+Grandmothers (እማማ) dressed in beauty, hair braided and wrapped in fine kuta, sitting in the sun, call the children and bless them wholesale. They counsel from their own childhood: sweeping and cleaning the house, brewing coffee, fulfilling the family's need, helping mother, serving relative and neighbour, growing up in peace and love, trusting without suspicion — and because they served everyone in uprightness (ቅንነት), everyone blessed them that their age lengthen. The work done in childhood has borne fruit: who is like them, a full 100 years? Love and peace benefit oneself too; intrigue and conflict shorten life. 'What bears fruit tomorrow — do good now!' The warnings close it: insulting the great, glaring at the neighbour, wasting time in bad places and in jest — these curse the age to shorten. The book's questions compare child-raising then and now, and sort the poem's good and bad characters.
+
 ## Say it to your companion
 
 Perform your group's piece — poem, song or chant — to another

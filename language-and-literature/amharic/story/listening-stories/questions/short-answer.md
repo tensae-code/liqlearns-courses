@@ -96,3 +96,39 @@ Answer in a short sentence, from the story you heard.
 
 **32. (Sub lesson 26)** What does ታዳሚ mean, from Radio and Television?
 **Answer:** The audience — those who listen and watch (Grade 2, p.119).
+
+**33. (Sub lesson 33)** Which families does the listening ask you to name?
+**Answer:** Local families admired as good examples of spacing.
+
+**34. (Sub lesson 34)** What must your talk answer about the widow?
+**Answer:** Where she sat before entering the new house, and the sad thing found at her old house.
+
+**35. (Sub lesson 35)** What organiser orders the making-safe of water?
+**Answer:** A sequence organiser — first / then / next / at last.
+
+**36. (Sub lesson 36)** Why could the heroine not live in agreement with people, in the story?
+**Answer:** Her anger kept her at odds with people — the temper the bee parallel names.
+
+**37. (Sub lesson 37)** Which age group does the book say is most hit by addiction, and why?
+**Answer:** Adolescents and youths — they take up habits as signs of maturity and fear losing friends' love.
+
+**38. (Sub lesson 38)** Name three questions the table asks.
+**Answer:** Any three of: his birth; his father's killing and his age then; where he went; the invasion year and his age; his governorship; his sentence.
+
+**39. (Sub lesson 39)** What five things does the listening ask about the mosque?
+**Answer:** Its building, its century, what is in and around it, its festival times, and its owner (with two benefits).
+
+**40. (Sub lesson 40)** What gap would open without iddir, in the text's question?
+**Answer:** A gap in social relations — members would face death, loss and hardship unaccompanied.
+
+**41. (Sub lesson 41)** Why does the mother laugh when the narrator receives a gift, in the story's telling?
+**Answer:** Because the gift matter had come out on the giver in childhood like measles — the family knows the pattern the gift belongs to.
+
+**42. (Sub lesson 42)** What does አዋጅ mean in the king's part of the story?
+**Answer:** A proclamation — the king's announced award/order.
+
+**43. (Sub lesson 43)** Explain 'my death is your death'.
+**Answer:** When the trees die, the air, shade and rain they guarded die with them — people's lives are bound to the trees' lives.
+
+**44. (Sub lesson 44)** Name two benefits of forests from the hearing.
+**Answer:** Any two of: cleaning man-made polluted air, cooling the earth, holding biodiversity resources, protecting soil and water.

@@ -28,3 +28,12 @@ Sub lesson 6 questions from the type files. Pass mark: tell the life by the poin
 
 ## Sub lesson 7 — Dr Haddis Alemayehu, heard from a recording (teacher guide — evidence)
 Sub lesson 7 questions from the type files. Pass mark: run the recorded-life method in order — prior knowledge stated, main information from the first playing, detailed information from the second, the life told whole from notes — and say how it differs from Sub lesson 4's table method.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 8 — Grade 6: a biography paragraph from Haile Gebrselassie's data card
+Sub lesson 8 questions from the type files. Pass mark: turn the data card's facts — name, parents, birth, motto, records, investment — into one flowing paragraph, then edit and rewrite it as the review sets.
+
+
+

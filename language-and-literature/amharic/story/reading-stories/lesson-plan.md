@@ -177,3 +177,34 @@ and its question list as they are — choosing, not remaking.
 - Sub lesson 17 — Grade 2: judges, patience and balanced food: retell the crooked judgement and name the balanced foods the doctor orders.
 - Sub lesson 18 — Grade 2: dialogues — read them in two voices: read a dialogue in two voices and say the proverb ታሞ ከመማቀቅ አስቀድሞ መጠንቀቅ in your own words.
 - Sub lesson 19 — Grade 2: competitions, telephones and kind animals: say how the blind student's phone helps him, and retell how the ant repaid the bird.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 20 — Grade 5: greetings, the overloaded minibus, and the taxi stickers: Fatuma and Her Friends — greetings (ሠላምታ); The Insatiable One… — the overloaded minibus; The Taxi Stickers (ጥቅሶቹ) — the stickers in the taxi.
+- Sub lesson 21 — Grade 5: the honest officer, the wedding car, noise, and wasted water: For Conscience or for the Belly? (ለኅሊና ወይስ ለሆድ) — the honest traffic officer; The Veil and the Bolo Licence (ቬሎና ቦሎ) — the wedding car and the traffic officer; The Homework (የቤት ሥራ) — noise pollution; The Water-Waster (የዉኃ ጡር) — saving water.
+- Sub lesson 22 — Grade 5: the animals' assembly, the buffalo, the Genna game, and Ete Mete: The Assembly of Ethiopia's Wild Animals (የኢትዮጵያ የዱር እንስሳት ጉባኤ) — the animals' assembly; Love That Species Did Not Limit (ዝርያ ያልገደበው ፍቅር) — the buffalo that kept coming home; Memories of the Genna Game (የገና ጨዋታ ትውስታ) — the Genna game, then and now; Ete Mete (እቴ ሜቴ) — children's games and their rules.
+- Sub lesson 23 — Grade 5 and 6: the list, the clever lament, Demelash, and what left the mouth: The List (ዝርዝሩ); The Clever Lament (ታምረኛው ሙሾ); Demelash (ደመላሽ) — verses that sting; What Left the Mouth (ከአፍ የወጣ አፋፍ) — quarrels, verses and forgiveness.
+- Sub lesson 24 — Grade 6: let us introduce our area — a school visit: Let Us Introduce Our Area (አካባቢያችንን እናስተዋውቃችሁ) — a school visit.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 20 — Grade 5: greetings, the overloaded minibus, and the taxi stickers: Fatuma and Her Friends — greetings (ሠላምታ); The Insatiable One… — the overloaded minibus; The Taxi Stickers (ጥቅሶቹ) — the stickers in the taxi.
+- Sub lesson 21 — Grade 5: the honest officer, the wedding car, noise, and wasted water: For Conscience or for the Belly? (ለኅሊና ወይስ ለሆድ) — the honest traffic officer; The Veil and the Bolo Licence (ቬሎና ቦሎ) — the wedding car and the traffic officer; The Homework (የቤት ሥራ) — noise pollution; The Water-Waster (የዉኃ ጡር) — saving water.
+- Sub lesson 22 — Grade 5: the animals' assembly, the buffalo, the Genna game, and Ete Mete: The Assembly of Ethiopia's Wild Animals (የኢትዮጵያ የዱር እንስሳት ጉባኤ) — the animals' assembly; Love That Species Did Not Limit (ዝርያ ያልገደበው ፍቅር) — the buffalo that kept coming home; Memories of the Genna Game (የገና ጨዋታ ትውስታ) — the Genna game, then and now; Ete Mete (እቴ ሜቴ) — children's games and their rules.
+- Sub lesson 23 — Grade 5 and 6: the list, the clever lament, Demelash, and what left the mouth: The List (ዝርዝሩ); The Clever Lament (ታምረኛው ሙሾ); Demelash (ደመላሽ) — verses that sting; What Left the Mouth (ከአፍ የወጣ አፋፍ) — quarrels, verses and forgiveness.
+- Sub lesson 24 — Grade 6: let us introduce our area — a school visit: Let Us Introduce Our Area (አካባቢያችንን እናስተዋውቃችሁ) — a school visit.- IMAGE [Picture 27602] — two children face to face in the Ete Mete clapping game, hands meeting → the student copies the meeting of hands before sub lesson 22.
+- GIF [GIF 27610] — the Ete Mete sequence: clap your own hands, clap your partner's, touch elbow and chest, faster and faster → the student plays along.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 25 — Grade 7: አራርቆ መውለድ — Spacing Births.
+- Sub lesson 26 — Grade 7: ልጅ በልጅነት — A Child in Childhood.
+- Sub lesson 27 — Grade 7: የጉለሌው ሰካራም — The Drunkard of Gulele.
+- Sub lesson 28 — Grade 7: በዓል አክባሪው ባል — The Husband Who Honoured the Holiday.
+- Sub lesson 29 — Grade 7: አራሽና ተኳሽ — The Ploughman and the Shooter.
+- Sub lesson 30 — Grade 8: ወይ አለማወቅ! — the mother and the fire.
+- Sub lesson 31 — Grade 8: ፍትህ ከሰው አልፎ… — the king, the donkey and justice.
+- Sub lesson 32 — Grade 8: ቁጭት — Regret.
+- Sub lesson 33 — Grade 8: ምን ይሻላል? — What Would Be Better?.
+- Sub lesson 34 — Grade 8: ማኅበራዊ ሕይወት — Social Life, a dialogue story.
+- Sub lesson 35 — Grade 8: ደባ ራሱን ስለት ድጉሱን — Intrigue Is a Blade for Itself.
+- Sub lesson 36 — Grade 8: የኑሩ ትዝታ — Nuru's Memory.

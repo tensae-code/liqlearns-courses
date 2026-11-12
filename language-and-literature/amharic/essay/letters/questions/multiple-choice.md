@@ -29,3 +29,20 @@ a) a wedding  b) a baptism (ክርስትና) and a memorial (ተዝካር)  c) a
 **7. (Sub lesson 7)** Though an application letter (የማመልከቻ ደብዳቤ) is a personal letter, it must be written in formal words because —
 a) it is longer than other letters  b) it enters an office  c) it has no greeting
 **Answer: b) it enters an office** — it requests a matter from a private organisation or a government office, so formal words and the main matters are required.
+
+**8. (Sub lesson 8)** ሐምሌ አስር, ኹለት ሺህ አሥራ ሦስት written in figures is what?
+a) 10/11/2013  b) 11/10/2013  c) 10/12/2013
+**Answer: a) 10/11/2013** — day/month/year in register form.
+
+**9. (Sub lesson 8)** In the reference number 101/3055/13, what does 101 stand for?
+a) The subject code — ሪፖርቶች (reports)  b) The year  c) The file number
+**Answer: a) The subject code — ሪፖርቶች (reports)** — office + subject code + file number + year.
+
+**10. (Sub lesson 8)** What are a reference number's parts, in order?
+a) Office abbreviation, subject code, file number, year  b) Year only  c) Subject, greeting, body
+**Answer: a) Office abbreviation, subject code, file number, year** — the parts click together in that order.
+
+
+**11. (Sub lesson 9)** A greeting letter's parts, in order, are —
+a) body, date, signature  b) date and sender, greeting part, body part, closing part, signature  c) subject, body, stamp
+**Answer: b) date and sender, greeting part, body part, closing part, signature** — the model's order: heading, greeting, body, closing, signature.

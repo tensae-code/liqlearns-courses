@@ -292,6 +292,27 @@ finished.
   retell the leopard-and-dik-dik fable in your own words, and
   list kinds of birds, with ጉጉት as the model.
 
+
+## Sub lesson 11 — Grade 5: sequencing the Dream story, and retelling The Wise Girl in sequence
+
+
+### Sequencing connectors — the Dream story in order
+
+Sequence the events of the Dream story (Tirngo's dream of migration) with the connectors the book itself sets: በመጀመሪያ (first), በመቀጠል (next), ከዚያም (then), በመጨረሻ (finally). Event ordering itself stands in sub lesson 3 of this lesson from other books; these four connectors, and this story, are stocked here at their own page.
+
+### Retell The Wise Girl in sequence
+
+The writing task that rides with the Wise Girl vocabulary: retell the story's events in sequence in a graphic organiser — the mother's saying, the two children's two understandings, the showing of the "houses", the honouring of the friend-maker. The synonym half of this placement stands in the Word Families lesson; the retelling is stocked here.
+
+
+## Sub lesson 12 — Grade 7: በላ ልበልሃ — the verse court itself
+
+Before formal courts, one of Ethiopia's judgement systems was the traditional litigation (ባህላዊ የሙግት ሥርዓት): elders and judges settled disagreements in poetry, story and proverb. The case: a farmer whose ox was lost got slight clues pointing to a neighbour and stood him up for litigation. The ACCUSER pleads in verse: he swears to speak only truth; he came flowing like water; 'for a soldier there is no lunch, for a fox there is no threshing-floor; my ox vanished from the highland and I came in a blood-search; at your door your son holds a leg of meat — so you will pay for my ox.' The ACCUSED answers in verse: 'a goat bears twins, one for the mat, one for the winnowing fan — the mat is me, the fan is you; if you flow like water you return by the channel; how has the fox no threshing-floor? She enters a forty-cubit lunch' — contradicting the proverb; and: above my house is a mountain, the hyena's and eagle's crossing; below its tree a road where the hyena passes and over it the eagle; if hyena and eagle fought and dropped a leg of meat, and a child who knows nothing picked it up — do not raise your claim against me. Bystanders cry 'It's true! He told it well!' The judges acquit: 'ስጋ ስጋን በልተሻል፣ ሙግትሽ ግን አዋጥቶሻል' — meat may have eaten meat for you, but your argument has cleared you. The literary-elements note sharing these pages (characters, setting, conflict, theme, plot) is stocked in this lesson's earlier sub lessons. The follow-on work (p.107): court words in new sentences (ገሳ, ወናፍ, ሙዳ, ሞገተ, ሥርዓት, ነጭ, ጋዣ), composing your OWN verse dispute — 'you took my book — I didn't take it' — dictation of a heard dialogue, and (p.108) role-playing the court, accuser and accused in parts.
+
+## Sub lesson 13 — Grade 7: finishing paragraphs, ordering addiction sentences
+
+Two Grade 7 writing tasks. First, complete two given paragraph openings: 'our class's clever students…' and 'one day I went down to the river to wash clothes with my beloved dog Bobbi…' — a completion must honour the opening's voice and direction. Second, arrange six scrambled sentences into one paragraph — the set text explains how addiction begins: addiction is the habit from cigarettes, chat, drugs and alcohol; some fall in wanting to do everything others do; adolescents take smoking and chat as signs of civilisation, bigness, freedom and maturity; some are trapped not wanting to lose addicted friends' love; many enter not knowing themselves or addiction's harm. Order is found by sense-links: definition first, then the doors in, then the trap.
+
 ## Say it to your companion
 
 Tell your companion a story you know, walking its shape out loud:

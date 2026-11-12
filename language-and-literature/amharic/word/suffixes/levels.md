@@ -19,3 +19,12 @@ Pass mark: grow the ሰፋ family (አሰፋ, ተሰፋ, ተስፋፋ, አስፋ
 
 ## Sub lesson 6 — Prefixes: the pieces that enter before
 Pass mark: sort the keyed pieces by where they enter — ኢ- and መ- are prefixes (ቅድመ ገብ), -አዊ, -ነት and -ኦሽ are suffixes (ድህረ ገብ) — and build and peel a two-ended word (ከ- + ሴት + -ኦች → ከሴቶች). This sub lesson stands on teacher-guide evidence only.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 7 — Grade 5 and 6: the አድናቂ chain, stems and ending suffixes, and ዘመናቸው split
+Sub lesson 7 questions from the type files. Pass mark: build አድናቂዎቹን step by step, split እንቅልፋችሁ into stem and ending, and split ዘመናቸው = ዘመን + -ኣቸው.
+
+
+

@@ -37,3 +37,11 @@ a) አለበለዚያ — otherwise  b) እና  c) ወይም
 **9. (Sub lesson 4)** "ሻይ ____ ቡና ትጠጣለህ?" (Will you drink tea ____ coffee?) offers a choice — the word is —
 a) ስለሆነም  b) አለበለዚያ  c) ወይም
 **Answer: c) ወይም** — tea or coffee: one of two, chosen.
+
+**10. (Sub lesson 5)** A dependent clause is a word-set whose verb —
+a) is in the past  b) has been made non-binding, so it cannot stand alone  c) is a question
+**Answer: b) has been made non-binding, so it cannot stand alone** — non-binding is the test: ስትጋግር waits for its completer.
+
+**11. (Sub lesson 6)** 'ዛፍ ሲጠፋ እምባጮ አድባር ይሆናል' joins its halves by —
+a) contrast  b) time — WHEN a tree is lost  c) a list
+**Answer: b) time — WHEN a tree is lost** — ሲ- marks the time clause: when the tree is lost, the stump becomes a seat.

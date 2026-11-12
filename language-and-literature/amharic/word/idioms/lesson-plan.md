@@ -51,3 +51,7 @@ Paper and a pencil. Nothing else.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. This lesson stands on teacher-guide evidence only — there is no pupil book behind it, and sources.md says so.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 4 — Grade 7: idioms of the Blighted Hope story.
+- Sub lesson 5 — Grade 8: explaining a text's own sayings — forests and counsel.

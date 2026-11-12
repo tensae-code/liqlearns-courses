@@ -37,3 +37,19 @@ Sub lesson 9 questions from the type files. Pass mark: run Enatitu's full stretc
 
 ## Sub lesson 10 — Grade 1–2: review, draw-and-label, and finishing what is started
 Sub lesson 10 questions from the type files. Pass mark: answer the ዱባና ድንች review questions, complete a started dialogue in both voices, and sort animals into suckle/lay-eggs.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 11 — Grade 5: sequencing the Dream story, and retelling The Wise Girl in sequence
+Sub lesson 11 questions from the type files. Pass mark: sequence the Dream story's events with በመጀመሪያ / በመቀጠል / ከዚያም / በመጨረሻ, and retell The Wise Girl in order in the organiser.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 12 — Grade 7: በላ ልበልሃ — the verse court itself
+Sub lesson 12 questions from the type files. Pass mark: retell the case — claim, defence, judgement — and compose two lines of your own verse dispute.
+
+
+## Sub lesson 13 — Grade 7: finishing paragraphs, ordering addiction sentences
+Sub lesson 13 questions from the type files. Pass mark: order the addiction sentences and complete one opening in its own voice.
+

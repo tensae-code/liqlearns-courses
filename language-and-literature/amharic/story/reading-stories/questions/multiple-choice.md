@@ -156,3 +156,124 @@ a) A frying pan  b) A second clay pot  c) An iron pot
 **39. (Sub lesson 19)** Abdi drops his mother's phone while rushing to…
 a) The football field  b) School  c) The river
 **Answer: a) The football field** — Grade 2 pp.125–126.
+
+**40. (Sub lesson 20)** In COVID-19 times, what replaces hand-kissing and handshake greetings in Fatuma's dialogue?
+a) A distanced hand-raise  b) No greeting at all  c) A bow only
+**Answer: a) A distanced hand-raise** — the dialogue's own distanced greeting.
+
+**41. (Sub lesson 20)** Who is Setotaw revealed to be at Dangila?
+a) An inspector  b) The driver  c) A conductor
+**Answer: a) An inspector** — he produces a card and orders the driver to the police station.
+
+**42. (Sub lesson 20)** Why does Azalu weep in the taxi?
+a) Her husband died in a crash of an overloaded vehicle  b) She lost her money  c) The stickers offend her
+**Answer: a) Her husband died in a crash of an overloaded vehicle** — the story's turn from laughter to tears.
+
+**43. (Sub lesson 21)** What does Wubit do with the bundle the truck driver slips toward her pocket?
+a) She scatters it on the ground  b) She keeps it quietly  c) She shares it with Mesele
+**Answer: a) She scatters it on the ground** — integrity shown in one act.
+
+**44. (Sub lesson 21)** What is the wedding car's fault when it is stopped?
+a) Its bolo licence is unrenewed  b) It has no driver  c) It carries no passengers
+**Answer: a) Its bolo licence is unrenewed** — an unfit car could turn the wedding day into mourning.
+
+**45. (Sub lesson 21)** Where does Arega finally read with appetite?
+a) In the dense forest  b) At school  c) At home
+**Answer: a) In the dense forest** — until the loud music reaches even there.
+
+**46. (Sub lesson 21)** What does የውኃ ጡር mean?
+a) One who cannot have enough water — a water-waster  b) A water carrier  c) A well-digger
+**Answer: a) One who cannot have enough water — a water-waster** — the story's own idiom.
+
+**47. (Sub lesson 22)** Who keeps the minutes at the animals' assembly?
+a) The monkey (ጦጢት)  b) The lion  c) The giraffe
+**Answer: a) The monkey (ጦጢት)** — the lion chairs; the monkey keeps minutes.
+
+**48. (Sub lesson 22)** How many times does the released buffalo find its way back home?
+a) Four times  b) Once  c) Twice
+**Answer: a) Four times** — it now lives with Gashaw as his bull.
+
+**49. (Sub lesson 22)** What is new in the Genna game today, in the son's words?
+a) It has been given law — referees, warnings, a red card  b) It is played indoors  c) It uses a bigger ball only
+**Answer: a) It has been given law — referees, warnings, a red card** — then: no referee, no rules; now: the red card (ቀይ ካርድ).
+
+**50. (Sub lesson 22)** In Ete Mete, what happens to the tempo as the song goes on?
+a) It rises, faster and faster from the seventh line  b) It slows down  c) It stops at the seventh line
+**Answer: a) It rises, faster and faster from the seventh line** — the clapping game speeds up to its song.
+
+**51. (Sub lesson 23)** Why does the servant refuse to lift his fallen master?
+a) The master is not on the written list  b) He is too tired  c) The horse ran away
+**Answer: a) The master is not on the written list** — obeying without thinking — the tale's point.
+
+**52. (Sub lesson 23)** In The Clever Lament, what does the sister's verse "the amole is in the new granary" do?
+a) It concedes where the stolen salt is hidden  b) It asks for more salt  c) It ends the funeral
+**Answer: a) It concedes where the stolen salt is hidden** — the coded verses trade secret for secret.
+
+**53. (Sub lesson 23)** Why does Demelash flush and storm out?
+a) The azmari's repeated verse needles him with the load-mule name  b) His glass breaks  c) The tej runs out
+**Answer: a) The azmari's repeated verse needles him with the load-mule name** — a verse that stings, repeated in song.
+
+**54. (Sub lesson 23)** Where is Anchinalu often seen going at the story's end?
+a) To the elders whose plea she once refused  b) To the market  c) To her husband's new house to fight
+**Answer: a) To the elders whose plea she once refused** — the neighbours' urging begins to work.
+
+**55. (Sub lesson 24)** What is the school club in the visit account called?
+a) Know-Your-Country club (ሀገርህን እወቅ ክበብ)  b) The traffic-safety club  c) The gender club
+**Answer: a) Know-Your-Country club (ሀገርህን እወቅ ክበብ)** — the club that planned all year.
+
+**56. (Sub lesson 24)** What does the teacher charge the learners to do on the visit?
+a) Observe carefully, note it down, and ask about what they don't understand  b) Walk in silence  c) Only take photographs
+**Answer: a) Observe carefully, note it down, and ask about what they don't understand** — a visit is both learning and pleasure.
+
+**57. (Sub lesson 24)** What stands at the top of the great cave?
+a) A waterfall breaking into a rainbow on the rocks  b) A flag  c) A village
+**Answer: a) A waterfall breaking into a rainbow on the rocks** — the account's central sight.
+
+
+**58. (Sub lesson 25)** Spacing births means —
+a) children born in different places  b) an age gap of 3–4 years between children  c) having many children quickly
+**Answer: b) an age gap of 3–4 years between children** — the worker corrects the joke: spacing is the age gap — 3 to 4 years.
+
+**59. (Sub lesson 26)** The young mother at the bus stop is —
+a) 21, soon to have three children  b) a health worker  c) travelling for a wedding
+**Answer: a) 21, soon to have three children** — she says it herself: 21 years old, a baby on her back, a toddler in hand, pregnant.
+
+**60. (Sub lesson 27)** Tebejje's clash in the story is with —
+a) his neighbour  b) the customs officers  c) himself
+**Answer: c) himself** — he debates himself — house's honour against the bottle — and the bottle wins the night.
+
+**61. (Sub lesson 28)** The holiday money was lost —
+a) buying the sheep  b) at a card game in the grocery  c) in the taxi
+**Answer: b) at a card game in the grocery** — drink first, then the beloved card game — stakes climbing to a hundred birr.
+
+**62. (Sub lesson 29)** Aya Yirsaw carries to his field —
+a) only his plough  b) ploughshare and yoke on one shoulder, a rifle on the other  c) a flag and a drum
+**Answer: b) ploughshare and yoke on one shoulder, a rifle on the other** — both callings at once — that double load IS the story's title.
+
+**63. (Sub lesson 30)** The mother's scars came from —
+a) an illness  b) running through fire to carry her baby out  c) a market accident
+**Answer: b) running through fire to carry her baby out** — she was burnt saving him — 'your fire, I was burnt it for you.'
+
+**64. (Sub lesson 31)** The bell-ringer who restarted justice was —
+a) a farmer  b) a wounded donkey  c) a salt trader
+**Answer: b) a wounded donkey** — the donkey rubbed the pole, and the king heard even that complaint.
+
+**65. (Sub lesson 32)** The narrator chose forest development because of —
+a) a scholarship abroad  b) his ቁጭት — regret at his area's stripped forests  c) his father's trade
+**Answer: b) his ቁጭት — regret at his area's stripped forests** — regret drives the choice — he studies to restore what felling destroyed.
+
+**66. (Sub lesson 33)** Mimi is beaten when honey or sugar disappears —
+a) only when she took it  b) even when she denies it, as usual  c) never
+**Answer: b) even when she denies it, as usual** — the blame is automatic — 'she prepares herself for the stick' on days the children steal.
+
+**67. (Sub lesson 34)** Mamu wants to break the television because —
+a) it shows only news  b) watching creatures eat each other saddens and worries him  c) it is broken already
+**Answer: b) watching creatures eat each other saddens and worries him** — the food-chain programme fills his mind with sorrow — 'stomach enemy to stomach'.
+
+**68. (Sub lesson 35)** Nesredin claims he lost —
+a) four thousand birr  b) five thousand birr  c) nothing
+**Answer: b) five thousand birr** — he inflates four to five — and the inflation is his trap.
+
+**69. (Sub lesson 36)** Nuru stopped Efrem by —
+a) running away  b) pushing him with all his strength as he raised his foot  c) calling the cat
+**Answer: b) pushing him with all his strength as he raised his foot** — he pushed Efrem backwards, and they grappled until the elder came.

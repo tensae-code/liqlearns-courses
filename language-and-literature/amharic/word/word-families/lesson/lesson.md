@@ -114,6 +114,19 @@ This is why the families matter. A reader who owns the
 same-meaning family can say everything twice — and a writer
 who can swap never gets stuck on one word.
 
+
+## Sub lesson 4 — Grade 5: The Wise Girl's synonyms, and the Littering essay's antonyms
+
+
+### Synonym matching — The Wise Girl's words
+
+Match the synonyms as the book sets them: ጓደኛ ↔ ወዳጅ (friend), ሰንሰለት (chain), መቀለስ, የሚያምሩ, and ዘመን የማይሽረው — "that time does not erase". Synonyms as a system stand in sub lesson 1 of this lesson from other books; this part stocks the Grade 5 book's own matching set at its own page. (The retelling writing that rides with it stands in the Writing About Stories lesson.)
+
+### Antonym matching — from 'Littering Is Forbidden!'
+
+Match the antonyms (ተቃራኒ) from the hate-speech-as-litter essay: ያናጋል ↔ ያረጋጋል (stirs up ↔ calms), ጥላቻ ↔ ፍቅር (hatred ↔ love), ውጫዊ ↔ ውስጣዊ (outer ↔ inner), and their companions. Antonyms as a system stand in this lesson and in Same and Opposite Words; this part stocks the Grade 5 book's own set at its own page. (The word-order unscrambling that rides with it stands in the Writing Sentences lesson.)
+
+
 ## Say it to your companion
 
 Grow a web in talk: one of you names a centre word — ቤተሰብ,

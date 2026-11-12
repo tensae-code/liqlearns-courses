@@ -85,3 +85,18 @@ Paper and a pencil. Nothing else.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 14 — Grade 5 and 6: adverbs whole — native and derived, the four kinds, and adverbs at work in sentences and a story: The Adverb (ተውሳከግስ) — native and derived; Building sentences with adverbs — the Grade 5 practice set; Adverbs and their kinds — the Grade 6 classification; Building sentences with time adverbs — the Grade 6 set; Adverb kinds in a story — the table and the night cloze.
+- Sub lesson 15 — Grade 6: picking out the adjectives: Adjectives (ቅጽል) picked out of sentences.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 14 — Grade 5 and 6: adverbs whole — native and derived, the four kinds, and adverbs at work in sentences and a story: The Adverb (ተውሳከግስ) — native and derived; Building sentences with adverbs — the Grade 5 practice set; Adverbs and their kinds — the Grade 6 classification; Building sentences with time adverbs — the Grade 6 set; Adverb kinds in a story — the table and the night cloze.
+- Sub lesson 15 — Grade 6: picking out the adjectives: Adjectives (ቅጽል) picked out of sentences.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 16 — Grade 7: the adjective/adverb sorting table.
+- Sub lesson 17 — Grade 7+8: adverb types, persons, and picking adverbs out.
+- Sub lesson 18 — Grade 8: words that describe nouns and verbs.

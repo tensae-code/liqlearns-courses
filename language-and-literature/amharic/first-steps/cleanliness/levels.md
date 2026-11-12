@@ -22,3 +22,12 @@ say when: every day.
 Sub lesson 3 questions from the type files. Pass mark: name the
 daily jobs (face, body, feet, hair, combing), the five hygiene
 things, and Meseret's habits; cover a sneeze with the elbow.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 4 — Grade 5: The Smile — Fatuma, Momina, and the dentist
+Sub lesson 4 questions from the type files. Pass mark: retell The Smile in order and give the science lesson's dental steps exactly — pea-sized paste, every tooth, the tongue, twice a day and after sweets.
+
+
+

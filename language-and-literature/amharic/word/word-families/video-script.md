@@ -28,3 +28,14 @@ Take out በላሁ. Put in its partner: ተመገብኩ.
 The sentence stands. The meaning stands. Only the word changed.
 
 Own the family, and you can say everything twice.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 4 — Grade 5: The Wise Girl's synonyms, and the Littering essay's antonyms: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

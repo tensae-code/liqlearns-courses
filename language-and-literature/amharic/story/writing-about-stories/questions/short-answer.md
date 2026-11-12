@@ -28,3 +28,9 @@ Answer in a few words, or one sentence.
 
 **9. (Sub lesson 9)** Say the four beats of reading እናቲቱ ("Enatitu") at full stretch, in order.
 **Answer:** (1) Pre-reading pair discussion and prediction; (2) timed silent reading; (3) post-reading answers recorded in a table, in groups; (4) the groups report in turn.
+
+**10. (Sub lesson 12)** What proverb does the accused contradict, and how?
+**Answer:** 'For a fox there is no threshing-floor' — he answers that the fox enters a forty-cubit lunch, so the proverb fails.
+
+**11. (Sub lesson 13)** Name two doors into addiction the set text names.
+**Answer:** Any two of: imitating others; taking smoking/chat as signs of maturity and freedom; fear of losing addicted friends' love; not knowing the harm.

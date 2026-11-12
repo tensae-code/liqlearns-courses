@@ -60,3 +60,27 @@ Answer in a short sentence, from the passage.
 
 **20. (Sub lesson 19)** What does Weyinitu offer in Accepting Responsibility?
 **Answer:** To help Kemal's group when her own group finishes (Grade 2, p.94).
+
+**21. (Sub lesson 27)** How does the last speaker define family planning?
+**Answer:** The method by which we decide how many children to have, from our income and living conditions — husband and wife sharing the responsibility.
+
+**22. (Sub lesson 28)** What two aims has the recent youth volunteer service?
+**Answer:** Serving community segments, and strengthening national unity and social values.
+
+**23. (Sub lesson 29)** How much electric power does the text name?
+**Answer:** 6,000 units of electric power.
+
+**24. (Sub lesson 30)** Name two health harms the text lists.
+**Answer:** Any two of: depression/agitation, stomach and intestine dryness, reduced appetite, TB/hepatitis exposure, spoiled teeth, raised heart rate and blood pressure.
+
+**25. (Sub lesson 31)** What do the hourly wages seem to the narrator, instead of the price of labour?
+**Answer:** Compensation paid for the failed yesterday of the one who left his home country.
+
+**26. (Sub lesson 32)** What two kinds of heroes does the essay call for?
+**Answer:** Heroes of work and heroes of thought — word and deed one.
+
+**27. (Sub lesson 33)** How large is the Fasil palace compound?
+**Answer:** 70,000 m², with six kings' palaces.
+
+**28. (Sub lesson 34)** What form does this reading take?
+**Answer:** An interview — a student questioning her teacher, the answers in parts.

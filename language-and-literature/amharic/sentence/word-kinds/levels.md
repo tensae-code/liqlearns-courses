@@ -40,3 +40,26 @@ Pass mark: name the place each pronoun stands in — speaker (1st: እኔ / እ�
 
 ## Sub lesson 13 — Adjectives, grown (teacher guide — evidence)
 Pass mark: find the modifier standing before its noun in ረጅም ቀሚስ / አዲስ መኪና / ጎጂ ልማድ, say whether it tells kind, size, type or origin, and pick the keyed adjectives (ትላልቅ, አዲስ, ጎበዝ, ወፍራም, ሰፊ, አጭሩ, ሩቅ, ትኩስ, ጥቁር, ረዥም) out of sentences.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 14 — Grade 5 and 6: adverbs whole — native and derived, the four kinds, and adverbs at work in sentences and a story
+Sub lesson 14 questions from the type files. Pass mark: tell a native adverb from a derived one, sort adverbs into time/place/manner/degree, build sentences with the books' adverb sets, and complete the night story with the right adverbs.
+
+## Sub lesson 15 — Grade 6: picking out the adjectives
+Sub lesson 15 questions from the type files. Pass mark: pick the adjective out of each of the book's phrases — ሐሰተኛ መረጃ, ታሪካዊ ቀን, አመለኛ በቅሎ — and say what each one describes.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 16 — Grade 7: the adjective/adverb sorting table
+Sub lesson 16 questions from the type files. Pass mark: sort the ten phrases into the two columns and state the test you used.
+
+
+## Sub lesson 17 — Grade 7+8: adverb types, persons, and picking adverbs out
+Sub lesson 17 questions from the type files. Pass mark: classify three adverbs by type and pick the adverbs out of three sentences.
+
+
+## Sub lesson 18 — Grade 8: words that describe nouns and verbs
+Sub lesson 18 questions from the type files. Pass mark: pick both modifiers out of three sentences and write one sentence with both.
+

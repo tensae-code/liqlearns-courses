@@ -13,3 +13,6 @@ Say true or false.
 
 **4. (Sub lesson 4)** A plural subject can sit beside a verb phrase of any number — agreement does not matter.
 **Answer: False** — subject and verb phrase must agree in number, gender and person (መደብ).
+
+**5. (Sub lesson 7)** Pronouns and verbs change for number as well as nouns — አንተ is in the set to prove it.
+**Answer: True**

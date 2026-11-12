@@ -26,3 +26,15 @@ Sub lesson 6 questions from the type files. Pass mark: fill the wedding invitati
 
 ## Sub lesson 7 — The application letter (የማመልከቻ ደብዳቤ)
 Sub lesson 7 questions from the type files. Pass mark: write an application letter in formal words — date, the office, the ጉዳዩ subject line, a body that states the facts and humbly requests, ከሠላምታ ጋር, signature and name.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 8 — Grade 6: building a letter's reference number from its parts
+Sub lesson 8 questions from the type files. Pass mark: build a reference number from office abbreviation + subject code + file number + year, and write spelled-out dates in figure form.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 9 — Grade 7: my greeting letter — the follow-on writing
+Sub lesson 9 questions from the type files. Pass mark: write a greeting letter to a real person with all the model's parts.
+

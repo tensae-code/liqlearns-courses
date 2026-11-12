@@ -45,3 +45,53 @@ Sub lesson 12 questions from the type files. Pass mark: write the short poem የ
 
 ## Sub lesson 13 — Grade 2: perform it, and the spoken-poem kinds
 Sub lesson 13 questions from the type files. Pass mark: sing Hoya Hoye in tune, write two festival-day sentences, and tell qererto from fukera by their pictures.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 14 — Grade 5: the iron pot, wake from your sleep, patriotism, and the driver
+Sub lesson 14 questions from the type files. Pass mark: retell the pots' fable and its lesson, complete a verse line of the iron-pot poem, give the wake-up poem's charge, and answer the patriotism poem in multiple choice as the book sets it.
+
+## Sub lesson 15 — Grade 6: a praise poem, the oral poems of our area, and thoughts in poems
+Sub lesson 15 questions from the type files. Pass mark: say what the praise poem's poet admits about his pen, name the three oral-poem genres of Our Locality with one mark of each, and match couplets by thought.
+
+## Sub lesson 16 — Grade 6: curse laziness, what 'country' means, a vision, a courtroom poem, and no ululation of joy
+Sub lesson 16 questions from the type files. Pass mark: name the three fruitless people of the laziness poem, state Bedilu's definition of country, retell the courtroom verdict, and say why the ululation poem refuses joy.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 17 — Grade 7: ዓባይ ሐረግ ሆነ — Abay Became a Vine (the poem itself)
+Sub lesson 17 questions from the type files. Pass mark: summarise the poem's turn from weeping to vows and judge its title.
+
+
+## Sub lesson 18 — Grade 7: compose your own poem — the p.65 task
+Sub lesson 18 questions from the type files. Pass mark: compose a short poem on one of the book's topics and correct a partner's draft.
+
+
+## Sub lesson 19 — Grade 7: ዓባይ — a song for the Abay
+Sub lesson 19 questions from the type files. Pass mark: summarise the lyric and explain its refrain's work.
+
+
+## Sub lesson 20 — Grade 7: old and poetic words of the Abay song
+Sub lesson 20 questions from the type files. Pass mark: match five of the song's old words to their meanings.
+
+
+## Sub lesson 21 — Grade 7: የዘመነ ዘመን — The Bygone Era
+Sub lesson 21 questions from the type files. Pass mark: summarise the poem's old neighbourhood and fill one row of its old-days/nowadays organiser.
+
+
+## Sub lesson 22 — Grade 7: words of the old neighbourhood — the poem's cloze
+Sub lesson 22 questions from the type files. Pass mark: use ደቦ, ሮሮ and እርቅ correctly in one short passage of your own.
+
+
+## Sub lesson 23 — Grade 8: poem words and collecting oral poems
+Sub lesson 23 questions from the type files. Pass mark: summarise one poem in 2–3 sentences and plan one collecting visit.
+
+
+## Sub lesson 24 — Grade 8: ጥሪ — The Call
+Sub lesson 24 questions from the type files. Pass mark: state the poem's call and the number it sets for every house.
+
+
+## Sub lesson 25 — Grade 8: አሁን መልካም ሥሩ! — Do Good Now!
+Sub lesson 25 questions from the type files. Pass mark: summarise the grandmothers' counsel and its warning.
+

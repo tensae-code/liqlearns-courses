@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 3)** A paragraph can be grown from given points as well as from a starter sentence.
 **Answer: True** — the books grow paragraphs both ways (the civet points; the starters).
+
+**4. (Sub lesson 4)** One paragraph keeps to ONE chosen topic.
+**Answer: True**

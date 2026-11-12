@@ -20,6 +20,12 @@ countries: Ethiopia
 
 **Book 9:** *Grade 8 Amharic Teacher Guide* (አማርኛ እንደ መጀመሪያ ቋንቋ, የመምህር መምሪያ መጽሐፍ, ፰ኛ ክፍል) (teacher guide — evidence) — Ethiopia, Addis Ababa City Administration Education Bureau. Partial scan: printed pp. 1–38 in hand (Chapters 1–3 complete + Chapter 4 partial); printed page = PDF page − 5. Read by OCR plus visual cover/TOC checks in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g08-teacher-placements.md.
 
+**Book 10:** *Grade 5 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 5ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C.; authors ቦሰና ጀጃው መኮንን, ክፍሌ ስበረው ሽንቁጤ; 203 PDF pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g05-student-placements.md.
+
+**Book 11:** *Grade 6 Amharic Student Textbook (አማርኛ የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau; 209 PDF pp., printed pp.1–197. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g06-student-placements.md.
+
+**Book 12:** *Amharic Student Textbook, Grade 8* (አማርኛ የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C.; preparers እናትነሽ በዛብህ ምህረቴ, አምባው ደምሴ ቀኜ; editors ትንሣኤ ብርሀኔ ላቀው, ተሻገር አስማረ ደምሴ; 176 PDF pp., printed pp. 1–164. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/amharic/g08-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the storytelling roles ተራች (tale-teller) and መላሽ (responder); tale openings (የተረት መግቢያ) and closings; "ተረት ተናጋሪ" formulas; groups role-play teller and responder | Ethiopia, *Amharic Student Textbook, Grade 3*, printed p.32 |
@@ -46,12 +52,57 @@ countries: Ethiopia
 | Picture 8901 (panel: moderator and participants) — drawn for this lesson from the Sub lesson 6 row above | Drawn render made in this build (PIL, cream-paper style), from Book 7 above |
 | Picture 8903 (work poetry at the threshing floor) — drawn for this lesson from the Sub lesson 7 rows above | Drawn render made in this build (PIL, cream-paper style), from Book 8 above |
 | GIF 8904 (a qene poem opening into its hidden meaning) — drawn for this lesson from the Sub lesson 8 rows above | Drawn render made in this build (PIL, cream-paper style), from Book 9 above |
+| Sub lesson 10 — The timed one-minute fluency check | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.20 |
+| Sub lesson 10 — Fluent reading practice on The Wise Girl | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.5 |
+| Sub lesson 10 — The river-crossing logic puzzle, spoken in groups | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.20 |
+| Sub lesson 11 — Debate: building a house or making friends? | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.8 |
+| Sub lesson 11 — Debate: traditional dress is better than modern dress — and the lists | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.45 |
+| Sub lesson 11 — Debate: whose fault are traffic accidents? | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.65 |
+| Sub lesson 11 — Debate: tourism's positive effects outweigh its negative — or the opposite | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.107 |
 
 | Sub lesson 9 — match device pictures to names (ሬዲዮ, ቴሌቪዥን, ስልክ, ባትሪ, ካሜራ) + device phrases (fix build: pp.122–124 were omitted before; placement G2 #109) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.122–124 |
 | Sub lesson 9 — complete a telephone conversation (the completion task of the same placement; performed whole in sub lesson 2 at pp.132–133) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.122–124 |
 
+| Sub lesson 12 — talk on nature | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 9 |
+| Sub lesson 12 — research talk on a rare Ethiopian wild animal | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 12 |
+| Sub lesson 13 — interview a health professional (speaking) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 27 |
+| Sub lesson 13 — solution-seeking conversation (ጭውውት) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 42 |
+| Sub lesson 14 — present your biography aloud | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 54 |
+| Sub lesson 14 — famous-lives talks | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 59 |
+| Sub lesson 15 — water-uses talk + speech tips | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 71 |
+| Sub lesson 15 — local water-source talk | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 76–77 |
+| Sub lesson 16 — group report on trafficking harms (speaking) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 87 |
+| Sub lesson 16 — youths' social-role talk | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 92 |
+| Sub lesson 16 — field-research talks on smoking and on chat | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 119 |
+| Sub lesson 17 — researching iddir and equb (speaking) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 103 |
+| Sub lesson 17 — role-playing the verse court | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 108 |
+| Sub lesson 17 — role play: the chat addict and the doctor | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 125 |
+| Sub lesson 18 — what a patriot does at every level (speaking) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 137 |
+| Sub lesson 19 — madness discussion + presenting group points | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 9–10 |
+| Sub lesson 19 — group discussion, cultures at home and abroad | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 13–14 |
+| Sub lesson 20 — tangible/intangible comparison talks | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 27 |
+| Sub lesson 20 — institutions talk | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 31 |
+| Sub lesson 20 — speech preparation topics | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 40–42 |
+| Sub lesson 21 — patriots talk, set title | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 46 |
+| Sub lesson 21 — true-story speaking | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 55–56 |
+| Sub lesson 21 — wise-woman speech, supported with examples | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 60 |
+| Sub lesson 22 — debate — many-children topic + 8-point margin note | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 70–71 |
+| Sub lesson 22 — debate — mothers vs fathers + conduct note | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 135–136 |
+| Sub lesson 23 — two-sided forest talks | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 85–86 |
+| Sub lesson 23 — bee / industrious-woman comparison talk | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 90–91 |
+| Sub lesson 24 — children's-work talk | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 103–104 |
+| Sub lesson 24 — working-children talks | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 108 |
+| Sub lesson 24 — children and mothers' advice talk | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 118 |
+| Sub lesson 25 — the interview protocol (7-point) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 123 |
+| Sub lesson 25 — Eli-the-tortoise interview role play | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 75–76 |
+| Sub lesson 26 — three ambassadors' speeches | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 140–141 |
+| Sub lesson 26 — talk on the play — reactions bigar | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 162–163 |
+| Sub lesson 27 — love-poem role-play exchange | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 160–161 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The tale openings'/closings' actual formula words are not quoted in the placements (the student book names the formulas and the roles); the lesson names them exactly as placed and invents no formula text. (2) The fluency trio and the three reading modes rest on teacher-guide evidence and are labelled so in the table; the lesson as a whole is pupil-taught through its student-book parts. (3) Both teacher guides are partial scans (see book lines); every guide page cited is inside the secured pages. (4) Transliterations terach/melash are this lesson's reading aids; the placements give the Amharic terms without transliteration. (5) Band 3 growth: the panel protocol (Book 7, pp.37–38) is placed as ONE protocol list that distinguishes the two roles (አወያይ / ተወያይ); the lesson assigns each step to a role only where the step's own wording does so (the moderator thanks and starts, introduces, summarises; the participants present the main ideas), and keeps shared steps shared. (6) Qene (Book 9): the guide names the skill and its methods collectively (የቅኔ አፈታት ዘዴዎች) and states the methods are exercised in the chapter's reading work, but the individual method names sit inside student-book tasks that are NOT in the secured guide pages — the lesson teaches the skill exactly as the guide presents it and invents no method names. The surface → hidden-second-meaning picture of qene is the guide's own media image (Ch.2 media block), not this build's invention. (7) Book 8's introduction twice calls its companion learner book "Grade 7" — a template carry-over error in the printed guide, flagged in the placements; the guide's cover, title page and content are Grade 6, and the oral-poetry unit cited (Unit 3, printed pp.22–30) is inside the secured pages. (8) The harvest work-poem is summarised, never transcribed; the only poem text quoted is the one-line refrain the placements themselves quote. (9) Transliterations aweyay/teweyay are this lesson's reading aids, as with terach/melash.
+
+
+Fix-build note (2026-11-12, Amharic fix build — Grades 5–6 student books): the sub lessons added in this fix are recorded part by part in the table above, each at its own book and printed page. Listening parts teach exactly what the student books carry — title, picture and the book's own questions — and summarise the heard text only; stories are plot summaries, never transcriptions; songs are named and summarised, never transcribed.
 
 Searchable tags: speaking, performing, storytelling roles, ተራች, መላሽ, role play, የሚና ጨዋታ, debate, ክርክር, debaters' rules, judges' rules, panel discussion, ውይይት, አወያይ, ተወያይ, oral poetry, ቃላዊ ግጥም, qene, ቅኔ, የቅኔ አፈታት ዘዴዎች, fluency trio, ትክክለኛነት, ፍጥነት, ገላጭነት, paired reading, echo reading, መናገር

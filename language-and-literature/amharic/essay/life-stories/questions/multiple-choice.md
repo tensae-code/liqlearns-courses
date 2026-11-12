@@ -37,3 +37,16 @@ a) In a printed table  b) Played from a recording, twice  c) As a timeline of hi
 **9. (Sub lesson 7)** What is taken from the SECOND playing of the recorded biography?
 a) The main information  b) The detailed information  c) The marks for the lesson
 **Answer: b) The detailed information** — the first playing gives the life in outline: its main information.
+
+**10. (Sub lesson 8)** What is Haile Gebrselassie's motto on the card?
+a) ይቻላል! — It is possible!  b) Never give up  c) Run alone
+**Answer: a) ይቻላል! — It is possible!** — the card's own word.
+
+**11. (Sub lesson 8)** Where was he born, by the card?
+a) In Arsi — Chialo, Tiyo woreda, 1966 E.C.  b) In Gondar, 1970 E.C.  c) In Addis Ababa, 1960 E.C.
+**Answer: a) In Arsi — Chialo, Tiyo woreda, 1966 E.C.** — the card's birth row.
+
+**12. (Sub lesson 8)** What does the paragraph task do with the card?
+a) Turns its rows of facts into one flowing paragraph  b) Copies the rows as they stand  c) Shortens it to one sentence
+**Answer: a) Turns its rows of facts into one flowing paragraph** — facts in rows → a life in order.
+

@@ -102,3 +102,27 @@ a) One simple sentence alone  b) Two simple sentences joined by a conjunction  c
 **25. (Sub lesson 15)** "ትምህርት አስቸጋሪ ነው፤ ____ ደስ የሚል ነው።" (Study is hard; ____ it is joyful.) The turn to the other face takes —
 a) በሌላ በኩል  b) ምክንያቱም  c) እንደ
 **Answer: a) በሌላ በኩል** — hard on one face, joyful on the other.
+
+**26. (Sub lesson 16)** When a subject turns plural, the verb —
+a) stays singular  b) changes with it — ተመለሰ becomes ተመለሱ  c) is removed
+**Answer: b) changes with it — ተመለሰ becomes ተመለሱ** — subject and predicate are a matched pair: ተመለሰ → ተመለሱ.
+
+**27. (Sub lesson 17)** A sentence with its question mark omitted is recognised as a question by —
+a) its length  b) its sense and its question word  c) its position
+**Answer: b) its sense and its question word** — sense and question word carry the question; the mark only announces it.
+
+**28. (Sub lesson 18)** A negative sentence in Amharic carries the —
+a) question mark  b) አል-…-ም affixes on its verb  c) past tense only
+**Answer: b) አል-…-ም affixes on its verb** — the denial is worn by the verb: አል-…-ም.
+
+**29. (Sub lesson 19)** 'አምላክ ሆይ! አገራችን ሰላም አድርግልን!' is —
+a) declarative  b) exclamatory  c) interrogative
+**Answer: b) exclamatory** — its cry and its marks make it exclamatory — a prayer cried aloud.
+
+**30. (Sub lesson 20)** Converting a statement into a question changes —
+a) its facts  b) its form — it now asks  c) its subject
+**Answer: b) its form — it now asks** — facts pass through untouched; only the form turns.
+
+**31. (Sub lesson 21)** 'እነዚህ በሬዎች ናቸው' is repaired from its scramble by —
+a) changing the words  b) returning each part to its place — subject before the being-verb  c) adding a question
+**Answer: b) returning each part to its place — subject before the being-verb** — order, not wording, was the fault.

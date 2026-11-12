@@ -16,3 +16,27 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 6)** In the higher classes, the explanatory essay is written alone, on any topic, with no prompts and no review first.
 **Answer: False** — the craft and the essay types are reviewed first, three prompts are given, and the writing is done in pairs or groups.
+
+**6. (Sub lesson 8)** The family-planning essay is written from gathered information, not from opinion alone.
+**Answer: True**
+
+**7. (Sub lesson 9)** The Advice to Mothers essay is written as if by a health professional.
+**Answer: True**
+
+**8. (Sub lesson 10)** The set passage edited at pp.70–71 is a patriotism passage taken from the Grade 8 book.
+**Answer: True**
+
+**9. (Sub lesson 11)** The professions web holds eight professions, from agriculture to industry.
+**Answer: True**
+
+**10. (Sub lesson 12)** In the tortoise outline, the hare sleeps under a tree in the last race and the tortoise passes quietly.
+**Answer: True**
+
+**11. (Sub lesson 13)** The narrator's story may be heard from another person — the book says so.
+**Answer: True**
+
+**12. (Sub lesson 14)** The bigar frame holds title, introduction, four paragraph boxes and conclusion.
+**Answer: True**
+
+**13. (Sub lesson 15)** A cause-and-effect essay is a chain, not a list — each link pulls the next.
+**Answer: True**

@@ -34,3 +34,14 @@ Recognise them. Build with **-ኦች**.
 
 ## Added 2026-11-12 — the Grade 1–2 student-book parts
 Sub lesson 5, Grade 2: the instruments review plurals: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 6 — Grade 5: singular and plural nouns, with the እነ- collective plural: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

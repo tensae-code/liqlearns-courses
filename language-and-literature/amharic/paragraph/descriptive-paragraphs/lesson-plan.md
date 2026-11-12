@@ -83,3 +83,6 @@ lesson and its question list as they are — choosing, not remaking.
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 5 — Grade 2: describing-word phrases: build describing-word phrases on the ነጭ ሸሚዝ model for ልብስ, ፎጣ, ካልሲ and ጫማ.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 6 — Grade 7: two descriptive paragraphs — my school, my area.

@@ -28,3 +28,15 @@ c) ነጠላ ሰረዝ, the comma
 tree). Which mark opens the list?
 a) the comma  b) the question mark  c) the two dots
 **Answer: c) the two dots** — they say "here they come."
+
+**6.** In the Grade 5 greetings-paragraph exercise, what do you supply at each dash?
+a) The correct punctuation mark  b) A new word  c) A number
+**Answer: a) The correct punctuation mark** — complete the paragraph, then write your own punctuated paragraph.
+
+**7.** The second Grade 5 practice paragraph is about whom?
+a) Jemal, a famous school footballer  b) A herder  c) A driver
+**Answer: a) Jemal, a famous school footballer** — a descriptive paragraph, punctuated whole.
+
+**8.** A practice paragraph is finished when what is true of it?
+a) Every pause, question, exclamation and quotation carries its right mark  b) It has no marks at all  c) It is the longest in the class
+**Answer: a) Every pause, question, exclamation and quotation carries its right mark** — the older books' standard.

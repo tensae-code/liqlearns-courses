@@ -17,3 +17,7 @@ a) choose a new idea  b) read the given part twice and say its idea in your own 
 **4. (Sub lesson 3)** The Grade 3 book's measure for a grown paragraph is —
 a) exactly two lines  b) at least five lines  c) one line per pupil
 **Answer: b) at least five lines.**
+
+**5. (Sub lesson 4)** Error correction comes —
+a) before writing  b) after the paragraph is composed whole  c) instead of writing
+**Answer: b) after the paragraph is composed whole** — compose first, correct second — two readings, two eyes.

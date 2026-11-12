@@ -13,3 +13,13 @@ Pass mark: read a short paragraph and name the transitional word at each crossin
 
 ## Sub lesson 4 — The Grade 4 conjunction bench: ወይም, እና, አለበለዚያ, ስለሆነም
 Pass mark: complete sentences by choosing the fitting conjunction from the four-word bank, and say in one line why each rejected word does not fit.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 5 — Grade 8: dependent clauses — the book's own pages
+Sub lesson 5 questions from the type files. Pass mark: convert three sentences into dependent clauses and pick the clauses out of two compound sentences.
+
+
+## Sub lesson 6 — Grade 8: joining into compound sentences — the book's own pages
+Sub lesson 6 questions from the type files. Pass mark: join three sentence pairs, naming the relation each conjunction declares.
+

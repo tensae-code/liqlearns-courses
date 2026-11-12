@@ -19,3 +19,12 @@ Sub lesson 3 questions from the type files. Pass mark: write traditional mediati
 
 ## Sub lesson 4 — Grade 2: process chains
 Sub lesson 4 questions from the type files. Pass mark: say the milk chain arrow by arrow and build the doro wat and injera chains in the same shape.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 5 — Grade 5 and 6: describing a traditional remedy, and Shimglina read whole
+Sub lesson 5 questions from the type files. Pass mark: write the remedy paragraph from its five points, and retell Qelema's Shimglina lesson with the elders' own words.
+
+
+

@@ -85,6 +85,31 @@ now at its own page — ደስታ ↔ ሀዘን (joy ↔ sorrow), and the rest
 of the book's row. Say each pair aloud: the word, then its
 opposite.
 
+
+## Sub lesson 4 — Grade 5: the Littering essay's antonyms, in this lesson's home
+
+
+### Antonyms from 'Littering Is Forbidden!' (ቆሻሻ መጣል ክልክል ነው!)
+
+The Grade 5 book's own antonym matching, stocked in this lesson's home as well as in Word Families: ያናጋል ↔ ያረጋጋል (stirs up ↔ calms down), ጥላቻ ↔ ፍቅር (hatred ↔ love), ውጫዊ ↔ ውስጣዊ (outer ↔ inner) — words drawn from the essay that turns the hygiene chapter's theme into a guard for the mind. Opposites from other books stand in sub lessons 1–3; this set is the Grade 5 book's, at its own page.
+
+
+## Sub lesson 5 — Grade 7: synonyms — the nature chapter's set
+
+Grade 7's nature chapter matches synonyms: ላሂ, ትዕይንት, ግዙፍ, አምባ, ባልጩት, ሀሴት, መቅረዝ, ኩልል, ሰጠ, ፍንትው — each word paired with the word that means the same. አምባ you already know from the amba reading: the flat-topped mountain itself stands in the list, and its partner is the word that names the same high flat land. Match from meaning, not from look — partners rarely resemble each other.
+
+## Sub lesson 6 — Grade 7: antonyms — the Tis Abay chapter's set
+
+The antonyms set follows the Tis Abay reading: ሰውሠራሽ, መስህብ, ግንዛቤ, ጉጉት, መርሐግብር, ቀስተ ደመና — each word given its opposite, then both used in sentences. ቀስተ ደመና (the rainbow, 'bow of the cloud') stood over the falls in the reading; its place in this set is as a word to know deeply — its parts, its picture, its opposite-work — the way the book deepens every reading word.
+
+## Sub lesson 7 — Grade 7: opposites in context + Grade 8: synonym sets
+
+Two books, one skill, harder texts. Grade 7 (p.16): contextual meanings AND antonyms together, drawn from the spacing-births reading — the opposite must fit the word's meaning HERE. Grade 8 (p.34): synonym matching from the fire-mother story — አፍጥጦ, ይሸሻል, ቀበጥ, ለግላጋ, የተጨማደደ, እያንጎራጎረ, ላሰጣ, ተረዳ. Grade 8 again (pp.73–74): the rats-and-elephants matching set (በመረብ, ከልቡ, ንጉሥ, ያለሥጋት, መልካም) with underlined words then used in other sentences to explain their meaning (መንቀጥቀጥ, ሥጋት, ግዙፍ, ደፈጠጡ, ብድር, እምሽክ).
+
+## Sub lesson 8 — Grade 8: the bat cloze bank, Maru matching and word halves
+
+Grade 8 mixes the forms. The bat chapter (pp.44–45) pairs a cloze word bank with antonym matching: ጦርነት, ዳር, ድል, ሰማይ, መጥፋት, ማብረድ, ቆመ, ፈራ, እርቅ, አገኘ, ምስጋና — war and reconciliation, defeat and victory, standing face to face as the bat and the hen did. Maru Forsa Part 2 (p.54) matches related words (ላባቸው, ወገባቸው, ተስፋ, ብድር, አውራ, ሀሞቱ) and closes a cloze from its bank. The child-labour chapter (pp.95–96) adds word halves to join (ለሥራ→ክፍያ, ጉልበታቸው→ሳይጠነክር, ተመጣጣኝ→ዋጋ), antonyms (መንፈሳቸው, ባዕድ, ማታለል, አቀርቅረው, ብርሃን, ማደር, ጠባብ, ግዳጅ) and its own cloze — three forms in one lesson, as the course's cloze home in Study Skills also records.
+
 ## Say it to your companion
 
 Sit facing your companion. One of you says a word from the

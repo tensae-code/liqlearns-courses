@@ -188,3 +188,35 @@ choosing, not remaking.
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 6 — Grade 1: the stories' own word sets: give the meaning of ማቋረጫ, እግረኛ and ኮሚቴ, and use ክበብ, ዕቅድ, ሽልማት in sentences.
 - Sub lesson 7 — Grade 2: cooking verbs and device uses: match ገንፎ, ቂጣ, ጥብስ, ወጥ and ጠላ to their cooking verbs, and say what a phone, a cassette and a camera are used for.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 8 — Grade 5 and 6: the Loyal Friend's words in context, and literal against figurative meaning: Vocabulary in context — The Loyal Friend's word set; Literal and figurative meaning — the Grade 6 organiser; Literal and figurative sentences — the addiction chapter's practice.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 8 — Grade 5 and 6: the Loyal Friend's words in context, and literal against figurative meaning: Vocabulary in context — The Loyal Friend's word set; Literal and figurative meaning — the Grade 6 organiser; Literal and figurative sentences — the addiction chapter's practice.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 9 — Grade 7: words with two meanings — ጥላ and its set.
+- Sub lesson 10 — Grade 7: context meaning vs dictionary meaning — the organiser.
+- Sub lesson 11 — Grade 7: the same word, a different sense.
+- Sub lesson 12 — Grade 7: literal and figurative — the book's own table.
+- Sub lesson 13 — Grade 7: one word, two jobs — መለመለ.
+- Sub lesson 14 — Grade 7: literal and figurative uses — ደፈረሰ's set.
+- Sub lesson 15 — Grade 7: near-twins — ረካ and ተሟላ.
+- Sub lesson 16 — Grade 7: the vocabulary behind the greeting letter.
+- Sub lesson 17 — Grade 7: the invitation chapter's matching set.
+- Sub lesson 18 — Grade 7: figures of homesickness.
+- Sub lesson 19 — Grade 7: the plausibility chapter's word set.
+- Sub lesson 20 — Grade 8: similar meanings in context — Ch.1.
+- Sub lesson 21 — Grade 8: heritage, visit and justice word sets.
+- Sub lesson 22 — Grade 8: Rough Hands and Regret — sayings and sets.
+- Sub lesson 23 — Grade 8: demography words — rewriting with similar meanings.
+- Sub lesson 24 — Grade 8: forest, climate and play word sets.
+- Sub lesson 25 — Grade 8: social-life, elders and Nuru sets.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 26 — Grade 7: volunteering words in context.
+- Sub lesson 27 — Grade 7: art words and their meanings.
+- Sub lesson 28 — Grade 7: words of grief and care; the p.22 context set.

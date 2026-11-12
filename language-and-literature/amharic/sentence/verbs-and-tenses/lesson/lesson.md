@@ -114,6 +114,10 @@ The stem never moves: በላ stays በላ. Only the tail changes — ሁ, ህ, �
 - One more pattern (p.69): ጨመረ → ይጨምራል — "he added → he will
   add / he adds." Say the pair, then the book's row.
 
+## Sub lesson 7 — Grade 8: verb forms for persons — the discussion chapters' work
+
+The ሰበረ paradigm and the past/non-past work of this lesson are stocked from Grade 8's later pages; the discussion chapters set the same grammar earlier in the book, and their pages are cited here now. Chapter 1 (pp.13–14): classify sentences as affirmative, negative or interrogative, and write the verbs ከፈተ, መከረ, ፈለገ, ወደቀ, ዘፈነ, ከበረ in their 2nd-person plural and 3rd-person plural forms — the persons change, the verb's body changes with them. Chapter 2 (p.31): write 6 sentences in past (ሀላፊ), present (አሁን) and future (ወደፊት) time, on a model given — beside the institutions talk that stands in Speaking and Performing.
+
 ## Say it to your companion
 
 Tell your companion: Amharic divides time into ሀላፊ and ኢሀላፊ — ሰበረ against ይሰብራል. Then walk the በላ family from እኔ to እነርሱ without stopping. Last, read አዜብ ለእናቷ ብር ላከች and let your companion ask "what?" and "to whom?" — you answer ብር and ለእናቷ.

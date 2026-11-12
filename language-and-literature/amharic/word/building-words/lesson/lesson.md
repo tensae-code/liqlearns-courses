@@ -157,6 +157,31 @@ home language is part of knowing the word.
   jumbled sentences in Writing Sentences, both at the same
   pages.
 
+
+## Sub lesson 6 — Grade 5 and 6: compounds — ቤተመንግሥት and the compound web; doubling — the reduplicated sets
+
+
+### Compound words — the Grade 5 book's own joins
+
+Join two words into one compound, as the Grade 5 book sets it: ቤት + መንግሥት → ቤተመንግሥት; ትምህርት + ቤት → ትምህርትቤት (school). Compounds stand in sub lesson 1 of this lesson from other books; this part stocks the Grade 5 book's own joins at its own page.
+
+### Compound words web — the Grade 6 book's joins
+
+Build compound words in a web, as the Grade 6 book sets it: አየር + አደር = አየርመንገድ (airline); ብረት + አጥ; እንጀራ + ሰራሽ; ወዝ + መንገድ; ሥራ + ምጣድ; ሰው + እናት. Each web line is two word-blocks snapping into one new word.
+
+### Reduplicated words — the Grade 5 review set
+
+The reduplication pattern ("Xs of all kinds"): ቅጠላቅጠል, ብረታብረት, ጨርቃጨርቅ — then write six more of your own. Reduplication stands in sub lesson 2 of this lesson from the Grade 2 book; this part stocks the Grade 5 book's own review set at its own page.
+
+### Word-building by doubling — the Grade 6 set
+
+Make new, intensive words by the doubling pattern: ሸቀጥ → ሸቀጣሸቀጥ; then work ቅመም, ትል, ጥቅም, ቅርጽ, ቁስ the same way. Doubling stands in sub lesson 2 from the Grade 2 book; this part stocks the Grade 6 book's own set at its own page.
+
+
+## Sub lesson 7 — Grade 7: compound families — ሥነ, ፀረ, ቤተ, ሕገ
+
+Grade 7's volunteering chapter builds compound words (የተዋሃዱ ቃላት) from four roots. Each root joins a grid of second elements to make real compounds: ሥነ- (as in ሥነሕዝብ, ሥነምግባር), ፀረ- (against — ፀረወባ, ፀረሕዝብ), ቤተ- (house of — ቤተመጽሐፍት the library, ቤተክርስቲያን the church), ሕገ- (law — ሕገመንግሥት the constitution, ሕገወጥ unlawful). The book's grid of partners runs: ወባ, ሕዝብ, መስጊድ, ደንብ, ሥርዓት, ሕዋስ, አረም, ዕድገት, ክህነት, ልቡና, ዜጋ, ሰብል, ሰላም, መዘክር, ጥበብ, መጻሕፍት, ተባይ, ሥዕል, አንድነት, ግጥም, መንግሥት, ሙስና, ወጥ, ምግባር, ፀሎት, ምህዳር. ቤተ at the root of a word-family tree carries ቤተመጽሐፍት and ቤተክርስቲያን on its branches. Grade 8's justice chapter adds compound pairs of its own (model: ጥራዝ ነጠቅ, ወሬ ነጋሪ, ነገር አዋቂ) — pairs whose shared meaning is more than either half.
+
 ## Say it to your companion
 
 Play builders. One of you names two words — ፍኖተ and ሰላም,

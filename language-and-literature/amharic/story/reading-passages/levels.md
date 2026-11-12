@@ -63,3 +63,63 @@ Sub lesson 18 questions from the type files. Pass mark: answer each passage's qu
 
 ## Sub lesson 19 — Grade 2: comprehension passages and a classification
 Sub lesson 19 questions from the type files. Pass mark: write the Lettuce-and-Kale comparison table and sort six instruments into string, wind and hit-for-sound.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 20 — Grade 5: waste, the Hidar custom, and traditional dress
+Sub lesson 20 questions from the type files. Pass mark: compare burning and burying waste, retell the Hidar 12 custom with its origin, and name the Timket garments and the ornaments by body part.
+
+## Sub lesson 21 — Grade 5: heroism, debo, civilisation, and taking medicine properly
+Sub lesson 21 questions from the type files. Pass mark: retell Fitawrari Argaw's road to Adwa, describe a debo work party's day, state Lubaba's answer on civilisation, and list the five rules for taking medicine.
+
+## Sub lesson 22 — Grade 5 and 6: too much and too little food; our dress, our identity; festivals and dress
+Sub lesson 22 questions from the type files. Pass mark: distinguish መቀጨጭ from መቀንጨር, retell the dress essay's history in order, and describe the New Year festival ground and its matching dress.
+
+## Sub lesson 23 — Grade 6: regional dress, beauty, and athletes who overcome
+Sub lesson 23 questions from the type files. Pass mark: describe the tingdirb and its honour-gap, argue inner against outer beauty from the essay, retell Kayla Wheeler's road to the record, and compare Haile with Derartu and Bikila with Tirunesh.
+
+## Sub lesson 24 — Grade 6: asking an expert, Mother Earth, kinds of heritage, and growing tourism's benefit
+Sub lesson 24 questions from the type files. Pass mark: give Gelaneh Tamrat's three teff questions with the expert's answers, state Mother Earth's two kinds of wealth, sort heritage into its kinds, and list the stakeholders' duties for tourism.
+
+## Sub lesson 25 — Grade 6: the coffee ceremony, HIV and AIDS, the health worker, customs that protect, early marriage, and empowering women
+Sub lesson 25 questions from the type files. Pass mark: weigh the coffee ceremony's good against its harms, state the four stages of HIV with the window period, retell Debritu's changes, and give early marriage's three kinds of harm.
+
+
+
+## Sub lesson 26 — Grade 5 and 6: insults turned upside down, and the Chimchim game
+Sub lesson 26 questions from the type files. Pass mark: retell Tigist and Sofia's reversal point by point, and describe the Chimchim game's stages and refrains in order.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 27 — Grade 7: ምጣኔ! — the coffee-gathering debate
+Sub lesson 27 questions from the type files. Pass mark: retell the debate's voices in order and state the closing definition of family planning.
+
+
+## Sub lesson 28 — Grade 7: በጎፈቃድ — Volunteering, an old culture
+Sub lesson 28 questions from the type files. Pass mark: retell the history era by era and name one service of each era.
+
+
+## Sub lesson 29 — Grade 7: የግድቡ ትሩፋት — The Benefits of the Dam
+Sub lesson 29 questions from the type files. Pass mark: list the dam's benefits in the text's order.
+
+
+## Sub lesson 30 — Grade 7: ጫት መቃምና መዘዙ — Chat Chewing and Its Consequences
+Sub lesson 30 questions from the type files. Pass mark: state one harm in each of the text's three chains — health, economy, social life.
+
+
+## Sub lesson 31 — Grade 7: የማይሸሹት ፍቅር — Love That Does Not Fade
+Sub lesson 31 questions from the type files. Pass mark: retell the essay and judge the claim 'Ethiopia is wider than the countries of the world', as the book asks.
+
+
+## Sub lesson 32 — Grade 8: ግን ምን ነካን!? — But What Touched Us!?
+Sub lesson 32 questions from the type files. Pass mark: state the essay's charge and sort three named goods into the organiser's columns.
+
+
+## Sub lesson 33 — Grade 8: ዘመን ያልሻረው ጥበብ — Tangible Heritage
+Sub lesson 33 questions from the type files. Pass mark: match each of the four sites with two of its facts.
+
+
+## Sub lesson 34 — Grade 8: አለሚቱና መምህሯ — Alemitu and Her Teacher
+Sub lesson 34 questions from the type files. Pass mark: list the man-made and natural causes the teacher names, and say what form the text takes.
+

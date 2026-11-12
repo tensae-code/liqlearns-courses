@@ -65,3 +65,28 @@ a) Turn back to soil  b) Do not turn back to soil  c) Are eaten
 **16. (Sub lesson 12)** In the Grade 2 food web at p.108, እርጎ and አይብ are…
 a) Animal products  b) Plant products  c) Not foods
 **Answer: a) Animal products** — the classifying web, Grade 2 p.108.
+
+**17. (Sub lesson 13)** What comes FIRST in the three-part reading frame?
+a) Prediction from the title and picture  b) The post-reading questions  c) The retelling
+**Answer: a) Prediction from the title and picture** — predict → text → questions.
+
+**18. (Sub lesson 13)** In guess-the-word, the explainer may use all of these EXCEPT what?
+a) Saying the word itself  b) A synonym  c) An action
+**Answer: a) Saying the word itself** — synonym, antonym, picture, action — never the word.
+
+**19. (Sub lesson 13)** On the attraction web, Sof Omar cave goes on which branch?
+a) Natural  b) Cultural  c) Historical
+**Answer: a) Natural** — caves and lakes are natural attractions.
+
+
+**20. (Sub lesson 14)** In a cloze, each gap is decided by —
+a) the word's length  b) grammar and sense together  c) the bank's order
+**Answer: b) grammar and sense together** — grammar and the paragraph's sense decide each gap.
+
+**21. (Sub lesson 15)** The child-labour cloze paragraph argues that —
+a) exploitation cannot be stopped by anyone  b) government and people must rise together to rescue children  c) children should work longer hours
+**Answer: b) government and people must rise together to rescue children** — its bank builds the argument for joint rescue — እርምጃ (measures) must be taken.
+
+**22. (Sub lesson 16)** ውቅያኖስ is —
+a) a pond  b) an ocean  c) a well
+**Answer: b) an ocean** — the ocean is the ladder's top — it holds the seas.

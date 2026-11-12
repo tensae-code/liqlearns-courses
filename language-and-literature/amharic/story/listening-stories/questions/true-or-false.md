@@ -54,3 +54,39 @@ Say if the sentence is true or false.
 
 **18. (Sub lesson 18)** In the migration listening, the learners' work is to take notes while listening.
 **Answer: True** — ስደትና መከራው is heard with note-taking, then its main and detailed points are given.
+
+**19. (Sub lesson 33)** Note-taking for this listening is done at word, phrase and sentence level.
+**Answer: True**
+
+**20. (Sub lesson 34)** After listening, you present what you understood as a talk.
+**Answer: True**
+
+**21. (Sub lesson 35)** Drinking unfit water is presented as a cause of illness.
+**Answer: True**
+
+**22. (Sub lesson 36)** The story's saying is ደግነት ለራስ ነው — kindness is for oneself.
+**Answer: True**
+
+**23. (Sub lesson 37)** The narrator presents his own bad history as a warning others can believe.
+**Answer: True**
+
+**24. (Sub lesson 38)** Belay Zeleke is presented as a patriot (አርበኛ) of the Italian invasion years.
+**Answer: True**
+
+**25. (Sub lesson 39)** The listening asks for two of the mosque's benefits.
+**Answer: True**
+
+**26. (Sub lesson 40)** The homework asks what your local iddir's bylaw does NOT include — asked of parents, listed in a bigar.
+**Answer: True**
+
+**27. (Sub lesson 41)** 'አጎቴ ገንዘብ ነፍሱ ነው' means money is the uncle's very soul — he lives for it.
+**Answer: True**
+
+**28. (Sub lesson 42)** A story's lesson must be stated from what its characters DO, not from its title alone.
+**Answer: True**
+
+**29. (Sub lesson 43)** The lamenter says he should have been THANKED for what he did for people.
+**Answer: True**
+
+**30. (Sub lesson 44)** The listening asks you to compare Ethiopia's ancient and current forest cover.
+**Answer: True**

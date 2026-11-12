@@ -61,3 +61,24 @@ a) Lay eggs  b) Suckle their young  c) Live in water
 **15. (Sub lesson 10)** When you complete a started dialogue, what must each new line do?
 a) Answer the line before it  b) Repeat the first line  c) Change the story
 **Answer: a) Answer the line before it** — the horse/mule completion, Grade 1 p.137.
+
+**16. (Sub lesson 11)** Which connector means 'finally'?
+a) በመጨረሻ  b) በመጀመሪያ  c) በመቀጠል
+**Answer: a) በመጨረሻ** — first, next, then, finally — the book's four.
+
+**17. (Sub lesson 11)** Which connector opens the sequence?
+a) በመጀመሪያ — first  b) ከዚያም  c) በመጨረሻ
+**Answer: a) በመጀመሪያ — first** — በመጀመሪያ comes first.
+
+**18. (Sub lesson 11)** The Wise Girl retelling is set out in what?
+a) A graphic organiser of the events in sequence  b) A poem  c) A letter
+**Answer: a) A graphic organiser of the events in sequence** — the book's own writing task.
+
+
+**19. (Sub lesson 12)** The accused is acquitted because —
+a) no ox was lost  b) his verse argument answered every point — 'your argument has cleared you'  c) the accuser withdrew
+**Answer: b) his verse argument answered every point — 'your argument has cleared you'** — the judges' line: meat may have eaten meat, but the ARGUMENT cleared him.
+
+**20. (Sub lesson 13)** In the ordered paragraph, the first sentence should —
+a) tell a story  b) define addiction — the habit from cigarettes, chat, drugs and alcohol  c) give the conclusion only
+**Answer: b) define addiction — the habit from cigarettes, chat, drugs and alcohol** — definition first; then how people enter; then the trap.

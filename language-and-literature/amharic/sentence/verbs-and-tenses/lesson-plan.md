@@ -63,3 +63,6 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 
 **Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 1–2 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
 - Sub lesson 6 — Grade 2: verb patterns: give ወደቀች's pattern ending, turn ቀረበ into its doing-now form, and give ይጨምራል's base verb.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 7 — Grade 8: verb forms for persons — the discussion chapters' work.

@@ -34,3 +34,12 @@ Answer in a few words, or one sentence.
 
 **11. (Sub lesson 11)** When do the revision questions happen, and what are they for?
 **Answer: at the end of every chapter, before moving on — they check what the chapter taught while there is still time to re-read where an answer will not come.**
+
+**12. (Sub lesson 14)** What is Grade 7's cloze paragraph about?
+**Answer:** Siting a new school — where a school should be placed.
+
+**13. (Sub lesson 15)** Name the three steps of the cloze method.
+**Answer:** Read the whole passage, fill each gap by grammar and sense, read the whole passage again.
+
+**14. (Sub lesson 16)** Name the eight water words of the set.
+**Answer:** ቧንቧ tap, ምንጭ spring, ኩሬ pond, ኃይቅ lake, ውቅያኖስ ocean, ጉድጓድ well, ወንዝ river, ባሕር sea.

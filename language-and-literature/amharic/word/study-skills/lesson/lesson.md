@@ -328,6 +328,35 @@ anyone else's questions.
   (ነጭ ሸሚዝ and its brothers) are taught in Descriptive
   Paragraphs at the same page.
 
+
+## Sub lesson 13 — Grade 5 and 6: the three-part reading frame, the guess-the-word game, and the attraction word-web
+
+
+### The three-part reading frame — the Grade 5 book's own shape
+
+Every reading and listening lesson in the Grade 5 book runs the same three-part frame: prediction from title + picture before the text (ቅድመንባብ / ቅደመማዳመጥ), the text itself, then post-reading questions (ድኅረንባብ) mixing recall, inference ("how do you know?"), reference (pronoun tracking) and personal response. Run the frame whole on one new text, naming each part as you enter it. The pre/during/post stages stand in sub lesson 8 of this lesson as guide evidence; this part stocks the Grade 5 student book's own frame at its own front-matter pages.
+
+### Vocabulary game — guess the word
+
+In groups, one learner explains a word by its synonym, its antonym, a picture or an action, while the group guesses it — a charades-style word game, the Grade 6 book's own. The fidel crossword in sub lesson 4 of this lesson is a different game; this one is played standing, with the body and with word-relations, and it returns inside the Grade 6 oral-poems chapter as well.
+
+### The attraction word-web, and finishing the historical paragraph
+
+Build organisers sorting attractions under የቱሪስት መስህቦች (tourist attractions): Sof Omar cave and Lake Tana (natural), the Demera festival and Fiche Chembelala (cultural), the Axum obelisk and the Jegol wall (historical). Then finish the starter paragraph on Ethiopia's historical attractions (the Axum obelisk, Fasilides' palace…). Concept webs stand in sub lesson 2 of this lesson from earlier books; this content — the Grade 6 tourism web and its paragraph — is stocked here at its own page.
+
+
+## Sub lesson 14 — Grade 7: the cloze paragraph — siting a school
+
+Grade 7 teaches the cloze form itself: a paragraph about siting a new school, with gaps, completed from a word bank. A cloze is not guessing — each gap is decided by the sentence's grammar and the paragraph's sense together, and the bank holds exactly the words the paragraph needs. Read the whole paragraph first, then fill, then read it whole again to hear whether it flows.
+
+## Sub lesson 15 — Grade 8: completing passages from word banks
+
+Grade 8 makes the cloze a regular tool. The bat bank: ሰማይ, እርቅ, አጥቢ, ቢቆም, ነገር, ዘር, ጥራጥሬ, ታቀጣጥል, ምስጋና, በሰላም, ለማብረድ, ጠባችን. The Maru bank: ገብጋባ, ጫንቃ, ብድር, ቀባጠረ, ሰረዘ, ምስኪን, ወጠምሻነት, ድርብ. The poem ጥሪ bank: መቀየር, መጠጊያ, ሰም, መላ, ሸንተረር, መዛባት, ዋዛ, ጥሎ, ሰቆቃ, አደብ ገዛ, ቀጠሮ. The child-labour bank argues its paragraph: ብዝበዛ, አሰልቺ, ግፊት, ጥቃት, አድካሚ, ከባድ, እርምጃ, መረጃ — government and people must rise to rescue the children. The climate bank: ህልውናቸው, ኦዞን, ዝቃጭ, ዝቄ, ንጣፍ, ስሬ, ይሰርጋል, በካይ, መርዛማ, ብርሃን. Same method every time: whole read, fill by grammar and sense, whole read again.
+
+## Sub lesson 16 — Grade 7: names of waters — the cloze of waters
+
+Grade 7's water chapter closes its vocabulary with a cloze of waters: complete the sentences choosing from ቧንቧ (tap), ምንጭ (spring), ኩሬ (pond), ኃይቅ (lake), ውቅያኖስ (ocean), ጉድጓድ (well), ወንዝ (river), ባሕር (sea). The set is a size ladder as much as a word list: a spring feeds a pond, ponds and rivers feed a lake, lakes and rivers run to the sea, and the ocean holds the seas. Choose each cloze word by the sentence's own clues — what flows, what is dug, what is vast.
+
 ## Say it to your companion
 
 Show your companion the web and the chain you built in this

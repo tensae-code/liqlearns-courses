@@ -37,3 +37,16 @@ a) ቅቤ ይወጣል — butter comes out  b) ወተት ይታለባል  c) Th
 **9. (Sub lesson 4)** If a step is missing from your chain, the chain…
 a) Breaks  b) Gets shorter only  c) Still works the same
 **Answer: a) Breaks** — that is how you check it.
+
+**10. (Sub lesson 5)** Which is one of the five points of the remedy paragraph?
+a) When it is given — morning or evening  b) Its price in the market  c) Its colour only
+**Answer: a) When it is given — morning or evening** — kind, use, illness, timing, duration.
+
+**11. (Sub lesson 5)** What do the elders say to the two sides in Shimglina?
+a) አንተም ተው፤ አንቺም ተዪ! — you let it go; you too, let it go  b) Pay at once  c) Never meet again
+**Answer: a) አንተም ተው፤ አንቺም ተዪ! — you let it go; you too, let it go** — the elders replace quarrel with love.
+
+**12. (Sub lesson 5)** Who does ሽምግልና in Qelema's lesson?
+a) Elders of age, standing and judgement  b) Only judges in court  c) The younger brother
+**Answer: a) Elders of age, standing and judgement** — the reading's own definition.
+

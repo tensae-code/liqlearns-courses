@@ -31,3 +31,15 @@ least five loanwords with the language each travelled from
 
 ## Sub lesson 5 — Grade 1–2: change a fidel, drop a letter, double a word
 Sub lesson 5 questions from the type files. Pass mark: change the first fidel of ልብስ the book's way, and say the doubled word of the ጧት ጧት model.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 6 — Grade 5 and 6: compounds — ቤተመንግሥት and the compound web; doubling — the reduplicated sets
+Sub lesson 6 questions from the type files. Pass mark: build ቤተመንግሥት and ትምህርትቤት from their parts, work the compound web (አየርመንገድ), and double words the book's way — ቅጠላቅጠል, ሸቀጣሸቀጥ.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 7 — Grade 7: compound families — ሥነ, ፀረ, ቤተ, ሕገ
+Sub lesson 7 questions from the type files. Pass mark: build three compounds, one each from ቤተ-, ሕገ- and ፀረ-, and say what each means.
+

@@ -36,3 +36,39 @@ Say if the sentence is true or false.
 
 **12. (Sub lesson 12)** The bat keeps the friendship of both sides by joining whichever is winning.
 **Answer: False** — both sides drive him off; the hen counsels peace.
+
+**13. (Sub lesson 25)** The story's teller became a health extension worker after persevering to Grade 10.
+**Answer: True**
+
+**14. (Sub lesson 26)** The expert advised her to attend a health station for continuing education and to choose a method fitting her circumstances.
+**Answer: True**
+
+**15. (Sub lesson 27)** Tebejje built his grass-roofed house himself and was proud of it.
+**Answer: True**
+
+**16. (Sub lesson 28)** The wife borrowed from neighbours and bought what the holiday needed, before she knew what had happened.
+**Answer: True**
+
+**17. (Sub lesson 29)** Captured, he answers his interrogators with pride, without lowering his eyes.
+**Answer: True**
+
+**18. (Sub lesson 30)** Before learning the truth, the son introduced his mother to friends as his servant.
+**Answer: True**
+
+**19. (Sub lesson 31)** The king fed the donkey with his own mules until it recovered.
+**Answer: True**
+
+**20. (Sub lesson 32)** The assembly pledges to protect protected forests and restore the destroyed ones.
+**Answer: True**
+
+**21. (Sub lesson 33)** Auntie Altaye promises to speak for Mimi and, if that fails, to return her to her family.
+**Answer: True**
+
+**22. (Sub lesson 34)** His mother says useful messages and education also come by television.
+**Answer: True**
+
+**23. (Sub lesson 35)** Sheikh Abdela went house to house asking whose found money it was.
+**Answer: True**
+
+**24. (Sub lesson 36)** The elder told Efrem that hitting animals is a disgrace (ነውር).
+**Answer: True**

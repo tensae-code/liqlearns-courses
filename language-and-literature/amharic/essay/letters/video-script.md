@@ -29,3 +29,14 @@ To apply, **የማመልከቻ ደብዳቤ**: formal words, my subject line,
 my humble request.
 
 Seven letters. Seven shapes. Choose the shape — then write.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 8 — Grade 6: building a letter's reference number from its parts: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

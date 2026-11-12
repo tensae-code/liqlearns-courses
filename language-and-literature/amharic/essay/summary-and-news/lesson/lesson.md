@@ -70,6 +70,23 @@ the craft's name and its family. News is a summary's cousin:
 both keep the main points and drop the rest; news adds the
 four questions and tells them fresh, as a report.
 
+
+## Sub lesson 3 — Grade 5 and 6: the main-idea paragraph, a poem's message in prose, and the school-week news item
+
+
+### Writing: the main idea of the Fatuma reading in one paragraph
+
+Summarise the main idea of Fatuma and Her Friends — the greetings dialogue — in one paragraph of single sentences. The five-step summary method stands in sub lesson 1 of this lesson from the Grade 4 book; this part stocks the Grade 5 book's own main-idea writing task at its own page.
+
+### A poem's message in prose — 'Life Is a Pair of Legs'
+
+Read the poem ሕይወት ጥንድ እግር ("Life Is a Pair of Legs"): life is like two legs on a long journey — the front leg should not boast, the back leg should not be shamed, for positions keep changing. Write its main message in one paragraph of prose. Summarising stands in sub lesson 1 from other books; this poem and its prose task are the Grade 6 book's own, at its own page.
+
+### A news item (ዜና) on the school's week
+
+The writing that rides with the Grade 6 dictation: write a ዜና — a news item — reporting your school's one week of activities: what happened, where, when, and who took part, in news order. The school-week news task stands in sub lesson 2 of this lesson from the Grade 4 book (the same task in a different book); this part stocks the Grade 6 book's own setting of it at its own page. The dictation half of the placement stands in the Writing Sentences lesson.
+
+
 ## Say it to your companion
 
 Read your companion your one-paragraph summary. Your companion

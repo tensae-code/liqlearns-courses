@@ -33,3 +33,7 @@ a) First, before the thing  b) After the thing  c) At the end of the sentence
 **8. (Sub lesson 5)** ካልሲ are…
 a) Socks  b) Shoes  c) A towel
 **Answer: a) Socks** — the book's clothing row, Grade 2 p.15.
+
+**9. (Sub lesson 6)** The two paragraphs describe —
+a) two different countries  b) the attractiveness of your school or home area  c) a story's ending
+**Answer: b) the attractiveness of your school or home area** — your own school or area — described so a stranger can stand there.

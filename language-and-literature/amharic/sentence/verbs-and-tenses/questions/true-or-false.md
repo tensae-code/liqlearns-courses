@@ -7,3 +7,6 @@ Say true or false, and why.
 
 **2. (Sub lesson 2)** ጠብታለች is the recent-perfect form in ሕፃኗ ጡት ጠባች → ጠብታለች.
 **Answer: True** — the past sentence is re-dressed in the ቅርብ ኃላፊ form.
+
+**3. (Sub lesson 7)** The p.31 work writes sentences in past, present and future time.
+**Answer: True**

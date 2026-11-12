@@ -128,6 +128,23 @@ Now build the book's two chains in the same shape:
 Say your chain aloud, arrow by arrow. If one step is missing,
 the chain breaks — that is how you check it.
 
+
+## Sub lesson 5 — Grade 5 and 6: describing a traditional remedy, and Shimglina read whole
+
+
+### Writing: describing one traditional medicine
+
+A guided paragraph, from the book's bullet points: describe one traditional medicine by its kind (root, leaf, bark, stem), how it is used (drunk, rubbed on, tied on), the illness it is prescribed for, when it is given (morning or evening), and for how long. Five points, one paragraph — nothing outside the points.
+
+### Shimglina (ሽምግልና) — elder mediation, the reading itself
+
+Ethics teacher Qelema's lesson defines ሽምግልና / መሸምገል: reconciling people quarrelled for various reasons — siblings, spouses, neighbours, buyer and seller — done by elders of age, standing and judgement who "replace quarrel with love": አንተም ተው፤ አንቺም ተዪ! — "you let it go; you too, let it go". It is a living Ethiopian cultural heritage; children should accept elders' good counsel and give elders due respect. Mediation as a five-step process already stands in sub lesson 3 of this lesson from guide evidence, and in the Listening Stories lesson; this part stocks the Grade 5 book's own reading, with its antonyms and its sentence-unscrambling on shimglina.
+
+### If the Sky Tears, the Elder Mends It — the Grade 6 mediation reading's home here
+
+The Grade 6 book's mediation listening (ሽምግልና: what it is for, its qualifications, compensation of the wronged party, mediation against the modern justice system, and its conflict vocabulary) is stocked whole in the Listening Stories lesson at printed pp. 168, 172. This row keeps its citation in this lesson too, beside the five-step process it completes.
+
+
 ## Say it to your companion
 
 Choose a doing you know well. Tell it to your companion as a

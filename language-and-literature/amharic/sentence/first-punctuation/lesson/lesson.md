@@ -41,6 +41,16 @@ Now the book's own work: look at a mark, and write its name.
 saying. A reader who knows the four marks is never lost inside
 a sentence.
 
+
+## Practice paragraphs from the older books
+
+The marks you have met grow up into whole paragraphs in the Grade 5 book, and the exercises are stocked here at their own pages. First: complete a paragraph about greetings with the correct punctuation marks (dashes shown in the exercise), then write a short paragraph about the special qualities of clever students using correct punctuation, following a model sentence. Second: punctuate a descriptive paragraph about Jemal, a famous school footballer — every mark placed where the sense pauses, asks, exclaims or quotes. The mark-by-mark teaching for these same exercises also stands in the More Punctuation lesson; this section keeps the Grade 5 book's own settings of them in this lesson's home.
+
+## Punctuating a whole passage — the father, the son and the donkey
+
+The marks of this lesson are used whole in Grade 8's punctuation passage (printed p. 117): choose from the marks — quotation marks, !, ፤, ?, ፣ — and insert them into the fable of the father, the son and the donkey, in which passers-by criticise every way the three arrange themselves on the road, until the father concludes that whatever you do, you cannot please everyone. The full passage work, with its questions, stands in More Punctuation; here the point is simpler: every mark you learned in this lesson earns its place in a real passage, carrying real voices.
+
+
 ## Say it to your companion
 
 Point at one mark on the picture card. Your companion names it

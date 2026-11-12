@@ -65,3 +65,16 @@ Short. Deep. Yours. Then stand — and read it aloud.
 
 ## Added 2026-11-12 — the Grade 1–2 student-book parts
 Sub lesson 13, Grade 2: perform it, and the spoken-poem kinds: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 14 — Grade 5: the iron pot, wake from your sleep, patriotism, and the driver: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 15 — Grade 6: a praise poem, the oral poems of our area, and thoughts in poems: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 16 — Grade 6: curse laziness, what 'country' means, a vision, a courtroom poem, and no ululation of joy: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

@@ -70,3 +70,11 @@ a) An abbreviation  b) Speech or feeling cut off, trailing away  c) A shortened 
 **17. (Sub lesson 8)** እዝባር is the name of which mark?
 a) (.)  b) (…)  c) (/)
 **Answer: c) (/)** — እዝባር, the slash; (.) is the single dot, (…) the ሦስት ነጠብጣብ.
+
+**18. (Sub lesson 9)** In the field-trip passage, the numbers in the text are —
+a) times of day  b) placeholders for the punctuation marks you must supply  c) page numbers
+**Answer: b) placeholders for the punctuation marks you must supply** — numbers stand where marks belong; sense decides each one.
+
+**19. (Sub lesson 10)** The father's conclusion is —
+a) ride always  b) whatever you do, you cannot please everyone  c) never travel with a donkey
+**Answer: b) whatever you do, you cannot please everyone** — the fable's moral, spoken by the father at the passage's end.

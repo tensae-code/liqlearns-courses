@@ -34,6 +34,15 @@ And the smallest of all: **1 — አንድ ሳንቲም**.
 
 Coins are round. Notes are paper. Santim are the small money; birr are the big money.
 
+
+## Sub lesson 3 — Grade 6: money in words, written in figures
+
+
+### Money in words to figures
+
+Write birr and santim amounts given in words as figures, as the Grade 6 book sets it: ዐምስት ብር ከአሥራዐምስት ሣንቲም = ብር 5.15; አንድ ብር ከኃምሣ ሣንቲም = ብር 1.50; ዘጠኝ መቶ ሦስት ብር ከዐምስት ሳንቲም = ብር 903.05. The rule inside the practice: the birr stand before the point, the santim after it, two places always. Notes and coins themselves stand in sub lessons 1 and 2 of this lesson from the KG books; this conversion is the older book's own work, at its own pages.
+
+
 ## Say it to your companion
 
 Point to a note or a coin in the pictures. Your companion names it — how many birr, or how many santim. Then swap. Finish by naming all four notes in order: 10, 50, 100, 200.

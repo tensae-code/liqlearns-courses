@@ -44,3 +44,92 @@ Sub lesson 6 questions from the type files. Pass mark: give the meaning of ማ�
 
 ## Sub lesson 7 — Grade 2: cooking verbs and device uses
 Sub lesson 7 questions from the type files. Pass mark: match ገንፎ, ቂጣ, ጥብስ, ወጥ and ጠላ to their cooking verbs, and say what a phone, a cassette and a camera are used for.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 8 — Grade 5 and 6: the Loyal Friend's words in context, and literal against figurative meaning
+Sub lesson 8 questions from the type files. Pass mark: give contextual meanings for the Loyal Friend's five words, and sort ቤት and its companions into literal and figurative meanings.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 9 — Grade 7: words with two meanings — ጥላ and its set
+Sub lesson 9 questions from the type files. Pass mark: use one of the set's words in two sentences with two different meanings.
+
+
+## Sub lesson 10 — Grade 7: context meaning vs dictionary meaning — the organiser
+Sub lesson 10 questions from the type files. Pass mark: fill both columns of the organiser for one word and write one dictionary-style definition.
+
+
+## Sub lesson 11 — Grade 7: the same word, a different sense
+Sub lesson 11 questions from the type files. Pass mark: take one word through two sentences in two senses without mixing them.
+
+
+## Sub lesson 12 — Grade 7: literal and figurative — the book's own table
+Sub lesson 12 questions from the type files. Pass mark: give the literal and figurative meanings of ጎጆ and one more word from the Grade 7 table.
+
+
+## Sub lesson 13 — Grade 7: one word, two jobs — መለመለ
+Sub lesson 13 questions from the type files. Pass mark: build two sentences showing two jobs of one word from the set.
+
+
+## Sub lesson 14 — Grade 7: literal and figurative uses — ደፈረሰ's set
+Sub lesson 14 questions from the type files. Pass mark: give a literal and a figurative sentence for one word from the set.
+
+
+## Sub lesson 15 — Grade 7: near-twins — ረካ and ተሟላ
+Sub lesson 15 questions from the type files. Pass mark: separate ረካ and ተሟላ by their contexts and do the same for one more pair.
+
+
+## Sub lesson 16 — Grade 7: the vocabulary behind the greeting letter
+Sub lesson 16 questions from the type files. Pass mark: complete one starter so sense and grammar both continue the half given.
+
+
+## Sub lesson 17 — Grade 7: the invitation chapter's matching set
+Sub lesson 17 questions from the type files. Pass mark: match three words of the set to similar meanings, checked in the reading's sentences.
+
+
+## Sub lesson 18 — Grade 7: figures of homesickness
+Sub lesson 18 questions from the type files. Pass mark: explain two of the essay's figurative phrases from their contexts.
+
+
+## Sub lesson 19 — Grade 7: the plausibility chapter's word set
+Sub lesson 19 questions from the type files. Pass mark: give two context meanings for one word of the set, each in its sentence.
+
+
+## Sub lesson 20 — Grade 8: similar meanings in context — Ch.1
+Sub lesson 20 questions from the type files. Pass mark: explain two phrases of either set as wholes, from their stories.
+
+
+## Sub lesson 21 — Grade 8: heritage, visit and justice word sets
+Sub lesson 21 questions from the type files. Pass mark: explain ፍትህ and ሰማይ ነክቷል from their contexts.
+
+
+## Sub lesson 22 — Grade 8: Rough Hands and Regret — sayings and sets
+Sub lesson 22 questions from the type files. Pass mark: explain 'these scars are his scars' from the Rough Hands story.
+
+
+## Sub lesson 23 — Grade 8: demography words — rewriting with similar meanings
+Sub lesson 23 questions from the type files. Pass mark: rewrite one sentence with a similar-meaning swap and prove one word in your own sentence.
+
+
+## Sub lesson 24 — Grade 8: forest, climate and play word sets
+Sub lesson 24 questions from the type files. Pass mark: explain የገበታ መዓት and name four trees from the book's list.
+
+
+## Sub lesson 25 — Grade 8: social-life, elders and Nuru sets
+Sub lesson 25 questions from the type files. Pass mark: prove one Chapter 9 word in your own sentence, on the ጥልቀት model.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 26 — Grade 7: volunteering words in context
+Sub lesson 26 questions from the type files. Pass mark: give contextual meanings for አስተዋፅዖ and መተባበር from the reading.
+
+
+## Sub lesson 27 — Grade 7: art words and their meanings
+Sub lesson 27 questions from the type files. Pass mark: match five art words to their definitions.
+
+
+## Sub lesson 28 — Grade 7: words of grief and care; the p.22 context set
+Sub lesson 28 questions from the type files. Pass mark: explain እንክብካቤ and የደም እንባ and build one sentence from a p.22 word.
+

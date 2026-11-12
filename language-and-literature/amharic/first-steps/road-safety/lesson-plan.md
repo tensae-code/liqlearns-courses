@@ -65,3 +65,11 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md. A teacher sending this lesson sends the
 lesson and its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** sub lessons added from the Grade 5 and Grade 6 student textbooks, each part traced to its book and printed page in lesson/sources.md.
+
+- Sub lesson 3 — Grade 5: An Urgent Agenda — the listening whole, in this lesson's home: An Urgent Agenda — traffic lights and crossing, the Grade 5 listening.
+
+**Fix build (2026-11-12) — outcomes added:** the learner can work each new part above at its own book's standard — retelling, sorting, listing and answering from the part itself, as its level record (levels.md) states. **Add-ons added:** ADD AUDIO — each new listening part read aloud once, slowly, at its place (described slot only); the new parts' other picture/GIF slots are described in lesson.md at their places, with the drawn media named there where made.
+
+- Sub lesson 3 — Grade 5: An Urgent Agenda — the listening whole, in this lesson's home: An Urgent Agenda — traffic lights and crossing, the Grade 5 listening.

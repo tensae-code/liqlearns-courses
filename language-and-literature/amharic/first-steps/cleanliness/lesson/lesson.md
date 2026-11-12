@@ -66,6 +66,15 @@ Story title.)
 
 Be like Meseret.
 
+
+## Sub lesson 4 — Grade 5: The Smile — Fatuma, Momina, and the dentist
+
+
+### The Smile (ፈገግታ)
+
+Fatuma brushes her teeth after breakfast and supper and smiles freely; Momina hides her smile behind her palm. In the science lesson on dental care — a pea-sized drop of toothpaste, brush every tooth, gently scrub the tongue, twice a day and after sweets — Momina is seized by toothache, is taken to the dentist, treated, and returns a month later for cleaning and instruction. Her smile comes back. The tooth-brushing steps themselves stand at sub lessons 2 and 3 of this lesson as KG picture steps; this part stocks the Grade 5 book's own story — the reason the steps matter, told whole.
+
+
 ## Say it to your companion
 
 Teach your companion the four hand-washing steps in order:

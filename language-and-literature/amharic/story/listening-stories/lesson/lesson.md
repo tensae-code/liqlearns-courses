@@ -723,6 +723,218 @@ own order.
   the huge animal that suckles its young, and how elephants
   differ from other animals.
 
+
+## Sub lesson 27 — Grade 5: roads, a lake, and the forest heard
+
+
+### An Exemplary Deed (አርኣያነት ያለው ተግባር) — students who keep the road safe
+
+Listen first, from the title and picture only. A chief sergeant and W/ro Ereqya lead a school traffic-safety club whose students are called ፋናወጊ — pathfinders, guides. The club's kebele, Mulualem, is an example other kebeles may follow. Hear why walking on the left edge of the road is a must at market and festival times, and what harm comes from ignoring the road rules. Afterwards, name the club, its guides' name, and one rule it teaches.
+
+### Emboch, the Water Hyacinth (እምቦጭ) — the weed that chokes the lake
+
+Zemzem, a schoolgirl, researches the invasive water weed እምቦጭ that is choking Lake Tana, asking an elder and a professional for her homework. Listen for what the weed is, why the residents' name for it fits its behaviour, how an alien weed (መጤ አረም) spreads, the harm it does, and whether it can be removed. The student book carries the title, picture and questions; the heard text is the teacher's reading — nothing beyond those questions is invented here.
+
+### An Urgent Agenda — traffic lights and crossing, heard whole
+
+This is the Grade 5 book's own listening text, heard whole here: children who play ball on the road, and Kemal and his friends who refuse to; the three traffic-light colours and what each one commands; why crossing from behind a parked vehicle is dangerous; walking on the left edge of the road; how to cross where there is no pedestrian crossing; and Sergeant Mulatu's counsel to students. Learn its word bank as you listen: ትራፊክ, ፍጥነት (speed), አሽከርካሪ (driver), አደጋ (accident), ጥንቃቄ (care).
+
+### The Consequences of Deforestation — the listening half
+
+Hear why people cut trees, how clearing for farm land drives the cutting, what follows when soil fertility and groundwater fall, how bare land can be covered with forest again, and how forest steadies the climate and stops pollution. Hold the book's image phrase as you listen: the mountains "showing their teeth" (ተራራዎች ጥርሳቸውን አግጠዋል). The word-splitting half of this placement (ዝናባማነት = ዝናብ + -ኣማ + -ነት) already stands in the Suffixes lesson; this part stocks the listening text itself.
+
+## Sub lesson 28 — Grade 5: medicines and foods, heard
+
+
+### Medicines, Traditional and Modern — healers old and new
+
+Listen to a text that treats traditional healers as the foundation of modern medicine, asks why their numbers are dwindling, and wonders whether traditional medicines could be factory-produced in the modern way. Its comprehension is in TRUE/FALSE form (እውነት/ሀሰት) — judge each statement against what you heard, exactly as the book sets it.
+
+### Medicine and Addiction (መድኃኒትና ሱስ)
+
+Listen for how people become addicted (ሱስ): prescribed medicines misused can addict, and so can mobile games; the text even asks whether an addiction can be positive — the reading habit. Afterwards, sort what can addict into the text's own two kinds: things taken into the body, and habits that hold the mind.
+
+### Traditional and Modern Treatment — two kinds of medicine, two vocabularies
+
+A comparison text, heard: modern professionals test compounded medicines on animals first, travel country to country for ingredients, and work in teams; hear what a pharmacist (ፋርማሲስት) does. Then sort the vocabulary into the book's two organisers — traditional-medicine words: ዝንጅብል (ginger), ዳማከሴ, ሐረግሬሳ, ማገም; modern-medicine words: አሞክሳሲሊን (amoxicillin), ቴትራሳይክል (tetracycline), ቤተሙከራ (laboratory), አልትራሳውንድ (ultrasound), ጨረር (radiation), ራጅ (X-ray).
+
+### Foods That Prevent Disease — foods that keep us healthy
+
+A nutrition text, heard: banana (ሙዝ) gives quick energy, helps an upset stomach, is rich in potassium and lessens the risk of internal bleeding; garlic (ነጭ ሽንኩርት) shortens the common cold (ጉንፋን); lemon serves the blood's circulation (ዝውውር) and keeps the breath (ጠረን) good. Name also the food the text praises for magnesium, minerals and vitamin B-6.
+
+### Food Contamination (የምግብ ብክለት) — how food gets contaminated
+
+Listen for how microbes contaminate food, which eating habits expose food to contamination, why people adulterate food with foreign substances (ባዕድ ነገር) and the harm of it, why chemically contaminated food stays dangerous even when boiled, chemicals sprayed on grain, and packaged foods past their use date (የአገልግሎት ጊዜ ያለፈባቸው). Sort foods by contaminant in the book's organiser: pesticide (ጸረተባይ) and insecticide (ጸረነቀዝ).
+
+## Sub lesson 29 — Grade 5: animals, festivals and games, heard
+
+
+### How Monkeys Live (የዝንጀሮ አኗኗር) — the monkeys of Ethiopia
+
+A natural-history text, heard: Ethiopia's monkeys — black-and-white monkeys and their chosen habitats, the ግመሬ, and the gelada (ጭላዳ) and what sets it apart. Listen for troop (መንጋ) sizes and why monkeys live in troops; the long sharp canine teeth (ክራንቻ); the mane on neck and shoulders; the hairless seat; which monkeys do not eat leaves; and why geladas stay near cliffs and gorges for their food.
+
+### Semien Mountains and Alatish National Parks, compared
+
+A comparison text, heard: where the Semien Mountains National Park lies; which park borders the Benishangul region; which holds world-rare wildlife; how the two parks' landscapes and climates differ; which is more exposed to damage; why Alatish is not registered as world heritage; and the mammals of Alatish. Answer from the comparison, point by point — not from one park alone.
+
+### Ashendye (አሸንድዬ) — the girls' festival
+
+Hear the girls' Ashendye celebration at the end of the rainy season (ክረምት): girls go house to house singing, first to the elders' houses; they are blessed and thanked (አመስግነውና ተመስግነው ይለያያሉ) and receive gifts such as mulmul bread. Listen for who leads the melody (አለምዬ), how Ashendye dress and adornment are prepared, and the game's cultural and economic value.
+
+### Dangerous Traditional Games — the whip game at Buhe
+
+Hear about the whip game (ጅራፍ ግርፊያ) around Buhe: how a fighting whip is made, the knot (ቁግ) tied at its tip, herders cracking whips on hilltops, eating mulmul cakes before the contest, and the pretext of "resting" under a grar tree. Ato Mulat's verdict stands at the end: whip-lashing is a custom that should end. This part teaches the custom as one to leave behind — the fighting motion is not practised.
+
+### Gebeta and Riddles (ገበጣ እና እንቆቅልሽ) — thinking games
+
+Hear two games of the mind together: gebeta (ገበጣ), the board-and-stones game — how a win is achieved, how many stones (ጠጠሮች) it needs and why, and why it is called a wordless game (ቃልአልባ ጨዋታ); and riddles (እንቆቅልሽ), a verbal game demanding deep thinking about nature and social life. Finish by naming the two games' likeness and their difference: one is played in silence with stones, the other in words.
+
+### Aleqa Gebrehanna (አለቃ ገብረሃና) — master of wit and qene
+
+A biography, heard: Aleqa Gebrehanna, the celebrated church scholar-wit who studied as a qolo student (የቆሎ ተማሪ) and was called "a mind in a sieve" (ባለምጡቅ አዕምሮ). Listen for why people count Emperor Tewodros among those who prized his qene (ቅኔ), and for his jokes and rebuttals (ቀልዶችና ተረቦች), prized as literary wealth (ሥነቃላዊ ሀብቶች) that still teaches.
+
+## Sub lesson 30 — Grade 6: cloaks, athletes' food, drought and the farming year, heard
+
+
+### Bernos (በርኖስ) — how a bernos is made
+
+Hear about the sheepskin and wool cloak: what it is used for socially; why not every sheep's wool suits bernos work; why the skin is prepared on the hide; why long-haired sheep are chosen; why black sheep are preferred; how many sheep one bernos needs; and the purpose of the part thrown over one shoulder.
+
+### Healthy Eating (ጤናማ አመጋገብ) — food for athletes
+
+Hear what a properly planned diet (በወጉ የታቀደ አመጋገብ) means for athletes. The food groups are three: ኃይልና ሙቀት ሰጪ (energy-giving), ገንቢ (body-building) and በሽታ ተከላካይ (protective). Listen for how much energy food athletes doing 30 minutes of daily activity need, and those doing 60–90 minutes — and judge the text's question: can someone who eats badly succeed in sport? Fill the healthy-eating organiser as you listen, then present it as a talk (ንግግር).
+
+### A Bad Day (ክፉ ቀን) — a drought story
+
+A drought story read for inference: "ribs counted one-two"; old farmers "like a prisoner awaiting a death sentence"; farmers "dried like rivers, thinned like cattle, silently awaiting nature's generosity". As you listen, work out who narrates, where and when it happens, the cause — and whether drought can be prevented. The answers are between the lines, not on them.
+
+### From Clearing to the Granary (ከምንጣሮ እስከጎተራ) — the farming year
+
+Hear the whole production process in order: the pre-preparation work (ቅድመዝግጅት); why weeding (ማረም, መጎልጎል) matters; preventing waste (ብክነት) at harvest; what spoils produce and how to stop it. Take notes on an organiser while listening, then give a talk on the production process from clearing to the granary.
+
+## Sub lesson 31 — Grade 6: tourism, addiction and hate speech, heard
+
+
+### Tourism in Ethiopia (ቱሪዝም በኢትዮጵያ)
+
+Hear why Ethiopia is called a museum of nations and languages; which of our heritages draw tourists in crowds (የቱሪስት መስህብ, tourist attractions; የማይንቀሳቀሱ ቅርሶች, immovable heritages); the tourist-flow growth over five years; how many hotels, lodges and resorts there were in 1999 E.C.; tourism income in dollars in 2005 E.C.; peoples of different faiths living "ድርና ማግ" (warp and weft) together; and the roles of private investors and tour organisations.
+
+### Tourism and Nature (ቱሪዝምና ተፈጥሮ) — help or harm?
+
+Tourism's positive and negative effects on the natural environment, heard and organised in a two-branch web. Listen for why tourism is called a "smokeless industry" (ጭስ አልባ ኢንዱስትሪ), and what የባህል ወረራ (cultural invasion) means and how tourism can cause it.
+
+### The Effects of Addiction (የሱስ ተጽዕኖ) — how addiction harms
+
+Begin with KWL on addiction, then listen: a person is addicted when he cannot stop using, and cannot run his life without the substance; the text's structure is cause-and-effect and its main idea is addiction's harms. Build its effects web with five branches — ማኅበራዊ (social: exposure to accidents), በጤና ላይ (health), ኢኮኖሚያዊ (economic), በቤተሰብ ላይ (family), በትምህርት ላይ (education: falling results, absence, dropping out).
+
+### Ways Out of Addiction (ከሱስ ነጻ መውጫ መንገዶች) — finding the way out
+
+Can the addicted free themselves, and how? Hear the questions we must ask ourselves to know ourselves (ራስን ማወቅ); the benefits of being free of addiction; and how choosing true friends protects from addiction. Build the "ways out" organiser as you listen and present it as a talk. The pronoun grammar inside this placement already stands in the Word Kinds lesson; this part stocks the listening text itself.
+
+### Chat (Khat) and Its Consequences (ጫትና መዘዙ)
+
+Hear why people chew chat; the substance in it that acts on brain and nerves; its health harms (among them የጨጓራ መቆጣት, gastritis); why chat is called "generation-killing" (ትውልድ ገዳይ); and its temporary lift out of depression or boredom set against the harm. Fill the organiser as you listen: what chat is / temporary benefit / harms to health / harms to society and country — then give a talk from it.
+
+### Hate Speech (የጥላቻ ንግግር) — what hate speech does
+
+Hear what hate speech is; how hate escalates to great destruction; the country the text cites for genocide (ፍጅት); why Yugoslavia broke into small countries; what arose from religious hatred; the main source of hate speech; what the school community must do to make an area free of it; and how to lessen hate's worst damage.
+
+### Law and Hate Speech (ሕግና የጥላቻ ንግግር) — the law against hate speech
+
+Hear what law (ሕግ) is and why it is needed; what false information (ሐሰተኛ መረጃ) is; the law the Ethiopian government issued (አዋጅ, proclamation) — its purpose and what it prohibits; the consequences of breaking law; and school rules as law in miniature.
+
+### It Must Be Corrected (መታረም አለበት) — the listening half
+
+A listening text on hate's roots: how a country's children came to destroying each other; "ጥላቻ የማሰብ ኃይልን ይሰልባል" — hate blinds the thinking power; the characters of hate's subjects; and what must be corrected in time. The adjective-suffix grammar inside this placement (the -ኧኛ / -ኣም / -ኣማ families) already stands in the Suffixes lesson; this part stocks the listening text itself.
+
+## Sub lesson 32 — Grade 6: HIV, customs and women, heard
+
+
+### HIV/AIDS in Ethiopia (ኤች አይ ቪ/ኤድስ በኢትዮጵያ) — HIV/AIDS and our country
+
+Hear which section of society the epidemic strikes most and why — the youth and adults, the economy's backbone (የጀርባ አጥንት); its relation to average life expectancy; its damage to the national economy (agricultural productivity, the effort to feed the nation, capacity building); and what is expected of each stakeholder — government, every individual, non-governmental organisations, the community, and health institutions.
+
+### Signs of HIV/AIDS — the listening half
+
+Science vocabulary first: ነጭ የደም ሴል (white blood cell), ካንሰር (cancer), ሲዲፎር ሊንፎካይትስ (CD4 lymphocytes). Hear how a person learns the virus is in them; when signs appear; how HIV weakens the defence — the virus breaking down the cells; which accompanying infectious diseases mark the stages and whether they have treatment. The verb-transitivity grammar inside this placement already stands in the Verbs and Tenses lesson; this part stocks the listening text itself.
+
+### How HIV Is Transmitted (የኤች አይ ቪ መተላለፊያዎች) — how it passes, and how it does not
+
+Begin with KWL on transmission. Hear the death figures given for 2017; the distorted attitudes (የተዛቡ አመለካከቶች) about HIV; the transmission routes and blood contact (የደም ንክኪ); what you would do finding a person bleeding, and why; the ways HIV is NOT transmitted; and why it spreads so heavily in Africa.
+
+### Culture and Custom (ባህልና ልማድ) — useful and harmful customs
+
+Hear what culture is and what it includes; the relation of culture and custom; and traditional practices sorted as ጠቃሚ ልማዳዊ ድርጊቶች (useful practices) versus ጎጂ ልማዳዊ ድርጊቶች (harmful practices — those whose harm outweighs their use). Learn the community institutions and their words: ደቦ (communal work party), እቁብ (rotating savings), እድር (burial association), የሀገር ሽማግሌ (elders). Not every accepted custom is useful — the text presses even the exaggerated-feast question.
+
+### If the Sky Tears, the Elder Mends It (ሰማይ ቢቀደድ ሽማግሌ ይሰፋዋል)
+
+Hear elders' mediation (ሽምግልና) from the Grade 6 book itself: what it is for; the qualifications it demands; how it keeps families from scattering (ቤተሰብ እንዳይበተን) and makes the wronged party compensated (ተጎጂ ወገን እንዲካስ); the kinds of conflict (ግጭት); and traditional mediation set against the modern justice system — which is better, and why. Learn its conflict vocabulary: ተጎጂ / በዳይ (wronged / wrongdoer), ቂም (grudge), ጠብ (quarrel), ይቅርታ (forgiveness), ሰላም (peace), ቁርሾ.
+
+### Useful Cultures of the Awramba Community (የአውራምባ ማኅበረሰብ) — the listening and the debate
+
+Begin with KWL on Awramba — the community whose belief is love and whose religion is work ("እምነቱን ፍቅር፣ ሐይማኖቱን ሥራ ያደረገ"). Hear its distinct characters; how it resolves disagreements; and its fight against backward thoughts (ኋላቀር አስተሳሰቦች) and harmful practices — it has classed false witness, theft, lying, adultery and killing as forbidden (ሐራም). In Awramba people differ by sex, not by work — so the class debate follows: "A division of work into men's and women's is necessary" against "…is not necessary". Gather material, too, for a talk on a custom you admire.
+
+### International Women's Day (ዓለምአቀፍ የሴቶች ቀን) — March 8
+
+Hear when March 8 is marked and why; its history laid on a numbered timeline organiser (1–2–3–4 milestones) and presented as a talk; the New York textile-factory women workers' demonstration — for what purpose (low pay compared with men, unhealthy conditions, the right to organise unions); and why March 8 was chosen. Learn its phrases: የሥራ ማቆም አድማ (strike), የመምረጥና የመመረጥ መብት (the right to vote and be elected), ፆታዊ ስብጥር (gender composition).
+
+### Woman Is Poetry; Woman Is Delicate (ሴት ቅኔ ናት፤ ሴት ረቂቅ ናት) — how woman is seen
+
+An essay read aloud, for critical listening: how sages have defined woman; that men understand women only from their own feelings and horizon, which cannot show woman's true stature; that outer beauty unsupported by inner identity is a defect; how little has been done and said for the girl child considering her intelligence, delicacy and leadership capacity; and the text's sharp example — telling a boy "you are equal with a girl" is counted for him like a crown of kingship being pressed on him. Judge these claims as you listen, and end with how to raise women's participation in leadership.
+
+### Women and Education (ሴቶችና ትምህርት)
+
+Hear the text's root saying: "እናትን ማስተማር መላውን ቤተሰብ ማስተማር ነው" — educating a mother educates the whole family. Listen for what keeps women from equal participation in education with men and how to remove the obstacles; why controlling population growth matters; how learning options (የመማር አማራጮች) relate to women's participation; and what must be done to raise women's educational participation and benefit — የትምህርት ተደራሽነት (access), ተሳትፎ መመጣጠን (equity), የቤተሰብ ምጣኔ (family economy).
+
+
+## Sub lesson 33 — Grade 7: ሥነተዋልዶና ጤና — Reproductive Health (listening)
+
+This listening is taught together with note-taking: prepare notebook and pen, and note the main points at word, phrase and sentence level while you hear. The heard teaching: why parents should not have another child before the born child is two — for mothers' and children's health; why developing and developed countries alike now focus on reproductive health; what the community owes children; and the naming of local families admired as good examples of spacing. Listen for the reasons, not the words: each health claim in the text carries its 'because' with it.
+
+## Sub lesson 34 — Grade 7: እፎይታ — Relief for a Widow (listening)
+
+Before listening, think: what makes the elderly feel relief (እፎይታ)? The heard story — its text is not printed in the book — tells of benefactors who come to a widow's house, meet a sad thing there, and bring her into a new house. The book's questions fix the listening: where did the widow sit before entering their new house? What sad thing did the benefactors meet when they went to her house? Afterwards, present what you understood as a talk. Its grammar partner — rewriting a passage with a plural subject — stands in The Sentence.
+
+## Sub lesson 35 — Grade 7: ዉኃው ታከመ — The Water Was Treated (listening)
+
+The water chapter's listening sorts the world into water fit for drinking and water not fit, with the problems drinking unfit water causes — and a sequence organiser (first / then / next / at last) for how water is made safe. Its grammar partner, affirmative and negative sentences, is stocked in The Sentence with this page cited; the listening itself is here: hear it as a sorting task — every statement you hear falls on the fit side or the unfit side, and the harms belong to the unfit side alone.
+
+## Sub lesson 36 — Grade 7: የተናዳፊዋ ማር — The Angry Woman's Bee (listening)
+
+The heard story of the angry woman and her bees turns on the saying ደግነት ለራስ ነው — kindness is for oneself. Its questions: the protagonist who lived abroad and her indigenous knowledge; why the heroine could not live in agreement with people; and the character parallel drawn between the heroine and a bee — busy, quick to sting, and yet a maker of sweetness for others. Its grammar partner — classifying sentences by function — is stocked in The Sentence with this page cited.
+
+## Sub lesson 37 — Grade 7: የሱስ ተጠቂው — The Victim of Addiction (listening)
+
+Before listening: what is ሱስ (addiction)? Which age group is most hit, and why? What pushes people in? The heard text is a victim's own history. After it: what is peer pressure (የአቻ ግፊት) — the friends' pull that traps the unwary; the social problems addiction causes; why the narrator wrote and presented his own bad history — as a warning that can be believed; and whether his being alone helped him. Its grammar partner, compound sentences, is stocked in Joining Words with these pages cited.
+
+## Sub lesson 38 — Grade 7: ደጃዝማች በላይ ዘለቀ — Belay Zeleke (listening)
+
+This listening is worked with a question table filled while you hear: when was Dejazmach Belay Zeleke born? At what age was his father killed? Where did he go after his father's death? When did Italy invade Ethiopia? How old was he when Italy invaded? Of what area did he become governor? What was sentenced against him? After listening, retell his history from your table; explain 'ጣሊያን ልቅምቅም አድርጎ ከነጫጩታችሁ ይውሰዳችሁ'; and say who the አሞራ (eagle) is in the poem read with the lesson. Its grammar partner, the complex sentence, stands in The Sentence.
+
+## Sub lesson 39 — Grade 8: የጎዜ መስጊድ — The Goze Mosque (listening)
+
+The heard text describes the Goze Mosque: its building, its century, what is in and around it, when its festivals are celebrated, two of its benefits, and who its owner is. A place description heard is a picture built in order — building first, then surroundings, then use. Its grammar partner — picking out noun-modifiers and verb-modifiers (የስም ገላጭ / የግስ ገላጭ) — stands in Word Kinds with this page.
+
+## Sub lesson 40 — Grade 8: ዕድር — Iddir (listening)
+
+The heard text examines ዕድር (iddir): is it an all-inclusive institution? What three duties at least are expected of a member? How do members help each other while alive? How does iddir differ from other social institutions? What is NOT among iddir's criteria? And what gap in social relations would open if iddir did not exist? Homework follows the book's way: ask your parents, and list in a bigar the points your local iddir's bylaw does not include. Its grammar partner, singular and plural, stands in One and Many.
+
+## Sub lesson 41 — Grade 8: ሽልንጌን and ስጦታ — two heard stories
+
+Two Grade 8 heard stories stand together here. ሽልንጌን (pp.50–51): a girl working parking chases a departing car shouting, is hit (መጋጨት), and the questions assign first-degree and second-degree responsibility and connect the accident to the horror of poverty; its grammar partner, correcting scrambled word order, is practised in the same pages. ስጦታ — The Gift (pp.97–98): questions on the saying 'አጎቴ ገንዘብ ነፍሱ ነው' — my uncle, money is his soul; why the uncle limps; the gift matter that came out on him in childhood like measles; which relatives the gift-receiver ranks first; and why the narrator's mother burst out laughing when he received a gift. Both texts are heard only — the book prints the questions, and the listening is the reading.
+
+## Sub lesson 42 — Grade 8: ስግብግቡ ቀበሮና አሞራ — The Greedy Jackal and the Amora (listening)
+
+The heard story of the greedy jackal (ቀበሮ) and the amora (አሞራ, a kite-like bird): why did the king proclaim an award (አዋጅ)? Why did the jackal plot — was it because his own share was not enough? What judgement would the king give if he heard the jackal's and the amora's deed? What can be learned from the story? Its grammar partner matches verbs with similar-form verbs — verb-form patterns (መከረ ~ መክሯል, ሰብሯል ~ ወሳስዷል) — the patterns stand in the same pages' work.
+
+## Sub lesson 43 — Grade 8: እሮሮ — Lament, a poem heard
+
+A poem heard, not printed: a tree laments (እሮሮ) to the people who fell it. From its air-exchange verses: the tree strains to swallow the carbon dioxide you release and breathes out oxygen to renew your air. Who is the guardian of the world's air-temperature balance? Who presents the lament, and why? What did the lamenter do that he says 'መመስገን ነበረብኝ' — I should have been thanked? And the poem's hardest line: 'የእኔ ሞት ያንተ ሞት መሆኑ እንዴት ጠፋህ?' — how did it escape you that my death is your death? Its grammar partner — affirmative, negative and interrogative sentences — stands in The Sentence with these pages.
+
+## Sub lesson 44 — Grade 8: ደኖችና የአየር ንብረት ለውጥ — Forests and Climate Change (listening)
+
+The climate chapter's listening asks: list forests' benefits; what are forests' potential biodiversity resources? How do forests contribute to cooling the earth? What percent of man-made polluted air do forests remove at world level? And compare Ethiopia's ancient and current forest cover, explaining its effect on people and the country's economy. Its grammar partner — picking dependent clauses out of compound, climate-themed sentences — stands in Joining Words.
+
 ## Say it to your companion
 
 Choose one story you heard. Retell it to your companion in

@@ -60,3 +60,25 @@ Read first for what it says. Then for what it means.
 Sub lesson 17, Grade 1: short passages: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
 Sub lesson 18, Grade 1: comprehension passages: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
 Sub lesson 19, Grade 2: comprehension passages and a classification: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 20 — Grade 5: waste, the Hidar custom, and traditional dress: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 21 — Grade 5: heroism, debo, civilisation, and taking medicine properly: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 22 — Grade 5 and 6: too much and too little food; our dress, our identity; festivals and dress: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 23 — Grade 6: regional dress, beauty, and athletes who overcome: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 24 — Grade 6: asking an expert, Mother Earth, kinds of heritage, and growing tourism's benefit: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+Sub lesson 25 — Grade 6: the coffee ceremony, HIV and AIDS, the health worker, customs that protect, early marriage, and empowering women: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 26 — Grade 5 and 6: insults turned upside down, and the Chimchim game: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.

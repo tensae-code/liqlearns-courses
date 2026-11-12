@@ -21,3 +21,16 @@ a) what happened, who, where, when  b) beginning, middle, end  c) setting, chara
 **5. (Sub lesson 2)** The Grade 4 book's first news task is —
 a) a two-paragraph news item about your school's activities this week  b) a poem about the school  c) a letter to the newspaper
 **Answer: a) a two-paragraph news item about your school's activities this week.**
+
+**6. (Sub lesson 3)** The Fatuma main-idea paragraph is built of what?
+a) Single sentences, one paragraph  b) Verse lines  c) A dialogue
+**Answer: a) Single sentences, one paragraph** — the book's own instruction.
+
+**7. (Sub lesson 3)** In 'Life Is a Pair of Legs', why should the front leg not boast?
+a) Positions keep changing — the back leg will be front  b) Legs cannot speak  c) The road is short
+**Answer: a) Positions keep changing — the back leg will be front** — the poem's message, in prose.
+
+**8. (Sub lesson 3)** A school-week news item (ዜና) reports what?
+a) The school's activities of one week  b) A poem's message  c) A private letter
+**Answer: a) The school's activities of one week** — what happened, where, when, who took part.
+

@@ -54,3 +54,30 @@ Sub lesson 14 questions from the type files. Pass mark: find the ዋና ግስ �
 
 ## Sub lesson 15 — Grade 4 review bench: compound sentences with በሌላ በኩል
 Pass mark: write one true ድርብ compound sentence with each of እና, ነገርግን, ወይም, ስለዚህ and በሌላ በኩል, and name what each joiner does at the joint.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 16 — Grade 7: rewriting with a plural subject
+Sub lesson 16 questions from the type files. Pass mark: rewrite three sentences with plural subjects, changing every agreement.
+
+
+## Sub lesson 17 — Grade 7: person and tense in one table; hunting hidden questions
+Sub lesson 17 questions from the type files. Pass mark: classify three sentences by person and tense, and find two hidden questions in an unmarked passage.
+
+
+## Sub lesson 18 — Grade 8: affirmative and negative — the exercise pages
+Sub lesson 18 questions from the type files. Pass mark: write five affirmative and five negative sentences, then sort six sentences simple/compound.
+
+
+## Sub lesson 19 — Grade 8: naming sentence functions — p.108
+Sub lesson 19 questions from the type files. Pass mark: name the functions of six given sentences, including one exclamation.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 20 — Grade 7+8: turning statements into questions and commands
+Sub lesson 20 questions from the type files. Pass mark: convert three statements into questions, two into commands, and one question into a statement.
+
+
+## Sub lesson 21 — Grade 8: correcting agreement errors; scrambled word order
+Sub lesson 21 questions from the type files. Pass mark: correct two agreement errors and unscramble two sentences, naming the rule each time.
+

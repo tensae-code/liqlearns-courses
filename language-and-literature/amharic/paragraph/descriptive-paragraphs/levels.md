@@ -22,3 +22,9 @@ Sub lesson 4 questions from the type files. Pass mark: write a descriptive parag
 
 ## Sub lesson 5 — Grade 2: describing-word phrases
 Sub lesson 5 questions from the type files. Pass mark: build describing-word phrases on the ነጭ ሸሚዝ model for ልብስ, ፎጣ, ካልሲ and ጫማ.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 6 — Grade 7: two descriptive paragraphs — my school, my area
+Sub lesson 6 questions from the type files. Pass mark: write two descriptive paragraphs on your school and edit them.
+

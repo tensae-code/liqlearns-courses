@@ -29,3 +29,16 @@ a) Advice  b) A brake  c) Yourselves
 **7. (Sub lesson 4)** Jumbled-sentence repair puts the words…
 a) In their right order  b) In alphabetical order  c) In reverse
 **Answer: a) In their right order** — Grade 2 pp.85–86.
+
+**8. (Sub lesson 5)** In unscrambling, the finished sentence must have what?
+a) Its words in correct order  b) The most words possible  c) No verbs
+**Answer: a) Its words in correct order** — jumbled order repaired.
+
+**9. (Sub lesson 5)** Whose dialogue rides with the Grade 6 unscrambling?
+a) Demle and Berihun, the herders  b) Fatuma and her friends  c) Asrat and Lubaba
+**Answer: a) Demle and Berihun, the herders** — stocked whole in More Punctuation.
+
+**10. (Sub lesson 5)** In dictation, what must be correct besides the words?
+a) The punctuation  b) The handwriting colour  c) The page number
+**Answer: a) The punctuation** — hear it, write it — marks and all.
+

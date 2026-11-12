@@ -22,3 +22,6 @@ Answer in a few words, or one sentence.
 
 **7. (Sub lesson 7)** What does the application model's subject line (ጉዳዩ) ask for?
 **Answer: ጉዳዩ፡- የነዋሪነት መታወቂያ ካርድ እንዲሰጠኝ ስለመጠየቅ — that a residency ID card be given to the writer (ሥራውብዙ ታዬ, a registered resident of the kebele for about two years).**
+
+**8. (Sub lesson 9)** To whom does the p.102 task set you writing?
+**Answer:** A friend or a family member.

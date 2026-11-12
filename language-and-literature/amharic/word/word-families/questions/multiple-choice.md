@@ -27,3 +27,16 @@ a) ጠንካራ  b) እርዝ  c) ብርቱ
 a) ቁርሌን ሄድኩ  b) ቁርሌን ተመገብኩ  c) ቁርሌን አልበላሁም
 **Answer: b)** — only the word changes; the sentence stands
 and means the same.
+
+**7. (Sub lesson 4)** ወዳጅ is the synonym of which word?
+a) ጓደኛ — friend  b) ሰንሰለት  c) ጥላቻ
+**Answer: a) ጓደኛ — friend** — the Wise Girl matching set.
+
+**8. (Sub lesson 4)** What does ዘመን የማይሽረው mean?
+a) "That time does not erase"  b) "That time builds"  c) "Quickly forgotten"
+**Answer: a) "That time does not erase"** — the phrase at the heart of The Wise Girl.
+
+**9. (Sub lesson 4)** ጥላቻ (hatred) matches which antonym?
+a) ፍቅር — love  b) ያናጋል  c) ውጫዊ
+**Answer: a) ፍቅር — love** — the Littering essay's antonym set.
+

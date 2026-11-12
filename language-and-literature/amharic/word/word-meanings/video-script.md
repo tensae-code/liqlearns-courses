@@ -48,3 +48,14 @@ Two coats. One word. Now you can sort them.
 ## Added 2026-11-12 — the Grade 1–2 student-book parts
 Sub lesson 6, Grade 1: the stories' own word sets: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
 Sub lesson 7, Grade 2: cooking verbs and device uses: present the part in a simple voice, model the reading or listening once, let the learner answer the book's own questions, then prove it with the sub lesson's questions.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+
+Sub lesson 8 — Grade 5 and 6: the Loyal Friend's words in context, and literal against figurative meaning: say the title slowly. Name each part's own thing — the words in Amharic first, then what they mean. Ask the learner the part's own question. Wait. Then give the answer from the part itself.
+
+---
+
+Fix build (2026-11-12) — the new sub lessons, in the same super-simple voice:
+

@@ -49,3 +49,16 @@ a) a suffix  b) a whole word on its own  c) a prefix — standing together with 
 **12. (Sub lesson 6)** Which of these pieces is a SUFFIX in the guide's key?
 a) መ-  b) -ኦሽ  c) ኢ-
 **Answer: b) -ኦሽ** — መ- and ኢ- are prefixes; -ኦሽ, like -አዊ and -ነት, enters after.
+
+**13. (Sub lesson 7)** አድናቂ with the full suffix chain becomes what?
+a) አድናቂዎቹን  b) አድናቂነትኡ  c) አድናቂዎችኡንነት
+**Answer: a) አድናቂዎቹን** — the chain -ዎች + -ኡ + -ን, in the book's table.
+
+**14. (Sub lesson 7)** እንቅልፍ + -ኣችሁ makes what?
+a) እንቅልፋችሁ — your sleep  b) እንቅልፍኣችሁዎች  c) አንቅላፊ
+**Answer: a) እንቅልፋችሁ — your sleep** — stem + ending suffix.
+
+**15. (Sub lesson 7)** ዘመናቸው splits into what?
+a) ዘመን + -ኣቸው  b) ዘመና + ቸው  c) ዘ + መናቸው
+**Answer: a) ዘመን + -ኣቸው** — the Grade 6 book's own split.
+

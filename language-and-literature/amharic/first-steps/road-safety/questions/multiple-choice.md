@@ -26,3 +26,15 @@ a) up and down  b) left and right  c) only ahead
 a) play  b) run across  c) walk on the footpath
 **Answer: c) walk on the footpath**
 
+**7. (Sub lesson 3)** Why is crossing from behind a parked vehicle dangerous?
+a) Neither you nor the drivers can see each other in time  b) The vehicle may be dirty  c) It is against the dress code
+**Answer: a) Neither you nor the drivers can see each other in time** — the listening's own reason.
+
+**8. (Sub lesson 3)** Who counsels the students in An Urgent Agenda?
+a) Sergeant Mulatu  b) Ato Chane  c) Felegush
+**Answer: a) Sergeant Mulatu** — the traffic sergeant's counsel.
+
+**9. (Sub lesson 3)** On which edge of the road does the listening say to walk?
+a) The left edge  b) The right edge  c) The middle
+**Answer: a) The left edge** — walking facing the traffic's coming side, as taught.
+

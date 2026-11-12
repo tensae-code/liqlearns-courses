@@ -31,3 +31,13 @@ Sub lesson 7 questions from the type files. Pass mark: punctuate the greetings p
 
 ## Sub lesson 8 — The Grade 4 book's new marks: . , (፡-), እዝባር, ሦስት ነጠብጣብ
 Pass mark: build one correct sentence with each of the four marks — dot abbreviation, colon announcing more, slash እዝባር, ellipsis ሦስት ነጠብጣብ trailing off — and name each mark's work.
+
+# Growth — sub lessons added 2026-11-12 (Grade 7–8 fix build)
+
+## Sub lesson 9 — Grade 7: punctuation in dialogue and repair work
+Sub lesson 9 questions from the type files. Pass mark: name the marks in a short dialogue and repair two unpunctuated sentences.
+
+
+## Sub lesson 10 — Grade 8: punctuating a passage — the father, the son and the donkey
+Sub lesson 10 questions from the type files. Pass mark: punctuate the fable passage and state the father's conclusion.
+

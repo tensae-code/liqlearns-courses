@@ -71,6 +71,35 @@ countries: Ethiopia
 | Sub lesson 15 — A Symbol of Perseverance (የአይበገሬነት ተምሳሌት) (teacher guide — evidence): reading in the Inclusive Education chapter — list detailed information from the text. The placement gives the task, not the text's facts; the lesson teaches the task and invents no facts | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, printed p.63 (placement 43) |
 | Sub lesson 16 — Migration (ስደት) (teacher guide — evidence): reading — explain what was grasped; write the themes presented | Ethiopia, *Amharic as a Federal Language, Teacher Guide, Grade 10*, printed p.88 (placement 61) |
 | Picture 8953 / Picture 8954 / GIF 8998 — drawn for this growth from the rows above (scenes and objects only — no likeness of any named person is drawn) | Drawn renders made in this build (PIL, cream-paper style), from Books 13 and 14 above |
+| Sub lesson 20 — Burn It or Bury It? (ማቃጠል ወይስ መቅበር) — sorting and disposing of waste | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.22–23 |
+| Sub lesson 20 — When Hidar Is Swept (ኅዳር ሲታጠን) — the Hidar cleaning custom | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.33–34 |
+| Sub lesson 20 — Traditional Dress (ባህላዊ አለባበስ) — traditional dress and ornaments | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.39–41 |
+| Sub lesson 20 — Ornaments by body part — the vocabulary organiser | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.41 |
+| Sub lesson 21 — When Heroism Is Inherited (ጀግንነት ሲወረስ) — heroism passed from father to son | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.43–44 |
+| Sub lesson 21 — Debo (ደቦ) — working together | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.46–48 |
+| Sub lesson 21 — Culture and Civilisation (ባህልና ስልጣኔ) — what civilisation really means | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.49–51 |
+| Sub lesson 21 — Taking Medicines Properly — the five rules | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.97–99, 101 |
+| Sub lesson 22 — Disordered Eating (የተዛባ የአመጋገብ ሥርዓት) — too much and too little food | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.127–128, 131 |
+| Sub lesson 22 — Another's Gold Does Not Shine for You (የሰው ወርቅ አያደምቅ) — our dress, our identity | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.5–7 |
+| Sub lesson 22 — New Year and National Cultural Dress (አውደዓመትና የሀገር ባህል ልብሶች) — festivals and dress | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.9–10 |
+| Sub lesson 23 — Tingdirb (ጥንግድርብ) — regional dress of Ethiopia | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.11–13 |
+| Sub lesson 23 — Beauty (ውበት) — beauty inside and outside | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.17–19 |
+| Sub lesson 23 — Kayla Wheeler — athletes who overcome | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.22–24 |
+| Sub lesson 23 — Coincidence or…? (አጋጣሚ ወይስ…?) — comparing two athletes | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.32–33 |
+| Sub lesson 24 — The Award-Winning Farmer (ተሸላሚው አርሶአደር) — asking an expert | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.73–74 |
+| Sub lesson 24 — Mother Earth (እናት መሬት) — soil care, and the clue-word method | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.83–85 |
+| Sub lesson 24 — Heritages (ቅርሶች) — kinds of heritage | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.94–95 |
+| Sub lesson 24 — Growing Tourism's Benefit (የቱሪዝምን ጥቅም የበለጠ ማሳደግ) — developing tourism | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.107–108 |
+| Sub lesson 25 — Our Traditional Coffee Ceremony (የቡና ባህላዊ ሥርዓታችን) — the coffee ceremony | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.123–124, 126 |
+| Sub lesson 25 — Did You Know This? (ይህን ታውቁ ኖሯል?) — HIV and AIDS are not the same | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.146–147, 149–150 |
+| Sub lesson 25 — Debritu (ደብሪቱ) — the health worker of our village | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.153–154, 156 |
+| Sub lesson 25 — Her Dress, Not She, Is Abducted (ቀሚሷ እንጂ እሷ አትጠለፍም) — customs that protect girls | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.164–165, 167 |
+| Sub lesson 25 — Early Marriage (ያለዕድሜ ጋብቻ) — early marriage and its harms | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.169–170, 173 |
+| Sub lesson 25 — Empowering Women (ሴቶችን ማብቃት) | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.181–182, 184 |
+| Sub lesson 25 — The Awramba listening and debate — its reading-passage half | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.174, 177 |
+| Sub lesson 12 — Awramba (the Grade 6 listening text and gender-work debate row, added 2026-11-12 fix) | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.174, 177 |
+| Sub lesson 26 — "The Reversal" (የተገላቢጦሽ) — insults turned upside down | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.134–135, 137 |
+| Sub lesson 26 — The Chimchim Game (የቺምቺም ጨዋታ) — traditional games in verse | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.62–64 |
 
 | Sub lesson 17 — ከበሮና ክራር (short passage) | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.46 |
 | Sub lesson 17 — ገበጣ (passage) + review grid ገ/ጠ/ጨ/ጰ | Ethiopia, *Grade 1 Amharic Student Textbook*, printed p.52 |
@@ -99,11 +128,22 @@ countries: Ethiopia
 | Sub lesson 19 — የማስጠንቀቂያ ደወል + loudspeaker imperative writing | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.130–131 |
 | Picture 21202 / Picture 21203 — drawn for this fix build (the zebra crossing; the instrument families) | Drawn renders made in this build (PIL, cream-paper style), from Books 1 and 2 above |
 
+| Sub lesson 27 — reading a discussion — ምጣኔ! (coffee-gathering debate) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 19–20 |
+| Sub lesson 28 — reading — በጎፈቃድ (Volunteering), expository history | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 28–30 |
+| Sub lesson 29 — reading — የግድቡ ትሩፋት (The Benefits of the Dam) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 68–69 |
+| Sub lesson 30 — reading — ጫት መቃምና መዘዙ (Chat Chewing and Its Consequences) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 116–117 |
+| Sub lesson 31 — reading — የማይሸሹት ፍቅር (Love That Does Not Fade) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 133–134 |
+| Sub lesson 32 — reading — ግን ምን ነካን!? (But What Touched Us!?) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 10–11 |
+| Sub lesson 33 — reading — ዘመን ያልሻረው ጥበብ: tangible heritage sites | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 15–17 |
+| Sub lesson 34 — reading — አለሚቱና መምህሯ (Alemitu and Her Teacher), interview text | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 131–134 |
 **Acceptance count: taught in 1 country (Ethiopia).** Most passages are pupil-taught from the student books; the two teacher-guide reading texts are labelled (teacher guide — evidence) in the table. Sub lessons 6–11 (the 2026-11-12 growth) are pupil-taught throughout, from the Grade 5–8 student books. Sub lessons 12–16 (the 2026-11-12 Band 4 growth) stand wholly on teacher-guide evidence — the complete federal Grade 9 and Grade 10 guides (Books 13–14); there are no Grade 9–10 student books in the records, so nothing in sub lessons 12–16 is pupil-taught, and the guide-built parts are evidence only, never counted as taught to pupils.
 
 Honesty notes: (1) All passages are taught as summaries and tasks in the lesson's own words — never the books' text. (2) For A Near Neighbour Beats a Far Relative, the guide records the reading's task shapes and its picture-first opening, not a plot summary; the lesson teaches the proverb the title itself carries and the guide's tasks, and invents no plot beyond it. (3) The Grade 3 teacher-guide file is a truncated scan (ends printed p.31); both guide texts used here stand at pp.5–7 and 18–19, inside the span. (4) Pictures 8320–8323 are drawn renders made for this lesson and looked at before filing.
  (5) Sub lessons 6–11 (the 2026-11-12 growth) stand wholly on the Grade 5–8 student books. The Headache placement gives the passage's table but no figures; the lesson therefore teaches the read-from-the-table method and invents no figures. The biography readings in sub lesson 9 are stocked as reading only, as the brief orders — the writing method for lives belongs to another group, and the sub lesson cross-points to it in one line. (6) Pictures 8620–8625 and GIF 8626 are drawn renders made for this growth, in the range 8600–8659; every picture was looked at in full before filing (8621 was re-scaled after the first look so all four zones fit with their shares; 8625's title was re-set in the Ethiopic font) and GIF 8626's frames 1/7/13/20 were checked full-frame (its stage labels were re-set split-font so no letter renders as a box); the GIF is 20 frames, exactly 2.000 s, 480×270.
 
 Honesty notes, Band 4 growth: (7) The Bahre Hasab text (የዘመን አቆጣጠር) is the Grade 10 guide's Cultural Performances *listening* text; this lesson's brief assigns the Bahre Hasab calendar to Reading Passages, so the lesson teaches it as a read text after hearing, and the row above says plainly which skill the guide gives it. Its content is taught as a summary of the guide's keyed points — the text itself belongs to the missing student book. (8) For A Symbol of Perseverance and the Migration reading, the placements give the reading tasks, not the passages' contents; the lesson teaches exactly those tasks and invents no passage facts. (9) Pictures 8953, 8954 and GIF 8998 are drawn renders made for this growth, in the range 8950–8999; every picture was looked at in full before filing (the manuscript and village scenes were re-drawn once — captions re-set split-font so no letter renders as a box) and GIF 8998's frames 1/7/13/20 were checked full-frame (the star-points visibly circle the still centre); the GIF is 20 frames, exactly 2.000 s, 480×270. The GIF numbers sit at 8997–8999 because a parallel Band 4 builder holds picture files at 8960–8990 in this shared range.
+
+
+Fix-build note (2026-11-12, Amharic fix build — Grades 5–6 student books): the sub lessons added in this fix are recorded part by part in the table above, each at its own book and printed page. Listening parts teach exactly what the student books carry — title, picture and the book's own questions — and summarise the heard text only; stories are plot summaries, never transcriptions; songs are named and summarised, never transcribed.
 
 Searchable tags: reading passages, comprehension, descriptive passages, expository passages, procedural passages, history passage, near neighbour ከሩቅ ዘመድ የቅርብ ጎረቤት, Finote Selam ፍኖተሰላም, cleanliness ንፅህና, kebero ከበሮ, salad ሰላጣ, Wehni Amba ወህኒ አምባ, Tis Abay ጢስ ዓባይ, tables, climate zones ቆላ ወይና ደጋ ደጋ ውርጭ, improved seed ምርጥ ዘር, research reading, the first driver የመጀመሪያው ሾፌር, Fasilides' palace, biography readings, Wangari Maathai, Tirunesh Dibaba ስኬት, Berhanu Zerihun ብርሃኑ ዘርይሁን, Empress Taytu እቴጌ ጣይቱ ብጡል, argue passages, social media ማኅበራዊ ሚዲያ, let hate stop ጥላቻ ይቁም, forest shrinking የተፈጥሮ ደን መመናመን, climate change የአየር ንብረት ለውጥ, child labour የሕፃናት ጉልበት ብዝበዛ, trafficking ሕገወጥ የሰዎች ዝውውር, Awramba አውራምባ, work culture የሥራ ባህል, Tebechisa ተበቺሳ, unity in diversity በአንድነት ውስጥ ብዝሃነት, nature's twin faces የተፈጥሮ መንታ ገጽታዎች, hospitality እንግዳ ተቀባይነት, gist ጭምቅ ሀሳብ, Bahre Hasab ባሕረ ሐሳብ, the reckoning of time የዘመን አቆጣጠር, awd ዓውድ, traditional medicine ሀገረሰባዊ የህክምና ጥበብ, ቅመማ ሂደት, Tsehay ፀሐይ, inclusive education አካቶ ትምህርት, perseverance አይበገሬነት, migration ስደት

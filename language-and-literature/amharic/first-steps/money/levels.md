@@ -7,3 +7,12 @@ Sub lesson 1 questions from the type files. Pass mark: name each note by its num
 
 ## Sub lesson 2 — Santim coins
 Sub lesson 2 questions from the type files. Pass mark: name each coin and match the same coins together.
+
+
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, Grades 5–6 student books)
+
+## Sub lesson 3 — Grade 6: money in words, written in figures
+Sub lesson 3 questions from the type files. Pass mark: write birr-and-santim amounts from words into figures — ብር 5.15 and its companions — without a miss.
+
+
+

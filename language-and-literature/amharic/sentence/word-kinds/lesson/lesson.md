@@ -178,6 +178,50 @@ In every pair the describing word walks first and the noun follows it. Find the 
 
 Read a sentence, find the noun, look before it, and ask: what word here tells the noun's kind, size, type or origin? That word is the ቅጽል. Lift it out and name it.
 
+
+## Sub lesson 14 — Grade 5 and 6: adverbs whole — native and derived, the four kinds, and adverbs at work in sentences and a story
+
+
+### The Adverb (ተውሳከግስ) — native and derived
+
+The adverb defined the Grade 5 book's way: the word-part that adds place (where), time (when), manner (how) or reason (why) to the verb's action — the old scholars called it "addition to the verb", modern scholars "describer of the verb". Two families: native adverbs (ነባር: ዛሬ today, አሁን now, ቶሎ quickly, ገና yet) and derived adverbs (ምሥርት: ክፉኛ badly, from the adjective ክፉ; በፍጥነት, ግምኛ, ጅልኛ). Pick the adverbs out of sentences and say which family each belongs to. The adverb's definition stands in sub lesson 5 from the Grade 3 book (when/where/how only); the native/derived distinction is stocked here, at its own pages.
+
+### Building sentences with adverbs — the Grade 5 practice set
+
+Build complete sentences using the adverbs ክፉኛ, ቶሎ, ገና, ዛሬ, ትናንት — one sentence each, the adverb doing its work on the verb. Adverbs in sentences stand in sub lesson 5 from the Grade 3 book; this practice set is the Grade 5 book's own, at its own page.
+
+### Adverbs and their kinds — the Grade 6 classification
+
+Identify adverbs in sentences (አዘንኩ, ደነገጠ, ጠጣ, ቶሎ መጣች…) and classify them into the Grade 6 book's four kinds: የጊዜ (time), የቦታ (place), የሁኔታ (manner), የመጠን (degree/quantity). The review completes sentences choosing the right adverb: እንዴት, ትንሽ, ዘወትር, ዛሬ, እዚህ, ክፉኛ, ውስጥ, ብዙ.
+
+### Building sentences with time adverbs — the Grade 6 set
+
+Build sentences with the time adverbs among a mixed list: ዛሬ, አምና, ማታ, ወዲያው, ድሮ, ቅድም, አሁን, ዘወትር — each sentence must let its time word do the timing. Time words stand in sub lesson 5 from the Grade 3 book; this set is the Grade 6 book's own, at its own page.
+
+### Adverb kinds in a story — the table and the night cloze
+
+First sort adverbs into the table of kinds (time / place / quantity / manner: ቶሎ, በጣም, ክፉኛ, ወደዚያው, ወዲያው, ሌሊት…). Then complete a night-time mini-story choosing adverbs: waking at an unusual hour, a sound from the kitchen, a dishevelled man eating, tomato-red eyes, fear, backing into a wall. No adverb-kind sorting stood in this lesson before; this part stocks the Grade 6 book's own review at its own pages.
+
+## Sub lesson 15 — Grade 6: picking out the adjectives
+
+
+### Adjectives (ቅጽል) picked out of sentences
+
+Pick out the adjectives in the Grade 6 book's sentences and phrases: ሐሰተኛ መረጃ (false information), እውነተኛ መረጃ (true information), ቀጭን ልጅ, ትልልቅ ድንጋይ, ጥቁር ልብስ, ታሪካዊ ቀን (a historic day), አመለኛ በቅሎ. Adjectives are defined and taught in sub lesson 3 of this lesson from other books; this part stocks the Grade 6 book's own picking-out exercise at its own page. (The same page is cited in the Suffixes lesson for the -አዊ / -ኛ families inside these phrases — both citations stand, each for its own teaching.)
+
+
+## Sub lesson 16 — Grade 7: the adjective/adverb sorting table
+
+Grade 7's Haddis Alemayehu chapter sorts phrases into two columns: adjective + noun against adverb + verb. The rule: an adjective (ቅጽል) describes a NOUN — ቀይ ቦርሳ, ቀይ describes the bag's colour. An adverb (ተወሳከግስ) describes a VERB — ቶሎ መጣ, ቶሎ describes መጣ by manner. The sorting set: ጥቁር አንበሣ, ግምኛ ሄደች, ክፉ ሰው, ክፉኛ ተራገመች, ረጅም ልጅ, ጥሩ እናት, ቶሎ አልተናገረችም, ወፍራም ጎማ, ገና አልተንቀሳቀሰም, ነጭ ጃኬት. Ask of each describing word: WHAT does it describe — a thing, or an action? The answer is its column.
+
+## Sub lesson 17 — Grade 7+8: adverb types, persons, and picking adverbs out
+
+Three more adverb works. Grade 7 (p.59): fill a table from given sentences with the pronoun, its person, and the ADVERB'S TYPE — of time (የጊዜ), of place (የቦታ), of manner (የሁኔታ). Grade 8 (pp.97–98): build 5 sentences with adverbial words using a bigar, on the built model — ሰሚራ / ከድርና በላይነሽ / ቸሩ / ሁልጊዜ, አንዳንድ ጊዜ, አልፎ አልፎ / ለስላሳ / ትጠጣለች. Grade 8 again (pp.103–104): pick out the adverbial words in sentences — the model: ዘርፌ ትናንት ደስተኛ ነበረች, the adverb is ትናንት; the items carry ነገ, ገና, ክፉኛ, ቶሎ, እንደገና, ዛሬ. Picking an adverb out is the reverse of building with one: find the verb, then find what leans on it.
+
+## Sub lesson 18 — Grade 8: words that describe nouns and verbs
+
+Grade 8's Goze Mosque chapter picks out modifiers of both kinds in sentences: የስም ገላጭ (noun-modifiers) and የግስ ገላጭ (verb-modifiers), on the model ጎበዟ ልጅ ነገ ትመጣለች — ጎበዟ modifies the noun ልጅ; the time and manner words modify the verb. Then write 3 own sentences containing BOTH a noun-modifier and a verb-modifier. One sentence, two leanings: find the noun's describer and the verb's describer separately, or the sentence stays half-read.
+
 ## Say it to your companion
 
 Name the six kinds in the books' order — ስም, ግስ, ቅጽል, አያያዥ ቃላት, ተውሳከግስ, መስተዋድድ — and give one example of each from this lesson: ሰው, ሄደ, ቀይ, እና, ቶሎ, ወደ. Then let your companion test you: they read a word, you name its kind and say its job. Then go deeper: let them name a noun — ደም, ጎንደር, መንጋ, ዉኃ — and you say which noun family it belongs to: ወል ስም or የተጸውኦ ስም, ጥቅል ስም, የሚቆጠሩ or የማይቆጠሩ. Last, point at yourself, at your companion, and at someone far away, and say the pronoun for each person as you point: እኔ, አንተ / አንቺ, እሱ / እሷ.
