@@ -13,6 +13,11 @@ Six contributors to research and write up. **Kitaw Ejigu** — aerospace mechani
 
 **The write-up task:** research one of the six and write their profile — their field, their contribution, and one ethical discipline their work shows.
 
+## Sub lesson 3 — Grade 8 growth — investigations on people and animals
+Grade 8 returns to ethics where the stakes are bodies, not just numbers. Any investigation — and above all one conducted on human beings or animals — is guided by ethical values: **honesty, transparency and objectivity** in reporting findings and data; **safety** for the investigators and for the subjects; and **no harm** expected either to the researcher or to the subject the research is done on. The goal of the whole process is the truth, which is why the reporting rules come first: results are recorded exactly as they come. And animal work must be justified, not assumed. A new drug is not tested on people first — **mice serve as model animals in medicine research because their biology tracks ours closely enough** for what is learned from them to teach us about ourselves. The closeness is the reason the work can be defended; where no such reason exists, the harm has no defence.
+
+[Picture 33505 — the five ethics checklist: honesty, transparency, objectivity, safety, no harm]
+
 ## Say it to your companion
 Name the five disciplines for your companion, then profile two scientists — one from space/engineering, one from life science — with field and contribution for each.
 
@@ -20,3 +25,4 @@ Name the five disciplines for your companion, then profile two scientists — on
 1. Profile write-up: complete the book's task for one scientist — field, contribution, the ethical discipline their work shows.
 2. The copied sheet: write what breaks, rule by rule, if the pupil in Do it first copies the numbers.
 3. Risk warning: name one risk in your community that a scientist or health worker warned about. Who warned? Who was protected?
+4. Ethics audit (Grade 8): a team tests a new feed on chickens, records only the best week's weights, and tells nobody the birds were handled roughly. Audit the work against the five Grade 8 ethics — honesty, transparency, objectivity, safety, no harm — and name every breach.

@@ -25,3 +25,14 @@ a) ceramics  b) solar fuels  c) endod fruit against bilharzia  d) fair AI
 **6. (Sub lesson 2)** Rediet Abebe co-founded —
 a) NASA  b) Black in AI  c) a sorghum institute  d) a ceramics lab
 **Answer: b) Black in AI** — mechanism design for social good; Black in AI
+**7. (Sub lesson 3)** The Grade 8 ethics for investigations on people and animals are —
+a) speed, cost, fame, silence, luck  b) honesty, transparency, objectivity, safety, and no harm  c) copying, hiding, guessing, rushing, boasting  d) reading, writing, counting, drawing, singing
+**Answer: b) honesty, transparency, objectivity, safety, and no harm** — the five values named for subject work
+
+**8. (Sub lesson 3)** Mice serve as model animals in medicine research because —
+a) they are cheap only  b) their biology tracks ours closely enough to learn from  c) nobody cares about mice  d) they never feel harm
+**Answer: b) their biology tracks ours closely enough to learn from** — the closeness is the justification
+
+**9. (Sub lesson 3)** Before a new drug is tried, the ethical order is —
+a) test on people at once  b) test on model animals first, with the animal work justified  c) skip testing  d) sell it and see
+**Answer: b) test on model animals first, with the animal work justified** — subjects are protected by sequence and by argument

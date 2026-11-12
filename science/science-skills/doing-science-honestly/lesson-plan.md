@@ -10,6 +10,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 ## Sub lessons
 1. **The five disciplines** — honesty, careful analysis, proper credit, unbiased interpretation, warning the community
 2. **Ethiopia's own scientists** — six named contributors to research, match and write up
+3. **Grade 8 growth — investigations on people and animals** — honesty, transparency and objectivity in reporting; safety for investigators and subjects; no harm to living things; animal work justified — mice as model animals in medicine research
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -21,6 +22,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Match six Ethiopian scientists to their contributions.
 3. Write up one scientist's profile from research, as the book's task sets.
 4. Say why warning the community of risks is an ethical duty, not a courtesy.
+5. Name the Grade 8 ethics for work on people and animals: honesty, transparency, objectivity, safety, and no harm.
+6. Say why mice serve as model animals in medicine research — and what must be true before animal work is justified at all.
 
 ## What you need
 Paper and pencil; library, radio or family knowledge for the research write-up.
@@ -29,6 +32,7 @@ Paper and pencil; library, radio or family knowledge for the research write-up.
 1. **Do it first** — the learner judges a small dishonest act — a copied result — before the five disciplines are named (lesson/lesson.md).
 2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 32105]: a picture of the six named Ethiopian scientists in one panel, a one-line contribution under each — the student matches scientist to contribution from memory
+   - ADD IMAGE [Picture 33505]: a picture of a checklist panel of the five Grade 8 ethics — honesty, transparency, objectivity, safety, no harm — beside the rule to record results exactly as seen — the student ticks each ethic off against a described investigation
    - ADD AUDIO: a voice reading the five ethical disciplines slowly — the student ticks each one off on paper as it is read
 3. **Say it to your companion** — the learner explains the lesson's main ideas to a companion, in their own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
@@ -38,6 +42,7 @@ Paper and pencil; library, radio or family knowledge for the research write-up.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 32105] — the six scientists panel → the student matches scientist to contribution
+- IMAGE [Picture 33505] — the Grade 8 ethics checklist → the student audits a described investigation against the five ethics
 - AUDIO — the five disciplines read aloud → the student ticks each off
 - VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
 
@@ -46,6 +51,7 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 ## If the learner is stuck
 - Thinks ethics is separate from science → a copied result is not bad manners; it is broken science, because every later inference stands on false evidence.
 - Mixes the scientists up → anchor each to one word: Ejigu–space, Haile–fuels, Ejeta–sorghum, Abebe–fair systems, Lemma–endod, Mekonnen–the body.
+- Reads “model animal” as “any animal will do” → a model animal is chosen because its biology tracks ours closely enough to learn from; the closeness is the justification, and harm still has to be argued for, never assumed.
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

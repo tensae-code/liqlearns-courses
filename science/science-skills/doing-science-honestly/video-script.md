@@ -14,3 +14,9 @@ Now meet two of Ethiopia's own.
 **Gebisa Ejeta** bred sorghum that survives drought and pests, and feeds people better.
 
 Different fields. The same five rules. That is doing science honestly.
+
+Grade 8 adds the harder case: work done **on** people and animals.
+Be **honest**, **transparent**, **objective**. Keep everyone **safe**. Do **no harm**.
+A new medicine is not tried on people first — mice carry the trial,
+because a mouse's biology walks close beside our own.
+Even then, the harm must be **argued for** — never just assumed.

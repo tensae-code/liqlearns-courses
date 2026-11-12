@@ -1,0 +1,19 @@
+# Sources — Measurement — quantities, units, prefixes, accuracy and precision (Grade 8)
+
+countries: Ethiopia
+
+**Book 1:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp. Printed page = PDF page (1:1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Indigenous or modern? Quantities and their units (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8* (teacher guide — evidence), printed pp. 9–13 |
+| Sub lesson 2 — Prefixes and conversions (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8* (teacher guide — evidence), printed pp. 13–17 |
+| Sub lesson 3 — Accuracy and precision (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8* (teacher guide — evidence), printed pp. 13, 16–17 |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+
+Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — it teaches a §1.1 measurement section the student book lacks; guide material is syllabus-level teacher evidence only, never a page-key to the student book.
+
+Guide placement: Grade 8 teacher item 2 (§1.1, printed pp. 9–17). The Grade 8 student book contains no measurement section — its Unit 1 opens at doing investigations — so no part of this lesson is page-keyed to it. GUIDE KEY ERRORS, corrected before use and flagged here as required: (1) the guide's Exercise 1.5 key gives 0.0012 s as “1.2 µs” — wrong; 0.0012 s is 1.2 × 0.001 s = **1.2 ms**, and the lesson and questions teach 1.2 ms. (2) The guide's Exercise 1.12 key gives the SI unit of mass as “kilogram (m)” — the unit name is right and the symbol is wrong; the symbol is **kg** (m is the metre), and the lesson and questions teach kg. The Grade 7 partner lessons (units and relations; scalars, vectors and prefixes; accuracy and precision from boiling-water readings) stand on the Grade 7 student book; this lesson's dart-player example and 12.17 m/s² verdict are the guide's own, and no Grade 7 content is re-keyed here.
+
+Searchable tags: measurement, fundamental quantities seven, derived quantities, SI units, prefixes conversions, accuracy precision dart, 12.17 9.81 verdict, indigenous measures reliability, Grade 8 guide 1.1

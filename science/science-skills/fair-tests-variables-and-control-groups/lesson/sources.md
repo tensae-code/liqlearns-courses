@@ -1,0 +1,18 @@
+# Sources — Fair tests — variables and control groups
+
+countries: Ethiopia
+
+**Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — The three variables | Ethiopia, *General Science Student Textbook, Grade 8*, printed pp. 6–8 |
+| Sub lesson 2 — One change, and the control group | Ethiopia, *General Science Student Textbook, Grade 8*, printed pp. 8–9, 12–14 |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — it teaches a §1.1 measurement section the student book lacks; guide material is syllabus-level teacher evidence only, never a page-key to the student book.
+
+Student placement: Grade 8 student item 4 (Unit 1 §1.3, printed pp. 12–14), with the variable definitions it stands on at printed pp. 6–8 inside student item 2's section — both ranges are the student book's own Unit 1, cited as printed. The fertiliser-and-bean framing is the student book's own fair-test activity. No book errors inside this item were flagged by the placements.
+
+Searchable tags: fair test, independent variable, dependent variable, controlled variables, control group, constants, Grade 8 Unit 1

@@ -10,3 +10,8 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 2)** Sossina Haile's fields include ceramics and solar fuels.
 **Answer: True**
+**4. (Sub lesson 3)** No harm is expected either to the researcher or to the subject an investigation is done on.
+**Answer: True** — safety and no-harm cover both sides of the bench
+
+**5. (Sub lesson 3)** Transparency means reporting only the results that look good.
+**Answer: False** — transparency means showing findings and data as they are

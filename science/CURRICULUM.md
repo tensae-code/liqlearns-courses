@@ -180,6 +180,29 @@ book — guide material is syllabus-level teacher
 evidence only. Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSF-science-g7-u6.md`.
 
+Band GS-H (Grade 8, Unit 1 — Scientific
+Investigation): 5 new lessons in Science Skills plus
+1 grown lesson, 69 questions written (63 in new
+lessons, 6 added by the growth), 9 media filed
+(pictures/GIFs 33500–33508) — the scientific method,
+semi-guided investigations (with the guide's worked
+solutions as teacher evidence), fair tests, and the
+honesty lesson grown with a new Sub lesson 3. The
+guide's §1.1 measurement section — which the student
+book lacks — stands as two NEW teacher-evidence
+lessons (measurement: quantities, units, prefixes,
+accuracy and precision; measuring time the old way),
+acceptance 0. The guide's key errors were corrected
+before any use and flagged in sources: 0.0012 s is
+taught as 1.2 ms (not µs) and the mass symbol as kg
+(not m) — the measurement lesson's questions test the
+corrected values. Pairing carried exactly: the Grade
+8 guide is a federal new-syllabus book, NOT
+edition-matched to the Amhara student book — guide
+material is syllabus-level teacher evidence only.
+Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSH-science-g8-u1.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -442,6 +465,11 @@ evidence only. Build log:
 19. **Laboratory safety — hazard signs and protective equipment** (`science-skills/hazard-signs-and-protective-equipment`) — ten hazard signs warn by sight — corrosive, flammable, toxic and the rest — and protective equipment reduces harm without removing the hazard (Grade 7 General Science)
 20. **Laboratory equipment — names, uses, and making your own** (`science-skills/laboratory-equipment-names-uses-and-making-your-own`) — thirteen common tools, each with its job — and when the school has no kit, the same tools are made from local materials (Grade 7 General Science)
 21. **Writing a laboratory report** (`science-skills/writing-a-laboratory-report`) — an experiment is written up in seven parts — Title, Aim, Theory, Materials, Data/Observation, Result and Discussion, Conclusion — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
+22. **The scientific method — observe, hypothesise, test, conclude** (`science-skills/the-scientific-method-observe-hypothesise-test-conclude`) — an investigation runs in a working sequence — observe, ask, hypothesise, test, analyse and conclude — and its results can harden into a law or support a theory (Grade 8 General Science)
+23. **Semi-guided investigations — your question, your method** (`science-skills/semi-guided-investigations-your-question-your-method`) — in a semi-guided investigation the question is given but the method is yours — and the mark of real inquiry is revising a hypothesis when the evidence refuses it (Grade 8 General Science)
+24. **Fair tests — variables and control groups** (`science-skills/fair-tests-variables-and-control-groups`) — a test is fair only when one thing changes, one thing is measured, and everything else is held still — with a control group that gets no treatment as the comparison baseline (Grade 8 General Science)
+25. **Measurement — quantities, units, prefixes, accuracy and precision (Grade 8)** (`science-skills/measurement-quantities-units-prefixes-and-accuracy-grade-8`) — measurement rests on seven fundamental quantities, prefixes stretch and shrink their units by tens — and every set of readings must pass two different judgements: accuracy against the true value, precision against itself — teacher-guide evidence only, acceptance 0 (Grade 8 General Science)
+26. **Measuring time the old way — sundial, sand-glass, water clock** (`science-skills/measuring-time-the-old-way-sundial-sand-glass-water-clock`) — before clocks, time was read from the sun, from falling sand and from flowing water — each old clock works, and each depends on something that shifts, which is exactly its reliability problem — teacher-guide evidence only, acceptance 0 (Grade 8 General Science)
 
 ## Unit 16 — Biology
 

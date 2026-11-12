@@ -10,3 +10,5 @@ Answer in a word or a short sentence.
 
 **3. (Sub lesson 2)** What plant product did Aklilu Lemma link to bilharzia prevention?
 **Answer:** The endod fruit.
+**4. (Sub lesson 3)** Why must animal work in an investigation be justified, not just done?
+**Answer:** Because no harm to living things is the rule — animal work is defensible only where there is a reason it teaches what cannot be learned otherwise, as mice model our biology in medicine research.
