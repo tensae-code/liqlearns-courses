@@ -10,6 +10,8 @@ Get software the safe way: **buy it from software stores or galleries**, **downl
 
 > **Teacher evidence — check before you install (teacher guide — evidence, printed pp. 99–100):** study the software's **detailed requirements** first; check the **operating-system type** (Windows, Unix/Linux, Mac); confirm an **appropriate place with enough disk space**; consider **CPU processing power and graphics capability** where the software needs them; **choose the source carefully**, especially online; and **scan flash disks, CDs and hard disks before opening** files or software from them. The principle behind it: the **number and type of applications installed directly affect a computer's speed, efficiency and security**, so install only what is required. Where there is no school laboratory, the teacher demonstrates install and uninstall on their own laptop or desktop while pupils record the steps.
 
+> **Teacher evidence — getting software safely (teacher guide — evidence):** take software from **trusted sources and software hubs**, buy it from **software companies and online stores**, or take it from **friends and school intranet repositories**. Before downloading from the internet: **check the website address**; keep **active virus and malware scanners** running; if the site is not trusted, **look elsewhere**; **check the download link is really the one wanted**; and **avoid download programs and installers** that wrap the file you want in other software.
+
 [Picture 31301 — the seven install steps as a numbered strip from disc-in to program-open]
 
 ## Sub lesson 2 — Steps 1–3 — start the installer and answer it

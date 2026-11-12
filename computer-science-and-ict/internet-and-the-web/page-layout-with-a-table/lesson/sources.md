@@ -10,6 +10,7 @@ countries: Ethiopia
 |---|---|
 | The layout, band by band | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 95–97 |
 | The fuller models (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, Unit 4, printed pp. 74–77, 83–88 |
+| The Unit 4 review model #1 — the life-expectancy-by-year data table, 1960–2016, with male, female and all-persons columns (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, Unit 4 review answers, printed pp. 83–88 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

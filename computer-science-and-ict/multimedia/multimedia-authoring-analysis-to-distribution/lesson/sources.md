@@ -9,10 +9,10 @@ countries: Ethiopia
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Analysis — decide what to do; Sub lesson 2 — Design — storyboard the story; Sub lesson 3 — Development — build the prototype; Sub lesson 4 — Evaluation — test and fine-tune; Sub lesson 5 — Distribution — package and hand out | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed p. 151 |
-| All five sub lessons (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 4, printed pp. 86–87 — the review key's fuller production breakdown: conceptualisation, planning and costing, design and production (data gathering, navigation map, storyboarding, integration), testing, delivery |
+| Sub lesson 6 — The production road, told in full (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 4, printed pp. 86–87 — the review key's fuller production breakdown: conceptualisation, planning and costing, design and production (data gathering, navigation map, storyboarding, integration), testing, delivery |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
-Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed. The teacher guide's key expands the same road (conceptualisation; planning and costing with prototype; design and production with navigation map and storyboarding; testing against objectives and platforms; delivery with maintenance) — filed as labelled teacher evidence in the sources table and used in the hands-on activity, while the taught five stages are the student book's.
+Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed. The teacher guide's key expands the same road (conceptualisation; planning and costing with prototype; design and production with navigation map and storyboarding; testing against objectives and platforms; delivery with maintenance) — taught as Sub lesson 6, labelled teacher-guide evidence there and in the sources table, while the first five sub lessons teach the student book's five stages.
 
 Searchable tags: multimedia authoring, analysis, design, storyboard, development, prototype, evaluation, distribution, production stages, Ethiopia Grade 10

@@ -15,6 +15,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **Development — build the prototype** — incorporate the data and set it up as a prototype.
 4. **Evaluation — test and fine-tune** — test the working prototype, fine-tune, make it attractive, review.
 5. **Distribution — package and hand out** — package the finished work and distribute it.
+6. **The production road, told in full (teacher guide — evidence)** — the guide's expanded breakdown of the same road: conceptualisation; planning and costing (budget, prototype); design and production (navigation map, storyboarding, integration); testing against objectives and delivery platforms; delivery with maintenance, shipping and marketing.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

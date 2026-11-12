@@ -9,10 +9,10 @@ countries: Ethiopia
 | Lesson part | Where it comes from |
 |---|---|
 | Five fields, one combination; Entertainment, public places and collaboration; Healthcare | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 140–143 |
-| Five fields, one combination; Healthcare (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 4, printed pp. 73–75 — the Activity 4.1 key: classrooms, banks, health monitoring, business and virtual meetings keyed in full |
+| Five sectors (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 4, printed pp. 73–75 — the Activity 4.1 key: classrooms, banks, health monitoring, business and virtual meetings keyed in full |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
-Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed. Book error taught corrected: printed p. 141 says “Figure 4.3 shows virtual meetings” — the virtual-meeting figure is 4.4; Figure 4.3 is entertainment. This lesson teaches from the pictured content (the meeting grid belongs with collaboration) and names the slip here. The teacher guide's keyed bank example (online banking) is filed as teacher evidence in the sources table; the student book's five fields are the taught set.
+Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed. Book error taught corrected: printed p. 141 says “Figure 4.3 shows virtual meetings” — the virtual-meeting figure is 4.4; Figure 4.3 is entertainment. This lesson teaches from the pictured content (the meeting grid belongs with collaboration) and names the slip here. The teacher guide's Activity 4.1 key (printed pp. 73–75) is taught in the lesson's "Five sectors" section as labelled teacher-guide evidence — its own five sectors (classrooms, banks, health monitoring, business, virtual meetings), with the bank, business and real-time patient-monitoring detail in the lesson text; the student book's five fields remain the lesson's main set.
 
 Searchable tags: multimedia applications, education, entertainment, public places, kiosks, collaboration, virtual meeting, virtual learning, healthcare, telemedicine, virtual surgery, Ethiopia Grade 10

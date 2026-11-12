@@ -12,6 +12,7 @@ countries: Ethiopia
 | The three dust methods in order; the monthly habit for vents, ports and keyboards | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 5, printed pp. 120–121 |
 | Dust keyed to overheating and component failure (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, Unit 5, printed pp. 95–98 |
 | The Grade 12 definition of preventive maintenance — regular and systematic inspection, cleaning and replacement of worn parts, materials and systems (teacher guide — evidence; GROWTH, Wave F band F5) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 5 review answers, printed pp. 111–112 |
+| The drastic-fix caution — most problems have simple solutions; reformatting/reinstalling can be needed, and a non-expert attempting it can make things worse (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 5 review answers, printed pp. 111–112 |
 
 **Book 3 (growth):** *Information Technology, Grade 12 Teacher Guide* (teacher guide) — Ethiopia, Ministry of Education / Hawassa University. Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu, Berhane Woldegabriel Zeweldi, Temesgen Debelo Ayana. Illustrator: Selamneh Belete Tekle. Designer: Dagnachew Melesew Alemayehu. August 2023, ©2023 MoE, under GEQIP-E. ISBN 978-99990-0-047-5. PDF 161 pp. Printed page = PDF page − 5. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-teacher-placements.md (item 33).
 

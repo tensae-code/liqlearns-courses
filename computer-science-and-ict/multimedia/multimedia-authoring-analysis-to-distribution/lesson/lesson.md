@@ -26,6 +26,18 @@ The fourth stage is **Evaluation**: **test** the working prototype, **fine-tune*
 
 The fifth stage is **Distribution**: **package** the finished work and **distribute** it. A project that is never packaged and handed out has not finished — the stream of information must reach its learners.
 
+## Sub lesson 6 — The production road, told in full (teacher guide — evidence)
+
+The guide's key walks the same road with more signposts:
+
+1. **Project conceptualisation** — the team and the client together define the project and the real problem it answers.
+2. **Planning and costing** — the messages and objectives are outlined; the writing, art, music and video skills needed are listed; time is estimated and a budget prepared; a prototype is made.
+3. **Design and production** — data gathering, a navigation-map structure, media-content design, interface design, storyboarding, then integration by authoring.
+4. **Testing** — the product is freed of bugs and checked against the project's objectives and on its planned delivery platforms.
+5. **Delivery** — implementation, maintenance, shipping and marketing.
+
+Set the two tellings side by side: Analysis is conceptualisation; Design and Development together do the design-and-production work; Evaluation is testing with the audience's eyes added; Distribution is delivery — and delivery does not end the job, because maintenance follows it.
+
 > Tip — from us, not from the books: keep the prototype from Development even after Distribution. When a user reports a fault, the prototype is where you test the fix first.
 
 ## Say it to your companion

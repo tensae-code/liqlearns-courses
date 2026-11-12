@@ -13,6 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **What a function is** — a predefined formula with a fixed shape: =, the function name, an opening parenthesis, the arguments separated by commas, a closing parenthesis; the named functions are sum, average, maximum and minimum
 2. **Totalling a column — =SUM(C3:C6), and your own table** — the worked example totals a column as =SUM(C3:C6); the activity builds a pupil table — name, age, gender, grade, two test scores — and finds the sum of the tests
 3. **COUNT, the fifth function — and AutoSum (Grade 10 depth)** — COUNT counts numeric cells, making five functions; syntax = name (arguments); the typed route (select, type = and name, range in parentheses, Enter) and the AutoSum route (Home → Editing group, guessed range corrected before Enter); all five computed over a students' grade record table
+4. **Nine powerful things Excel can do (teacher guide — evidence)** — the Grade 10 guide's keyed feature set: header and footer; find and replace; password protection; filtering (AutoFilter / Advanced Filter); sorting; built-in formulae; chart creation (pivot table reports); automatic recalculation; formula auditing (precedents and dependents, blue arrows)
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -26,6 +27,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 4. Build a pupil table — name, age, gender, grade and two test scores — and find the sum of the tests in the spreadsheet.
 5. Name the fifth function, COUNT, and say what it counts — numeric cells, not their total.
 6. Make a function by typing it, and by AutoSum — correcting AutoSum's guessed range before Enter.
+7. Name the nine powerful Excel features from the guide's key, and say what formula auditing traces — precedents and dependents.
 
 ## What you need
 A computer with a spreadsheet program — this lesson is learned by doing it.

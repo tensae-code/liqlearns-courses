@@ -26,12 +26,23 @@ In **healthcare**, staff store and send images for diagnosis, and multimedia car
 
 The same combination that entertains on a bus here helps a doctor learn and a patient be treated from far away. That is why the field matters: the forms are the same, the stakes are not.
 
+## Five sectors (teacher guide — evidence)
+
+The same multimedia at work, told sector by sector:
+
+- **Classrooms** — multimedia engages pupils who expect immediate information, and lets them work in groups, show knowledge in several ways and revise their own work.
+- **Banks** — online and internet banking run on multimedia, and multimedia also teaches customers the bank's schemes.
+- **Health** — patient and disease data are managed, and critical patients are monitored in real time: the screen alerts the doctor or nurse on duty when a condition changes.
+- **Business** — training, marketing, advertising and product demos.
+- **Virtual meetings** — real-time interaction over the internet with audio, video, chat and application sharing — and the wider virtual learning built on them.
+
 ## Say it to your companion
 
-Name the five fields for your companion. For each one, give the example from this lesson — and say which field your own Do-it-first list belonged to.
+Name the five fields for your companion. For each one, give the example from this lesson — and say which field your own Do-it-first list belonged to. Then name the five sectors and say what multimedia does in the bank and at the hospital monitor.
 
 ## Do It Yourself
 
 1. Sort five real screens you have seen this week into the five fields; write the field beside each.
 2. Explain virtual learning, telemedicine and virtual surgery in one sentence each, in your own words.
 3. Say why a church service with lyrics on a big screen belongs to public places, not entertainment.
+4. A nurse is alerted by a screen the moment a patient's condition changes. Which sector is at work, and what is the multimedia doing?

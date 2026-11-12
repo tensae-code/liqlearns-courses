@@ -12,7 +12,7 @@ The screen has **two parts**. The **main (graphics) screen** is where pictures a
 
 ## Sub lesson 2 — The elements, one by one
 
-The **title bar** and **menu bar** crown the window, as in Word. The **button bar** holds shortcuts you run by clicking. The **Listener window** is where commands are typed. The **turtle** is the **triangle at the centre of the graphics screen** — it draws. The **command input box** is where you type a command, run with the **Execute button or Enter**. Above the input box sits the **output / command-recall list box**, recording executed commands and messages. Two facts from the teacher guide belong here: another name for a LOGO command is a **primitive**, and if the turtle is hidden, the **show-turtle command** makes it reappear.
+The **title bar** and **menu bar** crown the window, as in Word. The **button bar** holds shortcuts you run by clicking. The **Listener window** is where commands are typed. The **turtle** is the **triangle at the centre of the graphics screen** — it draws. The **command input box** is where you type a command, run with the **Execute button or Enter**. Above the input box sits the **output / command-recall list box**, recording executed commands and messages. Two facts from the teacher guide belong here: another name for a LOGO command is a **primitive**, and if the turtle is hidden, the **show-turtle command** makes it reappear. The guide's review key also gives **.LOG** as the extension for LOGO files — the ending a saved Logo file carries.
 
 ## Say it to your companion
 

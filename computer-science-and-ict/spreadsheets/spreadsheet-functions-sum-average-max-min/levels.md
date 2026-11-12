@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: the worked example totals
 
 ## Sub lesson 3 — COUNT, the fifth function — and AutoSum (Grade 10 depth)
 Sub lesson 3 questions from the type files. Pass mark: name all five functions with COUNT among them; make one by typing (=, name, range in parentheses, Enter) and one by AutoSum, correcting the guessed range before Enter; compute all five over a grade record table.
+
+## Sub lesson 4 — Nine powerful things Excel can do (teacher guide — evidence)
+Sub lesson 4 questions from the type files. Pass mark: name the nine keyed features and say what each does; tell AutoFilter from Advanced Filter by the criteria's complexity; define precedents and dependents.

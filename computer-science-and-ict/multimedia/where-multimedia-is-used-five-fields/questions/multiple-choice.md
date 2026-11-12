@@ -22,3 +22,11 @@ a) a television in a hospital  b) medical information exchanged electronically b
 a) a real patient  b) a cadaver  c) 3D models  d) photographs only
 **Answer: c) 3D models** — no patient and no cadaver.
 
+**6.** In the guide's keyed sectors, a critical patient monitored in real time belongs to —
+a) banks  b) business  c) health  d) classrooms
+**Answer: c) health** — the screen alerts the doctor or nurse on duty when a condition changes.
+
+**7.** Which list gives the guide's five keyed sectors?
+a) classrooms, banks, health, business, virtual meetings  b) education, entertainment, public places, collaboration, healthcare  c) text, audio, video, graphics, animation  d) school, market, farm, office, church
+**Answer: a) classrooms, banks, health, business, virtual meetings** — the keyed sector set.
+

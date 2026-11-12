@@ -12,6 +12,7 @@ countries: Ethiopia
 | Steps 1–3 — start the installer and answer it | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed p. 138 |
 | Steps 4–7 — finish, restart, use | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed p. 138 |
 | Pre-install requirements checklist (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 5, printed pp. 99–100 |
+| Getting software safely — trusted sources and software hubs, companies and online stores, friends and school intranet repositories; the before-downloading checks (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 5 review answers, printed pp. 111–112 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

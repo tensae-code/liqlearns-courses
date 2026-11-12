@@ -17,3 +17,6 @@ Pass mark: state what Evaluation does — test, fine-tune, make attractive, revi
 ## Sub lesson 5 — Distribution — package and hand out
 Pass mark: state that Distribution packages the finished work and distributes it.
 
+## Sub lesson 6 — The production road, told in full (teacher guide — evidence)
+Pass mark: name the guide's five production stages in order and say what planning and costing holds (skills list, time estimate, budget, prototype) and what follows delivery (maintenance).
+

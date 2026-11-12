@@ -28,9 +28,11 @@ Make it a **monthly habit**: clean the **vents, ports and keyboards** every mont
 
 > **Teacher evidence — the Grade 12 definition (GROWN 2026-11-12, Wave F band F5):** the Grade 12 guide's review answers define preventive maintenance as **regular and systematic inspection, cleaning and replacement of worn parts, materials and systems**, which **prevents failure by keeping them in good working order** (Grade 12 Teacher Guide — evidence, printed pp. 111–112). The dust work in this lesson is that definition with its sleeves rolled up.
 
+> **Teacher evidence — a caution about drastic fixes (Grade 12 Teacher Guide — evidence, printed pp. 111–112):** most computer problems have **simple solutions**; a drastic one — **reformatting a hard drive, reinstalling the operating system** — can be needed, but a **non-expert attempting such a fix can make things worse**. Maintenance keeps you far from that choice; when the drastic choice is the only one left, it belongs in expert hands.
+
 ## Say it to your companion
 
-Define preventive maintenance in your own words, name its three kinds of work, then give the three dust methods in order and the monthly habit.
+Define preventive maintenance in your own words, name its three kinds of work, then give the three dust methods in order and the monthly habit. Then say the caution: which fix is drastic, and whose hands it belongs in.
 
 ## Do It Yourself
 

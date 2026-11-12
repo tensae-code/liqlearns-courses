@@ -65,3 +65,22 @@ Explain the chain to your companion: tests in order, first true wins, else catch
 1. Run the marks chain with 95, 85, 62, 50 and 49. Predict each word first — 50 must give Satisfactory.
 2. Run the age chain with 10, 16, 40 and 80.
 3. Add one more elif rung to the marks chain for marks of 40–49: 'Try again'.
+4. Build the four-operation calculator (the guide's keyed review program — teacher guide evidence, in sources). The program asks the user to choose **1 for add, 2 for subtract, 3 for multiply, 4 for divide**, reads two numbers, and prints the sum, difference, product or division — with an **"invalid operation"** branch for any other choice:
+
+```python
+choice = int(input("Choose 1 add, 2 subtract, 3 multiply, 4 divide: "))
+a = float(input("First number: "))
+b = float(input("Second number: "))
+if choice == 1:
+    print(a + b)
+elif choice == 2:
+    print(a - b)
+elif choice == 3:
+    print(a * b)
+elif choice == 4:
+    print(a / b)
+else:
+    print("invalid operation")
+```
+
+Run it with choice 1 and the numbers 6 and 3 — it must print 9. Then run choice 3 with 6 and 3 (18), and choice 9 (invalid operation). Say why this program is a chain and not four separate ifs.

@@ -11,6 +11,7 @@ countries: Ethiopia
 | Procedures defined; primitives; adding words to the language | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 6, printed p.78 |
 | SQUARE and REPEAT 4 [FORWARD 100 RIGHT 90]; define before use | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 6, printed p.78 |
 | Defining a procedure spares typing the whole instruction set each time (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 6, printed pp.86–87 |
+| A half turn is a right-turn of 180; the guide's key gives .LOG as the extension for LOGO files (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 6 review key, printed pp. 86–87 |
 
 | Procedures live in memory as part of a LOGO workspace, saved and loaded like other documents; TO plus the name; names with no spaces; SQUARE = REPEAT 4 [FD 50 RT 90] (Grade 8 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 6 §6.2, printed p. 94 |
 | Picture — SQUARE unfolding into its commands (Grade 8 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 6 §6.2, printed p. 94 |

@@ -16,3 +16,9 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 3)** COUNT adds up the values in its range.
 **Answer: False** — COUNT counts the numeric cells; SUM adds.
+
+**6. (Sub lesson 4)** When any cell changes, automatic recalculation works out every dependent result again at once.
+**Answer: True**
+
+**7. (Sub lesson 4)** A precedent is a cell that depends on the formula being audited.
+**Answer: False** — a precedent feeds into the formula; a dependent depends on it.

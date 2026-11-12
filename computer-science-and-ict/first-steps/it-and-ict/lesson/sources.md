@@ -9,7 +9,7 @@ countries: Ethiopia
 | Lesson part | Where it comes from |
 |---|---|
 | IT, and how IT differs from ICT | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 2 |
-| Teacher-guide marking guidance (teacher evidence). | Ethiopia, *Information Technology, Teacher Guide, Grade 7* (teacher guide — evidence), printed p. 2 |
+| Teacher-guide marking guidance (teacher evidence). | Ethiopia, *Information Technology, Teacher Guide, Grade 7* (teacher guide — evidence), printed pp. 9, 13–14 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

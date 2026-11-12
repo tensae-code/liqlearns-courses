@@ -15,4 +15,6 @@ countries: Ethiopia
 
 The teacher guide prints the word 'keyword' where 'keyboard' is meant in its Unit 2 assessment list (guide printed pp. 12–15) — a typo in the guide; this lesson teaches 'keyboard'. The guide's Unit 2 table also gives Input Devices 2 periods while its own §2.1 heading text says one period — a period contradiction inside the guide, recorded here and not taught as a settled number. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
+The teacher guide's Unit 2 answer key (printed p. 16) was used as the verified-answer check for this lesson's Grade 8 questions (teacher guide — evidence).
+
 Searchable tags: hardware, four categories, input devices, processing, storage, output, 0 and 1, Ethiopia Grade 8

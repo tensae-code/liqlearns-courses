@@ -30,3 +30,15 @@ a) Analysis  b) Evaluation  c) Distribution  d) Design
 a) the packaged final work  b) a working first version of the whole project, with the data incorporated  c) the storyboard  d) the budget
 **Answer: b) a working first version of the whole project, with the data incorporated** — Development's product.
 
+**8. (Sub lesson 6)** In the guide's fuller road, planning and costing includes —
+a) only the title  b) the skills needed listed, time estimated, a budget prepared and a prototype made  c) shipping and marketing  d) bug fixing
+**Answer: b) the skills needed listed, time estimated, a budget prepared and a prototype made** — the planning-and-costing contents.
+
+**9. (Sub lesson 6)** In the guide's fuller road, testing checks the product —
+a) only for spelling  b) against the project's objectives and on its planned delivery platforms  c) against rival products  d) only on the maker's computer
+**Answer: b) against the project's objectives and on its planned delivery platforms** — and frees it of bugs.
+
+**10. (Sub lesson 6)** What follows delivery in the guide's fuller road?
+a) nothing — the job ends  b) maintenance (with shipping and marketing as part of delivery)  c) a new analysis only  d) the prototype is deleted
+**Answer: b) maintenance (with shipping and marketing as part of delivery)** — delivery does not end the job.
+

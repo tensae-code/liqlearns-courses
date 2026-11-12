@@ -10,7 +10,7 @@ countries: Ethiopia
 |---|---|
 | Two parts — graphics screen and Commander window | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 6, printed pp.75–76 |
 | The elements — title bar, menu bar, button bar, Listener, turtle, input box, list box | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 6, printed pp.75–76 |
-| A LOGO command is also called a primitive; the show-turtle command brings back a hidden turtle (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 6, printed pp.86–87 |
+| A LOGO command is also called a primitive; the show-turtle command brings back a hidden turtle; .LOG is the extension for LOGO files (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 6, printed pp.86–87 |
 | Encourage pupils who lag and support those with special needs during LOGO work (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 6, printed p.83 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**

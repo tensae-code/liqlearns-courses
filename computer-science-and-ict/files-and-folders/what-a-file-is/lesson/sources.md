@@ -15,11 +15,11 @@ countries: Ethiopia
 | Sub lesson 1 — What a file is | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.1, printed pp. 2–3 |
 | Sub lesson 2 — Telling file types by their extensions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 1 additional activity, printed p. 3 (teacher guide — evidence) |
 | Sub lesson 3 — The road ahead (the book's own shape) | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, contents and unit openings, printed pp. i–ii, 1, and throughout |
-| Sub lesson 3 — The 72-period year and the brainstorm-first rhythm (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, printed pp. vi–vii and Unit 1, p. 1 (teacher guide — evidence) |
+| Sub lesson 3 — The 72-period year and the brainstorm-first rhythm (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, printed pp. vi–vii and the unit overviews throughout (Unit 1 p. 1, Unit 2 pp. 20–21, Unit 3 pp. 38–39, Unit 4 pp. 59–60, Unit 5 pp. 70–71, Unit 6 p. 83) (teacher guide — evidence) |
 | Sub lesson 4 — File management: file, folder, file management defined, disk drive (Grade 10 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 1–3 |
 | Sub lesson 4 — the book's own shape: six units, recall-first openings, brainstorm-then-practise rhythm (Grade 10) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, printed pp. iv–vi, 1, and unit openings throughout |
 | Sub lesson 4 — disk against drive; Activity 1.1 key (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed pp. 2–3 (teacher guide — evidence) |
-| Sub lesson 4 — the guide's shape: 72-period budget, chalkboard fallback, one named file (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed pp. IV–V, 1–2 (teacher guide — evidence) |
+| Sub lesson 4 — the guide's shape: 72-period budget, chalkboard fallback, one named file (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed pp. IV–V and the lesson-plan tables and scaffolding at printed pp. 1–2, 22–23, 52–53, 72–73, 90–91, 103–104 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

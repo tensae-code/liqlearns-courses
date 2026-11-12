@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — The chain — first true block wins | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 173–176 (student placement item 122) |
 | Sub lesson 2 — Worked chains — marks, ages, and type() | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 173–176 (student placement item 122) |
 | Teacher evidence filed in this lesson (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 6, printed pp. 122–128 — see the honesty note below for exactly what is filed and where |
+| Do It Yourself 4 — the four-operation calculator practice: choose 1–4 for add/subtract/multiply/divide, two numbers, an "invalid operation" branch (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 6 review key, printed pp. 151–153 (guide placement item 39) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

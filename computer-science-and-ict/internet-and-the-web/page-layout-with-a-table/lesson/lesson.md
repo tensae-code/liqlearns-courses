@@ -20,6 +20,8 @@ The spans come from the merging lesson; **width, height and background-colour at
 
 The guide's Activity 4.12 solution builds the same idea wider: a **full-width top band, a three-column middle (narrow–wide–narrow with set percentage widths and background colours) and a full-width bottom band**, all from **one table with merged cells**. And the Unit 4 review model answer #4 is a complete two-column page of this kind — **title band, links column with the three Ethiopian sites, content area, centred copyright footer** — filed here as a verified expected output. Use its **layout**, exactly as laid out; its head markup is faulty (a second head element nested inside the first) and is not copied.
 
+The same review's model #1 is not a page at all but a **data table**: **life expectancy by year, 1960–2016**, with the year down the side and three value columns — **male, female and all persons**. It is filed here as a verified expected output too: the same table skill, turned from laying out a page to carrying data in rows and columns.
+
 ## Say it to your companion
 Tell your companion the layout band by band — which rows span, and the sidebar and content shares — then describe the guide's three-column version.
 

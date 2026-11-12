@@ -33,3 +33,15 @@ a) AVERAGE  b) the equals sign  c) D3:D12  d) the parentheses
 **8. (Sub lesson 3)** AutoSum is found —
 a) in the Home tab's Editing group  b) on the View tab  c) in the File menu  d) on the ruler
 **Answer: a) in the Home tab's Editing group** — it inserts the function and guesses the range.
+
+**9. (Sub lesson 4)** Formula auditing traces —
+a) spelling mistakes  b) precedents and dependents, shown with blue arrows  c) who opened the file  d) the print order
+**Answer: b) precedents and dependents, shown with blue arrows** — the cells feeding a formula and the cells depending on it.
+
+**10. (Sub lesson 4)** For complex filter criteria, the guide's key names —
+a) AutoFilter  b) filter by selection  c) Advanced Filter  d) sorting
+**Answer: c) Advanced Filter** — AutoFilter, including filter by selection, serves simple criteria.
+
+**11. (Sub lesson 4)** Password protection in Excel guards the sheet against —
+a) slow calculation  b) unauthorised access  c) wrong totals  d) lost charts
+**Answer: b) unauthorised access** — one of the nine keyed features.

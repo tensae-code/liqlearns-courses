@@ -33,3 +33,11 @@ a) printer  b) workspace, which can be saved and loaded like other documents  c)
 **8.** Every procedure is made with —
 a) the word TO plus the name  b) the word GO plus the name  c) PRINT plus the name  d) a space in the name
 **Answer: a) the word TO plus the name** — TO SQUARE, TO HOUSE; names have no spaces (Grade 8 growth).
+
+**9.** A half turn, in the guide's keyed words, is —
+a) RIGHT 90  b) RIGHT 180  c) RIGHT 45  d) FORWARD 180
+**Answer: b) RIGHT 180** — the turtle turns right round (teacher guide — evidence).
+
+**10.** The extension the guide's key gives for LOGO files is —
+a) .TXT  b) .DOC  c) .LOG  d) .LOGO
+**Answer: c) .LOG** (teacher guide — evidence).

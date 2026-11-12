@@ -17,4 +17,6 @@ countries: Ethiopia
 
 The student book's text carries stray character runs typeset into it — runs of the letter k on printed pp. 2, 4 and 5 fall inside this lesson's pages; they are typesetting faults, carry no meaning, and are not taught. The teacher guide has the same fault family: a run of 'h' characters after the generations table (guide printed p. 4), also not taught. The guide's Unit 5 period figures contradict each other (its overview says 'seven (5) periods' while its sections add to 6); the road-map part of this lesson therefore names the guide's stated unit totals only, and files the Unit 5 contradiction as an open discrepancy, not a settled number. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
+The Grade 8 teacher guide's Unit 1 answer key (printed p. 9) was used as the verified-answer check for this lesson's Grade 8 questions (teacher guide — evidence).
+
 Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8
