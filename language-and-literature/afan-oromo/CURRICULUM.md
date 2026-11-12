@@ -27,6 +27,17 @@ one exception to "the lessons are the books'" is the **Tip
 boxes**: a tip in a box is from us, the people making LiqLearns.
 Tips are ours; the lessons are the guides'.
 
+**The guides' own shapes, kept as evidence.** The guides
+organise their years by chapters, not by the size ladder:
+Grade 3 — 10 chapters in two semesters, 120 periods of 45
+minutes, syllabus tables at printed pp. 49–58; Grade 4 — 12
+chapters, 120 periods of 45 minutes, three lessons per
+chapter, syllabus tables at printed pp. 72–89; Grade 7 — 10
+thematic chapters, 102 periods of 40 minutes, with Semester
+1 and Semester 2 syllabus tables. Their year structures,
+chapter shapes, teaching-method menus and assessment menus
+stand in full in ABOUT.md, as teacher-guide evidence.
+
 ## Where the build stands
 
 **Units 1–3 (Letters, Reading, Word) — BUILT 2026-11-12:**
