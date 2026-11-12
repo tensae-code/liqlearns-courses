@@ -1,6 +1,6 @@
 # Sources — Heat — radiation and the black/white test
 
-countries: Ethiopia, Barbados, Uganda
+countries: Ethiopia, Barbados, Uganda, Kenya
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Barbados, Uganda
 **Book 3:** *Physics for CSEC Examinations, 3rd Edition (Student's Book)* (student book) — Barbados. Title as printed: Physics for CSEC Examinations — 3rd Edition, Alec Farley and Clarence Trotz, Series Editor Dr Mike Taylor (Macmillan Caribbean; print file dated 2014-06-23, ISBN 9780230438842). Grade: 10 (CSEC, Caribbean) · Student book · Source note: this is the Caribbean-region CSEC text recorded for Barbados; an approved regional text, not a Barbados-authored book — cited as it is. Repo path: grade-10/gov/barbados/physics/student-book/physics-for-csec-examinations-3rd-edition-farley-trotz.pdf · Release: mid-size-books-3. Byte size: 35,234,406 (exact match: books.json = release asset) · PDF pages: 603 (exact match) · Offset: printed p. N ≈ PDF p. N+9 (front matter i–viii + prefaces). Verdict: COMPLETE — full text read (273,879 words); cover, imprint and contents prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/barbados-placements.md.
 
 **Book 4:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states ("This book consists of 8 chapters to be learnt in Senior One"). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
+
+**Book 5:** *Secondary Physics — Student's Book One* (student textbook) — Kenya, Kenya Literature Bureau (KLB), Fourth Edition; © Ministry of Education, Kenya. Title as printed: Secondary Physics — Student's Book One (KLB, Fourth Edition). Grade: Form One (Grade 9) · Student book · Kenya Literature Bureau; writers incl. Oliver Minishi, Erastus Muni, Hesborne Omolo, Grace Mwangasha; prologue: covers the Form One Physics syllabus under the 8-4-4 curriculum · Repo path: grade-09/approved-private/kenya/kenya-physics-form1-klb.pdf (read from the phase3-staging copy of the same path, 6,908,398 bytes) · Byte size: 6,908,398 (staging copy) · PDF pages: 301 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Cells and simple circuits, each ending in a Revision Exercise. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,8 +21,10 @@ countries: Ethiopia, Barbados, Uganda
 
 | Ch 6: radiation, emission/absorption factors, applications of thermal radiation (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 6 — printed p. 116 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Barbados, Uganda).**
+| Ch 7: radiation and its applications (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 7: radiation and its applications — printed p. ~190 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Uganda, Kenya).**
 
 Book error taught corrected: Activity 7.22's results table heads its second column “silver cloth” while its own procedure says white cloth (printed p. 207) — the lesson follows the procedure (white cloth) throughout, and the heading error is flagged here, never reproduced. Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
-Searchable tags: radiation, electromagnetic waves, vacuum, absorption, black heats faster, white reflects, fair test graph, Ethiopia Grade 8 General Science Unit 7, uganda
+Searchable tags: radiation, electromagnetic waves, vacuum, absorption, black heats faster, white reflects, fair test graph, Ethiopia Grade 8 General Science Unit 7, uganda, kenya

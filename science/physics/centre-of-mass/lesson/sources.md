@@ -1,6 +1,6 @@
 # Sources — Centre of mass
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Haiti (programme evidence only), Italy, Slovenia, Sudan, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Haiti (programme evidence only), Italy, Slovenia, Sudan, Morocco (teacher-guide evidence only), Kenya
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -19,6 +19,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Haiti (
 
 **Book 8:** *Al Moufid en Physique/Chimie, 3ème Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 9 (3ème année collégiale, 3AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 3ème Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-09/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 3,416,512 · PDF pages: 129 · Offset: sommaire pages are the guide's printed pages, cited as printed p. Verdict: COMPLETE (sommaire and full activity lists for both semesters verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
 
+**Book 9:** *Secondary Physics — Student's Book Two* (student textbook) — Kenya, Kenya Literature Bureau (KLB), 5th edition 2013; © Ministry of Education, Kenya · ISBN 978-9966-10-212-6 (first published 1988; 5th edition 2013). Title as printed: Secondary Physics — Student's Book Two (KLB, 5th edition 2013). Grade: Form Two (Grade 10) · Student book · Repo path: grade-10/approved-private/kenya/kenya-physics-form2-klb.pdf (read from the phase3-staging copy of the same path, 7,473,471 bytes) · Byte size: 7,473,471 (staging copy) · PDF pages: 230 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Fluid Flow, each with Revision Exercises. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Centre of mass | Grade 11 Student Textbook, printed pp. 164–166 |
@@ -31,8 +33,10 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Haiti (
 
 | Chapitre 12, Activity 3: experimental determination of a body's centre of gravity (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, Chapitre 12, printed p. 100 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Italy, Slovenia, Sudan).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| Ch 4: centre of gravity of regular and irregular shapes (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 4: centre of gravity of regular and irregular shapes — printed p. ~65 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Italy, Slovenia, Sudan, Kenya).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 
-Searchable tags: physics, grade 11, dynamics, centre of mass, work
+Searchable tags: physics, grade 11, dynamics, centre of mass, work, kenya

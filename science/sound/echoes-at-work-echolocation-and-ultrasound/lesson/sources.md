@@ -1,6 +1,6 @@
 # Sources — Echoes at work — echolocation and ultrasound
 
-countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji
+countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji
 
 **Book 4:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
+**Book 5:** *Secondary Physics — Student's Book Two* (student textbook) — Kenya, Kenya Literature Bureau (KLB), 5th edition 2013; © Ministry of Education, Kenya · ISBN 978-9966-10-212-6 (first published 1988; 5th edition 2013). Title as printed: Secondary Physics — Student's Book Two (KLB, 5th edition 2013). Grade: Form Two (Grade 10) · Student book · Repo path: grade-10/approved-private/kenya/kenya-physics-form2-klb.pdf (read from the phase3-staging copy of the same path, 7,473,471 bytes) · Byte size: 7,473,471 (staging copy) · PDF pages: 230 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Fluid Flow, each with Revision Exercises. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Echo: reflected sound, the 0.1 s rule, hard surfaces reflecting and soft absorbing | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 197–198 (student placement 58) |
@@ -18,8 +20,10 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji
 | Theme 3 Topic 7: application of sound waves (teacher guide — evidence) | Nigeria, *Excellence in Physics for Senior Secondary — Teacher's Guide Book 2*, Theme 3 Topic 7, printed p. 53 |
 | Ch. 13 §13.30 Echo (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 13 §13.30 Echo — printed p. 125 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Fiji).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
+| Ch 9: reflection of sound (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 9: reflection of sound — printed p. ~190 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Fiji, Kenya).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
-Searchable tags: echo, reflection of sound, 0.1 second, echolocation, sonar, ultrasound, 20 kHz, ear protection, Ethiopia Grade 8 General Science Unit 7
+Searchable tags: echo, reflection of sound, 0.1 second, echolocation, sonar, ultrasound, 20 kHz, ear protection, Ethiopia Grade 8 General Science Unit 7, kenya

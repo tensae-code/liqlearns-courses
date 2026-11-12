@@ -1,6 +1,6 @@
 # Sources — Continuity — narrow means fast
 
-countries: Ethiopia, Italy, Sudan, Uganda
+countries: Ethiopia, Italy, Sudan, Uganda, Kenya
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Italy, Sudan, Uganda
 
 **Book 4:** *Physics Home-Study Learning — Senior Three (NCDC, 2020)* (student self-study book) — Uganda, National Curriculum Development Centre, Uganda, August 2020 — COVID-19 lockdown home-study intervention, Ministry of Education and Sports. Title as printed: Physics Home-Study Learning — Senior Three. Grade: Senior Three (Grade 10) · Student (self-study) book · Repo path: grade-10/gov/uganda/physics/student/home-study.pdf (Contents API route). Byte size: 3,257,653 (Contents API meta = downloaded) · PDF pages: 54 (= books.json recorded pages) · Offset: printed pagination follows the PDF closely (topics at PDF pp. 8–45). Verdict: COMPLETE — 8 self-study topics with learning outcomes, worked content and exercises, exactly a Senior Three revision pack. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
+**Book 5:** *Secondary Physics — Student's Book Two* (student textbook) — Kenya, Kenya Literature Bureau (KLB), 5th edition 2013; © Ministry of Education, Kenya · ISBN 978-9966-10-212-6 (first published 1988; 5th edition 2013). Title as printed: Secondary Physics — Student's Book Two (KLB, 5th edition 2013). Grade: Form Two (Grade 10) · Student book · Repo path: grade-10/approved-private/kenya/kenya-physics-form2-klb.pdf (read from the phase3-staging copy of the same path, 7,473,471 bytes) · Byte size: 7,473,471 (staging copy) · PDF pages: 230 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Fluid Flow, each with Revision Exercises. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The equation of continuity | Grade 12 Student Textbook, printed pp. 105–106 |
@@ -19,6 +21,8 @@ countries: Ethiopia, Italy, Sudan, Uganda
 
 | Fluid Flow (continuity/Bernoulli strand) (Uganda, Senior Three home-study) | Uganda, *Physics Home-Study Learning — Senior Three (NCDC, 2020)*, Fluid Flow — PDF p. 33 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Italy, Sudan, Uganda).**
+| Ch 10: Bernoulli's principle (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 10: Bernoulli's principle — printed p. ~198 |
 
-Searchable tags: physics, grade 12, fluid mechanics, continuity — narrow means fast, incompressible, uganda
+**Acceptance count: taught in 5 countries (Ethiopia, Italy, Sudan, Uganda, Kenya).**
+
+Searchable tags: physics, grade 12, fluid mechanics, continuity — narrow means fast, incompressible, uganda, kenya

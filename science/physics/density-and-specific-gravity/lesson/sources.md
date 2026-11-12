@@ -1,6 +1,6 @@
 # Sources — Density and specific gravity
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Slovenia, Fiji, Uganda
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Slovenia, Fiji, Uganda, Kenya
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Slovenia, F
 
 **Book 6:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states ("This book consists of 8 chapters to be learnt in Senior One"). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
+**Book 7:** *Secondary Physics — Student's Book Four* (student textbook) — Kenya, Kenya Literature Bureau (KLB); © Ministry of Education, Kenya · ISBN 978-9966-4462-13 (back cover). Title as printed: Secondary Physics — Student's Book Four (KLB). Grade: Form Four (Grade 12) · Student book · Repo path: grade-12/approved-private/kenya/kenya-physics-form4-klb.pdf — TSV points to the release asset (17,748,050 bytes); the copy read is the phase3-staging copy of the same path (12,485,418 bytes), a photo-scan in 2-up spreads whose cover, full contents and back cover prove the same book · Byte size: 12,485,418 (staging copy read) · PDF pages: 118 spreads (≈236 printed sides) · Offset: printed pagination runs inside the spreads; contents printed pp. 1–221. Verdict: COMPLETE — 11 chapters plus four sample examination papers (printed pp. 203–221) and back cover present. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Density and specific gravity | Ethiopia, *Grade 10 Student Textbook*, printed pp. 63–66 |
@@ -27,8 +29,10 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Slovenia, F
 
 | Ch 2: density and relative density, density and purity (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 2 — printed p. 40 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Fiji, Uganda).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
+| Ch 3: upthrust and relative density (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 3: upthrust and relative density — printed p. 69 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Fiji, Uganda, Kenya).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: density and specific gravity, grade 10 physics, unit 3, density ρ = m/v, a characteristic property of a substance., denser than water sinks; less dense floats., specific gravity = density ÷ density of water at 4 °c (unitless)., uganda
+Searchable tags: density and specific gravity, grade 10 physics, unit 3, density ρ = m/v, a characteristic property of a substance., denser than water sinks; less dense floats., specific gravity = density ÷ density of water at 4 °c (unitless)., uganda, kenya

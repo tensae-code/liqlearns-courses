@@ -1,6 +1,6 @@
 # Sources — Pressure under water — deeper means stronger
 
-countries: Ethiopia, Palestine, Haiti (programme evidence only), Syria, Slovenia, Malaysia
+countries: Ethiopia, Palestine, Haiti (programme evidence only), Syria, Slovenia, Malaysia, Kenya
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Palestine, Haiti (programme evidence only), Syria, Slovenia
 
 **Book 6:** *Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM)* (student textbook) — Malaysia, Ministry of Education Malaysia. Title as printed: Physics Form 5, Kurikulum Standard Sekolah Menengah (KSSM), Ministry of Education Malaysia; Koay Kheng Chuan, Chia Song Choy et al.; Penerbit Bestari Sdn. Bhd., first published 2020, ISBN 978-983-092-447-2, Book Serial No. 0130. Grade: Form 5 (= Grade 11) · Kind: student · Files: grade-11/gov/malaysia/fizik/student/full-year-dlp.pdf (DLP) and grade-11/gov/malaysia/fizik/student/full-year.pdf (Malay) — the Malay and DLP files are the SAME book in two languages, cited together in this one entry; Malaysia counts ONCE per lesson. Offset: printed pages are the textbook's own contents pages. Verdict: COMPLETE (full contents read at section level; Ch. 1, 2 and 4 section titles confirmed against the bilingual KSSM module contents). Reading route, on the record: placements were made from public copies of the same editions and afterwards verified against the secured GitHub files — identical ISBNs/serial numbers (verification re-pull: Form 5 DLP asset 89,457,972 bytes, 267 PDF pages, Book Serial No. 0130/KPM 2020, ISBN 978-983-092-447-2; Form 5 Malay asset 85,778,654 bytes, 268 PDF pages, Malay edition's own ISBN 978-983-092-446-5). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/malaysia-placements.md.
 
+**Book 7:** *Secondary Physics — Student's Book One* (student textbook) — Kenya, Kenya Literature Bureau (KLB), Fourth Edition; © Ministry of Education, Kenya. Title as printed: Secondary Physics — Student's Book One (KLB, Fourth Edition). Grade: Form One (Grade 9) · Student book · Kenya Literature Bureau; writers incl. Oliver Minishi, Erastus Muni, Hesborne Omolo, Grace Mwangasha; prologue: covers the Form One Physics syllabus under the 8-4-4 curriculum · Repo path: grade-09/approved-private/kenya/kenya-physics-form1-klb.pdf (read from the phase3-staging copy of the same path, 6,908,398 bytes) · Byte size: 6,908,398 (staging copy) · PDF pages: 301 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Cells and simple circuits, each ending in a Revision Exercise. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pressure grows with depth | Grade 12 Student Textbook, printed pp. 87–90 |
@@ -23,6 +25,8 @@ countries: Ethiopia, Palestine, Haiti (programme evidence only), Syria, Slovenia
 | Density, pressure and buoyancy: Tlak v tekočinah (Pressure in liquids); Tlak zaradi teže tekočine (Pressure caused by the weight of a liquid) (Slovenia) | Slovenia, *Fizika 8*, Density, pressure and buoyancy: Tlak v tekočinah (Pressure in liquids) — printed p. 212 (unit folder 163); Tlak zaradi teže tekočine (Pressure caused by the weight of a liquid) — printed p. 220 (unit folder 220) |
 | Ch. 2 Pressure, §2.1 Pressure in Liquids (Malaysia) | Malaysia, *Physics Form 5*, Ch. 2 Pressure, §2.1 Pressure in Liquids — chapter p. 38 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Syria, Slovenia, Malaysia).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+| Ch 4: pressure in liquids, derivation of the fluid-pressure formula (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 4: pressure in liquids, derivation of the fluid-pressure formula — printed p. ~80 |
 
-Searchable tags: physics, grade 12, fluid mechanics, pressure under water — deeper means stronger, pressure, palestine
+**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Syria, Slovenia, Malaysia, Kenya).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+
+Searchable tags: physics, grade 12, fluid mechanics, pressure under water — deeper means stronger, pressure, palestine, kenya

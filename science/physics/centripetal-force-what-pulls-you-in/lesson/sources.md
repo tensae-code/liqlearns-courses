@@ -1,6 +1,6 @@
 # Sources — Centripetal force — what pulls you in
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, Bahamas (curriculum evidence only), Italy, Sri Lanka, Slovenia, Sudan
+countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, Bahamas (curriculum evidence only), Italy, Sri Lanka, Slovenia, Sudan, Kenya
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, 
 
 **Book 9:** *الفيزياء — للصف الثالث الثانوي (Physics — Third Secondary Year), 2nd edition (2005)* (student textbook) — Sudan (authors' preface signed 2005; second-edition preface records deletions and additions). Grade 12 (Third Secondary) · Student book · Repo path: grade-12/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books-2. Byte size: 6,295,128. PDF pages: 217. Offset: printed p. 2 ≈ PDF p. 11 (printed = PDF − 9). Verdict: COMPLETE — ends at printed p. 210 with the television-reception exercise set. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 10:** *Secondary Physics — Student's Book Four* (student textbook) — Kenya, Kenya Literature Bureau (KLB); © Ministry of Education, Kenya · ISBN 978-9966-4462-13 (back cover). Title as printed: Secondary Physics — Student's Book Four (KLB). Grade: Form Four (Grade 12) · Student book · Repo path: grade-12/approved-private/kenya/kenya-physics-form4-klb.pdf — TSV points to the release asset (17,748,050 bytes); the copy read is the phase3-staging copy of the same path (12,485,418 bytes), a photo-scan in 2-up spreads whose cover, full contents and back cover prove the same book · Byte size: 12,485,418 (staging copy read) · PDF pages: 118 spreads (≈236 printed sides) · Offset: printed pagination runs inside the spreads; contents printed pp. 1–221. Verdict: COMPLETE — 11 chapters plus four sample examination papers (printed pp. 203–221) and back cover present. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Centripetal force | Grade 11 Student Textbook, printed pp. 86–89 |
@@ -34,10 +36,12 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, 
 | Accelerated motion: Kroženje (Circular motion) (Slovenia) | Slovenia, *Fizika 9*, Accelerated motion: Kroženje (Circular motion) — printed p. 31 (unit folder 173) |
 | Book 1: circular motion in the gravitational field (Sudan) | Sudan, *Physics — Third Secondary Year*, printed p. ~30 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Bolivia, Nicaragua, Italy, Sri Lanka, Slovenia, Sudan).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| Ch 2: case examples and applications of circular motion (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 2: case examples and applications of circular motion — printed p. 47 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Bolivia, Nicaragua, Italy, Sri Lanka, Slovenia, Sudan, Kenya).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal force — what pulls you in, acceleration, sri lanka
+Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal force — what pulls you in, acceleration, sri lanka, kenya

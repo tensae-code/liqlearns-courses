@@ -1,6 +1,6 @@
 # Sources — A current makes a magnetic field
 
-countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia
+countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia
 
 **Book 6:** *Fisika untuk SMA/MA Kelas XII* (student textbook) — Indonesia, Kemdikbudristek, Republik Indonesia, 2022. Title as printed: FISIKA — SMA/MA KELAS XII (Buku Siswa), Kemdikbudristek, Republik Indonesia, 2022. Grade: 12 (Kelas XII, Fase F) · Student book · Authors: Lia Laela Sarah, Irma Rahma Suwarma · Repo path: grade-12/gov/indonesia/fisika/student/full-year.pdf (TSV copy secured as GitHub release grade-12-gov-indonesia-fisika-student-full-year.pdf) · Verdict: COMPLETE (chapter structure verified against the Grade 12 teacher guide's chapter-by-chapter schemes and the student book's published contents: 9 chapters). Citation basis: the printed pages below are the teacher-guide Panduan Khusus page starts, which mirror the student chapters in order, exactly as given in the placements file. Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
 
+**Book 7:** *Secondary Physics — Student's Book Two* (student textbook) — Kenya, Kenya Literature Bureau (KLB), 5th edition 2013; © Ministry of Education, Kenya · ISBN 978-9966-10-212-6 (first published 1988; 5th edition 2013). Title as printed: Secondary Physics — Student's Book Two (KLB, 5th edition 2013). Grade: Form Two (Grade 10) · Student book · Repo path: grade-10/approved-private/kenya/kenya-physics-form2-klb.pdf (read from the phase3-staging copy of the same path, 7,473,471 bytes) · Byte size: 7,473,471 (staging copy) · PDF pages: 230 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Fluid Flow, each with Revision Exercises. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Current creates magnetism — Oersted to Ampère | Grade 12 Student Textbook, printed pp. 122–125 |
@@ -24,6 +26,8 @@ countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia
 | Strand 6 §§6.2–6.4 Fields due to currents (Fiji, Year 13) | Fiji, *Physics for Year 13*, Strand 6 §§6.2–6.4 Current-carrying conductor, Ampère's law, fields due to currents — printed p. 150 |
 | Bab 3, Subbab D Medan Magnet di Sekitar Kawat Berarus (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 3, Subbab D Medan Magnet di Sekitar Kawat Berarus — guide p. 75 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia).**
+| Ch 6: field pattern of a straight current-carrying conductor (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 6: field pattern of a straight current-carrying conductor — printed p. 117 |
 
-Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka
+**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya).**
+
+Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya

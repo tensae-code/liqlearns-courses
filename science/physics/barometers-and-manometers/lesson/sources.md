@@ -1,6 +1,6 @@
 # Sources — Barometers and manometers
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Morocco (teacher-guide evidence only), Kenya
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Morocco (teac
 
 **Book 4:** *Al Moufid en Physique/Chimie, 1ère Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 7 (1ère année collégiale, 1AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 1ère Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-07/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 2,175,034 · PDF pages: 161 · Offset: the sommaire's pages are the guide's printed pages and are cited as printed p. Verdict: COMPLETE (title page, preface, full sommaire and activity descriptions verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
 
+**Book 5:** *Secondary Physics — Student's Book One* (student textbook) — Kenya, Kenya Literature Bureau (KLB), Fourth Edition; © Ministry of Education, Kenya. Title as printed: Secondary Physics — Student's Book One (KLB, Fourth Edition). Grade: Form One (Grade 9) · Student book · Kenya Literature Bureau; writers incl. Oliver Minishi, Erastus Muni, Hesborne Omolo, Grace Mwangasha; prologue: covers the Form One Physics syllabus under the 8-4-4 curriculum · Repo path: grade-09/approved-private/kenya/kenya-physics-form1-klb.pdf (read from the phase3-staging copy of the same path, 6,908,398 bytes) · Byte size: 6,908,398 (staging copy) · PDF pages: 301 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Cells and simple circuits, each ending in a Revision Exercise. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Measuring pressure — barometer and manometer | Grade 12 Student Textbook, printed pp. 92–96 |
@@ -18,6 +20,8 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Morocco (teac
 
 | Chapitre 6, Activities 3–4: measuring gas pressure and atmospheric pressure (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)*, Chapitre 6, printed p. 65 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Malaysia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| Ch 4: mercury, Fortin and aneroid barometers, pressure gauges (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 4: mercury, Fortin and aneroid barometers, pressure gauges — printed p. ~98 |
 
-Searchable tags: physics, grade 12, fluid mechanics, barometers and manometers, manometer
+**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Kenya).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+
+Searchable tags: physics, grade 12, fluid mechanics, barometers and manometers, manometer, kenya

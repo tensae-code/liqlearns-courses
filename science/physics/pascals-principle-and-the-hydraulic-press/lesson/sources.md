@@ -1,6 +1,6 @@
 # Sources — Pascal's principle — the hydraulic press
 
-countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, Malaysia, Fiji, Indonesia
+countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, Malaysia, Fiji, Indonesia, Kenya
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, M
 
 **Book 7:** *Fisika untuk SMA/MA Kelas XI* (student textbook) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Title as printed: FISIKA — SMA/MA KELAS XI (Buku Siswa), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Grade: 11 (Kelas XI, Fase F) · Student book · Edition: Cetakan Pertama, 2022; ISBN 978-623-472-721-0 (jil. 1) · Authors: Marianna Magdalena Radjawane, Alvius Tinambunan, Suntar Jono · Repo path: grade-11/gov/indonesia/fisika/student/full-year.pdf (recorded source_url is a truncated penerbitcmedia link; read from the ministry's own PDF of the same edition) · Extent: xxii + 226 printed pages · Offset: printed page numbers are the book's own; chapter starts below are student-book printed pages as listed in its table of contents (Bab 1 opens printed p. 1) · Verdict: COMPLETE (full chapter structure and contents verified; mirrors the Grade 11 teacher guide chapter-for-chapter). Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
 
+**Book 8:** *Secondary Physics — Student's Book One* (student textbook) — Kenya, Kenya Literature Bureau (KLB), Fourth Edition; © Ministry of Education, Kenya. Title as printed: Secondary Physics — Student's Book One (KLB, Fourth Edition). Grade: Form One (Grade 9) · Student book · Kenya Literature Bureau; writers incl. Oliver Minishi, Erastus Muni, Hesborne Omolo, Grace Mwangasha; prologue: covers the Form One Physics syllabus under the 8-4-4 curriculum · Repo path: grade-09/approved-private/kenya/kenya-physics-form1-klb.pdf (read from the phase3-staging copy of the same path, 6,908,398 bytes) · Byte size: 6,908,398 (staging copy) · PDF pages: 301 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Cells and simple circuits, each ending in a Revision Exercise. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pascal's principle and the hydraulic press | Grade 12 Student Textbook, printed pp. 82–87 |
@@ -26,6 +28,8 @@ countries: Ethiopia, Palestine, Bahamas (curriculum evidence only), Sri Lanka, M
 | Ch. 10 §9.70 Hydraulic lift (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 10 §9.70 Hydraulic lift — printed p. 85 |
 | Bab 4 Fluida (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 4 Fluida — chapter 4 — Pascal's principle in the fluids sequence |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Fiji, Indonesia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| Ch 4: transmission of pressure in liquids, hydraulic machines (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 4: transmission of pressure in liquids, hydraulic machines — printed p. ~90 |
 
-Searchable tags: physics, grade 12, fluid mechanics, pascal's principle — the hydraulic press, hydraulic, palestine, sri lanka
+**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Fiji, Indonesia, Kenya).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+
+Searchable tags: physics, grade 12, fluid mechanics, pascal's principle — the hydraulic press, hydraulic, palestine, sri lanka, kenya

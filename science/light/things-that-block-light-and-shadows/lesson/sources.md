@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (tea
 **Book 12:** *Al Moufid en Physique/Chimie, 2ème Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 8 (2ème année collégiale, 2AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 2ème Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-08/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 3,442,534 · PDF pages: 163 · Offset: sommaire pages are the guide's printed pages, cited as printed p. Verdict: COMPLETE (sommaire and both semester descriptions verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
 
 **Book 13:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states ("This book consists of 8 chapters to be learnt in Senior One"). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
+
+**Book 14:** *Secondary Physics — Student's Book One* (student textbook) — Kenya, Kenya Literature Bureau (KLB), Fourth Edition; © Ministry of Education, Kenya. Title as printed: Secondary Physics — Student's Book One (KLB, Fourth Edition). Grade: Form One (Grade 9) · Student book · Kenya Literature Bureau; writers incl. Oliver Minishi, Erastus Muni, Hesborne Omolo, Grace Mwangasha; prologue: covers the Form One Physics syllabus under the 8-4-4 curriculum · Repo path: grade-09/approved-private/kenya/kenya-physics-form1-klb.pdf (read from the phase3-staging copy of the same path, 6,908,398 bytes) · Byte size: 6,908,398 (staging copy) · PDF pages: 301 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Cells and simple circuits, each ending in a Revision Exercise. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -35,8 +37,10 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (tea
 
 | Ch 8: how shadows are formed (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 8 — printed p. 142 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Uganda).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| Ch 8: shadows and eclipses (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 8: shadows and eclipses — printed p. ~210 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Uganda, Kenya).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp. 1–148) and both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies to the Grade 4 rows. Teacher-guide rows are evidence and never count as pupil-taught.
 
-Searchable tags: light blocking, opaque, shadow, shade, ብርሃን ከልካይ, opaque body ብርሃን ከል, Experiment 5, shadow formation, uganda
+Searchable tags: light blocking, opaque, shadow, shade, ብርሃን ከልካይ, opaque body ብርሃን ከል, Experiment 5, shadow formation, uganda, kenya

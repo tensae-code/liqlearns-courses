@@ -1,6 +1,6 @@
 # Sources — Centripetal acceleration — always toward the centre
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, Indonesia
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, Indonesia, Kenya
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, 
 
 **Book 5:** *Fisika untuk SMA/MA Kelas XI* (student textbook) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Title as printed: FISIKA — SMA/MA KELAS XI (Buku Siswa), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Grade: 11 (Kelas XI, Fase F) · Student book · Edition: Cetakan Pertama, 2022; ISBN 978-623-472-721-0 (jil. 1) · Authors: Marianna Magdalena Radjawane, Alvius Tinambunan, Suntar Jono · Repo path: grade-11/gov/indonesia/fisika/student/full-year.pdf (recorded source_url is a truncated penerbitcmedia link; read from the ministry's own PDF of the same edition) · Extent: xxii + 226 printed pages · Offset: printed page numbers are the book's own; chapter starts below are student-book printed pages as listed in its table of contents (Bab 1 opens printed p. 1) · Verdict: COMPLETE (full chapter structure and contents verified; mirrors the Grade 11 teacher guide chapter-for-chapter). Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
 
+**Book 6:** *Secondary Physics — Student's Book Four* (student textbook) — Kenya, Kenya Literature Bureau (KLB); © Ministry of Education, Kenya · ISBN 978-9966-4462-13 (back cover). Title as printed: Secondary Physics — Student's Book Four (KLB). Grade: Form Four (Grade 12) · Student book · Repo path: grade-12/approved-private/kenya/kenya-physics-form4-klb.pdf — TSV points to the release asset (17,748,050 bytes); the copy read is the phase3-staging copy of the same path (12,485,418 bytes), a photo-scan in 2-up spreads whose cover, full contents and back cover prove the same book · Byte size: 12,485,418 (staging copy read) · PDF pages: 118 spreads (≈236 printed sides) · Offset: printed pagination runs inside the spreads; contents printed pp. 1–221. Verdict: COMPLETE — 11 chapters plus four sample examination papers (printed pp. 203–221) and back cover present. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Centripetal acceleration | Grade 11 Student Textbook, printed pp. 83–86 |
@@ -20,10 +22,12 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, 
 | Ch. 1 §1.9 Circular motion (Fiji, Year 12) | Fiji, *Year 12 Physics*, Ch. 1 §1.9 Circular motion — new at Year 12 vs Year 11 book — printed p. 69 |
 | Bab 2 Kinematika (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 2 Kinematika — chapter 2 — circular-motion close to the kinematics chapter (centripetal acceleration figure work) |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Fiji, Indonesia).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+| Ch 2 Uniform circular motion: angular displacement, centripetal acceleration and force (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 2 Uniform circular motion: angular displacement, centripetal acceleration and force — printed p. 37 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Fiji, Indonesia, Kenya).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal acceleration — always toward the centre, acceleration, palestine
+Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal acceleration — always toward the centre, acceleration, palestine, kenya

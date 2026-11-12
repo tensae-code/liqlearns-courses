@@ -1,6 +1,6 @@
 # Sources — Magnets — poles attract and repel; what is magnetic
 
-countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji
+countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evid
 
 **Book 6:** *Year 11 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji. Title as printed: Year 11 Physics (Ministry of Education, Curriculum Development Unit, Fiji). Grade: 11 · Student book · Repo path: grade-11/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL, web.archive.org copy of education.gov.fj original; GitHub Contents route timed out — see log). Byte size: 4,791,200 (no size in record) · PDF pages: 171 · Offset: printed p. N ≈ PDF p. N+1 (front matter i–v). Verdict: COMPLETE — full text read (34,413 words); cover + acknowledgements prove identity (CDU Fiji, USP editor). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
+**Book 7:** *Secondary Physics — Student's Book Two* (student textbook) — Kenya, Kenya Literature Bureau (KLB), 5th edition 2013; © Ministry of Education, Kenya · ISBN 978-9966-10-212-6 (first published 1988; 5th edition 2013). Title as printed: Secondary Physics — Student's Book Two (KLB, 5th edition 2013). Grade: Form Two (Grade 10) · Student book · Repo path: grade-10/approved-private/kenya/kenya-physics-form2-klb.pdf (read from the phase3-staging copy of the same path, 7,473,471 bytes) · Byte size: 7,473,471 (staging copy) · PDF pages: 230 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Fluid Flow, each with Revision Exercises. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Poles: prediction-first pairings, strongest at the poles, unlike attract / like repel, weakening with distance (Activity 7.32); cutting never isolates a pole (Activity 7.33) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 217–220 (student placement 67) |
@@ -25,8 +27,10 @@ countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evid
 
 | Properties of magnets, the two poles (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 5e année*, Palier 4, Leçon 34, printed p. 41 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Slovenia, Fiji).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
+| Ch 1 Magnetism: properties, hard and soft magnetic materials (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 1 Magnetism: properties, hard and soft magnetic materials — printed p. 1 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
 
 New lesson in the new Electricity and Magnetism title, not a growth of the primary Electricity and magnets lesson: the primary lesson mixes circuits and magnets in one pass; this item is the Grade 8 magnet section on its own — pole rules, the cut-magnet proof, the magnetic-materials sort and the barrier test — so it is built whole here.
 
-Searchable tags: magnets, poles, attract repel, magnetic materials, iron nickel cobalt, steel, non-contact force, Ethiopia Grade 8 General Science Unit 7
+Searchable tags: magnets, poles, attract repel, magnetic materials, iron nickel cobalt, steel, non-contact force, Ethiopia Grade 8 General Science Unit 7, kenya

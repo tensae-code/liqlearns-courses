@@ -1,6 +1,6 @@
 # Sources — Torque — the twisting effect of a force
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Bahrain (solutions-manual evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Sudan, Fiji
+countries: Ethiopia, Zambia (teacher-module evidence only), Bahrain (solutions-manual evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Sudan, Fiji, Kenya
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bahrain (solutions-m
 
 **Book 10:** *Year 12 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji, 2016. Title as printed: Year 12 Physics (Ministry of Education, Curriculum Development Unit, Fiji, 2016). Grade: 12 · Student book · Repo path: grade-12/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL mirror; GitHub Contents route timed out — see log). Byte size: 4,399,755 (no size in record) · PDF pages: 163 · Offset: printed p. N ≈ PDF p. N+2 (front matter i–ii + chapter re-start; TOC printed pp. 1–160). Verdict: COMPLETE — full text read (34,427 words); title page proves identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
+**Book 11:** *Secondary Physics — Student's Book Two* (student textbook) — Kenya, Kenya Literature Bureau (KLB), 5th edition 2013; © Ministry of Education, Kenya · ISBN 978-9966-10-212-6 (first published 1988; 5th edition 2013). Title as printed: Secondary Physics — Student's Book Two (KLB, 5th edition 2013). Grade: Form Two (Grade 10) · Student book · Repo path: grade-10/approved-private/kenya/kenya-physics-form2-klb.pdf (read from the phase3-staging copy of the same path, 7,473,471 bytes) · Byte size: 7,473,471 (staging copy) · PDF pages: 230 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Fluid Flow, each with Revision Exercises. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Torque | Grade 12 Student Textbook, printed pp. 50–51 |
@@ -36,7 +38,9 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bahrain (solutions-m
 | Ch. 5 Moments (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 5 Moments — principle of moments, levers — printed p. 34 |
 | Ch. 1 §1.5 Moments (Fiji, Year 12) | Fiji, *Year 12 Physics*, Ch. 1 §1.5 Moments — printed p. 45 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sri Lanka, Syria, Sudan, Fiji).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| Ch 3: moment of a force, principle of moments, parallel forces and couples (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 3: moment of a force, principle of moments, parallel forces and couples — printed p. 52 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Sri Lanka, Syria, Sudan, Fiji, Kenya).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 
@@ -44,4 +48,4 @@ Record debt, named here in sources only: the Form 1 module is recorded in the li
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 
-Searchable tags: physics, grade 12, two-dimensional motion, torque — the twisting effect of a force, rotation, sri lanka
+Searchable tags: physics, grade 12, two-dimensional motion, torque — the twisting effect of a force, rotation, sri lanka, kenya

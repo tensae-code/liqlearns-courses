@@ -1,6 +1,6 @@
 # Sources — Half-life and the decay law
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Bahamas (curriculum evidence only), Malaysia, Indonesia, Uganda
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Bahamas (curriculum evidence only), Malaysia, Indonesia, Uganda, Kenya
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, B
 
 **Book 8:** *Physics Home-Study Learning — Senior Four (NCDC, 2020)* (student self-study book) — Uganda, National Curriculum Development Centre, Uganda, August 2020 · ISBN 978-9970-00-199-6 — COVID-19 home-study material for Terms 2 and 3. Title as printed: Physics Home-Study Learning — Senior Four. Grade: Senior Four (Grade 11) · Student (self-study) book · Repo path: grade-11/gov/uganda/physics/student/home-study.pdf (release asset: mid-size-books-2). Byte size: 6,924,932 (release index size = downloaded) · PDF pages: 65 (= books.json recorded pages) · Offset: chapters at PDF pp. 7–60. Verdict: COMPLETE — the full Term 2 + Term 3 self-study booklet, 8 chapters. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
+**Book 9:** *Secondary Physics — Student's Book Four* (student textbook) — Kenya, Kenya Literature Bureau (KLB); © Ministry of Education, Kenya · ISBN 978-9966-4462-13 (back cover). Title as printed: Secondary Physics — Student's Book Four (KLB). Grade: Form Four (Grade 12) · Student book · Repo path: grade-12/approved-private/kenya/kenya-physics-form4-klb.pdf — TSV points to the release asset (17,748,050 bytes); the copy read is the phase3-staging copy of the same path (12,485,418 bytes), a photo-scan in 2-up spreads whose cover, full contents and back cover prove the same book · Byte size: 12,485,418 (staging copy read) · PDF pages: 118 spreads (≈236 printed sides) · Offset: printed pagination runs inside the spreads; contents printed pp. 1–221. Verdict: COMPLETE — 11 chapters plus four sample examination papers (printed pp. 203–221) and back cover present. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The decay law and half-life | Grade 11 Student Textbook, printed pp. 312–316 |
@@ -30,8 +32,10 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, B
 
 | Lesson 2: Half Life (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Radioactivity chapter, Lesson 2 — PDF p. 60 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Malaysia, Indonesia, Uganda).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| Ch 10: decay law (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 10: decay law — printed p. 176 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Malaysia, Indonesia, Uganda, Kenya).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, half-life and the decay law, half-life, uganda
+Searchable tags: physics, grade 11, nuclear physics, half-life and the decay law, half-life, uganda, kenya

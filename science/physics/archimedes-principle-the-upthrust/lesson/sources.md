@@ -1,6 +1,6 @@
 # Sources — Archimedes' principle — the upthrust
 
-countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda
+countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -31,6 +31,8 @@ countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sr
 
 **Book 14:** *Physics Home-Study Learning — Senior Three (NCDC, 2020)* (student self-study book) — Uganda, National Curriculum Development Centre, Uganda, August 2020 — COVID-19 lockdown home-study intervention, Ministry of Education and Sports. Title as printed: Physics Home-Study Learning — Senior Three. Grade: Senior Three (Grade 10) · Student (self-study) book · Repo path: grade-10/gov/uganda/physics/student/home-study.pdf (Contents API route). Byte size: 3,257,653 (Contents API meta = downloaded) · PDF pages: 54 (= books.json recorded pages) · Offset: printed pagination follows the PDF closely (topics at PDF pp. 8–45). Verdict: COMPLETE — 8 self-study topics with learning outcomes, worked content and exercises, exactly a Senior Three revision pack. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
+**Book 15:** *Secondary Physics — Student's Book Four* (student textbook) — Kenya, Kenya Literature Bureau (KLB); © Ministry of Education, Kenya · ISBN 978-9966-4462-13 (back cover). Title as printed: Secondary Physics — Student's Book Four (KLB). Grade: Form Four (Grade 12) · Student book · Repo path: grade-12/approved-private/kenya/kenya-physics-form4-klb.pdf — TSV points to the release asset (17,748,050 bytes); the copy read is the phase3-staging copy of the same path (12,485,418 bytes), a photo-scan in 2-up spreads whose cover, full contents and back cover prove the same book · Byte size: 12,485,418 (staging copy read) · PDF pages: 118 spreads (≈236 printed sides) · Offset: printed pagination runs inside the spreads; contents printed pp. 1–221. Verdict: COMPLETE — 11 chapters plus four sample examination papers (printed pp. 203–221) and back cover present. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Archimedes' principle and buoyant force | Grade 12 Student Textbook, printed pp. 96–100 |
@@ -49,6 +51,8 @@ countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sr
 
 | Floating and Sinking (Uganda, Senior Three home-study) | Uganda, *Physics Home-Study Learning — Senior Three (NCDC, 2020)*, Floating and Sinking — PDF p. 25 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| Ch 3 Floating and sinking: upthrust, law of flotation, Archimedes' principle and moments (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 3 Floating and sinking: upthrust, law of flotation, Archimedes' principle and moments — printed p. 58 |
 
-Searchable tags: physics, grade 12, fluid mechanics, archimedes' principle — the upthrust, density, pressure, teacher, palestine, sri lanka, united states, uganda
+**Acceptance count: taught in 12 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda, Kenya).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+
+Searchable tags: physics, grade 12, fluid mechanics, archimedes' principle — the upthrust, density, pressure, teacher, palestine, sri lanka, united states, uganda, kenya
