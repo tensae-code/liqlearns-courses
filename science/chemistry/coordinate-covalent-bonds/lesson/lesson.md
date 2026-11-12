@@ -11,6 +11,8 @@ A covalent bond in which both shared electrons come from one atom: the donor sup
 
 the review set adds the ammonium ion, whose fourth N–H bond is coordinate (as is the third O–H bond in hydronium).3.4).
 
+Count the bonds one by one, the way the worked answers to the Unit 5 review do. In the ammonium ion, NH₄⁺, nitrogen holds three ordinary covalent bonds to three hydrogens — each bond shared in the ordinary way — and then one coordinate bond: nitrogen donates both electrons of its lone pair to a fourth hydrogen ion, H⁺, which brings no electron of its own. In the hydronium ion, H₃O⁺, oxygen holds two ordinary covalent bonds to two hydrogens, plus one coordinate bond made the same way, by oxygen donating a lone pair to a third H⁺. So ammonium carries three ordinary covalent bonds plus one coordinate bond, and hydronium carries two ordinary covalent bonds plus one coordinate bond among its three O–H bonds — and once formed, the coordinate bond is indistinguishable from the ordinary ones beside it.
+
 [GIF 21578 — coordinate covalent bonds in motion]
 
 ## Say it to your companion

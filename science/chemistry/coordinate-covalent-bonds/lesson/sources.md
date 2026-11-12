@@ -4,9 +4,12 @@ countries: Ethiopia
 
 **Book 1:** *Chemistry, Student Textbook, Grade 9* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-016-1. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-student-placements.md.
 
+**Book 2:** *Chemistry, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia. Chemistry, Teacher's Guide, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Editors: Tesfaye Semela (Ph.D.) (Curriculum Editor), Kenenisa Beresa (M.A.) (Language Editor), Ahmed Awel (M.Sc.) (Content Editor). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). Evaluators: Legesse Adane (Ph.D.), Nega Gichile, Sefiw Melesse, Tolessa Mergo. The guide carries no separate copyright/ISBN page in this file; it is the companion guide to the Grade 9 Student Textbook (first published August 2023, GEQIP-E; ISBN 978-99990-0-016-1). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Coordinate covalent bonds | Ethiopia, *Chemistry, Student Textbook, Grade 9*, Printed pp. 166–167 (section 5.3.4) |
+| Ammonium and hydronium dissected bond by bond — Unit 5 review extension (teacher guide — evidence) | Ethiopia, *Chemistry, Teacher's Guide, Grade 9*, Guide printed pp. 146–151 (answers to the Unit 5 review) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

@@ -36,3 +36,24 @@ b) Lewis's notation (1916): the element symbol carries its valence electrons as 
 c) and aluminium oxide treated with both hydrochloric acid and sodium hydroxide, its indicator behaviour…
 d) non-conducting as solids but conducting when molten or dissolved, when ions are free to move to the…
 **Answer: d) non-conducting as solids but conducting when molten or dissolved, when ions are free to move to the…**
+
+**6. ** Why are ionic compounds dense, as this lesson teaches?
+a) Because each ion is heavier than any molecule;
+b) Because many ions are packed per unit volume in the close-packed lattice;
+c) Because ionic compounds never dissolve;
+d) Because their molecules attract each other strongly.
+**Answer: b) Because many ions are packed per unit volume in the close-packed lattice**
+
+**7. ** Which pair of factors decides whether a bond is ionic or covalent, as this lesson teaches?
+a) Melting point and boiling point;
+b) Colour and lustre;
+c) Ionisation potential and electron affinity — a large difference gives an ionic bond, a small difference a covalent bond;
+d) Density and solubility.
+**Answer: c) Ionisation potential and electron affinity — a large difference gives an ionic bond, a small difference a covalent bond**
+
+**8. ** What gives a metal its lustre (shine), as this lesson teaches?
+a) Light the metal makes itself;
+b) Reflection of light from the metal's surface;
+c) Heat stored in the electron sea;
+d) A thin layer of polish on every metal.
+**Answer: b) Reflection of light from the metal's surface**

@@ -14,6 +14,18 @@ soluble in polar solvents ("like dissolves like"), generally insoluble in nonpol
 
 [GIF 21576 — properties of ionic compounds in motion]
 
+## Going further — what the Unit 5 review answers add
+
+Four ideas from the worked answers to the Unit 5 review pull this whole unit together. Learn them here, with the properties above.
+
+**Why ionic compounds are dense.** Density is about how much matter is packed into a space. In an ionic compound the ions sit close together in the regular lattice, so many ions are packed per unit volume — and that close packing is why ionic compounds are dense. Covalent substances are held together between their molecules only by weaker attractions, so their particles sit less tightly packed and their density is lower. When you compare densities in the review, explain them this way: count how tightly the particles are packed, not just how heavy each particle is.
+
+**What decides whether a bond is ionic or covalent.** Two factors are named: ionisation potential (how much energy it takes to remove an electron from an atom) and electron affinity (how strongly an atom pulls in an extra electron). When the difference between the two atoms is large — one gives up an electron easily and the other takes it strongly — the electron is transferred and the bond is ionic. When the difference is small, neither atom wins the electron outright, so the atoms share it and the bond is covalent. This is the same choice you met with electronegativity difference, now named by its two energy factors.
+
+**Why metals shine.** A metal's bright surface — its lustre — comes from reflection of light from its surface. Light falling on the metal surface is reflected back, and that reflected light is the shine you see on a polished metal spoon, a ring or a clean sheet of metal. Lustre is a surface property: it is the light bouncing off, not light the metal makes itself.
+
+**Two famous ions, bond by bond.** The ammonium ion, NH₄⁺, is built from three ordinary covalent bonds and one coordinate bond: nitrogen shares three of its bonds with three hydrogens in the ordinary way, then donates both electrons of its lone pair to a fourth hydrogen ion, H⁺, to make the fourth bond. The hydronium ion, H₃O⁺, is built the same way: two ordinary covalent bonds between oxygen and two hydrogens, plus one coordinate bond, where oxygen donates a lone pair to a third hydrogen ion. In each ion, once the coordinate bond has formed it looks and behaves exactly like the ordinary bonds beside it — count three ordinary bonds plus one coordinate bond in ammonium, and two ordinary bonds plus one coordinate bond in hydronium.
+
 ## Say it to your companion
 Explain properties of ionic compounds to your companion in your own words. Use the lesson's own example, say why it matters, and let your companion ask you one question you must answer from the lesson.
 

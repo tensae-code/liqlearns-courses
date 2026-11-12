@@ -10,3 +10,6 @@ Answer in a sentence or two.
 
 **3. ** In your own words: what does this lesson teach about coordinate covalent bonds? Use the lesson's own example.
 **Answer: A covalent bond in which both shared electrons come from one atom: the donor supplies a lone pair to an electron-poor partner;**
+
+**4. ** Count the bonds in the ammonium ion and in the hydronium ion: how many are ordinary covalent bonds and how many are coordinate bonds in each?
+**Answer: Ammonium, NH₄⁺: three ordinary covalent bonds plus one coordinate bond (nitrogen's lone pair donated to H⁺). Hydronium, H₃O⁺: two ordinary covalent bonds plus one coordinate bond (oxygen's lone pair donated to H⁺).**

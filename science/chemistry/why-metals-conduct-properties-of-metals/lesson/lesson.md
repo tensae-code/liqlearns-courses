@@ -9,6 +9,8 @@ Before you read: look at the picture for this lesson — a wire with electrons f
 
 The electron sea explains the metal properties: electrical and thermal conductivity (push electrons in at one end of a wire and free electrons carry charge and heat through at the same rate — pictured), high melting/boiling points relative to nonmetals, hardness and the other bulk qualities (with fuller treatment promised in Grade 10).4.2).
 
+One more metal property, from the worked answers to the Unit 5 review: a metal shines — it has lustre — because of reflection of light from its surface. Light that falls on the surface is reflected back, and that reflected light is the shine you see. The metal does not make the light itself; it bounces the light off its surface.
+
 [GIF 21580 — why metals conduct properties of metals in motion]
 
 ## Say it to your companion

@@ -36,3 +36,10 @@ b) miscellaneous), and chemical products are classed as basic chemicals, interme
 c) The electron sea explains the metal properties: electrical and thermal conductivity (push electrons in…
 d) oxygen usually −2, hydrogen usually +1, with their standard exceptions;
 **Answer: c) The electron sea explains the metal properties: electrical and thermal conductivity (push electrons in…**
+
+**6. ** What gives a metal its lustre (shine), as this lesson teaches?
+a) Heat carried through the electron sea;
+b) Reflection of light from the metal's surface;
+c) Electrons flowing out of the wire;
+d) The hardness of the metal lattice.
+**Answer: b) Reflection of light from the metal's surface**
