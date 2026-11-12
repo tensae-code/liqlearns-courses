@@ -1,6 +1,6 @@
 # Sources — Thermodynamics — the laws and heat engines
 
-countries: Ecuador, Palestine, Papua New Guinea (teacher-guide evidence only), Sudan, Indonesia, United States
+countries: Ecuador, Palestine, Papua New Guinea (teacher-guide evidence only), Sudan, Indonesia, United States, Mongolia
 
 **Book 1:** *Física — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular* (student textbook) — Ecuador, Ministerio de Educación del Ecuador, Primera edición 2024. Title as printed: Física — Bachillerato General, Primero de Bachillerato, Texto del estudiante para la transición curricular. ISBN 978-9942-662-30-9. Grade 11 (1ro BGU). Student book. Repo path: grade-11/gov/ecuador/fisica/student/full-year.pdf. Release: mid-size-books-3. Byte size: 20,779,160. PDF pages: 274. Page rule: printed p. N ≈ PDF p. N+1. Verdict: COMPLETE — full text read (35,790 words) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/ecuador-placements.md.
 
@@ -17,6 +17,8 @@ countries: Ecuador, Palestine, Papua New Guinea (teacher-guide evidence only), S
 
 **Book 7:** *College Physics 2e* (student textbook) — United States, OpenStax, Rice University; CC BY-NC-SA. Title as printed: College Physics 2e — OpenStax, Rice University; CC BY-NC-SA. Grade: 13 · Student book · Repo path: grade-13/approved-private/united-states/college-physics-2e.pdf · Release: full-quality-oversized-books (asset 263,463,256 bytes — exact match). Byte size: 263,463,256 · PDF pages: 1,671 · Offset: printed folios carried in the PDF; chapter starts cited from this edition's own contents. Verdict: COMPLETE — identity proven by title page; full contents read. The text is the same 34-chapter OpenStax course as *College Physics for AP® Courses 2e* WITHOUT the AP apparatus (no "Connection for AP® Courses"/"Test Prep" sections; chapters run ~6–8% shorter), filed with its own chapter placements at this edition's own printed pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
 
+**Book 8:** *Физик XI* (student textbook) — Mongolia. Title as printed: ФИЗИК XI — Grade 11 textbook of the 12-year school; authors M. Ganbat, Sh. Chadraabal, O. Altangoo et al.; Ministry approval; 3rd edition (bibliographic record: Ulaanbaatar 2017, 148 pp.) Grade: Grade 11 · student · recorded size 10,859,195 bytes — **download matched EXACTLY; pdfinfo 151 pages**. Route used: https://econtent.edu.mn/content/11rangi/fizik/fizik-269.pdf (recorded page id=269). Verdict: COMPLETE (full text read; contents at PDF p. 5). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The first law — energy is conserved, heat and work are its two doors | Ecuador, *Física — Primero de Bachillerato*, Tema 13 Termodinámica, printed p. 171 |
@@ -29,8 +31,9 @@ countries: Ecuador, Palestine, Papua New Guinea (teacher-guide evidence only), S
 | Bab 7 Termodinamika (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 7 Termodinamika — chapter 7 — a full closing chapter on thermodynamic processes and the laws |
 | Ch. 15 Thermodynamics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 15, printed p. 663 — the thermodynamics chapter at college level |
 | Ch. 15 Thermodynamics (College Physics 2e) | United States, *College Physics 2e*, Ch. 15, printed p. 629 |
+| §2.2 Термодинамик (Mongolia, Grade 11) | Mongolia, *Физик XI*, §2.2 Термодинамик — printed p. 52 |
 
-**Acceptance count: taught in 5 countries (Ecuador, Palestine, Sudan, Indonesia, United States).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
+**Acceptance count: taught in 6 countries (Ecuador, Palestine, Sudan, Indonesia, United States, Mongolia).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
 
 Placement note, on the record: Indonesia's Grade 11 student placement was filed in the read as NEW LESSON NEEDED — “Thermodynamics — laws, processes and heat engines (Fase F way)” (indonesia-placements.md, Book 1, Bab 7 Termodinamika — chapter 7); under the Indonesia merge ruling it is stocked into this existing lesson instead of a new one being built — this lesson covers the laws of thermodynamics, processes and heat engines.
 

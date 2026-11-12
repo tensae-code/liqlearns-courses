@@ -1,6 +1,6 @@
 # Sources — Conduction — heat through solids
 
-countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only)
+countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongolia
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -8,12 +8,15 @@ countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only)
 
 **Book 3:** *PISA Sample Test — Physics Grade 7 (Teacher)* (PRIVATE exam-prep / sample-test booklet — NOT a MoEYS textbook, labelled PRIVATE and cited as evidence of the tested syllabus only, outside the acceptance count) — Cambodia, Preah Sisowath High School, New Generation School. Grade 7 · Teacher version (questions with the teacher apparatus). The cover names the school and its teacher committee, and carries a "copying this book is prohibited" notice. Recorded in the library as "PISA Sample Test — Physics Grade 7 (Teacher)". Repo path: grade-07/gov/cambodia/physics/pisa-physics-sample-test-teacher.pdf. Byte size: 12,115,518 (no size recorded; downloaded via Contents API). PDF pages: 254. Offset: printed p. = PDF p. − 6. Verdict: COMPLETE structural read — full contents list read; the booklet is PISA-format stimulus texts each followed by questions, so the contents list is the content map. Library debt, carried on the record: the library holds no MoEYS textbook for Grades 7–8 — only these private booklets, recorded as if they were the country's Physics books for those grades. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
 
+**Book 4:** *Физик IX* (student textbook) — Mongolia. Title as printed: ФИЗИК IX — Grade 9 textbook of the 12-year school; authors M. Ganbat, Ts. Amartaivan, E. Amarjargal et al.; Ministry approval; 3rd edition (bibliographic record: Ulaanbaatar 2019, 184 pp.) Grade: Grade 9 · student · recorded size 19,806,839 bytes — **download matched EXACTLY; pdfinfo 187 pages**. Route used: https://econtent.edu.mn/content/9rangi/fizik/fizik-320.pdf (recorded page id=320). Verdict: COMPLETE (full text read; contents at PDF p. 6). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Conduction | Grade 11 Student Textbook, printed pp. 179–181 |
 | Heat and internal energy: Toplotni tok (Heat flow — the three transfer routes) (Slovenia) | Slovenia, *Fizika 9*, Heat and internal energy: Toplotni tok (Heat flow — conduction, convection and radiation) — printed p. 132 (unit folder 187) |
 | Ch. 2 Unit 1: conduction — the rice-cooker safety mystery, traditional stoves (Cambodia, Grade 7 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 7, Teacher version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 2 Unit 1 — printed p. 46 |
+| §1.3 Дулаан шилжилт (Heat transfer) (Mongolia, Grade 9) | Mongolia, *Физик IX*, §1.3 Дулаан шилжилт (Heat transfer) — printed p. 46 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Slovenia).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Mongolia).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, conduction — heat through solids, temperature, cambodia
