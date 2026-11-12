@@ -6303,6 +6303,11 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 36300 | pictures/36300.webp | the Grade 9 Economics road map — eight units | social-studies/microeconomics/the-grade-9-economics-road-map |
 | 36301 | pictures/36301.webp | the Grade 11 Economics road map — seven units | social-studies/microeconomics/the-grade-11-economics-road-map |
 | 36302 | pictures/36302.webp | the Grade 12 Economics road map — eight units | social-studies/macroeconomics/the-grade-12-economics-road-map |
+| 36000 | pictures/36000.webp | the world's oceans and coastal features — continents, islands, peninsulas, isthmuses | social-studies/the-land-and-air/continents-oceans-islands-peninsulas |
+| 36001 | pictures/36001.webp | renewable resources that grow back against fixed-amount resources | social-studies/people-and-resources/renewable-non-renewable-and-using-sustainably |
+| 36002 | pictures/36002.webp | a mine and the road its wealth takes away from the village | social-studies/the-land-and-air/africas-minerals-in-the-world-league |
+| 36003 | pictures/36003.webp | Africa's promise and its hurdles in balance — 1.3 billion people and rich resources against the named hurdles | social-studies/people-and-resources/africas-economic-promise-and-its-hurdles |
+| 36004 | pictures/36004.webp | Agenda 2063 beside the 17 SDG tiles — two blueprints compared | social-studies/resources-and-conflict/two-blueprints-compared-2063-and-the-sdgs |
 | 36220 | The seven-unit journey — Grade 9 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-9-way |
 | 36221 | The six-unit journey — Grade 10 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-10-way |
 | 36222 | The five-unit journey — Grade 12 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-12-way |
