@@ -1,0 +1,4 @@
+# Brownian motion and the kinetic theory of matter — depth
+
+Whole-lesson pass mark: the learner states the lesson's one thing in their own words — all matter is made of tiny particles in constant random motion — the kinetic theory of matter — and Brownian motion, the ceaseless jiggling of visible specks in a fluid, is the visible evidence: the specks are knocked about by the invisible moving particles of the fluid itself — and proves it with the lesson's own activities, answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — doing the lesson's own experiments and sorts by hand, naming each idea aloud, and reasoning about new examples until the teaching is the learner's own.

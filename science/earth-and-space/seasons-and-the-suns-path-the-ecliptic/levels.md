@@ -1,0 +1,4 @@
+# Seasons and the Sun's path — the ecliptic — depth
+
+Whole-lesson pass mark: the learner states the lesson's one thing in their own words — as the Earth travels round the Sun through the year, the Sun appears to travel a great circle on the celestial sphere — the ecliptic — tilted 23.5° to the celestial equator because the Earth's axis is tilted 23.5° to its orbit; that fixed tilt, not any change in distance, makes the seasons: each hemisphere in turn leans toward the Sun, receiving its rays more directly and for longer days, then leans away into winter — and proves it with the lesson's own activities, answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — doing the lesson's own experiments and sorts by hand, naming each idea aloud, and reasoning about new examples until the teaching is the learner's own.
