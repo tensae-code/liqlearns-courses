@@ -304,3 +304,42 @@ Slide · Tables and Charts on Slides · SmartArt, Pictures and
 Video on Slides · The Four PowerPoint Views · Running a Slide
 Show; Changing Slide Order · Project: Build and Present a
 Slide Deck.
+
+**Safety, Security and Care** (band C6, from Ethiopia Grade 9):
+What Security and Computer Security Mean · Five Kinds of
+Security · The 90/10 Rule — Security Is Mostly You ·
+Confidentiality, Integrity, Availability — the CIA Triad ·
+Choosing Your CIA Priorities · Threats — Inside, Outside,
+Natural, Man-Made · Natural Threats to a Computer · The Map of
+Cyber-Attacks · Denial of Service — Flooding a Service Shut ·
+Malware — Trojans, Viruses, Worms, Spyware, Ransomware ·
+Intercepting Attacks — Man in the Middle and Eavesdropping ·
+Phishing — Fake Messages from Trusted Names · SQL Injection ·
+Password Attacks · Social Engineering — Tricking the Person,
+Not the Machine · Dangers Aimed at Young People Online · Who
+Attacks — Criminals, Hackers, Insiders, Mistakes · What an
+Attack Costs — Loss, Corruption, Theft, Illegal Use · What an
+Attack Costs — Disclosure, Denial, Privilege · Internet
+Awareness — What Every Student Must Know · Securing Your
+Computer — the Checklist · Social Media — What It Gives a
+Student, What It Costs (teacher-guide evidence) · Rules for
+the School Computer Lab — an Internet-Use Policy
+(teacher-guide evidence).
+
+**Programming** (band C6, from Ethiopia Grade 9): What a
+Problem Is — and What Computers Cannot Settle · Computational
+Problems — Decision, Search, Counting, Optimisation ·
+Computational Thinking · Polya's Four Steps · From Polya to
+Programs — the Algorithm · Algorithms and Programs — the
+Average of Ten Numbers · Input, Process, Output · Flowchart or
+Pseudocode — Two Notations for One Algorithm · Flowchart
+Symbols · Drawing a First Flowchart · Sequence, Selection,
+Repetition · Flowgorithm and Scratch — Programming Without
+Typing Code · Flowgorithm — Your First Flowchart · Flowgorithm
+Practice — Input, Variables, Decisions · Scratch — Stage,
+Sprite, Palette, Script · First Scratch Script — Move 10 Steps
+and Say Hello · Scratch Loops and Conditions · If and While in
+Flowgorithm — Even or Odd · Top-Down — Modules and
+Modularisation · Bottom-Up — Assembling a Solution from
+Modules · Project: A Scratch Game and an Ethiopian Story ·
+Acronym Reference — the Book's Own List.

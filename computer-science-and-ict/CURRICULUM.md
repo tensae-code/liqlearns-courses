@@ -129,4 +129,19 @@ references relative and absolute, the fill handle, and Ebsa's
 gulit-market shopping-bill project kept whole) and
 Presentations (13: from opening PowerPoint to running a show
 and building a full deck). **Grade 9's Unit 3 now stands
-complete.** The course now stands at 223 lessons.
+complete.** The course now stands at 223 lessons. (This band's
+files were carried into the pushed commit 49a84a00c by the
+Science stream's broad staging while the coordinator's own
+commit was in flight; the coordinator verified the band's
+complete set — 188 lesson files, 28 media, 28 index rows, and
+these registration files — inside that commit on the remote.)
+
+**Band C6 (Grade 9, Units 5–6) — BUILT 2026-11-12:** 45 new
+lessons, 545 questions, 57 media filed (pictures/GIFs
+20900–20956) — Safety, Security and Care (23: the CIA triad,
+the eight attacks, staying safe, and two lessons standing
+mainly on teacher-guide evidence, labelled) and Programming
+(22: Polya, flowcharts, Flowgorithm and Scratch — no text-code
+language, as the book teaches none at this grade). Grade 9 now
+lacks only Unit 4 (band C5, in flight). The course now stands
+at 268 lessons.
