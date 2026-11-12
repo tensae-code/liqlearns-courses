@@ -1,0 +1,24 @@
+# Sources — Indigenous democracy in Ethiopia — councils, consensus, elders
+
+countries: Ethiopia
+
+**Book 1:** *Citizenship Education, Student Text Book, Grade 7* (student textbook) — Ethiopia, Writers: Taye Demissie (PhD), Bewuketu Dires (PhD). Content Editor: Dereje Fikre. Curriculum and Instructional Design Editor: Mulugeta Sharew. Language Editor: Shegaw Wedaj (PhD). Illustrators: Wasihun Dagne, Tesfahunegn Minwuyelet. Book Designer: Zelalem Birhan. No publisher/bureau, edition, year or ISBN is printed anywhere in the book (cover, title page and body checked). 190 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 5 read. Placements at `liqlearns-courses-work/ethiopia-2026-11-11/citizenship-education/g07-student-placements.md`.
+
+**Book 2:** *Citizenship Education, Teachers Guide, Grade 7* (teacher guide — evidence) — Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Taye Demissie (PhD), Bewuketu Dires (PhD). Content Editor: Dereje Fikre. Curriculum and Instruction Design Editor: Mulugeta Sharew. Language Editor: Shegaw Wedaj (PhD). Illustrators: Wasihun Dagne, Tesfahunegn Minwuyelet. Book Designer: Zelalem Birhan. The file carries NO imprint, copyright, year, publisher or ISBN page — the title page (PDF p.2) is the only citation source in the book itself. 142 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 5 read. Placements at `liqlearns-courses-work/ethiopia-2026-11-11/citizenship-education/g07-teacher-placements.md`.
+
+**Book 3:** *Citizenship Education, Student Text Book, Grade 8* (student textbook) — Ethiopia, Writers: Wondwossen Mengistu, Yoseph watte. Content Editor: Dereje Fikre. Curriculum and Instructional Design Editor: Mulugeta Sharew. Language Editor: Shegaw Wedaj. Illustrators: Wasihun Dagne, Tesfahunegn Minwuyelet. Book Designer: Zelalem Birhan. No publisher/bureau, edition, year or ISBN is printed anywhere in the book (cover, title page and body checked). 241 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 5 read. Placements at `liqlearns-courses-work/ethiopia-2026-11-11/citizenship-education/g08-student-placements.md`.
+
+**Book 4:** *Citizenship Education, Teachers Guide, Grade 8* (teacher guide — evidence) — Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Wondwossen Mengistu (MA), Yoseph Watte (Assistant Professor). Content Editor: Dereje Fikre (MA). Curriculum and Instruction Design Editor: Mulugeta Sharew (MA). Language Editor: Shegaw Wedaj (PhD). Illustrators: Wasihun Dagne (MSc), Tesfahunegn Minwuyelet (MSc). Book Designer: Zelalem Birhan (Eng). Like the Grade 7 guide, the file carries NO imprint, copyright, year, publisher or ISBN page — the title page (PDF p.2) is the only citation source in the book itself. 190 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 5 read. Placements at `liqlearns-courses-work/ethiopia-2026-11-11/citizenship-education/g08-teacher-placements.md`.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Ethiopia's own traditions, Grade 7 set: Jarsuma (Oromo), Shimigilina (Amhara), Yejoka (Gurage), Deira-Cimma (Wolayta), Enashma (Benishangul-Gumuz), Baito (Tigray), Mada'a (Afar), Xeer (Somali) | Book 1: Citizenship Education, Student Text Book, Grade 7, printed pp.77–79 |
+| Sub lesson 2 — Working democracies, Grade 8 depth: Wejerat Kanchi; Wolaita Awassiya; Sidama Luwa; Gurage Yajoka/Gordanna; Kambatta Seera/Marietta; Oromo Gada in full | Book 3: Citizenship Education, Student Text Book, Grade 8, printed pp.108–110 |
+| The eight traditions introduced one by one (teacher guide — evidence) | Book 2: Citizenship Education, Teachers Guide, Grade 7, printed pp.72–74 |
+| Indigenous institutions keyed as working democracies with offices, terms and accountability (teacher guide — evidence) | Book 4: Citizenship Education, Teachers Guide, Grade 8, printed pp.96–98 |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+Spelling variants across the books are the books' own and are copied exactly in this file (Grade 7: Jarsuma/Yejoka; Grade 8: Jaarsumma/Yajoka); one spelling is taught in the lesson prose, with the variant noted here. These institutions are taught as the books teach them — democracy practised long before the word arrived, still settling disputes alongside the courts. The same traditions are named again in the conflict-resolution lesson of Taking Part, in their Unit 6 spellings.
+
+Searchable tags: democracy, democracy, ethiopia, citizenship education, grade 7, grade 8, indigenous democracy in ethiopia

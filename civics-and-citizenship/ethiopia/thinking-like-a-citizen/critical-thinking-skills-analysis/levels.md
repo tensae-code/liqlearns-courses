@@ -1,0 +1,3 @@
+# Critical thinking skills — analysis — depth
+
+This lesson is one whole lesson — it has no sub lessons. Pass mark: the learner can state and use the whole lesson's one thing — analysis is examining something closely from every side to judge its worth — and being able to explain the judgement — in their own words, on a fresh example. Practice deepens by more items and harder corners of the same one thing: the lesson's cases judged from the other side, its lists recalled in a different order, its rule applied to the learner's own street and school.

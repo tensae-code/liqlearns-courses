@@ -1,0 +1,3 @@
+# Critical thinking skills — teamwork — depth
+
+This lesson is one whole lesson — it has no sub lessons. Pass mark: the learner can state and use the whole lesson's one thing — teamwork is collaborating toward a common goal — planning, dividing, checking, and accepting an unchosen task for the group's sake — in their own words, on a fresh example. Practice deepens by more items and harder corners of the same one thing: the lesson's cases judged from the other side, its lists recalled in a different order, its rule applied to the learner's own street and school.

@@ -1,0 +1,3 @@
+# Forms of democracy — liberal and social — depth
+
+This lesson is one whole lesson — it has no sub lessons. Pass mark: the learner can state and use the whole lesson's one thing — liberal democracy keeps the state's economic hand light; social democracy uses the state to pursue equality — in their own words, on a fresh example. Practice deepens by more items and harder corners of the same one thing: the lesson's cases judged from the other side, its lists recalled in a different order, its rule applied to the learner's own street and school.
