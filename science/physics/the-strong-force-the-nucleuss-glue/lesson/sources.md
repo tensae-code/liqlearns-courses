@@ -1,16 +1,19 @@
 # Sources — The strong force — the nucleus's glue
 
-countries: Ethiopia
+countries: Ethiopia, Haiti (programme evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 **Book 2:** Physics, Teacher Guide, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-038-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 21 (body). Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-teacher-placements.md.
+
+**Book 3:** *Programme détaillé NS, Physique 3e année* (programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Nouveau Secondaire, 2008–2009. Title as printed: Programme détaillé NS, Physique 3e année. Grade: 12 (3e année) · Kind: programme (teacher/curriculum evidence — NOT a student book) · Repo path: grade-12/gov/haiti/physics/teacher/programme-detaille.pdf (fetched via GitHub Contents-raw by the finisher reader after the first reader's source route returned a bot-check page twice; 96,721 bytes, no size in record) · PDF pages: 8 · Offset: this file is the detailed programme table alone (printed pp. 2–8) — no common front matter/programme cadre. Verdict: COMPLETE as filed (detailed programme only — same record-shape difference as Book 4, not a truncation of the detailed programme itself). Full text read (1,836 words). The placements here are from this detailed programme. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/haiti-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | What holds the nucleus together — nuclear forces | Grade 11 Student Textbook, printed pp. 294–299 |
 | GUIDE-ADDED CONTENT — mesons carry the nuclear force (teacher guide — evidence) | Grade 11 Teacher Guide, printed pp. 151 |
+| Theme: Interactions fondamentales — strong and weak interactions and the cohesion of the nucleus/matter (documentary research; nuclear energy as the strong interaction's human application) (programme evidence) | Haiti, *Programme détaillé NS, Physique 3e année*, Theme: Interactions fondamentales, PDF p. 3 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

@@ -1,16 +1,19 @@
 # Sources — Pressure under water — deeper means stronger
 
-countries: Ethiopia, Palestine
+countries: Ethiopia, Palestine, Haiti (programme evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
 **Book 2:** *الفيزياء للصف العاشر (Physics for Grade 10)* (student textbook) — Palestine, Ministry of Education, State of Palestine. Title as printed: Physics for Grade 10, Ministry of Education, State of Palestine — ministerial decision page: adopted for teaching in Palestine's schools from school year 2017/2018; ministerial curriculum committee named at the end of the book (incl. Dr Sabri Saidam, Dr Shahnaz Al-Far). Grade 10 · Student book (Arabic medium) · Repo path: grade-10/gov/palestine/physics/full-year.pdf. Byte size: 2,226,145 (no size in record). PDF pages: 160. Offset: printed p. N ≈ PDF p. N+5 (Unit 1 opens printed p. 2 = PDF p. 7; Ch. 1 printed p. 4 per the contents page). Verdict: COMPLETE — full text read (Arabic text layer throughout; extraction is RTL-garbled in places but every chapter, activity and question set is legible); contents page + unit/chapter sequence prove identity; book closes with the project chapter and the curriculum committee page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/palestine-placements.md.
 
+**Book 3:** *Programme détaillé NS, Physique 1re année* (programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Nouveau Secondaire, 2008–2009. Title as printed: Programme détaillé NS, Physique 1re année. Grade: 10 (1re année) · Kind: programme (teacher/curriculum evidence — NOT a student book) · Repo path: grade-10/gov/haiti/physics/teacher/programme-detaille.pdf (fetched via recorded source URL haiti-now.org after GitHub Contents timed out; 538,336 bytes, no size in record) · PDF pages: 60 · Offset: detailed programme at PDF pp. 45–59, printed pp. 44–58 approx. Verdict: COMPLETE — full text read; cover (République d'Haïti, MENFP, "13-Physique", 2008–2009) proves identity. The book is common front matter (finalités, missions, plan d'études) + synoptic programme-cadre tables for all four years and all streams + the detailed programme for its own year; the placements here are from the own-year detailed programme. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/haiti-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pressure grows with depth | Grade 12 Student Textbook, printed pp. 87–90 |
 | p = ρgh derived and applied (swimming-pool problem) | Palestine, *Physics for Grade 10*, Unit 2: Fluids — Statics, printed p. 68 |
+| C. Fluids and pressure in a liquid (programme evidence) | Haiti, *Programme détaillé NS, Physique 1re année*, C. Fluides et pression dans un liquide, printed p. 51 (PDF p. 51) |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Palestine).**
+**Acceptance count: taught in 2 countries (Ethiopia, Palestine).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, pressure under water — deeper means stronger, pressure, palestine

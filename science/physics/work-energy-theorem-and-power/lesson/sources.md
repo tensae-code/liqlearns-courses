@@ -1,6 +1,6 @@
 # Sources — Work–energy theorem; power
 
-countries: Ethiopia, Ecuador, Barbados
+countries: Ethiopia, Ecuador, Barbados, Haiti (programme evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Ecuador, Barbados
 
 **Book 4:** *Physics for CSEC Examinations, 3rd Edition (Student's Book)* (student book) — Barbados. Title as printed: Physics for CSEC Examinations — 3rd Edition, Alec Farley and Clarence Trotz, Series Editor Dr Mike Taylor (Macmillan Caribbean; print file dated 2014-06-23, ISBN 9780230438842). Grade: 10 (CSEC, Caribbean) · Student book · Source note: this is the Caribbean-region CSEC text recorded for Barbados; an approved regional text, not a Barbados-authored book — cited as it is. Repo path: grade-10/gov/barbados/physics/student-book/physics-for-csec-examinations-3rd-edition-farley-trotz.pdf · Release: mid-size-books-3. Byte size: 35,234,406 (exact match: books.json = release asset) · PDF pages: 603 (exact match) · Offset: printed p. N ≈ PDF p. N+9 (front matter i–viii + prefaces). Verdict: COMPLETE — full text read (273,879 words); cover, imprint and contents prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/barbados-placements.md.
 
+**Book 5:** *Programme détaillé NS, Physique 3e année* (programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Nouveau Secondaire, 2008–2009. Title as printed: Programme détaillé NS, Physique 3e année. Grade: 12 (3e année) · Kind: programme (teacher/curriculum evidence — NOT a student book) · Repo path: grade-12/gov/haiti/physics/teacher/programme-detaille.pdf (fetched via GitHub Contents-raw by the finisher reader after the first reader's source route returned a bot-check page twice; 96,721 bytes, no size in record) · PDF pages: 8 · Offset: this file is the detailed programme table alone (printed pp. 2–8) — no common front matter/programme cadre. Verdict: COMPLETE as filed (detailed programme only — same record-shape difference as Book 4, not a truncation of the detailed programme itself). Full text read (1,836 words). The placements here are from this detailed programme. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/haiti-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The work–energy theorem | Grade 11 Student Textbook, printed pp. 140–147 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Ecuador, Barbados
 | The teacher's demonstrations — timed upstairs race for human power; waterfall/dam for a power plant's output (teacher guide — evidence) | Ethiopia, *Grade 11 Teacher Guide*, printed p. 55 and unit body |
 | Mechanical work and energy (Ecuador) | Ecuador, *Física — Primero de Bachillerato*, Tema 12 Trabajo mecánico y energía, printed p. 159 |
 | Ch. 9 Energy, Work and Power — conservation of energy, efficiency, energy sources | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 9 Energy, Work and Power, printed p. 126 |
+| Theme: Travail et énergie — kinetic-energy theorem; work of weight in vertical fall, timed with a stopwatch (programme evidence) | Haiti, *Programme détaillé NS, Physique 3e année*, Theme: Travail et énergie, PDF p. 5 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Barbados).**
+**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Barbados).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 Honesty/evidence note: the demonstrations section stands on teacher-guide evidence only (Grade 11 Teacher Guide, printed p. 55 and unit body — placement #12); the theorem and power teaching itself is pupil-taught from the student book, so the acceptance count stays at 1 country. The placement's Unit 4 minimum-competency checklist is recorded in full in the sources of the companion energy lesson (kinetic-and-potential-energy).
 

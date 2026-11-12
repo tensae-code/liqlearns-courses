@@ -1,8 +1,10 @@
 # Sources — EMF, internal resistance and terminal voltage of a source
 
-countries: Papua New Guinea (teacher-guide evidence only)
+countries: Papua New Guinea (teacher-guide evidence only), Haiti (programme evidence only)
 
 **Book 1:** *Physics, Upper Secondary Teacher Guide (OBE)* (teacher guide) — Papua New Guinea, Department of Education, Papua New Guinea, published 2008, "Issued free to schools". Title as printed: Physics, Upper Secondary Teacher Guide (Department of Education, Papua New Guinea, published 2008, "Issued free to schools"). Grade: 11–12 · Teacher guide (outcomes-based education edition — the predecessor of the standards-based guide) · Repo path: grade-11/gov/papua-new-guinea/physics/teacher/grade-11-12-physics-upper-secondary-teachers-guide.pdf. Byte size: 451,722 (exact match to record) · PDF pages: 63 · Offset: printed p. N = PDF p. N+4 (Learning activities and assessment tasks open at printed p. 27 = PDF p. 31). Verdict: COMPLETE — full text read (20,879 words); title/copyright/contents pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/papua-new-guinea-placements.md.
+
+**Book 2:** *Programme détaillé NS, Physique 3e année* (programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Nouveau Secondaire, 2008–2009. Title as printed: Programme détaillé NS, Physique 3e année. Grade: 12 (3e année) · Kind: programme (teacher/curriculum evidence — NOT a student book) · Repo path: grade-12/gov/haiti/physics/teacher/programme-detaille.pdf (fetched via GitHub Contents-raw by the finisher reader after the first reader's source route returned a bot-check page twice; 96,721 bytes, no size in record) · PDF pages: 8 · Offset: this file is the detailed programme table alone (printed pp. 2–8) — no common front matter/programme cadre. Verdict: COMPLETE as filed (detailed programme only — same record-shape difference as Book 4, not a truncation of the detailed programme itself). Full text read (1,836 words). The placements here are from this detailed programme. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/haiti-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,8 +13,9 @@ countries: Papua New Guinea (teacher-guide evidence only)
 | Sub lesson 2 — Internal resistance — the source's own resistance (teacher guide — evidence) | Papua New Guinea, *Physics, Upper Secondary Teacher Guide (OBE)*, Unit 11.5 Electricity Principles, printed p. 35 |
 | Sub lesson 3 — Terminal voltage — what the outside circuit actually gets (teacher guide — evidence) | Papua New Guinea, *Physics, Upper Secondary Teacher Guide (OBE)*, Unit 11.5 Electricity Principles, printed p. 35 |
 | Do it first; key ideas; Do It Yourself (teacher guide — evidence) | Papua New Guinea, *Physics, Upper Secondary Teacher Guide (OBE)*, Unit 11.5 Electricity Principles, printed p. 35 |
+| Theme: Électricité — measuring the EMF of battery groups in series/parallel and the internal resistance of each arrangement (programme evidence) | Haiti, *Programme détaillé NS, Physique 3e année*, Theme: Électricité, PDF p. 7 |
 
-**Acceptance count: taught in 0 countries — stands on teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.**
+**Acceptance count: taught in 0 countries — stands on teacher-guide evidence only (Papua New Guinea), named here, counted nowhere.** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 Placement choice, on the record: this NEW LESSON was built for the Papua New Guinea placement "EMF, internal resistance and terminal voltage of a source" — papua-new-guinea-placements.md, Book 1, Unit 11.5 Electricity Principles, printed p. 35 (measure emf/internal resistance/terminal voltage; construct circuits with sources combined in series and parallel) — a topic no existing slug covers. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics) beside the circuits lessons. The source is a TEACHER GUIDE (the Upper Secondary OBE guide), so the lesson rests on teacher-guide evidence only and is counted nowhere.
 

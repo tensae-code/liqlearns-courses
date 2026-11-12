@@ -1,6 +1,6 @@
 # Sources — Electromagnetic induction — making current with a magnet
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Haiti (programme evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -9,12 +9,15 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados
 
 **Book 3:** *Physics for CSEC Examinations, 3rd Edition (Student's Book)* (student book) — Barbados. Title as printed: Physics for CSEC Examinations — 3rd Edition, Alec Farley and Clarence Trotz, Series Editor Dr Mike Taylor (Macmillan Caribbean; print file dated 2014-06-23, ISBN 9780230438842). Grade: 10 (CSEC, Caribbean) · Student book · Source note: this is the Caribbean-region CSEC text recorded for Barbados; an approved regional text, not a Barbados-authored book — cited as it is. Repo path: grade-10/gov/barbados/physics/student-book/physics-for-csec-examinations-3rd-edition-farley-trotz.pdf · Release: mid-size-books-3. Byte size: 35,234,406 (exact match: books.json = release asset) · PDF pages: 603 (exact match) · Offset: printed p. N ≈ PDF p. N+9 (front matter i–viii + prefaces). Verdict: COMPLETE — full text read (273,879 words); cover, imprint and contents prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/barbados-placements.md.
 
+**Book 4:** *Programme détaillé NS, Physique 3e année* (programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Haiti, Ministère de l'Éducation Nationale et de la Formation Professionnelle (MENFP), Nouveau Secondaire, 2008–2009. Title as printed: Programme détaillé NS, Physique 3e année. Grade: 12 (3e année) · Kind: programme (teacher/curriculum evidence — NOT a student book) · Repo path: grade-12/gov/haiti/physics/teacher/programme-detaille.pdf (fetched via GitHub Contents-raw by the finisher reader after the first reader's source route returned a bot-check page twice; 96,721 bytes, no size in record) · PDF pages: 8 · Offset: this file is the detailed programme table alone (printed pp. 2–8) — no common front matter/programme cadre. Verdict: COMPLETE as filed (detailed programme only — same record-shape difference as Book 4, not a truncation of the detailed programme itself). Full text read (1,836 words). The placements here are from this detailed programme. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/haiti-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Electromagnetic induction — the discovery | Grade 12 Student Textbook, printed pp. 126–127 |
 | Electromagnetic induction (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Electromagnetism, Topic Electromagnetic Induction, printed p. 84 approx. |
 | Ch. 28 Electromagnetism | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 28 Electromagnetism, printed p. 430 |
+| Theme: Électromagnétisme — Oersted's experiment, fields of straight/circular currents and solenoids, the electric bell, the moving-coil ammeter, and induction: the telephone's working explained by flux variation; closing self-induction experiment (programme evidence) | Haiti, *Programme détaillé NS, Physique 3e année*, Theme: Électromagnétisme, PDF pp. 7–8 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Barbados).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Barbados).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 Searchable tags: physics, grade 12, electromagnetism, electromagnetic induction — making current with a magnet, activity, current
