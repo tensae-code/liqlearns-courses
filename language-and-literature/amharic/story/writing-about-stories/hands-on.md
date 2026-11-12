@@ -18,3 +18,16 @@ shape best, and why.
 Write a short story in six sentences, one per strip. Mix the
 strips. A partner puts them back in the story's order and reads
 the story whole. Then swap roles.
+
+## The elements hunt
+Take any story being told at home. On one page, draw the
+elements organiser — five boxes: characters, setting,
+conflict, theme, plot. Fill each box from the telling, in the
+formal words (ግጭት, ትልም/ሴራ). If a box stays empty, say what
+the teller left out.
+
+## One-page story night
+Someone tells the shortest whole story they know. Everyone
+writes its summary — at most one page, no second page allowed.
+Read them aloud: whose page kept all five elements in the
+fewest lines?

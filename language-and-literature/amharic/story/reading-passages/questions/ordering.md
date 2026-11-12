@@ -13,3 +13,10 @@ a) Mix in a deep bowl  b) Wash  c) Lemon juice  d) Chop  e) Oil and salt
 **3. (Sub lesson 5)** The Finote Selam events:
 a) Haile Selassie returns via Sudan  b) Italy invades in 1928 E.C.  c) ወጀት is renamed ፍኖተሰላም  d) The patriots resist for five years
 **Answer: b, d, a, c.**
+**4. (Sub lesson 7)** The research order in The First Driver:
+a) Write the essay  b) Search newspapers, magazines and books  c) Note findings with authors and years  d) Ask the question
+**Answer: d, b, c, a.**
+
+**5. (Sub lesson 9)** Wangari Maathai's chain, in the passage's order:
+a) She receives the Nobel Prize  b) The Green Belt movement plants trees  c) Over 30 million trees stand  d) Her work is honoured worldwide
+**Answer: b, c, d, a.**

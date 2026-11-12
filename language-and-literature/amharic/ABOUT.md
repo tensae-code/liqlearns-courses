@@ -222,6 +222,23 @@ sequence; use learners' own stories and experiences; use the
 learner book's pictures for talk; give repeated chances to read
 familiar print; praise effort.
 
+## Acceptance counts — update (Band 3, 2026-11-12)
+
+Band 3 (Grades 5–8) added 7 new lessons and grew 10 more.
+Recounted from disk 2026-11-12: **the course now stands at 66
+lessons — 65 taught in 1 country (Ethiopia), 1 standing on
+teacher-guide evidence only (Fidel Shapes).** Listening Stories
+changed sides in this band: its new sub lessons 7–12 rest on the
+Grade 5–8 student books' own listening lessons, so the lesson
+now counts as taught in 1 country (Ethiopia), with its
+guide-only parts still labelled part by part in its sources.
+Inside other grown lessons, single sub lessons that rest on
+teacher guides alone (the qene introduction, the short-fiction
+sub lesson, oral poetry performed aloud) are labelled
+(teacher guide — evidence) in their own sources and are not
+separately counted. The snapshot below is the Bands 1–2 record
+as written at the time.
+
 ## Acceptance counts — lessons built so far (Bands 1–2)
 
 Counted from the `sources.md` file of every lesson on disk at

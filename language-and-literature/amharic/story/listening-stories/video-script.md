@@ -30,3 +30,23 @@ And the people live inside. That is a house.
 
 Listen again to a story this week — and at the question,
 stop. Guess. Then listen on.
+---
+
+Hear this story. A man stands before a king.
+
+The man's words reached the king. The king is angry.
+The man kneels. He asks for mercy.
+
+Guess. Will the king listen? …
+
+A friend stands with him. A loyal friend does not run away.
+Not in the good days only. In the worst day too.
+
+Now hear the counting story. Nine hyenas hunt together.
+They take one buffalo. One lion hunts alone. He takes nine.
+
+Count with me. One for the many. Nine for the one.
+Is it fair? Say why.
+
+Listen this week. Stop at the question. Guess.
+Then listen on.

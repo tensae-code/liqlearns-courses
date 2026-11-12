@@ -20,4 +20,20 @@ Sub lesson 4 questions from the type files. Pass mark: retell a procedure's step
 
 ## Sub lesson 5 — History passages — Finote Selam
 Sub lesson 5 questions from the type files. Pass mark: retell the history passage in time order and say what ፍኖተሰላም means.
+## Sub lesson 6 — Descriptive passages — mountains and waterfalls
+Sub lesson 6 questions from the type files. Pass mark: describe Wehni Amba from the passage's words alone, its similes named; and retell the Tis Abay visit in its order.
 
+## Sub lesson 7 — Passages with tables — read the numbers
+Sub lesson 7 questions from the type files. Pass mark: answer from the table, cell pointed to first; say the climate shares and the seed table's use.
+
+## Sub lesson 8 — Research-style readings — how a report is made
+Sub lesson 8 questions from the type files. Pass mark: name Eskinder's method whole — search, note with author and year, write up; and give the palace's four numbers back with the passage closed.
+
+## Sub lesson 9 — Lives in prose — biography readings
+Sub lesson 9 questions from the type files. Pass mark: retell one life by its dates and deeds in order — Maathai's trees and prize, Dibaba's double gold, Zerihun's eleven novels.
+
+## Sub lesson 10 — Argue and advise — passages that take a side
+Sub lesson 10 questions from the type files. Pass mark: state one argue-passage's side fairly; name the five counsels of the rubbish-dump passage; and apply social media's true-and-useful rule to a claim.
+
+## Sub lesson 11 — Explain the world — causes in prose
+Sub lesson 11 questions from the type files. Pass mark: carry the forest's three numbers in order and name its cause; name the three causes of child labour exploitation as the passage orders them.

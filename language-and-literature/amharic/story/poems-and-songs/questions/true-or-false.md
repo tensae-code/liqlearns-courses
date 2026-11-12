@@ -16,3 +16,17 @@ Say if the sentence is true or false.
 
 **5. (Sub lesson 4)** ጠንቃቃ teaches that a careful pupil may play in the road.
 **Answer: False** — never plays in the road; crosses only at the zebra.
+**6. (Sub lesson 5)** Oral heritage can safely stay unwritten, since memories never fail.
+**Answer: False** — the books warn it must be written down, lest it be lost.
+
+**7. (Sub lesson 6)** The harvest work-poem in the guide is performed by the teacher first, and its refrain is "ሆ ይላለ ገበሬ".
+**Answer: True** — the class joins after the teacher's performance.
+
+**8. (Sub lesson 7)** ቀረርቶ is sung to please and comfort the enemy.
+**Answer: False** — it is the heroism-boast that enrages and provokes the enemy.
+
+**9. (Sub lesson 8)** Love poems in this lesson are transcribed in full so learners can memorise them.
+**Answer: False** — they are known by their images only; no poem in this lesson is transcribed whole.
+
+**10. (Sub lesson 9)** A ስንኝ is a verse — it takes a full pause.
+**Answer: True** — and a ሐረግ is the part read in one breath.

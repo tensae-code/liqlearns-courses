@@ -24,3 +24,25 @@ First. Next. Last.
 
 Name the shape. Finish the story. Order the events.
 That is writing about stories.
+
+---
+
+Now the same five parts — in the bigger books' words.
+
+**መቼት** — the setting. Time and place.
+**ገፀባሕርያት** — the characters.
+**ችግሮች** — the problems. The trouble that PUSHES them to act.
+**ድርጊት** — the action they take.
+**ልቀት/ውጤት** — the resolution. The problem… solved.
+
+And now their formal names — the literary elements.
+**ግጭት** — conflict. A clash! Character against character.
+Character against nature.
+**ትልም/ሴራ** — plot. Not just "then, then, then" —
+BECAUSE. This happened BECAUSE that happened.
+
+Last — a small, whole story. **አጭር ልቦለድ** — short fiction.
+One room. One person, awake in the night.
+Hunger… or thought — which tires him more?
+A whole story, in one small room.
+List its people. Sum it in ONE page. No more.

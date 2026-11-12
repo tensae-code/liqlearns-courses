@@ -739,3 +739,99 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 8595 | pictures/8595.gif | the በ row lighting up as it is sung | Amharic (Second Language) — Fidel for New Speakers |
 | 8596 | pictures/8596.gif | መ + ጣ join into መጣ, then split apart again | Amharic (Second Language) — Two-Fidel Words |
 | 8597 | pictures/8597.gif | -ች joins መጣ: መጣ → መጣች | Amharic (Second Language) — Two-Fidel Words |
+| 8600 | pictures/8600.webp | a king hearing a plea | Amharic — Listening Stories |
+| 8601 | pictures/8601.webp | a goat and a leopard | Amharic — Listening Stories |
+| 8602 | pictures/8602.webp | Abdu washing, Seada smiling | Amharic — Listening Stories |
+| 8603 | pictures/8603.webp | Bikila's barefoot finish | Amharic — Listening Stories |
+| 8604 | pictures/8604.webp | a walia ibex on a cliff | Amharic — Listening Stories |
+| 8605 | pictures/8605.webp | two boys lost in a deep forest | Amharic — Listening Stories |
+| 8606 | pictures/8606.gif | the division of the kill | Amharic — Listening Stories |
+| 8607 | pictures/8607.webp | a Dawro New Year feast | Amharic — Listening Stories |
+| 8608 | pictures/8608.webp | a hospital ward (Hamlin) | Amharic — Listening Stories |
+| 8610 | pictures/8610.webp | the Wise Girl: builder and greeter | Amharic — Reading Stories |
+| 8611 | pictures/8611.webp | a scale: butter against bread | Amharic — Reading Stories |
+| 8612 | pictures/8612.webp | a guest feeding his clothes | Amharic — Reading Stories |
+| 8613 | pictures/8613.webp | a bird and its nest | Amharic — Reading Stories |
+| 8614 | pictures/8614.webp | the blind champion rider | Amharic — Reading Stories |
+| 8615 | pictures/8615.webp | Maru with a wheat sack | Amharic — Reading Stories |
+| 8616 | pictures/8616.gif | rats gnawing the net, strand by strand | Amharic — Reading Stories |
+| 8617 | pictures/8617.webp | three oxen, a lion watching | Amharic — Reading Stories |
+| 8620 | pictures/8620.webp | Wehni Amba | Amharic — Reading Passages |
+| 8621 | pictures/8621.webp | the climate zones diagram | Amharic — Reading Passages |
+| 8622 | pictures/8622.webp | library research | Amharic — Reading Passages |
+| 8623 | pictures/8623.webp | women planting seedlings | Amharic — Reading Passages |
+| 8624 | pictures/8624.webp | a garbage word-ball bouncing off a shield | Amharic — Reading Passages |
+| 8625 | pictures/8625.webp | the forest-shrinking chart | Amharic — Reading Passages |
+| 8626 | pictures/8626.gif | planting a seedling: dig, place, firm, water | Amharic — Reading Passages |
+| 8630 | pictures/8630.webp | six kinds of oral poem | Amharic — Poems and Songs |
+| 8631 | pictures/8631.webp | debo harvesting | Amharic — Poems and Songs |
+| 8632 | pictures/8632.webp | two warriors with shields | Amharic — Poems and Songs |
+| 8633 | pictures/8633.webp | a wedding, the masinqo player | Amharic — Poems and Songs |
+| 8634 | pictures/8634.webp | the parts-of-a-poem diagram: ሐረግ / ስንኝ / አርኬ / ቤት | Amharic — Poems and Songs |
+| 8635 | pictures/8635.gif | the grinding stone turning | Amharic — Poems and Songs |
+| 8660 | pictures/8660.webp | the times chart: የአሁን / የሀላፊ / የትንቢት | Amharic — Verbs and Tenses |
+| 8661 | pictures/8661.webp | the በላ conjugation paradigm | Amharic — Verbs and Tenses |
+| 8662 | pictures/8662.webp | direct and indirect objects chart | Amharic — Verbs and Tenses |
+| 8663 | pictures/8663.gif | a traveller walking the tense timeline | Amharic — Verbs and Tenses |
+| 8670 | pictures/8670.webp | common and proper nouns chart | Amharic — Word Kinds |
+| 8671 | pictures/8671.webp | the pronoun persons መደብ chart | Amharic — Word Kinds |
+| 8672 | pictures/8672.webp | countable and uncountable nouns chart | Amharic — Word Kinds |
+| 8673 | pictures/8673.gif | single things gathering into a መንጋ (collective) | Amharic — Word Kinds |
+| 8680 | pictures/8680.webp | the adjective-forming suffixes chart: -አዊ / -አማ / -ኛ | Amharic — Suffixes |
+| 8681 | pictures/8681.webp | the derived verb family tree (ተ- / አስ- on ሰፋ and ቆረጠ) | Amharic — Suffixes |
+| 8682 | pictures/8682.gif | suffix chips joining their stems | Amharic — Suffixes |
+| 8720 | pictures/8720.webp | subject / predicate blocks (ትልቁ ልጅ እየሮጠ መጣ) | Amharic — The Sentence |
+| 8721 | pictures/8721.webp | the four sentence functions chart | Amharic — The Sentence |
+| 8722 | pictures/8722.webp | affirmative / negative: ልጁ መጣ። / ልጁ አልመጣም። (the book's አል-…-ም rule applied, flagged in sources) | Amharic — The Sentence |
+| 8723 | pictures/8723.webp | being-verb blocks (እነዚህ ዋልያዎች ናቸው) | Amharic — The Sentence |
+| 8724 | pictures/8724.webp | simple against complex sentences | Amharic — The Sentence |
+| 8725 | pictures/8725.webp | coordinating joiner tiles and a worked compound | Amharic — Joining Words |
+| 8726 | pictures/8726.webp | subordinate conjunction tiles and a leaning example | Amharic — Joining Words |
+| 8727 | pictures/8727.webp | transitional words on a crossing path | Amharic — Joining Words |
+| 8728 | pictures/8728.webp | exclamation mark and the seven feelings chart | Amharic — More Punctuation |
+| 8729 | pictures/8729.webp | quotation marks, double and single | Amharic — More Punctuation |
+| 8730 | pictures/8730.webp | colon ፡- and slash እዝባር (ት/ቤት, dates, reference numbers) | Amharic — More Punctuation |
+| 8731 | pictures/8731.webp | dash / parentheses / ellipsis chart | Amharic — More Punctuation |
+| 8732 | pictures/8732.webp | abbreviations both ways, and initials | Amharic — More Punctuation |
+| 8733 | pictures/8733.gif | two simple-sentence cards slide together; the ይሁን እንጂ badge appears | Amharic — Joining Words |
+| 8734 | pictures/8734.gif | መስተዳድር shrinks into መስ. with a growing underline | Amharic — More Punctuation |
+| 8735 | pictures/8735.gif | an aside card (ቆላ፣ ደጋ፣ ወይና ደጋ) slides into its parentheses | Amharic — More Punctuation |
+| 8736 | pictures/8736.gif | the bound verb ሲመጣ waits until its binder ሄደ arrives | Amharic — The Sentence |
+| 8780 | pictures/8780.webp | the topic-sentence chart: ኃይል ቃል / መንደርደሪያ over its sentences | Amharic — Descriptive Paragraphs |
+| 8781 | pictures/8781.webp | the outline ቢጋር in its two formats | Amharic — Descriptive Paragraphs |
+| 8782 | pictures/8782.webp | ገላጭ against ተራኪ paragraphs | Amharic — Descriptive Paragraphs |
+| 8783 | pictures/8783.webp | a Tarmaber-style mountain (descriptive model) | Amharic — Descriptive Paragraphs |
+| 8784 | pictures/8784.gif | an outline growing into a full paragraph | Amharic — Descriptive Paragraphs |
+| 8785 | pictures/8785.webp | personal letter shape diagram | Amharic — Letters |
+| 8786 | pictures/8786.webp | greeting letter parts, colour-banded | Amharic — Letters |
+| 8787 | pictures/8787.webp | official letter anatomy | Amharic — Letters |
+| 8788 | pictures/8788.webp | request letter frame | Amharic — Letters |
+| 8789 | pictures/8789.webp | wedding invitation card with blanks (ሠርግ) | Amharic — Letters |
+| 8790 | pictures/8790.webp | application letter model | Amharic — Letters |
+| 8791 | pictures/8791.gif | letter parts assemble, then fold into a sealed envelope | Amharic — Letters |
+| 8792 | pictures/8792.webp | appreciation letter, its parts labelled | Amharic — Letters |
+| 8840 | pictures/8840.webp | the coffee essay in four panels | Amharic — Writing Essays |
+| 8841 | pictures/8841.webp | a topic sentence over its details | Amharic — Writing Essays |
+| 8842 | pictures/8842.webp | a narrative time line | Amharic — Writing Essays |
+| 8843 | pictures/8843.webp | volunteers: cause into three effects | Amharic — Writing Essays |
+| 8844 | pictures/8844.webp | the six-branch HIV web, exact branch names | Amharic — Writing Essays |
+| 8845 | pictures/8845.gif | web branches feeding the essay page | Amharic — Writing Essays |
+| 8850 | pictures/8850.webp | the life-history seven points timeline | Amharic — Life Stories |
+| 8851 | pictures/8851.webp | the biography method in five cards | Amharic — Life Stories |
+| 8852 | pictures/8852.webp | track scene with Rome 2:15:16.2 / Tokyo 2:12:11.2 cards (no likeness) | Amharic — Life Stories |
+| 8853 | pictures/8853.webp | a table becoming paragraphs | Amharic — Life Stories |
+| 8854 | pictures/8854.webp | a hospital ward, mothers recovering (drawn scene, no likeness) | Amharic — Life Stories |
+| 8855 | pictures/8855.gif | a life timeline filling point by point | Amharic — Life Stories |
+| 8860 | pictures/8860.webp | the teff varieties table, full exact figures | Amharic — Study Skills |
+| 8861 | pictures/8861.webp | the headache table's structure (cell figures not in the placements — none invented) | Amharic — Study Skills |
+| 8862 | pictures/8862.webp | note-taking in three levels | Amharic — Study Skills |
+| 8863 | pictures/8863.gif | a highlight sweeping the teff table rows | Amharic — Study Skills |
+| 8900 | pictures/8900.webp | a formal debate: two debaters at lecterns, judges at the table | Amharic — Speaking and Performing |
+| 8901 | pictures/8901.webp | a panel: the moderator (አወያይ) and three participants | Amharic — Speaking and Performing |
+| 8902 | pictures/8902.gif | a debater speaks, the opponent notes the point, then rises to rebut | Amharic — Speaking and Performing |
+| 8903 | pictures/8903.webp | work poetry at the threshing floor | Amharic — Speaking and Performing |
+| 8904 | pictures/8904.gif | a red ቅኔ card opens into a hidden sun (surface into inner meaning) | Amharic — Speaking and Performing |
+| 8910 | pictures/8910.webp | the story's five parts in the higher wording, five-panel strip | Amharic — Writing About Stories |
+| 8911 | pictures/8911.webp | five literary-element cards around an open book | Amharic — Writing About Stories |
+| 8912 | pictures/8912.gif | a cause-and-effect chain lighting box by box | Amharic — Writing About Stories |
+| 8913 | pictures/8913.webp | a student lying awake in a small rented room at night (short fiction) | Amharic — Writing About Stories |

@@ -22,4 +22,17 @@ Cause… effect… cause… effect…
 Last, a game! One fidel in each box.
 Across… or down… Fill the crossword!
 
-Charts, webs, chains, games — tools that make reading yours.
+Now a table! Rows… and columns…
+The question names a row. The question asks a column.
+Where they cross — that cell is the answer!
+Kora needs five hundred to eight hundred of rain.
+Negus is ready in one hundred and five days.
+
+And when I LISTEN — my notebook is ready BEFORE the voice.
+Not every word! Main points only.
+One word… a short phrase… one big sentence.
+
+And my chart grows up with me.
+K… W… L… — for farmers, for palaces, for the lives of writers.
+
+Charts, webs, chains, games, tables, notes — tools that make reading yours.

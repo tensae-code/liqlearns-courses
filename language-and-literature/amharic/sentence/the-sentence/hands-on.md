@@ -13,3 +13,12 @@ On two strips of paper write two short sentences: one thing you want, one thing 
 
 ## Build a compound
 Take two sentences that can each stand alone. Join them once with እና, once with ወይም, once with ነገርግን. Read all three aloud and say how the joining word changed the meaning each time.
+
+## Two stands
+Write a sentence on a long strip — ትልቁ ልጅ እየሮጠ መጣ። works. Stand at its start and say "ባለቤት!" over the subject side; walk to its end and say "ማሰሪያ አንቀጽ!" over the predicate side. A partner then reads a new sentence, and you walk it: start — subject; end — predicate. Swap after three sentences.
+
+## Four voices
+Four cards: ሀተታዊ, ጥያቄያዊ, ትዕዛዛዊ, አጋናኝ. A partner reads a sentence aloud in one of the four voices — stating, asking, ordering, exclaiming. Hold up the card that names its function. Then read one yourself in the voice your partner's card names.
+
+## Break it with አል- … -ም
+One partner says an affirmative sentence (ልጁ መጣ።). The other breaks it into its negative, wrapping the verb in አል- … -ም (ልጁ አልመጣም።). Swap roles — five sentences each. The listener checks: are both hands of the negative there, አል- before and -ም after?

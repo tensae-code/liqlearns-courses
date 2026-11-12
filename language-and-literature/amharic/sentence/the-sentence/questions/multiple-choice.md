@@ -29,3 +29,23 @@ a) one word with a suffix  b) two simple sentences joined by a conjunction  c) a
 **7. (Sub lesson 4)** A ውስብስብ (complex) sentence holds —
 a) two or more verbs  b) no verbs  c) only one word
 **Answer: a) two or more verbs.**
+
+**8. (Sub lesson 5)** In ከድር ከትምህርትቤት መጣ።, the ባለቤት (subject) is —
+a) መጣ  b) ከድር  c) ከትምህርትቤት
+**Answer: b) ከድር** — the subject stands at the start; መጣ is the ማሰሪያ አንቀጽ, the predicate, at the end.
+
+**9. (Sub lesson 6)** "የቤት ሥራችሁን ሥሩ።" — Do your house work. This sentence's function is —
+a) ሀተታዊ — it states  b) ጥያቄያዊ — it asks  c) ትዕዛዛዊ — it orders
+**Answer: c) ትዕዛዛዊ** — an imperative sentence gives an order.
+
+**10. (Sub lesson 7)** A negative (አሉታዊ) sentence is known by —
+a) a question mark  b) its verb carrying አል- … -ም  c) having no verb
+**Answer: b) its verb carrying አል- … -ም** — the affixes break/deny the idea; the affirmative carries no special marker.
+
+**11. (Sub lesson 8)** In እነዚህ ዋልያዎች ናቸው, the ስም መሙያ (complement) is —
+a) እነዚህ  b) ናቸው  c) ዋልያዎች
+**Answer: c) ዋልያዎች** — the noun completing the being-verb ናቸው; እነዚህ is the pointer.
+
+**12. (Sub lesson 9)** In ልጁ ከትምህርትቤት ሲመጣ አባቱ ወደቢሮ ሄደ, the bound verb that waits for its binder is —
+a) ሄደ  b) ሲመጣ  c) there is none
+**Answer: b) ሲመጣ** — "while coming" gives no full sense alone; ሄደ binds and completes it.

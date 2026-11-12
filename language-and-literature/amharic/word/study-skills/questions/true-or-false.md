@@ -10,3 +10,12 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 4)** In the crossword, letters already placed are starting points for other answers.
 **Answer: True** — rule 4, exactly as the guide prints it.
+
+**4. (Sub lesson 5)** A data-table answer may come from general knowledge, as long as it sounds right.
+**Answer: False** — table questions are answered from the cells: named row, asked column, crossing cell.
+
+**5. (Sub lesson 6)** A note at sentence level should be used for every point heard.
+**Answer: False** — sentence level is for the biggest points only; most points are held at word or phrase level.
+
+**6. (Sub lesson 7)** A pre-reading chart with only "what I know / what I want to know" is the K and W of the same KWL chart.
+**Answer: True** — the two columns are the chart's first two columns, filled before reading.

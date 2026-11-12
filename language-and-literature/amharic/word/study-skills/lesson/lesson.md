@@ -96,6 +96,99 @@ Picture 8529 is drawn for this lesson to hold the book's printed
 answers; the book's own printed grid layout is its own — see
 sources.md.)
 
+## Sub lesson 5 — Reading data tables
+
+Some reading is not paragraphs at all — it is a **table**, and
+its questions are answered **from the cells**, not from memory.
+
+The headache reading (የራስምታት) carries a data table: headache
+is usually a **symptom of another illness**, not itself the
+illness; the severest kind, migraine (ማይግሬን), can be
+triggered by stress (ጭንቀት), alcohol, chocolate, sour foods,
+heat, disturbed sleep, strong smells and sun heat. The table
+gives headache-painkiller use across the years **2006–2011
+E.C.**, split by **place** (urban / rural), by **age** (adults /
+children) and by **sex** — and every question is answered from
+the table: who used most in **2008**? who used lowest in
+**2011**? which way does the use trend? The writing that follows
+is a **comparison paragraph** built from the table's 2006
+figures.
+
+[Picture 8861 — headache: answers live inside the table]
+
+The farm table works the same way. The improved-teff table is
+for **well-watered areas**, and each variety's row gives its
+suitable altitude, its rainfall need, its days to maturity, its
+seed colour, and its yield on a research station and on a
+farmer's field:
+
+[Picture 8860 — improved teff seed, for well-watered areas]
+
+Read three answers straight off the rows, the way the questions
+ask them:
+
+- **ኮራ (Kora)** needs **500–800 mm** of rain, at 1650–2400 m,
+  and matures in 110–117 days.
+- **ንጉሥ (Negus)** matures in **105 days**.
+- The highest yield figure in the table is **ዱከም (Dukem)** —
+  **24–34 quintals per hectare** on the research station
+  (20–25 on a farmer's field).
+
+[GIF 8863 — read the row the question asks about]
+
+The skill is always the same three moves: **find the row the
+question names, find the column the question asks about, read
+the cell where they cross.** An answer that does not come from
+a cell is not a table answer.
+
+## Sub lesson 6 — Note-taking while listening
+
+Listening leaves nothing behind — unless you take notes. The
+technique is taught together with a listening lesson, in three
+moves:
+
+[Picture 8862 — note-taking while listening]
+
+1. **Prepare notebook and pen BEFORE the listening starts.**
+   A listener hunting for a pen hears nothing.
+2. **Note the main points only** — not every word.
+3. **Note at three levels**: at **word** level (one key word),
+   at **phrase** level (a main point in a few words), and at
+   **sentence** level (one full sentence, for the biggest
+   points only).
+
+Notes are the net; the listening is the river. A net full of
+every word is too heavy to lift — a net of main points, at the
+three levels, holds exactly what the questions afterwards will
+ask for. In the higher classes this is the standing listening
+check itself: were notes taken from what was heard?
+
+## Sub lesson 7 — KWL grows up
+
+The KWL chart of Sub lesson 1 does not retire — the higher
+books keep opening readings with it, on bigger topics.
+
+- The reading **አርሶአደር (The Farmer)** opens with a KWL table —
+  what I know, want to know and learned **about farmers** — and
+  the essay then contrasts the diligent farmer (ምስጉን አርሶአደር),
+  who ploughs finely and on time and knows his soil and weather
+  signs, with the lazy farmer (ሰነፍ አርሶአደር), whose family
+  lives in want.
+- The reading on **Emperor Fasilides' Palace** uses the KWL
+  format again — and its L column can hold hard facts: Gondar
+  founded as capital in 1628, the palace raised in the early
+  1640s, **32 m high, three floors, 132 steps, 20 rooms**.
+- A biography reading — the writer **Berhanu Zerihun** — is
+  likewise introduced with a KWL table, and the reading itself
+  fills the L column with a whole life.
+- In one guide the pre-reading chart is carried in **two
+  columns** — "what I know and what I want to know" — the K and
+  W of the same chart, filled before the reading begins
+  (teacher guide — evidence).
+
+Same chart, bigger game: the older the reader, the harder the
+W questions should be — questions the text must work to answer.
+
 ## Say it to your companion
 
 Show your companion the web and the chain you built in this
@@ -109,3 +202,6 @@ this make that happen?" test. Then swap.
 2. Build a concept web around ጎረቤት (neighbour) or around your own street, and write three sentences from its branches.
 3. Build a cause → problem → solution web for one problem near home (a dirty water point, a dangerous crossing).
 4. Copy the crossword grid empty, and fill it from the across/down answer lists without looking at the filled picture. Check yourself against Picture 8529.
+5. Open the teff table (Picture 8860). Answer from the cells only: Kora's rainfall need; Negus's days to maturity; Dukem's research-station yield; Kena's altitude range. Then write a comparison paragraph about two varieties.
+6. Have someone read you a short text once. Before they start, prepare notebook and pen; while they read, note main points at word, phrase and sentence level. Afterwards, say the text's main points from your notes only.
+7. Fill a KWL chart for the next hard text you meet. Make your W questions hard ones — questions the text must work to answer — and check afterwards whether L answered them.

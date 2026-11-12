@@ -13,3 +13,18 @@ Pass mark: join two short sentences into one with ስለምፈልግ / ስለ, o
 
 ## Sub lesson 4 — Compound and complex sentences
 Pass mark: build a ድርብ compound with እና, ወይም, ነገርግን, ስለዚህ or ምክንያቱም, and call a sentence ውስብስብ when it holds two or more verbs.
+
+## Sub lesson 5 — Subject and predicate: ባለቤት and ማሰሪያ አንቀጽ
+Pass mark: split a sentence into its subject side and predicate side — ባለቤት at the start, ማሰሪያ አንቀጽ at the end — and name each side's attachments in ትልቁ ልጅ እየሮጠ መጣ.
+
+## Sub lesson 6 — The four things a sentence can do
+Pass mark: name a sentence's function — ሀተታዊ, ጥያቄያዊ, ትዕዛዛዊ or አጋናኝ — from what it does, and build one sentence of each function.
+
+## Sub lesson 7 — Affirmative and negative sentences
+Pass mark: tell አዎንታዊ from አሉታዊ, say the affirmative carries no special marker, and turn an affirmative into a negative by wrapping its verb in አል- … -ም.
+
+## Sub lesson 8 — The being-verb and its complement
+Pass mark: in እነዚህ ዋልያዎች ናቸው, name the pointer (እነዚህ), the complement (ዋልያዎች, ስም መሙያ) and the being-verb (ናቸው, መሆን ግስ), and unscramble a mixed "is / are" sentence into that order.
+
+## Sub lesson 9 — Simple and complex sentences, grown
+Pass mark: call a one-clause sentence ነጠላ, and in a ውስብስብ sentence point to the bound verb (ሲመጣ) and the binding verb that completes it (ሄደ).

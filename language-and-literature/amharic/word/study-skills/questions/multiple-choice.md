@@ -21,3 +21,19 @@ a) the flood is bigger than the rain  b) the rain falling MADE the flood come  c
 **5. (Sub lesson 4)** Rule 1 of the fidel crossword is —
 a) one word per box  b) one fidel per box  c) one answer per row
 **Answer: b) one fidel per box.**
+
+**6. (Sub lesson 5)** From the teff table, ኮራ (Kora) needs rainfall of —
+a) 1000–1200 mm  b) 500–800 mm  c) 150–700 mm
+**Answer: b) 500–800 mm.**
+
+**7. (Sub lesson 5)** The headache table's questions (who used most in 2008, lowest in 2011) are answered —
+a) from the table's cells  b) from your own experience  c) from the story before the reading
+**Answer: a) from the table's cells.**
+
+**8. (Sub lesson 6)** Good listening notes hold —
+a) every word that was said  b) main points only, at word, phrase and sentence level  c) only the first sentence
+**Answer: b) main points only, at word, phrase and sentence level.**
+
+**9. (Sub lesson 7)** The higher books use the KWL chart to open —
+a) only the civet reading  b) bigger readings too — the farmer essay, Fasilides' palace, a biography  c) no readings after Grade 4
+**Answer: b) bigger readings too — the farmer essay, Fasilides' palace, a biography.**

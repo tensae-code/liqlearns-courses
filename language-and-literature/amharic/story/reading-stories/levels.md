@@ -23,4 +23,20 @@ Sub lesson 5 questions from the type files. Pass mark: retell Eyoel and Amira's 
 
 ## Sub lesson 6 — Fluency stories and fables
 Sub lesson 6 questions from the type files. Pass mark: retell each story by its handles, and act the Rooster and the Fox's climax — the fox opens his mouth and the rooster escapes.
+## Sub lesson 7 — Wisdom, fear and measure
+Sub lesson 7 questions from the type files. Pass mark: say The Wise Girl's meaning in one sentence; retell Fear in order with its closing teaching; and say how Senait's scale restored a friendship.
 
+## Sub lesson 8 — Sickness, salt and enough
+Sub lesson 8 questions from the type files. Pass mark: say why "salt" was the truest answer; give the doctor's rule about breaking a fast; and say what Sisay built his life on in the emptied village.
+
+## Sub lesson 9 — Clothes, blessing and dreams
+Sub lesson 9 questions from the type files. Pass mark: say what "Feed My Clothes!" mocks; say why the bee was blessed and the fly cursed; and say the lion and the three oxen's rule in one sentence.
+
+## Sub lesson 10 — Family, hatred and refusal
+Sub lesson 10 questions from the type files. Pass mark: retell Ato Altaye's realisation in order; say the village council's answer to hate; and say what Be'emnet built instead of refusing only.
+
+## Sub lesson 11 — Birds, regret and blighted hope
+Sub lesson 11 questions from the type files. Pass mark: say what the birds decided after the third nest fell; name both holy grounds the volunteers cleaned; and say what the desert town's silence teaches.
+
+## Sub lesson 12 — Trust, debt and rough hands
+Sub lesson 12 questions from the type files. Pass mark: retell Maru Forsa's two parts in order; say the three lessons of the rough hands as the story gives them; and say how the rats repaid the elephants.

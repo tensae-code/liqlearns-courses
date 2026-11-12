@@ -164,6 +164,225 @@ housework, calling it women's work. A neighbour woman teaches
 him — through the school's gender club — the rule this story
 ends on: work is shared by ability, not by gender.
 
+## Sub lesson 7 — Friends true and false
+
+**The Loyal Friend (ታማኝ ጓደኛ).** Ayalew's words travel
+until they reach the king — and the king sentences him to
+death. Hear the story once. Then hear what Ayalew asks for,
+and what his friend does. The story's own questions ask what
+we understand without being told, and whether the judgement
+was just. Answer in your own words: what makes a friend
+loyal — in good days only, or in the worst day too?
+
+[Picture 8600 — a man pleading before the king]
+
+**The Goat and the Leopard (ፍየልና ነብር).** Two unlike
+animals travel together, and between them stands an oath —
+ቃለመሐላ, a sworn promise. Hear what each one swears, and
+listen for what the story says befalls the one who breaks
+an oath. The plot is short; the oath is the story.
+
+[Picture 8601 — the goat and the leopard travelling together]
+
+**A Friend Is Like a Mirror (ጓደኛ እንደመስታወት).** Abdu
+hates washing. His friend Seada — nicknamed የዉኃ እናት, the
+mother of water — advises him, the way a mirror shows you
+your own face. Hear how Abdu changes. Say the title's
+meaning in your own sentence: what does a true friend show
+you?
+
+[Picture 8602 — washing at the basin, a friend smiling]
+
+**The Town (ከተማዋ).** Hear about a town that nobody
+cleans. The story's printed questions are the lesson:
+who dirties it, who should clean it, and what a town
+becomes when everyone waits for someone else.
+
+## Sub lesson 8 — Ceremony, medicine and shared work
+
+**The Qoti Betrothal Ceremony (የቆቲ ሥነሥርዓት).** Hear the
+ceremony in its order: the Sultan, the elders (ሽማግሌዎች),
+the gifts carried in, the አደስ incense burning, and the
+foods of the ceremony. Retell it step by step — a ceremony
+is a story whose steps must not change places.
+
+[Audio — the ceremony account read aloud; retell the steps in order]
+
+**Traditional Medicine (ባህላዊ ሕክምና).** Hear a discussion,
+not a tale: the teacher Seyid and the student Siraj talk
+about traditional medicine. Listen for the two sides —
+where it helps, and where it can harm. The listening
+teaches you to hold both sides of a debate in your head
+at once. Say one point from each side.
+
+**Who Does Not Work Shall Not Eat (ያልሠራ አይብላ).** A
+listening about eating together and working together.
+Hear the proverbs it carries — among them ድር ቢያብር አንበሳ
+ያሥር: when many threads join, they can bind a lion. Say
+what the title's rule means for a house, a class, a village.
+
+**The Lion and the Hyenas (አንበሳና ጅብ).** Nine hyenas
+together take one buffalo. One lion alone takes nine.
+Hear the story of the division — who hunted, who claimed,
+and how the shares were counted. Count with the story:
+how many hunters, how many buffaloes, who ends with what?
+
+[GIF 8606 — the division of the kill: one to the many, nine to the one]
+
+## Sub lesson 9 — A wedding, a champion, love of country
+
+**The Bride and Groom (ሙሽሮቹ).** This listening is a
+description, not a tale: hear how the wedding dress is
+described, word by word — the ጫጉላ ቤት, the wedding house,
+and the ጥለት, the pattern on the bride's ነጠላ. Listen
+twice: once for the picture, once for who organises what —
+the groom's side or the bride's side. Draw the dress from
+the words alone, then compare with a partner's drawing.
+
+**He Was Honoured Because He Honoured (ተከብሮ ያስከበረ).**
+Hear the life of the runner Abebe Bikila. The guide keeps
+his whole biography: born at Jato on 30 Nehase 1925 E.C.;
+at Rome he ran the marathon barefoot and won in 2:15:16.2;
+at Tokyo in 1964 he won again, 2:12:11.2; he died in
+1966 E.C. Listen for the dates and the times — a biography
+is a story whose facts must stay exact. Say them back in
+order.
+
+[Picture 8603 — the barefoot runner crossing the finish line]
+
+**Loving One's Country (ሀገር መውደድ).** Hear a story from
+the war years, and hear how a ፉከራ — a hero-poem — is
+performed inside it: the voice rises, the boast names the
+deed. Listen for what the hero is praised for, and say
+what loving one's country asks of a person in this story.
+
+## Sub lesson 10 — Mountains, a writer, hard lives
+
+**The Wonderful Mountains (ድንቅዬዎቹ ተራራዎች).** The heard
+text itself is not printed for you — only its questions
+are. Hear about high mountains where the walia ibex
+lives, and the cry the listeners remember: "ፍሬን ያዝ! ፍሬን
+ያዝ!" — Hold the fruit! Hold the fruit! Answer from what
+you heard: what makes these mountains wonderful, and who
+calls out, and why?
+
+[Picture 8604 — a walia ibex on the cliff]
+
+**Listening to a Writer's Life — Haddis Alemayehu.** Hear
+the writer's life and works. While you listen, build a
+timeline: his works set in their periods, one line for
+each. A timeline is a story laid straight — when the
+listening ends, read your line back in order.
+
+**The Unsuspecting One Got Ensnared (ያልጠረጠረ ተመነጠረ).**
+A hard story, told plainly: children were moved from
+place to place and made to beg. The story's own words for
+it: their childhood was stolen. Listen with care. Say
+what was taken from the children, and what the story asks
+us to watch for and refuse.
+
+**Two Friends from School (teacher guide — evidence).**
+The guide tells of two who were friends at school. One
+comes home drunk. From there the friends' paths divide —
+Hibist's path and Zemzem's path do not end at the same
+place. Hear both paths to the end before you judge either.
+
+**A Life Told by Its Owner (teacher guide — evidence).**
+The guide reads a first-person life aloud: the narrator
+won a school speaking competition, became vice-president
+of the student association, and writes poems — one poem
+of his begins «የማታ እንጀራ ስጠኝ». Only its first line is
+given; the life is the listening. Say what the narrator
+is proudest of, and how you know.
+
+## Sub lesson 11 — Advice, a bird, and lives to learn from
+
+**The Expert's Advice (የባለሙያ ምክር).** The farmer
+Molalign hears an agricultural expert. While you listen,
+fill a cause-and-effect organiser: the problem on one
+side, its cause in the middle, the expert's counsel at
+the end. Advice is only advice when the cause is named —
+say the chain back whole.
+
+**The Migrant Wane (ስደተኛዋ ዋኔ).** Hear the wane bird
+talk with a herdsman. The wane travels far and returns;
+the herdsman stays with his herd. Listen for what each
+one knows that the other does not. Say one thing the
+bird teaches, and one thing the herdsman teaches.
+
+**Man Is for Work (ሰው ለስራ) (teacher guide — evidence).**
+The guide reads a reflective piece aloud: a person is
+for work — but the heart of it is አውቆ መስራት, knowing
+how to work, not merely working. Listen for the
+difference the piece makes between busy hands and a
+knowing worker. Say the difference in one sentence.
+
+**The Mother of Ethiopia's Mothers (teacher guide —
+evidence).** Hear the biography of Dr Catherine Hamlin:
+the fistula hospitals she built for injured mothers, the
+"Right Livelihood" award, and the name she was given —
+የኢትዮጵያ እናቶች እናት, the mother of Ethiopia's mothers.
+Listen for what she gave, and for how long. Say why the
+name fits her.
+
+[Picture 8608 — a hospital ward where mothers are cared for]
+
+**A Room, a Bed, a Thought (teacher guide — evidence).**
+The guide reads the opening of a short story aloud: a
+narrator lying on his bed in a one-room rented house,
+asking himself «ረሃቡ ነው ወይስ ሀሳብ ያደክማል» — is it
+hunger that tires me, or thought? Hear only the opening;
+the rest is yours to wonder about. Say what the question
+tells you about the narrator before anything happens.
+
+## Sub lesson 12 — Stories the guides keep whole
+
+**The Reading Children (የንባብ ልጆች) (teacher guide —
+evidence).** A folktale of four kings. The Western king
+raises a poor woman's son beside his own, the two boys
+the same age. One day the boys slip away to hunt — and
+are lost in the deep forest. The guide stops mid-tale
+and asks: what happens next? Guess, and say why — then
+hear the rest. (The tale is Alemayehu Wali Eshte's,
+2012, adapted in the guide.)
+
+[Picture 8605 — two boys lost in the deep forest]
+
+**Environmental Cleanliness (የአካባቢ ንጽህና) (teacher
+guide — evidence).** Hear why the ground around a home,
+a school, a town must be kept clean — and what dirt
+brings with it. Say the listening's chain: dirt, then
+what, then what?
+
+**Yoqa Be'e — the Dawro New Year (ዮክ ቤኤ) (teacher guide
+— evidence).** Hear a New Year kept the Dawro way: on
+New Year's Eve the household and the animals eat their
+fill, and after, the youth go singing from house to
+house. Listen for who eats, who sings, and in what order
+the night runs.
+
+[Picture 8607 — the New Year feast: everyone eats their fill]
+
+**The Taxi and the Crossing (teacher guide — evidence).**
+Menen, Saada and Asmayehu ride in a taxi. The taxi
+swerves — a pedestrian is crossing at a place with no
+crossing. Hear how the friends end the day: with a pledge
+to carry traffic-safety awareness from their family, to
+their school, to their community. Say the pledge's three
+steps in order.
+
+**The Cultural Dress (የሀገር ባህል ቀሚስ) (teacher guide —
+evidence).** Hear three dresses told apart by their own
+names: the ሽብሽባ ቀሚስ, the ጉርድ ቀሚስ and the ጉንፋ ቀሚስ.
+Listen twice — once for the names, once for what makes
+each one itself. Say which is which, from the words alone.
+
+**City Farming (teacher guide — evidence).** Hear about
+young people in Addis Ababa who began as day labourers
+and took up የከተማ ግብርና — city farming. They save their
+surplus in a bank, and they teach their neighbours. Say
+the story's steps: work, grow, save, teach.
+
 ## Say it to your companion
 
 Choose one story you heard. Retell it to your companion in

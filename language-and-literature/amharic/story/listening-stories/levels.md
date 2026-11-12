@@ -23,4 +23,20 @@ Sub lesson 5 questions from the type files. Pass mark: say why Abel's teeth hurt
 
 ## Sub lesson 6 — Green areas and work shared at home
 Sub lesson 6 questions from the type files. Pass mark: name the kinds of green area and one benefit of each; and say who should do housework — everyone, by ability, not by gender.
+## Sub lesson 7 — Friends true and false
+Sub lesson 7 questions from the type files. Pass mark: retell The Loyal Friend and answer its justice question in your own words; say what an oath binds; and say what a mirror-friend shows you.
 
+## Sub lesson 8 — Ceremony, medicine and shared work
+Sub lesson 8 questions from the type files. Pass mark: retell the betrothal ceremony in its steps; give one point from each side of the medicine debate; and count the lion and the hyenas' division exactly.
+
+## Sub lesson 9 — A wedding, a champion, love of country
+Sub lesson 9 questions from the type files. Pass mark: describe the wedding dress from the words alone, and say Bikila's biography facts — birth, Rome, Tokyo — in order with their times.
+
+## Sub lesson 10 — Mountains, a writer, hard lives
+Sub lesson 10 questions from the type files. Pass mark: answer the mountains questions from hearing alone; lay a writer's works on a timeline by period; and say what was stolen from the children in The Unsuspecting One.
+
+## Sub lesson 11 — Advice, a bird, and lives to learn from
+Sub lesson 11 questions from the type files. Pass mark: fill the cause-and-effect chain from The Expert's Advice, and say — from the guide listenings — the difference between busy hands and knowing how to work.
+
+## Sub lesson 12 — Stories the guides keep whole
+Sub lesson 12 questions from the type files. Pass mark: stop at the folktale's mid-tale point and guess with a reason; name the three cultural dresses apart; and say the city farmers' steps — work, grow, save, teach.

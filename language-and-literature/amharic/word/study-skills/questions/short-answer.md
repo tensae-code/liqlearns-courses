@@ -13,3 +13,12 @@ Answer in a few words, or one sentence.
 
 **4. (Sub lesson 4)** What do shaded boxes in the crossword take?
 **Answer: no fidel — they stay empty (rule 3).**
+
+**5. (Sub lesson 5)** From the teff table: how many days does ንጉሥ (Negus) take to mature, and what is ዱከም (Dukem)'s yield on a research station?
+**Answer: Negus — 105 days. Dukem — 24–34 quintals per hectare on the research station.**
+
+**6. (Sub lesson 6)** What must be prepared BEFORE the listening starts?
+**Answer: notebook and pen.**
+
+**7. (Sub lesson 7)** In the farmer reading's KWL chart, the essay contrasts which two farmers?
+**Answer: the diligent farmer (ምስጉን አርሶአደር) and the lazy farmer (ሰነፍ አርሶአደር).**

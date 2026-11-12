@@ -19,3 +19,18 @@ Pass mark: find the word answering when, where or how (ቶሎ, ሁልጊዜ, ት
 
 ## Sub lesson 6 — Preposition — መስተዋድድ
 Pass mark: find the word standing before a noun showing time, place, instrument, reason or purpose (ስለ, ወደ, በ, ከ, እንደ, ለ).
+
+## Sub lesson 7 — Common and proper nouns
+Pass mark: sort ደም, መምህር, ዛፍ (ወል ስም) against ጣና, ተከዜ, ጎንደር, ማህሌት (የተጸውኦ ስም) and say the test — any one of a kind, or one named one.
+
+## Sub lesson 8 — Collective nouns — ጥቅል ስም
+Pass mark: pick መንጋ out of a word list, then name ሕዝብ, ደን, እጽዋት, ከተማ as collective and say what group lives inside each word.
+
+## Sub lesson 9 — Pronouns and their persons — ተውላጠስም, መደብ
+Pass mark: give all three persons — እኔ / እኛ; አንተ, አንቺ, እናንተ; እሱ, እሷ, እነሱ / እነርሱ — and classify a pronoun in a sentence by person, gender and number.
+
+## Sub lesson 10 — Pointing pronouns and question pronouns
+Pass mark: choose ይህ / ይቺ / እነዚህ for near and ያ / ያቺ / እነዚያ for far, and match each መጠይቅ word (ማን, ምን, ወዴት, መቼ, እንዴት, ለምን) to what it asks about.
+
+## Sub lesson 11 — Countable and uncountable nouns
+Pass mark: sort ሰው, እንስሳ, ቤት, ተማሪ, በሬ (የሚቆጠሩ) against ስኳር, ዘይት, አሸዋ, ዉኃ, ቡና, ብርሃን, ጨለማ, ኃይል (የማይቆጠሩ), using the number-stating test.

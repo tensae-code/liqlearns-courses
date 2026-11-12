@@ -21,3 +21,19 @@ a) እንደ  b) ሊ  c) በላ
 **5. (Sub lesson 3)** ቤታችን means —
 a) my house  b) your house  c) our house
 **Answer: c) our house** — the piece -አችን says "ours".
+
+**6. (Sub lesson 4)** ኢትዮጵያ + -አዊ builds —
+a) ኢትዮጵያዊ  b) ኢትዮጵያማ  c) ኢትዮጵያተኛ
+**Answer: a) ኢትዮጵያዊ** — the -አዊ family: of / from a place.
+
+**7. (Sub lesson 4)** In ሕመምተኛ (the patient), the adjective-making suffix is —
+a) -አዊ  b) -ተኛ  c) -ዎች
+**Answer: b) -ተኛ** — ሕመም + -ተኛ: the one with the illness.
+
+**8. (Sub lesson 5)** Which form belongs to the ተ- family of ቆረጠ?
+a) አሰቆረጠ  b) ተቆረጠ  c) አቆራረጠ
+**Answer: b) ተቆረጠ** — the ተ- family; አሰቆረጠ is the አስ-/አ- family.
+
+**9. (Sub lesson 5)** The root standing inside ተቆራረጠ is —
+a) ቆረጠ  b) ተቆ  c) ራረጠ
+**Answer: a) ቆረጠ** — however big the grown form, the root stands inside it.

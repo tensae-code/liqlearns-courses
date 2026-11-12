@@ -29,3 +29,23 @@ a) a name  b) when, where and how an action is done  c) a joining
 **7. (Sub lesson 6)** A preposition (መስተዋድድ) stands —
 a) at the sentence's end doing the action  b) before a noun  c) alone with no meaning
 **Answer: b) before a noun** — ስለ, ወደ, በ, ከ, እንደ, ለ.
+
+**8. (Sub lesson 7)** ጎንደር is a የተጸውኦ ስም (proper noun) because it —
+a) names any town  b) names one named town  c) names a group
+**Answer: b) names one named town** — like ጣና, ተከዜ, ማህሌት.
+
+**9. (Sub lesson 8)** Which word is a ጥቅል ስም (collective noun)?
+a) መንጋ  b) በሬ  c) ዛፍ
+**Answer: a) መንጋ** — one word, a whole herd inside it.
+
+**10. (Sub lesson 9)** እናንተ stands in which person (መደብ)?
+a) first  b) second  c) third
+**Answer: b) second** — "you all": the ones spoken to.
+
+**11. (Sub lesson 10)** To ask about a reason, the መጠይቅ word is —
+a) መቼ  b) እንዴት  c) ለምን
+**Answer: c) ለምን** — why? መቼ asks time; እንዴት asks manner.
+
+**12. (Sub lesson 11)** ዉኃ (water) is —
+a) የሚቆጠሩ — countable  b) የማይቆጠሩ — uncountable  c) a verb
+**Answer: b) የማይቆጠሩ** — with ስኳር, ዘይት, አሸዋ: no number is stated.

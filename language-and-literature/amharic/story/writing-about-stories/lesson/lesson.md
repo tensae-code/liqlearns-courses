@@ -83,12 +83,109 @@ The written questions are always the same three: what is the
 **beginning**, what is the **middle**, what is the **end**? Answer
 those, and any jumbled story can be set right.
 
+## Sub lesson 4 — The five parts, named again higher up
+
+You met the story's five parts in Sub lesson 1. In the higher
+books the same five parts are named again — and two of the
+names are sharpened. Learn the higher wording; it is the
+wording you will meet from here on:
+
+[Picture 8910 — the five parts in the higher books' wording]
+
+- **መቼት** (mechet) — the **setting**: the time and the place.
+- **ገፀባሕርያት** (getsebahriyat) — the **characters**.
+- **ችግሮች** (chigiroch) — the **problems**: *the problem that
+  pushes the characters to act*. (Named in the plural now —
+  a story's trouble is rarely one single thing.)
+- **ድርጊት** (dirgit) — the **action taken** about the problem.
+- **ልቀት/ውጤት** (liqet/wutet) — the **resolution/outcome**:
+  *when the problem is solved* — ልቀት, the release, stands
+  beside ውጤት, the outcome.
+
+The work that goes with the naming: take a story and **map it
+onto the frame** in an organiser, part by part. Here is the
+mapping, on the tale of ሚዛን, "The Scale": Senait, who keeps
+cattle, and Zebiba, who bakes bread, exchange a kilo of butter
+for a kilo of bread every week (setting, characters). Zebiba
+accuses Senait of cheating her by the scale (the problem).
+Senait answers: she has a scale but **no weight-stone**, and
+measures her butter by Zebiba's own bread — so if the butter
+has shrunk, the bread shrank first (the action). Zebiba
+repents and apologises, and their friendship is restored (the
+resolution). Five parts, one tale, nothing left over.
+
+## Sub lesson 5 — The literary elements, grown formal
+
+Now the shape grows its formal names. The books call them
+**የሥነጽሑፍ አላባውያን** — the **literary elements** — and define
+each one. You know most of them already; watch how the wording
+has grown up:
+
+[Picture 8911 — the five literary elements]
+
+- **ገፀባሕርያት** (getsebahriyat) — **characters**: the persons
+  in a fiction or a drama text.
+- **መቼት** (mechet) — **setting**: the place and the time where
+  the story happens.
+- **ግጭት** (gichit) — **conflict**: the clash the characters
+  create — with other characters, or with natural conditions.
+  This is what ችግር, the problem, grows into: a problem is a
+  trouble; a conflict is a trouble *pushing against someone*.
+- **ጭብጥ** (chibt) — **theme**: the essential matter, the
+  message the story is to convey.
+- **ትልም/ሴራ** (tilm/sera) — **plot**: the **cause-and-effect
+  connection** in the fiction or drama — each event happening
+  *because* of the one before it. (The plot carries two names:
+  ትልም and ሴራ.)
+
+[GIF 8912 — plot: each event causes the next]
+
+The elements are a working tool, not a list to admire: after
+reading, you fill an **elements organiser** for the text —
+characters, setting, conflict, theme, plot — and the story's
+whole build stands visible on one chart.
+
+## Sub lesson 6 — Short fiction: what makes a short story
+
+A whole kind of story now gets its own name: **አጭር ልቦለድ**
+(achir liboled) — **short fiction**, the short story.
+
+You meet it first **by ear**: the teacher reads a short-story
+passage aloud — a narrator lying awake on his bed in the one
+room his family rents, weighing hunger against thought itself:
+*"ረሃቡ ነው ወይስ ሀሳብ ያደክማል"* — "is it hunger, or does thought
+tire one more?" One person, one small place, one knot of
+thought — and a whole story inside it.
+
+[Picture 8913 — a short story's world: one room, one thinker]
+
+What makes a short story, then:
+
+- It is a **complete fiction in a small compass** — small
+  enough to hear or read at one sitting, whole.
+- It carries the **same literary elements** as any story —
+  characters, setting, conflict, theme, plot — fitted into
+  that small compass.
+- Its school work is set and plain: **state what short fiction
+  is**; **list its components**; **listen to one and tell a
+  similar story** of your own.
+- Working on one, you **list its characters (ገፀባሕርያት) with
+  their roles** in the story.
+- And you **summarise it in at most one page** — the short
+  story's own size teaches the summary's size.
+- In your own short writing, you join the parts with
+  **transitional words** — **መሸጋገሪያ ቃላት** — the words that
+  carry a reader from one part to the next.
+
 ## Say it to your companion
 
 Tell your companion a story you know, walking its shape out loud:
 setting, characters, problem, actions, outcome. Your companion
 holds up a finger for each part they hear. Five fingers — the
-whole shape. Then swap.
+whole shape. Then swap. And for a bigger story, walk it again
+in the formal names: characters, setting, conflict, theme,
+plot — and let your companion check your organiser against
+your telling.
 
 ## Do It Yourself
 
@@ -96,3 +193,6 @@ whole shape. Then swap.
 2. Write the story's shape in Amharic and English: መቼት, ገፀባሕርያት, ችግር, ድርጊት, ውጤት — and for a bigger story, add ሴራ and ጭብጥ.
 3. Tell a story and stop before the end. Write two different endings. Read both and choose the one that keeps the story's shape.
 4. Write the six farming-year steps on six slips, mix them, and put them back in order from memory.
+5. Take a tale you know and map it onto the five-part frame in the higher wording — መቼት, ገፀባሕርያት, ችግሮች, ድርጊት, ልቀት/ውጤት — one box each, a line of the tale in each box.
+6. For the same tale, fill a literary-elements organiser: characters, setting, ግጭት (say what pushes against whom), ጭብጥ in one sentence, and the plot as a chain of *because* — each event because of the one before.
+7. Read or hear one short story (አጭር ልቦለድ). List its characters with their roles; then write its summary in at most one page, joining the parts with transitional words.

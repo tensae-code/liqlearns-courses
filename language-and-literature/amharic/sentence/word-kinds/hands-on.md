@@ -13,3 +13,12 @@ Write ሽንኩርት on one card and ድንች on another. Tie them with a stri
 
 ## Kind hunt at home
 Walk through your home naming what you see. For each thing, say a noun (its name), an adjective (what it is like), then act a verb it can do and say it. Write the three words in a row: ስም — ቅጽል — ግስ.
+
+## Noun-family sort
+Write these words on small papers: መምህር, ጣና, ዛፍ, ማህሌት, መንጋ, ሕዝብ, ተማሪ, ስኳር, ቤት, ዉኃ. Make three piles — ወል ስም, የተጸውኦ ስም, ጥቅል ስም — and put each paper on its pile. Then take the ወል ስም pile and sort it once more: የሚቆጠሩ on the left, የማይቆጠሩ on the right. (ስኳር and ዉኃ travel to the right pile.)
+
+## Point and say the person
+Stand with two partners. Point at yourself and say እኔ. Point at the partner you are talking to and say አንተ or አንቺ — the right one for them. Point at the third person, far off, and say እሱ or እሷ. Then all three of you together: እኛ. Keep pointing and saying until the persons come without thinking.
+
+## Ask me six questions
+Take the six question words — ማን, ምን, ወዴት, መቼ, እንዴት, ለምን — on six cards. Draw a card, ask your partner a real question with that word, and listen: does the answer give a person, a thing, a place, a time, a manner or a reason? If it does, the word did its job.

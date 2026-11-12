@@ -21,3 +21,15 @@ Now the house. **ቤት**.
 **ቤታችን** — our house.
 
 One stem. Little pieces. Whose? The piece tells you.
+
+Pieces can build describing words, too.
+
+**ኢትዮጵያ** plus **-አዊ**: **ኢትዮጵያዊ**.
+**ድንጋይ** plus **-አማ**: **ድንጋይአማ** — full of stones.
+**ሆድ** plus **-ኣም**: **ሆዳም**.
+**ሕመም** plus **-ተኛ**: **ሕመምተኛ** — the one with the illness.
+
+And a verb root grows a family. **ሥርወቃል**.
+**ሰፋ** grows: **አሰፋ, ተሰፋ, ተስፋፋ, አስፋፋ**.
+**ቆረጠ** grows: **ተቆረጠ, አሰቆረጠ, አቆራረጠ, ተቆራረጠ**.
+However big the word, the root stands inside it. Find the root.

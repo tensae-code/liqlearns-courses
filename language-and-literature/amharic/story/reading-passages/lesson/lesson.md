@@ -119,6 +119,211 @@ compound: ፍኖተ-ሰላም joined into ፍኖተሰላም.
 
 [Picture 8321 — the path-of-peace sign]
 
+## Sub lesson 6 — Descriptive passages: mountains and waterfalls
+
+**Wehni Amba (ወህኒ አምባ).** Read the description slowly:
+a bare, steep amba, its top flat, its sides falling away.
+The passage paints with comparisons — note each simile
+as you read, and say what it compares the amba to. A
+descriptive passage succeeds when the reader can see the
+place standing. Close the passage and describe Wehni
+Amba to your companion from the words alone.
+
+[Picture 8620 — Wehni Amba, the bare steep flat-topped mountain]
+
+**Life on an Amba (የአምባ ላይ ኑሮ).** Read how people live
+on top of an amba: the climbing, the water, the fields,
+the wind. Pull the passage's main idea out in one
+sentence — then list three details the passage gives
+that prove it.
+
+**As I Saw Tis Abay (ጢስ ዓባይን እንዳየሁት).** Read the
+visit to the great falls: the Fasil Bridge, the hanging
+footbridge, and the spray that rises like smoke — ጢስ —
+which is the name's own origin: Smoke of the Nile. Read
+the name's story inside the passage, and retell the
+visit in its order: the road, the bridge, the falls,
+the spray.
+
+**A Visit (ጉብኝት).** The "Know Your Country" club visits
+the culture and research institute named after Dr Haddis
+Alemayehu. Read what the club goes to learn, and what it
+finds. A visit passage is a descriptive passage with
+feet: it moves from place to place. Name the places in
+the order the visit names them.
+
+## Sub lesson 7 — Passages with tables: read the numbers
+
+**Headache (የራስምታት), with its data table.** Read the
+passage on headaches — migraine among them, and its
+triggers. Then turn to its table. This passage's rule:
+every question is answered FROM the table, not from
+memory. Practise: ask a partner a question whose answer
+stands in a table cell, and let them point to the cell
+before they speak.
+
+**Climate of the Amhara Region (የአማራ ክልል አየር ንብረት),
+with its three tables.** Read the region's climate by
+its zones and their shares: ቆላ 6%, ወይና ደጋ 60%, ደጋ
+31%, ውርጭ 3% — and its temperatures, from the lowest,
+12.4 °C, to the highest, 27.8 °C. Read the three tables
+the way you read sentences: across, then down. Say which
+zone covers most of the region, and prove it from the
+table.
+
+[Picture 8621 — the climate zones and the shares the passage gives]
+
+**Improved Seed (ምርጥ ዘር).** Read about improved seed,
+then work its teff variety table: ማኛ, ቁንጮ, ዱከም, ኬና,
+እፁብ, ዲማ, ኮራ, ዳግም, ንጉሥ. The passage's questions are
+answered from the table. A table is a passage folded
+small — unfold it row by row, and say one full sentence
+each row teaches.
+
+## Sub lesson 8 — Research-style readings: how a report is made
+
+**The First Driver (የመጀመሪያው ሾፌር).** Eskinder must
+answer a hard question: who was Ethiopia's first driver?
+Read how he researches it in the library — newspapers,
+magazines, books — and how he notes each finding with
+its author's name and its publication year, then writes
+the whole up as an essay. His finding: Menelik was
+Ethiopia's first driver. The reading's lesson for you is
+the method inside it: a claim, its sources named, its
+years kept.
+
+[Picture 8622 — researching in the library: newspapers, books, note cards]
+
+**Student Mulunesh's Report.** Read the report Mulunesh
+compiled — from television, newspapers, magazines, books
+and websites — on energy: which sources renew themselves
+and which do not. Read the report as a reader, not a
+copier: name her sources in order, then sort her energy
+kinds into the passage's two families — renewable and
+non-renewable.
+
+**Emperor Fasilides' Palace (የአፄ ፋሲለደስ ቤተመንግሥት).**
+Read this palace passage the KWL way: what you Know,
+what you Want to know, what you Learned. Its numbers
+stand ready: 32 metres high, three floors, 132 steps,
+20 rooms. After reading, close the passage and give its
+four numbers back. A passage with numbers is understood
+when its numbers can be carried away.
+
+## Sub lesson 9 — Lives in prose: biography readings
+
+Read each life the same way: first for the life, then
+for its dates and deeds — a biography passage is
+understood when its facts can be retold in order.
+
+**Artist Shileshi Demissie (አርቲስት ስለሺ ደምሴ).** Read
+the artist's life and work, and say what kind of artist
+the passage shows, from its own evidence.
+
+**The Award Winner — Wangari Maathai (ተሸላሚዋ).** Read
+how Wangari Maathai's Green Belt movement planted trees
+— over 30 million of them — and how she received the
+Nobel Prize in 1996 E.C. Say the passage's chain: trees,
+movement, prize.
+
+[Picture 8623 — women planting tree seedlings in a row]
+
+**Success (ስኬት) — Tirunesh Dibaba.** Read the runner's
+life: at Beijing in 2008 she won double gold — the first
+woman ever to do it. Retell her passage by its races.
+
+**Dr Woldemeskel Kostre.** Read the coach's life — the
+man behind the runners. Say what a coach's work is, from
+the passage's own account.
+
+**President Sahle-Work Zewde (ፕሬዝዳንት ሣህለወርቅ ዘውዴ).**
+Read the president's life as the passage lays it out,
+and give its main steps in order.
+
+**Berhanu Zerihun (ብርሃኑ ዘርይሁን).** Read the writer's
+life: eleven novels and three plays. A writer's
+biography is counted in works — name the count, and one
+thing more the passage tells.
+
+**Emahoy Tsegue-Maryam Guebrou (እማሆይ ፅጌማርያም ገብሩ).**
+Read the composer's life: over one hundred piano
+compositions, gathered as ኢትዮጲክስ. Say what her music
+carries, from the passage.
+
+**Afewerk Tekle (አፈወርቅ ተክሌ).** Read the artist's
+life: more than 97 international awards. Say what the
+passage counts, and what it praises beyond counting.
+
+**Empress Taytu Betul (እቴጌ ጣይቱ ብጡል).** Read the
+empress's life: the Wuchale Treaty, Adwa, and the
+founding of Addis Ababa. Retell it in time order — a
+history life is a history passage wearing one name.
+
+*The writing of a life — its method — is taught in the
+Writing lessons; here each life is met as reading only.*
+
+## Sub lesson 10 — Argue and advise: passages that take a side
+
+**Let's Not Be a Rubbish Dump (ቆሻሻ መጣያ አንሁን).** Read
+the experts' counsel on guarding the mind — five
+counsels the passage gives. Read them as a list, then
+argue with them fairly: which counsel is hardest to
+keep, and why? An argue-passage is understood when you
+can state its side — and the strongest point against it.
+
+[Picture 8624 — a 'garbage' word bouncing off a shield of calm]
+
+**"Littering Is Forbidden!" (ቆሻሻ መጣል ክልክል ነው!).**
+Read how this passage widens the word rubbish: hate
+speech is rubbish thoughts thrown at people. It carries
+the proverb ለነገረኛ ሰው ጀርባህን ስጠው — to a quarrelsome
+person, give your back. Say what the passage forbids
+throwing, in both its senses.
+
+**Social Media (ማኅበራዊ ሚዲያ).** Read the passage's
+rule for the flood of posts: separate the true and the
+useful before believing. Practise on three claims from
+the passage: mark each — true, useful, both, neither —
+as the passage teaches.
+
+**Let Hate Stop (ጥላቻ ይቁም).** Read this passage's case
+against hatred, in its own order of reasons. Pull its
+main idea out in one sentence, then name the reason you
+find strongest, and say why — from the passage.
+
+## Sub lesson 11 — Explain the world: causes in prose
+
+**The Shrinking of the Natural Forest (የተፈጥሮ ደን
+መመናመን).** Read the Wof Washa protected forest's
+numbers: 92,200 hectares in 1994 E.C.; 8,290 in 2002
+E.C.; 8,222 in 2005 E.C. An explain-passage is
+understood when its cause is named: say what shrank the
+forest, from the passage — and carry its three numbers
+away in order.
+
+[Picture 8625 — the forest shrinking: the passage's own figures]
+
+**Climate Change (የአየር ንብረት ለውጥ).** Read the
+explanation whole: greenhouse gases, the ozone layer
+19–48 kilometres up, and the carbon cycle turning.
+Draw the passage as a circle of arrows from its own
+account — what rises, what traps, what warms.
+
+[GIF 8626 — planting a seedling: dig, place, cover, water]
+
+**Causes of Child Labour Exploitation (የሕፃናት ጉልበት
+ብዝበዛ መንስኤዎች).** Read the passage's care first: it
+separates children's work from exploitation. Then its
+three causes — ድህነት, poverty; parents' distorted
+attitude; and illegal people-movers. Name all three
+from the passage, in its order.
+
+**Illegal Human Trafficking (ሕገወጥ የሰዎች ዝውውር).** Read
+the definition the passage takes from the Palermo
+Protocol, and its warning: refuse brokers' promises.
+Say the definition in your own words, and one promise
+the passage teaches you to refuse.
+
 ## Say it to your companion
 
 Take one passage. Say its main idea in ONE sentence. Your

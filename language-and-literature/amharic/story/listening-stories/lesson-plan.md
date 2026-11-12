@@ -28,6 +28,12 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 4. **Clothes, seasons and a park diary** — what clothes are made from; Ethiopia's four seasons and their months; and Marta's diary of her trip to Hamle 19 Park, the Green Paradise.
 5. **Teeth, neighbours and a mother** — Abel, whose teeth hurt because he did not brush; the model neighbours of Lideta; and the Martyr Mother — told gently, as a summary only.
 6. **Green areas and work shared at home** — what a green area is and why it matters; siblings who share the housework without quarrelling; and a brother who learns that housework is not women's work.
+7. **Friends true and false** — the loyal friend before the king; the goat and the leopard's oath; Abdu and Seada, the mirror friend; and the town nobody cleans.
+8. **Ceremony, medicine and shared work** — the Qoti betrothal ceremony in its steps; Seyid and Siraj debate traditional medicine; who does not work shall not eat; and the lion and the hyenas divide the kill.
+9. **A wedding, a champion, love of country** — the bride and groom described word by word; Abebe Bikila's biography with its dates and times exact; and a war-years story with its hero-poem performed.
+10. **Mountains, a writer, hard lives** — the wonderful mountains and the walia ibex; Haddis Alemayehu's life laid on a timeline; children made to beg; and two guide stories — school friends divided, and a life told by its owner.
+11. **Advice, a bird, and lives to learn from** — Molalign and the expert's cause-and-effect counsel; the wane bird and the herdsman; and three guide listenings: Man Is for Work, Dr Catherine Hamlin, and a short story's opening question.
+12. **Stories the guides keep whole** — the folktale of the four kings and the boys lost hunting; environmental cleanliness; the Dawro New Year; Saada's taxi and the crossing pledge; the three cultural dresses; and the city farmers of Addis Ababa.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -49,6 +55,15 @@ the gate pool.
 7. Say why Abel's teeth hurt and what the doctor ordered: brush morning and evening.
 8. Say what good neighbours do — visit the sick, help the needy, celebrate together.
 9. Say who shares housework: everyone in the house, by ability — not girls only.
+10. Retell The Loyal Friend and say what its questions ask about justice.
+11. Say what an oath (ቃለመሐላ) binds, from The Goat and the Leopard.
+12. Retell the Qoti betrothal ceremony in its steps, in order.
+13. Hold both sides of the traditional-medicine debate — one point each side.
+14. Count the lion and the hyenas' division: nine hunters, ten buffaloes, who ends with what.
+15. Say Abebe Bikila's biography facts in order — born at Jato, Rome barefoot, Tokyo, with the times.
+16. Build a timeline of a writer's works by period while listening.
+17. Fill a cause-and-effect organiser from The Expert's Advice.
+18. Stop mid-tale at the folktale's prediction point, guess, and say why.
 
 ## What you need
 Ears and a quiet corner. Paper and a pencil for the Do It Yourself retelling notes. The pictures above.
@@ -87,6 +102,34 @@ Ears and a quiet corner. Paper and a pencil for the Do It Yourself retelling not
    - ADD IMAGE [Picture 8315]: a picture of a green area — park
      trees, grass and a riverbank — the student names the kinds
      of green area they can see.
+   - ADD IMAGE [Picture 8600]: a picture of a man kneeling
+     and pleading before a king on his seat — the student says
+     what the pleader asks for before The Loyal Friend is heard.
+   - ADD IMAGE [Picture 8601]: a picture of a goat and a
+     spotted leopard travelling the same road — the student
+     says what each animal might swear to the other.
+   - ADD IMAGE [Picture 8602]: a picture of a boy washing his
+     hands and face at a basin while his friend smiles — the
+     student says what a mirror-friend shows you.
+   - ADD IMAGE [Picture 8603]: a picture of a barefoot runner
+     crossing a finish line — the student names the runner
+     and the two cities of his wins before the biography.
+   - ADD IMAGE [Picture 8604]: a picture of a walia ibex
+     standing on a high cliff at sunrise — the student says
+     what animal it is and where it lives.
+   - ADD GIF [GIF 8606]: the division of the kill — ten
+     buffalo counters move, one to the nine hyenas' side and
+     nine to the one lion's side — the student counts along
+     and says whether the division surprises them.
+   - ADD IMAGE [Picture 8605]: a picture of two boys small
+     among deep-forest trees — the student guesses where the
+     folktale's boys are before the mid-tale stop.
+   - ADD IMAGE [Picture 8607]: a picture of a family around
+     a feast platter, everyone eating their fill — the
+     student says whose feast it might be.
+   - ADD IMAGE [Picture 8608]: a picture of a hospital ward
+     with a red cross, beds and a nurse — the student says
+     whose work this ward might be before the biography.
    - ADD AUDIO for every story: the story read aloud at child
      pace, with a pause at the prediction question — the student
      listens, guesses at the pause, and retells after it.
@@ -113,6 +156,15 @@ Ears and a quiet corner. Paper and a pencil for the Do It Yourself retelling not
 - IMAGE [Picture 8315] — a green area: park, trees, riverbank → the student names the kinds of green area.
 - AUDIO — every story read aloud, pausing at its prediction question → the student hears, guesses, retells.
 - VIDEO — the video-script filmed (made later): the house riddle as a guessing game → the student guesses along.
+- IMAGE [Picture 8600] — a man pleading before the king → the student says what he asks for.
+- IMAGE [Picture 8601] — the goat and the leopard on one road → the student says what each might swear.
+- IMAGE [Picture 8602] — washing at the basin, a friend smiling → the student says what a mirror-friend shows.
+- IMAGE [Picture 8603] — the barefoot runner at the finish line → the student names the runner and his two winning cities.
+- IMAGE [Picture 8604] — a walia ibex on the cliff → the student names the animal and its home.
+- GIF [GIF 8606] — the kill divided: one to the hyenas, nine to the lion → the student counts and judges the division.
+- IMAGE [Picture 8605] — two boys lost in the deep forest → the student guesses where the folktale's boys are.
+- IMAGE [Picture 8607] — the New Year feast platter → the student says whose feast it might be.
+- IMAGE [Picture 8608] — the hospital ward → the student says whose work the ward might be.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the
 plan is the build sheet, so nothing the lesson needs gets forgotten.
@@ -135,3 +187,4 @@ on teacher-guide evidence — the student books print only their
 titles, pictures and questions — and sources.md says so on its
 acceptance line. A teacher sending this lesson sends the lesson and
 its question list as they are — choosing, not remaking.
+**Growth note (2026-11-12):** sub lessons 7–12 grow this lesson with the older grades' listening. Sub lessons 7–11 stand on the student books' own listening lessons — heard texts, descriptions, biographies and debates the pupils themselves are set to hear — with three guide biographies and stories among them labelled (teacher guide — evidence) in the lesson and in sources.md. Sub lesson 12 stands on teacher-guide evidence wholly, and says so. The first six sub lessons are unchanged.

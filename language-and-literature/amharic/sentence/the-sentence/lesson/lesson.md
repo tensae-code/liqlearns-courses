@@ -76,9 +76,89 @@ Each simple sentence could stand alone. The conjunction ties them into one:
 
 In each one, more than one action lives inside a single sentence. That is the mark of ውስብስብ: two or more verbs under one roof.
 
+## Sub lesson 5 — Subject and predicate: ባለቤት and ማሰሪያ አንቀጽ
+
+Now take a sentence apart. A sentence needs **at least two structures**:
+
+- The **subject — ባለቤት** — stands at the **start**: who or what the sentence is about.
+- The **predicate — ማሰሪያ አንቀጽ** — stands at the **end**: what is said about the subject.
+
+**ከድር ከትምህርትቤት መጣ።** — Kedir came from school. ከድር is the ባለቤት — the sentence is about Kedir. መጣ is the ማሰሪያ አንቀጽ — it says what Kedir did, and it closes the sentence.
+
+[Picture 8720 — subject and predicate]
+
+Each side can carry its own **attachments** — extra words that travel with it. Watch this sentence open into its two sides:
+
+**ትልቁ ልጅ እየሮጠ መጣ።** — The big child came running.
+- Subject side: ትልቁ (attachment — *big*) + ልጅ (subject — *child*)
+- Predicate side: እየሮጠ (attachment — *running*) + መጣ (predicate — *came*)
+
+To take any sentence apart, ask two questions: who or what is it about? — that is the ባለቤት, at the start. What is said about them? — that is the ማሰሪያ አንቀጽ, at the end.
+
+## Sub lesson 6 — The four things a sentence can do
+
+Sentences divide **by function** — by the work they do — into **four**:
+
+[Picture 8721 — the four sentence functions]
+
+1. **Declarative — ሀተታዊ.** It *states*. **ልጁ ብዙ ሥራ ሠራ።** — The child did much work.
+2. **Interrogative — ጥያቄያዊ.** It *asks*. **ከሥራ ለምን ቀረሽ?** — Why were you absent from work?
+3. **Imperative — ትዕዛዛዊ.** It *orders*. **የቤት ሥራችሁን ሥሩ።** — Do your house work.
+4. **Exclamatory — አጋናኝ.** It *exclaims* — a strong feeling bursts out. **ነፍሴ ምንጥቅ! አለች።** — "My soul, how tight!" she said.
+
+You already know their end marks from Sub lesson 2: the stating sentence closes with ።, the asking one with ?, the ordering and exclaiming ones often with !. Now you can name the work each sentence is doing, not only its mark.
+
+## Sub lesson 7 — Affirmative and negative sentences
+
+A sentence can say a thing stands — or break it.
+
+[Picture 8722 — affirmative and negative]
+
+**Affirmative — አዎንታዊ ዓረፍተነገር.** It states the subject's action **without breaking it**, and it carries **no special marker**. **ልጁ መጣ።** — The child came. Nothing is added; the action simply stands.
+
+**Negative — አሉታዊ ዓረፍተነገር.** It **breaks or denies** an idea that is already known — and its verb carries the affixes **አል- … -ም** wrapped around it: **ልጁ አልመጣም።** — The child did not come. See አል- before the verb and -ም after it: the two hands of the negative, holding the verb between them.
+
+When you sort sentences, these two stand beside the asking kind (መጠይቃዊ) in one table: does the sentence affirm, deny, or ask?
+
+## Sub lesson 8 — The being-verb and its complement
+
+Some sentences have no action at all — they say what a thing **is**.
+
+**እነዚህ ዋልያዎች ናቸው።** — These are walia ibexes.
+
+Take it apart:
+
+[Picture 8723 — the being-verb and its complement]
+
+- **ናቸው** — the **verb of being (መሆን ግስ)**: *are*. It does not show an action; it shows being.
+- **ዋልያዎች** — its **complement (ስም መሙያ)**: the noun that completes the being-verb — *what* they are.
+- **እነዚህ** — the **pointer**: it stands before the complement noun and points at it — *these*.
+
+Word order matters: the scrambled ናቸው እነዚህ በሬዎች says nothing clean; put the pointer first, the complement next, the being-verb last — **እነዚህ በሬዎች ናቸው።** — These are oxen. That is the shape of an "is / are" sentence: pointer + noun complement + መሆን ግስ.
+
+## Sub lesson 9 — Simple and complex sentences, grown
+
+Sub lesson 4 gave you the first mark of a complex sentence: **two or more verbs**. Now the fuller picture.
+
+**Simple — ነጠላ ዓረፍተነገር.** A simple sentence holds **one clause unit** — one subject, one predicate, one whole sense that stands alone: **ልጁ ከትምህርትቤት መጣ።** — The child came from school. One verb — መጣ — and the sense is complete.
+
+**Complex — ውስብስብ ዓረፍተነገር.** Watch what happens when a verb is **bound**:
+
+**ልጁ ከትምህርትቤት ሲመጣ አባቱ ወደቢሮ ሄደ።** — While the child was coming from school, his father went to the office.
+
+[Picture 8724 — simple and complex sentences]
+
+The verb ሲመጣ (*while coming*) is bound — said alone, it gives no full sense; it **waits** for a completer. ሄደ (*went*) is the **binding verb** that completes it. Two verbs, one bound and one binding — that is a complex sentence from the inside. But ልጁ ከትምህርትቤት መጣ, with plain መጣ, is simple: nothing waits, nothing is bound.
+
+[GIF 8736 — a bound verb waits for its binder]
+
+So the old test and the new test agree: count the verbs — two or more, and the sentence is ውስብስብ; then look closer and find which verb is bound and which one binds it.
+
 ## Say it to your companion
 
 Tell your companion: a sentence carries one complete idea, and it ends with ።, ? or !. Then take two short sentences of your own and join them with ስለ, the way the dialogue joins 1ኛ መወጣት እፈልጋለሁ and ሁልጊዜ አጠናለሁ. Your companion counts the verbs in your joined sentence: if there are two or more, they say "ውስብስብ!"
+
+Then go further: take the sentence ትልቁ ልጅ እየሮጠ መጣ and name its ባለቤት and its ማሰሪያ አንቀጽ for your companion. Say one sentence of each of the four functions — stating, asking, ordering, exclaiming. Say መጣ as an affirmative, then break it into its negative with አል- … -ም. Finish with an "is" sentence on the model እነዚህ ዋልያዎች ናቸው, and let your companion name the pointer, the complement and the being-verb.
 
 ## Do It Yourself
 
@@ -87,3 +167,8 @@ Tell your companion: a sentence carries one complete idea, and it ends with ።,
 3. Say two short sentences about yourself: one thing you want, one thing you do. Join them with ስለምፈልግ into one sentence.
 4. Join two sentences with ወይም and two with ነገርግን. Read all four aloud.
 5. Copy this sentence and count its verbs: ዕውቀት ለኛረጎኝ ይገባል፣ ስለዚህ መማር አለብን። Say whether it is complex, and why.
+6. Take apart ከድር ከትምህርትቤት መጣ።: point to the ባለቤት, then to the ማሰሪያ አንቀጽ. Then take apart ትልቁ ልጅ እየሮጠ መጣ። and name each side's attachment too.
+7. Write four sentences — one stating (ሀተታዊ), one asking (ጥያቄያዊ), one ordering (ትዕዛዛዊ), one exclaiming (አጋናኝ) — and end each with its right mark.
+8. Write ልጁ መጣ። as a negative sentence, wrapping its verb in አል- … -ም.
+9. Unscramble ናቸው እነዚህ በሬዎች into the right order, then write two "is / are" sentences of your own with a noun complement.
+10. Write one ነጠላ (simple) sentence. Then grow it into a ውስብስብ (complex) one by binding its verb with ሲ- and adding a binding verb, on the model ልጁ ከትምህርትቤት ሲመጣ አባቱ ወደቢሮ ሄደ።

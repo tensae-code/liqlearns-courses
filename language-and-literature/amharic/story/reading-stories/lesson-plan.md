@@ -28,6 +28,12 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 4. **Protect Our Environment** — the fluent-reading text learners stand and read aloud to classmates — caring for the surroundings we live in.
 5. **Eyoel and Amira** — two children who care for their surroundings; read in turns, its main idea then written in the reader's own sentences.
 6. **Fluency stories and fables** — the student books' own fluent-reading stories and fables: seedling planting, success, the vine and the trunk, Pumpkin and Potato, and the Rooster and the Fox.
+7. **Wisdom, fear and measure** — the wise girl's two houses; Fasikaw plays dead before the lion; Tirngo's dream and her vow; and Senait's scale, measure for measure.
+8. **Sickness, salt and enough** — Kedir and his brother's medicines; the daughter who answered "salt"; Amsal at the Fasika feast; Sisay and the emptied village; and the blind champion rider of Injibara.
+9. **Clothes, blessing and dreams** — the guest who fed his clothes; Solomon's bee and fly; three students' 12-kilometre road; and the lion and the three oxen, divided they fell.
+10. **Family, hatred and refusal** — Ato Altaye's tavern; the village that resolved against hate; and Be'emnet, who fled early marriage and built a legal-aid centre.
+11. **Birds, regret and blighted hope** — the bird whose nest fell three times; the returned emigrant's elderly-care centre; Mansur and Admasu's volunteers; the Jeddah return; and the desert journey's silent town.
+12. **Trust, debt and rough hands** — Asrebeb guarding the dropped money; the false madman unmasked; Maru Forsa, loader and chairman; the washerwoman's rough hands; the bat between two sides; and the rats who repaid the elephants.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -44,6 +50,14 @@ the gate pool.
 4. Retell the Rooster and the Fox, including its climax: the fox opens his mouth and the rooster escapes.
 5. Tell the vine and the trunk's quarrel and what the trunk answers.
 6. Write a story's main idea in one sentence of your own.
+7. Say The Wise Girl's meaning in one sentence — which house lasts longest.
+8. Retell Fear in order, and say its closing teaching about friends in a day of trouble.
+9. Say why "salt" was the truest answer in Salt, and the doctor's rule in Enough — Let It Stop With Me.
+10. Retell The Lion and the Three Oxen and say its rule in one sentence.
+11. Say what Be'emnet refused, and what she built instead.
+12. Say what the birds decided after the third nest fell, in The Bird's Song.
+13. Retell Maru Forsa's two parts in order — the loan, then the chairmanship.
+14. Say who owed whom in May I Be One Who Repays a Debt, and how the debt was paid.
 
 ## What you need
 The lesson page. A partner to read in turns with. Paper and a pencil.
@@ -73,6 +87,34 @@ The lesson page. A partner to read in turns with. Paper and a pencil.
      fox holds the rooster, opens his mouth to shout, and the
      rooster flies free — the student watches, then acts the
      moment the mouth opens.
+   - ADD IMAGE [Picture 8610]: a picture of two children —
+     one stacking stones into a wall, the other greeting
+     friends on a road — the student says which child is
+     "building a house" before The Wise Girl is read.
+   - ADD IMAGE [Picture 8611]: a picture of a balance scale,
+     a block of butter on one pan against a loaf of bread on
+     the other — the student says what Senait is weighing
+     before The Scale is read.
+   - ADD IMAGE [Picture 8614]: a picture of a rider on a
+     caparisoned horse at a race's start — the student says
+     what is special about this rider before the story.
+   - ADD IMAGE [Picture 8612]: a picture of a guest in fine
+     clothes at a feast, holding food towards his own chest
+     while two men watch — the student guesses what the
+     guest is doing before the story is read.
+   - ADD IMAGE [Picture 8617]: a picture of three oxen —
+     brown, white and black — ploughing side by side while
+     a lion watches from the trees — the student says why
+     the lion only watches.
+   - ADD IMAGE [Picture 8613]: a picture of a bird carrying
+     a twig towards a half-built nest on a branch above a
+     river — the student says what the bird is building.
+   - ADD IMAGE [Picture 8615]: a picture of a worker
+     carrying a wheat sack on his shoulder into a factory
+     store — the student names the worker's job.
+   - ADD GIF [GIF 8616]: rats gnawing through a net strand
+     by strand until the elephant behind it stands free —
+     the student counts the strands and says who is repaid.
    - ADD AUDIO for every story: the story read aloud at child
      pace — the student follows the second reading with eyes on
      the words, the books' fluency way.
@@ -97,6 +139,14 @@ The lesson page. A partner to read in turns with. Paper and a pencil.
 - GIF [GIF 8330] — the fox opens his mouth and the rooster escapes → the student acts the climax.
 - AUDIO — every story read aloud at child pace → the student follows the second, fluent reading.
 - VIDEO — the video-script filmed (made later): the Rooster and the Fox with its prediction pause → the student guesses, then hears the end.
+- IMAGE [Picture 8610] — one child building with stones, one greeting friends → the student says which child builds a house.
+- IMAGE [Picture 8611] — butter against bread on a balance scale → the student says what Senait weighs.
+- IMAGE [Picture 8614] — the blind champion rider on his horse → the student says what is special about the rider.
+- IMAGE [Picture 8612] — the guest feeding his fine clothes → the student guesses what the guest is doing.
+- IMAGE [Picture 8617] — three oxen together, the lion watching → the student says why the lion only watches.
+- IMAGE [Picture 8613] — the bird carrying a twig to her nest → the student says what she builds.
+- IMAGE [Picture 8615] — Maru carrying the wheat sack → the student names his job.
+- GIF [GIF 8616] — the rats gnaw the net through, strand by strand → the student counts strands and names the debt repaid.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the
 plan is the build sheet, so nothing the lesson needs gets forgotten.
@@ -117,3 +167,4 @@ the teacher guides; the sixth sub lesson's stories and fables are
 the student books' own printed fluent-reading texts, and sources.md
 labels each part. A teacher sending this lesson sends the lesson
 and its question list as they are — choosing, not remaking.
+**Growth note (2026-11-12):** sub lessons 7–12 grow this lesson with the older grades' pupil-book stories — every one pupil-taught from the Grade 5–8 student books, summarised only, never transcribed. The first six sub lessons are unchanged.

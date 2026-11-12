@@ -48,11 +48,23 @@ built from the Addis Ababa Grade 3 second-language teacher guide
 and labelled second-language teacher-guide evidence throughout.
 It is NOT part of this course and nothing in it is merged here.
 
-Bands still to build, in the user's order (language first, lower
-grades first): G5–G8, then G9–G10 from the complete federal
-teacher guides — those two grades have no secured student books,
-and their levels will be labelled as teacher-guide evidence in
-the course record, exactly as the placements label them.
+**Band 3 (G5–G8 student books + G5–G8 teacher-guide evidence) —
+BUILT 2026-11-12:** 7 new lessons (Verbs and Tenses, Joining
+Words, More Punctuation, Descriptive Paragraphs, Letters,
+Writing Essays, Life Stories) and 10 lessons grown (Listening
+Stories, Reading Stories, Reading Passages, Poems and Songs,
+Word Kinds, Suffixes, The Sentence, Study Skills, Speaking and
+Performing, Writing About Stories). 96 more media filed
+(8600–8913). The course now stands at **66 lessons, 292 media
+files**, and a disk recount on 2026-11-12 counts **1,330
+numbered question items**. Listening Stories now counts as
+taught (its new sub lessons rest on the pupil books); Fidel
+Shapes remains the one evidence-only lesson. See ABOUT.md.
+
+Band still to build: G9–G10 from the complete federal teacher
+guides — those two grades have no secured student books, and
+their levels will be labelled as teacher-guide evidence in the
+course record, exactly as the placements label them.
 
 ## Unit 1 — First Steps (the pre-primary level)
 
@@ -160,7 +172,8 @@ the course record, exactly as the placements label them.
    -ኦች and -ዎች; stripping a plural back to its singular.
 3. **Suffixes — The Pieces That Ride on Words** (`word/suffixes`)
    — the በላ family; ቤትህ / ቤትሽ / ቤቴ / ቤታችን — a word carrying
-   its owner.
+   its owner. Grown in Band 3: the adjective-forming suffixes
+   (-አዊ / -አማ / -ኛ) and the derived verb families (ተ- / አስ-).
 4. **What Words Mean** (`word/word-meanings`) — the meaning a
    word carries in its sentence (አውዳዊ ፍቺ); words with more
    than one meaning; the figurative table.
@@ -173,7 +186,11 @@ the course record, exactly as the placements label them.
 7. **Using the Dictionary** (`word/using-the-dictionary`) —
    finding a word, in the book's own order of teaching.
 8. **Study Skills** (`word/study-skills`) — KWL charts; concept
-   webs; cause and effect; the fidel crossword game.
+   webs; cause and effect; the fidel crossword game. Grown in
+   Band 3: reading data tables (the teff varieties in full; the
+   headache table's structure — its figures are not in the
+   books' placements and none are invented), note-taking while
+   listening, KWL grown up.
 
 ## Unit 4 — Sentence
 
@@ -185,12 +202,29 @@ the course record, exactly as the placements label them.
    mark).
 3. **The Sentence** (`sentence/the-sentence`) — what makes a
    sentence; the full stop (።); the question mark; word order.
+   Grown in Band 3: subject ባለቤት + predicate; the four sentence
+   functions; yes and no sentences (አል-…-ም); the copula and its
+   complement; simple and complex grown.
 4. **Word Kinds** (`sentence/word-kinds`) — the kinds in the
    books' own order: noun (ስም), verb (ግስ), adjective (ቅጽል),
-   conjunction, adverb, preposition.
+   conjunction, adverb, preposition. Grown in Band 3: common and
+   proper nouns; collective nouns; pronouns and their persons
+   (መደብ); demonstratives and question pronouns; countable and
+   uncountable nouns.
 5. **Writing Sentences** (`sentence/writing-sentences`) —
    dictation; building a sentence piece by piece; the compound
    sentence.
+6. **Verbs and Tenses** (`sentence/verbs-and-tenses`) — the
+   three times (የአሁን / የሀላፊ / የትንቢት); recent perfect and
+   remote past; ሳቢ and ኢሳቢ verbs; direct and indirect objects;
+   the በላ paradigm.
+7. **Joining Words** (`sentence/joining-words`) — coordinating
+   joiners (አያያዦች); subordinate conjunctions (ጥገኛ መስተፃምር);
+   transitional words (መሸጋገሪያ ቃላት).
+8. **More Punctuation** (`sentence/more-punctuation`) — the
+   exclamation mark and the seven feelings; quotation marks and
+   single quotes; colon and slash (እዝባር); dash, parentheses
+   (ቅንፍ), ellipsis; abbreviations grown.
 
 ## Unit 5 — Paragraph
 
@@ -198,18 +232,36 @@ the course record, exactly as the placements label them.
    first paragraph a learner writes whole.
 2. **How-To Writing** (`paragraph/how-to-writing`) — writing
    that tells how a thing is done, step by step.
+3. **Descriptive Paragraphs** (`paragraph/descriptive-paragraphs`)
+   — the topic sentence (ኃይል ቃል / መንደርደሪያ); the outline
+   (ቢጋር); ገላጭ and ተራኪ paragraphs; the descriptive paragraph
+   (ሥዕላዊ አንቀጽ).
 
 ## Unit 6 — Essay
 
 1. **Summary and News** (`essay/summary-and-news`) — the
    five-step summary; writing the news.
+2. **Letters** (`essay/letters`) — every letter kind, one sub
+   lesson each: personal, greeting, congratulatory,
+   official/request, appreciation, invitation, application.
+3. **Writing Essays** (`essay/writing-essays`) — expository,
+   narrative (ተራኪ ድርሰት), cause-and-effect and argumentative
+   essays; the organised essay built from a web.
+4. **Life Stories** (`essay/life-stories`) — biography and
+   autobiography: the method, then three lives told as
+   summaries — Abebe Bikila, Dr Haddis Alemayehu, Dr Catherine
+   Hamlin (the lives rest on teacher guides, labelled evidence
+   in the lesson's sources).
 
 ## Speaking (across the ladder)
 
 1. **Speaking and Performing** (`conversation/speaking-and-performing`)
    — the storyteller and the answerer (ተራች / መላሽ); role play;
    debate; reading aloud with accuracy, speed and expression;
-   paired, group and echo reading.
+   paired, group and echo reading. Grown in Band 3: the full
+   debate protocol (debaters' and judges' rules), panel
+   discussion (አወያይ / ተወያይ), oral poetry performed aloud, and
+   an introduction to qene (teacher-guide evidence).
 
 ## Unit 7 — Story
 
@@ -220,17 +272,26 @@ the course record, exactly as the placements label them.
 2. **Listening Stories** (`story/listening-stories`) — the
    stories the teacher guides carry (their texts live in the
    guides, not the pupil books), grouped by theme, with the
-   guides' own prediction questions. Teacher-guide evidence
-   only, labelled in its sources.
+   guides' own prediction questions. Grown in Band 3 with the
+   Grade 5–8 pupil books' own listening lessons — the lesson
+   now counts as taught, its guide-only parts still labelled
+   part by part in its sources.
 3. **Reading Stories** (`story/reading-stories`) — the pupil
-   books' stories, read and answered.
+   books' stories, read and answered. Grown in Band 3 through
+   the Grade 5–8 books.
 4. **Reading Passages** (`story/reading-passages`) — passages by
    kind: story, information, history — Finote Selam; the Near
-   Neighbour.
+   Neighbour. Grown in Band 3: descriptive, table,
+   research-style, biography and argue/explain passages.
 5. **Poems and Songs** (`story/poems-and-songs`) — summaries and
-   named refrains only; the road-safety song ልጆች ተጠንቅቁ.
+   named refrains only; the road-safety song ልጆች ተጠንቅቁ. Grown
+   in Band 3: the oral-poem kinds, work songs, wedding songs,
+   proverbs in stories, and the parts of a poem (ሐረግ / ስንኝ /
+   አርኬ / ቤት).
 6. **Riddles** (`story/riddles`) — the riddle game and its
    printed answers (ባህር / እሳት / ጀበናና ስኒ / ሰዓት / ወፍጮ).
 7. **Writing About Stories** (`story/writing-about-stories`) —
    the shape of a story: መቼት, ገፀባሕርያት, ችግር, ድርጊት, ውጤት —
-   and ሴራ (plot) and ጭብጥ (theme).
+   and ሴራ (plot) and ጭብጥ (theme). Grown in Band 3: the five
+   parts in the higher books' wording, the literary elements
+   made formal, and short fiction (teacher-guide evidence).

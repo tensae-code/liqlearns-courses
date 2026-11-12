@@ -26,3 +26,26 @@ Six: **መስተዋድድ** — the preposition. It stands before a noun.
 
 ስም, ግስ, ቅጽል, አያያዥ, ተውሳከግስ, መስተዋድድ.
 Six kinds. Now you name them.
+
+---
+
+And inside the noun, more families.
+
+**ወል ስም** — a common noun. Any one of a kind.
+**መምህር** — any teacher. **ዛፍ** — any tree.
+**የተጸውኦ ስም** — a proper noun. One named one.
+**ጣና. ተከዜ. ጎንደር. ማህሌት.**
+
+**ጥቅል ስም** — one word, a whole group.
+**መንጋ** — the herd. **ሕዝብ** — the people. **ደን** — the forest.
+
+Words that stand in a noun's place: **ተውላጠስም**.
+Three persons — **መደብ**.
+**እኔ** — I. **አንተ, አንቺ** — you. **እሱ, እሷ** — he, she.
+
+Pointing words: **ይህ** — this, near. **ያ** — that, far.
+Question words: **ማን** — who? **ምን** — what? **ወዴት** — where? **መቼ** — when? **እንዴት** — how? **ለምን** — why?
+
+Last split. Can you count it?
+**በሬ** — one, two, three: **የሚቆጠሩ**.
+**ዉኃ, ስኳር** — no number: **የማይቆጠሩ**.

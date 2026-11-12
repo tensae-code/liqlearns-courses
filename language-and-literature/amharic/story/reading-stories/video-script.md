@@ -27,3 +27,20 @@ The fox opened his mouth to shout —
 and the rooster flew out! Free!
 
 The rooster saved himself — with the fox's own trick.
+---
+
+Read this story with me. A father speaks to his two children.
+
+"Build houses," he says.
+
+One child builds with stone. Walls. A roof.
+The other child builds friends. Greetings. Help. Laughter.
+
+Years pass. The stone house stands still.
+But when trouble comes — who is carried? Who is fed?
+The one with friends.
+
+Guess before you read on. Which house lasts longest? …
+
+Read it twice. First for the story. Then for fluency.
+Then say its meaning in one sentence of your own.

@@ -10,3 +10,12 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 3)** The order of events in a story is part of its meaning.
 **Answer: True.**
+
+**4. (Sub lesson 5)** ጭብጥ, the theme, is the essential matter — the message — a story is to convey.
+**Answer: True.**
+
+**5. (Sub lesson 6)** A short story is too small to carry characters, a setting and a plot.
+**Answer: False** — short fiction carries the same literary elements as any story, fitted into a small compass.
+
+**6. (Sub lesson 4)** In ሚዛን ("The Scale"), Senait measured her butter with her own weight-stone.
+**Answer: False** — she had a scale but no weight-stone; she measured her butter by Zebiba's own bread, which is why the accusation fell.

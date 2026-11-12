@@ -27,6 +27,12 @@ it is proved (the gate: README, "Units, Lessons and Sub Lessons
 3. **Expository passages — how things are** — Keeping Ourselves and Our Surroundings Clean; Preventing Disease; Growing a Backyard Garden Wisely; and the animal passages — the night bird, the dolphin and the crocodile, the giraffe, the civet.
 4. **Procedural passages — steps in order** — how a kebero drum is made, and how a salad is prepared — read as sequences and retold in order.
 5. **History passages — Finote Selam** — the naming of Finote Selam: invasion, five years of resistance in forest and mountain, and a resting town renamed Path of Peace.
+6. **Descriptive passages — mountains and waterfalls** — Wehni Amba described simile by simile; life on an amba; Tis Abay seen and named; and a club's visit to the Haddis Alemayehu institute.
+7. **Passages with tables — read the numbers** — Headache with its data table; the Amhara climate in three tables; and Improved Seed's teff varieties — every question answered from the table.
+8. **Research-style readings — how a report is made** — Eskinder researches the first driver in the library; Mulunesh compiles her energy report from five kinds of source; and Fasilides' Palace read the KWL way.
+9. **Lives in prose — biography readings** — nine lives read for their facts in order: Shileshi Demissie, Wangari Maathai, Tirunesh Dibaba, Woldemeskel Kostre, Sahle-Work Zewde, Berhanu Zerihun, Emahoy Tsegue-Maryam, Afewerk Tekle and Empress Taytu Betul.
+10. **Argue and advise — passages that take a side** — Let's Not Be a Rubbish Dump and its five counsels; "Littering Is Forbidden!" and hate speech as rubbish; Social Media's true-and-useful rule; and Let Hate Stop.
+11. **Explain the world — causes in prose** — the Wof Washa forest's shrinking numbers; climate change explained; the three causes of child labour exploitation; and the Palermo definition of trafficking.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is
 written in questions/, so the sub lesson's whole question set is
@@ -44,6 +50,14 @@ the gate pool.
 4. Complete the cleanliness passage's sentences with its word-box words, and say the difference between personal and environmental hygiene.
 5. Retell a procedure — kebero-making or salad-making — in its right order.
 6. Retell the Finote Selam passage in time order, and say what its name means.
+7. Describe Wehni Amba from the passage's words alone, similes named.
+8. Answer a question from a passage's table by pointing to its cell first.
+9. Say the climate zones' shares — ቆላ 6, ወይና ደጋ 60, ደጋ 31, ውርጭ 3 — and the lowest and highest temperatures.
+10. Name Eskinder's research method: sources searched, authors and years noted, essay written.
+11. Give Fasilides' Palace's four numbers: 32 metres, three floors, 132 steps, 20 rooms.
+12. Retell one biography reading by its dates and deeds, in order.
+13. State an argue-passage's side fairly, and the strongest point against it.
+14. Carry the Wof Washa numbers in order — 92,200; 8,290; 8,222 hectares — and name the cause.
 
 ## What you need
 The lesson page. Paper and a pencil. For the Do It Yourself procedure: a bowl, and salad things or a drum-like pot at home.
@@ -68,6 +82,32 @@ The lesson page. Paper and a pencil. For the Do It Yourself procedure: a bowl, a
    - ADD IMAGE [Picture 8323]: a picture of a step board — wash,
      cut, mix, serve, each with an arrow to the next — the
      student puts a jumbled step back in its place.
+   - ADD IMAGE [Picture 8620]: a picture of a bare, steep,
+     flat-topped amba above fields and a spring — the student
+     describes its shape before Wehni Amba is read.
+   - ADD IMAGE [Picture 8621]: a picture diagram of four
+     climate zones as bands on a mountainside, with the
+     passage's shares (ቆላ 6%, ወይና ደጋ 60%, ደጋ 31%, ውርጭ
+     3%) — the student reads the widest band before the
+     climate passage.
+   - ADD IMAGE [Picture 8622]: a picture of a student in a
+     library among shelves, note cards in hand — the student
+     says what the note cards are for before The First
+     Driver is read.
+   - ADD IMAGE [Picture 8623]: a picture of women planting
+     tree seedlings in a long row — the student says what
+     work this is before the Maathai reading.
+   - ADD IMAGE [Picture 8624]: a picture of a crumpled
+     'garbage' word-ball bouncing off a calm person's shield
+     — the student says what is being refused before the
+     argue passages.
+   - ADD IMAGE [Picture 8625]: a picture chart of three
+     forest bars with the passage's figures (92,200 →
+     8,290 → 8,222 hectares) — the student says what
+     happened to the forest before the passage is read.
+   - ADD GIF [GIF 8626]: planting a seedling in four stages
+     — dig, place, cover, water — the student names each
+     stage as it comes.
    - ADD AUDIO for every passage: the passage read aloud at
      child pace — the student listens first, then reads it
      themselves.
@@ -91,6 +131,13 @@ The lesson page. Paper and a pencil. For the Do It Yourself procedure: a bowl, a
 - IMAGE [Picture 8323] — the step board (wash, cut, mix, serve) → the student orders the steps.
 - AUDIO — every passage read aloud at child pace → the student hears first, then reads.
 - VIDEO — the video-script filmed (made later): the near-neighbour passage read and answered → the student answers along.
+- IMAGE [Picture 8620] — Wehni Amba, bare and steep → the student describes its shape.
+- IMAGE [Picture 8621] — the four climate zones with their shares → the student reads the widest band.
+- IMAGE [Picture 8622] — researching in the library → the student says what the note cards are for.
+- IMAGE [Picture 8623] — women planting seedlings in a row → the student names the work.
+- IMAGE [Picture 8624] — a garbage word bouncing off a shield → the student says what is refused.
+- IMAGE [Picture 8625] — the forest's shrinking figures as bars → the student says what happened to the forest.
+- GIF [GIF 8626] — planting a seedling: dig, place, cover, water → the student names each stage.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the
 plan is the build sheet, so nothing the lesson needs gets forgotten.
@@ -110,3 +157,4 @@ page in lesson/sources.md — student-book passages and teacher-guide
 reading texts, each labelled. A teacher sending this lesson sends
 the lesson and its question list as they are — choosing, not
 remaking.
+**Growth note (2026-11-12):** sub lessons 6–11 grow this lesson with the older grades' passages — descriptive, table, research-style, biography, argue and explain passages, all pupil-taught from the Grade 5–8 student books. The biography sub lesson meets each life as reading only; the writing method for lives belongs to the Writing lessons, and the sub lesson says so in one line. The first five sub lessons are unchanged.

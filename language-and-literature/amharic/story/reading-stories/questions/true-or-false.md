@@ -19,3 +19,20 @@ Say if the sentence is true or false.
 
 **6. (Sub lesson 6)** In the vine and the trunk, the trunk says the vine can stand alone easily.
 **Answer: False** — the trunk answers that the vine cannot stand alone.
+**7. (Sub lesson 7)** Tirngo, in A Dream — Or Not?, wakes relieved and vows to stay in school.
+**Answer: True.**
+
+**8. (Sub lesson 8)** Kedir takes his brother's medicines openly, with the family's knowledge.
+**Answer: False** — he takes them secretly, and only the hospital exposes the cause of his sickness.
+
+**9. (Sub lesson 9)** Asefa and Tirngo, who walked 12 km to school, end as international athletes.
+**Answer: True** — and Andarge ends as a language teacher.
+
+**10. (Sub lesson 10)** Ato Altaye's wife and children enter his own tavern, and he realises his fault.
+**Answer: True.**
+
+**11. (Sub lesson 11)** The returned emigrant in What Regret Bore builds an elderly-care centre in his parents' compound.
+**Answer: True.**
+
+**12. (Sub lesson 12)** The bat keeps the friendship of both sides by joining whichever is winning.
+**Answer: False** — both sides drive him off; the hen counsels peace.

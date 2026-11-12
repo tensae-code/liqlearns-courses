@@ -22,6 +22,19 @@ because…; the path is muddy because… Each hunter must build a
 chain of three: rain → mud → late to school. Chains are read
 aloud and tested: did each link MAKE the next happen?
 
+## Table questions game
+One person holds the teff table (Picture 8860); the others may
+not look. The holder asks cell questions — "What rainfall does
+ዳግም need?" "Which variety is red-seeded?" — and the answerers
+must say row and column before they say the answer. Swap holder
+after five questions.
+
+## Listen and note
+One person reads a short text aloud, once, at a steady pace.
+Everyone else notes main points at the three levels: one key
+word, one phrase, one sentence. Compare nets afterwards: whose
+notes hold the points the questions ask for?
+
 ## Paper crossword
 Copy the lesson's crossword grid onto a big sheet, empty.
 In pairs, fill it from the clue answers (across and down lists

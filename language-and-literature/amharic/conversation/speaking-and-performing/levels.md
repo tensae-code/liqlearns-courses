@@ -17,3 +17,15 @@ Sub lesson 3 questions from the type files. Pass mark: support or oppose a set c
 
 ## Sub lesson 4 — Reading aloud well
 Sub lesson 4 questions from the type files. Pass mark: read a text aloud meeting the trio — accuracy, speed, expression — in each of the three modes: paired, group, echo.
+
+## Sub lesson 5 — Debate, the full protocol (ክርክር)
+Sub lesson 5 questions from the type files. Pass mark: run a whole formal debate — as a debater, keep all nine debater rules (prepare, greet, introduce, ordered points, noted rebuttal, evidence, time, eye contact, thanks); as a judge, run all six judge rules through to announcing the winner.
+
+## Sub lesson 6 — Panel discussion (ውይይት)
+Sub lesson 6 questions from the type files. Pass mark: hold both panel roles — as አወያይ, open on time, introduce topic and purpose, hold the order and the time, and close with a summary and thanks; as ተወያይ, bring main ideas clearly, in order, with sufficient reasons, respecting the others' ideas.
+
+## Sub lesson 7 — Oral poetry, performed aloud (ቃላዊ ግጥም)
+Sub lesson 7 questions from the type files. Pass mark: meet an oral poem by ear — say what makes it a poem after hearing it performed, chant it with the group, and perform an oral poem of your own aloud, voice raised and expressive (teacher guide — evidence).
+
+## Sub lesson 8 — A first meeting with qene (ቅኔ)
+Sub lesson 8 questions from the type files. Pass mark: for a short qene poem, state the surface meaning plainly and hunt the hidden second meaning by a method of interpretation (የቅኔ አፈታት ዘዴዎች), naming the words that carry it (teacher guide — evidence).

@@ -1,0 +1,29 @@
+# Video script — Life Stories
+
+The super-simple voice, for the video that rides on top of the
+lesson (lesson-plan.md, add-on list). Made later, when videos are
+made; the script is the slot's written form until then.
+
+---
+
+A life can be written. That writing has a name:
+**የሕይወት ታሪክ** — a life history.
+
+Two kinds. **የግል** — I write my own life.
+**የግለሰብ** — another person writes it for me.
+
+Every life history needs seven points.
+The name. The father's and mother's names.
+Where and when the person was born.
+How they grew up. How far they learned.
+The great things they did. And, if they are gone, when they died.
+
+How do we write one? Read. Ask. Gather what is true.
+Put it in order. Then write.
+
+A runner ran barefoot — and won the world.
+A writer's life sits in a table — read it in order, tell it whole.
+A doctor built hospitals for mothers — and mothers call her
+**የኢትዮጵያ እናቶች እናት**, Mother of Ethiopia's Mothers.
+
+Lives are gathered, ordered, told. Now gather one.

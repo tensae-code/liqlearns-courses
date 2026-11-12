@@ -26,3 +26,17 @@ Read one paragraph aloud three ways: once in a pair (taking
 turns by sentence), once in a group together, once as echo
 after a leader. After each, the listeners score the trio on
 their fingers: accuracy? speed? expression?
+
+## A protocol debate at the table
+Three people: two debaters, one judge. The judge keeps the
+judges' rules on a paper checklist — greet, introduce, time,
+quiet, summary, winner — and ticks each one as it happens.
+The debaters each keep a notebook open: no rebuttal may be
+spoken that is not built from a noted point.
+
+## Threshing-floor poetry
+Outside, with sticks and a pile of anything threshable (or
+just the rhythm on a table): one person leads an oral poem
+aloud, everyone chants the refrain back. Then each person
+adds one line of their own, in the season's words, voice
+raised — the poem grows the way work-poems grow.

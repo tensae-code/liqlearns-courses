@@ -10,3 +10,18 @@ Fill each blank with the right kind or word.
 
 **3. (Sub lesson 5)** ትናንት answers "when?", so ትናንት is a ______.
 **Answer: ተውሳከግስ** (adverb).
+
+**4. (Sub lesson 7)** መምህር names any teacher, so መምህር is a ______ ስም.
+**Answer: ወል** (common noun).
+
+**5. (Sub lesson 8)** Many trees standing as one word — ______ (a forest).
+**Answer: ደን** — a ጥቅል ስም.
+
+**6. (Sub lesson 9)** እኛ (we) stands in the ______ person.
+**Answer: first** — the speakers; እኔ / እኛ.
+
+**7. (Sub lesson 10)** For a thing near you, the pointing word (masculine) is ______.
+**Answer: ይህ** — ያ is far from both.
+
+**8. (Sub lesson 11)** ተማሪ can be counted — one, two, three — so ተማሪ is ______.
+**Answer: የሚቆጠሩ** (countable).

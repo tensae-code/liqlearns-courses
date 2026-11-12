@@ -25,3 +25,24 @@ Now I cross. ግራ ቀኝ ግራ.
 
 Sing it again, loudly, all together —
 and your feet stay on the safe side.
+---
+
+Hear the kinds. A poem for every work of life.
+
+A wedding poem — for the bride and groom.
+A farming poem — for the field.
+A mourning poem — for the one we lost.
+A battle poem — for the warrior.
+A love poem. A harvest poem.
+
+Six kinds. Say them with me. …
+
+Now take one verse. Breathe it in one breath.
+That part is a ሐረግ.
+Pause at the verse's end. That verse is a ስንኝ.
+One whole thought ends — that is its አርኬ.
+And the letter at the end that sings with the next —
+that is the ቤት, the rhyme.
+
+Chant this week. Clap the breaths even.
+That even time is ምጣኔ — the poem's own heartbeat.

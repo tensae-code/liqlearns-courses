@@ -89,6 +89,143 @@ lines are the book's copying task — sing it first, then copy.
 and ገበያና እናት — "what the market gives, a mother does not
 give", the old saying sung as a poem.
 
+## Sub lesson 5 — The kinds of oral poem
+
+An oral poem is a poem that lives on the tongue before
+it lives on a page. It is called "oral" because it is
+carried mouth to mouth, and its metre — ምጣኔ — keeps its
+lines in time; together the poems are a heritage, ቅርስ,
+handed down. Learn the kinds by their work:
+
+- **የሠርግ** — wedding poems, for the bride and groom's day.
+- **የእርሻ** — farming poems, for the field's work.
+- **የሙሾ** — mourning poems, for the dead.
+- **የውጊያ** — battle poems, for the warrior.
+- **የፍቅር** — love poems.
+- **የአጨዳ** — harvesting poems, for the gathering-in.
+
+Match each kind to its occasion until you cannot miss.
+Then hear how mourning poems are composed differently —
+one way for a woman, another for a man, another for a
+hero, another for a farmer: the poem fits the person it
+mourns.
+
+[Picture 8630 — the six kinds of oral poem, panel by panel]
+
+A later book gathers the kinds again as intangible
+heritage — mourning, wedding, farming, and the ሙገሣ,
+respect-poems — and warns: oral heritage must be written
+down, lest it be lost. Its margin teaches metre plainly:
+ምጣኔ is the time a ሐረግ takes to read; lines of equal
+time give a regular melody.
+
+## Sub lesson 6 — Work songs: the song that carries the work
+
+Work has its own songs — የሥራ ዘፈኖች. They are sung at
+ደቦ, the work party, and at every heavy task: building,
+fencing, ploughing, weeding, guarding the crop,
+harvesting, threshing, grinding, spinning. The song
+sets the pace, and the hands keep it.
+
+[Picture 8631 — a debo party harvesting in a row, singing]
+
+In the ደቦ reading, the work-songs praise the diligent
+farmer and mock the lazy one — and there is a praise-song
+for the sickle itself, the tool that feeds everyone.
+Hear, too, the farming praise-boast, ፉከራ, sung
+call-and-response over the field: one voice boasts, the
+rest answer.
+
+**ዘር (Seed).** A short work poem with a farmer's whole
+year in it: sow in Ginbot and Sene, or perish — sowing
+beats borrowing grain. Chant it until the months sit in
+the rhythm.
+
+Hear also a ploughing work poem, and the crop-guarding
+chants sung against the monkey who raids the field —
+the guard sings so the field is never unwatched. And in
+the guide (teacher guide — evidence), the teacher
+performs a harvest work-poem first, its refrain "ሆ
+ይላለ ገበሬ" — hear the refrain, then join it the way the
+class joins: after the leader, together.
+
+[GIF 8635 — the grinding stone turning while the song goes on]
+
+## Sub lesson 7 — Qererto, shilela and fuqera: the boast poems
+
+**ቀረርቶ (qererto)** is the heroism-boast: a poem that
+praises the hero's deeds so hotly that it enrages and
+provokes the enemy who hears it. It is not sung to
+please — it is sung to challenge.
+
+[Picture 8632 — two warriors facing off with shields]
+
+**ሽለላ (shilela) and ፉከራ (fuqera).** Hear the two
+performed, and tell them apart by their targets: one
+warns the evil-hearted, the other mocks the coward.
+Listen twice — once for the sound of each, once for who
+each one is aimed at.
+
+These poems are performed, not just read: stand, voice
+up, and give the boast its body. In the listening of the
+hero-poem inside the war-years story, the same ፉከራ
+rises — you have heard it there; now you know its name
+and its work.
+
+## Sub lesson 8 — Wedding songs and love verses
+
+Wedding songs — የሠርግ ዘፈኖች — do three works at once:
+they dignify the ceremony, they praise the bride, the
+groom and both families, and they bring out the dancing.
+Their music is the kebero drum, the masinqo's one string,
+clapping hands — and above it all ዕልልታ, the women's
+ululation.
+
+[Picture 8633 — a wedding: the masinqo player, the ululating women]
+
+In the wedding-poem kind, refrains are sung twice — hear
+the refrain come back, and join it the second time; that
+is what the doubling is for.
+
+Love poems — የፍቅር — are kept here the way the books
+keep them for this lesson: his set and hers, known by
+their images. Name the images you hear — the poem's
+pictures are its meaning's clothing — and let the verses
+themselves stay in their book.
+
+## Sub lesson 9 — Proverbs in stories, and the parts of a poem
+
+**What Proverbs Are For (የምሳሌያዊ አነጋገሮች ፋይዳ).** Hear
+a story that carries proverbs the way a basket carries
+grain: a humble rich man, his neighbours, judges, and a
+lazy herdsman. Inside it stand proverbs such as የወጋ
+ቢረሳ የተወጋ አይረሳ — the striker may forget; the struck
+never forgets — and ሰነፍ እረኛ ከሩቅ ይመልሳል — the lazy
+herdsman returns from afar. A proverb inside a story is
+remembered because the story holds it. Practise the
+books' game: hear half a proverb, and complete it.
+
+**The parts of a poem.** The books' note (from ዘሪሁን,
+1998, p. 74, drawn on the worked example poem "እሰይ
+አበጀሽ") names a poem's parts:
+
+- **ሐረግ** — a part read in one breath.
+- **ስንኝ** — a verse: it takes a full pause.
+- **አርኬ** — the part where one complete thought ends.
+- **ቤት** — the rhyme: the final letter at a verse's end.
+
+Take any poem you know from this lesson. Breathe it in
+ሐረግ parts. Pause at each ስንኝ. Show where one thought
+ends — its አርኬ. Find the ቤት at the verse ends. And
+remember the metre: ምጣኔ, the time a ሐረግ takes to
+read — equal times, a regular melody.
+
+[Picture 8634 — the parts of a poem: ሐረግ, ስንኝ, አርኬ, ቤት]
+
+> Tip — from us, not from the books: clap once for each
+> ሐረግ as you chant a poem. When the claps come even,
+> your voice has found the ምጣኔ.
+
 ## Say it to your companion
 
 Perform your group's piece — poem, song or chant — to another

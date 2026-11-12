@@ -65,9 +65,88 @@ The book's own list: **ስለ** (about / because of), **ወደ** (to / towards),
 
 More prepositions the market lesson uses to locate things: ላይ (on), ፊትለፊት (in front of), አጠገብ (beside), ታች (under / below). A preposition never stands at the end doing the action — it stands before its noun and points: where, when, with what, why, for whom.
 
+## Sub lesson 7 — Common and proper nouns
+
+Inside the noun family there is a split. Some nouns name **any one of a kind**:
+
+- **ደም** (blood), **መምህር** (teacher), **ዛፍ** (tree) — any blood, any teacher, any tree.
+
+These are **common nouns — ወል ስም**.
+
+Other nouns name **one named one**:
+
+- **ጣና** (Tana — this lake), **ተከዜ** (Tekeze — this river), **ጎንደር** (Gondar — this town), **ማህሌት** (Mahlet — this person).
+
+These are **proper nouns — የተጸውኦ ስም**.
+
+[Picture 8670 — common nouns and proper nouns]
+
+The test: point. If the word fits every one of its kind, it is ወል ስም. If it belongs to one named one only, it is የተጸውኦ ስም.
+
+## Sub lesson 8 — Collective nouns — ጥቅል ስም
+
+Some nouns name a **whole group in one word**. These are **collective nouns — ጥቅል ስም**.
+
+The clearest one is **መንጋ** — a herd, a flock: many animals, one word.
+
+[GIF 8673 — gathering into one መንጋ]
+
+Watch them gather: many single animals, and when the group stands together, one word covers them all — መንጋ. More of the family, from the review lists: **ሕዝብ** (a people, a crowd), **ደን** (a forest — many trees, one word), **እጽዋት** (plants, vegetation), **ከተማ** (a town — many houses and people, one word).
+
+The collective noun looks singular — it is one word — but a whole group lives inside it.
+
+## Sub lesson 9 — Pronouns and their persons — ተውላጠስም, መደብ
+
+A **pronoun (ተውላጠስም)** is a word that **stands in a noun's place**, so we do not have to keep saying the name. The books use them inside sentences from the start: **እኔ, አንቺ, እነሡ, እሱ, እኛ, እሷ** — and in a sentence like ያ ልጅ ጓደኛዬ ነው the little word ያ does the standing-in work.
+
+Pronouns divide into **three persons — መደብ**:
+
+[Picture 8671 — the three pronoun persons]
+
+1. **First person** — the speaker: **እኔ** (I), **እኛ** (we).
+2. **Second person** — the one spoken to: **አንተ** (you, to a boy/man), **አንቺ** (you, to a girl/woman), **እናንተ** (you all).
+3. **Third person** — the one spoken about: **እሱ** (he), **እሷ** (she), **እነሱ / እነርሱ** (they).
+
+To find a pronoun's person, ask: is it the one talking, the one listening, or the one talked about?
+
+## Sub lesson 10 — Pointing pronouns and question pronouns
+
+**Pointing pronouns — demonstratives (ጠቋሚ)** — point at a thing, near or far from the speaker and the hearer:
+
+- **Near**: **ይህ** (this, m), **ይቺ** (this, f), **እነዚህ** (these).
+- **Far from the speaker, near the hearer**: **እሱ, እሷ, እነሱ**.
+- **Far from both**: **ያ** (that, m), **ያቺ** (that, f), **እነዚያ** (those).
+
+The forms change with number and gender — singular masculine ይህ / እሱ / ያ, singular feminine ይቺ / እሷ / ያቺ, plural እነዚህ / እነዚያ. One more near form the books use in sentences: **ይህች**.
+
+**Question pronouns — interrogatives (መጠይቅ ተውላጠስም)** — each one asks about a different thing:
+
+- **ማን** — asks about a **person** (who?)
+- **ምን** — asks about a **thing** (what?)
+- **ወዴት** — asks about a **place** (where?)
+- **መቼ** — asks about a **time** (when?)
+- **እንዴት** — asks about a **manner** (how?)
+- **ለምን** — asks about a **reason** (why?)
+
+Hear the question word and you already know what kind of answer is coming.
+
+## Sub lesson 11 — Countable and uncountable nouns
+
+One last split inside the noun family. Some nouns can be **counted** — their number can be stated:
+
+**የሚቆጠሩ ስሞች** (countable nouns): **ሰው** (person), **እንስሳ** (animal), **ቤት** (house), **ተማሪ** (student), **በሬ** (ox). One በሬ, two በሬ, three በሬ — the number states itself.
+
+Others cannot be counted that way — no number is stated for them:
+
+**የማይቆጠሩ ስሞች** (uncountable nouns): **ስኳር** (sugar), **ዘይት** (oil), **አሸዋ** (sand), **ዉኃ** (water), **ቡና** (coffee), **ብርሃን** (light), **ጨለማ** (darkness), **ኃይል** (strength).
+
+[Picture 8672 — countable and uncountable nouns]
+
+The test is in the name: try to say its number. If the number can be stated, the noun is የሚቆጠሩ. If it cannot, it is የማይቆጠሩ.
+
 ## Say it to your companion
 
-Name the six kinds in the books' order — ስም, ግስ, ቅጽል, አያያዥ ቃላት, ተውሳከግስ, መስተዋድድ — and give one example of each from this lesson: ሰው, ሄደ, ቀይ, እና, ቶሎ, ወደ. Then let your companion test you: they read a word, you name its kind and say its job.
+Name the six kinds in the books' order — ስም, ግስ, ቅጽል, አያያዥ ቃላት, ተውሳከግስ, መስተዋድድ — and give one example of each from this lesson: ሰው, ሄደ, ቀይ, እና, ቶሎ, ወደ. Then let your companion test you: they read a word, you name its kind and say its job. Then go deeper: let them name a noun — ደም, ጎንደር, መንጋ, ዉኃ — and you say which noun family it belongs to: ወል ስም or የተጸውኦ ስም, ጥቅል ስም, የሚቆጠሩ or የማይቆጠሩ. Last, point at yourself, at your companion, and at someone far away, and say the pronoun for each person as you point: እኔ, አንተ / አንቺ, እሱ / እሷ.
 
 ## Do It Yourself
 
@@ -76,3 +155,7 @@ Name the six kinds in the books' order — ስም, ግስ, ቅጽል, አያያ�
 3. Write two past-tense verbs, on the model ገደለ, ሰበረች — actions already finished.
 4. Join ሽንኩርት and ድንች once with እና and once with ወይም. Say how the meaning changed.
 5. Write a sentence with ወደ before a noun, and underline the መስተዋድድ.
+6. Sort these nouns: መምህር, ጣና, ዛፍ, ማህሌት, ተከዜ — which are ወል ስም, which የተጸውኦ ስም?
+7. Write the collective noun in this list: በሬ, መንጋ, ቤት, ዛፍ — then write two more ጥቅል ስም from the lesson.
+8. Write one question with ማን, one with ወዴት and one with ለምን.
+9. Sort these into የሚቆጠሩ and የማይቆጠሩ: ተማሪ, ስኳር, ቤት, ዉኃ, በሬ, ዘይት.
