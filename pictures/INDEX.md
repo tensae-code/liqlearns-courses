@@ -2541,3 +2541,126 @@ and lift; step 4's hold never opens while the pencil tilts back).
 - 15733 — 15733.webp — "Kinds of IDE — one big bench, three single-job benches" — lesson programming/kinds-of-ide-multi-language-mobile-html-cloud
 - 15734 — 15734.webp — "The quadratic fork — the discriminant decides" — lesson programming/writing-algorithms-worked-problems
 - 15735 — 15735.gif — the prime-check loop testing divisors and counting — lesson programming/writing-algorithms-worked-problems — frame-checked
+| 21300 | pictures/21300.webp | the eight steps drawn over an outline of Africa | Social Studies — Geography of Africa — course road map |
+| 21301 | pictures/21301.webp | Africa's four landform regions in four colours | Social Studies — Africa's four landform regions |
+| 21302 | pictures/21302.webp | the Atlas ranges traced along Morocco, Algeria and Tunisia | Social Studies — The Atlas Mountains |
+| 21303 | pictures/21303.webp | the Ethiopian and Eritrean highlands located on Africa's relief map | Social Studies — The Ethiopian and Eritrean Highlands |
+| 21304 | pictures/21304.webp | an escarpment profile from ocean to Highveld to Kalahari | Social Studies — The Southern Africa Platform |
+| 21305 | pictures/21305.webp | a Sahara panorama — dunes, hamada and an oasis | Social Studies — The Sahara |
+| 21306 | pictures/21306.webp | a drying Sahel landscape with the desert edge marked | Social Studies — The Sahel — where the desert advances |
+| 21307 | pictures/21307.webp | an acacia-dotted grassland in wet and dry season | Social Studies — The Savanna grasslands |
+| 21308 | pictures/21308.webp | Africa's six great river basins, one colour per system | Social Studies — Africa's six great river basins |
+| 21309 | pictures/21309.webp | a layered rainforest cross-section over the Congo Basin | Social Studies — Africa's rainforest and the Congo Basin |
+| 21310 | pictures/21310.webp | Africa split by the equator with mirrored belt pairs joined | Social Studies — Africa across the equator — the mirrored continent |
+| 21311 | pictures/21311.webp | the ITCZ band and ocean currents over Africa, with a lapse-rate mountain | Social Studies — What controls Africa's climate |
+| 21312 | pictures/21312.webp | an Africa climate-types map in six colours | Social Studies — Africa's climate types |
+| 21313 | pictures/21313.webp | climate map and vegetation map side by side, belts matching | Social Studies — Africa's vegetation belts |
+| 21314 | pictures/21314.webp | the five-region urban-share bars with Gabon and Burundi flagged | Social Studies — Africa urbanising — fastest and slowest |
+| 21315 | pictures/21315.webp | an Africa population density map, dark clusters, pale Sahara | Social Studies — Where Africans live — density map |
+| 21316 | pictures/21316.webp | a migrant figure pushed by push factors and pulled by pull factors | Social Studies — Push and pull — why Africans move |
+| 21317 | pictures/21317.webp | clustered and scattered village patterns from above | Social Studies — Rural settlement patterns in Africa |
+| 21318 | pictures/21318.webp | a GPS handset logging a school boundary, beside the same map at two scales | Social Studies — GPS field capture; enlarging and reducing maps |
+| 21319 | pictures/21319.webp | a minerals map of Africa with the league leaders flagged | Social Studies — Africa's minerals in the world league |
+| 21320 | pictures/21320.webp | savanna mammals inside a park boundary on a map | Social Studies — Africa's wildlife and its parks |
+| 21321 | pictures/21321.webp | a language-families map of Africa with cultural landscape signs | Social Studies — Africa's languages and faiths |
+| 21322 | pictures/21322.webp | a regional dependency bar chart with median ages | Social Studies — Dependency across Africa's regions |
+| 21323 | pictures/21323.webp | seven pollution sources as arrows into one bay, mangroves marked | Social Studies — What pollutes Africa's coasts |
+| 21324 | pictures/21324.webp | a beach clean-up beside a treatment-plant diagram | Social Studies — Cleaning the coast — effects and fixes |
+| 21325 | pictures/21325.webp | an Agenda 2063 banner over a rising Africa outline | Social Studies — Agenda 2063 — the continent's plan |
+| 21326 | pictures/21326.webp | a 2013 to 2063 timeline with the four priorities | Social Studies — Agenda 2063 — from liberation to development |
+| 21330 | pictures/21330.gif | sand creeping over grazing land at the desert edge | Social Studies — The Sahel — where the desert advances |
+| 21331 | pictures/21331.gif | savanna leaves shedding as the dry season arrives | Social Studies — The Savanna grasslands |
+| 21332 | pictures/21332.gif | the ITCZ band sliding north and south with the seasons | Social Studies — What controls Africa's climate |
+| 21333 | pictures/21333.gif | a map smoothly enlarging with its scale bar changing | Social Studies — GPS field capture; enlarging and reducing maps |
+| 13728 | pictures/13728.webp | a child doing the step-up test on a 20–30 cm step while a partner times it with a stopwatch | Physical Education — Heart and Breathing Fitness |
+| 13729 | pictures/13729.gif | the step-up rhythm | Physical Education — Heart and Breathing Fitness |
+| 13730 | pictures/13730.webp | a child doing a knee push-up with a straight back on a mat | Physical Education — Muscle Strength and Endurance |
+| 13731 | pictures/13731.gif | the knee push-up | Physical Education — Muscle Strength and Endurance |
+| 13732 | pictures/13732.webp | a child making a bridge on a mat | Physical Education — Stretching and Flexibility |
+| 13733 | pictures/13733.gif | the slow sit-and-reach | Physical Education — Stretching and Flexibility |
+| 13734 | pictures/13734.webp | a child weaving between cones at speed, keeping balance | Physical Education — Agility — Rising, Running and Quick Changes |
+| 13735 | pictures/13735.gif | the shuttle line-touch | Physical Education — Agility — Rising, Running and Quick Changes |
+| 13736 | pictures/13736.webp | the headstand base | Physical Education — Gymnastics Basics — Positions, Rolls and Supports |
+| 13737 | pictures/13737.gif | the cartwheel | Physical Education — Gymnastics Basics — Positions, Rolls and Supports |
+| 13738 | pictures/13738.webp | a child in a free-gymnastics balance, one hand turned fully to the opposite leg | Physical Education — Balance and Calisthenics |
+| 13739 | pictures/13739.gif | moving into the balance position and holding it steady | Physical Education — Balance and Calisthenics |
+| 13740 | pictures/13740.webp | a child moving a hoop in time to music | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 13741 | pictures/13741.gif | hoop movements flowing from one to the next on the beat | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 13742 | pictures/13742.webp | a sprinter in the starting blocks on "on your marks" | Physical Education — Sprinting and Hurdle Running |
+| 13743 | pictures/13743.gif | the block start | Physical Education — Sprinting and Hurdle Running |
+| 13744 | pictures/13744.webp | a child cushioning a ball on the chest so it drops to the feet | Physical Education — Ball Handling on the Spot |
+| 13745 | pictures/13745.gif | the chest receive | Physical Education — Ball Handling on the Spot |
+| 13746 | pictures/13746.webp | a child passing with the inside of the foot to a partner 6 metres away | Physical Education — Kicking, Passing and Dribbling |
+| 13747 | pictures/13747.gif | the inside-foot pass | Physical Education — Kicking, Passing and Dribbling |
+| 13748 | pictures/13748.webp | a child sprinting past cones 5 metres apart while a partner times the run | Physical Education — Timed and Distance Running |
+| 13749 | pictures/13749.gif | a 20-metre timed run from the start signal to the finish | Physical Education — Timed and Distance Running |
+| 13750 | pictures/13750.webp | a child holding the shot at the neck, ready for the shot put | Physical Education — Throwing for Distance |
+| 13751 | pictures/13751.gif | the overarm throw into a clear throwing area | Physical Education — Throwing for Distance |
+| 13752 | pictures/13752.webp | a long jumper in the air with arms and legs working, over the sand pit | Physical Education — Jumping for Distance and Height |
+| 13753 | pictures/13753.gif | the full long jump | Physical Education — Jumping for Distance and Height |
+| 13754 | pictures/13754.webp | two runners passing a baton inside the changeover zone | Physical Education — Baton Relay Racing |
+| 13755 | pictures/13755.gif | the upsweep changeover | Physical Education — Baton Relay Racing |
+| 13756 | pictures/13756.webp | a child hanging from a horizontal bar above a mat | Physical Education — Gymnastics with Apparatus |
+| 13757 | pictures/13757.gif | hanging from the bar, swinging in control, and dismounting onto the mat | Physical Education — Gymnastics with Apparatus |
+| 13758 | pictures/13758.webp | a child making a flat forearm platform to receive a ball | Physical Education — Volleyball Passing and Setting |
+| 13759 | pictures/13759.gif | repeated finger taps keeping the ball above the head | Physical Education — Volleyball Passing and Setting |
+| 13760 | pictures/13760.webp | a child dribbling low, below knee height, protecting the ball from an opponent | Physical Education — Dribbling, Shooting and the Jump Throw |
+| 13761 | pictures/13761.gif | dribbling while moving and changing direction without losing the ball | Physical Education — Dribbling, Shooting and the Jump Throw |
+| 13762 | pictures/13762.webp | children playing a small-sided ball game together | Physical Education — Playing the Team Games |
+| 13763 | pictures/13763.gif | one-touch passes travelling around a circle without stopping | Physical Education — Kicking, Passing and Dribbling |
+| 13800 | pictures/13800.webp | children warming up in proper kit | Health Education — Staying Safe While Exercising |
+| 13801 | pictures/13801.webp | clean-sport finish line, no-substances sign | Health Education — Doping — What It Is and What It Costs |
+| 13802 | pictures/13802.webp | RICE four panels | Health Education — Preventing Sports Injuries and First Aid |
+| 13803 | pictures/13803.webp | hygiene three steps (cover, wash, clean kit) | Health Education — Hygiene for Sport — Wash After Exercise |
+| 13804 | pictures/13804.webp | Olympic flag, five rings | Physical Education — The Olympic Games, Ancient and Modern |
+| 13805 | pictures/13805.webp | ancient Olympia vs modern stadium | Physical Education — The Olympic Games, Ancient and Modern |
+| 13806 | pictures/13806.webp | Ethiopian runners and flag | Physical Education — Ethiopia's Famous Athletes |
+| 13807 | pictures/13807.webp | 12-hole gebeta board | Physical Education — Traditional Games of Ethiopia |
+| 13808 | pictures/13808.webp | Gena field, curved sticks, wooden ball | Physical Education — Traditional Games of the Amhara Region |
+| 13809 | pictures/13809.webp | Gondar dancers in traditional dress | Physical Education — Traditional Dances of the Amhara Region |
+| 13810 | pictures/13810.webp | Bayoka seated snake round obstacles | Physical Education — African Games — Bayoka, Mbube Mbube and Mamba |
+| 13811 | pictures/13811.webp | Mbube blindfold lion/impala in singing circle | Physical Education — African Games — Bayoka, Mbube Mbube and Mamba |
+| 13812 | pictures/13812.webp | Yaekob circle listening | Physical Education — Games for Thinking Carefully |
+| 13813 | pictures/13813.webp | cloth-snatch game | Physical Education — Games for Self-Leadership |
+| 13814 | pictures/13814.webp | four growths of PE panels | Physical Education — What Physical Education Is and Where It Came From |
+| 13815 | pictures/13815.webp | Mamba snake chain and last free player | Physical Education — African Games — Bayoka, Mbube Mbube and Mamba |
+| 13816 | pictures/13816.gif | warm-up arm raise into cool-down reach | Health Education — Staying Safe While Exercising |
+| 13817 | pictures/13817.gif | Five Rounds ball travelling round the circle | Physical Education — Games for Awareness and Quick Response |
+| 13818 | pictures/13818.gif | overhead ball travelling down the line | Physical Education — Games for Communication and Cooperation |
+| 13819 | pictures/13819.gif | jumping from open place to open place | Physical Education — Traditional Games of the Amhara Region |
+| 13820 | pictures/13820.gif | gebeta stone travelling hole to hole | Physical Education — Traditional Games of Ethiopia |
+| 13821 | pictures/13821.gif | "Yaekob says" response: still, then hands rise | Physical Education — Games for Thinking Carefully |
+
+## Computer Science and ICT — Grade 10 Unit 3 Application Software band (Ethiopia Wave 3, D3)
+
+- 14900 — 14900.webp — "Insert Table grid mid-drag (5×2) beside the dialog box (9 columns, 3 rows, AutoFit)" — lesson word-processing/creating-a-word-table-drag-and-dialog-box
+- 14901 — 14901.gif — pointer dragging across the grid while the table grows — lesson word-processing/creating-a-word-table-drag-and-dialog-box — frame-checked
+- 14902 — 14902.webp — "A half-drawn table with the pencil pointer, beside a Quick Tables gallery (Calendar 2 highlighted)" — lesson word-processing/drawing-a-table-and-using-quick-tables
+- 14903 — 14903.gif — the pencil drawing the rectangle, then lines — lesson word-processing/drawing-a-table-and-using-quick-tables — frame-checked
+- 14904 — 14904.webp — "One plain table in three states: styled, ruler-dragged, Table Properties (row 0.5″; Cell Size column 1.1″)" — lesson word-processing/formatting-word-tables-styles-and-exact-sizes
+- 14905 — 14905.webp — "A table edge with the blue + insert control, and a right-click menu with Delete Rows highlighted" — lesson word-processing/adding-and-removing-rows-and-columns
+- 14906 — 14906.gif — the insert control grey → blue, a new row on the click — lesson word-processing/adding-and-removing-rows-and-columns — frame-checked
+- 14907 — 14907.webp — "The Insert Picture route into the Green Legacy page, and a screen clipping rectangle" — lesson word-processing/inserting-pictures-and-screenshots
+- 14908 — 14908.gif — the screen-clipping drag — lesson word-processing/inserting-pictures-and-screenshots — frame-checked
+- 14909 — 14909.webp — "A greeting card of clip-art balloons, beside a circle shape ringing a sentence" — lesson word-processing/clip-art-and-shapes-in-a-document
+- 14910 — 14910.gif — a shape drag-drawn, then drawn perfectly with Shift — lesson word-processing/clip-art-and-shapes-in-a-document — frame-checked
+- 14911 — 14911.webp — "A three-page document numbered in its footer, the first page's number hidden" — lesson word-processing/adding-page-numbers (grown)
+- 14912 — 14912.webp — "A result cell with its formula in the formula bar, and the four-step order-of-operations ladder" — lesson spreadsheets/excel-formulas-operators-and-the-equals-sign (grown)
+- 14913 — 14913.webp — "The anatomy of =AVERAGE(D3:D12), beside the AutoSum five-function list" — lesson spreadsheets/spreadsheet-functions-sum-average-max-min (grown)
+- 14914 — 14914.gif — typing =AVERAGE( and the range lighting up — lesson spreadsheets/spreadsheet-functions-sum-average-max-min (grown) — frame-checked
+- 14915 — 14915.webp — "A grade sheet with its header frozen above a grey line, and the same sheet split into two panes" — lesson spreadsheets/freeze-panes-and-split-keeping-headers-in-view
+- 14916 — 14916.gif — scrolling down with the header row standing still — lesson spreadsheets/freeze-panes-and-split-keeping-headers-in-view — frame-checked
+- 14917 — 14917.webp — "A jumbled name list and the same list alphabetised, the Data tab A→Z between them" — lesson spreadsheets/sorting-a-worksheet
+- 14918 — 14918.gif — rows swapping into alphabetical order — lesson spreadsheets/sorting-a-worksheet — frame-checked
+- 14919 — 14919.webp — "A full grade list, its filter menu half-checked, and the shortened list that remains" — lesson spreadsheets/filtering-data-seeing-only-what-you-need
+- 14920 — 14920.gif — rows disappearing as boxes are unchecked — lesson spreadsheets/filtering-data-seeing-only-what-you-need — frame-checked
+- 14921 — 14921.webp — "A small data table with its pie and column chart twins, Design-tab tools named" — lesson spreadsheets/creating-and-styling-excel-charts
+- 14922 — 14922.webp — "One title cell in four states: plain, new font, larger, coloured and bold" — lesson spreadsheets/formatting-cells-fonts-and-emphasis
+- 14923 — 14923.webp — "Centred text, a bordered block, a filled header row, and 0.5 shown as decimal, 50% and currency" — lesson spreadsheets/formatting-cells-alignment-borders-fill-and-number-formats
+- 14924 — 14924.webp — "Two slides dissolving into each other, Transitions settings and the one-transition rule" — lesson presentations/slide-transitions-and-using-one-throughout
+- 14925 — 14925.gif — one slide dissolving into the next — lesson presentations/slide-transitions-and-using-one-throughout — frame-checked
+- 14926 — 14926.webp — "A bulleted slide with its Animation Pane listing three ordered effects" — lesson presentations/animating-slide-content-entrance-emphasis-the-animation-pane
+- 14927 — 14927.gif — bullet points fading in one by one — lesson presentations/animating-slide-content-entrance-emphasis-the-animation-pane — frame-checked
+- 14928 — 14928.webp — "Slide Master view: one master with its layouts beneath, a logo on all of them" — lesson presentations/creating-a-slide-master
+- 14929 — 14929.gif — a logo placed once on the master appearing on every layout — lesson presentations/creating-a-slide-master — frame-checked
+- 14930 — 14930.webp — "Relative vs absolute references: one changes when copied, one stays fixed — summary-only flag on both halves" — lesson spreadsheets/relative-cell-references (summary growth)

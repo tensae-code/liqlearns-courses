@@ -215,3 +215,37 @@ only — those are counted nowhere, and say so. The books'
 reference shelves (Grade 7 placement 118, Grade 8 placement
 149) are listed in full under "The books' reference shelves"
 above; they are provenance, not lessons.
+
+## Ethiopia, Geography Grade 10 — the book's way and its glossaries (teacher evidence)
+
+**How Grade 10 Geography is taught** (teacher guide, printed
+pp. I–XXII, 1–166, 167–182): a teacher-education front matter —
+foundations and philosophy of geography, values, rationale, aims,
+teaching styles and strategies, teaching aids, assessment — over the
+same eight-unit lesson machine as Grade 9; 78 periods allotted
+(5, 9, 12, 12, 12, 8, 5, 15 by unit); the back matter is References,
+the Minimum Learning Competencies and the full Syllabus. Its parts:
+why geography is taught (pp. I–XI); the teaching toolkit — maps,
+globe, atlases, photographs, charts, local specimens, replicas,
+computers (pp. XI–XIII, XXI); assessing geography learning —
+continuous/formative and outcomes assessment, debates, interviews,
+demonstrations, questions and answers, tests and quizzes, self- and
+peer-assessment (pp. XIII, XXI–XXII); geography education in
+Ethiopia (pp. XV–XX); and the field trip's eleven steps — decide the
+place, schedule, permission letter, administrator, transport, food
+plan, team leader, who may go, execute, field-trip note, report
+(p. XXII). The guide's per-unit pedagogy summaries and answer keys
+are marking evidence for their units, filed here, not lessons.
+
+**Migration words** (teacher guide, printed p. 140): migration,
+immigration, immigrant, voluntary and forced migration,
+international migration, country of origin, illegal immigrant,
+push and pull factors — the guide's own glossary for the migration
+unit; its teaching substance is also stocked inside the lesson
+"Push and pull — why Africans move" as labelled teacher evidence.
+
+**Geospatial words** (Grade 10 student book, Unit 8, printed
+pp. 202, 205): the unit's basic terms — variable, field survey and
+the geospatial set — filed here as the course glossary reference for
+the maps-and-GIS title; the unit's closing class-data pie-chart
+project stands with the Grade 12 geospatial bands.

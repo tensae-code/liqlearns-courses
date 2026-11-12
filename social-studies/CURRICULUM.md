@@ -123,3 +123,26 @@ Band records land here as each band is built and verified.
 ## Modern Ethiopia (Unit 11) — built 2026-11-12 (Wave 3 Part 2 continuation; picture range 11600–11633)
 
 32 lessons, 413 questions — one lesson per Grade 8 student placement 77–108 (Chapter 4, printed pp. 102–141), story-first narrative throughout; 29 lessons carry 2 sub lessons, 3 are whole lessons (Gafat foundry, Boru Meda council, besieging Sahati). Full video script for the Adwa battle account where the placement names it. STUDENT BOOK ALONE: no teacher evidence claimed — every sources.md states the Grade 8 guide's Units 4–7 are not in hand. Date traps taught corrected and named in sources: Mekelle January 1896 (printed 1895), Maychew March 31, 1936 (printed May 31); the OAU correction (printed June 25 → May 25, 1963) recorded in the first lesson's sources as belonging to a later title, not taught here. Placement 109 (assessment stock) is a prove-it pool, built into its own lessons; the one unbuilt piece is the old-titles definitions task (Fitawrari, Ras, Dejazmach, Bitweded, Grazmach, Lij) — the placements use the titles but give no definitions, so per the guide they were not taught. Pictures 11600–11631 (32, drawn PIL, every one looked at via contact sheets — all clean, corrected dates verified on 11617 and 11625); GIFs 11632 (caravan Bonga to Gondar) and 11633 (two invasion arrows converging on Addis) frame-checked PASS. Build log: ethiopia-2026-11-11/build-logs/ss-K-modern-ethiopia.md.
+
+## Ethiopia Grade 10 Geography (Africa) — built 2026-11-12 (Wave 4 Geography Band B; picture range 21300–21333)
+
+27 new lessons, 282 questions, stocked across the existing titles from
+Ethiopia's Geography Grade 10 student book (72 placements) and its
+teacher guide (28 placements, labelled evidence): **The Land and Air**
++14 (the geography of Africa: landform regions, Atlas, Sahara, Sahel,
+savanna, river basins, rainforest, climate controls and types,
+vegetation belts); **Population, Transport and Maps** +5 (urbanising,
+density, push and pull, rural settlement, and the guide-only GPS
+field-capture lesson on the 0-countries evidence line); **People and
+Resources** +4 (minerals, wildlife and parks, languages and faiths,
+dependency); **Resources and Conflict** +4 (coastal pollution and its
+clean-up, Agenda 2063 ×2). Pictures 21300–21326 (27 drawn PIL, every
+one looked at; 21314 redrawn after an edge-clipping fault); GIFs
+21330–21333 (sand creep, savanna leaf-shed, ITCZ slide, map enlarging —
+all frame-checked PASS). Honesty carried in the sources: the guide
+(2022) / student book (2023) pairing; the coastal §7.3 guide gap and
+"dentify" misprint taught corrected; the 2016 urban table and mid-2020
+figures taught as printed. The G10 remainders outside these titles
+(population measures, employment and poverty, geospatial skills,
+charts) belong to the Grade 12 bands. Build log:
+ethiopia-2026-11-11/build-logs/wave4-geo-B-g10-africa.md.
