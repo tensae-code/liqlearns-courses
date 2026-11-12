@@ -34,3 +34,39 @@ a) bending forward to touch the toes, leaning each way, and stretching overhead 
 a) bending forward to touch the toes, leaning each way, and stretching overhead  b) stretching = the muscles' elasticity; flexibility = the joints' range of movement; benefit = preventing injury  c) arms-up side leans, waist forward-and-back stretches, and leg stretching to reduce injury
 **Answer: c) arms-up side leans, waist forward-and-back stretches, and leg stretching to reduce injury**
 
+
+**9. (Sub lesson 5)** What does the part "Stretching and flexibility — Grade 5" teach?
+a) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first  b) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches  c) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle
+**Answer: a) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first**
+
+**10. (Sub lesson 5)** Which of these is done in "Stretching and flexibility — Grade 5"?
+a) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches  b) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first  c) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle
+**Answer: b) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first**
+
+**11. (Sub lesson 5)** A learner doing "Stretching and flexibility — Grade 5" correctly is —
+a) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches  b) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle  c) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first
+**Answer: c) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first**
+
+**12. (Sub lesson 6)** What does the part "Flexibility — Grade 6 stretches" teach?
+a) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches  b) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first  c) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle
+**Answer: a) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches**
+
+**13. (Sub lesson 6)** Which of these is done in "Flexibility — Grade 6 stretches"?
+a) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first  b) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches  c) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle
+**Answer: b) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches**
+
+**14. (Sub lesson 6)** A learner doing "Flexibility — Grade 6 stretches" correctly is —
+a) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first  b) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle  c) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches
+**Answer: c) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches**
+
+**15. (Sub lesson 7)** What does the part "Flexibility — Grade 7: sit-and-reach and the six-stretch circuit" teach?
+a) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle  b) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first  c) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches
+**Answer: a) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle**
+
+**16. (Sub lesson 7)** Which of these is done in "Flexibility — Grade 7: sit-and-reach and the six-stretch circuit"?
+a) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first  b) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle  c) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches
+**Answer: b) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle**
+
+**17. (Sub lesson 7)** A learner doing "Flexibility — Grade 7: sit-and-reach and the six-stretch circuit" correctly is —
+a) leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first  b) bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches  c) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle
+**Answer: c) the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle**

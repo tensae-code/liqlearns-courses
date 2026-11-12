@@ -12,6 +12,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **Knowing my strengths and valuing my own ability (teacher guide — evidence)** — the Grade 1 teacher guide's self-awareness teaching: knowing your own strength, the ball-into-basket aiming game, and building self-respect — abilities differ and every child's ability is valued.
 3. **The Grade 2 games — holding on, Dirchi Dirchi, passing backwards** — the Grade 2 games: pairs and groups crouching, holding each other and jumping forward together; the Dirchi Dirchi game; kneeling and passing a ball backwards.
 
+4. **Self-control — waiting, turns and the judge's word (teacher guide — evidence)** — the Grade 6 teacher guide's third fruit of its social chapter: in games the learner controls impulses, waits for turns and accepts the judge's and the game's rules; the chapter's three built skills are togetherness, communication, and standing for self and others.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +25,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Run the zigzag (in-and-out) run keeping control of their speed.
 3. Say what self-control in a game is: working while respecting the rules.
 4. Show one thing they can do well, honestly, and value another child's different ability.
+
+5. Govern an impulse in a real game — wait the turn, accept the ruling — and name the three skills the guide's chapter builds.
 
 ## What you need
 A ball, a line or rope on the ground, and a group of players. Nothing else.

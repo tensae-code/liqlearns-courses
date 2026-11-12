@@ -12,6 +12,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **Positions and rolls** — standing, sitting and lying positions, side rolls and leg-hug rolls on a mat.
 3. **Rolls and steps, harder** — knee-hug rolls, stretched rolls, and stepping up and down boxes.
 4. **Rolls and supports in pairs** — forward and backward rolls, pair rolls, and bar work with a mat and spotter.
+5. **Forward rolls from a forehead stand and a handstand — Grade 6** — forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting.
+6. **Free gymnastics — Grade 7: headstand, head spring and cartwheel** — the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +25,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Do and explain: knee-hug rolls, stretched rolls, and stepping up and down boxes.
 4. Do and explain: forward and backward rolls, pair rolls, and bar work with a mat and spotter.
 
+5. Do and explain: forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting.
+6. Do and explain: the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting.
+
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
 
@@ -32,6 +37,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
    - ADD IMAGE [Picture 13517]: a picture of a child side-rolling on a mat — the student names the movement and copies it safely.
    - ADD GIF [GIF 13518]: the forward roll — crouch, hands down, tuck, roll, stand — the student watches first, then copies the movement.
    - ADD AUDIO: the movement names and counts read aloud — the student says them along with the voice.
+   - ADD IMAGE [Picture 13736]: a picture of the headstand base — forehead and both hands making a triangle on a mat, with a helper standing by — the student names the movement and copies it safely.
+   - ADD GIF [GIF 13737]: the cartwheel — turning sideways hand to hand like a wheel — the student watches first, then copies the movement.
 3. **Say it to your companion** — name each movement and say what it trains (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching — served at the learner's level (levels.md).
@@ -43,6 +50,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - GIF [GIF 13518]: the forward roll — crouch, hands down, tuck, roll, stand — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
+
+- IMAGE [Picture 13736]: a picture of the headstand base — forehead and both hands making a triangle on a mat, with a helper standing by — the student names the movement and copies it safely.
+- GIF [GIF 13737]: the cartwheel — turning sideways hand to hand like a wheel — the student watches the movement, then does it slowly, then at full speed.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

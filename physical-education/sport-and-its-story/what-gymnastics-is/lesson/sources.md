@@ -6,10 +6,20 @@ countries: Ethiopia
 
 **Book 2:** *Grade 1 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 1ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–81 + front matter (88 PDF pages). Printed page = PDF page − 7. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-student-placements.md.
 
+**Book 3:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
+
+**Book 4:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
+
+**Book 5:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–96 + front matter (104 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — the concept section: what gymnastics is and the benefits of gymnastics movements | Ethiopia, *Grade 3 Student Textbook*, §5.1, printed p. 48 |
 | Supporting chapter context named in the lesson — basic movements keep body and mind healthy; balance defined with its benefit; calisthenics for arm, shoulder and chest (student book, pictured teaching) | Ethiopia, *Grade 1 Student Textbook*, §§5.1–5.3, printed pp. 55–69 |
+
+| The Grade 5 pass — what gymnastics is; free and apparatus kinds; rhythmic gymnastics | Ethiopia, *Grade 5 Student Textbook*, §§5.1–5.3, printed pp. 66–77 |
+| The Grade 6 pass — benefits and the two kinds | Ethiopia, *Grade 6 Student Textbook*, item 37, printed pp. 57–58 |
+| The Grade 7 pass — a short history of gymnastics | Ethiopia, *Grade 7 Student Textbook*, item 27 (§5.1), printed p. 58 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
@@ -21,4 +31,6 @@ Placement choice, recorded: the Grade 3 placement names this a NEW LESSON NEEDED
 
 The Grade 1 chapter context rows are the student book's own pictured teaching, cited as context for the benefits the concept lesson summarises; no page claims beyond the placements.
 
-Searchable tags: what gymnastics is, ጅምናስቲክስ, number gymnastics የቁጥር ጅምናስቲክስ, balance benefit, Ethiopia HPE Grade 3
+Extension note (2026-11-12): the Grade 5–7 parts were added in the Wave 2 Band B build. All three added books are complete student textbooks.
+
+Searchable tags: what gymnastics is, ጅምናስቲክስ, number gymnastics የቁጥር ጅምናስቲክስ, balance benefit, Ethiopia HPE Grade 3, rhythmic gymnastics ሪትሚክ ጅምናስቲክስ, hoop ቀለበት, history of gymnastics, Ethiopia HPE Grades 5–7

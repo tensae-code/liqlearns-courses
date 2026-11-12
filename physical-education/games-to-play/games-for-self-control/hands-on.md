@@ -9,3 +9,7 @@ Set up the two-rows passing game and the ball-into-basket aiming game with a rea
 ## Hold and jump
 
 In pairs: crouch, hold each other, jump forward together. Start with one jump. Grow to five in a row. If you fall, laugh, reset, and say what rushed.
+
+## The governed game
+
+Play any class game with one added rule: any protest stops the protester's team for one turn. Afterwards, players name the hardest moment to govern — and how they did it.

@@ -12,6 +12,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **Continuous sequences to music** — continuous sequences — side stretches, twists and two-foot jumps without stopping.
 3. **Progressive sequences and equipment to music** — sequences that build step by step, and equipment movements landing on the beat.
 4. **Equipment to music, and creating your own** — timing the dribble bounce to the beat, and inventing your own rhythmic movement.
+5. **Rhythmic gymnastics — Grade 5: a hoop to music** — rhythmic gymnastics as a creative individual performance — moving a ring or hoop in time with different music beats.
+6. **Rhythmic gymnastics — Grade 6: ball, hoop and rope** — rhythmic gymnastics with a ball, with a hoop and with a rope — training attention and body-part coordination, performed alone and in groups.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +25,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Do and explain: sequences that build step by step, and equipment movements landing on the beat.
 4. Do and explain: timing the dribble bounce to the beat, and inventing your own rhythmic movement.
 
+5. Do and explain: rhythmic gymnastics as a creative individual performance — moving a ring or hoop in time with different music beats.
+6. Do and explain: rhythmic gymnastics with a ball, with a hoop and with a rope — training attention and body-part coordination, performed alone and in groups.
+
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
 
@@ -32,6 +37,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
    - ADD IMAGE [Picture 13521]: a picture of children clapping overhead on the count — the student names the movement and copies it safely.
    - ADD GIF [GIF 13522]: the counted clap sequence — 1-2-3-4 — keeping the beat — the student watches first, then copies the movement.
    - ADD AUDIO: the movement names and counts read aloud — the student says them along with the voice.
+   - ADD IMAGE [Picture 13740]: a picture of a child moving a hoop in time to music — the student names the movement and copies it safely.
+   - ADD GIF [GIF 13741]: hoop movements flowing from one to the next on the beat — the student watches first, then copies the movement.
 3. **Say it to your companion** — name each movement and say what it trains (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching — served at the learner's level (levels.md).
@@ -43,6 +50,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - GIF [GIF 13522]: the counted clap sequence — 1-2-3-4 — keeping the beat — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
+
+- IMAGE [Picture 13740]: a picture of a child moving a hoop in time to music — the student names the movement and copies it safely.
+- GIF [GIF 13741]: hoop movements flowing from one to the next on the beat — the student watches the movement, then does it slowly, then at full speed.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

@@ -44,6 +44,14 @@ A year on, the games ask for more control, because now your body is tied to a pa
 
 **Kneeling and passing a ball backwards.** You kneel, and the ball goes backwards over the line of players. You cannot see where it goes — you must trust your hands and your control.
 
+## Sub lesson 4 — Self-control — waiting, turns and the judge's word (teacher guide — evidence)
+
+The Grade 6 teacher guide completes its social chapter with the third fruit: **self-control**.
+
+In games, the learner **controls impulses, waits for turns, and accepts the judge's and the game's rules**. The chapter's summary names the three skill types built across the whole chapter: **togetherness, communication, and standing for self and others** — and responsible decision-making plays the key role in all of them.
+
+Self-control here is not silence. It is the impulse felt — and governed — in the middle of a game you want to win.
+
 ## Say it to your companion
 
 Tell your companion: name one game from this lesson. Say what the player must control — their hands, their speed, or their temper — and what happens if they do not.

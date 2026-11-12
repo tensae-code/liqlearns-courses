@@ -29,3 +29,35 @@ a) The teacher's calls change, and you must do exactly the called action  b) Not
 **7. (Sub lesson 3) ** What happens in the number game when a mistake is made?
 a) The count restarts  b) The game ends forever  c) Nothing
 **Answer: a) The count restarts**
+
+**8. (Sub lesson 4)** In Five Rounds, the whole class passes fast to…
+a) Finish the round first  b) Hold the ball longest  c) Sit down first
+**Answer: a) Finish the round first**
+
+**9. (Sub lesson 4)** In the outside–inside game, how many group names are called at once?
+a) Two  b) One  c) Five
+**Answer: a) Two**
+
+**10. (Sub lesson 5)** In running-while-passing, if the ball touches the ground the team…
+a) Restarts  b) Wins  c) Changes the ball
+**Answer: a) Restarts**
+
+**11. (Sub lesson 5)** In the number command, you race when…
+a) Your number is called  b) Any number is called  c) The whistle blows twice
+**Answer: a) Your number is called**
+
+**12. (Sub lesson 6)** In the called-stations game, you run…
+a) Only to the named stations  b) To every station  c) To the nearest station
+**Answer: a) Only to the named stations**
+
+**13. (Sub lesson 6)** A red traffic-light card means…
+a) Stop  b) Run  c) Jump
+**Answer: a) Stop**
+
+**14. (Sub lesson 7)** Attention control is focusing on…
+a) Task-relevant information, resisting distractors  b) Everything at once  c) Only your own feelings
+**Answer: a) Task-relevant information, resisting distractors**
+
+**15. (Sub lesson 7)** Mindfulness is focusing awareness on…
+a) The present moment  b) Yesterday's game  c) Next year's prize
+**Answer: a) The present moment**

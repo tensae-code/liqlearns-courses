@@ -38,6 +38,40 @@ Face a partner. They move — an arm up, a step to the side. Now you: the same, 
 
 **The cycling movement — ሳይክል.** Lying on your back, legs pedalling in the air in turns, hands supporting — for the set count or the set time. Your legs are the wheels; the limit is the road.
 
+## Sub lesson 5 — The cloth-snatch game — leading yourself at speed
+
+**The cloth-snatch game.** Each pupil stands with a **handkerchief or cloth tucked at the back of their belt**. On the **"start" command**, everyone tries to **snatch others' cloths** — while guarding their own. The Grade 5 book prints the game with its full procedure and its "systems to follow" (rules).
+
+Leading yourself is tested at speed here: attack and defence in the same second, inside the rules, without losing your temper when your own cloth is taken.
+
+[Picture 13813 — the cloth tucked at the belt, the snatch and the guard]
+
+## Sub lesson 6 — Self-knowledge games — hoop race, handkerchief-hand, rooster fight
+
+The Grade 6 book frames this family first: **self-knowledge and self-direction** mean knowing your **strengths, weaknesses and limits**, and controlling your actions, feelings and thoughts to reach a goal. Three games train it.
+
+**Hoop on-and-off race — የቀለበት የማጥለቅና የማውለቅ እሽቅድድም.** Each team passes a hoop **over the head, down the body and off at the feet** to the next member; the first team finished wins.
+
+**Handkerchief-hand — እጅ ከፍንጅ.** A circle passes a small ball right and left; on the **"enough"** command, whoever holds it is out — dropping it to the ground *before* the command saves you. The last two win.
+
+**Rooster fight — የደሮ ጥል.** Pairs hop facing each other, **arms folded on the chest**, pushing **palm to palm**; losing balance loses; **first to 10 points wins**.
+
+## Sub lesson 7 — Managing myself and thinking positively (teacher guide — evidence)
+
+The Grade 5 teacher guide defines **self-management**: your internal ability to control yourself — **carrying out your daily tasks with courage in hard situations, without being pushed by others**.
+
+Through this subject, personal conduct improves: **giving up lying, not wanting what is not yours, not cheating, keeping the order of home rules, and entering physical activity with cleanliness of body and character**.
+
+**Positive thinking — አምንታዊ አስተሳሰብ** is seeing the good path in a situation instead of only its difficulty. Build it the guide's way: **begin tasks expecting to succeed, face problems as solvable, finish what you start, accept the result and try again** — and carry it from games into study and life.
+
+## Sub lesson 8 — Confidence, control and calm breathing (teacher guide — evidence)
+
+The Grade 7 teacher guide names the inner skills. **Self-confidence**: a feeling of self-assurance from appreciating your own abilities — confident movers experience joy and grow competence. **Self-control**: regulating your responses to avoid undesirable behaviours, increase desirable ones and reach long-term goals. **Self-awareness**: knowing your thoughts, behaviours, values, goals, strengths and challenges. **Self-management**: regulating emotions and behaviours so you and others feel free.
+
+Two movement practices train awareness of the body: **neck movement** — seated, legs stretched, rotate the neck slowly without jerk, five times each way — and **shoulder movement** — kneeling, lifting both shoulders toward the ears and releasing, 3 sets of 5.
+
+And for calming: **active breathing**. When upset, worried or over-excited: sit or stand comfortably; choose a relaxing word — the guide's example is **"peace"** — breathe in, and softly say the word as the air leaves. Use it any time you need to calm down.
+
 ## Say it to your companion
 
 Tell your companion what self-management looks like in a game — the three signs. Then tell them what self-discipline adds: the rule kept with nobody watching.

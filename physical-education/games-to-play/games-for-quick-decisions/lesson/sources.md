@@ -16,6 +16,16 @@ countries: Ethiopia
 
 **Book 7:** *Grade 4 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት መጽሐፍ, አራተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (46 PDF pages). Printed page = PDF page − 7. TRUNCATED — the file holds printed pp. 1–39 of 72+. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g04-teacher-placements.md.
 
+**Book 8:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–106 + front matter (114 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md.
+
+**Book 9:** *Grade 5 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አምስተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C., printed pp. 1–41 held of 80+ (48 PDF pages). Printed page = PDF page − 7. TRUNCATED — the file holds printed pp. 1–41 of 80+. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-teacher-placements.md.
+
+**Book 10:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–95 + front matter (103 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md.
+
+**Book 11:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–96 + front matter (104 PDF pages). Printed page = PDF page − 8. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md.
+
+**Book 12:** *Grade 7 Health and Physical Education Teacher Guide* (teacher guide, English) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed pp. iii + 1–45 held (51 PDF pages). TRUNCATED — the file holds Chapters 1–3 complete (printed pp. 1–45); chapters beyond Chapter 3 are missing from the file. Read in full from the text layer, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Cat and Mouse, handkerchief question game, Homeless, Yaekob, circle-turning | Ethiopia, *Grade 1 Student Textbook*, §3.3, printed pp. 36–39 |
@@ -26,6 +36,11 @@ countries: Ethiopia
 | Sub lesson 5 — relay handovers; moving safely among others (teacher guide — evidence) | Ethiopia, *Grade 2 Teacher Guide*, §3.3 Tasks 2–3, printed pp. 38–40 |
 | Sub lesson 5 — Who Do You Want? choosing/breakthrough game and its safety rules (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide*, §3.2.2 Task 1, printed pp. 44–45 |
 | Sub lesson 5 — Asgebiny Zare, deciding in the circle-entry game (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide*, §3.2 Task 3.3, printed p. 33 |
+
+| Sub lesson 6 — Games for responsible decisions | Ethiopia, *Grade 5 Student Textbook*, §2.3, printed pp. 15–16 |
+| Sub lesson 7 — Deciding in the moment — and solving problems in competition (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §§2.2–2.2.1, printed pp. 15–17 |
+| Sub lesson 8 — Decision games — below-the-knee dodgeball and the waist chain | Ethiopia, *Grade 6 Student Textbook*, items 16–17, printed pp. 17–19 |
+| Sub lesson 9 — Ilama — and choosing your own challenge | Ethiopia, *Grade 7 Student Textbook*, item 11 (§2.3.2), printed p. 20; and *Grade 7 Teacher Guide*, §2.3, printed pp. 23–24 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
@@ -43,4 +58,14 @@ The Grade 3 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–52
 
 The Grade 4 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–39 of 72+. Missing from the file: all of Chapter 4 Health and physical-fitness activities (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 Addis Ababa traditional movements and games (pp. 66–72+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
-Searchable tags: games for quick decisions, Cat and Mouse አይጥና ድመት, Nekahuny ነካሁኝ, Homeless ቤት የለሽ, Who Do You Want ማንን ትፈልጋላችሁ, Ethiopia HPE
+The Grade 5 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
+
+The Grade 5 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–41 of 80+. Missing from the file: the rest of §4.3, Chapter 5 Gymnastics (pp. 44–56), Chapter 6 Ball-game receiving skills (pp. 57–77) and Chapter 7 traditional movements and games (pp. 78–80+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
+
+The Grade 6 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
+
+The Grade 7 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
+
+The Grade 7 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–45 — Chapters 1–3 complete — and ends at the end of Chapter 3. Chapters beyond Chapter 3 (by the series pattern: athletics, gymnastics, ball games and traditional games) are missing from the file. Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
+
+Searchable tags: games for quick decisions, Cat and Mouse አይጥና ድመት, Nekahuny ነካሁኝ, Homeless ቤት የለሽ, Who Do You Want ማንን ትፈልጋላችሁ, Ethiopia HPE, responsible decisions, ball-to-goal game, solving problems in competition, below-the-knee dodgeball, waist chain ከወገብ መያያዝ, Ilama ኢላማ, What a decision, Ethiopia HPE Grades 5–7

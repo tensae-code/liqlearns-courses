@@ -13,3 +13,15 @@ Pass mark: keep a rule in a game with nobody watching, and play Pipali Kol witho
 
 ## Sub lesson 4 — Beating the clock fairly — timed rope jumps and bicycle legs (teacher guide — evidence)
 Pass mark: jump rope inside a set time limit and count your jumps honestly, and pedal the cycling movement for the set count without stopping.
+
+## Sub lesson 5 — The cloth-snatch game — leading yourself at speed
+Pass mark: play a full round inside the printed rules: snatch fairly, guard your own cloth, and accept losing it without protest.
+
+## Sub lesson 6 — Self-knowledge games — hoop race, handkerchief-hand, rooster fight
+Pass mark: play all three games and name, for one of them, a strength and a limit of your own that the game showed you.
+
+## Sub lesson 7 — Managing myself and thinking positively (teacher guide — evidence)
+Pass mark: name the conduct list's three honesty items and the four steps of building positive thinking.
+
+## Sub lesson 8 — Confidence, control and calm breathing (teacher guide — evidence)
+Pass mark: do the neck and shoulder movements as printed and use active breathing, word and all, to calm down.

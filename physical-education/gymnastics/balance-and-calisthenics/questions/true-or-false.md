@@ -26,3 +26,9 @@ Say true or false.
 **8. (Sub lesson 4)** In "Combined gymnastics movements", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
 
+
+**9. (Sub lesson 5)** In this lesson, "Free gymnastics and balance — Grade 5" teaches: free gymnastics without apparatus, with keeping balance as a named element — and form checked, not just done: the hand turned fully to the opposite leg.
+**Answer: True**
+
+**10. (Sub lesson 5)** In "Free gymnastics and balance — Grade 5", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

@@ -26,3 +26,21 @@ Say true or false.
 **8. (Sub lesson 4)** In "Side leans and waist stretches", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
 
+
+**9. (Sub lesson 5)** In this lesson, "Stretching and flexibility — Grade 5" teaches: leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first.
+**Answer: True**
+
+**10. (Sub lesson 5)** In "Stretching and flexibility — Grade 5", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "Flexibility — Grade 6 stretches" teaches: bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches.
+**Answer: True**
+
+**12. (Sub lesson 6)** In "Flexibility — Grade 6 stretches", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**13. (Sub lesson 7)** In this lesson, "Flexibility — Grade 7: sit-and-reach and the six-stretch circuit" teaches: the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle.
+**Answer: True**
+
+**14. (Sub lesson 7)** In "Flexibility — Grade 7: sit-and-reach and the six-stretch circuit", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

@@ -10,3 +10,15 @@ Pass mark: answer five inside/outside commands instantly and correctly, and drib
 
 ## Sub lesson 3 — Watch and listen — attention games on changing calls (teacher guide — evidence)
 Pass mark: do exactly the called action through five changing calls without a mistake, and answer the number pattern without error.
+
+## Sub lesson 4 — Social awareness games — Ball in the Air, Five Rounds, outside–inside
+Pass mark: keep a Five Rounds passing circuit moving for a full round without the ball touching the ground.
+
+## Sub lesson 5 — Running while passing, and the number command
+Pass mark: answer your number three times in a row without a false start, and keep a running-pass circuit in the air for one full length.
+
+## Sub lesson 6 — Attention and observation games (teacher guide — evidence)
+Pass mark: run only to the called stations out of four, stop on red and run on green three times without error, and balance on one leg to the count of 5.
+
+## Sub lesson 7 — Attention control and mindfulness (teacher guide — evidence)
+Pass mark: hold focus on a called task while distractions happen around you, and afterwards name what you have and what you still need.

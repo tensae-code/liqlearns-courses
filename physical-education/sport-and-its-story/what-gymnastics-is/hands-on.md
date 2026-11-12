@@ -9,3 +9,7 @@ On a mat: roll sideways, balance on one leg for a slow count of five, jump and s
 ## Sort the strip
 
 Look at the lesson's picture strip. Name each movement and its family — roll, balance, jump. Add a fourth from memory: a position.
+
+## Kinds hunt
+
+Watch or picture three gymnastics performances and sort each: free, apparatus or rhythmic. Name the equipment — or its absence — that decided your sort.

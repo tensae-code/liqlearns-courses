@@ -13,3 +13,15 @@ Pass mark: the learner does and explains — fitness that protects against heart
 
 ## Sub lesson 4 — The six-minute run and steady stepping
 Pass mark: the learner does and explains — the six-minute run, somsoma heel-touching and steady step-ups.
+
+## Sub lesson 5 — The step-up test and counting the heart (teacher guide — evidence)
+Pass mark: the learner does and explains — the step-up test on a 20–30 cm step, with the heartbeat counted before and after.
+
+## Sub lesson 6 — Heart and breathing fitness — Grade 5 movements
+Pass mark: the learner does and explains — walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing.
+
+## Sub lesson 7 — Heart and breathing fitness — Grade 6: pulse, skipping and stepping
+Pass mark: the learner does and explains — taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box.
+
+## Sub lesson 8 — Cardio fitness — Grade 7: jacks, hop squats and ropes
+Pass mark: the learner does and explains — cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest.

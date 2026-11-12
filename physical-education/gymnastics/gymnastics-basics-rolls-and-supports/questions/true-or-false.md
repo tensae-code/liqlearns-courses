@@ -26,3 +26,15 @@ Say true or false.
 **8. (Sub lesson 4)** In "Rolls and supports in pairs", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
 
+
+**9. (Sub lesson 5)** In this lesson, "Forward rolls from a forehead stand and a handstand — Grade 6" teaches: forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting.
+**Answer: True**
+
+**10. (Sub lesson 5)** In "Forward rolls from a forehead stand and a handstand — Grade 6", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "Free gymnastics — Grade 7: headstand, head spring and cartwheel" teaches: the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting.
+**Answer: True**
+
+**12. (Sub lesson 6)** In "Free gymnastics — Grade 7: headstand, head spring and cartwheel", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

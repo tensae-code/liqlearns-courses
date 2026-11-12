@@ -24,6 +24,14 @@ Toss a ball upward and catch it yourself, again and again. Throw a two-hand ches
 
 Throw a ball upward and catch it with two hands. Then throw to a partner and catch the return, and try bounce-catch variations.
 
+## Sub lesson 5 — Ball handling and chest control — Grade 5
+
+Ball handling (የኳስ አያያዝ) is general ball mastery: bring a moving ball under control with the first touch. Receiving and passing with the chest (በደረት ትይዩ): meet the ball chest-parallel, cushion it so it drops softly off the chest to your feet, then pass; games played by passing with the chest practise the same skill in play.
+
+[Picture 13744 — a child cushioning a ball on the chest so it drops to the feet]
+
+[GIF 13745 — the chest receive — the ball dropping softly off the chest to the feet]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

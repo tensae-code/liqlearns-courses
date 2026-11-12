@@ -10,3 +10,6 @@ Pass mark: name one thing you can do well, show it in the basket aiming game, an
 
 ## Sub lesson 3 — The Grade 2 games — holding on, Dirchi Dirchi, passing backwards
 Pass mark: jump forward together with a partner without letting go or falling, and pass a ball backwards while kneeling.
+
+## Sub lesson 4 — Self-control — waiting, turns and the judge's word (teacher guide — evidence)
+Pass mark: play a full game waiting every turn and accepting every ruling without protest, then name the impulse you governed.

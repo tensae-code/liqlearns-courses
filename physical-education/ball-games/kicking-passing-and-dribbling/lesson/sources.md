@@ -12,12 +12,19 @@ countries: Ethiopia
 
 **Book — Grade 4 teacher (teacher guide — evidence):** *Grade 4 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት መጽሐፍ, አራተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g04-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
+**Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
+**Book — Grade 6 student:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 95 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md. COMPLETE.
+**Book — Grade 7 student:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md. COMPLETE.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Kicking and passing a ball | Ethiopia, Grade 1 student §1.3.1 Kicking a ball, printed pp. 19–21 |
 | Ball control with the feet | Ethiopia, Grade 2 student §1.4 Equipment movements below the waist, printed pp. 11–16 |
 | Equipment skills — balls, rings and targets | Ethiopia, Grade 4 student §1.2 Equipment movements; Grade 3 student §1.3 Combined equipment movements, printed pp. 6–12 (Grade 4 student); printed pp. 8–14 (Grade 3 student) |
 | Football dribbling and net ball (teacher guide — evidence) | Ethiopia, Grade 4 teacher Tasks 1.10–1.11 (teacher guide — evidence), printed pp. 12–13 |
+| Passing with the inside and outside of the foot — Grade 5 | Ethiopia, Grade 5 student §§6.4–6.6, printed pp. 85–88 |
+| Football dribbling — Grade 6 | Ethiopia, Grade 6 student §6.2, printed pp. 73–76 |
+| Kicking and controlling — Grade 7 | Ethiopia, Grade 7 student §6.2, printed pp. 70–75 |
 
 **Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
 

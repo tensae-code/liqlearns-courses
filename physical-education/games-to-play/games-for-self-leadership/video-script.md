@@ -11,3 +11,7 @@ Akukulu! The seeker calls — answer, move, do not be caught!
 The ball is out! Two minutes! Bring it back — and the rest of us WAIT, in order.
 A rule nobody watches is still a rule. Keep it. That is self-discipline.
 One minute. Rope turning. Count honestly. Beat the clock — fairly.
+A cloth at your belt! Snatch theirs — GUARD yours!
+Hoop over the head, down, off at the feet — next!
+Begin expecting to succeed. Finish what you start. Accept. Try again.
+Breathe in… and out on your word: peace.

@@ -13,3 +13,6 @@ Do the main movement ten times, counting aloud. Stop if anything hurts. Rest, br
 
 ## If it is hard
 Do the youngest part only, on the spot, at walking speed, beside a partner or a wall for balance. Smaller and slower is still the lesson.
+
+## The Grade 5–7 parts
+Do the new parts in order, slowly first: Muscle strength by body part, Push-ups, side hops and curl-ups, Muscle strength, Muscular endurance. Stop if anything hurts; use a mat and a partner or teacher for rolls, bars and balances.

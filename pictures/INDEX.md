@@ -2722,3 +2722,32 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 14201 | pictures/14201.webp | the design-elements plate — the elements and principles on one board | Performing and Visual Arts — Elements and Principles of Design |
 | 14202 | pictures/14202.webp | the eleven Lalibela churches plate | Performing and Visual Arts — Lalibela: Churches Carved from One Rock |
 | 14203 | pictures/14203.gif | GIF — still-life stages: arrange, light drawing, paint lightest-first, finish | Performing and Visual Arts — Painting Still Life |
+| 22500 | pictures/22500.webp | three calendars side by size | Social Studies — Dating the past |
+| 22501 | pictures/22501.webp | three fieldworkers — dig, fossil, village study | Social Studies — Who studies prehistory |
+| 22502 | pictures/22502.webp | two statements marked fact / opinion | Social Studies — Fact or opinion? Reading the past critically |
+| 22503 | pictures/22503.webp | Endubis coin primary, textbook secondary, oral tradition | Social Studies — From evidence to a written history |
+| 22504 | pictures/22504.webp | historiography shelf — China, Herodotus, Thucydides, Ethiopia | Social Studies — Historiography — the history of history-writing |
+| 22505 | pictures/22505.webp | creation / evolution facing panels | Social Studies — Creation and evolution — two accounts of human origin |
+| 22506 | pictures/22506.webp | Great Zimbabwe as heritage | Social Studies — Heritage — what it is and why it matters |
+| 22507 | pictures/22507.webp | dynastic cycle stations | Social Studies — China's dynastic cycle and the Mandate of Heaven |
+| 22508 | pictures/22508.webp | Christianity's spread, Palestine to Rome to the world | Social Studies — Christianity — from persecuted sect to state religion |
+| 22509 | pictures/22509.webp | Chad, Middle Awash, Hadar fossil sites | Social Studies — Africa, cradle of humankind |
+| 22510 | pictures/22510.webp | three Stone Ages panels | Social Studies — From stone tools to farming — the Neolithic Revolution |
+| 22511 | pictures/22511.webp | Addi-Seglemeni slab | Social Studies — Addi-Seglemeni — Ethiopia's oldest monumental inscription (teacher guide — evidence) |
+| 22512 | pictures/22512.webp | Cushitic / Semitic / Omotic | Social Studies — Ethiopia's language families |
+| 22513 | pictures/22513.webp | Damot, Kafa, Gurage chiefdoms | Social Studies — Damot, Kafa and the southern states |
+| 22514 | pictures/22514.webp | enset, Gurage, Siltie Sera | Social Studies — Enset peoples — Gurage chiefdoms and Siltie Sera |
+| 22515 | pictures/22515.webp | Gumuz, Shinasha, Benishangul | Social Studies — Gumuz, Shinasha and the gold sheikhdoms of Benishangul |
+| 22516 | pictures/22516.webp | Harar walls, trade, learning | Social Studies — Harar — walled city of trade and Islamic learning |
+| 22517 | pictures/22517.webp | Afar sultanates, Somali clans, Guurti | Social Studies — Afar sultanates and Somali society |
+| 22518 | pictures/22518.webp | Zeila, the road, Shewa | Social Studies — Caravans to Zeila — the eastern trade |
+| 22519 | pictures/22519.webp | chronicles and hagiographies | Social Studies — Ethiopian chronicles and hagiographies as sources |
+| 22520 | pictures/22520.webp | odaa tree and Abbaa Gadaa | Social Studies — Gadaa — government by age grades |
+| 22521 | pictures/22521.webp | pyramid and scribe | Social Studies — Ancient Egypt — the Nile kingdom (Grade 9 depth) |
+| 22522 | pictures/22522.webp | Indus city and new religions | Social Studies — Ancient India — Indus cities, Hinduism and Buddhism (Grade 9 depth) |
+| 22523 | pictures/22523.webp | Parthenon and theatre | Social Studies — Ancient Greece — Athens and democracy (Grade 9 depth) |
+| 22524 | pictures/22524.webp | stelae field and Adulis | Social Studies — Aksum — the stelae (Grade 9 depth) |
+| 22530 | pictures/22530.gif | events sliding onto a timeline in order | Social Studies — Dating the past |
+| 22531 | pictures/22531.gif | dynastic wheel turning through one cycle | Social Studies — China's dynastic cycle and the Mandate of Heaven |
+| 22532 | pictures/22532.gif | Gadaa power-transfer wheel | Social Studies — Gadaa — government by age grades |
+| 22533 | pictures/22533.gif | Bantu migration arrows spreading slowly | Social Studies — Kongo and the Bantu movements (Grade 9 depth) |

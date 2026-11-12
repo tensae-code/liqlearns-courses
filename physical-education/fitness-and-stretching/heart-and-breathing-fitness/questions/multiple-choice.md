@@ -34,3 +34,51 @@ a) the heart and lungs working for a long time at low intensity without tiring  
 a) the heart and lungs working for a long time at low intensity without tiring  b) endurance — working for a long time — trained with swings, partner holds and basket throws  c) the six-minute run, somsoma heel-touching and steady step-ups
 **Answer: c) the six-minute run, somsoma heel-touching and steady step-ups**
 
+
+**9. (Sub lesson 5)** What does the part "The step-up test and counting the heart (teacher guide — evidence)" teach?
+a) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  b) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing  c) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box
+**Answer: a) the step-up test on a 20–30 cm step, with the heartbeat counted before and after**
+
+**10. (Sub lesson 5)** Which of these is done in "The step-up test and counting the heart (teacher guide — evidence)"?
+a) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing  b) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  c) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box
+**Answer: b) the step-up test on a 20–30 cm step, with the heartbeat counted before and after**
+
+**11. (Sub lesson 5)** A learner doing "The step-up test and counting the heart (teacher guide — evidence)" correctly is —
+a) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing  b) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box  c) the step-up test on a 20–30 cm step, with the heartbeat counted before and after
+**Answer: c) the step-up test on a 20–30 cm step, with the heartbeat counted before and after**
+
+**12. (Sub lesson 6)** What does the part "Heart and breathing fitness — Grade 5 movements" teach?
+a) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing  b) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  c) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box
+**Answer: a) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing**
+
+**13. (Sub lesson 6)** Which of these is done in "Heart and breathing fitness — Grade 5 movements"?
+a) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  b) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing  c) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box
+**Answer: b) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing**
+
+**14. (Sub lesson 6)** A learner doing "Heart and breathing fitness — Grade 5 movements" correctly is —
+a) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  b) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box  c) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing
+**Answer: c) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing**
+
+**15. (Sub lesson 7)** What does the part "Heart and breathing fitness — Grade 6: pulse, skipping and stepping" teach?
+a) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box  b) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  c) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing
+**Answer: a) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box**
+
+**16. (Sub lesson 7)** Which of these is done in "Heart and breathing fitness — Grade 6: pulse, skipping and stepping"?
+a) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  b) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box  c) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing
+**Answer: b) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box**
+
+**17. (Sub lesson 7)** A learner doing "Heart and breathing fitness — Grade 6: pulse, skipping and stepping" correctly is —
+a) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  b) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing  c) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box
+**Answer: c) taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box**
+
+**18. (Sub lesson 8)** What does the part "Cardio fitness — Grade 7: jacks, hop squats and ropes" teach?
+a) cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest  b) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  c) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing
+**Answer: a) cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest**
+
+**19. (Sub lesson 8)** Which of these is done in "Cardio fitness — Grade 7: jacks, hop squats and ropes"?
+a) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  b) cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest  c) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing
+**Answer: b) cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest**
+
+**20. (Sub lesson 8)** A learner doing "Cardio fitness — Grade 7: jacks, hop squats and ropes" correctly is —
+a) the step-up test on a 20–30 cm step, with the heartbeat counted before and after  b) walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing  c) cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest
+**Answer: c) cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest**

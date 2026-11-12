@@ -7,3 +7,9 @@ Pass mark: name the four components of fitness and say why fitness is built into
 
 ## Sub lesson 2 — What fitness protects (teacher guide — evidence)
 Pass mark: list the five printed benefits of fitness activity.
+
+## Sub lesson 3 — What fitness is — the Grade 5 definition
+Pass mark: define fitness in the Grade 5 book's words and connect it to the four parts.
+
+## Sub lesson 4 — Two kinds of fitness — health and skill
+Pass mark: name the two kinds and say whom each kind is for.

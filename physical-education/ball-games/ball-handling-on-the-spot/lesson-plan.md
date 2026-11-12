@@ -12,6 +12,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **Throw up and catch; bouncing on the spot** — throwing a ball above the head and catching it, and bouncing a ball in place.
 3. **Toss, chest pass and still-ball kick (teacher guide — evidence)** — self toss-and-catch, two-hand chest pass, and kicking a stationary ball.
 4. **Throw it up and catch it with two hands (teacher guide — evidence)** — throwing up and catching with two hands, then partner throw and catch.
+5. **Ball handling and chest control — Grade 5** — general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +24,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Do and explain: self toss-and-catch, two-hand chest pass, and kicking a stationary ball.
 4. Do and explain: throwing up and catching with two hands, then partner throw and catch.
 
+5. Do and explain: general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet.
+
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
 
@@ -32,6 +35,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
    - ADD IMAGE [Picture 13527]: a picture of a circle of children passing a ball sideways — the student names the movement and copies it safely.
    - ADD GIF [GIF 13528]: throwing a ball above the head and catching it without moving the feet — the student watches first, then copies the movement.
    - ADD AUDIO: the movement names and counts read aloud — the student says them along with the voice.
+   - ADD IMAGE [Picture 13744]: a picture of a child cushioning a ball on the chest so it drops to the feet — the student names the movement and copies it safely.
+   - ADD GIF [GIF 13745]: the chest receive — the ball dropping softly off the chest to the feet — the student watches first, then copies the movement.
 3. **Say it to your companion** — name each movement and say what it trains (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching — served at the learner's level (levels.md).
@@ -43,6 +48,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - GIF [GIF 13528]: throwing a ball above the head and catching it without moving the feet — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
+
+- IMAGE [Picture 13744]: a picture of a child cushioning a ball on the chest so it drops to the feet — the student names the movement and copies it safely.
+- GIF [GIF 13745]: the chest receive — the ball dropping softly off the chest to the feet — the student watches the movement, then does it slowly, then at full speed.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

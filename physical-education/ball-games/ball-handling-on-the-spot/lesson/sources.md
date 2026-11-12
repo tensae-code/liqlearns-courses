@@ -8,12 +8,15 @@ countries: Ethiopia
 
 **Book — Grade 4 teacher (teacher guide — evidence):** *Grade 4 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት መጽሐፍ, አራተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g04-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
 
+**Book — Grade 5 student:** *Grade 5 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 106 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g05-student-placements.md. COMPLETE.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Passing in a circle | Ethiopia, Grade 1 student §1.2.2 On-the-spot ball work above the waist, printed pp. 16–17 |
 | Throw up and catch; bouncing on the spot | Ethiopia, Grade 1 student §1.2.2–§1.2.3 On-the-spot ball work; Bouncing a ball, printed pp. 16–18 |
 | Toss, chest pass and still-ball kick (teacher guide — evidence) | Ethiopia, Grade 3 teacher §1.3 Tasks 3–5 (teacher guide — evidence), printed pp. 15–16 |
 | Throw it up and catch it with two hands (teacher guide — evidence) | Ethiopia, Grade 4 teacher Task 1.8 (teacher guide — evidence), printed pp. 10–11 |
+| Ball handling and chest control — Grade 5 | Ethiopia, Grade 5 student §§6.7–6.8, printed pp. 89–91 |
 
 **Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
 

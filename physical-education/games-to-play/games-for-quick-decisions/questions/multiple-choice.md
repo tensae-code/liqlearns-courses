@@ -41,3 +41,31 @@ a) Holding by the arm, no tripping  b) No rules at all  c) Tripping is allowed
 **10. (Sub lesson 5) ** In the Home-less game, what is forbidden?
 a) Pushing  b) Moving  c) Looking for a home
 **Answer: a) Pushing**
+
+**11. (Sub lesson 6)** A responsible decision in the Grade 5 games includes…
+a) Carrying out your given responsibility  b) Letting others decide for you  c) Leaving your post
+**Answer: a) Carrying out your given responsibility**
+
+**12. (Sub lesson 7)** In the ball-to-goal game, the decision must be made…
+a) Before the defenders close  b) After the game  c) By the referee
+**Answer: a) Before the defenders close**
+
+**13. (Sub lesson 7)** The first solver step for a problem in competition is…
+a) Know the problem  b) Blame a player  c) Stop playing forever
+**Answer: a) Know the problem**
+
+**14. (Sub lesson 8)** In below-the-knee dodgeball, the middle players dodge by…
+a) Jumping  b) Lying down  c) Sitting
+**Answer: a) Jumping**
+
+**15. (Sub lesson 8)** A waist chain scores by touching…
+a) The rival chain's last player  b) The referee  c) The ball
+**Answer: a) The rival chain's last player**
+
+**16. (Sub lesson 9)** In "What a decision!", the shooting distance is chosen by…
+a) The learner themselves  b) The teacher always  c) The tallest player
+**Answer: a) The learner themselves**
+
+**17. (Sub lesson 9)** If a pupil is hurt in Ilama, the first thing is…
+a) Help them — first aid before the game  b) Finish the round  c) Move the game elsewhere
+**Answer: a) Help them — first aid before the game**

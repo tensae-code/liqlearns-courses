@@ -22,3 +22,15 @@ Say if it is true or false.
 
 **7. (Sub lesson 5) ** In the relay, the team that finishes accurately wins.
 **Answer: True**
+
+**8. (Sub lesson 6)** Cooperating and helping each other runs through the Grade 5 decision games' rules.
+**Answer: True**
+
+**9. (Sub lesson 7)** Putting brotherhood first is one of the guide's problem-solving points.
+**Answer: True**
+
+**10. (Sub lesson 8)** In the waist chain, each chain has five players holding waists.
+**Answer: True**
+
+**11. (Sub lesson 9)** In "What a decision!", a well-judged distance is both challenging and productive.
+**Answer: True**

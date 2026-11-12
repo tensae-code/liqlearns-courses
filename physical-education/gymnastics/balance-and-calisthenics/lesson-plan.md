@@ -12,6 +12,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **Calisthenics — arms and shoulders** — hands on shoulders, stretch side/up/forward, circle forward and backward.
 3. **Calisthenics — legs** — seated alternate leg raises and hand-and-knee supports.
 4. **Combined gymnastics movements** — same-side arm and leg together, and crouch-jump-straighten in the air.
+5. **Free gymnastics and balance — Grade 5** — free gymnastics without apparatus, with keeping balance as a named element — and form checked, not just done: the hand turned fully to the opposite leg.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +24,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Do and explain: seated alternate leg raises and hand-and-knee supports.
 4. Do and explain: same-side arm and leg together, and crouch-jump-straighten in the air.
 
+5. Do and explain: free gymnastics without apparatus, with keeping balance as a named element — and form checked, not just done: the hand turned fully to the opposite leg.
+
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
 
@@ -32,6 +35,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
    - ADD IMAGE [Picture 13519]: a picture of a child balancing on one leg with arms stretched out — the student names the movement and copies it safely.
    - ADD GIF [GIF 13520]: a one-leg balance with arms out, held through a wobble — the student watches first, then copies the movement.
    - ADD AUDIO: the movement names and counts read aloud — the student says them along with the voice.
+   - ADD IMAGE [Picture 13738]: a picture of a child in a free-gymnastics balance, one hand turned fully to the opposite leg — the student names the movement and copies it safely.
+   - ADD GIF [GIF 13739]: moving into the balance position and holding it steady — the student watches first, then copies the movement.
 3. **Say it to your companion** — name each movement and say what it trains (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching — served at the learner's level (levels.md).
@@ -43,6 +48,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - GIF [GIF 13520]: a one-leg balance with arms out, held through a wobble — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
+
+- IMAGE [Picture 13738]: a picture of a child in a free-gymnastics balance, one hand turned fully to the opposite leg — the student names the movement and copies it safely.
+- GIF [GIF 13739]: moving into the balance position and holding it steady — the student watches the movement, then does it slowly, then at full speed.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

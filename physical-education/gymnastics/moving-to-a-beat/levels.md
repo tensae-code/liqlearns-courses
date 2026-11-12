@@ -13,3 +13,9 @@ Pass mark: the learner does and explains — sequences that build step by step, 
 
 ## Sub lesson 4 — Equipment to music, and creating your own
 Pass mark: the learner does and explains — timing the dribble bounce to the beat, and inventing your own rhythmic movement.
+
+## Sub lesson 5 — Rhythmic gymnastics — Grade 5: a hoop to music
+Pass mark: the learner does and explains — rhythmic gymnastics as a creative individual performance — moving a ring or hoop in time with different music beats.
+
+## Sub lesson 6 — Rhythmic gymnastics — Grade 6: ball, hoop and rope
+Pass mark: the learner does and explains — rhythmic gymnastics with a ball, with a hoop and with a rope — training attention and body-part coordination, performed alone and in groups.

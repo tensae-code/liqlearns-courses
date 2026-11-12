@@ -34,3 +34,15 @@ a) controlling balance so you do not fall — one-leg balances forward and back 
 a) controlling balance so you do not fall — one-leg balances forward and back  b) hands on shoulders, stretch side/up/forward, circle forward and backward  c) same-side arm and leg together, and crouch-jump-straighten in the air
 **Answer: c) same-side arm and leg together, and crouch-jump-straighten in the air**
 
+
+**9. (Sub lesson 5)** What does the part "Free gymnastics and balance — Grade 5" teach?
+a) free gymnastics without apparatus, with keeping balance as a named element — and form checked, not just done: the hand turned fully to the opposite leg  b) sitting still and resting  c) watching only, never moving
+**Answer: a) free gymnastics without apparatus, with keeping balance as a named element — and form checked, not just done: the hand turned fully to the opposite leg**
+
+**10. (Sub lesson 5)** Which of these is done in "Free gymnastics and balance — Grade 5"?
+a) sitting still and resting  b) free gymnastics without apparatus, with keeping balance as a named element — and form checked, not just done: the hand turned fully to the opposite leg  c) watching only, never moving
+**Answer: b) free gymnastics without apparatus, with keeping balance as a named element — and form checked, not just done: the hand turned fully to the opposite leg**
+
+**11. (Sub lesson 5)** A learner doing "Free gymnastics and balance — Grade 5" correctly is —
+a) sitting still and resting  b) watching only, never moving  c) free gymnastics without apparatus, with keeping balance as a named element — and form checked, not just done: the hand turned fully to the opposite leg
+**Answer: c) free gymnastics without apparatus, with keeping balance as a named element — and form checked, not just done: the hand turned fully to the opposite leg**

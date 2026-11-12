@@ -12,6 +12,11 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **The Grade 4 games — the inside/outside command game** — the book states the aim in words — a fast response to movements and stimuli: the "outside–inside / inside–outside" command game, and dribbling a ball by foot inside a circle to touch the children in it, two teams of equal number, skill and size.
 3. **Watch and listen — attention games on changing calls (teacher guide — evidence)** — the Grade 4 teacher guide's attention practice: dribbling, catching and throwing in a row on the teacher's changing calls, and the number game with its printed counting pattern.
 
+4. **Social awareness games — Ball in the Air, Five Rounds, outside–inside** — the Grade 5 book's games for social interaction and awareness: Ball in the Air (ኳስ በአየር), Five Rounds (አምስት ዙር) and the two-circles outside–inside command game.
+5. **Running while passing, and the number command** — the Grade 6 book's social-awareness games: teams running while passing a ball in the air only, and numbered players racing to the ball when their number is called.
+6. **Attention and observation games (teacher guide — evidence)** — the Grade 5 guide's attention and observation training — on-command movements, one-leg balance counting to 5, tiptoe with eyes closed, and the called-stations run — with the Grade 6 guide's interest and attention games: the middle-interceptor, traffic-light cards and the small-ball net game.
+7. **Attention control and mindfulness (teacher guide — evidence)** — the Grade 7 teacher guide: attention control — focusing on task-relevant information and resisting distractors — and mindfulness, awareness of the present moment, with reflective thinking.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +28,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Answer the inside/outside command game instantly, the right way.
 4. Do exactly the called action — dribble, hold, throw — on changing calls, and answer the number game without error.
 
+5. Play Five Rounds and the number command with full awareness — ball tracked, number answered at once.
+6. Name attention control and mindfulness in the guide's words and show one practice of each.
+
 ## What you need
 A ball, a cloth to cover eyes, a marked circle, and a guiding partner for every covered-eyes player. Nothing else.
 
@@ -31,6 +39,7 @@ A ball, a cloth to cover eyes, a marked circle, and a guiding partner for every 
 2. **The explanation** — the parts in order (lesson/lesson.md).
    - ADD IMAGE [Picture 13605]: a picture of a child with eyes covered by a cloth feeling for a ball on the ground while classmates watch from a marked circle — the student points to the covered eyes, the guiding partner, and the ball.
    - ADD GIF [GIF 13625]: a picture of a child dashing into a circle of children to catch a ball when their name is called — the student watches for the call moment and follows the dash.
+   - ADD GIF [GIF 13817]: a picture of a ball travelling fast from player to player around a whole circle of children — the student follows the ball and calls the next receiver before it arrives.
 3. **Say it to your companion** — explain the lesson to a companion in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — made later, when videos are made.
 4. **Questions** — from questions/: multiple-choice, true-or-false — served at the learner's level (levels.md).
@@ -40,6 +49,7 @@ A ball, a cloth to cover eyes, a marked circle, and a guiding partner for every 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 13605] — a picture of a child with eyes covered by a cloth feeling for a ball on the ground while classmates watch from a marked circle → the student points to the covered eyes, the guiding partner, and the ball.
 - GIF [GIF 13625] — a picture of a child dashing into a circle of children to catch a ball when their name is called → the student watches for the call moment and follows the dash.
+- GIF [GIF 13817] — a picture of a ball travelling fast from player to player around a whole circle of children → the student follows the ball and calls the next receiver before it arrives.
 - VIDEO — the video-script filmed (made later) → the student plays and learns along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

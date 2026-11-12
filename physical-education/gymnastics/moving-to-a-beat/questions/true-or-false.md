@@ -26,3 +26,15 @@ Say true or false.
 **8. (Sub lesson 4)** In "Equipment to music, and creating your own", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
 
+
+**9. (Sub lesson 5)** In this lesson, "Rhythmic gymnastics — Grade 5: a hoop to music" teaches: rhythmic gymnastics as a creative individual performance — moving a ring or hoop in time with different music beats.
+**Answer: True**
+
+**10. (Sub lesson 5)** In "Rhythmic gymnastics — Grade 5: a hoop to music", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "Rhythmic gymnastics — Grade 6: ball, hoop and rope" teaches: rhythmic gymnastics with a ball, with a hoop and with a rope — training attention and body-part coordination, performed alone and in groups.
+**Answer: True**
+
+**12. (Sub lesson 6)** In "Rhythmic gymnastics — Grade 6: ball, hoop and rope", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

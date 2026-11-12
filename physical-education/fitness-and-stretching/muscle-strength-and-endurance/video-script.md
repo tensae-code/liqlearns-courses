@@ -14,4 +14,9 @@ Slow and continuous strength work. Stand and stretch both arms sideways, level w
 
 Forward jumps and seated leg raises. Stand and move both arms in different directions, again and again.
 
+Muscle strength by body part — Grade 5. At this grade the strength work is organised by body part: the muscles above the waist, the stomach and back muscles, and the muscles below the waist.
+Push-ups, side hops and curl-ups (teacher guide — evidence). The knee push-up (knee push-up): kneel, hands under the shoulders, body straight from the knees; lower the chest toward the floor by bending the arms, then push back up.
+Muscle strength — Grade 6 sets. The Grade 6 strength set: push-ups (with the knees-down variant), walking on the hands, pull-ups on a single bar with a shoulder-width grip, and sit-ups with the arms on the chest, at the ears, on the shoulders, or at the side.
+Muscular endurance — Grade 7. Muscular endurance is a muscle's ability to exert force consistently and repetitively over a period of time — think of it as stamina.
+
 Now you. Do it slowly. Do it safely. Name it while you do it.

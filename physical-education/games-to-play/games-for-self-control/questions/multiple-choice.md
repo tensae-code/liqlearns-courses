@@ -25,3 +25,11 @@ a) If one child rushes, both fall  b) The game has no rules  c) Only one child p
 **6. (Sub lesson 3) ** What is the benefit of self-control the book gives?
 a) You can tell your own task apart from others'  b) You never have to play  c) You always win
 **Answer: a) You can tell your own task apart from others'**
+
+**7. (Sub lesson 4)** Self-control in games means…
+a) Controlling impulses, waiting for turns, accepting the judge's and the game's rules  b) Never wanting to win  c) Playing alone
+**Answer: a) Controlling impulses, waiting for turns, accepting the judge's and the game's rules**
+
+**8. (Sub lesson 4)** Which set names the chapter's three built skills?
+a) Togetherness, communication, standing for self and others  b) Speed, strength, height  c) Reading, writing, counting
+**Answer: a) Togetherness, communication, standing for self and others**

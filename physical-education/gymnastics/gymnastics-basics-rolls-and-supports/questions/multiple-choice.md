@@ -34,3 +34,27 @@ a) gymnastics — rolls, balances and jumps that benefit the body  b) forward an
 a) gymnastics — rolls, balances and jumps that benefit the body  b) standing, sitting and lying positions, side rolls and leg-hug rolls on a mat  c) forward and backward rolls, pair rolls, and bar work with a mat and spotter
 **Answer: c) forward and backward rolls, pair rolls, and bar work with a mat and spotter**
 
+
+**9. (Sub lesson 5)** What does the part "Forward rolls from a forehead stand and a handstand — Grade 6" teach?
+a) forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting  b) the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting  c) watching only, never moving
+**Answer: a) forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting**
+
+**10. (Sub lesson 5)** Which of these is done in "Forward rolls from a forehead stand and a handstand — Grade 6"?
+a) the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting  b) forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting  c) watching only, never moving
+**Answer: b) forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting**
+
+**11. (Sub lesson 5)** A learner doing "Forward rolls from a forehead stand and a handstand — Grade 6" correctly is —
+a) the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting  b) watching only, never moving  c) forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting
+**Answer: c) forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting**
+
+**12. (Sub lesson 6)** What does the part "Free gymnastics — Grade 7: headstand, head spring and cartwheel" teach?
+a) the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting  b) forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting  c) watching only, never moving
+**Answer: a) the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting**
+
+**13. (Sub lesson 6)** Which of these is done in "Free gymnastics — Grade 7: headstand, head spring and cartwheel"?
+a) forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting  b) the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting  c) watching only, never moving
+**Answer: b) the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting**
+
+**14. (Sub lesson 6)** A learner doing "Free gymnastics — Grade 7: headstand, head spring and cartwheel" correctly is —
+a) forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting  b) watching only, never moving  c) the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting
+**Answer: c) the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting**

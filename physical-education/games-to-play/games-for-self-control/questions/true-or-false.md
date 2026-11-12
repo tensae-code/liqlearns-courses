@@ -19,3 +19,9 @@ Say if it is true or false.
 
 **6. (Sub lesson 3) ** In the kneeling game, the ball is passed forwards.
 **Answer: False** — it is passed backwards.
+
+**7. (Sub lesson 4)** Responsible decision-making plays a key role alongside self-control in the guide's chapter.
+**Answer: True**
+
+**8. (Sub lesson 4)** Self-control means feeling no impulse at all.
+**Answer: False**

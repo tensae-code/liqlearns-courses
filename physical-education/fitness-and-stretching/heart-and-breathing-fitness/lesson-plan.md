@@ -12,6 +12,10 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **Heart and breathing fitness grows** — endurance — working for a long time — trained with swings, partner holds and basket throws.
 3. **Fitness that protects the heart and breathing** — fitness that protects against heart and breathing-system diseases, trained with group rope skipping and jumping jacks.
 4. **The six-minute run and steady stepping** — the six-minute run, somsoma heel-touching and steady step-ups.
+5. **The step-up test and counting the heart (teacher guide — evidence)** — the step-up test on a 20–30 cm step, with the heartbeat counted before and after.
+6. **Heart and breathing fitness — Grade 5 movements** — walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing.
+7. **Heart and breathing fitness — Grade 6: pulse, skipping and stepping** — taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box.
+8. **Cardio fitness — Grade 7: jacks, hop squats and ropes** — cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +27,11 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Do and explain: fitness that protects against heart and breathing-system diseases, trained with group rope skipping and jumping jacks.
 4. Do and explain: the six-minute run, somsoma heel-touching and steady step-ups.
 
+5. Do and explain: the step-up test on a 20–30 cm step, with the heartbeat counted before and after.
+6. Do and explain: walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing.
+7. Do and explain: taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box.
+8. Do and explain: cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest.
+
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
 
@@ -32,6 +41,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
    - ADD IMAGE [Picture 13509]: a picture of a child skipping with their own rope — the student names the movement and copies it safely.
    - ADD GIF [GIF 13510]: continuous rope skipping with a steady rhythm — the student watches first, then copies the movement.
    - ADD AUDIO: the movement names and counts read aloud — the student says them along with the voice.
+   - ADD IMAGE [Picture 13728]: a picture of a child doing the step-up test on a 20–30 cm step while a partner times it with a stopwatch — the student names the movement and copies it safely.
+   - ADD GIF [GIF 13729]: the step-up rhythm — up and down on the step in time — the student watches first, then copies the movement.
 3. **Say it to your companion** — name each movement and say what it trains (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching — served at the learner's level (levels.md).
@@ -43,6 +54,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - GIF [GIF 13510]: continuous rope skipping with a steady rhythm — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
+
+- IMAGE [Picture 13728]: a picture of a child doing the step-up test on a 20–30 cm step while a partner times it with a stopwatch — the student names the movement and copies it safely.
+- GIF [GIF 13729]: the step-up rhythm — up and down on the step in time — the student watches the movement, then does it slowly, then at full speed.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

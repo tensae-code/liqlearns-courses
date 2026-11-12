@@ -24,6 +24,14 @@ Sit and raise your two legs alternately, in rhythm. Support yourself on both han
 
 Raise one arm with the same-side leg and arm moving together. Lead with the same-side leg, hands on waist, and move in a straight line. Crouch, put your arms back and jump straight up. Crouch, rise, and straighten leg and arm in the air.
 
+## Sub lesson 5 — Free gymnastics and balance — Grade 5
+
+Free gymnastics (ነፃ ጅምናስቲክስ) is gymnastics with no apparatus. Keeping balance (ሚዛንን መጠበቅ) is a named element of it: move into the balance position and hold it steady. Form is checked, not just done — the book warns against a classic error: forgetting to turn the hand fully to the opposite leg. Do the movement correctly, not only quickly.
+
+[Picture 13738 — a child in a free-gymnastics balance, one hand turned fully to the opposite leg]
+
+[GIF 13739 — moving into the balance position and holding it steady]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

@@ -11,6 +11,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 1. **Running games and the sprint start (teacher guide — evidence)** — starting on a signal and running in a group so everyone finishes.
 2. **Over the low hurdles (teacher guide — evidence)** — clearing four low hurdles in a run without breaking stride.
 3. **Skipping, sideways and backwards travel (teacher guide — evidence)** — skipping forward and sideways for 20 metres, side gallop and careful backward travel.
+4. **Sprinting and the start commands — Grade 5** — the sprint start — on your marks (በቦታህ) at the line, set in the starting block (መነሻ ሳንቃ), and drive out on the signal; racing 30–50 metres and 60–70 metres.
+5. **Sprint training — Grade 6: high knees and butt kicks** — running form drills — high knees and butt kicks — and comparing short-distance and middle-distance technique.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -21,6 +23,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Do and explain: clearing four low hurdles in a run without breaking stride.
 3. Do and explain: skipping forward and sideways for 20 metres, side gallop and careful backward travel.
 
+4. Do and explain: the sprint start — on your marks (በቦታህ) at the line, set in the starting block (መነሻ ሳንቃ), and drive out on the signal; racing 30–50 metres and 60–70 metres.
+5. Do and explain: running form drills — high knees and butt kicks — and comparing short-distance and middle-distance technique.
+
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
 
@@ -30,6 +35,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
    - ADD IMAGE [Picture 13525]: a picture of children sprinting from a start line on a signal — the student names the movement and copies it safely.
    - ADD GIF [GIF 13526]: a sprint start on a signal — the student watches first, then copies the movement.
    - ADD AUDIO: the movement names and counts read aloud — the student says them along with the voice.
+   - ADD IMAGE [Picture 13742]: a picture of a sprinter in the starting blocks on "on your marks" — the student names the movement and copies it safely.
+   - ADD GIF [GIF 13743]: the block start — set, drive out, first strides — the student watches first, then copies the movement.
 3. **Say it to your companion** — name each movement and say what it trains (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching — served at the learner's level (levels.md).
@@ -41,6 +48,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - GIF [GIF 13526]: a sprint start on a signal — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
+
+- IMAGE [Picture 13742]: a picture of a sprinter in the starting blocks on "on your marks" — the student names the movement and copies it safely.
+- GIF [GIF 13743]: the block start — set, drive out, first strides — the student watches the movement, then does it slowly, then at full speed.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

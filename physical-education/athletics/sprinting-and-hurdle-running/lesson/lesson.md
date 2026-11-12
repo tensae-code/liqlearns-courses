@@ -20,6 +20,18 @@ Run a line of four low obstacles from a standing start, clearing each one withou
 
 Skip forward and sideways along the track line for 20 metres. Travel sideways in a side gallop, and travel backwards carefully along a line. These travelling forms build the speed and control sprinting needs.
 
+## Sub lesson 4 — Sprinting and the start commands — Grade 5
+
+Sprinting is finishing a set distance in the shortest time — 100 metres, 200 metres, 400 metres, the relays and the hurdles are its kinds. The start is taught in its real order: on "on your marks" (በቦታህ) come to the start line and choose your position; on the next command settle in the starting block (መነሻ ሳንቃ); on the start signal drive out at once and run in competition form. Practise the start over 30 to 50 metres at full speed, then over 60 to 70 metres: drive out, accelerate, and hold your form to the line.
+
+[Picture 13742 — a sprinter in the starting blocks on "on your marks"]
+
+[GIF 13743 — the block start — set, drive out, first strides]
+
+## Sub lesson 5 — Sprint training — Grade 6: high knees and butt kicks
+
+Running is faster than walking, a natural gift, and it builds speed, agility and strength. Train the form with drills: high knees, lifting each knee high in turn, and butt kicks, flicking the heels up behind you; then put the drills into competitive sprint practice. Compare as you go: the technique of short-distance sprinting and of middle-distance running are not the same — the sprint is all speed, the longer run must hold something back.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

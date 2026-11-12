@@ -13,3 +13,9 @@ Pass mark: the learner does and explains — knee-hug rolls, stretched rolls, an
 
 ## Sub lesson 4 — Rolls and supports in pairs
 Pass mark: the learner does and explains — forward and backward rolls, pair rolls, and bar work with a mat and spotter.
+
+## Sub lesson 5 — Forward rolls from a forehead stand and a handstand — Grade 6
+Pass mark: the learner does and explains — forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting.
+
+## Sub lesson 6 — Free gymnastics — Grade 7: headstand, head spring and cartwheel
+Pass mark: the learner does and explains — the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting.

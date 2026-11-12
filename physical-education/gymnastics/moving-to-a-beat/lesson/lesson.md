@@ -24,6 +24,18 @@ Build a sequence step by step — first step, added step, full sequence — keep
 
 Match the beat to the equipment: when you dribble, the ball's bounce is timed to the beat you hear; jump through circles on two feet to the music. Then create: creativity is making a new thing — invent your own beat movements, practise them, show them, and name your movement.
 
+## Sub lesson 5 — Rhythmic gymnastics — Grade 5: a hoop to music
+
+Rhythmic gymnastics (ሪትሚክ ጅምናስቲክስ) is a creative individual performance form. One pictured activity combines a ring or hoop (ቀለበት) with different music beats: the hoop's movements flow from one to the next, on the beat. Listen first, move second — the music leads and the body follows.
+
+[Picture 13740 — a child moving a hoop in time to music]
+
+[GIF 13741 — hoop movements flowing from one to the next on the beat]
+
+## Sub lesson 6 — Rhythmic gymnastics — Grade 6: ball, hoop and rope
+
+Rhythmic gymnastics now works with three tools: a ball, a hoop (ቀለበት), and a rope or ribbon. It trains attention, the coordination of the body parts, enjoyment, and working together. To close the practice, perform hoop routines individually and in groups for the class.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

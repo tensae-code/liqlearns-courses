@@ -10,12 +10,17 @@ countries: Ethiopia
 
 **Book — Grade 4 student:** *Grade 4 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 67 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g04-student-placements.md. COMPLETE.
 
+**Book — Grade 6 student:** *Grade 6 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 95 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g06-student-placements.md. COMPLETE.
+**Book — Grade 7 student:** *Grade 7 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, 2015 E.C., 96 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g07-student-placements.md. COMPLETE.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What gymnastics is | Ethiopia, Grade 3 student §5.1 Gymnastics and the benefits of gymnastics movements, printed p. 48 |
 | Positions and rolls | Ethiopia, Grade 1 student §5.1 Basic gymnastics movements, printed pp. 55–58 |
 | Rolls and steps, harder | Ethiopia, Grade 2 student §5.1 Basic gymnastics movements, printed pp. 46–51 |
 | Rolls and supports in pairs | Ethiopia, Grade 4 student §5.1 Basic gymnastics movements, printed pp. 45–50 |
+| Forward rolls from a forehead stand and a handstand — Grade 6 | Ethiopia, Grade 6 student Chapter 5, printed pp. 59–60 |
+| Free gymnastics — Grade 7: headstand, head spring and cartwheel | Ethiopia, Grade 7 student §5.2, printed pp. 58–61 |
 
 **Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
 

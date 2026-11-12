@@ -12,6 +12,11 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **The Fishing game and the ball in the circle (Grade 4)** — the Grade 4 book pictures the Fishing game again, and adds the ball-inside-the-circle game.
 3. **Signals before changes and the four-beat clapping game (teacher guide — evidence)** — the Grade 3 teacher guide: giving notice before a change — a whistle, count or call — so others can get ready; the Gebeta game named among signal/turn games; and the four-time beat game.
 
+4. **The jumping relay — cooperation in fours** — the Grade 5 book's cooperation games: groups of four take turns to jump from a set place and hand the jump over in a relay to cover a long distance; every group member must take part.
+5. **Cooperation games — hand tug, baton relay, overhead relay** — the Grade 6 book's cooperation games, with its definition of cooperation: working to a shared goal — clear communication, listening, owning mistakes, respecting diversity.
+6. **The bottle target — communication, awareness and applause** — the Grade 7 book's target game: two teams throw from their own ground to knock down a bottle 10 m away; most knock-downs in 3 minutes wins — and the losers must applaud and embrace the winners.
+7. **Fair play, compassion and getting along (teacher guide — evidence)** — the Grade 7 teacher guide's relationship lesson: fair play and its five basic principles, compassion, social awareness and relationship skills — practised in the Turn Back game and in role play.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +28,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Give and answer signals before changes — a whistle, a count, a call — and clap the four-beat pattern together, joining exactly on the beat.
 4. Name the Gebeta game as one of the signal and turn games the guide names.
 
+5. Play the Grade 6 cooperation games by their printed frames and complete the bottle game's sportsmanship ending.
+6. State fair play's five principles and show compassion the guide's way: cheering for, not against.
+
 ## What you need
 A ball, a whistle or a clear voice for signals, and a group. Nothing else.
 
@@ -30,6 +38,7 @@ A ball, a whistle or a clear voice for signals, and a group. Nothing else.
 1. **Do it first** — the learner joins the Fishing game in a group before any explaining (lesson/lesson.md).
 2. **The explanation** — the parts in order (lesson/lesson.md).
    - ADD IMAGE [Picture 13606]: a picture of children playing the Fishing game together in a group, one casting and the others ready to catch — the student points to the caster and the catchers and says what each must do.
+   - ADD GIF [GIF 13818]: a picture of a ball passed overhead from player to player down a line of children with arms raised — the student follows the ball down the line and calls who receives next.
 3. **Say it to your companion** — explain the lesson to a companion in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — made later, when videos are made.
 4. **Questions** — from questions/: multiple-choice, true-or-false — served at the learner's level (levels.md).
@@ -38,6 +47,7 @@ A ball, a whistle or a clear voice for signals, and a group. Nothing else.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 13606] — a picture of children playing the Fishing game together in a group, one casting and the others ready to catch → the student points to the caster and the catchers and says what each must do.
+- GIF [GIF 13818] — a picture of a ball passed overhead from player to player down a line of children with arms raised → the student follows the ball down the line and calls who receives next.
 - VIDEO — the video-script filmed (made later) → the student plays and learns along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

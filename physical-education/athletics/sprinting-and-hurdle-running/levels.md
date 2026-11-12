@@ -10,3 +10,9 @@ Pass mark: the learner does and explains — clearing four low hurdles in a run 
 
 ## Sub lesson 3 — Skipping, sideways and backwards travel (teacher guide — evidence)
 Pass mark: the learner does and explains — skipping forward and sideways for 20 metres, side gallop and careful backward travel.
+
+## Sub lesson 4 — Sprinting and the start commands — Grade 5
+Pass mark: the learner does and explains — the sprint start — on your marks (በቦታህ) at the line, set in the starting block (መነሻ ሳንቃ), and drive out on the signal; racing 30–50 metres and 60–70 metres.
+
+## Sub lesson 5 — Sprint training — Grade 6: high knees and butt kicks
+Pass mark: the learner does and explains — running form drills — high knees and butt kicks — and comparing short-distance and middle-distance technique.

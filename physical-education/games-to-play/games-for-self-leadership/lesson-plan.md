@@ -13,6 +13,11 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 3. **Self-discipline and Pipali Kol (teacher guide — evidence)** — self-discipline defined through the body's government — keeping rules without being watched; social experiences named from play; and the Pipali Kol game of strict turns.
 4. **Beating the clock fairly — timed rope jumps and bicycle legs (teacher guide — evidence)** — giving time limits in games — a boundary of time, space and turns, and keeping it; responsibility defined; rope jumping inside a time limit; the cycling movement.
 
+5. **The cloth-snatch game — leading yourself at speed** — the Grade 5 book's self-leadership games: each pupil stands with a cloth tucked at the back of their belt and, on the "start" command, tries to snatch others' cloths while guarding their own.
+6. **Self-knowledge games — hoop race, handkerchief-hand, rooster fight** — the Grade 6 book's games for self-knowledge, opening its social-and-emotional chapter: knowing your strengths, weaknesses and limits, and controlling your actions, feelings and thoughts to reach a goal.
+7. **Managing myself and thinking positively (teacher guide — evidence)** — the Grade 5 teacher guide on self-management: the ability to carry out your daily tasks with courage, without being pushed by others; personal conduct improved through the subject; and positive thinking — seeing the good path, finishing what you start, accepting the result and trying again.
+8. **Confidence, control and calm breathing (teacher guide — evidence)** — the Grade 7 teacher guide's self-awareness lesson: self-confidence, self-control and self-awareness defined; neck and shoulder movements; and active breathing — breathing out on a chosen word, such as "peace".
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -24,6 +29,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Say what self-discipline is — keeping rules without being watched — and play Pipali Kol by strict turns.
 4. Work inside a time limit fairly: timed rope jumps and the bicycle-legs movement.
 
+5. Play the cloth-snatch game inside its rules and name what self-knowledge each Grade 6 game trains.
+6. Use active breathing to calm down, and do the neck and shoulder movements as the guide prints them.
+
 ## What you need
 A ball, a rope, a cloth for Akukulu, a mat for bicycle legs, and a way to count time (a stopwatch or a counted count). Nothing else.
 
@@ -32,6 +40,7 @@ A ball, a rope, a cloth for Akukulu, a mat for bicycle legs, and a way to count 
 2. **The explanation** — the parts in order (lesson/lesson.md).
    - ADD IMAGE [Picture 13603]: a picture of a child copying a partner's movement exactly, the two facing each other — the student copies the pose shown and says what the partner did first.
    - ADD GIF [GIF 13626]: a picture of a leader raising an arm and a partner mirroring the same movement a moment later — the student watches the delay between the leader and the mirror and tries to shrink it.
+   - ADD IMAGE [Picture 13813]: a picture of two children in the cloth-snatch game, one's hand reaching for the cloth at the other's belt while their own cloth is guarded — the student points to the cloth, the reaching hand and the guarding hand.
 3. **Say it to your companion** — explain the lesson to a companion in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — made later, when videos are made.
 4. **Questions** — from questions/: multiple-choice, true-or-false — served at the learner's level (levels.md).
@@ -41,6 +50,7 @@ A ball, a rope, a cloth for Akukulu, a mat for bicycle legs, and a way to count 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 13603] — a picture of a child copying a partner's movement exactly, the two facing each other → the student copies the pose shown and says what the partner did first.
 - GIF [GIF 13626] — a picture of a leader raising an arm and a partner mirroring the same movement a moment later → the student watches the delay between the leader and the mirror and tries to shrink it.
+- IMAGE [Picture 13813] — a picture of two children in the cloth-snatch game, one's hand reaching for the cloth at the other's belt while their own cloth is guarded → the student points to the cloth, the reaching hand and the guarding hand.
 - VIDEO — the video-script filmed (made later) → the student plays and learns along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

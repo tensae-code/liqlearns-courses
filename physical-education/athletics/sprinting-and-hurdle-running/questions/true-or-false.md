@@ -20,3 +20,15 @@ Say true or false.
 **6. (Sub lesson 3)** In "Skipping, sideways and backwards travel (teacher guide — evidence)", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
 
+
+**7. (Sub lesson 4)** In this lesson, "Sprinting and the start commands — Grade 5" teaches: the sprint start — on your marks (በቦታህ) at the line, set in the starting block (መነሻ ሳንቃ), and drive out on the signal; racing 30–50 metres and 60–70 metres.
+**Answer: True**
+
+**8. (Sub lesson 4)** In "Sprinting and the start commands — Grade 5", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**9. (Sub lesson 5)** In this lesson, "Sprint training — Grade 6: high knees and butt kicks" teaches: running form drills — high knees and butt kicks — and comparing short-distance and middle-distance technique.
+**Answer: True**
+
+**10. (Sub lesson 5)** In "Sprint training — Grade 6: high knees and butt kicks", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

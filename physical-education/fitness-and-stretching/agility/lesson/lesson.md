@@ -20,6 +20,26 @@ Sit with legs stretched — rise and run. Lie on your chest — rise and run. Li
 
 Run, touch a line, and return. Run while jumping a line forward and back. Jump a line left and right on two feet. Sprint to touch a line and turn back — the shuttle turn.
 
+## Sub lesson 4 — Agility — Grade 5: obstacles and group runs
+
+Agility at this grade means changing direction fast and accurately while keeping your balance. Run between obstacles without losing your balance. In the group circle games, equal numbers from two groups are called and run when their number is called — listen first, then run at once, in control.
+
+[Picture 13734 — a child weaving between cones at speed, keeping balance]
+
+[GIF 13735 — the shuttle line-touch — sprint, touch the line, turn, sprint back]
+
+## Sub lesson 5 — Line-touch races and cone weaves (teacher guide — evidence)
+
+The line-touch race: lines are set at 5 metres, then 4 metres, then 3 metres; sprint from the start, touch each line with your hand, and sprint back; in the second round, run around all the markers in one flow. Then the cone weave: sprint in and out of a line of cones at speed without touching them, keeping your balance through every turn.
+
+## Sub lesson 6 — Agility — Grade 6: starting positions and direction changes
+
+Agility is changing the body's direction quickly and accurately, and it needs the body and the mind working together. Practise sprint starts from varied positions: lying on your chest, and kneeling on one knee — on the command, rise and sprint 30 metres. Jump fast forward over 10 metres on two legs, then on one leg. Then run the marker course in four directions in one flow: from the first marker to the second fast forward, from the second to the third sideways, from the third to the fourth backward, and from the fourth back round to the first at speed; and sprint between markers, turning at each one and touching it with your hand before the next.
+
+## Sub lesson 7 — Speed work — Grade 7: high knees, pursuit and the three sprint phases
+
+High-knee running (ጉልበትን ከፍ በማድረግ መሮጥ) lifts the knees high as you run. Pursuit runs (ተከታትሎ መሮጥ) chase a partner ahead of you. The sprint itself has three phases: drive, transition, and top speed — if your step length and your step frequency grow, your speed grows too. Run 20 metres at average and high speed twice, resting 10 to 30 seconds; then the 30-metre and 40-metre runs the same way, and finish with a 40-metre run against a friend in competition form, keeping the basic body movement of the sprint.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

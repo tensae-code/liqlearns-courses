@@ -29,6 +29,21 @@ The Grade 3 teacher guide opens its fitness chapter by saying what fitness activ
 
 That is the story the fitness lessons tell with movement. This lesson is its first page: fitness is not a game added to the day — it is the body being protected, part by part.
 
+## Sub lesson 3 — What fitness is — the Grade 5 definition
+
+The Grade 5 student book gives the definition as a concept lesson in its own right: **fitness is a person's ability to carry out daily tasks competently** — to do the day's work, walking, carrying and playing, **efficiently and without tiring** (the same definition opens the book's safety section).
+
+That is the pupil's own statement of what Sub lessons 1–2 built from the teacher guides: the four parts are the *parts of this ability*, and the five protections are what the ability, trained, protects.
+
+## Sub lesson 4 — Two kinds of fitness — health and skill
+
+The Grade 6 book sorts fitness in two kinds:
+
+- **Health-related fitness** — keeps the body healthy and supports **daily work**. It is for every citizen.
+- **Skill-related fitness** — prepares a **competitor for events**. It is for the contest.
+
+Same body, two purposes: the fitness of the day's work, and the fitness of the race. This course trains the first in every learner and opens the second to those who compete.
+
 ## Say it to your companion
 
 Tell your companion the four parts of fitness, and then the five things fitness protects. Which part do you think your own play trains most?

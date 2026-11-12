@@ -12,3 +12,7 @@ Aim — below the waist — before the runner leaves the line. Now! Throw!
 No home! Find a place! No pushing — decide with your feet, not your hands.
 Who do you want? Break the line — by the arm, no tripping. Fair and fast.
 Now you. See it. Decide it. Do it.
+Your responsibility. Your moment. YOUR call.
+Pass left? Pass right? SHOOT? Decide — the defenders are closing!
+Jump the low ball! Hold the chain! Protect the last!
+Choose your distance. Shoot. Now judge your own decision.

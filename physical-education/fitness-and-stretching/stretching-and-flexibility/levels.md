@@ -13,3 +13,12 @@ Pass mark: the learner does and explains — circle bending together holding han
 
 ## Sub lesson 4 — Side leans and waist stretches
 Pass mark: the learner does and explains — arms-up side leans, waist forward-and-back stretches, and leg stretching to reduce injury.
+
+## Sub lesson 5 — Stretching and flexibility — Grade 5
+Pass mark: the learner does and explains — leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first.
+
+## Sub lesson 6 — Flexibility — Grade 6 stretches
+Pass mark: the learner does and explains — bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches.
+
+## Sub lesson 7 — Flexibility — Grade 7: sit-and-reach and the six-stretch circuit
+Pass mark: the learner does and explains — the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle.

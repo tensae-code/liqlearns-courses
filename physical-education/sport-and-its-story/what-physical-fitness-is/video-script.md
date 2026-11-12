@@ -10,3 +10,5 @@ Four parts! Heart and blood — የልብና የደም ስር አሰራር!
 Muscle strength — የጡንቻ ብርታት! Stretching — መዘርጋትና መተጣጠፍ! Agility — ቅልጥፍና!
 And it protects you: a healthy heart. Healthy lungs. Healthy blood vessels. A body in proportion. A healthy weight.
 Children sit all day. So fitness hides inside PLAY. Now you know its name — and its four parts.
+Fitness is the day's work, done without tiring.
+Two kinds: for health — for everyone; for skill — for the contest.

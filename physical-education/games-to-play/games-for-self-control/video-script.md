@@ -12,3 +12,4 @@ Now find your strength. Throw the ball into the basket. Did it go in? Check your
 Your friend can do something different. That is good. Every child's ability counts.
 Hold your partner. Crouch. Jump — together! One rushes, both fall. Together, you fly.
 Now you. Play. Wait your turn. Keep the rule. That is self-control.
+The impulse comes. You govern it. Wait your turn. Accept the ruling. Play on.

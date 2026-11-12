@@ -34,3 +34,15 @@ a) passing a ball sideways in a circle, left to right and right to left  b) thro
 a) passing a ball sideways in a circle, left to right and right to left  b) throwing a ball above the head and catching it, and bouncing a ball in place  c) throwing up and catching with two hands, then partner throw and catch
 **Answer: c) throwing up and catching with two hands, then partner throw and catch**
 
+
+**9. (Sub lesson 5)** What does the part "Ball handling and chest control — Grade 5" teach?
+a) general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet  b) sitting still and resting  c) watching only, never moving
+**Answer: a) general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet**
+
+**10. (Sub lesson 5)** Which of these is done in "Ball handling and chest control — Grade 5"?
+a) sitting still and resting  b) general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet  c) watching only, never moving
+**Answer: b) general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet**
+
+**11. (Sub lesson 5)** A learner doing "Ball handling and chest control — Grade 5" correctly is —
+a) sitting still and resting  b) watching only, never moving  c) general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet
+**Answer: c) general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet**

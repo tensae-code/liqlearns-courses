@@ -12,6 +12,16 @@ Roll on the mat. Balance on one leg. Jump and stretch in the air. Three differen
 
 [Picture 13618 — three gymnastics movements in a strip]
 
+## The Grade 5 pass — what gymnastics is, its kinds, and rhythmic gymnastics
+
+The Grade 5 book opens its gymnastics chapter with a concept lesson of its own: **what gymnastics is** (printed p. 66). It then splits the family in the kinds this course teaches beside it: **free gymnastics** — no apparatus, including **keeping balance (ሚዛንን መጠበቅ)** as a named element, with form checked, not just done — and **apparatus gymnastics**, work on equipment such as the box and the horizontal bar.
+
+And it adds the family's most musical member: **rhythmic gymnastics (ሪትሚክ ጅምናስቲክስ)** — a creative individual performance form, pictured in the book combining a **ring or hoop (ቀለበት)** with different music beats. The Grade 6 book names the same gifts the movements build throughout: **balance, strength, flexibility, agility, coordination and decision-making** — and keeps the two kinds, free and apparatus.
+
+## The Grade 7 pass — a short history of gymnastics
+
+The Grade 7 book opens its gymnastics chapter with **history**: research tasks from varied sources, and — tested in its own chapter exercises — the question of **who spread gymnastics in schools**. The family's story matters to the book: a movement family old enough to have a history is a subject, not a pastime.
+
 ## Say it to your companion
 
 Tell your companion what gymnastics is and one thing its movements give the body. Then name the lesson family that teaches the movements themselves.

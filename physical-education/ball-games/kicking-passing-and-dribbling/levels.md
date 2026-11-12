@@ -13,3 +13,12 @@ Pass mark: the learner does and explains — zigzag dribbling between cones, tar
 
 ## Sub lesson 4 — Football dribbling and net ball (teacher guide — evidence)
 Pass mark: the learner does and explains — inside-of-the-foot dribbling kept close, striking to a target, and setting over a net.
+
+## Sub lesson 5 — Passing with the inside and outside of the foot — Grade 5
+Pass mark: the learner does and explains — passing and receiving with the inside of the foot at 4, 6, 8 and up to 10 metres, with the outside of the foot, and one-touch circle play using both.
+
+## Sub lesson 6 — Football dribbling — Grade 6
+Pass mark: the learner does and explains — dribbling with the inside and the outside of the foot — 20 metres to a partner, between cones, then small team football games using the dribble.
+
+## Sub lesson 7 — Kicking and controlling — Grade 7
+Pass mark: the learner does and explains — kicking with the inside and the front of the foot, controlling with the sole against a wall at 7, 5 and 3 metres, and controlling with the front of the foot at 10 metres.

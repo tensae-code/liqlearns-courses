@@ -14,4 +14,6 @@ Toss, chest pass and still-ball kick (teacher guide — evidence). Toss a ball u
 
 Throw it up and catch it with two hands (teacher guide — evidence). Throw a ball upward and catch it with two hands.
 
+Ball handling and chest control — Grade 5. Ball handling (የኳስ አያያዝ) is general ball mastery: bring a moving ball under control with the first touch.
+
 Now you. Do it slowly. Do it safely. Name it while you do it.

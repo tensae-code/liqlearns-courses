@@ -14,4 +14,6 @@ Calisthenics — legs. Sit and raise your two legs alternately, in rhythm.
 
 Combined gymnastics movements. Raise one arm with the same-side leg and arm moving together.
 
+Free gymnastics and balance — Grade 5. Free gymnastics (ነፃ ጅምናስቲክስ) is gymnastics with no apparatus.
+
 Now you. Do it slowly. Do it safely. Name it while you do it.

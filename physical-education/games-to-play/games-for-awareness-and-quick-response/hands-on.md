@@ -9,3 +9,11 @@ Play the name-call game and the inside/outside command game back to back. Notice
 ## The covered-eyes search
 
 In a small marked circle, with a guide's voice only, find a ball that is tapped on the ground to make a sound. Then find a silent ball by touch alone.
+
+## Called stations at home
+
+Four stones numbered 1, 2, 4, 5 in a yard. A caller names three; the runner runs only to those. Swap roles; the caller must watch like a judge.
+
+## Red and green
+
+Two coloured cards or leaves. A leader flashes them at random while the class moves: red freezes every body mid-step; green releases the run.

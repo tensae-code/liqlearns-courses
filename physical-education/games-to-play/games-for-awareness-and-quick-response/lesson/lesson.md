@@ -36,6 +36,36 @@ Attention — ትኩረት — is trained by games that punish a lapse.
 
 **The number game — ይለፈኝ.** The teacher gives a number pattern — the guide's worked example is the called number 4, and the printed counting series **2, 4, 8, 12, 16, 20, 24…**. Learners respond with the matching movement or count **without error**. A mistake restarts the count. Attention you can hear.
 
+## Sub lesson 4 — Social awareness games — Ball in the Air, Five Rounds, outside–inside
+
+**Ball in the Air — ኳስ በአየር** (Fig. 2.4 in the book): the ball stays in the air between players, awareness on its flight at every moment.
+
+**Five Rounds — አምስት ዙር** (Fig. 2.5): the **whole class passes fast to finish the round first** — awareness is shared: you must know where the ball is, where it goes next, and who is free.
+
+**The outside–inside game.** Two circles; **two group names are called at once** and the called players answer the outside–inside commands — the procedure is printed in full in the book. Hear both calls; answer yours.
+
+[GIF 13817 — the Five Rounds ball travelling fast around the circle]
+
+## Sub lesson 5 — Running while passing, and the number command
+
+**Running while passing the ball — ኳስ እየተቀባበሉ መሮጥ.** Teams run while passing the ball **in the air only**; if the ball touches the ground, the team **restarts**. Ten minutes, with a student-chosen referee.
+
+**Number command — የቁጥር ትዕዛዝ.** Numbered players race to the ball when **their number is called**, circle it and return it to the centre. It builds teamwork, rule-following and competitive spirit — and it is pure awareness: your number, heard in noise, answered at once.
+
+## Sub lesson 6 — Attention and observation games (teacher guide — evidence)
+
+The Grade 5 guide trains **attention** with on-command movements: arms flapping like a bird taking off, stepping small and big, sideways, forward, right and left on command — and **balance on one leg counting to 5**, then standing **on tiptoe, eyes closed**. **Observation** is trained by numbered stations: the teacher names **3 stations out of 1, 2, 4, 5** — run **only to the named ones**.
+
+The Grade 6 guide adds the games of **interest and attention**: the **middle-interceptor** — a circle passes a ball while the player in the middle tries to touch it; **traffic-light cards** — red card: **stop**; green card: **run the marked road**; and the **small-ball net game** — groups of 5–6 throw a small ball over a net and must watch its flight to receive it, a called number of times.
+
+## Sub lesson 7 — Attention control and mindfulness (teacher guide — evidence)
+
+The Grade 7 guide names the skill under all these games: **attention control** — the ability to **focus on task-relevant information and resist task-irrelevant distractors**.
+
+Its partner is **mindfulness**: the quality of being conscious or aware of something — a mental state achieved by **focusing awareness on the present moment**. In PE, learning to be aware of and manage emotion and relationship is a real part of sport and teamwork.
+
+And **reflective thinking** closes the circle: taking the biggest picture, understanding consequences, and always reflecting on **what you have and what you still need** — and shrinking that gap.
+
 ## Say it to your companion
 
 Tell your companion the four Grade 3 games of this family, and the safety rules of the covered-eyes game. Then say what attention means in the changing-calls game.

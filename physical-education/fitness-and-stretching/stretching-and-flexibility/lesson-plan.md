@@ -12,6 +12,9 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **What stretching and flexibility are** — stretching = the muscles' elasticity; flexibility = the joints' range of movement; benefit = preventing injury.
 3. **Stretching together and with a ball** — circle bending together holding hands, and passing a ball backwards overhead.
 4. **Side leans and waist stretches** — arms-up side leans, waist forward-and-back stretches, and leg stretching to reduce injury.
+5. **Stretching and flexibility — Grade 5** — leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first.
+6. **Flexibility — Grade 6 stretches** — bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches.
+7. **Flexibility — Grade 7: sit-and-reach and the six-stretch circuit** — the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -23,6 +26,10 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Do and explain: circle bending together holding hands, and passing a ball backwards overhead.
 4. Do and explain: arms-up side leans, waist forward-and-back stretches, and leg stretching to reduce injury.
 
+5. Do and explain: leaning left and right, bringing the knee to the chest, and the bridge, with joints warmed first.
+6. Do and explain: bend-and-reach arm raises, the seated toe-touch, side bends, and the wide-stance side lunge held 10 seconds; plus the seated inner-thigh and hip-and-thigh stretches.
+7. Do and explain: the sit-and-reach for the lower back and back of the thigh, and a six-stretch circuit done on the breath — runners stretch, standing side stretch, forward hang, low lunge arch, seated back twist, bound angle.
+
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
 
@@ -32,6 +39,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
    - ADD IMAGE [Picture 13513]: a picture of a child in a seated forward stretch touching their toes — the student names the movement and copies it safely.
    - ADD GIF [GIF 13514]: the waist twist right and left with control — the student watches first, then copies the movement.
    - ADD AUDIO: the movement names and counts read aloud — the student says them along with the voice.
+   - ADD IMAGE [Picture 13732]: a picture of a child making a bridge on a mat — the student names the movement and copies it safely.
+   - ADD GIF [GIF 13733]: the slow sit-and-reach — reach, hold, and return — the student watches first, then copies the movement.
 3. **Say it to your companion** — name each movement and say what it trains (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching — served at the learner's level (levels.md).
@@ -43,6 +52,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - GIF [GIF 13514]: the waist twist right and left with control — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
+
+- IMAGE [Picture 13732]: a picture of a child making a bridge on a mat — the student names the movement and copies it safely.
+- GIF [GIF 13733]: the slow sit-and-reach — reach, hold, and return — the student watches the movement, then does it slowly, then at full speed.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

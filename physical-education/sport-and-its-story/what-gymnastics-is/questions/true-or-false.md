@@ -10,3 +10,9 @@ Say if it is true or false.
 
 **3. ** Number gymnastics sequences are done to counts.
 **Answer: True**
+
+**4.** Keeping balance (ሚዛንን መጠበቅ) is a named element of free gymnastics.
+**Answer: True**
+
+**5.** Gymnastics builds balance, strength, flexibility, agility, coordination and decision-making.
+**Answer: True**

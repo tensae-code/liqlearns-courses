@@ -58,6 +58,32 @@ The teacher guides print these games with their rules — and the rules are part
 
 **Let Me In Today — አስገብኝ ዛሬ.** A circle game: the outside learner must decide the moment and the place to break into the circle, while the circle decides together how to close the gaps.
 
+## Sub lesson 6 — Games for responsible decisions
+
+The Grade 5 book's decision games carry printed procedures and rule-sets with one stress running through them: **cooperating and helping each other, each pupil carrying out their given responsibility**.
+
+A responsible decision in these games is not only fast — Grade 4's family taught speed — it is **yours**: your role, your moment, your call, taken for the group and owned by you.
+
+## Sub lesson 7 — Deciding in the moment — and solving problems in competition (teacher guide — evidence)
+
+**The ball-to-goal game.** The player in possession must decide the best kick — **pass left, pass right or shoot** — **before the defenders close**. Its aims: a responsible decision, deciding **at speed, within the moment**.
+
+**The ball-receiving game.** Five to seven learners receive thrown balls in turn — **in the air** and **off the bounce** — deciding the moment and the way to receive under time pressure.
+
+**Solving problems in competition.** Problems in competition are normal. The solver steps: **know the problem, think of several solutions, choose the best, act on it, and learn from the result** — gathering the facts, seeking a fair outcome, **putting brotherhood first**, strengthening cooperation, respecting others' rights. The worked example is **4-against-4 small-sided football**, played to practise solving in-game problems peacefully.
+
+## Sub lesson 8 — Decision games — below-the-knee dodgeball and the waist chain
+
+**Hitting below the knee.** Thrower lines try to hit the middle group **below the knee** with a small ball; the middle players **jump to dodge** — no lying or sitting. A hit player is out; the **last survivor wins**, then the groups swap. Every throw and every jump is a decision.
+
+**Waist-holding chain — ከወገብ መያያዝ.** Chains of **five** hold waists with both hands. Score by **touching the rival chain's last player** while protecting your own — five bodies, one decision-maker at the head, four who must hold and follow.
+
+## Sub lesson 9 — Ilama — and choosing your own challenge
+
+**Ilama — ኢላማ (Target).** The Grade 7 book's decision game is reflection-led: its tasks probe how **winning and losing, obeying the rules, praising winners and accepting truth gracefully** train decision-making and self-knowledge — and what to do **first if a pupil is hurt** in the game (the first-aid link: help first, game second).
+
+**"What a decision!" (teacher guide — evidence).** In the guide's shooting game, learners shoot at a goal or basket from a distance **they themselves select** — some stay close, others go far. The hope is a distance both **challenging and productive**; afterwards, each learner **evaluates the effectiveness of their own decision**. Choosing your challenge *is* the decision skill.
+
 ## Say it to your companion
 
 Tell your companion how Cat and Mouse works, and the one decision the mouse must make in a heartbeat. Then tell them the two safety rules of Who Do You Want?

@@ -33,3 +33,35 @@ a) Time, space and turns  b) Only the score  c) Nothing — limits are not real
 **8. (Sub lesson 4) ** In the cycling movement, what do your hands do?
 a) They support you while your legs pedal in the air  b) They hold a ball  c) They cover your eyes
 **Answer: a) They support you while your legs pedal in the air**
+
+**9. (Sub lesson 5)** In the cloth-snatch game, the cloth is tucked…
+a) At the back of your belt  b) In your pocket  c) Under your hat
+**Answer: a) At the back of your belt**
+
+**10. (Sub lesson 5)** The cloth game begins on which command?
+a) "Start"  b) "Stop"  c) "Sit"
+**Answer: a) "Start"**
+
+**11. (Sub lesson 6)** In the hoop race, the hoop travels…
+a) Over the head, down the body, off at the feet  b) Around one arm only  c) Under one foot
+**Answer: a) Over the head, down the body, off at the feet**
+
+**12. (Sub lesson 6)** In the rooster fight, you lose by…
+a) Losing your balance  b) Scoring a point  c) Folding your arms
+**Answer: a) Losing your balance**
+
+**13. (Sub lesson 7)** Self-management, in the guide, is carrying out daily tasks…
+a) With courage, without being pushed by others  b) Only when watched  c) Only for prizes
+**Answer: a) With courage, without being pushed by others**
+
+**14. (Sub lesson 7)** Positive thinking means…
+a) Seeing the good path in a situation  b) Ignoring every problem  c) Always winning
+**Answer: a) Seeing the good path in a situation**
+
+**15. (Sub lesson 8)** In active breathing, you softly say your relaxing word…
+a) As the air leaves, on the exhale  b) Before breathing in  c) While holding your breath
+**Answer: a) As the air leaves, on the exhale**
+
+**16. (Sub lesson 8)** The neck movement is done…
+a) Slowly, without jerk, five times each way  b) As fast as possible  c) Standing on one leg
+**Answer: a) Slowly, without jerk, five times each way**

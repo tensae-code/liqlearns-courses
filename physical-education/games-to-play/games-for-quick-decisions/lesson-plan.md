@@ -14,6 +14,11 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 4. **The Grade 4 games — follow the change, and find the ball blindfolded** — changing the movement when the leader changes it, and — blindfolded, in pairs inside a marked circle — finding a placed ball and kicking it.
 5. **Home-less, chasing games, Who Do You Want?, and Let Me In Today (teacher guide — evidence)** — the teacher guides' decision games with their printed rules: the Home-less game; run-and-escape and Gesh-Gedo chasing; relay handovers and moving safely among others; Who Do You Want?; and Asgebiny Zare, the circle-entry game.
 
+6. **Games for responsible decisions** — the Grade 5 book's decision family: games with printed procedures and rule-sets stressing cooperation and helping each other, each pupil carrying out their given responsibility.
+7. **Deciding in the moment — and solving problems in competition (teacher guide — evidence)** — the Grade 5 teacher guide: the ball-to-goal game (pass left, pass right or shoot — before the defenders close) and the ball-receiving game; then the solver steps for problems in competition and the 4-against-4 worked example.
+8. **Decision games — below-the-knee dodgeball and the waist chain** — the Grade 6 book's decision games: thrower lines hitting the middle group below the knee while they jump to dodge, and chains of five holding waists, scoring on the rival chain's last player.
+9. **Ilama — and choosing your own challenge** — the Grade 7 book's Ilama (ኢላማ) target game and its reflection tasks on winning, losing and the rules — with the Grade 7 guide's "What a decision!" shooting game, where each learner selects their own shooting distance.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -24,6 +29,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Play Nekahuny and the handkerchief snatch race from the Grade 2 book.
 3. Aim and throw at a target below the waist before a runner leaves the line (Grade 3 form).
 4. Play the Home-less game, the chasing games, Who Do You Want?, and Asgebiny Zare from the teacher guides — by their fairness and safety rules.
+
+5. Make the pass-or-shoot decision at speed, within the moment, and walk the five solver steps on a real problem.
+6. Choose your own challenge distance and evaluate the decision honestly afterwards.
 
 ## What you need
 A handkerchief, small balls, a marked area and a marked circle. Lines on the ground for the chasing paths. Nothing else.

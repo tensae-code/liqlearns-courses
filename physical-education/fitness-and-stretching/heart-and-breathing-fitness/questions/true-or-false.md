@@ -26,3 +26,27 @@ Say true or false.
 **8. (Sub lesson 4)** In "The six-minute run and steady stepping", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
 
+
+**9. (Sub lesson 5)** In this lesson, "The step-up test and counting the heart (teacher guide — evidence)" teaches: the step-up test on a 20–30 cm step, with the heartbeat counted before and after.
+**Answer: True**
+
+**10. (Sub lesson 5)** In "The step-up test and counting the heart (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "Heart and breathing fitness — Grade 5 movements" teaches: walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing.
+**Answer: True**
+
+**12. (Sub lesson 6)** In "Heart and breathing fitness — Grade 5 movements", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**13. (Sub lesson 7)** In this lesson, "Heart and breathing fitness — Grade 6: pulse, skipping and stepping" teaches: taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box.
+**Answer: True**
+
+**14. (Sub lesson 7)** In "Heart and breathing fitness — Grade 6: pulse, skipping and stepping", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**15. (Sub lesson 8)** In this lesson, "Cardio fitness — Grade 7: jacks, hop squats and ropes" teaches: cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest.
+**Answer: True**
+
+**16. (Sub lesson 8)** In "Cardio fitness — Grade 7: jacks, hop squats and ropes", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

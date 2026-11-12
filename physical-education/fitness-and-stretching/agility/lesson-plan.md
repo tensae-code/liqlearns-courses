@@ -11,6 +11,10 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 1. **What physical fitness is (teacher guide — evidence)** — fitness parts — heart and vessels, muscle strength, stretching/flexibility and agility.
 2. **Rising and running** — rising quickly from sitting or lying and running.
 3. **Line drills** — sprinting to touch a line, turning and sprinting back.
+4. **Agility — Grade 5: obstacles and group runs** — running between obstacles keeping your balance, and group circle running games where called numbers run.
+5. **Line-touch races and cone weaves (teacher guide — evidence)** — the line-touch race over lines at 5, 4 and 3 metres, and weaving in and out of a line of cones at speed without touching them.
+6. **Agility — Grade 6: starting positions and direction changes** — sprint starts from lying on the chest and from kneeling on one knee over 30 metres, fast one- and two-leg jumps over 10 metres, and a four-direction marker course — forward, sideways, backward, round.
+7. **Speed work — Grade 7: high knees, pursuit and the three sprint phases** — high-knee running and pursuit runs, and the sprint's three phases — drive, transition, and top speed — over 20, 30 and 40 metre runs.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -21,6 +25,11 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Do and explain: rising quickly from sitting or lying and running.
 3. Do and explain: sprinting to touch a line, turning and sprinting back.
 
+4. Do and explain: running between obstacles keeping your balance, and group circle running games where called numbers run.
+5. Do and explain: the line-touch race over lines at 5, 4 and 3 metres, and weaving in and out of a line of cones at speed without touching them.
+6. Do and explain: sprint starts from lying on the chest and from kneeling on one knee over 30 metres, fast one- and two-leg jumps over 10 metres, and a four-direction marker course — forward, sideways, backward, round.
+7. Do and explain: high-knee running and pursuit runs, and the sprint's three phases — drive, transition, and top speed — over 20, 30 and 40 metre runs.
+
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
 
@@ -30,6 +39,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
    - ADD IMAGE [Picture 13515]: a picture of a child springing up from lying on their back into a run — the student names the movement and copies it safely.
    - ADD GIF [GIF 13516]: lying on the back, rising and running in one quick movement — the student watches first, then copies the movement.
    - ADD AUDIO: the movement names and counts read aloud — the student says them along with the voice.
+   - ADD IMAGE [Picture 13734]: a picture of a child weaving between cones at speed, keeping balance — the student names the movement and copies it safely.
+   - ADD GIF [GIF 13735]: the shuttle line-touch — sprint, touch the line, turn, sprint back — the student watches first, then copies the movement.
 3. **Say it to your companion** — name each movement and say what it trains (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching — served at the learner's level (levels.md).
@@ -41,6 +52,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - GIF [GIF 13516]: lying on the back, rising and running in one quick movement — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
+
+- IMAGE [Picture 13734]: a picture of a child weaving between cones at speed, keeping balance — the student names the movement and copies it safely.
+- GIF [GIF 13735]: the shuttle line-touch — sprint, touch the line, turn, sprint back — the student watches the movement, then does it slowly, then at full speed.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

@@ -9,3 +9,7 @@ Keep a one-day tally: chalk marks for every long sitting, every walk, every run,
 ## Four parts, four stations
 
 Set four stations — heart (march in place and feel the pulse), muscle (wall push), stretch (reach), agility (side steps). Move round and name each part at its station.
+
+## The daily-tasks test
+
+List your day's tasks — walking, carrying, working, playing. For each, ask: does fitness help here? The list is the health-related kind, made personal.

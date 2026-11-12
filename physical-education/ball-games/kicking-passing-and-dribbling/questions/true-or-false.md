@@ -26,3 +26,21 @@ Say true or false.
 **8. (Sub lesson 4)** In "Football dribbling and net ball (teacher guide — evidence)", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
 
+
+**9. (Sub lesson 5)** In this lesson, "Passing with the inside and outside of the foot — Grade 5" teaches: passing and receiving with the inside of the foot at 4, 6, 8 and up to 10 metres, with the outside of the foot, and one-touch circle play using both.
+**Answer: True**
+
+**10. (Sub lesson 5)** In "Passing with the inside and outside of the foot — Grade 5", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "Football dribbling — Grade 6" teaches: dribbling with the inside and the outside of the foot — 20 metres to a partner, between cones, then small team football games using the dribble.
+**Answer: True**
+
+**12. (Sub lesson 6)** In "Football dribbling — Grade 6", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**13. (Sub lesson 7)** In this lesson, "Kicking and controlling — Grade 7" teaches: kicking with the inside and the front of the foot, controlling with the sole against a wall at 7, 5 and 3 metres, and controlling with the front of the foot at 10 metres.
+**Answer: True**
+
+**14. (Sub lesson 7)** In "Kicking and controlling — Grade 7", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

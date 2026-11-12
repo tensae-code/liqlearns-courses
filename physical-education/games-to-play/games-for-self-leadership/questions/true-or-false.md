@@ -13,3 +13,15 @@ Say if it is true or false.
 
 **4. (Sub lesson 4) ** In the cycling movement, you lie on your back and pedal your legs in the air.
 **Answer: True**
+
+**5. (Sub lesson 5)** Guarding your own cloth is part of the cloth-snatch game.
+**Answer: True**
+
+**6. (Sub lesson 6)** Dropping the ball before the "enough" command in እጅ ከፍንጅ saves you.
+**Answer: True**
+
+**7. (Sub lesson 7)** Accepting the result and trying again is part of building positive thinking.
+**Answer: True**
+
+**8. (Sub lesson 8)** Self-control means never having feelings.
+**Answer: False**

@@ -24,6 +24,18 @@ Sit holding your knees and roll left and right. Roll with arms and legs stretche
 
 Do a forward roll and a backward roll. Kneel, fall forward onto your hands and lie on your chest. Roll forward and backward two by two, and roll forward over a partner's back. Pairs climb on and off a horizontal bar and move left and right on it. Use a mat and a spotter for safety.
 
+## Sub lesson 5 — Forward rolls from a forehead stand and a handstand — Grade 6
+
+The rolls grow harder: now the forward roll begins from a forehead stand, and then from a handstand — the body weight is carried on the forehead and the hands, or on the hands alone, before the roll. A helper (spotter) stands beside you for every one of these rolls, as the book requires. Tuck tight, roll straight, and stand up in control.
+
+[Picture 13736 — the headstand base — forehead and both hands making a triangle on a mat, with a helper standing by]
+
+[GIF 13737 — the cartwheel — turning sideways hand to hand like a wheel]
+
+## Sub lesson 6 — Free gymnastics — Grade 7: headstand, head spring and cartwheel
+
+The headstand: make a triangle on the mat with your forehead and both hands, then raise the legs one by one until they rest on the elbows, and grow the hold. The head spring (በግንባር መስፈንጠር): from a run-up, one leg forward, and spring from the head and hands. The cartwheel (በእጅ ወደጎን መሽከርከር): turn sideways hand to hand, like the spokes of a wheel. A spotter works beside you for all three, and mastery tasks close the practice.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

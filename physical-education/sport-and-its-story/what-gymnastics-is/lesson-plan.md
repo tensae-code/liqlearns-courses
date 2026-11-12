@@ -18,6 +18,8 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 2. Name what gymnastics movements give the body, from the chapter that follows: balance that keeps you from falling, arm, shoulder and chest strength, and control of the whole body.
 3. Say what comes next in the chapter: basic gymnastics movements, then counted gymnastics sequences.
 
+4. Say what gymnastics is in the Grade 5 book's pass: its kinds — free, apparatus and rhythmic — and what the Grade 7 book adds: its history, and who spread it in schools.
+
 ## What you need
 A mat if you try the movements named — this lesson itself is knowledge; the trying belongs to the Gymnastics lessons.
 

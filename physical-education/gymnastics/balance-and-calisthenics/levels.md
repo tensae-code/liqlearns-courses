@@ -13,3 +13,6 @@ Pass mark: the learner does and explains — seated alternate leg raises and han
 
 ## Sub lesson 4 — Combined gymnastics movements
 Pass mark: the learner does and explains — same-side arm and leg together, and crouch-jump-straighten in the air.
+
+## Sub lesson 5 — Free gymnastics and balance — Grade 5
+Pass mark: the learner does and explains — free gymnastics without apparatus, with keeping balance as a named element — and form checked, not just done: the hand turned fully to the opposite leg.

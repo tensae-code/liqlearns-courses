@@ -14,4 +14,7 @@ Progressive sequences and equipment to music. Build a sequence step by step — 
 
 Equipment to music, and creating your own. Match the beat to the equipment: when you dribble, the ball's bounce is timed to the beat you hear; jump through circles on two feet to the music.
 
+Rhythmic gymnastics — Grade 5: a hoop to music. Rhythmic gymnastics (ሪትሚክ ጅምናስቲክስ) is a creative individual performance form.
+Rhythmic gymnastics — Grade 6: ball, hoop and rope. Rhythmic gymnastics now works with three tools: a ball, a hoop (ቀለበት), and a rope or ribbon.
+
 Now you. Do it slowly. Do it safely. Name it while you do it.

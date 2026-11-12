@@ -22,6 +22,38 @@ The Grade 4 book pictures **the Fishing game — አሳ ማጥመድ** again (Fi
 
 **The four-time beat game — የአራት ጊዜ ምት ጨዋታ.** Learners stand in **two rows** and clap the four-beat pattern. One learner's clap starts; the others **join exactly on the beat**. After 5 rounds, the beat changes — and the rows must hear the change and follow it together. Cooperation you can hear.
 
+## Sub lesson 4 — The jumping relay — cooperation in fours
+
+**The jumping relay.** Groups of **four** take turns to **jump from a set place**, handing the jump over in a relay — each jumper starts where the last landed — to **cover a long distance** together.
+
+The book states the family's aim in words: raising the body's agility, creating a feeling of alertness, and **growing the spirit of cooperation and social interaction**. And its rule for the relay is the cooperation rule of this whole title: **every group member must take part**.
+
+## Sub lesson 5 — Cooperation games — hand tug, baton relay, overhead relay
+
+The Grade 6 book defines the family: **social relations and cooperation** mean working to a **shared goal** — **clear communication, listening, owning mistakes, respecting diversity**.
+
+**Hand tug — በእጅ መጓተት.** Matched pairs across lines grip hands and pull on command; a team pulled across the last line loses.
+
+**Baton relay — የዘንግ/ዱላ ቅብብል.** Four teams over **30–50 m** hand a stick runner to runner — **never thrown**; **all members must take part**; the first team finished wins.
+
+**Overhead ball relay — የኳስ መቀባበል.** Run round a cone **30 m** away, return and pass the ball **overhead backwards** down the line; the last player repeats; the first team finished wins.
+
+[GIF 13818 — the overhead ball travelling backwards down the line]
+
+## Sub lesson 6 — The bottle target — communication, awareness and applause
+
+**The bottle target game.** Two teams throw balls from their own ground to knock down an **empty plastic water bottle placed 10 m from one team**. **Most knock-downs in 3 minutes wins.**
+
+Then the book's sportsmanship ending — it is a rule, not a suggestion: **the losers must applaud and embrace the winners**. A pupil who does not clap **sits out the next game**. Communication and awareness win the throws; grace decides what happens after them.
+
+## Sub lesson 7 — Fair play, compassion and getting along (teacher guide — evidence)
+
+The guide defines **fair play**: the fundamental values of sport — a commitment to take part in good spirit and good attitude: **respect, modesty, friendship, equality**. Its **five basic principles**: **(1) respect the rules; (2) respect the opponents; (3) respect the officials and their decisions; (4) have everyone participate; (5) maintain self-control at all times.** Compete to win as much as possible *within* the rules.
+
+**Compassion** is the feeling that arises when you see another's suffering and want to relieve it — shown by **cheering for your team, not against the other team**, treating opponents with respect, and **shaking hands before and after the game**.
+
+Two practices carry it: **Turn Back** — groups of 5, 7 or 9 hold hands alternately in a circle, turn to face outward while holding on, then use creativity and cooperation to return to face-to-face **without letting go**; and **role play** — learners take the roles of coach, players, referee, first aider and commentator inside a game situation.
+
 ## Say it to your companion
 
 Tell your companion why a cast that nobody answers catches nothing, and what a signal does for a game. Then clap the four-beat pattern and let them join exactly on the beat.

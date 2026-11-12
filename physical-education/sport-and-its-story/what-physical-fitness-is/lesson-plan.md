@@ -11,6 +11,9 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 1. **The four parts of fitness (teacher guide — evidence)** — the Grade 1 teacher guide's fitness chapter opening: fitness is the body's capacity foundation for this subject; its four components named; because children sit much of the school day in class, fitness activity must be built into their play.
 2. **What fitness protects (teacher guide — evidence)** — the Grade 3 teacher guide's fitness chapter introduction: fitness activity protects the child's health — the five printed benefits.
 
+3. **What fitness is — the Grade 5 definition** — the Grade 5 student book's concept section: fitness is a person's ability to carry out daily tasks competently — the knowledge base the whole fitness chapter builds on.
+4. **Two kinds of fitness — health and skill** — the Grade 6 student book's framing: health-related fitness, which keeps the body healthy and supports daily work, and skill-related fitness, which prepares a competitor for events.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -20,6 +23,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 1. Name the four components of physical fitness the guides name.
 2. Say why fitness activity must be built into children's play: children spend much of the school day sitting in class.
 3. List the five health benefits the Grade 3 guide prints: a protected heart, healthy lungs and breathing organs, healthy blood vessels, a well-proportioned body, healthy body weight.
+
+4. Define fitness in the Grade 5 student book's own words — this lesson now stands on pupil-taught text as well as teacher-guide evidence.
+5. Tell health-related fitness from skill-related fitness and say whom each is for.
 
 ## What you need
 Nothing but your own body and a school day to think about.

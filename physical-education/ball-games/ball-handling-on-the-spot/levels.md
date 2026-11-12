@@ -13,3 +13,6 @@ Pass mark: the learner does and explains — self toss-and-catch, two-hand chest
 
 ## Sub lesson 4 — Throw it up and catch it with two hands (teacher guide — evidence)
 Pass mark: the learner does and explains — throwing up and catching with two hands, then partner throw and catch.
+
+## Sub lesson 5 — Ball handling and chest control — Grade 5
+Pass mark: the learner does and explains — general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet.
