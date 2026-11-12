@@ -1,0 +1,20 @@
+# Sources - Writing a simple Python program - input, process, print
+
+countries: Ethiopia
+
+**Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
+
+**Book 2:** *Information Technology, Teacher Guide, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA, Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc, Content Editor), Temesgen Debelo Ayana (MA, Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First published August 2023, under GEQIP-E.* (teacher guide - evidence) - 129 PDF pages. Printed page = PDF page - 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-teacher-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 - Functions, input() and print() (function definition; print() any expression, comma-separated values on one line; input() prompt, wait, Enter, always a string; numbers must be converted) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 151-155 |
+| Sub lesson 2 - The circle program, separate lines (radius read, converted to float; area and circumference printed on separate lines) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 151-155 |
+| Sub lesson 3 - The combined form (area and circumference each combined onto one line) and the closing practice (product of two numbers; BMI from weight and height; Unit Review code-writing set) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 151-155 |
+| The worked model solutions (teacher guide - evidence) (name/age/BMI read and converted; two-number product converting inside the input call; BMI from weight and height; five review code-writing solutions - filed as the verified expected outputs for this lesson's practice) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, Unit 6, printed pp. 116-121 |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+Guide-side numbering fault noted where this evidence is filed: the teacher guide's contents misnumbers Writing a Simple Program as "6.4" a second time - it is section 6.5 - flagged here, in the lesson whose guide evidence it labels. The lesson's programs were run in Python 3 exactly as printed: radius 3 gives area 28.26 and circumference 18.84; radius 2 gives 12.56 and 12.56. The guide's worked model solutions (guide item 25) are filed above as verified expected outputs (teacher guide - evidence), not counted as pupil-taught content. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
+
+Searchable tags: simple program, input function, print function, function, circle area and circumference, IPO, Grade 11 ICT Ethiopia, Unit 6 programming

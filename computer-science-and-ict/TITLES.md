@@ -481,3 +481,19 @@ Grown by band D1 (Grade 10 depth added, not duplicated): `files-and-folders/what
 - AR and VR at work — education, health, entertainment — `new-technologies/ar-and-vr-at-work-education-health-entertainment/`
 - Data Science — finding hidden patterns in data — `new-technologies/data-science-finding-hidden-patterns-in-data/`
 - Big data — and the privacy problem — `new-technologies/big-data-and-the-privacy-problem/`
+
+**Band E6 — Grade 11 Unit 6 (Fundamentals of Programming — Python), 13 new lessons:**
+
+- Machine language and assembly language — `programming/machine-language-and-assembly-language/`
+- High-level languages — compilers and interpreters — `programming/high-level-languages-compilers-and-interpreters/`
+- Syntax and semantics — and the two kinds of error — `programming/syntax-and-semantics-and-the-two-kinds-of-error/`
+- Python and IDLE — where Python code is written — `programming/python-and-idle-where-python-code-is-written/`
+- The Python shell — first lines with print() — `programming/the-python-shell-first-lines-with-print/`
+- Writing and running a Python script — `programming/writing-and-running-a-python-script/`
+- Variables — storing values in memory — `programming/variables-storing-values-in-memory/`
+- Identifiers — the rules for naming variables — `programming/identifiers-the-rules-for-naming-variables/`
+- Python data types — int, float, str, bool — `programming/python-data-types-int-float-str-bool/`
+- Type conversion — when Python does it, when you must — `programming/type-conversion-when-python-does-it-when-you-must/`
+- Statements and expressions — telling them apart — `programming/statements-and-expressions-telling-them-apart/`
+- Writing a simple Python program — input, process, print — `programming/writing-a-simple-python-program-input-process-print/`
+- Python comments — notes inside code (teacher evidence) — `programming/python-comments-notes-inside-code/`

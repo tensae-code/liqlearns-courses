@@ -240,3 +240,19 @@ taught corrected and named in sources: "Datata
 generalization" in the review matching, the guide's
 contents misnumbering Data Science as 2.2 (it is §2.3).
 The course now stands at 387 lessons.
+
+**Band E6 (Grade 11, Unit 6) — BUILT 2026-11-12:** 13 new
+lessons, 157 questions, 18 media filed (pictures/GIFs
+18100–18117) — Python arrives: machine and assembly
+language, compilers vs interpreters, syntax/semantics
+and the two error kinds, Python and IDLE, the shell and
+print(), scripts saved and run, variables, identifiers,
+the four data types, type conversion, statements vs
+expressions, and a first full program with input() —
+plus the guide-only Python comments lesson on teacher
+evidence. All lesson code was run in Python 3 before
+filing. Book errors taught corrected and named in
+sources: the keyword list (p.141) lists print and exec —
+Python 2 wording flagged in a Tip box; the guide's
+contents misnumbers §6.5 as 6.4. The course now stands
+at 400 lessons.
