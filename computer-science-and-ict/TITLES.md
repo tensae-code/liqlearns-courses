@@ -497,3 +497,21 @@ Grown by band D1 (Grade 10 depth added, not duplicated): `files-and-folders/what
 - Statements and expressions — telling them apart — `programming/statements-and-expressions-telling-them-apart/`
 - Writing a simple Python program — input, process, print — `programming/writing-a-simple-python-program-input-process-print/`
 - Python comments — notes inside code (teacher evidence) — `programming/python-comments-notes-inside-code/`
+
+**Band E5 — Grade 11 Unit 5 (Hardware Troubleshooting and Preventive Maintenance), 15 new lessons:**
+
+- Troubleshooting — start with the simple checks — `hardware/troubleshooting-start-with-the-simple-checks/`
+- POST — the computer checks itself at start-up — `hardware/post-the-computer-checks-itself-at-start-up/`
+- Beep codes — what the start-up sounds mean — `hardware/beep-codes-what-the-start-up-sounds-mean/`
+- BIOS — the program that starts the computer — `hardware/bios-the-program-that-starts-the-computer/`
+- CMOS errors — when the battery needs replacing — `hardware/cmos-errors-when-the-battery-needs-replacing/`
+- Event Viewer — reading the error log — `hardware/event-viewer-reading-the-error-log/`
+- Device Manager — finding problem hardware — `hardware/device-manager-finding-problem-hardware/`
+- Watching performance — Task Manager — `hardware/watching-performance-task-manager/`
+- Resource Monitor — finding what is slowing the computer — `hardware/resource-monitor-finding-what-is-slowing-the-computer/`
+- Preventive maintenance — keeping dust out — `hardware/preventive-maintenance-keeping-dust-out/`
+- Antivirus — installing it and scanning regularly — `hardware/antivirus-installing-it-and-scanning-regularly/`
+- Backups — copy your work before anything goes wrong — `hardware/backups-copy-your-work-before-anything-goes-wrong/`
+- Defragmenting — putting a file's pieces back together — `hardware/defragmenting-putting-a-files-pieces-back-together/`
+- Protecting a computer from power problems — `hardware/protecting-a-computer-from-power-problems/`
+- Shut down properly — or hibernate — `hardware/shut-down-properly-or-hibernate/`

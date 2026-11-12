@@ -256,3 +256,17 @@ sources: the keyword list (p.141) lists print and exec —
 Python 2 wording flagged in a Tip box; the guide's
 contents misnumbers §6.5 as 6.4. The course now stands
 at 400 lessons.
+
+**Band E5 (Grade 11, Unit 5) — BUILT 2026-11-12:** 15 new
+lessons, 190 questions, 19 media filed (pictures/GIFs
+17700–17718) — troubleshooting as a system: the simple
+checks first, POST, beep codes, BIOS, CMOS battery,
+Event Viewer, Device Manager, Task Manager and Resource
+Monitor, then preventive maintenance — dust, antivirus,
+backups (the before-troubleshooting rule), defragmenting,
+power protection, shutting down properly — the book's
+step orders and safety notes kept exactly, including the
+guide's line that BIOS settings are demonstrated but
+never taught. Book errors taught corrected and named in
+sources: the guide's "Device Danager" and
+"assign,ents". The course now stands at 415 lessons.
