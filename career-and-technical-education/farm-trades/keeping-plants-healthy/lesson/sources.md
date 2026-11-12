@@ -1,0 +1,19 @@
+# Sources — Gardening — keeping plants healthy: pests, disease and safe spraying
+
+countries: Ethiopia
+
+**Book 1:** *Career & Technical Education (CTE), Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Hawassa University. Writers: Getachew Habtamu (PhD), Ashenafi Kebede (PhD). Content Editor: Deribe Kaske (PhD). Instructional Design Editor: Seboka Geleta (MSc). Language Editor: Seifu Zinab (Assis. Prof.). Book Designer: Wondwossen Ergete (MSc). Illustrator: Degif Teka (PhD). No ISBN or year printed on the cover/title pages read. Printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/career-and-technical-education/g07-student-placements.md.
+
+**Book 2:** *Career & Technical Education (CTE), Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Hawassa University. Writers: Getachew Habtamu (PhD), Ashenafi Kebede (PhD). Content Editor: Deribe Kaske (PhD). Instructional Design Editor: Seboka Geleta (MSc). Language Editor: Seifu Zinab (Assis. Prof.). Book Designer: Wondwossen Ergete (MSc). Illustrator: Degif Teka (PhD). No ISBN or year printed on the cover/title pages read. **Image-only scan — read visually, cited at SECTION level only, never finer.** Printed page = PDF page − 7. **TRUNCATED: the file ends at printed p. 42, mid-sentence inside Unit 4 Lesson 1.** Placements at liqlearns-courses-work/ethiopia-2026-11-11/career-and-technical-education/g07-teacher-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Prevention — the first defences | Ethiopia, *Career & Technical Education (CTE), Student Textbook, Grade 7*, Unit 3, printed p. 42 (student placement 24) |
+| Sub lesson 2 — Pesticides — the last resort, sprayed safely | Ethiopia, *Career & Technical Education (CTE), Student Textbook, Grade 7*, Unit 3, printed p. 42 (student placement 24) |
+| Unit 3 answer key — pest set named in the key only (teacher guide — evidence) | Ethiopia, *Career & Technical Education (CTE), Teacher's Guide, Grade 7*, Unit 3 review answers, printed pp. 34–37 (section level) (teacher placement 12) |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+Pupil content comes from the student book, printed p. 42 (placement 24), taught exactly as the book teaches it — the pesticide safety content is not softened and not extended from outside knowledge. The guide's Unit 3 answer key names a pest set (fruit and stem borer, aphids, grasshoppers — teacher placement 12, printed pp. 34–37, section level); it is an answer key, not pupil body content, so those names are not taught as lesson content here. No book error flagged by the placements touches this lesson.
+
+Searchable tags: pest management, disease management, pesticide safety, gloves mask eye protection, beneficial insects, Ethiopia Grade 7 CTE Unit 3

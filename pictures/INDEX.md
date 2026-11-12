@@ -1802,3 +1802,52 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11631 | pictures/11631.webp | the invasion arrow 700 km deep and the Karamara counter-stroke | Social Studies — Modern Ethiopia — The Ogaden War 1977–78 |
 | 11632 | pictures/11632.gif | GIF: a loaded pack animal travelling the caravan route Bonga to Gondar | Social Studies — Modern Ethiopia — The Caravan Trade — Routes and Goods |
 | 11633 | pictures/11633.gif | GIF: two invasion arrows closing on Addis Ababa, red from Eritrea, blue from Somaliland | Social Studies — Modern Ethiopia — The Fascist Invasion — The League's Failure and the Two Fronts |
+| 11850 | pictures/11850.webp | garden use-zones | Career and Technical Education — Farm Trades — Gardening — Growing Plants as a Business |
+| 11851 | pictures/11851.webp | ground bed and containers | Career and Technical Education — Farm Trades — Vegetable and Container Gardens |
+| 11852 | pictures/11852.webp | nine gardening tools | Career and Technical Education — Farm Trades — Gardening — Essential Tools |
+| 11853 | pictures/11853.webp | seedling tray and garden row | Career and Technical Education — Farm Trades — Seeds and Transplants |
+| 11854 | pictures/11854.webp | eight steps path | Career and Technical Education — Farm Trades — Starting a Garden — Eight Steps |
+| 11855 | pictures/11855.webp | safe spraying | Career and Technical Education — Farm Trades — Keeping Plants Healthy |
+| 11856 | pictures/11856.webp | farm-to-town milk chain | Career and Technical Education — Farm Trades — Dairy Farming — Milk as a Business |
+| 11857 | pictures/11857.webp | udder and two hand positions | Career and Technical Education — Farm Trades — Milking by Hand |
+| 11858 | pictures/11858.webp | machine milking path | Career and Technical Education — Farm Trades — Milking by Machine |
+| 11859 | pictures/11859.webp | two cooling methods | Career and Technical Education — Farm Trades — Clean Milk and Keeping It Fresh |
+| 11860 | pictures/11860.webp | dairy barn cutaway | Career and Technical Education — Farm Trades — Housing and Feeding the Herd |
+| 11861 | pictures/11861.webp | cow cycle wheel | Career and Technical Education — Farm Trades — Breeding and Lactation Cycle |
+| 11862 | pictures/11862.webp | six requirements checklist | Career and Technical Education — Farm Trades — Starting a Dairy Farm |
+| 11863 | pictures/11863.webp | before and after fattening | Career and Technical Education — Farm Trades — Animal Fattening for Meat and Profit |
+| 11864 | pictures/11864.webp | buyer checking a steer | Career and Technical Education — Farm Trades — Fattening — Site, Shelter and Animal |
+| 11865 | pictures/11865.webp | concentrate and roughage sacks | Career and Technical Education — Farm Trades — Feeds for Fattening |
+| 11866 | pictures/11866.webp | household flock and income | Career and Technical Education — Farm Trades — Poultry — Chickens for Eggs, Meat and Income |
+| 11867 | pictures/11867.webp | four poultry systems | Career and Technical Education — Farm Trades — Poultry — Four Production Systems |
+| 11868 | pictures/11868.webp | good and bad hatching egg | Career and Technical Education — Farm Trades — Poultry — Choosing Birds and Eggs |
+| 11869 | pictures/11869.webp | poultry house four requirements | Career and Technical Education — Farm Trades — Poultry — Feeding and Housing |
+| 11870 | pictures/11870.webp | broody hen and incubator | Career and Technical Education — Farm Trades — Poultry — Hatching Eggs |
+| 11871 | pictures/11871.webp | quarantine cage | Career and Technical Education — Farm Trades — Poultry — Keeping the Flock Healthy |
+| 11872 | pictures/11872.webp | three bee sorts | Career and Technical Education — Farm Trades — Beekeeping — The Colony |
+| 11873 | pictures/11873.webp | traditional and modern hives | Career and Technical Education — Farm Trades — Beekeeping — Starting Out and Choosing the Site |
+| 11874 | pictures/11874.webp | beekeeper's kit grid | Career and Technical Education — Farm Trades — Beekeeping — The Beekeeper's Kit |
+| 11875 | pictures/11875.webp | model apiary from above | Career and Technical Education — Farm Trades — Beekeeping — Running a Good Apiary |
+| 11876 | pictures/11876.webp | stall ledger and formula (P = I − C) | Career and Technical Education — Farm Trades — Starting a Small Business and Profit |
+| 11877 | pictures/11877.webp | barbershop and salon | Career and Technical Education — Salon Trades — Hair Care as a Trade |
+| 11878 | pictures/11878.webp | four cutting techniques | Career and Technical Education — Salon Trades — Men's Hair — Four Cutting Techniques |
+| 11879 | pictures/11879.webp | stylist check-card | Career and Technical Education — Salon Trades — Reading the Client Before You Cut |
+| 11880 | pictures/11880.webp | salon safety wall | Career and Technical Education — Salon Trades — Men's Hair — Safety, Hygiene and Damage |
+| 11881 | pictures/11881.webp | barber station laid out | Career and Technical Education — Salon Trades — Men's Hair — Tools and Products |
+| 11882 | pictures/11882.webp | four steps of a cut | Career and Technical Education — Salon Trades — Cutting Men's Hair Step by Step |
+| 11883 | pictures/11883.webp | six technique tiles | Career and Technical Education — Salon Trades — Women's Hair — Basic Styling Techniques |
+| 11884 | pictures/11884.webp | blow-drying a section | Career and Technical Education — Salon Trades — Women's Hair — Blow-Drying Well |
+| 11885 | pictures/11885.webp | salon trolley two halves | Career and Technical Education — Salon Trades — Women's Hair — Products and Equipment |
+| 11886 | pictures/11886.webp | nail-care set-up | Career and Technical Education — Salon Trades — Nail Care Treatment |
+| 11887 | pictures/11887.webp | tool journey four boxes | Career and Technical Education — Salon Trades — Salon Hygiene — Sterilizing and Disinfecting |
+| 11888 | pictures/11888.webp | backwash basin massage | Career and Technical Education — Salon Trades — Hair Washing — Shampooing and Conditioning |
+| 11889 | pictures/11889.webp | facial sequence five frames | Career and Technical Education — Salon Trades — Skin Care and Cosmetics |
+| 11890 | pictures/11890.gif | GIF: transplanting a seedling into its hole | Career and Technical Education — Farm Trades — Seeds and Transplants |
+| 11891 | pictures/11891.gif | GIF: hand milking rhythm, the bucket filling | Career and Technical Education — Farm Trades — Milking by Hand |
+| 11892 | pictures/11892.gif | GIF: puffing the smoker to calm the bees | Career and Technical Education — Farm Trades — Beekeeping — The Beekeeper's Kit |
+| 11893 | pictures/11893.gif | GIF: clipper over comb travelling across the head | Career and Technical Education — Salon Trades — Men's Hair — Four Cutting Techniques |
+| 11894 | pictures/11894.gif | GIF: clipper pass rising from the base | Career and Technical Education — Salon Trades — Cutting Men's Hair Step by Step |
+| 11895 | pictures/11895.gif | GIF: brush and dryer together smoothing a section | Career and Technical Education — Salon Trades — Women's Hair — Blow-Drying Well |
+| 11896 | pictures/11896.gif | GIF: filing in one direction, lifting to return | Career and Technical Education — Salon Trades — Nail Care Treatment |
+| 11897 | pictures/11897.gif | GIF: shampoo massage circles at the basin | Career and Technical Education — Salon Trades — Hair Washing — Shampooing and Conditioning |
+| 11898 | pictures/11898.webp | four disease-transmission routes (teacher guide) | Career and Technical Education — Farm Trades — Poultry — Keeping the Flock Healthy |

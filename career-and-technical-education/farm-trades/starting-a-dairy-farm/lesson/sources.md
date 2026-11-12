@@ -1,0 +1,19 @@
+# Sources — Dairy — starting your own dairy farm
+
+countries: Ethiopia
+
+**Book 1:** *Career & Technical Education (CTE), Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Hawassa University. Writers: Getachew Habtamu (PhD), Ashenafi Kebede (PhD). Content Editor: Deribe Kaske (PhD). Instructional Design Editor: Seboka Geleta (MSc). Language Editor: Seifu Zinab (Assis. Prof.). Book Designer: Wondwossen Ergete (MSc). Illustrator: Degif Teka (PhD). No ISBN or year printed on the cover/title pages read. Printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/career-and-technical-education/g07-student-placements.md.
+
+**Book 2:** *Career & Technical Education (CTE), Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, in collaboration with Hawassa University. Writers: Getachew Habtamu (PhD), Ashenafi Kebede (PhD). Content Editor: Deribe Kaske (PhD). Instructional Design Editor: Seboka Geleta (MSc). Language Editor: Seifu Zinab (Assis. Prof.). Book Designer: Wondwossen Ergete (MSc). Illustrator: Degif Teka (PhD). No ISBN or year printed on the cover/title pages read. **Image-only scan — read visually, cited at SECTION level only, never finer.** Printed page = PDF page − 7. **TRUNCATED: the file ends at printed p. 42, mid-sentence inside Unit 4 Lesson 1.** Placements at liqlearns-courses-work/ethiopia-2026-11-11/career-and-technical-education/g07-teacher-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — The six requirements — place, animals, feed | Ethiopia, *Career & Technical Education (CTE), Student Textbook, Grade 7*, Unit 3, printed p. 53 (student placement 31) |
+| Sub lesson 2 — The six requirements — management, health, breeding | Ethiopia, *Career & Technical Education (CTE), Student Textbook, Grade 7*, Unit 3, printed p. 53 (student placement 31) |
+| Cattle farming and poultry/beekeeping taught by site visit and home practice (teacher guide — evidence) | Ethiopia, *Career & Technical Education (CTE), Teacher's Guide, Grade 7*, Unit 3, Lessons 2–3, printed pp. 28–33 (section level) (teacher placement 11) |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+Pupil content comes from the student book, printed p. 53 (placement 31). No book error flagged by the placements touches this lesson.
+
+Searchable tags: starting a dairy farm, six requirements, dairy breeds, fodder management, disease control, Ethiopia Grade 7 CTE Unit 3
