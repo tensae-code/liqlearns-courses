@@ -1,12 +1,14 @@
 # Sources — Heat — conduction, conductors and insulators
 
-countries: Ethiopia, Argentina
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
 **Book 2:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia, Federal Ministry of Education new syllabus, implemented from 2014 E.C. (no bureau, publisher or publication year printed anywhere in the book). Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. COMPLETE: 141 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
 
 **Book 3:** *La energía: cambios y movimientos* (student booklet) — Argentina, Física, Serie Cuadernos para el aula, Núcleos de Aprendizajes Prioritarios (NAP), Ministerio de Educación, Ciencia y Tecnología de la Nación, 1a ed., Buenos Aires, 2007. ISBN 978-950-00-0667-5. Title as printed: La energía: cambios y movimientos. Grade 7. The cover banner reads "ESTUDIANTES" — this is the students' edition (the series has a separate teacher-orientation version). PDF 28 pp., each page a two-page landscape spread = 56 printed pp., matching the imprint's "56 p.". Offset: printed pp. 10–11 = PDF p. 6, so printed p. N sits on PDF spread p. (N+2)/2; chapters are cited by printed page. COMPLETE. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/argentina-placements.md.
+
+**Book 4:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,7 +17,9 @@ countries: Ethiopia, Argentina
 | Heat felt through the hands (two-hands mixed-water test, Activity 7.18 of the guide); insulating pan handles and cotton gabi as insulator keys (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, printed pp. 126–127, 132–133 (teacher placement 22) — the pan-handle and gabi keys are filed in this lesson; the charcoal-room key is filed in the convection and radiation lessons. |
 | Thermal energy and heat named as a class of energy (booklet-level treatment only — the booklet names heat among the classes of energy; it does not teach conduction itself) | Argentina, *La energía: cambios y movimientos*, Ch. 3: Algunas clases de energía, printed p. 31 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Argentina).**
+| Conductors and insulators — taught ELECTRICALLY in the Gabon guide (materials that let current pass or not); cross-listed here under the heat slug family, as placed (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 4: Les conducteurs et les isolants, printed p. 43 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Argentina).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

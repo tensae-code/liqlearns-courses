@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -9,6 +9,10 @@ countries: Ethiopia, Argentina
 PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration Education Bureau book (© 2023), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
 **Book 3:** *La energía: cambios y movimientos* (student booklet) — Argentina, Física, Serie Cuadernos para el aula, Núcleos de Aprendizajes Prioritarios (NAP), Ministerio de Educación, Ciencia y Tecnología de la Nación, 1a ed., Buenos Aires, 2007. ISBN 978-950-00-0667-5. Title as printed: La energía: cambios y movimientos. Grade 7. The cover banner reads "ESTUDIANTES" — this is the students' edition (the series has a separate teacher-orientation version). PDF 28 pp., each page a two-page landscape spread = 56 printed pp., matching the imprint's "56 p.". Offset: printed pp. 10–11 = PDF p. 6, so printed p. N sits on PDF spread p. (N+2)/2; chapters are cited by printed page. COMPLETE. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/argentina-placements.md.
+
+**Book 4:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
+
+**Book 5:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,7 +23,10 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 | Energy in everyday life, Argentina's way: energy introduced through news items — fossil-fuel reserves, biofuels from maize, mass blackouts, global warming | Argentina, *La energía: cambios y movimientos*, Ch. 2: La energía en la vida cotidiana, printed p. 11 |
 | Sources, renewable against non-renewable, and rational use of energy | Argentina, *La energía: cambios y movimientos*, Ch. 5: Energía para un mundo mejor, printed p. 47 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Argentina).**
+| Energy sources — Gabon's primary way in, braided into the palier competence statement (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 3: Les sources d'énergie, printed p. 30 |
+| Renewable sources named and localised — hydroelectric, solar, wind; Gabon's rivers make hydro concrete (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 4e année*, Palier 1: L'énergie hydroélectrique, solaire, éolienne, printed p. 3 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Argentina).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
 
 Placement: Student item 89 — g07-student-placements.md (Unit 7), extended by Teacher items 16 and 17 — g07-teacher-placements.md, filed above as labelled teacher-evidence parts; the lesson's acceptance count stays 1 on the student book. BOOK ERRORS, taught corrected and flagged here: (1) the energy-conservation paragraph on the student book's printed p. 195 is duplicated verbatim inside itself — it is taught once here; (2) the book lists wood among non-renewable sources — taught as the book sorts it, with the tension named in talk (trees regrow, but the book's finite list is the lesson's rule). PAIRING: see the warning under Book 2.
 

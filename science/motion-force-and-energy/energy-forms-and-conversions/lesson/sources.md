@@ -1,12 +1,14 @@
 # Sources — Energy — forms and conversions
 
-countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only)
+countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
 **Book 2:** *La energía: cambios y movimientos* (student booklet) — Argentina, Física, Serie Cuadernos para el aula, Núcleos de Aprendizajes Prioritarios (NAP), Ministerio de Educación, Ciencia y Tecnología de la Nación, 1a ed., Buenos Aires, 2007. ISBN 978-950-00-0667-5. Title as printed: La energía: cambios y movimientos. Grade 7. The cover banner reads "ESTUDIANTES" — this is the students' edition (the series has a separate teacher-orientation version). PDF 28 pp., each page a two-page landscape spread = 56 printed pp., matching the imprint's "56 p.". Offset: printed pp. 10–11 = PDF p. 6, so printed p. N sits on PDF spread p. (N+2)/2; chapters are cited by printed page. COMPLETE. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/argentina-placements.md.
 
 **Book 3:** *Compendio para Maestras y Maestros, Área Física (2023–2024)* (teacher compendium — a TEACHER COMPENDIUM re-issuing the official student learning texts for teachers, NOT a student textbook) — Bolivia, Ministerio de Educación de Bolivia. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Naturales: Física (Ministerio de Educación de Bolivia, Documento oficial 2023). Grade: recorded as Grade 7 in TSV (filing artefact — the compendium spans ALL secondary years, 3º–6º). Teacher book. Release: mid-size-books-2, asset grade-07-gov-bolivia-physics-teacher-compendio.pdf. Byte size: 10,850,498 (release asset). PDF pages: 134. Offset: compendium printed pp. 1–134; its índice cites the student texts' own pages. Verdict: COMPLETE — full text read (44,375 words); presentation + índice prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bolivia-placements.md.
+
+**Book 4:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -17,7 +19,9 @@ countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only)
 | Conservation as the organising law — energy is not created or destroyed — with transfer chains | Argentina, *La energía: cambios y movimientos*, Ch. 4: La energía no se crea ni se destruye, printed p. 39 |
 | 5º año: La energía mecánica sostenible y sustentable en la comunidad — sustainability-framed mechanics, Bolivia's way (teacher compendium — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Física (2023–2024)*, 5º año: La energía mecánica sostenible y sustentable en la comunidad, compendium p. 80 approx. |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Argentina).** Bolivia is named as teacher-compendium evidence only (Compendio para Maestras y Maestros, Área Física 2023–2024 — teacher compendium), not added to this count.
+| What is energy? (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 5e année*, Palier 3, Leçon 24: Qu'est-ce que l'énergie?, printed p. 29 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Argentina).** Bolivia is named as teacher-compendium evidence only (Compendio para Maestras y Maestros, Área Física 2023–2024 — teacher compendium), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
 
 Placement: Student item 88 — g07-student-placements.md (Unit 7). This lesson rests on the student book only.
 
