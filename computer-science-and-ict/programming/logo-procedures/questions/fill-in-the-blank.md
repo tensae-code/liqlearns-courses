@@ -10,3 +10,6 @@ Fill each blank with the right word.
 
 **3.** ______ 4 [FORWARD 100 RIGHT 90] draws a square.
 **Answer: REPEAT**
+
+**4.** (Grade 8 growth) A procedure name has no ______.
+**Answer: spaces.**

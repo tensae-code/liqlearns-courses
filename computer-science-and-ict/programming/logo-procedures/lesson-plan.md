@@ -18,6 +18,7 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 2. Say what a primitive procedure is.
 3. Give the book's SQUARE example both ways.
 4. State the define-before-use rule and LOGO's answer when it is broken.
+5. Say where procedures live — in memory, as part of a LOGO workspace that can be saved and loaded like other documents (Grade 8 growth).
 
 ## What you need
 A computer with MSW Logo open; paper and a pencil.
@@ -27,6 +28,7 @@ A computer with MSW Logo open; paper and a pencil.
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 10530]: a picture of a long command list folding into one word, SQUARE — the student watches the list fold and says what the one word now means.
    - ADD GIF [GIF 10561]: a picture of typing SQUARE once and the whole square drawing itself — the student counts the four sides as the one word draws them.
+   - ADD IMAGE [Picture 12313]: a picture of the word SQUARE unfolding into its command list — the student says what the word holds, and that procedures live in a workspace that is saved and loaded like a document.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -36,6 +38,7 @@ A computer with MSW Logo open; paper and a pencil.
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 10530] — a picture of a long command list folding into one word, SQUARE → the student watches the list fold and says what the one word now means.
 - GIF [GIF 10561] — a picture of typing SQUARE once and the whole square drawing itself → the student counts the four sides as the one word draws them.
+- IMAGE [Picture 12313] — a picture of the word SQUARE unfolding into its command list, then folding back — with the workspace line under it → the student says what the word holds, and where the word lives (Grade 8 growth).
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

@@ -10,3 +10,6 @@ Fill each blank with the right word.
 
 **3. (Sub lesson 3)** The guide's circle uses ______ tiny steps of one degree.
 **Answer: 360**
+
+**4. (Sub lesson 4)** In the editor, commands are typed between the TO line and ______.
+**Answer: END.**

@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 3)** A circle in LOGO is drawn with one single curve command in the guide's key.
 **Answer: False** — 360 tiny straight steps, one degree at a time.
+
+**4. (Sub lesson 4)** With EDIT, there is a space between the quote and the procedure name.
+**Answer: False** — no space between the quote and the name, and no quote after it.

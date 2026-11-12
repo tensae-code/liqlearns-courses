@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: define a procedure in the
 
 ## Sub lesson 3 — Running — and the circle (teacher guide — evidence)
 Sub lesson 3 questions from the type files. Pass mark: run SQUARE, explain remembered-not-run, and say how the 360-step circle works.
+
+## Sub lesson 4 — Creating a procedure with EDIT — the Grade 8 worked example
+Sub lesson 4 questions from the type files. Pass mark: work the Grade 8 EDIT route in the book's order — File → Edit, the form, commands between TO and END, Save and Exit, run from the Commander.

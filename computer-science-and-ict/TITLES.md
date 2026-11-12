@@ -172,3 +172,21 @@ and the Three CDs · DVD — a CD That Holds Much More · Output
 Devices — Soft Copy and Hard Copy; CRT and LCD Monitors · LED
 and Gas Plasma Monitors · Printers — Impact and Non-Impact —
 and Plotters.
+
+**Safety, Security and Care** (band B3, from Ethiopia Grade 8):
+Computer Ergonomics — Sitting Without Harming Your Body ·
+Setting Up a Workstation — the Healthy Angles · Ergonomic
+Guidelines — Eight Habits at the Computer · Handling Portable
+Devices Safely — Calls, Headsets, Distance · Handling Portable
+Devices Safely — Signal, Texts and Landlines · Using a
+Smartphone Properly — Ten Rules.
+
+**Programming** (band B3, from Ethiopia Grade 8): LOGO
+Primitives — the Turtle's Command Words · Variables in LOGO —
+MAKE, "name and :value · Recursive Procedures — a Procedure
+That Calls Itself · LOGO Conditionals — ifelse · LOGO Loops
+with Until and While · LOGO Loops with do.until and do.while.
+Grown in this band (Grade 8 taken further, not duplicated):
+LOGO Procedures (procedures live in a workspace) and Defining
+and Running a LOGO Procedure (new Sub lesson 4 — creating a
+procedure with EDIT, the book's eight steps in order).

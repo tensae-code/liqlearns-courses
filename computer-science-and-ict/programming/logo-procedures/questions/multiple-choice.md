@@ -25,3 +25,11 @@ a) nothing at all  b) that the procedure is not in its vocabulary yet  c) with a
 **6.** The point of a procedure is —
 a) more typing  b) sparing the typing of the whole set each time  c) hiding commands  d) slowing Logo
 **Answer: b) sparing the typing of the whole set each time** — the guide's keyed reason.
+
+**7.** Procedures live in memory as part of a LOGO —
+a) printer  b) workspace, which can be saved and loaded like other documents  c) password  d) screen saver
+**Answer: b) workspace, which can be saved and loaded like other documents** (Grade 8 growth).
+
+**8.** Every procedure is made with —
+a) the word TO plus the name  b) the word GO plus the name  c) PRINT plus the name  d) a space in the name
+**Answer: a) the word TO plus the name** — TO SQUARE, TO HOUSE; names have no spaces (Grade 8 growth).

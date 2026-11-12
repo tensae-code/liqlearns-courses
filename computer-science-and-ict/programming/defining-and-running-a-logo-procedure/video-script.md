@@ -14,3 +14,12 @@ Blank line. Commands. File — Save and Exit.
 Remembered — not run. Teaching is not drawing.
 Now run it. Type SQUARE. Enter.
 Four sides draw themselves. You are a programmer.
+
+---
+
+Grade 8 works the Editor in full. **File — Edit.** Type **square** on the form. **OK.**
+The editor shows **TO SQUARE** — and **END**.
+Type between them: **fd 100 rt 90 fd 100**.
+**File — Save and Exit.**
+Now the Commander: type **square**. Click **Execute**.
+The output appears. Created. Saved. Run.

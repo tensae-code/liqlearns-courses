@@ -12,6 +12,12 @@ A **procedure** is a **set of instructions given a descriptive one-word name**. 
 
 [GIF 10561 — SQUARE drawing itself]
 
+## Procedures live in a workspace — Grade 8, taken further
+
+Typing commands one by one makes the turtle move at once — but it does not remember how a shape was made. A procedure makes the turtle **remember** a set of commands. Procedures **live in memory as part of a LOGO workspace**, which can be **saved and loaded like other documents** — teach SQUARE today, load the workspace tomorrow, and SQUARE is still yours. Every procedure is made with the word **TO plus the name** — **TO SQUARE**, **TO HOUSE** — and a name has **no spaces**. Teach the turtle that SQUARE means **REPEAT 4 [FD 50 RT 90]**, and afterwards the word alone makes the shape.
+
+[Picture 12313 — one word holds the whole list]
+
 ## Say it to your companion
 
 Tell your companion what a procedure is, what a primitive is, and the rule that must come before any procedure can run.

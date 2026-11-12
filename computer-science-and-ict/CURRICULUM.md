@@ -53,3 +53,14 @@ answer keys were used as the verified-answer check for the
 question files, and its items for Units 1–2 are stocked inside
 the lessons as labelled evidence. The course now stands at 99
 lessons.
+
+**Band B3 (Grade 8, Units 5–6) — BUILT 2026-11-12:** 12 new
+lessons + 2 grown, 145 questions added (137 in the new lessons,
+4 in each grown lesson), 22 media filed (pictures/GIFs
+12300–12321; the band's first numbers, 12100–12188, were found
+already taken by the Science build, so the band skipped up
+inside its range and overwrote nothing) — Safety, Security and
+Care (6, ergonomics and portable-device safety), Programming
+(6 new LOGO lessons + LOGO Procedures and Defining and Running
+a LOGO Procedure grown with Grade 8 parts). The course now
+stands at 111 lessons.
