@@ -1,6 +1,6 @@
 # Sources — Electromagnets — a magnet you switch on
 
-countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia
+countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia
 
 **Book 6:** *Физика за VIII одделение (Physics for Grade 8)* (student textbook) — North Macedonia, Prof. Dr Lambe Barandovski (Institute of Physics, Faculty of Natural Sciences and Mathematics, Skopje) & Vera Zoroska MSc; Просветно дело (Prosvetno delo), Skopje; imprint: Skopje 2025, CIP record 2026; ISBN 978-608-228-592-4; 236 printed pages, print run 13,171; approved for use by decision of the National Textbook Commission of the Republic of North Macedonia, 25.06.2026, no. 26-766/1. Grade: 8 · Student book · Repo path: grade-08/gov/north-macedonia/physics/student/full-year.pdf (release copy: releases/download/mid-size-books/grade-08-gov-north-macedonia-physics-student-full-year.pdf). Byte size: 27,010,647 (no size recorded in books.json — the book was verified by page count and identity instead). PDF pages: 238 (record: 238). Offset: printed p. = PDF p. − 1 (printed p. 49 is PDF p. 50). Verdict: COMPLETE — full text layer, all 238 pages; contents read in full, theme openers and interiors read. Library note, carried on the record: the Grade 8 record carries no file size in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
+**Book 7:** *Fizică: Manual pentru clasa a VIII-a (Physics: Textbook for Grade 8)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Ion Botgros, Viorel Bocancea & Vladimir Donici; Editura Cartier (Chișinău), 2024; approved by ministerial order nr. 367 of 25 March 2024, curriculum order nr. 1381 of 30 October 2019. Grade 8 · Student book · Repo path: grade-08/gov/moldova/physics/student/moldova-g08-physics.pdf (release copy: releases/download/mid-size-books-8/grade-08-gov-moldova-physics-student-moldova-g08-physics.pdf). Byte size: 18,560,422 (exact match with the record — re-obtained from the ministry source, eduresurse.gov.md, after the first reader's scratch copy proved corrupt: 13,105,557 bytes, broken cross-reference table, unreadable). PDF pages: 104 (record: 104). Offset: printed p. = PDF p. (printed p. 10 is PDF p. 10). Verdict: COMPLETE read (full text layer, all 104 pages; contents read in full, chapter summaries and interiors read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Current makes a field: the compass swings, settles, reverses (Activity 7.38); more current and coiling strengthen the field | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 224–225 (student placement 69) |
@@ -23,8 +25,9 @@ countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia
 | Ch. 4 Electromagnetism — the magnetic effect of an electric current (Afghanistan, Grade 9) | Afghanistan, *فزیک — صنف نهم (Physics — Grade 9)*, Ch. 4 Electromagnetism — printed p. 60 — the magnetic effect of an electric current |
 | Ch. III, Temas 33–34: electromagnets and their uses; lab: build and test the simplest electromagnet (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. III, Temas 33–34: electromagnets and their uses; lab: build and test the simplest electromagnet — printed pp. 82–84 |
 | Theme 3 §3.12: the electromagnet (with the current-and-field lesson) (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 3 §3.12: the electromagnet (with the current-and-field lesson) — printed p. 157 |
+| Ch. IV §4.2: electromagnets and their applications (Moldova, Grade 8) | Moldova, *Fizică: Manual pentru clasa a VIII-a (Physics: Textbook for Grade 8)*, Ch. IV §4.2: electromagnets and their applications — printed p. 84 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova).**
 
 Summary-claim guard: the Unit 7 summary (printed pp. 228–230) states things no section teaches — including direction claims around electron current — and none of that un-taught summary material is carried into this lesson; the lesson teaches only §7.5.3's own content, as the placements direct.
 

@@ -1,6 +1,6 @@
 # Sources — Make an electromagnet
 
-countries: Ethiopia, Kenya, Afghanistan, Iran
+countries: Ethiopia, Kenya, Afghanistan, Iran, Moldova
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,14 +14,17 @@ countries: Ethiopia, Kenya, Afghanistan, Iran
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 6:** *Fizică: Manual pentru clasa a VIII-a (Physics: Textbook for Grade 8)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Ion Botgros, Viorel Bocancea & Vladimir Donici; Editura Cartier (Chișinău), 2024; approved by ministerial order nr. 367 of 25 March 2024, curriculum order nr. 1381 of 30 October 2019. Grade 8 · Student book · Repo path: grade-08/gov/moldova/physics/student/moldova-g08-physics.pdf (release copy: releases/download/mid-size-books-8/grade-08-gov-moldova-physics-student-moldova-g08-physics.pdf). Byte size: 18,560,422 (exact match with the record — re-obtained from the ministry source, eduresurse.gov.md, after the first reader's scratch copy proved corrupt: 13,105,557 bytes, broken cross-reference table, unreadable). PDF pages: 104 (record: 104). Offset: printed p. = PDF p. (printed p. 10 is PDF p. 10). Verdict: COMPLETE read (full text layer, all 104 pages; contents read in full, chapter summaries and interiors read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Building an electromagnet (Activity 4.1) | Grade 12 Student Textbook, printed pp. 124 |
+| Ch. IV §4.2: electromagnets and their applications (Moldova, Grade 8) | Moldova, *Fizică: Manual pentru clasa a VIII-a (Physics: Textbook for Grade 8)*, Ch. IV §4.2: electromagnets and their applications — printed p. 84 |
 
 | Ch 6: uses of electromagnets (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 6: uses of electromagnets — printed p. ~132 |
 | Ch. 4 — the electromagnet and how it works, the doorbell (Afghanistan, Grade 9) | Afghanistan, *فزیک — صنف نهم (Physics — Grade 9)*, Ch. 4 — printed p. 70 — the electromagnet, and how an electromagnet works p. 71 (doorbell worked in the body) |
 | §3-5, Magnetic field produced by an electric current — the electromagnet (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-5 — printed p. 76 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Kenya, Afghanistan, Iran).**
+**Acceptance count: taught in 5 countries (Ethiopia, Kenya, Afghanistan, Iran, Moldova).**
 
 Searchable tags: physics, grade 12, electromagnetism, make an electromagnet, magnet, kenya, iran

@@ -1,6 +1,6 @@
 # Sources — Magnets — poles attract and repel; what is magnetic
 
-countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia
+countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evid
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 16:** *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Vlad Sorocovici & Diana Gatman; Chișinău, 2023 (state public-property textbook, issued free from the state budget); written to the discipline curriculum approved by ministerial order nr. 906 of 17 July 2019; approved 04.09.2023. Grade 6 · Student book · Repo path: grade-06/gov/moldova/physics/student/moldova-g06-physics.pdf (release copy: releases/download/mid-size-books-8/grade-06-gov-moldova-physics-student-moldova-g06-physics.pdf). Byte size: 40,060,787 (exact match). PDF pages: 97 (record: 97). Offset: printed p. = PDF p. − 1 (printed p. 1 is PDF p. 2). Verdict: COMPLETE read (full text layer, all 97 pages; contents read in full, every unit opener read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Poles: prediction-first pairings, strongest at the poles, unlike attract / like repel, weakening with distance (Activity 7.32); cutting never isolates a pole (Activity 7.33) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 217–220 (student placement 67) |
@@ -43,6 +45,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Magnetic force: Magnetna sila (Magnetic force); Polje sil (The field of forces) (Slovenia) | Slovenia, *Fizika 9*, Magnetic force: Magnetna sila (Magnetic force) — printed p. 195 (unit folder 196); Polje sil (The field of forces) — printed p. 201 (unit folder 198) |
 | Ch. 16 Electromagnetism (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 16 Electromagnetism — magnets, magnetic effect of a current, electromagnets — printed p. 154 |
 | Unit 3, Ch. 2, lesson 2-1 "Magnets and the Magnetic Field" (Kuwait, Grade 11 Term 2) | Kuwait, *Physics, Grade 11, Term 2 (student book + applications, two bound sections)*, printed p. 115 |
+| Unit V §5.6: magnets; interactions between magnets, magnetic poles (Moldova, Grade 6) | Moldova, *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)*, Unit V §5.6: magnets; interactions between magnets, magnetic poles — printed p. 73 |
 
 | Properties of magnets, the two poles (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 5e année*, Palier 4, Leçon 34, printed p. 41 |
 
@@ -54,7 +57,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §3-1, Magnetism and magnetic poles (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-1 — printed p. 66 |
 | Theme 3 §3.11: magnets and the magnetic field (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 3 §3.11: magnets and the magnetic field — printed p. 152 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova).** Samoa is named as curriculum evidence only (Years 12–13 Learner's Guide — achievement objectives), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 New lesson in the new Electricity and Magnetism title, not a growth of the primary Electricity and magnets lesson: the primary lesson mixes circuits and magnets in one pass; this item is the Grade 8 magnet section on its own — pole rules, the cut-magnet proof, the magnetic-materials sort and the barrier test — so it is built whole here.
 

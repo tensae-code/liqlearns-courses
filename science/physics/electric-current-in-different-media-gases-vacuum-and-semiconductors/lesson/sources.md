@@ -1,10 +1,12 @@
 # Sources — Electric current in different media — gases, vacuum and semiconductors
 
-countries: Mongolia, Belarus
+countries: Mongolia, Belarus, Moldova
 
 **Book 1:** *Физик XI* (student textbook) — Mongolia. Title as printed: ФИЗИК XI — Grade 11 textbook of the 12-year school; authors M. Ganbat, Sh. Chadraabal, O. Altangoo et al.; Ministry approval; 3rd edition (bibliographic record: Ulaanbaatar 2017, 148 pp.) Grade: Grade 11 · student · recorded size 10,859,195 bytes — **download matched EXACTLY; pdfinfo 151 pages**. Route used: https://econtent.edu.mn/content/11rangi/fizik/fizik-269.pdf (recorded page id=269). Verdict: COMPLETE (full text read; contents at PDF p. 5). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
 **Book 2:** *Фізіка. 10 клас (Physics, Grade 10)* (student textbook — study aid) — Belarus, Hromyka A. U., Zenkovich U. I., Lutsevich A. A., Slesar I. E.; Minsk, «Адукацыя і выхаванне», 2013 (signed to print 13.06.2013); Belarusian-language edition. Grade: 10 · Student book · Repo: release `mid-size-books-7`, asset `grade-10-gov-belarus-physics-student-full-year.pdf` — 9,997,702 bytes (matched asset). PDF pages: 274. Printed page ≈ PDF page − 4 at the back (contents printed pp. 268–270). Verdict: COMPLETE (Laboratory experiment at printed p. 249, appendix p. 260, answers p. 264, contents and colophon present). Structure: Molecular physics — Ch.1 Foundations of molecular-kinetic theory (§§1–8); Ch.2 Foundations of thermodynamics (§§9–12); Electrodynamics — Ch.3 Electrostatics (§§13–21); Ch.4 Direct current (§§22–23); Ch.5 Current in different media (§§24–28); Ch.6 Magnetic field & electromagnetic induction (§§29–35). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
+
+**Book 3:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,10 +15,11 @@ countries: Mongolia, Belarus
 | Sub lesson 2 — Current in a vacuum — electrons crossing emptiness | Mongolia, *Физик XI*, §3.3 Орчин дахь цахилгаан гүйдэл — printed p. 89 |
 | Sub lesson 3 — Current in semiconductors — electrons and holes, engineered | Mongolia, *Физик XI*, §3.3 Орчин дахь цахилгаан гүйдэл — printed p. 89 |
 | Do it first; key ideas; Do It Yourself | Mongolia, *Физик XI*, §3.3 Орчин дахь цахилгаан гүйдэл — printed p. 89 |
+| Ch. VI §6.5: current in vacuum — thermionic emission, the vacuum diode and triode, the electron-beam tube (*) (Moldova, Grade 11) — stocked into this existing shared lesson per the Moldova merge; the placements file tags it NEW LESSON NEEDED: Thermionic emission and the electron beam — vacuum diodes, triodes and the cathode-ray tube | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. VI §6.5: current in vacuum — thermionic emission, the vacuum diode and triode, the electron-beam tube (*) — printed pp. 239, 242 |
 
 | §26 Current in gases; discharges; plasma — tagged NEW LESSON NEEDED in belarus-placements.md and stocked into this existing shared lesson per the Belarus merge brief (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §26 Current in gases; discharges; plasma — printed p. 185 |
 
-**Acceptance count: taught in 2 countries (Mongolia, Belarus).**
+**Acceptance count: taught in 3 countries (Mongolia, Belarus, Moldova).**
 
 Placement choice, on the record: this NEW LESSON was built for the Mongolia placement “Electric current in different media — gases, vacuum and semiconductors” — mongolia-placements.md, Book 5 (Физик XI), §3.3 Орчин дахь цахилгаан гүйдэл — printed p. 89. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

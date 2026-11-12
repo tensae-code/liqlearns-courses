@@ -1,6 +1,6 @@
 # Sources — Sources of light: lamps people make and light from nature
 
-countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan
+countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), B
 
 **Book 10:** *ФИЗИКА 6 (Fizika 6)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelsko-poligraficheskiy tvorcheskiy dom imeni Chulpana, Tashkent 2009; ISBN 978-9943-05-282-6 (imprint: 160 printed pp., print run 32,765). Grade: 6 · Student book (Russian-medium edition) · Repo path: grade-06/gov/uzbekistan/physics/full-year.pdf. Byte size: 53,761,071. PDF pages: 161. Offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — read page by page in full from page images (41 sheets); contents (printed pp. 156–157) confirm all 57 temas present; back cover seen. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
+**Book 11:** *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Vlad Sorocovici & Diana Gatman; Chișinău, 2023 (state public-property textbook, issued free from the state budget); written to the discipline curriculum approved by ministerial order nr. 906 of 17 July 2019; approved 04.09.2023. Grade 6 · Student book · Repo path: grade-06/gov/moldova/physics/student/moldova-g06-physics.pdf (release copy: releases/download/mid-size-books-8/grade-06-gov-moldova-physics-student-moldova-g06-physics.pdf). Byte size: 40,060,787 (exact match). PDF pages: 97 (record: 97). Offset: printed p. = PDF p. − 1 (printed p. 1 is PDF p. 2). Verdict: COMPLETE read (full text layer, all 97 pages; contents read in full, every unit opener read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Lamps people make | Ethiopia, *Grade 2 Student Textbook*, Chapter 2, sources of light — human-made, printed p. 28 |
@@ -26,6 +28,7 @@ countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), B
 | Light from nature, and the great sorting (teacher guide — evidence) | Ethiopia, *Grade 2 Teacher Guide (Addis Ababa Bureau)*, §2.3, sources and properties of light (teacher guide — evidence), printed pp. 33–38 |
 | Light and its properties (Ecuador) | Ecuador, *Física — Primero de Bachillerato*, Tema 14 La luz y sus propiedades, printed p. 183 |
 | Light: Svetloba — light sources ("Svetila"), propagation of light and shadows (Slovenia) | Slovenia, *Fizika 8*, Light: Svetloba — light sources ("Svetila"), propagation of light and shadows — printed p. 24 (unit folder 141) |
+| Unit VI §6.1: light sources; transparent, translucent and opaque bodies (Moldova, Grade 6) | Moldova, *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)*, Unit VI §6.1: light sources; transparent, translucent and opaque bodies — printed p. 79 |
 
 | Chapitre 9, The light around us (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, Chapitre 9, printed p. 92 |
 | L17 Light; sources of light (Bulgaria, Grade 7) | Bulgaria, *Физика и астрономия за 7. клас (Педагог 6, 2024)*, L17 Light; sources of light — printed p. 42 |
@@ -33,7 +36,7 @@ countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), B
 | §35 Sources of light (Belarus, Grade 8) | Belarus, *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай)*, §35 Sources of light — printed p. 134 |
 | Ch. V, Tema 43: natural and artificial light sources and receivers (eye, film, solar cells, photosynthesis) (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. V, Tema 43: natural and artificial light sources and receivers (eye, film, solar cells, photosynthesis) — printed p. 116 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Ecuador, Slovenia, Bulgaria, Belarus, Uzbekistan).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Slovenia, Bulgaria, Belarus, Uzbekistan, Moldova).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–61 (Units 1–3) held; Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 

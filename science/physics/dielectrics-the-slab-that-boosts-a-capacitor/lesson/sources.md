@@ -1,6 +1,6 @@
 # Sources — Dielectrics — the slab that boosts a capacitor
 
-countries: Ethiopia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran
+countries: Ethiopia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Moldova
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,11 +16,14 @@ countries: Ethiopia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran
 
 **Book 7:** *فیزیک (۲), پایۀ یازدهم, رشتۀ ریاضی و فیزیک — Physics (2), Grade 11, Mathematical Sciences (book code 111209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 11 · Student book · Repo path: grade-11/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-7, asset grade-11-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 21,167,675 (matches record) · PDF pages: 144 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified; the Mathematical branch splits Magnetism and Electromagnetic induction into two chapters where the Experimental book combines them). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
 
+**Book 8:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Dielectrics | Grade 11 Student Textbook, printed pp. 274–275 |
 | Ch.1 §§1-4–1-5 (the dielectric; factors affecting parallel-plate capacitance) (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.1 §§1-4–1-5 (the dielectric; factors affecting parallel-plate capacitance) — printed p. 5 (opener list) |
 | L6 Dielectrics in an electrostatic field (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L6 Dielectrics in an electrostatic field — printed p. 34 |
+| Ch. IV §§4.4–4.5 (*): conductors in an electrostatic field; dielectrics in an electrostatic field (Moldova, Grade 11) | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. IV §§4.4–4.5 (*): conductors in an electrostatic field; dielectrics in an electrostatic field — printed pp. 148, 151 |
 
 | §19 Dielectrics in an electrostatic field (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §19 Dielectrics in an electrostatic field — printed p. 138 |
 
@@ -28,7 +31,7 @@ countries: Ethiopia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran
 | Ch. 2 — dielectric slab treatment (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 2 — dielectric slab treatment |
 | §1-11, Capacitor with a dielectric — a separate named section (the Experimental book folds dielectrics into §1-10) | Iran, *Physics (2), Grade 11, Mathematical Sciences* (Iran, book code 111209 — Mathematical branch only), §1-11 — printed p. 34 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran).**
+**Acceptance count: taught in 8 countries (Ethiopia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Moldova).**
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

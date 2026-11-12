@@ -1,6 +1,6 @@
 # Sources — Force and inertia — Newton's first law
 
-countries: Ethiopia, Brazil, Malaysia, Sudan, Indonesia, India
+countries: Ethiopia, Brazil, Malaysia, Sudan, Indonesia, India, Moldova
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 **Book 2:** Physics, Teacher Guide, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-038-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 21 (body). Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-teacher-placements.md.
@@ -14,6 +14,8 @@ countries: Ethiopia, Brazil, Malaysia, Sudan, Indonesia, India
 
 **Book 7:** *Physics Part–I, Textbook for Class XI, NCERT (National Council of Educational Research and Training), New Delhi* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books/grade-11-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-keph1. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World, later chapters +1) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 8:** *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Vlad Sorocovici & Diana Gatman; Chișinău, 2023 (state public-property textbook, issued free from the state budget); written to the discipline curriculum approved by ministerial order nr. 906 of 17 July 2019; approved 04.09.2023. Grade 6 · Student book · Repo path: grade-06/gov/moldova/physics/student/moldova-g06-physics.pdf (release copy: releases/download/mid-size-books-8/grade-06-gov-moldova-physics-student-moldova-g06-physics.pdf). Byte size: 40,060,787 (exact match). PDF pages: 97 (record: 97). Offset: printed p. = PDF p. − 1 (printed p. 1 is PDF p. 2). Verdict: COMPLETE read (full text layer, all 97 pages; contents read in full, every unit opener read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Force and Newton's first law — inertia | Grade 11 Student Textbook, printed pp. 96–102 |
@@ -23,7 +25,8 @@ countries: Ethiopia, Brazil, Malaysia, Sudan, Indonesia, India
 | Ch 2: mass as inertia, resistance to change of motion (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. 6 |
 | Bab 3 Dinamika Gerak Partikel (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 3 Dinamika Gerak Partikel — chapter 3 — inertia framed with two children sitting in a moving frame (the Earth itself as the moving frame) |
 | Ch. 4, §§4.3–4.4 — printed pp. 50–51 (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 4, §§4.3–4.4 — printed pp. 50–51 |
+| Unit III §3.1: inertia (Moldova, Grade 6) | Moldova, *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)*, Unit III §3.1: inertia — printed p. 31 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Malaysia, Sudan, Indonesia, India).**
+**Acceptance count: taught in 7 countries (Ethiopia, Brazil, Malaysia, Sudan, Indonesia, India, Moldova).**
 
 Searchable tags: physics, grade 11, dynamics, force and inertia — newton's first law, resistance

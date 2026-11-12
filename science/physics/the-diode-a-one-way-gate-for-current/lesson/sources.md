@@ -1,6 +1,6 @@
 # Sources — The diode — a one-way gate for current
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India
+countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India, Moldova
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya,
 
 **Book 10:** *Physics Part–II, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-ii.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-leph2. Verdict: COMPLETE (contents read in full, chapter and topic level; see the edition note on Ch. 15). Edition note: the archived copy carries Ch. 15 Communication Systems, dropped in the rationalised printing. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 11:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The p-n junction diode | Grade 12 Student Textbook, printed pp. 147–148 |
@@ -29,6 +31,7 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya,
 | The diode and the transistor (Italy) | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.34/35 §Il diodo e il transistore (solid-state strand inside the quanta unit) — PDF p. 300 |
 | Ch. 5 Electronics, §5.2 Semiconductor Diode (Malaysia) | Malaysia, *Physics Form 5*, Ch. 5, §5.2 Semiconductor Diode — printed p. 181 — incl. diode as rectifier |
 | Unit 3, Ch. 1, lesson 1-1 "The Diode" (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 68 |
+| Ch. VI §6.2: current in semiconductors — resistivity falls as temperature and illumination rise (thermistor, photoresistor, read in full); intrinsic and extrinsic (impurity) conduction (*); the p–n junction, the semiconductor diode (*) (Moldova, Grade 11) | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. VI §6.2: current in semiconductors — resistivity falls as temperature and illumination rise (thermistor, photoresistor, read in full); intrinsic and extrinsic (impurity) conduction (*); the p–n junction, the semiconductor diode (*) — printed pp. 226, 228, 230, 231 |
 
 | Ch 11: the p-n junction and semiconductor diode (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 11: the p-n junction and semiconductor diode — printed p. 192 |
 | Ch.8 The p–n junction, forward/reverse bias (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.8 The p–n junction, forward/reverse bias — printed p. 176 |
@@ -36,7 +39,7 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya,
 | Ch. V, Temas 50–52: the p–n junction; the semiconductor diode; lab: rectifying current with a diode (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. V, Temas 50–52: the p–n junction; the semiconductor diode; lab: rectifying current with a diode — printed pp. 124–127 |
 | Ch. 14 — p–n junction diode, LED, photodiode, solar cell, Zener diode (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 14 — p–n junction diode, LED, photodiode, solar cell, Zener diode |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 10 countries (Ethiopia, Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India, Moldova).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

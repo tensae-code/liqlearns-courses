@@ -1,6 +1,6 @@
 # Sources — Calorimetry — mixing hot and cold
 
-countries: Ethiopia, Palestine, Haiti (programme evidence only), Sudan, Cambodia (private-booklet evidence only), India, Iran, North Macedonia
+countries: Ethiopia, Palestine, Haiti (programme evidence only), Sudan, Cambodia (private-booklet evidence only), India, Iran, North Macedonia, Moldova
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Palestine, Haiti (programme evidence only), Sudan, Cambodia
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 11:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Calorimetry — the method of mixtures | Grade 11 Student Textbook, printed pp. 203–212 |
@@ -35,7 +37,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Ch. 10, §10.7 Calorimetry — printed p. 209 (India, Class XI) | India, *Physics Part–II, Textbook for Class XI, NCERT*, Ch. 10, §10.7 Calorimetry — printed p. 209 |
 | §4-3, Heat — calorimetry (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §4-3 — printed p. 96 |
 | Theme 2 §2.13: thermal equilibrium; conservation of energy in heat exchange (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 2 §2.13: thermal equilibrium; conservation of energy in heat exchange — printed p. 106 |
+| Ch. II §2.5 (*): calorimetry, the calorimetric equation; laboratory — the specific latent heat of melting ice (Moldova, Grade 11) | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. II §2.5 (*): calorimetry, the calorimetric equation; laboratory — the specific latent heat of melting ice — printed pp. 65, 69 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Sudan, India, Iran, North Macedonia).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* and *Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Sudan, India, Iran, North Macedonia, Moldova).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 2e année* and *Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, calorimetry — mixing hot and cold, specific heat, palestine, cambodia, iran, north macedonia

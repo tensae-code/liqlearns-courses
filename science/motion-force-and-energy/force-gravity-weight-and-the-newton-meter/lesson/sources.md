@@ -1,6 +1,6 @@
 # Sources — Force — gravity, weight and the newton meter
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia
+countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-gui
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 13:** *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)* (student textbook) — Moldova, Ministerul Educației, Culturii și Cercetării (Ministry of Education, Culture and Research). Authors: Ion Botgros, Viorel Bocancea, Vladimir Donici, Victor Ciuvaga & Nicolae Constantinov; Ediția a V-a, actualizată și completată (5th edition, updated and completed), Editura Educational, 2020; approved by ministerial order nr. 849 of 24 August 2020, curriculum order nr. 906/2019. Grade 7 · Student book · Repo path: grade-07/gov/moldova/physics/student/moldova-g07-physics.pdf (release copy: releases/download/mid-size-books-8/grade-07-gov-moldova-physics-student-moldova-g07-physics.pdf). Byte size: 15,128,079 (exact match). PDF pages: 146 (record: 146). Offset: printed p. = PDF p. − 2 (contents on printed pp. 4–5 are PDF pp. 6–7). Verdict: COMPLETE read (full text layer, all 146 pages; contents read in full, chapter interiors sampled throughout). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gravity at every position of a falling ball | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 184–186 |
@@ -35,6 +37,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | The newton meter — spring, hook, support, scale; the 100/200/300 g practical | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 184–186 |
 | Weight depends on gravity (the Moon comparison) while mass stays the same (instructor pack — evidence) | Finland, *Fysiikkaa: Tutkitaan ilmaa ja lämpöä*, Lesson 3 discussion, weight vs mass, PDF p. 9 |
 | Also cited — Forces: Teža in težišče (Weight and centre of gravity) (Slovenia) | Slovenia, *Fizika 8*, Forces: Teža in težišče (Weight and centre of gravity) — printed p. 125 (unit folder 153) |
+| Ch. 2 §2.4: gravitational force; weight (Moldova, Grade 7) | Moldova, *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)*, Ch. 2 §2.4: gravitational force; weight — printed p. 43 |
 
 | Gravity — why things fall, opening the Earth thread (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 4e année*, Palier 3: La gravité, printed p. 28 |
 | Ch. 2 Force and Motion I, §2.8 Weight (Malaysia) | Malaysia, *Physics Form 4*, Ch. 2, §2.8 Weight — printed p. 70 |
@@ -48,7 +51,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §2-2, Introducing some specific forces — weight and gravity (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §2-2 — printed p. 33 |
 | Theme 2 §2.3: Earth's gravity (zemjina teža) and weight (težina) (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 2 §2.3: Earth's gravity (zemjina teža) and weight (težina) — printed p. 50 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Malaysia, Uganda, Belarus, Iran, North Macedonia).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 8 countries (Ethiopia, Slovenia, Malaysia, Uganda, Belarus, Iran, North Macedonia, Moldova).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Placement: Student item 83 — g07-student-placements.md (Unit 7). This lesson rests on the student book only. BOOK NOTE: the student book's contents lists §7.4.2 twice (gravity, then measuring force; the second should be §7.4.3) — a contents misprint only; the body sections are taught here in their true order.
 

@@ -1,6 +1,6 @@
 # Sources — Acceleration — speeding up and slowing down
 
-countries: Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus
+countries: Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus, Moldova
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,16 +12,19 @@ countries: Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus
 
 **Book 5:** *Фізіка. 9 клас (пад рэд. А. А. Сакольскага) (Physics, Grade 9)* (student textbook — study aid / вучэбны дапаможнік) — Belarus, Isachenkava, Palchyk & Sokolski, ed. Sokolski; Minsk, «Народная асвета», 2010 (signed to print 28.07.2010); ISBN 978-985-03-1373-7; Belarusian-language edition (transl. from Russian by N. H. Liauchuk). Grade: 9 · Student book · Repo: release `mid-size-books-7`, asset `grade-09-gov-belarus-physics-student-full-year.pdf` — 17,769,911 bytes (matched asset). PDF pages: 216 (book 213 printed pp.). Printed page ≈ PDF page − 2 at the back (contents at printed p. 213). Verdict: COMPLETE (Ch.4 Laboratory experiment at printed p. 183, appendix p. 203, answers p. 209, contents and colophon present). Structure: Introduction (matter, space, time; scalars and vectors); Ch.1 Kinematics (§§4–15); Ch.2 Dynamics (§§16–26); Ch.3 Conservation laws (§§27–32); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
 
+**Book 6:** *Fizica, clasa a X-a (Physics, Grade 10)* (student textbook; printed/recorded title "Clasa 10 — Fizica (in limba romana)") — Moldova. Authors: Mihai Marinciuc (Chs. 1, 3, 4 and part of 2) & Spiridon Rusu (rest of Ch. 2, §4.3, Ch. 5, laboratory works); Editura Știința, 2012; drawn up to the discipline curriculum in force and approved by Order of the Minister of Education nr. 265 of 27 April 2012. Grade 10 · Student book · Repo path: grade-10/gov/moldova/physics/full-year.pdf (tree file; TSV row only — no size/pages in the record). Byte size: 6,817,784 (no size recorded). PDF pages: 180 (no page count recorded). Offset: printed p. = PDF p. (interior check: printed p. 31 is PDF p. 31). Verdict: COMPLETE read (full text layer, all 180 pages; contents read in full, interiors sampled throughout). Library debt, on the record: there is no Moldova Grade 9 or Grade 12 Physics record in the targets, and this Grade 10 book is a TSV-only record with no size/page data in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Speeding up and slowing down — acceleration in a straight line | Grade 11 Student Textbook, printed pp. 48–53 |
 | Accelerated motion: Enakomerno pospešeno gibanje (Uniformly accelerated motion) (Slovenia) | Slovenia, *Fizika 9*, Accelerated motion: Enakomerno pospešeno gibanje (Uniformly accelerated motion) — printed p. 6 (unit folder 170) |
 | L2 Speed and acceleration; L3 Rectilinear uniformly accelerated motion (printed p. 14); L4 Rectilinear variable motion (printed p. 20) (Bulgaria, Grade 9 Part 1) | Bulgaria, *Физика и астрономия, Първа част за 9. клас (Педагог 6, 2024)*, L2 Speed and acceleration; L3 Rectilinear uniformly accelerated motion (printed p. 14); L4 Rectilinear variable motion (printed p. 20) — printed p. 12 |
 | Ch. 1 — acceleration (Afghanistan, Grade 9) | Afghanistan, *فزیک — صنف نهم (Physics — Grade 9)*, Ch. 1 — printed p. 11 — acceleration |
+| Ch. I §1.7: uniformly varied rectilinear motion; acceleration — the five quantities and Galileo's time-free formula v² − v₀² = 2as (Moldova, Grade 10) | Moldova, *Fizica, clasa a X-a (Physics, Grade 10)*, Ch. I §1.7: uniformly varied rectilinear motion; acceleration — the five quantities and Galileo's time-free formula v² − v₀² = 2as — printed pp. 24–36 (formula read at printed p. 31) |
 
 | §11 Acceleration; §12–13 Speed, path and coordinate with constant acceleration (printed pp. 54–59) (Belarus, Grade 9) | Belarus, *Фізіка. 9 клас (пад рэд. А. А. Сакольскага)*, §11 Acceleration; §12–13 Speed, path and coordinate with constant acceleration (printed pp. 54–59) — printed p. 51 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus).**
+**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus, Moldova).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 

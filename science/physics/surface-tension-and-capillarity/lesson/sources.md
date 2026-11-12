@@ -1,6 +1,6 @@
 # Sources — Surface tension and capillarity
 
-countries: Uganda, Kenya, Belarus, Uzbekistan
+countries: Uganda, Kenya, Belarus, Uzbekistan, Moldova
 
 **Book 1:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
@@ -10,6 +10,8 @@ countries: Uganda, Kenya, Belarus, Uzbekistan
 
 **Book 4:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it (Ch. II Optics read at Tema 23–24: reflection/refraction laws, Snell's law, total internal reflection). Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
+**Book 5:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 4 Effects of forces: intermolecular forces, surface tension, capillarity and capillary rise — printed p. 78 |
@@ -17,13 +19,14 @@ countries: Uganda, Kenya, Belarus, Uzbekistan
 | Sub lesson 2 — Capillarity — water climbing thin tubes | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 4 Effects of forces: intermolecular forces, surface tension, capillarity and capillary rise — printed p. 78 |
 | Sub lesson 3 — Capillarity at work — wicks, soil and spills | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 4 Effects of forces: intermolecular forces, surface tension, capillarity and capillary rise — printed p. 78 |
 | Do it first; key ideas; Do It Yourself | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 4 Effects of forces: intermolecular forces, surface tension, capillarity and capillary rise — printed p. 78 |
+| Ch. III §3.2 (*): surface phenomena — the surface layer, the surface-tension coefficient, the shape of the surface layer, capillary phenomena (Moldova, Grade 11) — stocked into this existing shared lesson per the Moldova merge; the placements file tags it NEW LESSON NEEDED: Surface tension and capillarity — water's skin, and how liquids climb thin tubes | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. III §3.2 (*): surface phenomena — the surface layer, the surface-tension coefficient, the shape of the surface layer, capillary phenomena — printed pp. 92, 97 |
 
 | Ch 3: cohesive and adhesive forces, surface tension (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 3: cohesive and adhesive forces, surface tension — printed p. ~60 (stocked into this existing shared lesson per the Kenya merge brief; the placements file tags it NEW LESSON NEEDED) |
 
 | §7 Liquids and surface tension — ALSO-CITED strand (Belarus, Grade 10) — the main stocking of Book 4 §§6–8 sits in the new lesson physics/the-structure-of-solids-and-liquids-crystals-and-humidity | Belarus, *Фізіка. 10 клас*, §7 Liquids and surface tension — printed p. 47 |
 | Ch. I, Temas 12–14: molecular structure of liquids; lab: measuring the surface-tension coefficient; wetting and capillary phenomena (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. I, Temas 12–14: molecular structure of liquids; lab: measuring the surface-tension coefficient; wetting and capillary phenomena — printed pp. 33–37 |
 
-**Acceptance count: taught in 4 countries (Uganda, Kenya, Belarus, Uzbekistan).**
+**Acceptance count: taught in 5 countries (Uganda, Kenya, Belarus, Uzbekistan, Moldova).**
 
 Placement choice, on the record: this NEW LESSON was built for the Uganda placement "Surface tension and capillarity" — uganda-placements.md, Book 1, Ch 4, printed p. 78 — a full strand with the capillary-rise experiment, with no matching slug. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics). Library gap: Senior Two Physics is absent from the library records entirely.
 

@@ -1,0 +1,4 @@
+# Seismic waves — how an earthquake's energy travels through the Earth — depth
+
+Whole-lesson pass mark: the learner can do all of these — An earthquake starts at the focus (hypocentre), where rock slips on a tectonic plate boundary; the epicentre is the surface point directly above it; P waves are longitudinal, fastest, and travel through solids and liquids; S waves are transverse, slower, and travel through solids only — their shadow proves the outer core is liquid; Surface waves roll along the surface, arrive last, and do most of the damage — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

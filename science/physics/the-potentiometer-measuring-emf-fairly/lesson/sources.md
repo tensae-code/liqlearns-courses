@@ -1,6 +1,6 @@
 # Sources — The potentiometer — measuring emf fairly
 
-countries: Ethiopia, Sri Lanka, Yemen, India
+countries: Ethiopia, Sri Lanka, Yemen, India, Moldova
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Sri Lanka, Yemen, India
 
 **Book 4:** *Physics Part–I, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-leph1. Verdict: COMPLETE (contents read in full, chapter and topic level). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 5:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The potentiometer | Grade 11 Student Textbook, printed pp. 258–260 |
 | Ch. 49 — EMF, the potentiometer, and electrical measurements | Sri Lanka, *Intermediate Physics, Part V: Magnetism and Electricity* (1968), printed p. 282 |
 | U10 The potentiometer; the Wheatstone bridge (printed p. 267) (Yemen, Grade 11) | Yemen, *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)*, U10 The potentiometer; the Wheatstone bridge (printed p. 267) — printed p. 263 |
 | Ch. 3 — potentiometer for EMF comparison (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 3 — potentiometer for EMF comparison |
+| Ch. V §§5.3, 5.5: digital measuring instruments and their rules of use; measuring current (ammeter shunt) and voltage (additional resistance); the potentiometer; laboratories — a source's internal resistance and EMF, a conductor's resistivity (Moldova, Grade 11) | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. V §§5.3, 5.5: digital measuring instruments and their rules of use; measuring current (ammeter shunt) and voltage (additional resistance); the potentiometer; laboratories — a source's internal resistance and EMF, a conductor's resistivity — printed pp. 199, 201, 203, 214, 216 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Sri Lanka, Yemen, India).**
+**Acceptance count: taught in 5 countries (Ethiopia, Sri Lanka, Yemen, India, Moldova).**
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

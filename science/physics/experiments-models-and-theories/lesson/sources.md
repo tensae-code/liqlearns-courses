@@ -1,6 +1,6 @@
 # Sources — Experiments, models and theories
 
-countries: Ethiopia, Malaysia, Bhutan, Iran
+countries: Ethiopia, Malaysia, Bhutan, Iran, Moldova
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -14,15 +14,18 @@ countries: Ethiopia, Malaysia, Bhutan, Iran
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 6:** *Fizica, clasa a X-a (Physics, Grade 10)* (student textbook; printed/recorded title "Clasa 10 — Fizica (in limba romana)") — Moldova. Authors: Mihai Marinciuc (Chs. 1, 3, 4 and part of 2) & Spiridon Rusu (rest of Ch. 2, §4.3, Ch. 5, laboratory works); Editura Știința, 2012; drawn up to the discipline curriculum in force and approved by Order of the Minister of Education nr. 265 of 27 April 2012. Grade 10 · Student book · Repo path: grade-10/gov/moldova/physics/full-year.pdf (tree file; TSV row only — no size/pages in the record). Byte size: 6,817,784 (no size recorded). PDF pages: 180 (no page count recorded). Offset: printed p. = PDF p. (interior check: printed p. 31 is PDF p. 31). Verdict: COMPLETE read (full text layer, all 180 pages; contents read in full, interiors sampled throughout). Library debt, on the record: there is no Moldova Grade 9 or Grade 12 Physics record in the targets, and this Grade 10 book is a TSV-only record with no size/page data in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How physics knowledge grows — inquiry and theory | Grade 11 Student Textbook, printed pp. 6–7 |
 | Ch. 1 Measurement, §1.2 Scientific Investigation (Malaysia) | Malaysia, *Physics Form 4*, Ch. 1, §1.2 Scientific Investigation — printed p. 10 — the scientific method is a taught section of the physics book itself, Malaysia's own opening way |
+| Ch. I §§1.1–1.2: the material point and the rigid body as models used in mechanics; reference system, space and time; relativity of motion (Moldova, Grade 10) | Moldova, *Fizica, clasa a X-a (Physics, Grade 10)*, Ch. I §§1.1–1.2: the material point and the rigid body as models used in mechanics; reference system, space and time; relativity of motion — printed pp. 8, 10 |
 
 | Ch. 0: methods in physics — printed p. 5 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 0: methods in physics — printed p. 5 |
 | §1-2, Modelling in physics — modelling given its own named section (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §1-2 — printed p. 5 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Bhutan, Iran).**
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Bhutan, Iran, Moldova).**
 
 In the student book, figure numbering restarts oddly in Unit 1's current-status section (Figures 9–16); no figure numbers are relied on in these lessons.
 

@@ -1,6 +1,6 @@
 # Sources — Capacitor networks and stored energy
 
-countries: Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia
+countries: Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia, Moldova
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -20,12 +20,15 @@ countries: Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 9:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Capacitors in series and parallel | Grade 11 Student Textbook, printed pp. 276–280 |
 | Sub lesson 2 — The energy a capacitor stores | Grade 11 Student Textbook, printed pp. 276–280 |
 | Ch.1 §§1-6–1-10 (connecting capacitors series/parallel, energy stored, capacitor types, applications) (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.1 §§1-6–1-10 (connecting capacitors series/parallel, energy stored, capacitor types, applications) — printed p. 5 (opener list) |
 | Ch.4 Connecting capacitors in AC circuits (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.4 Connecting capacitors in AC circuits — printed p. 103 |
+| Ch. IV §§4.6–4.7: electric capacitance, the plane capacitor, grouping of capacitors; energy of the electric field; laboratory — measuring a capacitor's capacitance (Moldova, Grade 11) | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. IV §§4.6–4.7: electric capacitance, the plane capacitor, grouping of capacitors; energy of the electric field; laboratory — measuring a capacitor's capacitance — printed pp. 156, 160, 165, 170 |
 
 | §21 Energy of the charged capacitor's electrostatic field (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §21 Energy of the charged capacitor's electrostatic field — printed p. 152 |
 
@@ -33,7 +36,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §1-11, Energy of a capacitor (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §1-11 — printed p. 33 |
 | Theme 1 §1.11: connecting capacitors (with the capacitors lesson) (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 1 §1.11: connecting capacitors (with the capacitors lesson) — printed p. 62 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia, Moldova).**
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

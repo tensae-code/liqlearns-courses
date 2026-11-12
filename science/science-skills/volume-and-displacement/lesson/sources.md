@@ -1,6 +1,6 @@
 # Sources — Measuring: volume and displacement
 
-countries: Ethiopia, Slovenia, North Macedonia
+countries: Ethiopia, Slovenia, North Macedonia, Moldova
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Slovenia, North Macedonia
 
 **Book 9:** *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)* (student textbook) — North Macedonia, Zorica Zavirovska & Gabriela Boškovska; АРС СТУДИО (ARS Studio), Skopje, 2025; ISBN 978-608-239-512-8; print run 13,100; approved by decision of the National Textbook Commission бр. 26-829/3 of 26.8.2025. Grade: 7 · Student book · Repo path: grade-07/gov/north-macedonia/physics/student/full-year.pdf (ministry e-textbook file, "Fizika_VII_odd_MK-protected.pdf"). Byte size: 12,462,277 (no size recorded in books.json — the book was verified by page count and identity instead). PDF pages: 104 (record: 104). Offset: printed p. = PDF p. (printed p. 3 is PDF p. 3). Verdict: COMPLETE — read from rendered pages (the PDF is image-only, no text layer; the publisher's "ARS STUDIO" watermark is printed diagonally on every page of the secured copy): cover/imprint, the full contents, and the theme/lesson openers and interiors (introduction, SI units, force, pressure lessons and the closing answer key all read in full). Library note, carried on the record: the Grade 7 record carries no file size in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
+**Book 10:** *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Vlad Sorocovici & Diana Gatman; Chișinău, 2023 (state public-property textbook, issued free from the state budget); written to the discipline curriculum approved by ministerial order nr. 906 of 17 July 2019; approved 04.09.2023. Grade 6 · Student book · Repo path: grade-06/gov/moldova/physics/student/moldova-g06-physics.pdf (release copy: releases/download/mid-size-books-8/grade-06-gov-moldova-physics-student-moldova-g06-physics.pdf). Byte size: 40,060,787 (exact match). PDF pages: 97 (record: 97). Offset: printed p. = PDF p. − 1 (printed p. 1 is PDF p. 2). Verdict: COMPLETE read (full text layer, all 97 pages; contents read in full, every unit opener read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The displacement experiment | Ethiopia, *Grade 4 Student Textbook*, printed pp. 50–51 |
 | Reading the cylinder; volume's units | Ethiopia, *Grade 4 Student Textbook*, printed pp. 50–51 |
 | Density, pressure and buoyancy: Ploščina (Area); Prostornina in masa (Volume and mass) (Slovenia) | Slovenia, *Fizika 8*, Density, pressure and buoyancy: Ploščina (Area) — printed p. 182 (unit folder 158); Prostornina in masa (Volume and mass) — printed p. 188 (unit folder 160) |
 | Theme 1 §1.3: measuring volume (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 1 §1.3: measuring volume — printed p. 20 |
+| Unit II §§2.4–2.6: area and volume; laboratory works measuring the volume of a rectangular block and of an irregular body (Moldova, Grade 6) | Moldova, *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)*, Unit II §§2.4–2.6: area and volume; laboratory works measuring the volume of a rectangular block and of an irregular body — printed pp. 21, 24, 25 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, North Macedonia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, North Macedonia, Moldova).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148), cited exactly as its placements header gives it. Carried item — see the honesty note in Measuring: traditional and modern measures.
 

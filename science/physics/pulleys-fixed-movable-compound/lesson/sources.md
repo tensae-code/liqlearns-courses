@@ -1,6 +1,6 @@
 # Sources — Pulleys — fixed, movable, compound
 
-countries: Ethiopia, Belarus, Uzbekistan
+countries: Ethiopia, Belarus, Uzbekistan, Moldova
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 103 printed pp. Printed page = PDF page − 8. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). Under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-teacher-placements.md.
@@ -9,16 +9,19 @@ countries: Ethiopia, Belarus, Uzbekistan
 
 **Book 4:** *ФИЗИКА 6 (Fizika 6)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelsko-poligraficheskiy tvorcheskiy dom imeni Chulpana, Tashkent 2009; ISBN 978-9943-05-282-6 (imprint: 160 printed pp., print run 32,765). Grade: 6 · Student book (Russian-medium edition) · Repo path: grade-06/gov/uzbekistan/physics/full-year.pdf. Byte size: 53,761,071. PDF pages: 161. Offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — read page by page in full from page images (41 sheets); contents (printed pp. 156–157) confirm all 57 temas present; back cover seen. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
+**Book 5:** *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)* (student textbook) — Moldova, Ministerul Educației, Culturii și Cercetării (Ministry of Education, Culture and Research). Authors: Ion Botgros, Viorel Bocancea, Vladimir Donici, Victor Ciuvaga & Nicolae Constantinov; Ediția a V-a, actualizată și completată (5th edition, updated and completed), Editura Educational, 2020; approved by ministerial order nr. 849 of 24 August 2020, curriculum order nr. 906/2019. Grade 7 · Student book · Repo path: grade-07/gov/moldova/physics/student/moldova-g07-physics.pdf (release copy: releases/download/mid-size-books-8/grade-07-gov-moldova-physics-student-moldova-g07-physics.pdf). Byte size: 15,128,079 (exact match). PDF pages: 146 (record: 146). Offset: printed p. = PDF p. − 2 (contents on printed pp. 4–5 are PDF pp. 6–7). Verdict: COMPLETE read (full text layer, all 146 pages; contents read in full, chapter interiors sampled throughout). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Pulleys — fixed, movable, compound | Ethiopia, *Grade 9 Student Textbook*, printed pp. 111–112 |
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 9 Student Textbook*, printed pp. 111–112 |
 | Unit 5 — Simple Machines pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 9 Teacher's Guide*, printed pp. 55–72 |
+| Ch. 5 §5.2: the pulley (Moldova, Grade 7) | Moldova, *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)*, Ch. 5 §5.2: the pulley — printed p. 121 |
 
 | §24 Blocks (pulleys); conditions of equilibrium (Belarus, Grade 7) | Belarus, *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай)*, §24 Blocks (pulleys); conditions of equilibrium — printed p. 97 |
 | Ch. III, Tema 30: simple mechanisms: fixed/movable blocks and pulley systems, inclined plane, screw (jack), wedge, windlass (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. III, Tema 30: simple mechanisms: fixed/movable blocks and pulley systems, inclined plane, screw (jack), wedge, windlass — printed p. 81 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Belarus, Uzbekistan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Uzbekistan, Moldova).**
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

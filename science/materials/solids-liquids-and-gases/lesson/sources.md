@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia
 
 **Book 18:** *Физика за VIII одделение (Physics for Grade 8)* (student textbook) — North Macedonia, Prof. Dr Lambe Barandovski (Institute of Physics, Faculty of Natural Sciences and Mathematics, Skopje) & Vera Zoroska MSc; Просветно дело (Prosvetno delo), Skopje; imprint: Skopje 2025, CIP record 2026; ISBN 978-608-228-592-4; 236 printed pages, print run 13,171; approved for use by decision of the National Textbook Commission of the Republic of North Macedonia, 25.06.2026, no. 26-766/1. Grade: 8 · Student book · Repo path: grade-08/gov/north-macedonia/physics/student/full-year.pdf (release copy: releases/download/mid-size-books/grade-08-gov-north-macedonia-physics-student-full-year.pdf). Byte size: 27,010,647 (no size recorded in books.json — the book was verified by page count and identity instead). PDF pages: 238 (record: 238). Offset: printed p. = PDF p. − 1 (printed p. 49 is PDF p. 50). Verdict: COMPLETE — full text layer, all 238 pages; contents read in full, theme openers and interiors read. Library note, carried on the record: the Grade 8 record carries no file size in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
+**Book 19:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Solids keep their shape | Ethiopia, *Grade 3 Student Textbook*, Chapter 2, solids, printed p. 28 |
@@ -37,6 +39,7 @@ countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia
 | Changes that make nothing new | Ethiopia, *Grade 3 Student Textbook*, Chapter 2, physical change and the states of matter, printed p. 27 |
 | Changes that make nothing new (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide (Addis Ababa Bureau)*, §2.4, exercise answers on boiling and change of state (teacher guide — evidence), printed pp. 36–40 |
 | Heat and internal energy: Zgradba trdnin, kapljevin in plinov (Structure of solids, liquids and gases) (Slovenia) | Slovenia, *Fizika 9*, Heat and internal energy: Zgradba trdnin, kapljevin in plinov (Structure of solids, liquids and gases) — printed p. 98 (unit folder 182) |
+| Ch. III §§3.1, 3.3 (*): structure and general properties of liquids; solids — crystalline substances, amorphous substances, liquid crystals (Moldova, Grade 11) | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. III §§3.1, 3.3 (*): structure and general properties of liquids; solids — crystalline substances, amorphous substances, liquid crystals — printed pp. 91, 101–104 |
 
 | Boiling, melting and the candle — the Grade 4 depth | Ethiopia, *Grade 4 Student Textbook*, §2.5, printed pp. 53–56 |
 | Boiling, melting and the candle — the Grade 4 depth (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, §2.3, printed pp. 58–61 |
@@ -48,7 +51,7 @@ countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia
 | Ch. I, Tema 9: molecular structure of solids, liquids and gases (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. I, Tema 9: molecular structure of solids, liquids and gases — printed p. 20 |
 | Ch. I, Tema 15: crystalline and amorphous bodies (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. I, Tema 15: crystalline and amorphous bodies — printed p. 39 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova).**
 
 Honesty: this teacher's guide scan is TRUNCATED mid-unit — printed pp. 1–66 held, stopping inside subtopic 3.3; the rest of Unit 3 and Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 

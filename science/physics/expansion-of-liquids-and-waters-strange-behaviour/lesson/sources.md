@@ -1,6 +1,6 @@
 # Sources — Expansion of liquids; water's strange 0–4 °C behaviour
 
-countries: Ethiopia, Uganda, Yemen, Iran, North Macedonia
+countries: Ethiopia, Uganda, Yemen, Iran, North Macedonia, Moldova
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,16 +16,19 @@ countries: Ethiopia, Uganda, Yemen, Iran, North Macedonia
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 7:** *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Vlad Sorocovici & Diana Gatman; Chișinău, 2023 (state public-property textbook, issued free from the state budget); written to the discipline curriculum approved by ministerial order nr. 906 of 17 July 2019; approved 04.09.2023. Grade 6 · Student book · Repo path: grade-06/gov/moldova/physics/student/moldova-g06-physics.pdf (release copy: releases/download/mid-size-books-8/grade-06-gov-moldova-physics-student-moldova-g06-physics.pdf). Byte size: 40,060,787 (exact match). PDF pages: 97 (record: 97). Offset: printed p. = PDF p. − 1 (printed p. 1 is PDF p. 2). Verdict: COMPLETE read (full text layer, all 97 pages; contents read in full, every unit opener read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Liquids and gases expand more | Grade 11 Student Textbook, printed pp. 193–201 |
 | Sub lesson 2 — Water's strange 0–4 °C behaviour | Grade 11 Student Textbook, printed pp. 193–201 |
+| Unit IV §4.4: expansion/contraction (qualitative), incl. the thermal anomaly of water (Moldova, Grade 6) | Moldova, *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)*, Unit IV §4.4: expansion/contraction (qualitative), incl. the thermal anomaly of water — printed p. 51 |
 
 | Ch 7: expansion of liquids, anomalous expansion of water, expansion of gases (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 7 — printed p. 131 |
 | U8 Expansion of liquids; expansion of gases (printed p. 187) (Yemen, Grade 10) | Yemen, *الفيزياء للصف الأول الثانوي (Physics, First Secondary = Grade 10)*, U8 Expansion of liquids; expansion of gases (printed p. 187) — printed p. 184 |
 | §4-2, Thermal expansion — liquids and water's strange behaviour (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §4-2 — printed p. 87 |
 | Theme 2 §2.6: expansion of liquids and the anomaly of water (with the thermal-expansion lesson) (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 2 §2.6: expansion of liquids and the anomaly of water (with the thermal-expansion lesson) — printed p. 78 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Yemen, Iran, North Macedonia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Yemen, Iran, North Macedonia, Moldova).**
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, expansion of liquids; water's strange 0–4 °c behaviour, work, uganda, yemen, iran, north macedonia

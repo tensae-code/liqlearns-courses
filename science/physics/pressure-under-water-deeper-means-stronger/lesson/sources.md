@@ -1,6 +1,6 @@
 # Sources — Pressure under water — deeper means stronger
 
-countries: Ethiopia, Palestine, Haiti (programme evidence only), Syria, Slovenia, Malaysia, Kenya, Iraq, Cambodia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, Iran, North Macedonia
+countries: Ethiopia, Palestine, Haiti (programme evidence only), Syria, Slovenia, Malaysia, Kenya, Iraq, Cambodia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, Iran, North Macedonia, Moldova
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -46,6 +46,8 @@ countries: Ethiopia, Palestine, Haiti (programme evidence only), Syria, Slovenia
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 22:** *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)* (student textbook) — Moldova, Ministerul Educației, Culturii și Cercetării (Ministry of Education, Culture and Research). Authors: Ion Botgros, Viorel Bocancea, Vladimir Donici, Victor Ciuvaga & Nicolae Constantinov; Ediția a V-a, actualizată și completată (5th edition, updated and completed), Editura Educational, 2020; approved by ministerial order nr. 849 of 24 August 2020, curriculum order nr. 906/2019. Grade 7 · Student book · Repo path: grade-07/gov/moldova/physics/student/moldova-g07-physics.pdf (release copy: releases/download/mid-size-books-8/grade-07-gov-moldova-physics-student-moldova-g07-physics.pdf). Byte size: 15,128,079 (exact match). PDF pages: 146 (record: 146). Offset: printed p. = PDF p. − 2 (contents on printed pp. 4–5 are PDF pp. 6–7). Verdict: COMPLETE read (full text layer, all 146 pages; contents read in full, chapter interiors sampled throughout). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Pressure grows with depth | Grade 12 Student Textbook, printed pp. 87–90 |
@@ -54,6 +56,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | U2 Pressure in liquids (Syria) | Syria, *Physics & Chemistry, Grade 7 Basic*, U2 Pressure in liquids — printed p. 78 |
 | Density, pressure and buoyancy: Tlak v tekočinah (Pressure in liquids); Tlak zaradi teže tekočine (Pressure caused by the weight of a liquid) (Slovenia) | Slovenia, *Fizika 8*, Density, pressure and buoyancy: Tlak v tekočinah (Pressure in liquids) — printed p. 212 (unit folder 163); Tlak zaradi teže tekočine (Pressure caused by the weight of a liquid) — printed p. 220 (unit folder 220) |
 | Ch. 2 Pressure, §2.1 Pressure in Liquids (Malaysia) | Malaysia, *Physics Form 5*, Ch. 2 Pressure, §2.1 Pressure in Liquids — chapter p. 38 |
+| Ch. 3 §3.2: hydrostatic pressure (Moldova, Grade 7) | Moldova, *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)*, Ch. 3 §3.2: hydrostatic pressure — printed p. 66 |
 
 | Ch 4: pressure in liquids, derivation of the fluid-pressure formula (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 4: pressure in liquids, derivation of the fluid-pressure formula — printed p. ~80 |
 | Ch.3 L2 Liquid and gas pressure (Iraq, Grade 7) | Iraq, *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)*, Ch.3 L2 Liquid and gas pressure — printed p. 47 |
@@ -72,6 +75,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | §2-3, Pressure in fluids (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §2-3 — printed p. 32 |
 | Theme 3 §3.2: hydrostatic pressure (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 3 §3.2: hydrostatic pressure — printed p. 77 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Palestine, Syria, Slovenia, Malaysia, Kenya, Iraq, Cambodia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, Iran, North Macedonia).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
+**Acceptance count: taught in 18 countries (Ethiopia, Palestine, Syria, Slovenia, Malaysia, Kenya, Iraq, Cambodia, Egypt, Mongolia, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, Iran, North Macedonia, Moldova).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Cambodia is also named as private-booklet evidence (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added as a second count for Cambodia.
 
 Searchable tags: physics, grade 12, fluid mechanics, pressure under water — deeper means stronger, pressure, palestine, kenya, iraq, cambodia, egypt, yemen, iran, north macedonia
