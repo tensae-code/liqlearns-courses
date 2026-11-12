@@ -413,6 +413,18 @@ is complete: 416 placements across Bands A–E. Build log:
 ethiopia-2026-11-11/build-logs/
 wave4-hist-E-g12-guide-evidence.md.
 
+CORRECTION (coordinator, on Band C's late-arriving full
+report): History is NOT yet complete. Band C's report shows
+the Grade 11 student placements #2–86 (Units 1–8) and the
+cross-cutting placements #94–102 were never assigned to any
+band — Bands A and D covered the G9 and G12 books only. A
+follow-up band (Hist F) is dispatched for exactly that
+remainder, including the seven NEW LESSON NEEDED lessons
+(local history, reading historical maps, two timelines,
+faiths that shaped states, trade routes, comparing states,
+why the book ends on peace). The completion claim above
+stands corrected until Hist F lands.
+
 - **Band A — Grade 9 + guide** (93 lessons, 1,116 questions;
   pictures 24000–24092, GIFs 24100–24112): the four Economics
   titles open with the Grade 9 book — what economics is,

@@ -5750,3 +5750,23 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 32115 | Ten hazard signs grid with meanings | science/science-skills/hazard-signs-and-protective-equipment |
 | 32116 | Thirteen laboratory tools labelled panel | science/science-skills/laboratory-equipment-names-uses-and-making-your-own |
 | 32117 | Model laboratory report page, seven headings | science/science-skills/writing-a-laboratory-report |
+| 32900 | Living things — life characteristics sorting board | science/animals/living-things-what-makes-something-alive |
+| 32901 | Classification shelves with compound survey board | science/animals/classification-sorting-the-living-world |
+| 32902 | Seven-ranks funnel — Kingdom down to Species | science/animals/scientific-names-and-the-seven-ranks |
+| 32903 | The five kingdoms of living things | science/animals/the-five-kingdoms-of-living-things |
+| 32904 | Backbone split — invertebrates and vertebrates | science/animals/animals-what-makes-an-animal |
+| 32905 | Fish labelled — gills, fins, scales | science/animals/animals-fish |
+| 32906 | Frog life stages and body | science/animals/animals-amphibians-and-the-frog |
+| 32907 | Reptiles — turtles, crocodiles, lizards, snakes | science/animals/animals-reptiles |
+| 32908 | Bird beaks shaped to their food | science/animals/animals-birds |
+| 32909 | Mammals — milk, hair, live young | science/animals/animals-mammals |
+| 32910 | Insect (six legs, three body parts) and earthworm | science/animals/invertebrates-insects-and-earthworms |
+| 32911 | Seed plants — gymnosperms and angiosperms | science/plants/seed-plants-gymnosperms-and-angiosperms |
+| 32912 | Mosses and ferns — seedless plants | science/plants/seedless-plants-mosses-and-ferns |
+| 32913 | Protists under the microscope | science/animals/protists-protozoa-and-algae |
+| 32914 | Bacterial shapes — rods, spheres, spirals | science/animals/monera-bacteria-helpful-harmful-everywhere |
+| 32915 | Fungi — moulds, mushrooms and yeasts | science/animals/fungi-moulds-mushrooms-and-yeasts |
+| 32916 | Who am I? vertebrate clue cards | science/animals/who-am-i-vertebrate-review-game |
+| 32917 | GIF: a fish's fins and tail beating as it swims | science/animals/animals-fish |
+| 32918 | GIF: a dolphin rising to breathe at the surface | science/animals/animals-mammals |
+| 32919 | GIF: a paramecium swimming, cilia rippling | science/animals/protists-protozoa-and-algae |
