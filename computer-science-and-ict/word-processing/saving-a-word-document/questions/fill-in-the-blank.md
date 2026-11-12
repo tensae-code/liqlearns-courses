@@ -10,3 +10,6 @@ Fill each blank with the right word.
 
 **3. (Sub lesson 2)** Word automatically adds the .______ suffix to the name.
 **Answer: docx**
+
+**4. (Sub lesson 3)** Step two of the five is to click the ______ As option.
+**Answer: Save**

@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: open Save As from File, a
 
 ## Sub lesson 2 — Choosing the place and the name
 Sub lesson 2 questions from the type files. Pass mark: choose a place three ways and say what Word adds to the name.
+
+## Sub lesson 3 — Saving with Save As — the five steps in order
+Sub lesson 3 questions from the type files. Pass mark: recite and do the five steps in order — File tab, Save As, choose Documents, give a file name, click Save.

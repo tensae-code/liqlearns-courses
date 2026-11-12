@@ -11,7 +11,10 @@ countries: Ethiopia
 | First save — File → Save As; choose location/drive | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.40–41 |
 | This PC → Documents, or Browse to any location including Desktop; .docx added automatically | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.40–41 |
 | The Word practical is assessed by watching, not by a written key (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 3, printed pp.43–45 |
+| Sub lesson 3 — saving a document with Save As, in order: click the File tab; click Save As; choose where to save (the Documents directory); give it a file name; click Save | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 45–46 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
-Searchable tags: saving, Save As, File, Documents, Browse, Desktop, docx, Word, Grade 7 ICT Ethiopia
+**Book 3:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
+
+Searchable tags: saving, Save As, File, Documents, Browse, Desktop, docx, Word, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia

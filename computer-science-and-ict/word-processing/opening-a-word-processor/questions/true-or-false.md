@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 3)** A blank document opens ready for text.
 **Answer: True** — that is what waits at the end of every route.
+
+**4. (Sub lesson 4)** When the word processor is clicked, a blank document window appears.
+**Answer: True** — that blank window is the new document.

@@ -25,3 +25,11 @@ a) .txt  b) .docx  c) .word  d) nothing
 **6. (Sub lesson 1)** The right order for a first save is —
 a) name, close, File  b) File → Save As → choose place → name  c) close → File → Save As  d) Desktop → File → Print
 **Answer: b) File → Save As → choose place → name** — File, Save As, place, name.
+
+**7. (Sub lesson 3)** The Grade 8 Save As order begins by clicking —
+a) Save  b) the File tab  c) Documents  d) Browse
+**Answer: b) the File tab** — step one of the five.
+
+**8. (Sub lesson 3)** The last of the five steps is —
+a) give it a file name  b) click Save As  c) click Save  d) choose Documents
+**Answer: c) click Save** — the click that finishes the saving.

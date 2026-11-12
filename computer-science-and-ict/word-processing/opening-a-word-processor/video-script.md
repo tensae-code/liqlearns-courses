@@ -12,3 +12,8 @@ Way three. Double-click the Word shortcut on the desktop.
 
 Every way ends the same.
 A blank document. Ready for your words.
+
+One more thing. Click — and a blank window stands open.
+That blank window is your new document.
+Its first name is not yours yet: DOCUMENT, and a number.
+Save it, and it can open again — even on another computer.

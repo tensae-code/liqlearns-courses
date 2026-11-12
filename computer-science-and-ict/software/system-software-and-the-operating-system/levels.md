@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: say what system software 
 
 ## Sub lesson 2 — The operating system
 Sub lesson 2 questions from the type files. Pass mark: name the operating system's three jobs and the example used in Ethiopia.
+
+## Sub lesson 3 — The operating system in greater depth
+Sub lesson 3 questions from the type files. Pass mark: name the operating system's five basic tasks, say that applications require an operating system to work, and name Windows, Mac OS, Ubuntu, Unix and Linux.

@@ -7,3 +7,7 @@ Write five job cards: a letter to write, a class roster to total, a list of libr
 
 ## Spot the program
 Look at any computer you can use and list the application programs on it. Beside each, write the job it is for.
+
+## Software inside
+
+Walk (in your mind or for real) past a traffic light and a cash machine. For each, write: the job it does, the software it needs to do it, and what would stop working if the software stopped. Compare your two lists: different machines, same lesson — software inside.

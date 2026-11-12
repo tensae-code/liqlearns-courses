@@ -7,3 +7,7 @@ Copy an important piece of your own school work onto a second paper, and keep th
 
 ## Translate a sentence
 Take one instruction — ' bring me water' — and say it in two languages you know. The meaning stayed the same; the language changed. That is what a language translator does for programs.
+
+## Sort the toolbox
+
+Write twelve cards, one per named utility: anti-virus, diagnostic program, network utility, backup software, disk scanner, disk formatter, disk partition editor, data recovery, data compression, data conversion — and two of your own choosing for the fourth tray. Sort them into the four families. A partner checks each card against Sub lesson 4's explanations.

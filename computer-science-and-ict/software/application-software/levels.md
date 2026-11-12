@@ -7,3 +7,9 @@ Sub lesson 1 questions from the type files. Pass mark: say what makes a program 
 
 ## Sub lesson 2 — The five kinds
 Sub lesson 2 questions from the type files. Pass mark: name all five kinds with one example program or job for each.
+
+## Sub lesson 3 — More examples — activities and their programs
+Sub lesson 3 questions from the type files. Pass mark: say that application software helps users perform an activity by manipulating text, numbers, audio, graphics or a combination, and name the six examples.
+
+## Sub lesson 4 — Software inside everyday machines
+Sub lesson 4 questions from the type files. Pass mark: answer yes to the traffic-lights-and-ATMs question, with the reasons — both run on operating systems, storage and other software.

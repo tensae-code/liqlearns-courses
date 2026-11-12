@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 2)** Microsoft Windows is an application for writing letters.
 **Answer: False** — Windows is the operating system — system software.
+
+**4. (Sub lesson 3)** Applications can work without an operating system.
+**Answer: False** — applications require an operating system to work.

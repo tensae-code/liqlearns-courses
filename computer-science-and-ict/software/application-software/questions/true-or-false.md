@@ -10,3 +10,9 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 2)** WordPad is presentation software.
 **Answer: False** — WordPad is word processing.
+
+**4. (Sub lesson 3)** Application software can manipulate a combination of text, numbers, audio and graphics.
+**Answer: True** — activities may combine all of these.
+
+**5. (Sub lesson 4)** An ATM works without any software.
+**Answer: False** — ATMs run on operating systems, storage and other software.

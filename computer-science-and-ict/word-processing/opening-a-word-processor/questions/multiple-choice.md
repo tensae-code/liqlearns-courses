@@ -25,3 +25,11 @@ a) an old document  b) a blank document ready for text  c) the desktop  d) a gam
 **6. (Sub lesson 1)** The full route 1 order is —
 a) Start → Microsoft Office → All Programs → Word  b) Start → All Programs → Microsoft Office → Word 2016  c) Search → Start → Word  d) Desktop → Start → Word
 **Answer: b) Start → All Programs → Microsoft Office → Word 2016** — Start, All Programs, Microsoft Office folder, Word 2016.
+
+**7. (Sub lesson 4)** A new document's default name is —
+a) LETTER followed by a date  b) DOCUMENT followed by a number  c) your own name  d) UNTITLED with no number ever
+**Answer: b) DOCUMENT followed by a number** — until the first save gives it a real name.
+
+**8. (Sub lesson 4)** A saved document can later be —
+a) opened only on the same computer  b) never opened again  c) opened on another computer when needed  d) printed only once
+**Answer: c) opened on another computer when needed.**

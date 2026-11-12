@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: open Word by searching, a
 
 ## Sub lesson 3 — Route 3 — the desktop shortcut
 Sub lesson 3 questions from the type files. Pass mark: open Word from the desktop and say what a blank document means.
+
+## Sub lesson 4 — Creating a document — the blank page and its first name
+Sub lesson 4 questions from the type files. Pass mark: say that clicking the word processor opens a blank document window, give a new document's default name (DOCUMENT followed by a number), and say a saved document can later be opened on another computer.

@@ -12,6 +12,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **What application software is** — end-user software made for a particular need — the programs you work with directly
 2. **The five kinds** — word processing, spreadsheets, database management, graphics and presentation software, each with the book's examples
+3. **More examples — activities and their programs** — the Grade 8 depth: manipulating text, numbers, audio, graphics or a combination; photo editing, an accounting application, a web browser, a media player, a flight simulator and games
+4. **Software inside everyday machines** — traffic lights and ATMs need software to work (teacher-guide discussion, keyed)
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -23,6 +25,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Name the five kinds the book gives.
 3. Match each kind to its example: Word, Excel, Access, AutoCAD, PowerPoint.
 4. Match each kind to a job: letters, payrolls, records, buildings, slides.
+5. Name the six Grade 8 example activities and the kind of program each one uses.
+6. Answer, with reasons: do traffic lights and ATMs need software to work?
 
 ## What you need
 Paper and a pencil; a computer with any of the named programs if you can look at one.
@@ -31,6 +35,9 @@ Paper and a pencil; a computer with any of the named programs if you can look at
 1. **Do it first** — the learner names three different jobs they have seen a computer do, before hearing the kinds (lesson/lesson.md).
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 10503]: a picture of five panels, one for each kind of application software, each with its example job — the student matches each kind to the job it does.
+   - ADD IMAGE [Picture 11314]: a picture of six application panels — photo editor, accounts, browser, media player, flight simulator, game — the student names the activity each program helps with.
+   - ADD IMAGE [Picture 11315]: a picture of a traffic-light controller and an ATM side by side, each with a "software inside" callout — the student points to where the software sits in each machine.
+   - ADD AUDIO: a voice reading the six example activities aloud — the student names each activity after the voice.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -39,6 +46,9 @@ Paper and a pencil; a computer with any of the named programs if you can look at
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 10503] — a picture of five panels, one for each kind of application software, each with its example job → the student matches each kind to the job it does.
+- IMAGE [Picture 11314] — a picture of six application panels, one per Grade 8 example → the student names each activity.
+- IMAGE [Picture 11315] — a picture of a traffic-light controller and an ATM, each marked "software inside" → the student explains why each machine needs software.
+- AUDIO — a voice reading the six example activities aloud → the student repeats each and names its program kind.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

@@ -12,6 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **Save As — the first save** — File → Save As opens the saving dialogue for a document that has no home yet
 2. **Choosing the place and the name** — choose the drive, or This PC → Documents, or Browse anywhere including the Desktop; Word adds .docx
+3. **Saving with Save As — the five steps in order** — the Grade 8 growth, the same saving as one clean order: click the File tab; click Save As; choose where to save (Documents); give it a file name; click Save
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -23,6 +24,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Choose a location: a drive, This PC → Documents, or Browse to anywhere including the Desktop.
 3. Say what Word adds to the name by itself: .docx.
 4. Say why saving matters: work survives the computer being switched off.
+5. Recite the Grade 8 five-step Save As order without looking.
 
 ## What you need
 A computer with Word open and something typed in it.
@@ -32,6 +34,9 @@ A computer with Word open and something typed in it.
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 10509]: a picture of the File → Save As → location steps as a numbered strip — the student traces the steps in order before touching a real computer.
    - ADD GIF [GIF 10552]: a picture of the Save As dialogue being worked through step by step — File, Save As, place, name — the student names each step as the dialogue moves.
+   - ADD IMAGE [Picture 11319]: a picture of the five Save As steps as a numbered strip — File tab, Save As, Documents, file name, Save — the student traces the five steps in order.
+   - ADD GIF [GIF 11320]: a picture of the Save As dialogue being worked through in the five-step order — the student names each step as the highlight moves.
+   - ADD AUDIO: a voice reading the five steps aloud, one by one — the student says each step after the voice.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -41,7 +46,10 @@ A computer with Word open and something typed in it.
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 10509] — a picture of the File → Save As → location steps as a numbered strip → the student traces the steps in order before touching a real computer.
 - GIF [GIF 10552] — a picture of the Save As dialogue being worked through step by step — File, Save As, place, name → the student names each step as the dialogue moves.
-- VIDEO — the video-script filmed (made later) → the student watches and follows along.
+- IMAGE [Picture 11319] — a picture of the five Save As steps as a numbered strip → the student traces the steps in order.
+- GIF [GIF 11320] — a picture of the Save As dialogue worked through in the five-step order → the student names each step as it happens.
+- AUDIO — a voice reading the five steps aloud → the student repeats each step.
+- VIDEO — the video-script filmed (made later); the script now carries the full five-step walkthrough → the student follows along.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

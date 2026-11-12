@@ -12,3 +12,10 @@ Virus protection stands guard.
 Other programs translate.
 They change a program from one language to another.
 So the machine can follow it.
+
+Utility software has four families.
+System. Storage. File. And the rest of the toolbox.
+
+Anti-virus guards. Diagnostics find the fault.
+Backup copies. Formatters prepare — and erase.
+Recovery fetches what was lost.

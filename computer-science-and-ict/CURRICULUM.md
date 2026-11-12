@@ -64,3 +64,14 @@ Care (6, ergonomics and portable-device safety), Programming
 (6 new LOGO lessons + LOGO Procedures and Defining and Running
 a LOGO Procedure grown with Grade 8 parts). The course now
 stands at 111 lessons.
+
+**Band B1 (Grade 8, Unit 3) — BUILT 2026-11-12:** 11 new
+lessons + 5 grown, 155 questions added, 28 media filed
+(pictures/GIFs 11313–11340; the range's edges were already
+taken by other bands, so the band filed the free block inside
+its range and overwrote nothing) — Software (2 new + 3 grown),
+Word Processing (4 new + 2 grown), and the Spreadsheets (3)
+and Presentations (2) titles opened. Doing-lessons keep the
+books' exact step orders, including the five-step Save As
+order. Grade 8 now lacks only Unit 4 (band B2, in flight). The
+course now stands at 122 lessons.

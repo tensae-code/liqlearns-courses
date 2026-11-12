@@ -190,3 +190,30 @@ Grown in this band (Grade 8 taken further, not duplicated):
 LOGO Procedures (procedures live in a workspace) and Defining
 and Running a LOGO Procedure (new Sub lesson 4 — creating a
 procedure with EDIT, the book's eight steps in order).
+
+**Software** (band B1, from Ethiopia Grade 8): Driver Software
+— Letting Devices Talk to the Operating System · Installing
+Utility Software — Anti-Virus. Grown in this band: System
+Software and the Operating System (Sub lesson 3 — the operating
+system in greater depth), Utilities and Language Translators
+(Sub lessons 3–4 — the four families of utility software;
+utilities explained one by one) and Application Software (Sub
+lessons 3–4 — more examples; software inside everyday
+machines).
+
+**Word Processing** (band B1, from Ethiopia Grade 8): Typing
+Text — the Blinking Insertion Point · Copy and Paste — Home
+Tab and Right-Click Ways · Cut and Paste — Moving Text ·
+Formatting — Bold, Italic, Underline, Font and Colour. Grown
+in this band: Opening a Word Processor (Sub lesson 4 — creating
+a document) and Saving a Word Document (Sub lesson 3 — saving
+with Save As, the five steps in order).
+
+**Spreadsheets** (band B1, from Ethiopia Grade 8): Spreadsheets
+— Data in Rows, Columns and Cells · Spreadsheet Formulas —
+Starting with = · Spreadsheet Functions — SUM, AVERAGE, MAX,
+MIN.
+
+**Presentations** (band B1, from Ethiopia Grade 8): PowerPoint
+— Making a Slideshow; Inserting Slides · Copying, Cutting and
+Deleting Slides.

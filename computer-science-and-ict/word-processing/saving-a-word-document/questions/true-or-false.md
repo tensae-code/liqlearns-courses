@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 1)** Unsaved work survives when the computer is switched off.
 **Answer: False** — unsaved work is lost — save first.
+
+**4. (Sub lesson 3)** In the five-step order, you give the file name before choosing where to save it.
+**Answer: False** — choose where to save (Documents) first, then give the file name, then click Save.

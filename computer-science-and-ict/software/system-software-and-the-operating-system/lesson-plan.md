@@ -12,6 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **System software — the manager** — what system software does: controls, integrates and manages the hardware, and lets user, hardware and applications work together
 2. **The operating system** — the most important program: it loads programs at start, supervises input and output, and manages files; Windows in Ethiopia
+3. **The operating system in greater depth** — the Grade 8 depth: it communicates with the hardware and allows other programs to run; its five basic tasks (file, memory and process management, handling input and output, controlling peripheral devices) and common services; applications require an OS; the names Windows, Mac OS, Ubuntu, Unix and Linux
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -23,6 +24,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Name the operating system as the most important program.
 3. List the operating system's jobs: loading programs, supervising input/output, managing files.
 4. Name Microsoft Windows as the operating system most used in Ethiopia.
+5. Name the operating system's five basic tasks and the five operating-system names: Windows, Mac OS, Ubuntu, Unix and Linux.
 
 ## What you need
 A computer running Windows if you can use one; paper and a pencil.
@@ -31,6 +33,8 @@ A computer running Windows if you can use one; paper and a pencil.
 1. **Do it first** — the learner lists everything that must happen between pressing the power button and being ready to write (lesson/lesson.md).
 2. **The explanation** — the parts below, in order (lesson/lesson.md).
    - ADD IMAGE [Picture 10501]: a picture of the Windows desktop as a manager standing between the user, the hardware and the applications — the student points to who gives orders, who manages, and who does the jobs.
+   - ADD IMAGE [Picture 11313]: a picture of the operating system in the middle, with arrows to files, memory, processes, input/output and devices, and the five operating-system names under it — the student names the five basic tasks at the arrows.
+   - ADD AUDIO: a voice reading the five basic tasks and the five operating-system names aloud — the student says each one after the voice.
 3. **Say it to your companion** — explain the lesson back in your own words (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — the lesson retold in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, fill-in-the-blank — served at the learner's level (levels.md).
@@ -39,6 +43,8 @@ A computer running Windows if you can use one; paper and a pencil.
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 10501] — a picture of the Windows desktop as a manager standing between the user, the hardware and the applications → the student points to who gives orders, who manages, and who does the jobs.
+- IMAGE [Picture 11313] — a picture of the operating system in the middle with its five tasks at the arrows → the student names each task.
+- AUDIO — a voice reading the five basic tasks and the five names aloud → the student repeats each.
 - VIDEO — the video-script filmed (made later) → the student watches and follows along.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

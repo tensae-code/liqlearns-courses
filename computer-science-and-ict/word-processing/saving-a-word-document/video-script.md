@@ -12,3 +12,13 @@ Type the name. Word adds dot-docx by itself.
 
 Saved. Your work survives.
 Switch off safely now.
+
+Now the same saving, in its five steps — follow along.
+
+One. Click the File tab.
+Two. Click Save As.
+Three. Choose where it lives: Documents.
+Four. Give it a file name.
+Five. Click Save.
+
+Saved — in five steps, in order, every time.

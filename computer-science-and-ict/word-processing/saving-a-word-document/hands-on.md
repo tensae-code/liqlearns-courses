@@ -10,3 +10,7 @@ Before saving, write the name you will give the file and the place you will keep
 
 ## If it is hard
 Saving is assessed by watching the doing, as the teacher guide directs for the Word practical: a teacher or partner watches you save, open the file back, and close — the opened-back file is the proof.
+
+## The five-step save
+
+Save a fresh document using only the five-step order, saying each step aloud as you do it: File tab — Save As — Documents — file name — Save. A partner ticks the five steps off on paper as you land each one. Then close the document and open it back from Documents to prove the save.

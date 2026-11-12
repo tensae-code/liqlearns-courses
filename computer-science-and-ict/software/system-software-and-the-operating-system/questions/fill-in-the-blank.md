@@ -10,3 +10,6 @@ Fill each blank with the right word.
 
 **3. (Sub lesson 2)** The operating system supervises input and ______ and manages files.
 **Answer: output**
+
+**4. (Sub lesson 3)** The operating system communicates with the ______ and allows other programs to run.
+**Answer: hardware**

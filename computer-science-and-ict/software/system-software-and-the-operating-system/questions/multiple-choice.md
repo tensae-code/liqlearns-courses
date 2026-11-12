@@ -25,3 +25,11 @@ a) Microsoft Windows  b) Linux only  c) Mac only  d) LOGO
 **6. (Sub lesson 1)** System software lets which three work together?
 a) User, hardware and applications  b) Pen, paper and ink  c) Teacher, pupil and book  d) Screen, chair and desk
 **Answer: a) User, hardware and applications** — user, hardware and applications.
+
+**7. (Sub lesson 3)** The operating system's basic tasks are —
+a) file, memory and process management, handling input and output, and controlling peripheral devices  b) typing, printing, drawing, saving, closing  c) copy, cut, paste, delete, rename  d) reading, writing, counting, singing, playing
+**Answer: a) file, memory and process management, handling input and output, and controlling peripheral devices.**
+
+**8. (Sub lesson 3)** Which list names operating systems?
+a) Word, Excel, Access, PowerPoint, Paint  b) Windows, Mac OS, Ubuntu, Unix, Linux  c) Printer, mouse, keyboard, screen, disk  d) Copy, Paste, Cut, Save, Print
+**Answer: b) Windows, Mac OS, Ubuntu, Unix, Linux.**

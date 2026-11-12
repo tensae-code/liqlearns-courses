@@ -12,3 +12,10 @@ The biggest program is the operating system.
 It loads your programs. It watches input and output. It manages files.
 
 In Ethiopia, the name you will see most is Windows.
+
+The deeper part. The operating system talks to the hardware.
+It manages files. It manages memory. It manages processes.
+It handles input and output. It controls the devices.
+
+No operating system — no running program.
+Windows. Mac OS. Ubuntu. Unix. Linux.

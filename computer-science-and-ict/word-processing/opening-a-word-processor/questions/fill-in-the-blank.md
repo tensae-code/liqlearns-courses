@@ -10,3 +10,6 @@ Fill each blank with the right word.
 
 **3. (Sub lesson 3)** ______-click the Word shortcut on the desktop.
 **Answer: Double**
+
+**4. (Sub lesson 4)** A word processor lets changes be made ______ in the document.
+**Answer: anywhere**

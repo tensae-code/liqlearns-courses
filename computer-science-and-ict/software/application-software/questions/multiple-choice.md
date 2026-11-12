@@ -25,3 +25,11 @@ a) a spreadsheet  b) graphics software  c) a database  d) an operating system
 **6. (Sub lesson 2)** PowerPoint is —
 a) presentation software  b) a utility  c) system software  d) a storage device
 **Answer: a) presentation software** — presentation software shows ideas as slides.
+
+**7. (Sub lesson 3)** A flight simulator is an example of —
+a) an operating system  b) application software  c) a utility  d) hardware
+**Answer: b) application software** — a program for a specific activity, one of the six Grade 8 examples.
+
+**8. (Sub lesson 4)** Do traffic lights need software to work?
+a) No — they are only lamps and wires  b) Yes — the system runs on operating systems, storage and other software  c) Only at night  d) Only in cities
+**Answer: b) Yes — the system runs on operating systems, storage and other software.**
