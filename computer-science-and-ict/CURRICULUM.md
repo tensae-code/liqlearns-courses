@@ -170,3 +170,17 @@ masks. Book errors taught corrected and named in sources:
 "Figure 4.40" for 2.40, "First Octate" for octet, IEEE
 once wrongly expanded. The course now stands at 318
 lessons.
+
+**Band D4 (Grade 10, Unit 4) — BUILT 2026-11-12:** 19 new
+lessons + 1 grown, 252 questions, 28 media filed
+(pictures/GIFs 15300–15327) — Multimedia at Grade 10
+depth: the five fields and components, requirements,
+formats, the eight production roles, the five authoring
+stages, the Flash screen, keyframe animation, text and
+image work, transitions, motion guides, libraries, sound,
+digital movies, smart trim, speed/duration/freeze frames,
+and multimedia vs hypermedia. Book errors taught corrected
+and named in sources: "Figure 4.3 shows virtual meetings"
+(the figure is 4.4), "Create Motion Twee" for Tween,
+"contract" for "extract" in the unit overview. The
+course now stands at 337 lessons.

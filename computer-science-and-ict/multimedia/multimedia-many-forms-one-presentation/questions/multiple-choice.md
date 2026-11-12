@@ -21,3 +21,15 @@ a) only watch  b) navigate, interact, create and communicate  c) print pages  d)
 **5.** Multimedia presentations are —
 a) silent  b) printed  c) interactive  d) audio only
 **Answer: c) interactive** — a single INTERACTIVE presentation.
+
+**6.** Combined media in multimedia —
+a) weaken a message  b) multiply a message's impact and improve retention  c) only entertain  d) replace the user
+**Answer: b) multiply a message's impact and improve retention** — the Grade 10 opening's claim.
+
+**7.** Properly built, multimedia —
+a) only informs  b) only entertains  c) entertains as well as informs  d) neither
+**Answer: c) entertains as well as informs.**
+
+**8.** Multimedia belongs wherever —
+a) there is a printer  b) a human interface connects a person to electronic information  c) there is no computer  d) films are shown
+**Answer: b)** — the human interface is its home ground.

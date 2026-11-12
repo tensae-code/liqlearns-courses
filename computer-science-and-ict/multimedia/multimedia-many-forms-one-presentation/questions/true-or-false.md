@@ -10,3 +10,9 @@ Say whether each statement is true or false.
 
 **3.** Multimedia is only about storing files.
 **Answer: False** — it presents, stores, transmits and combines forms — and lets the user interact.
+
+**4.** Multimedia's importance shrinks as technology develops.
+**Answer: False** — its importance grows as technology develops.
+
+**5.** Multimedia is a computerised method of presenting information.
+**Answer: True** — the Grade 10 opening's wording.

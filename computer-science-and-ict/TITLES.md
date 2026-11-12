@@ -389,3 +389,27 @@ Pass · Project: Design a Card in Photoshop.
 - IP address classes and network masks — `networks/ip-address-classes-and-network-masks/`
 
 Grown by band D2 (Grade 10 depth added, not duplicated): `networks/wired-and-wireless-media/` (+ Sub lesson 3, transmission media), `networks/wireless-access-points/` (+ WLAN and AP bridging/repeating depth).
+
+**Band D4 — Grade 10 Unit 4 (Image Processing and Multimedia), 19 new lessons:**
+
+- Where multimedia is used — five fields — `multimedia/where-multimedia-is-used-five-fields/`
+- The five components of multimedia — `multimedia/the-five-components-of-multimedia/`
+- Multimedia hardware and software requirements — `multimedia/multimedia-hardware-and-software-requirements/`
+- Multimedia file formats — sound, image, video — `multimedia/multimedia-file-formats-sound-image-video/`
+- Multimedia production — the eight roles — `multimedia/multimedia-production-the-eight-roles/`
+- Multimedia authoring — analysis to distribution — `multimedia/multimedia-authoring-analysis-to-distribution/`
+- Authoring tools — naming the Flash screen — `multimedia/authoring-tools-naming-the-flash-screen/`
+- Drawing and filling a first Flash piece — `multimedia/drawing-and-filling-a-first-flash-piece/`
+- Keyframe animation — and editing an icon — `multimedia/keyframe-animation-and-editing-an-icon/`
+- Inserting and styling text in a multimedia project — `multimedia/inserting-and-styling-text-in-a-multimedia-project/`
+- Importing and transforming images — `multimedia/importing-and-transforming-images/`
+- Video transitions — placing and previewing them — `multimedia/video-transitions-placing-and-previewing-them/`
+- Motion guides — moving a symbol along a path — `multimedia/motion-guides-moving-a-symbol-along-a-path/`
+- Multimedia libraries — create, open, add, use — `multimedia/multimedia-libraries-create-open-add-use/`
+- Importing sound and changing its play speed — `multimedia/importing-sound-and-changing-its-play-speed/`
+- Importing digital movies — and controlling their sound — `multimedia/importing-digital-movies-and-controlling-their-sound/`
+- Trimming video clips — smart trim — `multimedia/trimming-video-clips-smart-trim/`
+- Clip speed and duration — freeze frames — `multimedia/clip-speed-and-duration-freeze-frames/`
+- Multimedia and hypermedia — linear vs linked — `multimedia/multimedia-and-hypermedia-linear-vs-linked/`
+
+Grown by band D4 (Grade 10 depth added, not duplicated): `multimedia/multimedia-many-forms-one-presentation/` (Grade 10 opening, printed pp. 139–140).

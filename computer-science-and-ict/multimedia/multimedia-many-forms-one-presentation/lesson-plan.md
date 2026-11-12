@@ -44,3 +44,11 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Ethiopia, *Information Technology, Student's Textbook, Grade 9*, with the *Teacher's Guide, Grade 9* as labelled evidence where the sources table says so). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Growth — Grade 10 Unit 4 opening (added 2026-11-12)
+
+This lesson is also the opening lesson of Ethiopia Grade 10, Unit 4 — Image Processing and Multimedia: the Grade 10 book's opening (printed pp. 139–140) teaches the same combination in greater depth, so the lesson grew instead of being duplicated.
+
+- ADD IMAGE [Picture 15300]: a picture of five media tiles — text, sound wave, film strip, graphic, moving figure — the student names each form and says what the combination adds.
+- ADD GIF [GIF 15327]: the five tiles sliding together into a single presentation — the student watches the combination happen, then lists the five forms from memory.
+- New outcomes: (7) say why combined media multiply a message's impact and improve retention; (8) say where multimedia belongs — wherever a human interface connects a person to electronic information; (9) name the road the Grade 10 unit walks from this opening.

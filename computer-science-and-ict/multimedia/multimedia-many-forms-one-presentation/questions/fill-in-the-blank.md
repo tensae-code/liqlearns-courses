@@ -10,3 +10,9 @@ Fill each blank with the word or words that complete the sentence.
 
 **3.** Television was the mass medium for ____ broadcasting.
 **Answer: video**
+
+**4.** Combined media improve _____, how well a message is remembered.
+**Answer: retention**
+
+**5.** Multimedia presents information attractively and _____.
+**Answer: interactively**
