@@ -50,3 +50,15 @@ Say true or false.
 
 **16. (Sub lesson 8)** In "The handstand family — Grade 8", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**17. (Sub lesson 9)** The star jump opens and stretches the arms and legs, then closes them for the landing.
+**Answer: True**
+
+**18. (Sub lesson 9)** Rotating left and right in this part is done as fast as possible until you are dizzy.
+**Answer: False** — the turn is controlled and upright, with the arms raised.
+
+**19. (Sub lesson 10)** In this lesson, "Rolling, jumping and turning — the Grade 1 guide's second body parts (teacher guide — evidence)" teaches: forward-roll preparation tucked on a mat, forward-and-back steps, crouch-stand jump sequences, and pivot turns left and right in place.
+**Answer: True**
+
+**20. (Sub lesson 10)** In "Rolling, jumping and turning — the Grade 1 guide's second body parts (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

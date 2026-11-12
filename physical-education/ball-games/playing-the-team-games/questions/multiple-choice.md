@@ -61,3 +61,15 @@ a) sitting still and watching others do the movement  b) skipping every stage an
 **15. (Sub lesson 5)** A learner doing "Handball team defence and attack — Grade 10" correctly is —
 a) skipping every stage and starting with the hardest game form  b) On the full court — three times bigger than the small court — the game grows to 6 against 6, and individual ad  c) sitting still and watching others do the movement
 **Answer: b) On the full court — three times bigger than the small court — the game grows to 6 against 6, and individual ad**
+
+**16. (Sub lesson 6)** For international competitions, the guide's football pitch measures…
+a) 110 m × 75 m  b) 28 m × 15 m  c) 40 m × 20 m
+**Answer: a) 110 m × 75 m**
+
+**17. (Sub lesson 6)** A football match is played as…
+a) Two equal halves of 45 minutes  b) Four quarters of 10 minutes  c) Three periods of 20 minutes
+**Answer: a) Two equal halves of 45 minutes**
+
+**18. (Sub lesson 6)** The famous Italian referee named in the guide as the model official is…
+a) Pierluigi Collina  b) Abebe Bikila  c) Maria Mutola
+**Answer: a) Pierluigi Collina**

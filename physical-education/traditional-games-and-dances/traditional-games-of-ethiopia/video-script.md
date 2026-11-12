@@ -9,3 +9,5 @@ Korbo! Gena! Gebeta! Horse racing! Bub!
 Twelve hollows. Six are yours. Sow the stones — one, one, one…
 Eighteen hollows — the bigger board thinks deeper.
 And Shah? The book says: play it with your friends.
+
+What is a traditional sport game? A game handed down — played before you, carrying your people's name. Name the games of your own place. Now meet them, one by one.

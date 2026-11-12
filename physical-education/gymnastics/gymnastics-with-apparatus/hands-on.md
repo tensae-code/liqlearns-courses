@@ -17,3 +17,6 @@ Do the youngest part only, on the spot, at walking speed, beside a partner or a 
 
 ## The Grade 8–10 parts
 Do the new parts in order, slowly first: Parallel bars — the support swing — Grade 8. Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.
+
+## The Grade 3 teacher-guide part
+Do the new part slowly first: Strong in my own space — weight shifts over a line on the ground, then reach-and-hang at a high rope or bar only with a teacher or spotter beside you and a mat below. Stop if anything hurts.

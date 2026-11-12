@@ -34,3 +34,9 @@ Say if it is true or false.
 
 **11. (Sub lesson 9)** In Ball in a Box the passing repeats until everyone has run.
 **Answer: True**
+
+**12. (Sub lesson 10)** In Abarosh, the teams are matched, and the winners meet the next team.
+**Answer: True**
+
+**13. (Sub lesson 11)** Growing communication and cooperation in games improves them in the rest of life.
+**Answer: True**

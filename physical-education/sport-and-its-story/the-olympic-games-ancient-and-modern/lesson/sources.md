@@ -26,6 +26,9 @@ countries: Ethiopia
 | Sub lesson 2 — The flag, the rings and the motto | Ethiopia, *Grade 6 Student Textbook*, item 4, printed pp. 6–7; and *Grade 6 Teacher Guide*, Olympics cluster, printed pp. 4–6 (teacher guide — evidence) |
 | Sub lesson 3 — The three bodies that run the Games (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Olympics cluster, printed pp. 4–6 |
 | Sub lesson 4 — The Olympic principles — peace, friendship, unity | Ethiopia, *Grade 7 Student Textbook*, item 5, printed pp. 5–6; and *Grade 7 Teacher Guide*, §1.4, printed pp. 8–9 (teacher guide — evidence) |
+| Prove-it questions folded from the book's own Chapter 1 summary exercises — Sub lesson 1 | Ethiopia, *Grade 5 Student Textbook*, Chapter 1 summary exercises (the name Olympic from Olympia), printed p. 7 |
+| Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 1 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
+| Prove-it questions folded from the book's own Chapter 1 review — Sub lessons 2–3 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

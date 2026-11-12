@@ -22,3 +22,6 @@ Say if it is true or false.
 
 **7. (Sub lesson 7)** Doping is fundamentally contrary to the spirit of sport.
 **Answer: True**
+
+**8. (Sub lesson 3)** In the Grade 6 guide's summary, doping is the banned road — a prohibited substance, not strength earned by training.
+**Answer: True**

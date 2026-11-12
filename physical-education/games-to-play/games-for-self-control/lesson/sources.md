@@ -17,6 +17,7 @@ countries: Ethiopia
 | Sub lesson 3 — holding-and-jumping together; Dirchi Dirchi; kneeling backward passing | Ethiopia, *Grade 2 Student Textbook*, §3.1, printed pp. 22–23 |
 
 | Sub lesson 4 — Self-control — waiting, turns and the judge's word (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, §2.3.3 and Chapter 2 summary, printed pp. 26–28 |
+| Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 2 summary + assessment answers, printed pp. 27–28 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

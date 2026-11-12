@@ -9,6 +9,7 @@ countries: Ethiopia
 | Sub lesson 1 — Bayoka — the snake race (Zambia / Zaire) | Ethiopia, *Grade 7 Student Textbook*, §7.3.1, printed p. 92 |
 | Sub lesson 2 — Mbube, Mbube — the lion and the impala (South Africa) | Ethiopia, *Grade 7 Student Textbook*, §7.3.2, printed p. 93 |
 | Sub lesson 3 — Mamba — the last one caught (across Africa) | Ethiopia, *Grade 7 Student Textbook*, §7.3.3, printed p. 94 |
+| Prove-it questions folded from the book's own chapter summary exercises — Sub lessons 1–3 | Ethiopia, *Grade 7 Student Textbook*, chapter summary exercises, printed p. 95 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

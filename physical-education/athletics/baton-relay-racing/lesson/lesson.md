@@ -26,6 +26,18 @@ A relay team has four runners and three exchanges, and the fourth runner crosses
 
 [GIF 13919 — an upsweep baton exchange inside the passing zone]
 
+## Sub lesson 5 — The first relay — out, back, hand over; copy the broom game — Grade 3 (teacher guide — evidence)
+
+The relay begins years before the baton, inside object skills — the family that also holds the two-hand throw (ኳስ በሁለት እጅ ወደገነ መወርወር), kicking a still ball (የቆመ ኳስ መምታት) and one-hand ball movement (በአንድ እጅ ኳስ ማንቀሳቀስ).
+
+**The relay run — የደርስ መልስ ሩጫ.** Run to the far marker and back, then hand over to the next learner, who runs the same way. Your run is not finished at the marker — it is finished at the handover, when your teammate is moving.
+
+[Picture 34907 — the shuttle relay — run out, back, and hand over]
+
+[GIF 34908 — run out, run back, hand over — the next runner goes]
+
+**The game you saw with the broom — መሣረቢን ያየችሁ ጨዋታ.** One sweeper shows a sweeping movement with a broom. Everyone copies the shown movements, in rows — the same sweep, the same order, together. Watch first, then move: the game is copying truly.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

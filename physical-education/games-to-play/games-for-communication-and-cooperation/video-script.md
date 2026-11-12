@@ -15,3 +15,6 @@ Four jumpers, one long distance — every member jumps!
 Hand to hand — the baton is NEVER thrown.
 Down goes the bottle! Now — applaud the winners. Embrace them.
 Respect the rules. Respect the opponents. Everyone plays. That is fair play.
+
+Abarosh! Matched teams. Chasers — catch them all in five minutes! Winners meet the next team. And watch how people play: the watching teaches talking.
+How is our cooperation? What must improve? Grow it in the game, and it grows in all of life.

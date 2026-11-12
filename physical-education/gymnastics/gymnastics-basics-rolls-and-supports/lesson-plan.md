@@ -14,6 +14,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 4. **Rolls and supports in pairs** — forward and backward rolls, pair rolls, and bar work with a mat and spotter.
 5. **Forward rolls from a forehead stand and a handstand — Grade 6** — forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting.
 6. **Free gymnastics — Grade 7: headstand, head spring and cartwheel** — the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting.
+10. **Rolling, jumping and turning — the Grade 1 guide's second body parts (teacher guide — evidence)** — forward-roll preparation tucked on a mat, forward-and-back steps, crouch-stand jump sequences, and pivot turns left and right in place.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -27,6 +28,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 
 5. Do and explain: forward rolls that begin from a forehead stand and from a handstand, always with a helper spotting.
 6. Do and explain: the headstand built on a triangle of forehead and hands, the head spring, and the cartwheel — with spotting.
+10. Do and explain: forward-roll preparation tucked on a mat, forward-and-back steps, crouch-stand jump sequences, and pivot turns left and right in place.
 
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
@@ -54,6 +56,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - IMAGE [Picture 13736]: a picture of the headstand base — forehead and both hands making a triangle on a mat, with a helper standing by — the student names the movement and copies it safely.
 - GIF [GIF 13737]: the cartwheel — turning sideways hand to hand like a wheel — the student watches the movement, then does it slowly, then at full speed.
 
+- IMAGE [Picture 34805]: on a mat: crouch and tuck, roll through, stand up — the student watches/names the movement, then copies it safely.
+
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck
@@ -74,3 +78,13 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 
 Extension add-ons:
 - ADD PICTURE [Picture 13906]: the dive roll in three shapes — dive, roll over a rolled mat, stand — the student watches/names the movement, then copies it safely.
+
+## Fix-build extension (2026-11-12, HPE-FIX-4)
+
+9. **Grade 3 movements — the star jump and turning left and right** — the Grade 3 book's §5.2 movement pair (star jump on a mat; rotation መሽከርከር left and right with arms raised), stocked as the movement sub lesson the G3 pass lacked.
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+Extension add-ons:
+- ADD IMAGE [Picture 35100]: a picture of a child star-jumping on a mat — the student names the movement and copies it safely.
+- ADD GIF [GIF 35101]: turning left and right with the arms raised, controlled and upright — the student watches first, then copies the movement.
+- ADD AUDIO: the movement names (star jump; መሽከርከር) read aloud — the student says them along with the voice.

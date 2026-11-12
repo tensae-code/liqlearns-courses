@@ -8,15 +8,16 @@
 A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video, an audio. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. GIFs here are 2 seconds, drawn, and show the movement the way it really moves.
 
 ## Sub lessons
-1. **The federated games — the five with laws** — the Grade 7 book's pictured set of the games the Ethiopian Cultural Sport Federation has given laws: Korbo, horse racing, Gena, Gebeta and Bub.
-2. **Gena — the rules pass** — Gena in the Grade 7 book: its festivals, its field, its kinds of play, its value for productivity, friendship and culture.
-3. **Gebeta — the rules pass: twelve holes and eighteen** — the 12-hole board — six houses each, stones moved in turn — the one-stone, two-stone and three-stone variants (ቅንጭቦሽ), and the 18-hole (ስሉስ) board.
-4. **Horse racing and Gugs, and the Shah game** — horse racing (የፈረስ ሽርጥ) as a ruled traditional sport, the horse game Gugs (የፈረስ ጉግስ), and Shah (የሻህ ባህላዊ ጨዋታ) — "play it with your friends".
+1. **What a traditional sport game is — the Grade 8 opening** — the Grade 8 book's §7.1 introduction: the definition of a traditional sport game, and the opening task — name the traditional games known where you live (printed pp. 83–84). Added 2026-11-12 (HPE-FIX-4); the parts that followed it were renumbered 2–9.
+2. **The federated games — the five with laws** — the Grade 7 book's pictured set of the games the Ethiopian Cultural Sport Federation has given laws: Korbo, horse racing, Gena, Gebeta and Bub.
+3. **Gena — the rules pass** — Gena in the Grade 7 book: its festivals, its field, its kinds of play, its value for productivity, friendship and culture.
+4. **Gebeta — the rules pass: twelve holes and eighteen** — the 12-hole board — six houses each, stones moved in turn — the one-stone, two-stone and three-stone variants (ቅንጭቦሽ), and the 18-hole (ስሉስ) board.
+5. **Horse racing and Gugs, and the Shah game** — horse racing (የፈረስ ሽርጥ) as a ruled traditional sport, the horse game Gugs (የፈረስ ጉግስ), and Shah (የሻህ ባህላዊ ጨዋታ) — "play it with your friends".
 
-5. **Traditional wrestling — laws and practice** — the Grade 8 student book's §7.1.1: traditional wrestling — fame for the strong, bell/whistle/results board, the one-hand waist hold, main laws and practice.
-6. **Korbo — the ring and the spear** — the Grade 8 student book's §7.1.2: Korbo — rolling the ring, spearing its middle from the throwing zone, its types, laws and making; Picture 14008 shows the ring and spear.
-7. **Bub — the board of twenty-five stations** — the Grade 8 student book's §7.1.3: the Bub board — 24 stone stations plus one start station (25), a diamond at the centre, its laws and practice; Picture 14007 shows the board.
-8. **Archery — the traditional bow game** — the Grade 8 student book's §7.1.4: archery — its main laws, its equipment listed in detail, and its practice, safety-framed.
+6. **Traditional wrestling — laws and practice** — the Grade 8 student book's §7.1.1: traditional wrestling — fame for the strong, bell/whistle/results board, the one-hand waist hold, main laws and practice.
+7. **Korbo — the ring and the spear** — the Grade 8 student book's §7.1.2: Korbo — rolling the ring, spearing its middle from the throwing zone, its types, laws and making; Picture 14008 shows the ring and spear.
+8. **Bub — the board of twenty-five stations** — the Grade 8 student book's §7.1.3: the Bub board — 24 stone stations plus one start station (25), a diamond at the centre, its laws and practice; Picture 14007 shows the board.
+9. **Archery — the traditional bow game** — the Grade 8 student book's §7.1.4: archery — its main laws, its equipment listed in detail, and its practice, safety-framed.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

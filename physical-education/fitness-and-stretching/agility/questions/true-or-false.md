@@ -56,3 +56,6 @@ Say true or false.
 
 **18. (Sub lesson 9)** In "Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence)", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**19. (Sub lesson 5)** Zigzag running and the marker speed run are the agility runs named in the guide's written answers.
+**Answer: True**

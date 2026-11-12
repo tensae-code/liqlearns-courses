@@ -25,3 +25,11 @@ a) Physical and health fitness  b) Winning cups  c) Selling tickets
 **6. (Sub lesson 3)** Sport instruction may be given for a competitive purpose; PE is…
 a) Not necessarily aimed at competition  b) Always a final  c) Only for adults
 **Answer: a) Not necessarily aimed at competition**
+
+**7. (Sub lesson 2)** In the Grade 6 guide's written answer, sport is competitive physical activity that…
+a) has its own rules and order, demands a high level of skill, and has a goal  b) has no rules at all  c) needs no skill
+**Answer: a) has its own rules and order, demands a high level of skill, and has a goal**
+
+**8. (Sub lesson 3)** Which statement gives the PE-and-sport difference from the Grade 7 guide's review answers?
+a) PE is an educational process given in schools; sport is an activity, often competitive  b) they are exactly the same thing  c) PE is only for professional athletes
+**Answer: a) PE is an educational process given in schools; sport is an activity, often competitive**

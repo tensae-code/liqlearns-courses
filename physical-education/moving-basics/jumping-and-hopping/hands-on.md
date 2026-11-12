@@ -13,3 +13,7 @@ Do the main movement ten times, counting aloud. Stop if anything hurts. Rest, br
 
 ## If it is hard
 Do the youngest part only, on the spot, at walking speed, beside a partner or a wall for balance. Smaller and slower is still the lesson.
+
+## Teacher-guide parts (added depth)
+- **Jumping the long rope together (teacher guide — evidence):** do it slowly first — two children turning a long rope while two jump together in the middle, in rhythm. Stop if anything hurts; work beside a partner or teacher.
+

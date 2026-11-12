@@ -53,3 +53,7 @@ a) Carry Ethiopia's flag at the Olympic Games  b) Win the marathon  c) Found CAF
 **13. (Sub lesson 6)** Meseret Defar championed, as UNFPA ambassador…
 a) Women, youth and HIV/AIDS prevention  b) Stadium building  c) Ticket sales
 **Answer: a) Women, youth and HIV/AIDS prevention**
+
+**14. (Sub lesson 2)** Which set names the athletes the guide's written answer calls Ethiopia's fruit of this field?
+a) Abebe Bikila, Derartu Tulu, Haile Gebrselassie, Kenenisa Bekele and Tirunesh Dibaba  b) three referees and a judge  c) no one — the field has produced nobody
+**Answer: a) Abebe Bikila, Derartu Tulu, Haile Gebrselassie, Kenenisa Bekele and Tirunesh Dibaba**

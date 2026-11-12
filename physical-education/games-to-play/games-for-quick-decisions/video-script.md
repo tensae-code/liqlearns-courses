@@ -16,3 +16,8 @@ Your responsibility. Your moment. YOUR call.
 Pass left? Pass right? SHOOT? Decide — the defenders are closing!
 Jump the low ball! Hold the chain! Protect the last!
 Choose your distance. Shoot. Now judge your own decision.
+
+Before you throw — ask. Is it right? Is it fair to everyone here? Deciding by what is right, and by how it lands on others: that is a responsible decision.
+
+Squat and stand; the Green-Yellow-Red game (teacher guide — evidence). **Squat and stand — የጠብ ጠብ እንቅስቃሴ.** A row of children stands, squats down, and stands up again — stand, squat, stand — repeated to a count, all together. The decision is in the timing: down on the count, up on the count, never early, never late.
+

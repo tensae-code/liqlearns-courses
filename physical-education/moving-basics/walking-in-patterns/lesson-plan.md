@@ -12,6 +12,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **Walking the lines and shapes** — walking on a straight line, a rectangle, a circle and a zigzag line.
 3. **Walking while rolling a ball** — rolling a ball by hand while walking.
 4. **Walking the line in balance (teacher guide — evidence)** — walking heel to toe along a straight line with arms out.
+7. **Selame Selame — greet, pass the cloth, change places (teacher guide — evidence)** — moving around a circle, greeting and changing places on the signal while a cloth passes hand to hand.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +23,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Do and explain: walking on a straight line, a rectangle, a circle and a zigzag line.
 3. Do and explain: rolling a ball by hand while walking.
 4. Do and explain: walking heel to toe along a straight line with arms out.
+7. Do and explain: moving around a circle, greeting and changing places on the signal while a cloth passes hand to hand.
 
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
@@ -41,6 +43,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - IMAGE [Picture 13500]: a picture of children walking hand in hand along a zigzag line — the student names the movement and copies it safely.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
+
+- IMAGE [Picture 34808]: children in a circle in the Selame Selame game, an orange cloth passed hand to hand — the student watches/names the movement, then copies it safely.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

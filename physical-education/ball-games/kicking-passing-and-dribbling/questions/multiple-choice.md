@@ -106,3 +106,23 @@ a) sitting still and watching others do the movement  b) skipping every stage an
 **26. (Sub lesson 10)** A learner doing "Tackling, thigh control and goalkeeping — Grade 10" correctly is —
 a) skipping every stage and starting with the hardest game form  b) Three advanced football skills.  c) sitting still and watching others do the movement
 **Answer: b) Three advanced football skills.**
+
+**27. (Sub lesson 2)** The Grade 2 guide's Chapter 1 summary answers name which parts of the foot for kicking?
+a) the inside and the outside of the foot  b) the heel only  c) the toes only
+**Answer: a) the inside and the outside of the foot**
+
+**28. (Sub lesson 11)** Which of these is done in "Kicking a ball, and up-and-down steps (teacher guide — evidence)"?
+a) sitting still and watching only  b) a movement from another lesson entirely  c) standing beside a ball and kicking it toward a partner or target with feet planted in turn, and stepping up onto and down from a low place in turn
+**Answer: c) standing beside a ball and kicking it toward a partner or target with feet planted in turn, and stepping up onto and down from a low place in turn**
+
+**29. (Sub lesson 11)** A learner doing "Kicking a ball, and up-and-down steps (teacher guide — evidence)" correctly is —
+a) standing beside a ball and kicking it toward a partner or target with feet planted in turn, and stepping up onto and down from a low place in turn  b) sitting still and resting  c) watching only, never moving
+**Answer: a) standing beside a ball and kicking it toward a partner or target with feet planted in turn, and stepping up onto and down from a low place in turn**
+
+**30. (Sub lesson 12)** Which of these is done in "Passing the football; hit the target (teacher guide — evidence)"?
+a) sitting still and watching only  b) a movement from another lesson entirely  c) passing a football along the ground between partners over five metres, receiving with one foot, and throwing or kicking at a set target to score
+**Answer: c) passing a football along the ground between partners over five metres, receiving with one foot, and throwing or kicking at a set target to score**
+
+**31. (Sub lesson 12)** A learner doing "Passing the football; hit the target (teacher guide — evidence)" correctly is —
+a) passing a football along the ground between partners over five metres, receiving with one foot, and throwing or kicking at a set target to score  b) sitting still and resting  c) watching only, never moving
+**Answer: a) passing a football along the ground between partners over five metres, receiving with one foot, and throwing or kicking at a set target to score**

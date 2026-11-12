@@ -19,6 +19,8 @@ Heart and breathing fitness — Grade 5 movements. Four movements build the hear
 Heart and breathing fitness — Grade 6: pulse, skipping and stepping. First learn your pulse: feel it at the wrist with three fingers, or at the neck; count for 15 seconds and multiply by 4 — that is your heartbeats in one minute.
 Cardio fitness — Grade 7: jacks, hop squats and ropes. Cardiovascular endurance is the ability of the heart, blood vessels, blood and breathing system to supply fuel and oxygen to the muscles, and of the muscles to use that fuel to keep exercising.
 
+Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence). Rope jumping is heart-and-lungs work. With your own rope — በግል ገመድ መዝለል — turn and jump, and count your turns in fives: five, ten, fifteen, twenty. With the long rope — በቡድን ገመድ መዝለል — the group turns together: run in, jump three to five times, and run out in your turn, without ever stopping the rope. The rope keeps turning; the jumpers keep changing.
+
 Now you. Do it slowly. Do it safely. Name it while you do it.
 
 The Grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics. Four set practices build the heart and breathing at this grade.

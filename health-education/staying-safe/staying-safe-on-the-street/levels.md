@@ -3,7 +3,7 @@
 This file is the lesson's depth record, re-expressed as its sub lessons. The questions live in the type files; this file is the by-sub-lesson view. The parts run from the youngest book's teaching to the oldest, as the placements stack them.
 
 ## Sub lesson 1 — What self-defence is — and the ethics that govern it
-Pass mark: give the Grade 10 wider definition's five parts and the four ethics virtues.
+Pass mark: give the Grade 10 wider definition's five parts and the four ethics virtues — and the Grade 9 guide's framing in its own terms (the body itself as the weapon; no rule in street fighting where life is at stake; the right to respond for yourself, family and friends).
 
 ## Sub lesson 2 — The principles — alertness, speed, surprise
 Pass mark: list the guide's six principles and quote Principle Five's line.

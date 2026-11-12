@@ -12,6 +12,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **The one-two jump pattern and the rings** — a one-two jump pattern and two-foot jumps inside zigzag rings.
 3. **Hopping on one foot** — hopping on one foot, then landing on two feet or inside a circle.
 4. **Jumping jacks and line jumps (teacher guide — evidence)** — the jumping jack — jump open, jump closed — and forward-back jumps over a line.
+5. **Jumping the long rope together (teacher guide — evidence)** — two children turning a long rope while two jump together in the middle, in rhythm.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +23,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Do and explain: a one-two jump pattern and two-foot jumps inside zigzag rings.
 3. Do and explain: hopping on one foot, then landing on two feet or inside a circle.
 4. Do and explain: the jumping jack — jump open, jump closed — and forward-back jumps over a line.
+5. Do and explain: two children turning a long rope while two jump together in the middle, in rhythm.
 
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
@@ -43,6 +45,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - GIF [GIF 13504]: the kangaroo two-foot jump — crouch, spring, land on both feet — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
+
+- IMAGE [Picture 34803]: a long rope turning around two children jumping together, a turner at each end — the student watches/names the movement, then copies it safely.
+- GIF [GIF 34821]: the long rope turning — two children jumping together as the rope passes under their feet — the student watches/names the movement, then copies it safely.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

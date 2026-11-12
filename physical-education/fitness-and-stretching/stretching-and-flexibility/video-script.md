@@ -25,3 +25,5 @@ Flexibility — Grade 8: static and dynamic. Flexibility exercise means moving t
 Dynamic and static stretching — Grade 9. Stretch in groups and pairs, each stretch with its purpose.
 
 Flexibility — Grade 10: warm first, never force. Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forceful movements.
+
+Flexibility — the Grade 5 guide. Your joints move through their natural range. Warm them first. Sit, legs straight. Reach slowly. Hold. Come back. No bouncing.

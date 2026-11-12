@@ -110,3 +110,11 @@ a) sitting still and watching others do the movement  b) skipping every stage an
 **27. (Sub lesson 9)** A learner doing "Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence)" correctly is —
 a) skipping every stage and starting with the hardest game form  b) Fartlek is running that changes its own pace: jog, burst fast across open ground, ease off again, and repeat —  c) sitting still and watching others do the movement
 **Answer: b) Fartlek is running that changes its own pace: jog, burst fast across open ground, ease off again, and repeat —**
+
+**28. (Sub lesson 7)** The three phases of the sprint run, restated in the Grade 7 guide's chapter summary, are…
+a) drive, transition and top speed  b) walk, sit and stand  c) start, stop and rest
+**Answer: a) drive, transition and top speed**
+
+**29. (Sub lesson 6)** Agility, in the Grade 6 guide's summary, is…
+a) changing the body's direction fast and accurately  b) holding one stretch for a long time  c) counting slowly
+**Answer: a) changing the body's direction fast and accurately**

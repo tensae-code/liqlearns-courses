@@ -106,3 +106,11 @@ a) sitting still and watching others do the movement  b) skipping every stage an
 **26. (Sub lesson 10)** A learner doing "Flexibility — Grade 10: warm first, never force" correctly is —
 a) skipping every stage and starting with the hardest game form  b) Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forcef  c) sitting still and watching others do the movement
 **Answer: b) Warm up first — jogging or calisthenics to raise your body temperature — before you stretch, and use no forcef**
+
+**27. (Sub lesson 11)** Flexibility, in the Grade 5 guide's definition, is the joints' ability to move through…
+a) their natural range of motion  b) any direction, forced  c) a full circle always
+**Answer: a) their natural range of motion**
+
+**28. (Sub lesson 11)** In the seated toe-touch, you sit with legs straight and…
+a) bounce hard toward your toes  b) reach forward slowly, hold, and return — no bouncing  c) keep your knees bent
+**Answer: b) reach forward slowly, hold, and return — no bouncing** — with both legs, then each leg.

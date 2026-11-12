@@ -118,3 +118,7 @@ a) sitting still and watching others do the movement  b) skipping every stage an
 **29. (Sub lesson 11)** A learner doing "Testing muscle endurance and strength — Grade 10" correctly is —
 a) skipping every stage and starting with the hardest game form  b) At this grade you test what you trained.  c) sitting still and watching others do the movement
 **Answer: b) At this grade you test what you trained.**
+
+**30. (Sub lesson 6)** Which set lists muscle-strength moves from the guide's written answers?
+a) push-up, side leg raise standing, ladder toe touch, squat hold, lying leg raise  b) only skipping  c) only stretching
+**Answer: a) push-up, side leg raise standing, ladder toe touch, squat hold, lying leg raise**

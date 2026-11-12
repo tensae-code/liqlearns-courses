@@ -13,3 +13,6 @@ Say if it is true or false.
 
 **4. (Sub lesson 3) ** In these games, everyone is included — difference is respected, not excluded.
 **Answer: True**
+
+**5. (Sub lesson 2) ** Taking rest — so the body and mind recover — is one of the three parts of self-management in the chapter summary.
+**Answer: True**

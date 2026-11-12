@@ -13,3 +13,6 @@ Say if it is true or false.
 
 **4. (Sub lesson 3)** Caught players in Mamba leave the game and sit out.
 **Answer: False**
+
+**5. (Sub lesson 1)** A Bayoka round lasts 5–10 minutes.
+**Answer: True**

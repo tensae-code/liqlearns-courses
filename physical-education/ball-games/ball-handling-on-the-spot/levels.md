@@ -16,3 +16,13 @@ Pass mark: the learner does and explains — throwing up and catching with two h
 
 ## Sub lesson 5 — Ball handling and chest control — Grade 5
 Pass mark: the learner does and explains — general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet.
+
+## Sub lesson 6 — Skills with objects — throw, catch, kick (teacher guide — evidence)
+Pass mark: the learner does and explains — working with partners and objects — throwing and catching a ball, and kicking.
+
+## Sub lesson 7 — Ball control with hands and feet together (teacher guide — evidence)
+Pass mark: the learner does and explains — catching a thrown ball by hand and trapping a rolling ball with the sole of the foot, in one partner practice.
+
+## Sub lesson 8 — Balls into the basket, and heel kicks (teacher guide — evidence)
+Pass mark: the learner does and explains — throwing small balls one by one into a basket, and jogging in place kicking the heels up to the buttocks.
+

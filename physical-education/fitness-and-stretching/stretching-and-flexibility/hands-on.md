@@ -20,3 +20,7 @@ Do the new parts in order, slowly first: Stretching and flexibility, Flexibility
 
 ## The Grade 8–10 parts
 Do the new parts in order, slowly first: Flexibility — Grade 8: static and dynamic, Dynamic and static stretching — Grade 9, Flexibility — Grade 10: warm first, never force. Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.
+
+## The seated toe-touch
+
+Warm up first. Sit on a mat with legs straight. Reach slowly toward your toes, hold for a slow count of five, and return. Three times with both legs, then three times reaching over each leg alone. Never bounce.

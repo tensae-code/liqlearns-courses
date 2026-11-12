@@ -43,6 +43,9 @@ countries: Ethiopia
 | The five-station circuit — Grade 9 | Ethiopia, Grade 9 teacher Unit 2 muscular endurance and strength (teacher guide — evidence), printed pp. 23–25 |
 | Testing muscle endurance and strength — Grade 10 | Ethiopia, Grade 10 student §2.4–§2.5 Muscle endurance tests and strength exercises, printed pp. 28–36 |
 | Testing muscle endurance and strength — Grade 10 | Ethiopia, Grade 10 teacher Unit 2 endurance and strength (teacher guide — evidence), printed pp. 15–21 |
+| Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 8 (teacher guide — evidence) | Ethiopia, Grade 7 teacher Chapter 3 summary + review answers (teacher guide — evidence), printed pp. 44–45 |
+| Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 6 (teacher guide — evidence) | Ethiopia, Grade 5 teacher Chapter 3 summary + assessment answers — the strength-moves written answer (teacher guide — evidence), printed pp. 33–34 |
+| Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 6 (teacher guide — evidence) | Ethiopia, Grade 6 teacher Chapter 3 summary + assessment answers — the muscle-strength definition (teacher guide — evidence), printed p. 43 |
 **Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.

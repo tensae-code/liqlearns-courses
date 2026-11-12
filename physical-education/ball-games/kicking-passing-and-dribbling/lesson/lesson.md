@@ -56,6 +56,16 @@ Control brings the ball under your command. Chest control: get your body behind 
 
 Three advanced football skills. Tackling: the block (front block) tackle — meet the attacker head-on and make contact forcibly with the inside of the tackling foot, putting your weight into it, practised first in pairs without a ball, then to a stationary ball, then against a slow dribble. The slide tackle is riskier — sliding can miss the ball and put you out of the game — and the guide's safety rule is absolute: practise it only on a soft or grass field; if not, do not practise it at all. Thigh control: for a ball arriving above the knee, place the thigh behind its flight, across its line — and drop the thigh the moment the ball touches, cushioning it dead; the mistakes are poor body position, forcing into the ball, and not dropping the thigh. Goalkeeping: stay around the goal area; for a ground dive, hold the basic position, eyes on the ball's direction, and push off to transfer your weight toward the ball; a punch clears with width (toward the sidelines, out of the centre) and distance (as far from goal as possible); and every goalkeeper must kick well — the goal kick is part of the job.
 
+## Sub lesson 11 — Kicking a ball, and up-and-down steps (teacher guide — evidence)
+
+Object-control basics — በብቃት የመሰረት ክህሎት — done accurately, with partners. Kicking a ball — ኳስ በእግር መምታት: stand beside the ball, swing your leg, and kick toward a partner or a target; feet planted in turn, left and right. Up-and-down movement — የመውጣት መውረድ እንቅስቃሴ: step up onto a low place and down again, in turn, one foot after the other, steady and controlled.
+
+## Sub lesson 12 — Passing the football; hit the target (teacher guide — evidence)
+
+The football passing game — የእግር ኳስ ቅብብሎሽ ጨዋታ: in pairs or groups, pass the ball with your feet along the ground across a five-metre space marked by two scarves; receive with one foot and pass it back. Hit the target — ዒላማ መምታት: throw or kick at a set target and score when you hit it. Accuracy is the game — a soft, true pass and a aimed shot beat a wild one every time.
+
+[Picture 34807 — a child kicking a ball toward a round target]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

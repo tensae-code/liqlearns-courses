@@ -31,3 +31,9 @@ Say true or false.
 
 **10. (Sub lesson 5)** In "Parallel bars — the support swing — Grade 8", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In-place movements are skills done from where you stand, using the body's flexibility.
+**Answer: True**
+
+**12. (Sub lesson 6)** For the high-rope hanging task, you stretch up and hang with both arms reaching.
+**Answer: True**

@@ -25,3 +25,11 @@ a) Nerves and muscles working together in skilled movement  b) Driving a car  c)
 **6. (Sub lesson 4)** Which is NOT one of the four purposes?
 a) Cooking development  b) Mental development  c) Social-relations development
 **Answer: a) Cooking development**
+
+**7. (Sub lesson 1)** Physical education, as the Grade 5 book's own summary exercises ask you to define it, is…
+a) an education field that develops the whole person through activity  b) only running races  c) only ball games
+**Answer: a) an education field that develops the whole person through activity**
+
+**8. (Sub lesson 3)** In the Grade 5 guide's written answer, modern HPE is the education of…
+a) the whole person — body, mind and social life — through physical activity  b) the feet only  c) champions only
+**Answer: a) the whole person — body, mind and social life — through physical activity**

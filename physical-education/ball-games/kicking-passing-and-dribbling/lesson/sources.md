@@ -22,6 +22,8 @@ countries: Ethiopia
 **Book — Grade 10 student:** *Health and Physical Education Student's Textbook Grade 10* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, 148 printed pp. No ISBN was found in the book's text layer. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-student-placements.md. COMPLETE.
 **Book — Grade 10 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 10* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2022, printed pp. I–IX + 1–93. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-teacher-placements.md. Substantively complete — see honesty paragraph.
 
+**Book — Grade 2 teacher (teacher guide — evidence):** *Grade 2 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ, ሁለተኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g02-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Kicking and passing a ball | Ethiopia, Grade 1 student §1.3.1 Kicking a ball, printed pp. 19–21 |
@@ -37,6 +39,9 @@ countries: Ethiopia
 | Chest control, first touch and heading — Grade 9 | Ethiopia, Grade 9 teacher Unit 4 chest control and heading (teacher guide — evidence), printed pp. 49–60 |
 | Tackling, thigh control and goalkeeping — Grade 10 | Ethiopia, Grade 10 student §4.2 Tackling, controlling and goalkeeping, printed pp. 71–84 |
 | Tackling, thigh control and goalkeeping — Grade 10 | Ethiopia, Grade 10 teacher Unit 4 tackling, controlling, goalkeeping (teacher guide — evidence), printed pp. 39–59 |
+| Kicking a ball, and up-and-down steps (teacher guide — evidence) | Ethiopia, Grade 2 teacher §1.3 Object-control basics, Tasks 1–2 (teacher guide — evidence), printed pp. 8–10 |
+| Passing the football; hit the target (teacher guide — evidence) | Ethiopia, Grade 2 teacher §1.3 Tasks 3–4 (teacher guide — evidence), printed pp. 10–11 |
+| Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 2 (teacher guide — evidence) | Ethiopia, Grade 2 teacher Chapter 1 summary + assessment answers — the foot-control parts and the Selame Selame answer (teacher guide — evidence), printed pp. 12–13 |
 **Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
 
 The Grade 4 teacher guide scan is TRUNCATED: it holds printed pp. 1–39 of 72+. Missing: all of Chapter 4 (pp. 40–54), Chapter 5 Gymnastics (pp. 55–65) and Chapter 6 (pp. 66–72+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
@@ -47,4 +52,6 @@ The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–9
 
 The Grade 9 books are the English federal 2023 GEQIP-E series (the Grades 1–8 books are Amharic-medium); Grade 9–10 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
-Searchable tags: kicking, passing and dribbling, kicking and passing a ball, ball control with the feet, equipment skills — balls, rings and targets, football dribbling and net ball (teacher guide — evidence), physical education, Ethiopia
+The Grade 2 teacher guide scan is TRUNCATED: it holds printed pp. 1–41 of 85. Missing: all of Chapter 4 (pp. 42–60), Chapter 5 Gymnastics (pp. 61–72), Chapter 6 (pp. 73–83), the glossary (p. 84) and the references (p. 85). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
+
+Searchable tags: kicking, passing and dribbling, kicking and passing a ball, ball control with the feet, equipment skills — balls, rings and targets, football dribbling and net ball (teacher guide — evidence), physical education, Ethiopia, Kicking a ball, and up-and-down steps (teacher guide — evidence), Passing the football; hit the target (teacher guide — evidence)

@@ -8,3 +8,5 @@ Run. Jump. Throw. The oldest movements of all.
 Festivals crowned them. Centuries grew them.
 Stadiums, industries, the whole sporting world — from three movements.
 Athletics is the root. Every other sport is a branch.
+Africa was there from the federation's first days — and from the nineteen-sixties, its champions rose.
+Bikila won barefoot. Four years later, in shoes, he won again.

@@ -19,3 +19,12 @@ Say if it is true or false.
 
 **6. (Sub lesson 6)** The guide says Ethiopia's champions developed a winning mentality in other African athletes.
 **Answer: True**
+
+**7. (Sub lesson 1)** The name “Olympic” comes from Olympia, the place.
+**Answer: True**
+
+**8. (Sub lesson 1)** The guide's chapter summary says the ancient Olympic Games began at Olympia in Greece in 776 BC, and the modern Games began in 1896.
+**Answer: True**
+
+**9. (Sub lesson 3)** The guide's written answer says the rings picture the world's continents, with the colours not separated from each other.
+**Answer: True**

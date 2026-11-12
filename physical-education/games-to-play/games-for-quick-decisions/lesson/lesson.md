@@ -74,6 +74,8 @@ A responsible decision in these games is not only fast — Grade 4's family taug
 
 ## Sub lesson 8 — Decision games — below-the-knee dodgeball and the waist chain
 
+First, what a responsible decision is. **Responsible decision-making** means **deciding by moral and social standards** — asking, before you act: is it right, and is it fair to the people around me? Both games of this part are decided that way, throw by throw and hold by hold.
+
 **Hitting below the knee.** Thrower lines try to hit the middle group **below the knee** with a small ball; the middle players **jump to dodge** — no lying or sitting. A hit player is out; the **last survivor wins**, then the groups swap. Every throw and every jump is a decision.
 
 **Waist-holding chain — ከወገብ መያያዝ.** Chains of **five** hold waists with both hands. Score by **touching the rival chain's last player** while protecting your own — five bodies, one decision-maker at the head, four who must hold and follow.
@@ -89,6 +91,14 @@ A responsible decision in these games is not only fast — Grade 4's family taug
 **The Two-Houses Game (የሁለት ቤት ጨዋታ)** is a decision-making game on a **20–30 metre line with a 1 metre circle at each end** — the two houses. Its full play and rules are printed: you must decide, mid-run, which house to make for.
 
 **The Kangaroo Race (የካንጋሮ ሩጫ)**: **the two legs are tied together and the race is run hopping.** The book follows it with decision-making reflection tasks — the hop forces the decision into the body: commit, balance, go.
+
+## Sub lesson 11 — Squat and stand; the Green-Yellow-Red game (teacher guide — evidence)
+
+**Squat and stand — የጠብ ጠብ እንቅስቃሴ.** A row of children stands, squats down, and stands up again — stand, squat, stand — repeated to a count, all together. The decision is in the timing: down on the count, up on the count, never early, never late.
+
+**Green, Yellow, Red — አረንጓዴ ቢጫ ቀይ.** A traffic-light game. On the colour calls, children move or freeze — hear the colour, decide in a heartbeat, and let your body obey. The guide's teaching notes run the game fairly and safely: clear calls, room to stop, nobody pushed.
+
+[Picture 34804 — stand, squat, stand under the red, yellow and green circles of the colour-call games]
 
 ## Say it to your companion
 

@@ -9,3 +9,7 @@ Play handkerchief-snatch and Abro Mechewet back to back. Notice the difference: 
 ## Fisherman spread
 
 Play the Fisherman game in a marked area. Count out loud how the catchers grow: one, two, three… The last free fish wins — then swap and play again.
+
+## Teacher-guide parts (added depth)
+- **Myself and others — the Grade 2 chapter opener (teacher guide — evidence):** do it slowly first — knowing yourself, controlling your feelings, respecting others' work and building social relationships, learned through games. Stop if anything hurts; work beside a partner or teacher.
+

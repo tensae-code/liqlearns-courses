@@ -14,12 +14,15 @@ countries: Ethiopia
 
 **Book 6:** *Health and Physical Education Student's Textbook Grade 10* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, under GEQIP-E, printed pp. 1–148 (158 PDF pages). Printed page = PDF page − 9. No ISBN was found in the book's text layer (recorded, not assumed). COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-student-placements.md.
 
+**Book 7:** *Health and Physical Education — Teacher Guide, Grade 10* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2022, printed pp. I–IX + 1–93. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-teacher-placements.md. Substantively complete — see honesty paragraph.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Africa's athletics — a continent of champions | Ethiopia, *Grade 8 Student Textbook*, §4.1, printed p. 39; *Grade 9 Student Textbook*, §3.1, printed pp. 44–46; and *Grade 9 Teacher Guide*, Unit 3, printed pp. 31–32 (teacher guide — evidence) |
 | Ethiopia in the athletics story | Ethiopia, *Grade 9 Student Textbook*, §3.1, printed pp. 44–46; and *Grade 10 Student Textbook*, §§3.1–3.3, printed pp. 43–49 |
 | The long road of athletics | Ethiopia, *Grade 7 Student Textbook*, §4.1 item 21, printed p. 40 |
 | Athletics — the base sport (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 4 intro and §4.3, printed pp. 35 and 40–41 |
+| The Grade 10 guide's telling (teacher guide — evidence) | Ethiopia, *Grade 10 Teacher Guide*, Unit 3 — Athletics histories, printed pp. 26–28 (teacher guide — evidence): world athletics (modern athletics, major events, world-class athletes); African athletics — contribution back to the very foundation of the IAAF (International Amateur Athletics Federation), prominence grew from the 1960s; Ethiopian athletics — Bikila's barefoot marathon victory and his retained Tokyo title, wearing shoes |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
@@ -28,5 +31,7 @@ The Grade 7 student textbook is complete (see the book line above); nothing in t
 The Grade 5 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–41 of 80+. Missing from the file: the rest of §4.3, Chapter 5 Gymnastics (pp. 44–56), Chapter 6 Ball-game receiving skills (pp. 57–77) and Chapter 7 traditional movements and games (pp. 78–80+). Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
 The Grade 9 teacher guide is complete and the Grade 8, Grade 9 and Grade 10 student books are complete; the guide material is labelled (teacher guide — evidence) and never counts as pupil-taught.
+
+The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–93): all 8 units, knowledge content and answer keys are present; only §8.3's final step-by-step teaching procedure is cut mid-sentence at printed p. 92. Its Unit 3 history pages (printed pp. 26–28) are complete in the held file. Mismatch record, now stocked: this history was previously taught here cited only to the Grade 10 student book §§3.1–3.3 (printed pp. 43–49); the guide's own telling at pp. 26–28 is now stocked above as labelled evidence, including its guide-only depth — the IAAF's full name (International Amateur Athletics Federation), Africa's contribution reaching back to the federation's foundation, and African prominence growing from the 1960s.
 
 Searchable tags: history of athletics, athletics base sport, running jumping throwing, modern sport commercial industry, Ethiopia HPE Grades 5 and 7

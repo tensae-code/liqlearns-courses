@@ -28,6 +28,8 @@ countries: Ethiopia
 
 **Book 13:** *Grade 8 Health and Physical Education Student Textbook* (የጤናና ሰውነት ማጎልመሻ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. 1–98 (107 PDF pages). Printed page = PDF page − 9. COMPLETE — the whole promised book is present. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g08-student-placements.md.
 
+**Book 14:** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. (51 PDF pages). Printed page = PDF page − 8. TRUNCATED — the file holds printed pp. 1–43 of 85+. Read in full, page by page, from 100 DPI renders (no text layer), in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 10 — Two Houses and the Kangaroo Race — the Grade 8 decision games | Ethiopia, *Grade 8 Student Textbook*, §§2.3.1–2.3.2, printed pp. 14–17 |
@@ -43,8 +45,11 @@ countries: Ethiopia
 | Sub lesson 6 — Games for responsible decisions | Ethiopia, *Grade 5 Student Textbook*, §2.3, printed pp. 15–16 |
 | Sub lesson 7 — Deciding in the moment — and solving problems in competition (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §§2.2–2.2.1, printed pp. 15–17 |
 | Sub lesson 8 — Decision games — below-the-knee dodgeball and the waist chain | Ethiopia, *Grade 6 Student Textbook*, items 16–17, printed pp. 17–19 |
+| Sub lesson 8 (framing part) — Responsible decision-making defined: deciding by moral and social standards | Ethiopia, *Grade 6 Student Textbook*, item 15 (§2.3 framing), printed p. 17 |
 | Sub lesson 9 — Ilama — and choosing your own challenge | Ethiopia, *Grade 7 Student Textbook*, item 11 (§2.3.2), printed p. 20; and *Grade 7 Teacher Guide*, §2.3, printed pp. 23–24 |
 
+| Sub lesson 11 — Squat and stand; the Green-Yellow-Red game (teacher guide — evidence) | Ethiopia, *Grade 1 Teacher Guide*, squat/stand sequence and the Green-Yellow-Red game (teacher guide — evidence), printed pp. 14–15 |
+| Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 9 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
@@ -71,4 +76,6 @@ The Grade 7 student textbook is complete (see the book line above); nothing in t
 
 The Grade 7 teacher guide is a TRUNCATED scan: the file holds printed pp. 1–45 — Chapters 1–3 complete — and ends at the end of Chapter 3. Chapters beyond Chapter 3 (by the series pattern: athletics, gymnastics, ball games and traditional games) are missing from the file. Parts resting on this guide are labelled (teacher guide — evidence) and never count as pupil-taught.
 
-Searchable tags: games for quick decisions, Cat and Mouse አይጥና ድመት, Nekahuny ነካሁኝ, Homeless ቤት የለሽ, Who Do You Want ማንን ትፈልጋላችሁ, Ethiopia HPE, responsible decisions, ball-to-goal game, solving problems in competition, below-the-knee dodgeball, waist chain ከወገብ መያያዝ, Ilama ኢላማ, What a decision, Ethiopia HPE Grades 5–7
+The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
+
+Searchable tags: games for quick decisions, Cat and Mouse አይጥና ድመት, Nekahuny ነካሁኝ, Homeless ቤት የለሽ, Who Do You Want ማንን ትፈልጋላችሁ, Ethiopia HPE, responsible decisions, ball-to-goal game, solving problems in competition, below-the-knee dodgeball, waist chain ከወገብ መያያዝ, Ilama ኢላማ, What a decision, Ethiopia HPE Grades 5–7, Squat and stand; the Green-Yellow-Red game (teacher guide — evidence)

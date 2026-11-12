@@ -13,3 +13,7 @@ Pass mark: the learner does and explains — hopping on one foot, then landing o
 
 ## Sub lesson 4 — Jumping jacks and line jumps (teacher guide — evidence)
 Pass mark: the learner does and explains — the jumping jack — jump open, jump closed — and forward-back jumps over a line.
+
+## Sub lesson 5 — Jumping the long rope together (teacher guide — evidence)
+Pass mark: the learner does and explains — two children turning a long rope while two jump together in the middle, in rhythm.
+

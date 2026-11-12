@@ -58,3 +58,11 @@ a) sitting still and watching others do the movement  b) skipping every stage an
 **14. (Sub lesson 6)** A learner doing "Walking drills that stretch you as you go — Grade 9 (teacher guide — evidence)" correctly is —
 a) skipping every stage and starting with the hardest game form  b) These walking drills are dynamic stretching — you stretch by moving.  c) sitting still and watching others do the movement
 **Answer: b) These walking drills are dynamic stretching — you stretch by moving.**
+
+**15. (Sub lesson 7)** Which of these is done in "Selame Selame — greet, pass the cloth, change places (teacher guide — evidence)"?
+a) sitting still and watching only  b) a movement from another lesson entirely  c) moving around a circle, greeting and changing places on the signal while a cloth passes hand to hand
+**Answer: c) moving around a circle, greeting and changing places on the signal while a cloth passes hand to hand**
+
+**16. (Sub lesson 7)** A learner doing "Selame Selame — greet, pass the cloth, change places (teacher guide — evidence)" correctly is —
+a) moving around a circle, greeting and changing places on the signal while a cloth passes hand to hand  b) sitting still and resting  c) watching only, never moving
+**Answer: a) moving around a circle, greeting and changing places on the signal while a cloth passes hand to hand**

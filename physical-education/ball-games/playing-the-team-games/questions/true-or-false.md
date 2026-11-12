@@ -31,3 +31,9 @@ Say true or false.
 
 **10. (Sub lesson 5)** In "Handball team defence and attack — Grade 10", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** FIFA's rules govern football everywhere.
+**Answer: True**
+
+**12. (Sub lesson 6)** In the guide's rules pass, a corner kick is one of the restarts taught, along with the throw-in.
+**Answer: True**

@@ -37,3 +37,15 @@ Say if it is true or false.
 
 **12. (Sub lesson 10)** The Two-Houses line is 20–30 metres long.
 **Answer: True**
+
+**13. (Sub lesson 8)** A decision can be fast and still be responsible, if it is made by moral and social standards.
+**Answer: True**
+
+**14. (Sub lesson 8)** Responsible decision-making means deciding only by what helps your own team.
+**Answer: False** — it means deciding by moral and social standards, which include the people around you.
+
+**15. (Sub lesson 11)** In this lesson, "Squat and stand; the Green-Yellow-Red game (teacher guide — evidence)" teaches: squatting and standing to a count, and moving or freezing on the Green-Yellow-Red colour calls.
+**Answer: True**
+
+**16. (Sub lesson 11)** In "Squat and stand; the Green-Yellow-Red game (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

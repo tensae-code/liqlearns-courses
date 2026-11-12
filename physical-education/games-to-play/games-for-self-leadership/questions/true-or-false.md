@@ -31,3 +31,21 @@ Say if it is true or false.
 
 **10. (Sub lesson 10)** Resilience means recovering from setbacks and keeping going.
 **Answer: True**
+
+**11. (Sub lesson 11)** In the two-legs-tied race, the tied legs must step together, or the pair falls.
+**Answer: True**
+
+**12. (Sub lesson 12)** The Grade 7 book says to strengthen the good that play reveals in you and improve the weak.
+**Answer: True**
+
+**13. (Sub lesson 13)** Dropping a catch during a key play is one of the moments where social and emotional learning comes into play.
+**Answer: True**
+
+**14. (Sub lesson 7) ** In the guide's summary, positive thinking presents life's tests with a positive eye, even in difficulty.
+**Answer: True**
+
+**15. (Sub lesson 8) ** Activities like active breathing develop self-management, in the guide's review answers.
+**Answer: True**
+
+**16. (Sub lesson 14)** Respecting others and solving problems together are part of what the Grade 3 chapter builds.
+**Answer: True**

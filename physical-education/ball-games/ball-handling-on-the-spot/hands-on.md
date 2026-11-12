@@ -16,3 +16,9 @@ Do the youngest part only, on the spot, at walking speed, beside a partner or a 
 
 ## The Grade 5–7 parts
 Do the new parts in order, slowly first: Ball handling and chest control. Stop if anything hurts; use a mat and a partner or teacher for rolls, bars and balances.
+
+## Teacher-guide parts (added depth)
+- **Skills with objects — throw, catch, kick (teacher guide — evidence):** do it slowly first — working with partners and objects — throwing and catching a ball, and kicking. Stop if anything hurts; work beside a partner or teacher.
+- **Ball control with hands and feet together (teacher guide — evidence):** do it slowly first — catching a thrown ball by hand and trapping a rolling ball with the sole of the foot, in one partner practice. Stop if anything hurts; work beside a partner or teacher.
+- **Balls into the basket, and heel kicks (teacher guide — evidence):** do it slowly first — throwing small balls one by one into a basket, and jogging in place kicking the heels up to the buttocks. Stop if anything hurts; work beside a partner or teacher.
+

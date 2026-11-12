@@ -21,6 +21,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 
 10. **Two Houses and the Kangaroo Race — the Grade 8 decision games** — the Grade 8 student book's §§2.3.1–2.3.2: Two Houses on its 20–30 m line with 1 m house-circles, and the Kangaroo Race run hopping with tied legs.
 
+11. **Squat and stand; the Green-Yellow-Red game (teacher guide — evidence)** — squatting and standing to a count, and moving or freezing on the Green-Yellow-Red colour calls.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -34,6 +35,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 
 5. Make the pass-or-shoot decision at speed, within the moment, and walk the five solver steps on a real problem.
 6. Choose your own challenge distance and evaluate the decision honestly afterwards.
+11. Do and explain: squatting and standing to a count, and moving or freezing on the Green-Yellow-Red colour calls.
 
 ## What you need
 A handkerchief, small balls, a marked area and a marked circle. Lines on the ground for the chasing paths. Nothing else.
@@ -54,6 +56,8 @@ A handkerchief, small balls, a marked area and a marked circle. Lines on the gro
 - GIF [GIF 13621] — a picture of the mouse slipping through a gap in the circle of children as the cat chases → the student watches the gap open and names the moment the mouse goes through.
 - VIDEO — the video-script filmed (made later) → the student plays and learns along with it.
 
+- IMAGE [Picture 34804]: stand, squat, stand under the red, yellow and green circles of the colour-call games — the student watches/names the movement, then copies it safely.
+
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 
 ## If the learner is stuck
@@ -63,3 +67,7 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Fix-build extension (2026-11-12, HPE-FIX-4)
+
+- **Sub lesson 8, framing part (new):** responsible decision-making defined — deciding by moral and social standards — taught before the below-the-knee dodgeball and waist-chain games it frames (Grade 6 student, §2.3 framing, printed p. 17).

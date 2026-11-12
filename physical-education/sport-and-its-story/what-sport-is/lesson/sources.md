@@ -15,6 +15,8 @@ countries: Ethiopia
 | Sub lesson 1 — Sport defined — competitive play with its own rules | Ethiopia, *Grade 6 Student Textbook*, item 2, printed p. 4 |
 | Sub lesson 2 — Sport's kinds and what sport does (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, §1.2, printed pp. 2–3 |
 | Sub lesson 3 — PE and sport — same or different? | Ethiopia, *Grade 7 Student Textbook*, item 1, printed p. 2; and *Grade 7 Teacher Guide*, §1.1, printed pp. 1–2 (teacher guide — evidence) |
+| Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 2 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
+| Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 3 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §1.6 and Chapter 1 summary + review answers, printed pp. 12–13 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

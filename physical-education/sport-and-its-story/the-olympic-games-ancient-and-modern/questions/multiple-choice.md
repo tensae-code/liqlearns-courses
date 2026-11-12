@@ -49,3 +49,11 @@ a) Apartheid in South Africa  b) Bad weather  c) Ticket prices
 **12. (Sub lesson 6)** Which of these is one of the women champions the guide names?
 a) Derartu Tulu  b) A goalkeeper  c) A referee
 **Answer: a) Derartu Tulu**
+
+**13. (Sub lesson 1)** The modern Olympic founder's idea, in the guide's written answer, was the Games as…
+a) a worldwide festival of peace and brotherhood  b) a local school race  c) a trade fair
+**Answer: a) a worldwide festival of peace and brotherhood**
+
+**14. (Sub lesson 2)** The Grade 6 guide's answer key gives the Olympic motto as…
+a) Faster, Higher, Stronger, Together  b) Run, Jump, Throw  c) Win at Any Cost
+**Answer: a) Faster, Higher, Stronger, Together**

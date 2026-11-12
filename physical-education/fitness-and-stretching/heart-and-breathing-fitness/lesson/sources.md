@@ -23,6 +23,8 @@ countries: Ethiopia
 **Book — Grade 10 student:** *Health and Physical Education Student's Textbook Grade 10* (student textbook, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, First Published August 2023, 148 printed pp. No ISBN was found in the book's text layer. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-student-placements.md. COMPLETE.
 **Book — Grade 10 teacher (teacher guide — evidence):** *Health and Physical Education — Teacher Guide, Grade 10* (teacher guide, English) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2022, printed pp. I–IX + 1–93. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g10-teacher-placements.md. Substantively complete — see honesty paragraph.
 
+**Book — Grade 1 teacher (teacher guide — evidence):** *Grade 1 Health and Physical Education Teacher Guide* (የጤናና ሰውነት ማጎልመሻ ትምህርት የመምህር መምሪያ መጽሐፍ, አንድኛ ክፍል) (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, 2015 E.C. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/health-and-physical-education/g01-teacher-placements.md. TRUNCATED scan — see honesty paragraph.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What heart and breathing fitness is | Ethiopia, Grade 1 student §4.1 Heart and breathing-system strength, printed pp. 41–45 |
@@ -41,6 +43,9 @@ countries: Ethiopia
 | Designing cardio training — Grade 9: FITT, jogging and the step-kick | Ethiopia, Grade 9 teacher Unit 2 cardiovascular endurance (teacher guide — evidence), printed pp. 21–22 |
 | The pure aerobic list — Grade 10 | Ethiopia, Grade 10 student §2.3 Cardiovascular endurance exercises, printed pp. 27–28 |
 | The pure aerobic list — Grade 10 | Ethiopia, Grade 10 teacher Unit 2 cardiovascular exercises (teacher guide — evidence), printed pp. 14–15 |
+| Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence) | Ethiopia, Grade 1 teacher, rope-jumping for fitness (teacher guide — evidence), printed pp. 39–40 |
+| Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 8 (teacher guide — evidence) | Ethiopia, Grade 7 teacher Chapter 3 summary + review answers (teacher guide — evidence), printed pp. 44–45 |
+| Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 5 (teacher guide — evidence) | Ethiopia, Grade 5 teacher Chapter 3 summary + assessment answers — the circuit-training answer (teacher guide — evidence), printed pp. 33–34 |
 **Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
 
 Student books Grades 1–4 are complete. No page is claimed that the placements do not give. Dance and game rules are taught only as the placements summarise them; no rules have been invented for any game the placements leave game-dependent.
@@ -55,4 +60,6 @@ The Grade 10 teacher guide is substantively complete (printed pp. I–IX + 1–9
 
 The Grade 9 books are the English federal 2023 GEQIP-E series (the Grades 1–8 books are Amharic-medium); Grade 9–10 target terms are given as the books print them, in English. The Grade 9 teacher guide is COMPLETE.
 
-Searchable tags: heart and breathing fitness, what heart and breathing fitness is, heart and breathing fitness grows, fitness that protects the heart and breathing, the six-minute run and steady stepping, physical education, Ethiopia
+The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.
+
+Searchable tags: heart and breathing fitness, what heart and breathing fitness is, heart and breathing fitness grows, fitness that protects the heart and breathing, the six-minute run and steady stepping, physical education, Ethiopia, Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence)

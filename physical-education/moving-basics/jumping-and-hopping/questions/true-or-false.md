@@ -26,3 +26,8 @@ Say true or false.
 **8. (Sub lesson 4)** In "Jumping jacks and line jumps (teacher guide — evidence)", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
 
+**9. (Sub lesson 5)** In this lesson, "Jumping the long rope together (teacher guide — evidence)" teaches: two children turning a long rope while two jump together in the middle, in rhythm.
+**Answer: True**
+
+**10. (Sub lesson 5)** In "Jumping the long rope together (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

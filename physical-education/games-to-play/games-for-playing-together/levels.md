@@ -22,3 +22,7 @@ Pass mark: play the Fisherman game until one catcher has become many, and form a
 
 ## Sub lesson 7 — Follow the leader and tug-of-war (teacher guide — evidence)
 Pass mark: follow a leader's movement exactly in a row, and name the three parts of self-knowledge the guide ties to tug-of-war.
+
+## Sub lesson 8 — Myself and others — the Grade 2 chapter opener (teacher guide — evidence)
+Pass mark: the learner does and explains — knowing yourself, controlling your feelings, respecting others' work and building social relationships, learned through games.
+

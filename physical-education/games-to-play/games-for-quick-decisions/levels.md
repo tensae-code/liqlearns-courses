@@ -31,3 +31,10 @@ Pass mark: choose a shooting distance, shoot, and evaluate your decision honestl
 
 ## Sub lesson 10 — Two Houses and the Kangaroo Race — the Grade 8 decision games
 Pass mark: mark the Two-Houses field (20–30 m line, 1 m circles) and run the Kangaroo Race hopping with legs tied, safely.
+
+## Fix-build addition (2026-11-12)
+Sub lesson 8 now opens with its framing: pass mark — the learner defines responsible decision-making in the book's words (deciding by moral and social standards) and gives one in-game choice that passes the test.
+
+## Sub lesson 11 — Squat and stand; the Green-Yellow-Red game (teacher guide — evidence)
+Pass mark: the learner does and explains — squatting and standing to a count, and moving or freezing on the Green-Yellow-Red colour calls.
+

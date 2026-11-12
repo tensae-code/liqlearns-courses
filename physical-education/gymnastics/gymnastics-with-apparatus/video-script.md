@@ -17,3 +17,5 @@ Bar work — Grade 7: pull-up, swing and traverse. Three bar skills: the pull-up
 Now you. Do it slowly. Do it safely. Name it while you do it.
 
 Parallel bars — the support swing — Grade 8. Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work.
+
+Strong in my own space: weight shifts and hanging — Grade 3 (teacher guide — evidence). Stay in your space. Shift your weight — left, right — over the low line. Now reach up, up… hang from the high rope. Pull with one arm, then the other. Come down gently.

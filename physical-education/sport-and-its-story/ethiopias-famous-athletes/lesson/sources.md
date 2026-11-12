@@ -22,6 +22,7 @@ countries: Ethiopia
 | Sub lesson 2 — Kenenisa Bekele and Gezahegne Abera (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §1.3, printed pp. 6–7 |
 | Sub lesson 3 — Kenenisa again, Meseret Defar and Coach Sewnet Bishaw | Ethiopia, *Grade 6 Student Textbook*, items 5–7, printed pp. 8–12 |
 | Sub lesson 4 — Ethiopia's Olympic heroes | Ethiopia, *Grade 7 Student Textbook*, item 6, printed pp. 7–8 |
+| Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 2 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 1 summary + assessment answers (the written answer naming Ethiopia's athletes), printed pp. 10–11 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

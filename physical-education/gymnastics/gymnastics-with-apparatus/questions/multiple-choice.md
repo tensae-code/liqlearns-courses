@@ -61,3 +61,15 @@ a) sitting still and watching others do the movement  b) skipping every stage an
 **15. (Sub lesson 5)** A learner doing "Parallel bars — the support swing — Grade 8" correctly is —
 a) skipping every stage and starting with the hardest game form  b) Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work.  c) sitting still and watching others do the movement
 **Answer: b) Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work.**
+
+**16. (Sub lesson 6)** In the weight-transfer task, your weight shifts side to side…
+a) Over a low obstacle line, without leaving your spot zone  b) While running across the field  c) Only while sitting
+**Answer: a) Over a low obstacle line, without leaving your spot zone**
+
+**17. (Sub lesson 6)** In alternate hanging (መሳብና በአምራጭ መንጠልጠል), you pull your body up…
+a) With both feet  b) Alternately with each arm  c) Without using your arms
+**Answer: b) Alternately with each arm**
+
+**18. (Sub lesson 6)** Before speed is added to in-place movements, you first copy the teacher's movements…
+a) Without looking  b) Only once a year  c) Accurately
+**Answer: c) Accurately**

@@ -46,3 +46,27 @@ a) sitting still and resting  b) general ball handling and control, and receivin
 **11. (Sub lesson 5)** A learner doing "Ball handling and chest control — Grade 5" correctly is —
 a) sitting still and resting  b) watching only, never moving  c) general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet
 **Answer: c) general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet**
+
+**12. (Sub lesson 6)** Which of these is done in "Skills with objects — throw, catch, kick (teacher guide — evidence)"?
+a) sitting still and watching only  b) a movement from another lesson entirely  c) working with partners and objects — throwing and catching a ball, and kicking
+**Answer: c) working with partners and objects — throwing and catching a ball, and kicking**
+
+**13. (Sub lesson 6)** A learner doing "Skills with objects — throw, catch, kick (teacher guide — evidence)" correctly is —
+a) working with partners and objects — throwing and catching a ball, and kicking  b) sitting still and resting  c) watching only, never moving
+**Answer: a) working with partners and objects — throwing and catching a ball, and kicking**
+
+**14. (Sub lesson 7)** Which of these is done in "Ball control with hands and feet together (teacher guide — evidence)"?
+a) sitting still and watching only  b) a movement from another lesson entirely  c) catching a thrown ball by hand and trapping a rolling ball with the sole of the foot, in one partner practice
+**Answer: c) catching a thrown ball by hand and trapping a rolling ball with the sole of the foot, in one partner practice**
+
+**15. (Sub lesson 7)** A learner doing "Ball control with hands and feet together (teacher guide — evidence)" correctly is —
+a) catching a thrown ball by hand and trapping a rolling ball with the sole of the foot, in one partner practice  b) sitting still and resting  c) watching only, never moving
+**Answer: a) catching a thrown ball by hand and trapping a rolling ball with the sole of the foot, in one partner practice**
+
+**16. (Sub lesson 8)** Which of these is done in "Balls into the basket, and heel kicks (teacher guide — evidence)"?
+a) sitting still and watching only  b) a movement from another lesson entirely  c) throwing small balls one by one into a basket, and jogging in place kicking the heels up to the buttocks
+**Answer: c) throwing small balls one by one into a basket, and jogging in place kicking the heels up to the buttocks**
+
+**17. (Sub lesson 8)** A learner doing "Balls into the basket, and heel kicks (teacher guide — evidence)" correctly is —
+a) throwing small balls one by one into a basket, and jogging in place kicking the heels up to the buttocks  b) sitting still and resting  c) watching only, never moving
+**Answer: a) throwing small balls one by one into a basket, and jogging in place kicking the heels up to the buttocks**

@@ -20,3 +20,10 @@ Do the new parts in order, slowly first: Forward rolls from a forehead stand and
 
 ## The Grade 8–10 parts
 Do the new parts in order, slowly first: The dive roll — Grade 8, The handstand family — Grade 8. Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.
+
+## The Grade 3 movement pair
+On a mat: five star jumps — open wide, close, land soft. Then turn left and turn right with your arms raised, three times each way, slowly. Stop if you feel dizzy.
+
+## Teacher-guide parts (added depth)
+- **Rolling, jumping and turning — the Grade 1 guide's second body parts (teacher guide — evidence):** do it slowly first — forward-roll preparation tucked on a mat, forward-and-back steps, crouch-stand jump sequences, and pivot turns left and right in place. Stop if anything hurts; work beside a partner or teacher.
+

@@ -31,3 +31,6 @@ Pass mark: the learner does and explains — dynamic and static stretching — g
 
 ## Sub lesson 10 — Flexibility — Grade 10: warm first, never force
 Pass mark: the learner does and explains — flexibility — grade 10: warm first, never force (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 11 — Flexibility — the Grade 5 guide: range of motion and the seated toe-touch (teacher guide — evidence)
+Pass mark: the learner defines flexibility as the joints' ability to move through their natural range of motion, says flexibility work is done with the joints warmed, and performs the seated toe-touch as the guide sets it — legs straight, reach slowly, hold, return, no bouncing; both legs, then each leg.

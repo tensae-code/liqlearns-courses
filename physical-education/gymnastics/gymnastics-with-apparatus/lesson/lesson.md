@@ -30,6 +30,20 @@ Apparatus gymnastics uses equipment, and the parallel bars are its Grade 8 work.
 
 [Picture 13907 — a support swing on parallel bars, toes pointed at the peak]
 
+## Sub lesson 6 — Strong in my own space: weight shifts and hanging — Grade 3 (teacher guide — evidence)
+
+Long before the bars of the later grades, hanging begins here, inside in-place movement work. In-place movements — turning, bending, swinging — are skills done from where you stand, using the body's flexibility. Copy the teacher's in-place movements accurately first; speed comes later.
+
+**Weight-transfer movement over an obstacle line — ክብደትን በመስናክል ላይ የማከተላለፍ እንቅስቃሴ.** Shift your body weight from side to side over a low obstacle line, without leaving your spot zone. Your feet stay near your place; your weight is what travels.
+
+[Picture 34905 — shifting weight side to side over a low line]
+
+**Hanging and reaching to a high rope — ለከፍታ ገመድ ማንጠልጠል.** Stretch up with both arms reaching, touch the rope fixed high above you, and hang from it — a teacher or spotter beside you, a mat below, every time.
+
+[GIF 34906 — reach up, hang from the high rope, come down]
+
+**Pulling and alternate hanging — መሳብና በአምራጭ መንጠልጠል.** Now pull your body up with one arm, then the other, in turn — alternate hanging. Each arm learns the pull while the other holds.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

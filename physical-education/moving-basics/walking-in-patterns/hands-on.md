@@ -17,3 +17,7 @@ Do the youngest part only, on the spot, at walking speed, beside a partner or a 
 
 ## The Grade 8–10 parts
 Do the new parts in order, slowly first: Walking tall — Grade 8 (teacher guide — evidence), Walking drills that stretch you as you go — Grade 9 (teacher guide — evidence). Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.
+
+## Teacher-guide parts (added depth)
+- **Selame Selame — greet, pass the cloth, change places (teacher guide — evidence):** do it slowly first — moving around a circle, greeting and changing places on the signal while a cloth passes hand to hand. Stop if anything hurts; work beside a partner or teacher.
+

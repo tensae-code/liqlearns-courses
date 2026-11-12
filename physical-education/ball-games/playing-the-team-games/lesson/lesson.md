@@ -28,6 +28,12 @@ Small games teach the big game. In handball: passing-and-catching positions 2 ag
 
 On the full court — three times bigger than the small court — the game grows to 6 against 6, and individual advanced skills must join the team's whole tactic. Defence is a team concept: defenders shift as a unit, control and protect space, and step out together to meet the offence. Attack grows from two-line passing into passing-and-attacking drills. The rules that govern it ride with this part: goalkeepers may leave the goal area without the ball but then count as court players, substitutes may enter at any time once the replaced player has left, and a goal counts as soon as the referees award it.
 
+## Sub lesson 6 — Football rules — the guide's own pass (teacher guide — evidence)
+
+The rules of football are the same game everywhere: FIFA's rules govern the game in every country. For international competitions the playing area measures 110 m × 75 m, a team plays with eleven players, and a match is two equal halves of 45 minutes. The rules this pass teaches, one by one: the ball in and out of play — when the ball has wholly crossed a line it is out, and play restarts by the rule for that line; scoring — a goal when the whole ball crosses the goal line between the posts; offside — a player may not gain an advantage by waiting beyond the defence for the ball; the throw-in — the restart when the ball leaves over the side line, awarded against the player who touched it last; and the corner kick — the restart when a defender puts the ball out over their own goal line. The model official named for how all of this is run is the famous Italian referee Pierluigi Collina: watch how a referee positions, signals and decides, and you see the rules carried by a person, not only by a book.
+
+[Picture 35204 — a football pitch, 110 m by 75 m, with its areas named]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

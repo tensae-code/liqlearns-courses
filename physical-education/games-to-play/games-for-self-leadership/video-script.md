@@ -15,3 +15,9 @@ A cloth at your belt! Snatch theirs — GUARD yours!
 Hoop over the head, down, off at the feet — next!
 Begin expecting to succeed. Finish what you start. Accept. Try again.
 Breathe in… and out on your word: peace.
+
+Managing myself on purpose. Guard your markers. Raid theirs — tagged, and you are out. Tied legs step together, or the pair falls. Trust: hold hands, lean, be caught.
+Play shows you yourself — your ability, your character, the self you did not know. Strengthen the good. Improve the weak.
+Drop a catch, and the learning is right there. Fit in body, balanced inside: sharp, stable, well-adjusted.
+
+The Grade 3 chapter in one view: your small skills now build YOU — managing yourself, knowing your behaviour, respecting others, solving problems together. Wait your turn. Respect others. Solve it together.

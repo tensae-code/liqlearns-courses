@@ -32,3 +32,21 @@ Say true or false.
 
 **10. (Sub lesson 5)** In "Ball handling and chest control — Grade 5", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**11. (Sub lesson 6)** In this lesson, "Skills with objects — throw, catch, kick (teacher guide — evidence)" teaches: working with partners and objects — throwing and catching a ball, and kicking.
+**Answer: True**
+
+**12. (Sub lesson 6)** In "Skills with objects — throw, catch, kick (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**13. (Sub lesson 7)** In this lesson, "Ball control with hands and feet together (teacher guide — evidence)" teaches: catching a thrown ball by hand and trapping a rolling ball with the sole of the foot, in one partner practice.
+**Answer: True**
+
+**14. (Sub lesson 7)** In "Ball control with hands and feet together (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**15. (Sub lesson 8)** In this lesson, "Balls into the basket, and heel kicks (teacher guide — evidence)" teaches: throwing small balls one by one into a basket, and jogging in place kicking the heels up to the buttocks.
+**Answer: True**
+
+**16. (Sub lesson 8)** In "Balls into the basket, and heel kicks (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

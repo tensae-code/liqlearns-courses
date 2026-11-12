@@ -17,3 +17,11 @@ Play the cloth-snatch game in a marked space with soft cloths. Afterwards each p
 ## Calm-breathing practice
 
 After a hard game, the class sits, breathes in, and breathes out on the word "peace", five breaths together. Notice the heart slow down.
+
+## Purpose, trust and knowing yourself
+
+Three Legs at home: tie adjacent legs loosely with a soft cloth, walk ten steps in time, then jog ten. Stop and untie if either partner stumbles. Afterwards each partner names one good thing the games showed in them, and one thing to improve.
+
+## The chapter map
+
+After playing, sit in a circle and name the six themes of the Grade 3 chapter one by one. For each theme, a player names one moment in today's games where that theme happened — a turn waited for, a problem solved together, a signal given before a change.

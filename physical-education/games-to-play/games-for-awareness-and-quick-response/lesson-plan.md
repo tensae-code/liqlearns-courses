@@ -63,3 +63,9 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Fix-build extension (2026-11-12, HPE-FIX-4)
+
+- **Sub lesson 5, framing part (new):** what social relations and awareness mean — helping, empathy, tolerance, understanding others' feelings — taught before the running-pass and number-command games it frames (Grade 6 student, §2.2 framing, printed p. 15).
+- **Sub lesson 8, knowledge part (new):** the Grade 8 guide §2.2 defining knowledge — social-awareness and relationship-skills definitions; verbal and nonverbal communication; collaboration and leadership skills lists — taught alongside the Spot the Difference and Learning Logo activities that already carried the section as evidence (teacher guide — evidence).
+- ADD IMAGE: a picture of a player reading a teammate's nonverbal signal in a game — the student names the signal and what it tells the team. (Described slot only; no picture file made in this fix build.)

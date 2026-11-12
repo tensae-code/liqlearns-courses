@@ -13,3 +13,6 @@ Pass mark: the learner does and explains — the downsweep changeover — the ba
 
 ## Sub lesson 4 — Relay exchanges in motion — Grade 9
 Pass mark: the learner does and explains — relay exchanges in motion — grade 9 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 5 — The first relay — out, back, hand over; copy the broom game — Grade 3 (teacher guide — evidence)
+Pass mark: the learner runs out to the far marker and back and hands over cleanly to the next runner, and copies the shown broom-sweeping movement sequence in a row, in order.

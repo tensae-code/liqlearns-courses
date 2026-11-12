@@ -77,3 +77,23 @@ a) A 1 m circle  b) A goal post  c) A net
 **19. (Sub lesson 10)** In the Kangaroo Race you run…
 a) Hopping, with your legs tied together  b) On one hand  c) Backwards only
 **Answer: a) Hopping, with your legs tied together**
+
+**20. (Sub lesson 8)** Responsible decision-making means deciding by…
+a) speed alone  b) moral and social standards  c) whatever wins the point
+**Answer: b) moral and social standards**
+
+**21. (Sub lesson 8)** A thrower can win a point with a throw above the knee, which the rules forbid. A responsible decision is to…
+a) throw it anyway  b) hold the throw and play by the standard  c) hide it from the referee
+**Answer: b) hold the throw and play by the standard** — the decision is made by what is right and fair, not by the point.
+
+**22. (Sub lesson 11)** Which of these is done in "Squat and stand; the Green-Yellow-Red game (teacher guide — evidence)"?
+a) sitting still and watching only  b) a movement from another lesson entirely  c) squatting and standing to a count, and moving or freezing on the Green-Yellow-Red colour calls
+**Answer: c) squatting and standing to a count, and moving or freezing on the Green-Yellow-Red colour calls**
+
+**23. (Sub lesson 11)** A learner doing "Squat and stand; the Green-Yellow-Red game (teacher guide — evidence)" correctly is —
+a) squatting and standing to a count, and moving or freezing on the Green-Yellow-Red colour calls  b) sitting still and resting  c) watching only, never moving
+**Answer: a) squatting and standing to a count, and moving or freezing on the Green-Yellow-Red colour calls**
+
+**24. (Sub lesson 9) ** Which activity does the Grade 7 guide's review name for responsible decision-making?
+a) “What a decision!” — choosing your own shooting distance  b) sleeping through the lesson  c) copying without thinking
+**Answer: a) “What a decision!” — choosing your own shooting distance**

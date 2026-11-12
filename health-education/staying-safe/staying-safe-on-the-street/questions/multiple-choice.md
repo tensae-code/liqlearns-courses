@@ -33,3 +33,7 @@ a) Nonverbally  b) In writing  c) By officials
 **8. (Sub lesson 4)** Training widens your options to…
 a) Avoid, slow down, de-escalate or interrupt an attack  b) Only fight  c) Only run
 **Answer: a) Avoid, slow down, de-escalate or interrupt an attack**
+
+**9. (Sub lesson 1)** In the Grade 9 teacher guide's own framing, what is the weapon in self-defence?
+a) Your body itself  b) A stick you must carry  c) A whistle only
+**Answer: a) Your body itself**

@@ -84,6 +84,51 @@ The Grade 8 teacher guide's self-awareness game is **Rolling in Admiration** —
 
 Self-awareness means **conscious knowledge of your own character and feelings**; self-management is **regulating your emotions, thoughts and behaviour in different situations**. Resilience — recovering from setbacks and keeping going — is practised with **mindful meditation**: get comfortable in a quiet place, consider a timer, focus on breathing, notice your thoughts, give yourself a break.
 
+## Sub lesson 11 — Managing myself on purpose — Capture the Flag, Three Legs, Trust (teacher guide — evidence)
+
+Self-management begins with **self-knowledge** — accepting responsibility for your own thinking, and building the desire to play by your own activity. A person who is **fit for a purpose** shows **reliability, duty, courage, honesty, careful thought and predictability**, and openly shows their ideas and values. What blocks self-management: not guiding yourself, not building guidance early, and company that pulls you away from managing yourself.
+
+**Capture the Flag — the markers raid.** Two teams on a **20 m × 20 m** field, split by a middle line. Each team guards its **markers** (cloths) at its own back line. Raid the other team's markers and bring them home — but if you are **tagged** after crossing into their half, you are **out**. Your team must plan its own special skills for the raid, and guard its own cloth while it raids.
+
+[Picture 35104 — a capture-the-flag field with markers — two halves, a marker flag at each end]
+
+**Three Legs — the two-legs-tied race.** Pairs run with their **adjacent legs tied together**, in lanes. The tied legs must **step together**, carefully and in order — a pair that does not move as one falls.
+
+[Picture 35105 — a three-legged race pair, adjacent legs tied, mid-step]
+
+[GIF 35106 — three-legged running in step together]
+
+**Trust games.** Trust is taught through play: **holding hands in a circle and leaning together**, and **partner trust falls and leans** — trusting a person, showing trust, and earning trust, inside the group.
+
+## Sub lesson 12 — Knowing yourself through games — Grade 7
+
+Play shows you yourself. In games, your **ability**, your **character** and the **unknown self** — the parts of you that you did not know were there — all come out where you can see them. Social interaction, emotion and games are linked: how you play is how you meet other people and how you meet your own feelings, and games train **emotional control** as they reveal it.
+
+So use what play shows you: **strengthen the good** that the game reveals in you, and **improve the weak**. That is this book's own way of knowing yourself — not a label stuck on you, but a thing you watch in your own play and then work on.
+
+## Sub lesson 13 — Growing inside through games — the Grade 8 chapter opener (teacher guide — evidence)
+
+**Social and emotional learning** grows a learner's capacity to bring skills, attitudes and behaviours together to deal **effectively and ethically with daily tasks and challenges** — and a physically active class is the ideal place to grow it. A personal best in the mile run, playing on a successful team, or **dropping a catch during a key play** — each one is a moment where this learning comes into play.
+
+A growing child's **mental, intellectual, emotional and social** development is closely related to their **physical** development. A physically fit person possesses a **well-balanced personality — mentally sharp, emotionally stable, socially well-adjusted**. The chapter this opens works toward three things: making a practice plan for a skill you choose yourself, showing communication and leadership that build the team, and analysing situations to solve problems.
+
+## Sub lesson 14 — Managing myself and getting along — what the Grade 3 chapter builds (teacher guide — evidence)
+
+In Grades 1 and 2 you learned small movement skills. The Grade 3 chapter takes those same skills and builds a person with them — the social and psychological person: managing yourself, knowing your own behaviour, respecting others, and solving problems together.
+
+The chapter builds six things, and you have already practised most of them in this lesson:
+
+1. **Movement that builds self-management** — ራስን የማስተዳደር ክህሎትን የሚያዳብር የሰውነት እንቅስቃሴ.
+2. **Practising your own conduct** — የራስን ስነ ምግባር መለማመድ.
+3. **Identifying social experiences** — ማህበራዊ ልምዶችን መለየት: naming what playing with others teaches you.
+4. **Solving problems in games** — በጨዋታዎች ችግሮችን መፍታት.
+5. **Practising giving time limits** — ጊዜ ውስኔ መስጠትን መለማመድ.
+6. **Practising giving notice** — ማስጠን መለማመድ: a clear signal before a change, so others can get ready.
+
+By the chapter's end you can show self-management skill in varied activities, identify social experiences, solve problems in games, give time limits, and focus your attention — the whole of this lesson, in one view.
+
+[Picture 34922 — managing myself and getting along — wait your turn, respect others, solve it together]
+
 ## Say it to your companion
 
 Tell your companion what self-management looks like in a game — the three signs. Then tell them what self-discipline adds: the rule kept with nobody watching.

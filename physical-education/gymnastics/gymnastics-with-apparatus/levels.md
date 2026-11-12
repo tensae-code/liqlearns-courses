@@ -16,3 +16,6 @@ Pass mark: the learner does and explains — the pull-up method on the bar, swin
 
 ## Sub lesson 5 — Parallel bars — the support swing — Grade 8
 Pass mark: the learner does and explains — parallel bars — the support swing — grade 8 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 6 — Strong in my own space: weight shifts and hanging — Grade 3 (teacher guide — evidence)
+Pass mark: the learner shifts weight side to side over a low obstacle line without leaving the spot zone, reaches and hangs briefly from a high rope with a spotter beside them, and pulls alternately with each arm.

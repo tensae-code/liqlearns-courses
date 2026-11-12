@@ -15,6 +15,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 5. **Passing with the inside and outside of the foot — Grade 5** — passing and receiving with the inside of the foot at 4, 6, 8 and up to 10 metres, with the outside of the foot, and one-touch circle play using both.
 6. **Football dribbling — Grade 6** — dribbling with the inside and the outside of the foot — 20 metres to a partner, between cones, then small team football games using the dribble.
 7. **Kicking and controlling — Grade 7** — kicking with the inside and the front of the foot, controlling with the sole against a wall at 7, 5 and 3 metres, and controlling with the front of the foot at 10 metres.
+11. **Kicking a ball, and up-and-down steps (teacher guide — evidence)** — standing beside a ball and kicking it toward a partner or target with feet planted in turn, and stepping up onto and down from a low place in turn.
+12. **Passing the football; hit the target (teacher guide — evidence)** — passing a football along the ground between partners over five metres, receiving with one foot, and throwing or kicking at a set target to score.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -29,6 +31,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 5. Do and explain: passing and receiving with the inside of the foot at 4, 6, 8 and up to 10 metres, with the outside of the foot, and one-touch circle play using both.
 6. Do and explain: dribbling with the inside and the outside of the foot — 20 metres to a partner, between cones, then small team football games using the dribble.
 7. Do and explain: kicking with the inside and the front of the foot, controlling with the sole against a wall at 7, 5 and 3 metres, and controlling with the front of the foot at 10 metres.
+11. Do and explain: standing beside a ball and kicking it toward a partner or target with feet planted in turn, and stepping up onto and down from a low place in turn.
+12. Do and explain: passing a football along the ground between partners over five metres, receiving with one foot, and throwing or kicking at a set target to score.
 
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
@@ -57,6 +61,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - IMAGE [Picture 13746]: a picture of a child passing with the inside of the foot to a partner 6 metres away — the student names the movement and copies it safely.
 - GIF [GIF 13747]: the inside-foot pass — ankle locked, ball along the ground to the partner — the student watches the movement, then does it slowly, then at full speed.
 - GIF [GIF 13763]: one-touch passes travelling around a circle without stopping — the student watches the movement, then does it slowly, then at full speed.
+
+- IMAGE [Picture 34807]: a child kicking a ball toward a round target — the student watches/names the movement, then copies it safely.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

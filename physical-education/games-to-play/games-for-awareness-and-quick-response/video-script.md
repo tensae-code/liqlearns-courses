@@ -15,3 +15,6 @@ Five Rounds! The ball flies — the round must finish FIRST!
 Your number! GO! Circle the ball, back to the centre!
 Red — STOP. Green — RUN. Stations: only the ones CALLED!
 Focus. The present moment. Nothing else. That is attention.
+
+Helping. Feeling with others. Bearing with others. Knowing how they feel. That is social relations and awareness — and the running games train it.
+Words say it. Faces and signals say it without words. A good player reads both — and a good leader listens first.

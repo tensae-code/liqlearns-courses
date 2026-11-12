@@ -23,14 +23,17 @@ countries: Ethiopia
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 8 — Spot the Difference and the Learning Logo — watching people closely (teacher guide — evidence) | Ethiopia, *Grade 8 Teacher Guide*, §2.2, printed pp. 20–26 (teacher guide — evidence) |
+| Sub lesson 8 (knowledge part) — Social-awareness and relationship-skills definitions; verbal and nonverbal communication; collaboration and leadership skills lists (teacher guide — evidence) | Ethiopia, *Grade 8 Teacher Guide*, §2.2 incl. §§2.2.1–2.2.2, printed pp. 20–26 (teacher guide — evidence) |
 | Sub lesson 1 — covered-eyes ball finding; the name call; Thief and Police; circle dribbling | Ethiopia, *Grade 3 Student Textbook*, §3.4, printed pp. 27–29 |
 | Sub lesson 2 — the aim stated; the inside/outside command game; foot dribbling in a circle, equal teams | Ethiopia, *Grade 4 Student Textbook*, §3.4, printed pp. 25–26 |
 | Sub lesson 3 — attention games on changing calls; the number game and its counting pattern (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide*, §3.3, printed pp. 34–37 |
 
 | Sub lesson 4 — Social awareness games — Ball in the Air, Five Rounds, outside–inside | Ethiopia, *Grade 5 Student Textbook*, §2.2, printed pp. 12–14 |
 | Sub lesson 5 — Running while passing, and the number command | Ethiopia, *Grade 6 Student Textbook*, items 13–14, printed pp. 15–17 |
+| Sub lesson 5 (framing part) — What social relations and awareness mean: helping, empathy, tolerance, understanding others' feelings | Ethiopia, *Grade 6 Student Textbook*, item 12 (§2.2 framing), printed p. 15 |
 | Sub lesson 6 — Attention and observation games (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §§2.3–2.3.2, printed pp. 18–19; and *Grade 6 Teacher Guide*, §2.3, printed pp. 23–25 |
 | Sub lesson 7 — Attention control and mindfulness (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §2.3, printed pp. 22–26 |
+| Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 6 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 2 summary + assessment answers, printed pp. 20–21 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

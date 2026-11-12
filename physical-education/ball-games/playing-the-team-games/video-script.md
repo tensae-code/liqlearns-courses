@@ -17,3 +17,5 @@ Football formations and team strategy — Grade 10. Strategy is a team's method 
 Small-sided games — Grade 9: 2 against 1, 4 against 4, 5 against 5. Small games teach the big game.
 
 Handball team defence and attack — Grade 10. On the full court — three times bigger than the small court — the game grows to 6 against 6, and individual advanced skills must join the team's whole tactic.
+
+Football rules — the guide's own pass. One game, everywhere: the pitch, eleven players, two halves of forty-five minutes — in and out of play, scoring, offside, throw-in, corner. Run it like Collina.

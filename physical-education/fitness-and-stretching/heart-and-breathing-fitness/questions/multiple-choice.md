@@ -118,3 +118,19 @@ a) sitting still and watching others do the movement  b) skipping every stage an
 **29. (Sub lesson 11)** A learner doing "The pure aerobic list — Grade 10" correctly is —
 a) skipping every stage and starting with the hardest game form  b) The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, r  c) sitting still and watching others do the movement
 **Answer: b) The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, r**
+
+**30. (Sub lesson 12)** Which of these is done in "Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence)"?
+a) sitting still and watching only  b) a movement from another lesson entirely  c) solo rope turns counted in fives, and entering a turning long rope, jumping three to five times and leaving in turn without stopping the rope
+**Answer: c) solo rope turns counted in fives, and entering a turning long rope, jumping three to five times and leaving in turn without stopping the rope**
+
+**31. (Sub lesson 12)** A learner doing "Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence)" correctly is —
+a) solo rope turns counted in fives, and entering a turning long rope, jumping three to five times and leaving in turn without stopping the rope  b) sitting still and resting  c) watching only, never moving
+**Answer: a) solo rope turns counted in fives, and entering a turning long rope, jumping three to five times and leaving in turn without stopping the rope**
+
+**32. (Sub lesson 8)** Physical fitness is, in the Grade 7 guide's review answer…
+a) the body's ability to function efficiently and effectively  b) only running fast  c) winning medals
+**Answer: a) the body's ability to function efficiently and effectively**
+
+**33. (Sub lesson 5)** Circuit training, in the Grade 5 guide's summary, is…
+a) joining all the fitness activities — heart and breathing, muscle strength, flexibility and agility — in stations  b) running one lap only  c) resting between every single step
+**Answer: a) joining all the fitness activities — heart and breathing, muscle strength, flexibility and agility — in stations**

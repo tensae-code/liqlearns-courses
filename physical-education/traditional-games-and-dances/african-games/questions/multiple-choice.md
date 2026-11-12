@@ -25,3 +25,7 @@ a) The last player caught by the snake  b) The first caught  c) The snake's head
 **6. (Sub lesson 3)** What equipment does Mamba need?
 a) None  b) Two blindfolds  c) Chairs and tyres
 **Answer: a) None**
+
+**7. (Sub lesson 3)** Mamba is played by groups of…
+a) 10 or more players  b) exactly 2 players  c) 1 player alone
+**Answer: a) 10 or more players**

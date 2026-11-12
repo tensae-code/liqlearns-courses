@@ -34,3 +34,11 @@ a) sliding sideways — step, close, step — left and right  b) sprinting betwe
 a) sliding sideways — step, close, step — left and right  b) running the marked numbers, letters and rectangle and changing direction at the corners  c) sprinting between cones and turning sharply at each cone
 **Answer: c) sprinting between cones and turning sharply at each cone**
 
+
+**9. (Sub lesson 5)** At the signal in the direction-change task, you…
+a) Stop and sit down  b) Change direction sharply without losing balance  c) Close your eyes and run on
+**Answer: b) Change direction sharply without losing balance**
+
+**10. (Sub lesson 5)** How does a learner who cannot run do the direction-change movement?
+a) They watch only  b) They leave the lesson  c) From a wheelchair, with the teacher's help
+**Answer: c) From a wheelchair, with the teacher's help**

@@ -6332,3 +6332,66 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 36600 | plant uses beyond food (timber, cloth, medicine, shade) and the library-work steps | science/biology/plant-uses-and-library-work |
 | 36601 | the temperature feedback loop in four steps with amplify and too-cold boxes | science/biology/negative-and-positive-feedback |
 | 36602 | the thylakoid membrane chain — both photosystems, carriers, lumen protons, ATP synthase | science/biology/the-lightdependent-reactions-of-photosynthesis |
+| 34800 | pictures/34800.webp | a child bending forward to touch the toes, a partner standing tall beside | Physical Education — Combined Travelling and On-the-Spot Movements |
+| 34801 | pictures/34801.webp | a child catching a ball with two hands while a second ball rests trapped at the foot | Physical Education — Ball Handling on the Spot |
+| 34802 | pictures/34802.webp | three children marching in a line, knees lifting, arms swinging | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34803 | pictures/34803.webp | a long rope turning around two children jumping together, a turner at each end | Physical Education — Jumping and Hopping |
+| 34804 | pictures/34804.webp | stand, squat, stand under the red, yellow and green circles of the colour-call games | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34805 | pictures/34805.webp | on a mat: crouch and tuck, roll through, stand up | Physical Education — Gymnastics Basics — Positions, Rolls and Supports |
+| 34806 | pictures/34806.webp | a child skipping with their own rope, mid-jump inside the turning rope | Physical Education — Heart and Breathing Fitness |
+| 34807 | pictures/34807.webp | a child kicking a ball toward a round target | Physical Education — Kicking, Passing and Dribbling |
+| 34808 | pictures/34808.webp | children in a circle in the Selame Selame game, an orange cloth passed hand to hand | Physical Education — Walking in Patterns |
+| 34809 | pictures/34809.webp | children standing in a circle holding hands, playing together | Physical Education — Games for Playing Together |
+| 34820 | pictures/34820.gif | marching in place, knees lifting and arms swinging on a steady beat | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34821 | pictures/34821.gif | the long rope turning — two children jumping together as the rope passes under their feet | Physical Education — Jumping and Hopping |
+| 34822 | pictures/34822.gif | solo rope skipping — the rope turning over and under in a steady rhythm | Physical Education — Heart and Breathing Fitness |
+| 34823 | pictures/34823.gif | bend and reach — fold forward to touch the toes and come back up slowly | Physical Education — Combined Travelling and On-the-Spot Movements |
+| 34824 | pictures/34824.gif | throw and catch — a ball travelling between two partners, caught with two hands | Physical Education — Ball Handling on the Spot |
+| 34900 | pictures/34900.webp | the three families of fundamental movement — in place, travelling, with objects | Physical Education — Combined Travelling and On-the-Spot Movements |
+| 34901 | pictures/34901.webp | a team stepping out a growing distance chain | Physical Education — Combined Travelling and On-the-Spot Movements |
+| 34902 | pictures/34902.webp | changing direction sharply at a signal | Physical Education — Sliding and Changing Direction |
+| 34903 | pictures/34903.webp | stepping through an obstacle line of cones | Physical Education — Sliding and Changing Direction |
+| 34904 | pictures/34904.gif | step, step, roll to the target | Physical Education — Sliding and Changing Direction |
+| 34905 | pictures/34905.webp | shifting weight side to side over a low line | Physical Education — Gymnastics with Apparatus |
+| 34906 | pictures/34906.gif | reach up, hang from the high rope, come down | Physical Education — Gymnastics with Apparatus |
+| 34907 | pictures/34907.webp | the shuttle relay — run out, back, and hand over | Physical Education — Baton Relay Racing |
+| 34908 | pictures/34908.gif | run out, run back, hand over — the next runner goes | Physical Education — Baton Relay Racing |
+| 34909 | pictures/34909.webp | dance, aerobics and gymnastics — movement chains to a beat | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34910 | pictures/34910.webp | opposite arm and leg moving together to the beat | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34911 | pictures/34911.gif | in-place stepping with arm swings on the beat | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34912 | pictures/34912.webp | bouncing a ball exactly on the beat | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34913 | pictures/34913.webp | the Selame Selame circle — greeting and changing partners | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34914 | pictures/34914.gif | the clap-bounce-clap sequence | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34915 | pictures/34915.webp | make a movement chain — step, turn, clap, jump | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34916 | pictures/34916.webp | stepping in sequence to the drum | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34917 | pictures/34917.gif | marching steps in sequence to the drum beat | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34918 | pictures/34918.webp | two partners jumping one rope together | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34919 | pictures/34919.gif | pair rope jumping — two jump as one | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34920 | pictures/34920.webp | entering the turning long rope while the class claps | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34921 | pictures/34921.webp | a line of dancers doing one stick-dance step together | Physical Education — Moving to a Beat — Rhythmic Movement |
+| 34922 | pictures/34922.webp | managing myself and getting along — wait your turn, respect others, solve it together | Physical Education — Games for Self-Leadership |
+| 35100 | pictures/35100.webp | a child star-jumping on a mat — arms and legs opened wide | Physical Education — Gymnastics Basics — Positions, Rolls and Supports |
+| 35101 | pictures/35101.gif | turning left and right with the arms raised, controlled and upright | Physical Education — Gymnastics Basics — Positions, Rolls and Supports |
+| 35102 | pictures/35102.webp | chasers tagging runners in an open field | Physical Education — Games for Communication and Cooperation |
+| 35103 | pictures/35103.gif | the chase-and-tag mechanic — a chaser closes in and tags a runner | Physical Education — Games for Communication and Cooperation |
+| 35104 | pictures/35104.webp | a capture-the-flag field with markers — two halves, a marker flag at each end | Physical Education — Games for Self-Leadership |
+| 35105 | pictures/35105.webp | a three-legged race pair, adjacent legs tied, mid-step | Physical Education — Games for Self-Leadership |
+| 35106 | pictures/35106.gif | three-legged running in step together | Physical Education — Games for Self-Leadership |
+| 35107 | pictures/35107.webp | artistic apparatus and a rhythmic routine side by side | Physical Education — Gymnastics — Rules and Competition Types |
+| 35108 | pictures/35108.webp | a seated toe-touch reach, held gently — reach slowly, hold, no bouncing | Physical Education — Stretching and Flexibility |
+| 35200 | pictures/35200.webp | a volleyball court with its free zone, net and attack lines | Physical Education — The Rules of Volleyball |
+| 35201 | pictures/35201.gif | the rotation order moving round one position | Physical Education — The Rules of Volleyball |
+| 35202 | pictures/35202.webp | a basketball court, 28 m by 15 m, with its lines named | Physical Education — The Rules of Basketball |
+| 35203 | pictures/35203.webp | a handball court and goal, with the 6 m goal area | Physical Education — The Rules of Handball |
+| 35204 | pictures/35204.webp | a football pitch, 110 m by 75 m, with its areas named | Physical Education — Playing the Team Games |
+| 35205 | pictures/35205.webp | a backboard with red perimeter lighting lit | Physical Education — The Rules of Basketball |
+| 35206 | pictures/35206.webp | a handball goalkeeper in the goal area, saving with hands, legs and torso | Physical Education — The Rules of Handball |
+| 35300 | pictures/35300.gif | Self-defence — stepping into the basic stance | Health Education — Self-Defence Techniques — Stance, Escapes, Blocks and Strikes, Grappling |
+| 35301 | pictures/35301.gif | Self-defence — inward and outward blocks in succession | Health Education — Self-Defence Techniques — Stance, Escapes, Blocks and Strikes, Grappling |
+| 35302 | pictures/35302.gif | Self-defence — escaping a hold, the safe practice form | Health Education — Self-Defence Techniques — Stance, Escapes, Blocks and Strikes, Grappling |
+| 35303 | pictures/35303.gif | Self-defence — the roundhouse kick to a pad | Health Education — Self-Defence — Advanced Techniques |
+| 35310 | pictures/35310.webp | Self-defence — the basic stance, side and front views | Health Education — Self-Defence Techniques — Stance, Escapes, Blocks and Strikes, Grappling |
+| 35311 | pictures/35311.webp | Self-defence — escaping a hold: bend, turn, get away | Health Education — Self-Defence Techniques — Stance, Escapes, Blocks and Strikes, Grappling |
+| 35312 | pictures/35312.webp | Self-defence — strikes practised to a pad, never to a head | Health Education — Self-Defence Techniques — Stance, Escapes, Blocks and Strikes, Grappling |
+| 35313 | pictures/35313.webp | Self-defence — grappling: a close hold on the mats | Health Education — Self-Defence Techniques — Stance, Escapes, Blocks and Strikes, Grappling |
+| 35314 | pictures/35314.webp | Self-defence — advanced practice: a mat class, partners of similar weight | Health Education — Self-Defence — Advanced Techniques |

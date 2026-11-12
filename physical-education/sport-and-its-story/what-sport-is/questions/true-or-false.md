@@ -13,3 +13,6 @@ Say if it is true or false.
 
 **4. (Sub lesson 3)** PE and sport are exactly the same thing.
 **Answer: False**
+
+**5. (Sub lesson 2)** A game with no law or rule of its own still counts as sport, in the guide's summary.
+**Answer: False**

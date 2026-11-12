@@ -68,6 +68,22 @@ Two practices carry it: **Turn Back** — groups of 5, 7 or 9 hold hands alterna
 
 **Special Basketball (ልዩ የቅርጫት ኳስ)** splits the class into **four equal teams** for a modified basketball game — the full game, remade so everyone plays and everyone is needed.
 
+## Sub lesson 10 — Abarosh Chase — አባሮሽ
+
+**Abarosh (አባሮሽ)** is a chase game between **matched teams**. The **chasers** try to **catch all the chased within the first five minutes**. The winners then **meet the next team**.
+
+[Picture 35102 — chasers tagging runners in an open field]
+
+[GIF 35103 — the chase-and-tag mechanic — a chaser closes in and tags a runner]
+
+Play it **reflectively**: while the chase runs, watch the players' **behaviour and attitudes** — who calls, who helps, who gives up, who encourages. The chase teaches running; the watching teaches **communication**.
+
+## Sub lesson 11 — Cooperation skills — the Grade 7 framing
+
+Ask two questions of your own play: **how is our cooperation — and what must improve?** Cooperation is a skill you check honestly, in your own team, game by game.
+
+And it does not stay in the game: **growing communication and cooperation in games improves them in the rest of life** — at home, in class, and in every group you belong to. This is the Grade 7 book's own framing of the family; the Grade 6 framing in Sub lesson 5 (working to a shared goal) is its neighbour, not its substitute.
+
 ## Say it to your companion
 
 Tell your companion why a cast that nobody answers catches nothing, and what a signal does for a game. Then clap the four-beat pattern and let them join exactly on the beat.

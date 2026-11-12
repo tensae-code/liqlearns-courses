@@ -25,3 +25,6 @@ Say if it is true or false.
 
 **8. (Sub lesson 4)** Self-control means feeling no impulse at all.
 **Answer: False**
+
+**9. (Sub lesson 4) ** In the guide's chapter summary, a person who does physical activity in a group gains social relationship and psychological growth.
+**Answer: True**

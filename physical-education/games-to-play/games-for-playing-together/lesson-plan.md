@@ -16,6 +16,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 6. **The Fisherman, Form a Family, Abo Yaeqob, and Pass It Back (teacher guide — evidence)** — the Grade 2 teacher guide's games: the Fisherman tag game, forming families at a number call, the Abo Yaeqob instruction chain, and backward team passing lines.
 7. **Follow the leader and tug-of-war (teacher guide — evidence)** — the Grade 4 teacher guide: performing movements together in a row following the leader exactly, and tug-of-war — with its self-knowledge points: knowing yourself, expressing yourself, accepting a partner's or group's opinion.
 
+8. **Myself and others — the Grade 2 chapter opener (teacher guide — evidence)** — knowing yourself, controlling your feelings, respecting others' work and building social relationships, learned through games.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -26,6 +27,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Hand an object over in a relay at speed without dropping it, and pass a ball five rounds around a circle.
 3. Play the teacher-guide games: the three-legged game, the Fisherman game, Form a Family, Abo Yaeqob, Pass It Back, tug-of-war.
 4. Say what playing together builds: helping each other, respecting others' feelings, and team spirit.
+8. Do and explain: knowing yourself, controlling your feelings, respecting others' work and building social relationships, learned through games.
 
 ## What you need
 A ball, a handkerchief or scarf, and a group of players. A basket helps for collecting games. Nothing else.
@@ -43,6 +45,8 @@ A ball, a handkerchief or scarf, and a group of players. A basket helps for coll
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 13601] — a picture of children in a circle playing the handkerchief-snatch game, one child running outside the circle with a handkerchief → the student points to the runner, the circle, and the child about to be chosen.
 - VIDEO — the video-script filmed (made later) → the student plays and learns along with it.
+
+- IMAGE [Picture 34809]: children standing in a circle holding hands, playing together — the student watches/names the movement, then copies it safely.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

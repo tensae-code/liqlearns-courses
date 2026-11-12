@@ -32,6 +32,22 @@ Ball handling (የኳስ አያያዝ) is general ball mastery: bring a moving b
 
 [GIF 13745 — the chest receive — the ball dropping softly off the chest to the feet]
 
+## Sub lesson 6 — Skills with objects — throw, catch, kick (teacher guide — evidence)
+
+Now the objects join in. Work with a partner: throw a ball and catch the return, then kick a ball to your partner and control the one that comes back. Hands and feet take turns on the same ball — throwing, catching and kicking in one flowing practice by the lake in the guide's picture.
+
+[GIF 34824 — throw and catch — a ball travelling between two partners, caught with two hands]
+
+## Sub lesson 7 — Ball control with hands and feet together (teacher guide — evidence)
+
+One ball, two kinds of control. Catch a thrown ball with your hands — then stop a rolling ball with the sole of your foot, trapping it still. Hand catch, foot trap, hand catch, foot trap: the guide's picture (ስዕል 3.3 — ኳስ ተወርውሮ በእጅና በእግር ነጥሮ ሲያዝ, a ball thrown and caught by hand and trapped with the foot) shows the pair of skills side by side, and partners practise them together.
+
+[Picture 34801 — a child catching a ball with two hands while a second ball rests trapped at the foot]
+
+## Sub lesson 8 — Balls into the basket, and heel kicks (teacher guide — evidence)
+
+Two in-place tasks. Balls into the basket — ኳስ በቅርጫት: three to five small balls wait in a basket (ቅርጫት); step forward and throw them one by one into the basket, then gather them back for the next learner. Heel kicks — መቀመጫን በእግር መምታት (the guide's own gloss: Kick Buttock): jog on the spot, kicking your heels up behind to touch your buttocks, arms bent, left leg, right leg, in turn.
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

@@ -61,3 +61,13 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 
 Extension add-ons:
 - ADD GIF [GIF 13919]: an upsweep baton exchange inside the passing zone — the student watches/names the movement, then copies it safely.
+
+## Grade 3 teacher-guide extension (added in the HPE fix build)
+
+New sub lessons, in order:
+5. **The first relay — out, back, hand over; copy the broom game — Grade 3 (teacher guide — evidence)** — the Grade 3 guide's shuttle relay run (የደርስ መልስ ሩጫ) and the broom copy game (መሣረቢን ያየችሁ ጨዋታ), inside object skills.
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+Extension add-ons:
+- ADD IMAGE [Picture 34907]: a picture of the shuttle relay — run out, back, and hand over — the student watches/names the movement, then copies it safely.
+- ADD GIF [GIF 34908]: run out, run back, hand over — the next runner goes — the student watches/names the movement, then copies it safely.

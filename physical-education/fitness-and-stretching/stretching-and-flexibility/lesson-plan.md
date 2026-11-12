@@ -78,3 +78,11 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 Extension add-ons:
 - ADD PICTURE [Picture 13903]: static stretching held still beside dynamic stretching on the move — the student watches/names the movement, then copies it safely.
 - ADD GIF [GIF 13918]: the heel-to-buttock stretch with a flat back, held, then released — the student watches/names the movement, then copies it safely.
+
+## Fix-build extension (2026-11-12, HPE-FIX-4)
+
+11. **Flexibility — the Grade 5 guide: range of motion and the seated toe-touch (teacher guide — evidence)** — flexibility defined as the joints' ability to move through their natural range of motion; flexibility work done with the joints warmed; the seated toe-touch task — legs straight, reach slowly, hold, return, no bouncing; both legs, then each leg (Grade 5 teacher guide, §3.3, printed pp. 29–30).
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+Extension add-ons:
+- ADD IMAGE [Picture 35108]: a picture of a seated toe-touch reach, held gently — the student names the movement and copies it safely.

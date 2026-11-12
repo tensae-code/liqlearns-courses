@@ -72,6 +72,12 @@ Four more games from the Grade 2 teacher guide.
 
 The guide ties the game to knowing yourself, in three parts: **knowing yourself** (ራስን ማወቅ ወይም መገንዘብ), **expressing yourself** (ራስን መግለፅ), and **accepting a partner's or group's opinion** (ከንደኛ ወይም ከቡድን አስተያየት መቀበል). A team that cannot accept each other's opinions cannot pull together.
 
+## Sub lesson 8 — Myself and others — the Grade 2 chapter opener (teacher guide — evidence)
+
+Social and psychological education — ማህበራዊና ስነ-ልቦናዊ ትምህርት — means knowing yourself, controlling your feelings, respecting other people's work, and building social relationships. In this society everyone has a share. The chapter's learning is carried by games in three ways: looking after yourself through games, building social relationships through games, and making responsible decisions through games. Its promises: show positive personal attitudes, respect others' feelings and views, value social relationships in cultural sport and games, and take responsibility for your decisions.
+
+[Picture 34809 — children standing in a circle holding hands, playing together]
+
 ## Say it to your companion
 
 Tell your companion about the handkerchief-snatch game: where the players stand, what the outside player carries, and what happens when the handkerchief drops. Then say what all these games build.

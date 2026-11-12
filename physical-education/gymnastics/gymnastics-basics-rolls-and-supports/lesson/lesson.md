@@ -46,6 +46,22 @@ Free gymnastics is done with no equipment. Build the dive roll in its order: fir
 
 Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you. The handstand: hands on the mat, body straight and extended, balance held. The handstand forward roll: from the handstand, tuck and roll forward out of it. The handspring (በእጅ መስፈንጠር): forward — keep the speed of your run-up into the next movement, hands down, push and fly over — and backward, prepared carefully with your partner spotting. Stop and rest whenever a shape feels unsafe.
 
+## Sub lesson 9 — Grade 3 movements — the star jump and turning left and right
+
+On the mat, jump up and open your arms and legs wide — stretching them out like a star — then close them as you land. That is the **star jump**: open, stretch, close, land soft.
+
+[Picture 35100 — a child star-jumping on a mat — arms and legs opened wide]
+
+Then turn on the spot: **rotating left and right (መሽከርከር)** with your **arms raised** — turn left, come back upright, turn right, come back upright. Stay tall and controlled; the turn is slow enough that you never get dizzy or step off the mat.
+
+[GIF 35101 — turning left and right with the arms raised, controlled and upright]
+
+## Sub lesson 10 — Rolling, jumping and turning — the Grade 1 guide's second body parts (teacher guide — evidence)
+
+Rolling and turning the body — ማገልበጥ. On a mat, tuck into a small squat and prepare the forward roll: chin in, back round, hands down. Then move forward and backward in place, stepping in rhythm. Then the standing jump sequence: crouch, stand, crouch — down and up like a spring. Last, turn in place: pivot to the left, pivot to the right (ወደ ግራና ቀኝ መዞር), on the spot, in control. Always on a mat, always with room around you.
+
+[Picture 34805 — on a mat: crouch and tuck, roll through, stand up]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

@@ -13,6 +13,7 @@ countries: Ethiopia
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What self-defence is — and the ethics that govern it | Ethiopia, *Grade 9 Student Textbook*, §8.1, printed pp. 142–145; *Grade 10 Student Textbook*, §8.1, printed pp. 128–131; and *Grade 10 Teacher Guide*, Unit 8, printed pp. 88–89 and 92–93 (teacher guide — evidence) |
+| Sub lesson 1 — The Grade 9 guide's own framing: the body as the weapon; "no rule in street fighting" (teacher guide — evidence) | Ethiopia, *Grade 9 Teacher Guide*, Unit 8, printed pp. 101–103 (teacher guide — evidence) |
 | Sub lesson 2 — The principles — alertness, speed, surprise | Ethiopia, *Grade 9 Student Textbook*, §8.2, printed pp. 145–149; and *Grade 9 Teacher Guide*, Unit 8, printed pp. 104–105 (teacher guide — evidence) |
 | Sub lesson 3 — Street-safety rules — the three strategies | Ethiopia, *Grade 9 Student Textbook*, §8.2, printed pp. 145–149; and *Grade 9 Teacher Guide*, Unit 8, printed pp. 104–105 (teacher guide — evidence) |
 | Sub lesson 4 — Resolving conflict without fighting — and why learn self-defence | Ethiopia, *Grade 10 Student Textbook*, §§8.1.2 and 8.2, printed pp. 132–139; and *Grade 10 Teacher Guide*, Unit 8, printed pp. 90–91 (teacher guide — evidence) |

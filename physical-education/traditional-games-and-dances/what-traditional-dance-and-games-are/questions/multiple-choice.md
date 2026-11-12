@@ -25,3 +25,15 @@ a) Protect it, so it is played the same way in every place  b) End it  c) Make i
 **6. (Sub lesson 1)** Traditional dances are performed especially at…
 a) Festivals  b) Examinations  c) Market closing time
 **Answer: a) Festivals**
+
+**7. (Sub lesson 2)** In the Grade 5 book's framing, a traditional game is part of a community's…
+a) timetable  b) culture — its identity and the rest of its way of life  c) uniform
+**Answer: b) culture — its identity and the rest of its way of life**
+
+**8. (Sub lesson 1)** A traditional dance is performed at festivals and expresses…
+a) the community's identity  b) the referee's decision  c) nothing in particular
+**Answer: a) the community's identity**
+
+**9. (Sub lesson 2)** Which set names the games the Ethiopian Cultural Sport Federation has given laws?
+a) Korbo, horse racing, Gena, Gebeta and Bub  b) football, tennis and golf  c) chess and cards
+**Answer: a) Korbo, horse racing, Gena, Gebeta and Bub**

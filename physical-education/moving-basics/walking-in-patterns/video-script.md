@@ -14,6 +14,8 @@ Walking while rolling a ball. Walk and roll a ball by hand at the same time.
 
 Walking the line in balance (teacher guide — evidence). Walk heel to toe along a straight line, arms out, and do not step off the line.
 
+Selame Selame — greet, pass the cloth, change places (teacher guide — evidence). Movement first has directions: ወደፊትና ወደ ኋላ (forward and back), ወደ ቀኝና ወደ ግራ (to the right and to the left), and sliding to the side. The game that practises them is Selame Selame — ሰላሜ ሰላሜ: walk around in a circle, greet each other as you pass, and a scarf or cloth (ጨርቅ/ፎጣ) travels hand to hand around the ring. On the signal — change places! Everyone moves, greets, and settles somewhere new, and the cloth keeps travelling.
+
 Now you. Do it slowly. Do it safely. Name it while you do it.
 
 Walking tall — Grade 8 (teacher guide — evidence). Walk tall, the way the Grade 8 guide teaches it.

@@ -13,3 +13,6 @@ Say if it is true or false.
 
 **4. (Sub lesson 1)** Culture means only a society's dress.
 **Answer: False**
+
+**5. (Sub lesson 2)** Traditional games stand inside the same culture framing as traditional dance.
+**Answer: True**

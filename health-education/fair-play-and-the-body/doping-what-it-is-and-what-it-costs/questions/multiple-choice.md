@@ -61,3 +61,7 @@ a) 27 articles  b) 3 articles  c) 100 articles
 **15. (Sub lesson 7)** National anti-doping programmes work through…
 a) Education, deterrence and detection  b) Silence  c) Advertising
 **Answer: a) Education, deterrence and detection**
+
+**16. (Sub lesson 4)** In the Grade 7 guide's review answers, doping affects…
+a) mental and physical health and social interaction, and it brings disqualification  b) only the athlete's shoes  c) nothing at all
+**Answer: a) mental and physical health and social interaction, and it brings disqualification**

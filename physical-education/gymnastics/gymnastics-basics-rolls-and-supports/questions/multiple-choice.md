@@ -82,3 +82,23 @@ a) sitting still and watching others do the movement  b) skipping every stage an
 **20. (Sub lesson 8)** A learner doing "The handstand family — Grade 8" correctly is —
 a) skipping every stage and starting with the hardest game form  b) Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you.  c) sitting still and watching others do the movement
 **Answer: b) Three linked skills, each prepared in pairs and on a rolled mat, with a spotter beside you.**
+
+**21. (Sub lesson 9)** In the star jump, what do the arms and legs do?
+a) stay closed and still  b) open and stretch wide, then close as you land  c) touch the ground
+**Answer: b) open and stretch wide, then close as you land** — that opening and closing on the mat is the star jump.
+
+**22. (Sub lesson 9)** When you rotate left and right (መሽከርከር) in this part, where are your arms?
+a) raised  b) folded on the chest  c) holding a ball
+**Answer: a) raised** — the turn is done with the arms raised, controlled and upright.
+
+**23. (Sub lesson 9)** Where is the star jump done in this part?
+a) on a chair  b) in water  c) on a mat
+**Answer: c) on a mat** — always work on a mat.
+
+**24. (Sub lesson 10)** Which of these is done in "Rolling, jumping and turning — the Grade 1 guide's second body parts (teacher guide — evidence)"?
+a) sitting still and watching only  b) a movement from another lesson entirely  c) forward-roll preparation tucked on a mat, forward-and-back steps, crouch-stand jump sequences, and pivot turns left and right in place
+**Answer: c) forward-roll preparation tucked on a mat, forward-and-back steps, crouch-stand jump sequences, and pivot turns left and right in place**
+
+**25. (Sub lesson 10)** A learner doing "Rolling, jumping and turning — the Grade 1 guide's second body parts (teacher guide — evidence)" correctly is —
+a) forward-roll preparation tucked on a mat, forward-and-back steps, crouch-stand jump sequences, and pivot turns left and right in place  b) sitting still and resting  c) watching only, never moving
+**Answer: a) forward-roll preparation tucked on a mat, forward-and-back steps, crouch-stand jump sequences, and pivot turns left and right in place**

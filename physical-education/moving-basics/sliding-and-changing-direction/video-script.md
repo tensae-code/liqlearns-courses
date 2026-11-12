@@ -14,4 +14,6 @@ Changing direction at speed, combined. Run fast and change direction sharply wit
 
 Turning at the cones (teacher guide — evidence). Sprint to the first cone, turn, sprint to the next cone, turn, and sprint on, following the T-shaped cone course in the Grade 4 teacher guide.
 
+Change direction, roll to the target, obstacle walking (teacher guide — evidence). Run! Signal! Turn — sharp — do not fall. Step, step… roll to the target. ግልቢያ! Now walk the obstacle line: over, around, over, around. Slow and balanced.
+
 Now you. Do it slowly. Do it safely. Name it while you do it.

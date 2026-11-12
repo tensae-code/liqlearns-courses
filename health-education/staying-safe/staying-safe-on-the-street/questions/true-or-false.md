@@ -13,3 +13,6 @@ Say if it is true or false.
 
 **4. (Sub lesson 4)** 'Make believe' — exaggerating a complaint — helps the real issues surface.
 **Answer: False**
+
+**5. (Sub lesson 1)** The Grade 9 guide teaches that where your life hangs in the balance, there is no rule in street fighting — and it teaches that framing together with the ethics of self-defence.
+**Answer: True**

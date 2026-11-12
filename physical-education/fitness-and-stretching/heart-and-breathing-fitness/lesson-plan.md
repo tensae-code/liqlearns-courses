@@ -16,6 +16,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 6. **Heart and breathing fitness — Grade 5 movements** — walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing.
 7. **Heart and breathing fitness — Grade 6: pulse, skipping and stepping** — taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box.
 8. **Cardio fitness — Grade 7: jacks, hop squats and ropes** — cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest.
+12. **Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence)** — solo rope turns counted in fives, and entering a turning long rope, jumping three to five times and leaving in turn without stopping the rope.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -31,6 +32,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 6. Do and explain: walking, rope jumping, jumping jacks and the side-jump lunge that build the heart and breathing.
 7. Do and explain: taking the pulse at the wrist or neck (15 seconds × 4), travelling and group skipping, knee-lift running and step-ups on a 30–40 cm box.
 8. Do and explain: cardiovascular endurance work — jumping jacks, in-and-out hopping squats and rope jumping on the balls of the feet, at least a minute each with 30 seconds' rest.
+12. Do and explain: solo rope turns counted in fives, and entering a turning long rope, jumping three to five times and leaving in turn without stopping the rope.
 
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
@@ -57,6 +59,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 
 - IMAGE [Picture 13728]: a picture of a child doing the step-up test on a 20–30 cm step while a partner times it with a stopwatch — the student names the movement and copies it safely.
 - GIF [GIF 13729]: the step-up rhythm — up and down on the step in time — the student watches the movement, then does it slowly, then at full speed.
+
+- IMAGE [Picture 34806]: a child skipping with their own rope, mid-jump inside the turning rope — the student watches/names the movement, then copies it safely.
+- GIF [GIF 34822]: solo rope skipping — the rope turning over and under in a steady rhythm — the student watches/names the movement, then copies it safely.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

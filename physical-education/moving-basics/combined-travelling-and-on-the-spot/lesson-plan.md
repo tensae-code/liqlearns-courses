@@ -12,6 +12,12 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **Combined travelling movements** — travelling skills chained — through a ring, ball between the legs, sack jump and run out.
 3. **Combined movements on the spot** — on-the-spot combinations — holding a stretched leg and reaching to touch it.
 4. **Travelling and on-the-spot, chained together** — one chain — travel, work on the spot, travel again.
+5. **What fundamental movement skills are — Grade 3 (teacher guide — evidence)** — the most-used capacity in daily life; strong body parts and social/psychological growth; the chapter's three parts and outcomes. (Sub lesson 5 in lesson/lesson.md.)
+6. **How far can our team step? Hunter and Hunted (teacher guide — evidence)** — team distance stepping, each learner starting where the last stopped; then Hunter and Hunted, where the caught join the hunters. (Sub lesson 6 in lesson/lesson.md.)
+7. **First movement skills — the Grade 1 chapter opener (teacher guide — evidence)** — fundamental movement skills are the base laid in childhood — control of body position and health basics built by joining movements in varied activities.
+8. **Moving in place — bend, stretch, keep your balance (teacher guide — evidence)** — bending forward to touch the toes and moving body parts without travelling, keeping balance.
+9. **Moving my body well — the Grade 2 chapter opener (teacher guide — evidence)** — fundamental skills using the whole body — moving fast with a direction change without falling, moving in a small space, and working with partners.
+10. **Moving in my own space — the Grade 2 in-place skills (teacher guide — evidence)** — moving the hands, feet and head slowly and with control inside a small marked space, without travelling.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +28,12 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Do and explain: travelling skills chained — through a ring, ball between the legs, sack jump and run out.
 3. Do and explain: on-the-spot combinations — holding a stretched leg and reaching to touch it.
 4. Do and explain: one chain — travel, work on the spot, travel again.
+5. Say what a fundamental movement skill is, where you use it, and the two fruits it bears. (Sub lesson 5 in lesson/lesson.md.)
+6. Play the team distance-stepping chain and Hunter and Hunted inside the marked field. (Sub lesson 6 in lesson/lesson.md.)
+7. Do and explain: fundamental movement skills are the base laid in childhood — control of body position and health basics built by joining movements in varied activities.
+8. Do and explain: bending forward to touch the toes and moving body parts without travelling, keeping balance.
+9. Do and explain: fundamental skills using the whole body — moving fast with a direction change without falling, moving in a small space, and working with partners.
+10. Do and explain: moving the hands, feet and head slowly and with control inside a small marked space, without travelling.
 
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
@@ -32,6 +44,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
    - ADD IMAGE [Picture 13507]: a picture of a child jumping in a sack, then stepping out and running — the student names the movement and copies it safely.
    - ADD GIF [GIF 13508]: the sack chain — jump in, jump forward, step out and run — the student watches first, then copies the movement.
    - ADD AUDIO: the movement names and counts read aloud — the student says them along with the voice.
+   - ADD IMAGE [Picture 34900]: a picture of the three families of fundamental movement — in place, travelling, with objects — the student names each family and shows one movement from it.
+   - ADD IMAGE [Picture 34901]: a picture of a team stepping out a growing distance chain — the student points to where each learner starts and says why the total grows.
 3. **Say it to your companion** — name each movement and say what it trains (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching — served at the learner's level (levels.md).
@@ -42,7 +56,12 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - IMAGE [Picture 13507]: a picture of a child jumping in a sack, then stepping out and running — the student names the movement and copies it safely.
 - GIF [GIF 13508]: the sack chain — jump in, jump forward, step out and run — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
+- IMAGE [Picture 34900]: a picture of the three families of fundamental movement — in place, travelling, with objects — the student names each family and shows one movement from it.
+- IMAGE [Picture 34901]: a picture of a team stepping out a growing distance chain — the student points to where each learner starts and says why the total grows.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
+
+- IMAGE [Picture 34800]: a child bending forward to touch the toes, a partner standing tall beside — the student watches/names the movement, then copies it safely.
+- GIF [GIF 34823]: bend and reach — fold forward to touch the toes and come back up slowly — the student watches/names the movement, then copies it safely.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

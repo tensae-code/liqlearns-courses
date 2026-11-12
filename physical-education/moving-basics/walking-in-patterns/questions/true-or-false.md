@@ -38,3 +38,9 @@ Say true or false.
 
 **12. (Sub lesson 6)** In "Walking drills that stretch you as you go — Grade 9 (teacher guide — evidence)", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**13. (Sub lesson 7)** In this lesson, "Selame Selame — greet, pass the cloth, change places (teacher guide — evidence)" teaches: moving around a circle, greeting and changing places on the signal while a cloth passes hand to hand.
+**Answer: True**
+
+**14. (Sub lesson 7)** In "Selame Selame — greet, pass the cloth, change places (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

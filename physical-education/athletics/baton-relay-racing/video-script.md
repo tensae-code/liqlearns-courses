@@ -15,3 +15,5 @@ The downsweep changeover. Downsweep is the second technique: the incoming runner
 Now you. Do it slowly. Do it safely. Name it while you do it.
 
 Relay exchanges in motion — Grade 9. A relay team has four runners and three exchanges, and the fourth runner crosses the finish.
+
+The first relay — Grade 3 (teacher guide — evidence). የደርስ መልስ ሩጫ! Run to the marker. Run back. Hand over — the next runner goes! And the broom game: watch the sweeper… now copy, in rows, together.

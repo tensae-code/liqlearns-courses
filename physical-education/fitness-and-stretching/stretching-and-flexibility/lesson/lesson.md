@@ -56,6 +56,14 @@ Warm up first — jogging or calisthenics to raise your body temperature — bef
 
 [GIF 13918 — the heel-to-buttock stretch with a flat back, held, then released]
 
+## Sub lesson 11 — Flexibility — the Grade 5 guide: range of motion and the seated toe-touch (teacher guide — evidence)
+
+**Flexibility** is the joints' ability to move through their **natural range of motion**. Flexibility work must be done with the **joints warmed** — warm joints first, then stretch.
+
+The guide's task is the **seated toe-touch**: sit with your **legs straight**, **reach forward slowly** toward your toes, **hold**, and **return**. **Do not bounce.** Do it with **both legs**, then with **each leg** on its own.
+
+[Picture 35108 — a seated toe-touch reach, held gently — reach slowly, hold, no bouncing]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

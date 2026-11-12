@@ -25,3 +25,9 @@ Say true or false.
 
 **8. (Sub lesson 4)** In "Relay exchanges in motion — Grade 9", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**9. (Sub lesson 5)** The Grade 3 relay and broom game sit inside object (manipulative) movement skills.
+**Answer: True**
+
+**10. (Sub lesson 5)** In the broom game, each learner sweeps in a different way at a different time.
+**Answer: False** — everyone copies the shown movement, in rows, together.

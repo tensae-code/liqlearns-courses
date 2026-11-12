@@ -26,6 +26,9 @@ countries: Ethiopia
 | Sub lesson 6 — the Fisherman game; Form a Family; Abo Yaeqob; Pass It Back (teacher guide — evidence) | Ethiopia, *Grade 2 Teacher Guide*, §§3.2–3.3, printed pp. 31–38 |
 | Sub lesson 7 — follow-the-leader row; tug-of-war and self-knowledge (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide*, §3.1.1, printed pp. 29–30 |
 
+| Sub lesson 8 — Myself and others — the Grade 2 chapter opener (teacher guide — evidence) | Ethiopia, *Grade 2 Teacher Guide*, Chapter 3 introduction (teacher guide — evidence), printed pp. 26–27 |
+| Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 5 (teacher guide — evidence) | Ethiopia, *Grade 1 Teacher Guide*, Chapter 3 summary + assessment answers, printed pp. 34–35 (teacher guide — evidence) |
+| Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 6 (teacher guide — evidence) | Ethiopia, *Grade 2 Teacher Guide*, Chapter 3 summary + assessment answers, printed pp. 40–41 (teacher guide — evidence) |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 1 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.
@@ -46,4 +49,4 @@ The Grade 1 book's Chapter 3 games are pictured and named, and the placements re
 
 The Grade 2 student book's §3.2 prose is thin in the text layer (the placements say so): its sub lesson rests on the contents title plus the pictured teaching, and no game names have been invented for it.
 
-Searchable tags: games for playing together, handkerchief snatch መሀረብ ንጥቂያ, Akukulu Alnegam አኩኩሉ አልነጋም, three-legged game, Fisherman game ዓሣ አጣማጅ, tug-of-war ገመድ ጉተታ, Ethiopia HPE
+Searchable tags: games for playing together, handkerchief snatch መሀረብ ንጥቂያ, Akukulu Alnegam አኩኩሉ አልነጋም, three-legged game, Fisherman game ዓሣ አጣማጅ, tug-of-war ገመድ ጉተታ, Ethiopia HPE, Myself and others — the Grade 2 chapter opener (teacher guide — evidence)

@@ -17,3 +17,11 @@ In threes: one attacker, one closing defender, one receiver each side. The attac
 ## Distance ladder
 
 Mark three shooting distances. Each learner picks one, shoots five, then moves the mark by their own judgement and shoots five more — and writes why they moved it.
+
+## The two questions
+
+Play any game from this lesson. Before one throw or one hold, stop and ask aloud: is it right — and is it fair to the people around me? Play on only when both answers are yes.
+
+## Teacher-guide parts (added depth)
+- **Squat and stand; the Green-Yellow-Red game (teacher guide — evidence):** do it slowly first — squatting and standing to a count, and moving or freezing on the Green-Yellow-Red colour calls. Stop if anything hurts; work beside a partner or teacher.
+

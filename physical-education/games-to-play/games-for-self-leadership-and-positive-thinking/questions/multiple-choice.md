@@ -25,3 +25,11 @@ a) Being a good sportsperson; accepting and respecting diversity  b) Winning; bo
 **6. (Sub lesson 3) ** What does a good sportsperson accept?
 a) Results — and other people  b) Only their own wins  c) Nothing
 **Answer: a) Results — and other people**
+
+**7. (Sub lesson 2) ** The Grade 4 guide's summary names the subject's aim as the whole person — which two words carry it?
+a) ሰውነት (the person) and መጎልመሻ (development)  b) speed and height  c) winning and losing
+**Answer: a) ሰውነት (the person) and መጎልመሻ (development)**
+
+**8. (Sub lesson 3) ** Social relationship is built, in the guide's written answers, when learners…
+a) perform together and accept each other's differences  b) always play alone  c) leave different learners out
+**Answer: a) perform together and accept each other's differences**

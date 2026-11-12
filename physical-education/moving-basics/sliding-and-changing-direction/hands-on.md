@@ -13,3 +13,9 @@ Do the main movement ten times, counting aloud. Stop if anything hurts. Rest, br
 
 ## If it is hard
 Do the youngest part only, on the spot, at walking speed, beside a partner or a wall for balance. Smaller and slower is still the lesson.
+
+## The Grade 3 teacher-guide part
+
+**Signal turns.** A partner claps or calls; the runner changes direction at every signal, keeping balance. Swap the caller. A learner using a wheelchair turns the chair sharply at the signal with a helper nearby — same skill, same game.
+
+**The obstacle line.** Lay cones, stones or bags in a row. Walk it stepping over and around each one. Then roll to a target flag on a mat at the end of a short stepping run.

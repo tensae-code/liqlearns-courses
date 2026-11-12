@@ -64,3 +64,14 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Fix-build extension (2026-11-12, HPE-FIX-4)
+
+New sub lessons, in order:
+10. **Abarosh Chase — አባሮሽ** — matched teams; chasers catch all the chased within the first five minutes; winners meet the next team; played reflectively to learn communication (Grade 7 student, §2.2.1, printed pp. 14–17).
+11. **Cooperation skills — the Grade 7 framing** — how is our cooperation, what must improve; growing communication and cooperation in games improves them in the rest of life (Grade 7 student, §2.5, printed pp. 23–24). Kept as its own part beside Sub lesson 5's different Grade 6 definition.
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+Extension add-ons:
+- ADD IMAGE [Picture 35102]: a picture of chasers tagging runners in an open field — the student names the chasers and the chased.
+- ADD GIF [GIF 35103]: the chase-and-tag mechanic — the student watches first, then plays a short chase round.

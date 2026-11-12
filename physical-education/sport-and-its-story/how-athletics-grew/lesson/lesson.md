@@ -24,6 +24,10 @@ The Grade 8 book surveys **Africa — a continent of 54+ countries** — and its
 
 Grade 9's history keeps Ethiopia inside the world story: **Abebe Bikila retained his Olympic marathon title in Tokyo, wearing shoes, with another world record after Rome**. Grade 10 surveys the same three scopes — world (athletics changing with the world's political and social evolution; **even the IAAF's name was changed, in 2001**), Africa (a contribution reaching back to before the IAAF's formation, Maria Mutola among its champions), and Ethiopia — the road this lesson began on, now walked at full length.
 
+## The Grade 10 guide's telling (teacher guide — evidence)
+
+The Grade 10 teacher guide frames the same history in three short tellings, and its Africa telling adds the depth of field: **African athletes' huge contribution stretches back to the very foundation of the IAAF — the International Amateur Athletics Federation** — and **their prominence grew from the 1960s** onward. Its world telling is the frame of modern athletics, its major events and its world-class athletes. And its Ethiopian telling fixes the pivotal point once more: **Abebe Bikila's barefoot marathon victory — and, wearing shoes this time, his retained title in Tokyo four years later**. Two crowns, one barefoot and one in shoes: that is the guide's chosen centre of the whole history.
+
 ## Say it to your companion
 
 Tell your companion the three base movements and one way the sporting world of today differs from the ancient festivals.

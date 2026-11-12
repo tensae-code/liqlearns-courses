@@ -24,6 +24,14 @@ Hop on one foot. Hop to touch a handkerchief. Hop on one foot and land on two fe
 
 Jump and open your legs while your arms rise sideways over your head; jump and close again — the jumping jack. Then jump forward and backward over a line on the ground, landing on two feet, again and again without stopping.
 
+## Sub lesson 5 — Jumping the long rope together (teacher guide — evidence)
+
+A long rope, four children. Two children turn the rope — steady, even turns. Two jump together in the middle, in rhythm, as the rope passes under their feet (ስዕል 2.2 — የገመድ ዝላይ, long-rope jumping). The jumpers keep the turners' beat, and the turners keep the jumpers' beat. The printed chant that goes with it is named for the game itself — ገመድ ዝላይ, "rope jump" — a chant that teaches the group to hold one rhythm together.
+
+[Picture 34803 — a long rope turning around two children jumping together, a turner at each end]
+
+[GIF 34821 — the long rope turning — two children jumping together as the rope passes under their feet]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

@@ -25,3 +25,7 @@ Pass mark: hold focus on a called task while distractions happen around you, and
 
 ## Sub lesson 8 — Spot the Difference and the Learning Logo — watching people closely (teacher guide — evidence)
 Pass mark: run a Spot the Difference round (observe, turn, change, turn back, name the changes) and give two bench-support ideas for the Learning Logo scenario.
+
+## Fix-build additions (2026-11-12)
+Sub lesson 5 now opens with its framing: pass mark — the learner defines social relations and awareness in the book's words (helping, empathy, tolerance, understanding others' feelings) before playing the two games.
+Sub lesson 8 now carries its knowledge part: pass mark — the learner defines social awareness and relationship skills, tells verbal from nonverbal communication with one game example of each, and names four collaboration skills and four leadership skills from the lists.

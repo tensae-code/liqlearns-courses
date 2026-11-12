@@ -60,3 +60,12 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 
 Extension add-ons:
 - ADD PICTURE [Picture 13914]: a 4-4-2 formation on a pitch — four defenders, four midfielders, two forwards — the student watches/names the movement, then copies it safely.
+
+## Fix-build extension (HPE-FIX-5)
+
+New sub lesson, in order:
+6. **Football rules — the guide's own pass (teacher guide — evidence)** — FIFA's rules govern everywhere; the 110 m × 75 m international pitch as printed, eleven players, two 45-minute halves; the ball in and out of play, scoring, offside, the throw-in and the corner kick; Pierluigi Collina as the model official (see lesson/sources.md).
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+Fix-build add-on:
+- ADD PICTURE [Picture 35204]: a football pitch, 110 m by 75 m, with its areas named — the student names the pitch's areas and says the match's two halves.

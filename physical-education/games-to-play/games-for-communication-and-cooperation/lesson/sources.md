@@ -31,6 +31,9 @@ countries: Ethiopia
 | Sub lesson 6 — The bottle target — communication, awareness and applause | Ethiopia, *Grade 7 Student Textbook*, item 10 (§§2.2–2.3), printed pp. 18–19 |
 | Sub lesson 7 — Fair play, compassion and getting along (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, §2.2, printed pp. 18–21 |
 
+| Sub lesson 10 — Abarosh Chase — አባሮሽ | Ethiopia, *Grade 7 Student Textbook*, §2.2.1 item 9, printed pp. 14–17 |
+| Sub lesson 11 — Cooperation skills — the Grade 7 framing | Ethiopia, *Grade 7 Student Textbook*, §2.5 item 14, printed pp. 23–24 |
+| Prove-it questions folded from the book's own Chapter 2 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, *Grade 7 Teacher Guide*, Chapter 2 review answers, printed pp. 25–26 (teacher guide — evidence) |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 3 student textbook is complete (see the book line above); nothing in this lesson rests on a partial scan of it.

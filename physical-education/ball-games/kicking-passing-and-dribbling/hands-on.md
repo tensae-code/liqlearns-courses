@@ -20,3 +20,8 @@ Do the new parts in order, slowly first: Passing with the inside and outside of 
 
 ## The Grade 8–10 parts
 Do the new parts in order, slowly first: Shooting at goal — Grade 8, Chest control, first touch and heading — Grade 9, Tackling, thigh control and goalkeeping — Grade 10. Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.
+
+## Teacher-guide parts (added depth)
+- **Kicking a ball, and up-and-down steps (teacher guide — evidence):** do it slowly first — standing beside a ball and kicking it toward a partner or target with feet planted in turn, and stepping up onto and down from a low place in turn. Stop if anything hurts; work beside a partner or teacher.
+- **Passing the football; hit the target (teacher guide — evidence):** do it slowly first — passing a football along the ground between partners over five metres, receiving with one foot, and throwing or kicking at a set target to score. Stop if anything hurts; work beside a partner or teacher.
+

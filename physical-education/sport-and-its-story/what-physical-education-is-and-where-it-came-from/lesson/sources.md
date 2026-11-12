@@ -16,6 +16,9 @@ countries: Ethiopia
 | Sub lesson 2 — "Modern" PE — from the feudal age to today | Ethiopia, *Grade 5 Student Textbook*, §1.1, printed pp. 1–2 |
 | Sub lesson 3 — Four words, four growths (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, §1.1, printed pp. 2–4 |
 | Sub lesson 4 — The four purposes — the Grade 6 pass | Ethiopia, *Grade 6 Student Textbook*, item 1, printed pp. 1–3; and *Grade 6 Teacher Guide*, §1.1, printed pp. 1–2 (teacher guide — evidence) |
+| Prove-it questions folded from the book's own Chapter 1 summary exercises — Sub lesson 1 | Ethiopia, *Grade 5 Student Textbook*, Chapter 1 summary exercises, printed p. 7 |
+| Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 3 (teacher guide — evidence) | Ethiopia, *Grade 5 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
+| Prove-it questions folded from the book's own Chapter 1 review — Sub lesson 4 (teacher guide — evidence) | Ethiopia, *Grade 6 Teacher Guide*, Chapter 1 summary + assessment answers, printed pp. 10–11 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

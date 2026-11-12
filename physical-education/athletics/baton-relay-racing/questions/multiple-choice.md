@@ -49,3 +49,15 @@ a) sitting still and watching others do the movement  b) skipping every stage an
 **12. (Sub lesson 4)** A learner doing "Relay exchanges in motion — Grade 9" correctly is —
 a) skipping every stage and starting with the hardest game form  b) A relay team has four runners and three exchanges, and the fourth runner crosses the finish.  c) sitting still and watching others do the movement
 **Answer: b) A relay team has four runners and three exchanges, and the fourth runner crosses the finish.**
+
+**13. (Sub lesson 5)** In the Grade 3 relay run (የደርስ መልስ ሩጫ), you run…
+a) To the far marker and back, then hand over to the next learner  b) In a circle until you are tired  c) Only to the marker, then walk away
+**Answer: a) To the far marker and back, then hand over to the next learner**
+
+**14. (Sub lesson 5)** Your relay run is finished when…
+a) You reach the far marker  b) The handover is done and your teammate is moving  c) The teacher stops watching
+**Answer: b) The handover is done and your teammate is moving**
+
+**15. (Sub lesson 5)** In the broom game (መሣረቢን ያየችሁ ጨዋታ), the learners…
+a) Invent their own movements  b) Sit and watch the whole game  c) Copy the shown sweeper's movements, in rows
+**Answer: c) Copy the shown sweeper's movements, in rows**

@@ -16,6 +16,7 @@ This lesson is one whole lesson — it has no sub lessons (a short, single-skill
 ## What the learner can do when it ends
 1. Tell athletics' growth as the Grade 7 book frames it: a long process from old movement to modern sport to huge commercial industry.
 2. Say why athletics is called the base sport, in the Grade 5 guide's words: running, jumping and throwing are the natural movements other sports grow from.
+3. Tell the Grade 10 guide's three tellings (world, African, Ethiopian — teacher guide, evidence): give the IAAF's full name, say African prominence grew from the 1960s, and name Bikila's two marathon crowns. (Fix build HPE-FIX-5; see lesson/sources.md, Grade 10 teacher guide, printed pp. 26–28.)
 
 ## What you need
 Nothing — a knowledge lesson.

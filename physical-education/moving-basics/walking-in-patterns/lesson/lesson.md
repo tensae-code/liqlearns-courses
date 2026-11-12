@@ -32,6 +32,12 @@ Walk tall, the way the Grade 8 guide teaches it. Keep your head up, with your ch
 
 These walking drills are dynamic stretching — you stretch by moving. High knees: take an exaggerated step, drive the knee high and push up on the toes of the other foot; your arms stay bent at 90 degrees, hands rising to chin level and back past the rear pocket. Straight-leg kicks: kick up and touch your toes with the opposite hand — the first set at about three-quarter effort, the second set full. Then walk a forward lunge, and a side lunge, from one end of the ground to the other. Stretch only when your muscles are warm.
 
+## Sub lesson 7 — Selame Selame — greet, pass the cloth, change places (teacher guide — evidence)
+
+Movement first has directions: ወደፊትና ወደ ኋላ (forward and back), ወደ ቀኝና ወደ ግራ (to the right and to the left), and sliding to the side. The game that practises them is Selame Selame — ሰላሜ ሰላሜ: walk around in a circle, greet each other as you pass, and a scarf or cloth (ጨርቅ/ፎጣ) travels hand to hand around the ring. On the signal — change places! Everyone moves, greets, and settles somewhere new, and the cloth keeps travelling.
+
+[Picture 34808 — children in a circle in the Selame Selame game, an orange cloth passed hand to hand]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

@@ -17,3 +17,7 @@ Lines of six or more race the overhead relay round a cone 30 m away. A dropped b
 ## Turn Back circles
 
 Circles of 5, 7 and 9 attempt Turn Back. The class records which size was hardest and why — communication, not strength, is the usual answer.
+
+## Abarosh and the two questions
+
+Play a short Abarosh round in an open space: one chasing team, one chased team, five minutes on a phone or a count. Afterwards, answer the two questions together: how was our cooperation — and what must improve next time?

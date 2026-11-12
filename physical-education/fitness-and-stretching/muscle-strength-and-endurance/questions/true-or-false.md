@@ -68,3 +68,9 @@ Say true or false.
 
 **22. (Sub lesson 11)** In "Testing muscle endurance and strength — Grade 10", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**23. (Sub lesson 8)** The Grade 7 guide's chapter summary lists muscular endurance among the parts of physical fitness it restates.
+**Answer: True**
+
+**24. (Sub lesson 6)** Muscle strength, in the Grade 6 guide's summary, is the power to work against resistance and to endure fatigue for a long time.
+**Answer: True**

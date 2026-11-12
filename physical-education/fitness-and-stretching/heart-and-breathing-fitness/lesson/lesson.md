@@ -60,6 +60,14 @@ Now you design the training. Cardiovascular endurance is the ability of the hear
 
 The Grade 10 book lists the pure aerobic activities: walking, jogging, running, cycling, swimming, aerobics, rowing, stair climbing, hiking, cross-country skiing and many dances. The best programmes are mixed — whole-body aerobic work together with strengthening work — at moderate intensity. Pick three from the list and do each in turn.
 
+## Sub lesson 12 — Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence)
+
+Rope jumping is heart-and-lungs work. With your own rope — በግል ገመድ መዝለል — turn and jump, and count your turns in fives: five, ten, fifteen, twenty. With the long rope — በቡድን ገመድ መዝለል — the group turns together: run in, jump three to five times, and run out in your turn, without ever stopping the rope. The rope keeps turning; the jumpers keep changing.
+
+[Picture 34806 — a child skipping with their own rope, mid-jump inside the turning rope]
+
+[GIF 34822 — solo rope skipping — the rope turning over and under in a steady rhythm]
+
 ## Say it to your companion
 
 Tell your companion the name of each movement in this lesson, and what it trains. Your companion does each movement slowly while you name it. Then swap.

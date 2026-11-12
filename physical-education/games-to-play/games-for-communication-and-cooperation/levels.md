@@ -28,3 +28,9 @@ Pass mark: play Pair Hunting to its printed scoring (last uncaught pupil wins) a
 
 ## Sub lesson 9 — Ball in a Box and Special Basketball — the Grade 8 cooperation games
 Pass mark: run Ball in a Box until every pupil has run, and split a class into four equal teams for Special Basketball.
+
+## Sub lesson 10 — Abarosh Chase — አባሮሽ
+Pass mark: the learner does and explains — matched teams, all the chased caught within the first five minutes, winners meeting the next team — and names one behaviour or attitude they watched to learn communication.
+
+## Sub lesson 11 — Cooperation skills — the Grade 7 framing
+Pass mark: the learner explains — the two check questions (how is our cooperation; what must improve) and how growing communication and cooperation in games improves them in the rest of life.

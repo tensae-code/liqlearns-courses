@@ -9,6 +9,8 @@ Match each part name to what it teaches.
 5. Passing with the inside and outside of the foot — Grade 5 — e
 6. Football dribbling — Grade 6 — f
 7. Kicking and controlling — Grade 7 — g
+8. Kicking a ball, and up-and-down steps (teacher guide — evidence) — h
+9. Passing the football; hit the target (teacher guide — evidence) — i
 
 What each teaches:
 a) kicking still, kicking after steps, passing, and receiving and controlling a pass
@@ -18,5 +20,7 @@ d) inside-of-the-foot dribbling kept close, striking to a target, and setting ov
 e) passing and receiving with the inside of the foot at 4, 6, 8 and up to 10 metres, with the outside of the foot, and one-touch circle play using both
 f) dribbling with the inside and the outside of the foot — 20 metres to a partner, between cones, then small team football games using the dribble
 g) kicking with the inside and the front of the foot, controlling with the sole against a wall at 7, 5 and 3 metres, and controlling with the front of the foot at 10 metres
+h) standing beside a ball and kicking it toward a partner or target with feet planted in turn, and stepping up onto and down from a low place in turn
+i) passing a football along the ground between partners over five metres, receiving with one foot, and throwing or kicking at a set target to score
 
-**Answer key:** 1–a · 2–b · 3–c · 4–d · 5–e · 6–f · 7–g
+**Answer key:** 1–a · 2–b · 3–c · 4–d · 5–e · 6–f · 7–g · 8–h · 9–i

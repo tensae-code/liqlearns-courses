@@ -12,6 +12,7 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **Changing direction on shapes** — running the marked numbers, letters and rectangle and changing direction at the corners.
 3. **Changing direction at speed, combined** — running fast, combined and correctly, changing direction without stopping.
 4. **Turning at the cones (teacher guide — evidence)** — sprinting between cones and turning sharply at each cone.
+5. **Change direction, roll to the target, obstacle walking (teacher guide — evidence)** — combined fundamental movement skill: changing direction at a signal without losing balance (wheelchair adaptation included), stepping and rolling to a target, and walking an obstacle line.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +23,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Do and explain: running the marked numbers, letters and rectangle and changing direction at the corners.
 3. Do and explain: running fast, combined and correctly, changing direction without stopping.
 4. Do and explain: sprinting between cones and turning sharply at each cone.
+5. Change direction at a signal without losing balance, roll to a target on a mat, and walk an obstacle line.
 
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
@@ -32,6 +34,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
    - ADD IMAGE [Picture 13505]: a picture of children sliding sideways in a line — the student names the movement and copies it safely.
    - ADD GIF [GIF 13506]: the sideways slide — step, close, step — left then right — the student watches first, then copies the movement.
    - ADD AUDIO: the movement names and counts read aloud — the student says them along with the voice.
+   - ADD IMAGE [Picture 34902]: a picture of a child changing direction sharply at a signal — the student names the moment the direction changes and copies it safely.
+   - ADD GIF [GIF 34904]: step, step, roll to the target on a mat — the student watches first, then copies the movement on a mat.
+   - ADD IMAGE [Picture 34903]: a picture of a child stepping through an obstacle line of cones — the student walks the line in words first, then on the ground.
 3. **Say it to your companion** — name each movement and say what it trains (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching — served at the learner's level (levels.md).
@@ -42,6 +47,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - IMAGE [Picture 13505]: a picture of children sliding sideways in a line — the student names the movement and copies it safely.
 - GIF [GIF 13506]: the sideways slide — step, close, step — left then right — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
+- IMAGE [Picture 34902]: a picture of a child changing direction sharply at a signal — the student names the moment the direction changes and copies it safely.
+- GIF [GIF 34904]: step, step, roll to the target on a mat — the student watches the movement, then does it slowly, then at full speed, on a mat.
+- IMAGE [Picture 34903]: a picture of a child stepping through an obstacle line of cones — the student walks the line in words first, then on the ground.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

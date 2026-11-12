@@ -18,6 +18,10 @@ Passing with the inside and outside of the foot — Grade 5. Pass and receive wi
 Football dribbling — Grade 6. Dribbling (ኳስ መንዳት) moves the ball with you, close to the feet.
 Kicking and controlling — Grade 7. Kick with the inside of the foot, and with the front of the foot, from a correct stance.
 
+Kicking a ball, and up-and-down steps (teacher guide — evidence). Object-control basics — በብቃት የመሰረት ክህሎት — done accurately, with partners. Kicking a ball — ኳስ በእግር መምታት: stand beside the ball, swing your leg, and kick toward a partner or a target; feet planted in turn, left and right. Up-and-down movement — የመውጣት መውረድ እንቅስቃሴ: step up onto a low place and down again, in turn, one foot after the other, steady and controlled.
+
+Passing the football; hit the target (teacher guide — evidence). The football passing game — የእግር ኳስ ቅብብሎሽ ጨዋታ: in pairs or groups, pass the ball with your feet along the ground across a five-metre space marked by two scarves; receive with one foot and pass it back. Hit the target — ዒላማ መምታት: throw or kick at a set target and score when you hit it. Accuracy is the game — a soft, true pass and a aimed shot beat a wild one every time.
+
 Now you. Do it slowly. Do it safely. Name it while you do it.
 
 Shooting at goal — Grade 8. Shoot at goal in stages, exactly as the book builds it.

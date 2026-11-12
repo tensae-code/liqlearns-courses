@@ -65,3 +65,22 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Fix-build extension (2026-11-12, HPE-FIX-4)
+
+New sub lessons, in order:
+11. **Managing myself on purpose — Capture the Flag, Three Legs, Trust (teacher guide — evidence)** — the Grade 6 guide's §2.1 set: purpose and its marks, the blocks to self-management, the markers raid on a 20 m × 20 m field, the two-legs-tied race, and the trust games (printed pp. 13–16).
+12. **Knowing yourself through games — Grade 7** — the Grade 7 book's own definition: play reveals ability, character and the unknown self; strengthen the good, improve the weak (printed pp. 13–14). This is the Grade 7 book's own part, not the Grade 6 framing of Sub lesson 6.
+13. **Growing inside through games — the Grade 8 chapter opener (teacher guide — evidence)** — social and emotional learning defined; the dropped-catch example; the balanced personality (Grade 8 guide, Chapter 2 introduction, printed p. 16).
+14. **Managing myself and getting along — what the Grade 3 chapter builds (teacher guide — evidence)** — the Grade 3 guide's Chapter 3 opener: movement skills used to build the social and psychological person; the chapter's six themes and its outcomes (Grade 3 guide, Chapter 3 introduction, printed pp. 33–34).
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+Extension add-ons:
+- ADD IMAGE [Picture 35104]: a picture of a capture-the-flag field with markers — the student names the two halves and each team's markers.
+- ADD IMAGE [Picture 35105]: a picture of a three-legged race pair mid-step — the student names the tied legs and why the pair must step together.
+- ADD GIF [GIF 35106]: three-legged running in step together — the student watches first, then copies the movement with a partner.
+- ADD AUDIO: the trust questions (what trusting a person means; how we show trust; how we earn trust) read aloud — the student answers along with the voice.
+
+## HPE fix-build extension add-on (Sub lesson 14)
+
+- ADD IMAGE [Picture 34922]: a picture of managing myself and getting along — wait your turn, respect others, solve it together — the student names which panel matches each theme while the class names a real moment for it.

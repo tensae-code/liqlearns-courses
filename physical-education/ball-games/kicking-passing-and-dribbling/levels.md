@@ -31,3 +31,10 @@ Pass mark: the learner does and explains — chest control, first touch and head
 
 ## Sub lesson 10 — Tackling, thigh control and goalkeeping — Grade 10
 Pass mark: the learner does and explains — tackling, thigh control and goalkeeping — grade 10 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 11 — Kicking a ball, and up-and-down steps (teacher guide — evidence)
+Pass mark: the learner does and explains — standing beside a ball and kicking it toward a partner or target with feet planted in turn, and stepping up onto and down from a low place in turn.
+
+## Sub lesson 12 — Passing the football; hit the target (teacher guide — evidence)
+Pass mark: the learner does and explains — passing a football along the ground between partners over five metres, receiving with one foot, and throwing or kicking at a set target to score.
+

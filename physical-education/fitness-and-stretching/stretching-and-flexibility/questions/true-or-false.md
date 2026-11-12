@@ -62,3 +62,12 @@ Say true or false.
 
 **20. (Sub lesson 10)** In "Flexibility — Grade 10: warm first, never force", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**21. (Sub lesson 11)** Flexibility work must be done with the joints warmed.
+**Answer: True**
+
+**22. (Sub lesson 11)** Bouncing is the right way to reach further in the seated toe-touch.
+**Answer: False** — reach slowly, hold, and return; do not bounce.
+
+**23. (Sub lesson 7)** The Grade 7 guide's chapter summary lists flexibility — moving the joints and muscles through their full range of motion — among the parts of physical fitness.
+**Answer: True**

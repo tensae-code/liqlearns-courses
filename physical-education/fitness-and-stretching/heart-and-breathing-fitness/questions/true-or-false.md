@@ -68,3 +68,12 @@ Say true or false.
 
 **22. (Sub lesson 11)** In "The pure aerobic list — Grade 10", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**23. (Sub lesson 12)** In this lesson, "Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence)" teaches: solo rope turns counted in fives, and entering a turning long rope, jumping three to five times and leaving in turn without stopping the rope.
+**Answer: True**
+
+**24. (Sub lesson 12)** In "Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**25. (Sub lesson 8)** In the guide's review answers, aerobics strengthens the heart.
+**Answer: True**

@@ -13,6 +13,9 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 3. **Toss, chest pass and still-ball kick (teacher guide — evidence)** — self toss-and-catch, two-hand chest pass, and kicking a stationary ball.
 4. **Throw it up and catch it with two hands (teacher guide — evidence)** — throwing up and catching with two hands, then partner throw and catch.
 5. **Ball handling and chest control — Grade 5** — general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet.
+6. **Skills with objects — throw, catch, kick (teacher guide — evidence)** — working with partners and objects — throwing and catching a ball, and kicking.
+7. **Ball control with hands and feet together (teacher guide — evidence)** — catching a thrown ball by hand and trapping a rolling ball with the sole of the foot, in one partner practice.
+8. **Balls into the basket, and heel kicks (teacher guide — evidence)** — throwing small balls one by one into a basket, and jogging in place kicking the heels up to the buttocks.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -25,6 +28,9 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 4. Do and explain: throwing up and catching with two hands, then partner throw and catch.
 
 5. Do and explain: general ball handling and control, and receiving and passing with the chest — cushioning the ball softly so it drops to the feet.
+6. Do and explain: working with partners and objects — throwing and catching a ball, and kicking.
+7. Do and explain: catching a thrown ball by hand and trapping a rolling ball with the sole of the foot, in one partner practice.
+8. Do and explain: throwing small balls one by one into a basket, and jogging in place kicking the heels up to the buttocks.
 
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
@@ -51,6 +57,9 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 
 - IMAGE [Picture 13744]: a picture of a child cushioning a ball on the chest so it drops to the feet — the student names the movement and copies it safely.
 - GIF [GIF 13745]: the chest receive — the ball dropping softly off the chest to the feet — the student watches the movement, then does it slowly, then at full speed.
+
+- GIF [GIF 34824]: throw and catch — a ball travelling between two partners, caught with two hands — the student watches/names the movement, then copies it safely.
+- IMAGE [Picture 34801]: a child catching a ball with two hands while a second ball rests trapped at the foot — the student watches/names the movement, then copies it safely.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
 

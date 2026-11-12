@@ -69,3 +69,19 @@ a) The last pupil runs with it  b) The game ends  c) The ball is hidden
 **17. (Sub lesson 9)** Special Basketball is played by…
 a) Four equal teams  b) Two players only  c) One team
 **Answer: a) Four equal teams**
+
+**18. (Sub lesson 10)** In Abarosh (አባሮሽ), the chasers must catch all the chased within…
+a) the first five minutes  b) one hour  c) the whole day
+**Answer: a) the first five minutes** — then the winners meet the next team.
+
+**19. (Sub lesson 10)** Abarosh is played reflectively — while it runs, you watch the players'…
+a) shoes  b) behaviour and attitudes, to learn communication  c) scores only
+**Answer: b) behaviour and attitudes, to learn communication**
+
+**20. (Sub lesson 11)** The Grade 7 framing asks two questions of your own play. They are…
+a) who won, who lost  b) how is our cooperation, and what must improve  c) who ran fastest
+**Answer: b) how is our cooperation, and what must improve**
+
+**21. (Sub lesson 7) ** The Grade 7 guide's review answers say fair play means respecting…
+a) the rules, your team-mates and opponents, and the officials and their decisions  b) only your own team  c) no one at all
+**Answer: a) the rules, your team-mates and opponents, and the officials and their decisions**

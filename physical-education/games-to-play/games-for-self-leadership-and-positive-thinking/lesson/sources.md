@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — copying a partner's two movements in imitation | Ethiopia, *Grade 4 Student Textbook*, §3.1, printed pp. 19–20 |
 | Sub lesson 2 — the person as body, mind and feelings; self-management defined, with its three parts (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide*, Ch. 3 intro and §3.1, printed pp. 26–28 |
 | Sub lesson 3 — positive attitudes; being a good sportsperson; accepting and respecting diversity (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide*, §3.1.2, printed pp. 31–32 |
+| Prove-it questions folded from the book's own Chapter 3 review — Sub lessons 2–3 (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide*, Chapter 3 summary + assessment answers, printed pp. 38–39 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

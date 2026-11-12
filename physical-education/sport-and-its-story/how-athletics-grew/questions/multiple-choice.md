@@ -25,3 +25,15 @@ a) 1973, with its headquarters in Dakar  b) 1896, in Athens  c) 1999, in Rome
 **6.** At Barcelona 1992, Derartu Tulu became…
 a) The first black African woman to win Olympic gold  b) A swimming champion  c) A referee
 **Answer: a) The first black African woman to win Olympic gold**
+
+**7.** In the Grade 10 guide's telling, IAAF stands for…
+a) International Amateur Athletics Federation  b) International African Athletics Fund  c) Independent Athletics Association of France
+**Answer: a) International Amateur Athletics Federation**
+
+**8.** In the Grade 10 guide's telling, African athletes' prominence in athletics grew from…
+a) The 1960s  b) The 1890s  c) The 2020s
+**Answer: a) The 1960s**
+
+**9.** In the Grade 10 guide's Ethiopian telling, Abebe Bikila in Tokyo…
+a) Retained his marathon title, wearing shoes this time  b) Won his first marathon barefoot  c) Carried the flag but did not run
+**Answer: a) Retained his marathon title, wearing shoes this time**

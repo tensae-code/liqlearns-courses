@@ -34,3 +34,7 @@ Pass mark: the learner does and explains — designing cardio training — grade
 
 ## Sub lesson 11 — The pure aerobic list — Grade 10
 Pass mark: the learner does and explains — the pure aerobic list — grade 10 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 12 — Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence)
+Pass mark: the learner does and explains — solo rope turns counted in fives, and entering a turning long rope, jumping three to five times and leaving in turn without stopping the rope.
+

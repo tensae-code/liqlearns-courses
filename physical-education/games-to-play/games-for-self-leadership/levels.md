@@ -31,3 +31,15 @@ Pass mark: set out the 20–30 m parallel-line field for Rescue from Danger, and
 
 ## Sub lesson 10 — Rolling in Admiration and mindful minutes (teacher guide — evidence)
 Pass mark: run Rolling in Admiration correctly (dice number = number of compliments) and lead the five mindful-meditation steps in order.
+
+## Sub lesson 11 — Managing myself on purpose — Capture the Flag, Three Legs, Trust (teacher guide — evidence)
+Pass mark: the learner does and explains — the marks of a person fit for a purpose, the Capture the Flag markers raid (20 m × 20 m, tagged raiders out), the two-legs-tied race stepped together, and one trust game played safely.
+
+## Sub lesson 12 — Knowing yourself through games — Grade 7
+Pass mark: the learner explains — play reveals ability, character and the unknown self — and names one good thing in their own play to strengthen and one weak thing to improve.
+
+## Sub lesson 13 — Growing inside through games — the Grade 8 chapter opener (teacher guide — evidence)
+Pass mark: the learner explains — social and emotional learning in the guide's words, why a dropped catch is one of its moments, and the three marks of a well-balanced personality.
+
+## Sub lesson 14 — Managing myself and getting along — what the Grade 3 chapter builds (teacher guide — evidence)
+Pass mark: the learner names the chapter's six themes and matches each one to a part of this lesson they have done.

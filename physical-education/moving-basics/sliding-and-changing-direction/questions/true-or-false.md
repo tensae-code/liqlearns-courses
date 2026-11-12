@@ -26,3 +26,9 @@ Say true or false.
 **8. (Sub lesson 4)** In "Turning at the cones (teacher guide — evidence)", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
 
+
+**9. (Sub lesson 5)** In obstacle walking, you step over and around obstacles laid in a row.
+**Answer: True**
+
+**10. (Sub lesson 5)** In the roll-to-the-target task, the roll (ግልቢያ) is done toward a target marker.
+**Answer: True**

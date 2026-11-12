@@ -25,3 +25,10 @@ Pass mark: the learner does and explains — the dive roll — grade 8 (Grades 8
 
 ## Sub lesson 8 — The handstand family — Grade 8
 Pass mark: the learner does and explains — the handstand family — grade 8 (Grades 8–10 depth; see lesson/sources.md).
+
+## Sub lesson 9 — Grade 3 movements — the star jump and turning left and right
+Pass mark: the learner does and explains — the star jump on a mat (open and stretch the arms and legs, then close them to land) and rotating left and right (መሽከርከር) with the arms raised, controlled and upright.
+
+## Sub lesson 10 — Rolling, jumping and turning — the Grade 1 guide's second body parts (teacher guide — evidence)
+Pass mark: the learner does and explains — forward-roll preparation tucked on a mat, forward-and-back steps, crouch-stand jump sequences, and pivot turns left and right in place.
+

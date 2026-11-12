@@ -20,3 +20,7 @@ Do the new parts in order, slowly first: The step-up test and counting the heart
 
 ## The Grade 8–10 parts
 Do the new parts in order, slowly first: The Grade 8 cardio set — zig-zag, skipping, squat jumps, aerobics, Designing cardio training — Grade 9: FITT, jogging and the step-kick, The pure aerobic list — Grade 10. Stop if anything hurts; use a mat, a spotter and soft or appropriate balls where the part says so.
+
+## Teacher-guide parts (added depth)
+- **Rope jumping for fitness — your own rope, and the long rope (teacher guide — evidence):** do it slowly first — solo rope turns counted in fives, and entering a turning long rope, jumping three to five times and leaving in turn without stopping the rope. Stop if anything hurts; work beside a partner or teacher.
+

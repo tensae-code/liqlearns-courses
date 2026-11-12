@@ -25,3 +25,15 @@ Say if it is true or false.
 
 **8. (Sub lesson 8)** After spotting the changes, the two lines swap roles.
 **Answer: True**
+
+**9. (Sub lesson 5)** Tolerance — bearing with others — is part of social relations and awareness.
+**Answer: True**
+
+**10. (Sub lesson 8)** Relationship skills include building positive relationships with diverse individuals and groups, using methods such as active listening.
+**Answer: True**
+
+**11. (Sub lesson 8)** Collaboration means working toward your own goal alone and taking no responsibility for mistakes.
+**Answer: False** — collaboration is working successfully toward a common goal with others: communicating clearly, actively listening, taking responsibility for mistakes and respecting the diversity of colleagues.
+
+**12. (Sub lesson 6) ** In the guide's summary, decision and attention are trained inside activities and competitions.
+**Answer: True**

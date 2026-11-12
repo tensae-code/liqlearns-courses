@@ -13,3 +13,6 @@ Pass mark: the learner does and explains — running fast, combined and correctl
 
 ## Sub lesson 4 — Turning at the cones (teacher guide — evidence)
 Pass mark: the learner does and explains — sprinting between cones and turning sharply at each cone.
+
+## Sub lesson 5 — Change direction, roll to the target, obstacle walking (teacher guide — evidence)
+Pass mark: the learner changes direction at a signal without losing balance, steps and rolls to a target on a mat, and walks a full obstacle line without knocking an obstacle.

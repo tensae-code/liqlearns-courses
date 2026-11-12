@@ -32,6 +32,23 @@ media (13900–13920, 14006–14018). Build logs:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/band-hpe-c1-skills.md`
 and `band-hpe-c2-games.md`.
 
+**Coverage fix build — BUILT 2026-11-12:** the
+placement-coverage audit (562 HPE placements: 103 not
+stocked, 8 citation mismatches) was closed by a seven-band
+fix build. Four lessons were created — Gymnastics: Rules
+and Competition Types, and the Rules of Volleyball,
+Basketball and Handball (the last two families had fallen
+between the original bands) — bringing this course to **63
+lessons**; the G1–G4 teacher guides' chapter openers and
+sections were stocked as labelled evidence across the
+existing lessons, the books' own review sets were folded in
+as prove-it questions, the front matter was filed in
+ABOUT.md, and all 8 citation mismatches were corrected in
+place. 63 new media (34800–34824, 34900–34922, 35100–35108,
+35200–35206). Build logs: `fix-hpe-f1a.md`, `fix-hpe-f1b.md`,
+`fix-hpe-f2.md`, `fix-hpe-f3.md`, `fix-hpe-f4.md`,
+`fix-hpe-f5.md` in the same build-logs folder.
+
 ## Unit 1 — Moving Basics
 
 1. **Combined Travelling and On-the-Spot Movements** (`moving-basics/combined-travelling-and-on-the-spot`) — joining travelling movements together, joining on-the-spot movements together, and chaining the two families in one sequence.
@@ -55,6 +72,7 @@ and `band-hpe-c2-games.md`.
 3. **Gymnastics Basics — Positions, Rolls and Supports** (`gymnastics/gymnastics-basics-rolls-and-supports`) — what gymnastics is, the basic positions, and rolls and supports done safely on a mat.
 4. **Gymnastics with Apparatus** (`gymnastics/gymnastics-with-apparatus`) — gymnastics on apparatus — the box and the bars — always with a helper, always landing in control.
 5. **Moving to a Beat — Rhythmic Movement** (`gymnastics/moving-to-a-beat`) — moving in sequence to a beat — simple sequences first, then continuous, progressive, with equipment, and finally creating your own.
+6. **Gymnastics — Rules and Competition Types** (`gymnastics/gymnastics-rules-and-competition-types`) — the basic laws of gymnastics and its competition families — artistic, rhythmic and aerobics — as the Grade 8 book teaches them.
 
 ## Unit 4 — Athletics
 
@@ -71,6 +89,9 @@ and `band-hpe-c2-games.md`.
 3. **Kicking, Passing and Dribbling** (`ball-games/kicking-passing-and-dribbling`) — kicking and passing with the feet, controlling a ball close, dribbling in a zigzag, and the first net-ball skills.
 4. **Playing the Team Games** (`ball-games/playing-the-team-games`) — putting all the ball skills together in small games and in the full team games — volleyball, football, basketball and handball.
 5. **Volleyball Passing and Setting** (`ball-games/volleyball-passing-and-setting`) — the volleyball family's hands — the forearm pass, the finger pass, setting for a team-mate, and the underarm serves that start the rally.
+6. **The Rules of Volleyball** (`ball-games/the-rules-of-volleyball`) — the volleyball court and its free zone, the net at 9.50–10 m, twelve players and the rotational order, with the Grade 9 guide's rules section as labelled evidence.
+7. **The Rules of Basketball** (`ball-games/the-rules-of-basketball`) — basketball's rules in two passes, Grade 9 then Grade 10 — court, scoring, quarters, throw-ins, time-outs and substitutions, with both guides' rules sections as labelled evidence.
+8. **The Rules of Handball** (`ball-games/the-rules-of-handball`) — handball's colour-banded court and goals, playing time, the ball, fouls and personal punishments, opening with the Grade 9 book and deepened by both guides as labelled evidence.
 
 ## Unit 6 — Games to Play
 

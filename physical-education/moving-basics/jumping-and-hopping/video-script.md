@@ -14,4 +14,6 @@ Hopping on one foot. Hop on one foot.
 
 Jumping jacks and line jumps (teacher guide — evidence). Jump and open your legs while your arms rise sideways over your head; jump and close again — the jumping jack.
 
+Jumping the long rope together (teacher guide — evidence). A long rope, four children. Two children turn the rope — steady, even turns. Two jump together in the middle, in rhythm, as the rope passes under their feet (ስዕል 2.2 — የገመድ ዝላይ, long-rope jumping). The jumpers keep the turners' beat, and the turners keep the jumpers' beat. The printed chant that goes with it is named for the game itself — ገመድ ዝላይ, "rope jump" — a chant that teaches the group to hold one rhythm together.
+
 Now you. Do it slowly. Do it safely. Name it while you do it.

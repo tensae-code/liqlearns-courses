@@ -12,6 +12,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 2. **Single bar — Grade 6: roll-over and swing-through** — apparatus work always with a helper (በረዳት): hanging backward roll-over on the single bar, and swinging through between the hands backward — higher-skill moves needing great help and care.
 3. **Uneven bars — Grade 6** — the uneven bars — hanging from the taller bar, moving between the tall and the short bars, swinging and dismounting to the ground.
 4. **Bar work — Grade 7: pull-up, swing and traverse** — the pull-up method on the bar, swinging forward and backward hanging from a single bar, and travelling hand over hand along a high bar from one end to the other.
+5. **Parallel bars — the support swing — Grade 8** — supporting the body on straight arms and swinging between the parallel bars, toes pointed at the peak of the swing.
+6. **Strong in my own space: weight shifts and hanging — Grade 3 (teacher guide — evidence)** — the first hanging work: weight shifts over a low obstacle line, reaching and hanging from a high rope with both arms, and pulling up alternately with each arm.
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -22,6 +24,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Do and explain: apparatus work always with a helper (በረዳት): hanging backward roll-over on the single bar, and swinging through between the hands backward — higher-skill moves needing great help and care.
 3. Do and explain: the uneven bars — hanging from the taller bar, moving between the tall and the short bars, swinging and dismounting to the ground.
 4. Do and explain: the pull-up method on the bar, swinging forward and backward hanging from a single bar, and travelling hand over hand along a high bar from one end to the other.
+5. Do and explain: the support swing on the parallel bars — support on straight arms, swing, toes pointed at the peak.
+6. Shift weight side to side over a low line, reach and hang from a high rope with a spotter beside you, and pull up alternately with each arm.
 
 ## What you need
 Open flat ground, a mat for any roll or floor work, and the equipment named in the parts (a ball, a rope, rings or cones where the part says so). Modest sports clothes. A partner or a small group for the partner parts.
@@ -32,6 +36,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
    - ADD IMAGE [Picture 13756]: a picture of a child hanging from a horizontal bar above a mat — the student names the movement and copies it safely.
    - ADD GIF [GIF 13757]: hanging from the bar, swinging in control, and dismounting onto the mat — the student watches first, then copies the movement.
    - ADD AUDIO: the movement names and counts read aloud — the student says them along with the voice.
+   - ADD IMAGE [Picture 34905]: a picture of a child shifting weight side to side over a low line — the student names which side the weight is on and copies it safely.
+   - ADD GIF [GIF 34906]: reaching up, hanging from a high rope, and coming down — the student watches first, then copies the movement with a spotter.
 3. **Say it to your companion** — name each movement and say what it trains (lesson/lesson.md).
    - ADD VIDEO: the script in video-script.md, filmed — in the super-simple voice (made later, when videos are made).
 4. **Questions** — from questions/: multiple-choice, true-or-false, matching — served at the learner's level (levels.md).
@@ -42,6 +48,8 @@ Open flat ground, a mat for any roll or floor work, and the equipment named in t
 - IMAGE [Picture 13756]: a picture of a child hanging from a horizontal bar above a mat — the student names the movement and copies it safely.
 - GIF [GIF 13757]: hanging from the bar, swinging in control, and dismounting onto the mat — the student watches the movement, then does it slowly, then at full speed.
 - AUDIO: the movement names and counts read aloud — the student says each name and count along with the voice.
+- IMAGE [Picture 34905]: a picture of a child shifting weight side to side over a low line — the student names which side the weight is on and copies it safely.
+- GIF [GIF 34906]: reaching up, hanging from a high rope, and coming down — the student watches the movement, then does it slowly, then at full reach, with a spotter.
 - VIDEO: the script in video-script.md, filmed — the student does the movement along with it (made later, when videos are made).
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

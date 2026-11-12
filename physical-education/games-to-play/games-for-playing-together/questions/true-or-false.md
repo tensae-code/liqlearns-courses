@@ -31,3 +31,21 @@ Say if it is true or false.
 
 **10. (Sub lesson 7) ** Accepting a partner's or group's opinion is one of the three parts of self-knowledge in the guide.
 **Answer: True**
+
+**11. (Sub lesson 5) ** A social relationship, in the guide's summary, means people living and working together in mutual understanding.
+**Answer: True**
+
+**12. (Sub lesson 5) ** Playing games together at school is a community activity.
+**Answer: True**
+
+**13. (Sub lesson 6) ** Decisions taken together in play carry into the class community.
+**Answer: True**
+
+**14. (Sub lesson 6) ** In games played by rules, knowing the other players does not matter.
+**Answer: False**
+
+**15. (Sub lesson 8)** In this lesson, "Myself and others — the Grade 2 chapter opener (teacher guide — evidence)" teaches: knowing yourself, controlling your feelings, respecting others' work and building social relationships, learned through games.
+**Answer: True**
+
+**16. (Sub lesson 8)** In "Myself and others — the Grade 2 chapter opener (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

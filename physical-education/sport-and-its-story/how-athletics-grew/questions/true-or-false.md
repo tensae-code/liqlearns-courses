@@ -13,3 +13,9 @@ Say if it is true or false.
 
 **4.** The IAAF's name was changed in 2001.
 **Answer: True**
+
+**5.** In the Grade 10 guide's telling, African athletes' contribution reaches back to the very foundation of the IAAF.
+**Answer: True**
+
+**6.** The Grade 10 guide frames the jumps' history in four tellings — world, African, Ethiopian and European.
+**Answer: False**

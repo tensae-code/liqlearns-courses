@@ -62,3 +62,18 @@ Say true or false.
 
 **20. (Sub lesson 10)** In "Tackling, thigh control and goalkeeping — Grade 10", the learner sits still and never moves.
 **Answer: False** — the learner does the movement.
+
+**21. (Sub lesson 2)** Selame Selame is named in the Grade 2 guide's Chapter 1 summary answers as one of the chapter's games.
+**Answer: True**
+
+**22. (Sub lesson 11)** In this lesson, "Kicking a ball, and up-and-down steps (teacher guide — evidence)" teaches: standing beside a ball and kicking it toward a partner or target with feet planted in turn, and stepping up onto and down from a low place in turn.
+**Answer: True**
+
+**23. (Sub lesson 11)** In "Kicking a ball, and up-and-down steps (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.
+
+**24. (Sub lesson 12)** In this lesson, "Passing the football; hit the target (teacher guide — evidence)" teaches: passing a football along the ground between partners over five metres, receiving with one foot, and throwing or kicking at a set target to score.
+**Answer: True**
+
+**25. (Sub lesson 12)** In "Passing the football; hit the target (teacher guide — evidence)", the learner sits still and never moves.
+**Answer: False** — the learner does the movement.

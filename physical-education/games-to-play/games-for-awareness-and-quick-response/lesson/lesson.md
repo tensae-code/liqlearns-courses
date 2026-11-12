@@ -48,6 +48,8 @@ Attention — ትኩረት — is trained by games that punish a lapse.
 
 ## Sub lesson 5 — Running while passing, and the number command
 
+First, what this family is for. **Social relations and awareness** mean **helping** others, **empathy** — feeling with them, **tolerance** — bearing with them, and **understanding others' feelings**. The two games of this part train exactly that: you cannot play them well without watching your team and knowing how they feel.
+
 **Running while passing the ball — ኳስ እየተቀባበሉ መሮጥ.** Teams run while passing the ball **in the air only**; if the ball touches the ground, the team **restarts**. Ten minutes, with a student-chosen referee.
 
 **Number command — የቁጥር ትዕዛዝ.** Numbered players race to the ball when **their number is called**, circle it and return it to the centre. It builds teamwork, rule-following and competitive spirit — and it is pure awareness: your number, heard in noise, answered at once.
@@ -71,6 +73,14 @@ And **reflective thinking** closes the circle: taking the biggest picture, under
 The Grade 8 teacher guide's social-awareness drill is **Spot the Difference**: two equal lines face one another and observe for a minute or two; one line turns away while the other **visibly changes things — swapping clothing, changing hairstyle, removing glasses**; then they turn back and, as a team, **identify every change** — and swap roles.
 
 Its **Learning Logo** scenario trains the same watching from the bench: your team is losing 3–0 and you are ill on the bench — **how will you support your team, and what ideas will help them recover?** Awareness is not only eyes; it is noticing what people need.
+
+The two activities above stand on knowledge, and here it is in full. **Social awareness** is the ability to **take the perspective of and empathise with others, including those from diverse backgrounds and cultures** — to understand and manage emotions, set and achieve positive goals, recognise the feelings of others and show empathy for them, and make responsible decisions. **Relationship skills** are the ability to **build positive relationships, especially with diverse individuals and groups, using methods such as active listening**. A team cannot succeed without working together, no matter how good the individual players are.
+
+The skills that develop social awareness: **identifying social cues (verbal and physical) and norms** to tell how others feel; **taking others' perspectives**; **showing concern for the feelings of others**; **understanding and expressing gratitude**; **caring about the well-being of family, friends, school, community and the environment**; and **listening, communication and conflict-resolution skills**. Taking part in physical activity helps all of this — it encourages social interaction, improves concentration and learning, increases confidence and self-awareness, reduces feelings of depression, anxiety and exclusion, and grows leadership and empathy.
+
+**Communication** is the process of mutually transferring feelings and thought. **Verbal communication** uses **words** to express how you feel or what you think — in a game, the rules and expectations are stated in words so everyone knows them and can stay safe. **Nonverbal communication** expresses feeling and thought **without words** — a facial expression, a signal, a movement modelled for others to read; athletes must send and read nonverbal signals all game long. Communication skills involve **listening, speaking, observing and understanding the feelings of another**.
+
+**Collaboration skills** are working successfully toward a common goal with others: **communicating clearly, actively listening, taking responsibility for mistakes, and respecting the diversity of colleagues**. **Leadership** is the ability of a person or a group to **influence and guide followers or other members of an organisation**; the leader's skills to learn are **communication, motivation, delegating, positivity, trustworthiness, creativity, feedback, responsibility, commitment and flexibility**. Spot the Difference trains the watching; the Learning Logo trains the supporting; this knowledge names what both are building.
 
 ## Say it to your companion
 

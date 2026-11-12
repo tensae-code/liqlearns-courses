@@ -34,3 +34,10 @@ a) jumping on two feet — crouch, spring, land on both feet  b) the jumping jac
 a) jumping on two feet — crouch, spring, land on both feet  b) a one-two jump pattern and two-foot jumps inside zigzag rings  c) the jumping jack — jump open, jump closed — and forward-back jumps over a line
 **Answer: c) the jumping jack — jump open, jump closed — and forward-back jumps over a line**
 
+**9. (Sub lesson 5)** Which of these is done in "Jumping the long rope together (teacher guide — evidence)"?
+a) sitting still and watching only  b) a movement from another lesson entirely  c) two children turning a long rope while two jump together in the middle, in rhythm
+**Answer: c) two children turning a long rope while two jump together in the middle, in rhythm**
+
+**10. (Sub lesson 5)** A learner doing "Jumping the long rope together (teacher guide — evidence)" correctly is —
+a) two children turning a long rope while two jump together in the middle, in rhythm  b) sitting still and resting  c) watching only, never moving
+**Answer: a) two children turning a long rope while two jump together in the middle, in rhythm**

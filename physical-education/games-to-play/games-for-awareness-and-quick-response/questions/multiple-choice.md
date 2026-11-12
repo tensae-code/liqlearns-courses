@@ -69,3 +69,23 @@ a) Visibly changes things about themselves  b) Leaves the field  c) Sits down
 **17. (Sub lesson 8)** In the Learning Logo scenario, you are on the bench because…
 a) You feel ill, and your team trails 3–0  b) You won already  c) The game ended
 **Answer: a) You feel ill, and your team trails 3–0**
+
+**18. (Sub lesson 5)** Social relations and awareness mean helping, tolerance, understanding others' feelings — and…
+a) empathy  b) winning alone  c) ignoring the team
+**Answer: a) empathy** — feeling with others is one of the four parts of the definition.
+
+**19. (Sub lesson 8)** Social awareness is the ability to…
+a) run the fastest  b) take the perspective of and empathise with others, including those from diverse backgrounds and cultures  c) memorise the rules
+**Answer: b) take the perspective of and empathise with others, including those from diverse backgrounds and cultures**
+
+**20. (Sub lesson 8)** Which of these is nonverbal communication?
+a) stating the rules in words  b) a facial expression or a signal that teammates read  c) writing the score down
+**Answer: b) a facial expression or a signal that teammates read** — nonverbal communication expresses feeling and thought without words.
+
+**21. (Sub lesson 8)** Which list holds only leadership skills to learn?
+a) communication, motivation, delegating, trustworthiness  b) sitting out, guessing, hiding mistakes  c) running, jumping, throwing
+**Answer: a) communication, motivation, delegating, trustworthiness** — the leader's skills also include positivity, creativity, feedback, responsibility, commitment and flexibility.
+
+**22. (Sub lesson 6) ** The guide's written answer says the attention activities work with…
+a) the mind, the hands, the legs and the whole body  b) only the eyes  c) only a whistle
+**Answer: a) the mind, the hands, the legs and the whole body**

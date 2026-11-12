@@ -33,3 +33,7 @@ a) Controlling impulses, waiting for turns, accepting the judge's and the game's
 **8. (Sub lesson 4)** Which set names the chapter's three built skills?
 a) Togetherness, communication, standing for self and others  b) Speed, strength, height  c) Reading, writing, counting
 **Answer: a) Togetherness, communication, standing for self and others**
+
+**9. (Sub lesson 4) ** Which questions does the Grade 6 guide's answer key use to grow deep thinking in activity?
+a) What can our body do? How should our movements be? What may we meet while we move?  b) Who won? Who lost?  c) What is for lunch?
+**Answer: a) What can our body do? How should our movements be? What may we meet while we move?**

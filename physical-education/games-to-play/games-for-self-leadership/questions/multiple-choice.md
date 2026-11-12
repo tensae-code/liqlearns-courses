@@ -81,3 +81,35 @@ a) How many compliments to say about the next person  b) How far to run  c) Who 
 **20. (Sub lesson 10)** The first step of mindful meditation in the guide is…
 a) Get comfortable in a quiet place  b) Run a lap  c) Shout your name
 **Answer: a) Get comfortable in a quiet place**
+
+**21. (Sub lesson 11)** In Capture the Flag, a raider who is tagged after crossing into the other half…
+a) scores a point  b) is out  c) takes a marker anyway
+**Answer: b) is out** — the raid must bring the markers home without being tagged.
+
+**22. (Sub lesson 11)** A person fit for a purpose shows reliability, duty, courage, honesty — and…
+a) careful thought and predictability  b) never showing their ideas  c) avoiding all games
+**Answer: a) careful thought and predictability** — and openly shows their ideas and values.
+
+**23. (Sub lesson 12)** In the Grade 7 book, play reveals your ability, your character — and…
+a) the unknown self  b) other people's secrets  c) the final score only
+**Answer: a) the unknown self** — strengthen the good it shows, and improve the weak.
+
+**24. (Sub lesson 13)** A physically fit person, in the Grade 8 guide's opener, possesses a well-balanced personality — mentally sharp, socially well-adjusted, and…
+a) emotionally stable  b) emotionally hidden  c) always the captain
+**Answer: a) emotionally stable**
+
+**25. (Sub lesson 7) ** Which set is on the guide's written list of conduct that self-management gives up?
+a) lying, cheating, not doing home work, disrespecting elders, theft  b) trying again after a miss  c) recording the day in a notebook
+**Answer: a) lying, cheating, not doing home work, disrespecting elders, theft**
+
+**26. (Sub lesson 7) ** Which habit does the guide's written answer list for managing yourself well?
+a) recording the day in a notebook, respecting time and respecting feelings, brotherhood first  b) forgetting every plan  c) blaming others for everything
+**Answer: a) recording the day in a notebook, respecting time and respecting feelings, brotherhood first**
+
+**27. (Sub lesson 14)** The Grade 3 chapter uses the small movement skills from Grades 1–2 to build…
+a) The social and psychological person  b) Only stronger legs  c) Only faster running
+**Answer: a) The social and psychological person**
+
+**28. (Sub lesson 14)** Which of these is one of the chapter's six themes?
+a) Winning every game  b) Practising giving time limits (ጊዜ ውስኔ መስጠትን መለማመድ)  c) Playing alone
+**Answer: b) Practising giving time limits (ጊዜ ውስኔ መስጠትን መለማመድ)**

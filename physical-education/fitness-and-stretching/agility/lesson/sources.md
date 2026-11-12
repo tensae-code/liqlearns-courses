@@ -36,6 +36,9 @@ countries: Ethiopia
 | Speed and the rules of sprinting technique — Grade 8 | Ethiopia, Grade 8 student §3.5 Speed, printed pp. 33–35 |
 | Speed and the rules of sprinting technique — Grade 8 | Ethiopia, Grade 8 teacher §3.5–§3.6 speed and the rules of sprinting technique (teacher guide — evidence), printed pp. 46–48 |
 | Fartlek — speeding up and easing off — Grade 10 (teacher guide — evidence) | Ethiopia, Grade 10 teacher Unit 2 cardiovascular exercises (teacher guide — evidence), printed pp. 14–15 |
+| Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 7 (teacher guide — evidence) | Ethiopia, Grade 7 teacher Chapter 3 summary + review answers (teacher guide — evidence), printed pp. 44–45 |
+| Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 5 (teacher guide — evidence) | Ethiopia, Grade 5 teacher Chapter 3 summary + assessment answers — the agility-runs written answer (teacher guide — evidence), printed pp. 33–34 |
+| Prove-it questions folded from the book's own Chapter 3 review — Sub lesson 6 (teacher guide — evidence) | Ethiopia, Grade 6 teacher Chapter 3 summary + assessment answers — the agility definition (teacher guide — evidence), printed p. 43 |
 **Acceptance count: taught in 1 country (Ethiopia).** Teacher-guide and SUPPORTING evidence never counts as pupil-taught.
 
 The Grade 1 teacher guide scan is TRUNCATED: it holds printed pp. 1–43 of 85+. Missing: the rest of §4.2, §4.3 Stretching and flexibility (p. 47), §4.4 Agility (p. 53), all of Chapter 5 Gymnastics (pp. 59–78) and all of Chapter 6 (pp. 79–85+). Nothing in this lesson claims a page beyond what the held file holds; teacher-guide rows are evidence only and never count as pupil-taught.

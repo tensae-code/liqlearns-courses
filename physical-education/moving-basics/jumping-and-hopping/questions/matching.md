@@ -6,11 +6,13 @@ Match each part name to what it teaches.
 2. The one-two jump pattern and the rings — b
 3. Hopping on one foot — c
 4. Jumping jacks and line jumps (teacher guide — evidence) — d
+5. Jumping the long rope together (teacher guide — evidence) — e
 
 What each teaches:
 a) jumping on two feet — crouch, spring, land on both feet
 b) a one-two jump pattern and two-foot jumps inside zigzag rings
 c) hopping on one foot, then landing on two feet or inside a circle
 d) the jumping jack — jump open, jump closed — and forward-back jumps over a line
+e) two children turning a long rope while two jump together in the middle, in rhythm
 
-**Answer key:** 1–a · 2–b · 3–c · 4–d
+**Answer key:** 1–a · 2–b · 3–c · 4–d · 5–e
