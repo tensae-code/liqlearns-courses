@@ -14,6 +14,10 @@ The Ottoman Empire was **founded at the start of the 14th century by Osman (1300
 
 **Murad I (1359–1389)** carried the Ottomans **into the Balkans** — from Gallipoli's toe-hold, the empire now spread through south-eastern Europe. Three reigns, three steps: Osman founds, Orhan organises and crosses, Murad expands. The state Byzantium's lesson watched shrinking now faces the power that will end it in 1453.
 
+## Grade 11 depth — The Ottoman Empire in depth
+
+The Grade 11 depth follows the Ottoman arc whole: a small Anatolian frontier state growing by war and organisation until, in 1453, it takes Constantinople itself — and builds an empire on three continents. Sultan-caliphs, a professional army and a working administration hold Europe, Western Asia and North Africa in one system for centuries: the eastern power every later unit must reckon with.
+
 ## Say it to your companion
 
 Tell your companion the three reigns in order — Osman, Orhan, Murad I — with what each one did, and where Gallipoli and the Balkans sit in the story.

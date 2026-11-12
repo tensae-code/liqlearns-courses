@@ -34,3 +34,9 @@ a) roads, bridges, aqueducts  b) canals only in Egypt  c) paper mills
 **9.** Citizenship eventually came to —
 a) senators only  b) all free males  c) soldiers only
 **Answer: b) all free males** — The empire-wide grant.
+**10. (Grade 11 depth)** What is citizenship?
+a) the conventional year of the Western Empire's fall
+b) Rome's spreading legal membership, binding an empire's peoples
+c) a detail belonging to a different lesson in this course
+**Answer: b) Rome's spreading legal membership, binding an empire's peoples**
+

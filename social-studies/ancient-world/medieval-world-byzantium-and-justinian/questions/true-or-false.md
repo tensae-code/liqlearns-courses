@@ -14,3 +14,6 @@ Say whether each statement is true or false.
 
 **5. (Sub lesson 3)** Byzantium's capital was Rome.
 **Answer: False** — Constantinople.
+**6. (Sub lesson 4)** True or false: The Byzantine emperor of reconquest and codified law — this is Justinian.
+**Answer: True**
+

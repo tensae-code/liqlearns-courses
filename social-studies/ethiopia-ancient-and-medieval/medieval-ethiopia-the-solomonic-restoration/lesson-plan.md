@@ -48,3 +48,7 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 
 ## Extension stocked in the 2026-11-12 Wave 4 build
 A further part was stocked into this lesson from the Grade 10/11 books: **The moving court — a kingdom without a fixed capital (teacher guide — evidence)**. Its provenance is in lesson/sources.md; its questions close the multiple-choice file.
+
+## Grade 11 extension (Wave 4 Band F, placement 64)
+
+Added (Grade 11 depth) — **1270 in depth — Yekuno Amlak and the Kebra Nagast** (printed pp. 170–172 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Grade 11 depth). Gate pool for the new part: its own questions, as for every sub lesson.

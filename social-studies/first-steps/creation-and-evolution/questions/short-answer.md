@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 2)** What two things does the book say about how the views stand today?
 **Answer:** The scientific (evolutionist) view dominates scientific thinking, and large numbers of people worldwide hold the creationist view.
+**4. (Sub lesson 3)** In your own words, explain natural selection and its place in this lesson's story.
+

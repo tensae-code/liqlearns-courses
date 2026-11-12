@@ -19,3 +19,6 @@ The map shatters into city-states — a hundred poleis, one language, one set of
 Athens raises the Parthenon. A theatre fills; the first drama plays.
 
 Herodotus writes the wars; Thucydides weighs them. Greece invents how the past is told.
+
+[Grade 11 depth scene — Greece in depth — Athens, Sparta, philosophy and Alexander. The animated map carries the story as the voice speaks.]
+The Grade 11 book sets the two Greek templates against each other once more, at full length: Athens, inventing democracy in its assembly; Sparta, organising a whole society as an army — and then Greece's mind outrunning both, in philosophy that asked what justice and truth themselves are. The names to hold: Hellenistic, philosophy.

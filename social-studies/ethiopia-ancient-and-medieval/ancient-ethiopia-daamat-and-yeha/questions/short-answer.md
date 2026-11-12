@@ -8,3 +8,5 @@ Answer in a sentence or two.
 **2.** Why does the mukarrib title matter to historians?
 **Answer:** It shows close political ties between Ethiopia and South Arabia.
 
+**3. (Grade 11 depth)** In your own words, explain Damat (Da'amat) and its place in this lesson's story.
+

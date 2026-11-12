@@ -33,6 +33,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 1. **Do it first** — the learner does the opening task in lesson/lesson.md before any explanation.
 2. **The explanation** — lesson/lesson.md, with these slots at their exact places:
    - ADD IMAGE [Picture 24339]: a picture of a wavy line crossing a straight trend line, labelled through its four phases — the student studies it and answers the lesson's question about it at that place.
+   - ADD GIF [Picture 25236]: a picture of a wavy output line over a straight trend line, four phases labelled, with a dot travelling the wave — the student studies it and answers the lesson's question about it at that place.
    - ADD GIF [GIF 24414]: riding the wave through the four labelled phases of the business cycle — the student watches the motion and says what changes and what stays the same.
    - ADD AUDIO: a voice reading the lesson's key words and figures aloud — the student listens and repeats them. (Described slot only; no audio file is made in this build.)
 3. **Say it to your companion** — lesson/lesson.md.
@@ -44,6 +45,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 24339] — a wavy line crossing a straight trend line, labelled through its four phases
+- GIF [Picture 25236] — a wavy output line over a straight trend line, four phases labelled, with a dot travelling the wave → the student studies it at its place in the lesson.
 - GIF [GIF 24414] — riding the wave through the four labelled phases of the business cycle
 - AUDIO — the lesson's key words and figures read aloud → the student listens and repeats. (Described slot only.)
 - VIDEO — the video-script filmed (made later) → the student watches and follows the walk-through.

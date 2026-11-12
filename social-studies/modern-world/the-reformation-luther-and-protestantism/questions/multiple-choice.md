@@ -22,3 +22,9 @@ a) January 1, 1500  b) October 31, 1517  c) May 25, 1963  d) August 1519
 a) Huguenots  b) Jesuits  c) Anglicans  d) Navigator's men
 **Answer: a) Huguenots** — The Huguenots are Calvin's French followers.
 
+**6. (Sub lesson 3)** What is indulgences?
+a) a detail belonging to a different lesson in this course
+b) the pardons whose sale provoked Luther's 1517 protest
+c) the Catholic Church's reforming answer to Protestantism
+**Answer: b) the pardons whose sale provoked Luther's 1517 protest**
+

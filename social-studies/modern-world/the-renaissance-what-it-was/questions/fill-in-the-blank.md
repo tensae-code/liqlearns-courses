@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **2. (Sub lesson 2)** From Italy the Renaissance spread to France, Germany, England, ____ and elsewhere.
 **Answer: Holland**
 
+**3. (Sub lesson 3)** The term for 'Gutenberg's invention, multiplying books and ideas' is ______.
+**Answer: printing press**
+

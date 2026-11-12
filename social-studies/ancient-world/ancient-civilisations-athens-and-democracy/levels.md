@@ -4,3 +4,7 @@ This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can
 
 ## Grade 9 depth — The Grade 9 book's Greece — Hellenes, poleis and a classical legacy
 Pass mark: retell the Grade 9 part's story and answer its Grade 9 questions in the type files without the book open — its names, dates and places all correct.
+
+## Grade 11 depth — Grade 11 depth: Greece in depth — Athens, Sparta, philosophy and Alexander
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Hellenistic** (the Greek-spread world after Alexander, from Egypt to India) and **philosophy** (Greece's questioning of justice and truth themselves).

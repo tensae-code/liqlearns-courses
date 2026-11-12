@@ -14,6 +14,10 @@ Trades end when the money ends. In the **18th century, expanded sugar production
 
 From the **1800s Europe moved to stop the trade**. **Britain outlawed slavery and the slave trade in 1807** and set an **anti-slavery naval force to patrol the West African coast**. And Africans themselves helped end it. Two **ex-slaves from West Africa, Olaudah Equiano and Ottobah Cugoano** (as printed), **exposed the trade's horror in their writings**. And captives carried to America and the Caribbean **never stopped rebelling**: in **French Saint-Domingue (Haiti)**, with **400,000 slaves**, the slaves **rose in 1791 and killed their white overseers**. The trade was ended by law, by profit — and by the enslaved themselves.
 
+## Sub lesson 3 — Grade 11 depth: Abolition in depth — how the trade was ended
+
+Abolition came country by country, and the Grade 11 depth names the drivers together: Denmark first, Britain in 1807, the United States after — abolitionist movements organising opinion, enslaved people's own resistance raising the trade's cost and shame, and economics shifting under it. Laws alone did not end it at sea; naval patrols enforcing them did the slow rest.
+
 ## Say it to your companion
 
 Tell your companion this lesson's story in your own words: The trade ended when it stopped paying — cheap sugar, machines, rising prices — and when Britain outlawed it in 1807 and Africans resisted, in writing and in revolt.

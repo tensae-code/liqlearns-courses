@@ -9,3 +9,9 @@ Seasons turn. Camps last longer. Mesolithic — the long middle.
 Then — hands in soil. Seeds. A field that stays. A clay pot by a settled hearth.
 Teff rises green in Ethiopia, seven thousand years ago. The Neolithic Revolution has reached the highlands.
 And where fields stay, villages stay — and history's next chapter, the state, is waiting.
+
+[Grade 11 depth scene — Tools, fire and the long stone ages. The animated map carries the story as the voice speaks.]
+The Grade 11 depth walks the stone ages in their order — Palaeolithic, Mesolithic, Neolithic — as tool-making refines: struck stone, then finer work, then grinding and polishing. The names to hold: Palaeolithic, control of fire.
+
+[Grade 11 depth scene — Farming, surplus and the emergence of the state. The animated map carries the story as the voice speaks.]
+The Neolithic Revolution turns gatherers into producers — farming and animal domestication replacing the hunt's lottery with the field's calendar. The names to hold: Neolithic Revolution, emergence of the state.

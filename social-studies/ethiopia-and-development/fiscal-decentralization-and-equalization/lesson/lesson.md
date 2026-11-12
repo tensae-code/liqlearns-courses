@@ -8,6 +8,8 @@ A federation's centre collects most taxes, but schools and clinics are run by re
 
 Fiscal decentralization devolves taxing and spending powers from the centre to regional, provincial and municipal governments. How far a federation actually goes is measured by the centralization ratio: central direct expenditure over total government expenditure, excluding transfers.
 
+
+[Picture 25300 — a treasury dividing its stream among regions]
 ## Sub lesson 2 — Equalization — levelling the capacity
 
 Its companion is fiscal equalization: federal payments that lift poorer regions' fiscal capacity, so citizens receive similar public services at similar tax burdens — equalising net fiscal benefits across the federation.

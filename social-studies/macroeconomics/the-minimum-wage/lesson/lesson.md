@@ -8,6 +8,8 @@ A law says no one may be paid less than a set amount per hour — not even if bo
 
 A minimum wage is a legally mandated price floor on hourly pay that no contract or collective agreement may undercut. Any agreement below it is void, however willingly signed.
 
+
+[Picture 25254 — a floor drawn under a wage ladder]
 ## Sub lesson 2 — Why the floor exists
 
 Its purpose is protective: to stop unduly low pay, guarantee a minimum living wage, share the fruits of progress fairly, and cut inequality — including between men and women, whose pay gaps a common floor compresses from below.

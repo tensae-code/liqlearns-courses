@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 2)** Why is Ranke's demand — build history from documents — a turning point?
 **Answer:** Because it made evidence, tested in archives, the foundation of the discipline rather than tradition or royal praise.
+**4. (Sub lesson 3)** In your own words, explain historiography and its place in this lesson's story.
+

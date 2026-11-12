@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **2.** Gondar's second trade route ran west to ____.
 **Answer: Sudan**
 
+**3. (Grade 11 depth)** The term for 'the growing powers hollowing the emperors' rule' is ______.
+**Answer: regional lords**
+

@@ -31,6 +31,10 @@ The Grade 9 sweep of Mali runs on three rails. **Islam spread widely along the N
 And **Timbuktu became one of the most important centres of Islamic learning and culture** — a desert-edge city of mosques, manuscripts and scholars, grown rich where caravan met river. The book pictures a cartoon of Mansa Musa; hold beside it this lesson's earlier parts — Sundiata's founding and the empire's break-up — and Mali's arc stands complete.
 
 
+## Sub lesson 5 — Grade 11 depth: Ghana, Mali and Songhai in depth — the Sudanic sequence
+
+The Grade 11 sequence sets the three empires in one line of descent: Ghana, first of the gold states, taxing the desert-edge trade; Mali, greater still under Mansa Musa, whose pilgrimage advertised Timbuktu's scholarship to the world; and Songhai under Sonni Ali and Askia Muhammad, largest of the three. Same ground, same gold-for-salt engine, three dynasties — the Sudanic pattern at its clearest.
+
 ## Say it to your companion
 
 Retell the pilgrimage as a story — where Mansa Musa started, the two great stops, what he gave, and what the giving did. Your companion then adds Timbuktu's double fame without looking. (The full story script lives in video-script.md.)

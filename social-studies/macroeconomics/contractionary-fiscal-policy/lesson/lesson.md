@@ -8,6 +8,8 @@ Demand is running ahead of what the economy can produce and prices are climbing.
 
 When aggregate demand exceeds full-employment output, the result is an inflationary gap: too much spending chasing the economy's maximum real output, so the excess comes out as rising prices.
 
+
+[Picture 25246 — AD shifting left back onto the LRAS line]
 ## Sub lesson 2 — The withdrawal moves
 
 The government cuts expenditure on public works and raises taxes — especially on the rich — withdrawing purchasing power from the economy. Each birr withdrawn is a birr that cannot bid prices up.

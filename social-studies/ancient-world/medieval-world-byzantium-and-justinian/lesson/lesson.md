@@ -21,6 +21,10 @@ The Grade 9 book gives Byzantium its one-line epic: when the West fell, **the Ea
 It lasted until **1453**, when it fell to the **Ottoman Turks** — a thousand years after the western empire's fall, in round numbers the book's own framing: the eastern empire that lasted a thousand years. Justinian's century, told earlier in this lesson, was its great early blaze; the long endurance after him is the Grade 9 point.
 
 
+## Sub lesson 4 — Grade 11 depth: Two Romes in depth — the fallen West and the thousand-year East
+
+The Grade 11 book opens the medieval world with the double story: the West falling to Germanic kingdoms while the Eastern Roman — Byzantine — Empire survives a thousand years from Constantinople. Justinian's reconquests and law, Orthodox Christianity's distinct road, and the empire's standing between two worlds — shielding Europe, trading with Asia — make Byzantium no epilogue to Rome but a civilisation of its own.
+
 ## Say it to your companion
 
 Tell your companion the three shields of Byzantium, Justinian's four works, and the guide's one-line frame for what Byzantium kept alive.

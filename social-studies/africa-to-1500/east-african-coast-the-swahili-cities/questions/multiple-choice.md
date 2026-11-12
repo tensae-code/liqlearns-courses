@@ -25,3 +25,9 @@ a) 1200–1300  b) 1400–1450  c) 1500–1600  d) 1629–1700
 **6. (Sub lesson 3)** What did the Portuguese seizure destroy?
 a) the Swahili language  b) the trade routes and the civilisation  c) the coast itself  d) Tanzania
 **Answer: b) the trade routes and the civilisation** — the trade routes and the civilisation — the people and language remained.
+**7. (Sub lesson 4)** What is Swahili city-states?
+a) a detail belonging to a different lesson in this course
+b) a leading Swahili city of the gold trade
+c) the stone trading cities of the east coast
+**Answer: c) the stone trading cities of the east coast**
+

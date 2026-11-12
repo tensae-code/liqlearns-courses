@@ -17,3 +17,7 @@ Sub lesson 3 questions from the type files. Pass mark: name the crops and the tw
 
 ## Sub lesson 4 — The Grade 9 book's Mali — the Niger, the pilgrimage, Timbuktu
 Sub lesson 4 questions from the type files (the Grade 9 items). Pass mark: retell the Grade 9 part's story and answer its questions without the book open — its names, dates and places all correct.
+
+## Sub lesson 5 — Grade 11 depth: Ghana, Mali and Songhai in depth — the Sudanic sequence
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Mansa Musa** (Mali's emperor whose pilgrimage displayed its wealth) and **Timbuktu** (Mali's city of scholarship and trade).

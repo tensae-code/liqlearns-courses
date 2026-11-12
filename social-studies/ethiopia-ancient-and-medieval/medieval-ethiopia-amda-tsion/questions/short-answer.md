@@ -8,3 +8,5 @@ Answer in a sentence or two.
 **2.** Which peoples were made tributary in the east and south-east?
 **Answer:** The Muslim sultanates of the east and south-east.
 
+**3. (Grade 11 depth)** In your own words, explain Amda Seyon and its place in this lesson's story.
+

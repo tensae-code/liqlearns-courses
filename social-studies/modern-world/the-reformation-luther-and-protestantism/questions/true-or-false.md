@@ -11,3 +11,6 @@ Say whether each statement is true or false.
 **3. (Sub lesson 2)** In many European countries the Reformation brought religious war.
 **Answer: True** — The book names that cost plainly.
 
+**4. (Sub lesson 3)** True or false: The Catholic Church's reforming answer to Protestantism — this is Counter-Reformation.
+**Answer: True**
+

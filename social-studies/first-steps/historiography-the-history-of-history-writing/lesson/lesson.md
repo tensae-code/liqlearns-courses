@@ -18,6 +18,10 @@ For most of its life, history was written by chroniclers, travellers and kings' 
 
 Ethiopia's shelf is older than its universities. Ethiopia had its **own indigenous chronicle tradition** — royal chronicles written at court across the centuries. That tradition **changed in the early 20th century**, and **Ethiopian academic history dates from the 1960s**, when the discipline took university form. Two shelves, then: a long indigenous one, and a young academic one — and this course reads from both.
 
+## Sub lesson 3 — Grade 11 depth: How history-writing itself changed
+
+The Grade 11 telling widens the road: historiography is the study of how history itself has been written — from Herodotus, the father of history, who asked and travelled and doubted, through the long chronicle traditions in which courts recorded their kings, to the modern professional history of universities, archives and criticism. Each age wrote the past in its own image; historiography is how we catch it doing so.
+
 ## Say it to your companion
 
 Tell the whole story of Historiography back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

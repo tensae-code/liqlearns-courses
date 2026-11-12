@@ -8,6 +8,8 @@ A rate has been frozen at 2.07 for nearly twenty years while the world moved on.
 
 After the Derg's fall, the EPRDF devalued massively in October 1992 — by 140%, from 2.07 to 5 birr per dollar. Check the figure: (5 − 2.07) / 2.07 ≈ 1.42, about 140%. One decision undid two frozen decades.
 
+
+[Picture 25261 — an auction gavel beside a bank dealing screen]
 ## Sub lesson 2 — Auctions beside the official rate
 
 In 1993 a fortnightly foreign-exchange auction began, run beside the official rate, which still covered fertilizer, petroleum, pharmaceuticals, international contributions and debt service. Two prices coexisted while the market price was discovered — gradualism as the stated principle.

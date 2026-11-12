@@ -2,6 +2,8 @@
 
 countries: Ethiopia
 
+**Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
+
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
 **Book 2:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
@@ -14,6 +16,8 @@ countries: Ethiopia
 | Invasion, and the first dynasty | Student book, Chapter 6 — Printed pp. 125–126 |
 | Grade 9 depth — Indus cities and new religions: Indus civilisation from c.2500 BC, at its height c.1500 BC; counting, measuring, weighing and writing systems; irrigation ditches and canals; trade reaching Mesopotamia; artisans in copper, bronze and gold; Hinduism from early Indo-Aryan beliefs; Buddhism a reform movement from within Hinduism, spreading to South-East Asia, China and Japan | Ethiopia, *History, Student Textbook, Grade 9*, Unit 2, printed pp. 27–28 |
 | Grade 9 depth — the Buddha's name (teacher guide — evidence): Buddhism's founder named as Siddhartha Gautama (c.563–483 BC) | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 2, printed p. 30 (teacher guide — evidence) |
+
+| Grade 11 depth — India in depth — Indus cities, caste, and two new religions | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 32–34 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

@@ -10,3 +10,7 @@ Sub lesson 2 questions from the type files. Pass mark: retell this part's story 
 
 ## Sub lesson 3 — Beads on a string — the principalities
 Sub lesson 3 questions from the type files. Pass mark: retell this part's story in order and answer its questions from the type files without the book open — the names, dates and places of the part all correct.
+
+## Sub lesson 4 — Grade 11 depth: Caravans to Zeila in depth — the eastern trade system
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Dahlak route** (the island-hopping Red Sea route of the eastern trade) and **escarpment markets** (the staged markets between highland and lowland).

@@ -8,3 +8,5 @@ Answer in a sentence or two.
 **2. (Sub lesson 3)** State the teacher guide's definition of capitalism in one sentence.
 **Answer:** A socio-economic system in which a few rich private people own the resources and the factors of production, production is for profit, the proletariat sell their labour for wages, and trade runs free with no government interference.
 
+**3. (Sub lesson 4)** In your own words, explain merchant capital and its place in this lesson's story.
+

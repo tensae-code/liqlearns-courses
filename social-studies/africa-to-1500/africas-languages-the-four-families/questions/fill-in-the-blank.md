@@ -7,3 +7,6 @@ Fill each blank with the right word.
 
 **2. (Sub lesson 2)** Afro-Asiatic holds five branches: Semitic, Cushitic, Berber, ______ and Omotic.
 **Answer: Chadic**
+**3. (Sub lesson 4)** The term for 'the click-language family, among the continent's oldest' is ______.
+**Answer: Khoisan**
+

@@ -20,3 +20,6 @@ Then, after 1500, Portuguese sails came.
 They seized the coast, broke the trade roads,
 and the cities' world ended.
 The coast people remained.
+
+[Grade 11 depth scene — Central and Eastern Africa in depth — Swahili cities and inland states. The animated map carries the story as the voice speaks.]
+The Grade 11 depth joins the two halves of the east: the Swahili city-states of the coast, stone-built and ocean-facing, trading ivory and gold to the Indian Ocean world — and the inland states of the centre, Luba and Lunda worlds among them, whose peoples and products fed the coastal flow. The names to hold: Swahili city-states, Kilwa.

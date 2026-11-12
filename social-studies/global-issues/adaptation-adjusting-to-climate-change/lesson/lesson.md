@@ -8,6 +8,8 @@ Some warming is already locked in, whatever mitigation does. A farming family ca
 
 Adaptation is the reactive response: adjusting human and natural systems to actual or expected climate effects — developing strategies to moderate, cope with and even take advantage of climatic events (UNDP). It is necessary because lags in the climate system make a significant amount of change already inevitable.
 
+
+[Picture 25311 — four panels — moving, storing, diversifying, pooling]
 ## Sub lesson 2 — Planned and autonomous
 
 Adaptation comes as planned (government policy) or autonomous (households, farms and firms adjusting themselves). The two run together: a new seed variety is planned; the farmer who plants it early is autonomous.

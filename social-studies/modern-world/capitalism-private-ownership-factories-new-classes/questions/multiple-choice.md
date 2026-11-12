@@ -26,3 +26,9 @@ a) The guild system of Rome  b) Farming  c) The domestic system of home workshop
 a) Own the factories  b) Sell their labour for wages  c) Rule the government  d) Own the land
 **Answer: b) Sell their labour for wages** — The proletariat sell their labour for wages; the bourgeoisie own the factors of production.
 
+**7. (Sub lesson 4)** What is merchant capital?
+a) the inflation driven by American silver after 1500
+b) wealth organised for trade and production beyond the guilds
+c) a detail belonging to a different lesson in this course
+**Answer: b) wealth organised for trade and production beyond the guilds**
+

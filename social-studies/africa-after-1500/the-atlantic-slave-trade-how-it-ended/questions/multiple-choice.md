@@ -25,3 +25,9 @@ a) Leading a navy  b) Exposing its horror in their writings  c) Buying captives 
 **6. (Sub lesson 2)** In Saint-Domingue (Haiti) the slaves rose in —
 a) 1791  b) 1807  c) 1532  d) 1885
 **Answer: a) 1791** — 1791 — 400,000 slaves rose and killed their white overseers.
+**7. (Sub lesson 3)** What is 1807?
+a) the organised campaigns that turned opinion against the trade
+b) a detail belonging to a different lesson in this course
+c) Britain's abolition of its slave trade
+**Answer: c) Britain's abolition of its slave trade**
+

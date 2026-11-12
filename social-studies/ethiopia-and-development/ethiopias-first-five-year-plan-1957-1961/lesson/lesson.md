@@ -8,6 +8,8 @@ A country with isolated regions, few skilled workers and imports it cannot pay f
 
 Ethiopia began formal planning under Haile Selassie after technical missions (United States, FAO, Yugoslavia) and the 1954/55 National Economic Council produced three five-year plans. The first ran 1957–1961.
 
+
+[Picture 25288 — road-builders and a coffee warehouse under one plan]
 ## Sub lesson 2 — The priorities
 
 The first plan prioritised infrastructure — transport, construction, communications to link isolated regions; a cadre of skilled workers for processing industries to cut import dependence; and commercial agriculture.

@@ -69,3 +69,7 @@ page in lesson/sources.md (the Amhara Grade 7 student book, Chapter 5). A teache
 ## Grade 9 extension (Ethiopia Wave 4, 2026-11-12)
 
 A further part was added from Ethiopia's *History, Grade 9* book: **The Grade 9 book's Mali — the Niger, the pilgrimage, Timbuktu** — see lesson/lesson.md for the part and lesson/sources.md for its book and printed pages.
+
+## Grade 11 extension (Wave 4 Band F, placement 45)
+
+Added (Sub lesson 5) — **Ghana, Mali and Songhai in depth — the Sudanic sequence** (printed pp. 125–131 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Sub lesson 5). Gate pool for the new part: its own questions, as for every sub lesson.

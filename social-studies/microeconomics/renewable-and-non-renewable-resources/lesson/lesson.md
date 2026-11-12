@@ -22,6 +22,9 @@ Recycling can stretch non-renewable resources — a metal used twice delays the 
 
 Grade 12 divides renewable resources into biological ones (forests, fish, biomass) and physical ones (soil fertility, the ozone layer, the earth's waste-processing capacity) — and warns that renewables are potentially exhaustible if harvested past regeneration. Some yield monetised flows (timber, oil); others give unpriced benefits (fresh air, rivers). Together they sit in an ecosystem: the interdependent biological-physical system holding them, whose resilience is how much disturbance it absorbs before its parameters change. Key terms pinned here: sustainable development, ecology, environmental degradation, depletion of natural capital.
 
+
+[Picture 25303 — a forest gauge beside a once-only oil gauge]
+
 ## Say it to your companion
 
 Explain renewable and non-renewable resources to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

@@ -8,3 +8,5 @@ Answer in a sentence or two.
 **2.** What two things travelled together to build the sultanates?
 **Answer:** Trade and the Muslim faith.
 
+**3. (Grade 11 depth)** In your own words, explain Ifat and its place in this lesson's story.
+

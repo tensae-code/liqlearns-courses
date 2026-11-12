@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** Herodotus and Thucydides were Chinese record-keepers.
 **Answer: False** — Both were Greek; China's records are older still.
+**4. (Sub lesson 3)** True or false: The Greek inquirer named the father of history — this is Herodotus.
+**Answer: True**
+

@@ -19,3 +19,6 @@ The map lights the Indus. Cities rise on a grid — drains, canals, standard wei
 Temples follow. Then a prince walks away from a palace to seek an end to suffering.
 
 Buddhism crosses mountains and seas — to China, to Japan. India's religions travel the world.
+
+[Grade 11 depth scene — India in depth — Indus cities, caste, and two new religions. The animated map carries the story as the voice speaks.]
+The Grade 11 telling gives India its two ages: the Indus Valley cities — Mohenjo-daro and Harappa, planned, drained and traded — and then Vedic society, in which caste ordered birth, work and worship, and out of whose questioning came two world religions, Hinduism taking form and Buddhism breaking out. The names to hold: Indus Valley cities, caste.

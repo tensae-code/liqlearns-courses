@@ -8,6 +8,8 @@ Three people have no job: one quit last week to find better work, one lost work 
 
 Frictional unemployment is the short, normal gap while a worker moves between jobs or enters work for the first time. It never falls to zero, even in a healthy economy, because people always move.
 
+
+[Picture 25235 — three workers, three kinds of unemployment]
 ## Sub lesson 2 — Cyclical — when demand falls
 
 Cyclical unemployment rises when demand falls across the economy. The book's example: a drop in overseas demand for Ethiopian coffee idles coffee workers — their skills are fine; the buyers vanished.

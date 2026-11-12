@@ -4,3 +4,7 @@ This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can
 
 ## Depth part added in the Wave 4 build — The moving court — a kingdom without a fixed capital (teacher guide — evidence)
 Pass mark: state the guide's three additions: the church–state peak, gult's lifespan, and the moving court.
+
+## Grade 11 depth — Grade 11 depth: 1270 in depth — Yekuno Amlak and the Kebra Nagast
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Yekuno Amlak** (the restorer of the Solomonic line in 1270) and **Kebra Nagast** (the Glory of Kings — the dynasty's legitimating tradition).

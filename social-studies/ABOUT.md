@@ -402,3 +402,11 @@ teaching gap; no lesson waits on it.
 own map of its seven units, with the course-intro video the
 placement names — the frame Bands C and D built against,
 meeting at placement 48.
+
+## Ethiopia, History Grade 11 — the balance and prove-it patterns (student evidence)
+
+**The balance pattern** (G11 placement #96) and **the
+prove-it pattern** (placement #98): the book's own course-level
+habits — how it weighs two sides of a question, and how its
+prove-it checks are built — recorded here as course patterns,
+not lessons, exactly as Band F's log dispositions them.

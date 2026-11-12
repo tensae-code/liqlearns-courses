@@ -21,6 +21,10 @@ The Grade 9 book walks Rome's whole road. It began about **753 BC** on hills abo
 Its legacy is named first in law: **Roman law** is the foundation of most **Western European and Latin American legal systems**. Then in stone: **engineering — roads, bridges, aqueducts**; public **baths and amphitheatres**, the **Colosseum** pictured. And in loyalty: provincials bound to Rome, until **citizenship came to all free males**. A city on a river became a world — and left its law, its roads and its citizenship behind it.
 
 
+## Grade 11 depth — Rome in depth — law, legions, roads and the long fall
+
+Rome receives its Grade 11 fullness: a republic of citizens and law becoming an empire of legions, roads and engineering; citizenship spreading until it bound an empire's peoples into one legal people; and then the division of the empire and the western fall by about 476 AD. Rome's longest-lived export was not the legion but the law — and the road it travelled on.
+
 ## Say it to your companion
 
 Tell your companion Rome's founding and gods, its three classes, and the two engines of its rise — the army's marks and the republic's order.

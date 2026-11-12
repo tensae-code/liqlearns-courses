@@ -18,6 +18,10 @@ In **Benishangul**, interaction with **Arabic-speaking merchants** produced the 
 
 Gold draws empires. The sheikhdoms became **targets for Egypt in the 1820s** and for **Sudanese-Mahdist penetration in the 1880s** — because of the region's gold — and they **defended their independence**. Small states, hard border, yellow metal: their survival into the late 19th century is the lesson's closing fact.
 
+## Sub lesson 3 — Grade 11 depth: Benishangul-Gumuz and Gambella in depth — the western borderlands
+
+The western borderlands get their Grade 11 page in full: the sheikhdoms of Benishangul-Gumuz, tied by gold and trade to the Sudanese world across the border, and the local chiefs of the Gambella peoples on the rivers of the far west. Borderland states live by facing two ways at once — their skill, and their vulnerability, in every century since.
+
 ## Say it to your companion
 
 Tell the whole story of Gumuz, Shinasha and the gold sheikhdoms of Benishangul back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

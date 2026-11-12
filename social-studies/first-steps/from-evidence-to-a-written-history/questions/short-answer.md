@@ -10,3 +10,7 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 3)** History aims at objective truth, yet bias is hard to avoid. What two habits protect the reader?
 **Answer:** Testing every source before use, and declaring selections — so the reader can check the road from evidence to page.
+**4. (Sub lesson 4)** In your own words, explain external criticism and its place in this lesson's story.
+
+**5. (Sub lesson 5)** In your own words, explain objectivity and its place in this lesson's story.
+

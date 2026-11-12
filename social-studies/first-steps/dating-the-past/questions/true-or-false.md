@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** The Renaissance Dam's start is dated 2 April 2011 in the book.
 **Answer: True** — The second worked example.
+**4. (Sub lesson 3)** True or false: A named stretch of the past — ancient, medieval, modern — this is period.
+**Answer: True**
+

@@ -34,3 +34,9 @@ a) medicine  b) architecture  c) drama
 **9.** Thucydides wrote an unbiased account of —
 a) the Persian Wars  b) the Peloponnesian War  c) the Trojan War
 **Answer: b) the Peloponnesian War** — Herodotus took the Persian Wars; Thucydides the Peloponnesian.
+**10. (Grade 11 depth)** What is Hellenistic?
+a) Greece's questioning of justice and truth themselves
+b) a detail belonging to a different lesson in this course
+c) the Greek-spread world after Alexander, from Egypt to India
+**Answer: c) the Greek-spread world after Alexander, from Egypt to India**
+

@@ -18,6 +18,10 @@ Somali society combined **pastoralists with settled farming and trading communit
 
 The book stresses the Guurti's character: a **highly democratic process in which all adult males had equal access and participation**, working at **sub-clan, clan and inter-clan levels**. Dispute in the morning, council under the tree by afternoon, a decision the clan owns by evening — governance without a palace, scaled from the smallest kin-group to meetings between clans.
 
+## Sub lesson 3 — Grade 11 depth: Afar sultanates and Somali society in depth
+
+The Grade 11 page is short and load-bearing: five Afar sultanates — Aussa, Bidu, Gobaad, Tajura and Rahayito — holding the salt plains and caravan corridors between highland and sea, and beside them Somali clan society, governing itself by kinship and custom along the coast's trade. Whoever held the salt road held a tax on every highland kitchen; the Afar held the road.
+
 ## Say it to your companion
 
 Tell the whole story of Afar sultanates and Somali society back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

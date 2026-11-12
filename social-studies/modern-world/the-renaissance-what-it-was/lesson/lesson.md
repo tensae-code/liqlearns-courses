@@ -14,6 +14,10 @@ From the **5th to the 14th century**, ancient civilisation **declined in Europe*
 
 The Renaissance appeared **first in Italy** — and the book gives the reason: Italy was the **centre of ancient Roman civilisation** and lay **close to Greece**, so its **remains stirred emulation** — people living among Rome's ruins wanted to match what Rome had done. From Italy it **spread to France, Germany, England, Holland and elsewhere**. Its fruits show how wide it reached: scholars' **research participation grew across politics, sport, music, art and science**; research turned to **people's daily challenges** rather than religious and divine ideas; and the **vernacular languages** — the languages people actually spoke — **grew into literary languages**, fit for books, not only Latin.
 
+## Sub lesson 3 — Grade 11 depth: The Renaissance in depth — humanism, art and the press
+
+Italy's rebirth receives the Grade 11 depth: humanism returning to classical learning and putting human capability at the centre; art reborn in Leonardo and Michelangelo; and Gutenberg's printing press multiplying every book — and every idea — a hundredfold. From Italy the movement spreads north, carrying its questions into schools, churches and courts across Europe.
+
 ## Say it to your companion
 
 Tell your companion the whole lesson as a story, without looking: After Europe's long Dark Age, the learning of ancient Greece and Rome revived from the early 1300s — the Renaissance, a rebirth that changed literature, art, politics, science and thought itself.

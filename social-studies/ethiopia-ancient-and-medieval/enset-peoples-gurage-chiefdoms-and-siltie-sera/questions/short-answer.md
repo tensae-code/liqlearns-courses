@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 3)** Name Sera's three Siltie marks from this lesson.
 **Answer:** Descent also through the mother line; the general assembly YeMule Siltie Melcho; the Raga judiciary.
+**4. (Sub lesson 4)** In your own words, explain sera-woma and its place in this lesson's story.
+

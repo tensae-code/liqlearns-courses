@@ -45,3 +45,7 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Grade 11 extension (Wave 4 Band F, placement 67)
+
+Added (Grade 11 depth) — **Ifat, Adal and the eastern sultanates in depth** (printed pp. 179–182 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Grade 11 depth). Gate pool for the new part: its own questions, as for every sub lesson.

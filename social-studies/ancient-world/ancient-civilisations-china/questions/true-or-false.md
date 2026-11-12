@@ -14,3 +14,6 @@ Say whether each statement is true or false.
 
 **5.** Confucius founded the Shang dynasty.
 **Answer: False** — He was a Zhou-age teacher-philosopher.
+**6. (Grade 11 depth)** True or false: The inscribed bones of Shang divination, writing's ancestors — this is oracle bones.
+**Answer: True**
+

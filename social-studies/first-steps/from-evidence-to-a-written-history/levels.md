@@ -10,3 +10,11 @@ Sub lesson 2 questions from the type files. Pass mark: retell this part's story 
 
 ## Sub lesson 3 — Interpreting — selection, evidence, bias
 Sub lesson 3 questions from the type files. Pass mark: retell this part's story in order and answer its questions from the type files without the book open — the names, dates and places of the part all correct.
+
+## Sub lesson 4 — Grade 11 depth: Primary and secondary — and testing them
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **external criticism** (testing whether a source is genuine and what it is) and **internal criticism** (testing whether what a source says can be believed).
+
+## Sub lesson 5 — Grade 11 depth: From evidence to a written history — interpretation and objectivity
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **objectivity** (writing history so the evidence, not the wish, carries the judgement) and **abuse of history** (bending the past to flatter a power — named and warned against).

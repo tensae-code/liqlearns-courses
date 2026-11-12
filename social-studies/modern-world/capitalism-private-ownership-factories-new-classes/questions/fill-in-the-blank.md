@@ -11,3 +11,6 @@ Fill each blank with the right word or number.
 **3. (Sub lesson 3)** In the guide's terms, the owners of the factors of production are the ____.
 **Answer: bourgeoisie**
 
+**4. (Sub lesson 4)** The term for 'the inflation driven by American silver after 1500' is ______.
+**Answer: price revolution**
+

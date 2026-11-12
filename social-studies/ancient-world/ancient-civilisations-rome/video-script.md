@@ -19,3 +19,6 @@ A hut on a hill above the Tiber, 753 BC. Kings fall; a Republic rises, 509 BC.
 Legions march out on straight roads. Aqueducts carry water into roaring cities.
 
 The Colosseum fills. And Rome's law outlives Rome — in courts across two continents, still.
+
+[Grade 11 depth scene — Rome in depth — law, legions, roads and the long fall. The animated map carries the story as the voice speaks.]
+Rome receives its Grade 11 fullness: a republic of citizens and law becoming an empire of legions, roads and engineering; citizenship spreading until it bound an empire's peoples into one legal people; and then the division of the empire and the western fall by about 476 AD. The names to hold: citizenship, 476 AD.

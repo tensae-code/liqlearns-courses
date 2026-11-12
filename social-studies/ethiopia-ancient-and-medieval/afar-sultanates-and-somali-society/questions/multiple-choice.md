@@ -25,3 +25,9 @@ a) for sultans only  b) equal for all adult males  c) by lot
 **6. (Sub lesson 2)** The Guurti worked at — levels.
 a) only village  b) sub-clan, clan and inter-clan  c) only international
 **Answer: b) sub-clan, clan and inter-clan** — Three nested levels.
+**7. (Sub lesson 3)** What is Aussa?
+a) the leading Afar sultanate of the salt corridors
+b) a detail belonging to a different lesson in this course
+c) the caravan roads from the Danakil pans to the highlands
+**Answer: a) the leading Afar sultanate of the salt corridors**
+

@@ -22,3 +22,9 @@ a) 1706  b) 1821  c) 1855  d) 1769
 a) Aksum and Yeha  b) Mitsiwa and Harar  c) Gondar and Lasta  d) Zeila and Berbera
 **Answer: b) Mitsiwa and Harar** — He controlled the Red Sea route and took Mitsiwa and Harar.
 
+**6. (Grade 11 depth)** What is Ras Mikael Sehul?
+a) the first great warlord of the Era of the Princes
+b) the dynasty of regional rulers who dominated the era's middle
+c) a detail belonging to a different lesson in this course
+**Answer: a) the first great warlord of the Era of the Princes**
+

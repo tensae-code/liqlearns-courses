@@ -24,6 +24,14 @@ Even with tested sources in hand, the past is **endless** — no one can write a
 
 Yet the book is honest: **avoiding bias is difficult in practice**. Two historians with the same sources can select differently and write different histories. That is not a failure to hide; it is the reason sources must be tested and selections declared — so a reader can check the road from evidence to the written page.
 
+## Sub lesson 4 — Grade 11 depth: Primary and secondary — and testing them
+
+The Grade 11 depth sorts the evidence shelf with new care. Sources divide into primary and secondary, and again into written and unwritten — oral tradition, archaeology and linguistics standing beside documents and artefacts as full witnesses. And no source is used untested: external criticism asks whether the thing is genuine and what it is; internal criticism asks whether what it says can be believed. Every historical statement must be able to show its evidence.
+
+## Sub lesson 5 — Grade 11 depth: From evidence to a written history — interpretation and objectivity
+
+After criticism comes the historian's real work, in order: collect the evidence, criticise it, interpret it, and write — objectively, letting the proof carry the judgement. The Grade 11 book adds the modern workshop: ICT and digital imaging now let historians read faded manuscripts, share archives and test claims at a speed Ranke never knew. It also adds the warning: history abused — bent to flatter a power — stops being history at all.
+
 ## Say it to your companion
 
 Tell the whole story of From evidence to a written history back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

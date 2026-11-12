@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** The book sets the two accounts side by side for debate.
 **Answer: True** — Fair statement of both, then debate.
+**4. (Sub lesson 3)** True or false: The scientific theory that species change across immense time — this is evolution.
+**Answer: True**
+

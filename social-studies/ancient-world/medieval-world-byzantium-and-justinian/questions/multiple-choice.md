@@ -30,3 +30,9 @@ a) Europe and western Asia  b) Africa and India  c) the Americas
 **8. (Sub lesson 3)** Byzantium fell in 1453 to —
 a) the Persians  b) the Ottoman Turks  c) the Franks
 **Answer: b) the Ottoman Turks** — Constantinople, 1453.
+**9. (Sub lesson 4)** What is Byzantine Empire?
+a) the Byzantine emperor of reconquest and codified law
+b) a detail belonging to a different lesson in this course
+c) the Eastern Roman Empire surviving a thousand years at Constantinople
+**Answer: c) the Eastern Roman Empire surviving a thousand years at Constantinople**
+

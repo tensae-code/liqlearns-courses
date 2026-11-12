@@ -8,6 +8,8 @@ All three monetary levers exist. In a recession, which way does each one move? L
 
 Expansionary monetary policy cuts the discount rate, buys securities in open market operations, and cuts the reserve ratio. All three levers pushed toward 'loose' raise the money supply.
 
+
+[Picture 25251 — three levers pushed to loose, AD moving right]
 ## Sub lesson 2 — The chain to demand
 
 More money means lower interest rates; cheaper borrowing expands investment and consumption borrowing; spending rises. Each link must hold for the policy to work — if firms will not borrow at any rate, the chain breaks at that link.

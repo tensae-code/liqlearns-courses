@@ -9,3 +9,6 @@ Then Greece. Herodotus gathers. Thucydides questions. Father of history — and 
 The shelf jumps centuries. An archive door opens. Ranke: documents, or it did not happen.
 And here — a shelf of Ethiopia's own. Royal chronicles, written at court for ages.
 History has a history. Now you know its name: historiography.
+
+[Grade 11 depth scene — How history-writing itself changed. The animated map carries the story as the voice speaks.]
+The Grade 11 telling widens the road: historiography is the study of how history itself has been written — from Herodotus, the father of history, who asked and travelled and doubted, through the long chronicle traditions in which courts recorded their kings, to the modern professional history of universities, archives and criticism. The names to hold: historiography, Herodotus.

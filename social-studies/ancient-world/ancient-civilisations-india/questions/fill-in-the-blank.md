@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **Answer: south**
 **3.** Chandragupta Maurya ____ the north under his dynasty.
 **Answer: unified**
+**4. (Grade 11 depth)** The term for 'the birth-ordered system of Vedic society' is ______.
+**Answer: caste**
+

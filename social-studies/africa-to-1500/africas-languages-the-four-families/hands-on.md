@@ -10,3 +10,7 @@ On a big sheet, draw a tree with four great branches — the four families — a
 
 ## Four-colour census (Grade 9)
 On an outline map, colour the continent's four super-family regions in broad strokes from the lesson's parts, then mark with a star the places an imported language named in the lesson is official today. Say what the stars have in common.
+
+## Grade 11 depth — Africa's languages in depth — the frame of a continent
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

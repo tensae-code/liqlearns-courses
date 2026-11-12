@@ -8,3 +8,5 @@ Answer in a sentence or two.
 **2.** Why were princes kept on Amba Geshen?
 **Answer:** So that no royal descendant except the reigning king could raise a rival claim — ending the succession struggle.
 
+**3. (Grade 11 depth)** In your own words, explain Yekuno Amlak and its place in this lesson's story.
+

@@ -2,12 +2,20 @@
 
 countries: Ethiopia
 
+**Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
+
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Damot: probably the earliest southern state, south of the Blue Nile; its ruler Motalami converted by Abune Tekle Haymanot in the late 13th century | Ethiopia, *History, Student Textbook, Grade 9*, Unit 7, printed pp. 130–133 |
 | Sub lesson 2 — The southern and central states: Kafa, Ennarya, Bizamo, Walaita, Yem, Kambata, the Gurage chiefdoms and the Agaw kingdom of Gojjam — states of indigenous religion, each examined for its political and socio-economic order as the Christian kingdom pressed to bring them under its rule | Ethiopia, *History, Student Textbook, Grade 9*, Unit 7, printed pp. 130–133 |
+
+| Sub lesson 3 — Grade 11 depth: Damot in depth — gold south of the Abbay | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 69–70 |
+
+| Sub lesson 4 — Grade 11 depth: The southern and western states in depth — Gojjam to the Gonga | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 185–188 |
+
+| Sub lesson 5 — Grade 11 depth: The tato kingdoms in depth — Kafa and the Omotic states | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 203–207 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

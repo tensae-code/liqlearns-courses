@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **2.** The movement began under the ____ Gada in 1522.
 **Answer: Melbah**
 
+**3. (Grade 11 depth)** The term for 'a generation group moving through gadaa grades together' is ______.
+**Answer: age-set**
+

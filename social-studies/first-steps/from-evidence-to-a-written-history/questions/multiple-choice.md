@@ -25,3 +25,15 @@ a) elders always lie  b) retelling distorts  c) documents are older
 **6. (Sub lesson 3)** Historians select a problem because —
 a) the past is endless and cannot all be written  b) sources are boring  c) bias is required
 **Answer: a) the past is endless and cannot all be written** — Selection is unavoidable — so it is declared.
+**7. (Sub lesson 4)** What is external criticism?
+a) testing whether what a source says can be believed
+b) testing whether a source is genuine and what it is
+c) a detail belonging to a different lesson in this course
+**Answer: b) testing whether a source is genuine and what it is**
+
+**8. (Sub lesson 5)** What is objectivity?
+a) a detail belonging to a different lesson in this course
+b) writing history so the evidence, not the wish, carries the judgement
+c) bending the past to flatter a power — named and warned against
+**Answer: b) writing history so the evidence, not the wish, carries the judgement**
+

@@ -8,6 +8,8 @@ A commercial bank runs short of reserves overnight. There is one lender it can a
 
 The discount rate is the interest rate the central bank charges banks that borrow from it. Raise it, and banks borrow less and lend less; cut it, and borrowing from the centre gets cheaper.
 
+
+[Picture 25249 — the discount window with a queue of bank clerks]
 ## Sub lesson 2 — From the window to the street
 
 Cheaper borrowing at the discount window lets banks lend more to the public; dearer borrowing does the reverse. The rate signals the central bank's stance even to banks that never borrow.

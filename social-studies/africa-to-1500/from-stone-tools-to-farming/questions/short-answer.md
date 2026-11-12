@@ -13,4 +13,7 @@ Answer in one or two sentences.
 
 
 **4. (Sub lesson 3)** Retell the guide's road to the state in three steps.
-**Answer:** Religion developed and priests became important, ruling early theocratic states; village chiefs gradually replaced priests; agriculture led to the emergence of the state and external trade accelerated it.
+**Answer:** Religion developed and priests became important, ruling early theocratic states; village chiefs gradually replaced priests; agriculture led to the emergence of the state and external trade accelerated it.**5. (Sub lesson 4)** In your own words, explain Palaeolithic and its place in this lesson's story.
+
+**5. (Sub lesson 5)** In your own words, explain Neolithic Revolution and its place in this lesson's story.
+

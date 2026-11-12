@@ -7,3 +7,7 @@ In pairs, one writes a praise-poem of the other's week (hagiography style); the 
 
 ## The testing table
 Lay a chronicle-style text (teacher-made) beside a coin drawing, a king list and a map. Groups must confirm or reject three claims in the text using only the other sources, and report their verdicts.
+
+## Grade 11 depth — Royal chronicles and saints' lives — Ethiopia's two traditions
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

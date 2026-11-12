@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 2)** Give one argument that the Mandate idea encouraged rebellion, and one that it restrained rulers.
 **Answer:** Encouraged: a rebel could claim a failing dynasty had lost the Mandate. Restrained: an emperor who feared losing it had reason to govern well.
+**4. (Sub lesson 3)** In your own words, explain dynastic cycle and its place in this lesson's story.
+

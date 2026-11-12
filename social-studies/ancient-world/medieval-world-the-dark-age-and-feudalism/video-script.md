@@ -19,3 +19,6 @@ The map goes rural — cities shrink, fields spread. A castle rises; a church be
 The lord holds the land. The knight keeps the peace of the sword. The peasant works the strips.
 
 One manor, whole world: hall, church, mill, fields. Feudal Europe fits inside a village fence.
+
+[Grade 11 depth scene — Feudal Europe in depth — lords, serfs, manors and the Church. The animated map carries the story as the voice speaks.]
+Feudal society receives the Grade 11 system: kings granting land to lords, lords to vassals, serfs bound to the manor's fields — protection flowing down, service and dues flowing up. The names to hold: feudalism, manor.

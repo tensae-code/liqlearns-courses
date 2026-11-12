@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 1) ** The Islamic world's trade networks bound three continents.
 **Answer: True** — whose eastern roads reached Ethiopia's sultanates.
+**4. (Sub lesson 3)** True or false: The reach of early Islam from Arabia to Spain — this is expansion to c.750.
+**Answer: True**
+

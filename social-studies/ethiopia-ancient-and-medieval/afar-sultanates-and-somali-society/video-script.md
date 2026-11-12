@@ -9,3 +9,6 @@ Tents and herds. Four names rise: Aussa, Bidu, Tadjoura, Rahaito. No capital. A 
 East, under a great tree, elders sit in a ring. The Guurti is in session.
 A herder speaks. A farmer speaks. Every adult male has his say — then the council decides.
 Two systems, one east: many thrones linked, and a council of equals.
+
+[Grade 11 depth scene — Afar sultanates and Somali society in depth. The animated map carries the story as the voice speaks.]
+The Grade 11 page is short and load-bearing: five Afar sultanates — Aussa, Bidu, Gobaad, Tajura and Rahayito — holding the salt plains and caravan corridors between highland and sea, and beside them Somali clan society, governing itself by kinship and custom along the coast's trade. The names to hold: Aussa, salt corridors.

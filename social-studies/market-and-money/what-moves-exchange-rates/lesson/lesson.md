@@ -8,6 +8,8 @@ Eight different winds can blow one currency up or down. Before the list is given
 
 Inflation differentials: low-inflation currencies appreciate, as their goods stay competitive. Interest rates: higher rates attract capital and lift the currency. The balance of payments: a current-account deficit depreciates, as more home money is supplied to pay abroad than foreigners demand.
 
+
+[Picture 25259 — eight winds blowing on one currency flag]
 ## Sub lesson 2 — Debt, trade terms and stability
 
 Government debt: heavy expected debt scares investors out. Terms of trade: rising export prices strengthen the currency. Political stability and economic performance: steady, performing economies hold their investors; unstable ones lose them at the first rumour.

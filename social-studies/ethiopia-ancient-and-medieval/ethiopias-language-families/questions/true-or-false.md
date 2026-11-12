@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** Amharic is a northern Semitic language in this classification.
 **Answer: False** — Amharic is listed among the southern Semitic languages.
+**4. (Sub lesson 4)** True or false: The language family of the western lowlands — this is Nilo-Saharan.
+**Answer: True**
+

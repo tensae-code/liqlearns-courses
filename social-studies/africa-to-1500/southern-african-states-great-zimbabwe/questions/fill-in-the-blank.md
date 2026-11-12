@@ -7,3 +7,6 @@ Fill each blank with the right word.
 
 **2. (Sub lesson 2)** ______ was the ruler's title in Mwene Mutapa.
 **Answer: Mwene**
+**3. (Sub lesson 4)** The term for 'the coastal port of Zimbabwe's gold trade' is ______.
+**Answer: Sofala**
+

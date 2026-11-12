@@ -11,3 +11,6 @@ Say whether each statement is true or false.
 **3.** The Gada system discouraged taking new land.
 **Answer: False** — It encouraged taking new land.
 
+**4. (Grade 11 depth)** True or false: A generation group moving through gadaa grades together — this is age-set.
+**Answer: True**
+

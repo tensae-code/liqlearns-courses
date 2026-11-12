@@ -49,3 +49,7 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 ## Grade 9 extension (Ethiopia Wave 4, 2026-11-12)
 
 A further part was added from Ethiopia's *History, Grade 9* book: **The Grade 9 book's pre-Aksumite world — principalities before Aksum** — see lesson/lesson.md for the part and lesson/sources.md for its book and printed pages.
+
+## Grade 11 extension (Wave 4 Band F, placement 26)
+
+Added (Grade 11 depth) — **Before Aksum in depth — Damat and the Red Sea world** (printed pp. 61–63 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Grade 11 depth). Gate pool for the new part: its own questions, as for every sub lesson.

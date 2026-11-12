@@ -8,6 +8,8 @@ A plan aims at global goals (the MDGs) and a national vision (middle income by 2
 
 PASDEP (2005/06–2009/10), Ethiopia's second poverty-reduction strategy, aimed to lay the groundwork for attaining the Millennium Development Goals by 2015 and the national vision of middle-income status — per-capita income at middle-income level by 2025.
 
+
+[Picture 25293 — eight pillars holding a middle-income lintel]
 ## Sub lesson 2 — Eight strategic pillars
 
 Its eight pillars: implementation capacity; accelerated growth; balancing development with population growth; unleashing women's potential; infrastructure; human resources; managing risk and volatility; and employment. The pillars hold up one lintel: middle income by 2025.

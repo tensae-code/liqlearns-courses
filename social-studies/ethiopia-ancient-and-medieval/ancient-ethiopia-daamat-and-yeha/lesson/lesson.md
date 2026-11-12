@@ -21,6 +21,10 @@ The Grade 9 book is firm on the point this lesson opens with: **Aksum was not th
 The teacher's guide adds who initiated these sites: the **Habashat and Agazi tribes**, migrants from **southern Arabia** (labelled evidence in this lesson's sources, and told fully in the Addi-Seglemeni lesson). Da'amat and Yeha, met earlier in this lesson from the younger books, now take their place in a crowded pre-Aksumite field — six named powers where a single 'before' used to be.
 
 
+## Grade 11 depth — Before Aksum in depth — Damat and the Red Sea world
+
+Before Aksum rose, Damat and its sister polities farmed and traded in the northern highlands, tied across the Red Sea to Sabaean South Arabia. Their temples, inscriptions and irrigation — Yeha's great temple standing witness — show a highland world already organised, already literate in places, already trading, centuries before the famous kingdom. Aksum inherited a going world; it did not start from nothing.
+
 ## Say it to your companion
 
 Tell your companion where Da'amat was centred, and the three jobs inside the title mukarrib. Then say what the title tells us about Ethiopia and South Arabia.

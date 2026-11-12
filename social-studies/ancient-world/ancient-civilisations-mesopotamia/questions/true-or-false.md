@@ -8,3 +8,6 @@ Say whether each statement is true or false.
 **Answer: False** — Four civilisations rose there in turn; it was never one single state.
 **3. (Sub lesson 2)** Mesopotamia's government was royal, religious and absolute.
 **Answer: True** — The king ruled, backed by religion, with absolute power.
+**4. (Sub lesson 3)** True or false: Justice published on stone for all to read — this is Hammurabi's law code.
+**Answer: True**
+

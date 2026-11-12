@@ -16,6 +16,13 @@ The Grade 9 teacher guide's activity answer names the mechanisms the student boo
 
 Third, pilgrimage: the hajj gathered believers from every land to Mecca and sent them home carrying the faith's learning and unity to their own peoples. Fourth, missionaries: teachers and holy men who travelled to persuade, converting by word and example far beyond any army's reach. Conquest drew the map quickly; trade, pilgrimage and missionaries filled it in — and kept filling it for a thousand years after the conquests stopped. That four-channel picture is the guide's gift to this lesson: an empire's expansion, and a religion's, are related but not the same story.
 
+## Sub lesson 3 — Grade 11 depth: The rise and expansion of Islam in depth
+
+Islam's first centuries receive their Grade 11 fullness: born in Arabia under the Prophet Muhammad, carried by the caliphates across the Middle East, North Africa and into Spain within a few generations — the fastest expansion of the age. Behind the armies travelled a civilisation: scholarship, law, mathematics, medicine and trade networks from Cordoba to Baghdad, which this course's African and Ethiopian lessons meet again and again.
+
+
+[GIF 23858 — the expansion map shading outward by period]
+
 ## Say it to your companion
 
 Tell your companion the expansion's reach by c.750, then the four channels with one line each — and finish with the distinction: the empire's story and the religion's are not the same.

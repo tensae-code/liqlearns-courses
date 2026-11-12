@@ -14,6 +14,10 @@ The **Zemene Mesafint (1769–1855)** is the medieval period's long dusk. **Cent
 
 A divided land invites danger from outside. **Muhammad Ali of Egypt, strengthening from 1821, controlled the Red Sea trade route and took Mitsiwa and Harar**. With no central army to answer, **defence fell on local lords** — among them **Dejazmach Wube of the north, Dejazmach Kinfu, and Kassa Hailu of Qwara** — and the book honours the price: they **paid with their lives**. The era that began with a lord killing a king ends with lords dying to defend a land no king could defend. What this age cost the ordinary people is the next and last lesson of the chapter.
 
+## Grade 11 depth — Zemene Mesafint in depth, 1769–1855
+
+The Era of the Princes receives the Grade 11 system: emperors at Gondar reduced to puppets, crowned and discarded by the warlords who truly rule — Ras Mikael Sehul first among them, then the Yejju lords and their rivals, region by region. The empire's name survives its power; reunification, when it comes, will have to be fought for province by province — as the modern lessons will show.
+
 ## Say it to your companion
 
 Tell your companion the era's dates, what 'king-makers and king-breakers' means, what Muhammad Ali took, and the three named local defenders.

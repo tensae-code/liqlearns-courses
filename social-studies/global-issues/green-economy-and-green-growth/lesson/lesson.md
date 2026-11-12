@@ -8,6 +8,8 @@ Can an economy grow and heal its environment in the same motion — or is 'green
 
 A green economy improves human wellbeing and social equity while significantly reducing environmental risks and ecological scarcities. It is low-carbon, resource-efficient and socially inclusive — all three adjectives doing work.
 
+
+[Picture 25312 — a town powered by sun, wind and water]
 ## Sub lesson 2 — Investment as the driver
 
 It is driven by public and private investment that cuts emissions and pollution, raises energy and resource efficiency, and protects biodiversity and ecosystem services. Green growth, in the OECD's phrasing, is fostering growth while ensuring natural assets keep providing the resources and services wellbeing relies on.

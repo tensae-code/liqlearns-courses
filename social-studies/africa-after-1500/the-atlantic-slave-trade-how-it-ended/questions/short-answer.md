@@ -10,3 +10,5 @@ Answer in a sentence or two.
 
 **3. (Sub lesson 2)** Name two ways Africans themselves helped end the trade.
 **Answer:** Equiano and Cugoano exposed its horror in their writings; and captives in America and the Caribbean kept rebelling — in Haiti (Saint-Domingue) the slaves rose in 1791.
+**4. (Sub lesson 3)** In your own words, explain 1807 and its place in this lesson's story.
+

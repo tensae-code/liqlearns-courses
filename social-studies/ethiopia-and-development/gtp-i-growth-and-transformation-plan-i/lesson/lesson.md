@@ -8,6 +8,8 @@ A plan promises at least 11% growth a year for five years and lower-middle-incom
 
 GTP I (2010/11–2014/15) pointed Ethiopia at lower-middle-income status by 2025 with four overarching objectives: at least 11% average real GDP growth and the MDGs by 2014/15; expanded, quality education and health; conditions for a stable democratic developmental state; and growth sustained through macroeconomic stability — delivered through seven cross-cutting pillar strategies.
 
+
+[Picture 25294 — a garment workshop beside a high-value crop field]
 ## Sub lesson 2 — Agriculture and the structural turn
 
 In agriculture GTP I scaled up smallholders' best practices, soil-productivity technology, training and fertiliser, and high-value crops. Structurally it added industrialisation through labour-intensive micro and small enterprises, linking agriculture to import-substituting and export manufacturing.

@@ -20,6 +20,10 @@ A **timeline** draws events in order along a line, so you can see at a glance wh
 
 Historians also chunk the past into **periods** — **ancient**, **medieval** and **modern** — named after the big developments that began them. Periodisation is a tool, not a wall: it helps you talk about long stretches of time without naming every year, the way a map's regions help you talk about a country without naming every village.
 
+## Sub lesson 3 — Grade 11 depth: Periodization — cutting time into ages
+
+The Grade 11 depth names the tool this lesson uses: periodization. The past is cut into periods — ancient, medieval, modern — and dated by systems each civilisation keeps for itself. The cut is the historian's tool, not a fact of nature: another civilisation, another knife. A period boundary is an argument — that something big enough changed here to deserve a new name — and like every argument it can be challenged.
+
 ## Say it to your companion
 
 Tell the whole story of Dating the past back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

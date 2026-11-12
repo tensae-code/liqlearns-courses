@@ -20,3 +20,6 @@ Before the famous name, the map is already busy: Punt on the coast road, Da'amat
 Slabs and temples rise — Hawlti-Melazo, Metera, Kaskase, Addi-Seglemeni.
 
 Across the Red Sea, Arabia watches. Aksum is coming — but it was not first.
+
+[Grade 11 depth scene — Before Aksum in depth — Damat and the Red Sea world. The animated map carries the story as the voice speaks.]
+Before Aksum rose, Damat and its sister polities farmed and traded in the northern highlands, tied across the Red Sea to Sabaean South Arabia. The names to hold: Damat (Da'amat), Yeha.

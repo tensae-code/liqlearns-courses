@@ -30,7 +30,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 ## The run of the lesson (in order)
 1. **Do it first** — the learner does the opening task in lesson/lesson.md before any explanation.
 2. **The explanation** — lesson/lesson.md, with these slots at their exact places:
-   - ADD IMAGE: a picture of  — the student studies it and answers the lesson's question about it at that place. (Described slot only; no picture file is made in this build — the band's media range was spent on the diagram and GIF lessons.)
+   - ADD IMAGE [Picture 25311]: a picture of four small panels — a herder moving cattle, a grain store, mixed crops, a village sharing a well — the student studies it and answers the lesson's question about it at that place.
    - ADD AUDIO: a voice reading the lesson's key words and figures aloud — the student listens and repeats them. (Described slot only; no audio file is made in this build.)
 3. **Say it to your companion** — lesson/lesson.md.
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
@@ -39,7 +39,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 6. **Do It Yourself** — lesson/lesson.md.
 
 ## Add-ons for this lesson (the full list)
-- IMAGE — a picture of  → the student studies it at its place in the lesson. (Described slot only.)
+- IMAGE [Picture 25311] — four small panels — a herder moving cattle, a grain store, mixed crops, a village sharing a well → the student studies it at its place in the lesson.
 - AUDIO — the lesson's key words and figures read aloud → the student listens and repeats. (Described slot only.)
 - VIDEO — the video-script filmed (made later) → the student watches and follows the walk-through.
 

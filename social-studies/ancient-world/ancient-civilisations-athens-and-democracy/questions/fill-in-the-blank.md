@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **Answer: 500**
 **3.** ____ legislated free speech and equality before the law.
 **Answer: Cleisthenes**
+**4. (Grade 11 depth)** The term for 'Greece's questioning of justice and truth themselves' is ______.
+**Answer: philosophy**
+

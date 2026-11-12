@@ -33,3 +33,9 @@ a) the Habashat and Agazi  b) the Zagwe  c) Greek merchants
 **8.** The book's point is that Aksum —
 a) was Ethiopia's first polity of any kind  b) was not the first centralised polity of the region  c) had no predecessors worth naming
 **Answer: b) was not the first centralised polity of the region** — Principalities rose and fell before it.
+**9. (Grade 11 depth)** What is Damat (Da'amat)?
+a) the pre-Aksumite temple site witnessing the early highland world
+b) the chief pre-Aksumite polity of the northern highlands
+c) a detail belonging to a different lesson in this course
+**Answer: b) the chief pre-Aksumite polity of the northern highlands**
+

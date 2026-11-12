@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **2.** Damot, ____ and the Lake Tana area were brought under the kingdom.
 **Answer: Gojjam**
 
+**3. (Grade 11 depth)** The term for 'founding churches as an instrument of expansion' is ______.
+**Answer: church planting**
+

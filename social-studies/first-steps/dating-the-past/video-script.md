@@ -11,3 +11,6 @@ Same line. Same country. One hundred and fifteen years between them.
 But wait — who counts the years? Rome counts from Christ. Mecca counts from the Hijra, 622.
 And Ethiopia counts its own way — seven, eight years behind.
 Three calendars. One past. Put the events in order, and the past stands up straight.
+
+[Grade 11 depth scene — Periodization — cutting time into ages. The animated map carries the story as the voice speaks.]
+The Grade 11 depth names the tool this lesson uses: periodization. The names to hold: periodization, period.

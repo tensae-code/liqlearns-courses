@@ -14,6 +14,10 @@ At the city's heart stood the **royal compound: palaces, the abun's and the echa
 
 Gondar was a **trade centre with two routes**: one to **north Ethiopia**, one **west to Sudan**. Its **daily market mixed foreign merchants, townspeople and rural folk** in one crowd. Its working peoples included the **Bete Israel**, who laboured as **builders, potters, basket-makers and metalworkers** — the city's crafts in their hands. And the city made room for the world: **Yohannes I (1667–1682) settled Muslims, Bete Israel, Armenians, Indians and Greek merchants in quarters outside the city**, as Islam spread — neighbourhoods of many faiths ringing a Christian royal capital. That layered city — palace, church-school, market, quarters — is Gondar at its height.
 
+## Grade 11 depth — The Gondarine Period in depth, 1636–1769
+
+Gondar's century at Grade 11 depth: castle-building emperors raising stone palaces in sequence, a court culture of poetry, painting and church debate — and, underneath the splendour, the slow weakening, as regional lords gather the power the castles proclaim. A golden age and a hollowing, in the same stones, in the same century.
+
 ## Say it to your companion
 
 Tell your companion what stood in the royal compound, what the outside churches taught, the market's two routes and mixed crowd, and which peoples Yohannes I settled in quarters.

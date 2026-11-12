@@ -44,3 +44,9 @@ Expansion's skeleton: birth in Arabia → caliphates unite and lead → to c.750
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. History here is summary in the course's own words — never the book's text. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Grade 11 extension (Wave 4 Band F, placement 34)
+
+Added (Sub lesson 3) — **The rise and expansion of Islam in depth** (printed pp. 87–95 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Sub lesson 3). Gate pool for the new part: its own questions, as for every sub lesson.
+
+- GIF [GIF 23858] — the expansion map shading outward by period (Wave 4 Band F, for the Grade 11 depth part).

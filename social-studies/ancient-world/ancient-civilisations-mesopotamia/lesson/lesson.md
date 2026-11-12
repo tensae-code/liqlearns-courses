@@ -16,6 +16,10 @@ Civilisation began with a recipe, and the recipe starts on a river bank. When pe
 
 [Picture 11350 — Mesopotamia between the two rivers]
 
+## Sub lesson 3 — Grade 11 depth: Mesopotamia in depth — cities, cuneiform and the law code
+
+Between Tigris and Euphrates the Grade 11 book slows down: Sumerian cities inventing the urban template; cuneiform turning accounts into literature and law; Hammurabi's code publishing justice on stone for all to read; and then the empires in succession — Babylonian and Assyrian — inheriting the valley's cities, scripts and ambitions. First cities and first written laws: the valley's double gift.
+
 ## Say it to your companion
 
 Tell your companion the recipe first — river, farming, settlement, town, writing — then place Mesopotamia: what its name means, its two rivers, its four peoples in turn, and why it was never one state.

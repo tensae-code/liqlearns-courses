@@ -8,6 +8,8 @@ Income tax in Ethiopia began with a ruler taking one-tenth of peasants' produce.
 
 Income taxation arrived in 1944 with an imperial decree taking one-tenth of peasants' produce. Today the federal Ministry of Revenues prepares the fiscal decrees and directives for parliament.
 
+
+[Picture 25272 — a map of regions with two layers of revenue offices]
 ## Sub lesson 2 — A federal split of revenue sources
 
 The framework rests on Proclamation No. 33/1992 and the 1995 FDRE Constitution, which split revenue sources between the federal government (Article 51(10)) and the regional states (Article 52(2)(e)). Each level taxes its reserved sources and draws up its own budget.

@@ -41,3 +41,9 @@ a) farming cities  b) sheep and cattle herding  c) fishing fleets
 **10. (Sub lesson 3)** Great Zimbabwe's empire traded gold to —
 a) the Indian Ocean coast  b) the Baltic  c) the Niger
 **Answer: a) the Indian Ocean coast** — Cattle, crops and gold.
+**11. (Sub lesson 4)** What is Great Zimbabwe?
+a) a detail belonging to a different lesson in this course
+b) the Shona stone city at the gold trade's centre
+c) the coastal port of Zimbabwe's gold trade
+**Answer: b) the Shona stone city at the gold trade's centre**
+

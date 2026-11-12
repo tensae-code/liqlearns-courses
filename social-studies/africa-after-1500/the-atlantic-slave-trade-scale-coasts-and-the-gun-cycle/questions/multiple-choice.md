@@ -25,3 +25,9 @@ a) Defend the coast  b) Make war and deliver captives  c) Hunt animals  d) Guard
 **6. (Sub lesson 3)** Across 300 years, the number sold into slavery was —
 a) 2 million  b) 5 million  c) More than 10 million  d) 100 million
 **Answer: c) More than 10 million** — More than 10 million sold — excluding 2 million who died on the voyage.
+**7. (Sub lesson 4)** What is Middle Passage?
+a) the three-legged Atlantic system of goods, captives and produce
+b) the Atlantic crossing of the enslaved, at the system's heart
+c) a detail belonging to a different lesson in this course
+**Answer: b) the Atlantic crossing of the enslaved, at the system's heart**
+

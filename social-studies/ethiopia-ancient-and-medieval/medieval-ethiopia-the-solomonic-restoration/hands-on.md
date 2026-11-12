@@ -7,3 +7,7 @@ Invent two names for the same school team — one plain, one that claims a glori
 
 ## Five in five game
 Deal five cards as five 'kings'. Time one minute per card and try to complete a small task for each reign before the time runs out — feel why five reigns in five years meant chaos.
+
+## Grade 11 depth — 1270 in depth — Yekuno Amlak and the Kebra Nagast
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** YeMule Siltie Melcho is the Siltie general assembly.
 **Answer: True** — The assembly under Sera.
+**4. (Sub lesson 4)** True or false: The Gurage systems named only in the teacher guide (evidence) — this is Yajoka Qicha and Gordanna Sera.
+**Answer: True**
+

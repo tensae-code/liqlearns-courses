@@ -7,3 +7,5 @@ Answer in one or two sentences.
 
 **2. (Sub lesson 2)** Give Meroe's decline in two columns: internal and external causes.
 **Answer:** Internal: falling farm output, poorer charcoal and iron quality, spreading desert. External: Aksum's invasion.
+**3. (Sub lesson 3)** In your own words, explain 25th Dynasty and its place in this lesson's story.
+

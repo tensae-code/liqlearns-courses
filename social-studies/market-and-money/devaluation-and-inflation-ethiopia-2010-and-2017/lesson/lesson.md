@@ -8,6 +8,8 @@ A devaluation is meant to help exporters. Within a year, shoppers are paying a t
 
 The National Bank of Ethiopia devalued by 20% in August 2010, from 13.63 to 16.35 birr per dollar — check: (16.35 − 13.63) / 13.63 ≈ 0.20. The aim was foreign-exchange earnings; inflation of about 33% followed in 2011, as imports priced in dollars became dearer in birr.
 
+
+[Picture 25262 — two linked dials — exchange rate down, inflation up]
 ## Sub lesson 2 — October 2017 — 15% more
 
 A further 15% devaluation came on 10 October 2017, to encourage exports, relieve the foreign-exchange shortage and suppress the black market. The World Bank had urged a devaluation of at least 10% on competitiveness grounds.

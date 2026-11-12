@@ -9,3 +9,6 @@ People thick on the land. A market hums at a border: highland enset, lowland spi
 West of the lake, Gurage chiefdoms — written of since the 1300s, remembering Gura.
 And a Siltie assembly gathers: YeMule Siltie Melcho. The Raga judges rise.
 One plant. Many peoples. Their own law. That is the enset south.
+
+[Grade 11 depth scene — Sera-woma states, Gedeo, Konso and Gurage in depth — with the guide's Gurage names. The animated map carries the story as the voice speaks.]
+The Grade 11 depth surveys the south's remaining designs: Sidama-area states ordered by the sera-woma system; the Gedeo with their own indigenous government; terraced Konso behind its stone-walled towns; and the Gurage chiefdoms. The names to hold: sera-woma, Yajoka Qicha and Gordanna Sera.

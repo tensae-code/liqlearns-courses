@@ -7,3 +7,7 @@ Sub lesson 1 questions from the type files. Pass mark: Sugar glutted and cheapen
 
 ## Sub lesson 2 — Britain acts — and Africa resists
 Sub lesson 2 questions from the type files. Pass mark: Britain outlawed slavery and the trade in 1807 and patrolled the coast; Equiano and Cugoano exposed the horror in writing, and captives rebelled — Haiti, 1791.
+
+## Sub lesson 3 — Grade 11 depth: Abolition in depth — how the trade was ended
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **1807** (Britain's abolition of its slave trade) and **abolitionist movements** (the organised campaigns that turned opinion against the trade).

@@ -37,3 +37,9 @@ a) Khoisan  b) Indo-European  c) Afro-Asiatic
 **9. (Sub lesson 3)** Arabic and English in Africa are examples of —
 a) extinct languages  b) languages not native to Africa  c) Khoisan languages
 **Answer: b) languages not native to Africa** — Named arrivals, with French, Spanish and Portuguese.
+**10. (Sub lesson 4)** What is Niger-Congo?
+a) the click-language family, among the continent's oldest
+b) Africa's largest language family
+c) a detail belonging to a different lesson in this course
+**Answer: b) Africa's largest language family**
+

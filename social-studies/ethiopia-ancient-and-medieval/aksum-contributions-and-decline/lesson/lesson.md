@@ -14,6 +14,10 @@ Aksum's **contributions** shaped everything after it. It gave Ethiopia a **liter
 
 The fall came from **outside and inside together**. From outside: **Arabs took control of Red Sea trade**, and **Adulis itself was taken in 702** — the port that fed Aksum's wealth was lost. From inside: the **Beja pastoralists revolted and invaded**, there were **power struggles**, and the **economy weakened**. A kingdom squeezed from both sides cannot hold its centre: the **centre of power moved to Lasta**, and the Aksumite state **ended about 1150**. The teacher guide sharpens the same analysis: externally, Muslim Arab expansion into the Red Sea brought trade conflict, the loss of maritime trade and economic decline that collapsed the defence system; internally, rebellion grew that weakened rulers could not control. Gifts endure; kingdoms fall when their trade, unity and strength fail together.
 
+## Sub lesson 3 — Grade 11 depth: The Aksumite Kingdom in depth — trade, coinage and the long decline
+
+The Grade 11 book gives Aksum its whole biography: Red Sea trade through Adulis making it rich; Ezana's conversion making it Christian; coinage carrying its kings' names to foreign markets; Ge'ez writing its records; stelae raising its pride in stone; and Kaleb's expedition across the sea to Himyar at its power's height. Then the long decline, as trade routes shifted and the sea's traffic moved elsewhere — greatness with a geography, lost when the geography changed.
+
 ## Say it to your companion
 
 Tell your companion Aksum's four contributions, then the outside blow and the inside troubles that ended it, and the year it ended, about.

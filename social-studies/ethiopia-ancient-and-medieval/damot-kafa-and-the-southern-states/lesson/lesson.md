@@ -18,6 +18,18 @@ Around and beyond Damot stood a whole south: **Kafa, Ennarya, Bizamo, Walaita, Y
 
 Each had its own political and socio-economic order — kings, chiefdoms, markets, tribute — and each faced the same question from the north: trade, convert, submit, resist? Their answers differed, and the differences are the history. When the Oromo expansion of the next lessons redrew the map, it was this crowded, ordered south that it entered — not an empty land.
 
+## Sub lesson 3 — Grade 11 depth: Damot in depth — gold south of the Abbay
+
+Damot, south of the Abbay, takes the Grade 11 depth on its own: a wealthy pagan kingdom whose gold and slaves drew highland trade southward across the great river, and whose dealings with the Christian kingdom — commerce first, pressure later — ended in absorption. Its wealth is the point: the medieval Ethiopian world had more than one rich centre, and the southern one traded as an equal for centuries.
+
+## Sub lesson 4 — Grade 11 depth: The southern and western states in depth — Gojjam to the Gonga
+
+The Grade 11 survey widens the ring around the highland kingdom: Gojjam across the Abbay; the small states of Bizamo, Wajj and Ganz; wealthy Ennarya of the gold and slave trades; and the Gonga peoples of the west. Each had its economy and its diplomacy with the kingdom — tribute here, trade there, resistance elsewhere. The medieval map is a negotiating table, not a blank.
+
+## Sub lesson 5 — Grade 11 depth: The tato kingdoms in depth — Kafa and the Omotic states
+
+The Omotic kingdoms of the south-west receive their Grade 11 depth under their own design: the tato system, sacral kingship in which the king's person is hedged with ritual and the kingdom's health is read in his. Kafa is the type case — isolated behind its forests, rich in coffee that grew wild in them, courted and feared by traders, and closed for centuries by policy as much as by trees.
+
 ## Say it to your companion
 
 Tell the whole story of Damot, Kafa and the southern states back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

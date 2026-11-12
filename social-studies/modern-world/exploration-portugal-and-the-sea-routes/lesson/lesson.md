@@ -14,6 +14,13 @@ In the Middle Ages, what Europeans knew of the world's shape stopped at Europe, 
 
 In **1497 Vasco da Gama** led **four ships** out of Portugal toward the Indian Ocean. He sailed down Africa's west coast, around its southern tip, and up the east coast — and in **1498** he reached **Calicut (Kozhikode)** in India. The sea road to India was open: spices could now come to Europe by ship, without crossing other empires' land. Three years later came a second great voyage. In **1500 Pedro Cabral**, with **thirteen ships**, landed on the coast of **Brazil** and laid the foundation of Brazil as a Portuguese overseas possession. Cabral then rounded Africa, reached Calicut himself, and returned to Portugal in **1501**. Hold the pattern: Portugal sailed south and east for India — and on the way, Brazil, in the west, also came under its flag.
 
+## Sub lesson 3 — Grade 11 depth: Voyages in depth — joining the world, at a cost
+
+The Grade 11 telling sails the whole circuit: Dias rounding Africa, da Gama reaching India, Columbus crossing to the Americas, Magellan's ships circling the earth. The Columbian exchange then moves plants, animals, peoples and diseases between hemispheres, and the first truly global trade web closes. The book holds both truths at once: a joined world — and the costs billed to the peoples the ships reached.
+
+
+[GIF 23853 — a ship's route drawing itself around Africa to India]
+
 ## Say it to your companion
 
 Tell your companion the whole lesson as a story, without looking: Portugal led the great sea exploration of the 1400s and 1500s: Henry the Navigator funded the voyages, and da Gama reached India by sea in 1498.

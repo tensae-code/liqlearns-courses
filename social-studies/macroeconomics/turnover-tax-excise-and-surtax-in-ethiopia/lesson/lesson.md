@@ -8,6 +8,8 @@ VAT catches the big traders. Who catches the small ones — and what extra tax f
 
 Turnover tax catches those outside VAT: registration for VAT is limited to traders above 500,000 birr of annual transactions. TOT runs at 2% for contractors, grain mills, tractors and combine harvesters, and 10% for other local services.
 
+
+[Picture 25274 — three customs stamps over a crate of imports]
 ## Sub lesson 2 — Excise — on luxuries and harms
 
 Excise falls on 19 groups covering 378 goods — luxuries and health-harming goods — at rates from 5% to 500%. It is payable at customs clearance for imports and within 30 days of production for local goods.

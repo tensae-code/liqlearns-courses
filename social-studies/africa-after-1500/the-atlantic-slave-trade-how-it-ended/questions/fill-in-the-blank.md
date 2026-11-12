@@ -7,3 +7,6 @@ Fill each blank with the right word or number.
 
 **2. (Sub lesson 1)** When slave prices rose and sugar cheapened, planters' ____ fell.
 **Answer: profits**
+**3. (Sub lesson 3)** The term for 'the organised campaigns that turned opinion against the trade' is ______.
+**Answer: abolitionist movements**
+

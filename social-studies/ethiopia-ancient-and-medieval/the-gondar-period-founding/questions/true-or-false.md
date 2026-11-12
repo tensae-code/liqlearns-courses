@@ -11,3 +11,6 @@ Say whether each statement is true or false.
 **3.** Susenyos centralised all defence, tax and army duties at his court.
 **Answer: False** — His order was decentralised; local rulers kept those duties.
 
+**4. (Grade 11 depth)** True or false: The centuries of the travelling camp-capital, ended at Gondar — this is moving-court age.
+**Answer: True**
+

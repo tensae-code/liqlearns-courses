@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 2)** Name three other primary-source kinds the book lists beside chronicles.
 **Answer:** Any three of: monuments, tools, coins, inscriptions, ruins, manuscripts, diaries, letters, law codes, court records, photographs, maps, audiovisual material.
+**4. (Sub lesson 3)** In your own words, explain royal chronicles and its place in this lesson's story.
+

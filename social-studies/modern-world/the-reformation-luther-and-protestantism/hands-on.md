@@ -8,3 +8,7 @@ Write three short protest lines of your own about something unfair in daily life
 ## Map the spread
 Draw Europe roughly. Mark Germany (Luther), France (Calvin, Huguenots), England (Anglican), Switzerland (Swiss Reformed). Four pins, four labels.
 
+
+## Grade 11 depth — The Reformation in depth — protest, split and wars of religion
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

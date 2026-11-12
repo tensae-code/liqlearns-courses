@@ -10,3 +10,7 @@ Sub lesson 2 questions from the type files. Pass mark: Explain how the Industria
 
 ## Sub lesson 3 — The definition in class terms (teacher guide — evidence)
 Sub lesson 3 questions from the type files. Pass mark: State the guide's sharper definition: resources owned by a few rich private people, production for profit, the bourgeoisie owning the factors of production, the proletariat selling labour for wages, and no government interference.
+
+## Sub lesson 4 — Grade 11 depth: Early capitalism in depth — towns, banks and the price revolution
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **merchant capital** (wealth organised for trade and production beyond the guilds) and **price revolution** (the inflation driven by American silver after 1500).

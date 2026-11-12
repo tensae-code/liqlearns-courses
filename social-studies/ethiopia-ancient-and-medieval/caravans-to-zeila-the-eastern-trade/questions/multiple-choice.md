@@ -25,3 +25,9 @@ a) the Walasma dynasty of Ifat  b) the Zagwe  c) the Mamluks
 **6. (Sub lesson 3)** The principalities' existence turned on —
 a) controlling trade  b) naval power  c) mining
 **Answer: a) controlling trade** — Like the Christian kingdom's, on trade.
+**7. (Sub lesson 4)** What is Dahlak route?
+a) the island-hopping Red Sea route of the eastern trade
+b) the staged markets between highland and lowland
+c) a detail belonging to a different lesson in this course
+**Answer: a) the island-hopping Red Sea route of the eastern trade**
+

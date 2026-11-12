@@ -8,6 +8,8 @@ On one payslip, two deductions build a pension: one from the worker, one from th
 
 Pension contributions are salary-based: 11% from the employer and 7% from the employee, paid to the Private Organizations Pension Fund. On a 10,000 birr salary that is 1,100 birr from the employer and 700 from the employee — 1,800 birr a month toward old age.
 
+
+[Picture 25275 — a payslip with the 11 plus 7 pension split]
 ## Sub lesson 2 — Withholding and stamp duty
 
 Withholding tax takes 2% of domestic transaction values at source, remitted monthly — tax collected before the income fully settles. Stamp duty is paid by affixing government stamps to designated documents, taxing the document itself.

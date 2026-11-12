@@ -10,3 +10,5 @@ Answer in a sentence or two.
 
 **3. (Sub lesson 3)** Explain the guns-for-slaves cycle.
 **Answer:** Europeans, weakened by disease and beaten in direct raids, supplied firearms to rival African chiefs to make war; the wars' captives were exchanged for the guns — so every war, whatever its cause, ended in people delivered into slavery.
+**4. (Sub lesson 4)** In your own words, explain Middle Passage and its place in this lesson's story.
+

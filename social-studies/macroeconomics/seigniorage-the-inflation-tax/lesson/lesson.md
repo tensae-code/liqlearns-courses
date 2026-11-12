@@ -8,6 +8,8 @@ A government prints new money and spends it. Nobody was taxed — so who paid? S
 
 A government that finances its spending by issuing new money collects seigniorage — the profit of making money whose face value far exceeds its printing cost. It is real revenue, raised without a tax law.
 
+
+[Picture 25234 — printing money taxes the people who hold money]
 ## Sub lesson 2 — The inflation tax
 
 The new money bids up prices. Everyone holding the old money finds each note buys less — an inflation tax paid by money holders, with no collector and no receipt. The poorest, who hold cash and cannot escape into goods or foreign currency, pay heavily.

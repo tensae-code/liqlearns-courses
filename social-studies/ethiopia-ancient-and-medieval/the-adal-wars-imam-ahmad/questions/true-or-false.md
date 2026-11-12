@@ -11,3 +11,6 @@ Say whether each statement is true or false.
 **3. (Sub lesson 2)** The war's results fell on the highland side only.
 **Answer: False** — Deaths and destruction are listed on BOTH sides.
 
+**4. (Sub lesson 3)** True or false: The 1543 battle where the war turned — this is Wayna Daga.
+**Answer: True**
+

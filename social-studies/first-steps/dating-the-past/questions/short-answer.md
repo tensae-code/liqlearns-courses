@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 2)** Name the three period labels historians use for long stretches of the past.
 **Answer:** Ancient, medieval and modern.
+**4. (Sub lesson 3)** In your own words, explain periodization and its place in this lesson's story.
+

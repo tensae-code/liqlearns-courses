@@ -37,4 +37,15 @@ a) elected councils  b) priests — early states were theocratic  c) merchant gu
 
 **9. (Sub lesson 3)** The guide says the emergence of the state was led by — and accelerated by —.
 a) writing, the wheel  b) agriculture, external trade  c) iron, the horse
-**Answer: b) agriculture, external trade** — Farming first, trade speeding it (teacher guide — evidence).
+**Answer: b) agriculture, external trade** — Farming first, trade speeding it (teacher guide — evidence).**10. (Sub lesson 4)** What is Palaeolithic?
+a) the Old Stone Age of struck tools
+b) a detail belonging to a different lesson in this course
+c) the mastery that gave warmth, protection and cooking
+**Answer: a) the Old Stone Age of struck tools**
+
+**10. (Sub lesson 5)** What is Neolithic Revolution?
+a) the turn from food gathering to farming and domestication
+b) a detail belonging to a different lesson in this course
+c) states arising where surplus, population, trade and defence needs meet
+**Answer: a) the turn from food gathering to farming and domestication**
+

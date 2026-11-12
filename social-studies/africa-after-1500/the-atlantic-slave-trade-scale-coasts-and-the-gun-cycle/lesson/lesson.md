@@ -18,6 +18,10 @@ Where did the captives come from? The **Senegal coast** was the **16th century's
 
 Why did Europeans not simply raid inland themselves? The book answers: **weakened by tropical disease** and **beaten when they raided directly**, they changed method. Instead they **supplied firearms to rival African chiefs to make war** — **guns exchanged for slaves**. The book's example is the Portuguese working the **Kongo–Ndongo chiefs' conflicts**. The cruel engine of it: **whatever a war's cause, its result was people delivered into slavery** — every war, for whatever reason it began, ended with captives marched to the ships.
 
+## Sub lesson 4 — Grade 11 depth: The trans-Atlantic trade in depth — the system's scale
+
+The Grade 11 book makes this the unit's centre of gravity, and so does this depth: the triangular system at its true scale — ships out with goods, the Middle Passage with its packed and deadly crossing, plantation Americas consuming labour — and the numbers carried across, in the millions, generation after generation. It is told through documented testimony in summary, because the system's own victims are its truest witnesses.
+
 ## Say it to your companion
 
 Tell your companion this lesson's story in your own words: Across 300 years, more than 10 million Africans were sold into slavery — fed by the guns-for-slaves cycle along the coast from Senegal to Angola.

@@ -20,3 +20,6 @@ The map draws a road — Zeila to the highlands — and two hands reach for it.
 1332. Amda Seyon's armies take Ifat. The road changes masters.
 
 For two hundred years, successors will march back down that road to win it again.
+
+[Grade 11 depth scene — Expansion in depth — Amda Seyon and the kingdom's medieval shape. The animated map carries the story as the voice speaks.]
+Under Amda Seyon and his successors the restored kingdom takes its medieval shape the Grade 11 way: expansion south and east by war, by marriage alliance, and by church planting — three instruments used as one policy. The names to hold: Amda Seyon, church planting.

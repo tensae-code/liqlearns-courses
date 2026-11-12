@@ -25,3 +25,9 @@ a) a tax register  b) a saint's life, written to glorify  c) a king list
 **6. (Sub lesson 2)** Cross-testing a chronicle means checking it against —
 a) only later chronicles  b) inscriptions, coins and other sources  c) the writer's family
 **Answer: b) inscriptions, coins and other sources** — Independent evidence.
+**7. (Sub lesson 3)** What is royal chronicles?
+a) Ethiopia's court records of emperors' deeds from the 14th century
+b) saints' lives — a second Ethiopian source tradition
+c) a detail belonging to a different lesson in this course
+**Answer: a) Ethiopia's court records of emperors' deeds from the 14th century**
+

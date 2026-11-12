@@ -54,3 +54,7 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 ## Grade 9 extension (Ethiopia Wave 4, 2026-11-12)
 
 A further part was added from Ethiopia's *History, Grade 9* book: **The Grade 9 book's Byzantium — the empire that lasted a thousand years** — see lesson/lesson.md for the part and lesson/sources.md for its book and printed pages.
+
+## Grade 11 extension (Wave 4 Band F, placement 32)
+
+Added (Sub lesson 4) — **Two Romes in depth — the fallen West and the thousand-year East** (printed pp. 74–79 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Sub lesson 4). Gate pool for the new part: its own questions, as for every sub lesson.

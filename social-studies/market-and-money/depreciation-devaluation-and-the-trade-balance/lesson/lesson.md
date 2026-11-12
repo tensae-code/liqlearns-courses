@@ -8,6 +8,8 @@ The birr weakens. An exporter cheers, an importer groans, the trade balance move
 
 Depreciation or devaluation makes exports cheaper to foreigners and imports dearer at home. Foreigners buy more Ethiopian goods; Ethiopians buy fewer foreign goods. Both halves push the same way.
 
+
+[Picture 25258 — a see-saw of exports and imports against the currency]
 ## Sub lesson 2 — The balances improve
 
 So the current account improves, and with it the overall balance of payments. Appreciation or revaluation does the opposite: exports grow relatively dearer, imports cheaper, and the balances worsen.

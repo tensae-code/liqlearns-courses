@@ -11,3 +11,6 @@ Say whether each statement is true or false.
 **3. (Sub lesson 2)** Cabral returned to Portugal in 1501.
 **Answer: True** — Brazil in 1500, Calicut, home in 1501.
 
+**4. (Sub lesson 3)** True or false: The Portuguese captain who reached India by sea — this is da Gama.
+**Answer: True**
+

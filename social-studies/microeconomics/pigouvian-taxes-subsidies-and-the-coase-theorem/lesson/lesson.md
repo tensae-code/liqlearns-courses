@@ -8,6 +8,8 @@ The factory could stop its smoke for 100 birr; the laundry loses 150 birr living
 
 Pigou, in 1920, proposed taxing the polluter by exactly the external cost, so the private cost curve rises to meet the social one. Faced with the true cost, the firm chooses the social output itself. The tax is named a Pigouvian tax.
 
+
+[Picture 25240 — a tax bill in one panel, a handshake in the other]
 ## Sub lesson 2 — The subsidy mirror
 
 Positive externalities are fixed symmetrically: a subsidy lowers the buyer's effective price toward the social benefit, and production rises toward the optimum. Tax the harmful spillover, subsidise the helpful one — one mirror, two faces.

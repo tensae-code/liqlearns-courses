@@ -4,3 +4,7 @@ This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can
 
 ## Grade 9 depth — The Grade 9 book's Amda Seyon — the war for the Zeila route
 Pass mark: retell the Grade 9 part's story and answer its Grade 9 questions in the type files without the book open — its names, dates and places all correct.
+
+## Grade 11 depth — Grade 11 depth: Expansion in depth — Amda Seyon and the kingdom's medieval shape
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Amda Seyon** (the emperor whose campaigns fixed the kingdom's medieval shape) and **church planting** (founding churches as an instrument of expansion).

@@ -8,3 +8,6 @@ The map opens on Arabia: one city's light kindles — Mecca — then Medina; the
 The caliphates' banners move: east across Persia, west along Africa's coast, over the straits into Spain. By c.750 the colour spans two continents' meeting-place.
 Then the map's second life begins: caravans and dhows carrying merchants and faith together; pilgrim roads converging on Mecca from three continents; a lone teacher walking beyond the map's coloured edge.
 Libraries rise in the great cities — Baghdad, Cairo, Cordoba. The expansion becomes a civilisation, and the camera rests on its books.
+
+[Grade 11 depth scene — The rise and expansion of Islam in depth. The animated map carries the story as the voice speaks.]
+Islam's first centuries receive their Grade 11 fullness: born in Arabia under the Prophet Muhammad, carried by the caliphates across the Middle East, North Africa and into Spain within a few generations — the fastest expansion of the age. The names to hold: caliphates, expansion to c.750.

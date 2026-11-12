@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** Whatever a war's cause, its result in the gun cycle was people delivered into slavery.
 **Answer: True** — That is the cycle's cruel engine, as the book states it.
+**4. (Sub lesson 4)** True or false: The three-legged Atlantic system of goods, captives and produce — this is triangular trade.
+**Answer: True**
+

@@ -10,3 +10,7 @@ With a partner, act the lesson's turning point in six lines of speech — one of
 
 ## Teach it home
 Tell the lesson's story at home in five sentences. Note the one question you are asked that you cannot yet answer, and find its answer in lesson.md tomorrow.
+
+## Grade 11 depth — Abolition in depth — how the trade was ended
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

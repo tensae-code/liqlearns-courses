@@ -11,3 +11,6 @@ Say whether each statement is true or false.
 **3. (Sub lesson 2)** The Aksumite state ended about 1150.
 **Answer: True** — It ended about 1150, after the centre moved to Lasta.
 
+**4. (Sub lesson 3)** True or false: The Aksumite king whose expedition crossed to Himyar — this is Kaleb.
+**Answer: True**
+

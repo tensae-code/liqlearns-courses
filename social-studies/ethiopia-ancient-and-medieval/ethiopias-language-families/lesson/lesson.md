@@ -24,6 +24,10 @@ The **Semitic** branch splits north and south. Northern: **Ge'ez** — the churc
 
 The **Omotic** branch centres on the **Omo basin** in the south-west — with one far-northern outlier, **Shinasha** in Benishangul-Gumuz, a reminder that families scatter. And the tree loses twigs: some languages are **extinct or endangered** as speaker numbers fall — **Gafat** is the book's worked example, a southern Semitic language no longer spoken. The book's closing note is the one to keep: beyond the diversity, **unity** is stressed — one country, many tongues.
 
+## Sub lesson 4 — Grade 11 depth: Language families in depth — the key to the whole region
+
+The Grade 11 book makes this map the key to everything after it: the region's peoples sorted by language family — Semitic, Cushitic, Omotic and Nilo-Saharan — and mapped where they live. Learn the four colours here and every later unit of Ethiopian history — sultanates, movements, kingdoms — becomes readable at sight. Language is not a label on peoples; it is the first evidence of their kinship and journeys.
+
 ## Say it to your companion
 
 Tell the whole story of Ethiopia's language families back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

@@ -25,3 +25,9 @@ a) encouraged rebellion  b) were invented by Europeans  c) ended Confucianism
 **6. (Sub lesson 1)** An autocracy is rule by —
 a) an assembly  b) one ruler  c) age grades
 **Answer: b) one ruler** — One emperor, served by officials.
+**7. (Sub lesson 3)** What is dynastic cycle?
+a) a detail belonging to a different lesson in this course
+b) China's pattern of founding, prosperity, decay, rebellion, replacement
+c) rule by examined officials, a Chinese achievement of the cycle years
+**Answer: b) China's pattern of founding, prosperity, decay, rebellion, replacement**
+

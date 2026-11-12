@@ -7,3 +7,5 @@ Answer in one or two sentences.
 
 **2. (Sub lesson 2)** Give the book's most-spoken ranking, in order.
 **Answer:** Swahili first, Hausa second, Yoruba third.
+**3. (Sub lesson 4)** In your own words, explain Niger-Congo and its place in this lesson's story.
+

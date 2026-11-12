@@ -8,6 +8,8 @@ Now the economy overheats at output 750 while potential is 700. Run the three le
 
 Contractionary monetary policy raises the discount rate, sells securities, and raises the reserve ratio. All three levers pushed toward 'tight' shrink the money supply.
 
+
+[Picture 25252 — three levers pushed to tight, AD moving left]
 ## Sub lesson 2 — Dear money
 
 Borrowing costs rise, saving is rewarded, and investment and consumption fall back. Money becomes 'dear' — expensive to borrow, worth holding — the mirror phrase to cheap money.

@@ -10,3 +10,5 @@ Answer in a sentence or two.
 
 **3.** Why does the origin of the word "slave" matter to this lesson?
 **Answer:** It proves from language itself that slavery was wide and old — a people's name (Slav) became the word for the condition, far from Africa.
+**4. (Grade 11 depth)** In your own words, explain pawnship and its place in this lesson's story.
+

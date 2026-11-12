@@ -21,3 +21,6 @@ iron in its hands, the Horn's trade in its grip.
 Centuries passed. Farms failed, deserts crept,
 and Aksum's Ezana came.
 Kush's long day was done.
+
+[Grade 11 depth scene — Kush in depth — Kerma, Napata, Meroe. The animated map carries the story as the voice speaks.]
+The Grade 11 depth gives Kush its full three-capital arc: Kerma, the early southern kingdom; Napata, from which Kush's kings ruled Egypt itself as its 25th Dynasty; and Meroe, the southern retreat that became an iron-working power with pyramids of its own and a script of its own. The names to hold: 25th Dynasty, Meroe.

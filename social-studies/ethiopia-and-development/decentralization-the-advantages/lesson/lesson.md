@@ -8,6 +8,8 @@ Three neighbouring towns offer three different bundles of services, and families
 
 Local government tailors services to local tastes instead of one national bundle, and sits closer to citizens, so it responds to their actual preferences. One size fits all is the centre's temptation; fit is the locality's advantage.
 
+
+[Picture 25302 — three towns, three service bundles, citizens choosing]
 ## Sub lesson 2 — Competition between jurisdictions
 
 Mobility between jurisdictions creates intergovernmental competition: managers who waste or ignore citizens lose them to better-run neighbours. It is a discipline public managers otherwise lack — the exit of the governed as an audit.

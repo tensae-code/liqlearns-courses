@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 2)** What did the Edict of Milan change in practice?
 **Answer:** Christians could practise openly; toleration replaced persecution and church property was restored.
+**4. (Sub lesson 3)** In your own words, explain Constantine and its place in this lesson's story.
+

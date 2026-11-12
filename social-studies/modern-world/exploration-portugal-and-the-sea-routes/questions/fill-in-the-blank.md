@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **2. (Sub lesson 2)** Da Gama reached ____ (Kozhikode) in India in 1498.
 **Answer: Calicut**
 
+**3. (Sub lesson 3)** The term for 'the Portuguese captain who reached India by sea' is ______.
+**Answer: da Gama**
+

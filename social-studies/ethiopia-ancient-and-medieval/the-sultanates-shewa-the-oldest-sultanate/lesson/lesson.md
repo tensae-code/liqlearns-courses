@@ -14,6 +14,10 @@ The teacher guide keys the entry in full. **Shewa was the oldest Muslim sultanat
 
 The guide sets Shewa inside the full sultanate system: Islam entered through **two gateways — the Dahlak islands and Zeila, Zeila the main gateway to the interior** — and the sultanates formed along the Zeila trade route are listed as **Shewa, Ifat, Adal, Fatagar, Arababini (Arbabini), Dawaro, Dara, Sharka, Bali and Hadiya** — several of them names the student book knows only as neighbours or tributaries. Shewa's inland place on that list is the point: the sultanates were not only coastal. The oldest of them stood deep in the interior, centuries before the others rose.
 
+## Grade 11 depth — The Sultanate of Shewa in depth
+
+The Grade 11 depth sets Shewa's sultanate in its full standing: from the 9th–10th century, the earliest known Muslim state in the region, ruled by its Makhzumite dynasty on the highland's eastern edge — proof that Islam's Ethiopian history begins in organised states, not only in trade. Its end is also its importance: absorbed by Ifat, it passed its role — and its routes — to the stronger eastern power.
+
 ## Say it to your companion
 
 Tell your companion what the guide keys about Shewa — oldest, Makhzumite, about 897, its Damot link, its enemy Ifat, its end about 1280 — and why this lesson is labelled teacher evidence only.

@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **2.** Zagwe trade used Dahlak, ____ and the Gulf of Aden.
 **Answer: Zeila**
 
+**3. (Grade 11 depth)** The term for 'the Zagwe homeland and seat in the northern highlands' is ______.
+**Answer: Lasta**
+

@@ -22,6 +22,10 @@ Their dhows traded **gold, ivory and slaves** with **Persia, China and Indonesia
 
 The ending came from the sea. The **Portuguese seized the coast (1500–1600)** and **destroyed the trade routes and the civilisation** the cities had built. The Swahili language and people remained — the city-states' trading world did not.
 
+## Sub lesson 4 — Grade 11 depth: Central and Eastern Africa in depth — Swahili cities and inland states
+
+The Grade 11 depth joins the two halves of the east: the Swahili city-states of the coast, stone-built and ocean-facing, trading ivory and gold to the Indian Ocean world — and the inland states of the centre, Luba and Lunda worlds among them, whose peoples and products fed the coastal flow. Coast and interior, again, one system with two stages.
+
 ## Say it to your companion
 
 Name the five cities down the coast in order without looking, then the three goods and the three far lands. Your companion closes the story: who seized the coast, when, and what they destroyed.

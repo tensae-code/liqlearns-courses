@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 3)** Name five principalities of the chain.
 **Answer:** Any five of: Ifat, Fatigar, Dawaro, Dara, Bali, Hadya, Arababini, Sharka, Adal.
+**4. (Sub lesson 4)** In your own words, explain Dahlak route and its place in this lesson's story.
+

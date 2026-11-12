@@ -10,3 +10,6 @@ Fill each blank with the right word.
 
 **3. (Sub lesson 3)** The ______ seized the Swahili coast between 1500 and 1600.
 **Answer: Portuguese**
+**4. (Sub lesson 4)** The term for 'a leading Swahili city of the gold trade' is ______.
+**Answer: Kilwa**
+

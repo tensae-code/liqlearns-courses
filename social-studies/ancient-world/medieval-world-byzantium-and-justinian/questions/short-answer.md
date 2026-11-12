@@ -6,3 +6,5 @@ Answer in a sentence or two.
 **Answer:** He expanded west (North Africa, southern Spain, Italy), issued the Justinian Code, built Hagia Sophia, and brought silk-making home from China.
 **2. (Sub lesson 2)** What did Byzantium keep alive, in the guide's words?
 **Answer:** Greco-Roman and Christian civilisation in Europe, while the West declined (teacher guide — evidence).
+**3. (Sub lesson 4)** In your own words, explain Byzantine Empire and its place in this lesson's story.
+

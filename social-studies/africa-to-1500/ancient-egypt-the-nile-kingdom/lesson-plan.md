@@ -72,3 +72,7 @@ page in lesson/sources.md (the Amhara Grade 7 student book, Chapter 5, with Addi
 
 A further part was added from Ethiopia's *History, Grade 9* book: **Pharaohs, kingdoms and papyrus — the Grade 9 book's Egypt** — see lesson/lesson.md for the part and lesson/sources.md for its book and printed pages.
 - ADD IMAGE [Picture 22521]: a picture of a pyramid under construction beside a scribe writing on papyrus — the student studies the picture and names what it proves.
+
+## Grade 11 extension (Wave 4 Band F, placement 13)
+
+Added (Sub lesson 4) — **Egypt in depth — government, gods, writing and the calendar** (printed pp. 23–28 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Sub lesson 4). Gate pool for the new part: its own questions, as for every sub lesson.

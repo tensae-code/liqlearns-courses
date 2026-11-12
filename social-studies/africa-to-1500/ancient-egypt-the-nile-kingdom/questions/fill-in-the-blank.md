@@ -7,3 +7,6 @@ Fill each blank with the right word.
 
 **2. (Sub lesson 2)** The appointed official who administered a nome was the ______.
 **Answer: nomarch**
+**3. (Sub lesson 4)** The term for 'divine kingship administering the Nile valley' is ______.
+**Answer: pharaonic government**
+

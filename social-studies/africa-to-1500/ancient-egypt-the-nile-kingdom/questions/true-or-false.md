@@ -19,3 +19,6 @@ Say whether each sentence is true or false.
 
 **6. (Sub lesson 3)** The Grade 9 book dates Egypt's civilisation from the early 4th millennium BC.
 **Answer: True** — Its opening dating.
+**7. (Sub lesson 4)** True or false: Divine kingship administering the Nile valley — this is pharaonic government.
+**Answer: True**
+

@@ -11,3 +11,6 @@ Say whether each statement is true or false.
 **3.** The guide names Zeila the main gateway to the interior.
 **Answer: True** — Two gateways: Dahlak and Zeila, Zeila main (teacher guide — evidence).
 
+**4. (Grade 11 depth)** True or false: The sultanate that absorbed Shewa — this is Ifat.
+**Answer: True**
+

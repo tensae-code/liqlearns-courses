@@ -49,3 +49,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Ethiopia, *History, Student Textbook, Grade 9*, and its Teacher's Guide where labelled). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Grade 11 extension (Wave 4 Band F, placement 36)
+
+Added (Sub lesson 3) — **China's dynastic cycle in depth — Tang, Song and Ming** (printed pp. 98–100 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Sub lesson 3). Gate pool for the new part: its own questions, as for every sub lesson.

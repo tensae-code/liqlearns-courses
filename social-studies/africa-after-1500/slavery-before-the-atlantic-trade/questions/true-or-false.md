@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3.** The Atlantic trade was the beginning of slavery in the world.
 **Answer: False** — Slavery is far older and wider than the Atlantic trade.
+**4. (Grade 11 depth)** True or false: Enslaved soldiers in rulers' service, sometimes rising to power — this is military slavery.
+**Answer: True**
+

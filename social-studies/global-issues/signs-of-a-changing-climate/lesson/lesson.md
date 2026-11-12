@@ -8,6 +8,8 @@ If the climate is changing, the world should show receipts. List every physical 
 
 The warming system shows itself in erratic rainfall — too much and too little; higher average air and ocean temperatures; floods; and sea-level rise. Water, in both excess and absence, is the first witness.
 
+
+[Picture 25307 — a wall of gauges — thermometer, rain, glacier, sea level]
 ## Sub lesson 2 — Ice, seasons and storms
 
 Melting glaciers and ice caps; fewer cold days and frosts; more heat waves; heavier storms and tropical cyclones in some regions, and intensifying drought in others. The signs pull in opposite directions in different places — which is why single local anecdotes mislead.

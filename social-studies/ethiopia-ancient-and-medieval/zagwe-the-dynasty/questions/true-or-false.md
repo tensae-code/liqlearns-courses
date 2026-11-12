@@ -11,3 +11,6 @@ Say whether each statement is true or false.
 **3.** The Zagwe kept ties with Egypt and Palestine.
 **Answer: True** — Strong ties with both are stated.
 
+**4. (Grade 11 depth)** True or false: The Zagwe homeland and seat in the northern highlands — this is Lasta.
+**Answer: True**
+

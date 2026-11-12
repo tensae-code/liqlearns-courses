@@ -7,3 +7,7 @@ Two learners stand at a 'Napata' chair. A third, playing Assyria, orders them ou
 
 ## Two-arrow trade board
 Lay out two arrows of cards on the floor: out of Kush — gold, ivory, ebony; into Kush — olive oil, incense, timber, bronze. A companion shuffles the cards; put every card back on its right arrow and say who received it.
+
+## Grade 11 depth — Kush in depth — Kerma, Napata, Meroe
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

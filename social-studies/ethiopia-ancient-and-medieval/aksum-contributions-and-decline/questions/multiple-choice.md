@@ -22,3 +22,9 @@ a) Arab control of the Red Sea  b) The Beja revolt and invasion  c) The loss of 
 a) Gondar  b) Lasta  c) Harar  d) Yeha
 **Answer: b) Lasta** — The centre moved to Lasta; the state ended about 1150.
 
+**6. (Sub lesson 3)** What is Adulis?
+a) Aksum's Red Sea port, source of its trading wealth
+b) the Aksumite king whose expedition crossed to Himyar
+c) a detail belonging to a different lesson in this course
+**Answer: a) Aksum's Red Sea port, source of its trading wealth**
+

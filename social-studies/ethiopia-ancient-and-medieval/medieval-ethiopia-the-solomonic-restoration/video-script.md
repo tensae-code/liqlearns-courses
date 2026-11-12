@@ -13,3 +13,6 @@ So princes are confined on Amba Geshen.
 The medieval kingdom has begun.
 
 A city of tents strikes its pavilions at dawn. The throne is loaded on mules; the whole capital walks to the next valley.
+
+[Grade 11 depth scene — 1270 in depth — Yekuno Amlak and the Kebra Nagast. The animated map carries the story as the voice speaks.]
+The Grade 11 telling slows at the founding moment: in 1270 Yekuno Amlak restores the line that claimed descent from Solomon, and the Kebra Nagast — the Glory of Kings — supplies the claim's charter, binding Ethiopia's dynasty to Solomon and the Queen of Sheba in sacred story. The names to hold: Yekuno Amlak, Kebra Nagast.

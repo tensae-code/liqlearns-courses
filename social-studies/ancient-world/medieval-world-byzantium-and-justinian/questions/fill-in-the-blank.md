@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **Answer: Hagia Sophia**
 **3. (Sub lesson 1)** The empire finally ended in ____ at Ottoman hands.
 **Answer: 1453**
+**4. (Sub lesson 4)** The term for 'the Byzantine emperor of reconquest and codified law' is ______.
+**Answer: Justinian**
+

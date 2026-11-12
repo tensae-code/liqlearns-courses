@@ -7,3 +7,7 @@ Pass mark: the learner can do this part from memory — The river-valley recipe:
 
 ## Sub lesson 2 — Between two rivers
 Pass mark: the learner can do this part from memory — Mesopotamia between the Euphrates and Tigris: Sumerians, Akkadians, Babylonians and Assyrians in turn; royal, religious, absolute government; a society of farmers, priests, soldiers, craftsmen, merchants, employees and slaves. Practice deepens with more items, then exact dates, exact names, and the cause-and-effect links between them.
+
+## Sub lesson 3 — Grade 11 depth: Mesopotamia in depth — cities, cuneiform and the law code
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **cuneiform** (Mesopotamia's wedge writing, from accounts to law) and **Hammurabi's law code** (justice published on stone for all to read).

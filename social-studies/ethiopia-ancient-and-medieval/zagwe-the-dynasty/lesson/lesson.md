@@ -14,6 +14,10 @@ The **Zagwe** dynasty was **founded by Mera Tekle Haymanot**. Its centre moved a
 
 The Zagwe kept **strong ties with Egypt and Palestine**, and — remarkably for their age — **held land in Jerusalem**, the holy city contested in the **Crusades**. Yet the Zagwe **did not fight in the Crusades**: they kept their Jerusalem holding through **peaceful relations with Muslim and Christian states alike**, a diplomacy of balance while others chose war. Their trade ran through **Dahlak, Zeila and the Gulf of Aden** — the sea gates of the age. Remember the pattern: a mountain dynasty, peaceful abroad, trading on all sides. Its most lasting work, the churches it carved from rock, is the next lesson.
 
+## Grade 11 depth — The Zagwe in depth — Agaw kings and a new capital
+
+The Grade 11 telling restores the Zagwe to the main line: Agaw kings ruling from Lasta after Aksum's age ended, keeping the Christian kingdom alive through centuries the chronicles treat briefly — and building, under King Lalibela, the rock-hewn churches that still anchor Ethiopia's fame. A dynasty once passed over as an interlude stands here as a bridge that held.
+
 ## Say it to your companion
 
 Tell your companion who founded the Zagwe, the three centres in order, and how the Zagwe kept land in Jerusalem without fighting in the Crusades.

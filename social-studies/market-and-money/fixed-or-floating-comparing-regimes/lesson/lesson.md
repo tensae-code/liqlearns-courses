@@ -8,6 +8,8 @@ You must choose a regime for a small trading country. Certainty for its firms, o
 
 Fixed rates give firms certainty, can suppress speculation if believed, and discipline government policy — a government that must defend a rate cannot print carelessly. The certainty is real while the promise holds.
 
+
+[Picture 25260 — a two-column balance sheet of the two regimes]
 ## Sub lesson 2 — The price of fixed
 
 But fixed rates cannot respond to shocks, demand large reserves to defend, invite speculative runs when a change is suspected, carry a deflationary bias, and can conflict with domestic targets. The discipline becomes a straitjacket exactly when the economy needs movement.

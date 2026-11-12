@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 3)** The Portuguese seizure grew the cities' trade.
 **Answer: False** — it destroyed the trade routes and the civilisation.
+**4. (Sub lesson 4)** True or false: A leading Swahili city of the gold trade — this is Kilwa.
+**Answer: True**
+

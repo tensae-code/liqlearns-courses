@@ -16,3 +16,6 @@ Say whether each statement is true or false.
 
 **5.** Amda Seyon's victory ended the kingdom–Adal conflict for good.
 **Answer: False** — Successors fought on; the war's height came in 1529–1543.
+**6. (Grade 11 depth)** True or false: Founding churches as an instrument of expansion — this is church planting.
+**Answer: True**
+

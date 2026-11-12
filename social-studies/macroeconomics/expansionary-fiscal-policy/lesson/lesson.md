@@ -8,6 +8,8 @@ Output sits below potential and workers are idle. The government is told to spen
 
 Expansionary fiscal policy answers deficient demand: output and employment below potential, the AD/AS equilibrium sitting left of LRAS. The gap is a demand gap, so the cure must add demand.
 
+
+[Picture 25245 — road-builders at work as AD shifts right]
 ## Sub lesson 2 — The spending and tax moves
 
 The government increases expenditure — public works such as roads, bridges and canals, free education and health even at the cost of a bigger deficit — and cuts taxes, abolishing them for lower income groups where possible, while expanding pensions, allowances and subsidies.

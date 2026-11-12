@@ -16,3 +16,6 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 4)** Timbuktu's importance was purely military.
 **Answer: False** — Learning and culture.
+**6. (Sub lesson 5)** True or false: Mali's city of scholarship and trade — this is Timbuktu.
+**Answer: True**
+

@@ -45,3 +45,9 @@ a) iron-working  b) writing  c) seafaring
 **11. (Sub lesson 3)** Belief in life after death belonged to Egypt's —
 a) polytheist religion  b) tax system  c) army
 **Answer: a) polytheist religion** — The religion of many gods.
+**12. (Sub lesson 4)** What is hieroglyphs?
+a) Egypt's picture-sign writing of administration and eternity
+b) a detail belonging to a different lesson in this course
+c) divine kingship administering the Nile valley
+**Answer: a) Egypt's picture-sign writing of administration and eternity**
+

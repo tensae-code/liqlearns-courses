@@ -14,3 +14,6 @@ Say whether each statement is true or false.
 
 **5.** The Greek city-states formed one united kingdom.
 **Answer: False** — Never politically united.
+**6. (Grade 11 depth)** True or false: Greece's questioning of justice and truth themselves — this is philosophy.
+**Answer: True**
+

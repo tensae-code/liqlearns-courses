@@ -8,6 +8,8 @@ Two neighbours earn the same; a third earns ten times more. Fair shares are...? 
 
 The ability-to-pay approach taxes each person according to capacity to pay. It is the rival of the benefits approach: the bill follows the wallet, not the bundle of services received.
 
+
+[Picture 25271 — equals paying equally, the richer earner paying more]
 ## Sub lesson 2 — Horizontal and vertical equity
 
 Equals pay equally — horizontal equity: two earners with identical pay hand over identical tax. Unequals pay unequally in proportion to their greater capacity — vertical equity: the richer earner hands over more. The two rules together are the approach's fairness test.

@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** A source written to praise can still yield evidence when tested.
 **Answer: True** — Dates, names and sequences survive cross-testing.
+**4. (Sub lesson 3)** True or false: Saints' lives — a second Ethiopian source tradition — this is hagiographies.
+**Answer: True**
+

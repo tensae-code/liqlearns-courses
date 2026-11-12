@@ -8,6 +8,8 @@ An Ethiopian coffee exporter is paid in dollars but pays workers in birr. At the
 
 The foreign exchange market is where currencies are bought and sold. Every participant both demands one currency and supplies another: to buy birr you must give dollars; to sell dollars is to demand birr.
 
+
+[Picture 25255 — four participants around one exchange counter]
 ## Sub lesson 2 — The four participants
 
 Four groups trade: trading firms (the Ethiopian exporter earns dollars but must pay workers and suppliers in birr, so it supplies dollars and demands birr); tourists (an American visitor does the same); international investors buying ownership abroad; and financial investors not taking ownership.

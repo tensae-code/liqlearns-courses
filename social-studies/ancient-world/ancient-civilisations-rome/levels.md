@@ -4,3 +4,7 @@ This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can
 
 ## Grade 9 depth — The Grade 9 book's Rome — kingdom, Republic, Empire
 Pass mark: retell the Grade 9 part's story and answer its Grade 9 questions in the type files without the book open — its names, dates and places all correct.
+
+## Grade 11 depth — Grade 11 depth: Rome in depth — law, legions, roads and the long fall
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **citizenship** (Rome's spreading legal membership, binding an empire's peoples) and **476 AD** (the conventional year of the Western Empire's fall).

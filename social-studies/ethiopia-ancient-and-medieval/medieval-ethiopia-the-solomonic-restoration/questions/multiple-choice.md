@@ -33,3 +33,9 @@ a) Gondar  b) A moving court — no fixed capital city  c) Aksum  d) Harar
 **8. ** The guide says the gult right lasted —
 a) One reign  b) Until the 20th century  c) Until 1270  d) A single generation
 **Answer: b) Until the 20th century** — the land right's extraordinary lifespan — guide evidence.
+**9. (Grade 11 depth)** What is Yekuno Amlak?
+a) a detail belonging to a different lesson in this course
+b) the restorer of the Solomonic line in 1270
+c) the Glory of Kings — the dynasty's legitimating tradition
+**Answer: b) the restorer of the Solomonic line in 1270**
+

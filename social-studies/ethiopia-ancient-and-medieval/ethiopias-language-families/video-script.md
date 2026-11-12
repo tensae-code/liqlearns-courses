@@ -9,3 +9,6 @@ The voices sort themselves. A tree grows over the map: Cushitic, wide as the cou
 A northern branch glows — Ge'ez, the church's golden tongue. A southern branch — Amharic, Harari.
 In the south-west, the Omo branch. One twig fades: Gafat, gone silent.
 Many tongues. One country. That is the tree Ethiopia speaks.
+
+[Grade 11 depth scene — Language families in depth — the key to the whole region. The animated map carries the story as the voice speaks.]
+The Grade 11 book makes this map the key to everything after it: the region's peoples sorted by language family — Semitic, Cushitic, Omotic and Nilo-Saharan — and mapped where they live. The names to hold: Omotic, Nilo-Saharan.

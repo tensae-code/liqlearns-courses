@@ -18,6 +18,10 @@ From the **late 16th to the 19th century**, walled Harar was a **major trade cen
 
 Its later **Emirate was founded by Ali ibn Dawd** — the city's second political life, after the sultanate age. Hold the whole arc: a refugee court of 1380 becomes a walled emporium and school that outlasts empires around it. The walls were not only defence; they were the frame of a city that traded by day and taught by night.
 
+## Sub lesson 3 — Grade 11 depth: Harar in depth — the emirs' city
+
+Harar takes the Grade 11 depth as a city with two callings at once: a commercial hub where highland, lowland and Gulf of Aden trade changed hands — and a scholarly city of mosques and learning under its emirs, its walls and gates ordering a dense urban world. In Harar the sultanates' age survives its states: when the emirate weakened, the city remained.
+
 ## Say it to your companion
 
 Tell the whole story of Harar back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

@@ -14,3 +14,7 @@ Sub lesson 2 questions from the type files. Pass mark: count the dynasties; tell
 
 ## Sub lesson 3 — Pharaohs, kingdoms and papyrus — the Grade 9 book's Egypt
 Sub lesson 3 questions from the type files (the Grade 9 items). Pass mark: retell the Grade 9 part's story and answer its questions without the book open — its names, dates and places all correct.
+
+## Sub lesson 4 — Grade 11 depth: Egypt in depth — government, gods, writing and the calendar
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **hieroglyphs** (Egypt's picture-sign writing of administration and eternity) and **pharaonic government** (divine kingship administering the Nile valley).

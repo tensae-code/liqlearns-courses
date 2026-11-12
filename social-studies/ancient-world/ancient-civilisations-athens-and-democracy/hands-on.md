@@ -10,3 +10,7 @@ Write each group member's name on slips, fold them, and draw five for a 'council
 
 ## Polis charter (Grade 9)
 Found a polis on paper: name it, draw its town-villages-farmland, and write its three gifts to the Greek world from the book's achievement list. Pin all charters together — one culture, many cities, as the Hellenes lived it.
+
+## Grade 11 depth — Greece in depth — Athens, Sparta, philosophy and Alexander
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

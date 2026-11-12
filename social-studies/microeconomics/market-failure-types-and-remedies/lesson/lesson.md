@@ -8,6 +8,8 @@ A market sets a price, buyers buy, sellers sell — and the whole town's river e
 
 A free market fails when it cannot allocate resources efficiently on its own — the price system, left alone, produces too much of some things and too little of others. Market failure is not a crash; it is a wrong answer given calmly.
 
+
+[Picture 25238 — five faults of the market and their matched remedies]
 ## Sub lesson 2 — The common types
 
 The book's common types: public goods, externalities, asymmetric information, monopoly power and missing markets. Each is a different fault in the price machinery, and each gets its own lesson in this unit.

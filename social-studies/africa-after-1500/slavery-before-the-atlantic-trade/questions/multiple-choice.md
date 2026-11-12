@@ -17,3 +17,9 @@ a) Africa  b) Slav  c) Mediterranean  d) Atlantic
 **4.** Africa's slave trade toward the Mediterranean reached its height —
 a) In ancient times  b) From the 9th century  c) Only after the Age of Exploration began  d) In the 20th century
 **Answer: c) Only after the Age of Exploration began** — It grew from the 9th century but reached its height only after the Age of Exploration began.
+**5. (Grade 11 depth)** What is pawnship?
+a) enslaved soldiers in rulers' service, sometimes rising to power
+b) persons held against a debt, a distinct form of dependence
+c) a detail belonging to a different lesson in this course
+**Answer: b) persons held against a debt, a distinct form of dependence**
+

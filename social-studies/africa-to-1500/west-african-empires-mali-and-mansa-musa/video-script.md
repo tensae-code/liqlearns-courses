@@ -47,3 +47,6 @@ The Niger bends across the map, carrying a faith with it — language, law, cust
 A king's caravan pours east: Mansa Musa, 1312 to 1337, gold dusting the road to Mecca.
 
 Behind him, Timbuktu's lamps come on — manuscripts, scholars, mud-brick mosques.
+
+[Grade 11 depth scene — Ghana, Mali and Songhai in depth — the Sudanic sequence. The animated map carries the story as the voice speaks.]
+The Grade 11 sequence sets the three empires in one line of descent: Ghana, first of the gold states, taxing the desert-edge trade; Mali, greater still under Mansa Musa, whose pilgrimage advertised Timbuktu's scholarship to the world; and Songhai under Sonni Ali and Askia Muhammad, largest of the three. The names to hold: Mansa Musa, Timbuktu.

@@ -10,3 +10,7 @@ Sub lesson 2 questions from the type files. Pass mark: Senegal in the 16th centu
 
 ## Sub lesson 3 — The guns-for-slaves cycle
 Sub lesson 3 questions from the type files. Pass mark: Europeans supplied firearms to rival chiefs to make war; whatever a war's cause, its result was people delivered into slavery.
+
+## Sub lesson 4 — Grade 11 depth: The trans-Atlantic trade in depth — the system's scale
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Middle Passage** (the Atlantic crossing of the enslaved, at the system's heart) and **triangular trade** (the three-legged Atlantic system of goods, captives and produce).

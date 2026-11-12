@@ -8,3 +8,5 @@ Answer in a sentence or two.
 **2. (Sub lesson 2)** How did scholars' field of study change?
 **Answer:** Medieval scholars tied thinking to religion and divine things; Renaissance scholars studied human nature and the created, visible world.
 
+**3. (Sub lesson 3)** In your own words, explain humanism and its place in this lesson's story.
+

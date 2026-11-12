@@ -8,6 +8,8 @@ The sequel plan keeps the 11% target and the 2025 vision, and adds nine pillars 
 
 GTP II (2015/16–2019/20) kept the 11% growth objective and the 2025 lower-middle-income vision, adding narrowing of the saving–investment gap and the trade deficit, domestic engineering and fabrication capacity, public mobilisation, and a stable democratic developmental state.
 
+
+[Picture 25295 — nine pillars, the ninth painted green]
 ## Sub lesson 2 — Nine pillars
 
 The nine pillar strategies: sustain rapid, broad-based, equitable growth; raise productive capacity, quality and competitiveness toward the production-possibility frontier; transform the domestic private sector; build construction-industry capacity and close infrastructure gaps; manage rapid urbanisation; accelerate human development and technology; democratic developmental governance; women and youth empowerment; and a climate-resilient green economy.

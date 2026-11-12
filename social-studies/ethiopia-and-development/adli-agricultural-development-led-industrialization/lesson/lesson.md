@@ -8,6 +8,8 @@ A poor, farm-based country wants industry. One strategy says: build factories fi
 
 From 1991 the EPRDF reversed the Derg's strategy: agricultural price controls removed, state-farm assets privatised, structural adjustment adopted. In 1994 the home-born Agricultural Development-Led Industrialization strategy — ADLI — made agriculture the engine.
 
+
+[Picture 25291 — an extension worker handing seed to a smallholder]
 ## Sub lesson 2 — Food self-sufficiency through productivity
 
 ADLI aimed at food self-sufficiency through higher productivity, via three thrusts: expanding agricultural technologies, investing in agricultural infrastructure and inputs, and boosting rural non-farm sectors.

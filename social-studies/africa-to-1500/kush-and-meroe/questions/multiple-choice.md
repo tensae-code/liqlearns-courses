@@ -25,3 +25,9 @@ a) Aksum's invasion  b) spreading desert and falling farm output  c) Rome's trad
 **6. (Sub lesson 2)** The guide keys Meroe's end to about 350 AD, at the hands of —
 a) Ahmose I  b) Menes  c) Ezana of Aksum  d) the Assyrians
 **Answer: c) Ezana of Aksum** — King Ezana of Aksum (teacher guide — evidence).
+**7. (Sub lesson 3)** What is 25th Dynasty?
+a) Kush's southern capital of iron-working and pyramids
+b) a detail belonging to a different lesson in this course
+c) Kush's kings ruling Egypt from Napata
+**Answer: c) Kush's kings ruling Egypt from Napata**
+

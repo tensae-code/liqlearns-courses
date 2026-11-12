@@ -24,3 +24,6 @@ The owners — few, rich, holding the keys.
 The workers — many, owning nothing but their hands, selling their work for wages.
 
 That is capitalism remade by steam: private ownership, factories, new classes.
+
+[Grade 11 depth scene — Early capitalism in depth — towns, banks and the price revolution. The animated map carries the story as the voice speaks.]
+The Grade 11 book roots capitalism earlier than the factory: from about 1500, revived towns fill with merchants; merchant capital organises trade and production beyond the guilds; banking learns to move money across Europe; and American silver drives a price revolution through every market. The names to hold: merchant capital, price revolution.

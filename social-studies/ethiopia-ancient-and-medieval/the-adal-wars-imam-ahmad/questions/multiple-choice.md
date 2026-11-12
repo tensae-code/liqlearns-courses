@@ -26,3 +26,9 @@ a) Shimbra Kure  b) Weyna Dega, 1543  c) Adulis  d) Debre Berhan
 a) The founding of Gondar at once  b) Room opened for the Oromo expansion  c) Aksum restored  d) Dahlak freed
 **Answer: b) Room opened for the Oromo expansion** — Among the book's listed results.
 
+**7. (Sub lesson 3)** What is Gragn?
+a) a detail belonging to a different lesson in this course
+b) Imam Ahmad's byname — the left-handed
+c) the 1543 battle where the war turned
+**Answer: b) Imam Ahmad's byname — the left-handed**
+

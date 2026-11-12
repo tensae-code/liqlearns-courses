@@ -21,6 +21,10 @@ Out of the Dark Age, the Grade 9 book draws **feudal society** whole. The **Cath
 The economy was **agricultural**, its productivity **low but rising**. Society was ordered in **estates**, and its mounted soldiers were the **knights**. The unit's working picture is the **manor village** — lord's hall, church, peasant strips — the small world in which most lives were lived entire. The glossary word to hold is **manor**: the estate that was at once farm, village and government.
 
 
+## Grade 11 depth — Feudal Europe in depth — lords, serfs, manors and the Church
+
+Feudal society receives the Grade 11 system: kings granting land to lords, lords to vassals, serfs bound to the manor's fields — protection flowing down, service and dues flowing up. Over it stands the medieval Church: landholder, lawgiver, keeper of learning, launcher of Crusades. The telling ends with the late-medieval turn — crises, and the towns reviving inside the feudal shell.
+
 ## Say it to your companion
 
 Tell your companion what fell in the Dark Age and what shone through it, then walk the feudal bargain step by step: land sold, land gathered, land given up for protection.

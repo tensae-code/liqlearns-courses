@@ -8,6 +8,8 @@ The government, not the market, sets the price of the birr — and one morning i
 
 Under a fixed regime the government sets the rate and moves it by decision. Raising the domestic-currency price of foreign money is devaluation; lowering it is revaluation. The words belong to decree, not to the market.
 
+
+[Picture 25256 — an official rate board repainted, a shadow board behind]
 ## Sub lesson 2 — Undervalued and overvalued
 
 A deliberately undervalued rate works as an import tax plus an export subsidy — exports cheap abroad, imports dear at home — though it also raises imported-input prices. An overvalued rate does the reverse, cheapening imports and taxing exporters.

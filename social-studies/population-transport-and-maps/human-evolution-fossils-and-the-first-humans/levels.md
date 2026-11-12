@@ -10,3 +10,7 @@ Sub lesson 2 questions from the type files. Pass mark: the learner can do what t
 
 ## Sub lesson 3 — Ethiopia's fossil ground
 Sub lesson 3 questions from the type files. Pass mark: the learner can do what this part teaches — the named Ethiopian and regional sites — Omo, Melka Kunture, Konso-Gardula, Middle Awash, Olduvai, Lake Turkana — on a sketch map — and answers its questions from the lesson alone.
+
+## Sub lesson 4 — Grade 11 depth: The hominid sequence — Ethiopia's fossils
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Australopithecus** (the early hominid line of Lucy (Dinknesh)) and **Homo erectus** (the upright hominid who spread widely from Africa).

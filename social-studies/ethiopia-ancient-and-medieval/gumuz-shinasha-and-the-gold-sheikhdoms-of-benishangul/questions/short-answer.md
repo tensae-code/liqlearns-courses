@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 2)** What is 'silent commerce' as the book associates it with this region?
 **Answer:** The old account of trade conducted without speech — goods left, gold taken — associated with this gold-producing border region since ancient times.
+**4. (Sub lesson 3)** In your own words, explain sheikhdoms and its place in this lesson's story.
+

@@ -14,6 +14,10 @@ The road to Gondar opens with **Susenyos (1607–1632)**, who **ruled from Denbi
 
 Gondar's capital role ran **1636–1855** — the whole rest of the medieval period. A fixed capital changed what a kingdom could be: palaces, churches and a court that stayed in one place, gathering the realm around it. Fasiledes kept the outward ties a capital needs too, with **close ties to the rulers of Suakin, Mitsiwa and the Turks** on the coasts. The teacher guide dates Gondar's golden age **1636–1706**, after which royal power declined into the Zemene Mesafint. The next lessons walk inside the city he founded — its compound, markets and peoples — and then through its kings to the fall of Iyoas.
 
+## Grade 11 depth — Fasilides in depth — expulsion, restoration and a fixed capital
+
+Fasilides completes in the Grade 11 telling what his father's abdication began: the Jesuits expelled, Orthodoxy restored as the kingdom's faith — and, in 1636, Gondar founded as a fixed capital, ending the moving-court age for good. A capital that stays changes everything built on it: castles can rise, archives can gather, a city can grow a life of its own.
+
 ## Say it to your companion
 
 Tell your companion how Susenyos ruled (from where, in what order), what Fasiledes did in 1633 and 1636, and how long Gondar's capital role ran.

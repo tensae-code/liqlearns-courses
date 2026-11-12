@@ -8,6 +8,8 @@ A town generous to its poor watches rich taxpayers quietly move away and poor fa
 
 Local decisions spill over: externalities cross borders between jurisdictions — one town's pollution or school quality lands on its neighbours. And scale economies are lost when every community builds its own library or runs its own tax office.
 
+
+[Picture 25301 — a generous town's welcome sign, firms packing to leave]
 ## Sub lesson 2 — Mispriced tax bases
 
 Local tax systems misprice bases: capital, inelastic nationally, is elastic locally — it can simply move — so localities under-tax it to attract investment. What is rational for one town is inefficient from the national view.

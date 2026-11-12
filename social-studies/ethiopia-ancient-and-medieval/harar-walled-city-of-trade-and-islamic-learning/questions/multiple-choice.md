@@ -25,3 +25,9 @@ a) Ali ibn Dawd  b) Emir Nur Mujahid  c) Abba Jifar I
 **6. (Sub lesson 1)** Ifat fell in —, setting the retreat to Harar in motion.
 a) 1332  b) 1529  c) 1285
 **Answer: a) 1332** — Defeated in 1332.
+**7. (Sub lesson 3)** What is emirs?
+a) a detail belonging to a different lesson in this course
+b) the sea trade Harar linked to the interior
+c) Harar's rulers, of its commercial and scholarly age
+**Answer: c) Harar's rulers, of its commercial and scholarly age**
+

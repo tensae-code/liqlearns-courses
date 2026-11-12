@@ -8,6 +8,8 @@ Two rich countries tax very differently. One leans on income tax, the other on p
 
 The UK list at the time of writing: income tax with a basic rate of 20% over an £11,500 threshold, national-insurance contributions, VAT at 17.5%, excise duties on alcohol and tobacco, corporation tax and stamp duty — plus 'sin taxes' on tobacco, alcohol, sugary drinks and gambling.
 
+
+[Picture 25269 — two national tax pies side by side]
 ## Sub lesson 2 — The United States' five types
 
 The USA's five types are earnings (payroll), individual income, corporate income, wealth and consumption taxes. Federal revenue shares (Gruber, 2015): 41.6% individual income, 34.8% payroll, 15.1% corporate — income and payroll together carry more than three-quarters of the federal load.

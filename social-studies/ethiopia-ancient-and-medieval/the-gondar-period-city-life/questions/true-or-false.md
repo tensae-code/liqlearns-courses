@@ -11,3 +11,6 @@ Say whether each statement is true or false.
 **3.** Yohannes I reigned 1667–1682.
 **Answer: True** — His reign dates as given.
 
+**4. (Grade 11 depth)** True or false: The growing powers hollowing the emperors' rule — this is regional lords.
+**Answer: True**
+

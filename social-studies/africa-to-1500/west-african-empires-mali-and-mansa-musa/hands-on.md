@@ -10,3 +10,7 @@ Fill two baskets: one with grain names (millet, sorghum, rice — cards or real 
 
 ## Timbuktu shelf (Grade 9)
 Make a class 'Timbuktu shelf': each learner contributes one manuscript-card — a page copied or drawn on a subject worth learning (stars, law, poetry, medicine). Bind the cards into a book and state, in one line each, why a trading city would grow a library.
+
+## Grade 11 depth — Ghana, Mali and Songhai in depth — the Sudanic sequence
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

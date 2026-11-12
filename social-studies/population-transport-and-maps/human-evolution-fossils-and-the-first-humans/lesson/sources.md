@@ -2,6 +2,8 @@
 
 countries: Ethiopia
 
+**Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
+
 **Book 1:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.). Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md.
 
 | Lesson part | Where it comes from |
@@ -9,6 +11,8 @@ countries: Ethiopia
 | Sub lesson 1 — Digging the past — archaeology and fossils (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 22–23 |
 | Sub lesson 2 — Two theories and three stages (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed pp. 22–23 |
 | Sub lesson 3 — Ethiopia's fossil ground (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 7* (Addis Ababa Bureau), printed p. 23 |
+
+| Sub lesson 4 — Grade 11 depth: The hominid sequence — Ethiopia's fossils | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 10–15 |
 
 **Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 

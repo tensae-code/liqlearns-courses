@@ -2,6 +2,8 @@
 
 countries: Ethiopia
 
+**Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
+
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 4, placements 51–78).
 
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.), 142 printed pp. Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (Unit 6, placements 22–25). Teacher evidence only — this guide is an Addis Ababa bureau guide set against the Amhara bureau student book above; the two are NOT edition-matched, and the guide treats Ethiopia LAST (its Unit 6), where the student book's Chapter 4 stands earlier.
@@ -11,6 +13,8 @@ countries: Ethiopia
 | From Adafa to Lalibela | Student book, Chapter 4 — Printed p. 81 |
 | Friends with all sides | Student book, Chapter 4 — Printed p. 81 |
 | Guide comparison and trade table (teacher guide — evidence) | Guide Unit 6, §6.1, printed pp. 82–86 |
+
+| Grade 11 depth — The Zagwe in depth — Agaw kings and a new capital | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 67–69 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

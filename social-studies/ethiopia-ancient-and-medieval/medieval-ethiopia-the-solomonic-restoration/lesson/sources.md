@@ -2,6 +2,8 @@
 
 countries: Ethiopia
 
+**Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
+
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 4, placements 51–78).
 
 **Book 2:** *History, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published June 2022 under GEQIP-E. No ISBN is printed in the file (pre-print state). Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-teacher-placements.md
@@ -12,6 +14,8 @@ countries: Ethiopia
 | Five sons, five years — and Amba Geshen | Student book, Chapter 4 — Printed p. 83 |
 
 | The moving court — a kingdom without a fixed capital (teacher guide — evidence) | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 7 — printed p. 125 (teacher guide — evidence) |
+
+| Grade 11 depth — 1270 in depth — Yekuno Amlak and the Kebra Nagast | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 170–172 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

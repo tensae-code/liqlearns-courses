@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** After becoming the state religion, Christianity spread across the world.
 **Answer: True** — The book's closing line for the section.
+**4. (Sub lesson 3)** True or false: Christianity's final standing in the empire that first persecuted it — this is state religion.
+**Answer: True**
+

@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 3)** Name three blows that broke Mali late in the 14th century.
 **Answer:** Any three of: succession struggles; tributaries declaring independence; Mossi states striking its heart; Tuaregs taking Timbuktu.
+**4. (Sub lesson 5)** In your own words, explain Mansa Musa and its place in this lesson's story.
+

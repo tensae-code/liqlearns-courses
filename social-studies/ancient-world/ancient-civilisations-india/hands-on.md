@@ -10,3 +10,7 @@ Bury three household objects in sand or soil, then dig them up carefully and wri
 
 ## Standard weights (Grade 9)
 The Indus cities measured and weighed alike. Make three 'standard' weights from stones or clay, mark them, and use them to 'trade' classroom goods with another group — then say why shared measures make long-distance trade possible.
+
+## Grade 11 depth — India in depth — Indus cities, caste, and two new religions
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

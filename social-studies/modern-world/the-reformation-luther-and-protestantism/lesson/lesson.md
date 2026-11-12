@@ -14,6 +14,10 @@ The **Reformation** was the movement to **separate from the Roman Catholic Churc
 
 On **October 31, 1517**, Luther posted his **95 protest theses on the Wittenberg church door** — the Reformation's birthday. Efforts to **silence him** and return him to Catholicism **failed**; he won **many followers**, and the new faith spread country by country. In **France**, **John Calvin's Calvinist** Protestantism grew, whose followers are called the **Huguenots**. In **England**, the **Anglican Church** formed. In **Switzerland**, the **Swiss Reformed Church**. The map of European Christianity was redrawn — and the book adds the cost plainly: in many European countries the Reformation **brought religious war**.
 
+## Sub lesson 3 — Grade 11 depth: The Reformation in depth — protest, split and wars of religion
+
+Luther's 1517 protest over indulgences opens the Grade 11 depth: a monk's objection becomes, through print and princely protection, a split of Western Christianity — Protestant churches rising, the Catholic Church answering with its own Counter-Reformation, and Europe fighting wars of religion over the division. The map of European faith drawn in these decades is still visible today.
+
 ## Say it to your companion
 
 Tell your companion the whole lesson as a story, without looking: In 1517 Martin Luther nailed 95 theses to a church door against the selling of pardon — and the movement to separate from Rome spread across Europe as Protestantism.

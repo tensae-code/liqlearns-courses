@@ -21,6 +21,13 @@ The Grade 9 book names this king **Amda Seyon** and sets his reign inside a long
 The war's later height (1529–1543, Imam Ahmed's campaigns) belongs to this title's kingdom-versus-Adal story; Amda Seyon's place in it is the opening move — the 1332 seizure of the road that every later army marched to retake. Trade made the prize; 1332 changed its holder.
 
 
+## Grade 11 depth — Expansion in depth — Amda Seyon and the kingdom's medieval shape
+
+Under Amda Seyon and his successors the restored kingdom takes its medieval shape the Grade 11 way: expansion south and east by war, by marriage alliance, and by church planting — three instruments used as one policy. Each reign shades the map further; the kingdom that results is the one the sultanates, and later Gragn, must reckon with.
+
+
+[GIF 23854 — the territory shading outward reign by reign]
+
 ## Say it to your companion
 
 Tell your companion Amda Tsion's reign dates, the four directions of his expansion by name, and the two gains the book names.

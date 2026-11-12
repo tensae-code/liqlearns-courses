@@ -8,3 +8,6 @@ Now: Slavery beyond Africa — and a word that tells the story.
 Now: Africa's older trade — growing from the 9th century.
 Slavery is older and wider than Africa: war captives were sold in Europe too, and the word "slave" itself derives from "Slav".
 Tell it back — that is the lesson.
+
+[Grade 11 depth scene — Slavery within Africa in depth — forms distinguished. The animated map carries the story as the voice speaks.]
+The Grade 11 book insists on distinctions before judgements: slavery inside African societies took forms — domestic service within households, pawnship for debt, military slavery in rulers' guards — differing in rights, in hope of freedom, and in heritability. The names to hold: pawnship, military slavery.

@@ -10,3 +10,7 @@ Copy one paragraph of any book by hand, slowly and exactly, as the monks did. Ti
 
 ## Manor in a box (Grade 9)
 Model a manor with paper and counters: lord's hall, church, mill, and peasants' strips in the fields. Label who controls land, who works it, who fights — then state the book's power equation in one line.
+
+## Grade 11 depth — Feudal Europe in depth — lords, serfs, manors and the Church
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

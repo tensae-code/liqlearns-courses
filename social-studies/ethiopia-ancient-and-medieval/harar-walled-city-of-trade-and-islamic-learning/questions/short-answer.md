@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 2)** Date the arc: Ifat's defeat, Adal at Harar, the walled prime.
 **Answer:** 1332 — c.1380 — late 16th to 19th century.
+**4. (Sub lesson 3)** In your own words, explain emirs and its place in this lesson's story.
+

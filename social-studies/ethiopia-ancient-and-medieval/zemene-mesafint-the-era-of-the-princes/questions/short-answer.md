@@ -8,3 +8,5 @@ Answer in a sentence or two.
 **2.** Why did defence fall on local lords?
 **Answer:** There was no effective central power or army; Muhammad Ali's advance had to be met by the lords of each region.
 
+**3. (Grade 11 depth)** In your own words, explain Ras Mikael Sehul and its place in this lesson's story.
+

@@ -8,6 +8,8 @@ A seller knows his car is a lemon; the buyer does not. Who names the price in th
 
 Asymmetric information means one side of a deal knows more than the other. Markets deform around the hidden knowledge: the informed side gains, the uninformed side protects itself — and sometimes the market shrinks or dies.
 
+
+[Picture 25241 — one player's cards visible, the other's hidden]
 ## Sub lesson 2 — Adverse selection — before the deal
 
 Adverse selection works before the contract: the informed side's hidden type drives good risks out. In insurance, the sickest rush to buy and the healthiest stay away; in used cars, sellers of good cars withdraw at lemon prices — the bad drives out the good.

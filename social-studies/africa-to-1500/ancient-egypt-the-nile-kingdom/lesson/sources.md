@@ -2,6 +2,8 @@
 
 countries: Ethiopia
 
+**Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
+
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 81).
 
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (cover dated 2014 E.C.), 142 printed pp. Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (placement 20).
@@ -14,6 +16,8 @@ countries: Ethiopia
 | Sub lesson 2 (pupil part) — 31 dynasties, some founded by invading Nubians, Syrians, Persians and Romans; Hyksos invasion about 1640 BC (horse in war, bronze-working), expelled by Ahmose I about 1550 BC | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 5, printed pp. 104–105 |
 | Sub lesson 2 — The guide's skeleton (teacher guide — evidence): three periods (Old Kingdom, Middle Kingdom, New Kingdom); three classes (upper, middle, lower); vizier (chief official/prime minister) and nomarch (nome official) keyed; Egypt as 'the gift of the Nile' (irrigation water; transport and communication); mummification's importance for modern medical science set as a discussion point | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 5 §5.1 and Unit 5 review key, printed pp. 68–71, 79 (teacher guide — evidence) |
 | Grade 9 depth — Pharaohs, kingdoms and papyrus: a Nile civilisation from the early 4th millennium BC; Pre-dynastic and Old, Middle and New Kingdoms; pharaohs held to be gods in a polytheist religion with belief in life after death, supported by civilian officials; achievements in building technology (the pyramid age) and writing on papyrus | Ethiopia, *History, Student Textbook, Grade 9*, Unit 2, printed pp. 23–25 |
+
+| Sub lesson 4 — Grade 11 depth: Egypt in depth — government, gods, writing and the calendar | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 23–28 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

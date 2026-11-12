@@ -14,3 +14,6 @@ Say whether each statement is true or false.
 
 **5.** Feudal productivity was high from the start.
 **Answer: False** — Low but rising.
+**6. (Grade 11 depth)** True or false: The self-working estate at feudalism's base — this is manor.
+**Answer: True**
+

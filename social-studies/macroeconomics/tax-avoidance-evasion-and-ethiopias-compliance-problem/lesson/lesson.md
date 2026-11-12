@@ -8,6 +8,8 @@ Two taxpayers pay less tax than expected. One used the law's own exemptions; the
 
 Avoidance arranges affairs within the law — exemptions, deductions, incentives — to pay less. It is legal, but it erodes revenue: every birr lawfully avoided is a birr the budget planned on and lost.
 
+
+[Picture 25277 — two doors — avoidance legal, evasion barred]
 ## Sub lesson 2 — Evasion — the crime
 
 Evasion falsifies returns or does not file at all: a crime. It is fed by an underground economy that exists both because some activities are illegal and because high marginal rates reward hiding income.

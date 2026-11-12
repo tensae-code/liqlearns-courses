@@ -13,3 +13,5 @@ Answer in one or two sentences.
 
 **4. (Sub lesson 2)** How does the book rank the Cushitic branch, and into what three parts does it divide?
 **Answer:** Cushitic is the largest branch by area and by speakers, divided into North, Central and East Cushitic.
+**5. (Sub lesson 4)** In your own words, explain Omotic and its place in this lesson's story.
+

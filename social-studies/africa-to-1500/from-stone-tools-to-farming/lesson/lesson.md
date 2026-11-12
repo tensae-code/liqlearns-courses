@@ -24,6 +24,14 @@ The teacher's guide states two formulations the student book leaves compressed. 
 
 Second, a worked theory of how the state itself began: as **religion developed, priests became important, and early priest-ruled states were theocratic**; **village chiefs gradually replaced priests**; and **the beginning of agriculture led to the emergence of the state, with external trade accelerating it**. Farming, faith, chiefs, trade — the guide's recipe for the bridge from the settled village to the organised state that the ancient-world lessons then meet in Egypt, Sumer and Aksum.
 
+## Sub lesson 4 — Grade 11 depth: Tools, fire and the long stone ages
+
+The Grade 11 depth walks the stone ages in their order — Palaeolithic, Mesolithic, Neolithic — as tool-making refines: struck stone, then finer work, then grinding and polishing. Through them runs the second mastery, fire: warmth, protection, cooking, and with cooking a changed diet and a changed brain's budget. Tools extend the hand; fire extends the day.
+
+## Sub lesson 5 — Grade 11 depth: Farming, surplus and the emergence of the state
+
+The Neolithic Revolution turns gatherers into producers — farming and animal domestication replacing the hunt's lottery with the field's calendar. The Grade 11 book then takes the next step this lesson's earlier parts prepare: where surplus, population growth, trade and the need for organisation and defence come together, states emerge — marked by territory, government, law, taxation and army, standing in clear contrast to the stateless societies beside them. The state is an invention with conditions, not a destiny.
+
 ## Say it to your companion
 
 Tell the whole story of From stone tools to farming back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

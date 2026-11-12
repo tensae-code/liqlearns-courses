@@ -19,3 +19,6 @@ Say whether each sentence is true or false.
 
 **6. (Sub lesson 3)** Great Zimbabwe was founded by the Rozwi in 1450.
 **Answer: False** — Great Zimbabwe begins c.1000; the Rozwi founded Mwene Mutapa after 1450.
+**7. (Sub lesson 4)** True or false: The coastal port of Zimbabwe's gold trade — this is Sofala.
+**Answer: True**
+

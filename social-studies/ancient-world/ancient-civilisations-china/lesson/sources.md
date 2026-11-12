@@ -2,6 +2,8 @@
 
 countries: Ethiopia
 
+**Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
+
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 6, placements 92–106).
 
 **Book 2:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
@@ -11,6 +13,8 @@ countries: Ethiopia
 | Dynasties in sequence | Student book, Chapter 6 — Printed pp. 127–128 |
 | Silk, porcelain and picture-writing | Student book, Chapter 6 — Printed pp. 127–128 |
 | Grade 9 depth — Shang, Zhou, Confucius and the Wall: civilisation begins in the Yellow River valley in the third millennium BC; Shang (c.1700–1122 BC) bronze vessels, war chariots, writing; Zhou (c.1122–256 BC) classics and philosophy, Confucius (551–479 BC) and Confucianism's well-ordered society of ranked duties; the Great Wall built | Ethiopia, *History, Student Textbook, Grade 9*, Unit 2, printed p. 28 |
+
+| Grade 11 depth — China in depth — Mandate of Heaven and the written character | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 34–36 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

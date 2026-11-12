@@ -11,3 +11,6 @@ Say whether each statement is true or false.
 **3. (Sub lesson 3)** The teacher guide says government should direct all production under capitalism.
 **Answer: False** — The guide says the opposite: no restriction or interference by government.
 
+**4. (Sub lesson 4)** True or false: The inflation driven by American silver after 1500 — this is price revolution.
+**Answer: True**
+

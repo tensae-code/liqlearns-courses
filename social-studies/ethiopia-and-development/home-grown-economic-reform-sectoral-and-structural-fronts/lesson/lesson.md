@@ -8,6 +8,8 @@ Four sectors get named for reform — a farm sector, and three you might not exp
 
 Sectoral reforms target agriculture (research, private participation, irrigation at all scales, inputs and finance, livestock productivity, less post-harvest loss, import-substituting crops), mining (reformed law and promoted geological data to draw investors), tourism (destinations, infrastructure, private roles) and ICT.
 
+
+[Picture 25299 — four sector icons above a row of structural levers]
 ## Sub lesson 2 — Structural rules — lead without crowding out
 
 Structural reforms keep government as leader but forbid crowding out: intervention only where failure is proven and capacity exists, public projects handable to private investors transparently, and support by merit, not political proximity.

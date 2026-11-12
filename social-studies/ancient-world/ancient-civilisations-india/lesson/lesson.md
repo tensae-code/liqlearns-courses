@@ -23,6 +23,10 @@ The Grade 9 book begins India in the **Indus Valley**: the first Indian civilisa
 From early **Indo-Aryan beliefs** developed **Hinduism**. **Buddhism** emerged **from within Hinduism as a reform movement** — the guide names its founder, **Siddhartha Gautama (c.563–483 BC)**, whom the student book leaves unnamed — and spread beyond India to **South-East Asia, China and Japan**. One valley, two world religions: that is the Grade 9 sweep of India's ancient gift.
 
 
+## Grade 11 depth — India in depth — Indus cities, caste, and two new religions
+
+The Grade 11 telling gives India its two ages: the Indus Valley cities — Mohenjo-daro and Harappa, planned, drained and traded — and then Vedic society, in which caste ordered birth, work and worship, and out of whose questioning came two world religions, Hinduism taking form and Buddhism breaking out. A civilisation that built cities first and philosophies that outlasted them.
+
 ## Say it to your companion
 
 Tell your companion India's story in order: the Dravidian beginning on two rivers, the ruined cities that prove it, the ending about 1500 BC, and Chandragupta's dynasty unifying the north.

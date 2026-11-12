@@ -7,3 +7,11 @@ Lay out a stone, a clay pot (or shard) and a handful of grain or seeds. For each
 
 ## Settle or move?
 Debate in pairs: a band must choose — keep following the game, or settle by the river and sow. Each side must use one fact from the lesson for every argument it makes.
+
+## Grade 11 depth — Tools, fire and the long stone ages
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.
+
+## Grade 11 depth — Farming, surplus and the emergence of the state
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

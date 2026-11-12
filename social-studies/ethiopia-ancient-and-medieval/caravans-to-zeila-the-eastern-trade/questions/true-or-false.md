@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** Hadya and Bali are named among the principalities.
 **Answer: True** — Two of the chain of nine named.
+**4. (Sub lesson 4)** True or false: The staged markets between highland and lowland — this is escarpment markets.
+**Answer: True**
+

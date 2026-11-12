@@ -13,3 +13,6 @@ Say whether each sentence is true or false.
 
 **4. (Sub lesson 2)** Aksum's invasion was an internal cause of Meroe's decline.
 **Answer: False** — it is the book's external cause; the internal causes are falling farm output, poorer charcoal/iron quality and spreading desert.
+**5. (Sub lesson 3)** True or false: Kush's southern capital of iron-working and pyramids — this is Meroe.
+**Answer: True**
+

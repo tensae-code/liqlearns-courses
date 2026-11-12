@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 1)** Why does the book call the Afar land strategically weighted and a cradle of humankind?
 **Answer:** It sits at the Horn's Red Sea gateway with abundant resources — and its earth holds the early fossil record (the Afar finds of this course).
+**4. (Sub lesson 3)** In your own words, explain Aussa and its place in this lesson's story.
+

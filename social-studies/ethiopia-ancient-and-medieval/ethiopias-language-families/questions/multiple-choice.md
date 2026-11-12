@@ -25,3 +25,9 @@ a) a language family  b) an extinct language  c) a trade language
 **6. (Sub lesson 3)** Omotic centres on —, with Shinasha far north.
 a) the Omo basin  b) the Red Sea coast  c) Lake Tana
 **Answer: a) the Omo basin** — The Omo basin; Shinasha the outlier.
+**7. (Sub lesson 4)** What is Omotic?
+a) a detail belonging to a different lesson in this course
+b) one of the region's four language families, of the south-west
+c) the language family of the western lowlands
+**Answer: b) one of the region's four language families, of the south-west**
+

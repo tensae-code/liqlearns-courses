@@ -10,3 +10,6 @@ Fill each blank with the right word.
 
 **3. (Sub lesson 3)** The ______ took Timbuktu as Mali broke up.
 **Answer: Tuaregs**
+**4. (Sub lesson 5)** The term for 'Mali's city of scholarship and trade' is ______.
+**Answer: Timbuktu**
+

@@ -10,3 +10,11 @@ Sub lesson 2 questions from the type files. Pass mark: retell this part's story 
 
 ## Sub lesson 3 — What makes a civilisation — and how states began (teacher guide — evidence)
 Sub lesson 3 questions from the type files. Pass mark: name the six characteristics of a civilisation and retell the guide's priest-to-chief account of state origin, labelled as the guide's formulation.
+
+## Sub lesson 4 — Grade 11 depth: Tools, fire and the long stone ages
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Palaeolithic** (the Old Stone Age of struck tools) and **control of fire** (the mastery that gave warmth, protection and cooking).
+
+## Sub lesson 5 — Grade 11 depth: Farming, surplus and the emergence of the state
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Neolithic Revolution** (the turn from food gathering to farming and domestication) and **emergence of the state** (states arising where surplus, population, trade and defence needs meet).

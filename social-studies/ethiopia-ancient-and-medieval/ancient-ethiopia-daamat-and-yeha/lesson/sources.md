@@ -2,6 +2,8 @@
 
 countries: Ethiopia
 
+**Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
+
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (Chapter 4, placements 51–78).
 
 **Book 2:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
@@ -14,6 +16,8 @@ countries: Ethiopia
 | The title that points across the sea | Student book, Chapter 4 — Printed pp. 75–76 |
 | Grade 9 depth — Principalities before Aksum: Aksum not the first centralised polity; Punt, Hawlti-Melazo, Addi-Seglemeni, Metera, Kaskase and Da'amat named; the setting tied to the Red Sea and the northern highlands, interacting with the world beyond | Ethiopia, *History, Student Textbook, Grade 9*, Unit 3, printed p. 52 |
 | Grade 9 depth — the initiators (teacher guide — evidence): these sites initiated by the Habashat and Agazi tribes who migrated into Ethiopia from Saudi Arabia (southern Arabia) | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 3, printed p. 58 (teacher guide — evidence) |
+
+| Grade 11 depth — Before Aksum in depth — Damat and the Red Sea world | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 61–63 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

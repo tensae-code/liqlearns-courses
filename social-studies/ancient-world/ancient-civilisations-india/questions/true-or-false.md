@@ -14,3 +14,6 @@ Say whether each statement is true or false.
 
 **5.** Hinduism developed from early Indo-Aryan beliefs.
 **Answer: True** — The section's line of descent.
+**6. (Grade 11 depth)** True or false: The birth-ordered system of Vedic society — this is caste.
+**Answer: True**
+

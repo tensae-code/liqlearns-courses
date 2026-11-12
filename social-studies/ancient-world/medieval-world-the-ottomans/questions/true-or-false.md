@@ -8,3 +8,6 @@ Say whether each statement is true or false.
 **Answer: True** — The empire carries its founder's name.
 **3.** The Janissaries were a seasonal militia.
 **Answer: False** — They were a standing army — permanently serving.
+**4. (Grade 11 depth)** True or false: The Ottoman ruler as both emperor and head of the faith — this is sultan-caliph.
+**Answer: True**
+

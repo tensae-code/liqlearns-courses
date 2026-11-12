@@ -22,3 +22,9 @@ a) Sailors  b) Builders, potters, basket-makers and metalworkers  c) Only soldie
 a) Only Armenians  b) Muslims, Bete Israel, Armenians, Indians and Greek merchants  c) Only Portuguese  d) The Nine Saints
 **Answer: b) Muslims, Bete Israel, Armenians, Indians and Greek merchants** — Five groups named for the quarters.
 
+**6. (Grade 11 depth)** What is Gondarine Period?
+a) Gondar's century, 1636–1769, of castles and slow weakening
+b) a detail belonging to a different lesson in this course
+c) the growing powers hollowing the emperors' rule
+**Answer: a) Gondar's century, 1636–1769, of castles and slow weakening**
+

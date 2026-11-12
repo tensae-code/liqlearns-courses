@@ -22,3 +22,9 @@ a) 1492  b) 1497  c) 1498  d) 1501
 a) Four ships  b) Five ships  c) Thirteen ships  d) One ship
 **Answer: c) Thirteen ships** — Cabral's fleet was thirteen ships; da Gama's was four.
 
+**6. (Sub lesson 3)** What is Columbian exchange?
+a) the movement of plants, animals, peoples and diseases between hemispheres
+b) the Portuguese captain who reached India by sea
+c) a detail belonging to a different lesson in this course
+**Answer: a) the movement of plants, animals, peoples and diseases between hemispheres**
+

@@ -8,6 +8,8 @@ Growth figures look respectable for a decade — yet the countryside that grows 
 
 The second plan (1962–1967) pushed agro-industry: large commercial farms for cotton, coffee and sugar — over the smallholders who grew about 80% of cereals. The economy's majority was planned around, not for.
 
+
+[Picture 25289 — a sugar estate beside a tiny peasant plot]
 ## Sub lesson 2 — Plan three — the swing to the peasant
 
 The third plan (1968–1973) swung to agriculture and peasant farming against rising food shortage, with integrated rural development for inputs and rural health. The direction finally matched the population — a generation late.

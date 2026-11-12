@@ -5835,3 +5835,112 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 25837 | pictures/25837.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — cotton-from-field-to-fabric |
 | 25838 | pictures/25838.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — growing-and-processing-sisal |
 | 25839 | pictures/25839.gif | drawn motion diagram for the lesson (see its lesson plan) | Agriculture — how-farm-animals-digest |
+| 33500 | The scientific method loop — observe, hypothesise, test, conclude | science/science-skills/the-scientific-method-observe-hypothesise-test-conclude |
+| 33501 | Semi-guided investigation — your question, your method | science/science-skills/semi-guided-investigations-your-question-your-method |
+| 33502 | GIF: a candle dying under a jar | science/science-skills/semi-guided-investigations-your-question-your-method |
+| 33503 | GIF: iron filings leaping at switch-on | science/science-skills/semi-guided-investigations-your-question-your-method |
+| 33504 | Fair test diagram — one change, one measure, the rest held still | science/science-skills/fair-tests-variables-and-control-groups |
+| 33505 | Doing science honestly — ethics raised to subject work (Grade 8 growth) | science/science-skills/doing-science-honestly |
+| 33506 | Seven fundamental quantities with units and prefixes (teacher evidence) | science/science-skills/measurement-quantities-units-prefixes-and-accuracy-grade-8 |
+| 33507 | Sundial, sand-glass and water clock — measuring time the old way (teacher evidence) | science/science-skills/measuring-time-the-old-way-sundial-sand-glass-water-clock |
+| 33508 | GIF: a shadow sweeping the sundial marks in order (teacher evidence) | science/science-skills/measuring-time-the-old-way-sundial-sand-glass-water-clock |
+| 33900 | Organic and inorganic compounds — carbon is the dividing line | science/materials/organic-and-inorganic-compounds |
+| 33901 | Hydrocarbons — alkanes, alkenes, alkynes series chart | science/materials/hydrocarbons-alkanes-alkenes-alkynes |
+| 33902 | Oxides — basic, acidic, amphoteric, neutral | science/materials/oxides-basic-acidic-and-in-between |
+| 33903 | GIF: magnesium flare to ash — a basic oxide forming | science/materials/oxides-basic-acidic-and-in-between |
+| 33904 | Acids and bases — definitions and the naming ladder | science/materials/acids-and-bases-definitions-and-naming |
+| 33905 | Indicators and the pH scale 0–14 in colour | science/materials/indicators-and-ph-testing-with-colour |
+| 33906 | GIF: indicator colour sweeping across the pH scale | science/materials/indicators-and-ph-testing-with-colour |
+| 33907 | Working with acids and bases — properties, uses, precautions | science/materials/working-with-acids-and-bases-properties-uses-precautions |
+| 33908 | GIF: zinc fizzing in acid, hydrogen collecting | science/materials/working-with-acids-and-bases-properties-uses-precautions |
+| 33909 | Neutralisation — acid plus base makes salt plus water | science/materials/neutralisation-cancelling-acid-with-base |
+| 33910 | Salts — preparation routes, names and uses | science/materials/salts-preparation-names-and-uses |
+| 33300 | The bus scene from roadside and inside — motion needs a reference point | science/motion-force-and-energy/motion-needs-a-reference-point |
+| 33301 | Four path diagrams, one per kind of motion | science/motion-force-and-energy/motion-four-kinds-of-motion |
+| 33302 | GIF: four paths animated, one panel each | science/motion-force-and-energy/motion-four-kinds-of-motion |
+| 33303 | Ball-run set-up with formula and worked example | science/motion-force-and-energy/motion-distance-and-speed |
+| 33304 | Winding path vs straight displacement arrow | science/motion-force-and-energy/motion-displacement-and-velocity |
+| 33305 | Three speed–time graphs — positive, negative, zero acceleration | science/motion-force-and-energy/motion-acceleration |
+| 33306 | GIF: three runners — speeding, slowing, steady | science/motion-force-and-energy/motion-acceleration |
+| 33307 | Contact vs non-contact force panels | science/motion-force-and-energy/force-what-force-is-and-what-it-does |
+| 33308 | GIF: kicked ball rolling, slowing under friction, stopping | science/motion-force-and-energy/force-what-force-is-and-what-it-does |
+| 33309 | Newton meter, spring stretched, scale in newtons | science/motion-force-and-energy/force-gravity-weight-and-the-newton-meter |
+| 33310 | GIF: mass hung, spring stretching and settling at 2.0 N | science/motion-force-and-energy/force-gravity-weight-and-the-newton-meter |
+| 33311 | Cup standing as the hard paper is whipped out — inertia | science/motion-force-and-energy/force-and-motion-newtons-first-law |
+| 33312 | GIF: paper whipped out fast, cup standing still | science/motion-force-and-energy/force-and-motion-newtons-first-law |
+| 33313 | Cart, string, pulley and hanging-mass set-up | science/motion-force-and-energy/force-and-motion-newtons-second-law |
+| 33314 | Foot on ground with equal-opposite action–reaction arrows | science/motion-force-and-energy/force-and-motion-newtons-third-law |
+| 33315 | GIF: balloon shrinking and jetting as its air escapes the other way | science/motion-force-and-energy/force-and-motion-newtons-third-law |
+| 33316 | Kinetic and potential energy formulas with worked examples | science/motion-force-and-energy/energy-kinetic-and-potential-energy |
+| 33317 | Waterfall to generator to wire to bulb — energy conversion chain | science/motion-force-and-energy/energy-forms-and-conversions |
+| 33318 | Ten energy sources as tiles, split renewable and non-renewable (teacher evidence) | science/motion-force-and-energy/energy-sources-and-using-energy-wisely |
+| 33319 | Six home energy-conservation panels (teacher evidence) | science/motion-force-and-energy/energy-sources-and-using-energy-wisely |
+| 33320 | Speed–time graph — rising, flat, falling — for the problem set | science/motion-force-and-energy/force-motion-and-energy-problem-set |
+| 33321 | Depletion gauge near empty with seven driver tiles (teacher evidence) | science/our-environment/energy-resources-resource-depletion-and-its-drivers |
+| 33322 | Degraded hillside: stumps, gully, muddy stream, five effects (teacher evidence) | science/our-environment/energy-resources-environmental-degradation-and-its-effects |
+| 23800 | pictures/23800.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — what-history-is |
+| 23801 | pictures/23801.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — is-history-a-science |
+| 23802 | pictures/23802.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-maya |
+| 23803 | pictures/23803.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-aztecs-tenochtitlan |
+| 23804 | pictures/23804.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — how-the-great-religions-reached-ethiopia |
+| 23805 | pictures/23805.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — settlement-of-the-peoples-of-ethiopia-and-the-horn |
+| 23806 | pictures/23806.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-bete-israel |
+| 23807 | pictures/23807.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — scientific-revolution-and-enlightenment |
+| 23808 | pictures/23808.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — mamluk-egypt |
+| 23809 | pictures/23809.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — islam-in-north-africa |
+| 23810 | pictures/23810.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — how-africas-regions-traded-with-each-other |
+| 23811 | pictures/23811.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — north-and-north-east-africa-after-1500 |
+| 23812 | pictures/23812.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — benin-oyo-dahomey-and-ashante |
+| 23813 | pictures/23813.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — east-africa-and-the-omani-turn |
+| 23814 | pictures/23814.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — kongo-and-the-south-central-kingdoms |
+| 23815 | pictures/23815.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — shaka-and-the-zulu-kingdom |
+| 23816 | pictures/23816.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — europeans-on-the-coast-trade-on-african-terms |
+| 23817 | pictures/23817.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-indian-ocean-and-trans-saharan-slave-trades |
+| 23818 | pictures/23818.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — what-the-slave-trade-cost-africa |
+| 23819 | pictures/23819.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-legitimate-trade-in-palm-oil-and-produce |
+| 23820 | pictures/23820.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — white-settlement-and-the-great-trek-in-south-africa |
+| 23821 | pictures/23821.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — explorers-and-missionaries-map-the-interior |
+| 23822 | pictures/23822.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — how-the-christian-highland-kingdom-was-governed |
+| 23823 | pictures/23823.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — life-inside-the-muslim-sultanates |
+| 23824 | pictures/23824.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — movements-of-the-somali-afar-and-argoba |
+| 23825 | pictures/23825.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-kawo-kingdoms-wolaita |
+| 23826 | pictures/23826.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-gibe-oromo-kingdoms-jimma |
+| 23827 | pictures/23827.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — susenyos-and-the-catholic-episode |
+| 23828 | pictures/23828.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — shewa-grows-in-the-south |
+| 23829 | pictures/23829.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — european-travellers-in-ethiopia-after-1805 |
+| 23830 | pictures/23830.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — find-history-in-your-own-locality |
+| 23831 | pictures/23831.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — reading-historical-maps |
+| 23832 | pictures/23832.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — two-timelines-side-by-side-ethiopia-and-the-world |
+| 23833 | pictures/23833.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — faiths-that-shaped-states |
+| 23834 | pictures/23834.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — trade-routes-that-linked-the-old-world |
+| 23835 | pictures/23835.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — comparing-states-how-kingdoms-hold-together |
+| 23836 | pictures/23836.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — why-the-book-ends-on-peace |
+| 23850 | pictures/23850.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — two-timelines-side-by-side-ethiopia-and-the-world |
+| 23851 | pictures/23851.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — scientific-revolution-and-enlightenment |
+| 23852 | pictures/23852.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — how-africas-regions-traded-with-each-other |
+| 23853 | pictures/23853.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — exploration-portugal-and-the-sea-routes |
+| 23854 | pictures/23854.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — medieval-ethiopia-amda-tsion |
+| 23855 | pictures/23855.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-adal-wars-imam-ahmad |
+| 23856 | pictures/23856.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — human-evolution-fossils-and-the-first-humans |
+| 23857 | pictures/23857.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — christianity-from-persecuted-sect-to-state-religion |
+| 23858 | pictures/23858.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-rise-and-expansion-of-islam |
+| 34500 | How the solar system formed — nebula collapsing to Sun and planets | science/earth-and-space/how-the-solar-system-formed |
+| 34501 | Two families of planets — rocky inside, giants outside | science/earth-and-space/two-families-of-planets |
+| 34502 | Earth-centred vs Sun-centred models judged on evidence | science/earth-and-space/earth-centred-or-sun-centred |
+| 34503 | The Sun — scale, layers, spots and storms | science/earth-and-space/the-sun-scale-layers-spots-and-storms |
+| 34504 | Terrestrial planets vs gas giants — the twelve-row contrast | science/earth-and-space/terrestrial-planets-vs-gas-giants |
+| 34505 | The rocky planets — Mercury, Venus, Earth and Mars | science/earth-and-space/the-rocky-planets |
+| 34506 | The giant planets — Jupiter, Saturn, Uranus and Neptune | science/earth-and-space/the-giant-planets |
+| 34507 | Planets by the numbers — the data table | science/earth-and-space/planets-by-the-numbers |
+| 34508 | Small bodies — asteroids, comets, shooting stars | science/earth-and-space/small-bodies-asteroids-comets-and-shooting-stars |
+| 34509 | Planetary motion — ellipses and Kepler's laws | science/earth-and-space/planetary-motion-ellipses-and-keplers-laws |
+| 34510 | The solar system — review and concept map | science/earth-and-space/the-solar-system-review-and-concept-map |
+| 34511 | Comparing the planets — a scale model (teacher evidence) | science/earth-and-space/comparing-the-planets-model |
+| 34512 | Earth — the planet suited for life (teacher evidence) | science/earth-and-space/earth-the-planet-suited-for-life |
+| 34520 | GIF: nebula cloud collapsing and spinning into a disc | science/earth-and-space/how-the-solar-system-formed |
+| 34521 | GIF: young Sun's heat sorting rocky planets inside, giants outside | science/earth-and-space/two-families-of-planets |
+| 34522 | GIF: two models turning — Earth-centred vs Sun-centred | science/earth-and-space/earth-centred-or-sun-centred |
+| 34523 | GIF: sunspots crossing the Sun's face as it rotates | science/earth-and-space/the-sun-scale-layers-spots-and-storms |
+| 34524 | GIF: the giant planets turning, Saturn's rings tilted | science/earth-and-space/the-giant-planets |
+| 34525 | GIF: a comet's tail always pointing away from the Sun | science/earth-and-space/small-bodies-asteroids-comets-and-shooting-stars |
+| 34526 | GIF: a planet sweeping equal areas in equal times on its ellipse | science/earth-and-space/planetary-motion-ellipses-and-keplers-laws |

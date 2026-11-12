@@ -8,6 +8,8 @@ Salary, rent from a building, a shop's profit, a dividend, a pension payment —
 
 Under Proclamation No. 286/2002 and Regulation No. 78/2002, income is taxed by schedule. Schedule A, employment income, is taxed at 10–35% and withheld by the employer as a final tax; salary, allowances, fringe benefits, termination and redundancy payments all count.
 
+
+[Picture 25273 — five labelled folders, one per schedule]
 ## Sub lesson 2 — Schedules B, C and D
 
 Schedule B taxes rental income from buildings, on gross rent minus allowed deductions. Schedule C taxes business income, on total business income minus deductions. Schedule D covers other income — royalties, services rendered abroad, games, dividends, casual rental, interest and specified capital gains.

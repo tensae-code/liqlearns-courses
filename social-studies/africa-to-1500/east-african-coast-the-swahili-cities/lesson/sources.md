@@ -2,6 +2,8 @@
 
 countries: Ethiopia
 
+**Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
+
 **Book 1:** *Social Studies Student Textbook, Grade 7* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 7ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 166 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-student-placements.md (placement 91).
 
 | Lesson part | Where it comes from |
@@ -9,6 +11,8 @@ countries: Ethiopia
 | Sub lesson 1 — The coast people: Swahili the Arab-Bantu mixed coastal people ('Swahili' = coast people), Somalia to Mozambique; the language East Africa's working language and today Tanzania's national language | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 5, printed pp. 117–118 |
 | Sub lesson 2 — The five cities and their trade: city-states of 1200–1500 — Kilwa, Lamu, Malindi, Mombasa, Zanzibar — trading gold, ivory and slaves with Persia, China and Indonesia | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 5, printed pp. 117–118 |
 | Sub lesson 3 — The Portuguese seizure: Portuguese seized the coast (1500–1600), destroying the trade routes and the civilisation | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 5, printed pp. 117–118 |
+
+| Sub lesson 4 — Grade 11 depth: Central and Eastern Africa in depth — Swahili cities and inland states | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 131–134 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

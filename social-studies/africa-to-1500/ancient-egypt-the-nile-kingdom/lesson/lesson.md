@@ -33,6 +33,10 @@ The Grade 9 history book tells Egypt's story at a run. A Nile civilisation from 
 Its enduring achievements are placed in **building technology** — this is the **pyramid age** — and in **writing, using papyrus**. Set this beside the earlier grades' Egypt of nomes and dynasties: same river, same kings, now seen as a civilisation's whole arc — gods on the throne, officials at the desks, pyramids on the skyline, and writing on reed-paper that outlasted them all.
 
 
+## Sub lesson 4 — Grade 11 depth: Egypt in depth — government, gods, writing and the calendar
+
+The Grade 11 telling deepens the Nile kingdom on every side: pharaonic government as divine kingship administering a river; religion woven through state and afterlife; hieroglyph writing carrying administration and eternity alike; pyramids as organised labour made eternal; and a calendar by which the flood, the sowing and the tax all kept time. Southward relations — to Kush and toward Africa — run through it, never an afterthought.
+
 ## Say it to your companion
 
 Tell Egypt's story as three sentences: the nomes and Menes; the Pharaoh and his farming people; the Hyksos break and Ahmose's rescue. Your companion then asks: who was the vizier? Who was the nomarch? Answer both.

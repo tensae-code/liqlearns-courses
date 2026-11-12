@@ -33,6 +33,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 1. **Do it first** — the learner does the opening task in lesson/lesson.md before any explanation.
 2. **The explanation** — lesson/lesson.md, with these slots at their exact places:
    - ADD IMAGE [Picture 24338]: a picture of two villages with the same GDP per person drawn very unequally — the student studies it and answers the lesson's question about it at that place.
+   - ADD IMAGE [Picture 25233]: a picture of a farm household eating its own harvest beside a market stall, with only the stall's sales entering a ledger — the student studies it and answers the lesson's question about it at that place.
    - ADD AUDIO: a voice reading the lesson's key words and figures aloud — the student listens and repeats them. (Described slot only; no audio file is made in this build.)
 3. **Say it to your companion** — lesson/lesson.md.
 4. **Why GDP understates output in developing countries**
@@ -43,6 +44,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 24338] — two villages with the same GDP per person drawn very unequally
+- IMAGE [Picture 25233] — a farm household eating its own harvest beside a market stall, with only the stall's sales entering a ledger → the student studies it at its place in the lesson.
 - AUDIO — the lesson's key words and figures read aloud → the student listens and repeats. (Described slot only.)
 - VIDEO — the video-script filmed (made later) → the student watches and follows the walk-through.
 

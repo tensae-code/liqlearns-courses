@@ -7,3 +7,6 @@ Fill each blank with the right word or number.
 
 **2. (Sub lesson 2)** Homo ___ was the tool-maker.
 **Answer: habilis**
+**3. (Sub lesson 4)** The term for 'the upright hominid who spread widely from Africa' is ______.
+**Answer: Homo erectus**
+

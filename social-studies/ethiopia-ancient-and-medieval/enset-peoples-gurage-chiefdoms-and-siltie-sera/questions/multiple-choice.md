@@ -25,3 +25,9 @@ a) only through fathers  b) also through the mother line  c) by election
 **6. (Sub lesson 3)** The Siltie judiciary is called —
 a) the Raga system  b) the Guurti  c) the chaffe
 **Answer: a) the Raga system** — Raga judges; the general assembly is YeMule Siltie Melcho.
+**7. (Sub lesson 4)** What is sera-woma?
+a) the governing order of the Sidama-area states
+b) a detail belonging to a different lesson in this course
+c) the Gurage systems named only in the teacher guide (evidence)
+**Answer: a) the governing order of the Sidama-area states**
+

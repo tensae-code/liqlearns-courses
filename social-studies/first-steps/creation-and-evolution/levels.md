@@ -7,3 +7,7 @@ Sub lesson 1 questions from the type files. Pass mark: retell this part's story 
 
 ## Sub lesson 2 — The evolution account
 Sub lesson 2 questions from the type files. Pass mark: retell this part's story in order and answer its questions from the type files without the book open — the names, dates and places of the part all correct.
+
+## Sub lesson 3 — Grade 11 depth: Two accounts of human origins, side by side
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **natural selection** (Darwin's mechanism — the fittest variations survive and multiply) and **evolution** (the scientific theory that species change across immense time).

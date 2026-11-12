@@ -8,6 +8,8 @@ One response cuts the cause; the other lives with the effect. This lesson is the
 
 Mitigation is the anticipatory response: estimate the costs and benefits of abatement, set socially optimal targets, and reach them with the cheapest instruments — carbon markets, carbon taxes, and subsidies for faster technological progress.
 
+
+[Picture 25310 — a smokestack valve closing, a forest replanted]
 ## Sub lesson 2 — Forests and finance mechanisms
 
 Forest mechanisms carry much of it: REDD and REDD+ pay for avoided deforestation and forest restoration, with the indigenous communities who depend on the forests. The Clean Development Mechanism, from the 1997 Kyoto Protocol, channels emission-reduction finance into developing countries.

@@ -8,6 +8,8 @@ Before a poverty plan is written, the government consults the public across the 
 
 The EPRDF's first poverty-reduction plan, SDPRP (2002/03–2004/05), built on ADLI, food security, decentralisation and empowerment, capacity building, and justice and civil-service reform, after public consultations in 2001. Its parent programme — Peace, Democracy and Development — tied poverty alleviation through rapid growth to peace, participation, education, social justice and preventive health.
 
+
+[Picture 25292 — a consultation meeting under a drought-cracked field]
 ## Sub lesson 2 — The drought year and the average
 
 SDPRP's first-year drought cut agricultural output 11.6% and GDP 3.6%. The following years grew 11.3% and 8.8%, leaving a three-year average growth of 5.5% — a plan's average hiding a collapse and a rebound inside it.

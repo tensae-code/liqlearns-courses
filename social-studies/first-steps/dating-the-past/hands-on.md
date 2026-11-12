@@ -7,3 +7,7 @@ Find one dated thing at home — a certificate, a book's title page, an old coin
 
 ## The classroom timeline
 On a long strip of paper, mark a line from 1800 to today. Each learner adds one event card — Adwa 1896, the Dam's start 2011, and events from their own family's memory — pinned in its true place.
+
+## Grade 11 depth — Periodization — cutting time into ages
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

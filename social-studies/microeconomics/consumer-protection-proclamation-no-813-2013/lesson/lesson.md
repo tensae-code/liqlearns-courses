@@ -8,6 +8,8 @@ Short weights, a watered product, an advert that lies. As a shopper, which of th
 
 Sellers can exploit buyers through false advertising, adulterated goods, wrong weights and hidden terms. The buyer often cannot detect the cheat before paying, and cannot prove it after — which is why protection is a law, not a tip.
 
+
+[Picture 25243 — an inspector checking a market scale]
 ## Sub lesson 2 — Ethiopia's answer — Proclamation No. 813/2013
 
 Ethiopia's Trade Competition and Consumer Protection Proclamation No. 813/2013 sets the objectives of protection and makes consumer rights enforceable in law rather than dependent on a seller's goodwill.

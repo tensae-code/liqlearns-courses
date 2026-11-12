@@ -24,6 +24,9 @@ Depression, slump or trough bottoms the wave: confidence at its lowest, investme
 
 Grade 12 names the same wave with four phase words: expansion, peak, contraction (recession) and trough, ridden around the trend. The cycle is the frame that makes unemployment and inflation move together through time — and the frame that countercyclical policy, later in the Grade 12 course, tries to smooth.
 
+
+[GIF 25236 — a dot travelling the cycle wave, pausing at each phase]
+
 ## Say it to your companion
 
 Explain the business cycle to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

@@ -10,3 +10,12 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** Gojjam's Agaw kingdom is named among the states of this survey.
 **Answer: True** — The Agaw kingdom of Gojjam.
+**4. (Sub lesson 3)** True or false: The Blue Nile, Damot's northern boundary river — this is Abbay.
+**Answer: True**
+
+**5. (Sub lesson 4)** True or false: The western peoples bordering the highland kingdom — this is Gonga.
+**Answer: True**
+
+**6. (Sub lesson 5)** True or false: The forest kingdom of coffee, type case of the tato states — this is Kafa.
+**Answer: True**
+

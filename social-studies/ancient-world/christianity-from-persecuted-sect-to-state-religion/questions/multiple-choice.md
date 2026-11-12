@@ -25,3 +25,9 @@ a) toleration  b) a crusade  c) the papacy
 **6. (Sub lesson 2)** Christianity became the Empire's official religion under —
 a) Nero  b) Constantine  c) Theodosius
 **Answer: c) Theodosius** — Theodosius completed the arc.
+**7. (Sub lesson 3)** What is Constantine?
+a) Christianity's final standing in the empire that first persecuted it
+b) a detail belonging to a different lesson in this course
+c) the emperor under whom Christianity was legalised
+**Answer: c) the emperor under whom Christianity was legalised**
+

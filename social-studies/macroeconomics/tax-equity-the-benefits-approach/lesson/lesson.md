@@ -8,6 +8,8 @@ Should you pay tax in line with what you get back from the state? It sounds fair
 
 The benefits approach taxes each person in line with the benefit they receive from public services. It neatly links the tax side to the spending side of the budget: your bill mirrors your bundle.
 
+
+[Picture 25270 — a priced bundle of services beside an unpriceable shield]
 ## Sub lesson 2 — The measurement weakness
 
 Its weakness is measurement: health, education and subsidies can be attributed to households, but roughly half of spending — army, police, diplomacy, courts — cannot be assigned to beneficiaries at all. Nobody can say what one family's share of the army is.

@@ -8,6 +8,8 @@ The central bank wants more money in the economy by Friday, without printing a s
 
 In open market operations the central bank buys and sells government bonds. Buying bonds, it pays out birr: the monetary base and the money supply expand. Selling bonds drains both, as buyers' money flows back to the bank.
 
+
+[Picture 25248 — bonds one way across the counter, birr back the other]
 ## Sub lesson 2 — The NBE's treasury-bill market
 
 The National Bank of Ethiopia runs its operations through the treasury-bill market to steer banking-system liquidity. It holds an allocation of government T-bills for the purpose, since it issues no securities of its own (NBE, 2009).

@@ -8,6 +8,8 @@ A government spends and taxes. Which of its payments buys something, and which s
 
 Fiscal policy is the government's expenditure-and-revenue policy — the budget used deliberately as a lever on the economy. Spending moves demand directly; taxes move it through households' pockets.
 
+
+[Picture 25244 — the government budget drawn as a balance]
 ## Sub lesson 2 — Four kinds of spending
 
 Government spending has four components: purchases of goods and services; transfer payments — pensions and unemployment benefits, payments with nothing bought in return; grants in aid to lower governments; and net interest on government debt. Only the first buys output directly.

@@ -18,6 +18,13 @@ The turn came with **Constantine**. His **conversion in 312** changed an empire:
 
 One more step completed the arc: under **Theodosius**, Christianity became the Empire's **official religion**. From state religion, it spread — across the Roman world and, in the centuries after, **across the world**. Ethiopia's own chapter of that spread — Frumentius at the Aksumite court — is told in the Ethiopia title of this course, and it begins only a generation after Milan.
 
+## Sub lesson 3 — Grade 11 depth: Christianity's spread in depth — from Judea to state religion
+
+The Grade 11 telling follows the whole arc at walking pace: a faith born in Roman Judea, carried along the empire's roads and seas by preachers and communities, persecuted in waves yet growing through them — until Constantine legalised it and, within a lifetime, it stood as the empire's state religion. This is the bridge the book builds on purpose: out of the ancient world, into the medieval one.
+
+
+[GIF 23857 — a spread map shading outward century by century]
+
 ## Say it to your companion
 
 Tell the whole story of Christianity back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

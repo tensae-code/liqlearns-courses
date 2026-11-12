@@ -50,3 +50,7 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 
 A further part was added from Ethiopia's *History, Grade 9* book: **The Grade 9 book's India — Indus cities, Hinduism and Buddhism** — see lesson/lesson.md for the part and lesson/sources.md for its book and printed pages.
 - ADD IMAGE [Picture 22522]: a picture of an Indus city street with drains and canals, and a Buddha figure — the student studies the picture and names what it proves.
+
+## Grade 11 extension (Wave 4 Band F, placement 16)
+
+Added (Grade 11 depth) — **India in depth — Indus cities, caste, and two new religions** (printed pp. 32–34 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Grade 11 depth). Gate pool for the new part: its own questions, as for every sub lesson.

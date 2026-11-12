@@ -24,6 +24,10 @@ By the 13th century the road carried a whole chain: **Ifat, Fatigar, Dawaro, Dar
 
 Their existence, like the Christian kingdom's, **turned on controlling trade**. That shared fact is the key to the era's wars, told in this title's kingdom-versus-Adal lesson: two worlds, one road, and the wealth that moved along it. Picture the map at night: a line of lit towns from the Gulf of Aden climbing into the hills — each light a court, a market, a toll-gate on the caravans to Zeila.
 
+## Sub lesson 4 — Grade 11 depth: Caravans to Zeila in depth — the eastern trade system
+
+The caravan system gets its Grade 11 workings: the Zeila road and the Dahlak route to the sea; exports of slaves, ivory and gold against imports of cloth, beads and metalwork; markets staged along the escarpment; and currencies and credit knitting Muslim lowland and Christian highland into one trading body, whatever their courts proclaimed.
+
 ## Say it to your companion
 
 Tell the whole story of Caravans to Zeila back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

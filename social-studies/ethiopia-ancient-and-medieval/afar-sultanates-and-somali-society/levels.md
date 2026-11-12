@@ -7,3 +7,7 @@ Sub lesson 1 questions from the type files. Pass mark: retell this part's story 
 
 ## Sub lesson 2 — Somali clans and the Guurti
 Sub lesson 2 questions from the type files. Pass mark: retell this part's story in order and answer its questions from the type files without the book open — the names, dates and places of the part all correct.
+
+## Sub lesson 3 — Grade 11 depth: Afar sultanates and Somali society in depth
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Aussa** (the leading Afar sultanate of the salt corridors) and **salt corridors** (the caravan roads from the Danakil pans to the highlands).

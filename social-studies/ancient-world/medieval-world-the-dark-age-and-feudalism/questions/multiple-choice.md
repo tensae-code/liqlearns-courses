@@ -30,3 +30,9 @@ a) age grades  b) estates  c) clans
 **8.** Knights were feudal society's —
 a) judges  b) mounted soldiers  c) tax farmers
 **Answer: b) mounted soldiers** — Soldiers on horseback.
+**9. (Grade 11 depth)** What is feudalism?
+a) the self-working estate at feudalism's base
+b) the order of lords, vassals and land held for service
+c) a detail belonging to a different lesson in this course
+**Answer: b) the order of lords, vassals and land held for service**
+

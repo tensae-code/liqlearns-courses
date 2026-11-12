@@ -24,6 +24,10 @@ And society itself was re-sorted. Out of this tremendous transformation of Weste
 
 The teacher's guide states the same system in sharper, class terms — learn it as the definition behind the story. Capitalism is a socio-economic system in which resources are owned by **a few rich private people** and production is **for profit**. The factors of production are owned by the capitalists — the **bourgeoisie** — while the **proletariat** sell their labour for **wages**. Above it all stands one rule of the system as the guide gives it: **complete free trade and competition, with no restriction or interference by government** — everything is left to private enterprise.
 
+## Sub lesson 4 — Grade 11 depth: Early capitalism in depth — towns, banks and the price revolution
+
+The Grade 11 book roots capitalism earlier than the factory: from about 1500, revived towns fill with merchants; merchant capital organises trade and production beyond the guilds; banking learns to move money across Europe; and American silver drives a price revolution through every market. Capitalism begins as a way of organising trade and credit — the factory is its later, louder child.
+
 ## Say it to your companion
 
 Retell this lesson's story to your companion in order — part 1 — then part 2 — then part 3 — using the lesson's own names and dates. Your companion asks you one hard question about it — answer from the lesson.

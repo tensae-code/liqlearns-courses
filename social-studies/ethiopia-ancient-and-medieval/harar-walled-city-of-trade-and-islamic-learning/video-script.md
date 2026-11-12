@@ -9,3 +9,6 @@ We rewind: 1332, Ifat falls. A ruling family rides east — and at Harar, about 
 Caravans pour through the gates: coast goods up, highland goods down. Harar takes its due.
 Night falls. In the mosques, lamps — scholars, students, books. A city that trades by day and teaches by night.
 Empires around it rise and fall. The walls stand. Harar endures.
+
+[Grade 11 depth scene — Harar in depth — the emirs' city. The animated map carries the story as the voice speaks.]
+Harar takes the Grade 11 depth as a city with two callings at once: a commercial hub where highland, lowland and Gulf of Aden trade changed hands — and a scholarly city of mosques and learning under its emirs, its walls and gates ordering a dense urban world. The names to hold: emirs, Gulf of Aden trade.

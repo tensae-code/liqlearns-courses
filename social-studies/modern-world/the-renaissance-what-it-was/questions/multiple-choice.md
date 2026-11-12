@@ -22,3 +22,9 @@ a) England  b) France  c) Italy  d) Holland
 a) Died out  b) Grew into literary languages  c) Were banned  d) Were replaced by Latin
 **Answer: b) Grew into literary languages** — Everyday languages became fit for literature.
 
+**6. (Sub lesson 3)** What is humanism?
+a) a detail belonging to a different lesson in this course
+b) Gutenberg's invention, multiplying books and ideas
+c) the Renaissance turn to classical learning and human capability
+**Answer: c) the Renaissance turn to classical learning and human capability**
+

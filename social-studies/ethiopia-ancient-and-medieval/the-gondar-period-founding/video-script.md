@@ -10,3 +10,6 @@ Then Fasiledes: out with divisive foreigners, 1633.
 1636: Gondar founded — a capital to stay.
 A centre for unity of nation and faith.
 Its age runs to 1855.
+
+[Grade 11 depth scene — Fasilides in depth — expulsion, restoration and a fixed capital. The animated map carries the story as the voice speaks.]
+Fasilides completes in the Grade 11 telling what his father's abdication began: the Jesuits expelled, Orthodoxy restored as the kingdom's faith — and, in 1636, Gondar founded as a fixed capital, ending the moving-court age for good. The names to hold: Gondar, 1636, moving-court age.

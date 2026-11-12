@@ -8,6 +8,8 @@ One tax strikes the person who earns; another strikes through the seller's price
 
 A direct tax's impact and incidence fall on the same person: the earner taxed is the earner burdened. The Ethiopian examples run from employment, business, rental and agricultural income taxes to poll, land, property, royalty, capital-gains, gift and inheritance taxes.
 
+
+[Picture 25268 — one arrow direct, one bouncing from seller to buyer]
 ## Sub lesson 2 — The direct families
 
 The direct families are income, transfer, property and capital-gains taxes. What unites them is that the person named in the law is the person who finally pays — there is no price through which to pass the burden on.

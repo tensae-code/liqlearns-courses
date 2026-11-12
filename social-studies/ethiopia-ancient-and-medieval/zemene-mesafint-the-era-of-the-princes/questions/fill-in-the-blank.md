@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **2.** Dejazmach ____ of Qwara was among the defenders.
 **Answer: Kassa Hailu**
 
+**3. (Grade 11 depth)** The term for 'the dynasty of regional rulers who dominated the era's middle' is ______.
+**Answer: Yejju lords**
+

@@ -8,6 +8,8 @@ Your wage is fixed for a year. Prices fall. Are you cheaper or dearer for your e
 
 Wages are fixed by contract in the short run: sticky wages. The book's example: the price index falls from 1.50 to 1.25 while the nominal wage stays $30. The real wage rises from $30/1.50 = $20 to $30/1.25 = $24, labour costs the firm more in real terms, and employment falls from 1,000 to 800 — so output falls with the price level. That is the upward slope.
 
+
+[Picture 25237 — a wage contract fixed while prices move]
 ## Sub lesson 2 — Worker misperception
 
 Workers can also mistake a nominal wage rise for a real one: prices rose too, but the worker, seeing only the bigger pay packet, supplies more labour. Misperception, like stickiness, makes short-run output respond to the price level.

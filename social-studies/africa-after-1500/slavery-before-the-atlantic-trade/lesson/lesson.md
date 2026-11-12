@@ -14,6 +14,10 @@ When you hear the word slavery, do not picture one continent only. The book open
 
 Africa knew the trade early too. **From ancient times, sub-Saharan Africa also sent slaves toward the Mediterranean.** That trade **grew from the 9th century** — but it **reached its height only after the Age of Exploration began**, when European ships opened the Atlantic route. Hold the order clearly: an old, wide practice first; a Mediterranean trade growing for centuries; then, after 1500, something far larger. The next lessons tell how that larger trade began, and why.
 
+## Grade 11 depth — Slavery within Africa in depth — forms distinguished
+
+The Grade 11 book insists on distinctions before judgements: slavery inside African societies took forms — domestic service within households, pawnship for debt, military slavery in rulers' guards — differing in rights, in hope of freedom, and in heritability. Knowing the forms is what keeps the Atlantic system's novelty measurable: not slavery itself, but its scale, race and permanence.
+
 ## Say it to your companion
 
 Tell your companion this lesson's story in your own words: Slavery is older and wider than Africa: war captives were sold in Europe too, and the word "slave" itself derives from "Slav".

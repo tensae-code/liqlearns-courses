@@ -18,6 +18,10 @@ In the sources lesson's terms, **chronicles and manuscripts are primary sources*
 
 And primary sources are **checked for authenticity** before use — is this text what it claims to be? Hagiographies — lives of saints — ask for the same care doubled: written to glorify, they mix memory, teaching and miracle. The historian's craft is neither to swallow nor to scorn them, but to test them — against inscriptions, coins, other chronicles — and to write only what survives the testing. That is how a praise-text becomes evidence.
 
+## Sub lesson 3 — Grade 11 depth: Royal chronicles and saints' lives — Ethiopia's two traditions
+
+The Grade 11 book teaches Ethiopia's own writing tradition as method, not decoration. From the 14th century, royal chronicles recorded emperors' deeds in an almost unbroken line into the early 20th century — campaigns, grants, church foundations, dated and placed. Beside them stand the hagiographies, the saints' lives: miracle-rich, devotion-shaped, and still evidence — of belief, of places, of the church's world. Both traditions share one bias the reader must price in: they are court- and church-centred, and the peasant's past must be hunted elsewhere.
+
 ## Say it to your companion
 
 Tell the whole story of Ethiopian chronicles and hagiographies as sources back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

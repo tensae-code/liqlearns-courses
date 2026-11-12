@@ -8,6 +8,8 @@ Revenue is the obvious purpose of tax. Name three more things a government might
 
 Beyond revenue, taxation aims to reduce income and wealth inequality, and to stabilise the economy. A tax system only chasing revenue misses the two purposes that justify its shape.
 
+
+[Picture 25265 — one tax birr splitting into eight streams]
 ## Sub lesson 2 — Steering behaviour and growth
 
 Taxes discourage harmful products, incentivise private capital formation, and steer scarce resources toward essential goods. The tax is a steering wheel as well as a bucket.

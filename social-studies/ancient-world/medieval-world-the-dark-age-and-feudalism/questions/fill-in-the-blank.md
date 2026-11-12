@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **Answer: Knights**
 **3.** The invasion year that broke the West was ____ AD.
 **Answer: 476**
+**4. (Grade 11 depth)** The term for 'the self-working estate at feudalism's base' is ______.
+**Answer: manor**
+

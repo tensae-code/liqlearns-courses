@@ -21,6 +21,10 @@ The Grade 9 book opens China in the **Yellow River (Hwang Ho) valley** in the **
 The **Zhou dynasty (c.1122 to 256 BC)** saw literary classics and philosophy emerge — above all **Confucius (551–479 BC)**, whose **Confucianism teaches a well-ordered society of ranked duties**. And the ancient Chinese also built the **Great Wall** — the work that still draws China's ancient map in one line across the north. Bronze, books and a wall: the Grade 9 triad for China's beginnings.
 
 
+## Grade 11 depth — China in depth — Mandate of Heaven and the written character
+
+Shang and Zhou China receive the Grade 11 depth: a kingship held by the Mandate of Heaven — rule kept while heaven approves, forfeited when it withdraws — and a writing born on oracle bones, questions to ancestors cracked in heat, growing into the characters China still writes. Over it all, Confucian thought teaching order: ruler and subject, parent and child, each in right relation.
+
 ## Say it to your companion
 
 Tell your companion the dynasties in order with one mark for each, then China's fame — silk, porcelain, and writing built from pictures.

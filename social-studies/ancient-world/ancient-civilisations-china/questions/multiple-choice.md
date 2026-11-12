@@ -34,3 +34,9 @@ a) a classless society  b) a well-ordered society of ranked duties  c) rule by a
 **9.** The ancient Chinese also built —
 a) the pyramids  b) the Great Wall  c) the Colosseum
 **Answer: b) the Great Wall** — Across the northern hills.
+**10. (Grade 11 depth)** What is Mandate of Heaven?
+a) heaven's approval, granted to just rule and withdrawn from bad
+b) the inscribed bones of Shang divination, writing's ancestors
+c) a detail belonging to a different lesson in this course
+**Answer: a) heaven's approval, granted to just rule and withdrawn from bad**
+

@@ -14,3 +14,6 @@ Say whether each statement is true or false.
 
 **5.** Rome began as an empire.
 **Answer: False** — Kingdom first, then Republic, then Empire.
+**6. (Grade 11 depth)** True or false: The conventional year of the Western Empire's fall — this is 476 AD.
+**Answer: True**
+

@@ -8,3 +8,6 @@ A monastery library. Lamplight. A great book opens — Ge'ez letters, a king's r
 Another book: a saint's life, gold on the page. Miracles. Praise. Memory.
 A modern historian lifts both — gratefully. Then the tests begin: coin, inscription, a second chronicle.
 What survives the testing becomes history. Ethiopia wrote its past. Ethiopia also learned to cross-examine it.
+
+[Grade 11 depth scene — Royal chronicles and saints' lives — Ethiopia's two traditions. The animated map carries the story as the voice speaks.]
+The Grade 11 book teaches Ethiopia's own writing tradition as method, not decoration. The names to hold: royal chronicles, hagiographies.

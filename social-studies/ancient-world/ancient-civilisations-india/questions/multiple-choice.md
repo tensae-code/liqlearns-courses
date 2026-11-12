@@ -34,3 +34,9 @@ a) Confucius  b) Siddhartha Gautama  c) Ashoka
 **9.** Buddhism spread beyond India to —
 a) South-East Asia, China and Japan  b) Europe and Africa  c) the Americas
 **Answer: a) South-East Asia, China and Japan** — East and south-east.
+**10. (Grade 11 depth)** What is Indus Valley cities?
+a) Mohenjo-daro and Harappa — planned cities of the first age
+b) a detail belonging to a different lesson in this course
+c) the birth-ordered system of Vedic society
+**Answer: a) Mohenjo-daro and Harappa — planned cities of the first age**
+

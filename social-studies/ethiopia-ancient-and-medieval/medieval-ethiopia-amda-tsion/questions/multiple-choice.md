@@ -33,3 +33,9 @@ a) their independence and the route  b) the Aksum stelae  c) Gondar
 **8.** The Grade 9 book spells the king's name —
 a) Amda Seyon  b) Amda Tsion only  c) Yekuno-Amlak
 **Answer: a) Amda Seyon** — The Grade 9 form, noted in sources.
+**9. (Grade 11 depth)** What is Amda Seyon?
+a) a detail belonging to a different lesson in this course
+b) founding churches as an instrument of expansion
+c) the emperor whose campaigns fixed the kingdom's medieval shape
+**Answer: c) the emperor whose campaigns fixed the kingdom's medieval shape**
+

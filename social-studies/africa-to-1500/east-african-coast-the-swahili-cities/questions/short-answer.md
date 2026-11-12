@@ -10,3 +10,5 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 3)** How did the city-states' world end?
 **Answer:** The Portuguese seized the coast (1500–1600) and destroyed the trade routes and the civilisation.
+**4. (Sub lesson 4)** In your own words, explain Swahili city-states and its place in this lesson's story.
+

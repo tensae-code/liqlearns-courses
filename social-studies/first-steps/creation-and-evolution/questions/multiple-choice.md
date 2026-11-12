@@ -25,3 +25,9 @@ a) the creationist view  b) no view at all  c) only the evolutionist view
 **6. (Sub lesson 2)** Darwin's dates are —
 a) 551–479 BC  b) 1809–1882  c) 1312–1337
 **Answer: b) 1809–1882** — The 19th-century naturalist.
+**7. (Sub lesson 3)** What is natural selection?
+a) Darwin's mechanism — the fittest variations survive and multiply
+b) a detail belonging to a different lesson in this course
+c) the scientific theory that species change across immense time
+**Answer: a) Darwin's mechanism — the fittest variations survive and multiply**
+

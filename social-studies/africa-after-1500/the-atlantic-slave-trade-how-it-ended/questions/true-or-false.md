@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** Captives in America and the Caribbean never resisted.
 **Answer: False** — They never stopped rebelling — Haiti 1791 is the book's example.
+**4. (Sub lesson 3)** True or false: The organised campaigns that turned opinion against the trade — this is abolitionist movements.
+**Answer: True**
+

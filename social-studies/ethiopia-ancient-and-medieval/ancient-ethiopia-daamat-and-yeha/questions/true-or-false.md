@@ -16,3 +16,6 @@ Say whether each statement is true or false.
 
 **5.** The pre-Aksumite states were cut off from the outside world.
 **Answer: False** — They interacted with the world beyond.
+**6. (Grade 11 depth)** True or false: The pre-Aksumite temple site witnessing the early highland world — this is Yeha.
+**Answer: True**
+

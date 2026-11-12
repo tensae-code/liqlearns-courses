@@ -8,6 +8,8 @@ No official price exists; the birr's price moves every day with buyers and selle
 
 Under a float, supply and demand for the currency set the rate daily. No clerk repaints the board; the board is a screen, and the price moves with every shift in demand for exports, imports and assets.
 
+
+[Picture 25257 — a currency price line floating on waves]
 ## Sub lesson 2 — Depreciation and appreciation
 
 A market-driven rise in the foreign-currency price of the home currency's opposite — the home currency buying less foreign money — is depreciation; a fall in foreign money's price, so home money buys more, is appreciation. Same movements as devaluation and revaluation, but made by the market, not by decree.

@@ -7,3 +7,6 @@ Fill each blank with the right word or number.
 
 **2.** Africa's trade toward the Mediterranean grew from the ____ century.
 **Answer: 9th**
+**3. (Grade 11 depth)** The term for 'enslaved soldiers in rulers' service, sometimes rising to power' is ______.
+**Answer: military slavery**
+

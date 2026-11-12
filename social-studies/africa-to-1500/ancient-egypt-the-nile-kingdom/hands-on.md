@@ -10,3 +10,7 @@ Write the day of an Egyptian farming family from the lesson's own list: which cr
 
 ## Pyramid-age ledger (Grade 9)
 As a pharaoh's official, keep a one-page ledger of a pyramid project: stone, labour, food, seasons of the Nile. Mark which entries are building technology and which are administration — the Grade 9 book's two achievement fields, in your own hand.
+
+## Grade 11 depth — Egypt in depth — government, gods, writing and the calendar
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

@@ -8,6 +8,8 @@ Writing in 1776, Adam Smith set rules for a fair tax that are still quoted. Gues
 
 Smith's first maxims: contribute in proportion to ability — the revenue enjoyed under the state's protection; and the tax must be certain, not arbitrary — time, manner and amount clear to all. A tax that can be guessed or negotiated invites corruption.
 
+
+[Picture 25266 — a 1776 book beside a modern checklist]
 ## Sub lesson 2 — Convenience and economy
 
 The tax should be levied at the time and in the manner most convenient to pay, and designed to take as little as possible from the people beyond what reaches the treasury. Later canons add economy of collection and fiscal adequacy — enough yield that the state is not forced into deficit financing.

@@ -7,3 +7,7 @@ Sub lesson 1 questions from the type files. Pass mark: give the birth facts, the
 
 ## Sub lesson 2 — How Islam spread — four channels (teacher guide — evidence)
 Sub lesson 2 questions from the type files. Pass mark: recite the four channels and give one line on how each carries a faith.
+
+## Sub lesson 3 — Grade 11 depth: The rise and expansion of Islam in depth
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **caliphates** (the successor states that carried Islam's expansion) and **expansion to c.750** (the reach of early Islam from Arabia to Spain).

@@ -2,12 +2,16 @@
 
 countries: Ethiopia
 
+**Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
+
 **Book 1:** *Social Studies Student Textbook, Grade 8* (የህብረተሰብ ትምህርት የተማሪ መጽሐፍ 8ኛ ክፍል) (student book) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 197 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g08-student-placements.md (Chapter 5, placements 110–122).
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The trade stops paying | Student book, Chapter 5 — Printed pp. 144–145 |
 | Sub lesson 2 — Britain acts — and Africa resists | Student book, Chapter 5 — Printed pp. 144–145 |
+
+| Sub lesson 3 — Grade 11 depth: Abolition in depth — how the trade was ended | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 160–162 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

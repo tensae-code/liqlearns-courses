@@ -25,3 +25,9 @@ a) the later 19th century  b) 1000 BC  c) the 1960s everywhere
 **6. (Sub lesson 2)** Ethiopian academic history dates from —
 a) 1270  b) the 1960s  c) the early 20th century
 **Answer: b) the 1960s** — The chronicle tradition changed in the early 20th century; the academic discipline dates from the 1960s.
+**7. (Sub lesson 3)** What is historiography?
+a) a detail belonging to a different lesson in this course
+b) the Greek inquirer named the father of history
+c) the study of how history has been written
+**Answer: c) the study of how history has been written**
+

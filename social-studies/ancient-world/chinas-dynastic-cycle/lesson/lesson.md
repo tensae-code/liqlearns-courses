@@ -20,6 +20,10 @@ The second idea is the **dynastic cycle**: dynasties **rise, decay and are repla
 
 The teacher's guide for this course sets the sharp question pupils must judge: did the dynastic cycle and the Mandate of Heaven **encourage rebellion** in China? Think it through — if a failing dynasty has visibly lost heaven's mandate, what has a rebel actually done wrong? The idea that explained order could also license its overthrow.
 
+## Sub lesson 3 — Grade 11 depth: China's dynastic cycle in depth — Tang, Song and Ming
+
+The cycle turns at Grade 11 depth: each dynasty rises in founding vigour, flowers in prosperity, decays in corruption and over-taxation, and falls to rebellion — replaced by the next. Through Tang, Song and Ming the wheel carries real cargo: printing and gunpowder's world, porcelain and silk-road and sea trade, and a bureaucracy examined into office — achievements the cycle explains but does not diminish.
+
 ## Say it to your companion
 
 Tell the whole story of China's dynastic cycle back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

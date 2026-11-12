@@ -29,3 +29,6 @@ Villages dot the southern map. Slowly — the Grade 9 word — they draw togethe
 Stone walls climb at Great Zimbabwe; gold starts its walk to the coast.
 
 1450: Rozwi kings raise Mwene Mutapa. And on the grasslands, Khoi-Khoi herds grow.
+
+[Grade 11 depth scene — Great Zimbabwe in depth — stone city, gold trade, Mutapa. The animated map carries the story as the voice speaks.]
+Great Zimbabwe receives its Grade 11 fullness: a stone city raised without mortar by the Shona, centre of a gold trade flowing to Sofala on the coast, its enclosures mapping a court's order in granite. The names to hold: Great Zimbabwe, Sofala.

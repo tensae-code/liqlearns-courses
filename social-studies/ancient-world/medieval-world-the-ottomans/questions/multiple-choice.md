@@ -14,3 +14,9 @@ a) The Balkans whole  b) Gallipoli  c) Italy  d) Spain
 **4.** Murad I (1359–1389) carried the Ottomans into —
 a) China  b) The Balkans  c) Egypt  d) India
 **Answer: b) The Balkans** — From Gallipoli into south-eastern Europe.
+**5. (Grade 11 depth)** What is 1453?
+a) the year of the Ottoman conquest of Constantinople
+b) the Ottoman ruler as both emperor and head of the faith
+c) a detail belonging to a different lesson in this course
+**Answer: a) the year of the Ottoman conquest of Constantinople**
+

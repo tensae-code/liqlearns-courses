@@ -8,6 +8,8 @@ More people on the same land must eat. They can farm the same plots harder, or c
 
 Rural development improves country people's livelihoods — electricity, clean water, roads, education — traditionally through land-intensive agriculture and forestry. Its environmental ledger is agricultural: pesticides, fertility loss, topsoil erosion, desertification, unsustainable water use.
 
+
+[Picture 25304 — two arrows from one crowded village]
 ## Sub lesson 2 — Intensification — harder on the same land
 
 Population pressure works two damaging routes. Intensification — more inputs and cropping on the same land — brings erosion, nutrient imbalance, salination, waterlogging, pest resistance and biodiversity loss.

@@ -34,3 +34,6 @@ The map of Africa blooms with voices — a thousand languages.
 They sort into four great families, colour by colour, coast to coast.
 
 And along the edges, newer tongues arrive by ship and caravan. The map keeps listening.
+
+[Grade 11 depth scene — Africa's languages in depth — the frame of a continent. The animated map carries the story as the voice speaks.]
+The Grade 11 book opens its Africa with this map for a reason: the continent's languages classified — Niger-Congo, the giant; Afro-Asiatic, spanning the north and Ethiopia; Nilo-Saharan; and Khoisan, oldest-sounding of all — and distributed across the land. The names to hold: Niger-Congo, Khoisan.

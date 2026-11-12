@@ -14,3 +14,7 @@ Sub lesson 2 questions from the type files. Pass mark: rank Swahili, Hausa and Y
 
 ## Sub lesson 3 — The Grade 9 survey — over a thousand languages, four super-families
 Sub lesson 3 questions from the type files (the Grade 9 items). Pass mark: retell the Grade 9 part's story and answer its questions without the book open — its names, dates and places all correct.
+
+## Sub lesson 4 — Grade 11 depth: Africa's languages in depth — the frame of a continent
+
+Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Niger-Congo** (Africa's largest language family) and **Khoisan** (the click-language family, among the continent's oldest).

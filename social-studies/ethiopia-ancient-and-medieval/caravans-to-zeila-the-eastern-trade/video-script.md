@@ -9,3 +9,6 @@ South-east, a new light: Zeila, on the Gulf of Aden. Camels load at dawn.
 The camera climbs with them — dust, escarpment, highland air — to Shewa, first state on the road.
 More lights kindle along the branches: Ifat, Dawaro, Bali, Hadya, Adal — beads on a string.
 One road, two worlds, and all the wealth of the Horn walking it. Caravans to Zeila.
+
+[Grade 11 depth scene — Caravans to Zeila in depth — the eastern trade system. The animated map carries the story as the voice speaks.]
+The caravan system gets its Grade 11 workings: the Zeila road and the Dahlak route to the sea; exports of slaves, ivory and gold against imports of cloth, beads and metalwork; markets staged along the escarpment; and currencies and credit knitting Muslim lowland and Christian highland into one trading body, whatever their courts proclaimed.. The names to hold: Dahlak route, escarpment markets.

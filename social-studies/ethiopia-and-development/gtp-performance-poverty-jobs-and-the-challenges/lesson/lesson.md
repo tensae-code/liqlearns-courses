@@ -8,6 +8,8 @@ Poverty falls, incomes double — and inequality edges up while city youth canno
 
 Domestic saving rose from 17.3% to 20.9% of GDP and GDP per capita from $389 to $1,080 (average +10.7% a year). The poverty headcount fell from 29.6% (2009/10) to 23.5% (2014/15) — rural poverty 30.4% to 25.6%, urban 25.7% to 14.8% by 2020.
 
+
+[Picture 25296 — poverty falling while the Gini inches up]
 ## Sub lesson 2 — The other lines — Gini and jobs
 
 The Gini edged up from 0.30 to 0.33 (rural 0.37→0.38, urban 0.27→0.28). Urban unemployment rose from 18% to 18.7%, with youth at 25.7% and urban women at 26.1% against men's 12.2% (2019/20). Investment's GDP share, 38.4% at its 2015/16 peak, fell through political instability and COVID-19 to 30.8%.

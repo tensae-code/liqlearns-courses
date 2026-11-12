@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 3)** Olduvai Gorge is in Tanzania.
 **Answer: True**
+**4. (Sub lesson 4)** True or false: The upright hominid who spread widely from Africa — this is Homo erectus.
+**Answer: True**
+

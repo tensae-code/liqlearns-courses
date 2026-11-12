@@ -13,3 +13,7 @@ Write one sentence stating each theory of origin fairly, without arguing.
 
 ## With a partner
 Tell your companion what archaeology digs up, the two theories in one fair sentence each, the three Homo stages with their marks, and two Ethiopian fossil sites.
+
+## Grade 11 depth — The hominid sequence — Ethiopia's fossils
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

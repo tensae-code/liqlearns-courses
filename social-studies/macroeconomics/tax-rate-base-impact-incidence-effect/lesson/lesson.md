@@ -8,6 +8,8 @@ A shop hands the tax money to the government — but raised its prices last mont
 
 The tax rate is the per-unit or percentage charge. The tax base is the quantity of activity taxed — and high rates shrink the base, by making the taxed activity less attractive. Rate times base gives the revenue, which is why a higher rate can yield less.
 
+
+[Picture 25264 — the tax burden passed like a relay baton]
 ## Sub lesson 2 — Impact and incidence
 
 The impact is the tax's first point of contact — who hands the money over. The incidence is where the burden finally rests, which may be someone else entirely: the shop hands over the tax, the customer bears it in prices. Incidence analysis traces who is really made worse off.

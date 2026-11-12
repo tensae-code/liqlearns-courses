@@ -8,6 +8,8 @@ Anyone can claim to be qualified or creditworthy. What could a person show — o
 
 Screening is the uninformed side's repair: before the deal, it gathers the information itself. A bank examines a borrower's books, accounts and history before lending — the investigation substitutes for the knowledge it lacks.
 
+
+[Picture 25242 — a bank checking a loan file, an applicant showing a certificate]
 ## Sub lesson 2 — Signalling — the informed side shows proof
 
 Signalling is the informed side's repair: it sends a proof that is cheap for the genuine and costly for the fake. A qualified worker shows a certificate — years of study stand behind it, which is exactly what makes it hard to counterfeit.

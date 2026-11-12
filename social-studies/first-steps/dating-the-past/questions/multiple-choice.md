@@ -25,3 +25,9 @@ a) 1 March 1896  b) 2 April 2011  c) 622 AD
 **6. (Sub lesson 2)** Periodisation labels stretches of the past as —
 a) BC and AD  b) ancient, medieval, modern  c) BH and AH
 **Answer: b) ancient, medieval, modern** — The three period labels.
+**7. (Sub lesson 3)** What is periodization?
+a) a detail belonging to a different lesson in this course
+b) a named stretch of the past — ancient, medieval, modern
+c) dividing the past into periods as a historian's tool
+**Answer: c) dividing the past into periods as a historian's tool**
+

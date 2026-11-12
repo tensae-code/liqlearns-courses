@@ -24,6 +24,10 @@ Meroe stayed **Egyptian in language (hieroglyphics) and gods**. In the guide's t
 
 The decline came from the **4th century AD**, by causes inside and outside: inside — **falling farm output, poorer charcoal and iron quality, and spreading desert**; outside — **Aksum's invasion**. The guide keys the end to **about 350 AD, at the hands of King Ezana of Aksum**.
 
+## Sub lesson 3 — Grade 11 depth: Kush in depth — Kerma, Napata, Meroe
+
+The Grade 11 depth gives Kush its full three-capital arc: Kerma, the early southern kingdom; Napata, from which Kush's kings ruled Egypt itself as its 25th Dynasty; and Meroe, the southern retreat that became an iron-working power with pyramids of its own and a script of its own. Kush was never Egypt's shadow that grew — it was a Nile civilisation in its own right, older in its southern roots than its northern fame.
+
 ## Say it to your companion
 
 Tell the whole arc in four steps: Kush named in Egypt's records; Napata strong; five kings on Egypt's throne; the move to Meroe and the long decline. Your companion checks each step against the lesson, then names one internal and one external cause of the end.

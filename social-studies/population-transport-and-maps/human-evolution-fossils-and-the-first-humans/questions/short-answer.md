@@ -7,3 +7,5 @@ Answer in a sentence or two.
 
 **2. (Sub lesson 3)** Name Ethiopia's four keyed fossil sites.
 **Answer:** Omo basin, Melka Kunture, Konso-Gardula, Middle Awash.
+**3. (Sub lesson 4)** In your own words, explain Australopithecus and its place in this lesson's story.
+

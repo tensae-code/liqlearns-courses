@@ -8,6 +8,8 @@ Design the perfect tax system on one poster: what must it be, to be called good?
 
 A good system is simple, financially adequate and elastic; broad-based across income, property and commodities; and administratively efficient. A system failing any of these fails in practice, however elegant its rates.
 
+
+[Picture 25267 — a checklist poster on a revenue-office wall]
 ## Sub lesson 2 — Fair and steady
 
 It should be balanced and harmonious, inequality-reducing, stability-promoting, and consistent with optimum resource allocation — equitable in burden and efficient in effect.

@@ -8,6 +8,8 @@ The finance minister spends. But who decides how much money exists and what borr
 
 Monetary policy is the central bank's management of the money supply and interest rates, aimed at the same macroeconomic objectives as fiscal policy. In Ethiopia the authority is the National Bank of Ethiopia; the Federal Reserve plays the role in the United States.
 
+
+[Picture 25247 — the National Bank with three levers on its desk]
 ## Sub lesson 2 — Indirect, through the banks
 
 Monetary policy works indirectly, through the monetary base and banks' reserve behaviour: the central bank moves the conditions, commercial banks do the lending. That indirection is why its tools — the next lessons — are levers on banks, not orders to citizens.

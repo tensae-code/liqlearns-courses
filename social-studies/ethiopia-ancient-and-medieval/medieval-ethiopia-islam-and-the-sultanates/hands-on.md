@@ -7,3 +7,7 @@ Line up as a caravan: each person carries one 'good' card and one 'news of the f
 
 ## Two gateways map
 Draw the coast with Dahlak islands offshore and Zeila on the mainland. Make Zeila's arrow into the interior thickest — the guide calls it the main gateway.
+
+## Grade 11 depth — Ifat, Adal and the eastern sultanates in depth
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

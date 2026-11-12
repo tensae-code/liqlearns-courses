@@ -23,6 +23,10 @@ The Grade 9 book calls Greece — emerging about **2,500 years ago** — the **b
 The classical and Hellenistic achievements are listed like a treasury: **architecture (the Parthenon)**, the **invention of drama**, **marble and bronze sculpture**, **history-writing** — Herodotus on the Persian Wars, Thucydides' unbiased account of the Peloponnesian War — and **medicine**. Many small cities, one shared culture, and a legacy the world still studies: that is the Grade 9 Greece.
 
 
+## Grade 11 depth — Greece in depth — Athens, Sparta, philosophy and Alexander
+
+The Grade 11 book sets the two Greek templates against each other once more, at full length: Athens, inventing democracy in its assembly; Sparta, organising a whole society as an army — and then Greece's mind outrunning both, in philosophy that asked what justice and truth themselves are. Alexander carries the Greek world east in a generation, and the Hellenistic age spreads its cities, libraries and mixed cultures from Egypt to India.
+
 ## Say it to your companion
 
 Tell your companion what direct democracy means, what Cleisthenes gave Athens, how the council of 500 was chosen, and under whom democracy peaked.

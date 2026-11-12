@@ -14,6 +14,10 @@ The **Oromo** are a **Cushitic-speaking people** whose oral tradition places the
 
 The movement's own dates frame it: it **began under the Melbah Gada in 1522**, surged in the decades after mid-century, **slowed after 1604**, and its campaigns ran on **to 1710 for Innarya**. The teacher guide reframes the same movement as one of **population movements producing interaction and integration** among Ethiopia's peoples — and notes that the **Afar and Somali movements began on almost the same impulse, but earlier than the Oromo movement**. Expansion, in that telling, is not only conquest: peoples met, mixed and remade the land together — though the meetings were often war first, as the next lesson's effects will show.
 
+## Grade 11 depth — The Oromo movement in depth — waves on the gadaa wheel
+
+From the mid-16th century the Oromo expand northward in waves, and the Grade 11 book gives the engine its name: the gadaa generation system, cycling age-sets through rule every eight years, organising expansion as a people's whole undertaking. Region by region the movement transforms the demography and politics of the whole Ethiopian world — the book's major movement story, and the south's answer to the chronicles' kings.
+
 ## Say it to your companion
 
 Tell your companion the Oromo homeland as tradition gives it, the three causes, and the movement's frame dates: began 1522, surged 1550s–1580s, slowed after 1604, to 1710.

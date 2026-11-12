@@ -22,3 +22,9 @@ a) Damot  b) Ifat  c) Adal  d) Dahlak
 a) 1150  b) 1280  c) 1332  d) 1527
 **Answer: b) 1280** — Around 1280 (teacher guide — evidence).
 
+**6. (Grade 11 depth)** What is Makhzumite dynasty?
+a) the sultanate that absorbed Shewa
+b) a detail belonging to a different lesson in this course
+c) the ruling house of the Sultanate of Shewa
+**Answer: c) the ruling house of the Sultanate of Shewa**
+

@@ -19,3 +19,6 @@ Ethiopia is one of the world's great fossil grounds. The keyed Ethiopian Homo er
 The doing-skill of this sub lesson is the archaeologist's own: show the sites on a sketch map — the deep past has an address, and much of it is here.
 
 Tell your companion what archaeology digs up, the two theories in one fair sentence each, the three Homo stages with their marks, and two Ethiopian fossil sites.
+
+[Grade 11 depth scene — The hominid sequence — Ethiopia's fossils. The animated map carries the story as the voice speaks.]
+The Grade 11 sequence runs in order: Australopithecus — Lucy, Dinknesh, Ethiopia's own fossil — then Homo habilis, the handy one; Homo erectus, the upright walker who spread and mastered fire's road; and Homo sapiens, ourselves. The names to hold: Australopithecus, Homo erectus.

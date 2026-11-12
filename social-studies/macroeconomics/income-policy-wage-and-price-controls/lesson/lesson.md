@@ -8,6 +8,8 @@ Fiscal and monetary restraint are slow. Could a government simply order wages an
 
 Income policies are economy-wide wage and price controls, running from voluntary guidelines to mandatory freezes. They attack inflation at the price tag itself, rather than through demand.
 
+
+[Picture 25253 — a wage slip and a price tag under a glass cover]
 ## Sub lesson 2 — When they are used
 
 They are used against inflation when fiscal and monetary restraint fails, or as their complement — a direct brake while the indirect brakes take hold. A freeze that outlives its welcome distorts every price it holds.

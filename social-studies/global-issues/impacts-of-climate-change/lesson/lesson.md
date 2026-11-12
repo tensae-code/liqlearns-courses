@@ -8,6 +8,8 @@ Pass two degrees of warming and the impacts stop adding — they cascade. Sketch
 
 Beyond 2°C of warming the impacts cascade: heat waves, hurricanes, flooding and moisture stress; displaced coastal populations; lost grasslands, farmland and marine ecosystems. In semi-arid regions shorter growing seasons and lower yields deepen food insecurity and malnutrition.
 
+
+[Picture 25308 — a split landscape — drought one side, flood the other]
 ## Sub lesson 2 — Fisheries, reefs and coasts
 
 Fisheries, mangroves and coral reefs degrade — the sea's nurseries failing with its temperatures and acidity. Each lost ecosystem is also a lost livelihood for the people who harvested it sustainably for generations.

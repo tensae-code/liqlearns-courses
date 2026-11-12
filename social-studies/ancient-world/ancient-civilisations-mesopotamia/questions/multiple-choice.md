@@ -20,3 +20,9 @@ a) 500 BC  b) 1500 BC  c) 3500 BC  d) 753 BC
 **6. (Sub lesson 2)** The Assyrians lived in Mesopotamia's —
 a) South-east  b) Centre  c) North  d) Islands
 **Answer: c) North** — Sumer south-east, Akkad centre/north-west, Assyria north.
+**7. (Sub lesson 3)** What is cuneiform?
+a) justice published on stone for all to read
+b) a detail belonging to a different lesson in this course
+c) Mesopotamia's wedge writing, from accounts to law
+**Answer: c) Mesopotamia's wedge writing, from accounts to law**
+

@@ -18,3 +18,9 @@ a) The Christian highland interior  b) The east and south-east: Harar, Wollo, Ba
 a) The Nile  b) The Zeila trade route  c) The Gondar road  d) The Abay river
 **Answer: b) The Zeila trade route** — States grew along the trade route.
 
+**5. (Grade 11 depth)** What is Ifat?
+a) the Red Sea port of the sultanates' trade
+b) a detail belonging to a different lesson in this course
+c) the leading eastern sultanate before Adal
+**Answer: c) the leading eastern sultanate before Adal**
+

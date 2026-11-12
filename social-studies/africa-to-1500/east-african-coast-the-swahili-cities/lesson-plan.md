@@ -65,3 +65,7 @@ plan is the build sheet, so nothing the lesson needs gets forgotten.
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and
 page in lesson/sources.md (the Amhara Grade 7 student book, Chapter 5). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## Grade 11 extension (Wave 4 Band F, placement 46)
+
+Added (Sub lesson 4) — **Central and Eastern Africa in depth — Swahili cities and inland states** (printed pp. 131–134 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Sub lesson 4). Gate pool for the new part: its own questions, as for every sub lesson.

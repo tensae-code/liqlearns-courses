@@ -24,6 +24,10 @@ The **Siltie organised through Sera** — a traditional system of governance. Th
 
 Their economy matched the complex: **mixed agriculture — maize, wheat and spices in the lowlands, enset in the highlands**. Sera was not a king's court; it was a people's own machinery of assembly and law — the same family of self-governing systems this course met among the Cushitic states, here in its Siltie form.
 
+## Sub lesson 4 — Grade 11 depth: Sera-woma states, Gedeo, Konso and Gurage in depth — with the guide's Gurage names
+
+The Grade 11 depth surveys the south's remaining designs: Sidama-area states ordered by the sera-woma system; the Gedeo with their own indigenous government; terraced Konso behind its stone-walled towns; and the Gurage chiefdoms. The teacher guide adds the Gurage systems' own names — evidence the student book does not print: the Yajoka Qicha assembly order and the Gordanna Sera (teacher guide — evidence). Named systems, named peoples: indigenous government as examinable knowledge, not folklore.
+
 ## Say it to your companion
 
 Tell the whole story of Enset peoples back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

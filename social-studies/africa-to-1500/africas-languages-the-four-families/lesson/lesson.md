@@ -38,6 +38,10 @@ The Grade 9 book surveys the whole continent. **Over 1,000 interrelated language
 One caveat rides with the count: **not all languages now spoken in Africa are native to it** — the book names **Arabic, English, French, Spanish and Portuguese** as arrivals. Set this continental frame beside the earlier grades' detail: four great families, a thousand tongues, and a margin of imported languages along the coasts and in the cities.
 
 
+## Sub lesson 4 — Grade 11 depth: Africa's languages in depth — the frame of a continent
+
+The Grade 11 book opens its Africa with this map for a reason: the continent's languages classified — Niger-Congo, the giant; Afro-Asiatic, spanning the north and Ethiopia; Nilo-Saharan; and Khoisan, oldest-sounding of all — and distributed across the land. States, trades and migrations in every following lesson walk on this linguistic ground; the families are the frame, the empires the pictures.
+
 ## Say it to your companion
 
 Name the four families and the island's fifth from memory. Then your companion names a language — Swahili, Hausa, Yoruba, Amharic, Somali, Oromo, Tigrinya — and you say everything this lesson taught about it: its rank, or its family and branch.

@@ -8,3 +8,5 @@ Answer in a sentence or two.
 **2. (Sub lesson 2)** How many Turkish soldiers did the Imam have?
 **Answer:** 900.
 
+**3. (Sub lesson 3)** In your own words, explain Gragn and its place in this lesson's story.
+

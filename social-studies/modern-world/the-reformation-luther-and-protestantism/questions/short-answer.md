@@ -8,3 +8,5 @@ Answer in a sentence or two.
 **2. (Sub lesson 2)** Name the three lands the new faith spread to in this lesson and what formed in each.
 **Answer:** France — Calvinist Protestantism (the Huguenots); England — the Anglican Church; Switzerland — the Swiss Reformed Church.
 
+**3. (Sub lesson 3)** In your own words, explain indulgences and its place in this lesson's story.
+

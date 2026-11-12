@@ -16,6 +16,10 @@ The **evolutionist — scientific — view** was formulated by **Charles Darwin 
 
 The book closes the comparison honestly: the **scientific view dominates scientific thinking**, while **large numbers of people worldwide hold the creationist view**. The two accounts are set side by side for debate — and a good debater can state the other side's account fairly before arguing their own.
 
+## Sub lesson 3 — Grade 11 depth: Two accounts of human origins, side by side
+
+The Grade 11 book sets the two families of explanation side by side and lets them be compared fairly: the creation accounts, held by faith traditions, and the scientific theory of evolution, in which Darwin's natural selection explains how species change across immense time. The classroom rule — confirmed by the teacher guide as evidence — is that pupils weigh the two on the evidence as presented, each account stated in its own strongest form.
+
 ## Say it to your companion
 
 Tell the whole story of Creation and evolution back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

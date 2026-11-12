@@ -22,3 +22,9 @@ a) 1380  b) 1522  c) 1636  d) 1769
 a) 1543  b) 1604  c) 1710  d) 1855
 **Answer: b) 1604** — Slowed after 1604; campaigns ran to 1710 for Innarya.
 
+**6. (Grade 11 depth)** What is gadaa?
+a) a detail belonging to a different lesson in this course
+b) the Oromo generation-grade system organising society and expansion
+c) a generation group moving through gadaa grades together
+**Answer: b) the Oromo generation-grade system organising society and expansion**
+

@@ -27,6 +27,10 @@ The Grade 9 book widens this lesson's frame. Southern states formed **more slowl
 After **1450** the **Rozwi clan kings** founded the **Mwene Mutapa empire**, later **conquered by the Portuguese in the late 16th century**. And beside the stone cities, the **Khoi-Khoi** shifted about **1000 AD from hunting to sheep and cattle herding**, expanding from about **1300** — the pastoral thread of the same southern story.
 
 
+## Sub lesson 4 — Grade 11 depth: Great Zimbabwe in depth — stone city, gold trade, Mutapa
+
+Great Zimbabwe receives its Grade 11 fullness: a stone city raised without mortar by the Shona, centre of a gold trade flowing to Sofala on the coast, its enclosures mapping a court's order in granite. After it, the Mutapa state carries the region's kingship and trade forward. No outside builders are needed in this telling — the stones, the gold and the cattle explain themselves.
+
 ## Say it to your companion
 
 Explain the name first — what Zimbabwe means, in whose language. Then give the wall's height and dates, what the enclosure symbolised, and the successor's name and title. Your companion repeats the chain back without looking.

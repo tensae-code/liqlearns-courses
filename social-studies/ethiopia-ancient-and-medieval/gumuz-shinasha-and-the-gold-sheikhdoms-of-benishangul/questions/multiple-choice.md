@@ -25,3 +25,9 @@ a) Portuguese sailors  b) Arabic-speaking merchants  c) Roman legions
 **6. (Sub lesson 2)** Egypt in the 1820s and the Mahdists in the 1880s targeted the region for its —
 a) coffee  b) gold  c) ivory only
 **Answer: b) gold** — Gold drew empires; the sheikhdoms defended their independence.
+**7. (Sub lesson 3)** What is sheikhdoms?
+a) the local rulers of the far-western river peoples
+b) a detail belonging to a different lesson in this course
+c) the small Muslim-ruled states of Benishangul-Gumuz
+**Answer: c) the small Muslim-ruled states of Benishangul-Gumuz**
+

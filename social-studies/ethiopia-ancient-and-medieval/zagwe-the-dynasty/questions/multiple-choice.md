@@ -18,3 +18,9 @@ a) Fought in the Crusades  b) Held land through peaceful relations  c) Built a s
 a) Adulis only  b) Dahlak, Zeila and the Gulf of Aden  c) Mitsiwa only  d) The Nile
 **Answer: b) Dahlak, Zeila and the Gulf of Aden** — Those were its sea outlets.
 
+**5. (Grade 11 depth)** What is Zagwe?
+a) the Zagwe homeland and seat in the northern highlands
+b) the Agaw dynasty ruling from Lasta after Aksum
+c) a detail belonging to a different lesson in this course
+**Answer: b) the Agaw dynasty ruling from Lasta after Aksum**
+

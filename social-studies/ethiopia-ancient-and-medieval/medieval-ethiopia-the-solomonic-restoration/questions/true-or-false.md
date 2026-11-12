@@ -11,3 +11,6 @@ Say whether each statement is true or false.
 **3.** Amba Geshen was a trading port.
 **Answer: False** — It was a guarded mountain confinement for royal descendants.
 
+**4. (Grade 11 depth)** True or false: The Glory of Kings — the dynasty's legitimating tradition — this is Kebra Nagast.
+**Answer: True**
+

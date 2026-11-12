@@ -2,6 +2,8 @@
 
 countries: Ethiopia
 
+**Book (Grade 11 depth):** *History, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published August 2023 under GEQIP-E, ISBN: 978-99990-0-066-6. Printed page = PDF page − 7. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g11-student-placements.md
+
 **Book 1:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (2014 E.C.), 142 printed pp. Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (Unit 6, placement 23). Teacher evidence only — no student-book counterpart exists for this lesson.
 
 | Lesson part | Where it comes from |
@@ -9,6 +11,8 @@ countries: Ethiopia
 | The oldest sultanate (teacher guide — evidence) (teacher guide — evidence) | Teacher guide, Unit 6, §6.2 — Guide printed pp. 87–91 (teacher evidence only — no student-book pages) |
 | Shewa's place on the wider map (teacher guide — evidence) (teacher guide — evidence) | Teacher guide, Unit 6, §6.2 — Guide printed pp. 87–91 (teacher evidence only — no student-book pages) |
 | Whole lesson (teacher guide — evidence) | Guide Unit 6, §6.2, printed pp. 87–91 |
+
+| Grade 11 depth — The Sultanate of Shewa in depth | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 66–67 |
 
 **Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
 

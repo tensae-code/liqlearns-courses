@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** Ali ibn Dawd founded Harar's later Emirate.
 **Answer: True** — The city's second political life.
+**4. (Sub lesson 3)** True or false: The sea trade Harar linked to the interior — this is Gulf of Aden trade.
+**Answer: True**
+

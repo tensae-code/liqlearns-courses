@@ -37,6 +37,9 @@ The remedies match the problems one by one. Register carefully the services arou
 
 In developing countries, measured GDP misses much of what the economy produces. Subsistence output never reaches a market; producers underreport for fear of tax; a large non-monetary sector exchanges without money; administered prices distort values; and the costs of pollution are never deducted. The book contrasts this with economies like Sweden's and the Netherlands', where nearly all output is marketed and recorded.
 
+
+[Picture 25233 — only the market part of output is counted]
+
 ## Say it to your companion
 
 Explain what gdp misses to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

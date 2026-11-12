@@ -10,3 +10,9 @@ Answer in one or two sentences.
 
 **3. (Sub lesson 2)** What two lenses does the book apply to each southern state?
 **Answer:** Its political order and its socio-economic order, as the Christian kingdom pressed to bring it under its rule.
+**4. (Sub lesson 3)** In your own words, explain Damot and its place in this lesson's story.
+
+**5. (Sub lesson 4)** In your own words, explain Ennarya and its place in this lesson's story.
+
+**6. (Sub lesson 5)** In your own words, explain tato and its place in this lesson's story.
+

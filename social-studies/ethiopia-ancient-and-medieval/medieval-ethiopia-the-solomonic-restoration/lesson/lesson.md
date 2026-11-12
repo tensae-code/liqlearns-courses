@@ -18,6 +18,10 @@ Then the machine jammed: after Yagbe'a Tsion, **five sons reigned in five years 
 
 The Grade 9 teacher guide's Solomonic overview adds the framing this lesson now carries. In this period Christianity expanded further south and the church–state relationship became very strong, almost reaching its peak — "that is why it was called Christian Kingdom". The guide also records the gult right's long life: it lasted in Ethiopian history until the 20th century. And it names the fact the Gondar lesson later turns on: the medieval kings of Ethiopia had no fixed capital city. The court itself moved — a royal camp-city of tents and pavilions, consuming a region's surplus and moving on — government as a travelling city, which is why Fasilides' founding of Gondar in 1636, in the Gondar lessons, is a revolution in itself.
 
+## Grade 11 depth — 1270 in depth — Yekuno Amlak and the Kebra Nagast
+
+The Grade 11 telling slows at the founding moment: in 1270 Yekuno Amlak restores the line that claimed descent from Solomon, and the Kebra Nagast — the Glory of Kings — supplies the claim's charter, binding Ethiopia's dynasty to Solomon and the Queen of Sheba in sacred story. Restoration and legend arrive together, each doing work: one takes the throne, the other makes taking it righteous for six centuries of successors.
+
 ## Say it to your companion
 
 Tell your companion why the name 'Solomonic restoration' was chosen, the first two reigns with their dates, and what was done on Amba Geshen to end the succession struggle.

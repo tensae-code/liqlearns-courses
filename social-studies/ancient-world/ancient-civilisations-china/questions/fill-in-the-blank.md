@@ -8,3 +8,6 @@ Fill each blank with the right word or number.
 **Answer: Shang**
 **3.** Shih Huang-ti ruled the ____ dynasty.
 **Answer: Qin**
+**4. (Grade 11 depth)** The term for 'the inscribed bones of Shang divination, writing's ancestors' is ______.
+**Answer: oracle bones**
+

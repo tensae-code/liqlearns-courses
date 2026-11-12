@@ -11,6 +11,8 @@ countries: Ethiopia
 | Birth in Arabia; the caliphates; the great expansion | Ethiopia, *History, Student Textbook, Grade 11*, Unit 4 — printed pp. 87–95 |
 | How Islam spread — four channels (teacher guide — evidence) | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 4 — printed p. 75 (teacher guide — evidence) |
 
+| Sub lesson 3 — Grade 11 depth: The rise and expansion of Islam in depth | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 87–95 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The four-channels formulation stands in the Grade 9 teacher guide only (printed p. 75) and is stocked as labelled evidence; it is never counted as pupil-taught. No book error is flagged for the student-book part of this lesson.

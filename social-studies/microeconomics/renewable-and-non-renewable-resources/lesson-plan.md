@@ -33,6 +33,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 1. **Do it first** — the learner does the opening task in lesson/lesson.md before any explanation.
 2. **The explanation** — lesson/lesson.md, with these slots at their exact places:
    - ADD IMAGE [Picture 24023]: a picture of a tree regrowing beside a coal seam being emptied, the seam not refilling — the student studies it and answers the lesson's question about it at that place.
+   - ADD IMAGE [Picture 25303]: a picture of a forest with a regrows-if-cut-slowly gauge beside an oil well with a once-only gauge — the student studies it and answers the lesson's question about it at that place.
    - ADD AUDIO: a voice reading the lesson's key words and figures aloud — the student listens and repeats them. (Described slot only; no audio file is made in this build.)
 3. **Say it to your companion** — lesson/lesson.md.
 4. **Renewable, yet exhaustible — ecosystems and resilience**
@@ -43,6 +44,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 
 ## Add-ons for this lesson (the full list)
 - IMAGE [Picture 24023] — a tree regrowing beside a coal seam being emptied, the seam not refilling
+- IMAGE [Picture 25303] — a forest with a regrows-if-cut-slowly gauge beside an oil well with a once-only gauge → the student studies it at its place in the lesson.
 - AUDIO — the lesson's key words and figures read aloud → the student listens and repeats. (Described slot only.)
 - VIDEO — the video-script filmed (made later) → the student watches and follows the walk-through.
 

@@ -41,3 +41,9 @@ a) iron-working  b) Islamic learning and culture  c) shipbuilding
 **10. (Sub lesson 4)** Mansa Musa's famous journey was —
 a) a war on Ghana  b) a pilgrimage to Mecca  c) a voyage to India
 **Answer: b) a pilgrimage to Mecca** — The Hajj that announced Mali's wealth.
+**11. (Sub lesson 5)** What is Mansa Musa?
+a) Mali's emperor whose pilgrimage displayed its wealth
+b) a detail belonging to a different lesson in this course
+c) Mali's city of scholarship and trade
+**Answer: a) Mali's emperor whose pilgrimage displayed its wealth**
+

@@ -21,3 +21,9 @@ a) Knowledge  b) Upright walking  c) Tool-making  d) Long arms
 **5. (Sub lesson 3)** Which is an Ethiopian fossil site?
 a) Olduvai Gorge  b) Lake Turkana  c) Greenwich  d) Middle Awash
 **Answer: d) Middle Awash**
+**6. (Sub lesson 4)** What is Australopithecus?
+a) the upright hominid who spread widely from Africa
+b) the early hominid line of Lucy (Dinknesh)
+c) a detail belonging to a different lesson in this course
+**Answer: b) the early hominid line of Lucy (Dinknesh)**
+

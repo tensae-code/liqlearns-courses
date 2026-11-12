@@ -19,3 +19,6 @@ Say whether each sentence is true or false.
 
 **6. (Sub lesson 3)** Every language spoken in Africa today originated in Africa.
 **Answer: False** — The book names five arrivals.
+**7. (Sub lesson 4)** True or false: The click-language family, among the continent's oldest — this is Khoisan.
+**Answer: True**
+

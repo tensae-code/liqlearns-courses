@@ -8,6 +8,8 @@ A new regime nationalises the land, fixes grain prices below market and orders f
 
 The Derg nationalised rural land and productive assets, abolished tenancy, put commercial farms under state control, pushed collectivisation through resettlement and villagisation, held an overvalued currency, and let the Agricultural Marketing Corporation fix grain prices below market with compulsory quotas.
 
+
+[Picture 25290 — a state farm and a grain-quota point, four phases below]
 ## Sub lesson 2 — Phases one and two — dislocation, then recovery
 
 1974–78 brought dislocation: GDP +0.4% a year under nationalisation, instability and military spending. 1978–80 brought recovery under the Zemecha campaign: GDP +5.7%, manufacturing +18.9%. The system's best years came early and briefly.

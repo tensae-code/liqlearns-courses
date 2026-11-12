@@ -7,3 +7,7 @@ Draw a plan of a small royal compound: palace, two churchmen's houses, a church.
 
 ## Craft hands
 Try one Bete Israel craft in miniature: coil a small clay pot, weave a paper basket strip, or shape a foil ornament. Say which Gondar craft you are honouring.
+
+## Grade 11 depth — The Gondarine Period in depth, 1636–1769
+
+Re-draw this lesson's map or table with the Grade 11 part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** The region's gold fame reaches back to the days of Punt.
 **Answer: True** — Known since Punt; 'silent commerce' is its old association.
+**4. (Sub lesson 3)** True or false: The local rulers of the far-western river peoples — this is Gambella chiefs.
+**Answer: True**
+

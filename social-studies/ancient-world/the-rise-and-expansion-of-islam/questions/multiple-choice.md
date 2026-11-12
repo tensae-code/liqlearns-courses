@@ -29,3 +29,9 @@ a) a  b) )  c)    d) N  e) o  f) w  g) h  h) e  i) r  j) e  k)    l) b  m) )  n)
 **7. (Sub lesson 1) ** Islamic civilisation's scholarship advanced fields including —
 a) Mathematics, medicine, astronomy, philosophy  b) None  c) Only poetry  d) Naval gunnery only
 **Answer: a) Mathematics, medicine, astronomy, philosophy** — preserved and advanced, in the book's honouring.
+**8. (Sub lesson 3)** What is caliphates?
+a) the successor states that carried Islam's expansion
+b) the reach of early Islam from Arabia to Spain
+c) a detail belonging to a different lesson in this course
+**Answer: a) the successor states that carried Islam's expansion**
+

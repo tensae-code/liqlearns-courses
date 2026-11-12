@@ -25,3 +25,21 @@ a) one kingdom  b) chiefdoms  c) a sultanate
 **6. (Sub lesson 2)** The Christian kingdom pressed these states to —
 a) leave Ethiopia  b) come under its rule  c) stop trading
 **Answer: b) come under its rule** — Each state is examined under that pressure.
+**7. (Sub lesson 3)** What is Damot?
+a) the wealthy kingdom south of the Abbay, rich in gold
+b) the Blue Nile, Damot's northern boundary river
+c) a detail belonging to a different lesson in this course
+**Answer: a) the wealthy kingdom south of the Abbay, rich in gold**
+
+**8. (Sub lesson 4)** What is Ennarya?
+a) a detail belonging to a different lesson in this course
+b) the western peoples bordering the highland kingdom
+c) the wealthy southern state of the gold trade
+**Answer: c) the wealthy southern state of the gold trade**
+
+**9. (Sub lesson 5)** What is tato?
+a) the forest kingdom of coffee, type case of the tato states
+b) the sacral royal title and system of Kafa and neighbours
+c) a detail belonging to a different lesson in this course
+**Answer: b) the sacral royal title and system of Kafa and neighbours**
+

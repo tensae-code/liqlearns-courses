@@ -52,3 +52,11 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 ## Teacher-guide extension (Ethiopia Wave 4, 2026-11-12)
 
 A third sub lesson was added from the Teacher's Guide (printed p. 20, labelled evidence): the six marks of a civilisation and the priest-to-chief theory of state origin — see lesson/lesson.md and lesson/sources.md.
+
+## Grade 11 extension (Wave 4 Band F, placement 11)
+
+Added (Sub lesson 4) — **Tools, fire and the long stone ages** (printed pp. 15–17 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Sub lesson 4). Gate pool for the new part: its own questions, as for every sub lesson.
+
+## Grade 11 extension (Wave 4 Band F, placement 12)
+
+Added (Sub lesson 5) — **Farming, surplus and the emergence of the state** (printed pp. 15–21 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Sub lesson 5). Gate pool for the new part: its own questions, as for every sub lesson.

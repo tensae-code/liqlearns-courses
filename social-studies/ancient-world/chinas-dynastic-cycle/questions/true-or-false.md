@@ -10,3 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** The scholar-officials were Confucian — educated in the classics.
 **Answer: True** — Highly educated Confucian scholar-officials.
+**4. (Sub lesson 3)** True or false: Rule by examined officials, a Chinese achievement of the cycle years — this is bureaucracy.
+**Answer: True**
+

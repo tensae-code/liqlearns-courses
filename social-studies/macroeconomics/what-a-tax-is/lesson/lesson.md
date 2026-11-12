@@ -8,6 +8,8 @@ You pay for bread and receive bread. You pay tax and receive... what, exactly, i
 
 The OECD definition the book adopts: taxes are compulsory, unrequited payments to general government. Compulsory, because law — constitutions, proclamations, regulations — imposes them, not choice. Unrequited, because no direct benefit in proportion to payment is owed back: there is no quid pro quo.
 
+
+[Picture 25263 — paying at a revenue window, nothing handed back]
 ## Sub lesson 2 — The government's main revenue
 
 Taxation typically supplies 90% or more of government receipts in peacetime, ahead of borrowing, fees and money-printing. The book's summary is blunt: without tax there will be no revenue, and hence no government.
