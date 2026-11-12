@@ -17,3 +17,11 @@ a) A force twists when it acts off-centre: torque grows with the force and with 
 **4. (Sub lesson 2) ______ is the rate of doing work (watts), applied to machines and people in worked examples.**
 a) rectification  b) power  c) displacement
 **Answer: b) power**
+
+**5.** Two pupils of nearly equal mass carry out the same upstairs climb; one takes half the time. Compared with the slower pupil, the faster one's power is…
+a) Half  b) The same  c) Double — same work in half the time  d) Zero
+**Answer: c) Double — same work in half the time**
+
+**6.** In the guide's waterfall/dam example, what does the power plant's output measure?
+a) The height of the dam only  b) The rate at which the falling water's potential energy is delivered  c) The volume of the reservoir only  d) The speed of the river before the dam
+**Answer: b) The rate at which the falling water's potential energy is delivered**

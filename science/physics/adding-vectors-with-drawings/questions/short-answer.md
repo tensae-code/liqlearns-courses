@@ -25,3 +25,9 @@ Answer in a few words.
 
 **8. What does this lesson say about graphical addition? Give one point.**
 **Answer: Vectors are added head-to-tail (triangle rule), by the parallelogram rule for two vectors at a point, and by the polygon method for several; a scale diagram converts measured lengths and angles back into a resultant — the brainstorming questions drill why a scale is needed and how a vector differs from its negative.**
+
+**9.** What do the words orthogonal and non-coplanar mean for vectors?
+**Answer: Orthogonal vectors are at right angles to each other; non-coplanar vectors do not lie in one flat plane.**
+
+**10.** In the farmer-and-plough activity, what are you asked to do with the forces on the plough?
+**Answer: Name the forces acting (the pull, the soil pushing back, weight and the ground's support) and show how they add so the plough digs, breaks and turns the soil.**
