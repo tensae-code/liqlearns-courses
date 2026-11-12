@@ -928,3 +928,31 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 9186 | pictures/9186.gif | red and yellow paint stirred into orange | Performing and Visual Arts — Mixing Colours |
 | 9187 | pictures/9187.gif | shapes sliding together into a house | Performing and Visual Arts — Shapes You Can Draw |
 | 9188 | pictures/9188.gif | a pencil shading a cylinder from light to dark | Performing and Visual Arts — Shapes You Can Draw |
+| 9300 | pictures/9300.webp | metal tools: knife, sickle, pointed tool, hoe blade | Performing and Visual Arts — Crafts Around Us |
+| 9301 | pictures/9301.webp | a black dist with lid and a red jebena | Performing and Visual Arts — Crafts Around Us |
+| 9302 | pictures/9302.webp | a lidded mesob and a patterned sefed tray | Performing and Visual Arts — Crafts Around Us |
+| 9303 | pictures/9303.webp | a silver necklace, agelgil, barchuma stool | Performing and Visual Arts — Crafts Around Us |
+| 9304 | pictures/9304.webp | clay steps: lump, kneading, coil, shaped pot | Performing and Visual Arts — Making with Clay and Paper |
+| 9305 | pictures/9305.webp | cut, fold and paste a paper picture | Performing and Visual Arts — Making with Clay and Paper |
+| 9306 | pictures/9306.webp | houses and pots of our area | Performing and Visual Arts — Making with Clay and Paper |
+| 9307 | pictures/9307.webp | palm steps: unpainted palm, painted palm, finished print | Performing and Visual Arts — Printing |
+| 9308 | pictures/9308.webp | a painted leaf and its veined print | Performing and Visual Arts — Printing |
+| 9309 | pictures/9309.webp | found things that print: bottle cap, flower, shoe, and their prints | Performing and Visual Arts — Printing |
+| 9310 | pictures/9310.webp | a carved block and its mirror print | Performing and Visual Arts — Printing |
+| 9311 | pictures/9311.webp | a cut star stencil and its printed star | Performing and Visual Arts — Printing |
+| 9312 | pictures/9312.webp | an old-style painting beside a colourful painting of today | Performing and Visual Arts — Painting Then and Now |
+| 9313 | pictures/9313.webp | a free-standing figure beside a relief panel | Performing and Visual Arts — Sculpture and Historic Places |
+| 9314 | pictures/9314.webp | the line kinds, and fidel built from lines | Performing and Visual Arts — Beautiful Writing |
+| 9315 | pictures/9315.webp | ሀ single and double; A single and double; small a | Performing and Visual Arts — Beautiful Writing |
+| 9316 | pictures/9316.webp | the wide falls and a runner on a stadium track | Performing and Visual Arts — Photographs |
+| 9317 | pictures/9317.webp | a rock-hewn church cross, stele, castle | Performing and Visual Arts — Sculpture and Historic Places |
+| 9318 | pictures/9318.webp | one scene in horizontal and vertical frames | Performing and Visual Arts — Photography |
+| 9319 | pictures/9319.webp | two message photographs: reading together; work shared equally | Performing and Visual Arts — Photography |
+| 9320 | pictures/9320.webp | the three pottery families: earthen, stone, ceramic | Performing and Visual Arts — Crafts Around Us |
+| 9330 | pictures/9330.webp | a crafts market stall | Performing and Visual Arts — Crafts Around Us |
+| 9340 | pictures/9340.gif | paint the palm, press flat, lift straight up: the print revealed | Performing and Visual Arts — Printing |
+| 9341 | pictures/9341.gif | paint the leaf, press, lift: the veined print revealed | Performing and Visual Arts — Printing |
+| 9342 | pictures/9342.gif | knead clay, roll a ball, shape a pot | Performing and Visual Arts — Making with Clay and Paper |
+| 9343 | pictures/9343.gif | one fidel written single, then outlined double | Performing and Visual Arts — Beautiful Writing |
+| 9344 | pictures/9344.gif | camera raised, scene framed, shutter, the photograph appears | Performing and Visual Arts — Photography |
+| 9345 | pictures/9345.gif | dab colour through a stencil, lift: the print revealed | Performing and Visual Arts — Printing |

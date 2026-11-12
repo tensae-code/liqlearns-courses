@@ -66,8 +66,15 @@ lessons are the books'.
   Colours; Green Around Us; Colours Around Us; Colours on
   Clothes), 152 questions, 38 media filed (pictures/GIFs
   9150–9178, 9180–9188, all drawn and frame-checked).
-- Remaining groups (Visual Art — Making; Music — Listening +
-  Songs; and the upper-grade depth the read placed beyond the
-  first map — upper-grade music, drama, drawing) are being built
-  and registered here as they land. See ABOUT.md for the full book
-  list and the acceptance reckoning.
+- **Visual Art — Making — BUILT 2026-11-12:** all 8 lessons
+  (Crafts Around Us; Making with Clay and Paper; Printing;
+  Painting Then and Now; Sculpture and Historic Places; Beautiful
+  Writing; Photographs; Photography), 136 questions, 28 media
+  filed (pictures/GIFs 9300–9320, 9330, 9340–9345, frame-checked:
+  palm printing, leaf printing, clay shaping, stencil printing).
+  G7/G8 teacher-guide printmaking stocked as labelled evidence.
+- Remaining groups (Music — Listening + Songs; and the
+  upper-grade depth the read placed beyond the first map —
+  upper-grade music, drama, drawing and making) are being built
+  and registered here as they land. See ABOUT.md for the full
+  book list and the acceptance reckoning.
