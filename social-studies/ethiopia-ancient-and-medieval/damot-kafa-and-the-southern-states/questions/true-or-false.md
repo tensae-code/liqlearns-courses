@@ -18,4 +18,6 @@ Say whether each statement is true or false.
 
 **6. (Sub lesson 5)** True or false: The forest kingdom of coffee, type case of the tato states — this is Kafa.
 **Answer: True**
+**7. (Sub lesson 6)** True or false: Kafa was ruled from the Christian highland state.
+**Answer: False — Kafa was influenced by it but independent of it.**
 

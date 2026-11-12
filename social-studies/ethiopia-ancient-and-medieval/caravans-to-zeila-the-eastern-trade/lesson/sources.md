@@ -6,6 +6,7 @@ countries: Ethiopia
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Refuge first, then the Zeila road: Islam reached Ethiopia peacefully, first as refuge (early Muslims received by the Aksumite king; the Prophet said to have exempted Ethiopia from jihad); after Adulis declined, Islam entered the interior along trade routes from Zeila, forming sultanates (Shewa earliest), spreading to Harar, Shewa, Wollo and the south-central regions | Ethiopia, *History, Student Textbook, Grade 9*, Unit 3, printed pp. 48–50 |
@@ -13,6 +14,7 @@ countries: Ethiopia
 | Sub lesson 3 — The Muslim principalities: a chain of sultanates along the long-distance trade routes, above all the Zeila road — Ifat, Fatigar, Dawaro, Dara, Bali, Hadya, Arababini, Sharka and Adal; their existence, like the Christian kingdom's, turned on controlling trade | Ethiopia, *History, Student Textbook, Grade 9*, Unit 7 introduction and §7 survey, printed p. 123 (and unit introduction, printed p. 119) |
 
 | Sub lesson 4 — Grade 11 depth: Caravans to Zeila in depth — the eastern trade system | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 182–183 |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

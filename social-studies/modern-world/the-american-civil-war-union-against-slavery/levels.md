@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: Explain that eleven south
 
 ## Sub lesson 2 — War, and slavery ends
 Sub lesson 2 questions from the type files. Pass mark: State that Lincoln and the North opposed secession, the war ran 1861–65, and it ended with the Confederacy's defeat and the abolition of slavery in the USA.
+
+## Sub lesson 3 — Grade 12 guide depth — The war's weight: 620,000 — pass mark
+The learner can retell this part in the story's order and answer its gate-pool questions (the part's own questions in questions/).

@@ -470,6 +470,51 @@ stocked by Band B). History is complete: 416 placements,
 Bands A–F. Build log: ethiopia-2026-11-11/build-logs/
 wave4-hist-F-g11-remainder.md.
 
+**Correction (coverage audit + fix, 2026-11-12):** the
+closure claim above did NOT survive the independent
+placement-by-placement audit: only 264 of 416 placements
+stood with their own book cited at their own pages — the
+Grade 12 student book had been built only for Units 6, 8
+and 9 (33 placements taught from other grades' books with
+no Grade 12 citation, 19 absent), Grade 9 Units 4, 6 and 9
+were standing on later books' tellings (41 mismatches),
+the guides' pedagogy layer was largely unfiled, and the
+Grade 12 unit review sets had been excluded rather than
+folded. The fix build closed all of it: 74 citation
+mismatches repaired with each book's own rows at its own
+pages (plus the missing G9/G12-distinct content taught —
+the Balkan Wars, Suez 1956 and the 1979 Iranian
+revolution, the welfare-state/IMF strand, the
+one-party/coup pattern, the Marxian foundations), 78
+not-stocked items built or filed (7 new lessons — Persia,
+North Africa's caliphates, Kanem-Bornu and the Hausa
+states, the Trans-Saharan trade, Moggasa and Guddifacha,
+egalitarian systems, the world after 1945 — new parts for
+the Inca, indigenous religions, settlement patterns, Kafa
+and Yem; the nine Grade 12 review sets folded into
+prove-it questions; the guides' pedagogy and the books'
+own shapes filed with substance in ABOUT.md). History now
+stands verified at 416 of 416 placements. Build log:
+ethiopia-2026-11-11/build-logs/fix-history.md.
+
+**Geography correction (same audit + fix, 2026-11-12):**
+the audit found 43 placements not stocked and 3 citation
+mismatches under the Geography closure record — the Grade
+9 and old Grade 12 guides' apparatus had been asserted in
+ABOUT.md without content, and five Grade 10 student
+placements had fallen between bands. The fix filed the
+apparatus with substance (ABOUT.md + a teaching-pattern/
+answer-key evidence row in 116 lessons), built four new
+lessons for the Grade 10 hole, extended three more, and
+repaired the three mismatches (optimum population's own
+pages 162–164 now cited and its indications itemised).
+Geography now stands verified at 459 of 459, with one
+named limit: the Grade 9 and Grade 10 guides' Reference
+shelves are filed at the depth the placements record —
+the placements name no individual titles, so none were
+invented. Build log:
+ethiopia-2026-11-11/build-logs/fix-geography.md.
+
 - **Band A — Grade 9 + guide** (93 lessons, 1,116 questions;
   pictures 24000–24092, GIFs 24100–24112): the four Economics
   titles open with the Grade 9 book — what economics is,

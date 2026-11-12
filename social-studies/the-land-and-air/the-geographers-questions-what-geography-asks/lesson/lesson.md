@@ -18,6 +18,12 @@ Geography holds a nature side and a people side together. Its content concepts, 
 
 The guide lists the key questions: What is it? Where is it? How did it come to be? How does it relate to what affects it? How is it part of a functioning whole? Why do patterns develop? How does its location affect people's lives? Behind them run the recurring concepts of all Grade 11 inquiry: location, place, relationships and interdependence, movement, regions, cultural understanding and diversity, and scale (teacher guide — evidence).
 
+## Sub lesson 4 — The Grade 12 version — six questions for the final year
+
+The Grade 12 student book asks the geographer's questions in its own way — six questions, asked of any physical or cultural phenomenon: **What is it? Where is it? How did it come to be what and where it is? How does it relate to other realities? How is it part of a functioning whole? How does its location affect people's lives?**
+
+The book presents these enquiry questions as geography's core contribution to **21st-century skills**, and organises its contents under the fundamental themes of physical aspects, human–environment interaction, contemporary issues, and enquiry with map making, using argument and evidence from daily life. Compare the two versions: the Grade 11 guide's list above has seven questions — it adds "Why do patterns develop?" — while the Grade 12 student book's own list has six. Both are kept, labelled, exactly as their books give them.
+
 ## Say it to your companion
 
 Explain the geographer's questions — what geography asks to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

@@ -68,3 +68,7 @@ page in lesson/sources.md (the Amhara Grade 7 student book, Chapter 5). A teache
 ## Grade 9 extension (Ethiopia Wave 4, 2026-11-12)
 
 A further part was added from Ethiopia's *History, Grade 9* book: **The Grade 9 book's Ghana — trade, taxed** — see lesson/lesson.md for the part and lesson/sources.md for its book and printed pages.
+
+## History fix (2026-11-12)
+
+Provenance completed for placement(s) #49 — the placement's own book now stands as a Book entry in lesson/sources.md with per-part provenance rows at its exact printed pages (History fix section). The content already stood taught in this lesson; no lesson text changed for these items.

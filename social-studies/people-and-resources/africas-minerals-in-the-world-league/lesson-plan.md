@@ -10,6 +10,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 ## Sub lessons
 1. **Reading the league table — who produces what** — Africa's weight in world minerals.
 2. **Tantalum, bauxite, iron ore — and Ethiopia in the table** — The wider mineral cast.
+3. **Why mineral wealth doesn't reach people** — The problems of mineral utilisation (Grade 10 student placement 26).
+4. **Where the world's great resources lie (teacher guide — evidence)** — The MLC Unit 3 extension.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -29,6 +31,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 2. **The explanation** — lesson/lesson.md, with these slots at their exact places:
    - ADD IMAGE [Picture 21319]: a picture of a map of Africa with mineral symbols and the league-table leaders flagged — South Africa's three, tantalum with Ethiopia, bauxite and iron ore — the student finds each flagged mineral and names its producing country.
    - ADD AUDIO: a voice reading the lesson's key words and figures aloud — the student listens and repeats them. (Described slot only; no audio file is made in this build.)
+   - ADD IMAGE [Picture 36002]: a picture of a mine beside an unpaved village road — the student names the gap the picture shows between producing wealth and benefiting from it.
 3. **Say it to your companion** — lesson/lesson.md.
    - ADD VIDEO: the script in video-script.md, filmed (made later, when videos are made).
 4. **Questions** — from questions/, served at the learner's level (levels.md).

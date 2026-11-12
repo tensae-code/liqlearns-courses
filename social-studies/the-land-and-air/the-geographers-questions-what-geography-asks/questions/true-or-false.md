@@ -10,3 +10,6 @@ Say True or False, and why.
 
 **3. (Sub lesson 3)** Scale is a recurring concept of Grade 11 inquiry.
 **Answer: True**
+
+**5. (Sub lesson 4)** The Grade 12 student book's question list is identical to the Grade 11 guide's list. True or false?
+**Answer: False** — the Grade 12 book lists six questions; the guide's version has seven, adding "Why do patterns develop?".

@@ -13,3 +13,6 @@ This is Zemene Mesafint, to 1855.
 
 [Grade 11 depth scene — Zemene Mesafint in depth, 1769–1855. The animated map carries the story as the voice speaks.]
 The Era of the Princes receives the Grade 11 system: emperors at Gondar reduced to puppets, crowned and discarded by the warlords who truly rule — Ras Mikael Sehul first among them, then the Yejju lords and their rivals, region by region. The names to hold: Ras Mikael Sehul, Yejju lords.
+
+[Grade 9 depth — The Yejju dynasty, the dynasty behind the throne — added scene. The animated map carries the story as the voice speaks.]
+Tell this part as story, in the lesson's own order, in the super-simple voice: who acted, what they wanted, and what changed because of it.

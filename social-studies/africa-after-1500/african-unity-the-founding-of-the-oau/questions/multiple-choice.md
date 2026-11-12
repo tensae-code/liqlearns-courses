@@ -37,3 +37,15 @@ a) European delegates dominating  b) African delegates dominating for the first 
 **9. (Sub lesson 4) ** The OAU was in time replaced by —
 a) The League  b) The African Union  c) NAM  d) The UN
 **Answer: b) The African Union** — the succession the founding lesson traces.
+**10. (Unit 7 review — Grade 12)** Unit 7 review: The 'Year of Africa' was —
+a) 1957  b) 1960  c) 1963  d) 2002
+**Answer: b) 1960 — The independence wave crested in 1960.**
+
+**11. (Unit 7 review — Grade 12)** Unit 7 review: The OAU was founded in —
+a) Accra  b) Addis Ababa  c) Cairo  d) Lagos
+**Answer: b) Addis Ababa — 1963, in Ethiopia's capital.**
+
+**12. (Unit 7 review — Grade 12)** Unit 7 review: The OAU was replaced by the African Union in —
+a) 1991  b) 1999  c) 2002  d) 2010
+**Answer: c) 2002 — From the OAU to the AU.**
+

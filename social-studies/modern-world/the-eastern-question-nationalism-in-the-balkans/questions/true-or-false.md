@@ -10,4 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** Balkan nationalism worked against the Eastern Question's settlement.
 **Answer: True** — Rising nationalism was one of the forces that made the question unanswerable.
+**4. (Sub lesson 3)** True or false: The Grade 12 book treats the Balkan Wars of 1912–13 as the fuse toward 1914.
+**Answer: True**
 

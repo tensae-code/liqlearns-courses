@@ -16,6 +16,18 @@ The agenda the book lists is long because the inheritance was deep. Contested bo
 
 And the material pressures beneath the politics: poverty and unemployment for the majority the flags were raised for; population pressure on land, schools and jobs; and environmental and climatic problems — the droughts of the last lesson returning as a permanent condition to govern through. The unit ends not with a verdict but with an agenda: this is the list contemporary Africa works on, and the learner inherits it as a citizen, not only as a student.
 
+## Sub lesson 3 — Grade 12 depth: One-party states, coups and the 1990s openings — the pattern
+
+The Grade 12 book reads the politics of independent Africa as a pattern, and the pattern has three beats. Learn it as a pattern, because the book asks you to recognise it country by country.
+
+**First beat: the one-party state.** Many new nations, fearing that rival parties would split along ethnic or regional lines, gathered all politics into a single ruling party — sometimes by law, sometimes in the name of unity and development. Tanzania, Zambia, Kenya and many others walked this road in different forms.
+
+**Second beat: the coup.** Where governments failed — economies stumbling, corruption growing, armies restless — soldiers seized power. Coups became so common across the continent that a change of government by the barracks, not the ballot, was for decades a standing possibility in state after state.
+
+**Third beat: the 1990s openings.** With the Cold War's end, the superpower patrons gone and citizens demanding a say, country after country reopened politics in the 1990s: multiparty constitutions, contested elections, one-party monopolies dismantled. The openings were uneven and sometimes reversed — but the pattern's direction changed.
+
+One-party rule, the coup, the opening: the Grade 12 book's map of how the new states were governed, and re-governed, in their first forty years.
+
 ## Say it to your companion
 
 Tell your companion the hangover defined with its case, then the agenda list complete — all of it, in order.

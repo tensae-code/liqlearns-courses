@@ -13,4 +13,6 @@ Say whether each statement is true or false.
 
 **4. (Grade 11 depth)** True or false: The dynasty of regional rulers who dominated the era's middle — this is Yejju lords.
 **Answer: True**
+**5. (Grade 9 depth)** True or false: At its strongest under Ras Gugsa (1803–1825), the Yejju dynasty was the leading power of the Zemene-Mesafint.
+**Answer: True**
 

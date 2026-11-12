@@ -57,3 +57,7 @@ Added (Sub lesson 4) — **Primary and secondary — and testing them** (printed
 ## Grade 11 extension (Wave 4 Band F, placement 7)
 
 Added (Sub lesson 5) — **From evidence to a written history — interpretation and objectivity** (printed pp. 7–8 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Sub lesson 5). Gate pool for the new part: its own questions, as for every sub lesson.
+
+## History fix (2026-11-12)
+
+The Grade 11 teacher guide's historiography marking position (guide placement 19, printed pp. 2–13) is now filed as a labelled evidence row in lesson/sources.md — the expected answers on istoria, the father of history, change and continuity, and the 'abuse of history'.

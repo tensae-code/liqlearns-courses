@@ -13,3 +13,9 @@ Answer in a sentence or two.
 
 **4. (Sub lesson 3)** Give the founding facts: place, corrected date, number of states, seat.
 **Answer:** Addis Ababa; charter signed May 25, 1963 (the book prints June 25 — corrected); 31 independent countries approved the charter; Addis Ababa chosen as the seat.
+**5. (Unit 7 review — Grade 12)** Unit 7 review: Give the three beats of the unit's politics pattern.
+**Answer: One-party states; military coups; the democratic openings of the 1990s.**
+
+**6. (Unit 7 review — Grade 12)** Unit 7 review: How did the Cold War fight inside Africa? Give the Horn example.
+**Answer: The superpowers armed rival states; in 1977–78 Somalia and Ethiopia exchanged patrons — the Ogaden war's alliance flip.**
+

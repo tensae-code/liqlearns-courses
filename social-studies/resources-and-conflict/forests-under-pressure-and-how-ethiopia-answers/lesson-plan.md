@@ -12,6 +12,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 
 1. **The collapse** — 16% to 3.6%
 2. **The answers** — protection, conservation, planting
+3. **Forests under pressure — the world picture (Grade 11 depth)** — services, the 13-million-hectare yearly loss, its drivers, and remedies mirroring Ethiopia's practice.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

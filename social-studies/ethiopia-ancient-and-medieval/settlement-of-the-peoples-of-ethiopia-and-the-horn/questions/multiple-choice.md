@@ -19,4 +19,11 @@ a) summary
 b) the settlement pattern on which later history plays out
 c) alliance
 **Answer: b) the settlement pattern on which later history plays out**
+**4. (Sub lesson 4)** Fission means —
+a) Peoples merging into one  b) A community splitting, part moving away  c) A kingdom falling  d) A language dying
+**Answer: b) A community splitting, part moving away — Fission is the split; fusion is the merging that follows.**
+
+**5. (Sub lesson 4)** Which is a push factor in the Grade 9 book's account?
+a) Available resources  b) A better living  c) Shortage of resources and conflict  d) Sea trade
+**Answer: c) Shortage of resources and conflict — Push factors drive people out; pull factors draw them on.**
 

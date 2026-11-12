@@ -18,6 +18,10 @@ Rural settlement rests on a **livelihood base** — above all farming: the field
 
 That is why the pair of lessons matters together: urbanisation percentages are town numbers, but the majority life of the continent — and the starting point of every rural–urban migration — is written in these village patterns and the farmland beneath them.
 
+## The MLC extension — colonialism and settlement (teacher guide — evidence)
+
+The Grade 10 minimum competencies add an expectation neither book states as a section: learners should be able to **discuss the impact of colonialism on the current settlement patterns of Africa** (teacher guide — evidence). When you read Africa's settlement patterns in this lesson, hold that question with them: how much of where people live today was shaped in the colonial period?
+
 ## Say it to your companion
 
 Describe a rural settlement pattern to your companion — real or drawn — naming its form and its livelihood base. Your companion asks: clustered or scattered, and what does the pattern tell you about how its people live?

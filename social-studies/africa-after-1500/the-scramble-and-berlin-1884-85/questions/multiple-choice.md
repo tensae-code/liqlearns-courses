@@ -25,4 +25,15 @@ a) Germany  b) Britain  c) Portugal  d) Belgium
 **6. (Sub lesson 2)** How many European countries met at Berlin, and who was not invited?
 a) Seven; the Americans  b) Fourteen; Africans were not invited nor involved  c) Twenty; the Russians  d) Fourteen; the Portuguese
 **Answer: b) Fourteen; Africans were not invited nor involved** — Fourteen European countries; Africans were neither invited nor involved (teacher guide — evidence).
+**7. (Unit 2 review — Grade 12)** Unit 2 review: The Berlin Conference met in —
+a) 1884–85  b) 1870  c) 1900–01  d) 1919
+**Answer: a) 1884–85 — Berlin regulated the partition.**
+
+**8. (Unit 2 review — Grade 12)** Unit 2 review: By 1914 the two African states never colonised were —
+a) Egypt and Sudan  b) Ethiopia and Liberia  c) Morocco and Tunisia  d) Ghana and Nigeria
+**Answer: b) Ethiopia and Liberia — The unit's closing fact of the partition.**
+
+**9. (Unit 2 review — Grade 12)** Unit 2 review: Samori Touré and the Asante stand in the unit as —
+a) Collaborators  b) Armed resistance to colonial expansion  c) Missionaries  d) Explorers
+**Answer: b) Armed resistance to colonial expansion — The resistance spectrum's armed end.**
 

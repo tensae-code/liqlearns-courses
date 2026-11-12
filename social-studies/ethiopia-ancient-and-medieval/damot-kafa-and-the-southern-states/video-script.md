@@ -18,3 +18,6 @@ The Grade 11 survey widens the ring around the highland kingdom: Gojjam across t
 
 [Grade 11 depth scene — The tato kingdoms in depth — Kafa and the Omotic states. The animated map carries the story as the voice speaks.]
 The Omotic kingdoms of the south-west receive their Grade 11 depth under their own design: the tato system, sacral kingship in which the king's person is hedged with ritual and the kingdom's health is read in his. The names to hold: tato, Kafa.
+
+[Grade 9 depth: Kafa and Yem in depth — the forest kingdoms — added scene. The animated map carries the story as the voice speaks.]
+Tell this part as story, in the lesson's own order, in the super-simple voice: who acted, what they wanted, and what changed because of it.

@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — The five spheres | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 1, printed pp. 4–5 |
 | Sub lesson 2 — Wide, not limitless (and the guide’s four) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 1, printed pp. 8–9 |
 | Guide’s four-sphere answer key (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 1, printed pp. 8–9 |
+| Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 1 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 1, guide printed pp. 1–34 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

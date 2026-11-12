@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — Shebelle and Genale | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 63–66 |
 | Sub lesson 2 — Awash and Omo | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 63–66 |
 | Wabe Shebelle named longest river — fast-learner key (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 3, printed p. 66 |
+| Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 3 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 3, guide printed pp. 61–98 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

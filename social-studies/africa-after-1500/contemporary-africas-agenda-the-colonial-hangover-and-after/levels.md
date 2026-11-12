@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: define the hangover, name
 
 ## Sub lesson 2 — The agenda list — boundaries to climate
 Sub lesson 2 questions from the type files. Pass mark: recite the list complete, and give the boundary item its concrete form.
+
+## Sub lesson 3 — Grade 12 depth: One-party states, coups and the 1990s openings — the pattern — pass mark
+The learner can retell this part in the story's order and answer its gate-pool questions (the part's own questions in questions/).

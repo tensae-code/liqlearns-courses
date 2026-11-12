@@ -19,3 +19,12 @@ History in lesson.md is told in the course's own words as story — a summary, n
 
 
 Searchable tags: Ethiopia's UNESCO heritages, Ethiopia Grade 12 History, Unit 9 (§9) — Indigenous Knowledge Systems and Heritages of Ethiopia, Derg, EPRDF, FDRE, heritage, indigenous knowledge
+
+## History fix (2026-11-12) — provenance completed
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 9 review set — folded into this lesson's prove-it questions (assessment fold, the Grade 11 placement-93 pattern): true/false items on the Irreecha, Timket and Meskel inscriptions and preservation duties, tagged '(Unit 9 review — Grade 12)', stand in questions/true-or-false.md and questions/multiple-choice.md | Ethiopia, *History, Student Textbook, Grade 12*, Unit 9 (§9), printed pp. 282 (placement 63) |
+
+History fix note (2026-11-12): this lesson's sources previously recorded the Unit 9 review set as 'an assessment set… not built as a lesson, per the standing exclusion' — the only trace of the set in the course, per the audit. That exclusion is revoked by this fix: the set is folded into this lesson's prove-it questions as itemised above, following the Grade 11 placement-93 pattern. The earlier exclusion note elsewhere in this file stands as the historical record of the old disposition and is superseded by this note.
+

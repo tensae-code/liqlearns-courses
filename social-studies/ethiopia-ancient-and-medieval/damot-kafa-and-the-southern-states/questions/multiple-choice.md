@@ -42,4 +42,11 @@ a) the forest kingdom of coffee, type case of the tato states
 b) the sacral royal title and system of Kafa and neighbours
 c) a detail belonging to a different lesson in this course
 **Answer: b) the sacral royal title and system of Kafa and neighbours**
+**10. (Sub lesson 6)** The king of Kafa bore the title —
+a) Kawo  b) Tato  c) Moti  d) Woma
+**Answer: b) Tato — Kafa's king was the Tato, with twelve insignia, many of gold.**
+
+**11. (Sub lesson 6)** Kafa's capital was —
+a) Harar  b) Anderecha  c) Bonga  d) Gondar
+**Answer: c) Bonga — Bonga was the capital; Anderecha the second seat.**
 

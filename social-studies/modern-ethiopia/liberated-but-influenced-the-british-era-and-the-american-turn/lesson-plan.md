@@ -45,3 +45,7 @@ Date and two treaties: return 5 May 1941; British treaties 1942 and 1944; then t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. History here is summary in the course's own words — never the book's text. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## History fix (2026-11-12)
+
+Provenance completed for placement(s) #30 — the placement's own book now stands as a Book entry in lesson/sources.md with per-part provenance rows at its exact printed pages (History fix section). The content already stood taught in this lesson; no lesson text changed for these items.

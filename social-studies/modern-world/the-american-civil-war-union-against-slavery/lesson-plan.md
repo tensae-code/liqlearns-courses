@@ -51,3 +51,7 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## History fix (2026-11-12)
+
+Provenance completed for placement(s) #7 — the placement's own book now stands as a Book entry in lesson/sources.md with per-part provenance rows at its exact printed pages (History fix section). The content already stood taught in this lesson; no lesson text changed for these items.

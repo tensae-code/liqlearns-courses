@@ -18,3 +18,11 @@ a) community forest protection with strict legal measures  b) importing all timb
 a) the sickle harvest  b) resettlement  c) the Green Legacy
 **Answer: c) the Green Legacy**
 
+
+**5. (Sub lesson 3)** The world's forests are being lost at about —
+a) 13 hectares a year  b) 13 million hectares a year  c) 130 hectares a year  d) no forests are lost
+**Answer: b) 13 million hectares a year** — the Grade 11 book's figure.
+
+**6. (Sub lesson 3)** Which list names services a forest gives?
+a) livelihoods, climate stabilisation, flood control, carbon storage, habitat  b) only timber  c) only firewood  d) roads and railways
+**Answer: a) livelihoods, climate stabilisation, flood control, carbon storage, habitat** — the Grade 11 book's services list.

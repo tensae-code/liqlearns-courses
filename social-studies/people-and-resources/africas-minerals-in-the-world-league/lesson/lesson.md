@@ -18,6 +18,16 @@ Beyond South Africa's three, the table carries **tantalum** — the rare metal o
 
 Keep Ethiopia's line in view: a home-country entry in a world league. The point of the table is not that Africa has minerals — it is **which** minerals, **where**, and **how large a share of the world** each African producer holds.
 
+## Sub lesson 3 — Why mineral wealth doesn't reach people
+
+The league table is only half the story. The book closes the section on the **problems of mineral utilisation in Africa**: holding a world-leading share of a mineral is not the same as using that wealth well. Mineral wealth can be dug and sold while the people who live above it see little of its value — the mine works, the wealth travels out, and the problems of using the resource stay behind. That gap — between **having** minerals and **benefiting** from them — is the problem this part names. Whenever you read a league table after this, ask the second question as well: not only *who produces what*, but *who gains from it, and what stands in the way*.
+
+[Picture 36002 — a mine beside an unpaved village road]
+
+## Sub lesson 4 — Where the world's great resources lie (teacher guide — evidence)
+
+The Grade 10 minimum competencies expect learners to describe the locations of major world resources — "including water, wildlife, oil and gas, gold, iron ore, etc." (teacher guide — evidence). Use this lesson's league table as the start of that map: minerals first, then the same locating habit for water, wildlife, oil and gas, and gold.
+
 ## Say it to your companion
 
 Recite the league table's headline to your companion: South Africa's three, then the wider cast with Ethiopia's entry. Your companion asks: what does 'weight in world minerals' actually measure?

@@ -25,3 +25,7 @@ a) Worthless  b) A wealth no list has reached yet  c) Forbidden to visit  d) All
 **6. (Sub lesson 3)** Heritage survives, in the book's closing argument, only if —
 a) Tourists pay  b) Each generation guards it  c) It is fenced forever  d) The UN guards it alone
 **Answer: b) b) Each generation guards it**
+**7. (Unit 9 review — Grade 12)** Unit 9 review: Heritage as the Grade 12 course's final word means the course ends on —
+a) A constitution  b) What communities know and keep — indigenous knowledge and heritages  c) A war  d) An election
+**Answer: b) What communities know and keep — indigenous knowledge and heritages — The book's deliberate closing order.**
+

@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: Name the three forces tha
 
 ## Sub lesson 2 — Crises without an answer
 Sub lesson 2 questions from the type files. Pass mark: Explain that economic and social change, international rivalry and unsolved problems combined into a succession of Balkan crises with serious consequences for all Europe.
+
+## Sub lesson 3 — Grade 12 depth: The Balkan Wars, 1912–13 — the fuse toward 1914 — pass mark
+The learner can retell this part in the story's order and answer its gate-pool questions (the part's own questions in questions/).

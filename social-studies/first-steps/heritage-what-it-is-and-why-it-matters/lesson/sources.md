@@ -6,10 +6,12 @@ countries: Ethiopia
 
 **Book 2:** *History, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published June 2022 under the General Education Quality Improvement Program for Equity (GEQIP-E), no ISBN printed in this file (the copyright page's ISBN, printer and contract fields are blank — a pre-print/proof state), 187 printed pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-teacher-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Heritage defined, and the guide's pointed question (teacher guide — evidence): why Europeans considered Africans uncivilised when African heritages such as Great Zimbabwe show otherwise | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 5, printed pp. 88–107 (teacher guide — evidence) |
 | Sub lesson 2 — Great Zimbabwe as heritage: Shona-built from c.1000 AD; great stone walls and tower in the 13th–14th centuries; heart of a trading empire (cattle, crops, gold to the Indian Ocean coast), 11th–15th centuries; Mwene Mutapa succeeds after 1450 | Ethiopia, *History, Student Textbook, Grade 9*, Unit 5, printed pp. 94–96 |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

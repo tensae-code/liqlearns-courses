@@ -13,3 +13,5 @@ Judaism's ideas reached the northern highlands early, leaving traces in Ethiopia
 [Scene 3 — Islam and the first hijra. The map and the scene build as the voice speaks.]
 In the 7th century, Islam arrived — and its first chapter in Ethiopia is one of refuge. Watch the names appear one by one: first hijra, hijra, trade routes. This is the part of the story to hold.
 
+[Grade 9 depth: The oldest layer — indigenous religions of Ethiopia — added scene. The animated map carries the story as the voice speaks.]
+Tell this part as story, in the lesson's own order, in the super-simple voice: who acted, what they wanted, and what changed because of it.

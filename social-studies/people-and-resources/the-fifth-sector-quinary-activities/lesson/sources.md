@@ -2,7 +2,6 @@
 
 countries: Ethiopia
 
-**Book 2:** *Geography, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). First published 2022 under GEQIP-E. No ISBN printed in the pages read. 287 printed pp. Printed page = PDF page − 22 for the body (front matter in roman numerals). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-teacher-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|

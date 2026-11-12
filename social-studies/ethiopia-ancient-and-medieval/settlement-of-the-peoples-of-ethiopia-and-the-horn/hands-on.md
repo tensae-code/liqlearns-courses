@@ -10,3 +10,7 @@ Write each key term (settlement / oral tradition / archaeology, highlands / lowl
 
 ## Teach it onward
 Teach the story to someone at home in five minutes, in order, without the book. Where you stall is where you re-read.
+
+## Grade 9 depth: Fission and fusion — how Ethiopia was peopled
+
+Re-draw this lesson's map or table with the new part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

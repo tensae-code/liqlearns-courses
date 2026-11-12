@@ -8,12 +8,15 @@ countries: Ethiopia
 
 **Book 3:** *Geography, Teacher Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Wondafrash Genet Degu (MA), Kenate Worku Tabor (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). Illustrator: Agenchw Nega (MSc). Designer: Geda Hoka (MA). Evaluator: Dereje Guteta (PhD). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Printed page = PDF page − 31 for the guide body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g10-teacher-placements.md
 
+**Book 4:** *Geography, Teacher Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Muluemebet Worku (PhD), Kidanemariam Paulos (PhD). Editors: Sintayehu Teka (MSc) (Content Editor), Kassie Molla (MA) (Language Editor), Hirut Woldemichael (MA) (Curriculum Editor). First published 2022 under GEQIP-E. (No ISBN printed in the pages read.) Printed page = PDF page − 22 for the body (front matter in roman numerals). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/geography/g09-teacher-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Dependence | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 154–157 |
 | Sub lesson 2 — Reshaping | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 6, printed pp. 154–157 |
 | Sub lesson — Dependence and modification — the Grade 10 statement | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 6, printed pp. 149–151 |
 | Teaching pattern and answer keys (teacher guide — evidence) — Grade 10 | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 6, guide printed pp. 117–130 |
+| Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 6 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 6, guide printed pp. 177–206 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

@@ -18,3 +18,12 @@ History in lesson.md is told in the course's own words as story — a summary, n
 
 
 Searchable tags: Ethiopia the peacekeeper, Ethiopia Grade 12 History, Unit 8 (§8) — Post-1991 Ethiopia, Derg, EPRDF, FDRE, heritage, indigenous knowledge
+
+## History fix (2026-11-12) — provenance completed
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 8 review set — folded into this lesson's prove-it questions (assessment fold, the Grade 11 placement-93 pattern): the review items stand in questions/multiple-choice.md and questions/short-answer.md tagged '(Unit 8 review — Grade 12)' | Ethiopia, *History, Student Textbook, Grade 12*, Unit 8, printed pp. 253 (placement 62) |
+
+History fix note (2026-11-12): the coverage audit recorded all nine Grade 12 unit review sets (placements 55–63) as excluded under a standing exclusion — not built as lessons, not folded into question files. That exclusion is revoked by this fix for Unit 8: its review items are folded into this lesson's prove-it questions, tagged '(Unit 8 review — Grade 12)', exactly as the Grade 11 Unit 9 review was folded (placement 93, verified by the audit).
+

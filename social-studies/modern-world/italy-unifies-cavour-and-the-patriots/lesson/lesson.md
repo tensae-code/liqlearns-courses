@@ -18,6 +18,10 @@ The new kingdom inherited hard problems with its crown: **tension between the in
 
 [GIF 22831 — the Italian states clicking together one by one]
 
+## Sub lesson 3 — Grade 12 guide depth — From above and from below
+
+The Grade 12 teacher guide gives this lesson its analytical frame, and the frame is worth learning as the guide states it (teacher guide — evidence). Italian unification, the guide instructs, be taught as the joint product of two forces meeting: Piedmont-Sardinia's government measures **'from above'** — Cavour's diplomacy, statecraft and wars arranged by a government — and popular revolt **'from below'** — Garibaldi's volunteers and the peoples who rose and voted to join. Neither alone made Italy: the state supplied the strategy, the people supplied the surge. The guide adds the comparison to carry into the next lesson: German unification is to be taught **by comparison with Italy** — ask, when you reach Bismarck, how much came from above, and how much from below.
+
 ## Say it to your companion
 
 Retell this lesson's story to your companion in order — part 1 — then part 2 — using the lesson's own names and dates. Your companion asks you one hard question about it — answer from the lesson.

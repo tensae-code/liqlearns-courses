@@ -20,3 +20,6 @@ Piece by piece the boot turns one colour.
 One piece still waits at the centre — Rome, the pope's city. It joins last.
 
 A people who shared everything now share a state.
+
+[Grade 12 guide depth — From above and from below — added scene. The animated map carries the story as the voice speaks.]
+Tell this part as story, in the lesson's own order, in the super-simple voice: who acted, what they wanted, and what changed because of it.

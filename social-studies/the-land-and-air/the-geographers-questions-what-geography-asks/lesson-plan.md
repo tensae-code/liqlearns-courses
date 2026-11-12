@@ -13,6 +13,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **What geography is (teacher guide — evidence)**
 2. **The two sides of the subject (teacher guide — evidence)**
 3. **The geographer's questions (teacher guide — evidence)**
+4. **The Grade 12 version — six questions for the final year** — the Grade 12 student book's own list and its 21st-century-skills framing.
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 

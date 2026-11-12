@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — The pyramid’s shape | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 91–94 |
 | Sub lesson 2 — Change over time | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 91–94 |
 | Pyramid and dependency definitions, marking form (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 4, printed p. 114 |
+| Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 4 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 4, guide printed pp. 99–142 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

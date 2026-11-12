@@ -6308,6 +6308,14 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 36002 | pictures/36002.webp | a mine and the road its wealth takes away from the village | social-studies/the-land-and-air/africas-minerals-in-the-world-league |
 | 36003 | pictures/36003.webp | Africa's promise and its hurdles in balance — 1.3 billion people and rich resources against the named hurdles | social-studies/people-and-resources/africas-economic-promise-and-its-hurdles |
 | 36004 | pictures/36004.webp | Agenda 2063 beside the 17 SDG tiles — two blueprints compared | social-studies/resources-and-conflict/two-blueprints-compared-2063-and-the-sdgs |
+| 36100 | pictures/36100.webp | Persia — Cyrus, the royal roads and the first postal service | History (G9) — Persia lesson |
+| 36101 | pictures/36101.webp | North Africa and the Nile — Fatimids, Mamluks, Funj | History (G9) — states in North Africa lesson |
+| 36102 | pictures/36102.webp | Kanem-Bornu and Kano — the Hausa city-states | History (G9) — Kanem-Bornu and Hausa lesson |
+| 36103 | pictures/36103.webp | a camel caravan crossing the Sahara — salt slabs south, gold north | History (G9) — Trans-Saharan trade lesson |
+| 36104 | pictures/36104.webp | Moggasa — a welcome into the people | History (G9) — Moggasa and Guddifacha lesson |
+| 36105 | pictures/36105.webp | governing without kings — Gedeo and Konso panels | History (G9) — egalitarian systems lesson |
+| 36106 | pictures/36106.webp | a divided Europe rebuilding after 1945 | History (G12) — the world after 1945 lesson |
+| 36107 | pictures/36107.webp | the Inca — Cuzco, quipu knots and the imperial roads | History (G9) — the Aztecs lesson, Inca part |
 | 36220 | The seven-unit journey — Grade 9 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-9-way |
 | 36221 | The six-unit journey — Grade 10 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-10-way |
 | 36222 | The five-unit journey — Grade 12 Physics road map (drawn render: course map) | science/physics/how-this-physics-course-works-the-ethiopian-grade-12-way |

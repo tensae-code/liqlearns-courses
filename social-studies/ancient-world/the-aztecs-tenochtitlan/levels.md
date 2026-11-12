@@ -13,3 +13,6 @@ Pass mark: the learner can retell this part in order and answer its gate-pool qu
 ## Sub lesson 3 — Religion at the centre
 
 Pass mark: the learner can retell this part in order and answer its gate-pool questions — the key term is **sacrifice** (the offering at the centre of Aztec religion, made to keep the world alive).
+
+## Sub lesson 4 — Grade 9 depth: The Inca — Cuzco, quipu and the imperial roads — pass mark
+The learner can retell this part in the story's order and answer its gate-pool questions (the part's own questions in questions/).

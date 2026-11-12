@@ -14,6 +14,10 @@ Across the Atlantic, the same century asked America the nation question — in i
 
 **Lincoln and the North opposed secession** — the Union, they held, could not be walked out of. So from **1861 to 1865** the two Americas fought the **American Civil War**, the bloodiest test nationalism faced in this unit. It ended with the **Confederacy's defeat** — and with the cause of the quarrel destroyed: **slavery was abolished in the USA**. The nation that emerged was one again, and free of the institution that had split it.
 
+## Sub lesson 3 — Grade 12 guide depth — The war's weight: 620,000
+
+One number fixes this war's scale, and the Grade 12 teacher guide's key fixes it as the marking emphasis (teacher guide — evidence): **620,000 casualties** in the war of **1861–65** — dead on a scale no other American war has matched. And the key fixes the cause's weight with the same plainness: **slavery outweighed all other divisive issues** between North and South. Tariffs, states' rights and expansion all argued at the edges; slavery stood at the centre. When you weigh this war — in an answer, in an argument — weigh it as the guide's key weighs it: six hundred and twenty thousand, and slavery first.
+
 ## Say it to your companion
 
 Retell this lesson's story to your companion in order — part 1 — then part 2 — using the lesson's own names and dates. Your companion asks you one hard question about it — answer from the lesson.

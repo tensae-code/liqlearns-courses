@@ -10,4 +10,6 @@ Fill each blank with the right word or number.
 
 **3. (Grade 11 depth)** The term for 'the dynasty of regional rulers who dominated the era's middle' is ______.
 **Answer: Yejju lords**
+**4. (Grade 9 depth)** The Yejju dynasty is also called the ____.
+**Answer: Warra Sheh**
 

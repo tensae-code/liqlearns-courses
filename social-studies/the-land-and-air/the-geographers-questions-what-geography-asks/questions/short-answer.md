@@ -10,3 +10,6 @@ Answer in one or two sentences, from the lesson.
 
 **3. (Sub lesson 3)** Ask three of the geographer's questions about your own town.
 **Answer:** What is it? Where is it? How did it come to be? (any three of the guide's seven).
+
+**5. (Sub lesson 4)** The Grade 12 book presents its six questions as geography's core contribution to what?
+**Answer:** 21st-century skills.

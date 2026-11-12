@@ -18,3 +18,7 @@ a) labour shortage  b) overcrowding  c) soil erosion
 a) accelerates automatically  b) is unaffected  c) slows despite abundant resources
 **Answer: c) slows despite abundant resources**
 
+
+**5. (Sub lesson 1)** The optimum population's indications include —
+a) full employment, high average living standards, balanced development  b) famine and begging  c) empty land and idle machines  d) falling living standards
+**Answer: a) full employment, high average living standards, balanced development** — the book's signs of the best fit (printed pp. 162–164).

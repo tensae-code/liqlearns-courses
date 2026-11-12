@@ -6,10 +6,12 @@ countries: Ethiopia
 
 **Book 2:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Stones that sign a kingdom | Student book, Chapter 4 — Printed p. 78 |
 | Grade 9 depth — Rise, trade and reach: Aksum emerged in the 1st century AD, its nucleus and political-religious centre the city of Aksum with temples and monolithic stelae; between the 4th and 6th centuries expanded beyond the Red Sea into southern Arabia, west to the Abay (Blue Nile), north to Eritrea's tip, south to northern Shewa; economy first on plough agriculture and tribute within a demarcated social structure, then increasingly on Red Sea trade through Adulis, which made it rich | Ethiopia, *History, Student Textbook, Grade 9*, Unit 3, printed pp. 53–55 |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

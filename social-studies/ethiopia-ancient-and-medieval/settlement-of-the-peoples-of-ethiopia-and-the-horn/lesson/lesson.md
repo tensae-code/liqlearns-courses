@@ -24,6 +24,16 @@ Every later conflict and alliance in this course — sultanate and kingdom, move
 
 Settlement is also humility for the historian: the map is a summary of thousands of family decisions, most of them never written down.
 
+## Sub lesson 4 — Grade 9 depth: Fission and fusion — how Ethiopia was peopled
+
+The Grade 9 book gives the peopling of Ethiopia a mechanism, and gives it two names: **fission** and **fusion**.
+
+Picture a village that grows too big for its land. Quarrels sharpen; grazing runs short; a drought bites. Part of the community **splits away** — that is fission — and walks to new land. People moved under **push factors**: shortage of resources, conflict. And they were drawn by **pull factors**: available resources, a better living to be made. Some movements were small groups; some were great peoples on the march.
+
+Then the second half of the mechanism. The newcomers did not always stay strangers. They traded, intermarried, adopted and were adopted, until groups **fused** — merged into new communities with mixed languages, customs and names. Fission scattered peoples; fusion wove them together again.
+
+That double movement, repeated over centuries, produced the settlement pattern of Ethiopia as we meet it: not one people arriving once, but many peoples splitting, moving and merging — which is why traditions of origin must be weighed as evidence, not simply believed or dismissed.
+
 ## Say it to your companion
 
 Tell the whole story back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

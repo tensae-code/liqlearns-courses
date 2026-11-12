@@ -33,3 +33,15 @@ a) An applicant refused  b) A founding member  c) An observer only  d) Unrecorde
 **8. (Sub lesson 1) ** Ethiopia's place in the UN at its founding was —
 a) An applicant refused  b) A founding member  c) An observer only  d) Unrecorded
 **Answer: b) A founding member** — the emperor's plea-country inside the new house from the start.
+**9. (Unit 5 review — Grade 12)** Unit 5 review: The United Nations was founded in —
+a) 1919  b) 1945  c) 1955  d) 1991
+**Answer: b) 1945 — On the war's aftermath and the demand for a new organisation.**
+
+**10. (Unit 5 review — Grade 12)** Unit 5 review: Ethiopia's place in the UN's founding was —
+a) Observer  b) Founding member  c) Late joiner, 1960  d) Never a member
+**Answer: b) Founding member — Ethiopia signed as a founding member.**
+
+**11. (Unit 5 review — Grade 12)** Unit 5 review: The Cold War's two armed alliances were —
+a) The League and the UN  b) NATO and the Warsaw Pact  c) The OAU and the EU  d) ASEAN and NAM
+**Answer: b) NATO and the Warsaw Pact — Bloc against bloc.**
+

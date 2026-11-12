@@ -5,3 +5,6 @@ This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can
 ## Grade 11 depth — Grade 11 depth: Zemene Mesafint in depth, 1769–1855
 
 Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **Ras Mikael Sehul** (the first great warlord of the Era of the Princes) and **Yejju lords** (the dynasty of regional rulers who dominated the era's middle).
+
+## Grade 9 depth — The Yejju dynasty, the dynasty behind the throne — pass mark
+The learner can retell this part in the story's order and answer its gate-pool questions (the part's own questions in questions/).

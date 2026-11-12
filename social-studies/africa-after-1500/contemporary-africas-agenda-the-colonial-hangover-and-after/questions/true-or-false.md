@@ -16,3 +16,6 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 2) ** Population pressure falls on land, schools and jobs alike.
 **Answer: True** — one of the agenda's material pressures.
+**6. (Sub lesson 3)** True or false: In the pattern, military coups were a rare exception in independent Africa.
+**Answer: False — Coups were a standing possibility in state after state for decades.**
+

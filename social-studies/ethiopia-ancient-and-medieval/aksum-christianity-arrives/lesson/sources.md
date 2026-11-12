@@ -6,11 +6,13 @@ countries: Ethiopia
 
 **Book 2:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Ezana and Frumentius — the faith reaches the king | Student book, Chapter 4 — Printed p. 79 |
 | Sub lesson 2 — The Nine Saints — the faith reaches the people | Student book, Chapter 4 — Printed p. 79 |
 | Grade 9 depth — Frumentius to an Ethiopian Patriarch: Christianity introduced in the early 4th century AD; Frumentius (Freminatos) consecrated by Patriarch Athanasius of Alexandria as Abuna Salama, first bishop; Alexandria supplied Ethiopia's church head until 1959, when Abune Baselios became the first Ethiopian Patriarch; expansion under the Zagwe (1150–1270) with growth in art, literature, architecture and music; the Jesuit attempt (Susenyos's 1622 conversion and its failure); Protestantism's arrival mainly in the early 19th century, spreading in the 20th through missions | Ethiopia, *History, Student Textbook, Grade 9*, Unit 3, printed pp. 45–48 |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

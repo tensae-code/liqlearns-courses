@@ -25,4 +25,15 @@ a) A minor border clash  b) The first decisive victory of Black people over a po
 **6. (Sub lesson 2)** In Italy, Adwa brought down the government of —
 a) Cavour  b) Premier Francesco Crispi  c) Mussolini  d) King William
 **Answer: b) Premier Francesco Crispi** — Crispi's government fell after Adwa.
+**7. (Unit 3 review — Grade 12)** Unit 3 review: The Battle of Adwa was fought on —
+a) 1 March 1896  b) 2 October 1935  c) 5 May 1941  d) 11 February 1889
+**Answer: a) 1 March 1896 — Adwa's date.**
+
+**8. (Unit 3 review — Grade 12)** Unit 3 review: The Treaty of Wuchale's fatal dispute turned on —
+a) A border river  b) Article 17's two versions  c) A customs duty  d) A railway concession
+**Answer: b) Article 17's two versions — Amharic permission vs Italian obligation.**
+
+**9. (Unit 3 review — Grade 12)** Unit 3 review: The Boru Meda council of 1878 imposed —
+a) A new tax  b) Doctrinal unity on the Church  c) A new capital  d) Military conscription
+**Answer: b) Doctrinal unity on the Church — Yohannes IV's religious settlement.**
 

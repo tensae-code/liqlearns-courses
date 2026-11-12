@@ -25,4 +25,11 @@ a) An agrarian north and industrial south  b) Tension between the industrialisin
 **6. (Sub lesson 2)** Unification came about through —
 a) One battle only  b) Different patriotic approaches working together  c) A foreign gift  d) A church decree
 **Answer: b) Different patriotic approaches working together** — Different approaches worked together.
+**7. (Sub lesson 3)** In the Grade 12 guide's frame, unification 'from above' means —
+a) Orders from the Pope  b) Government measures by Piedmont-Sardinia  c) Foreign invasion  d) Mountain warfare
+**Answer: b) Government measures by Piedmont-Sardinia — Cavour's statecraft is the from-above force.**
+
+**8. (Sub lesson 3)** Unification 'from below' means —
+a) Popular revolt and volunteers  b) Secret treaties  c) Railway building  d) Colonial wars
+**Answer: a) Popular revolt and volunteers — Garibaldi's Thousand is the from-below force.**
 

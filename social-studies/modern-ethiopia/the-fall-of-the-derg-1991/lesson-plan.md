@@ -51,3 +51,7 @@ A slot the builder cannot fill yet stays in the plan as a slot — the plan is t
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## History fix (2026-11-12)
+
+The Grade 12 Unit 6 review set (student placement 60, printed pp. 205–208) is folded into this lesson's prove-it questions, tagged '(Unit 6 review — Grade 12)' — see the History fix section of lesson/sources.md.

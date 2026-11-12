@@ -13,4 +13,6 @@ Say whether each statement is true or false.
 
 **4. (Sub lesson 4)** True or false: The inflation driven by American silver after 1500 — this is price revolution.
 **Answer: True**
+**5. (Sub lesson 5)** True or false: The Grade 12 guide prescribes a classroom debate of classical capitalism versus Marxian economics.
+**Answer: True**
 

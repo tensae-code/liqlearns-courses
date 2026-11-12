@@ -8,3 +8,4 @@ Africa digs deep in the world's league.
 South Africa leads: chromium, manganese, platinum.
 Tantalum — Ethiopia is in that table too.
 Bauxite. Iron ore. Real weight in the world.
+And the harder question: the wealth is dug — who gains from it?

@@ -8,3 +8,6 @@ The map opens on independence's flags — then the camera tilts, and under each 
 Along one border, a single people's colour is cut in two by a straight colonial line.
 Cards rise over the map one by one: corruption — poverty — population — climate. The agenda assembles itself.
 The last card is blank. The camera leaves it on the map, for the generation now learning.
+
+[Grade 12 depth: One-party states, coups and the 1990s openings — the pattern — added scene. The animated map carries the story as the voice speaks.]
+Tell this part as story, in the lesson's own order, in the super-simple voice: who acted, what they wanted, and what changed because of it.

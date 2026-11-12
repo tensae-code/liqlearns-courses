@@ -22,3 +22,22 @@ The book names Italy's leader at the conference as Vittorio Emanuele Orlando, ma
 Wave 4 extension: the Grade 10 student book's WWI course-and-consequences placement (Unit 4, printed pp. 86–91) is stocked here as depth.
 
 Searchable tags: Versailles, Paris Peace Conference 1919, Big Four, Wilson, Lloyd George, Clemenceau, Orlando, League of Nations, ten million dead
+
+## History fix (2026-11-12) — provenance completed
+
+**Book (History fix):** *History, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, first published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-067-3. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g12-student-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| World War I and its settlement — causes, the trench war, Versailles and the League, as taught in this lesson | Ethiopia, *History, Student Textbook, Grade 12*, Unit 4 (§4), printed pp. 93–101 (placement 19) |
+
+History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
+
+## History fix (2026-11-12) — provenance completed
+
+| Lesson part | Where it comes from |
+|---|---|
+| World War I and its settlement — causes, the trench war, Versailles and the League, as taught in this lesson | Ethiopia, *History, Student Textbook, Grade 12*, Unit 4 (§4), printed pp. 93–101 (placement 19) |
+
+History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
+

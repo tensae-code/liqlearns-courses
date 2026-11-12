@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — Meaning and first classification | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 59–61 |
 | Sub lesson 2 — Second classification, and the pressure | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 3, printed pp. 66, 70 |
 | Biotic-resource uses (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 3, printed pp. 66, 70 |
+| Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 3 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 3, guide printed pp. 61–98 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

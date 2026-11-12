@@ -31,4 +31,22 @@ a) the inflation driven by American silver after 1500
 b) wealth organised for trade and production beyond the guilds
 c) a detail belonging to a different lesson in this course
 **Answer: b) wealth organised for trade and production beyond the guilds**
+**8. (Sub lesson 5)** In Marxian theory, the owner's profit comes from —
+a) Rent on land  b) The surplus value created by the worker's labour beyond the wage  c) Taxes  d) Foreign trade only
+**Answer: b) The surplus value created by the worker's labour beyond the wage — The difference between the value labour creates and the wage is kept by the owner.**
+
+**9. (Sub lesson 5)** The Grade 12 book places Marxian economics beside capitalism's features as —
+a) A footnote  b) Its great critique  c) A rival religion  d) A colonial policy
+**Answer: b) Its great critique — The placement's own words: the system's great critique.**
+**10. (Unit 1 review — Grade 12)** Unit 1 review: Which pair of forces does the unit set against each other inside capitalist society?
+a) King and church  b) The bourgeoisie and the proletariat  c) Farmers and herders  d) North and South
+**Answer: b) The bourgeoisie and the proletariat — The unit's theory pair: owners and wage-workers.**
+
+**11. (Unit 1 review — Grade 12)** Unit 1 review: Italy and Germany both unified in —
+a) 1815  b) 1848  c) 1871  d) 1914
+**Answer: c) 1871 — Both unifications complete in 1871 — Rome taken 1870, the German Empire proclaimed 1871.**
+
+**12. (Unit 1 review — Grade 12)** Unit 1 review: The Eastern Question concerned —
+a) China's coast  b) The Ottoman Empire's decline and the Balkans  c) Canada's borders  d) Japan's opening
+**Answer: b) The Ottoman Empire's decline and the Balkans — Great-power rivalry over the Ottoman remains.**
 

@@ -27,3 +27,6 @@ That is capitalism remade by steam: private ownership, factories, new classes.
 
 [Grade 11 depth scene — Early capitalism in depth — towns, banks and the price revolution. The animated map carries the story as the voice speaks.]
 The Grade 11 book roots capitalism earlier than the factory: from about 1500, revived towns fill with merchants; merchant capital organises trade and production beyond the guilds; banking learns to move money across Europe; and American silver drives a price revolution through every market. The names to hold: merchant capital, price revolution.
+
+[Grade 12 depth: The Marxian critique — capitalism's great critic — added scene. The animated map carries the story as the voice speaks.]
+Tell this part as story, in the lesson's own order, in the super-simple voice: who acted, what they wanted, and what changed because of it.

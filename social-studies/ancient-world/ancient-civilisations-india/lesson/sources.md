@@ -10,6 +10,7 @@ countries: Ethiopia
 
 **Book 3:** *History, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published June 2022 under the General Education Quality Improvement Program for Equity (GEQIP-E), no ISBN printed in this file (the copyright page's ISBN, printer and contract fields are blank — a pre-print/proof state), 187 printed pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-teacher-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cities on two rivers | Student book, Chapter 6 — Printed pp. 125–126 |
@@ -18,6 +19,7 @@ countries: Ethiopia
 | Grade 9 depth — the Buddha's name (teacher guide — evidence): Buddhism's founder named as Siddhartha Gautama (c.563–483 BC) | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 2, printed p. 30 (teacher guide — evidence) |
 
 | Grade 11 depth — India in depth — Indus cities, caste, and two new religions | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 32–34 |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

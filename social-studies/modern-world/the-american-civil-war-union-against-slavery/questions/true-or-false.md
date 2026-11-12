@@ -10,4 +10,6 @@ Say whether each statement is true or false.
 
 **3. (Sub lesson 2)** Slavery survived the Civil War in the USA.
 **Answer: False** — The war ended with slavery abolished in the USA.
+**4. (Sub lesson 3)** True or false: The war whose casualties the key counts ran 1861–65.
+**Answer: True**
 

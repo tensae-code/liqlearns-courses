@@ -27,4 +27,11 @@ a) the first great warlord of the Era of the Princes
 b) the dynasty of regional rulers who dominated the era's middle
 c) a detail belonging to a different lesson in this course
 **Answer: a) the first great warlord of the Era of the Princes**
+**7. (Grade 9 depth)** The Yejju dynasty was established in 1786 by —
+a) Ras Mikael Sehul  b) Ali  c) Sabagadis  d) Walda Sellase
+**Answer: b) Ali — Ali founded the Yejju (Warra Sheh) dynasty in 1786.**
+
+**8. (Grade 9 depth)** The Yejju lords governed from —
+a) Gondar  b) Debre Tabor  c) Aksum  d) Harar
+**Answer: b) Debre Tabor — Debre Tabor was the dynasty's centre; Gondar kept the puppet emperors.**
 

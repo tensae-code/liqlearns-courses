@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: define Zionism in the boo
 
 ## Sub lesson 2 — Wars without an ending
 Sub lesson 2 questions from the type files. Pass mark: name the three unanswered questions and say how the superpowers enter the story.
+
+## Sub lesson 3 — Grade 12 depth: Suez 1956 and Iran 1979 — the Middle East widens — pass mark
+The learner can retell this part in the story's order and answer its gate-pool questions (the part's own questions in questions/).

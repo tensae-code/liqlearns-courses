@@ -43,3 +43,7 @@ Hold three nouns: land, statehood, refugees. Every war and every failed peace in
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. History here is summary in the course's own words — never the book's text. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## History fix (2026-11-12)
+
+Added (Sub lesson 3 — Grade 12 depth: Suez 1956 and Iran 1979 — the Middle East widens) — the narrative part in lesson/lesson.md, its provenance rows in lesson/sources.md, one hands-on activity, a video-script scene, and questions tagged (Sub lesson 3) in questions/. Gate pool for the new part: its own questions, as for every part.

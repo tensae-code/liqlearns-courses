@@ -8,6 +8,7 @@ countries: Ethiopia
 
 **Book 2:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | A hill, a river, a legend | Student book, Chapter 6 — Printed pp. 132–133 |
@@ -15,6 +16,7 @@ countries: Ethiopia
 | Grade 9 depth — Kingdom, Republic, Empire and the legacy: Rome begins c.753 BC on hills above the Tiber; kingdom, Republic (from 509 BC), Empire; Roman law foundation of most Western European and Latin American legal systems; engineering — roads, bridges, aqueducts; public baths and amphitheatres, the Colosseum pictured; citizenship eventually for all free males | Ethiopia, *History, Student Textbook, Grade 9*, Unit 2, printed pp. 32–34 |
 
 | Grade 11 depth — Rome in depth — law, legions, roads and the long fall | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 39–42 |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

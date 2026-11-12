@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — The evidence | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 130–132 |
 | Sub lesson 2 — The backbone | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 5, printed pp. 130–132 |
 | Agriculture employing 80% of the population (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 5, printed pp. 144–152 |
+| Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 5 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 5, guide printed pp. 143–176 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

@@ -8,6 +8,7 @@ countries: Ethiopia
 
 **Book 2:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Sundiata and the founding: Mandinka under Sundiata Keita breaking free of Ghana, uniting the upper Niger peoples in 1235; Mali's rulers Muslim before the state was founded | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 5, printed pp. 111–112 |
@@ -16,6 +17,7 @@ countries: Ethiopia
 | Grade 9 depth — The Niger, the pilgrimage, Timbuktu: Islam spread widely along the Niger with its language, laws and customs; Mansa Musa (1312–1337) and his famous pilgrimage to Mecca; Timbuktu one of the most important centres of Islamic learning and culture; the book pictures a cartoon of Mansa Musa | Ethiopia, *History, Student Textbook, Grade 9*, Unit 5, printed pp. 90–91 |
 
 | Sub lesson 5 — Grade 11 depth: Ghana, Mali and Songhai in depth — the Sudanic sequence | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 125–131 |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files (5 items). Pass mark: give the two fo
 ## Sub lesson 2 — The answers
 Sub lesson 2 questions from the type files (5 items). Pass mark: name the three answer fronts.
 
+
+## Sub lesson 3 — Forests under pressure — the world picture (Grade 11 depth)
+Pass mark: list the forest services, give the yearly loss figure, and name three drivers and three remedies.

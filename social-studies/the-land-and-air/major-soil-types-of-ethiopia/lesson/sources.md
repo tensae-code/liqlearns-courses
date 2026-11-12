@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — The student book’s types | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 70–73 |
 | Sub lesson 2 — The guide’s longer list (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 3, printed pp. 66, 70, 80, 85 |
 | Guide’s ten-name soil list (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 3, printed pp. 66, 70, 80, 85 |
+| Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 3 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 3, guide printed pp. 61–98 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

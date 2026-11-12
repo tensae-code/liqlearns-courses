@@ -16,6 +16,16 @@ The founding war was not the last. Successive Arab-Israeli wars redrew the terri
 
 The lesson's closing judgement is its title: a war that never quite ends. The durable questions remain open — land: whose, and within which lines; statehood: for both peoples, in what form; refugees: the fate of those displaced from 1948 onward. Until those three are answered together, the book's frame implies, the conflict renews itself.
 
+## Sub lesson 3 — Grade 12 depth: Suez 1956 and Iran 1979 — the Middle East widens
+
+The Grade 12 book's Middle East does not stop at Israel's wars. Two more events carry its story, and both are about who commands the region — its waterways and its oil.
+
+**Suez, 1956.** Egypt's leader, Gamal Abdel Nasser, **nationalised the Suez Canal** — the waterway between the Mediterranean and the Red Sea, until then run by a British-French company. Britain and France, joined by Israel, attacked Egypt to take it back. The attack failed politically: under pressure above all from the United States and the Soviet Union together, the invaders withdrew. Suez announced that the old empires could no longer simply seize what they wanted in the Middle East — and it raised Nasser, and Arab nationalism, sky-high.
+
+**Iran, 1979.** Westward-looking, oil-rich Iran was ruled by the Shah, backed by the United States. In 1979 revolution swept him away, and Iran became an **Islamic Republic** under Ayatollah Khomeini — a state ruled in the name of Islam, hostile to both superpowers' camps. Coming after the oil shocks of the 1970s had already shown the world's dependence on the region's petroleum, the Iranian revolution proved that the Middle East's future would be argued in the language of religion as well as of nations and oil.
+
+Israel's creation, the successive wars, Suez, oil's power, Iran's revolution: that is the Grade 12 book's whole Middle East — a region where a canal, a well and a pulpit can each shake the world.
+
 ## Say it to your companion
 
 Tell your companion: the root idea and its definition; the founding collision; the three open questions. Say them neutrally, as the lesson teaches them.

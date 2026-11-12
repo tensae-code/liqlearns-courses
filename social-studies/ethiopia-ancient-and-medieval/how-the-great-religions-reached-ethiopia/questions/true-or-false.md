@@ -19,4 +19,6 @@ Say whether each statement is true or false.
 
 **6. (Sub lesson 3)** True or false: in this lesson, first hijra means the paths along which Islam spread into Ethiopia's east and south-east.
 **Answer: False**
+**7. (Sub lesson 4)** True or false: Ancestor reverence and sacrifice to spirits belonged to Ethiopia's indigenous religions.
+**Answer: True**
 

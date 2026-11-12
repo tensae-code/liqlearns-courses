@@ -7,4 +7,6 @@ Answer in one or two sentences, in your own words.
 **2. (Sub lesson 2)** In your own words, explain Frumentius and give one example from this part of the lesson.
 
 **3. (Sub lesson 3)** In your own words, explain first hijra and give one example from this part of the lesson.
+**4. (Sub lesson 4)** In your own words: why does the Grade 9 book teach the indigenous religions before Judaism, Christianity and Islam?
+**Answer: Because they are the oldest layer — the foundation on which the later religions landed in Ethiopia.**
 

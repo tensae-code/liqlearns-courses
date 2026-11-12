@@ -14,3 +14,6 @@ Sub lesson 3 questions from the type files. Pass mark: State the guide's sharper
 ## Sub lesson 4 — Grade 11 depth: Early capitalism in depth — towns, banks and the price revolution
 
 Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **merchant capital** (wealth organised for trade and production beyond the guilds) and **price revolution** (the inflation driven by American silver after 1500).
+
+## Sub lesson 5 — Grade 12 depth: The Marxian critique — capitalism's great critic — pass mark
+The learner can retell this part in the story's order and answer its gate-pool questions (the part's own questions in questions/).

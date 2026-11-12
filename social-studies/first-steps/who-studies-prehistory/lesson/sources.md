@@ -6,10 +6,12 @@ countries: Ethiopia
 
 **Book 2:** *History, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published June 2022 under the General Education Quality Improvement Program for Equity (GEQIP-E), no ISBN printed in this file (the copyright page's ISBN, printer and contract fields are blank — a pre-print/proof state), 187 printed pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-teacher-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Three sister disciplines (teacher guide — evidence): prehistory is studied through archaeology (digging and studying artefacts and fossils), palaeontology and anthropology (human society and how humans developed and related) | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 1, printed pp. 2–3, 6–7, 11 (teacher guide — evidence); the writing line itself: Ethiopia, *History, Student Textbook, Grade 9*, Unit 1, printed pp. 2–3 |
 | Sub lesson 2 — History versus story, and the human timescale (teacher guide — evidence): history deals with real people and events, a story may be imagined; Homo sapiens dated to about 100,000 years ago and modern human beings to about 40,000 years ago, hominids and Homo sapiens first appearing in Africa | Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 1, printed pp. 2–3, 6–7, 11 (teacher guide — evidence) |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

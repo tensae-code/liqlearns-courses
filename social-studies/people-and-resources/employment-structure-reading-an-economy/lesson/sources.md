@@ -12,6 +12,7 @@ countries: Ethiopia
 | Sub lesson 2 — The quaternary — the knowledge sector | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 5, printed pp. 121–123 |
 | Sub lesson 3 — Structure as a signal | Ethiopia, *Geography, Student Textbook, Grade 10*, Unit 5, printed pp. 121–123 |
 | Teaching pattern and answer keys (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 10*, Unit 5, guide printed pp. 85–116 |
+| MLC extension (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 10*, Minimum Learning Competencies, guide printed pp. 169–171 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

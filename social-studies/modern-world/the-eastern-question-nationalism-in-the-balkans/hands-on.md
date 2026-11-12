@@ -7,3 +7,7 @@ Draw three arrows meeting at one point labelled 'Eastern Question': Balkan natio
 
 ## The watchers
 List the Great Powers watching the Balkans. For each, write one sentence: what would it gain, and what would it fear, if the Ottoman Empire fell tomorrow?
+
+## Grade 12 depth: The Balkan Wars, 1912–13 — the fuse toward 1914
+
+Re-draw this lesson's map or table with the new part added in a second colour, then tell the new part's story aloud from the drawing alone. Where the drawing cannot carry the story, the story is not yet learned — re-read that part.

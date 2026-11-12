@@ -18,6 +18,10 @@ Underlying drivers: rapid population growth, climate change, rough topography, i
 
 The consequences run to lost biodiversity, desertification, low yields, hunger, poverty, food insecurity and migration. Every consequence in the list is a human cost, not only a land cost.
 
+## The MLC extension — density and degradation (teacher guide — evidence)
+
+The Grade 10 minimum competencies expect learners to **explain how population density affects degradation levels of vegetation, water and soils** (teacher guide — evidence). The cause chain in this lesson is where that explanation belongs: the denser the population on a piece of land, the harder its vegetation, water and soils are pressed.
+
 ## Say it to your companion
 
 Explain why land degrades — the cause chain to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

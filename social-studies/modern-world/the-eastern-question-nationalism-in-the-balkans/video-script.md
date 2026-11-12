@@ -18,3 +18,6 @@ Around the edges, giants lean in: Russia, Austria, Britain, France — each want
 Crisis follows crisis. Nobody solves it. Everybody arms.
 
 This is the Eastern Question — and all Europe will feel its answer.
+
+[Grade 12 depth: The Balkan Wars, 1912–13 — the fuse toward 1914 — added scene. The animated map carries the story as the voice speaks.]
+Tell this part as story, in the lesson's own order, in the super-simple voice: who acted, what they wanted, and what changed because of it.

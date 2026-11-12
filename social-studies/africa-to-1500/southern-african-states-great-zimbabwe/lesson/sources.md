@@ -8,6 +8,7 @@ countries: Ethiopia
 
 **Book 2:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The stone city: 'Zimbabwe' in Shona means stone enclosure; stone kraals for cattle and rich men's houses; walls up to 10 m high built between 1200 and 1450; the enclosure the state's symbol of power and honour, still Zimbabwe's heritage emblem | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 5, printed pp. 115–116 |
@@ -15,6 +16,7 @@ countries: Ethiopia
 | Grade 9 depth — Consolidation, Mutapa and the Khoi-Khoi: southern states forming slowly from independent villages consolidating from the 11th century; Great Zimbabwe from c.1000 AD, walls and tower 13th–14th centuries, trading empire on cattle, crops and gold to the Indian Ocean coast, 11th–15th centuries; after 1450 the Rozwi clan kings founded Mwene Mutapa, later conquered by the Portuguese in the late 16th century; the Khoi-Khoi shifting c.1000 AD from hunting to sheep and cattle herding, expanding from c.1300 | Ethiopia, *History, Student Textbook, Grade 9*, Unit 5, printed pp. 94–96 |
 
 | Sub lesson 4 — Grade 11 depth: Great Zimbabwe in depth — stone city, gold trade, Mutapa | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 134–137 |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

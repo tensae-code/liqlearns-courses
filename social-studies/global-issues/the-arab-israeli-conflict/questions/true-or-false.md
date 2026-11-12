@@ -19,3 +19,6 @@ Say whether each sentence is true or false.
 
 **6. (Sub lesson 2) ** Each Arab-Israeli war settled the conflict's questions finally.
 **Answer: False** — each created new grievances; the three questions remain open.
+**7. (Sub lesson 3)** True or false: At Suez, Britain, France and Israel were forced to withdraw under superpower pressure.
+**Answer: True**
+

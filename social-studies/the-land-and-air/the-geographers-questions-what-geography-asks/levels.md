@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files (3 items). Pass mark: answer its ques
 
 ## Sub lesson 3 — The geographer's questions (teacher guide — evidence)
 Sub lesson 3 questions from the type files (3 items). Pass mark: answer its questions from lesson.md alone, including its figure-and-fact questions, without the lesson open.
+
+## Sub lesson 4 — The Grade 12 version — six questions for the final year
+Pass mark: recite the Grade 12 book's six questions and say how its list differs from the Grade 11 guide's seven.

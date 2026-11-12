@@ -25,3 +25,15 @@ a) Won an election  b) Fled the country  c) Crowned a successor  d) Signed a tra
 **6. (Sub lesson 3)** The forces that entered Addis Ababa were the —
 a) Imperial Guard  b) EPRDF  c) A UN army  d) The Eritrean navy
 **Answer: b) b) EPRDF**
+**7. (Unit 6 review — Grade 12)** Unit 6 review: The Derg took power in —
+a) 1960  b) 1974  c) 1987  d) 1991
+**Answer: b) 1974 — Revolution, deposition, the Derg.**
+
+**8. (Unit 6 review — Grade 12)** Unit 6 review: The land reform at the head of the Derg's programme came in —
+a) 1974  b) 1975  c) 1987  d) 1990
+**Answer: b) 1975 — Land to the tiller.**
+
+**9. (Unit 6 review — Grade 12)** Unit 6 review: Mengistu fled and the Derg fell in —
+a) 1987  b) 1989  c) May 1991  d) 1995
+**Answer: c) May 1991 — The EPRDF advance closed the regime.**
+

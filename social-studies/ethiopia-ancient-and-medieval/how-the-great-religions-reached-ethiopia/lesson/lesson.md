@@ -24,6 +24,16 @@ In the 7th century, Islam arrived — and its first chapter in Ethiopia is one o
 
 From that beginning, Islam grew along the trade routes of the east and south-east, until Ethiopia held both faiths side by side — the pattern every later unit of this course inherits.
 
+## Sub lesson 4 — Grade 9 depth: The oldest layer — indigenous religions of Ethiopia
+
+Before any faith arrived by ship or caravan, Ethiopia's peoples already prayed. The Grade 9 book opens its religions story with this oldest layer: beliefs native to a given culture and its land.
+
+In the settled farming communities, certain people became **priests of the old religion**. Their work was the village's survival: they **prayed for rain**, gave **thanks for the harvest**, and asked for **safety from natural hazards** — flood, drought, storm. The community did not let that work go unpaid: the priests were **paid tribute** for their services, in grain and goods, as surely as any official.
+
+Two more threads run through the old beliefs everywhere. The **ancestors were revered** — the dead of the family and the clan were not gone, but watching, and to be honoured. And **sacrifice was offered to the spirits** — gifts given to the powers of river, mountain, tree and sky, so that those powers would deal kindly with the living.
+
+Hold this layer in mind. It is the ground into which Judaism, Christianity and Islam later planted themselves in Ethiopia — and much of it never disappeared, but lived on underneath and alongside the newer faiths.
+
 ## Say it to your companion
 
 Tell the whole story back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

@@ -6,6 +6,7 @@ countries: Ethiopia
 
 **Book 1:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The enset-culture complex: southern and south-western Ethiopia among the country's most densely populated areas, sharing the enset-culture complex; markets served as communication across ethnic borders | Ethiopia, *History, Student Textbook, Grade 9*, Unit 8, printed pp. 164–167 |
@@ -13,6 +14,7 @@ countries: Ethiopia
 | Sub lesson 3 — Siltie Sera: organised through Sera; descent reckoned also through the mother line; a general assembly (YeMule Siltie Melcho) and a judiciary (the Raga system); economy of mixed agriculture — maize, wheat and spices in the lowlands, enset in the highlands | Ethiopia, *History, Student Textbook, Grade 9*, Unit 8, printed pp. 164–167 (with the Sera survey at printed pp. 160–164) |
 
 | Sub lesson 4 — Grade 11 depth: Sera-woma states, Gedeo, Konso and Gurage in depth — with the guide's Gurage names | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 210–213 |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

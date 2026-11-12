@@ -19,4 +19,6 @@ Say whether each statement is true or false.
 
 **6. (Sub lesson 3)** True or false: in this lesson, sacrifice means a faith woven into the machinery of rule, as in Aztec, Aksumite and Egyptian states.
 **Answer: False**
+**7. (Sub lesson 4)** True or false: The Inca imperial roads bound far mountain valleys into one state.
+**Answer: True**
 

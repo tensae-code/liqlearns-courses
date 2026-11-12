@@ -28,6 +28,14 @@ The teacher's guide states the same system in sharper, class terms — learn it 
 
 The Grade 11 book roots capitalism earlier than the factory: from about 1500, revived towns fill with merchants; merchant capital organises trade and production beyond the guilds; banking learns to move money across Europe; and American silver drives a price revolution through every market. Capitalism begins as a way of organising trade and credit — the factory is its later, louder child.
 
+## Sub lesson 5 — Grade 12 depth: The Marxian critique — capitalism's great critic
+
+The Grade 12 book does something the earlier books do not: it teaches capitalism together with the theory built to destroy it. Lesson 1 of the Grade 12 course places **the theoretical foundations of Marxian economics** beside the system's features, explicitly as capitalism's **great critique**. Learn the critique as the book presents it — as theory.
+
+Marx looked at the same factory the capitalism lesson describes and asked a different question: where does the profit come from? His answer: from **labour**. The worker sells labour-power for a wage; the value the worker creates in a day is greater than that wage; the difference — the surplus — is kept by the owner. On this foundation the theory builds: society divides into **two antagonistic classes**, owners and workers, whose interests cannot both be served; competition drives owners to squeeze wages and lengthen hours; crises of overproduction shake the system from inside; and history, driven by this class struggle, moves — so the theory argues — toward the workers taking power and holding the means of production in common: socialism.
+
+Whether a pupil accepts the theory or rejects it, the Grade 12 book insists it be known in its own terms — because without it, the colonial unit that follows, the Russian Revolution and the Cold War cannot be analysed, only narrated. The guide makes the same point in the classroom: its first unit prescribes a set **debate of classical capitalism versus Marxian economics**, pupil against pupil, theory against theory (teacher guide — evidence).
+
 ## Say it to your companion
 
 Retell this lesson's story to your companion in order — part 1 — then part 2 — then part 3 — using the lesson's own names and dates. Your companion asks you one hard question about it — answer from the lesson.

@@ -33,3 +33,11 @@ a) Before WWI  b) After the Second World War  c) In 1919  d) In 1979
 **8. (Sub lesson 2) ** The displaced people whose fate remains an open question are —
 a) Refugees from 1948 onward  b) Soldiers of 1914  c) Bandung delegates  d) League officials
 **Answer: a) Refugees from 1948 onward** — the third of the lesson's three questions.
+**9. (Sub lesson 3)** The Suez crisis of 1956 began when Nasser —
+a) Closed the canal to all ships forever  b) Nationalised the Suez Canal  c) Invaded Israel  d) Joined the Warsaw Pact
+**Answer: b) Nationalised the Suez Canal — Egypt took the British-French canal company into state hands.**
+
+**10. (Sub lesson 3)** The 1979 Iranian revolution replaced the Shah with —
+a) A military junta  b) An Islamic Republic under Khomeini  c) A British protectorate  d) A communist state
+**Answer: b) An Islamic Republic under Khomeini — Iran became a state ruled in the name of Islam.**
+

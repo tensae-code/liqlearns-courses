@@ -52,3 +52,7 @@ A further part was added from Ethiopia's *History, Grade 9* book: **The Grade 9 
 ## Grade 11 extension (Wave 4 Band F, placement 33)
 
 Added (Grade 11 depth) — **Feudal Europe in depth — lords, serfs, manors and the Church** (printed pp. 79–87 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Grade 11 depth). Gate pool for the new part: its own questions, as for every sub lesson.
+
+## History fix (2026-11-12)
+
+Provenance completed for placement(s) #36 — the placement's own book now stands as a Book entry in lesson/sources.md with per-part provenance rows at its exact printed pages (History fix section). The content already stood taught in this lesson; no lesson text changed for these items.

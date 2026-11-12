@@ -17,3 +17,7 @@ a) content concepts  b) map symbols  c) exam rules
 **4. (Sub lesson 3)** Which of these is a geographer's key question?
 a) How did it come to be?  b) Who won the match?  c) What is for lunch?
 **Answer: a) How did it come to be?**
+
+**5. (Sub lesson 4)** How many enquiry questions does the Grade 12 student book list?
+a) four  b) five  c) six  d) nine
+**Answer: c) six** — what is it, where is it, how did it come to be, how does it relate, how is it part of a functioning whole, how does its location affect lives.

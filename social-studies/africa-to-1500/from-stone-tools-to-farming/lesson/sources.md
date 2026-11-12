@@ -8,6 +8,7 @@ countries: Ethiopia
 
 **Book 2:** *History, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published June 2022 under the General Education Quality Improvement Program for Equity (GEQIP-E), no ISBN printed in this file (the copyright page's ISBN, printer and contract fields are blank — a pre-print/proof state), 187 printed pp. Printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-teacher-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Three Stone Ages: the earliest tools were stone; Palaeolithic (hunting and gathering), Mesolithic, Neolithic; Palaeolithic people discovered fire and began to use language (teacher guide — evidence) | Ethiopia, *History, Student Textbook, Grade 9*, Unit 1, printed pp. 14–17; fire and language: Ethiopia, *History, Teacher's Guide, Grade 9*, Unit 1, printed p. 20 (teacher guide — evidence) |
@@ -19,8 +20,26 @@ countries: Ethiopia
 
 | Sub lesson 5 — Grade 11 depth: Farming, surplus and the emergence of the state | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 15–21 |
 
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 No book error flagged by the placements touches this lesson. The fire-and-language addition is the teacher guide's (printed p. 20) and is labelled (teacher guide — evidence) in the table and the text.
 
 Searchable tags: Stone Age, Palaeolithic, Mesolithic, Neolithic Revolution, domestication, teff, dagussa, nug, enset, pottery, fire and language
+
+## History fix (2026-11-12) — provenance completed
+
+| Lesson part | Where it comes from |
+|---|---|
+| The emergence of states — features of a state and the theories and factors of state origin, as taught in this lesson's state-emergence parts | Ethiopia, *History, Student Textbook, Grade 9*, Unit 1, printed pp. 17–19 (placement 13) |
+
+History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
+
+## History fix (2026-11-12) — provenance completed
+
+| Lesson part | Where it comes from |
+|---|---|
+| The emergence of states — features of a state and the theories and factors of state origin, as taught in this lesson's state-emergence parts | Ethiopia, *History, Student Textbook, Grade 9*, Unit 1, printed pp. 17–19 (placement 13) |
+
+History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
+

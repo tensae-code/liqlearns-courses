@@ -30,6 +30,16 @@ The Grade 11 survey widens the ring around the highland kingdom: Gojjam across t
 
 The Omotic kingdoms of the south-west receive their Grade 11 depth under their own design: the tato system, sacral kingship in which the king's person is hedged with ritual and the kingdom's health is read in his. Kafa is the type case — isolated behind its forests, rich in coffee that grew wild in them, courted and feared by traders, and closed for centuries by policy as much as by trees.
 
+## Sub lesson 6 — Grade 9 depth: Kafa and Yem in depth — the forest kingdoms
+
+Now walk south, into the rain. After the Christian kingdom's decline, the southern peoples built independent states of their own — and the Grade 9 book lingers longest on two of them.
+
+**Kafa** lay south of the Gojeb river and north of the Omo, in a rainy, forested, fertile land, inhabited by peoples related to the Bench. It was known from at least the late 14th century — no newcomer state. Its king bore the title **Tato**, and his insignia were **twelve objects, many of gold**: the crown-jewels of a forest kingdom. The capital was **Bonga**, with **Anderecha** as the second seat of the court. Kafa was highly organised, influenced by the Christian highland state yet **independent of it** — and tough: it survived the Oromo pressure that broke so many of its neighbours.
+
+Its neighbour **Yem** fought its own corner in the Gibe region: it **repulsed the Oromo** — but after Jimma Abba Jifar formed and grew, Yem came under growing pressure, and raids and counter-raids between them lasted into the late 19th century.
+
+Two lessons hide in this pair. A state did not need the highlands' church or script to be a state: Kafa had kingship, insignia, capitals and diplomacy in the forest. And independence was not a gift but a defence, renewed generation after generation.
+
 ## Say it to your companion
 
 Tell the whole story of Damot, Kafa and the southern states back to your companion, part by part, in order — names, dates and places included. Your companion listens with the lesson closed and stops you at any name or date they cannot place; open the lesson together and repair that part.

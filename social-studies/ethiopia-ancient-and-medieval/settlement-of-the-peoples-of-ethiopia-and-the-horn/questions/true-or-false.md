@@ -19,4 +19,6 @@ Say whether each statement is true or false.
 
 **6. (Sub lesson 3)** True or false: in this lesson, board means the map as a compressed record of countless unwritten decisions.
 **Answer: False**
+**7. (Sub lesson 4)** True or false: In the book's account, fusion produced new communities with mixed languages and customs.
+**Answer: True**
 

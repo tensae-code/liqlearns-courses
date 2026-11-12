@@ -19,3 +19,6 @@ Pass mark: the learner can retell the Grade 11 depth part in the story's order a
 ## Sub lesson 5 — Grade 11 depth: The tato kingdoms in depth — Kafa and the Omotic states
 
 Pass mark: the learner can retell the Grade 11 depth part in the story's order and answer its gate-pool questions — the key terms are **tato** (the sacral royal title and system of Kafa and neighbours) and **Kafa** (the forest kingdom of coffee, type case of the tato states).
+
+## Sub lesson 6 — Grade 9 depth: Kafa and Yem in depth — the forest kingdoms — pass mark
+The learner can retell this part in the story's order and answer its gate-pool questions (the part's own questions in questions/).

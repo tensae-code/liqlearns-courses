@@ -22,3 +22,22 @@ Guide honesty: the guide's keyed Mesopotamian items print the circle as '3600' �
 Pairing note, carried for every lesson in this title: the teacher guide is an Addis Ababa bureau guide (English, 2022) set against an Amhara bureau student book (Amharic, © 2015 E.C.); they are NOT edition-matched, and the guide's unit order differs from the student book's (the guide's Unit 4 covers this same ancient and medieval world material). Pupil content above stands on the student book; guide material appears only in the rows labelled (teacher guide — evidence). History in lesson.md is told in the course's own words as story-like summary — dates and names are exactly as the placements give them; no textbook text is transcribed.
 
 Searchable tags: Mesopotamia, Euphrates, Tigris, Sumer, Akkad, Babylonia, Assyria, fertile crescent, 3500 BC, lugal, civilisation recipe
+
+## History fix (2026-11-12) — provenance completed
+
+**Book (History fix):** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mesopotamia — Sumer: warring city-states, ziggurats, irrigation, kings as their city god's representative, the plough, the potter's wheel, cuneiform (c.3200 BC), as taught in this lesson | Ethiopia, *History, Student Textbook, Grade 9*, Unit 2, printed pp. 26 (placement 16) |
+
+History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
+
+## History fix (2026-11-12) — provenance completed
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mesopotamia — Sumer: warring city-states, ziggurats, irrigation, kings as their city god's representative, the plough, the potter's wheel, cuneiform (c.3200 BC), as taught in this lesson | Ethiopia, *History, Student Textbook, Grade 9*, Unit 2, printed pp. 26 (placement 16) |
+
+History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
+

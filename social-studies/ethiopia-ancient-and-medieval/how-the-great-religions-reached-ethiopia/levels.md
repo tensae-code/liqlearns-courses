@@ -13,3 +13,6 @@ Pass mark: the learner can retell this part in order and answer its gate-pool qu
 ## Sub lesson 3 — Islam and the first hijra
 
 Pass mark: the learner can retell this part in order and answer its gate-pool questions — the key term is **first hijra** (the flight of the Prophet's persecuted followers to refuge at Aksum).
+
+## Sub lesson 4 — Grade 9 depth: The oldest layer — indigenous religions of Ethiopia — pass mark
+The learner can retell this part in the story's order and answer its gate-pool questions (the part's own questions in questions/).

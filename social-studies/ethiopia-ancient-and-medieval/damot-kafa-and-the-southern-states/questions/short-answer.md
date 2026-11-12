@@ -15,4 +15,6 @@ Answer in one or two sentences.
 **5. (Sub lesson 4)** In your own words, explain Ennarya and its place in this lesson's story.
 
 **6. (Sub lesson 5)** In your own words, explain tato and its place in this lesson's story.
+**7. (Sub lesson 6)** In your own words: what pressures did Yem face, and from whom?
+**Answer: Yem repulsed the Oromo in the Gibe region, but after Jimma Abba Jifar formed it came under growing pressure, with raids and counter-raids into the late 19th century.**
 

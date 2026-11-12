@@ -8,6 +8,7 @@ countries: Ethiopia
 
 **Book 2:** *Social Studies Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, first edition 2022 (cover dated 2014 E.C.), 142 printed pp. Printed page = PDF page − 5. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/social-studies/g07-teacher-placements.md (placement 21).
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kush and Napata: 'Kush' first in Egyptian records about 2000 BC for today's Sudan; close trade; Egyptian culture and gods taken up; Napata strong and rich to about 750 BC; five Kushite kings ruling Egypt in the 8th century BC; over 200 pyramids, statues, temples, palaces, royal baths; trade of gold, ivory, ebony to Rome and Arabia for olive oil, incense, timber, bronze | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 5, printed pp. 107–108 |
@@ -15,6 +16,7 @@ countries: Ethiopia
 | Sub lesson 2 — The succession spine (teacher guide — evidence): Egypt controlled Nubia in the 1500s BC; Assyrians drove the Nubians out about 670 BC and destroyed Napata, so Meroe supplanted Napata as political, religious and economic capital; Meroitic civilisation from about the 6th century BC as the peak — Horn of Africa trade monopoly, own art, architecture, language, writing, gods, iron work; end keyed to about 350 AD at King Ezana of Aksum's hands | Ethiopia, *Social Studies Teacher's Guide, Grade 7*, Unit 5 §§5.2–5.3, printed pp. 72–78 (teacher guide — evidence) |
 
 | Sub lesson 3 — Grade 11 depth: Kush in depth — Kerma, Napata, Meroe | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 28 (within §2.1) |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

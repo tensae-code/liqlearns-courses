@@ -10,6 +10,7 @@ countries: Ethiopia
 
 **Book 3:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Nomes, Menes and the Pharaoh: nomes (22 Upper, 20 Lower); Menes unites them about 3000 BC, first dynasty; Pharaoh held divine, served by commanders, tax officials and priests; society mostly farmers (wheat, barley, onions, flax, vegetables; cattle, goats, fishing) with scribes, merchants, craftsmen and slaves | Ethiopia, *Social Studies Student Textbook, Grade 7*, Chapter 5, printed pp. 104–105 |
@@ -18,6 +19,7 @@ countries: Ethiopia
 | Grade 9 depth — Pharaohs, kingdoms and papyrus: a Nile civilisation from the early 4th millennium BC; Pre-dynastic and Old, Middle and New Kingdoms; pharaohs held to be gods in a polytheist religion with belief in life after death, supported by civilian officials; achievements in building technology (the pyramid age) and writing on papyrus | Ethiopia, *History, Student Textbook, Grade 9*, Unit 2, printed pp. 23–25 |
 
 | Sub lesson 4 — Grade 11 depth: Egypt in depth — government, gods, writing and the calendar | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 23–28 |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

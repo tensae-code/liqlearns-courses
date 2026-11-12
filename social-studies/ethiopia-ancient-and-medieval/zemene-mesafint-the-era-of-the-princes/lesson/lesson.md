@@ -18,6 +18,14 @@ A divided land invites danger from outside. **Muhammad Ali of Egypt, strengtheni
 
 The Era of the Princes receives the Grade 11 system: emperors at Gondar reduced to puppets, crowned and discarded by the warlords who truly rule — Ras Mikael Sehul first among them, then the Yejju lords and their rivals, region by region. The empire's name survives its power; reunification, when it comes, will have to be fought for province by province — as the modern lessons will show.
 
+## Grade 9 depth — The Yejju dynasty, the dynasty behind the throne
+
+Inside the era of the princes, one family rose above the rest. In **1786, Ali** established the **Yejju dynasty** — the Warra Sheh — and for the next two generations it governed northern Ethiopia **in the name of Gondar's puppet emperors**, centred at **Debre Tabor**.
+
+Understand what that means. The emperors still sat at Gondar, crowned and anointed. But the army, the appointments and the taxes answered to the Yejju lords at Debre Tabor. The dynasty was the leading power of the Zemene-Mesafint, and at its strongest under **Ras Gugsa (1803–1825)** its word ran across the north.
+
+Not unchallenged. In Tigray, **Ras Walda Sellase of Enderta (r.1790–1816)** resisted Yejju supremacy, and after him **Dejjazmach Sabagadis (r.1822–1831)** — whom Gugsa tried, and failed, to neutralise. The Yejju held the centre; the north kept its own strong men; and the emperors reigned over both in name alone. That is the era in one picture: a throne that reigns, a dynasty that rules, and provinces that obey only when they must.
+
 ## Say it to your companion
 
 Tell your companion the era's dates, what 'king-makers and king-breakers' means, what Muhammad Ali took, and the three named local defenders.

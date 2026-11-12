@@ -55,3 +55,7 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 
 ## Extension stocked in the 2026-11-12 Wave 4 build
 A further part was stocked into this lesson from the Grade 10/11 books: **The Grade 11 depth — steam, factories, coal and iron** — with ADD GIF [GIF 23120] at its place in lesson/lesson.md. Its provenance is in lesson/sources.md; its questions close the multiple-choice file.
+
+## History fix (2026-11-12)
+
+Provenance completed for placement(s) #46 — the placement's own book now stands as a Book entry in lesson/sources.md with per-part provenance rows at its exact printed pages (History fix section). The content already stood taught in this lesson; no lesson text changed for these items.

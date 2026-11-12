@@ -18,3 +18,7 @@ a) prolonged unemployment  b) full employment  c) rising wages
 a) Ethiopia only  b) modern cities  c) old European countries
 **Answer: c) old European countries**
 
+
+**5. (Sub lesson 1)** The optimum population's indications include —
+a) full employment, high average living standards, balanced development  b) famine and begging  c) empty land and idle machines  d) falling living standards
+**Answer: a) full employment, high average living standards, balanced development** — the book's signs of the best fit (printed pp. 162–164).

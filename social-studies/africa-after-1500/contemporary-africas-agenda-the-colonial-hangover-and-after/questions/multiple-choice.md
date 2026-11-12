@@ -21,3 +21,11 @@ a) a  b) )  c)    d) C  e) o  f) r  g) r  h) u  i) p  j) t  k) i  l) o  m) n  n)
 **5. (Sub lesson 2) ** Nepotism and client-patron relations treat public office as —
 a) A public trust  b) Family or factional property  c) A burden to avoid  d) A lottery
 **Answer: b) Family or factional property** — hollowing the liberation generation's states.
+**6. (Sub lesson 3)** In the Grade 12 book's pattern, the one-party state was often justified in the name of —
+a) Foreign investment  b) Unity and development  c) Religious law  d) Colonial preference
+**Answer: b) Unity and development — Single parties claimed to guard unity and drive development.**
+
+**7. (Sub lesson 3)** The '1990s openings' means —
+a) Ports opened to trade  b) Multiparty constitutions and contested elections spreading  c) Borders opened  d) Schools opened
+**Answer: b) Multiparty constities and contested elections spreading — The openings reopened politics after the Cold War.**
+

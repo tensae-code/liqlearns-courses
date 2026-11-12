@@ -18,6 +18,10 @@ A fourth sector is newly emerging: the quaternary — knowledge work in informat
 
 A country's employment split across the sectors is its employment structure — and geographers read it as a development signal. Economies heavy in primary work read differently from economies where services and knowledge work carry the majority; as development proceeds, the split itself moves.
 
+## The MLC extension — comparing continents (teacher guide — evidence)
+
+The Grade 10 minimum competencies expect learners to **compare Africa's economic activities with other continents'** (teacher guide — evidence). The sector reading in this lesson is the African side of that comparison; the comparing itself is the extension task the competencies set.
+
 ## Say it to your companion
 
 Explain employment structure — reading an economy to your companion in your own words: what it is, the one fact you would never want to forget from it, and one example from your own surroundings or from Ethiopia. Your companion asks you one hard question about it — answer from the lesson.

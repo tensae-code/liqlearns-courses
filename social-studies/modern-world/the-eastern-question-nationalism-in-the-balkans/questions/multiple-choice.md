@@ -25,4 +25,11 @@ a) Nobody knew the region  b) Every solution alarmed one power or another amid i
 **6. (Sub lesson 2)** The consequences of the Balkan crises were serious for —
 a) The Balkans only  b) All Europe  c) Asia only  d) No one
 **Answer: b) All Europe** — The book stresses consequences for all Europe.
+**7. (Sub lesson 3)** In the First Balkan War (1912), the Balkan League attacked —
+a) Austria-Hungary  b) The Ottoman Empire  c) Russia  d) Italy
+**Answer: b) The Ottoman Empire — The League stripped the Ottomans of nearly all their European territory.**
+
+**8. (Sub lesson 3)** The Second Balkan War (1913) was fought —
+a) Between the Balkan states themselves, Bulgaria against its former allies  b) Between Britain and France  c) Between Russia and Japan  d) Between Spain and Portugal
+**Answer: a) Between the Balkan states themselves, Bulgaria against its former allies — The victors fell out over the spoils.**
 

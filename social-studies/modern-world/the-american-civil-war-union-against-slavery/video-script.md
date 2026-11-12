@@ -20,3 +20,6 @@ Lincoln shakes his head: the Union stays. War — 1861, 1862, 1863, 1864, 1865.
 The southern flag comes down. The Union holds.
 
 And the chains at the story's root are broken: slavery is abolished.
+
+[Grade 12 guide depth — The war's weight: 620,000 — added scene. The animated map carries the story as the voice speaks.]
+Tell this part as story, in the lesson's own order, in the super-simple voice: who acted, what they wanted, and what changed because of it.

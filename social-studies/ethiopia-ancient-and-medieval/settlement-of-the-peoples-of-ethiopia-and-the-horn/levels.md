@@ -13,3 +13,6 @@ Pass mark: the learner can retell this part in order and answer its gate-pool qu
 ## Sub lesson 3 — Why settlement history matters
 
 Pass mark: the learner can retell this part in order and answer its gate-pool questions — the key term is **board** (the settlement pattern on which later history plays out).
+
+## Sub lesson 4 — Grade 9 depth: Fission and fusion — how Ethiopia was peopled — pass mark
+The learner can retell this part in the story's order and answer its gate-pool questions (the part's own questions in questions/).

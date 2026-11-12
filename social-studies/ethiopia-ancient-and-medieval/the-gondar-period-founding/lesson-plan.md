@@ -49,3 +49,7 @@ The full text is lesson/lesson.md; every part traces to a book and page in lesso
 ## Grade 11 extension (Wave 4 Band F, placement 82)
 
 Added (Grade 11 depth) — **Fasilides in depth — expulsion, restoration and a fixed capital** (printed pp. 224–226 (within §8.2) of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Grade 11 depth). Gate pool for the new part: its own questions, as for every sub lesson.
+
+## History fix (2026-11-12)
+
+Provenance completed for placement(s) #84 — the placement's own book now stands as a Book entry in lesson/sources.md with per-part provenance rows at its exact printed pages (History fix section). The content already stood taught in this lesson; no lesson text changed for these items.

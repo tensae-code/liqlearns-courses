@@ -25,4 +25,11 @@ a) Accepted secession  b) Opposed secession  c) Joined the Confederacy  d) Staye
 **6. (Sub lesson 2)** The war ended with —
 a) Two American nations  b) The Confederacy's defeat and the abolition of slavery  c) Slavery extended north  d) British mediation
 **Answer: b) The Confederacy's defeat and the abolition of slavery** — The Confederacy was defeated and slavery abolished in the USA.
+**7. (Sub lesson 3)** The Grade 12 guide's key gives the Civil War's casualties as —
+a) 62,000  b) 620,000  c) 6,200,000  d) 120,000
+**Answer: b) 620,000 — The key fixes the war's scale at 620,000 casualties, 1861–65.**
+
+**8. (Sub lesson 3)** In the guide's key, the issue that outweighed all others was —
+a) Tariffs  b) Slavery  c) Railways  d) The gold standard
+**Answer: b) Slavery — Slavery outweighed all other divisive issues.**
 

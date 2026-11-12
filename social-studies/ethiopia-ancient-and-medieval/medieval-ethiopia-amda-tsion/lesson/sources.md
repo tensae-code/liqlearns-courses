@@ -10,6 +10,7 @@ countries: Ethiopia
 
 **Book 3:** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
 
+
 | Lesson part | Where it comes from |
 |---|---|
 | The campaigns of 1314–1344 | Student book, Chapter 4 — Printed pp. 83–84 |
@@ -18,6 +19,7 @@ countries: Ethiopia
 | Grade 9 depth — The war for the Zeila route: the underlying conflict monopoly of long-distance trade plus territorial expansion; Ifat defeated in 1332 lost control of the Zeila route to Amda Seyon, its successors fighting to recover independence and the route (war's height 1529–1543 told in the Adal lessons) | Ethiopia, *History, Student Textbook, Grade 9*, Unit 7, printed pp. 126–130 (and printed p. 138) |
 
 | Grade 11 depth — Expansion in depth — Amda Seyon and the kingdom's medieval shape | Ethiopia, *History, Student Textbook, Grade 11*, printed pp. 176–179 |
+
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

@@ -14,6 +14,10 @@ Under-population is population below the optimum: too few people to use the reso
 
 The cost is labour shortage: resource industries cannot staff themselves, and development slows despite abundant land and resources. Under-population is the quiet mirror of over-population — the same scale, tipped the other way.
 
+## The optimum itself — the best-fit size
+
+Both sides of this lesson are measured against the **optimum population**: the best-fit size, where a population matches its resources and technology. The book gives the optimum's **indications** — the signs a population is at its best fit: **full employment**, **high average living standards**, and **balanced development**. Hold those three signs in mind: a population beyond the optimum falls away from them on one side, and a population below it falls away on the other.
+
 ## Say it to your companion
 
 Tell your companion what under-population is, and how it mirrors the over-side.

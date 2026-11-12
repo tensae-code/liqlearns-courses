@@ -17,3 +17,11 @@ a) only Europe  b) Ethiopia among its producers  c) no African country  d) only 
 **4. (Sub lesson 2)** Bauxite is —
 a) a gemstone  b) the ore of aluminium  c) a fuel  d) a fertiliser
 **Answer: b) the ore of aluminium** — named in the table.
+
+**5. (Sub lesson 3)** The problems of mineral utilisation are about —
+a) finding new minerals  b) the gap between having mineral wealth and benefiting from it  c) naming minerals  d) drawing maps
+**Answer: b) the gap between having mineral wealth and benefiting from it** — the book's closing question for the section.
+
+**6. (Sub lesson 4)** The Grade 10 minimum competencies ask learners to describe locations of major world resources including —
+a) only coal  b) water, wildlife, oil and gas, gold, iron ore  c) only sand  d) no resources
+**Answer: b) water, wildlife, oil and gas, gold, iron ore** — the MLC's own list (teacher guide — evidence).

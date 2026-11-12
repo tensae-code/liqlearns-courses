@@ -19,3 +19,5 @@ Aztec religion centred on sacrifice, offered to keep the sun moving and the worl
 
 However strange it looks from outside, the teaching point is the same as at Aksum or Thebes: in the ancient world, religion was not beside the state; it was inside its machinery.. Watch the names appear one by one: sacrifice, great temple, state religion. This is the part of the story to hold.
 
+[Grade 9 depth: The Inca — Cuzco, quipu and the imperial roads — added scene. The animated map carries the story as the voice speaks.]
+Tell this part as story, in the lesson's own order, in the super-simple voice: who acted, what they wanted, and what changed because of it.

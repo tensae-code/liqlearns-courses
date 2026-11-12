@@ -24,3 +24,22 @@ Pairing note, carried for every lesson in this title: the teacher guide is an Ad
 Wave 4 extension: the Grade 9 teacher guide's moving-court placement (Unit 7, printed p. 125) is stocked here as labelled evidence only; it is never counted as pupil-taught.
 
 Searchable tags: Solomonic restoration, Yekuno Amlak, Yetbarak, Yagbe'a Tsion, Amba Geshen, 1270
+
+## History fix (2026-11-12) — provenance completed
+
+**Book (History fix):** *History, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University, Addis Ababa, first published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E), ISBN: 978-99990-0-064-2, 210 printed pp. Printed page = PDF page − 9 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/history/g09-student-placements.md
+
+| Lesson part | Where it comes from |
+|---|---|
+| The 'Solomonic' dynasty — Yekuno-Amlak 1270, the Sheba–Solomon legend of the Kibre Negest, Menelik I, legitimation to 1974, as taught in this lesson | Ethiopia, *History, Student Textbook, Grade 9*, Unit 7, printed pp. 120–121 (placement 65) |
+
+History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
+
+## History fix (2026-11-12) — provenance completed
+
+| Lesson part | Where it comes from |
+|---|---|
+| The 'Solomonic' dynasty — Yekuno-Amlak 1270, the Sheba–Solomon legend of the Kibre Negest, Menelik I, legitimation to 1974, as taught in this lesson | Ethiopia, *History, Student Textbook, Grade 9*, Unit 7, printed pp. 120–121 (placement 65) |
+
+History fix note (2026-11-12): the History coverage audit found this lesson's content standing but cited to another grade's book. The rows above cite the placement's own book at its own printed pages for the parts of this lesson that teach that placement's story; the lesson text was already teaching it, so no text change was needed — the provenance was the gap, and it is now closed.
+

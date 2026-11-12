@@ -49,3 +49,7 @@ Paper and a pencil. Nothing else, beyond what hands-on.md names for its activiti
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md (Ethiopia, *History, Student Textbook, Grade 11*). A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+## History fix (2026-11-12)
+
+Added (Sub lesson 4 — Grade 9 depth: Fission and fusion — how Ethiopia was peopled) — the narrative part in lesson/lesson.md, its provenance rows in lesson/sources.md, one hands-on activity, a video-script scene, and questions tagged (Sub lesson 4) in questions/. Gate pool for the new part: its own questions, as for every part.

@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — The metal and fuel minerals | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 73–75 |
 | Sub lesson 2 — Industrial minerals | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 3, printed pp. 73–75 |
 | Mining at about 1.5% of GDP (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 5, printed pp. 144–152 |
+| Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 3 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 3, guide printed pp. 61–98 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

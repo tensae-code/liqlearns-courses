@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — Malaria’s altitude | Ethiopia, *Geography, Student Textbook, Grade 9*, Unit 4, printed pp. 109–111 |
 | Sub lesson 2 — Health improving | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 4, printed p. 130 |
 | Clean-water access and drought-linked disease incl. cholera (teacher guide — evidence) | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 4, printed p. 130 |
+| Teaching pattern and answer keys (teacher guide — evidence) — Grade 9 Unit 4 | Ethiopia, *Geography, Teacher Guide, Grade 9*, Unit 4, guide printed pp. 99–142 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

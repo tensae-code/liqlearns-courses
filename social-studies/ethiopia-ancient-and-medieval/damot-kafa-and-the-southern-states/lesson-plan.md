@@ -59,3 +59,7 @@ Added (Sub lesson 4) — **The southern and western states in depth — Gojjam t
 ## Grade 11 extension (Wave 4 Band F, placement 74)
 
 Added (Sub lesson 5) — **The tato kingdoms in depth — Kafa and the Omotic states** (printed pp. 203–207 of the Grade 11 student book): the narrative part in lesson/lesson.md, its provenance row in lesson/sources.md, one hands-on activity, a video-script scene, and 4 questions (one per type file) tagged (Sub lesson 5). Gate pool for the new part: its own questions, as for every sub lesson.
+
+## History fix (2026-11-12)
+
+Added (Sub lesson 6 — Grade 9 depth: Kafa and Yem in depth — the forest kingdoms) — the narrative part in lesson/lesson.md, its provenance rows in lesson/sources.md, one hands-on activity, a video-script scene, and questions tagged (Sub lesson 6) in questions/. Gate pool for the new part: its own questions, as for every part.

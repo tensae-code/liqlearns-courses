@@ -10,4 +10,9 @@ Answer in a sentence or two.
 
 **3. (Sub lesson 3)** Name the two pincers that closed the war in Europe.
 **Answer:** From the west, the combined American-British force through Normandy and France; from the east, the Red Army through Poland — meeting at the Elbe on April 25, 1945.
+**4. (Unit 4 review — Grade 12)** Unit 4 review: Give two interwar roads from the 1929 crash to WWII.
+**Answer: The Depression shook capitalism and discredited governments; Fascism in Italy and Nazism in Germany (with militarist Japan) rose on the wreckage and drove toward war.**
+
+**5. (Unit 4 review — Grade 12)** Unit 4 review: Why could pupils of Unit 3 judge the League's failure harshly?
+**Answer: Because the League had failed Ethiopia in 1935 — the unit positions them to judge Versailles' organisation by that test.**
 
