@@ -15,6 +15,8 @@ countries: Ethiopia
 | Sub lesson 5 — Noise or music? The seven sounds | Book 1, §1.2.3–§1.2.4, printed pp. 24–25 |
 | Sub lesson 6 — Moving to note values | Book 1, printed p. 124 |
 
+| The Grade 5 closing exercise on faster notes, dynamics and tempo (citation completed) | Grade 5 Student Textbook, printed pp. 41–43 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 5 book's tempo table lists Allegretto as "very fast", above Allegro "fast" — the lesson keeps the book's own ordering and says so in the tempo sub lesson, for fidelity to the source, exactly as the placements flag it. The seven-sounds table is the book's own mapping (C = Do … B = Si) with Do taken as the starting base, as printed.

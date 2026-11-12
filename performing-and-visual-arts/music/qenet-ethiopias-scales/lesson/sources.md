@@ -18,6 +18,21 @@ countries: Ethiopia
 | Sub lesson 4 — Kodály hand signs and music time (teacher guide — evidence) | Book 3, printed pp. 13–18 |
 | Sub lesson 5 — Sight reading and dictation | Book 1, §2.2, printed pp. 49–56 |
 
+| Sub lesson — intervals, the building law of qenet | Grade 8 Student Textbook, printed pp. 28–29 (§1.2.3) |
+| Sub lesson — the interval tables | Grade 8 Student Textbook, printed pp. 31–32 |
+| Sub lesson — Tizta minor formation | Grade 8 Student Textbook, printed pp. 30–31 |
+| Sub lesson — Bati minor formation | Grade 8 Student Textbook, printed pp. 32–33 |
+| Sub lesson — Anchi Hoye formation; Activity 2.2 | Grade 8 Student Textbook, printed pp. 33–34 |
+| Sub lesson — Ambassel formation | Grade 8 Student Textbook, printed pp. 34–35 |
+| Sub lesson — sound dictation | Grade 8 Student Textbook, printed p. 50 |
+| Sub lesson — the chapter's melodies; the ስራ chant | Grade 8 Student Textbook, printed pp. 51–54 |
+| Sub lesson — Activity 2.5 melodies | Grade 8 Student Textbook, printed pp. 55–56 |
+| Sub lesson — qana and the qenet; Ezra Abate's areas | Grade 8 Student Textbook, printed p. 27 (§1.2.2) |
+| Sub lesson — the Grade 7 guide's folk details behind the modes (teacher guide — evidence) | Grade 7 Teacher Guide, printed p. 1 |
+| Sub lesson — the Grade 8 guide's qenet framing (teacher guide — evidence) | Grade 8 Teacher Guide, printed p. 2 |
+
+| Qenet teaching, Grade 8 depth (citation completed) | Grade 8 Student Textbook, printed p. 54 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Anchihoye practice songs named in the Grade 8 guide's answer key are placed by title and purpose only — no song is transcribed. The Grade 8 student book's four-qenet-from-intervals work is taught at the level its placement gives (the qenet rebuilt from interval theory) without inventing interval tables the placement does not print. Teacher-guide parts are labelled evidence; the qenet constructions themselves stand on the Grade 7 student book.

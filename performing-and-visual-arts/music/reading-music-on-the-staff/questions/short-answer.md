@@ -16,3 +16,6 @@ Answer in a short sentence of your own.
 
 **5. (Sub lesson 6)** What does the bottom number of a time signature tell?
 **Answer: Which note-kind measures the beat.**
+
+**6. (Sub lesson 7)** List the sign inventory in order as the part teaches it.
+**Answer:** Staff (lines and spaces); G and F clefs; notes and rests with values; accidentals (sharp, flat, natural); bars and bar lines; key signatures; time signatures.

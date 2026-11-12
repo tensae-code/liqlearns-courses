@@ -21,3 +21,11 @@ a) birds, animals, instruments  b) cars, doors, rain  c) songs, dances, drawings
 **5. (Sub lesson 2)** Imitating a sound means —
 a) writing it down  b) making the sound back with your voice  c) forgetting it
 **Answer: b) making the sound back with your voice**
+
+**6. (Sub lesson 3)** The Grade 2 guide places Performing and Visual Arts…
+  a) Inside children's daily life, on the cultural side of the school b) Only in examination week c) Only in books
+**Answer: a) Inside children's daily life, on the cultural side of the school** — the guide's Chapter 1 introduction (section level).
+
+**7. (Sub lesson 3)** This part is cited at section level only because…
+  a) The guide is a scan with no text layer b) The pages are missing c) The lesson is finished
+**Answer: a) The guide is a scan with no text layer** — read visually at section level — no finer citation is claimed.

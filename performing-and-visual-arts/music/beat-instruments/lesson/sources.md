@@ -4,12 +4,16 @@ countries: Ethiopia
 
 **Book 1:** *Grade 3 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 3ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 85 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g03-student-placements.md.
 
+**Book 2:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Beat instruments defined (striking, clashing, beating with a stick); the set of six named | Grade 3 Student Textbook, §2.1.2, printed p. 21 |
 | Sub lesson 2 — አታሞ atamo: short drum, open wood or tin, hide at front and back, for secular music, mostly used by girls/women | Grade 3 Student Textbook, printed p. 21 |
 | Sub lesson 3 — ከበሮ kebero: wood, cattle hide at front and back; serves in various spiritual chants | Grade 3 Student Textbook, printed p. 22 |
 | Sub lesson 4 — ነጋሪት negarit: beaten with a large stick; palace proclamations and coronation festivals in ancient times | Grade 3 Student Textbook, printed pp. 22–23 |
+
+| Beat instruments at Grade 8 depth, with the festival detail (citation completed) | Grade 8 Student Textbook, printed p. 16 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

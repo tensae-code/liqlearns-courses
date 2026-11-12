@@ -19,3 +19,6 @@ Sub lesson 5 questions from the type files. Pass mark: write one note above and 
 
 ## Sub lesson 6 — Time signatures and reading a melody
 Sub lesson 6 questions from the type files. Pass mark: read 4/4, 3/4 and 2/4 aloud by their two numbers and apply the stem rule to three notes.
+
+## Sub lesson 7 — Music as written language: the sign inventory (Grade 8 depth)
+Sub lesson 7 questions from the type files. Pass mark: recite the sign inventory whole and say what written language means for music, in two sentences.

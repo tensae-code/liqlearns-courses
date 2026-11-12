@@ -18,6 +18,10 @@ Think of a church in the early morning. Before you see anything, you hear it: a 
 
 Hold the three together by their metals: bell — iron. Qachil — iron. Tsenatsil — iron, brass, sometimes silver. Wood and hide made the drums of the last lesson; metal makes the church's instruments.
 
+## Dibe and tsenatsil at Grade 8 depth
+
+The Grade 8 book's family teaching adds depth to this lesson's metal voices (printed pp. 16–18). The **dibe** stands in the beat-giving roll — **kebero, atamo, negarit, dibe, tsenatsil** — the instruments that **give more feeling to cultural musics at social and religious systems**: the dibe is one of the struck beat-keepers of celebration and worship. And the **tsenatsil** you already shake here is named in that same roll with its full office: a shaken instrument of the church's chant, sounded **by shaking in the hand and striking with the finger** in the guide's family teaching — metal ringing in time with the chant, giving the worship its bright pulse. Bell, qachil and tsenatsil of the first meeting now stand inside the Grade 8 families whole.
+
 ## Say it to your companion
 
 Name the three church instruments, and for each one say its metal. Your companion checks: bell — iron, large, serves the church; qachil — iron, serves spiritual melody; tsenatsil — iron, brass, sometimes silver, serves the church.

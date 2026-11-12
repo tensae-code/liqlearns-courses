@@ -16,6 +16,12 @@ The parts of this lesson, in order — the list the learner sees from the start,
 4. **Kodály hand signs and music time (teacher guide — evidence)** — each scale degree sung with a hand sign at a rising body level; simple and compound meter; counting 6/8 two ways; 2/2 and 2/4 (Grade 8 teacher guide, printed pp. 13–18).
 5. **Sight reading and dictation** — solfege's two parts — sight reading and dictation; rhythmic dictation in 4/4, 3/4 and 2/4; melody sight-reading sets (Grade 7, printed pp. 49–56).
 
+6. **Intervals — the building law of qenet** — an interval is the vibration-measure difference between two sounds; five interval kinds (major, perfect, minor, augmented, diminished) form the qenet.
+7. **Tizta minor and Bati minor, formed** — the minor formations of the two great qenet, built by their interval patterns from the base sound.
+8. **Anchi Hoye and Ambassel, formed — with Activity 2.2** — the remaining two qenet formed by intervals; Activity 2.2 builds and sings them.
+9. **Dictation and melodies at Grade 8 depth** — sound dictation; the music-reading chapter's melodies and the ስራ chant; Activity 2.5's melodies performed.
+10. **Qana, Ezra Abate's areas, and the guides' qenet evidence** — qana — the sound-structures that enable melody; Dr Ezra Abate's three qenet areas; the G7/G8 guides' folk and qenet details as labelled evidence.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

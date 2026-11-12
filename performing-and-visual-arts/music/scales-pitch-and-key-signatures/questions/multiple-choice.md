@@ -21,3 +21,19 @@ Pick the one right answer.
 **5. (Sub lesson 5)** Counting rhythm in the guide is done with…
   a) Spoken syllables b) Only silent reading c) Finger snapping only
 **Answer: a) Spoken syllables** — rhythm is counted with spoken syllables, then practised on written rhythms.
+
+**6. (Sub lesson 6)** Exercise 1.2 sets how many major-scale constructions?
+  a) Nine b) Two c) Four
+**Answer: a) Nine** — nine tasks — E, A, B-flat, E-flat, F-sharp and fellows, in named values and clefs.
+
+**7. (Sub lesson 6)** E major in Exercise 1.2 is built…
+  a) In whole notes (G clef) and half notes (F clef) b) Only sung, never written c) In rests
+**Answer: a) In whole notes (G clef) and half notes (F clef)** — the exercise names value and clef for every build.
+
+**8. (Sub lesson 7)** Exercise 2.2 sings its patterns…
+  a) By the letters under the notes, voice raised b) By humming with eyes closed c) By page numbers
+**Answer: a) By the letters under the notes, voice raised** — letter-guided singing on the G clef — high.
+
+**9. (Sub lesson 7)** Exercise 2.3 holds which syllable through the F-clef melody?
+  a) La b) Do c) Mi
+**Answer: a) La** — read the low melody whole, holding 'la'.

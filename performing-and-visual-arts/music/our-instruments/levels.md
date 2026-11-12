@@ -13,3 +13,9 @@ Sub lesson 3 questions from the type files. Pass mark: name the washint and poin
 
 ## Sub lesson 4 — ክራር — krar
 Sub lesson 4 questions from the type files. Pass mark: name the krar and point to it, and name all four instruments together from the picture.
+
+## Sub lesson 5 — The regional instrument roll and the negarit's history (Grade 6 depth)
+Sub lesson 5 questions from the type files. Pass mark: recite the Grade 6 roll and tell the negarit's messenger history in two sentences.
+
+## Sub lesson 6 — Washint, mesenqo and kebero at Grade 6 depth
+Sub lesson 6 questions from the type files. Pass mark: give one Grade 6 depth-fact for each of washint, mesenqo and kebero.

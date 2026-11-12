@@ -26,6 +26,26 @@ The Grade 8 guide teaches solfeggio through the **Kodály method**: every scale 
 
 Reading music is proved two ways: **SIGHT READING** — sing or play written music you have never seen — and **DICTATION** — write down what you hear. The book's practice: complete bars with the missing note or rest; add the barlines; build five bars for each given signature, in the **simple** time signatures (2/4, 3/4, 4/4 — top number beats per bar, bottom number the note type). Then **rhythmic dictation**: in 4/4, 3/4 and 2/4, write **only the rhythm** of the sounds the teacher plays. The Grade 8 book carries the same pair onward as its music-reading chapter. Proof by eye, proof by ear — a reader has both.
 
+## Sub lesson 6 — Intervals — the building law of qenet
+
+The Grade 8 book rebuilds the qenet from their law (§1.2.3, printed pp. 28–29, tables to pp. 31–32): **an interval (ኢንተርቫል) is the vibration-measure difference between two sounds**, and it serves as **the law for forming the varied qenet**. Its worked example: from C to D — between 220 Hz and 240 Hz, the difference 240 − 220 = **20 Hz is taken as the distance between the two sounds**. **Five interval kinds form qenet: major, perfect, minor, augmented and diminished.** Any qenet's formation is decided by these intervals: count the starting sound as the base, apply the interval pattern, and the qenet stands. The book's interval tables (pp. 28–29 and 31–32) are the working charts of this law — build from them, not from memory alone.
+
+## Sub lesson 7 — Tizta minor and Bati minor, formed
+
+Beside the majors of Sub lesson 2 stand their minors, formed by the same interval law. **Tizta minor**: the Tizta pattern turned to its minor formation — the five sounds kept, their interval order giving the graver, softer colour the mode is loved for. **Bati minor**: Bati's leavings-out (2nd and 6th, from Sub lesson 2) in its minor formation, its own interval order from the base sound. Build both from the base by intervals — never by guessing from the major: same family name, different law, different soul.
+
+## Sub lesson 8 — Anchi Hoye and Ambassel, formed — with Activity 2.2
+
+The set completes. **Anchi Hoye**: formed by its own interval pattern from the base — the festive mode of the church-year songs you met in Traditional and Festival Songs, now built, not only heard. **Ambassel**: the fourth formation, its interval order the most winding of the four — build it slowly, sound by sound, checking each interval against the table. The book's **Activity 2.2** sets the forming to work: build the scales, sing them, and let a partner check your intervals. Four qenet, one law — you can now form any of them from any base.
+
+## Sub lesson 9 — Dictation and melodies at Grade 8 depth
+
+Proof by ear, deepened. The Grade 8 music-reading chapter (printed pp. 50–56) runs **sound dictation** — hear the sounds, write them — beside its printed melodies, among them the **ስራ chant**, set in the grade books' qenet. **Activity 2.5's melodies** are the performance proof: sing or play each printed melody at sight, in its qenet, keeping its intervals true. Dictation writes what the ear catches; sight performance sings what the eye reads; the interval law holds both honest.
+
+## Sub lesson 10 — Qana, Ezra Abate's areas, and the guides' qenet evidence
+
+Before a melody is created, the Grade 8 book says (§1.2.2, printed p. 27), **sound-structures called ቃና (qana) that enable melody-making are needed**; these sound orderings, arranged on ordering laws, **form the qenet**. The researcher **Dr Ezra Abate's study confirms qenet sound-structures by area**: **North and Central Ethiopia (Tigray, Amhara, Shewa); the East (Harar, Dire Dawa, Somali); the South and West (South Ethiopia, Gambela, Benishangul)**. The guides add their evidence (**teacher guide — evidence**): the Grade 7 guide's opening (p. 1) carries the folk-music details behind the modes, and the Grade 8 guide (p. 2) frames the same qenet teaching from the teacher's desk — both labelled evidence, beneath the pupil book's law.
+
 ## Say it to your companion
 
 Build a qenet for your companion: sing a five-sound ladder and let them name which diatonic sounds you left out — Tizta or Bati?

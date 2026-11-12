@@ -16,3 +16,9 @@ Answer in a short sentence of your own.
 
 **5. (Sub lesson 5)** Which two staffs does the guide's reading cover?
 **Answer: The treble (G) staff and the bass (F) staff.**
+
+**6. (Sub lesson 6)** Name three majors Exercise 1.2 builds besides C and F.
+**Answer:** Any three of: E, A, B-flat, E-flat, F-sharp (and the exercise's remaining majors).
+
+**7. (Sub lesson 7)** Name the poem-melody Exercise 2.2 reaches.
+**Answer:** “Our Historical Heritage”.

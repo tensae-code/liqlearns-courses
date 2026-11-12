@@ -21,3 +21,11 @@ Pick the one right answer.
 **5. (Sub lesson 5)** At Genna, the young men hold…
   a) Bent gena sticks and hold contests b) Umbrellas c) Paint brushes
 **Answer: a) Bent gena sticks and hold contests** — Genna is played and celebrated with bent gena sticks and contests.
+
+**6. (Sub lesson 6)** “Greetings — The Music Man” is…
+  a) The book's one English song, printed as a score b) An Amharic anthem c) A counting song
+**Answer: a) The book's one English song, printed as a score** — Grade 5, p. 123 — English, with its music, as a score image.
+
+**7. (Sub lesson 6)** Its purpose in the book is…
+  a) A language link — music carrying English greeting practice b) Replacing Amharic lessons c) Testing handwriting
+**Answer: a) A language link — music carrying English greeting practice** — greetings sung are greetings remembered.

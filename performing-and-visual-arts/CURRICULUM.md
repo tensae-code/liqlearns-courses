@@ -131,6 +131,26 @@ lessons are the books'.
   gained the books' shape records, both glossaries and all
   seven reference lists.
 
-**The whole course stands at 111 lessons, 1,689 questions and
-182 pictures/GIFs.** See ABOUT.md for the full book list and
+- **PVA FIX — audit close-out, Band D (Music) — BUILT
+  2026-11-12:** the audit's misses in the Music title closed:
+  77 placements stocked, 26 citations fixed, 20 NEW lessons
+  (Performing Kinds of Music; Moving in Note Values; The
+  Value of Practising Music; The Elements of Music; Art That
+  Teaches the Community — traffic safety, the HIV/AIDS and
+  doping teachings and "The Careful Student" in the books'
+  own framing, songs named never transcribed; Reading the
+  Beat; History in Music: Adwa and the Patriotic Songs;
+  Appreciating Indigenous Knowledge in Music; Song:
+  Knowledge Blossoms; Amhara Music History; Musicians of the
+  Amhara Region; The Regional Culture Groups; Saint Yared;
+  Making Traditional Instruments; History of Indigenous
+  Music; Indigenous Music and Culture; Ethiopian Music in
+  Four Contexts; Ethiopia's Instrument Families; Modern
+  Instruments; History of African and World Music), 189
+  questions added, 9 media filed (pictures 14600,
+  14602–14607, GIFs 14620–14621, all drawn and
+  frame-checked).
+
+**The whole course stands at 131 lessons, 1,878 questions and
+191 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.

@@ -10,12 +10,23 @@ countries: Ethiopia
 
 **Book 4:** *Grade 6 Performing and Visual Arts Teacher Guide (6ተኛ ክፍል የክወናና የዕይታ ጥበባት ትምህርት የመምህር መማሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., printed front matter I–VI + body from printed p.1 + syllabus to printed p.119. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-teacher-placements.md.
 
+**Book 5:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What Ethiopian traditional music is | Book 1, §1.2–§1.2.1, printed pp. 14–20 |
 | Sub lesson 2 — Saint Yared and the birth of Ethiopian notation (teacher guide — evidence) | Book 2, printed pp. 2–7 |
 | Sub lesson 3 — Origins of music and of instruments (teacher guide — evidence) | Book 3, printed pp. 41–44 |
 | Sub lesson 4 — Instrument families: strings, winds, drums and shaken (teacher guide — evidence) | Book 4, §3.1, printed pp. 59–68 |
+
+| Sub lesson — Professor Ashenafi Kebede | Grade 7 Student Textbook, printed pp. 94–95 |
+| Sub lesson — Beshah Tekle Mariam | Grade 7 Student Textbook, printed pp. 95–96 |
+| Sub lesson — the chant types' characters | Grade 7 Student Textbook, printed p. 91 |
+| Sub lesson — the Grade 7 telling continued | Grade 7 Student Textbook, printed pp. 92–94 |
+| Sub lesson — music as old as humankind (Grade 8 telling) | Grade 8 Student Textbook, printed p. 12 |
+| Sub lesson — traditional instruments as material heritage, defined | Grade 8 Student Textbook, printed p. 15 |
+| Sub lesson — music, instruments and dance in history; how instruments developed | Grade 8 Student Textbook, printed pp. 12–15 |
+| Sub lesson — the modern-instruments contrast, Grade 7 telling | Grade 7 Student Textbook, printed pp. 92–94 (§3.3 opening) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

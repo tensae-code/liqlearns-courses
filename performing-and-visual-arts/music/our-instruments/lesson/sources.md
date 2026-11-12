@@ -8,6 +8,8 @@ countries: Ethiopia
 
 **Book 3:** *Grade 2 Performing and Visual Arts Teacher Guide (የክወናና የዕይታ ጥበባት ትምህርት ፪ኛ ክፍል የመምህር መምሪያ)* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C., body/syllabus to printed p. 80. Printed page = PDF page − 6 in the body. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g02-teacher-placements.md.
 
+**Book 4:** *Grade 6 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 6ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — መሰንቆ masenqo (first meeting, inside the song “መዘመር መዘመር” / Singing, Singing) | Grade 1 Student Textbook, printed p. 33 |
@@ -15,6 +17,10 @@ countries: Ethiopia
 | Sub lesson 3 — ዋሽንት washint (first meeting, same song) | Grade 1 Student Textbook, printed p. 33 |
 | Sub lesson 4 — ክራር krar (first meeting, same song); the four instruments pictured together | Grade 1 Student Textbook, printed p. 33; Grade 2 Student Textbook, Figure 5.3, printed p. 93 |
 | The country's instruments and their appearance/forms — what they look like and what they are (teacher guide — evidence) | Grade 2 Teacher Guide, printed pp. 39–43 (§3.1, p. 40) |
+
+| Sub lesson — the regional instrument roll; the negarit's history | Grade 6 Student Textbook, printed pp. 66–68 |
+| Sub lesson — washint at Grade 6 depth | Grade 6 Student Textbook, printed pp. 66–70 |
+| Sub lesson — mesenqo and kebero at Grade 6 depth | Grade 6 Student Textbook, printed pp. 66–70 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

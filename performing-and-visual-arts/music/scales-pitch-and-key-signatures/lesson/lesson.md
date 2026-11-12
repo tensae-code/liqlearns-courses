@@ -26,6 +26,14 @@ To build a major or minor scale on a new starting sound, its steps must keep the
 
 The Grade 6 teacher guide teaches the same ground as the teacher's side of the desk: the **diatonic major scale**, the **diatonic minor scale**, and **key signatures (የቁልፍ ምልክቶች)** — how sharps and flats at the staff head set the scale. It adds the practice this lesson's singing grows into: **counting rhythm with spoken syllables**, practising counting written rhythms, and **reading notes written on the treble and bass staffs** — the pitches of thin (high) and thick (low) sounds. Evidence only, and labelled so; the ladder itself you have already climbed from the student book.
 
+## Sub lesson 6 — Exercise 1.2 — building nine major scales
+
+The Grade 6 book's practice goes further than this lesson's first builds (**Exercise 1.2, printed p. 17**): **nine construction tasks** — among them **E major in whole notes (G clef) and half notes (F clef); A major in quarter notes (G clef)** and the flat-side and sharp-side majors **B-flat, E-flat and F-sharp** — each scale built in a named note value on a named clef. The rule never changes: keep the major pattern W-W-H-W-W-W-H, and let the key signature do its keeping. Build all nine as the exercise sets them; a scale is not built until it stands on both clefs.
+
+## Sub lesson 7 — Exercises 2.2 and 2.3 — singing high, singing low
+
+Pitch is proved by voice. **Exercise 2.2 — singing high (printed pp. 39–40)**: sing the pictured patterns **using the letters under the notes, voice raised** — do-mi patterns (ዶ ሚ ዶ ሚ ሶል ሚ…) written on the G clef, up to the poem-melody **“Our Historical Heritage”**. **Exercise 2.3 — singing low (printed p. 41)**: read the **F-clef melody in low pitch**; played correctly, tell the teacher what melody it gave; and read the F-clef melody whole while **holding the syllable “la”**. High belongs to the G clef, low to the F clef — and now your voice, not only your eye, knows which is which.
+
 ## Say it to your companion
 
 Sing a major scale to your companion but stop on the 7th sound. They must sing the last step home and say whether it was whole or half.

@@ -16,3 +16,9 @@ Sub lesson 4 questions from the type files. Pass mark: write the key signature f
 
 ## Sub lesson 5 — Scales and key signatures in the guide (teacher guide — evidence)
 Sub lesson 5 questions from the type files. Pass mark: count one written rhythm aloud with syllables and read one melody line on each staff.
+
+## Sub lesson 6 — Exercise 1.2 — building nine major scales
+Sub lesson 6 questions from the type files. Pass mark: build any three of the nine Exercise 1.2 scales correctly, in their set values and clefs.
+
+## Sub lesson 7 — Exercises 2.2 and 2.3 — singing high, singing low
+Sub lesson 7 questions from the type files. Pass mark: sing one Exercise 2.2 high pattern by its letters and read one Exercise 2.3 low melody holding 'la', without a pitch slip.

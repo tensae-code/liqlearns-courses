@@ -15,6 +15,10 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **Origins of music and of instruments (teacher guide — evidence)** — music in every culture — the Hurrian Hymn and the Seikilos Epitaph; the oldest instruments — bone flutes, the Alligator Drum, the musical bow (Grade 8 teacher guide, printed pp. 41–44).
 4. **Instrument families: strings, winds, drums and shaken (teacher guide — evidence)** — Ethiopia's string family with the guide's printed quiz — begena's parts, the string instruments' bridges and posts (ድርድር, ብርኩማ, ገበቴ, ቀምበር, መቃኛ); winds — washint of bamboo; drums and shaken instruments — negarit, atamo, tsenatsil (Grade 6 teacher guide, §3.1, printed pp. 59–68).
 
+5. **Modern music begins: Ashenafi Kebede and Beshah Tekle Mariam** — “Modern Music Begins in Ethiopia” — Professor Ashenafi Kebede's life and work; Beshah Tekle Mariam beside him.
+6. **The Grade 7 and Grade 8 tellings: chant characters, definitions, and music as old as humankind** — G7: the chant types' characters (p. 91) and pp. 92–94; G8: traditional instruments defined as material heritage (p. 15); music as old as humankind and instruments' development (pp. 12–15).
+7. **The modern-instruments contrast (Grade 7 telling)** — Grade 7's modern-music opening set against the traditional craft — the contrast Modern Instruments teaches from Grade 8.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

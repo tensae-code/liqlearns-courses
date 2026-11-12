@@ -22,6 +22,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Sounds around us** — the opening listening work: what sounds did you hear on the way to school, and what sounds do you know inside your home? Listening is naming real sounds.
 2. **Sound and imitating sounds** — sound is anything heard by the ear; around us are many different sounds — birds, domestic and wild animals, music instruments — and the learner imitates the sounds of animals and birds they know.
 
+3. **Kinds of music and sound in the Grade 2 guide (teacher guide — evidence)** — the G2 guide's Chapter 1 introduction: PVA inside children's daily life; children distinguish kinds of music and sound (guide, section level).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

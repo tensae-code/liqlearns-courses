@@ -16,6 +16,13 @@ countries: Ethiopia
 | Sub lesson 4 — There Are Professionals; Protect the Forests | Book 1, §4.2.2, printed pp. 74–75; §5.1.4, printed pp. 90–91 |
 | Sub lesson 5 — Festival songs of the year | Book 2, §3.3.2, printed pp. 99–101 |
 
+| Sub lesson — the English song “Greetings — The Music Man”, named as a language link | Grade 5 Student Textbook, printed p. 123 |
+
+| The heritage song at Grade 5 depth, with the trees detail (citation completed) | Grade 5 Student Textbook, printed pp. 120–121 |
+| The heritage song continued (citation completed) | Grade 5 Student Textbook, printed pp. 121–122 |
+| The anthem teaching at Grade 6 depth (citation completed) | Grade 6 Student Textbook, printed pp. 93–94 |
+| “The Careful Student” in its Grade 6 place (citation completed; the song's full part stands in Art That Teaches the Community) | Grade 6 Student Textbook, printed pp. 110–111 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Both anthems are printed in full in the Grade 4 book; following the placements, they are placed here by name, role and teaching point only — no anthem or song text is transcribed anywhere in this lesson. The professionals song's credits are the book's own printed credits (melody Alemayehu W/Yohannes, poem Asefa Bekele). The Grade 6 appearance of the professionals song is the same song met again at the next level, as its placement extends it — it is one song, counted once.

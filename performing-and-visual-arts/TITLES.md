@@ -49,7 +49,18 @@ The titles, in ladder order:
    notes, dynamics and tempo, scales, pitch and key signatures,
    qenet — Ethiopia's own scales, Ethiopian traditional music and
    its history, fukera and shilela — the boast and its answer, and
-   anthems and songs that teach.
+   anthems and songs that teach. The audit close-out added: the
+   elements of music; moving in note values; reading the beat;
+   art that teaches the community (traffic safety, HIV/AIDS and
+   doping taught through song); the Adwa patriotic songs; Amhara
+   music history and its musicians; Saint Yared; the regional
+   culture groups; making traditional instruments; Ethiopian
+   music in four contexts; Ethiopia's instrument families;
+   modern instruments; appreciating indigenous knowledge in
+   music; song: knowledge blossoms; and the evidence lessons —
+   performing kinds of music, the value of practising music,
+   history of indigenous music, indigenous music and culture,
+   and the history of African and world music.
 4. **Drama and Dance** — the body: how things, animals and people
    move; playing family roles; acting together; playing a person;
    theatre on a stage; acting our history; circle dances and

@@ -21,3 +21,15 @@ a) blown  b) shaken  c) bowed
 **5.** All three instruments of this lesson serve…
 a) the palace  b) the market  c) the church
 **Answer: c) the church.**
+
+**6.** The dibe belongs to which roll?
+  a) The beat-giving family: kebero, atamo, negarit, dibe, tsenatsil b) The string family c) The modern band only
+**Answer: a) The beat-giving family: kebero, atamo, negarit, dibe, tsenatsil** — the Grade 8 roll of feeling-givers at social and religious systems.
+
+**7.** The beat-giving family's work is to…
+  a) Give more feeling to cultural musics at social and religious occasions b) Sing the melody alone c) Replace the chant
+**Answer: a) Give more feeling to cultural musics at social and religious occasions** — feeling, in time — the family's shared office.
+
+**8.** The tsenatsil is sounded by…
+  a) Shaking in the hand (and striking with the finger) b) Bowing c) Blowing
+**Answer: a) Shaking in the hand (and striking with the finger)** — the shaken sistrum of the chant.

@@ -29,3 +29,11 @@ Pick the one right answer.
 **7. (Sub lesson 6)** In 4/4, the top number 4 tells…
   a) How many beats are in a bar b) How fast to play c) How many lines the staff has
 **Answer: a) How many beats are in a bar** — the top number tells how many beats in a bar.
+
+**8. (Sub lesson 7)** Grade 8 defines music, for this chapter, as…
+  a) A written language b) Only an oral tradition c) A kind of dance
+**Answer: a) A written language** — the chapter's founding definition — signs that become sound.
+
+**9. (Sub lesson 7)** Which belongs to the sign inventory?
+  a) Clef, accidental, bar line, key signature b) Only the drum sizes c) Only song titles
+**Answer: a) Clef, accidental, bar line, key signature** — the alphabet of written music, gathered whole.

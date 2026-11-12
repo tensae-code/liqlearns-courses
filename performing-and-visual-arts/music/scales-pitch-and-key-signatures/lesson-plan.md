@@ -16,6 +16,9 @@ The parts of this lesson, in order — the list the learner sees from the start,
 4. **Key signatures: sharps and flats in order** — the key-signature signs are sharp and flat, written on the music at the staff's head to keep the intervals when building scales (Grade 6, printed pp. 23–25).
 5. **Scales and key signatures in the guide (teacher guide — evidence)** — the diatonic major and minor scales and key signatures taught with counting rhythm and both-clef reading (Grade 6 teacher guide, §§1.1 and 2.1, printed pp. 3–16 and 37–44).
 
+6. **Exercise 1.2 — building nine major scales** — the book's nine construction tasks: E, A, B-flat, E-flat, F-sharp majors in named note values and clefs.
+7. **Exercises 2.2 and 2.3 — singing high, singing low** — sing the pictured do-mi patterns with the letters under the notes; read the F-clef melody low, holding the syllable 'la'; the poem-melody 'Our Historical Heritage'.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

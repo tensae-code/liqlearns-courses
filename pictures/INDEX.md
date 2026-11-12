@@ -1918,6 +1918,63 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 13725 | pictures/13725.webp | a slide mid-drag in Slide Sorter, insertion line showing | Computer Science and ICT — Running a Slide Show; Changing Slide Order |
 | 13726 | pictures/13726.gif | a slide dragged past two others to its new position | Computer Science and ICT — Running a Slide Show; Changing Slide Order |
 | 13727 | pictures/13727.webp | the finished tourism deck's slides in a row | Computer Science and ICT — Project: Build and Present a Slide Deck |
+| 20900 | pictures/20900.webp | a shield over a computer — INSA guards the country | Computer Science and ICT — What Security and Computer Security Mean |
+| 20901 | pictures/20901.webp | five kinds of security — five labelled shields | Computer Science and ICT — Five Kinds of Security |
+| 20902 | pictures/20902.webp | the 90/10 rule — a pie of security | Computer Science and ICT — The 90/10 Rule — Security Is Mostly You |
+| 20903 | pictures/20903.webp | the CIA triangle — a mark sheet at its centre | Computer Science and ICT — Confidentiality, Integrity, Availability — the CIA Triad |
+| 20904 | pictures/20904.webp | one triangle, two leans — school and military base | Computer Science and ICT — Choosing Your CIA Priorities |
+| 20905 | pictures/20905.webp | threat arrows reaching one school | Computer Science and ICT — Threats — Inside, Outside, Natural, Man-Made |
+| 20906 | pictures/20906.webp | natural threats — fire, heat, lightning | Computer Science and ICT — Natural Threats to a Computer |
+| 20907 | pictures/20907.webp | the map of cyber-attacks — eight around one computer | Computer Science and ICT — The Map of Cyber-Attacks |
+| 20908 | pictures/20908.webp | Denial of Service — a door jammed by fake requests | Computer Science and ICT — Denial of Service — Flooding a Service Shut |
+| 20909 | pictures/20909.webp | malware — eight kinds at one computer's door | Computer Science and ICT — Malware — Trojans, Viruses, Worms, Spyware, Ransomware |
+| 20910 | pictures/20910.webp | intercepting — a third figure copied into the conversation | Computer Science and ICT — Intercepting Attacks — Man in the Middle and Eavesdropping |
+| 20911 | pictures/20911.webp | phishing — a genuine-looking email, a false sender | Computer Science and ICT — Phishing — Fake Messages from Trusted Names |
+| 20912 | pictures/20912.webp | SQL injection — code slipped in behind a password | Computer Science and ICT — SQL Injection |
+| 20913 | pictures/20913.webp | password attacks — five panels | Computer Science and ICT — Password Attacks |
+| 20914 | pictures/20914.webp | social engineering — a trusted voice, a warning sign | Computer Science and ICT — Social Engineering — Tricking the Person, Not the Machine |
+| 20915 | pictures/20915.webp | dangers aimed at the young — three warning-marked phones | Computer Science and ICT — Dangers Aimed at Young People Online |
+| 20916 | pictures/20916.webp | who attacks — five figures | Computer Science and ICT — Who Attacks — Criminals, Hackers, Insiders, Mistakes |
+| 20917 | pictures/20917.webp | what an attack costs — the first four losses | Computer Science and ICT — What an Attack Costs — Loss, Corruption, Theft, Illegal Use |
+| 20918 | pictures/20918.webp | disclosure — a noticeboard photo escapes onto a phone | Computer Science and ICT — What an Attack Costs — Disclosure, Denial, Privilege |
+| 20919 | pictures/20919.webp | internet awareness — warnings around one glowing screen | Computer Science and ICT — Internet Awareness — What Every Student Must Know |
+| 20920 | pictures/20920.webp | securing your computer — the checklist poster | Computer Science and ICT — Securing Your Computer — the Checklist |
+| 20921 | pictures/20921.webp | social media — a balance scale for a student | Computer Science and ICT — Social Media — What It Gives a Student, What It Costs |
+| 20922 | pictures/20922.webp | the lab policy — eight rules on the wall | Computer Science and ICT — Rules for the School Computer Lab — an Internet-Use Policy |
+| 20923 | pictures/20923.webp | three problems that need people, not only computers | Computer Science and ICT — What a Problem Is — and What Computers Cannot Settle |
+| 20924 | pictures/20924.webp | computational problems — four types, four panels | Computer Science and ICT — Computational Problems — Decision, Search, Counting, Optimisation |
+| 20925 | pictures/20925.webp | computational thinking — one block, small step-stones | Computer Science and ICT — Computational Thinking |
+| 20926 | pictures/20926.webp | Polya's four steps — a loop, not a ladder | Computer Science and ICT — Polya's Four Steps |
+| 20927 | pictures/20927.webp | from Polya to programs — 'plan' becomes 'algorithm' | Computer Science and ICT — From Polya to Programs — the Algorithm |
+| 20928 | pictures/20928.webp | the average of ten numbers — into SUM, divide by 10 | Computer Science and ICT — Algorithms and Programs — the Average of Ten Numbers |
+| 20929 | pictures/20929.webp | input, process, output — keyboard, CPU, screen | Computer Science and ICT — Input, Process, Output |
+| 20930 | pictures/20930.webp | one algorithm, two notations — shapes and lines | Computer Science and ICT — Flowchart or Pseudocode — Two Notations for One Algorithm |
+| 20931 | pictures/20931.webp | flowchart symbols — the seven, labelled | Computer Science and ICT — Flowchart Symbols |
+| 20932 | pictures/20932.webp | the garden-policy flowchart, complete | Computer Science and ICT — Drawing a First Flowchart |
+| 20933 | pictures/20933.webp | three kinds of flow — line, fork, loop | Computer Science and ICT — Sequence, Selection, Repetition |
+| 20934 | pictures/20934.webp | two environments — a flowchart screen, a block screen | Computer Science and ICT — Flowgorithm and Scratch — Programming Without Typing Code |
+| 20935 | pictures/20935.webp | Flowgorithm — Main, an Output symbol, End | Computer Science and ICT — Flowgorithm — Your First Flowchart |
+| 20936 | pictures/20936.webp | Flowgorithm practice — adding two numbers, variables filling | Computer Science and ICT — Flowgorithm Practice — Input, Variables, Decisions |
+| 20937 | pictures/20937.webp | Scratch — stage, sprite, palette, script, labelled | Computer Science and ICT — Scratch — Stage, Sprite, Palette, Script |
+| 20938 | pictures/20938.webp | first Scratch script — two blocks, a cat mid-stage | Computer Science and ICT — First Scratch Script — Move 10 Steps and Say Hello |
+| 20939 | pictures/20939.webp | Scratch loops — a repeat-until script and its count | Computer Science and ICT — Scratch Loops and Conditions |
+| 20940 | pictures/20940.webp | if and while — a diamond fork and a while loop | Computer Science and ICT — If and While in Flowgorithm — Even or Odd |
+| 20941 | pictures/20941.webp | top-down — one wage problem, two modules | Computer Science and ICT — Top-Down — Modules and Modularisation |
+| 20942 | pictures/20942.webp | bottom-up — shape modules locking into one program | Computer Science and ICT — Bottom-Up — Assembling a Solution from Modules |
+| 20943 | pictures/20943.webp | project — a Catch game, mid-play | Computer Science and ICT — Project: A Scratch Game and an Ethiopian Story |
+| 20944 | pictures/20944.webp | acronym reference — the pocket card | Computer Science and ICT — Acronym Reference — the Book's Own List |
+| 20945 | pictures/20945.gif | requests piling up until the service light goes out | Computer Science and ICT — Denial of Service — Flooding a Service Shut |
+| 20946 | pictures/20946.gif | a Trojan file being opened and code spilling out | Computer Science and ICT — Malware — Trojans, Viruses, Worms, Spyware, Ransomware |
+| 20947 | pictures/20947.gif | ten numbers adding one by one into the sum | Computer Science and ICT — Algorithms and Programs — the Average of Ten Numbers |
+| 20948 | pictures/20948.gif | tracing the Yes path, then the No path, through the garden chart | Computer Science and ICT — Drawing a First Flowchart |
+| 20949 | pictures/20949.gif | a loop arrow circling back with a counter | Computer Science and ICT — Sequence, Selection, Repetition |
+| 20950 | pictures/20950.gif | right-clicking the arrow, picking Output, and the symbol slotting in | Computer Science and ICT — Flowgorithm — Your First Flowchart |
+| 20951 | pictures/20951.gif | stepping through a running chart while the variable values change | Computer Science and ICT — Flowgorithm Practice — Input, Variables, Decisions |
+| 20952 | pictures/20952.gif | the flag click and the cat stepping right and speaking | Computer Science and ICT — First Scratch Script — Move 10 Steps and Say Hello |
+| 20953 | pictures/20953.gif | the cat meowing in a loop with the counter ticking up | Computer Science and ICT — Scratch Loops and Conditions |
+| 20954 | pictures/20954.gif | tracing the while loop around as num grows 2, 4, 6, 8 | Computer Science and ICT — If and While in Flowgorithm — Even or Odd |
+| 20955 | pictures/20955.gif | the bowl sliding to catch falling apples | Computer Science and ICT — Project: A Scratch Game and an Ethiopian Story |
+| 20956 | pictures/20956.gif | a sprite reaching the edge and bouncing back | Computer Science and ICT — Scratch Loops and Conditions |
 | 11400 | pictures/11400.webp | desert types and rainfall bars | Social Studies — Global Issues — What a Desert Is |
 | 11401 | pictures/11401.webp | desertification panels, land losing its cover | Social Studies — Global Issues — Desertification |
 | 11402 | pictures/11402.gif | GIF: topsoil washing away in the rain | Social Studies — Global Issues — Desertification |
@@ -2237,3 +2294,12 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 14004 | pictures/14004.webp | a traffic light — red, amber, green, with the law | Performing and Visual Arts — What the Arts Do for Society |
 | 14005 | pictures/14005.webp | indigenous knowledge — the named store board | Performing and Visual Arts — Indigenous Knowledge of Ethiopia |
 | 14010 | pictures/14010.gif | GIF — three labelled circles, Music, Dance and Theatre, sliding together into one family | Performing and Visual Arts — How the Arts Belong Together |
+| 14600 | pictures/14600.webp | the elements-of-music wheel — six pupil elements around "a song" | Performing and Visual Arts — The Elements of Music |
+| 14602 | pictures/14602.webp | an azmari pair at a wedding, masenqo in hand | Performing and Visual Arts — Amhara Music History |
+| 14603 | pictures/14603.webp | Saint Yared with Ge'ez, Ezil and Araray style cards | Performing and Visual Arts — Saint Yared |
+| 14604 | pictures/14604.webp | making a kebero — hollowed trunk, hide and cloth labelled | Performing and Visual Arts — Making Traditional Instruments |
+| 14605 | pictures/14605.webp | Zenebe Bekele's four contexts as four doors — social, religious, political, economic | Performing and Visual Arts — Ethiopian Music in Four Contexts |
+| 14606 | pictures/14606.webp | the instrument families chart — strings, winds, beat-givers | Performing and Visual Arts — Ethiopia's Instrument Families |
+| 14607 | pictures/14607.webp | a timeline of African instruments and styles | Performing and Visual Arts — History of African and World Music |
+| 14620 | pictures/14620.gif | GIF — note values in motion: whole (4) to half (2) to quarter (1), with a progress bar | Performing and Visual Arts — Moving in Note Values |
+| 14621 | pictures/14621.gif | GIF — reading the beat: a sol-fa row lights do-re-mi-fa-sol-la-do in order | Performing and Visual Arts — Reading the Beat |

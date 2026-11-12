@@ -13,3 +13,12 @@ Sub lesson 3 questions from the type files. Pass mark: name the earliest melody,
 
 ## Sub lesson 4 — Instrument families: strings, winds, drums and shaken (teacher guide — evidence)
 Sub lesson 4 questions from the type files. Pass mark: place begena, washint, negarit and tsenatsil in their families and say the negarit's old job.
+
+## Sub lesson 5 — Modern music begins: Ashenafi Kebede and Beshah Tekle Mariam
+Sub lesson 5 questions from the type files. Pass mark: tell Ashenafi Kebede's line — birth, kindling, schooling, Eastman degree — and name Beshah Tekle Mariam's place beside him.
+
+## Sub lesson 6 — The Grade 7 and Grade 8 tellings: chant characters, definitions, and music as old as humankind
+Sub lesson 6 questions from the type files. Pass mark: state Grade 8's oldest claim, its instrument-development walk, and its heritage definition, plus Grade 7's chant-character teaching.
+
+## Sub lesson 7 — The modern-instruments contrast (Grade 7 telling)
+Sub lesson 7 questions from the type files. Pass mark: state the Grade 7 contrast — traditional craft against modern instruments/world — and the book's both-kept judgement.

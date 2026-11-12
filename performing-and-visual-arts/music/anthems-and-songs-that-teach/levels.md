@@ -16,3 +16,6 @@ Sub lesson 4 questions from the type files. Pass mark: name the four makers of t
 
 ## Sub lesson 5 — Festival songs of the year
 Sub lesson 5 questions from the type files. Pass mark: match each festival with its music and one custom.
+
+## Sub lesson 6 — “Greetings — The Music Man”: a language-link teaching song
+Sub lesson 6 questions from the type files. Pass mark: name the song, its language, and its language-link purpose in the book.

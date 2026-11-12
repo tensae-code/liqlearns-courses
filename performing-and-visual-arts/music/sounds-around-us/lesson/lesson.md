@@ -30,6 +30,10 @@ After listening comes imitating. Making a sound back is how your ear teaches you
 
 Hearing, naming, imitating — that is the road every song in this unit walks on.
 
+## Sub lesson 3 — Kinds of music and sound in the Grade 2 guide (teacher guide — evidence)
+
+The Grade 2 teacher guide opens its Chapter 1 by placing this whole subject inside the child's day (**teacher guide — evidence**): **Performing and Visual Arts lives inside children's daily life, on the cultural side of the school** — children play drama games and **distinguish kinds of music and kinds of sound** all around them, exactly as this lesson's listening walks do. The guide's sound-source lessons (its pp. 4–5) work the same ground as Sub lessons 1–2: hear the sound, name its maker, group it. The guide is a scan with no text layer, so this part is cited at section level only, exactly as it was read.
+
 ## Say it to your companion
 
 Tell your companion three sounds from your road to school and three sounds from inside your home. Then imitate one animal sound and one bird sound, and let your companion guess the makers. Finish by saying what sound is, in your own words.

@@ -17,3 +17,27 @@ Pick the one right answer.
 **4. (Sub lesson 4)** The negarit's old role was…
   a) Sending messages b) Cooking food c) Measuring land
 **Answer: a) Sending messages** — the guide's quiz remembers the negarit as a message-sending instrument.
+
+**5. (Sub lesson 5)** Ashenafi Kebede's music love was kindled at age 9 by…
+  a) His mother, Woizero Fentaye Nekere b) A foreign teacher c) A radio
+**Answer: a) His mother, Woizero Fentaye Nekere** — the book's own kindling detail.
+
+**6. (Sub lesson 5)** His first degree (1954 E.C.) was taken at…
+  a) The Eastman School of Music, University of Rochester b) Harar Teachers Training College c) Menelik II School
+**Answer: a) The Eastman School of Music, University of Rochester** — Harar was his teacher training; Eastman his first degree.
+
+**7. (Sub lesson 6)** Grade 8 opens its history with the claim that music is…
+  a) As old as humankind b) Invented in the last century c) Younger than writing
+**Answer: a) As old as humankind** — the G8 telling — music with humanity from the start.
+
+**8. (Sub lesson 6)** Traditional instruments, in Grade 8's definition, are…
+  a) Material heritage bearing the community's knowledge and skill b) Mere decorations c) Factory products
+**Answer: a) Material heritage bearing the community's knowledge and skill** — p. 15 — heritage you can hold, knowledge you can hear.
+
+**9. (Sub lesson 7)** Grade 7 sets modern music against the traditional craft as…
+  a) Root and new branches — both kept b) Replacement — the old must end c) Unrelated musics
+**Answer: a) Root and new branches — both kept** — the book's judgement: root traditional, branches modern.
+
+**10. (Sub lesson 7)** The modern side of the contrast is marked by…
+  a) Modern instruments, training, stage and band b) Only louder singing c) Printed prices
+**Answer: a) Modern instruments, training, stage and band** — the world Ashenafi's generation built.

@@ -15,6 +15,9 @@ The parts of this lesson, in order — the list the learner sees from the start,
 3. **ዋሽንት — washint** — the long flute.
 4. **ክራር — krar** — the lyre, and the four instruments pictured together.
 
+5. **The regional instrument roll and the negarit's history (Grade 6 depth)** — the Grade 6 history chapter's roll — mesenqo, negarit, embilta, atamo, kebero, trumpet — and the negarit as the proclamation drum of the summons.
+6. **Washint, mesenqo and kebero at Grade 6 depth** — the three friends deepened: washint the bamboo flute of the march and melody; mesenqo the azmari's bowed string; kebero the thick-and-thin drum of chant and celebration.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

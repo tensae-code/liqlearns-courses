@@ -13,3 +13,6 @@ Answer in a short sentence of your own.
 
 **4. (Sub lesson 4)** What does the Grade 5 forest song call the forest?
 **Answer: Medicine for hunger — and the base of building, tools and soil protection.**
+
+**5. (Sub lesson 6)** How is this song placed in the lesson, and why?
+**Answer:** By name and purpose only — songs are never transcribed in this course.

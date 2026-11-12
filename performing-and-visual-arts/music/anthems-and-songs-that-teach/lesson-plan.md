@@ -16,6 +16,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 4. **There Are Professionals; Protect the Forests** — the professionals song — every kebele and woreda served by its makers, all professionals equal in their work; the forest song — plant seedlings everywhere and make planting a culture (Grade 4, printed pp. 74–75 and 90–91).
 5. **Festival songs of the year** — the year's festival music — New Year Enqutatash, the Gurage Meskel with its 'eyohe', Genna with its sticks, and Eid al-Fitr's sharing and menzuma (Grade 5, printed pp. 99–101).
 
+6. **“Greetings — The Music Man”: a language-link teaching song** — the Grade 5 book's one English song, presented as a score — placed by name and purpose as a language-link teaching song.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

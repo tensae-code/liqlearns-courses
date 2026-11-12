@@ -22,6 +22,18 @@ The Grade 8 guide reaches the deepest past. Music stands in **every known living
 
 The Grade 6 guide teaches Ethiopia's instruments **family by family**, partly through printed quizzes with answer keys. **Strings** (የክር መሳሪያዎች): begena, masenqo and krar — the guide tests the **parts and playing of the begena**, the masenqo's string material, and the string instruments' posts and bridges, naming **ድርድር, ብርኩማ, ገበቴ, ቀምበር, መቃኛ** in its matching exercise. **Winds** (የትንፋሽ መሳሪያዎች): the **washint — a bamboo flute with holes** (the guide's key confirms it is made from bamboo/reed) — embilta, meleket and others. **Percussion and shaken/struck instruments**: the **negarit**, whose old role was **sending messages**, the **atamo**, the kebero — and instruments **sounded by shaking in the hand and striking with the finger**, the tsenatsil among them.
 
+## Sub lesson 5 — Modern music begins: Ashenafi Kebede and Beshah Tekle Mariam
+
+The Grade 7 book's modern-music chapter (§3.3, “Modern Music Begins in Ethiopia”) is headed by lives. **Professor Ashenafi Kebede**: born in **Addis Ababa in 1930 E.C.**, son of Grazmach Kebede Adnew and Woizero Fentaye Nekere, who **kindled his music love at age 9**; his grandfather Liqe Mekwas Adnew Goshu was an **Adwa patriot** and Queen Zewditu's trusted adviser. Schooled at Menelik II School and Haile Selassie I Secondary (Kokebe Tsibah), graduated from **Harar Teachers Training College**, he took his **first degree in 1954 E.C. at the Eastman School of Music, University of Rochester** — Ethiopia's music carried into the world's scholarship by one of its own. Beside him the book sets **Beshah Tekle Mariam**, of the same founding generation of modern Ethiopian music. Their generation's work is the bridge this whole lesson walks: traditional craft, modern training, one music.
+
+## Sub lesson 6 — The Grade 7 and Grade 8 tellings: chant characters, definitions, and music as old as humankind
+
+The later books retell this lesson's ground at their own depth. **Grade 7 (printed p. 91; pp. 92–94)** gives the **chant types their characters** — the Ge'ez, Ezil and Araray manners distinguished by their weight and movement, the pupil-book depth behind Saint Yared's lesson. **Grade 8 (printed p. 12)** opens with the widest claim of all: **music is as old as humankind** — and its chapter “Music, Instruments and Dance in History” (pp. 12–15) walks **how the instruments developed** beside it. Between them, **Grade 8 (p. 15)** defines the stake: **traditional instruments are material heritage bearing the community's knowledge and skill** — the definition Appreciating Indigenous Knowledge in Music spends itself honouring.
+
+## Sub lesson 7 — The modern-instruments contrast (Grade 7 telling)
+
+Grade 7's telling sets the **contrast** plainly: against the traditional craft — hereditary, occasion-bound, maker-made — its modern-music opening (§3.3) places the **modern instruments and the trained, stage-and-band world** Ashenafi Kebede's generation built. Neither side cancels the other in the book's judgement: the traditional music is the root, the modern its new branches. Modern Instruments (the Grade 8 lesson next door) teaches the same meeting from the instruments' side; this part is its historical root.
+
 ## Say it to your companion
 
 Tell your companion one region's music — its peoples and its character — and one instrument family with two members. They do the same with a different region and family.

@@ -34,6 +34,10 @@ Sounds do not stop at the staff's edge. Sounds that **rise above or sink below**
 
 A **time signature** is two fraction-like numbers at the staff's head: the **TOP number tells how many beats in a bar**; the **BOTTOM number tells which note-kind measures the beat**. Worked examples: **4/4** (four beats, quarter-note measure), **3/4**, **2/4**. Then read: notes have a **placement law** — stems point **DOWN when the head is above the 3rd line, UP when below it**, and either way **on** the 3rd line. A note in a space sits between its lines; a note on a line is split equally by it. Now sing the book's written notes, accompanied by a local instrument: the page tells your voice where to go.
 
+## Sub lesson 7 — Music as written language: the sign inventory (Grade 8 depth)
+
+The Grade 8 book states this lesson's whole claim as a definition (printed p. 50's chapter opening): **music is a written language** — and a language is learned by its **sign inventory**. Gather the alphabet you now own: the **staff and its lines and spaces; the G and F clefs; the notes and rests with their values; the accidentals — sharp, flat, natural; bars and bar lines; key signatures and time signatures**. Every part of this lesson was one letter of that alphabet. Reading music is now a sentence you can say whole: signs, in order, in time, become sound.
+
 ## Say it to your companion
 
 Draw a staff and a clef for your companion with one deliberate mistake. They must find the mistake and fix it, saying the rule aloud.

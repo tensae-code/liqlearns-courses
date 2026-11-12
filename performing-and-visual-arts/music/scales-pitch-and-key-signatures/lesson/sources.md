@@ -14,6 +14,13 @@ countries: Ethiopia
 | Sub lesson 4 — Key signatures: sharps and flats in order | Book 1, §1.2.4, printed pp. 23–25 |
 | Sub lesson 5 — Scales and key signatures in the guide (teacher guide — evidence) | Book 2, §1.1, printed pp. 3–16; §2.1, printed pp. 37–44 |
 
+| Sub lesson — Exercise 1.2: nine major-scale constructions | Grade 6 Student Textbook, printed p. 17 |
+| Sub lesson — Exercise 2.2: singing high | Grade 6 Student Textbook, printed pp. 39–40 |
+| Sub lesson — Exercise 2.3: singing low | Grade 6 Student Textbook, printed p. 41 |
+
+| Key-signature and scale teaching, Grade 6 depth (citation completed) | Grade 6 Student Textbook, printed p. 16 |
+| Pitch teaching §2.1.2 (citation completed) | Grade 6 Student Textbook, printed p. 38 (§2.1.2) |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 The Grade 6 book's key-signature exercise prints "E♭" in Amharic beside "(E Major scale)" in English — a printing tangle the placements record; the lesson teaches the D, E, A-flat exercise set as the placements resolve it and does not present the tangled line as a fact. The Grade 6 teacher-guide parts are evidence and are labelled so; the pupil-taught scale work stands on the Grade 6 student book.

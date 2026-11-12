@@ -26,6 +26,10 @@ A region, too, sings itself. The **Amhara regional anthem**, **"የታታሪ ህ
 
 The year itself has a songbook. **NEW YEAR**: women hold flowers and sing **Enqutatash**, announcing the year and wishing **peace and love**. **MESKEL** (Meskerem 17) is counted as New Year by the Gurage community: the Awi wear jano, carry cut wet trees to relatives' homes as gifts, eat the traditional abzi food and celebrate singing **"eyohe"**. **GENNA**: young men hold bent gena sticks, hold contests, then celebrate singing and dancing. **EID AL-FITR**: Muslims **share with those who have not** (zakat al-fitr) and give gifts, and the **menzuma** is presented. Four festivals, four musics — you met their family in Traditional and Festival Songs; here they stand in the year's own order.
 
+## Sub lesson 6 — “Greetings — The Music Man”: a language-link teaching song
+
+One song in the Grade 5 book steps out of Amharic entirely (printed p. 123): the English song **“Greetings — The Music Man”**, **printed in English with its music, presented as a score image** — the book's one English song. Its office in the book is a **language link**: a greeting song that lets music carry English practice — greetings sung are greetings remembered. It stands here by **name and purpose only**, as every song in this course stands; its lyrics are not transcribed, and its printed score is the book's to show.
+
 ## Say it to your companion
 
 Tell your companion one song from this lesson and its whole message in two sentences. They must say whether it is an anthem, a praise song or a teaching song — and why.

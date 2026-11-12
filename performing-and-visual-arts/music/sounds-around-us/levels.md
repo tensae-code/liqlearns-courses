@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: name at least four sounds
 
 ## Sub lesson 2 — Sound and imitating sounds
 Sub lesson 2 questions from the type files. Pass mark: say what sound is, name the three sound-making groups (birds, animals, instruments), and imitate two animal sounds and one bird sound.
+
+## Sub lesson 3 — Kinds of music and sound in the Grade 2 guide (teacher guide — evidence)
+Sub lesson 3 questions from the type files. Pass mark: state the guide's opening claim — the arts live inside children's daily life — and match it to one listening activity of this lesson.

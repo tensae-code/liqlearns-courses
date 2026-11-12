@@ -17,6 +17,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 5. **Ledger lines: notes beyond the staff** — sounds above or below the staff are written on short ledger lines — four plates: G clef above and below, F clef above and below (Grade 5, printed pp. 50–51).
 6. **Time signatures and reading a melody** — the top number counts beats in a bar, the bottom names the beat's note-kind — 4/4, 3/4, 2/4; the stem rule and how a note sits on a line or in a space (Grade 5, printed pp. 52–54).
 
+7. **Music as written language: the sign inventory (Grade 8 depth)** — music is a written language; its sign inventory — staff, clefs, notes, rests, accidentals and the rest — gathered as one alphabet.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
