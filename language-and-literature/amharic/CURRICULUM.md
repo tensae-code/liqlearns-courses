@@ -167,6 +167,19 @@ teacher-guide evidence only (Fidel Shapes, Idioms).
     (`first-steps/world-music-instruments`) — the big board of
     world instruments in the KG2 workbook (guitar, drum, piano,
     saxophone, violin…) (fix build, 2026-11-12).
+34. **Caring for Books and Shared Things**
+    (`first-steps/caring-for-books-and-shared-things`) — the
+    books' own care message (የጥንቃቄ መልዕክት): clean hands, the
+    protective cover, sharing fairly (fix build G7+G8,
+    2026-11-12).
+35. **How Families Can Help with Amharic at Home**
+    (`first-steps/how-families-can-help-with-amharic-at-home`)
+    — the student books' own preface to parents and guardians,
+    taught as a lesson (fix build G7+G8, 2026-11-12).
+36. **How This Amharic Course Is Organised**
+    (`first-steps/how-this-amharic-course-is-organised`) — the
+    books' own map: chapters, skills and how a unit runs (fix
+    build G7+G8, 2026-11-12).
 
 ## Unit 2 — Fidel
 
@@ -220,6 +233,15 @@ teacher-guide evidence only (Fidel Shapes, Idioms).
    meaning is more than their words (ሆድና ጀርባ; እጅ አጠረው; ጥራዝ
    ነጠቅ; ጥቁር እንግዳ). Teacher-guide evidence only (Grade 9
    guide), labelled in its sources and counted nowhere.
+10. **Dictionary Meaning vs Meaning in the Text**
+    (`word/dictionary-meaning-vs-meaning-in-the-text`) — a word
+    means what the dictionary says AND what the passage makes
+    it mean; the learner checks both (fix build G7+G8,
+    2026-11-12).
+11. **Children's Rights in a Table**
+    (`word/childrens-rights-in-a-table`) — the Grade 8 rights
+    passage condensed into a classification table (fix build
+    G7+G8, 2026-11-12).
 
 ## Unit 4 — Sentence
 
@@ -281,6 +303,30 @@ teacher-guide evidence only (Fidel Shapes, Idioms).
    summaries — Abebe Bikila, Dr Haddis Alemayehu, Dr Catherine
    Hamlin (the lives rest on teacher guides, labelled evidence
    in the lesson's sources).
+5. **Revising Your Essay with the Ten Criteria**
+   (`essay/revising-your-essay-with-the-ten-criteria`) — the
+   Grade 8 book's own ten revision criteria, checked one by
+   one (fix build G7+G8, 2026-11-12).
+6. **Compare-and-Contrast Essays**
+   (`essay/compare-and-contrast-essays`) — the essay form the
+   upper books teach for two things side by side (fix build
+   G7+G8, 2026-11-12).
+7. **Problem-and-Solution Essays**
+   (`essay/problem-and-solution-essays`) — name the problem,
+   weigh the solutions, argue one (fix build G7+G8,
+   2026-11-12).
+8. **Judging a Character in an Essay**
+   (`essay/judging-a-character-in-an-essay`) — evidence from a
+   story, weighed into a judgement (fix build G7+G8,
+   2026-11-12).
+9. **Writing One Essay Together as a Group**
+    (`essay/writing-one-essay-together-as-a-group`) — the
+    books' own group-essay method (fix build G7+G8,
+    2026-11-12).
+10. **Condensing Paragraphs with a Classification Table**
+    (`essay/condensing-paragraphs-with-a-classification-table`)
+    — long paragraphs squeezed into a table without losing
+    their facts (fix build G7+G8, 2026-11-12).
 
 ## Speaking (across the ladder)
 
@@ -384,3 +430,35 @@ teacher-guide evidence only (Fidel Shapes, Idioms).
 27. **Grade 4 Honest Trade** (`story/grade-4-trade`) — the
     Grade 4 book's trade chapter (ንግድ), closing with the
     book's own reference list (ዋቢዎች) (fix build, 2026-11-12).
+28. **The Elements of a Play** (`story/the-elements-of-a-play`)
+    — ገፀባሕርያት · መቼት · ድርጊት · ግጭት · ጡዘት: the five parts every
+    play is built from (fix build G7+G8, 2026-11-12).
+29. **Reading a Play — The Wedding's Aftermath**
+    (`story/reading-a-play-the-weddings-aftermath`) — the whole
+    of የሠርጉ መዘዝ, the Grade 8 book's play chapter, Acts 1–3
+    told as plot summaries (fix build G7+G8, 2026-11-12).
+30. **Writing a Play** (`story/writing-a-play`) — the books'
+    own play-writing tasks, step by step (fix build G7+G8,
+    2026-11-12).
+31. **Listening to a Play** (`story/listening-to-a-play`) —
+    hearing a play whole, then answering from what was heard
+    (fix build G7+G8, 2026-11-12).
+32. **Reading Aloud Like an Actor — the Four Levels**
+    (`story/reading-aloud-like-an-actor`) — accuracy, speed,
+    expression and the actor's fourth level (fix build G7+G8,
+    2026-11-12).
+33. **Poetry's Double Meaning — Wax and Gold (ሰምና ወርቅ)**
+    (`story/wax-and-gold`) — Ethiopia's own double-meaning
+    verse: the wax you hear, the gold underneath (fix build
+    G7+G8, 2026-11-12).
+34. **Figures of Speech (ዘይቤ)** (`story/figures-of-speech-zeybe`)
+    — the figures the Grade 7 book names and drills (fix build
+    G7+G8, 2026-11-12).
+35. **Why Populations Grow and Shrink**
+    (`story/why-populations-grow-and-shrink`) — the Grade 8
+    reading on births, deaths and spacing, taught as the book
+    teaches it (fix build G7+G8, 2026-11-12).
+36. **Measuring Your Reading Speed**
+    (`story/measuring-your-reading-speed`) — the books' own
+    timed-minute method: words read minus errors (fix build
+    G7+G8, 2026-11-12).

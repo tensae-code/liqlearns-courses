@@ -13,3 +13,7 @@ a) the video cameraman  b) custom (ወግ) — the pressure to feast and spend t
 **3. (Sub lesson 3)** The play ends with the family deciding to —
 a) feast the return even bigger  b) cancel the return feast and live within its means  c) borrow more money
 **Answer: b) cancel the return feast and live within its means** — Mhret's closing speech: knowing our capacity is not shame.
+
+**4. (Sub lesson 1)** Meseret in Act 1 is —
+a) the guard  b) the house worker  c) the daughter
+**Answer: b) the house worker** — Meseret the house worker brings Alem's demand; Demena is the guard.

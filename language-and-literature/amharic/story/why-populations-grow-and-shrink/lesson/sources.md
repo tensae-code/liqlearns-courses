@@ -6,8 +6,8 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — የሕዝብ ብዛት ማሽቆልቆል መንስኤዎች — Causes of Population Decline | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 61–63 |
-| Sub lesson 2 — conditions that determine the birth rate | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 67–69 |
+| Sub lesson 1 — የሕዝብ ብዛት ማሽቆልቆል መንስኤዎች — Causes of Population Decline | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 61–63 |
+| Sub lesson 2 — conditions that determine the birth rate | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 67–69 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

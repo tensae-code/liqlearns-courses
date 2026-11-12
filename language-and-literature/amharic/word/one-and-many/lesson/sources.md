@@ -35,7 +35,7 @@ countries: Ethiopia
 
 | Sub lesson 5 — plurals at the instruments review (ክራር→ክራሮች…) (fix build: pp.85–86 were omitted before; placement G2 #77) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.85–86 |
 
-| Sub lesson 7 — grammar — singular/plural sets, Iddir chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 35–36 |
+| Sub lesson 7 — grammar — singular/plural sets, Iddir chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 35–36 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The stripping key and the definition box rest on teacher-guide evidence (Grade 2 TG p.22; Grade 3 TG p.10); plural-making itself is pupil-taught in the Grade 2 and Grade 4 student books, so the lesson's acceptance count stands at 1 country. (2) Both teacher guides' secured files are truncated (Grade 2 at printed p.34, Grade 3 at printed p.31); every part used here sits inside the read spans. The Grade 2 guide's title-page names are partially legible in the scan, as the placements record; the book is cited by its cover identity. (3) The -ኣት plural family (አባል → አባላት) appears in the Grade 3 student book (p.21) but is not taught in this lesson — the brief for this lesson names -ኦች, -ዎች and the -አች stripping key only; -ኣት belongs to the wider suffix work and is not silently folded in. (4) No hardness numbers are written anywhere in this lesson — the books give none.

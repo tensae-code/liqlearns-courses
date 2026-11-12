@@ -6,6 +6,8 @@ Look at the Act 1 stage picture in words: a salon, a sofa, a calculator. Guess w
 
 ## Sub lesson 1 — Act 1 — I and my debt alone remained
 
+[Picture 27901 — the wedding play's stage — the landlord's salon: sofa, commode and curtained window]
+
 The curtain opens on a wide salon — sofa, commode, a curtained window. Ato Belayhun, fully dressed with a tie, grey hair combed back, face knotted with worry, works a calculator with pen and paper before him: after the wedding feast, 'I and my debt alone remained.' Creditors phone demanding rented goods back or a new contract. His wife Ayelech enters smiling in traditional dress; the guard Demena reports Bela's demand for the stored chairs and the shawl-seller's call; the worker Meseret brings more demands. Belayhun cries 'Woe, no place to flee!' and storms out as the curtain closes. Read a play by its stage directions first — they tell you where you are and how each person feels before a word is spoken.
 
 ## Sub lesson 2 — Act 2 — It's custom, no?

@@ -10,3 +10,6 @@ Say true or false.
 
 **3. (Sub lesson 3)** A comparative essay's bigar has a column for what the two things share.
 **Answer: True**
+
+**4. (Sub lesson 2)** The hen in the bigar preaches peace and ends proud.
+**Answer: True**

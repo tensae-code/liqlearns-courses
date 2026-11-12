@@ -13,3 +13,7 @@ a) ተነፃፃሪ (comparison)  b) ተለዋጭ (substitution)  c) ሰውኛ (p
 **3. (Sub lesson 3)** In the model table, 'her heel is a lemon' is which kind of ዘይቤ?
 a) ተነፃፃሪ  b) ተለዋጭ  c) ሰውኛ
 **Answer: b) ተለዋጭ** — the heel IS a lemon in the verse — substitution, praising the heel.
+
+**4. (Sub lesson 1)** ዘይቤ gives an idea greater —
+a) length only  b) information and height  c) spelling practice
+**Answer: b) information and height** — the definition: out-of-the-ordinary wording gives the idea more.

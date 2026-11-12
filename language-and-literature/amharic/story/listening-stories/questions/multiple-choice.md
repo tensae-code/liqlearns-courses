@@ -281,3 +281,7 @@ a) oxygen  b) carbon dioxide, and breathes out oxygen  c) smoke
 **70. (Sub lesson 44)** Forests contribute to cooling the earth by —
 a) blocking all sunlight  b) taking in polluted air and giving shade and moisture  c) stopping all rain
 **Answer: b) taking in polluted air and giving shade and moisture** — forests clean the air, shade the ground and hold moisture — the cooling the questions name.
+
+**71. (Sub lesson 45)** The Grade 7 guide's Abbay listening says the Grand Dam has —
+a) 6 generating units of 100 MW each  b) 16 generating units of 375–400 MW each  c) 60 turbines of 40 MW each
+**Answer: b) 16 generating units of 375–400 MW each**

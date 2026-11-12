@@ -71,13 +71,13 @@ countries: Ethiopia
 | Sub lesson 12 — personal vs environmental cleanliness concept webs (with the p.61 punctuation rewriting in The Sentence) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.61 |
 | Sub lesson 2 — cotton→clothes concept web (ቢጋር) (placement G2 #15's web, re-cited here at its own page) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.15 |
 
-| Sub lesson 14 — vocabulary — cloze paragraph (school-siting) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 36 |
-| Sub lesson 15 — vocabulary — bat-story cloze word bank | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 44–45 |
-| Sub lesson 15 — vocabulary — cloze set, Maru Forsa Part 2 | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 54 |
-| Sub lesson 15 — vocabulary — cloze word bank, poem ጥሪ | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 89 |
-| Sub lesson 15 — vocabulary — cloze, child labour | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 95–96 |
-| Sub lesson 15 — vocabulary — cloze set, climate change | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 139–140 |
-| Sub lesson 16 — vocabulary — water words cloze (names of waters) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 70 |
+| Sub lesson 14 — vocabulary — cloze paragraph (school-siting) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 36 |
+| Sub lesson 15 — vocabulary — bat-story cloze word bank | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 44–45 |
+| Sub lesson 15 — vocabulary — cloze set, Maru Forsa Part 2 | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 54 |
+| Sub lesson 15 — vocabulary — cloze word bank, poem ጥሪ | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 89 |
+| Sub lesson 15 — vocabulary — cloze, child labour | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 95–96 |
+| Sub lesson 15 — vocabulary — cloze set, climate change | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 139–140 |
+| Sub lesson 16 — vocabulary — water words cloze (names of waters) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 70 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The crossword's ANSWERS and RULES are the guide's own, printed at pp.18–19 as placed; the guide's grid drawing itself is an image in a scanned-image PDF and its exact cell layout is not recoverable from the placements' text — Picture 8529's grid is drawn in this build to hold exactly the printed answers, with crossings where the answers' own fidel allow (ጀግና/ግንብኛ share ግ; ንብ shares ን and ብ with ግንብኛ; አክሱም/አክስት share አ; ሱሪ starts from አክሱም's ሱ; ትራስ starts from አክስት's ት; ኬራር crosses ትራስ at ራ). No claim is made that the drawn layout is the book's printed layout. (2) Sub lesson 4 rests on teacher-guide evidence only and is labelled so; the lesson's acceptance count stands on Sub lessons 1–3, which are pupil-taught across the student books. (3) The Grade 4 teacher guide is a partial scan; pp.18–19 are inside the secured pages.

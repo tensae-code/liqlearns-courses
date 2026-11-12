@@ -155,3 +155,19 @@ Sub lesson 43 questions from the type files. Pass mark: explain the lament's air
 ## Sub lesson 44 — Grade 8: ደኖችና የአየር ንብረት ለውጥ — Forests and Climate Change (listening)
 Sub lesson 44 questions from the type files. Pass mark: list forests' benefits from the hearing and explain their cooling work.
 
+# Growth — sub lessons added 2026-11-12 (Amharic fix build, teacher guides G7–G10 + G3 second-language)
+
+## Sub lesson 45 — Two listenings from the Grade 7 guide — the Abbay, and the volunteer (teacher guide — evidence)
+Sub lesson 45 questions from the type files. Pass mark: say what the Abbay text's own figures are (16 units of 375–400 MW) and what its assessment checks (contextual meanings); retell the volunteer's path in order — return, search, service — and name the printed source of her story.
+
+## Sub lesson 46 — Every learner hears the text — the Addis guides' inclusion notes (teacher guide — evidence)
+Sub lesson 46 questions from the type files. Pass mark: state each guide's note in its own terms — who reads aloud, for whom, and where the note stands (Grade 7: inside the chapters' listening/reading parts; Grade 8: at the listening and reading parts of every chapter in hand).
+
+## Sub lesson 47 — Heritages in Ethiopia — the Grade 8 guide's listening (teacher guide — evidence)
+Sub lesson 47 questions from the type files. Pass mark: say how the text defines heritage, name three heritages it lists (shillela chants/poems, monuments, the ደብዳቤ letters), and name the two sources the guide prints for its texts.
+
+## Sub lesson 48 — The traditional marriage of the Zeyse — the Grade 9 guide's listening (teacher guide — evidence)
+Sub lesson 48 questions from the type files. Pass mark: state the keyed mark of the regular traditional marriage (arranged by the two families/clans after the boy has seen the girl) and say what learners do with the chapter's marriage forms (classify them against the key).
+
+## Sub lesson 49 — Two listenings from the Grade 10 guide — the lazy man, and what one is to the other (teacher guide — evidence)
+Sub lesson 49 questions from the type files. Pass mark: repeat the story's contrast exactly («ሂዱ ሥሩ» vs «ኑ እንሂድ እንሥራ») and say which side the story honours; state the twin-concepts point of the second listening and the guide's word for teaching the skills together (በቅንጅት).

@@ -23,7 +23,7 @@ countries: Ethiopia
 | Sub lesson 3 — a paragraph on how you help your family in your spare time | Ethiopia, *Amharic Student Textbook, Grade 4*, printed p.38 |
 | Picture 8514 / GIF 8513 — drawn for this lesson from the rows above | Drawn renders made in this build (PIL, cream-paper style), from Books 1 and 3 above |
 
-| Sub lesson 4 — one-paragraph composition + error correction | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 9 |
+| Sub lesson 4 — one-paragraph composition + error correction | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 9 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The Grade 3 book also sets paragraph-completion tasks on health texts (HIV/AIDS, printed p.6; typhoid symptoms, p.15); the completion METHOD is taught here from the Grade 4 starters, and the health content itself stays in the reading lessons — it is not repeated in this lesson. (2) The Grade 4 starters are quoted in the placements' English rendering; the lesson quotes them the same way and invents no Amharic wording for them. (3) The "Do it first" sentences are this lesson's own practice sentences, built to the books' one-idea rule; no book page is claimed for them.

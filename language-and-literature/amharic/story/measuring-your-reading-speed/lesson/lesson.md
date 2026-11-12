@@ -6,6 +6,8 @@ Try the first task in Sub lesson 1 before you read any explanation.
 
 ## Sub lesson 1 — The timed passage — የዓለም የሙቀት መጨመር ተፅዕኖ
 
+[Picture 27903 — an open book with the reader's slash mark, and the stopwatch of the timed minute]
+
 The Grade 8 fluency lesson prints a passage — 'The Impact of Global Warming' — with cumulative word counts running down its margin (6, 11, 17 … 136) and six attempt columns. The passage itself teaches while you time: the world's temperature rises on land and sea; evaporation increases and soil moisture is depleted, worsening drought; Arctic sea ice retreats and glaciers melt; sea level rises; species flee towards the poles; coastal people face floods, and low islands great danger. You read aloud for one timed minute and put a slash (/) at the word where the minute ends. The margin count at that line is your raw count.
 
 ## Sub lesson 2 — The scoring — speed, correct speed, comprehension

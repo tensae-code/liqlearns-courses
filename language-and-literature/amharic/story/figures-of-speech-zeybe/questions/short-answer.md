@@ -10,3 +10,6 @@ Answer in a short sentence.
 
 **3. (Sub lesson 3)** What is the set scrambled poem about?
 **Answer:** Envy (ቅናት) — the disease that destroys the eyes of conscience.
+
+**4. (Sub lesson 3)** The set scrambled poem's disease, envy, is named —
+**Answer:** ቅናት — envy, whose pain the poem calls the worst.

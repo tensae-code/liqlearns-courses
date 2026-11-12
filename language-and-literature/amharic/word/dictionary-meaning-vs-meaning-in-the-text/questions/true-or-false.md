@@ -10,3 +10,6 @@ Say true or false.
 
 **3. (Sub lesson 3)** A phrase's meaning in a play can be a whole situation, not just its dictionary meaning.
 **Answer: True**
+
+**4. (Sub lesson 2)** ጥበብ is defined first from the dictionary in the heritage work.
+**Answer: True**

@@ -7,3 +7,9 @@ Say true or false.
 
 **2. (Sub lesson 2)** You read the draft once for each criterion, marking failures, then mend.
 **Answer: True**
+
+**3. (Sub lesson 1)** Criterion 2 asks whether the paragraph's main idea is shown clearly.
+**Answer: True**
+
+**4. (Sub lesson 2)** Corrections in revision are written in another colour so the mending can be seen.
+**Answer: True**

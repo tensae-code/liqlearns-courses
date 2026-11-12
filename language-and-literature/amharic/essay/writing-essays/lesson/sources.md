@@ -37,24 +37,24 @@ countries: Ethiopia
 | Sub lesson 7 — An essay from a starter — 'The foundation of friendship is love' | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.133 |
 | Sub lesson 7 — A true addiction story, in two paragraphs | Ethiopia, *Grade 6 Amharic Student Textbook*, printed pp.115 |
 
-| Sub lesson 8 — writing — the 3-paragraph spacing essay | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 16 |
-| Sub lesson 8 — writing — family-planning essay | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 22 |
-| Sub lesson 9 — writing — ምክር ለእናቶች (Advice to Mothers) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 27 |
-| Sub lesson 9 — writing to explain — a social problem (expository follow-on) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 80 |
-| Sub lesson 10 — editing the set patriotism passage | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 70–71 |
-| Sub lesson 10 — ordering a cause-and-effect essay / repairing a scrambled paragraph | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 86 |
-| Sub lesson 11 — writing — patriotism in the professions (essay) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 129–130 |
-| Sub lesson 11 — writing — turning a table of numbers into prose | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 140–141 |
-| Sub lesson 12 — building an essay from an outline (clinic) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 3–4 |
-| Sub lesson 12 — narrative essay — the Hero Donkey, from an outline | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 40 |
-| Sub lesson 12 — narrative from an outline — From Seed to Harvest | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 70 |
-| Sub lesson 12 — narrative from a full outline — the Tortoise and the Hare | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 74–75 |
-| Sub lesson 13 — the narrative essay — the book's own definition (ዳኛቸው ወርቁ, 1977) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 64 |
-| Sub lesson 14 — main-idea-and-detail writing | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 30–31 |
-| Sub lesson 14 — essay plan in a bigar frame | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 96–97 |
-| Sub lesson 14 — the planned child-labour essay, written | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 103 |
-| Sub lesson 15 — cause-and-effect essay — አውቆ አበድ | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 8–9 |
-| Sub lesson 15 — cause-and-effect essay on man-made climate change | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 130 |
+| Sub lesson 8 — writing — the 3-paragraph spacing essay | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 16 |
+| Sub lesson 8 — writing — family-planning essay | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 22 |
+| Sub lesson 9 — writing — ምክር ለእናቶች (Advice to Mothers) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 27 |
+| Sub lesson 9 — writing to explain — a social problem (expository follow-on) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 80 |
+| Sub lesson 10 — editing the set patriotism passage | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 70–71 |
+| Sub lesson 10 — ordering a cause-and-effect essay / repairing a scrambled paragraph | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 86 |
+| Sub lesson 11 — writing — patriotism in the professions (essay) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 129–130 |
+| Sub lesson 11 — writing — turning a table of numbers into prose | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 140–141 |
+| Sub lesson 12 — building an essay from an outline (clinic) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 3–4 |
+| Sub lesson 12 — narrative essay — the Hero Donkey, from an outline | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 40 |
+| Sub lesson 12 — narrative from an outline — From Seed to Harvest | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 70 |
+| Sub lesson 12 — narrative from a full outline — the Tortoise and the Hare | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 74–75 |
+| Sub lesson 13 — the narrative essay — the book's own definition (ዳኛቸው ወርቁ, 1977) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 64 |
+| Sub lesson 14 — main-idea-and-detail writing | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 30–31 |
+| Sub lesson 14 — essay plan in a bigar frame | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 96–97 |
+| Sub lesson 14 — the planned child-labour essay, written | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 103 |
+| Sub lesson 15 — cause-and-effect essay — አውቆ አበድ | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 8–9 |
+| Sub lesson 15 — cause-and-effect essay on man-made climate change | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 130 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) Sub lesson 4 rests on teacher-guide evidence only — the argumentative paragraph's arrival (Grade 6 guide, printed p.31) and the argumentative-essay model task (Grade 8 guide, printed p.21) are labelled (teacher guide — evidence) in the table; the lesson's acceptance count stands on Sub lessons 1, 2, 3 and 5, which are pupil-taught in the student books. The brief for this build said the argumentative essay "grows in the books"; in the placements in hand its growth step is the Grade 8 teacher guide, not a student book, and it is filed as such. (2) The Grade 8 guide prints the essay's name in two spellings, አካራካሪ/አከራካሪ ድርሰት; both are carried, exactly as the placement gives them. The Grade 6 guide's spelling of the paragraph, ኤከራካሪ አንቀጽ, is likewise carried as printed in the placement. (3) Both teacher guides are partial copies (Grade 6: printed pp.1–36; Grade 8: printed pp.1–38); the pages used here are inside the secured pages. (4) No essay text from any book is copied; the coffee, volunteers and HIV organisers are taught as the placements summarise them.

@@ -14,6 +14,8 @@ After Act 1 of የሠርጉ መዘዝ, the book sets an analysis table: characte
 
 ## Sub lesson 3 — The elements table — middle and end
 
+[Picture 27902 — the five-column table of a play's elements — ገፀባሕርያት, መቼት, ድርጊት, ግጭት, ጡዘት]
+
 The book returns to the same table for the middle (after Act 2) and the end (after Act 3). The middle asks how the action grows and complicates: the conflict between Belayhun and Ayelech sharpens, the video man's bill arrives, and custom (ወግ) itself is named as the pressure that made the debt. The end asks where the climax lands and how the problem resolves: the family decides to cancel the return feast and live within its means. One table, three fillings — beginning, middle, end — is the book's whole method for analysing a play.
 
 ## Say it to your companion

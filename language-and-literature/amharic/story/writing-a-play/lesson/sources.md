@@ -6,9 +6,9 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — writing — a play's first part | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 147 |
-| Sub lesson 2 — writing the play's middle; performing Act 2; joining with conjunctions | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 155–156 |
-| Sub lesson 3 — writing — finishing the play; the full elements organiser | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 161–162 |
+| Sub lesson 1 — writing — a play's first part | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 147 |
+| Sub lesson 2 — writing the play's middle; performing Act 2; joining with conjunctions | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 155–156 |
+| Sub lesson 3 — writing — finishing the play; the full elements organiser | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 161–162 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

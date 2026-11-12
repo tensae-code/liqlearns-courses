@@ -6,11 +6,12 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — drama elements primer | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 142–145 |
-| Sub lesson 2 — Act 1 analysis — the elements table | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 145–146 |
-| Sub lesson 3 — Act 2 analysis — filling the table for the middle | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 152–154 |
-| Sub lesson 3 — finishing the play — the table for the end | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 161–162 |
+| Sub lesson 1 — drama elements primer | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 142–145 |
+| Sub lesson 2 — Act 1 analysis — the elements table | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 145–146 |
+| Sub lesson 3 — Act 2 analysis — filling the table for the middle | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 152–154 |
+| Sub lesson 3 — finishing the play — the table for the end | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 161–162 |
 
+| Picture 27902 (drawn render) | Made for this lesson in the 2026-11-12 Amharic fix build (drawn) |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: every part of this lesson is a summary or a teaching point taken from the placements named above — stories and the play are plot summaries only, poems are themed summaries only, and no book text is transcribed. Sensitive readings are taught exactly in the books' own teaching frame, as summaries.

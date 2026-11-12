@@ -6,6 +6,8 @@ Try the first task in Sub lesson 1 before you read any explanation.
 
 ## Sub lesson 1 — The ten criteria — የድርሰት መገምገሚያ መስፈርት
 
+[Picture 27904 — the ten-criteria checklist — ten boxes to tick as an essay is revised]
+
 Grade 8's essay-assessment (correction) criteria are a checklist of ten: 1) keep to the title; 2) show the paragraph's main idea clearly; 3) explain it with proper details; 4) organise the idea coherently; 5) use words properly; 6) use sentences readers can understand; 7) use complete sentences; 8) keep the idea's flow; 9) use proper punctuation in its proper place; 10) structure paragraphs with unity and coherence of idea. Revision is not copying neatly — it is testing the draft against each criterion in turn and mending what fails.
 
 ## Sub lesson 2 — Revising in practice — three essays, one checklist

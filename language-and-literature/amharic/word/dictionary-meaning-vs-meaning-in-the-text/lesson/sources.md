@@ -6,9 +6,9 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — dictionary meaning vs meaning in the text (two layers) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 13 |
-| Sub lesson 2 — heritage words — dictionary + contextual sets | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 18–19 |
-| Sub lesson 3 — play words in and out of text | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 146–147 |
+| Sub lesson 1 — dictionary meaning vs meaning in the text (two layers) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 13 |
+| Sub lesson 2 — heritage words — dictionary + contextual sets | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 18–19 |
+| Sub lesson 3 — play words in and out of text | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 146–147 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

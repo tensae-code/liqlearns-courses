@@ -13,3 +13,7 @@ a) the setting  b) the climax — the highest point  c) a character's name
 **3. (Sub lesson 3)** What pressure does Act 2 name as the cause of the debt?
 a) a failed harvest  b) custom (ወግ) — the expectation to feast and spend  c) a stolen purse
 **Answer: b) custom (ወግ) — the expectation to feast and spend** — Demena's speech names custom: people will not recognise you if you do not feast.
+
+**4. (Sub lesson 1)** አላባውያን means —
+a) the audience  b) the elements of a play  c) the tickets
+**Answer: b) the elements of a play** — the primer names the play's elements together as አላባውያን.

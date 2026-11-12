@@ -56,19 +56,19 @@ countries: Ethiopia
 
 | Sub lesson 15 — compound sentences reviewed at the Grade 4 book's own bench: build ድርብ sentences with እና, ነገርግን, ወይም, ስለዚህ and በሌላ በኩል (G4S-57) | Ethiopia, *Grade 4 Amharic Student Textbook*, printed p. 34 |
 
-| Sub lesson 16 — grammar — rewriting with a plural subject | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 32 |
-| Sub lesson 16 — grammar — plural subject/predicate rewrite | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 37–38 |
-| Sub lesson 17 — grammar — person/tense table | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 142 |
-| Sub lesson 17 — grammar — hunting questions in a passage | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 148–149 |
-| Sub lesson 18 — affirmative/negative exercise, the Expert's Advice | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 4–5 |
-| Sub lesson 18 — affirmative/negative, the እሮሮ chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 81–82 |
-| Sub lesson 18 — simple/compound sentences, the wise-woman chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 60 |
-| Sub lesson 19 — naming sentence functions, Grade 8 | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 108 |
-| Sub lesson 20 — grammar — turning statements into questions | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 103 |
-| Sub lesson 20 — grammar — turning statements into commands | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 108 |
-| Sub lesson 20 — grammar — changing questions into statements | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 90–91 |
-| Sub lesson 21 — grammar — correcting agreement errors | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 46 |
-| Sub lesson 21 — grammar — scrambled word order | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 50–51 |
+| Sub lesson 16 — grammar — rewriting with a plural subject | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 32 |
+| Sub lesson 16 — grammar — plural subject/predicate rewrite | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 37–38 |
+| Sub lesson 17 — grammar — person/tense table | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 142 |
+| Sub lesson 17 — grammar — hunting questions in a passage | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 148–149 |
+| Sub lesson 18 — affirmative/negative exercise, the Expert's Advice | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 4–5 |
+| Sub lesson 18 — affirmative/negative, the እሮሮ chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 81–82 |
+| Sub lesson 18 — simple/compound sentences, the wise-woman chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 60 |
+| Sub lesson 19 — naming sentence functions, Grade 8 | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 108 |
+| Sub lesson 20 — grammar — turning statements into questions | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 103 |
+| Sub lesson 20 — grammar — turning statements into commands | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 108 |
+| Sub lesson 20 — grammar — changing questions into statements | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 90–91 |
+| Sub lesson 21 — grammar — correcting agreement errors | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 46 |
+| Sub lesson 21 — grammar — scrambled word order | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 50–51 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The Grade 4 Teacher Guide's secured file is truncated at printed p.42; only its Units 1–3 and part of Unit 4 were read — every teacher-guide part used here sits inside the read span (pp.6, 10–11). Its title page wrongly reads "student book, Part 1" (a template anomaly verified in the placements); the cover, footers and content are the Grade 4 teacher guide, and it is cited as such. (2) GIF 8390 writes አንደኛ for the dialogue's "1ኛ" because the drawing font cannot render the digit inside the Ethiopic word; lesson.md and the questions carry "1ኛ" exactly as the guide prints it. (3) No hardness numbers are written anywhere in this lesson — the books give none. (4) Growth notes (Sub lessons 5–9, added 2026-11-12): the Grade 7 Teacher Guide's secured file is likewise truncated (printed p.46; Chapters 5–10 missing) — the one teacher-guide part used (p.14) sits inside the read span. The pair ልጁ መጣ። / ልጁ አልመጣም። in Sub lesson 7, Picture 8722 and the questions is formed by applying the book's own አል-…-ም rule (Grade 7, printed pp.66–67) to the plain verb መጣ; the placements quote the rule and the classification work, not this exact pair, and it is taught as the rule at work, not as a quoted example. The Grade 7 book's p.81 note names the asking function ጥያቄያዊ while its pp.76–77 table names it መጠይቃዊ; the lesson uses ጥያቄያዊ for the function and mentions መጠይቃዊ in the Sub lesson 7 table, exactly as printed in each place.

@@ -6,7 +6,19 @@ Read this pair: a mule is an animal for carrying loads. Now suppose a poem calls
 
 ## Sub lesson 1 — ሰምና ወርቅ — the wax and the gold
 
+[Picture 27900 — wax-and-gold — a candle whole (ሰም) and cut open to the gold (ወርቅ) inside]
+
 The Grade 7 book teaches a famous craft of Amharic poetry. In some poems a word is written carrying a ሰምና ወርቅ meaning: ሰም (wax) is the meaning plainly seen on the poem's surface; ወርቅ (gold) is the secret meaning presented covered by the wax. The word carrying both is an ኅብረቃል. The worked example: 'ነይልኝ በፈረስ በሚገሰግሰው፣ መቼ በቅሎ ያውቃል እንዳንቺ ያለ ሰው' — በቅሎ (mule) is the ኅብረቃል. Its wax meaning is the household animal used for transport, and in the poem's surface sense: come by horse, do not think of coming by mule. Its gold meaning is hidden: 'one like you has never yet been born.' To read such a poem, first read the wax — then dig for the gold.
+
+## Sub lesson 2 — The exercises — digging for gold in five verses
+
+[Picture 27906 — GIF: the wax candle melts down and the gold coin is revealed — ሰም giving way to ወርቅ]
+
+The book sets five verses for practice — ሞጣ ቀራንዮ…, በጎጃም ያካፋል በሸዋ ፀሐይ…, ለምን ገለበጡት ወተቱን በጋን…, አዲስ አበባ ላይ ቡና ቢወደድ…, የጥቁር በሬ ስባቱ… — and for each the work is the same three steps: find the ኅብረቃል (the word carrying both meanings), write its wax meaning, then dig out its gold meaning. Work them in that order and never skip the wax: a gold meaning that does not grow out of the verse's surface is a guess, not a reading. Compare your gold with a partner's — where you differ, the verse itself must judge, word by word.
+
+## Sub lesson 3 — The exercises — digging for gold in five verses
+
+The book sets five verses for practice — ሞጣ ቀራንዮ…, በጎጃም ያካፋል በሸዋ ፀሐይ…, ለምን ገለበጡት ወተቱን በጋን…, አዲስ አበባ ላይ ቡና ቢወደድ…, የጥቁር በሬ ስባቱ… — and for each the work is the same three steps: find the ኅብረቃል (the word carrying both meanings), write its wax meaning, then dig out its gold meaning. Work them in that order and never skip the wax: a gold meaning that does not grow out of the verse's surface is a guess, not a reading. Compare your gold with a partner's — where you differ, the verse itself must judge, word by word.
 
 ## Say it to your companion
 

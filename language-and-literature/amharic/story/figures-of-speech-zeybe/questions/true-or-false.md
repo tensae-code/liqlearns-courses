@@ -10,3 +10,6 @@ Say true or false.
 
 **3. (Sub lesson 3)** After naming a figure, you should also say what the figure does — what it praises or makes felt.
 **Answer: True**
+
+**4. (Sub lesson 2)** 'The boy fell like a cut tree' compares two things — ተነፃፃሪ.
+**Answer: True**

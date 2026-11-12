@@ -6,7 +6,7 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — listening — ያልተፈረደባት ነፍስ, a play; dependent clauses from the play | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 147–148 |
+| Sub lesson 1 — listening — ያልተፈረደባት ነፍስ, a play; dependent clauses from the play | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 147–148 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

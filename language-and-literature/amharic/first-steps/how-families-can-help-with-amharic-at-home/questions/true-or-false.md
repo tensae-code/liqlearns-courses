@@ -10,3 +10,6 @@ Say true or false.
 
 **3. (Sub lesson 3)** Grammar at Grades 7–8 includes adjectives and adverbs.
 **Answer: True**
+
+**4. (Sub lesson 2)** Encouraging short letters and opinion pieces at home is one of the eleven activities.
+**Answer: True**

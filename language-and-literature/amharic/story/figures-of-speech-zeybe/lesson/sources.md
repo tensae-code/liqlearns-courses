@@ -6,10 +6,10 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — ዘይቤ (figures of speech) — the definition | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 147–148 |
-| Sub lesson 2 — the three kinds of ዘይቤ with their examples | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 147–148 |
-| Sub lesson 3 — naming the figure in each mourning verse | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 153–154 |
-| Sub lesson 3 — figure analysis table; a poem's message in prose; rebuilding a scrambled poem | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 158–159 |
+| Sub lesson 1 — ዘይቤ (figures of speech) — the definition | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 147–148 |
+| Sub lesson 2 — the three kinds of ዘይቤ with their examples | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 147–148 |
+| Sub lesson 3 — naming the figure in each mourning verse | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 153–154 |
+| Sub lesson 3 — figure analysis table; a poem's message in prose; rebuilding a scrambled poem | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 158–159 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

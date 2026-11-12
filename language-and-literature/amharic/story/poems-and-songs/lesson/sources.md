@@ -80,15 +80,15 @@ countries: Ethiopia
 | Sub lesson 13 — sing the Hoya Hoye lines in tune + write festival-day sentences (በገና ዕለት…, በኢድአልፈጥር ዕለት…) (fix build: p.80 was omitted before; placement G2 #73) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.80 |
 | Sub lesson 13 — ቀረርቶና ፉከራ passage with printed examples (finger-to-ear singer, staffs, Menelik verses) (fix build: pp.82–83 were cited only to the G5/G7 books before; placement G2 #75) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.82–83 |
 
-| Sub lesson 17 — poem — ዓባይ ሐረግ ሆነ | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 60–63 |
-| Sub lesson 18 — writing — compose your own poem | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 65 |
-| Sub lesson 19 — poem — ዓባይ, song lyric by እጅጋየሁ ሽባባው | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 72–74 |
-| Sub lesson 20 — vocabulary — old and poetic words (matching) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 75 |
-| Sub lesson 21 — poem — የዘመነ ዘመን (The Bygone Era) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 99–101 |
-| Sub lesson 22 — vocabulary — cloze with the poem's words | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 102 |
-| Sub lesson 23 — vocabulary — poem words + summarise and collect oral poems (fieldwork) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 26 |
-| Sub lesson 24 — poem — ጥሪ (The Call) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 87–88 |
-| Sub lesson 25 — poem — አሁን መልካም ሥሩ! (Do Good Now!) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 114–116 |
+| Sub lesson 17 — poem — ዓባይ ሐረግ ሆነ | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 60–63 |
+| Sub lesson 18 — writing — compose your own poem | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 65 |
+| Sub lesson 19 — poem — ዓባይ, song lyric by እጅጋየሁ ሽባባው | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 72–74 |
+| Sub lesson 20 — vocabulary — old and poetic words (matching) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 75 |
+| Sub lesson 21 — poem — የዘመነ ዘመን (The Bygone Era) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 99–101 |
+| Sub lesson 22 — vocabulary — cloze with the poem's words | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 102 |
+| Sub lesson 23 — vocabulary — poem words + summarise and collect oral poems (fieldwork) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 26 |
+| Sub lesson 24 — poem — ጥሪ (The Call) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 87–88 |
+| Sub lesson 25 — poem — አሁን መልካም ሥሩ! (Do Good Now!) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 114–116 |
 **Acceptance count: taught in 1 country (Ethiopia).** Most poems and songs are pupil-taught from the student books; the flower poem's performance method, the road-safety song's text and the rhyme sets stand on teacher-guide evidence, labelled above. Sub lessons 5–9 (the 2026-11-12 growth) are pupil-taught from the Grade 5–8 student books, with one Grade 6 teacher-guide poem labelled (teacher guide — evidence). Sub lessons 10–12 (the 2026-11-12 Band 4 growth) stand wholly on teacher-guide evidence — the federal Grade 10 guide's Poetry chapter (Book 15); there is no Grade 10 student book in the records, so nothing in sub lessons 10–12 is pupil-taught, and the guide-built parts are evidence only, never counted as taught to pupils.
 
 Honesty notes: (1) Poems and songs are taught as summaries plus named refrains only — the only verse fragments quoted are the short ones the placements themselves print (ግራ ቀኝ ግራ; መናጩ ዋናጩ ቂናጩ; "ዓመት ዓውደዓመት ድገምና…"). No poem or song is transcribed in full. (2) The teacher-guide files are truncated scans (G1 ends p.35, G2 p.34, G4 p.42); every guide item used here is inside those spans. (3) Pictures 8324, 8325, 8326 and GIF 8332 are drawn renders made for this lesson, looked at before filing (GIF frames 1/7/13/20 checked full-frame).
@@ -98,5 +98,7 @@ Honesty notes, Band 4 growth: (9) The two poems of the Grade 10 Poetry chapter (
 
 
 Fix-build note (2026-11-12, Amharic fix build — Grades 5–6 student books): the sub lessons added in this fix are recorded part by part in the table above, each at its own book and printed page. Listening parts teach exactly what the student books carry — title, picture and the book's own questions — and summarise the heard text only; stories are plot summaries, never transcriptions; songs are named and summarised, never transcribed.
+
+**Honesty — numbering slips in the Grade 7 book (2026-11-12 fix build):** the book prints the ዓባይ song once as '6.5.2' and its surrounding sections carry a repeated 6.5.x numbering slip; and the 'compose your own poem' task that closes the song work stands at printed p. 74 though the song chapter's own contents line cites p. 56 — both are carried above with the pages the content actually stands on.
 
 Searchable tags: poems and songs, ግጥም, ዘፈን, አበባ አየሁሽ, ልጆች ተጠንቅቁ, ግራ ቀኝ ግራ, rhyme መናጩ ዋናጩ ቂናጩ, ሮዛ, ክረምትና በጋ, መጽሐፌ መካሪዬ, ሆያ ሆዬ, ጠንቃቃ, oral poems ቃላዊ ግጥሞች, work songs የሥራ ዘፈኖች, debo ደቦ, seed ዘር, qererto ቀረርቶ, shilela ሽለላ, fuqera ፉከራ, wedding songs የሠርግ ዘፈኖች, mourning ሙሾ, mugesa ሙገሣ, proverbs ምሳሌያዊ አነጋገሮች, the parts of a poem ሐረግ ስንኝ አርኬ ቤት, metre ምጣኔ, heritage ቅርስ, poetry ሥነግጥም, ሀገሬ ዋርካ ናት, warka ዋርካ, compression እጥር ምጥን, የግጥም ጥግ, themes ጭብጥ, presenting poems aloud, denotative and connotative meaning, የመማሪያ ክፍላችን, our classroom, poetry words vs prose words

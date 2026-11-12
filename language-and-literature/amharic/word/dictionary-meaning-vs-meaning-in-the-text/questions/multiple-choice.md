@@ -13,3 +13,7 @@ a) the text layer  b) the dictionary layer  c) neither — skip both
 **3. (Sub lesson 3)** ማጋዝ in the play's vocabulary work means —
 a) dancing  b) storing / putting into store  c) singing
 **Answer: b) storing / putting into store** — ማጋዝ is storing — the chairs stored since Friday in Act 1.
+
+**4. (Sub lesson 1)** ትውፊት belongs to which layer's list in the first work?
+a) the text layer only  b) the dictionary layer  c) neither
+**Answer: b) the dictionary layer** — ትውፊት is in the first list — dictionary definitions.

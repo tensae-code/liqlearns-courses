@@ -10,3 +10,6 @@ Answer in a short sentence.
 
 **3. (Sub lesson 3)** In the model pair, what is the SIMILAR meaning given for ደልደል ያለ?
 **Answer:** ወፈር ያለ (its opposite is ከሳ ያለ).
+
+**4. (Sub lesson 3)** In the model pair, what is ደልደል ያለ's OPPOSITE given?
+**Answer:** ከሳ ያለ.

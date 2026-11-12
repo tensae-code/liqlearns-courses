@@ -6,7 +6,7 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — condensing with a classification table | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 19 |
+| Sub lesson 1 — condensing with a classification table | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 19 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

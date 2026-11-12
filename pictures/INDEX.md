@@ -3921,6 +3921,13 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 27603 | pictures/27603.webp | an iron pot (ብረት ድስት) and a clay pot (ሸክላ ድስት) side by side | Amharic — Story — Poems and Songs |
 | 27610 | pictures/27610.gif | the Ete Mete sequence — own clap, partner clap, elbow-and-chest touch, speeding up | Amharic — Story — Reading Stories |
 | 27611 | pictures/27611.gif | a hand sowing gebeta stones hollow by hollow around the board | Amharic — Story — Listening Stories |
+| 27900 | pictures/27900.webp | wax and gold — a candle whole (ሰም) and one cut open to the gold coin (ወርቅ) inside | Amharic — Story — Poetry's Double Meaning — Wax and Gold |
+| 27901 | pictures/27901.webp | the wedding play's stage — the landlord's salon: sofa, commode, curtained window, the worried man with his calculator | Amharic — Story — Reading a Play — The Wedding's Aftermath |
+| 27902 | pictures/27902.webp | the five-column table of a play's elements — ገፀባሕርያት · መቼት · ድርጊት · ግጭት · ጡዘት | Amharic — Story — The Elements of a Play |
+| 27903 | pictures/27903.webp | an open book with the reader's slash mark and a stopwatch — the timed minute | Amharic — Story — Measuring Your Reading Speed |
+| 27904 | pictures/27904.webp | the ten-criteria checklist — ten ticked boxes | Amharic — Essay — Revising Your Essay with the Ten Criteria |
+| 27905 | pictures/27905.webp | books on a shelf, one inside its protective cover with its ribbon — the care message | Amharic — First Steps — Caring for Books and Shared Things |
+| 27906 | pictures/27906.gif | a wax candle melts down and the gold coin is revealed | Amharic — Story — Poetry's Double Meaning — Wax and Gold |
 | 29213 | pictures/29213.webp | alcohol, khat and drugs — body effects and risky sex overview | Biology — Alcohol, khat and drugs — body effects and risky sex |
 | 29214 | pictures/29214.webp | anaerobic respiration and fermentation overview | Biology — Anaerobic Respiration and Fermentation |
 | 29215 | pictures/29215.webp | applications of biology in day-to-day life overview | Biology — Applications of Biology in Day-to-Day Life |
@@ -4592,3 +4599,30 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 28264 | pictures/28264.gif | a child stepping stone to stone, pausing at the outcomes stone | Civics and Citizenship — Ethiopia — Five Steps to a Moral Decision |
 | 28265 | pictures/28265.gif | the drip slowing and stopping as the tap is fixed | Civics and Citizenship — Ethiopia — Ways to Care for the Environment |
 | 28266 | pictures/28266.gif | threads weaving together into a single patterned cloth | Civics and Citizenship — Ethiopia — Unity in Diversity |
+| 26800 | pictures/26800.webp | an idea sharpening in three sketches | Technology & Design — free-hand-sketching-principles |
+| 26801 | pictures/26801.webp | the four circle methods in four panels | Technology & Design — sketching-techniques… |
+| 26802 | pictures/26802.webp | a blocky object beside its isometric sketch | Technology & Design — pictorial-sketching-isometric |
+| 26803 | pictures/26803.webp | an inclined face distorted in all principal views | Technology & Design — orthographic-projection-basics |
+| 26804 | pictures/26804.webp | an inclined surface unfolding into its auxiliary view | Technology & Design — drawing-an-auxiliary-view |
+| 26805 | pictures/26805.webp | object, primary auxiliary, secondary auxiliary chain | Technology & Design — secondary-auxiliary-views |
+| 26806 | pictures/26806.webp | a cut object with cutting-plane line and hatched faces | Technology & Design — sectioning-words-and-practice |
+| 26807 | pictures/26807.webp | one object sectioned three different ways | Technology & Design — types-of-section |
+| 26808 | pictures/26808.webp | a sectioned shaft assembly with parts left unhatched | Technology & Design — conventional-practice-in-sectioning |
+| 26810 | pictures/26810.gif | a rough sketch refined line by line | Technology & Design — free-hand-sketching-principles |
+| 26811 | pictures/26811.gif | a circle sketched by the box method | Technology & Design — sketching-techniques… |
+| 26812 | pictures/26812.gif | an object turning into its isometric view | Technology & Design — pictorial-sketching-isometric |
+| 26813 | pictures/26813.gif | a point projecting onto three planes | Technology & Design — orthographic-projection-basics |
+| 26814 | pictures/26814.gif | the auxiliary plane unfolding flat | Technology & Design — drawing-an-auxiliary-view |
+| 26815 | pictures/26815.gif | a cutting plane passing through and the front half lifting away | Technology & Design — sectioning-words-and-practice |
+| 23400 | pictures/23400.webp | opposition timeline 1960–1974 | Social Studies — Autocracy and the rising opposition |
+| 23401 | pictures/23401.webp | the cascade of 1974 | Social Studies — 1974 — the Ethiopian revolution |
+| 23402 | pictures/23402.webp | the Derg's programme panels | Social Studies — The Derg's reforms |
+| 23403 | pictures/23403.webp | the fall of the Derg sequence | Social Studies — The fall of the Derg, 1991 |
+| 23404 | pictures/23404.webp | transition 1991–1995 sequence | Social Studies — Ethiopia in transition |
+| 23405 | pictures/23405.webp | the 1995 Constitution panels | Social Studies — The 1995 Constitution |
+| 23406 | pictures/23406.webp | growth and its questions chart | Social Studies — Socio-economic questions today |
+| 23407 | pictures/23407.webp | peacekeeping missions panel | Social Studies — Ethiopia the peacekeeper |
+| 23408 | pictures/23408.webp | indigenous knowledge: marks and examples | Social Studies — What indigenous knowledge is |
+| 23409 | pictures/23409.webp | joining old and new | Social Studies — Indigenous knowledge in development |
+| 23410 | pictures/23410.webp | heritage split diagram (cultural/natural, tangible/intangible) | Social Studies — Heritage |
+| 23411 | pictures/23411.webp | Ethiopia on the register strip | Social Studies — Ethiopia's UNESCO heritages |

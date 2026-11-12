@@ -10,3 +10,6 @@ Say true or false.
 
 **3. (Sub lesson 3)** Mhret had already sent all the return invitations before Act 3.
 **Answer: False**
+
+**4. (Sub lesson 2)** Demena says his own father never interrupted the iddir payment, though he lacked money for light and water.
+**Answer: True**

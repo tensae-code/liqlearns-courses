@@ -62,12 +62,12 @@ countries: Ethiopia
 | Whole lesson (teacher guide — evidence) — the G10 guide's own recap of the six word classes (የቃላት ክፍሎች): ስም (noun), ግስ (verb), ቅጽል (adjective), ተውሳከ ግስ (adverb), መስተዋድድ (pronoun in that guide's naming), መስተአምር (particle/preposition), with a keyed classification exercise — recorded here as the series' own recap of this lesson's six kinds; it is NOT taught as new pupil teaching in any sub lesson | Ethiopia, *Grade 10 Amharic Teacher Guide (Federal Language)*, printed pp.19–20 (placement 15) |
 | Pictures 9005–9006 — the three person places chart, the grown adjectives chart (drawn PIL charts for this growth) | Built from Sub lessons 12–13 above: Ethiopia, *Grade 9 Amharic Teacher Guide (Federal Language)*, printed pp.10–11, 18–19, 75–76 |
 
-| Sub lesson 16 — adjective/adverb sorting table | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 48–50 |
-| Sub lesson 17 — adverb-type / person table | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 59 |
-| Sub lesson 17 — adverbs in sentences — bigar building | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 97–98 |
-| Sub lesson 17 — adverb picking | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 103–104 |
-| Sub lesson 17 — adverbs exercise, boast-poems chapter | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 155 |
-| Sub lesson 18 — noun/verb modifiers (የስም ገላጭ / የግስ ገላጭ) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 20 |
+| Sub lesson 16 — adjective/adverb sorting table | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 48–50 |
+| Sub lesson 17 — adverb-type / person table | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 59 |
+| Sub lesson 17 — adverbs in sentences — bigar building | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 97–98 |
+| Sub lesson 17 — adverb picking | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 103–104 |
+| Sub lesson 17 — adverbs exercise, boast-poems chapter | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 155 |
+| Sub lesson 18 — noun/verb modifiers (የስም ገላጭ / የግስ ገላጭ) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 20 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) The six kinds are taught in the Grade 3 student book's own order — the grammar spine recorded in the placements (NOUN p.36 → VERB p.53 → ADJECTIVE p.72 → CONJUNCTION p.83 → ADVERB p.98 → PREPOSITION p.137); the preposition definition used is Grade 4's (p.137, Baye 2009), because the spine's last step is the Grade 3 market usage at its own p.137 — both pages are cited, neither is hidden. (2) Both teacher guides' secured files are truncated (Grade 3 at printed p.31, Grade 4 at printed p.42); every teacher-guide part used here sits inside the read spans (G3 TG p.11; G4 TG p.7). (3) The Grade 4 Teacher Guide's title page wrongly reads "student book, Part 1" (template anomaly in the placements); it is cited as the teacher guide its cover, footers and content show. (4) No hardness numbers are written anywhere in this lesson — the books give none.
@@ -78,5 +78,7 @@ G9–G10 growth honesty notes: (9) Sub lessons 12–13 rest on TEACHER-GUIDE EVI
 
 
 Fix-build note (2026-11-12, Amharic fix build — Grades 5–6 student books): the sub lessons added in this fix are recorded part by part in the table above, each at its own book and printed page. Listening parts teach exactly what the student books carry — title, picture and the book's own questions — and summarise the heard text only; stories are plot summaries, never transcriptions; songs are named and summarised, never transcribed.
+
+**Honesty — the Grade 7 book's p. 155 figure slip (2026-11-12 fix build):** at printed p. 155 the book files a praise-poem under the figure 'ነገር ግን' (but/however); the adverbs exercise on that page is carried above as an exercise-page citation only, and the mis-filed figure is taught in Figures of Speech (ዘይቤ), not here.
 
 Searchable tags: word kinds, parts of speech, noun, ስም, verb, ግስ, past-tense verbs, የኃላፊ ጊዜ ግስ, adjective, ቅጽል, አይነግሮች, conjunction, አያያዥ ቃላት, መስታጽምር, adverb, ተውሳከግስ, preposition, መስተዋድድ, ሰው ዛፍ ድመት, የዋህ ልጅ ቀይ በሬ ወፍራም በግ, common noun, ወል ስም, proper noun, የተጸውኦ ስም, collective noun, ጥቅል ስም, መንጋ, pronoun, ተውላጠስም, መደብ, demonstrative, ጠቋሚ, interrogative, መጠይቅ ተውላጠስም, countable, የሚቆጠሩ ስሞች, uncountable, የማይቆጠሩ ስሞች, ተውላጠ ስሞች, ስም ገላጭ, ረጅም ቀሚስ, አዲስ መኪና, ጎጂ ልማድ, ትላልቅ, የቃላት ክፍሎች

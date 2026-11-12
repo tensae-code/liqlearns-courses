@@ -6,8 +6,8 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — the expressive-reading rubric (የአገላለጽ ንባብ መመዘኛ) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 152–154 |
-| Sub lesson 2 — birth-rate reading + the fluency accuracy criteria | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 67–69 |
+| Sub lesson 1 — the expressive-reading rubric (የአገላለጽ ንባብ መመዘኛ) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 152–154 |
+| Sub lesson 2 — birth-rate reading + the fluency accuracy criteria | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 67–69 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

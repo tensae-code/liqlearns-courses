@@ -51,3 +51,5 @@ Go back to the sub lesson's own worked example and do it aloud together, slowly,
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+**Media note (2026-11-12, Amharic fix build):** Picture 27901 filed for this lesson — the wedding play's stage — the landlord's salon: sofa, commode and curtained window.

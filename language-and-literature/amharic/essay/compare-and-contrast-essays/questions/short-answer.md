@@ -10,3 +10,6 @@ Answer in a short sentence.
 
 **3. (Sub lesson 3)** In 'ተማሪ', what does the high-desire student do that the low-desire one does not?
 **Answer:** Any of: treats the teacher as a starting-point, is never absent, asks many questions.
+
+**4. (Sub lesson 3)** In 'ተማሪ', what does the high-desire student treat the teacher as?
+**Answer:** A starting-point of knowledge — not the whole source.

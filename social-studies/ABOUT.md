@@ -344,3 +344,15 @@ the sourcing shelf behind the Grade 10 book.
 word list for the GIS and data lessons. **Migration words**
 (Glossary): the books' own word list for the population and
 movement lessons.
+
+## Ethiopia, History Grade 12 — the course shape and the references (student + guide evidence)
+
+**The Grade 12 course shape** (student book + teacher guide):
+the book's own map of its units, with the 117-period budget the
+guide plans against — the frame the Grade 12 history lessons
+hang on.
+
+**The Grade 12 references** (teacher guide #17): the guide's
+own sourcing shelf for the modern-Ethiopia units. The threads at
+student #49, #53 and #54 (cross-unit links the book itself
+draws) are recorded here as the book states them.

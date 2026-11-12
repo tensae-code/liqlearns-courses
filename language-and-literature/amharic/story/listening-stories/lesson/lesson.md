@@ -935,6 +935,46 @@ A poem heard, not printed: a tree laments (እሮሮ) to the people who fell it.
 
 The climate chapter's listening asks: list forests' benefits; what are forests' potential biodiversity resources? How do forests contribute to cooling the earth? What percent of man-made polluted air do forests remove at world level? And compare Ethiopia's ancient and current forest cover, explaining its effect on people and the country's economy. Its grammar partner — picking dependent clauses out of compound, climate-themed sentences — stands in Joining Words.
 
+## Sub lesson 45 — Two listenings from the Grade 7 guide — the Abbay, and the volunteer (teacher guide — evidence)
+
+Two listening texts the Grade 7 teacher guide carries, stocked here as labelled evidence — the texts themselves belong to the student book and are summarised, never transcribed.
+
+**«አባይ» — the Abbay (the dam listening).** A factual listening text on the Abbay (the Nile) and the Grand Dam. The guide's own figures stand inside the text: the dam's dimensions, and its **16 generating units of 375–400 MW each**. While listening, learners work the text's underlined words and phrases; the assessment checks **contextual meanings** (አውዳዊ ፍቺ) of words taken from the text. Where the school has it, a recorded audio (መቅረፀ ድምፅ) is the named material.
+
+**A volunteer's life story.** The second listening tells of a woman who returned to Ethiopia from America — the text dates a return to **1973 E.C.** — and searched for a school able to serve **children affected by autism**. Finding none, she began serving her community herself. The guide prints its source for this text: ተምሳሌት, «አፁብ ድንቅ ኢትዮጵያዊያን ሴቶች» — "Example: Atsub Dinq Ethiopian Women". Its vocabulary task matches words under column "ሀ" with their similars under column "ለ". A life heard whole: return, search, service.
+
+## Sub lesson 46 — Every learner hears the text — the Addis guides' inclusion notes (teacher guide — evidence)
+
+The Addis Ababa guides repeat one standing instruction until it becomes the class's habit, and it is stocked here as labelled evidence because it decides who gets to learn.
+
+In the **Grade 7 guide** the note stands inside the chapters themselves: if there are learners who **cannot hear well**, the reading text is **read aloud to them by classmates or the teacher** (Chapter 1, listening part; and the reading part), and the same standing note is made for **blind learners (አይነ ስውራን)** — it returns in Chapter 3's listening part and in Chapter 4's listening part. No chapter is taught as if every learner hears and sees the same way.
+
+The **Grade 8 guide** repeats its own version at the listening and reading parts of **every chapter in hand**: if there are blind learners (አይነ ስውራን) in the class, **their classmates read the text aloud to them**.
+
+The course's own hands-on inclusion work stands elsewhere in this lesson, from the Grade 3 and Grade 4 guides; these two notes are the Grade 7 and Grade 8 guides' own words on the same duty, kept with their own pages.
+
+## Sub lesson 47 — Heritages in Ethiopia — the Grade 8 guide's listening (teacher guide — evidence)
+
+The Grade 8 guide's Chapter 2 listening, «ቅርሶች በኢትዮጵያ» — Heritages in Ethiopia — is stocked here as labelled evidence, summarised, never transcribed.
+
+The text defines **heritage** by its material and spiritual content: things that witness historical change across prehistory and history, in science, history and culture. Among Ethiopia's heritages it names historical sites; the **shillela war chants and poems** sung in wartime; **monuments** raised to remember sacrifice; and it says **Ethiopia holds the largest number of UNESCO-registered heritages**, with the **ደብዳቤ letters** and the history of **ዳግማዊ ምኒልክ (Menelik II)** among the registered literary heritages.
+
+The guide prints where its texts came from: the **Ethiopia Tourism book** and the **former Grade 11 student book** — a listening with its sources named on its own page.
+
+## Sub lesson 48 — The traditional marriage of the Zeyse — the Grade 9 guide's listening (teacher guide — evidence)
+
+Chapter 7 of the Grade 9 guide — Unity in Diversity — opens its listening with «የዘይሴ ባህላዊ ጋብቻ», **the traditional marriage of the Zeyse people**, stocked here as labelled evidence.
+
+Learners hear the text and then **classify the marriage types** it presents, against the guide's key: first the **regular traditional marriage** — the marriage arranged by the two families or clans after the boy has seen the girl — and then the chapter's **other forms**, set beside it so the kinds can be told apart. The classification is the lesson: one people's marriage custom, heard carefully, then sorted into its kinds — diversity studied from inside one tradition, in a chapter whose whole point is unity inside difference. The text itself belongs to the student book and is not transcribed here.
+
+## Sub lesson 49 — Two listenings from the Grade 10 guide — the lazy man, and what one is to the other (teacher guide — evidence)
+
+Two Grade 10 guide listenings, stocked as labelled evidence with their teaching points; both texts belong to the student book and are summarised only.
+
+**«ሰነፍ ይከስራል፣ ሠራተኛ ይከብራል» — "The Lazy Man Loses, the Worker is Honoured."** A story read aloud in the Work Culture chapter. The guide makes the class **repeat its contrast** until it sticks: the boss who orders workers **"ሂዱ ሥሩ"** — "go and work" — set against the leader who says **"ኑ እንሂድ እንሥራ"** — "come, let us go and work". Same work, two ways of standing toward it; the story judges the first and honours the second.
+
+**«አንዱ ለሌላው ምንድን ነው?» — "What is One to the Other?"** The Unity and Diversity chapter's listening: unity and diversity are presented as **twin concepts** — seemingly opposite, belonging together. The same chapter carries the guide's integrated-skills note: the book is organised to grow listening with speaking and reading with writing **together**, so a teacher's own extra exercises should likewise teach the skills **in integration (በቅንጅት)**, never as strangers.
+
 ## Say it to your companion
 
 Choose one story you heard. Retell it to your companion in

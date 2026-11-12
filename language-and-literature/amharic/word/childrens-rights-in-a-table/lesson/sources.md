@@ -6,8 +6,8 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — children's rights bigar | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 102–103 |
-| Sub lesson 2 — influence bigar — family, peer, culture, teacher, neighbour | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 102–103 |
+| Sub lesson 1 — children's rights bigar | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 102–103 |
+| Sub lesson 2 — influence bigar — family, peer, culture, teacher, neighbour | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 102–103 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

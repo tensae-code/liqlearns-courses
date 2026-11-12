@@ -124,18 +124,18 @@ countries: Ethiopia
 | Sub lesson 19 — ጉንዳንና ዋኔ (fable) | Ethiopia, *Grade 2 Amharic Student Textbook*, printed p.140 |
 | Picture 21201 / Picture 21202 — drawn for this fix build (the shola tree and the children; the two pots at the zebra crossing) | Drawn renders made in this build (PIL, cream-paper style), from Books 1 and 2 above |
 
-| Sub lesson 25 — reading — አራርቆ መውለድ (Spacing Births) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 13–15 |
-| Sub lesson 26 — reading — ልጅ በልጅነት (A Child in Childhood) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 24–25 |
-| Sub lesson 27 — reading — የጉለሌው ሰካራም (The Drunkard of Gulele) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 109–111 |
-| Sub lesson 28 — reading — በዓል አክባሪው ባል (The Husband Who Honoured the Holiday) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 120–122 |
-| Sub lesson 29 — reading — አራሽና ተኳሽ (The Ploughman and the Shooter) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 138–139 |
-| Sub lesson 30 — reading — ወይ አለማወቅ! (the mother and the fire) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 32–33 |
-| Sub lesson 31 — reading — the king, the donkey and justice | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 37–38 |
-| Sub lesson 32 — reading — ቁጭት (Regret/Remorse) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 82–83 |
-| Sub lesson 33 — reading — ምን ይሻላል? (What Would Be Better?) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 99–101 |
-| Sub lesson 34 — reading — ማኅበራዊ ሕይወት (Social Life), dialogue story | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 104–106 |
-| Sub lesson 35 — reading — ደባ ራሱን ስለት ድጉሱን (Intrigue Is a Blade for Itself) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 109–111 |
-| Sub lesson 36 — reading — የኑሩ ትዝታ (Nuru's Memory) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 119–121 |
+| Sub lesson 25 — reading — አራርቆ መውለድ (Spacing Births) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 13–15 |
+| Sub lesson 26 — reading — ልጅ በልጅነት (A Child in Childhood) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 24–25 |
+| Sub lesson 27 — reading — የጉለሌው ሰካራም (The Drunkard of Gulele) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 109–111 |
+| Sub lesson 28 — reading — በዓል አክባሪው ባል (The Husband Who Honoured the Holiday) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 120–122 |
+| Sub lesson 29 — reading — አራሽና ተኳሽ (The Ploughman and the Shooter) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 138–139 |
+| Sub lesson 30 — reading — ወይ አለማወቅ! (the mother and the fire) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 32–33 |
+| Sub lesson 31 — reading — the king, the donkey and justice | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 37–38 |
+| Sub lesson 32 — reading — ቁጭት (Regret/Remorse) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 82–83 |
+| Sub lesson 33 — reading — ምን ይሻላል? (What Would Be Better?) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 99–101 |
+| Sub lesson 34 — reading — ማኅበራዊ ሕይወት (Social Life), dialogue story | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 104–106 |
+| Sub lesson 35 — reading — ደባ ራሱን ስለት ድጉሱን (Intrigue Is a Blade for Itself) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 109–111 |
+| Sub lesson 36 — reading — የኑሩ ትዝታ (Nuru's Memory) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 119–121 |
 **Acceptance count: taught in 1 country (Ethiopia).** The sixth sub lesson's stories and fables are pupil-taught from the student books; the first five sub lessons stand on teacher-guide texts, labelled (teacher guide — evidence) above. Sub lessons 7–12 (the 2026-11-12 growth) are pupil-taught throughout, from the Grade 5–8 student books.
 
 Honesty notes: (1) All stories are told as summaries in the lesson's own words — never the books' text. (2) For Holiday Clothes and Protect Our Environment, the guides name the texts and their fluency method but the placements record no plot summary; the lesson therefore teaches them as fluency texts beside the clothes-materials and environment content the guides do print, and invents no plot for them. (3) The Grade 1, 2 and 4 teacher-guide files are truncated scans (G1 ends p.35, G2 p.34, G4 p.42); every text used here is inside those spans. (4) Pictures 8316, 8317, 8318, 8319 and GIF 8330 are drawn renders made for this lesson, looked at frame by frame (GIF) and in full (pictures) before filing; Picture 8318 is shared with the Listening Stories lesson, where it is also sourced.
@@ -143,5 +143,7 @@ Honesty notes: (1) All stories are told as summaries in the lesson's own words �
 
 
 Fix-build note (2026-11-12, Amharic fix build — Grades 5–6 student books): the sub lessons added in this fix are recorded part by part in the table above, each at its own book and printed page. Listening parts teach exactly what the student books carry — title, picture and the book's own questions — and summarise the heard text only; stories are plot summaries, never transcriptions; songs are named and summarised, never transcribed.
+
+**Honesty — a citation trap in the Grade 7 book (2026-11-12 fix build):** the husband-and-holiday reading is set at printed pp. 119–120, but printed p. 120 itself carries the agreement-grammar exercises of placement #84, not reading text; the reading's rows above cite the reading's own pages and the grammar page is carried in The Sentence's rows, where it belongs.
 
 Searchable tags: reading stories, አቅላጥፎ ማንበብ, fluent reading, Kirubel and Fikirte ኪሩቤልና ፍቅርተ, environment club, holiday clothes የበዓል ልብስ, Eyoel and Amira እዮኤል አሚራ, rooster and fox አውራ ዶሮና ቀበሮ, fables, seedling planting ችግኝ ተከላ, the wise girl ብልኋ ልጅ, fear ፍርሃት, the scale ሚዛን, salt ጨው, Kedir ከድር, the blind champion rider ልበብርሃኑ ሽምጥጋላቢ, feed my clothes ልብሴን ኖር በሉት, blessing and curse ምርቃንና ርግማን, family and addiction ቤተሰብና ሱስ, I will not give in እጅ አልሰጥም, the bird's song የወፏ ዝማሬ, blighted hope የመከነ ተስፋ, Maru Forsa ማሩ ፎርሳ, rough hands ሸካራ እጆች, repaying a debt ብድር መላሽ ያርገኝ

@@ -6,6 +6,8 @@ Try the first task in Sub lesson 1 before you read any explanation.
 
 ## Sub lesson 1 — The book-care message — የጥንቃቄ መልዕክት
 
+[Picture 27905 — books on a shelf, one inside its protective cover with its ribbon]
+
 Every Grade 7 and Grade 8 Amharic book opens with the same message, የጥንቃቄ መልዕክት — the book-care message. The book belongs to the school, not to one child. Ten rules keep it undamaged: cover it, keep it dry and clean, turn pages gently, never write in it — write in your notebook instead — carry it in a bag, keep it away from food and small children, shelve it upright, repair a small tear at once, never lend it carelessly, and hand it back whole at the year's end, so another student can learn from it after you.
 
 ## Sub lesson 2 — Cover it, shelve it, pass it on

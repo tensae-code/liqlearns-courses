@@ -7,12 +7,12 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — parents' preface — the book's method | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. iv–x |
-| Sub lesson 1 — parents' preface — the book's method | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. iv–x |
-| Sub lesson 2 — the eleven home activities | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. iv–x |
-| Sub lesson 2 — the eleven home activities | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. iv–x |
-| Sub lesson 3 — what each skill strand practises | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. iv–x |
-| Sub lesson 3 — what each skill strand practises | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. iv–x |
+| Sub lesson 1 — parents' preface — the book's method | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. iv–x |
+| Sub lesson 1 — parents' preface — the book's method | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. iv–x |
+| Sub lesson 2 — the eleven home activities | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. iv–x |
+| Sub lesson 2 — the eleven home activities | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. iv–x |
+| Sub lesson 3 — what each skill strand practises | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. iv–x |
+| Sub lesson 3 — what each skill strand practises | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. iv–x |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

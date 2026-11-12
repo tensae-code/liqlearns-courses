@@ -10,3 +10,6 @@ Answer in a short sentence.
 
 **3. (Sub lesson 3)** What does Mhret say not feasting a return really is?
 **Answer:** Knowing your capacity — not shame; an example to others.
+
+**4. (Sub lesson 3)** Why does Belayhun climb on the table in Act 3?
+**Answer:** In despair at his debt — Demena holds his legs and he descends; the scene shows how far the debt has crushed him.

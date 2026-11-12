@@ -19,9 +19,9 @@ countries: Ethiopia
 | Picture 9000 — the idioms chart (drawn PIL chart for this lesson) | Built from the worked idiom table above: Ethiopia, *Grade 9 Amharic Teacher Guide (Federal Language)*, printed pp.64–66 |
 | GIF 9019 — the words ሆድና and ጀርባ joining into one saying over two divided people (drawn for this lesson) | Built from Sub lesson 2's idiom above: Ethiopia, *Grade 9 Amharic Teacher Guide (Federal Language)*, printed pp.64–66 |
 
-| Sub lesson 4 — vocabulary — idioms of the story | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 86 |
-| Sub lesson 5 — explaining the text's set phrases | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 84–85 |
-| Sub lesson 5 — explaining the text's sayings | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 59–60 |
+| Sub lesson 4 — vocabulary — idioms of the story | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 86 |
+| Sub lesson 5 — explaining the text's set phrases | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 84–85 |
+| Sub lesson 5 — explaining the text's sayings | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 59–60 |
 **Acceptance count: taught in 0 countries — teacher-guide evidence only (Ethiopia).** This lesson stands on teacher-guide evidence only, named here, counted nowhere.
 
 Honesty notes: (1) There is NO Grade 9 or Grade 10 Amharic student book in the records — the G9/G10 pupil books were confirmed missing at grab time (Contents API 404), so everything in this lesson is teacher-guide evidence and is labelled so; no pupil-book citation is claimed anywhere. (2) The Grade 9 guide's idiom table gives the literal gloss ("belly and back", "his hand shortened") for the first two sayings only; for ጥራዝ ነጠቅ and ጥቁር እንግዳ the guide gives the real meaning and no word-by-word gloss, so Picture 9000 shows "—" in the word-by-word column for those two rows rather than an invented literal. (3) The picture-language in Sub lesson 2 (belly forward / back backward; the hand that can no longer reach) is this lesson's own memory picture built on the guide's printed literal glosses — the meanings taught are the guide's exactly. (4) No hardness numbers are written anywhere in this lesson — the guide gives none.

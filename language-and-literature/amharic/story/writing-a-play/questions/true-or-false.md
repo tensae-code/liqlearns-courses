@@ -10,3 +10,6 @@ Say true or false.
 
 **3. (Sub lesson 3)** After finishing, you summarise beginning, middle and end elements in one organiser.
 **Answer: True**
+
+**4. (Sub lesson 2)** Performing your middle part in class is part of the book's writing work, not an extra.
+**Answer: True**

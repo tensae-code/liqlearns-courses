@@ -7,3 +7,9 @@ Say true or false.
 
 **2. (Sub lesson 2)** The influence table includes the teacher and the neighbour as influences on a child.
 **Answer: True**
+
+**3. (Sub lesson 1)** Elders' rights (አረጋዊያንን…) also stand in the rights bigar.
+**Answer: True**
+
+**4. (Sub lesson 2)** A harmful influence can clash with a right, and the tables make the clash visible.
+**Answer: True**

@@ -13,3 +13,7 @@ a) end at once  b) grow and complicate  c) repeat the beginning exactly
 **3. (Sub lesson 3)** A play's ending should —
 a) introduce a brand-new problem  b) answer the problem the beginning set  c) stop in the middle of a quarrel
 **Answer: b) answer the problem the beginning set** — the end resolves what the beginning raised — as the debt is answered by the family's decision.
+
+**4. (Sub lesson 1)** Stage directions tell the reader —
+a) the author's opinions  b) where the scene is and how each person looks and feels  c) the ending
+**Answer: b) where the scene is and how each person looks and feels** — directions build the seen stage before dialogue.

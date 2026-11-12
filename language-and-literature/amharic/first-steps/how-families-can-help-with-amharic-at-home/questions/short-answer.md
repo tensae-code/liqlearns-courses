@@ -10,3 +10,6 @@ Answer in a short sentence.
 
 **3. (Sub lesson 3)** A child who cannot summarise a text needs practice in which strand?
 **Answer:** Comprehension — understanding and summarising.
+
+**4. (Sub lesson 3)** A child struggles to summarise. Which home activity from the list helps most directly?
+**Answer:** Asking the discussion questions together and reading together — what kind of text, its topic, what we learn — practises summarising.

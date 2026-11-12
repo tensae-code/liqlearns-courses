@@ -13,3 +13,7 @@ a) lying flat under heavy things  b) upright, not bent  c) open, face down
 **3. (Sub lesson 3)** A shared thing lasts longest when —
 a) everyone uses it as if it were theirs alone  b) everyone uses it gently and leaves it clean  c) no one ever uses it
 **Answer: b) everyone uses it gently and leaves it clean** — gentle, clean use by everyone is what makes shared things last.
+
+**4. (Sub lesson 1)** The book-care message opens —
+a) only the Grade 7 book  b) both the Grade 7 and Grade 8 books  c) a teacher guide only
+**Answer: b) both the Grade 7 and Grade 8 books** — the same የጥንቃቄ መልዕክት opens both student books.

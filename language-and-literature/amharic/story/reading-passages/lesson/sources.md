@@ -128,14 +128,14 @@ countries: Ethiopia
 | Sub lesson 19 — የማስጠንቀቂያ ደወል + loudspeaker imperative writing | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.130–131 |
 | Picture 21202 / Picture 21203 — drawn for this fix build (the zebra crossing; the instrument families) | Drawn renders made in this build (PIL, cream-paper style), from Books 1 and 2 above |
 
-| Sub lesson 27 — reading a discussion — ምጣኔ! (coffee-gathering debate) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 19–20 |
-| Sub lesson 28 — reading — በጎፈቃድ (Volunteering), expository history | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 28–30 |
-| Sub lesson 29 — reading — የግድቡ ትሩፋት (The Benefits of the Dam) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 68–69 |
-| Sub lesson 30 — reading — ጫት መቃምና መዘዙ (Chat Chewing and Its Consequences) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 116–117 |
-| Sub lesson 31 — reading — የማይሸሹት ፍቅር (Love That Does Not Fade) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 133–134 |
-| Sub lesson 32 — reading — ግን ምን ነካን!? (But What Touched Us!?) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 10–11 |
-| Sub lesson 33 — reading — ዘመን ያልሻረው ጥበብ: tangible heritage sites | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 15–17 |
-| Sub lesson 34 — reading — አለሚቱና መምህሯ (Alemitu and Her Teacher), interview text | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 131–134 |
+| Sub lesson 27 — reading a discussion — ምጣኔ! (coffee-gathering debate) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 19–20 |
+| Sub lesson 28 — reading — በጎፈቃድ (Volunteering), expository history | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 28–30 |
+| Sub lesson 29 — reading — የግድቡ ትሩፋት (The Benefits of the Dam) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 68–69 |
+| Sub lesson 30 — reading — ጫት መቃምና መዘዙ (Chat Chewing and Its Consequences) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 116–117 |
+| Sub lesson 31 — reading — የማይሸሹት ፍቅር (Love That Does Not Fade) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 133–134 |
+| Sub lesson 32 — reading — ግን ምን ነካን!? (But What Touched Us!?) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 10–11 |
+| Sub lesson 33 — reading — ዘመን ያልሻረው ጥበብ: tangible heritage sites | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 15–17 |
+| Sub lesson 34 — reading — አለሚቱና መምህሯ (Alemitu and Her Teacher), interview text | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 131–134 |
 **Acceptance count: taught in 1 country (Ethiopia).** Most passages are pupil-taught from the student books; the two teacher-guide reading texts are labelled (teacher guide — evidence) in the table. Sub lessons 6–11 (the 2026-11-12 growth) are pupil-taught throughout, from the Grade 5–8 student books. Sub lessons 12–16 (the 2026-11-12 Band 4 growth) stand wholly on teacher-guide evidence — the complete federal Grade 9 and Grade 10 guides (Books 13–14); there are no Grade 9–10 student books in the records, so nothing in sub lessons 12–16 is pupil-taught, and the guide-built parts are evidence only, never counted as taught to pupils.
 
 Honesty notes: (1) All passages are taught as summaries and tasks in the lesson's own words — never the books' text. (2) For A Near Neighbour Beats a Far Relative, the guide records the reading's task shapes and its picture-first opening, not a plot summary; the lesson teaches the proverb the title itself carries and the guide's tasks, and invents no plot beyond it. (3) The Grade 3 teacher-guide file is a truncated scan (ends printed p.31); both guide texts used here stand at pp.5–7 and 18–19, inside the span. (4) Pictures 8320–8323 are drawn renders made for this lesson and looked at before filing.

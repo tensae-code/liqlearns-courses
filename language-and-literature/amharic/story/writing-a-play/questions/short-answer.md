@@ -10,3 +10,6 @@ Answer in a short sentence.
 
 **3. (Sub lesson 3)** In የሠርጉ መዘዝ, how is the debt problem answered?
 **Answer:** By a decision, not by money — cancel the return feast and live within the family's means.
+
+**4. (Sub lesson 3)** What must a play's final speech carry?
+**Answer:** The play's message — as Mhret's closing speech carries the wedding play's.

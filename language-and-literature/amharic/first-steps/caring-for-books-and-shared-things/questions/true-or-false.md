@@ -10,3 +10,6 @@ Say true or false.
 
 **3. (Sub lesson 3)** If a shared thing breaks, you should hide it and say nothing.
 **Answer: False**
+
+**4. (Sub lesson 2)** A covered book is protected from rain and dust.
+**Answer: True**

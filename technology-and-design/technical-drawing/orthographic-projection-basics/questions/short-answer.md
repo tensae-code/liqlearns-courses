@@ -1,0 +1,9 @@
+# Orthographic projection — points, lines, planes and surfaces — short answer
+
+Answer in one or two sentences, or by doing the drawing step named.
+
+**1. (Sub lesson 2)** Name the three classifications of surfaces.
+**Answer:** Normal, inclined and oblique.
+
+**2. (Sub lesson 3)** What do folding lines and reference lines do in an auxiliary view?
+**Answer:** Folding lines are the unfolded hinges between planes; a reference line is the agreed line from which a point's distance is measured and carried into the next view.

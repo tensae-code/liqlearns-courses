@@ -8,7 +8,7 @@ countries: Ethiopia
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — book profile and the 10-chapter theme structure | Ethiopia, *Amharic Student Textbook, Grade 7*, printed TOC, printed p. iii |
-| Sub lesson 2 — the book's structure in the preface | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. iv–x |
+| Sub lesson 2 — the book's structure in the preface | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. iv–x |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

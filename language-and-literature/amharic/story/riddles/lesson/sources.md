@@ -29,7 +29,7 @@ countries: Ethiopia
 | Sub lesson 4 — Riddles (እንቆቅልሽ) — the Grade 5 book's session | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.171–172, 176 |
 | Sub lesson 4 — Classifying riddles by source | Ethiopia, *Grade 5 Amharic Student Textbook*, printed pp.176 |
 
-| Sub lesson 5 — riddle game with asker/answerer dialogue | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 153–154 |
+| Sub lesson 5 — riddle game with asker/answerer dialogue | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 153–154 |
 **Acceptance count: taught in 1 country (Ethiopia).** The printed riddle lessons are pupil-taught from the student books; the game's group-of-four procedure and the house riddle's text stand on teacher-guide evidence, labelled above.
 
 Honesty notes: (1) For the Grade 3 guide's five riddles, the placements record the printed ANSWERS (ባህር, እሳት, ጀበናና ስኒ, ሰዓት, ወፍጮ) but not the riddles' clue texts; the lesson therefore plays the game to those answers and does not invent clue texts for them — the fully-clued riddles taught here are the ones the placements do print (the tongue riddle, the orange passage, the house riddle). (2) The second Grade 2 riddle ("ስሄድ አገኘኋት ስመለስ አጣኋት") is set as lesson work exactly as the placement records it — its answer is not recorded in the placements and is not asserted here. (3) The Grade 3 teacher-guide file is a truncated scan (ends printed p.31); the riddle game stands at p.29, inside the span. (4) Picture 8327, GIF 8331 and Picture 8311 (shared with Listening Stories, sourced there) are drawn renders looked at before filing; GIF 8331's frames 1/7/13/20 were checked full-frame.

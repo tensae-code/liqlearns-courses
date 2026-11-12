@@ -13,3 +13,7 @@ a) eggs  b) wings  c) night activity
 **3. (Sub lesson 3)** What do good and bad neighbours SHARE, in the book's bigar?
 a) good thoughts  b) being area residents, nearby, iddir members  c) arriving quickly to help
 **Answer: b) being area residents, nearby, iddir members** — the shared column: resident, nearby, association member, sharing the area's fortunes.
+
+**4. (Sub lesson 1)** Full citizenship stands in which column of the first bigar?
+a) the foreign country's  b) one's own country's  c) neither
+**Answer: b) one's own country's** — own country: full citizenship, pride, equality.

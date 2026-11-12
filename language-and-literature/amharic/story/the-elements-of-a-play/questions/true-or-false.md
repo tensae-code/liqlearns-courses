@@ -10,3 +10,6 @@ Say true or false.
 
 **3. (Sub lesson 3)** The elements table is filled three times — for the beginning, the middle and the end.
 **Answer: True**
+
+**4. (Sub lesson 2)** The problem can be on stage before any quarrel is spoken — as Belayhun's debt is.
+**Answer: True**

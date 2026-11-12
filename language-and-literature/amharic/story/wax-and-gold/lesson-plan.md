@@ -43,3 +43,13 @@ Go back to the sub lesson's own worked example and do it aloud together, slowly,
 
 ## Teacher note
 The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 2 — The exercises — digging for gold in five verses.
+
+**Growth note (2026-11-12, Amharic fix build):** the sub lessons below were added in the Grade 7–8 student-book fix build; every part traces to its student book and printed page in lesson/sources.md.
+- Sub lesson 3 — The exercises — digging for gold in five verses.
+
+**Media note (2026-11-12, Amharic fix build):** Picture 27900 filed for this lesson — wax-and-gold — a candle whole (ሰም) and cut open to the gold (ወርቅ) inside.
+
+**Media note (2026-11-12, Amharic fix build):** Picture 27906 filed for this lesson — GIF: the wax candle melts down and the gold coin is revealed — ሰም giving way to ወርቅ.

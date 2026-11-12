@@ -27,12 +27,12 @@ countries: Ethiopia
 
 | Sub lesson 4 — completing sentences with the right conjunction from the Grade 4 book's own bank: ወይም, እና, አለበለዚያ, ስለሆነም (G4S-46) | Ethiopia, *Grade 4 Amharic Student Textbook*, printed p. 28 |
 
-| Sub lesson 5 — dependent clauses — conversion forms | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 27 |
-| Sub lesson 5 — dependent-clause formation | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 55–56 |
-| Sub lesson 5 — dependent clauses in climate sentences | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 130–131 |
-| Sub lesson 6 — compound-joining grammar, the Migrant Wane | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 65–66 |
-| Sub lesson 6 — compound joining, the debate chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 135–136 |
-| Sub lesson 6 — compound joining, the ambassadors chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 140–141 |
+| Sub lesson 5 — dependent clauses — conversion forms | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 27 |
+| Sub lesson 5 — dependent-clause formation | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 55–56 |
+| Sub lesson 5 — dependent clauses in climate sentences | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 130–131 |
+| Sub lesson 6 — compound-joining grammar, the Migrant Wane | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 65–66 |
+| Sub lesson 6 — compound joining, the debate chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 135–136 |
+| Sub lesson 6 — compound joining, the ambassadors chapter | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 140–141 |
 **Acceptance count: taught in 1 country (Ethiopia).** Sub lessons 1–2 are pupil-taught in the Grade 7 student book; Sub lesson 3 stands on teacher-guide evidence (named above) and is counted inside the lesson's one country only through its student-book sub lessons — the transitional-words part itself is evidence, labelled, and adds no separate count.
 
 Honesty notes: (1) The Grade 8 Teacher Guide's secured file is truncated at printed p.38: its Chapter 4 aims and contents (printed p.34) name transitional words (መሸጋገሪያ ቃላት) as the chapter's writing skill, but the writing part that teaches them lies past the file's end and was not read. Sub lesson 3 therefore teaches the *use* of transitional words from the joiners the student books themselves teach (ስለዚህ, ይሁንእንጂ, በመሆኑም, ስለሆነም, ነገርግን, ምክንያቱም — Grade 7 student book, printed pp.5, 87), under the guide's name for the skill; no transitional word is used in Sub lesson 3 that the student books do not themselves teach as a joiner. (2) The word-kinds lesson's Sub lesson 4 already introduced conjunctions as አያያዥ ቃላት with the G4 teacher guide's name መስታጽምር; this lesson uses the Grade 7 student book's own terms — አያያዦች for the coordinating family and ጥገኛ መስተፃምር for the subordinate set — and does not re-teach the word-kinds sorting, only grows it. (3) No hardness numbers are written anywhere in this lesson — the books give none.

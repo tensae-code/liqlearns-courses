@@ -292,3 +292,22 @@ the Grade 7 lessons stand untouched for the Grade 12 band; ten
 brief names proved to be Grade 12 placements and pass to Band E.
 Build log: ethiopia-2026-11-11/build-logs/
 wave4-geo-D-g11-population-g10-rem.md.
+
+## Ethiopia Grade 12 History — built 2026-11-12 (Wave 4 History Band D; pictures 23400–23411, GIFs 23420–23422)
+
+12 lessons created in **Modern Ethiopia**, 166 questions, taught
+as STORY: autocracy and the rising opposition (including the
+December 1960 coup), the 1974 revolution, the Derg's reforms,
+the fall of the Derg, the Charter transition, the 1995
+Constitution, Ethiopia's socio-economic questions today, Ethiopia
+the peacekeeper, indigenous knowledge (what it is; in
+development), heritage and Ethiopia's UNESCO heritages. Review
+sets excluded per the standing rule; guide evidence folded as
+labelled rows. Honesty carried: ADLI is named per the course
+brief while placement #43 itself speaks only of development
+policy as open questions — the gap is stated in that lesson's
+sources; the book's contents-scramble and its cover misprint
+("MINISTRY OF IDUCATION") are named in sources, never taught;
+the pictures are schematic timeline panels, not period
+photographs. Build log: ethiopia-2026-11-11/build-logs/
+wave4-hist-D-g12-modern-ethiopia.md.

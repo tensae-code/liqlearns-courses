@@ -6,12 +6,12 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — compare-and-contrast essay: own country vs a foreign country | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 13 |
-| Sub lesson 2 — compare and contrast: Bat vs Hen | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 45 |
-| Sub lesson 2 — compare and contrast: Lamp and Generator | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 60 |
-| Sub lesson 3 — the comparative essay (ተማሪ) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 80 |
-| Sub lesson 3 — compare and contrast: good and bad neighbours | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 113 |
-| Sub lesson 3 — cat bigars + a chosen-title comparative essay | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 121–122 |
+| Sub lesson 1 — compare-and-contrast essay: own country vs a foreign country | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 13 |
+| Sub lesson 2 — compare and contrast: Bat vs Hen | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 45 |
+| Sub lesson 2 — compare and contrast: Lamp and Generator | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 60 |
+| Sub lesson 3 — the comparative essay (ተማሪ) | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 80 |
+| Sub lesson 3 — compare and contrast: good and bad neighbours | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 113 |
+| Sub lesson 3 — cat bigars + a chosen-title comparative essay | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 121–122 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

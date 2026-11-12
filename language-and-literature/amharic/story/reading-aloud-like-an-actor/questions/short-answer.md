@@ -7,3 +7,9 @@ Answer in a short sentence.
 
 **2. (Sub lesson 2)** Name three errors the book's fluency note lists.
 **Answer:** Any three of: stumbling pronunciation, omission, substitution, skipping, leaving words out.
+
+**3. (Sub lesson 1)** A reader at Level 3 differs from Level 4 how?
+**Answer:** Level 3 does most of it with a few lapses; Level 4 does it fully — punctuation, character, correctness, no stopping.
+
+**4. (Sub lesson 2)** Name the two lists the fluency note gives.
+**Answer:** Reading with error and reading without error — each the reverse of the other.

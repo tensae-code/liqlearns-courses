@@ -6,9 +6,10 @@ countries: Ethiopia
 
 | Lesson part | Where it comes from |
 |---|---|
-| Sub lesson 1 — fluency reading — timed passage with cumulative counts | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 126–129 |
-| Sub lesson 2 — the speed-scoring method and record form | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 126–129 |
+| Sub lesson 1 — fluency reading — timed passage with cumulative counts | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 126–129 |
+| Sub lesson 2 — the speed-scoring method and record form | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 126–129 |
 
+| Picture 27903 (drawn render) | Made for this lesson in the 2026-11-12 Amharic fix build (drawn) |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: every part of this lesson is a summary or a teaching point taken from the placements named above — stories and the play are plot summaries only, poems are themed summaries only, and no book text is transcribed. Sensitive readings are taught exactly in the books' own teaching frame, as summaries.

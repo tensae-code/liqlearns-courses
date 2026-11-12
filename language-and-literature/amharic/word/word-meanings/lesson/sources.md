@@ -44,38 +44,38 @@ countries: Ethiopia
 | Sub lesson 7 — what each device is used for (በስልክ → ይደወላል…) + list digital devices | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.127–128 |
 | Sub lesson 7 — what each instrument is made from + complete festival phrases | Ethiopia, *Grade 2 Amharic Student Textbook*, printed pp.74–75 |
 
-| Sub lesson 9 — vocabulary in context + organiser writing + dictation (two-meanings words) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 4 |
-| Sub lesson 10 — vocabulary — contextual vs dictionary meaning organiser | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 26 |
-| Sub lesson 11 — same word, different sense | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 47 |
-| Sub lesson 12 — denotation / connotation — literal vs figurative meaning | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 64–65 |
-| Sub lesson 13 — vocabulary — one word, two example sentences | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 80 |
-| Sub lesson 14 — vocabulary — literal and figurative uses | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 112 |
-| Sub lesson 15 — vocabulary — two contextual meanings, table work | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 123 |
-| Sub lesson 16 — vocabulary sentences + completing sentence starters | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 96–97 |
-| Sub lesson 17 — vocabulary matching set | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 118–119 |
-| Sub lesson 18 — figurative-phrases vocabulary | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 135–136 |
-| Sub lesson 19 — vocabulary set (with the conjunction hunt and plausibility strand) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed pp. 53–54 |
-| Sub lesson 20 — vocabulary — similar meanings in context | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 3–4 |
-| Sub lesson 20 — vocabulary set, Chapter 1 | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 8–9 |
-| Sub lesson 21 — vocabulary set, the Visit | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 30–31 |
-| Sub lesson 21 — vocabulary — justice words | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 38–39 |
-| Sub lesson 21 — vocabulary — Maru Forsa phrases | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 50 |
-| Sub lesson 22 — vocabulary — Rough Hands sets + the text's sayings | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 59–60 |
-| Sub lesson 22 — vocabulary — similar meanings + phrase sets, Regret | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 84–85 |
-| Sub lesson 23 — vocabulary — demography word sets | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 64 |
-| Sub lesson 23 — vocabulary — birth-rate words in own sentences | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 69 |
-| Sub lesson 24 — vocabulary — forest context set + tree-name list | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 79–80 |
-| Sub lesson 24 — vocabulary — climate matching + definitions | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 129 |
-| Sub lesson 24 — vocabulary — climate matching / expert / cloze sets | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 139–140 |
-| Sub lesson 24 — vocabulary — Act 2 word sets | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 154–155 |
-| Sub lesson 25 — vocabulary — social-life phrase matching + context sets | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 107 |
-| Sub lesson 25 — vocabulary — elders'-counsel context synonyms | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 117 |
-| Sub lesson 25 — vocabulary — cat bigars | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed pp. 121–122 |
-| Sub lesson 25 — vocabulary context set, Chapter 9 | Ethiopia, *Amharic Student Textbook, Grade 8*, printed printed p. 135 |
-| Sub lesson 26 — vocabulary in context — volunteering words | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 41 |
-| Sub lesson 27 — vocabulary — art words and their meanings (definition matching) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 57 |
-| Sub lesson 28 — vocabulary — synonyms of grief and care | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 90 |
-| Sub lesson 28 — vocabulary in context, family-planning chapter | Ethiopia, *Amharic Student Textbook, Grade 7*, printed printed p. 22 |
+| Sub lesson 9 — vocabulary in context + organiser writing + dictation (two-meanings words) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 4 |
+| Sub lesson 10 — vocabulary — contextual vs dictionary meaning organiser | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 26 |
+| Sub lesson 11 — same word, different sense | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 47 |
+| Sub lesson 12 — denotation / connotation — literal vs figurative meaning | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 64–65 |
+| Sub lesson 13 — vocabulary — one word, two example sentences | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 80 |
+| Sub lesson 14 — vocabulary — literal and figurative uses | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 112 |
+| Sub lesson 15 — vocabulary — two contextual meanings, table work | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 123 |
+| Sub lesson 16 — vocabulary sentences + completing sentence starters | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 96–97 |
+| Sub lesson 17 — vocabulary matching set | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 118–119 |
+| Sub lesson 18 — figurative-phrases vocabulary | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 135–136 |
+| Sub lesson 19 — vocabulary set (with the conjunction hunt and plausibility strand) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed pp. 53–54 |
+| Sub lesson 20 — vocabulary — similar meanings in context | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 3–4 |
+| Sub lesson 20 — vocabulary set, Chapter 1 | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 8–9 |
+| Sub lesson 21 — vocabulary set, the Visit | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 30–31 |
+| Sub lesson 21 — vocabulary — justice words | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 38–39 |
+| Sub lesson 21 — vocabulary — Maru Forsa phrases | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 50 |
+| Sub lesson 22 — vocabulary — Rough Hands sets + the text's sayings | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 59–60 |
+| Sub lesson 22 — vocabulary — similar meanings + phrase sets, Regret | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 84–85 |
+| Sub lesson 23 — vocabulary — demography word sets | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 64 |
+| Sub lesson 23 — vocabulary — birth-rate words in own sentences | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 69 |
+| Sub lesson 24 — vocabulary — forest context set + tree-name list | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 79–80 |
+| Sub lesson 24 — vocabulary — climate matching + definitions | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 129 |
+| Sub lesson 24 — vocabulary — climate matching / expert / cloze sets | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 139–140 |
+| Sub lesson 24 — vocabulary — Act 2 word sets | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 154–155 |
+| Sub lesson 25 — vocabulary — social-life phrase matching + context sets | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 107 |
+| Sub lesson 25 — vocabulary — elders'-counsel context synonyms | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 117 |
+| Sub lesson 25 — vocabulary — cat bigars | Ethiopia, *Amharic Student Textbook, Grade 8*, printed pp. 121–122 |
+| Sub lesson 25 — vocabulary context set, Chapter 9 | Ethiopia, *Amharic Student Textbook, Grade 8*, printed p. 135 |
+| Sub lesson 26 — vocabulary in context — volunteering words | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 41 |
+| Sub lesson 27 — vocabulary — art words and their meanings (definition matching) | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 57 |
+| Sub lesson 28 — vocabulary — synonyms of grief and care | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 90 |
+| Sub lesson 28 — vocabulary in context, family-planning chapter | Ethiopia, *Amharic Student Textbook, Grade 7*, printed p. 22 |
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: (1) Sub lessons 1, 3 and 4 rest on teacher-guide evidence (the guides print the definitions, the worked example, the figurative table and the answer key); Sub lesson 2 is placed in the student textbooks themselves, so the lesson as a whole is pupil-taught in Ethiopia through its student-book part and teacher-evidenced in the rest — the table labels each part. (2) Three rows of the Grade 4 guide's figurative table (ሞለጭ, አባብ, መስለል) come through the scanned guide with glosses that are only partly clear in English; the lesson keeps those rows marked "(as placed)" with the guide's own Amharic glosses, and teaches the four clear rows (ኤርግብ, አንበሳ, ቆቅ, ቡግ) in full. No gloss was invented for the unclear rows. (3) The G3 teacher guide's file is itself partial (it ends at printed p.31 of a longer book) — nothing from beyond its placed pages is used here. (4) Pictures 8450, 8451, 8452 and GIF 8460 are drawn cards made for this lesson from the placed sentences and table; GIF 8460 was frame-checked at frames 1/7/13/20 (boy walking to the school, then the author writing) before filing.

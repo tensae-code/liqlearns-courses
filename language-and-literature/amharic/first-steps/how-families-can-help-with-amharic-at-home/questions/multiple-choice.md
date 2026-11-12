@@ -13,3 +13,7 @@ a) doing the child's homework for them  b) reading together, taking turns  c) hi
 **3. (Sub lesson 3)** Fluent reading (አቀላጥፎ ማንበብ) means —
 a) reading smoothly, without dropping letters  b) reading as fast as possible, skipping hard words  c) reading silently only
 **Answer: a) reading smoothly, without dropping letters** — fluency is smooth, complete reading — no letters dropped, no words cut.
+
+**4. (Sub lesson 1)** The books were prepared under —
+a) the 2013 E.C. curriculum change and the Fenote Karta framework  b) a foreign syllabus  c) no framework
+**Answer: a) the 2013 E.C. curriculum change and the Fenote Karta framework** — the prefaces name the 2013 E.C. change and Fenote Karta.
