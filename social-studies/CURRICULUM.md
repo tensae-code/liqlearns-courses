@@ -78,6 +78,14 @@ Band records land here as each band is built and verified.
   teacher evidence; no guide-only lessons. The guide's "Mereo"
   misprint is taught corrected as Meroe and named in the
   sources.
+- **The Modern World — BUILT** (Grade 8 student Chapter 6,
+  student book alone — no teacher evidence; the Grade 8 guide's
+  Units 4–7 are not in hand): 18 lessons (17 story-first content
+  lessons + the chapter assessment pool as its own lesson), 295
+  questions, pictures 11700–11716, GIFs 11717 + 11718 (both
+  frame-checked). The placements' verification note 9 error
+  (Galileo/Newton attributions) is taught corrected and named
+  in the sources.
 - **Ethiopia: Ancient and Medieval — BUILT** (Grade 7 student
   Chapter 4 + teacher guide Unit 6): 29 lessons, 395 questions,
   pictures 11200–11228, GIF 11229 (Lalibela chisel, frame-checked).

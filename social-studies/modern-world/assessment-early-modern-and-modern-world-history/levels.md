@@ -1,0 +1,3 @@
+# Assessment — early-modern and modern world history — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Match the works and deeds to their people, with the book's distractors rejected.; List both world wars' results and industry's political, economic and social results from memory.; Argue the challenging questions in writing: Germany and both wars, the two wars compared, and what Africans gained from Second World War service. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

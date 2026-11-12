@@ -1397,6 +1397,25 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11310 | pictures/11310.webp | Great Zimbabwe | Social Studies — Africa to 1500 — Great Zimbabwe |
 | 11311 | pictures/11311.webp | Azania and Zanj coast | Social Studies — Africa to 1500 — Azania and Zanj |
 | 11312 | pictures/11312.webp | Swahili cities | Social Studies — Africa to 1500 — The Swahili Cities |
+| 11700 | pictures/11700.webp | da Gama's route around Africa to Calicut, island groups marked | Social Studies — The Modern World — Exploration — Portugal and the Sea Routes |
+| 11701 | pictures/11701.webp | Magellan's route around the globe, one ship returning to Spain | Social Studies — The Modern World — Exploration — Columbus, Vespucci and Magellan |
+| 11702 | pictures/11702.webp | Constantinople's fall blocking the land road, sea arrows around it | Social Studies — The Modern World — Exploration — Causes and Results |
+| 11703 | pictures/11703.webp | dark medieval town, Greek and Roman ruins lighting up | Social Studies — The Modern World — The Renaissance — What It Was |
+| 11704 | pictures/11704.webp | five figures in a row, work beneath each | Social Studies — The Modern World — The Renaissance — Its Great Figures |
+| 11705 | pictures/11705.webp | Luther nailing the 95 theses to the Wittenberg door | Social Studies — The Modern World — The Reformation — Luther and Protestantism |
+| 11706 | pictures/11706.webp | council chamber decrees + a Jesuit setting out overseas | Social Studies — The Modern World — The Reformation — The Catholic Response |
+| 11707 | pictures/11707.webp | hand loom at home beside a steam factory floor | Social Studies — The Modern World — The Industrial Revolution — What Changed and Why England First |
+| 11708 | pictures/11708.webp | Spinning Jenny and an early locomotive side by side | Social Studies — The Modern World — The Industrial Revolution — Textiles, Steam and Rail |
+| 11709 | pictures/11709.webp | two factory skylines: steam chimneys, then power lines and a satellite | Social Studies — The Modern World — The Industrial Revolution — Its Two Stages |
+| 11710 | pictures/11710.webp | Europe in two coloured camps, arms pile between | Social Studies — The Modern World — The First World War — Causes |
+| 11711 | pictures/11711.webp | the three fronts as three bands | Social Studies — The Modern World — The First World War — Course of the War |
+| 11712 | pictures/11712.webp | the Big Four at the table, bill and lost colonies before Germany | Social Studies — The Modern World — The First World War — Versailles and the Results |
+| 11713 | pictures/11713.webp | the Axis triangle Berlin–Rome–Tokyo over the world | Social Studies — The Modern World — The Second World War — Causes |
+| 11714 | pictures/11714.webp | arrows into Poland and France; two pincers closing on the Elbe | Social Studies — The Modern World — The Second World War — Course in Europe |
+| 11715 | pictures/11715.webp | island-hopping arrows across the Pacific ending at two Japanese cities | Social Studies — The Modern World — The Second World War — The Pacific and the Results |
+| 11716 | pictures/11716.webp | two flags facing across Africa, aid and arms arrows crossing | Social Studies — The Modern World — The Cold War — What It Was and What It Did to Africa |
+| 11717 | pictures/11717.gif | a ship's line circling a globe and closing on Spain | Social Studies — The Modern World — Exploration — Columbus, Vespucci and Magellan |
+| 11718 | pictures/11718.gif | a steam piston driving a factory shaft | Social Studies — The Modern World — The Industrial Revolution — What Changed and Why England First |
 | 12000 | pictures/12000.webp | a pupil covering a book to protect it | Science — Care for Your Book |
 | 12001 | pictures/12001.webp | a house, a church and a mosque in one village scene | Science — What Location Means |
 | 12002 | pictures/12002.webp | a child facing the sunrise with arms spread, directions around | Science — Directions — Right, Left and the Four Directions |
