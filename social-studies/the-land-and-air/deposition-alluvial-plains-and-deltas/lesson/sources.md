@@ -11,6 +11,7 @@ countries: Ethiopia
 | Sub lesson 1 — Where the load is laid down | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 20–21 |
 | Sub lesson 2 — Mass movement and alluvial plains | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 20–21 |
 | Sub lesson 3 — Deltas of the great rivers | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 20–21 |
+| The dropped-load vocabulary named in sub lesson 3 — sand dune, barchan, loess, scree (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, §1.1 (Activity 1.1B key), printed pp. 5–6 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

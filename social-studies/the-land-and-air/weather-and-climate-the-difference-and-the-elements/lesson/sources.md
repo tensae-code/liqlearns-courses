@@ -10,7 +10,7 @@ countries: Ethiopia
 |---|---|
 | Sub lesson 1 — Short and small against long and wide | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 24–25 |
 | Sub lesson 2 — The elements that make both | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 24–25 |
-| Sub lesson 3 — Two transfer processes (teacher guide — evidence) | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 24–25 |
+| Sub lesson 3 — Two transfer processes (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, §1.3 (Activity 1.3 key), printed p. 13 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

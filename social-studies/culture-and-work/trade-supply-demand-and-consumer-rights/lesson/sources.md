@@ -9,7 +9,7 @@ countries: Ethiopia
 |---|---|
 | Sub lesson 1 — When supply falls short | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 68–69 |
 | Sub lesson 2 — Equilibrium and the perfect-competition test (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 8* (Addis Ababa Bureau) (teacher guide — evidence), printed pp. 23–26, 31 |
-| Sub lesson 3 — Malpractice, protection and the consumer's claim | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 68–69 |
+| Sub lesson 3 — Malpractice, protection and the consumer's claim | Ethiopia, *Social Studies Student Textbook, Grade 8* (Amhara Bureau), printed pp. 68–69; the malpractice list and the three keyed consumer rights: Ethiopia, *Social Studies Teacher's Guide, Grade 8* (Addis Ababa Bureau) (teacher guide — evidence), printed pp. 24, 26, 31 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

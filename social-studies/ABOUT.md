@@ -88,10 +88,130 @@ student book lacks (crust materials, human evolution, optimum
 population), the guide placements file it as guide-only content
 and the lessons say so.
 
+## The books' reference shelves
+
+**The Grade 7 student book's reference shelf** (*Social Studies
+Student Textbook, Grade 7*, printed pp. 165–166; student
+placement 118). The references at the back of the book name the
+book's own sources:
+
+- the Amhara Bureau's Grades 5–6 Social Studies books
+- Tekle Tsadik Mekuria
+- Bahru Zewde
+- Mohammed Hassen
+- Tadesse Tamrat
+- UNESCO's *General History of Africa*
+
+**The Grade 8 student book's reference shelf** (*Social Studies
+Student Textbook, Grade 8*, printed pp. 196–197; student
+placement 149). The references at the back of the book name:
+
+- the Amhara Bureau's physical- and human-geography college
+  modules (Debre Markos, 2008 E.C.)
+- Mulugeta Neqatie on conflict
+- Bahru Zewde's and Tekle Tsadik Mekuria's Ethiopian histories
+- the Ministry's Grade 8 Social Science book
+- ANRS environment authority documents
+- Beck et al.'s *World History: Patterns of Interaction*
+- Bradshaw & Weaver's *Physical Geography*
+- the EMA distance-education geography modules
+- Monkhous's *Principles of Physical Geography*
+- Owen's *Natural Resource Conservation*
+- Parker & Rathbone's *African History: A Very Short
+  Introduction*
+- Skinner's *Earth Resources*
+
+Both shelves are provenance — they record where the books
+themselves drew from. They are not lessons, and they are
+counted nowhere.
+
+## The guides' way — period budgets and the lesson rhythm (teacher evidence)
+
+**The Grade 7 guide's budget: a 114-period year** (*Social
+Studies Teacher's Guide, Grade 7*, printed pp. 1–118 passim;
+unit totals at printed pp. 1, 21, 40, 54, 67, 81, 102; guide
+placement 1). Unit 1 Physical Characteristics of the Earth —
+14 periods; Unit 2 Human Evolution and World Population — 20;
+Unit 3 Human and Natural Resources — 14; Unit 4 Ancient
+Civilizations and Medieval History of the World — 18; Unit 5
+Ancient History of Africa — 15; Unit 6 States and Peoples of
+Ancient and Medieval Ethiopia — 18; Unit 7 Contemporary Global
+Issues — 15. (The guide's own lesson figures inside Units 1
+and 6 do not sum to their stated unit totals — 16 against 14,
+and 19 against 18 — as the guide placements record; the unit
+totals above are the guide's stated budgets.)
+
+**The Grade 8 guide's budget: 41 periods for Units 1–3**
+(*Social Studies Teacher's Guide, Grade 8*, printed pp. 1–47
+passim; unit totals at printed pp. 1, 16, 33; guide
+placement 1). Unit 1 Physical Characteristics of the Earth —
+14 periods; Unit 2 People and Socio-Economic Activities — 15;
+Unit 3 Natural Resources and Socio-Economic Development — 12.
+The budgets of Units 4–7 stand in the guide's missing pages
+(printed pp. 48–109): they are still owed from a complete copy
+of this guide, and are recorded here as owed, never guessed.
+
+**The six-part lesson rhythm (both guides).** Every lesson in
+both guides is built on the same scaffold: competencies →
+contents → overview → suggested teaching aids → suggested
+methods → pre-lesson preparation → presentation — the lesson
+opens with brainstorming, its body runs in small-group
+discussion with group presentations, and a "stabilization"
+step reviews the key ideas — → evaluation and follow-up →
+expected answers for the textbook activity. The recurring
+methods are brainstorming (pupils' ideas listed on the board,
+the teacher's points added while clarifying), explanation,
+group discussion, demonstration with pictures, maps and video,
+and questions-and-answers; the teacher facilitates, harmonises
+and gives constructive feedback, and performance is observed
+and recorded. Two orderings are the Grade 7 guide's own
+evidence about the course's way: human evolution opens the
+people unit, before population, and Ethiopian history is
+placed after world and African history, as the capstone
+history unit. These budgets and this rhythm are filed here as
+the guides' pacing and method reference (teacher evidence):
+they shape how this course's lessons are paced and checked,
+and they are counted nowhere as pupil-taught content.
+
+## The guides' answer keys as the checked answer source (teacher evidence)
+
+**Grade 7 guide** (guide placement 32). Every unit's review
+exercise is fully keyed in the guide (true/false, matching,
+multiple choice, fill-in-blank and short answers — the unit
+review keys stand at printed pp. 18, 37, 52, 65, 79, 100,
+117), and every textbook activity carries expected answers.
+The course's Grade 7 question files use these keys as their
+checked answer source — with the guide's flagged bad keys
+corrected first, never copied: the faulty keys the guide
+placements name (the Unit 1 matching key's repeated "D", the
+Unit 2 review key numbered 3–6, Activity 1.2's rotation key,
+Activity 2.7's density key, §3.4's resettlement key, Activity
+5.2's doubled "Napata") are disowned or resolved inside the
+individual lessons' sources, piecemeal, where each one bites.
+The keys also double as content evidence for guide-only
+topics — for example the Unit 1 key's list of the evidence for
+a spherical Earth: sunrise and sunset, ships' visibility,
+circumnavigation, the curved horizon, and space photographs
+(printed p. 18).
+
+**Grade 8 guide** (guide placement 20). The same use is made
+of the Grade 8 guide's keys — for Units 1–3 only: every
+present unit's review exercise is fully keyed (printed
+pp. 14, 31, 46) and every textbook activity in Units 1–3
+carries possible/expected answers, and those keys are the
+checked answer source for the course's Grade 8 question files
+in those units, with the flagged keys corrected first (the
+mesosphere "strong winds" key, the "Semetic" spelling, and the
+fishing/fishery duplication in the keys are disowned in the
+lessons' sources, not taught from). The keys for Units 4–7
+are among the guide's missing pages, so Grade 8 questions from
+Unit 4 on stand on the student book alone until a complete
+copy of the guide lands.
+
 **Acceptance reckoning:** this part of the course is taught in
 1 country (Ethiopia) from its own student books, except the
 lessons whose sources state they stand on teacher-guide evidence
 only — those are counted nowhere, and say so. The books'
 reference shelves (Grade 7 placement 118, Grade 8 placement
-149) are recorded here and in the lesson sources they touch;
-they are provenance, not lessons.
+149) are listed in full under "The books' reference shelves"
+above; they are provenance, not lessons.

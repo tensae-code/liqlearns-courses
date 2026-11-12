@@ -10,7 +10,7 @@ countries: Ethiopia
 |---|---|
 | Sub lesson 1 — The whole process | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 13–14 |
 | Sub lesson 2 — Magma below, lava above | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 13–14 |
-| Sub lesson 3 — Three activity kinds (teacher guide — evidence) | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 13–14 |
+| Sub lesson 3 — Three activity kinds (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, §1.1 (Activity 1.1A key), printed pp. 2, 5 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

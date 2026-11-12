@@ -10,7 +10,7 @@ countries: Ethiopia
 |---|---|
 | Sub lesson 1 — Strain, slip, shaking | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 15–16 |
 | Sub lesson 2 — Focus, epicentre, Richter | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 15–16 |
-| Sub lesson 3 — Where most earthquakes sit (teacher guide — evidence) | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 15–16 |
+| Sub lesson 3 — Where most earthquakes sit (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, §1.1, printed pp. 2, 5 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

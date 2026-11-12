@@ -9,8 +9,8 @@ countries: Ethiopia
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The air blanket's recipe | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 |
-| Sub lesson 2 — More than gases (teacher guide — evidence) | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 |
-| Sub lesson 3 — Two ways of slicing it | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 |
+| Sub lesson 2 — More than gases (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, §1.2, printed pp. 6, 8 |
+| Sub lesson 3 — Two ways of slicing it (the compositional slicing: teacher guide — evidence) | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed p. 22 (the thermal slicing); Ethiopia, *Social Studies Teacher's Guide, Grade 8*, §1.2, printed p. 8 (teacher guide — evidence) (the compositional slicing) |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

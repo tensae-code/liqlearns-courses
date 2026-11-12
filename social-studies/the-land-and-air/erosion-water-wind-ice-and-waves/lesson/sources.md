@@ -10,6 +10,7 @@ countries: Ethiopia
 |---|---|
 | Sub lesson 1 — Worn rock, carried off | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 18–20 |
 | Sub lesson 2 — Water and wind at work | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 18–20 |
+| Wind's named loads in sub lesson 2 — sand dune, barchan, loess, scree (teacher guide — evidence) | Ethiopia, *Social Studies Teacher's Guide, Grade 8*, §1.1 (Activity 1.1B key), printed pp. 5–6 |
 | Sub lesson 3 — Ice and waves at work | Ethiopia, *Social Studies Student Textbook, Grade 8*, Chapter 1, printed pp. 18–20 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
