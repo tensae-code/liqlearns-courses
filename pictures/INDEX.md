@@ -1851,3 +1851,38 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11896 | pictures/11896.gif | GIF: filing in one direction, lifting to return | Career and Technical Education — Salon Trades — Nail Care Treatment |
 | 11897 | pictures/11897.gif | GIF: shampoo massage circles at the basin | Career and Technical Education — Salon Trades — Hair Washing — Shampooing and Conditioning |
 | 11898 | pictures/11898.webp | four disease-transmission routes (teacher guide) | Career and Technical Education — Farm Trades — Poultry — Keeping the Flock Healthy |
+| 11950 | pictures/11950.webp | trades street, the building trades together | Career and Technical Education — Building and Retail — Construction and Carpentry — Key Words |
+| 11951 | pictures/11951.webp | three blocks compared | Career and Technical Education — Building and Retail — Bricks and Blocks |
+| 11952 | pictures/11952.webp | 1:2:3 buckets for concrete | Career and Technical Education — Building and Retail — Making Concrete 1-2-3 |
+| 11953 | pictures/11953.webp | brickwork tools (Table 3.1) | Career and Technical Education — Building and Retail — Brickwork Tools |
+| 11954 | pictures/11954.webp | body-part safety chart | Career and Technical Education — Building and Retail — Concrete Work Safety |
+| 11955 | pictures/11955.webp | carpentry frame taking shape | Career and Technical Education — Building and Retail — Carpentry — The Trade |
+| 11956 | pictures/11956.webp | painting tools laid out | Career and Technical Education — Building and Retail — Painting Tools |
+| 11957 | pictures/11957.webp | two tyres, right and wrong pressure | Career and Technical Education — Building and Retail — Tyre Pressure — Why It Matters |
+| 11958 | pictures/11958.webp | gauge and placard for checking pressure | Career and Technical Education — Building and Retail — Checking Tyre Pressure |
+| 11959 | pictures/11959.webp | the six costs of opening a shop | Career and Technical Education — Building and Retail — Opening a Retail Business — Six Costs |
+| 11960 | pictures/11960.webp | ways customers can pay (Table 3.4) | Career and Technical Education — Building and Retail — Ways Customers Can Pay |
+| 11961 | pictures/11961.webp | selling staircase, steps A to D | Career and Technical Education — Building and Retail — Selling Steps A to D |
+| 11962 | pictures/11962.webp | five events a host may serve | Career and Technical Education — Food, Cleaning and Events — Hospitality — Events |
+| 11963 | pictures/11963.webp | the kitchen kit (Table 4.1) | Career and Technical Education — Food, Cleaning and Events — Kitchen Tools |
+| 11964 | pictures/11964.webp | five food groups for a balanced meal | Career and Technical Education — Food, Cleaning and Events — Balanced Meals |
+| 11965 | pictures/11965.webp | injera and wat served | Career and Technical Education — Food, Cleaning and Events — Injera and Wat |
+| 11966 | pictures/11966.webp | four plates: shiro, atkilt, gonfo, kitfo | Career and Technical Education — Food, Cleaning and Events — Shiro, Atkilt, Gonfo, Kitfo |
+| 11967 | pictures/11967.webp | customer service five points card | Career and Technical Education — Food, Cleaning and Events — Customer Service — Five Points |
+| 11968 | pictures/11968.webp | cleaning a floor, eleven steps | Career and Technical Education — Food, Cleaning and Events — Cleaning a Floor — Eleven Steps |
+| 11969 | pictures/11969.webp | a cleaner in full PPE | Career and Technical Education — Food, Cleaning and Events — Cleaning Safely — PPE and Appearance |
+| 11970 | pictures/11970.gif | GIF: mixing concrete to an even grey | Career and Technical Education — Building and Retail — Making Concrete 1-2-3 |
+| 11971 | pictures/11971.gif | GIF: the safe lift, knees bent, back straight | Career and Technical Education — Building and Retail — Concrete Work Safety |
+| 11972 | pictures/11972.gif | GIF: roller bands of paint going on a wall | Career and Technical Education — Building and Retail — Painting and Decorating — The Trade |
+| 11973 | pictures/11973.gif | GIF: the gauge stick popping to the pressure | Career and Technical Education — Building and Retail — Checking Tyre Pressure |
+| 11974 | pictures/11974.gif | GIF: a steady pour of concrete | Career and Technical Education — Building and Retail — Making Concrete 1-2-3 |
+| 11975 | pictures/11975.gif | GIF: batter spiralling onto the mitad for injera | Career and Technical Education — Food, Cleaning and Events — Injera and Wat |
+| 11976 | pictures/11976.gif | GIF: stirring gonfo until it holds | Career and Technical Education — Food, Cleaning and Events — Shiro, Atkilt, Gonfo, Kitfo |
+| 11977 | pictures/11977.gif | GIF: folding a sambusa corner by corner | Career and Technical Education — Food, Cleaning and Events — Fast Foods That Earn |
+| 11978 | pictures/11978.gif | GIF: the mopping cycle, figure-of-eight strokes | Career and Technical Education — Food, Cleaning and Events — Cleaning a Floor — Eleven Steps |
+| 11979 | pictures/11979.gif | GIF: the hand-rub sequence for clean hands | Career and Technical Education — Food, Cleaning and Events — Hand Washing — Ten Steps |
+| 11980 | pictures/11980.webp | hand-washing tiles, ten steps | Career and Technical Education — Food, Cleaning and Events — Hand Washing — Ten Steps |
+| 11981 | pictures/11981.webp | a work area before and after cleaning | Career and Technical Education — Food, Cleaning and Events — A Clean Work Area |
+| 11982 | pictures/11982.webp | commercial cleaning scenes | Career and Technical Education — Food, Cleaning and Events — Commercial Cleaning Services |
+| 11983 | pictures/11983.webp | the cleaner's kit | Career and Technical Education — Food, Cleaning and Events — Cleaning Equipment |
+| 11984 | pictures/11984.webp | seven cleaning agents and their jobs | Career and Technical Education — Food, Cleaning and Events — Cleaning Agents |
