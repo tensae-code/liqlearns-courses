@@ -303,6 +303,27 @@ Grade 8 guide is a federal new-syllabus book, NOT
 edition-matched to the Amhara student book. Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSK-science-g8-u4.md`.
 
+Band GS-L (Grade 8, Unit 5 — Ecosystem and
+Conservation): 12 new lessons, 144 questions, 16 media
+filed (pictures 34300–34311, GIFs 34320–34323) — nine
+in Our Environment (ecosystems, how living things
+affect each other, food chains/webs/pyramids, cycles
+of matter, air pollution and acid rain, global
+warming, forests, biodiversity, local knowledge and
+local conservation) and three in Soil and Water (soil
+types, formation and loss; saving the soil; water —
+why it is precious and how to save it). Item 29 stands
+ON GS-F's carbon/water cycle lessons and teaches
+nitrogen plus the matter-cycles/energy-flows
+contrast, not a duplicate of them. The book's
+"chlorofloro carbons" is taught corrected as
+chlorofluorocarbons and noted in sources. Pairing
+carried exactly: the Grade 8 guide is a federal
+new-syllabus book, NOT edition-matched to the Amhara
+student book — guide material is syllabus-level
+teacher evidence only. Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSL-science-g8-u5.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -442,6 +463,9 @@ edition-matched to the Amhara student book. Build log:
 7. **Water problems: sharing, pollution and the lake weed** (`soil-and-water/water-problems-sharing-pollution-and-the-lake-weed`) — East Africa's water faces three printed problems: shared rivers with no agreement (Ethiopia contributes 86% of the Nile yet downstream countries ob…
 8. **Water: why every living thing needs it** (`soil-and-water/water-why-every-living-thing-needs-it`) — water serves everything alive and everything people build: drinking, cooking and cleanliness; digesting food and carrying waste out of the body; gr…
 9. **What soil is and what is in it** (`soil-and-water/what-soil-is-and-what-is-in-it`) — soil is the layer of the ground from the surface down to where plant roots reach, and it holds minerals, tiny living things, plant and animal remai…
+10. **Soil — types, formation and loss** (`soil-and-water/soil-types-formation-and-loss`) — soil is told into loam, clay and sand by particle size and feel, and holds water very differently (clay most, loam in between, sand almost none) — and soil is lost by erosion (Grade 8 General Science)
+11. **Saving the soil — conservation methods** (`soil-and-water/saving-the-soil-conservation-methods`) — soil is saved by a farmer's toolkit — afforestation, leaving crop residue as cover, terracing, check dams, shelter belts and contour ploughing (Grade 8 General Science)
+12. **Water — why it is precious and how to save it** (`soil-and-water/water-why-it-is-precious-and-how-to-save-it`) — water covers 71% of the Earth's surface yet over 96% of it is saline, and the human body is about 60% water — so the fresh water living things need is precious and must be saved (Grade 8 General Science)
 
 ## Unit 8 — Plants
 
@@ -502,6 +526,15 @@ edition-matched to the Amhara student book. Build log:
 11. **Cycles — the water cycle** (`our-environment/cycles-the-water-cycle`) — water travels in an endless loop — evaporation and transpiration rise, condensation gathers the vapour into clouds, precipitation returns it as rain, and flow carries it back to the water bodies (Grade 7 General Science)
 12. **Energy resources — resource depletion and its drivers** (`our-environment/energy-resources-resource-depletion-and-its-drivers`) — resource depletion is using a resource faster than it can be replenished until it is exhausted — driven by seven named drivers — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
 13. **Energy resources — environmental degradation and its effects** (`our-environment/energy-resources-environmental-degradation-and-its-effects`) — environmental degradation is the environment's deterioration, chiefly through resource depletion — and its effects fall in five families: human health, biodiversity and more — teacher-guide evidence only, acceptance 0 (Grade 7 General Science)
+14. **Ecosystems — populations, communities and their surroundings** (`our-environment/ecosystems-populations-communities-and-their-surroundings`) — living things are organised in widening levels — a habitat is where a kind lives, a population is all of one kind in a place, a community is all the kinds together (Grade 8 General Science)
+15. **How living things affect each other** (`our-environment/how-living-things-affect-each-other`) — living things that meet affect each other in six named ways — predation, competition, parasitism, mutualism, commensalism and amensalism (Grade 8 General Science)
+16. **Food chains, food webs and energy pyramids** (`our-environment/food-chains-food-webs-and-energy-pyramids`) — living things are linked by eating: producers make food, consumers eat, and decomposers return the remains — energy moves through the chain in a pyramid (Grade 8 General Science)
+17. **Cycles of matter — carbon, nitrogen, water** (`our-environment/cycles-of-matter-carbon-nitrogen-water`) — carbon, oxygen, nitrogen and water cycle round and round between the living and non-living parts of the ecosystem, while energy flows one way through (Grade 8 General Science)
+18. **Air pollution and acid rain** (`our-environment/air-pollution-and-acid-rain`) — air pollution loads the air with harmful matter — including particulates small enough to lodge in lungs — and two pollutant gases, sulphur and nitrogen oxides, make acid rain (Grade 8 General Science)
+19. **Global warming — the greenhouse effect** (`our-environment/global-warming-the-greenhouse-effect`) — a parked car in the sun shows the greenhouse effect: its windows let light in and hold the heat; greenhouse gases — carbon dioxide, methane and more — do the same to the Earth (Grade 8 General Science)
+20. **Forests — what they give and what cutting them costs** (`our-environment/forests-what-they-give-and-what-cutting-them-costs`) — forests give timber, fuel wood, fodder, fibre, fruit, herbal drugs and industrial raw materials, and they shelter wildlife, build and hold soil, and shape climate (Grade 8 General Science)
+21. **Biodiversity — keeping the variety of life** (`our-environment/biodiversity-keeping-the-variety-of-life`) — biodiversity is the variety of life, counted in species; its value is direct (medicine and agriculture) and indirect (ecosystems that work), and it is kept by protecting habitats (Grade 8 General Science)
+22. **Local knowledge, local conservation** (`our-environment/local-knowledge-local-conservation`) — the unit closes by turning to the people who have conserved a place longest: pupils interview local people on how they conserve water, forest and soil (Grade 8 General Science)
 
 ## Unit 12 — Family, School and Community
 
