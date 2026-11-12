@@ -1768,3 +1768,37 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 11415 | pictures/11415.webp | Ethiopia's green-economy pillars | Social Studies — Global Issues — Ethiopia's Green Economy |
 | 11416 | pictures/11416.webp | deforestation chart, forests shrinking | Social Studies — Global Issues — Forests — Shrinking and Care |
 | 11417 | pictures/11417.gif | GIF: coppice shoots sprouting from a cut stump | Social Studies — Global Issues — Forests — Shrinking and Care |
+| 11600 | pictures/11600.webp | timeline 1769 to today | Social Studies — Modern Ethiopia — Modern Ethiopia — The Founding Struggle |
+| 11601 | pictures/11601.webp | Kassa campaign route to the crown | Social Studies — Modern Ethiopia — Tewodros II — The Rise of Kassa Hailu |
+| 11602 | pictures/11602.webp | standing army and church land measured for tax | Social Studies — Modern Ethiopia — Tewodros II — Unifying and Modernising |
+| 11603 | pictures/11603.webp | the Sebastopol mortar beside its foundry | Social Studies — Modern Ethiopia — Tewodros II — The Gafat Foundry |
+| 11604 | pictures/11604.webp | Maqdala amba with the Arogi plain below | Social Studies — Modern Ethiopia — Tewodros II — Maqdala and His Legacy |
+| 11605 | pictures/11605.webp | campaign map with the Liche agreement marked | Social Studies — Modern Ethiopia — Yohannes IV — Unifying by Agreement |
+| 11606 | pictures/11606.webp | the council gathered on the Boru Meda plain | Social Studies — Modern Ethiopia — Yohannes IV — The Boru Meda Council |
+| 11607 | pictures/11607.webp | caravan routes from Bonga redrawn | Social Studies — Modern Ethiopia — The Caravan Trade — Routes and Goods |
+| 11608 | pictures/11608.webp | arrows from Sudan and the Red Sea closing on northern Ethiopia | Social Studies — Modern Ethiopia — Foreign Invasions — Egypt's Expansion |
+| 11609 | pictures/11609.webp | the two battlefields on the Mereb with their dates | Social Studies — Modern Ethiopia — Foreign Invasions — Gundet and Gura |
+| 11610 | pictures/11610.webp | the treaty's three articles as three panels | Social Studies — Modern Ethiopia — Foreign Invasions — The Hewett Treaty |
+| 11611 | pictures/11611.webp | Mitsiwa port with Dogali marked inland | Social Studies — Modern Ethiopia — Foreign Invasions — Mitsiwa Lost and Dogali Won |
+| 11612 | pictures/11612.webp | ring diagram of three pressures around one throne | Social Studies — Modern Ethiopia — Yohannes IV — Besieging Sahati |
+| 11613 | pictures/11613.webp | the Gondar-Metema front 1887 to 1889 in order | Social Studies — Modern Ethiopia — Foreign Invasions — Metema and the Death of Yohannes |
+| 11614 | pictures/11614.webp | Ankober and Let Marefia with arms moving from Assab | Social Studies — Modern Ethiopia — Menilek and Italy — The Early Treaties |
+| 11615 | pictures/11615.webp | one article in two columns, may against must, the changed word ringed | Social Studies — Modern Ethiopia — Menilek and Italy — Wuchale and Article 17 |
+| 11616 | pictures/11616.webp | the kitet proclamation with columns converging, the palace women preparing | Social Studies — Modern Ethiopia — Towards Adwa — Denouncing Wuchale and the Great Levy |
+| 11617 | pictures/11617.webp | the Mekelle fort with its spring outside the walls in Ethiopian hands | Social Studies — Modern Ethiopia — The Adwa Campaign — Amba Alagi and Mekelle |
+| 11618 | pictures/11618.webp | the Adwa battlefronts and order of battle | Social Studies — Modern Ethiopia — The Battle of Adwa |
+| 11619 | pictures/11619.webp | Ethiopia's outline with each border treaty and year along its edge | Social Studies — Modern Ethiopia — After Adwa — Recognition and Borders |
+| 11620 | pictures/11620.webp | three panels: front page, Italian demonstration, Pan-African table | Social Studies — Modern Ethiopia — After Adwa — Adwa's World Meaning |
+| 11621 | pictures/11621.webp | three panels: freedom proclamation, birr tax receipt, reopened market | Social Studies — Modern Ethiopia — Post-Adwa Ethiopia — Slavery, Tax and Trade |
+| 11622 | pictures/11622.webp | the railway line Djibouti to Addis Ababa with the new towns on it | Social Studies — Modern Ethiopia — Post-Adwa Ethiopia — Towns, Bank and Modern Firsts |
+| 11623 | pictures/11623.webp | map with the four consulate towns ringed and Walwal marked | Social Studies — Modern Ethiopia — The Fascist Invasion — Preparation and the Walwal Pretext |
+| 11624 | pictures/11624.webp | two great arrows closing on Addis Ababa | Social Studies — Modern Ethiopia — The Fascist Invasion — The League's Failure and the Two Fronts |
+| 11625 | pictures/11625.webp | the northern front map: Aradom, Tembien, Shire, Maychew in sequence | Social Studies — Modern Ethiopia — The War of 1935–36 — The Northern Front |
+| 11626 | pictures/11626.webp | southern arrows through Qorahe to Jijiga and Harar, the exile route dotted out | Social Studies — Modern Ethiopia — The War of 1935–36 — The Southern Front and the Exile |
+| 11627 | pictures/11627.webp | the six divisions as a coloured occupation map | Social Studies — Modern Ethiopia — The Occupation — Why Ethiopia Lost, the Six Divisions |
+| 11628 | pictures/11628.webp | Addis Ababa ringed by the five leaders' converging groups | Social Studies — Modern Ethiopia — The Patriots — The First Phase |
+| 11629 | pictures/11629.webp | a guerrilla band cutting a telegraph line, a note passed in the town below | Social Studies — Modern Ethiopia — The Patriots — The Guerrilla Phase and the Inside Patriots |
+| 11630 | pictures/11630.webp | three arrows converging on Addis Ababa, May 5 1941 marked | Social Studies — Modern Ethiopia — Liberation 1941 — The Three-Pronged Return |
+| 11631 | pictures/11631.webp | the invasion arrow 700 km deep and the Karamara counter-stroke | Social Studies — Modern Ethiopia — The Ogaden War 1977–78 |
+| 11632 | pictures/11632.gif | GIF: a loaded pack animal travelling the caravan route Bonga to Gondar | Social Studies — Modern Ethiopia — The Caravan Trade — Routes and Goods |
+| 11633 | pictures/11633.gif | GIF: two invasion arrows closing on Addis Ababa, red from Eritrea, blue from Somaliland | Social Studies — Modern Ethiopia — The Fascist Invasion — The League's Failure and the Two Fronts |
