@@ -1,6 +1,6 @@
 # Sources — Motion — displacement and velocity
 
-countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only)
+countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -8,6 +8,8 @@ countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only)
 
 
 **Book 3:** *Physics Teacher Guide Grade 12 (Secondary, Standards Based)* (teacher guide) — Papua New Guinea, Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE". Title as printed: Physics, Senior High, Grade 12 Teacher Guide — Standards-Based (Department of Education, Papua New Guinea, published 2020, ISBN 978-9980-906-19-9, "FREE ISSUE — NOT FOR SALE"). Grade: 12 · Teacher guide · Repo path: grade-12/gov/papua-new-guinea/physics/teacher/grade-12-physics-teachers-guide.pdf · Release: mid-size-books-8. Byte size: 7,123,027 (exact match: books.json = source-URL download) · PDF pages: 148 (exact match) · Offset: printed p. N ≈ PDF p. N (guide paginated ii, then 1–148; teaching content printed pp. 49–148). Verdict: COMPLETE — full text read (40,333 words); title/copyright pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/papua-new-guinea-placements.md.
+**Book 4:** *Curriculum Guidelines — Physics, Grades 10, 11, 12* (curriculum — teacher/curriculum evidence, NOT a student book, cited as it is) — Bahamas, Ministry of Education, Department of Education, 2010. Title as printed: Curriculum Guidelines — Physics, Grades 10, 11, 12 (Ministry of Education, Department of Education, 2010). Grade: 10–12 · Kind: curriculum (teacher/curriculum evidence — NOT a student book) · Edition/year: 2010 (PDF generated 27 Jan 2012) · Repo path: grade-10/gov/bahamas/curriculum/bahamas-bgcse-physics-curriculum-grades-10-12.pdf. Byte size: 3,560,520 (exact match to record) · PDF pages: 316 · Offset: printed p. ii = PDF p. 2; printed scope table pp. xiii–xiv ≈ PDF pp. 13–14; Scope of Work printed p. 53 onward. Verdict: COMPLETE — read in full (text layer, 84,778 words); identity confirmed on title page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bahamas-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Displacement — the straight A-to-B change against the winding path | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 178–180 |
@@ -15,8 +17,9 @@ countries: Ethiopia, Ecuador, Papua New Guinea (teacher-guide evidence only)
 | Distance–time and speed–time graphs; slope read as speed | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 178–180 |
 | Motion in a straight line — MRU/MRUA, mean and instantaneous velocity and acceleration, graphs (Ecuador) | Ecuador, *Física — Primero de Bachillerato*, Tema 1 Movimiento en línea recta, printed p. 6 |
 | Kinematics — the guide's worked sample lesson (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Sample lesson Unit Kinematics, printed p. 110 approx. |
+| Linear motion — scalars/vectors, speed, velocity, acceleration, equations of motion (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Ecuador).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Ecuador).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Record note: the library also holds a second Ecuador file recorded as *Física, Tercero de Bachillerato* (grade-13/gov/ecuador/physics/student/full-year.pdf, release mid-size-books-8) whose interior is THIS SAME book — identical credits page, identical ISBN 978-9942-662-30-9, identical Primera edición 2024, identical índice of the same 21 temas at the same printed pages; only the cover grade numeral differs. It is an interior duplicate of the Ecuador book recorded above: it earns no book entries and no placements of its own, and Ecuador must not be counted as holding two BGU Physics books. LIBRARY DEBT: the grade-13 record needs a genuine Tercero de Bachillerato text or removal.
 

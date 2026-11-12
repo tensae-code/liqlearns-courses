@@ -1,6 +1,6 @@
 # Sources — Half-life and the decay law
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Bahamas (curriculum evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados
 
 **Book 4:** *Physics for CSEC Examinations, 3rd Edition (Student's Book)* (student book) — Barbados. Title as printed: Physics for CSEC Examinations — 3rd Edition, Alec Farley and Clarence Trotz, Series Editor Dr Mike Taylor (Macmillan Caribbean; print file dated 2014-06-23, ISBN 9780230438842). Grade: 10 (CSEC, Caribbean) · Student book · Source note: this is the Caribbean-region CSEC text recorded for Barbados; an approved regional text, not a Barbados-authored book — cited as it is. Repo path: grade-10/gov/barbados/physics/student-book/physics-for-csec-examinations-3rd-edition-farley-trotz.pdf · Release: mid-size-books-3. Byte size: 35,234,406 (exact match: books.json = release asset) · PDF pages: 603 (exact match) · Offset: printed p. N ≈ PDF p. N+9 (front matter i–viii + prefaces). Verdict: COMPLETE — full text read (273,879 words); cover, imprint and contents prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/barbados-placements.md.
 
+**Book 5:** *Curriculum Guidelines — Physics, Grades 10, 11, 12* (curriculum — teacher/curriculum evidence, NOT a student book, cited as it is) — Bahamas, Ministry of Education, Department of Education, 2010. Title as printed: Curriculum Guidelines — Physics, Grades 10, 11, 12 (Ministry of Education, Department of Education, 2010). Grade: 10–12 · Kind: curriculum (teacher/curriculum evidence — NOT a student book) · Edition/year: 2010 (PDF generated 27 Jan 2012) · Repo path: grade-10/gov/bahamas/curriculum/bahamas-bgcse-physics-curriculum-grades-10-12.pdf. Byte size: 3,560,520 (exact match to record) · PDF pages: 316 · Offset: printed p. ii = PDF p. 2; printed scope table pp. xiii–xiv ≈ PDF pp. 13–14; Scope of Work printed p. 53 onward. Verdict: COMPLETE — read in full (text layer, 84,778 words); identity confirmed on title page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bahamas-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The decay law and half-life | Grade 11 Student Textbook, printed pp. 312–316 |
 | Decay equations written; exponential decay graphs drawn from experimental data (teacher guide — evidence) | Papua New Guinea, *Physics, Upper Secondary Teacher Guide (OBE)*, Unit 12.5 Radioactivity and Nuclear Energy, printed p. 47 |
 | Radioactive decay (teacher guide — evidence) | Papua New Guinea, *Physics Teacher Guide Grade 12 (Standards-Based)*, Unit Atomic and Nuclear Physics, Topic Radioactive Decay, printed p. 97 approx. |
 | Ch. 35 Half-Life | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 35 Half-Life, printed p. 528 |
+| Half-life, decay curves, carbon dating (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Barbados).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Barbados).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
