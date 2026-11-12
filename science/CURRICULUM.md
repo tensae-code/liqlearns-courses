@@ -116,6 +116,28 @@ material is syllabus-level teacher evidence only.
 Build log:
 `liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSA-science-g7-u1.md`.
 
+Band GS-E (Grade 7, Unit 5 — Living Things and their
+Diversity): 17 new lessons (15 in Animals, 2 in
+Plants), 204 questions, 20 media filed (pictures/GIFs
+32900–32919) — what makes something alive,
+classification, scientific names and the seven ranks,
+the five kingdoms, what makes an animal, fish,
+amphibians and the frog, reptiles, birds, mammals,
+invertebrates (insects and earthworms), seed plants,
+seedless plants, protists, monera and fungi, and the
+Who am I? vertebrate review game. Teacher item 11
+(field safety and specimen handling) is filed inside
+the classification lesson and in the hands-on of every
+collecting practical. All 17 are new at first depth;
+each cross-references the Biology title's
+secondary-depth lessons in its level line and no
+Biology or primary Animals/Plants file was grown or
+copied. Pairing carried exactly: the Grade 7 guide is
+an Addis Ababa bureau book, NOT edition-matched to the
+Amhara student book — guide material is syllabus-level
+teacher evidence only. Build log:
+`liqlearns-courses-work/ethiopia-2026-11-11/build-logs/wave3-GSE-science-g7-u5.md`.
+
 ## Unit 1 — First Steps
 
 1. **Care for Your Book** (`first-steps/care-for-your-book`) — how to care for your school book so it stays clean, whole and readable all year.
@@ -247,6 +269,8 @@ Build log:
 4. **Plants give us things and food** (`plants/plants-give-us-things-and-food`) — houses, clothes, chairs, tables and paper come from plants; plants feed people — cabbage, orange, maize — and animals, and bees and butterflies fee…
 5. **Plants that heal** (`plants/plants-that-heal`) — the local medicinal plants the Grade 3-level list names — garlic, tena adam, dama kese, haregresa, feto, grawa, moringa (shiferaw), kebericho, tosi…
 6. **What a plant needs to grow** (`plants/what-a-plant-needs-to-grow`) — a plant needs soil, water, air and sunlight — proved by the book's four-tin experiment: bean seeds sown the same day in an empty tin, soil only, wa…
+7. **Plants — seed plants: gymnosperms and angiosperms** (`plants/seed-plants-gymnosperms-and-angiosperms`) — seed plants split into gymnosperms with naked seeds, often in cones, and angiosperms whose seeds are enclosed in fruit (Grade 7 General Science)
+8. **Plants — seedless plants: mosses, liverworts and ferns** (`plants/seedless-plants-mosses-and-ferns`) — bryophytes such as mosses are small moist-place plants reproducing by spores, while ferns have true roots, stems, leaves and vascular tissue — and still no seeds or flowers (Grade 7 General Science)
 
 ## Unit 9 — Animals
 
@@ -254,6 +278,21 @@ Build log:
 2. **Looking after our animals** (`animals/looking-after-our-animals`) — cared-for animals get enough food and water, a clean shelter, medical care when sick, and handling that does not hurt them — and cared-for animals …
 3. **Tame animals and wild animals** (`animals/tame-animals-and-wild-animals`) — domestic animals live under people's care; wild animals live in forest, grassland, caves and water — and domestic animals give people great service…
 4. **What animals need, and animals at work for people** (`animals/what-animals-need-and-animals-at-work`) — animals need food, shelter and water; they repay care with food (meat, milk, eggs, yoghurt, cheese, butter), transport (horse, donkey, mule, camel)…
+5. **Living things — what makes something alive** (`animals/living-things-what-makes-something-alive`) — living things share a set of life characteristics together — sensitivity, reproduction, growth, respiration, nutrition, excretion, adaptation, homeostasis and metabolism — while non-living things do not (Grade 7 General Science)
+6. **Classification — sorting the living world** (`animals/classification-sorting-the-living-world`) — classification groups living things by similarity and difference so life can be studied in order, newcomers identified and relationships revealed (Grade 7 General Science)
+7. **Classification — scientific names and the seven ranks** (`animals/scientific-names-and-the-seven-ranks`) — every organism has one scientific name of two parts — genus and species — and sits in seven ranks from Kingdom down to Species (Grade 7 General Science)
+8. **Kingdoms — the five kingdoms of living things** (`animals/the-five-kingdoms-of-living-things`) — living things are divided into five kingdoms — Monera, Protista, Fungi, Plantae and Animalia — separated by cell structure, nutrition, body organisation and reproduction (Grade 7 General Science)
+9. **Animals — what makes an animal** (`animals/animals-what-makes-an-animal`) — animals are multicellular consumers with muscle and nervous tissue whose cells have no walls and no chloroplasts; they divide into invertebrates without a backbone and vertebrates with one (Grade 7 General Science)
+10. **Animals — fish** (`animals/animals-fish`) — fish are cold-blooded aquatic animals that breathe through gills, move and balance with fins, and are covered in scales (Grade 7 General Science)
+11. **Animals — amphibians and the frog** (`animals/animals-amphibians-and-the-frog`) — amphibians are ectothermic animals with smooth, moist, scaleless skin; their young breathe with gills in water and their adults breathe with lungs on land (Grade 7 General Science)
+12. **Animals — reptiles** (`animals/animals-reptiles`) — reptiles are cold-blooded land animals with dry, rough, scaly skin that breathe with lungs — turtles and tortoises, crocodiles and alligators, lizards and snakes (Grade 7 General Science)
+13. **Animals — birds** (`animals/animals-birds`) — birds are warm-blooded animals with a beak, two wings, two legs and feathers — feathers belong to birds alone — and beaks shaped to their food (Grade 7 General Science)
+14. **Animals — mammals** (`animals/animals-mammals`) — mammals bear live young and feed them on milk, have hair, breathe with lungs and are warm-blooded — even whales and dolphins, which must surface to breathe air (Grade 7 General Science)
+15. **Animals — invertebrates: insects and earthworms** (`animals/invertebrates-insects-and-earthworms`) — more than 95% of animals have no backbone; insects are known by six legs and three body parts, and the earthworm enriches the soil with its castings (Grade 7 General Science)
+16. **Protists — protozoa and algae under the microscope** (`animals/protists-protozoa-and-algae`) — protists are mostly unicellular eukaryotes that are neither plant, fungus nor animal; protozoa move by pseudopodia, flagella or cilia, and plant-like algae photosynthesise without root, stem or leaf (Grade 7 General Science)
+17. **Monera — bacteria: helpful, harmful, everywhere** (`animals/monera-bacteria-helpful-harmful-everywhere`) — Monera are prokaryotes with no nuclear membrane; bacteria sour milk and poison food yet also curdle milk usefully, and blue-green algae are photosynthetic bacteria, not true algae (Grade 7 General Science)
+18. **Fungi — moulds, mushrooms and yeasts** (`animals/fungi-moulds-mushrooms-and-yeasts`) — fungi are eukaryotic, chitin-walled organisms that cannot make food — they digest dead matter and absorb it, parasitise living hosts, or live symbiotically; yeast (ersho) raises dough and ferments tella and tej (Grade 7 General Science)
+19. **Animals — Who am I? vertebrate review game** (`animals/who-am-i-vertebrate-review-game`) — the five vertebrate groups can be told apart from clue cards — milk and fur, feathers and hard-shelled eggs, leathery scales, jelly eggs with gills-then-lungs, and gills with fins and scales (Grade 7 General Science)
 
 ## Unit 10 — Natural Resources
 
