@@ -347,3 +347,29 @@ numbers (evidence filed by topic). Teacher evidence:
 why XML exists with the Ethiopian regions/cities
 example, corrected documents, publishing keyed on
 ethiopia.gov.et. The course now stands at 478 lessons.
+
+**Band F2 (Grade 12, Unit 2) — BUILT 2026-11-12:** 22 new
+lessons, 314 questions, 31 media filed (pictures/GIFs
+30100–30130) — Emerging Technologies in the New
+Technologies title: big data (what it is, the 5 Vs,
+benefits, health and education, five more sectors,
+challenges), cloud computing (what it is, benefits,
+the hosting comparison, limitations, public/private,
+hybrid/community, SaaS, PaaS, IaaS), fog computing,
+and the Internet of Things (what it is, advantages
+and limits, how it works, applications). All new:
+the Grade 11 cloud/fog/IoT lessons the plan expected
+do not exist in the tree (the Grade 11 unit is the AI
+unit), so nothing was grown and nothing duplicated —
+these lessons are the growth targets if that Grade 11
+ground is ever built. Book errors flagged in sources,
+none silently fixed: Brainstorming 2.2 numbered
+twice; §1.4's pointer to "Section 2.3" for cloud
+(cloud is §2.2, fog is §2.3); Figure 2.24 captioned
+"Hybrid cloud" under SaaS (p.45); p.48's inconsistent
+Internet-date framing, flagged verbatim in the IoT
+lesson's sources. Teacher evidence: customer data
+gathered three ways, the origin of the word "cloud",
+service models compared by benefit, fog as the
+intelligent gateway, the IoT home in detail. The
+course now stands at 500 lessons.

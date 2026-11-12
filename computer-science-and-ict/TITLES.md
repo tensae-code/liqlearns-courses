@@ -594,3 +594,28 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 - Hosting and domain names — putting a site on a server — `internet-and-the-web/hosting-and-domain-names-putting-a-site-on-a-server/`
 - Domain extensions — .com, .edu, .gov, .org, .mil, .net — `internet-and-the-web/domain-extensions-com-edu-gov-org-mil-net/`
 - HTTPS and SSL — how a site keeps visitors' information safe — `internet-and-the-web/https-and-ssl-keeping-visitors-information-safe/`
+
+**Band F2 — Grade 12 Unit 2 (Emerging Technologies), 22 new lessons:**
+
+- Emerging technologies — new, evolving, soon — `new-technologies/emerging-technologies-new-evolving-soon/`
+- Big data — too massive for ordinary tools — `new-technologies/bigdata-too-massive-for-ordinary-tools/`
+- The 5 Vs of big data — `new-technologies/the-5-vs-of-bigdata/`
+- What big data is good for — `new-technologies/what-bigdata-is-good-for/`
+- Big data in healthcare and education — `new-technologies/bigdata-in-healthcare-and-education/`
+- Big data in banking, farming, factories, shops and transport — `new-technologies/bigdata-in-banking-farming-factories-shops-and-transport/`
+- Big data challenges — growth, people, security, mixing sources — `new-technologies/bigdata-challenges-growth-people-security-mixing-sources/`
+- Cloud computing — services over the internet, not on your PC — `new-technologies/cloud-computing-services-over-the-internet/`
+- Cloud benefits — anywhere access and flexible resources — `new-technologies/cloud-benefits-anywhere-access-and-flexible-resources/`
+- Cloud benefits — provider updates, security and pay-as-you-go — `new-technologies/cloud-benefits-provider-updates-security-and-pay-as-you-go/`
+- Hosting a website — your own server or the cloud? — `new-technologies/hosting-a-website-your-own-server-or-the-cloud/`
+- Cloud limitations — downtime, ownership, lock-in, support and fees — `new-technologies/cloud-limitations-downtime-ownership-lock-in-support-and-fees/`
+- Public cloud and private cloud — `new-technologies/public-cloud-and-private-cloud/`
+- Hybrid cloud and community cloud — `new-technologies/hybrid-cloud-and-community-cloud/`
+- SaaS — software you subscribe to, not install — `new-technologies/saas-software-you-subscribe-to-not-install/`
+- PaaS — a ready platform for building applications — `new-technologies/paas-a-ready-platform-for-building-applications/`
+- IaaS — computing resources rented in the cloud — `new-technologies/iaas-computing-resources-rented-in-the-cloud/`
+- Fog computing — processing at the edge, near the data — `new-technologies/fog-computing-processing-at-the-edge-near-the-data/`
+- Internet of Things — everyday things that send and receive data — `new-technologies/internet-of-things-everyday-things-that-send-and-receive-data/`
+- IoT advantages — and what can go wrong — `new-technologies/iot-advantages-and-what-can-go-wrong/`
+- How an IoT system works — sense, connect, process, respond — `new-technologies/how-an-iot-system-works-sense-connect-process-respond/`
+- IoT applications — home, city, health, cars and farms — `new-technologies/iot-applications-home-city-health-cars-and-farms/`
