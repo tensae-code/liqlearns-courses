@@ -59,7 +59,14 @@ Band records land here as each band is built and verified.
   frame-checked). The book's OAU charter date (printed June 25)
   is taught corrected to May 25, 1963, and its Accra 1958 count
   (printed "6", eight listed) is taught as the eight, both named
-  in the sources. One assessment-stock item (Samori Toure) was
+  in the sources.
+- **The Ancient World — BUILT** (Grade 7 student Chapter 6 +
+  teacher guide Unit 4): 15 lessons, 232 questions, pictures
+  11350–11367, GIF 11351 (cuneiform stylus, frame-checked).
+  Guide material folds in as labelled teacher evidence; no
+  guide-only lessons. Named in the sources: the 476 BC summary
+  misprint taught as 476 AD, the guide's "3600" taught as 360°,
+  Buddhism's printed "Finland" recorded and not taught. One assessment-stock item (Samori Toure) was
   not built — no placement gives teachable content for him.
 - **Culture and Work — BUILT** (Grade 8 student Chapter 2 +
   teacher guide Unit 2): 26 lessons, 298 questions, pictures

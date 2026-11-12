@@ -1,0 +1,3 @@
+# Ancient civilisations — Sparta, and Athens against Sparta — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Describe Sparta: place, farming base, three classes, oligarchy, and the age-seven military duty.; List Greece's contributions, and tell the wars in order — Marathon 490 BC, the civil war 431–404 BC, Philip's conquest 338 BC.. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

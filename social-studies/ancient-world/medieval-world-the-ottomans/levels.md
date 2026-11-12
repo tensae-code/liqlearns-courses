@@ -1,0 +1,3 @@
+# Medieval world — the Ottomans — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Tell the founding: Osman, his dates, the name 'Ottoman', and the Turks' Islam and military excellence.; Recite the three reigns in order — Osman, Orhan, Murad I — with Orhan's Janissaries and Gallipoli, and Murad's Balkans advance.. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

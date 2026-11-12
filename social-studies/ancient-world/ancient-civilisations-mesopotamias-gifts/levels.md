@@ -1,0 +1,3 @@
+# Ancient civilisations — Mesopotamia's gifts — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Name Mesopotamia's gifts: bronze weapons, the plough, sailboats, astronomy, and mathematics for administration.; Explain the 60-minute hour and the 360-degree circle as Mesopotamian measures.; Say what cuneiform is — wedge-shaped picture-signs pressed on sun-dried clay tablets — and how it was written.. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

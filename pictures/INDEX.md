@@ -1421,6 +1421,24 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 12047 | pictures/12047.gif | coins dropping into a saving pot, fill rising per cycle | Career and Technical Education — Starting a Business — Saving — the Entrepreneur's Own Funding |
 | 12048 | pictures/12048.gif | interview question bubble grows from the employer, answer bubble replies from the candidate | Career and Technical Education — Getting Hired — The Job Interview |
 | 12049 | pictures/12049.webp | employability's four supports | Career and Technical Education — Getting Hired — Employability — Ready for Work |
+| 11350 | pictures/11350.webp | Mesopotamia between the two rivers | Social Studies — The Ancient World — Mesopotamia |
+| 11351 | pictures/11351.gif | a reed stylus pressing wedges into wet clay (cuneiform) | Social Studies — The Ancient World — Mesopotamia's Gifts |
+| 11352 | pictures/11352.webp | Indus and Ganges with Harappa and Mohenjo-daro | Social Studies — The Ancient World — India |
+| 11353 | pictures/11353.webp | India's four ranks as the book prints them | Social Studies — The Ancient World — India's Order and Gifts |
+| 11354 | pictures/11354.webp | China's dynasties in order | Social Studies — The Ancient World — China |
+| 11355 | pictures/11355.webp | the Great Wall crossing mountains | Social Studies — The Ancient World — The Great Wall and China's Gifts |
+| 11356 | pictures/11356.webp | Crete and the Aegean islands | Social Studies — The Ancient World — Greece — Crete |
+| 11357 | pictures/11357.webp | citizens voting in the assembly, council of 500 | Social Studies — The Ancient World — Athens and Democracy |
+| 11358 | pictures/11358.webp | Athens and Sparta side by side | Social Studies — The Ancient World — Sparta, and Athens against Sparta |
+| 11359 | pictures/11359.webp | Rome on its hill above the Tiber, three classes | Social Studies — The Ancient World — Rome |
+| 11360 | pictures/11360.webp | one empire splitting into two halves | Social Studies — The Ancient World — Rome Divides |
+| 11361 | pictures/11361.webp | a tenant giving his land to a lord (feudalism) | Social Studies — The Ancient World — Dark Age and Feudalism |
+| 11362 | pictures/11362.webp | Constantinople's walls and Hagia Sophia | Social Studies — The Ancient World — Byzantium and Justinian |
+| 11363 | pictures/11363.webp | the early Ottoman lands growing | Social Studies — The Ancient World — The Ottomans |
+| 11364 | pictures/11364.webp | the five main faiths in five panels | Social Studies — The Ancient World — World Religions — the Five Main Faiths |
+| 11365 | pictures/11365.webp | the river-valley recipe (teacher guide) | Social Studies — The Ancient World — Mesopotamia |
+| 11366 | pictures/11366.webp | Christianity spreading from Palestine (teacher guide) | Social Studies — The Ancient World — World Religions — the Five Main Faiths |
+| 11367 | pictures/11367.webp | Mecca and Medina joined by the Hejira route (teacher guide) | Social Studies — The Ancient World — World Religions — the Five Main Faiths |
 | 12000 | pictures/12000.webp | a pupil covering a book to protect it | Science — Care for Your Book |
 | 12001 | pictures/12001.webp | a house, a church and a mosque in one village scene | Science — What Location Means |
 | 12002 | pictures/12002.webp | a child facing the sunrise with arms spread, directions around | Science — Directions — Right, Left and the Four Directions |

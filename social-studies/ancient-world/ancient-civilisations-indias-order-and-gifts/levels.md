@@ -1,0 +1,3 @@
+# Ancient civilisations — India's order and gifts — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Recite the four ranks in order — Brahmin, Kshatriya, Vaishya, Sudra — with who stood in each, and who stood beneath without rights.; Name India's craft and knowledge gifts, above all zero, algebra and the decimal use in mathematics.. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.

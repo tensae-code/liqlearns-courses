@@ -1,0 +1,3 @@
+# Ancient civilisations — Greece: Crete — depth
+
+This lesson is one whole lesson, with no sub lessons. Pass mark: the learner can do the lesson's outcomes — Place and date Minoan Crete (eastern Mediterranean, 3000–1400 BC) and say where its name comes from.; Explain how little farmland but good harbours turned Crete's people to trade, and where the civilisation spread.. Practice deepens inside the whole lesson: more items per question set, then the harder corners — exact dates, exact names, and the cause-and-effect links between them — until the retelling in 'Say it to your companion' runs clean from memory.
