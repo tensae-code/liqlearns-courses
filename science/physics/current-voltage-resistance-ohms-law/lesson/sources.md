@@ -1,6 +1,6 @@
 # Sources — Current, voltage, resistance — Ohm's law
 
-countries: Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan
+countries: Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan, North Macedonia
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan
 
 **Book 7:** *Physics Textbook, Class X* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2015, Reprint 2018. Grade: 10 · Student book · Repo path: grade-10/gov/bhutan/physics/full-year.pdf (source: REC Bhutan, x-physics-textbook-2019.pdf). Byte size: 5,022,766 (exact match). PDF pages: 193 (record: 193). Offset: printed p. = PDF p. − 25 (printed p. 1 is PDF p. 26); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 193 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
+**Book 8:** *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)* (student textbook) — North Macedonia, Prof. Dr Lambe Barandovski & Marija Vele... (printed: Марија Велевска); Просветно дело (Prosvetno delo), Skopje, 2026, I издание (1st edition), print run 3,300; ISBN 978-9989-0-1382-9; 296 printed pages. Grade: 11 (gymnasium year II) · Student book · Repo path: grade-11/gov/north-macedonia/physics/student/full-year.pdf (read from the copy on disk in phase3-staging; byte size matches the record exactly). Byte size: 35,749,372 (exact match). PDF pages: 299 (record: 299). Offset: printed p. = PDF p. − 2 (printed p. 48 is PDF p. 50). Verdict: COMPLETE — full text layer, all 299 pages; contents read in full, theme interiors sampled. Library note, carried on the record: in the secured file the ministry approval-decision fields (date and number) are printed BLANK — the text approving use "for (second) year" is present but its date/number are unfilled, so the approval cannot be cited from the held copy. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Current, voltage, resistance — Ohm's law | Ethiopia, *Grade 10 Student Textbook*, printed pp. 110–119 |
@@ -28,9 +30,10 @@ countries: Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan
 | Unit 4, Ch. 2, lesson 2-2 "Electric Resistance — Ohm's Law" (Kuwait, Grade 10 Term 2) | Kuwait, *Physics, Grade 10, Term 2 (student book + applications workbook)*, printed p. 62 |
 
 | Ch. 4: electric circuits — flow of electric current, Ohm's law, calculating resistance/voltage/current and the effect of resistance on current — printed pp. 73, 77 (Bhutan, Class X (Grade 10)) | Bhutan, *Physics Textbook, Class X*, Ch. 4: electric circuits — flow of electric current, Ohm's law, calculating resistance/voltage/current and the effect of resistance on current — printed pp. 73, 77 |
+| Theme 1 §§1.7–1.8: electric resistance, resistors; Ohm's law for a part and for the whole circuit (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 1 §§1.7–1.8: electric resistance, resistors; Ohm's law for a part and for the whole circuit — printed pp. 42, 48 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan, North Macedonia).**
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: current, voltage, resistance — ohm's law, grade 10 physics, unit 4, current = rate of charge flow (a); voltage = energy per charge (v); resistance opposes flow (ω)., ohm's law: v = ir., resistance depends on material, length and cross-section (thickness)., cambodia, egypt
+Searchable tags: current, voltage, resistance — ohm's law, grade 10 physics, unit 4, current = rate of charge flow (a); voltage = energy per charge (v); resistance opposes flow (ω)., ohm's law: v = ir., resistance depends on material, length and cross-section (thickness)., cambodia, egypt, north macedonia

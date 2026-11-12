@@ -1,6 +1,6 @@
 # Sources — Semiconductors — silicon and its lattice
 
-countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India
+countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Bela
 
 **Book 12:** *Physics Part–II, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-ii.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-leph2. Verdict: COMPLETE (contents read in full, chapter and topic level; see the edition note on Ch. 15). Edition note: the archived copy carries Ch. 15 Communication Systems, dropped in the rationalised printing. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 13:** *Физика за VIII одделение (Physics for Grade 8)* (student textbook) — North Macedonia, Prof. Dr Lambe Barandovski (Institute of Physics, Faculty of Natural Sciences and Mathematics, Skopje) & Vera Zoroska MSc; Просветно дело (Prosvetno delo), Skopje; imprint: Skopje 2025, CIP record 2026; ISBN 978-608-228-592-4; 236 printed pages, print run 13,171; approved for use by decision of the National Textbook Commission of the Republic of North Macedonia, 25.06.2026, no. 26-766/1. Grade: 8 · Student book · Repo path: grade-08/gov/north-macedonia/physics/student/full-year.pdf (release copy: releases/download/mid-size-books/grade-08-gov-north-macedonia-physics-student-full-year.pdf). Byte size: 27,010,647 (no size recorded in books.json — the book was verified by page count and identity instead). PDF pages: 238 (record: 238). Offset: printed p. = PDF p. − 1 (printed p. 49 is PDF p. 50). Verdict: COMPLETE — full text layer, all 238 pages; contents read in full, theme openers and interiors read. Library note, carried on the record: the Grade 8 record carries no file size in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Semiconductors — between conductor and insulator | Grade 12 Student Textbook, printed pp. 143–144 |
@@ -43,9 +45,10 @@ countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Bela
 | Ch. 41 Conduction of Electricity in Solids: metals, semiconductors, doping, the transistor — printed pp. 1252, 1270 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 41 Conduction of Electricity in Solids: metals, semiconductors, doping, the transistor — printed pp. 1252, 1270 |
 | Ch. V, Temas 47–49: what semiconductors are; structure and intrinsic conductivity; impurity semiconductors (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. V, Temas 47–49: what semiconductors are; structure and intrinsic conductivity; impurity semiconductors — printed pp. 119–123 |
 | Ch. 14 Semiconductor Electronics — energy bands, intrinsic/extrinsic semiconductors (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 14 Semiconductor Electronics — energy bands, intrinsic/extrinsic semiconductors |
+| Theme 3 §3.6: conductors, semiconductors, insulators (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 3 §3.6: conductors, semiconductors, insulators — printed p. 133 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India).**
+**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 
-Searchable tags: physics, grade 12, basics of electronics, semiconductors — silicon and its lattice, electron, kenya, iraq, egypt, yemen
+Searchable tags: physics, grade 12, basics of electronics, semiconductors — silicon and its lattice, electron, kenya, iraq, egypt, yemen, north macedonia

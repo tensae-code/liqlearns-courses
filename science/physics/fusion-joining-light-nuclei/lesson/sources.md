@@ -1,6 +1,6 @@
 # Sources — Fusion — joining light nuclei
 
-countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran
+countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, 
 
 **Book 10:** *فیزیک (۳), پایۀ دوازدهم, رشتۀ ریاضی و فیزیک — Physics (3), Grade 12, Mathematical Sciences (book code 112209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 12 · Student book · Repo path: grade-12/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-7, asset grade-12-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 12,821,822 (matches record) · PDF pages: 176 · Offset: printed p. = PDF p. − 10. Verdict: COMPLETE (title/imprint/TOC verified; the Experimental book's four strands expanded and split into 6 chapters). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
 
+**Book 11:** *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)* (student textbook) — North Macedonia, Prof. Dr Lambe Barandovski & Marija Vele... (printed: Марија Велевска); Просветно дело (Prosvetno delo), Skopje, 2026, I издание (1st edition), print run 3,300; ISBN 978-9989-0-1382-9; 296 printed pages. Grade: 11 (gymnasium year II) · Student book · Repo path: grade-11/gov/north-macedonia/physics/student/full-year.pdf (read from the copy on disk in phase3-staging; byte size matches the record exactly). Byte size: 35,749,372 (exact match). PDF pages: 299 (record: 299). Offset: printed p. = PDF p. − 2 (printed p. 48 is PDF p. 50). Verdict: COMPLETE — full text layer, all 299 pages; contents read in full, theme interiors sampled. Library note, carried on the record: in the secured file the ministry approval-decision fields (date and number) are printed BLANK — the text approving use "for (second) year" is present but its date/number are unfilled, so the approval cannot be cited from the held copy. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Nuclear fusion and power production | Grade 11 Student Textbook, printed pp. 322–326 |
@@ -36,9 +38,10 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, 
 | Ch. 43 Energy from the Nucleus — printed p. 1309 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 43 Energy from the Nucleus — printed p. 1309 |
 | Ch. 13 — fusion and stellar energy (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 13 — fusion and stellar energy |
 | §6-4, Nuclear fusion (گداخت هسته‌ای) — Mathematical branch only | Iran, *Physics (3), Grade 12, Mathematical Sciences* (Iran, book code 112209 — Mathematical branch only), §6-4 — printed p. 152 |
+| Theme 4 §§4.11–4.12: fusion and nuclear reactors (with the fission lesson) (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 4 §§4.11–4.12: fusion and nuclear reactors (with the fission lesson) — printed pp. 271, 277 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran).**
+**Acceptance count: taught in 11 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, fusion — joining light nuclei, isotope, kenya, iran
+Searchable tags: physics, grade 11, nuclear physics, fusion — joining light nuclei, isotope, kenya, iran, north macedonia

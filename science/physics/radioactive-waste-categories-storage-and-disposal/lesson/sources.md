@@ -1,0 +1,18 @@
+# Sources — Radioactive waste — categories, storage and the long-term problem
+
+countries: North Macedonia
+
+**Book 1:** *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)* (student textbook) — North Macedonia, Aleksandar Andonovski, Zora Mitreska, Done Geršanovski, Stanoja Stoimenov & Oliver Zajkov; Просветно дело АД (Prosvetno delo), Skopje; II издание (2nd edition), 2018; the textbook was approved for use by decision of the Ministry of Education and Science бр. 11-6254/1 of 03.11.2004. Grade: 13 (gymnasium year IV) · Student book · Repo path: grade-13/gov/north-macedonia/physics/student/full-year.pdf (recorded 59,100,613 bytes, 261 pp.). Byte size: 59,100,613 (exact match, from the download-scratch copy of the ministry file, "Fizika za chetvrta godina MKD_vnatre.pdf"). PDF pages: 261 (record: 261). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE — read from rendered pages (image-only PDF, publisher's "PROSVETNO DELO" watermark throughout): cover/title/imprint, the preface's theme map, all six theme openers, and the placed lessons read in full. LIBRARY DEBT, named on the record: the file is NOT in the textbooks repo — the Contents API 404s its recorded tree path (the tree folder holds only CURRICULUM.md and books.json) and no release asset carries its name; it was read from the surviving download-scratch copy of the ministry source file at the exact recorded byte size and page count, and the record should be re-secured into the repo. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The whole lesson | North Macedonia, *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)*, Theme 5 §5.8: radioactive waste — printed pp. 222–223 |
+| Sub lesson 1 — The three categories — sorting waste by activity (North Macedonia, Grade 13) | North Macedonia, *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)*, Theme 5 §5.8: radioactive waste — high-, medium- and low-activity categories — printed pp. 222–223 |
+| Sub lesson 2 — Storage and geological disposal — keeping it from the living world (North Macedonia, Grade 13) | North Macedonia, *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)*, Theme 5 §5.8: storage and geological disposal, the Yucca Mountain repository — printed pp. 222–223 |
+| Do it first; key ideas; Do It Yourself | North Macedonia, as cited in the rows above |
+
+**Acceptance count: taught in 1 country (North Macedonia).**
+
+Placement choice, on the record: this NEW LESSON was built for the North Macedonia placement tagged "NEW LESSON NEEDED: Radioactive waste — categories, storage and the long-term problem" — north-macedonia-placements.md, Book 4 (Grade 13), Theme 5 §5.8, printed pp. 222–223. The same book's §5.7 (dosimetry quantities and biological effects) is stocked in physics/dose-and-detectors-measuring-radiation, which teaches measuring radiation, not waste; no existing lesson teaches waste categories or disposal. It sits in physics/ beside the radiation lessons.
+
+Searchable tags: radioactive waste, nuclear waste, geological disposal, vitrification, yucca mountain, activity categories, north macedonia, grade 13

@@ -1,10 +1,12 @@
 # Sources — Global warming — the greenhouse effect
 
-countries: Ethiopia, Uganda
+countries: Ethiopia, Uganda, North Macedonia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
 **Book 2:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states ("This book consists of 8 chapters to be learnt in Senior One"). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
+
+**Book 3:** *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)* (student textbook) — North Macedonia, Aleksandar Andonovski, Zora Mitreska, Done Geršanovski, Stanoja Stoimenov & Oliver Zajkov; Просветно дело АД (Prosvetno delo), Skopje; II издание (2nd edition), 2018; the textbook was approved for use by decision of the Ministry of Education and Science бр. 11-6254/1 of 03.11.2004. Grade: 13 (gymnasium year IV) · Student book · Repo path: grade-13/gov/north-macedonia/physics/student/full-year.pdf (recorded 59,100,613 bytes, 261 pp.). Byte size: 59,100,613 (exact match, from the download-scratch copy of the ministry file, "Fizika za chetvrta godina MKD_vnatre.pdf"). PDF pages: 261 (record: 261). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE — read from rendered pages (image-only PDF, publisher's "PROSVETNO DELO" watermark throughout): cover/title/imprint, the preface's theme map, all six theme openers, and the placed lessons read in full. LIBRARY DEBT, named on the record: the file is NOT in the textbooks repo — the Contents API 404s its recorded tree path (the tree folder holds only CURRICULUM.md and books.json) and no release asset carries its name; it was read from the surviving download-scratch copy of the ministry source file at the exact recorded byte size and page count, and the record should be re-secured into the repo. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,9 +14,10 @@ countries: Ethiopia, Uganda
 | Sub lesson 2 — three-quarters of human CO₂ from burning fossil fuels, the rest largely from deforestation; effects: sea-level rise, uneven rainfall, flooding, drought, food and water shortage, extinctions; pupils propose reductions | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 5, printed pp. 146–147 |
 
 | Ch 6: the greenhouse effect, inside the heat-transfer chapter (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 6 — printed p. 125 |
+| Theme 5 §5.3: global climate changes — the layers of the atmosphere, natural and anthropogenic causes, the greenhouse effect, aerosols and acid rain, the 1880–2000 temperature record (North Macedonia, Grade 13) | North Macedonia, *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)*, Theme 5 §5.3: global climate changes — the layers of the atmosphere, natural and anthropogenic causes, the greenhouse effect, aerosols and acid rain, the 1880–2000 temperature record — printed pp. 204–207 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, North Macedonia).**
 
 Book error taught corrected: the student book spells CFCs' full name 'chlorofloro carbons' (printed p. 146, as flagged in the placements verification block); this lesson teaches the correct 'chlorofluorocarbons'.
 
-Searchable tags: global warming, greenhouse effect, greenhouse gases, fossil fuels, deforestation, CFCs, Ethiopia Grade 8 General Science Unit 5, uganda
+Searchable tags: global warming, greenhouse effect, greenhouse gases, fossil fuels, deforestation, CFCs, Ethiopia Grade 8 General Science Unit 5, uganda, north macedonia

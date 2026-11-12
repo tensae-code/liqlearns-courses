@@ -1,6 +1,6 @@
 # Sources — Discovering the nucleus — Rutherford to Chadwick
 
-countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India
+countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India, North Macedonia
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait,
 
 **Book 11:** *Physics Part–II, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-ii.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-leph2. Verdict: COMPLETE (contents read in full, chapter and topic level; see the edition note on Ch. 15). Edition note: the archived copy carries Ch. 15 Communication Systems, dropped in the rationalised printing. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 12:** *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)* (student textbook) — North Macedonia, Prof. Dr Lambe Barandovski & Marija Vele... (printed: Марија Велевска); Просветно дело (Prosvetno delo), Skopje, 2026, I издание (1st edition), print run 3,300; ISBN 978-9989-0-1382-9; 296 printed pages. Grade: 11 (gymnasium year II) · Student book · Repo path: grade-11/gov/north-macedonia/physics/student/full-year.pdf (read from the copy on disk in phase3-staging; byte size matches the record exactly). Byte size: 35,749,372 (exact match). PDF pages: 299 (record: 299). Offset: printed p. = PDF p. − 2 (printed p. 48 is PDF p. 50). Verdict: COMPLETE — full text layer, all 299 pages; contents read in full, theme interiors sampled. Library note, carried on the record: in the secured file the ministry approval-decision fields (date and number) are printed BLANK — the text approving use "for (second) year" is present but its date/number are unfilled, so the approval cannot be cited from the held copy. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How the nucleus was found — Rutherford and the neutron | Grade 11 Student Textbook, printed pp. 291–298 |
@@ -37,9 +39,10 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait,
 | Ch. 5 — Thomson's and Rutherford's atomic models and spectra (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 5 — printed p. 115 — Thomson's atomic model p. 115, Rutherford's model p. 116; atomic and absorption spectra pp. 112–114 in the same strand |
 | Ch. III, Tema 38: structure of the atom; Thomson's model; Rutherford's experiments (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. III, Tema 38: structure of the atom; Thomson's model; Rutherford's experiments — printed p. 102 |
 | Ch. 12 Atoms — Thomson and Rutherford models in sequence (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 12 Atoms — Thomson and Rutherford models in sequence |
+| Theme 4 §4.3: models of the atom (Thomson, Rutherford, Bohr) (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 4 §4.3: models of the atom (Thomson, Rutherford, Bohr) — printed p. 214 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India).**
+**Acceptance count: taught in 12 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India, North Macedonia).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, discovering the nucleus — rutherford to chadwick, neutron, united states, yemen
+Searchable tags: physics, grade 11, nuclear physics, discovering the nucleus — rutherford to chadwick, neutron, united states, yemen, north macedonia

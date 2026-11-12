@@ -1,6 +1,6 @@
 # Sources — Moment of inertia — rotation's mass
 
-countries: Ethiopia, Haiti (programme evidence only), Italy, Sri Lanka, United States, Kuwait, Bhutan, India
+countries: Ethiopia, Haiti (programme evidence only), Italy, Sri Lanka, United States, Kuwait, Bhutan, India, North Macedonia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Haiti (programme evidence only), Italy, Sri Lanka, United S
 
 **Book 9:** *Physics Part–I, Textbook for Class XI, NCERT (National Council of Educational Research and Training), New Delhi* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books/grade-11-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-keph1. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World, later chapters +1) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 10:** *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)* (student textbook) — North Macedonia, Aleksandar Andonovski, Zora Mitreska, Done Geršanovski, Stanoja Stoimenov & Oliver Zajkov; Просветно дело АД (Prosvetno delo), Skopje; II издание (2nd edition), 2018; the textbook was approved for use by decision of the Ministry of Education and Science бр. 11-6254/1 of 03.11.2004. Grade: 13 (gymnasium year IV) · Student book · Repo path: grade-13/gov/north-macedonia/physics/student/full-year.pdf (recorded 59,100,613 bytes, 261 pp.). Byte size: 59,100,613 (exact match, from the download-scratch copy of the ministry file, "Fizika za chetvrta godina MKD_vnatre.pdf"). PDF pages: 261 (record: 261). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE — read from rendered pages (image-only PDF, publisher's "PROSVETNO DELO" watermark throughout): cover/title/imprint, the preface's theme map, all six theme openers, and the placed lessons read in full. LIBRARY DEBT, named on the record: the file is NOT in the textbooks repo — the Contents API 404s its recorded tree path (the tree folder holds only CURRICULUM.md and books.json) and no release asset carries its name; it was read from the surviving download-scratch copy of the ministry source file at the exact recorded byte size and page count, and the record should be re-secured into the repo. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Moment of inertia | Grade 12 Student Textbook, printed pp. 51–52 |
@@ -32,9 +34,10 @@ countries: Ethiopia, Haiti (programme evidence only), Italy, Sri Lanka, United S
 
 | Ch. 10 Rotation — printed p. 257 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 10 Rotation — printed p. 257 |
 | Ch. 6 — moment of inertia and radius of gyration (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 6 — moment of inertia and radius of gyration |
+| Theme 2: moment of inertia (with the rotational-dynamics lesson) (North Macedonia, Grade 13) | North Macedonia, *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)*, Theme 2: moment of inertia (with the rotational-dynamics lesson) — theme opener, printed p. 53 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Italy, Sri Lanka, United States, Kuwait, Bhutan, India).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 8 countries (Ethiopia, Italy, Sri Lanka, United States, Kuwait, Bhutan, India, North Macedonia).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 
-Searchable tags: physics, grade 12, two-dimensional motion, moment of inertia — rotation's mass, resistance, sri lanka, united states
+Searchable tags: physics, grade 12, two-dimensional motion, moment of inertia — rotation's mass, resistance, sri lanka, united states, north macedonia

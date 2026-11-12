@@ -1,16 +1,19 @@
 # Sources — Evidence for the Big Bang — cosmic microwave background and redshift
 
-countries: Bhutan
+countries: Bhutan, North Macedonia
 
 **Book 1:** *Physics Textbook, Class X* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2015, Reprint 2018. Grade: 10 · Student book · Repo path: grade-10/gov/bhutan/physics/full-year.pdf (source: REC Bhutan, x-physics-textbook-2019.pdf). Byte size: 5,022,766 (exact match). PDF pages: 193 (record: 193). Offset: printed p. = PDF p. − 25 (printed p. 1 is PDF p. 26); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 193 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
+**Book 2:** *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)* (student textbook) — North Macedonia, Aleksandar Andonovski, Zora Mitreska, Done Geršanovski, Stanoja Stoimenov & Oliver Zajkov; Просветно дело АД (Prosvetno delo), Skopje; II издание (2nd edition), 2018; the textbook was approved for use by decision of the Ministry of Education and Science бр. 11-6254/1 of 03.11.2004. Grade: 13 (gymnasium year IV) · Student book · Repo path: grade-13/gov/north-macedonia/physics/student/full-year.pdf (recorded 59,100,613 bytes, 261 pp.). Byte size: 59,100,613 (exact match, from the download-scratch copy of the ministry file, "Fizika za chetvrta godina MKD_vnatre.pdf"). PDF pages: 261 (record: 261). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE — read from rendered pages (image-only PDF, publisher's "PROSVETNO DELO" watermark throughout): cover/title/imprint, the preface's theme map, all six theme openers, and the placed lessons read in full. LIBRARY DEBT, named on the record: the file is NOT in the textbooks repo — the Contents API 404s its recorded tree path (the tree folder holds only CURRICULUM.md and books.json) and no release asset carries its name; it was read from the surviving download-scratch copy of the ministry source file at the exact recorded byte size and page count, and the record should be re-secured into the repo. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Bhutan, Ch. 6: cosmic microwave background and redshift as evidence — printed p. 141 |
 | Do it first; key ideas; Do It Yourself | Bhutan, as cited in the rows above |
+| Theme 3 §3.21: in the world of galaxies — Hubble's law from the Doppler redshift, the expanding universe, the Big Bang and the Penzias–Wilson relic radiation, the critical density (stocked into this existing shared lesson per the North Macedonia merge; the placements file tags it NEW LESSON NEEDED: Evidence for the Big Bang — cosmic microwave background and redshift — built for Bhutan) (North Macedonia, Grade 13) | North Macedonia, *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)*, Theme 3 §3.21: in the world of galaxies — Hubble's law from the Doppler redshift, the expanding universe, the Big Bang and the Penzias–Wilson relic radiation, the critical density (stocked into this existing shared lesson per the North Macedonia merge; the placements file tags it NEW LESSON NEEDED: Evidence for the Big Bang — cosmic microwave background and redshift — built for Bhutan) — printed pp. 160–161 |
 
-**Acceptance count: taught in 1 country (Bhutan).**
+**Acceptance count: taught in 2 countries (Bhutan, North Macedonia).**
 
 Placement choice, on the record: this NEW LESSON was built for the Bhutan placement “Evidence for the Big Bang — cosmic microwave background and redshift” — bhutan-placements.md, Book 2 (Class X), Ch. 6 — printed p. 141. It sits in earth-and-space/ and is registered in CURRICULUM.md in the Earth and Space section.
 
-Searchable tags: big bang, cosmic microwave background, redshift, expanding universe, bhutan, grade 10
+Searchable tags: big bang, cosmic microwave background, redshift, expanding universe, bhutan, grade 10, north macedonia

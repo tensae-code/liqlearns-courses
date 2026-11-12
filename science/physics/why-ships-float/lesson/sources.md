@@ -1,6 +1,6 @@
 # Sources — Why ships float
 
-countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran
+countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran
 
 **Book 6:** *فیزیک (۱), پایۀ دهم, رشتۀ ریاضی و فیزیک — Physics (1), Grade 10, Mathematical Sciences (book code 110209)* (student textbook) — Iran, Ministry of Education (سازمان پژوهش و برنامه‌ریزی آموزشی — Organisation for Educational Research and Planning), school year 1405–1406, in Persian. Grade: 10 · Student book · Repo path: grade-10/gov/iran/physics/student/full-year-mathematical-sciences.pdf · Release: mid-size-books-6, asset grade-10-gov-iran-physics-student-full-year-mathematical-sciences.pdf · Byte size: 13,270,934 (matches record) · PDF pages: 160 · Offset: printed p. = PDF p. − 8. Verdict: COMPLETE (title/imprint/TOC verified against the Experimental twin; Chapters 1–3 identical in titles and printed pagination to the Experimental book, Ch. 4 adds §4-6 and a whole extra Ch. 5 Thermodynamics exists only in this branch). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iran-placements.md.
 
+**Book 7:** *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)* (student textbook) — North Macedonia, Zorica Zavirovska & Gabriela Boškovska; АРС СТУДИО (ARS Studio), Skopje, 2025; ISBN 978-608-239-512-8; print run 13,100; approved by decision of the National Textbook Commission бр. 26-829/3 of 26.8.2025. Grade: 7 · Student book · Repo path: grade-07/gov/north-macedonia/physics/student/full-year.pdf (ministry e-textbook file, "Fizika_VII_odd_MK-protected.pdf"). Byte size: 12,462,277 (no size recorded in books.json — the book was verified by page count and identity instead). PDF pages: 104 (record: 104). Offset: printed p. = PDF p. (printed p. 3 is PDF p. 3). Verdict: COMPLETE — read from rendered pages (the PDF is image-only, no text layer; the publisher's "ARS STUDIO" watermark is printed diagonally on every page of the secured copy): cover/imprint, the full contents, and the theme/lesson openers and interiors (introduction, SI units, force, pressure lessons and the closing answer key all read in full). Library note, carried on the record: the Grade 7 record carries no file size in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
+
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
 | Lesson part | Where it comes from |
@@ -25,7 +27,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 | Ch. 2: principle of floatation — floating bodies, equilibrium of floating bodies, volume submerged — printed p. 56 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 2: principle of floatation — floating bodies, equilibrium of floating bodies, volume submerged — printed p. 56 |
 | §2-4, Buoyancy (شناوری) — why ships float (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §2-4 — printed p. 40 |
+| Theme 3 §3.5: floating, sinking and hovering of bodies — the three outcomes of thrust vs weight (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 3 §3.5: floating, sinking and hovering of bodies — the three outcomes of thrust vs weight — printed p. 89 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Belarus, Bhutan, Iran).**
+**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia).**
 
-Searchable tags: physics, grade 12, fluid mechanics, why ships float, displacement, iran
+Searchable tags: physics, grade 12, fluid mechanics, why ships float, displacement, iran, north macedonia

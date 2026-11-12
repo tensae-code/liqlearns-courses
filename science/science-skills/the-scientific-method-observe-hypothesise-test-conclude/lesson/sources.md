@@ -1,10 +1,12 @@
 # Sources — The scientific method — observe, hypothesise, test, conclude
 
-countries: Ethiopia, Cambodia
+countries: Ethiopia, Cambodia, North Macedonia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
 **Book 2:** *រូបវិទ្យា ថ្នាក់ទី១០ — Physics, Grade 10* (student textbook) — Cambodia, Ministry of Education, Youth and Sport (MoEYS). Grade 10 · Student textbook (Sala Digital record 00004303); imprint page dated 13 [month illegible] 2020, print run 35,000; preface credits JICA-supported textbook work. Repo path: grade-10/gov/cambodia/physics/student/full-year.pdf (TSV row points at the release copy: releases/download/mid-size-books-7/grade-10-gov-cambodia-physics-student-full-year.pdf). Byte size: 34,881,828 (exact match, staging copy). PDF pages: 193. Offset: printed p. = PDF p. − 5 (printed p. 1 is PDF p. 6). Verdict: COMPLETE structural read — contents page and every chapter/lesson opener read from rendered pages; the legacy-font text layer does not extract, so interior prose was sampled, not machine-read. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
+
+**Book 3:** *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)* (student textbook) — North Macedonia, Zorica Zavirovska & Gabriela Boškovska; АРС СТУДИО (ARS Studio), Skopje, 2025; ISBN 978-608-239-512-8; print run 13,100; approved by decision of the National Textbook Commission бр. 26-829/3 of 26.8.2025. Grade: 7 · Student book · Repo path: grade-07/gov/north-macedonia/physics/student/full-year.pdf (ministry e-textbook file, "Fizika_VII_odd_MK-protected.pdf"). Byte size: 12,462,277 (no size recorded in books.json — the book was verified by page count and identity instead). PDF pages: 104 (record: 104). Offset: printed p. = PDF p. (printed p. 3 is PDF p. 3). Verdict: COMPLETE — read from rendered pages (the PDF is image-only, no text layer; the publisher's "ARS STUDIO" watermark is printed diagonally on every page of the secured copy): cover/imprint, the full contents, and the theme/lesson openers and interiors (introduction, SI units, force, pressure lessons and the closing answer key all read in full). Library note, carried on the record: the Grade 7 record carries no file size in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,11 +14,12 @@ countries: Ethiopia, Cambodia
 | Sub lesson 2 — Hypothesise and test | Ethiopia, *General Science Student Textbook, Grade 8*, printed pp. 3–5 |
 | Sub lesson 3 — Analyse, conclude — law or theory (incl. the two-plants worked case) | Ethiopia, *General Science Student Textbook, Grade 8*, printed pp. 5–9 |
 | Opening part: the experimental method as five named steps, worked through pictured examples (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Opening part — printed pp. 2–4 |
+| Theme 1 §1.1: the scientific method — question, observation and data, hypothesis, experiment design, analysis, conclusion; physics as an experimental science (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 1 §1.1: the scientific method — question, observation and data, hypothesis, experiment design, analysis, conclusion; physics as an experimental science — printed pp. 9–10 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Cambodia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Cambodia, North Macedonia).**
 
 Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — it teaches a §1.1 measurement section the student book lacks; guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
 Student placement: Grade 8 student item 2 (Unit 1, printed pp. 1–9). The student book's own summary figure orders the steps as observation, question, hypothesis, test, analysis — the lesson follows that order. No book errors inside this item were flagged by the placements.
 
-Searchable tags: scientific method, observation qualitative quantitative, hypothesis, law vs theory, conservation of mass, Grade 8 Unit 1, cambodia
+Searchable tags: scientific method, observation qualitative quantitative, hypothesis, law vs theory, conservation of mass, Grade 8 Unit 1, cambodia, north macedonia

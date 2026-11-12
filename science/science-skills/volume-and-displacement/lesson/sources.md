@@ -1,19 +1,22 @@
 # Sources — Measuring: volume and displacement
 
-countries: Ethiopia, Slovenia
+countries: Ethiopia, Slovenia, North Macedonia
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
 **Book 8:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
+
+**Book 9:** *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)* (student textbook) — North Macedonia, Zorica Zavirovska & Gabriela Boškovska; АРС СТУДИО (ARS Studio), Skopje, 2025; ISBN 978-608-239-512-8; print run 13,100; approved by decision of the National Textbook Commission бр. 26-829/3 of 26.8.2025. Grade: 7 · Student book · Repo path: grade-07/gov/north-macedonia/physics/student/full-year.pdf (ministry e-textbook file, "Fizika_VII_odd_MK-protected.pdf"). Byte size: 12,462,277 (no size recorded in books.json — the book was verified by page count and identity instead). PDF pages: 104 (record: 104). Offset: printed p. = PDF p. (printed p. 3 is PDF p. 3). Verdict: COMPLETE — read from rendered pages (the PDF is image-only, no text layer; the publisher's "ARS STUDIO" watermark is printed diagonally on every page of the secured copy): cover/imprint, the full contents, and the theme/lesson openers and interiors (introduction, SI units, force, pressure lessons and the closing answer key all read in full). Library note, carried on the record: the Grade 7 record carries no file size in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The displacement experiment | Ethiopia, *Grade 4 Student Textbook*, printed pp. 50–51 |
 | Reading the cylinder; volume's units | Ethiopia, *Grade 4 Student Textbook*, printed pp. 50–51 |
 | Density, pressure and buoyancy: Ploščina (Area); Prostornina in masa (Volume and mass) (Slovenia) | Slovenia, *Fizika 8*, Density, pressure and buoyancy: Ploščina (Area) — printed p. 182 (unit folder 158); Prostornina in masa (Volume and mass) — printed p. 188 (unit folder 160) |
+| Theme 1 §1.3: measuring volume (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 1 §1.3: measuring volume — printed p. 20 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Slovenia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, North Macedonia).**
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148), cited exactly as its placements header gives it. Carried item — see the honesty note in Measuring: traditional and modern measures.
 
-Searchable tags: volume ይዘት ምድገት, displacement, graduated cylinder, cubic metre centimetre, litre
+Searchable tags: volume ይዘት ምድገት, displacement, graduated cylinder, cubic metre centimetre, litre, north macedonia

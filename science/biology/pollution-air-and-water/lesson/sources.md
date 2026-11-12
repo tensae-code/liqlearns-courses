@@ -1,15 +1,18 @@
 # Sources — Pollution — air and water
 
-countries: Ethiopia
+countries: Ethiopia, North Macedonia
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)* (student textbook) — North Macedonia, Aleksandar Andonovski, Zora Mitreska, Done Geršanovski, Stanoja Stoimenov & Oliver Zajkov; Просветно дело АД (Prosvetno delo), Skopje; II издание (2nd edition), 2018; the textbook was approved for use by decision of the Ministry of Education and Science бр. 11-6254/1 of 03.11.2004. Grade: 13 (gymnasium year IV) · Student book · Repo path: grade-13/gov/north-macedonia/physics/student/full-year.pdf (recorded 59,100,613 bytes, 261 pp.). Byte size: 59,100,613 (exact match, from the download-scratch copy of the ministry file, "Fizika za chetvrta godina MKD_vnatre.pdf"). PDF pages: 261 (record: 261). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE — read from rendered pages (image-only PDF, publisher's "PROSVETNO DELO" watermark throughout): cover/title/imprint, the preface's theme map, all six theme openers, and the placed lessons read in full. LIBRARY DEBT, named on the record: the file is NOT in the textbooks repo — the Contents API 404s its recorded tree path (the tree folder holds only CURRICULUM.md and books.json) and no release asset carries its name; it was read from the surviving download-scratch copy of the ministry source file at the exact recorded byte size and page count, and the record should be re-secured into the repo. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Human impacts — pollution | Student Textbook, Grade 11 — Printed pp. 259–262. |
+| Theme 5 §§5.1–5.2: physics and the living environment — the biosphere and global pollution; physics in protection: diffusion, rational energy use, measuring pollution, non-ionising radiation from screens and mobile phones (North Macedonia, Grade 13) | North Macedonia, *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)*, Theme 5 §§5.1–5.2: physics and the living environment — the biosphere and global pollution; physics in protection: diffusion, rational energy use, measuring pollution, non-ionising radiation from screens and mobile phones — printed pp. 200–203 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, North Macedonia).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, pollution, air, and, water
+Searchable tags: biology, ethiopia, pollution, air, and, water, north macedonia

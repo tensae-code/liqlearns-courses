@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan
 
 **Book 17:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it (Ch. II Optics read at Tema 23–24: reflection/refraction laws, Snell's law, total internal reflection). Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
+**Book 18:** *Физика за VIII одделение (Physics for Grade 8)* (student textbook) — North Macedonia, Prof. Dr Lambe Barandovski (Institute of Physics, Faculty of Natural Sciences and Mathematics, Skopje) & Vera Zoroska MSc; Просветно дело (Prosvetno delo), Skopje; imprint: Skopje 2025, CIP record 2026; ISBN 978-608-228-592-4; 236 printed pages, print run 13,171; approved for use by decision of the National Textbook Commission of the Republic of North Macedonia, 25.06.2026, no. 26-766/1. Grade: 8 · Student book · Repo path: grade-08/gov/north-macedonia/physics/student/full-year.pdf (release copy: releases/download/mid-size-books/grade-08-gov-north-macedonia-physics-student-full-year.pdf). Byte size: 27,010,647 (no size recorded in books.json — the book was verified by page count and identity instead). PDF pages: 238 (record: 238). Offset: printed p. = PDF p. − 1 (printed p. 49 is PDF p. 50). Verdict: COMPLETE — full text layer, all 238 pages; contents read in full, theme openers and interiors read. Library note, carried on the record: the Grade 8 record carries no file size in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Solids keep their shape | Ethiopia, *Grade 3 Student Textbook*, Chapter 2, solids, printed p. 28 |
@@ -46,7 +48,7 @@ countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan
 | Ch. I, Tema 9: molecular structure of solids, liquids and gases (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. I, Tema 9: molecular structure of solids, liquids and gases — printed p. 20 |
 | Ch. I, Tema 15: crystalline and amorphous bodies (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. I, Tema 15: crystalline and amorphous bodies — printed p. 39 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia).**
 
 Honesty: this teacher's guide scan is TRUNCATED mid-unit — printed pp. 1–66 held, stopping inside subtopic 3.3; the rest of Unit 3 and Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
@@ -54,7 +56,7 @@ Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp
 
 Grade 6 extension (2026-11-12): the Grade 6 student book is COMPLETE (printed pp. 1–177).
 
-Searchable tags: solids liquids gases, states of matter, physical change, ice water vapour, boiling point, melting point, candle melting, iraq
+Searchable tags: solids liquids gases, states of matter, physical change, ice water vapour, boiling point, melting point, candle melting, iraq, north macedonia
 
 ## Grade 7 growth (2026-11-12, Band GS-B)
 
@@ -65,5 +67,6 @@ Searchable tags: solids liquids gases, states of matter, physical change, ice wa
 |---|---|
 | Grade 7: Table 2.1 comparison of the three states; Experiment 2.2 syringe compression; sun-heated balloon | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed pp. 34–37 |
 | Sublimation and deposition — the two state changes the student book omits (teacher guide — evidence) | Ethiopia, *General Science Teacher's Guide, Grade 7*, Unit 2, printed pp. 18–20 |
+| Theme 2 §§2.1–2.3: the aggregate states of matter (with the structure-of-matter lessons) (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 2 §§2.1–2.3: the aggregate states of matter (with the structure-of-matter lessons) — printed pp. 58, 62, 66 |
 
 Acceptance count unchanged: taught in 1 country (Ethiopia) — the guide rows are teacher evidence and never count as pupil-taught.
