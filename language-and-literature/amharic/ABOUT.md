@@ -94,6 +94,44 @@ invented for them anywhere in this course.
   summary writing (the five-step method, p.49), news writing
   (pp.138, 151), debates, dictionary work, and story structure
   completed with ሴራ (plot) and ጭብጥ (theme) at p.143.
+### Amharic student textbooks, Grades 5–8
+
+Added to this list by the Amharic fix build (2026-11-12); the
+original build's list stopped at Grade 4.
+
+- **Grade 5:** *Amharic Student Textbook, Grade 5* (አማርኛ
+  የተማሪ መጽሐፍ 5ኛ ክፍል) — Amhara National Regional State
+  Education Bureau, © 2015 E.C.; authors ቦሰና ጀጃው መኮንን,
+  ክፍሌ ስበረው ሽንቁጤ; 203 PDF pp., printed page = PDF page − 12;
+  116 placements on the audit's bullet-level enumeration. Ten
+  chapters, five per semester, each planned for three weeks
+  and coded chapter.week.day; the front matter (pp. iii–x)
+  carries the parents' guidance (ጠቃሚ ምክር) and the book-care
+  message (የጥንቃቄ መልዕክት, p. ii); the book's own reference
+  list stands at printed p. 191.
+- **Grade 6:** *Amharic Student Textbook, Grade 6* (አማርኛ
+  የተማሪ መጽሐፍ 6ኛ ክፍል) — Amhara National Regional State
+  Education Bureau, © 2015 E.C.; 209 PDF pp., printed
+  pp. 1–197, preface pp. iv–x; 115 placements. Its closing
+  reference list stands at printed p. 197.
+- **Grade 7:** *Amharic Student Textbook, Grade 7* (አማርኛ
+  የተማሪ መጽሐፍ 7ኛ ክፍል) — Amhara National Regional State
+  Education Bureau, © 2015 E.C., Birhanena Selam Printing;
+  preparers ዘውዱ ምልክት መኮንን, መዓዛ ለገሰ በዕውቀቱ; editors
+  ትንሣኤ ብርሀኔ ላቀው, ተሻገር አስማረ ደምሴ; 174 PDF pp., printed
+  pp. 1–162; 107 placements. The book's own profile and
+  ten-chapter contents stand at printed p. iii, its preface to
+  parents and guardians at pp. iv–x, and its references
+  (ዋቢዎች) at p. 162.
+- **Grade 8:** *Amharic Student Textbook, Grade 8* (አማርኛ
+  የተማሪ መጽሐፍ 8ኛ ክፍል) — Amhara National Regional State
+  Education Bureau, © 2015 E.C.; preparers እናትነሽ በዛብህ
+  ምህረቴ, አምባው ደምሴ ቀኜ; editors as Grade 7; 176 PDF pp.,
+  printed pp. 1–164; 119 placements. Production credits stand
+  at PDF pp. 2–4, the preface at pp. iv–x, and the references
+  at printed p. 164. Chapter 10 is the course's play chapter
+  (የሠርጉ መዘዝ), stocked whole in the fix build.
+
 
 ### Amharic teacher guides, Grades 1–4 — TG-EVIDENCE, partial scans
 
@@ -161,6 +199,31 @@ layer).
   Grade 4 teacher guide. The title-page template appears copied
   from a student book; the book is cited here by its cover and
   content.
+### Amharic teacher guides, Grades 5–6 — TG-EVIDENCE, partial scans
+
+Added by the Amharic fix build (2026-11-12); the original
+build's list stopped at Grade 4. Both are Addis Ababa City
+Administration Education Bureau books, new curriculum, and
+**both secured copies are partial**, exactly as secured:
+
+- **Grade 5:** *Grade 5 Amharic Teacher Guide* (አማርኛ እንደ
+  መጀመሪያ ቋንቋ የመምህር መምሪያ መጽሐፍ, ፭ኛ ክፍል); printed page =
+  PDF page − 5; 47 PDF pp. The secured file ends at printed
+  p. 42, inside Unit 4: Units 1–3 complete, Unit 4 partial;
+  the rest of Unit 4, Units 5–10 and the appended Grade 5
+  syllabus are missing from the secured copy. A task-by-task
+  prose guide (the G5-0-1 design, below).
+- **Grade 6:** *Grade 6 Amharic Teacher Guide* (የአማርኛ እንደ
+  መጀመሪያ ቋንቋ የመምህር መጽሐፍ, ፮ኛ ክፍል); printed page = PDF
+  page − 6; 42 PDF pp. The secured file ends at printed
+  p. 36, inside Unit 4: Units 1–3 complete, Unit 4 partial;
+  the rest of Unit 4, Units 5–10, references, appendices and
+  syllabus are missing. **Intro anomaly (verified in the
+  placements):** the መግቢያ twice calls the companion learner
+  book and the appended syllabus "የ7ኛ ክፍል" (Grade 7) while
+  cover, title page and content are Grade 6 — a template
+  carry-over error in the printed book.
+
 
 ## How Amharic is taught in Ethiopia — the method
 
@@ -221,6 +284,153 @@ The "to the teacher" pages add: learners retell stories in
 sequence; use learners' own stories and experiences; use the
 learner book's pictures for talk; give repeated chances to read
 familiar print; praise effort.
+
+## Acceptance counts — update (Band 4, 2026-11-12)## Front matter, reference lists and guide apparatus — carried here
+
+The coverage audit assigned the books' front/back matter and
+the guides' own apparatus to this page rather than to lessons;
+the Amharic fix build (2026-11-12) carries them here.
+
+**The pre-primary page frame and method (workbooks).** Every
+KG1 page carries the same frame — a date line, classwork /
+homework ticks, and teacher + parent signature lines — with
+one big fidel letter cycling in the bottom corner of every
+page (KG1-001, KG1-002); KG2 keeps the frame and adds its own
+"new at KG2" list (KG2-001, KG2-004); at KG3 the pages become
+READING pages and the child's own name line joins the frame
+(KG3-001), with the KG3 maths step-up and the Ethiopia-specific
+content summarised at KG3-003 and KG3-004. In all three
+workbooks "colour the picture" is itself the method — the
+picture IS the lesson (KG1-005).
+
+**The Training module and the SNE toolkit (SUPPORTING).** The
+three levels' six-theme lists stand at Training module Unit 3
+(PDF p. 54), Unit 4 Session 4.1 (PDF p. 66) and Unit 5 (PDF
+p. 72 / Session 5.1, PDF p. 75) (SUP-003/004/005); the
+competency tables at Session 3.1 (PDF p. 57), Session 4.1
+(PDF p. 66) and Session 5.1 (PDF p. 75) (SUP-006/007/008);
+the rotating activity types — practical/work-based, outdoor,
+discussion, mezmur, project work, riddles, storytelling, field
+trips, games — at SUP-009; the design rules at Units 1–2
+(PDF pp. 10, 22) (SUP-014); the identification-of-delay method
+at SNE printed pp. 8–11 (SUP-015) and the language-delay
+support at SNE pp. 21–23 (SUP-021); the IEP form at SNE p. 33
+(SUP-026, a record-keeping note); and the SNE whole-book
+accessibility rules list at SUP-029.
+
+**The student books' own reference lists (ዋቢዎች).** Grade 1,
+printed p. 138 — including Kebede Michael's ታሪክና ምሳሌ and
+ተረት ተረት. Grade 2, printed p. 150 — including Kebede Michael
+and Gondar University's እንቆቅልሽ ጨዋታ. Grade 3 — stocked in the
+Grade 3 Market lesson and recorded here. Grade 4, printed
+p. 167 — stocked in the Grade 4 Trade lesson and recorded
+here. Grade 5, printed p. 191. Grade 6, printed p. 197.
+Grade 7, printed p. 162. Grade 8, printed p. 164. The Grade 5
+book's organisation, parents' guidance (ጠቃሚ ምክር, pp. iii–x)
+and book-care page (p. ii) stand in its book entry above; the
+Grade 6 book's structure note (Fenote Karta) and parent guide
+stand in its entry above; the Grade 7 and 8 prefaces
+(pp. iv–x) are taught as the lesson *How Families Can Help
+with Amharic at Home*.
+
+**What each level builds towards (the guides' መግቢያ).**
+Grade 3 states five learner outcomes (TG printed p. II):
+retell tales in sequence; extract information from learner-book
+texts; use reading texts and tasks properly in class time;
+perform tales and stories; write their own tales in groups
+(G3-0-2). Grade 4 states six (TG front matter, PDF pp. 5–6):
+the Grade 3 five widened — diverse tales retold in sequence,
+heard/read main ideas presented orally or in writing, readings
+used correctly in class time, tales read accurately and
+answered, new words used in speech and writing, prepared tasks
+done in groups (G4-0-2). Grade 5's መግቢያ (TG printed p. 4)
+keys its directions to the learner book, weaves assessment
+(ምዘና) through, and attends to gender equity and equal
+education (የሥርዓተ-ያታና የእኩል ትምህርት); the full Grade 5
+syllabus is appended to the guide but absent from the secured
+partial file (G5-0-3).
+
+**How the guides themselves are built.** The Grade 4 guide is
+a SCRIPTED guide: full lesson scripts in coloured boxes,
+objectives+contents openers, 18 periods per unit, full
+listening texts, scripted dialogues, definition boxes, answer
+keys and yellow summary pages (G4-0-1). The Grade 5 and 6
+guides are TASK guides: task-by-task prose keyed to the
+learner book — objectives+contents openers, 18-period plans,
+per-part approach bullets, numbered tasks with printed answer
+keys, a named teaching aid (የትምህርት መርኛ መሳሪያ) and an
+assessment line (ምዘና) per part, full texts printed; Grade 6
+adds the full affix system, the argumentative paragraph and
+the end-of-unit trial test (የሙክራ ፈተና) (G5-0-1, G6-0-1). The
+method both state (የማስተማር መርሆዎች, G5 TG PDF p. 5 and the
+G6 front matter): the four skills plus vocabulary and grammar
+are taught unseparated; comprehension is built in three
+stages — ቅድመ (before), ሐይት/ሂደት (during), ድኅረ (after);
+speaking and writing grow through many chances to express plus
+timely feedback (ወቅታዊ ግብረመልስ); vocabulary is taught from
+contexts, with the strategy of guessing a word's meaning from
+the text; grammar follows the structures the syllabus selects
+for the level (G5-0-2, G6-0-2).
+
+**The upper guides' apparatus.** The Grade 7 guide exists so
+learners listen, speak, read and write competently and build
+vocabulary and grammar; it guides chapter by chapter, shows
+how to run continuous assessment (ተከታታይ ምዘና) with support
+where needed, and secures gender (ሥርዓተ ፆታ) and inclusive
+education (አካቶ ትምህርት) inside the teaching; the Grade 7
+syllabus (መርፃ ትምህርት) is appended (G7 TG front matter,
+PDF p. 5). Its grammar is chosen against the level's syllabus
+scope (የትምህርት ወሰን) and sequence (PDF p. 7). The Grade 9
+guide runs parallel to its student book — per unit: what to
+teach, why, how, and how to assess; answers to questions
+judged difficult, in order; it supports but never replaces
+the teacher (printed pp. i–ii). Its frame: the four skills
+(አራቱ የቋንቋ ክሂሎች), vocabulary teaching (የቃላት ትምህርት) and
+the two language knowledges (ሁለቱ የቋንቋ ዕውቀቶች — grammar and
+usage), taught with participatory methods (አሳታፊ የማስተማር
+ዘዴዎች). Both federal guides append their Semester-1 syllabus
+(መርሀ/መርሃ ትምህርት): Grade 9's at appendix printed pp. 1–25,
+Grade 10's at PDF pp. 98–116 — per chapter, expected outcomes
+and per-skill tables (competency, content, method, assessment,
+periods). The Grade 10 appendix adds audio-and-visual-supported
+teaching (በድምጽ እና ምስል የታገዘ ትምህርት) to Chapter 1 listening
+and mislabels its own Ch.5/Ch.6 boundary — the guide's error,
+named here. The Grade 10 guide's reference list (ማጣቀሻዎች,
+printed p. 92) names: Sisay Nigusu, ሰመመን (Kuraz, 1978);
+Getachew Haile, ባሕረ ሐሳብ (1993); Getachew Gebeyehu on
+dangerous drugs (2010); Tariku Kinde on hospitality and
+Ethiopian fatherhood (AMICO, 2014); Negash Mohammed & Lidet
+Abebe, ስደትና መከራው; Kebede Mikael, ታሪክና ምሳሌ Book 1 (Mega,
+1999); Berhanu Gebeyehu, የአማርኛ ስነግጥም (Alpha, 1999); poems
+of Gebre Kristos Desta (1963); Zerihun Asfaw, የሥነጽሑፍ
+መሰረታውያን (1992); Habtamu Girma on literary people and works
+(2011); Hamnot Azene (2013); and two web biographies of
+Yetnebersh Nigussie.
+
+## Acceptance counts — update (Amharic fix build, 2026-11-12)
+
+The placement-by-placement coverage audit of this course
+(2,030 placements on the audit's bullet-level enumeration)
+found 928 placements not stocked and 152 citations mismatched.
+The fix build closed the audit in six bands plus this page:
+**882 placements stocked into lessons and 46 carried on this
+About page** (front/back matter, reference lists, guide
+apparatus — the audit's own targets for them), and **all 152
+citation mismatches fixed**, 86 of them needing the missing
+content taught as well as the citation row. New lessons
+created by the fix build: 35 (the Grade 3 and Grade 4 chapter
+lessons, the play strand, Wax and Gold, Figures of Speech, the
+essay forms, Reading Habits and Speed, What Reading Practice
+Builds, How New Words Are Taught, Reading-Lesson Cautions,
+Music Instruments of the World, and the book-care / families /
+course-organisation lessons). Disk recount after the fix:
+**112 lessons, 2,920 numbered question items, 394 media files**
+registered to this course in pictures/INDEX.md. The course's
+evidence footing is unchanged: pupil content rests on the
+student books; teacher-guide material stands as labelled
+evidence and is counted nowhere; Grades 9–10 still rest on
+their complete teacher guides alone, the student books never
+having been secured.
 
 ## Acceptance counts — update (Band 4, 2026-11-12)
 

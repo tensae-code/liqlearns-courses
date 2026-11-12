@@ -86,6 +86,30 @@ question items (disk recount, 2026-11-12).** Of the 67 lessons,
 65 are taught from Ethiopia's pupil books and 2 stand on
 teacher-guide evidence only (Fidel Shapes, Idioms).
 
+**Amharic fix build — BUILT 2026-11-12:** a placement-by-placement
+coverage audit of this course (2,030 placements) found 928
+placements not stocked and 152 citations mismatched against the
+books. The fix build closed the audit in six bands: every
+not-stocked placement is now stocked — 882 into lessons and 46
+onto the course About page, where the audit aimed the front/back
+matter, the books' reference lists and the guides' own
+apparatus — and all 152 citations are fixed, 86 of them with the
+missing content taught as well. 35 new lessons were created
+(the Grade 3 and Grade 4 chapter lessons in Unit 7, the play
+strand, Wax and Gold, Figures of Speech, the essay forms,
+Reading Habits and Speed, What Reading Practice Builds, How New
+Words Are Taught, Reading-Lesson Cautions, Music Instruments of
+the World, Caring for Books and Shared Things, How Families Can
+Help with Amharic at Home, How This Amharic Course Is
+Organised, Dictionary Meaning vs Meaning in the Text and
+Children's Rights in a Table) and the shared lessons grew by
+hundreds of sub lessons, Listening Stories most of all. Disk
+recount after the fix: **112 lessons, 2,920 numbered question
+items, 394 media files**. The evidence footing is unchanged:
+pupil content rests on the student books, teacher-guide
+material stands as labelled evidence counted nowhere, and
+Grades 9–10 still rest on their complete teacher guides alone.
+
 ## Unit 1 — First Steps (the pre-primary level)
 
 1. **Ready Hands — Before the Pencil** (`first-steps/pre-writing`)
