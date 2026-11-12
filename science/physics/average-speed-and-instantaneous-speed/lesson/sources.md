@@ -1,9 +1,11 @@
 # Sources — Average speed and instantaneous speed
 
-countries: Ethiopia
+countries: Ethiopia, Nigeria (teacher-guide evidence only)
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 103 printed pp. Printed page = PDF page − 8. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). Under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-teacher-placements.md.
+
+**Book 3:** *Excellence in Physics for Senior Secondary — Teacher's Guide Book 1* (teacher's guide — a TEACHER'S GUIDE written to the Nigerian Educational Research and Development Council (NERDC) curriculum, NOT a student book, cited as it is) — Nigeria, Cambridge University Press (Shaftesbury Road, Cambridge). Title as printed: Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1. Grade: SS1 (Grade 10) · Teacher's guide · Repo path: grade-10/approved-private/nigeria/physics-teacher-guide-cambridge.pdf (Contents API route) · Byte size: 2,147,437 (Contents API meta = downloaded) · PDF pages: 72 · Offset: guide printed p. 1 ≈ PDF p. 10. Verdict: COMPLETE as published — Introduction and scheme of work (printed pp. iv–vi), then Themes 1, 2, 4, 5 and 6 with every topic in its contents; Theme 3 is expressly "not included as per the NERDC curriculum" for this book. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nigeria-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,8 +13,9 @@ countries: Ethiopia
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 9 Student Textbook*, printed pp. 45–46 |
 | Formulas and worked numbers | Ethiopia, *Grade 9 Student Textbook*, printed pp. 45–46 |
 | Unit 3 — Motion in a Straight Line pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 9 Teacher's Guide*, printed pp. 25–40 |
+| Theme 1 Topic 5: speed and velocity (teacher guide — evidence) | Nigeria, *Excellence in Physics for Senior Secondary — Teacher's Guide Book 1*, Theme 1 Topic 5, printed p. 13 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

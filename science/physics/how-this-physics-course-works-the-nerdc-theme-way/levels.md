@@ -1,0 +1,4 @@
+# How this Physics course works — the NERDC theme way — depth
+
+Whole-lesson pass mark: the learner names the six NERDC themes in order and what each one holds, places familiar topics (motion, heat, sound, lenses, musical instruments) inside their themes with a reason, says what a scheme of work and its performance objectives are, and explains why one year's book may carry only five themes — naming the theme Book 1 leaves out (Theme 3) and the theme Book 2 leaves out (Theme 4) — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — naming the themes aloud, sorting new topics onto the map, and reading a topic's performance objectives until the arrangement is the learner's own.
