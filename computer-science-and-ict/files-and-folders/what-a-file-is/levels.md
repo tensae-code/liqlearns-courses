@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: read an extension and say
 
 ## Sub lesson 3 — The road ahead — six units, and how each unit runs
 Sub lesson 3 questions from the type files. Pass mark: name the six units in order and say how each unit begins.
+
+## Sub lesson 4 — File management — files in folders on drives (Grade 10 depth)
+Sub lesson 4 questions from the type files. Pass mark: define file management with its access-control part, say the four things a disk drive does to data, and tell a disk from a drive (teacher guide — evidence).

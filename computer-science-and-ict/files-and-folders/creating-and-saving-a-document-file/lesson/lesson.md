@@ -27,6 +27,24 @@ First saving of Ethiopian Cultural Foods? That is Save As work: the file is new,
 
 *Tip — from us, not from the books: save early and save often — a few seconds of saving protects an hour of typing.*
 
+## Sub lesson 3 — Saving and opening files in a different format (Grade 10 depth)
+
+*The second pass. Save and Save As are old friends; here they change a file's format itself.*
+
+A program saves in its **own default format**, which guarantees everything is stored correctly. But the format can be **changed at save time**, by this route, in this order:
+
+**File menu → Save As → Browse → pick the file → choose from the Save as type list → Save**
+
+[Picture 14110 — Save As, choosing the format]
+
+[GIF 14122 — the Save As route, clicked in order]
+
+The worked change turns a **TIFF image into a JPEG**. Two cautions ride with it: **some features of the original may not survive the change** — so check the new file — and **always keep the original**.
+
+Opening follows the same principle: a file normally opens in its **default application**, and in Word the **file-type filter** can be narrowed, or set to **All Files**, so other formats can be found. The practicals: save a first Word document through the Save As dialogue; then reopen an existing file by browsing to its drive and folder and double-clicking it.
+
+One quiet safety net, keyed by the guide (teacher guide — evidence): Word saves the pupil's work **automatically every 10 minutes** by default, and reloads that save after an unexpected shutdown — so work is not lost.
+
 ## Say it to your companion
 
 Tell your companion how the Ethiopian Cultural Foods document is made, and then the difference between Save and Save As. Let your companion test you: 'The file is brand new — which one?' 'You changed one line in a saved file — which one?'

@@ -20,3 +20,7 @@ We start with files. A file is data, stored as one unit, under one name.
 Look at its icon. The icon tells you its kind.
 
 That is the road. Walk it with me.
+
+---
+
+Grade 10 depth, and its course-intro: six units stand ahead — files, networks, applications, images and multimedia, security, and first programming. Every unit first recalls Grade 9, then goes one level deeper. Brainstorm first, then practise — often on home ground: the Renaissance Dam, the Green Legacy, Haile Gebrselassie, Ethio telecom. A file is the storage unit; file management keeps it findable — and controls who may reach what is shared.

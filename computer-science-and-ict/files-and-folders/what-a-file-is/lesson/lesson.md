@@ -41,6 +41,22 @@ This course has six units, and they run in this order:
 
 Every unit runs the same way. It opens with **Brainstorming** questions that start from what you already know. Then come numbered sections with group activities and practical exercises, boxes that pin down the key concepts, a summary, and a review exercise at the end. The year is planned as 72 periods in all, and this unit — Organization of Files — takes 12 of them (teacher guide — evidence). When a new unit feels big, remember the rhythm: brainstorm first, then practise, then review.
 
+## Sub lesson 4 — File management — files in folders on drives (Grade 10 depth)
+
+*The second pass. You met the file in Grade 9; here the same ground is worked deeper.*
+
+Against the old picture of schools keeping records in filing cabinets, set the computer way. A **file** is the common storage unit — it holds programs and data. Files are grouped inside **folders**, and folders can hold files and further folders, many levels deep.
+
+[Picture 14101 — from filing cabinet to computer files]
+
+**File management** is keeping that structure organised so anything can be found again — including **controlling who may access shared files**. In everyday life the same keeping shows up as student records in schools and patient records in hospitals: files kept so they can be reached, updated and searched when needed (teacher guide — evidence: the guide's Activity 1.1 key).
+
+A **disk drive** is the technology that **reads, writes, deletes and modifies** data on a storage disk; the **hard disk drive** is the common permanent store. And one distinction the guide insists on (teacher guide — evidence): a **disk** is a physical storage device, while a **drive** is a file system that may exist across many disks. The thing, and the system on the thing, are not the same.
+
+[Picture 14100 — Grade 10: the road ahead]
+
+Grade 10's own road runs in the same brainstorm-first rhythm as Grade 9's: six units — Organization of Files, Computer Network, Application Software, Image Processing and Multimedia, Information and Computer Security, Fundamentals of Programming — and every unit opens by recalling Grade 9 before going one level deeper, with a practical in nearly every section, often on home ground: the Renaissance/Abay Dam, the Green Legacy, athlete Haile Gebrselassie, Ethio telecom. The guide budgets the year at 72 periods, Unit 1 taking 12, and keeps one standing rule: if the named resources are unavailable, teach from locally available ones — blackboard, chalk and diagrams (teacher guide — evidence).
+
 ## Say it to your companion
 
 Tell your companion what a file is, in your own words. Then name the six units of the course in order, and say how every unit begins. Let your companion name one extension — you say what kind of file it is.

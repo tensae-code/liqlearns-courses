@@ -7,3 +7,9 @@ Sub lesson 1 questions from the type files. Pass mark: delete one file and sever
 
 ## Sub lesson 2 — The Recycle Bin, restoring, and permanent delete
 Sub lesson 2 questions from the type files. Pass mark: restore a file from the Bin and tell a Bin delete from a permanent delete.
+
+## Sub lesson 3 — Deleting at Grade 10 depth — the three routes, and why we delete
+Sub lesson 3 questions from the type files. Pass mark: delete by all three routes, say what a folder takes with it, and give the three reasons for deleting.
+
+## Sub lesson 4 — Restoring at Grade 10 depth — and the three times it cannot be done
+Sub lesson 4 questions from the type files. Pass mark: restore a file by the three clicks and name all three cases where restoration is impossible.

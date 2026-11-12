@@ -26,6 +26,27 @@ The book warns against one confusion, and it is worth learning cold:
 
 Without drivers, the computer cannot send and receive data correctly to devices such as a **printer** or a **flash drive**. Same sound, different things: one is hardware that holds; the other is software that translates.
 
+## Grade 10 depth — drive letters in full, cloud drives, and the Explorer practical
+
+*The second pass over this lesson's ground, at Grade 10 depth. The lesson keeps its one-whole-lesson shape; this part deepens it.*
+
+A **drive** is hardware that reads and stores information, and it is **not easily removed like a disk**. Each drive carries a **letter**, and the letter marks the root a file comes from:
+
+- **A:** — the floppy drive.
+- **C:** — the default hard drive.
+- The **CD/DVD drive** takes the **last letter**.
+- A **plugged-in USB drive** takes the **next free letter**.
+
+[Picture 14102 — drives and drive letters]
+
+[GIF 14120 — the USB letter arriving]
+
+Files can also live on **cloud drives** — such as **OneDrive** and **Google Drive** — reached over the internet, and useful for **backup** (the Backup lessons teach why).
+
+The pair to keep apart, one more time and sharply: a **driver** is **software** that lets hardware talk to the operating system. Without it, the computer cannot exchange data correctly with a device such as a printer. A drive stores; a driver translates.
+
+The practical: open **File Explorer** — right-click **Start**, or open **This PC**, or press **Windows key + E** — and identify the drive letters present on that machine.
+
 ## Say it to your companion
 
 Tell your companion what a drive is and how Windows and Linux each name drives. Then give the difference in one breath: a drive does what — a driver does what?

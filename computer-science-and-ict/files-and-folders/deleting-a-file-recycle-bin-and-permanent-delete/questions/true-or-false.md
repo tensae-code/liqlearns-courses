@@ -7,3 +7,9 @@ Say whether each statement is true or false.
 
 **2. (Sub lesson 2)** A file deleted with Shift+Delete can be restored from the Recycle Bin.
 **Answer: False** — Shift+Delete skips the Bin; it is permanent.
+
+**3. (Sub lesson 3)** Freeing disk space and removing duplicates are named reasons for deleting.
+**Answer: True**
+
+**4. (Sub lesson 4)** A file deleted with Shift+Delete can still be restored from the Recycle Bin.
+**Answer: False — Shift+Delete bypasses the Bin; restoration is impossible**

@@ -17,3 +17,7 @@ But **Shift+Delete**? No Bin. No return. Forever.
 
 And never delete what you do not know.
 The disk holds files the computer needs.
+
+---
+
+Grade 10 depth: three roads to the Bin — right-click and Delete, the Delete key, or drag it onto the Bin. And back again: open the Bin, right-click the file, Restore — it goes home. But not always: not if it is not in the Bin, not if the Bin was emptied, not if Shift+Delete was used. Gone is gone.

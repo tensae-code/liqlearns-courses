@@ -13,3 +13,6 @@ Say whether each statement is true or false.
 
 **4. (Sub lesson 3)** The course has six units, and programming comes last.
 **Answer: True**
+
+**5. (Sub lesson 4)** A disk is a physical storage device, while a drive is a file system that may exist across many disks (teacher guide — evidence).
+**Answer: True**

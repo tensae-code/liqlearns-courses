@@ -10,3 +10,6 @@ Fill each blank with the missing word or words.
 
 **3. (Sub lesson 3)** Unit 3, Application Software, teaches Word, then Excel, then ____.
 **Answer: PowerPoint**
+
+**4. (Sub lesson 4)** The ______ disk drive is the common permanent store.
+**Answer: hard**

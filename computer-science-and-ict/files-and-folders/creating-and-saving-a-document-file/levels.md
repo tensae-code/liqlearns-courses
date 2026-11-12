@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: open a word processor and
 
 ## Sub lesson 2 — Save and Save As
 Sub lesson 2 questions from the type files. Pass mark: choose correctly between Save and Save As for a new file and for an already-saved file.
+
+## Sub lesson 3 — Saving and opening files in a different format (Grade 10 depth)
+Sub lesson 3 questions from the type files. Pass mark: run the Save As route in order, state both cautions, and widen the opening filter to All Files.

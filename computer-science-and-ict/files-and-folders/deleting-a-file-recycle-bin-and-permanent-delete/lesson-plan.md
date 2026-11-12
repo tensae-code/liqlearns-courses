@@ -13,6 +13,9 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Deleting — three ways, and what a folder takes with it** — the Delete key, right-click → Delete, Home → Delete, with Ctrl for several; deleting a folder deletes everything inside it.
 2. **The Recycle Bin, restoring, and permanent delete** — ordinary deletes land in the Recycle Bin and can be restored; Shift+Delete skips the Bin forever; never delete what you do not know on the local disk.
 
+3. **Deleting at Grade 10 depth — the three routes, and why we delete** — right-click → Delete (then Yes), the Delete key, or dragging onto the Recycle Bin icon; deleting a folder deletes everything inside it; the reasons: freeing disk space, removing duplicates and unneeded data, and making sensitive information unavailable to others.
+4. **Restoring at Grade 10 depth — and the three times it cannot be done** — double-click the Bin, find the file, right-click → Restore, and it returns to its original location; impossible when the file is not in the Bin, when the Bin has been emptied, or when Shift+Delete was used.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -32,6 +35,9 @@ A computer with File Explorer and practice files you may delete.
 ## The run of the lesson (in order)
 1. **Do it first** — Delete a practice file and then try to get it back — before the Recycle Bin is explained — and notice where it went. (lesson/lesson.md).
 2. **The explanation** — the lesson text in lesson/lesson.md, in its parts in order.
+   - ADD IMAGE [Picture 14114]: a picture of a file travelling by three routes into a Recycle Bin, with a red 'Shift+Delete = gone for good' badge — the student traces each route and says the badge's warning.
+   - ADD IMAGE [Picture 14115]: a picture of a file rising out of the Recycle Bin back into its home folder, beside the three 'cannot restore' cases — the student names all three cases.
+   - ADD GIF [GIF 14125]: the Restore click sending the file home — the student restores their own file in step with the GIF.
    - ADD IMAGE [Picture 12547]: a picture of a deleted file landing in the Recycle Bin, with a second arrow showing Shift+Delete bypassing it — the student traces both arrows and says each fate.
    - ADD GIF [GIF 12548]: a picture of a file being restored from the Recycle Bin — the student restores their own deleted file along with the GIF.
    - ADD AUDIO: a voice reading the lesson's key names and steps aloud, in the order the lesson gives them — the student listens once through, then reads the same lines aloud along with the voice. (Audio is a described slot in this build; no audio file is made.)

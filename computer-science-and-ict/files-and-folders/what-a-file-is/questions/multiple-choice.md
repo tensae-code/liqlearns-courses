@@ -25,3 +25,11 @@ a) Computer Network  b) Organization of Files  c) Fundamentals of Programming
 **6. (Sub lesson 3)** Every unit of the book begins with —
 a) a test  b) Brainstorming questions  c) the unit summary
 **Answer: b) Brainstorming questions** — starting from what pupils already know.
+
+**7. (Sub lesson 4)** File management is —
+a) deleting old files  b) keeping the folder structure organised so anything can be found again, including controlling who may access shared files  c) naming the disk
+**Answer: b)**
+
+**8. (Sub lesson 4)** A disk drive —
+a) only reads data  b) reads, writes, deletes and modifies data on a storage disk  c) prints data
+**Answer: b)**

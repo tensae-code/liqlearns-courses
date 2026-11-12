@@ -13,6 +13,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Creating the document** — files are made by software; the practical builds a document titled Ethiopian Cultural Foods in a word processor.
 2. **Save and Save As** — Save updates an already-saved file; Save As saves a new file, or an existing file to a new place or under a new name.
 
+3. **Saving and opening files in a different format (Grade 10 depth)** — a program saves in its own default format, but Save As changes the format at save time: File → Save As → Browse → pick the file → choose from the Save as type list → Save; some features may not survive the change, so check the new file and keep the original; opening can be widened with the file-type filter set to All Files; Word also saves work automatically every 10 minutes (teacher guide — evidence).
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -31,6 +33,8 @@ A computer with a word processor (WordPad, MS Word or LibreOffice Writer).
 1. **Do it first** — Open a word processor and type one line about a food you know — before saving is explained — and notice the file does not truly exist anywhere yet. (lesson/lesson.md).
 2. **The explanation** — the lesson text in lesson/lesson.md, in its parts in order.
    - ADD IMAGE [Picture 12524]: a picture of a new document page filling with a paragraph about Ethiopian cultural foods — the student types their own paragraph under the same title.
+   - ADD IMAGE [Picture 14110]: a picture of the Save As dialogue with the 'Save as type' list open, TIFF changing to JPEG — the student points along the route and names the chosen type.
+   - ADD GIF [GIF 14122]: the Save As route being clicked through in order — File, Save As, Browse, the type list, Save — the student clicks along on a real machine in step.
    - ADD GIF [GIF 12525]: a picture of typing into the blank document, then saving it — the student types along, then saves at the same moment the GIF saves.
    - ADD AUDIO: a voice reading the lesson's key names and steps aloud, in the order the lesson gives them — the student listens once through, then reads the same lines aloud along with the voice. (Audio is a described slot in this build; no audio file is made.)
 3. **Say it to your companion** — the companion block in lesson/lesson.md.

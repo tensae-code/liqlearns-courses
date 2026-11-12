@@ -451,3 +451,18 @@ Grown by band D5 (Grade 10 depth added, not duplicated): `safety-security-and-ca
 - Creating a slide master — `presentations/creating-a-slide-master/`
 
 Grown by band D3 (Grade 10 depth added, not duplicated): `word-processing/adding-page-numbers/`; `spreadsheets/excel-formulas-operators-and-the-equals-sign/`; `spreadsheets/spreadsheet-functions-sum-average-max-min/` (+ new Sub lesson 3, COUNT and AutoSum); and the Unit 3 summary's relative-vs-absolute teaching filed as summary-only growth in `spreadsheets/relative-cell-references/` and `spreadsheets/absolute-cell-references/` (flagged in both lessons as never body-taught).
+
+**Band D1 — Grade 10 Unit 1 (Organization of Files), 10 new lessons:**
+
+- File name extensions — reading a file's ending — `files-and-folders/file-name-extensions-reading-a-files-ending/`
+- Common file extensions — the full table — `files-and-folders/common-file-extensions-the-full-table/`
+- Directory structure — root, parent and child folders — `files-and-folders/directory-structure-root-parent-and-child/`
+- File paths — absolute and relative — `files-and-folders/file-paths-absolute-and-relative/`
+- File conversion — changing a file's format — `files-and-folders/file-conversion-changing-a-files-format/`
+- Import and export — data in, data out — `files-and-folders/import-and-export-data-in-data-out/`
+- Naming a file — the rules and the forbidden characters — `files-and-folders/naming-a-file-the-rules-and-forbidden-characters/`
+- Backup and recovery — copies that protect your data — `files-and-folders/backup-and-recovery-copies-that-protect-your-data/`
+- Backing up files in Windows — `files-and-folders/backing-up-files-in-windows/`
+- Compressing and uncompressing files — zipping — `files-and-folders/compressing-and-uncompressing-files-zipping/`
+
+Grown by band D1 (Grade 10 depth added, not duplicated): `files-and-folders/what-a-file-is/` (+ Sub lesson 4, file management; the book's six-unit road map filed here), `files-and-folders/drives-where-files-live/`, `files-and-folders/creating-and-saving-a-document-file/` (+ Sub lesson 3, saving in a different format), `files-and-folders/deleting-a-file-recycle-bin-and-permanent-delete/` (+ Sub lessons 3–4, deleting and restoring at Grade 10 depth).

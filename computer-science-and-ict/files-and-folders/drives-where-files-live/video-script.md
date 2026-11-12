@@ -15,3 +15,7 @@ Linux grows a tree from the root: **/**.
 Careful — a drive is not a **driver**.
 A driver is software. It lets a device talk to the system.
 A drive stores. A driver translates. Never mix them.
+
+---
+
+Grade 10 depth: A: for the floppy. C: for the hard drive. The CD/DVD drive takes the last letter — and a USB drive you plug in takes the next free one. Files can also live in the cloud — OneDrive, Google Drive — reached over the internet. And keep the pair apart: a drive stores; a driver is software that translates.

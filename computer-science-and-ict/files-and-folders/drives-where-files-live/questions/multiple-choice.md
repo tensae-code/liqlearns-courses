@@ -17,3 +17,11 @@ a) a small drive  b) software code letting a hardware device talk to the operati
 **4. When you open a word processor, it is loaded from —**
 a) the printer  b) the hard drive  c) the keyboard
 **Answer: b) the hard drive** — and saves go back to a drive.
+
+**5.** The default hard drive carries the letter —
+a) A:  b) C:  c) Z:
+**Answer: b) C:**
+
+**6.** A plugged-in USB drive takes —
+a) the letter A: always  b) the next free letter  c) no letter
+**Answer: b) the next free letter**

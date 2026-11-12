@@ -25,6 +25,8 @@ A computer with File Explorer open at This PC.
 ## The run of the lesson (in order)
 1. **Do it first** — Say where a saved file actually is when the computer is off — inside what? — before the word drive is defined. (lesson/lesson.md).
 2. **The explanation** — the lesson text in lesson/lesson.md, in its parts in order.
+   - ADD IMAGE [Picture 14102]: a picture of a This PC window with lettered drives, a cloud-drive line above it, and a 'driver = translator software' inset — the student names each letter's drive and says the drive/driver difference.
+   - ADD GIF [GIF 14120]: a USB stick being plugged in and a new drive letter appearing — the student watches the letter arrive and names the next free letter.
    - ADD IMAGE [Picture 12551]: a picture of drive letters C: and D: beside a Linux / tree, and a drive not-equal driver split panel — the student points at each half and says what it shows.
    - ADD AUDIO: a voice reading the lesson's key names and steps aloud, in the order the lesson gives them — the student listens once through, then reads the same lines aloud along with the voice. (Audio is a described slot in this build; no audio file is made.)
 3. **Say it to your companion** — the companion block in lesson/lesson.md.

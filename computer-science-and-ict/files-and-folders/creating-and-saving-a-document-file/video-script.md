@@ -17,3 +17,7 @@ The file is already saved, and you changed it? **Save**. Same place, same name, 
 
 Save As starts the file's life.
 Save keeps it up to date.
+
+---
+
+Grade 10 depth — a short save-in-another-format walkthrough: File. Save As. Browse. Pick the file. Open the Save as type list — choose JPEG. Save. Now check the new file, and keep the original safe: some features may not survive the change.

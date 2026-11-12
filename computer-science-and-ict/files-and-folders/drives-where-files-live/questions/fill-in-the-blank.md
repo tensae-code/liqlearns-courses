@@ -7,3 +7,6 @@ Fill each blank with the missing word or words.
 
 **2. The operating system itself is stored on a ____.**
 **Answer: drive**
+
+**3.** The CD/DVD drive takes the ______ letter.
+**Answer: last**

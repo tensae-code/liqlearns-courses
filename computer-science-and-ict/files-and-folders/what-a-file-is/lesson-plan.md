@@ -14,6 +14,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 2. **Telling file types by their extensions (teacher guide — evidence)** — the drill the guide adds: .docx a Word document, .pptx a PowerPoint file, .xlsx a spreadsheet, .mp3 an audio file, .mp4 a video file.
 3. **The road ahead — six units, and how each unit runs** — the course road map from files to first flowcharts and Scratch scripts, and the brainstorm-first rhythm every unit follows.
 
+4. **File management — files in folders on drives (Grade 10 depth)** — the Grade 10 second pass over this ground: a file is the common storage unit holding programs and data; file management is keeping the folder structure organised — including controlling who may access shared files — and a disk drive reads, writes, deletes and modifies data on a storage disk; with the guide's disk-against-drive distinction (teacher guide — evidence) and Grade 10's own six-unit road map.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson
@@ -25,6 +27,8 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 2. Tell a document, picture, text, video and audio file apart by the icon on screen.
 3. Read an extension — .docx, .pptx, .xlsx, .mp3, .mp4 — and say what kind of file it names (teacher guide — evidence).
 4. Name the six units of the course in order, from organizing files to first flowcharts and Scratch scripts.
+5. Say what file management is, what a disk drive does, and tell a disk from a drive (teacher guide — evidence).
+6. Name Grade 10's six units in order and say what each one builds on.
 
 ## What you need
 A computer or phone with some files on it. Paper and a pencil.
@@ -34,6 +38,8 @@ A computer or phone with some files on it. Paper and a pencil.
 2. **The explanation** — the lesson text in lesson/lesson.md, in its parts in order.
    - ADD IMAGE [Picture 12500]: a picture of a desktop scattered with differently-iconed files — document, picture, video, audio — the student points at each icon and names the kind of file before opening anything.
    - ADD IMAGE [Picture 12515]: a picture of the six-unit road map from organizing files to first flowcharts and Scratch scripts — the student traces the road with a finger and names each unit in order.
+   - ADD IMAGE [Picture 14100]: a picture of the Grade 10 six-unit road map, each unit standing on its Grade 9 base — the student traces the road and names each unit and the Grade 9 ground under it.
+   - ADD IMAGE [Picture 14101]: a picture of a filing cabinet dissolving into folders on a hard disk — the student points at the paper side, then the computer side, and says what file management does.
    - ADD AUDIO: a voice reading the lesson's key names and steps aloud, in the order the lesson gives them — the student listens once through, then reads the same lines aloud along with the voice. (Audio is a described slot in this build; no audio file is made.)
 3. **Say it to your companion** — the companion block in lesson/lesson.md.
    - ADD VIDEO: the script in video-script.md, filmed — the lesson in the super-simple voice (made later, when videos are made).

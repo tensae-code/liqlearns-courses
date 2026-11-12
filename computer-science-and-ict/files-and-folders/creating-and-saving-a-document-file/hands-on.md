@@ -7,3 +7,6 @@ Do the practical for real: open WordPad, MS Word or LibreOffice Writer, title th
 
 ## Save or Save As cards
 Write six cards: 'brand-new file', 'same file, new name', 'one line changed in a saved file', 'same file, different folder', 'first saving ever', 'daily update'. Sort the cards into two piles — Save and Save As — and say the rule that sorted them.
+
+## Change the format (Grade 10 depth)
+Save a document or picture through Save As in a different format — an image from TIFF to JPEG, or your own pair. Open the new file and check it against the original: what survived, what did not? The original stays untouched.

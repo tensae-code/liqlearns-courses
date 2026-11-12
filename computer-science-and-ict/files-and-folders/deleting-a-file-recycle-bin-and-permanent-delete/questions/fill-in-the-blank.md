@@ -7,3 +7,6 @@ Fill each blank with the missing word or words.
 
 **2. (Sub lesson 2)** Do not delete what you do not ____ — the local disk holds files the computer needs to run.**
 **Answer: know**
+
+**3. (Sub lesson 4)** A restored file returns to its ______ location.
+**Answer: original**

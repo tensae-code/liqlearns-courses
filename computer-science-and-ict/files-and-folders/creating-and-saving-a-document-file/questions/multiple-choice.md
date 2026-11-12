@@ -17,3 +17,11 @@ a) saves a new file  b) updates a file that is already saved  c) deletes the old
 **4. (Sub lesson 2)** You want an existing file kept under a new name as well. Use —
 a) Save  b) Save As  c) neither
 **Answer: b) Save As** — Save As saves to a new place or under a new name.
+
+**5. (Sub lesson 3)** The Save As route, in order, begins —
+a) Browse → File → Save  b) File menu → Save As → Browse  c) Save → Delete → Browse
+**Answer: b) File menu → Save As → Browse**
+
+**6. (Sub lesson 3)** After choosing the file in Save As, you choose the new format from —
+a) the Save as type list  b) the Recycle Bin  c) the Navigation pane
+**Answer: a) the Save as type list**
