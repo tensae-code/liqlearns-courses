@@ -1,6 +1,6 @@
 # Sources — Current, voltage, resistance — Ohm's law
 
-countries: Ethiopia, Slovenia, Cambodia, Egypt
+countries: Ethiopia, Slovenia, Cambodia, Egypt, Kuwait
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Slovenia, Cambodia, Egypt
 
 **Book 5:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
+**Book 6:** *الفيزياء، الصف العاشر، الفصل الدراسي الثاني (Physics, Grade 10, Term 2 — student book + applications workbook)* — Kuwait. Grade 10, student book + applications (workbook), Term 2 ("Part Two" of the year). Edition: 1447H / 2025–2026, Ministry of Education, Kuwait. Repo path: grade-10/gov/kuwait/physics/student/term-2-workbook.pdf (release mid-size-books-2). Bytes: 38,230,542 (exact vs record). PDF pages: 94. Offset: PDF page = printed page + 3 (proven: contents pages PDF 12–14 carry printed folios 9–11). Verdict: COMPLETE read (contents pages read visually; the file's own text layer is largely image-based). Coverage gap in the secured set, carried on the record: Grade 10 Unit 2 (Matter and its Mechanical Properties) is in neither Grade 10 file. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Current, voltage, resistance — Ohm's law | Ethiopia, *Grade 10 Student Textbook*, printed pp. 110–119 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Slovenia, Cambodia, Egypt
 | Electric current: Zveza med tokom in napetostjo (The relation between current and voltage — Ohm's law) (Slovenia) | Slovenia, *Fizika 9*, Electric current: Zveza med tokom in napetostjo (The relation between current and voltage — Ohm's law) — printed p. 170 (unit folder 192) |
 | Ch. 4 Lesson 4: electric current, Ohm's law and electromotive force (Cambodia, Grade 11) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១១ (Physics, Grade 11)*, Ch. 4 Lesson 4 — printed p. 232 |
 | Unit 1, Ch.1 Current intensity, potential difference, EMF, resistance and resistivity (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Unit 1, Ch.1 Current intensity, potential difference, EMF, resistance and resistivity — printed p. 8 |
+| Unit 4, Ch. 2, lesson 2-2 "Electric Resistance — Ohm's Law" (Kuwait, Grade 10 Term 2) | Kuwait, *Physics, Grade 10, Term 2 (student book + applications workbook)*, printed p. 62 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Cambodia, Egypt).**
+**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Cambodia, Egypt, Kuwait).**
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

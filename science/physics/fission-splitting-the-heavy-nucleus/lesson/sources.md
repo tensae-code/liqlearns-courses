@@ -1,6 +1,6 @@
 # Sources — Fission — splitting the heavy nucleus
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Barbados, Malaysia, Indonesia, Kenya, Iraq
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Barbados, Malaysia, Indonesia, Kenya, Iraq, Kuwait
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (cu
 
 **Book 9:** *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12, Scientific Track)* (student textbook) — Iraq, Ministry of Education. Tenth edition, 2024 / 1446H. Grade: 12 · Student book (scientific track) · Repo: release `mid-size-books-2`, asset `grade-12-gov-iraq-physics-student-full-year.pdf` — 16,625,356 bytes (matched asset). PDF pages: 284. Printed page = PDF page (offset 0; contents table is printed on the last page, p. 284). Verdict: COMPLETE (contents on printed p. 284 lists all 9 chapters ending at p. 282). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 10:** *الفيزياء، الصف الثاني عشر، الفصل الدراسي الثاني (Physics, Grade 12, Term 2 — student book + applications, two bound sections)* — Kuwait. Grade 12, Term 2 — recorded as "workbook", but the file binds TWO sections: section 1 (student book + applications: Unit 2) and section 2 (student book, "2/2": Units 3–4); the record's kind label understates the file. Edition: Ministry of Education, Kuwait; section-2 title page: second edition 1447H / 2025–2026. Repo path: grade-12/gov/kuwait/physics/student/term-2-workbook.pdf (release mid-size-books-2). Bytes: 27,964,924 (exact vs record). PDF pages: 158. Offset: section 1: PDF = printed + 3 (proven: PDF 14–16 carry printed folios 11–13); section 2 restarts its own printed pagination: PDF = printed + 13 (proven: PDF 83 carries printed folio 70). Verdict: COMPLETE read (both sections' contents read visually; content verified on contact sheets — the file is image-only, no usable text layer). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Nuclear fission | Grade 11 Student Textbook, printed pp. 316–322 |
@@ -30,11 +32,12 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Andorra (cu
 | Ch. 36 Energy from the Nucleus — fission plant, fusion prospects, the nuclear power debate | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 36 Energy from the Nucleus, printed p. 538 |
 | Ch. 6 Nuclear Physics, §6.2 Nuclear Energy (Malaysia) | Malaysia, *Physics Form 5*, Ch. 6, §6.2 Nuclear Energy — printed p. 208 — fission, chain reaction and the reactor |
 | Bab 9, Subbab F Reaksi Inti (Fisi dan Fusi) (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab F Reaksi Inti (Fisi dan Fusi) — guide p. 205 |
+| Unit 4, Ch. 2, lesson 2-3 "Nuclear Fission and Fusion" — fission (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 131 |
 
 | Ch 10: nuclear fission (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 10: nuclear fission — printed p. 183 |
 | Ch.9 Nuclear physics (fission/fusion strand of the chapter) (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.9 Nuclear physics (fission/fusion strand of the chapter) — printed p. 255 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Malaysia, Indonesia, Kenya, Iraq).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Malaysia, Indonesia, Kenya, Iraq, Kuwait).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*; *Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programmes), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

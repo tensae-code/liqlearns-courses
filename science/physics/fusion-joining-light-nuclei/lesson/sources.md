@@ -1,6 +1,6 @@
 # Sources — Fusion — joining light nuclei
 
-countries: Ethiopia, Malaysia, Indonesia, Kenya
+countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,15 +10,18 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya
 
 **Book 4:** *Secondary Physics — Student's Book Four* (student textbook) — Kenya, Kenya Literature Bureau (KLB); © Ministry of Education, Kenya · ISBN 978-9966-4462-13 (back cover). Title as printed: Secondary Physics — Student's Book Four (KLB). Grade: Form Four (Grade 12) · Student book · Repo path: grade-12/approved-private/kenya/kenya-physics-form4-klb.pdf — TSV points to the release asset (17,748,050 bytes); the copy read is the phase3-staging copy of the same path (12,485,418 bytes), a photo-scan in 2-up spreads whose cover, full contents and back cover prove the same book · Byte size: 12,485,418 (staging copy read) · PDF pages: 118 spreads (≈236 printed sides) · Offset: printed pagination runs inside the spreads; contents printed pp. 1–221. Verdict: COMPLETE — 11 chapters plus four sample examination papers (printed pp. 203–221) and back cover present. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
 
+**Book 5:** *الفيزياء، الصف الثاني عشر، الفصل الدراسي الثاني (Physics, Grade 12, Term 2 — student book + applications, two bound sections)* — Kuwait. Grade 12, Term 2 — recorded as "workbook", but the file binds TWO sections: section 1 (student book + applications: Unit 2) and section 2 (student book, "2/2": Units 3–4); the record's kind label understates the file. Edition: Ministry of Education, Kuwait; section-2 title page: second edition 1447H / 2025–2026. Repo path: grade-12/gov/kuwait/physics/student/term-2-workbook.pdf (release mid-size-books-2). Bytes: 27,964,924 (exact vs record). PDF pages: 158. Offset: section 1: PDF = printed + 3 (proven: PDF 14–16 carry printed folios 11–13); section 2 restarts its own printed pagination: PDF = printed + 13 (proven: PDF 83 carries printed folio 70). Verdict: COMPLETE read (both sections' contents read visually; content verified on contact sheets — the file is image-only, no usable text layer). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Nuclear fusion and power production | Grade 11 Student Textbook, printed pp. 322–326 |
 | Ch. 6 Nuclear Physics, §6.2 Nuclear Energy (Malaysia) | Malaysia, *Physics Form 5*, Ch. 6, §6.2 Nuclear Energy — printed p. 208 |
 | Bab 9, Subbab F Reaksi Inti (Fisi dan Fusi) (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab F Reaksi Inti (Fisi dan Fusi) — guide p. 205 |
+| Unit 4, Ch. 2, lesson 2-3 "Nuclear Fission and Fusion" (second part) — fusion (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 131 |
 
 | Ch 10: nuclear fusion (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 10: nuclear fusion — printed p. 184 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Indonesia, Kenya).**
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

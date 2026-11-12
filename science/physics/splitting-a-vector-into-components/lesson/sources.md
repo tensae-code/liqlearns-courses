@@ -1,6 +1,6 @@
 # Sources — Splitting a vector into components
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Slovenia, Malaysia, Sudan, Indonesia
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Sloveni
 
 **Book 7:** *Fisika untuk SMA/MA Kelas XI* (student textbook) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Title as printed: FISIKA — SMA/MA KELAS XI (Buku Siswa), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Republik Indonesia. Grade: 11 (Kelas XI, Fase F) · Student book · Edition: Cetakan Pertama, 2022; ISBN 978-623-472-721-0 (jil. 1) · Authors: Marianna Magdalena Radjawane, Alvius Tinambunan, Suntar Jono · Repo path: grade-11/gov/indonesia/fisika/student/full-year.pdf (recorded source_url is a truncated penerbitcmedia link; read from the ministry's own PDF of the same edition) · Extent: xxii + 226 printed pages · Offset: printed page numbers are the book's own; chapter starts below are student-book printed pages as listed in its table of contents (Bab 1 opens printed p. 1) · Verdict: COMPLETE (full chapter structure and contents verified; mirrors the Grade 11 teacher guide chapter-for-chapter). Record debt: the student record's source_url is truncated/unusable in books.json — record-quality debt only; the book itself is secured. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
 
+**Book 8:** *الفيزياء، الصف العاشر، الفصل الدراسي الأول (Physics, Grade 10, Term 1 — student book + applications workbook)* — Kuwait. Grade 10, student book + applications (workbook), Term 1. Edition: First edition 2026/2027 (1448H), Ministry of Education, Kuwait. Repo path: grade-10/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 43,688,933 (exact vs record). PDF pages: 134. Offset: PDF page = printed page + 1 (proven: PDF p. 22 carries printed folio 21). Verdict: COMPLETE read (contents + unit/chapter openers + spot content pages; text layer readable). Coverage gap in the secured set, carried on the record: Grade 10 Unit 2 (Matter and its Mechanical Properties) is in neither Grade 10 file. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Components of a vector | Grade 11 Student Textbook, printed pp. 26–33 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Sloveni
 | Ch. 1 Force and Motion II, §1.2 Resolution of Forces (Malaysia) | Malaysia, *Physics Form 5*, Ch. 1, §1.2 Resolution of Forces |
 | Unit 1: resolving a vector into perpendicular components (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. ~20 |
 | Bab 1 Vektor (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 1 Vektor — printed p. 1 — trigonometric resolution of vectors and of forces on a block-and-rope setup |
+| Ch. 3, lesson 3-2 "Vector Addition and Resolution" (second half) — resolution into components (Kuwait, Grade 10 Term 1) | Kuwait, *Physics, Grade 10, Term 1 (student book + applications workbook)*, printed p. 81 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Slovenia, Malaysia, Sudan, Indonesia).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

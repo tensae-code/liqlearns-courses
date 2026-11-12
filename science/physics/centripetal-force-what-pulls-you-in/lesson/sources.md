@@ -1,6 +1,6 @@
 # Sources — Centripetal force — what pulls you in
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, Bahamas (curriculum evidence only), Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt
+countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, Bahamas (curriculum evidence only), Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt, Kuwait
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -25,6 +25,8 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, 
 
 **Book 11:** *Physics, Second Secondary — Term 2* (student textbook, English-medium edition) — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/egypt/Phy_EN_SE2_SB_T2_.pdf · Byte size: 13,804,835 (= recorded size exactly) · PDF pages: 104 · Offset: PDF = printed through Ch.4 (proven footers: PDF pp.7–93 carry their own numbers, e.g. PDF p.93 footer "93"); Ch.5 content runs printed = PDF − 1 (proven: PDF p.96 header "95", p.104 header "103"). Verdict: COMPLETE — three units, five chapters, with summaries, misconception boxes and problem sets to the end. Verified language variant of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثاني الثانوي، الفصل الدراسي الثاني* (grade-11/gov/egypt/Phy_Ar_SE2_SB_T2_26.pdf, 13,725,920 bytes = recorded size exactly, 103 PDF pages). Library debt, carried on the record: Egypt Grade 10 Physics (both terms) is absent from the secured set — the Grade 10 Term 2 slot in the records holds Philosophy and Logic, not Physics. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
+**Book 12:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول (Physics, Grade 11, Term 1 — student book)* — Kuwait. Grade 11, student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-450-0. Repo path: grade-11/gov/kuwait/physics/student/term-1.pdf (release mid-size-books-8). Bytes: 61,065,164 (exact vs record). PDF pages: 114. Offset: PDF page = printed page + 1 (proven: unit opener PDF 13 carries printed folio 12). Verdict: COMPLETE read (contents pages read visually; Arabic text layer is font-garbled). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Centripetal force | Grade 11 Student Textbook, printed pp. 86–89 |
@@ -37,11 +39,12 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, 
 | §§1.11–1.13 — centrifugal force (p. 16) presented before centripetal force (p. 17) and centripetal acceleration (p. 18) — Sri Lanka's ordering | Sri Lanka, *Science for Technology: Physics Part II*, printed pp. 16–18 |
 | Accelerated motion: Kroženje (Circular motion) (Slovenia) | Slovenia, *Fizika 9*, Accelerated motion: Kroženje (Circular motion) — printed p. 31 (unit folder 173) |
 | Book 1: circular motion in the gravitational field (Sudan) | Sudan, *Physics — Third Secondary Year*, printed p. ~30 |
+| Ch. 2, lesson 2-2 "The Centripetal Force" (Kuwait, Grade 11 Term 1) | Kuwait, *Physics, Grade 11, Term 1 (student book)*, printed p. 54 |
 
 | Ch 2: case examples and applications of circular motion (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 2: case examples and applications of circular motion — printed p. 47 |
 | Unit 3, Ch.4 Laws of circular motion: the centripetal force, demonstrated by experiment (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — Term 2 (English), 2025–2026*, Unit 3, Ch.4 Laws of circular motion: the centripetal force, demonstrated by experiment — printed p. 79 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Bolivia, Nicaragua, Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 10 countries (Ethiopia, Bolivia, Nicaragua, Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt, Kuwait).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 

@@ -1,6 +1,6 @@
 # Sources — Moment of inertia — rotation's mass
 
-countries: Ethiopia, Haiti (programme evidence only), Italy, Sri Lanka, United States
+countries: Ethiopia, Haiti (programme evidence only), Italy, Sri Lanka, United States, Kuwait
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Haiti (programme evidence only), Italy, Sri Lanka, United S
 
 **Book 6:** *College Physics 2e* (student textbook) — United States, OpenStax, Rice University; CC BY-NC-SA. Title as printed: College Physics 2e — OpenStax, Rice University; CC BY-NC-SA. Grade: 13 · Student book · Repo path: grade-13/approved-private/united-states/college-physics-2e.pdf · Release: full-quality-oversized-books (asset 263,463,256 bytes — exact match). Byte size: 263,463,256 · PDF pages: 1,671 · Offset: printed folios carried in the PDF; chapter starts cited from this edition's own contents. Verdict: COMPLETE — identity proven by title page; full contents read. The text is the same 34-chapter OpenStax course as *College Physics for AP® Courses 2e* WITHOUT the AP apparatus (no "Connection for AP® Courses"/"Test Prep" sections; chapters run ~6–8% shorter), filed with its own chapter placements at this edition's own printed pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
 
+**Book 7:** *الفيزياء، الصف الثاني عشر، الفصل الدراسي الأول (Physics, Grade 12, Term 1 — student book)* — Kuwait. Grade 12, student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait. Repo path: grade-12/gov/kuwait/physics/student/term-1.pdf (release full-quality-oversized-books). Bytes: 111,651,248 (exact vs record). PDF pages: 122. Offset: PDF page = printed page + 3 (proven: Unit 1 opener PDF 15 carries printed folio 12). Verdict: COMPLETE read (contents pages read visually; Arabic text layer is font-garbled). Coverage gap in the secured set, carried on the record: the Grade 12 Term 1 applications book is not in the records. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Moment of inertia | Grade 12 Student Textbook, printed pp. 51–52 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Haiti (programme evidence only), Italy, Sri Lanka, United S
 | §1.9 — moment of inertia | Sri Lanka, *Science for Technology: Physics Part II*, printed p. 9 |
 | Ch. 10 Rotational Motion and Angular Momentum (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 10 Rotational Motion and Angular Momentum — angular momentum as the chapter's destination (chapter-level placement from the complete contents plus verified chapter content) |
 | Ch. 10 Rotational Motion and Angular Momentum (College Physics 2e) | United States, *College Physics 2e*, Ch. 10, printed p. 395 |
+| Ch. 2, lesson 2-2 "Moment of Inertia (I)" (Kuwait, Grade 12 Term 1) | Kuwait, *Physics, Grade 12, Term 1 (student book)*, printed p. 58 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Italy, Sri Lanka, United States).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Italy, Sri Lanka, United States, Kuwait).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

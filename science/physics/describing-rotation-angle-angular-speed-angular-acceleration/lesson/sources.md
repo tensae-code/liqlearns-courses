@@ -1,6 +1,6 @@
 # Sources — Describing rotation — angle, angular speed, angular acceleration
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Sri Lanka, Fiji, Iraq, Cambodia
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Sri Lanka, Fiji, Iraq, Cambodia, Kuwait
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -15,6 +15,10 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Sri Lanka, Fiji, 
 
 **Book 6:** *រូបវិទ្យា ថ្នាក់ទី១១ — Physics, Grade 11* (student textbook) — Cambodia, Ministry of Education, Youth and Sport (MoEYS). Grade 11 · Student textbook (Sala Digital record 00004277). Repo path: grade-11/gov/cambodia/physics/student/full-year.pdf (TSV row points at the release copy: releases/download/mid-size-books-7/grade-11-gov-cambodia-physics-student-full-year.pdf). Byte size: 49,443,392 (exact match, staging copy). PDF pages: 256. Offset: printed p. = PDF p. − 4 (printed p. 1 is PDF p. 5). Verdict: COMPLETE structural read — contents page and lesson openers read from rendered pages (same legacy-font text layer as Grade 10). Library debt, carried on the record: no Cambodia Grade 12 Physics record exists in the library at all. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
 
+**Book 7:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول (Physics, Grade 11, Term 1 — student book)* — Kuwait. Grade 11, student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-450-0. Repo path: grade-11/gov/kuwait/physics/student/term-1.pdf (release mid-size-books-8). Bytes: 61,065,164 (exact vs record). PDF pages: 114. Offset: PDF page = printed page + 1 (proven: unit opener PDF 13 carries printed folio 12). Verdict: COMPLETE read (contents pages read visually; Arabic text layer is font-garbled). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
+**Book 8:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Rotational kinematics — angular displacement, velocity, acceleration | Grade 12 Student Textbook, printed pp. 39–41 |
@@ -23,8 +27,10 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Sri Lanka, Fiji, 
 | Strand 1 §§1.4–1.5 Rotational kinematics and dynamics (Fiji, Year 13) | Fiji, *Physics for Year 13*, Strand 1 §§1.4–1.5 Rotational kinematics and dynamics — printed p. 17 |
 | Ch.7 Circular and rotational motion §7-1 Rotational motion (Iraq, Grade 11) | Iraq, *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11)*, Ch.7 Circular and rotational motion §7-1 Rotational motion — printed p. 131 |
 | Ch. 1 Lesson 7: dynamics of rotational motion (Cambodia, Grade 11) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១១ (Physics, Grade 11)*, Ch. 1 Lesson 7 — printed p. 92 |
+| Ch. 2, lesson 2-1 "Describing Circular Motion" (Kuwait, Grade 11 Term 1) | Kuwait, *Physics, Grade 11, Term 1 (student book)*, printed p. 43 |
+| Activity 2 "Relation Between Angular and Linear Displacement" (Kuwait, Grade 11 Term 1 applications workbook) | Kuwait, *Physics, Grade 11, Term 1 — applications workbook*, printed p. 13 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sri Lanka, Fiji, Iraq, Cambodia).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Sri Lanka, Fiji, Iraq, Cambodia, Kuwait).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

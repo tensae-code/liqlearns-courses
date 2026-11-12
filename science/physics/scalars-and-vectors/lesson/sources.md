@@ -1,6 +1,6 @@
 # Sources — Scalars and vectors
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine, Nigeria (teacher-guide evidence only), Italy, Sudan, Fiji, Indonesia, Uganda, Kenya, Iraq
+countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine, Nigeria (teacher-guide evidence only), Italy, Sudan, Fiji, Indonesia, Uganda, Kenya, Iraq, Kuwait
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine
 
 **Book 14:** *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11, Scientific Track)* (student textbook) — Iraq, Ministry of Education. Eleventh edition, 2024 / 1446H. Grade: 11 · Student book (scientific track) · Repo: release `mid-size-books`, asset `grade-11-gov-iraq-physics-student-full-year.pdf` — 10,782,568 bytes (matched asset). PDF pages: 248. Image-only PDF (no text layer) — read from rendered pages. Printed page = PDF page (offset 0; folios 5, 10, 247, 248 verified on the page images). Verdict: COMPLETE (Ch.10 exercises run to printed p. 248, the last page). Structure: 10 chapters (contents, printed p. 4). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 15:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول (Physics, Grade 11, Term 1 — student book)* — Kuwait. Grade 11, student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-450-0. Repo path: grade-11/gov/kuwait/physics/student/term-1.pdf (release mid-size-books-8). Bytes: 61,065,164 (exact vs record). PDF pages: 114. Offset: PDF page = printed page + 1 (proven: unit opener PDF 13 carries printed folio 12). Verdict: COMPLETE read (contents pages read visually; Arabic text layer is font-garbled). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Scalars and vectors; kinds of vectors | Grade 11 Student Textbook, printed pp. 17–21 |
@@ -43,13 +45,14 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine
 | Ch. 3 Scalars and vectors (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 3 Scalars and vectors — addition/subtraction, Pythagoras, scalar multiplication — printed p. 18 |
 | Ch. 1 Mechanics §§1.1–1.3 (Fiji, Year 12) | Fiji, *Year 12 Physics*, Ch. 1 Mechanics §§1.1–1.3 — measurements, relationships, vectors — printed p. 1 |
 | Bab 1 Vektor (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 1 Vektor — printed p. 1 — scalar vs vector quantities introduced through aircraft navigation instruments and a location plan |
+| Ch. 1, lesson 1-1 "Scalar and Vector Quantities" (Kuwait, Grade 11 Term 1) | Kuwait, *Physics, Grade 11, Term 1 (student book)*, printed p. 14 |
 
 | Vectors and Scalars (Uganda, Senior Three home-study) | Uganda, *Physics Home-Study Learning — Senior Three (NCDC, 2020)*, Vectors and Scalars — PDF p. 8 |
 
 | Ch 3 close: scalar and vector quantities (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 3 close: scalar and vector quantities — printed p. ~70 |
 | Ch.1 Vectors §1-1 Coordinate systems (rectangular and polar) (Iraq, Grade 11) | Iraq, *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11)*, Ch.1 Vectors §1-1 Coordinate systems (rectangular and polar) — printed p. 5 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Nicaragua, Palestine, Italy, Sudan, Fiji, Indonesia, Uganda, Kenya, Iraq).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* and *Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guides), not added to this count.
+**Acceptance count: taught in 11 countries (Ethiopia, Nicaragua, Palestine, Italy, Sudan, Fiji, Indonesia, Uganda, Kenya, Iraq, Kuwait).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* and *Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guides), not added to this count.
 
 Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 

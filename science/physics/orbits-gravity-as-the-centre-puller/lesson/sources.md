@@ -1,6 +1,6 @@
 # Sources — Orbits — gravity as the centre-puller
 
-countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt
+countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt
 
 **Book 5:** *Physics, Second Secondary — Term 2* (student textbook, English-medium edition) — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 11 (Second Secondary) · Student book · Repo path: grade-11/gov/egypt/Phy_EN_SE2_SB_T2_.pdf · Byte size: 13,804,835 (= recorded size exactly) · PDF pages: 104 · Offset: PDF = printed through Ch.4 (proven footers: PDF pp.7–93 carry their own numbers, e.g. PDF p.93 footer "93"); Ch.5 content runs printed = PDF − 1 (proven: PDF p.96 header "95", p.104 header "103"). Verdict: COMPLETE — three units, five chapters, with summaries, misconception boxes and problem sets to the end. Verified language variant of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثاني الثانوي، الفصل الدراسي الثاني* (grade-11/gov/egypt/Phy_Ar_SE2_SB_T2_26.pdf, 13,725,920 bytes = recorded size exactly, 103 PDF pages). Library debt, carried on the record: Egypt Grade 10 Physics (both terms) is absent from the secured set — the Grade 10 Term 2 slot in the records holds Philosophy and Logic, not Physics. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
+**Book 6:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول (Physics, Grade 11, Term 1 — student book)* — Kuwait. Grade 11, student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-450-0. Repo path: grade-11/gov/kuwait/physics/student/term-1.pdf (release mid-size-books-8). Bytes: 61,065,164 (exact vs record). PDF pages: 114. Offset: PDF page = printed page + 1 (proven: unit opener PDF 13 carries printed folio 12). Verdict: COMPLETE read (contents pages read visually; Arabic text layer is font-garbled). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gravitation and orbits — centripetal force from gravity | Grade 12 Student Textbook, printed pp. 61–62 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt
 | Ch. 3 Gravitation, §3.3 Man-made Satellites (Malaysia) | Malaysia, *Physics Form 4*, Ch. 3, §3.3 Man-made Satellites — printed p. 103 — geostationary vs non-geostationary satellites and escape velocity |
 | Book 1: planetary motion and Kepler's laws strand (Sudan) | Sudan, *Physics — Third Secondary Year*, printed p. ~20 |
 | Ch.5 Satellites: orbital velocity and what satellites are for (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — Term 2 (English), 2025–2026*, Ch.5 Satellites: orbital velocity and what satellites are for — printed p. 96 |
+| Ch. 4, lesson 4-1 "Orbits of Artificial Satellites" (Kuwait, Grade 11 Term 1) | Kuwait, *Physics, Grade 11, Term 1 (student book)*, printed p. 105 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nicaragua, Malaysia, Sudan, Egypt).**
+**Acceptance count: taught in 6 countries (Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

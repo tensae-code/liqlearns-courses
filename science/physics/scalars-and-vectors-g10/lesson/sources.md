@@ -1,17 +1,22 @@
 # Sources — Scalars and vectors
 
-countries: Ethiopia
+countries: Ethiopia, Kuwait
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 10* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 204 printed pp. Printed page = PDF page − 8. Contributors: Fikadu Eshetu (PhD), Writer; Mideksa Kasahun (MSc), Writer; Moges Tsega (PhD), Content Editor; Samuel Assefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). © 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-teacher-placements.md.
+
+**Book 3:** *الفيزياء، الصف العاشر، الفصل الدراسي الأول (Physics, Grade 10, Term 1 — student book + applications workbook)* — Kuwait. Grade 10, student book + applications (workbook), Term 1. Edition: First edition 2026/2027 (1448H), Ministry of Education, Kuwait. Repo path: grade-10/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 43,688,933 (exact vs record). PDF pages: 134. Offset: PDF page = printed page + 1 (proven: PDF p. 22 carries printed folio 21). Verdict: COMPLETE read (contents + unit/chapter openers + spot content pages; text layer readable). Coverage gap in the secured set, carried on the record: Grade 10 Unit 2 (Matter and its Mechanical Properties) is in neither Grade 10 file. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Scalars and vectors | Ethiopia, *Grade 10 Student Textbook*, printed pp. 2–3 |
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 10 Student Textbook*, printed pp. 2–3 |
 | Unit 1 — Vector Quantities pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 10 Teacher's Guide*, printed pp. 5–26 |
+| Ch. 1, lesson 1-1 "Physics (the science of physics)" (Kuwait, Grade 10 Term 1) | Kuwait, *Physics, Grade 10, Term 1 (student book + applications workbook)*, printed p. 19 |
+| Ch. 1, lesson 1-2 "Physical Quantities" (Kuwait, Grade 10 Term 1) | Kuwait, *Physics, Grade 10, Term 1 (student book + applications workbook)*, printed p. 28 |
+| Ch. 2, lesson 2-1 "Scalar and Vector Physical Quantities" (Kuwait, Grade 10 Term 1) | Kuwait, *Physics, Grade 10, Term 1 (student book + applications workbook)*, printed p. 36 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Kuwait).**
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

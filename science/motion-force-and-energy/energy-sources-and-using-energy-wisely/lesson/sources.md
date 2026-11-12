@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 
 **Book 10:** *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)* (student textbook) — Iraq, Ministry of Education. 2024 / 1446H printing. Grade: 9 · Student book · Repo: release `mid-size-books`, asset `grade-09-gov-iraq-physics-student-full-year.pdf` — 6,030,991 bytes (matched asset). PDF pages: 176. Printed page = PDF page (offset 0). Verdict: COMPLETE (9 chapters, then a full contents list and quantity/unit tables, printed pp. 173–176). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 11:** *الفيزياء، الصف العاشر، الفصل الدراسي الأول (Physics, Grade 10, Term 1 — student book + applications workbook)* — Kuwait. Grade 10, student book + applications (workbook), Term 1. Edition: First edition 2026/2027 (1448H), Ministry of Education, Kuwait. Repo path: grade-10/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 43,688,933 (exact vs record). PDF pages: 134. Offset: PDF page = printed page + 1 (proven: PDF p. 22 carries printed folio 21). Verdict: COMPLETE read (contents + unit/chapter openers + spot content pages; text layer readable). Coverage gap in the secured set, carried on the record: Grade 10 Unit 2 (Matter and its Mechanical Properties) is in neither Grade 10 file. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sources: non-renewable (wood as the book lists it, fossil fuels, nuclear fuels) and renewable (sun, wind, water) | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 194–195 |
@@ -36,12 +38,13 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 | Work and energy: Energijski viri (Energy sources) (Slovenia) | Slovenia, *Fizika 9*, Work and energy: Energijski viri (Energy sources) — printed p. 36 (unit folder 174) |
 | Ch 5.3.1: sources of energy and their importance (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. ~70 |
 | Ch. 9 §9.70 Sources of energy (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 9 §9.70 Sources of energy — printed p. 69 |
+| Closing feature "Sustainable Development: a safe environment for my country" (Kuwait, Grade 10 Term 1) | Kuwait, *Physics, Grade 10, Term 1 (student book + applications workbook)*, printed p. 112 |
 
 | Energy sources — Gabon's primary way in, braided into the palier competence statement (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 3: Les sources d'énergie, printed p. 30 |
 | Renewable sources named and localised — hydroelectric, solar, wind; Gabon's rivers make hydro concrete (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 4e année*, Palier 1: L'énergie hydroélectrique, solaire, éolienne, printed p. 3 |
 | Ch.8 Energy-sources technology (fossil, hydro, nuclear, then solar/wind/biofuel/tidal technology) (Iraq, Grade 9) | Iraq, *الفيزياء للصف الثالث المتوسط (Physics, Third Intermediate = Grade 9)*, Ch.8 Energy-sources technology (fossil, hydro, nuclear, then solar/wind/biofuel/tidal technology) — printed p. 147 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
 
 Placement: Student item 89 — g07-student-placements.md (Unit 7), extended by Teacher items 16 and 17 — g07-teacher-placements.md, filed above as labelled teacher-evidence parts; the lesson's acceptance count stays 1 on the student book. BOOK ERRORS, taught corrected and flagged here: (1) the energy-conservation paragraph on the student book's printed p. 195 is duplicated verbatim inside itself — it is taught once here; (2) the book lists wood among non-renewable sources — taught as the book sorts it, with the tension named in talk (trees regrow, but the book's finite list is the lesson's rule). PAIRING: see the warning under Book 2.
 

@@ -1,6 +1,6 @@
 # Sources — Adding vectors by drawing — triangle and parallelogram
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Bahamas (curriculum evidence only), Slovenia, Sudan, Indonesia, Iraq
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Bahamas (curriculum evidence only), Slovenia, Sudan, Indonesia, Iraq, Kuwait
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Bahama
 
 **Book 9:** *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11, Scientific Track)* (student textbook) — Iraq, Ministry of Education. Eleventh edition, 2024 / 1446H. Grade: 11 · Student book (scientific track) · Repo: release `mid-size-books`, asset `grade-11-gov-iraq-physics-student-full-year.pdf` — 10,782,568 bytes (matched asset). PDF pages: 248. Image-only PDF (no text layer) — read from rendered pages. Printed page = PDF page (offset 0; folios 5, 10, 247, 248 verified on the page images). Verdict: COMPLETE (Ch.10 exercises run to printed p. 248, the last page). Structure: 10 chapters (contents, printed p. 4). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/iraq-placements.md.
 
+**Book 10:** *الفيزياء، الصف العاشر، الفصل الدراسي الأول (Physics, Grade 10, Term 1 — student book + applications workbook)* — Kuwait. Grade 10, student book + applications (workbook), Term 1. Edition: First edition 2026/2027 (1448H), Ministry of Education, Kuwait. Repo path: grade-10/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 43,688,933 (exact vs record). PDF pages: 134. Offset: PDF page = printed page + 1 (proven: PDF p. 22 carries printed folio 21). Verdict: COMPLETE read (contents + unit/chapter openers + spot content pages; text layer readable). Coverage gap in the secured set, carried on the record: Grade 10 Unit 2 (Matter and its Mechanical Properties) is in neither Grade 10 file. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Adding vectors by drawing — triangle and parallelogram | Ethiopia, *Grade 10 Student Textbook*, printed pp. 8–13 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Bahama
 | Unit 1: adding vectors by the graphical method (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. ~10 |
 | Bab 1 Vektor (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 1 Vektor — printed p. 1 — triangle, parallelogram and polygon resultant methods, incl. rain falling at an angle |
 | Ch.1 §1-5 Vector addition, graphical method (and scalar multiplication of a vector, printed p. 10) (Iraq, Grade 11) | Iraq, *الفيزياء للصف الخامس العلمي (Physics, Fifth Scientific = Grade 11)*, Ch.1 §1-5 Vector addition, graphical method (and scalar multiplication of a vector, printed p. 10) — printed p. 10 |
+| Ch. 3, lesson 3-2 "Vector Addition and Resolution" — addition (Kuwait, Grade 10 Term 1) | Kuwait, *Physics, Grade 10, Term 1 (student book + applications workbook)*, printed p. 81 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Slovenia, Sudan, Indonesia, Iraq).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Slovenia, Sudan, Indonesia, Iraq, Kuwait).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

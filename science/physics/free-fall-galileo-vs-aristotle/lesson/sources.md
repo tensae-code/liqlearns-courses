@@ -1,6 +1,6 @@
 # Sources — Free fall — Galileo vs Aristotle
 
-countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evidence only)
+countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evidence only), Kuwait
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evi
 
 **Book 5:** *PISA Sample Test — Physics Grade 8 (Student)* (PRIVATE exam-prep / sample-test booklet — NOT a MoEYS textbook, labelled PRIVATE and cited as evidence of the tested syllabus only, outside the acceptance count) — Cambodia, Preah Sisowath High School, New Generation School, 2026; school-produced, aligned to PISA standards per its preface. Grade 8 · Student version. Repo path: grade-08/gov/cambodia/physics/pisa-physics-sample-test-student.pdf. Byte size: 8,424,218 (no size recorded; Contents API). PDF pages: 101. Offset: printed p. = PDF p. − 8. Verdict: COMPLETE structural read — full contents list read; PISA-format stimulus + questions throughout. Library debt, carried on the record: the library holds no MoEYS textbook for Grades 7–8 — only these private booklets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cambodia-placements.md.
 
+**Book 6:** *الفيزياء، الصف العاشر، الفصل الدراسي الأول (Physics, Grade 10, Term 1 — student book + applications workbook)* — Kuwait. Grade 10, student book + applications (workbook), Term 1. Edition: First edition 2026/2027 (1448H), Ministry of Education, Kuwait. Repo path: grade-10/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 43,688,933 (exact vs record). PDF pages: 134. Offset: PDF page = printed page + 1 (proven: PDF p. 22 carries printed folio 21). Verdict: COMPLETE read (contents + unit/chapter openers + spot content pages; text layer readable). Coverage gap in the secured set, carried on the record: Grade 10 Unit 2 (Matter and its Mechanical Properties) is in neither Grade 10 file. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Describing freely falling bodies — review of vertical motion | Grade 11 Student Textbook, printed pp. 75–79 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evi
 | Vertical fall, free fall, and a practical activity measuring g with a free-fall apparatus | Palestine, *Physics for Grade 10*, Unit 1, Ch. 3: Describing Motion (Kinematics), printed p. 39 |
 | Accelerated motion: Prosto padanje (Free fall) (Slovenia) | Slovenia, *Fizika 9*, Accelerated motion: Prosto padanje (Free fall) — printed p. 24 (unit folder 172) |
 | Ch. 1 Lesson 3: free fall — Newton's vacuum tube, the hammer-feather idea (Cambodia, Grade 8 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 8, Student version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 1 Lesson 3 — printed p. 7 |
+| Ch. 2, lesson 2-3 "Free Fall" (Kuwait, Grade 10 Term 1) | Kuwait, *Physics, Grade 10, Term 1 (student book + applications workbook)*, printed p. 62 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bolivia, Palestine, Slovenia).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Bolivia, Palestine, Slovenia, Kuwait).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
