@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only)
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 
 **Book 5:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
+**Book 6:** *Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* (curriculum programme — an official curriculum PROGRAMME published by decree in the Butlletí Oficial del Principat d'Andorra (BOPA), NOT a student textbook, cited as it is) — Andorra, Escola Andorrana, batxillerat general. Title as printed: Decret 238/2025, del 2-7-2025, de publicació del Programa de física del batxillerat general de l'Escola Andorrana (BOPA Núm. 83, 9 de juliol del 2025). Grade: 11 (batxillerat general, two-year cycle) · Teacher/curriculum programme · Repo path: grade-11/gov/andorra/physics/full-year.pdf. Byte size: 4,371,856 (exact match to books.json). PDF pages: 45 (exact match). Offset: the PDF is paginated 1/45–45/45 in its own footer; programme content blocks at printed (footer) pp. 20–39. Verdict: COMPLETE — full text read (15,980 words); decree preamble + contents prove identity. (The 2025 decree amends evaluation criteria of Competence 3 of the programme; the full programme text is republished with it.) Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/andorra-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sources: non-renewable (wood as the book lists it, fossil fuels, nuclear fuels) and renewable (sun, wind, water) | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 194–195 |
@@ -22,11 +24,12 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 | Home and office conservation strategies (teacher guide — evidence) | Ethiopia, *General Science Teacher's Guide, Grade 7*, printed pp. 151–153 (teacher guide — evidence) |
 | Energy in everyday life, Argentina's way: energy introduced through news items — fossil-fuel reserves, biofuels from maize, mass blackouts, global warming | Argentina, *La energía: cambios y movimientos*, Ch. 2: La energía en la vida cotidiana, printed p. 11 |
 | Sources, renewable against non-renewable, and rational use of energy | Argentina, *La energía: cambios y movimientos*, Ch. 5: Energía para un mundo mejor, printed p. 47 |
+| Bloc 4: conservation and degradation of energy, energy efficiency and saving (curriculum programme — evidence) | Andorra, *Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*, Bloc 4, printed p. 31 |
 
 | Energy sources — Gabon's primary way in, braided into the palier competence statement (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 3e année*, Palier 3: Les sources d'énergie, printed p. 30 |
 | Renewable sources named and localised — hydroelectric, solar, wind; Gabon's rivers make hydro concrete (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 4e année*, Palier 1: L'énergie hydroélectrique, solaire, éolienne, printed p. 3 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Argentina).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Argentina).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
 
 Placement: Student item 89 — g07-student-placements.md (Unit 7), extended by Teacher items 16 and 17 — g07-teacher-placements.md, filed above as labelled teacher-evidence parts; the lesson's acceptance count stays 1 on the student book. BOOK ERRORS, taught corrected and flagged here: (1) the energy-conservation paragraph on the student book's printed p. 195 is duplicated verbatim inside itself — it is taught once here; (2) the book lists wood among non-renewable sources — taught as the book sorts it, with the tension named in talk (trees regrow, but the book's finite list is the lesson's rule). PAIRING: see the warning under Book 2.
 

@@ -1,6 +1,6 @@
 # Sources — Earth-centred or Sun-centred? — judging two models
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Palestine
+countries: Ethiopia, Gabon (teacher-guide evidence only), Palestine, Andorra (curriculum-programme evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -8,15 +8,18 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Palestine
 
 **Book 3:** *الفيزياء للصف العاشر (Physics for Grade 10)* (student textbook) — Palestine, Ministry of Education, State of Palestine. Title as printed: Physics for Grade 10, Ministry of Education, State of Palestine — ministerial decision page: adopted for teaching in Palestine's schools from school year 2017/2018; ministerial curriculum committee named at the end of the book (incl. Dr Sabri Saidam, Dr Shahnaz Al-Far). Grade 10 · Student book (Arabic medium) · Repo path: grade-10/gov/palestine/physics/full-year.pdf. Byte size: 2,226,145 (no size in record). PDF pages: 160. Offset: printed p. N ≈ PDF p. N+5 (Unit 1 opens printed p. 2 = PDF p. 7; Ch. 1 printed p. 4 per the contents page). Verdict: COMPLETE — full text read (Arabic text layer throughout; extraction is RTL-garbled in places but every chapter, activity and question set is legible); contents page + unit/chapter sequence prove identity; book closes with the project chapter and the curriculum committee page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/palestine-placements.md.
 
+**Book 4:** *Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* (curriculum programme — an official curriculum PROGRAMME published by decree in the Butlletí Oficial del Principat d'Andorra (BOPA), NOT a student textbook, cited as it is) — Andorra, Escola Andorrana, batxillerat general. Title as printed: Decret 238/2025, del 2-7-2025, de publicació del Programa de física del batxillerat general de l'Escola Andorrana (BOPA Núm. 83, 9 de juliol del 2025). Grade: 11 (batxillerat general, two-year cycle) · Teacher/curriculum programme · Repo path: grade-11/gov/andorra/physics/full-year.pdf. Byte size: 4,371,856 (exact match to books.json). PDF pages: 45 (exact match). Offset: the PDF is paginated 1/45–45/45 in its own footer; programme content blocks at printed (footer) pp. 20–39. Verdict: COMPLETE — full text read (15,980 words); decree preamble + contents prove identity. (The 2025 decree amends evaluation criteria of Competence 3 of the programme; the full programme text is republished with it.) Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/andorra-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The two models: 'planets' as wanderers; geocentric spheres; Copernicus's heliocentric model with Earth's rotation | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 6, printed pp. 157–158 |
 | Sub lesson 2 — The evidence: rising in the east, Mercury and Venus near the Sun, retrograde loops explained by overtaking | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 6, printed pp. 157–158 |
+| Bloc 3: solar system from Earth vs heliocentric view, planetary systems, galaxies, Big Bang (curriculum programme — evidence) | Andorra, *Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)*, Bloc 3, printed p. 28 |
 
 | The movements of the Earth, the planets (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 4e année*, Palier 3: Les mouvements de la Terre, les planètes, printed p. 32 |
 | Historical development of astronomy, incl. Muslim scholars' astronomy for prayer times and qibla (Palestine's way into the unit) | Palestine, *Physics for Grade 10*, Unit 4: Astronomy, printed p. 128 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Palestine).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Palestine).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
 
 No book errors attach to this item.
 
