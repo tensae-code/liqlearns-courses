@@ -25,3 +25,11 @@ a) Building ports  b) Being ready to sell war captives and others  c) Refusing a
 **6. (Sub lesson 2)** Most captives were taken to work in —
 a) European factories  b) Brazil, the Caribbean and southern North America  c) Asia's mines  d) North Africa's farms
 **Answer: b) Brazil, the Caribbean and southern North America** — Brazil's coffee and sugar, the Caribbean's sugar, southern North America's cotton and tobacco.
+
+**7. (Sub lesson 3) ** The guide says Henry's voyages turned to slaves because —
+a) Gold was illegal  b) The voyages had to pay for themselves; gold yielded only dust, while the slave trade proved profitable  c) Portugal lacked ships  d) Africa demanded it
+**Answer: b) The voyages had to pay for themselves; gold yielded only dust, while the slave trade proved profitable** — economics first — guide evidence.
+
+**8. (Sub lesson 3) ** The guide's answer on African participation is that suppliers received —
+a) Nothing  b) Guns and goods from Europeans, making the trade lucrative for both sides  c) Land in Europe  d) Ships
+**Answer: b) Guns and goods from Europeans, making the trade lucrative for both sides** — the gun cycle's fuel — guide evidence.

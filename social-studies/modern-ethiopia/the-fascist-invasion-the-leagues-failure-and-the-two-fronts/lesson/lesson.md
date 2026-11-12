@@ -16,6 +16,12 @@ The attack came from the **north (Eritrea)** and the **south (Italian Somaliland
 
 [GIF 11633 — two invasion arrows closing on Addis Ababa, north and south]
 
+## Sub lesson 3 — The Grade 10 depth — the invasion as the Grade 10 book frames it
+
+The Grade 10 book frames the invasion with an insistence: despite Adwa, Italy never gave up its desire for Ethiopia. Under Mussolini, Fascist Italy invaded in the Second Italo-Ethiopian War of 1935–36 — and the book maps the Italian advances on two fronts, against an Ethiopia whose emperor's plea the League of Nations met with deaf ears: the lesson's own brainstorming question asks pupils to sit inside that deafness. The Grade 10 telling binds the invasion and the League's failure into one event, which is how this lesson teaches it too.
+
+[GIF 23123 — the two invasion arrows close on Addis Ababa]
+
 ## Say it to your companion
 
 Retell the story of this lesson to your companion in order — part 1: the league fails ethiopia — then part 2: two fronts, poison gas — using the lesson's own names and dates. Your companion asks you one hard question about it — answer from the lesson.

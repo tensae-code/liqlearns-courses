@@ -5193,3 +5193,158 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 25511 | pictures/25511.webp | Three labelled levers on one 1993 console | Social Studies — Structural adjustment |
 | 25512 | pictures/25512.webp | Deficit line falling, one war-year spike | Social Studies — After the reform |
 | 25513 | pictures/25513.webp | Gate widening, 1992 → 2003, threshold stepping down | Social Studies — Investing in Ethiopia after 1991 |
+| 23101 | pictures/23101.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — napoleon-reformer-conqueror-fallen |
+| 23102 | pictures/23102.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-french-revolution-breaks-out-1789 |
+| 23103 | pictures/23103.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — american-independence |
+| 23104 | pictures/23104.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-un-the-leagues-successor-built-to-last |
+| 23105 | pictures/23105.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — gorbachevs-reforms-and-the-empire-they-dissolved |
+| 23106 | pictures/23106.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — liberated-but-influenced-the-british-era-and-the-american-turn |
+| 23107 | pictures/23107.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-ogaden-war-1977-78 |
+| 23108 | pictures/23108.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — who-owns-the-nile-abay-hydro-politics |
+| 23109 | pictures/23109.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — luwa-and-seera-governing-by-age-grades-and-by-code |
+| 23110 | pictures/23110.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — three-kinds-of-heritage-nature-practice-thing |
+| 23111 | pictures/23111.webp | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-first-world-war-causes |
+| 23120 | pictures/23120.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-industrial-revolution-what-changed-and-why-england-first |
+| 23121 | pictures/23121.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — madaa-and-dagu-afar-law-and-the-human-news-network |
+| 23122 | pictures/23122.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — southern-africa-liberation-at-gunpoint |
+| 23123 | pictures/23123.gif | drawn diagram for the lesson (see its lesson plan) | Social Studies — the-fascist-invasion-the-leagues-failure-and-the-two-fronts |
+| 24000 | pictures/24000.webp | a household weighing limited birr and goods against a long list of wants | Social Studies — what-economics-is |
+| 24001 | pictures/24001.webp | a split panel — observing and measuring on one side, fixing a problem on the other | Social Studies — is-economics-a-science-an-art-or-both |
+| 24002 | pictures/24002.webp | a single market stall with its price tag picked out from a whole town behind it | Social Studies — microeconomics-one-buyer-one-firm-one-market |
+| 24003 | pictures/24003.webp | two arrows — one from a big rule down to one case, one from many market observations up to a rule | Social Studies — two-ways-of-reasoning-deduction-and-induction |
+| 24004 | pictures/24004.webp | two speech bubbles over the same market — one reporting a fact, one giving an opinion | Social Studies — positive-statements-and-normative-statements |
+| 24005 | pictures/24005.webp | a household handing over work and land-use and receiving four labelled income streams | Social Studies — households-owners-of-the-factors |
+| 24006 | pictures/24006.webp | a firm in the middle, hiring on one side and selling finished goods on the other | Social Studies — firms-hiring-factors-making-goods |
+| 24007 | pictures/24007.webp | tax arrows flowing in from households and firms, service arrows — school, clinic, police — flowing back out | Social Studies — government-taxing-spending-providing-services |
+| 24008 | pictures/24008.webp | a balance tipped between a short stack of goods and an endless queue of wants, with a small shortage-today sign beside it | Social Studies — scarcity-wants-without-end |
+| 24009 | pictures/24009.webp | the chain as five linked boxes from scarce to cost | Social Studies — scarcity-forces-choice |
+| 24010 | pictures/24010.webp | a fork in a road, one path taken and the other fading, labelled with what was given up | Social Studies — opportunity-cost |
+| 24011 | pictures/24011.webp | the food–computers curve with one point on it, one inside and one outside, each labelled | Social Studies — the-production-possibilities-frontier |
+| 24012 | pictures/24012.webp | steps up a staircase getting taller along the curve, each step the cost of one more unit | Social Studies — why-opportunity-cost-rises |
+| 24013 | pictures/24013.webp | two nested curves, the outer one labelled more resources / better technology, plus a one-sided pivot | Social Studies — growth-shifts-the-frontier-out |
+| 24014 | pictures/24014.webp | a national shopping list being chosen between bread, machines, and luxuries | Social Studies — what-to-produce |
+| 24015 | pictures/24015.webp | the same wheat field worked two ways — many hands with simple tools, and one tractor | Social Studies — how-to-produce |
+| 24016 | pictures/24016.webp | one pile of goods being divided two ways — a small group taking most, then the same pile spread across a crowd | Social Studies — for-whom-to-produce |
+| 24017 | pictures/24017.webp | a farming and herding community exchanging goods directly, no money in sight | Social Studies — the-traditional-economy |
+| 24018 | pictures/24018.webp | privately owned shops and factories competing on one street, a small government building at the far end | Social Studies — the-capitalist-economy |
+| 24019 | pictures/24019.webp | a central planning office directing factories and farms from one plan board | Social Studies — the-command-economy |
+| 24020 | pictures/24020.webp | one street split between a state power plant and private shops, with a planning arrow over both | Social Studies — the-mixed-economy |
+| 24021 | pictures/24021.webp | sunshine and stream water on the free side; fertile land, clean water and skilled labour on the priced side | Social Studies — free-resources-and-scarce-resources |
+| 24022 | pictures/24022.webp | a four-row chart, each factor beside its payment — rent, wage, interest, profit | Social Studies — land-labour-capital-entrepreneurship |
+| 24023 | pictures/24023.webp | a tree regrowing beside a coal seam being emptied, the seam not refilling | Social Studies — renewable-and-non-renewable-resources |
+| 24024 | pictures/24024.webp | three labelled bins and actions — a light switched off, a jar reused, paper going to recycling | Social Studies — caring-for-resources-reduce-reuse-recycle |
+| 24025 | pictures/24025.webp | a shopper with Birr 500 looking at jeans tagged 500 and 900 | Social Studies — demand-wanting-plus-able-and-willing-to-pay |
+| 24026 | pictures/24026.webp | the oranges schedule as a table with the price column falling and the quantity column rising | Social Studies — the-law-of-demand |
+| 24027 | pictures/24027.webp | the oranges table turning into its downward-sloping curve, with Qd = f(P) written beneath | Social Studies — drawing-demand-curve-and-function |
+| 24028 | pictures/24028.webp | two household curves side by side adding, quantity by quantity, into one wider market curve | Social Studies — from-one-buyer-to-the-whole-market |
+| 24029 | pictures/24029.webp | a full cold store with only part of its sacks loaded onto a market truck | Social Studies — supply-what-is-actually-brought-to-market |
+| 24030 | pictures/24030.webp | the seller's oranges schedule beside its upward-sloping curve | Social Studies — the-law-of-supply |
+| 24031 | pictures/24031.webp | two seller curves adding sideways into one market supply curve, QS = f(P) beneath | Social Studies — market-supply-adding-every-seller |
+| 24032 | pictures/24032.webp | a balance scale with demand weights on one pan and supply weights on the other, level | Social Studies — equilibrium-a-balance-with-no-push-to-move |
+| 24033 | pictures/24033.webp | crossing demand and supply curves with dashed lines from the crossing point to a price and a quantity axis | Social Studies — equilibrium-price-and-quantity |
+| 24034 | pictures/24034.webp | the five-row birr table with the middle row highlighted as equilibrium and the rows above and below shaded as shortage and surplus sides | Social Studies — too-much-wanted-too-much-offered |
+| 24035 | pictures/24035.webp | an input–process–output strip for wheat, then a tangible car beside an intangible training service | Social Studies — production-turning-inputs-into-outputs |
+| 24036 | pictures/24036.webp | a flour factory with its building greyed as cannot change this month and its sacks of wheat and workers highlighted as can change today | Social Studies — fixed-inputs-and-variable-inputs |
+| 24037 | pictures/24037.webp | two calendars crossed out, replaced by one factory that can only hire, then the same factory adding a new building | Social Studies — short-run-and-long-run |
+| 24038 | pictures/24038.webp | a three-line mini-chart of TP, AP and MP from one small table, formulas written under each | Social Studies — total-average-and-marginal-product |
+| 24039 | pictures/24039.webp | the TP curve with the three stages shaded, AP and MP curves underneath peaking and crossing zero in order | Social Studies — the-three-stages-of-production |
+| 24040 | pictures/24040.webp | birr notes leaving the firm to suppliers on one side; the owner's own building and time greyed on the other with no cash paid — still a cost | Social Studies — explicit-costs-and-implicit-costs |
+| 24041 | pictures/24041.webp | two ledgers for the same firm, the economist's ledger one line longer than the accountant's | Social Studies — economic-cost-and-accounting-cost |
+| 24042 | pictures/24042.webp | the Birr 60 flat line, the rising TVC curve, and TC running parallel above it | Social Studies — fixed-cost-variable-cost-total-cost |
+| 24043 | pictures/24043.webp | one unit of output with its total cost being divided into a fixed slice and a variable slice, and a +1 unit arrow showing the extra cost | Social Studies — cost-per-unit-atc-afc-avc-and-marginal-cost |
+| 24044 | pictures/24044.webp | a physical market stall and a phone shopping screen side by side, money arrows pointing to the sellers | Social Studies — markets-and-the-market-for-goods-and-services |
+| 24045 | pictures/24045.webp | workers of several trades on one side, employers with vacancies on the other | Social Studies — the-labour-market |
+| 24046 | pictures/24046.webp | shares, bonds and currency changing hands over a trading screen | Social Studies — the-financial-market |
+| 24047 | pictures/24047.webp | the two-ring diagram — goods and services on the inner ring, birr payments on the outer ring, running opposite ways | Social Studies — the-circular-flow-real-flow-and-money-flow |
+| 24048 | pictures/24048.webp | the two-box flow diagram with its assumption list pinned beside it | Social Studies — the-two-sector-model |
+| 24049 | pictures/24049.webp | the three-box diagram with tax arrows in and spending, subsidy and transfer arrows out of the government box | Social Studies — the-three-sector-model |
+| 24050 | pictures/24050.webp | five test badges — standardised, accepted, divisible, portable, durable — being checked against a coin and a banknote | Social Studies — what-money-is |
+| 24051 | pictures/24051.webp | two traders circling each other, each holding what the other does not want, with the five problems as small signs around them | Social Studies — barter-and-why-it-fails |
+| 24052 | pictures/24052.webp | a five-step timeline — salt bar, metal coin, paper note, cheque book, phone payment | Social Studies — how-money-evolved |
+| 24053 | pictures/24053.webp | an Ethiopia timeline — Axumite coin, amole salt bar, Maria Theresa thaler, Menelik coin, 1945 birr note | Social Studies — ethiopias-money-story |
+| 24054 | pictures/24054.webp | a shoemaker and a farmer swapping directly and slowly, then the same swap done instantly through money in the middle | Social Studies — money-as-a-medium-of-exchange |
+| 24055 | pictures/24055.webp | one shelf label showing a single birr price, beside the same label exploding into hundreds of barter ratios | Social Studies — money-as-a-unit-of-account |
+| 24056 | pictures/24056.webp | a pay packet being held over time, beside a house and a bond each marked valuable but slow to turn into spending money | Social Studies — money-as-a-store-of-value-and-liquidity |
+| 24057 | pictures/24057.webp | a loan arrow from a saver through a bank to a borrower building something, with a repay-later arrow returning | Social Studies — money-as-a-standard-of-deferred-payments |
+| 24058 | pictures/24058.webp | a monthly pay line above daily spending dots, the gap bridged by a cash balance; a shop till beside it | Social Studies — why-people-hold-money-the-transaction-motive |
+| 24059 | pictures/24059.webp | two wallets — one labelled for emergencies, one labelled waiting for the right moment | Social Studies — why-people-hold-money-precautionary-and-speculative-motives |
+| 24060 | pictures/24060.webp | a basket labelled money supply holding coins, NBE notes and a current-account balance, with bank vault cash shown outside the basket | Social Studies — what-counts-as-the-money-supply |
+| 24061 | pictures/24061.webp | an ATM, a debit card at a shop terminal and a phone transfer on one panel; a warning sign for cybercrime on the other | Social Studies — electronic-money-cards-atms-and-transfers |
+| 24062 | pictures/24062.webp | the two-column comparison with the teff-price and Ethiopia-GDP examples marked; many small household and firm tiles adding up into one whole-economy panel | Social Studies — macroeconomics-the-whole-economy-at-once |
+| 24063 | pictures/24063.webp | a country outline filled with finished goods only, part-made inputs shown crossed out at the factory gate | Social Studies — gdp-what-a-country-produces-inside-its-borders |
+| 24064 | pictures/24064.webp | the country outline plus its citizens working abroad, minus foreigners earning inside, as a three-term sum | Social Studies — gnp-what-a-countrys-own-people-produce-anywhere |
+| 24065 | pictures/24065.webp | one GDP cake being divided equally among a crowd, one slice labelled per person | Social Studies — per-capita-income-the-average-share |
+| 24066 | pictures/24066.webp | five target boards — growth, jobs, stable prices, balanced trade, fair shares | Social Studies — what-macroeconomic-policy-aims-at |
+| 24067 | pictures/24067.webp | a price-level line climbing steadily, with a small one-day bump crossed out as not inflation | Social Studies — inflation-a-general-lasting-rise-in-prices |
+| 24068 | pictures/24068.webp | two panels — a crowd chasing a small pile of goods; the same pile shrinking because the factory behind it has stalled | Social Studies — two-kinds-of-inflation-demand-pull-and-cost-push |
+| 24069 | pictures/24069.webp | a population funnel narrowing to the labour force, then splitting into employed and unemployed-and-searching | Social Studies — unemployment-and-the-labour-force |
+| 24070 | pictures/24070.webp | three workers — one between two jobs, one whose skills fit no vacancy board, one facing a board with no vacancies at all | Social Studies — frictional-structural-and-cyclical-unemployment |
+| 24071 | pictures/24071.webp | six workers on a plot whose harvest stays the same when three step away | Social Studies — disguised-unemployment |
+| 24072 | pictures/24072.webp | trucks of goods leaving and entering a border post, with two money totals compared underneath | Social Studies — the-trade-balance-exports-minus-imports |
+| 24073 | pictures/24073.webp | a two-column ledger, the whole world on the other side, with a reserve jar rising and falling at the bottom | Social Studies — the-balance-of-payments |
+| 24074 | pictures/24074.webp | a highland map with the two soil types coloured and altitude zones stacked beside it | Social Studies — land-as-a-resource-in-ethiopia |
+| 24075 | pictures/24075.webp | a three-panel timeline — feudal estate, 1975 reform poster, today's holding-right certificate and lease | Social Studies — who-owns-the-land-ethiopias-land-story |
+| 24076 | pictures/24076.webp | a three-regime timeline with the system name under each — Imperial capitalist, Derg command, FDRE mixed | Social Studies — ethiopias-economic-systems-imperial-derg-fdre |
+| 24077 | pictures/24077.webp | three nested panels — the process, the person, the legal business — with the five elements as a checklist | Social Studies — enterprise-entrepreneur-entrepreneurship |
+| 24078 | pictures/24078.webp | a recycled-tyre shoe beside a locally assembled car, each with its founder's name | Social Studies — ethiopian-founders-solerebels-and-haile-gebrselassie |
+| 24079 | pictures/24079.webp | a five-step timeline from project manager to innovator | Social Studies — how-the-idea-of-the-entrepreneur-grew |
+| 24080 | pictures/24080.webp | a business whose profit arrow loops back into a community project | Social Studies — social-entrepreneurship |
+| 24081 | pictures/24081.webp | familiar objects being rearranged into a new useful combination | Social Studies — creativity-new-ideas-from-old-pieces |
+| 24082 | pictures/24082.webp | a five-step path — spotting, diving in, letting it simmer, the flash, the test | Social Studies — the-creativity-process-five-steps |
+| 24083 | pictures/24083.webp | four panels — a brand-new object, an existing one growing, an exact copy, two ideas merging into one | Social Studies — innovation-and-its-four-types |
+| 24084 | pictures/24084.webp | a three-step staircase — idea, applied idea, business — with competitive advantage at the top | Social Studies — creativity-to-innovation-to-entrepreneurship |
+| 24085 | pictures/24085.webp | five badges — heart, shield, bending road, clock, handshake — one per attitude | Social Studies — the-entrepreneurial-mind-set-five-attitudes |
+| 24086 | pictures/24086.webp | a six-dial control panel, one dial per skill, over a small business | Social Studies — general-management-skills |
+| 24087 | pictures/24087.webp | one founder in the middle of five labelled conversations — team, customer, supplier, investor, partner | Social Studies — people-management-skills |
+| 24088 | pictures/24088.webp | an old shop fading as a new one rises from the same street, with Schumpeter's five routes as five labelled windows | Social Studies — finding-the-window-opportunity-and-creative-destruction |
+| 24089 | pictures/24089.webp | a diverse team passing a task along like a ball toward one goal | Social Studies — teamwork-and-diversity-make-businesses-succeed |
+| 24090 | pictures/24090.webp | three pots of different sizes labelled with what each pays for — the building, the stock, the machine | Social Studies — three-kinds-of-business-money |
+| 24091 | pictures/24091.webp | a five-step funding staircase from own savings up to venture capital | Social Studies — five-sources-of-start-up-finance |
+| 24092 | pictures/24092.webp | a factory's smoke drifting over a neighbourhood, with a clinic bill arriving at a house that bought nothing; a cost arrow landing on the surrounding community | Social Studies — externalities-costs-that-fall-on-others |
+| 24100 | pictures/24100.gif | a point sliding along the curve, one good rising as the other falls | Social Studies — the-production-possibilities-frontier |
+| 24101 | pictures/24101.gif | the whole curve pushing outward as resources and technology grow | Social Studies — growth-shifts-the-frontier-out |
+| 24102 | pictures/24102.gif | points from the table appearing one by one and joining into the demand curve | Social Studies — drawing-demand-curve-and-function |
+| 24103 | pictures/24103.gif | the scale tipping, then settling level as the market finds its balance | Social Studies — equilibrium-a-balance-with-no-push-to-move |
+| 24104 | pictures/24104.gif | the price stepping down the table until the two quantities meet at equilibrium | Social Studies — too-much-wanted-too-much-offered |
+| 24105 | pictures/24105.gif | workers being added one by one as the output curve rises, flattens, then falls | Social Studies — the-three-stages-of-production |
+| 24106 | pictures/24106.gif | birr notes circulating one way round the ring while goods circulate the other | Social Studies — the-circular-flow-real-flow-and-money-flow |
+| 24107 | pictures/24107.gif | the timeline stepping forward stage by stage from commodity money to electronic payment | Social Studies — how-money-evolved |
+| 24108 | pictures/24108.gif | the two swaps side by side, the money route visibly faster than the barter route | Social Studies — money-as-a-medium-of-exchange |
+| 24109 | pictures/24109.gif | a card tap at a terminal and the account balance updating | Social Studies — electronic-money-cards-atms-and-transfers |
+| 24110 | pictures/24110.gif | the price line climbing while a birr note buys a shrinking basket of goods | Social Studies — inflation-a-general-lasting-rise-in-prices |
+| 24111 | pictures/24111.gif | known pieces sliding together into a new useful shape | Social Studies — creativity-new-ideas-from-old-pieces |
+| 24112 | pictures/24112.gif | working, then resting, then the idea lighting up — immersion, incubation, insight in sequence | Social Studies — the-creativity-process-five-steps |
+| 25800 | pictures/25800.webp | the four farming types as four small farm scenes | Agriculture — words-for-farming |
+| 25801 | pictures/25801.webp | a hunter-gatherer choosing among wild grasses, with the chosen one becoming a field crop | Agriculture — how-wild-plants-became-crops |
+| 25802 | pictures/25802.webp | an Ethiopian smallholder landscape with the five major crops marked, beside the rising-but-low yield table | Agriculture — crop-production-in-ethiopia |
+| 25803 | pictures/25803.webp | four baskets — grain, oilseed, cotton bolls, cut forage — each labelled with its use | Agriculture — sorting-crops |
+| 25804 | pictures/25804.webp | two leaves side by side, one labelled first product 3 carbons, one 4 carbons | Agriculture — c3-and-c4-plants |
+| 25805 | pictures/25805.webp | one field drawn five ways, one per cropping system | Agriculture — cropping-systems |
+| 25806 | pictures/25806.webp | Konso terraced hillsides | Agriculture — indigenous-knowledge-on-the-farm |
+| 25807 | pictures/25807.webp | a farmer matching three crops to three different fields — wet clay, dry lowland, cool highland | Agriculture — field-crops-and-choosing-the-site |
+| 25808 | pictures/25808.webp | a teff field at harvest, panicles turned yellow | Agriculture — growing-teff |
+| 25809 | pictures/25809.webp | a row-planted maize field with the 75 by 25 cm spacing marked | Agriculture — growing-maize |
+| 25810 | pictures/25810.webp | a highland wheat field turning gold | Agriculture — growing-wheat |
+| 25811 | pictures/25811.webp | barley heads with awns, beside a malt sack | Agriculture — growing-barley |
+| 25812 | pictures/25812.webp | tall sorghum standing in a dry lowland field | Agriculture — growing-sorghum |
+| 25813 | pictures/25813.webp | legume roots lifted to show nodules | Agriculture — pulses-protein-and-nitrogen |
+| 25814 | pictures/25814.webp | faba bean pods turning black at harvest readiness | Agriculture — growing-faba-bean |
+| 25815 | pictures/25815.webp | field pea plants and seeds next to faba bean plants and seeds, differences marked | Agriculture — growing-field-pea |
+| 25816 | pictures/25816.webp | drying bean pods, then grain being checked dry before storage | Agriculture — growing-haricot-bean |
+| 25817 | pictures/25817.webp | sesame plants with pods beginning to yellow | Agriculture — industrial-crops-and-sesame |
+| 25818 | pictures/25818.webp | yellow noug flowers in a mid-altitude field, with the dark seed beside them | Agriculture — growing-noug |
+| 25819 | pictures/25819.webp | cotton bolls, then a ginning machine, then spinning | Agriculture — cotton-from-field-to-fabric |
+| 25820 | pictures/25820.webp | a sisal plant's spiked leaves beside extracted fibre bundles graded by length | Agriculture — growing-and-processing-sisal |
+| 25821 | pictures/25821.webp | setts laid in a furrow, with a sugar factory behind the field | Agriculture — growing-sugarcane |
+| 25822 | pictures/25822.webp | Ethiopia's six animal groups with their population figures | Agriculture — farm-animals-and-domestication |
+| 25823 | pictures/25823.webp | the four grazing species side by side with their products labelled | Agriculture — cattle-sheep-goats-and-camels |
+| 25824 | pictures/25824.webp | a layer and a broiler side by side; a queen, worker and drone in a row, sizes compared | Agriculture — poultry-and-bees |
+| 25825 | pictures/25825.webp | a cow's four stomach chambers labelled, beside a chicken's crop and gizzard | Agriculture — how-farm-animals-digest |
+| 25826 | pictures/25826.webp | one farm animal with five labelled gifts — food, work, income, materials, manure | Agriculture — what-farm-animals-give-us |
+| 25827 | pictures/25827.webp | a dry-season pasture with thin cattle, beside the same pasture managed and green | Agriculture — what-holds-livestock-back |
+| 25828 | pictures/25828.webp | the same cattle herd drawn three ways — open range, part-housed, fully housed and fed | Agriculture — three-ways-of-keeping-animals |
+| 23700 | pictures/23700.webp | Schematic map of western Ethiopia, Wollega and Nekemte marked | Social Studies — Kumsa Moreda |
+| 23701 | pictures/23701.webp | Four-step timeline: independent state → peaceful submission → baptism → title & power kept | Social Studies — Kumsa Moreda |
+| 23702 | pictures/23702.webp | Two-column hunt board: tangible (church, bridge, carved door) / intangible (festival, pottery craft, coffee ceremony) | Social Studies — Heritage hunt |
+| 23703 | pictures/23703.gif | Animated map: marker travels peacefully to Nekemte, banner rises — no battle | Social Studies — Kumsa Moreda |
+| 23704 | pictures/23704.gif | Animated town map: walker crosses, heritage stars light up one by one | Social Studies — Heritage hunt |

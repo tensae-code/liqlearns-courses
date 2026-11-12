@@ -25,3 +25,15 @@ a) June 25, 1963 (the book's misprint)  b) May 25, 1963  c) May 25, 1958  d) Jan
 **6. (Sub lesson 3)** How many independent countries approved the OAU charter? —
 a) 8  b) 14  c) 31  d) 54
 **Answer: c) 31** — 31 independent countries.
+
+**7. (Sub lesson 4) ** Pan-Africanism originated —
+a) In Addis Ababa in 1963  b) In the New World in the 18th–19th centuries, within the Black liberation struggle  c) In Berlin in 1884  d) In Manchester in 1945
+**Answer: b) In the New World in the 18th–19th centuries, within the Black liberation struggle** — Manchester was its turning point, not its birth.
+
+**8. (Sub lesson 4) ** The Fifth Pan-African Congress (Manchester, October 1945) is marked by —
+a) European delegates dominating  b) African delegates dominating for the first time, the focus turning to liberating colonised Africa  c) The OAU's founding  d) A trade agreement
+**Answer: b) African delegates dominating for the first time, the focus turning to liberating colonised Africa** — the congress that aimed the movement at the colonies.
+
+**9. (Sub lesson 4) ** The OAU was in time replaced by —
+a) The League  b) The African Union  c) NAM  d) The UN
+**Answer: b) The African Union** — the succession the founding lesson traces.

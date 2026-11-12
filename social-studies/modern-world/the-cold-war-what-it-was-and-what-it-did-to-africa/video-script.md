@@ -9,3 +9,5 @@ America leads capitalism. Russia leads communism.
 A war of words and propaganda — the Cold War.
 Its weight falls on Africa: coups bought with aid.
 Neo-colonialism: the indirect hand still rules.
+
+The Iron Curtain line is drawn; behind it, flags change one by one — 1945 to 1949 — while the arms piles grow on both sides.

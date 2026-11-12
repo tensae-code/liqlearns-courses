@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files. Pass mark: Give the handovers 1948/1
 ## Sub lesson 2 — The motherland call and Karamara
 Sub lesson 2 questions from the type files. Pass mark: Give the answer: 300,000 militia, Soviet arms, Cuban and South Yemeni soldiers, Karamara March 1978.
 
+
+## Sub lesson 3 — The Grade 10 depth — the five-pointed star, 1964, and who began 1977 (teacher guide — evidence)
+Sub lesson 3 questions from the type files. Pass mark: name the star's five territories, the 1964 outcome, and the guide's judgement on 1977's initiative.

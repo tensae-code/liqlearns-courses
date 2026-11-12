@@ -14,6 +14,10 @@ In **1270 Yekuno Amlak defeated the last Zagwe king, Yetbarak**, and proclaimed 
 
 Then the machine jammed: after Yagbe'a Tsion, **five sons reigned in five years (1294–1299)** — a scramble of short reigns as brothers and claimants struggled for the throne. The remedy was drastic and long-lasting: **all royal descendants except the reigning king were confined on Amba Geshen**, a guarded mountain, so no prince would be free to raise a rival claim. Hold the irony: the dynasty founded to end usurpation kept its own princes prisoner on a mountaintop to survive.
 
+## The moving court — a kingdom without a fixed capital (teacher guide — evidence)
+
+The Grade 9 teacher guide's Solomonic overview adds the framing this lesson now carries. In this period Christianity expanded further south and the church–state relationship became very strong, almost reaching its peak — "that is why it was called Christian Kingdom". The guide also records the gult right's long life: it lasted in Ethiopian history until the 20th century. And it names the fact the Gondar lesson later turns on: the medieval kings of Ethiopia had no fixed capital city. The court itself moved — a royal camp-city of tents and pavilions, consuming a region's surplus and moving on — government as a travelling city, which is why Fasilides' founding of Gondar in 1636, in the Gondar lessons, is a revolution in itself.
+
 ## Say it to your companion
 
 Tell your companion why the name 'Solomonic restoration' was chosen, the first two reigns with their dates, and what was done on Amba Geshen to end the succession struggle.

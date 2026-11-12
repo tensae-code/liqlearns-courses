@@ -22,3 +22,14 @@ a) Build only schools  b) Trigger coups and revolutions  c) End all wars  d) Gro
 a) Direct colonial governors  b) The 'indirect-hand' colonial rule  c) African independence  d) A trade agreement
 **Answer: b) The 'indirect-hand' colonial rule** — Rule by an indirect hand — influence without direct governors.
 
+**6. (Sub lesson 3) ** The Eastern Bloc's named puppet governments include —
+a) Poland, Czechoslovakia and Hungary  b) France and Italy  c) Egypt and India  d) Korea and Vietnam
+**Answer: a) Poland, Czechoslovakia and Hungary** — built 1945–53 under Stalin's consolidation.
+
+**7. (Sub lesson 3) ** The US answer to Soviet expansion was —
+a) Appeasement  b) Containment and the Marshall Plan  c) Withdrawal  d) Alliance with the USSR
+**Answer: b) Containment and the Marshall Plan** — the Western counter-move pupils must explain.
+
+**8. (Sub lesson 3) ** A 'cold' war is fought by —
+a) Direct battle between the superpowers  b) Military build-up, influence expansion and ideological delegitimation  c) Trade only  d) Silence
+**Answer: b) Military build-up, influence expansion and ideological delegitimation** — no direct combat between the principals.

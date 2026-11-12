@@ -9,3 +9,5 @@ National pride turns peoples against peoples.
 Parliaments vote arms; each state out-arms the next.
 Two camps harden: Alliance against Entente.
 Europe is a loaded room, waiting for a spark.
+
+Dominoes stand in two rows, capital to capital. At Sarajevo, one falls.

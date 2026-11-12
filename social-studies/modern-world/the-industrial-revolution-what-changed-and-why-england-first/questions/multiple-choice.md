@@ -22,3 +22,14 @@ a) Wealthy people to build factories  b) Favourable markets  c) Coal and iron or
 a) Usable anywhere and stronger  b) Free  c) Silent  d) Older than water power
 **Answer: a) Usable anywhere and stronger** — Water binds a mill to a river; steam works anywhere.
 
+**6. (Sub lesson 3) ** In the Grade 11 book's frame, the Industrial Revolution begins in —
+a) France  b) Britain  c) Germany  d) America
+**Answer: b) Britain** — steam, factories, coal and iron — Britain first.
+
+**7. (Sub lesson 3) ** The factory system's heart is —
+a) Hand work at home  b) Production gathered under one roof, powered by steam, worked by wage labour  c) Guild workshops  d) Monastery crafts
+**Answer: b) Production gathered under one roof, powered by steam, worked by wage labour** — the change from which the effects all follow.
+
+**8. (Sub lesson 3) ** The Grade 11 lesson pairs the factory with new —
+a) Churches  b) Transport  c) Guilds  d) Manors
+**Answer: b) Transport** — canals, roads and railways carrying coal and goods.

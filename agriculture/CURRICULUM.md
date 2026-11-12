@@ -36,3 +36,11 @@ ethiopia-2026-11-11/build-logs/.
   (drawn, looked at / frame-checked). Figures checked before
   teaching (305-day lactation, milk ≤4 °C, ghee at 110–120 °C
   carried with an adult-work hot-fat safety rule).
+- **Band A — Grade 11 Units 1–4** (29 lessons, 348 questions):
+  the course opens — First Steps (words for farming, how wild
+  plants became crops, crop production in Ethiopia), Crops
+  (sorting crops, C3 and C4 plants, the cereals and pulses),
+  Soil and Land and Livestock openers per the book's first
+  four units. Pictures 25800–25828 range (drawn, looked at).
+  The band created the agriculture/ tree itself; the course
+  files were opened by the coordinator with Band B.

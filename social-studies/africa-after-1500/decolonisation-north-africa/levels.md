@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: Sultan Muhammad V and the
 
 ## Sub lesson 3 — Algeria — the bitter struggle
 Sub lesson 3 questions from the type files. Pass mark: The FLN fought from 1954 to 1962 against the settler colons; a referendum, then Ben Bella first head of state in 1962.
+
+## Sub lesson 4 — The Grade 10 depth — Egypt to Algeria's hard road
+Sub lesson 4 questions from the type files. Pass mark: give the four roads with their men and dates: Zaghlul, Morocco 1956, Bourguiba, Ben Bella 1954–62.

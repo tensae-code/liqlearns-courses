@@ -25,3 +25,15 @@ a) The Wafd  b) The National Liberation Front (FLN)  c) Neo-Destour  d) The UGCC
 **6. (Sub lesson 3)** Algeria's first head of state in 1962 was —
 a) Bourguiba  b) Ben Bella  c) Zaghlul  d) Muhammad V
 **Answer: b) Ben Bella** — Ahmed Ben Bella.
+
+**7. (Sub lesson 4) ** Saad Zaghlul's delegation demanded —
+a) A new protectorate  b) An end to the British protectorate over Egypt  c) A French mandate  d) Lower taxes only
+**Answer: b) An end to the British protectorate over Egypt** — backed by demonstrations and strikes.
+
+**8. (Sub lesson 4) ** Morocco's independence came —
+a) By guerrilla war in 1962  b) By negotiated settlement on 2 March 1956, reuniting the French and Spanish zones  c) By referendum in 1975  d) Never
+**Answer: b) By negotiated settlement on 2 March 1956, reuniting the French and Spanish zones** — with Tunisia the same year under Bourguiba.
+
+**9. (Sub lesson 4) ** Algeria's war ran —
+a) 1945–54  b) 1954 to 1962, the FLN against a settler population organised to block independence  c) 1962–70  d) One year
+**Answer: b) 1954 to 1962, the FLN against a settler population organised to block independence** — ended by agreement and referendum.

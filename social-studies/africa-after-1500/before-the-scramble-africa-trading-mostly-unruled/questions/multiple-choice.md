@@ -26,3 +26,10 @@ a) Sierra Leone  b) Zanzibar  c) Algeria  d) Mozambique
 a) French  b) British  c) Turkish  d) German
 **Answer: c) Turkish** — Nominal Turkish rule in much of North Africa.
 
+**7. (Sub lesson 3) ** In the guide's account, Europe pictured Africa as its mirror image in order to —
+a) Trade fairly  b) Make Europe's own superiority appear self-evident by contrast  c) Learn African languages  d) Map the coast
+**Answer: b) Make Europe's own superiority appear self-evident by contrast** — Europe's self-image predicated on the invented opposite — guide evidence.
+
+**8. (Sub lesson 3) ** The guide's example of contact exchanging ideas and technology is —
+a) North Africa became Arabized  b) The Berlin Conference  c) The steam engine in Congo  d) The printing press in Timbuktu
+**Answer: a) North Africa became Arabized** — inter-continental contact as two-way exchange — guide evidence.

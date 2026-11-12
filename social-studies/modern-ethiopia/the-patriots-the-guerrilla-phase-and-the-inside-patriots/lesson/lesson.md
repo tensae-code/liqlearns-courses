@@ -14,6 +14,12 @@ The second phase was a **countryside guerrilla war**: sudden attacks on enemy fo
 
 [Picture 11629 — a guerrilla band cutting a telegraph line, a note passed in the town below]
 
+## Sub lesson 3 — The Grade 10 synthesis — two phases, the slogan, the women of the resistance
+
+The Grade 10 book's synthesis of the whole resistance is stocked here whole. Resistance began almost immediately after the Battle of Maychew and never let the occupation become effective, especially in rural northern, eastern and central Ethiopia — under the slogan printed in Amharic in the book: "Stand! Rise up; you cannot sit idle while the nation is invaded." It fell into two phases divided by the reprisals after the failed assassination attempt on Graziani in February 1937: first, traditional battles led largely by upper-class nobles; then, guerrilla warfare — the phase this lesson teaches.
+
+Inside the towns worked the Yewust Arbegnoch, the "inner patriots" — passing intelligence and secretly delivering weapons, medicine and food. Ethiopian women stand at the centre of the Grade 10 account: gathering information from the Italians, some arranging killings of Italian officials, others leading troops in battle or rallying soldiers after their husbands fell — Shewareged Gedle among the named examples — until liberation in 1941. The Grade 10 book makes the resistance's women a headline, and this lesson's depth follows it.
+
 ## Say it to your companion
 
 Retell the story of this lesson to your companion in order — part 1: the graziani massacre — then part 2: guerrillas, farmers, inside patriots — using the lesson's own names and dates. Your companion asks you one hard question about it — answer from the lesson.

@@ -373,3 +373,37 @@ here as they land; counts are per band from the build logs.
   Saving in sources.
 - Bands A (G9), B (G10), C (G10 guide + G11 first part) and
   E (G12 student) register here as they land.
+
+## Ethiopia History Grade 11 + Grade 10 placements — built 2026-11-12 (Wave 4 History Band C; pictures 23100–23131 range)
+
+51 lessons created + 13 extended, 629 new questions, taught as
+STORY across Modern World, Modern Ethiopia, Africa after 1500
+and Global Issues: the G11 revolutions stock and every G10
+placement #23–76 (the five G9-guide reassignments folded in as
+labelled evidence, including the "moving court" item). The
+League of Nations dating error is carried corrected — the
+book's §5.1 prints "1926 to 1946"; the League was founded in
+1919, taught as 1919 and named in sources only. Build log:
+ethiopia-2026-11-11/build-logs/wave4-hist-C-g11-revolutions.md.
+
+## Ethiopia History Grade 12 guide evidence — built 2026-11-12 (Wave 4 History Band E; pictures 23700–23704)
+
+2 lessons created, 28 questions, both guide-only and carrying
+the 0-countries line: Kumsa Moreda and Leqa Nekemte —
+incorporation by submission, and Heritage hunt: your own town.
+The leftovers from earlier bands are dispositioned in the log:
+the Funj "Fuji" slip, the Mentewab divergence and the guide's
+misplaced Vienna answers each folded into their standing
+lessons' sources as named corrections. With this band, History
+is complete: 416 placements across Bands A–E. Build log:
+ethiopia-2026-11-11/build-logs/
+wave4-hist-E-g12-guide-evidence.md.
+
+- **Band A — Grade 9 + guide** (93 lessons, 1,116 questions;
+  pictures 24000–24092, GIFs 24100–24112): the four Economics
+  titles open with the Grade 9 book — what economics is,
+  demand and supply, market and money, the Ethiopian economy —
+  plus the Externalities lesson in Global Issues. Every lesson
+  created (the titles are new), guide content folded as
+  labelled evidence, guide-only lessons on the 0-countries
+  line. Worked answers checked before teaching.

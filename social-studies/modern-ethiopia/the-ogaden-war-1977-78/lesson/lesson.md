@@ -14,6 +14,14 @@ Ethiopia answered: **300,000 militia** trained in a short time under the **mothe
 
 [Picture 11631 — the invasion arrow 700 km deep and the Karamara counter-stroke]
 
+## Sub lesson 3 — The Grade 10 depth — the five-pointed star, 1964, and who began 1977 (teacher guide — evidence)
+
+The Grade 10 book's framing of the war is stocked here. The Ogaden had been contested since Somalia's independence in 1960: Somalia was committed to uniting all five Somali-speaking territories under its flag's five-pointed star — South and North Somalia, French Somaliland (Djibouti), the Ogaden, and Kenya's Northern Frontier District. A border war in January 1964 ended, after OAU peacemaking, with no change of boundaries — and in 1977 the two countries entered serious war again, with foreign powers' influence on both sides.
+
+[Picture 23107 — the five-pointed star over the Horn]
+
+The Grade 10 teacher guide's war overview assigns the initiative plainly, and it is stocked as evidence beside the student frame: the 1977 war was initiated by President Siad Barre of Somalia, pursuing his irredentist policy of creating a "Greater Somalia" (guide, printed p. 111). Read with this lesson's account of the war itself, the Grade 10 depth completes the picture: the star's five points are the war's map and its motive in one emblem.
+
 ## Say it to your companion
 
 Retell the story of this lesson to your companion in order — part 1: greater somalia and the invasion — then part 2: the motherland call and karamara — using the lesson's own names and dates. Your companion asks you one hard question about it — answer from the lesson.

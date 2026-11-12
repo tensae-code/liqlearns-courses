@@ -9,3 +9,5 @@ Versailles: Germany pays, and loses her colonies.
 Ten million dead. Twenty million wounded.
 Kings fall in Russia, Germany, Austria.
 America rises. The League of Nations is born.
+
+The 1914 map dissolves; the 1919 map that replaces it has new states, a risen America, and two dark seeds — Moscow and Munich.

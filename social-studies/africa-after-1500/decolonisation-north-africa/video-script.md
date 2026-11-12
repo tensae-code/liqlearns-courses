@@ -9,3 +9,5 @@ Now: Morocco and Tunisia.
 Now: Algeria — the bitter struggle.
 After the Second World War, organised national struggle freed the north: Egypt, Libya, Sudan, Morocco, Tunisia — and Algeria last and hardest, in 1962 after a war from 1954.
 Tell it back — that is the lesson.
+
+Zaghlul's delegation boards a train as crowds strike; a decade of flags follows — and at the section's end, Algiers burns and votes, 1962.

@@ -16,6 +16,14 @@ England could start it because she had **wealthy people able to make, buy and us
 
 [GIF 11718 — a steam piston driving a factory shaft]
 
+## Sub lesson 3 — The Grade 11 depth — steam, factories, coal and iron
+
+The Grade 11 book teaches the same revolution as its own opening: beginning in Britain, the Industrial Revolution is the change to steam power, factories, coal and iron, and new transport — and it asks the question this lesson's title carries, why Britain first. The answers interlock: coal and iron in the ground, capital and colonies in hand, labour leaving the land, and a state that let inventors and owners build.
+
+[GIF 23120 — the steam engine at work]
+
+Hold the Grade 11 frame beside this lesson's: the factory system is the heart of it — production gathered under one roof, powered by steam, worked by wage labour on the clock. Everything the next lesson counts as effects — the cities, the classes, the empires — is folded inside that one change of how things were made.
+
 ## Say it to your companion
 
 Tell your companion the whole lesson as a story, without looking: From about 1750, machines replaced and aided hand labour, and production moved from homes to factories — beginning in England, because England had the wealth, the markets, the coal and the iron.

@@ -22,3 +22,14 @@ a) Germany, Austria-Hungary, Turkey  b) Britain, France and Russia  c) Italy, Bu
 a) Joined; left  b) Left; joined  c) Founded; dissolved  d) Ignored; ignored
 **Answer: b) Left; joined** — Italy left in 1915; Bulgaria joined in 1915.
 
+**6. (Sub lesson 3) ** The Grade 10 book calls the alliance system a trap because alliances —
+a) Were never signed  b) Built to keep peace instead pushed the continent into war  c) Included no great powers  d) Ended the arms race
+**Answer: b) Built to keep peace instead pushed the continent into war** — mutual defence promises generalised a local crisis.
+
+**7. (Sub lesson 3) ** The spark that detonated the system was —
+a) A naval battle  b) The assassination of Archduke Franz Ferdinand  c) A revolution in Russia  d) The fall of Paris
+**Answer: b) The assassination of Archduke Franz Ferdinand** — Sarajevo, 1914.
+
+**8. (Sub lesson 3) ** In the Grade 10 alignment, the Central Powers include —
+a) France and Russia  b) Germany, Austria-Hungary, the Ottoman Empire and Bulgaria  c) Britain and the USA  d) Italy throughout
+**Answer: b) Germany, Austria-Hungary, the Ottoman Empire and Bulgaria** — Italy left its alliance; the USA joined the Allies in 1917.

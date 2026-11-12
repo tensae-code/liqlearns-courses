@@ -14,6 +14,14 @@ The book calls the war in character **an imperialists' war**: capitalism's growt
 
 **(c) Bloc-building and the arms race.** Parliaments **debated military budgets** while each state **raced to out-arm the other**, and suspicion drove the states into **military blocs**. On one side, the **Triple Alliance — later the Central Powers — under Germany, with Austria-Hungary, Ottoman Turkey, Italy (which left in 1915) and Bulgaria (which joined in 1915)**. Against it stood the **1907 Triple Entente of Britain, France and Russia**. Learn the camps as they stood at the war's start, with the book's two switches noted: Italy walked out of the Alliance in 1915; Bulgaria walked into the Central Powers the same year. Two armed camps, each fearing the other, each armed to the teeth — the next lesson shows the spark that set them off.
 
+## Sub lesson 3 — The Grade 10 depth — the alliance trap and the spark at Sarajevo
+
+The Grade 10 book teaches the war's causes as a system with a detonator. The system: mutual defence alliances, built since the 1870s to keep the peace, which instead pushed the continent into war; nationalism; rivalry for empires and markets; and an arms race with militarism. The detonator: the assassination of Archduke Franz Ferdinand at Sarajevo. Alliances meant to deter war became the machine that generalised it — when one power moved, its allies' promises moved with it, capital by capital, like dominoes.
+
+[Picture 23111 — the alliance dominoes]
+
+The Grade 10 alignment of the blocs: the Triple Entente — the Allied Powers: France, Russia, Britain, and the USA from 1917 — against the Triple Alliance, the Central Powers: Germany, Austria-Hungary, the Ottoman Empire and Bulgaria, with Italy leaving its alliance to join the other side. Learn the Grade 10 list beside this lesson's Grade 8 telling; where they differ in emphasis, the system is the same: two armed blocs, one spark.
+
 ## Say it to your companion
 
 Tell your companion the whole lesson as a story, without looking: The First World War grew from imperialism and colonial rivalry, from nationalism, and from bloc-building and an arms race that split Europe into two armed camps.

@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files. Pass mark: Define the Industrial Rev
 ## Sub lesson 2 — Why England — and steam
 Sub lesson 2 questions from the type files. Pass mark: Give England's three advantages: wealthy machine-buyers, favourable markets, coal and iron ore.
 
+
+## Sub lesson 3 — The Grade 11 depth — steam, factories, coal and iron
+Sub lesson 3 questions from the type files. Pass mark: give the Grade 11 frame — steam, factories, coal and iron, new transport — and answer why Britain first with two of the book's interlocking reasons.

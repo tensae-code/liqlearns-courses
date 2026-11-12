@@ -14,6 +14,12 @@ After the war, the **Paris Peace Conference** was called in **1919** to sign pea
 
 The book's results list is the war's true size. **Ten million soldiers dead** and **about twenty million wounded**. **Massive property destruction and economic crisis in Europe.** **America rising as a great power** while Europe bled. **New states founded** from the fallen empires. **Kingly governments abolished in Russia, Germany and Austria.** And the **League of Nations established** — the victors' attempt at a body that would stop the next war before it started. The next lessons test that hope: within a generation came dictators, a second world war, and the League's replacement.
 
+## Sub lesson 3 — The Grade 10 depth — what the war changed
+
+The Grade 10 book's consequences run wider than the treaty: empires destroyed; several new nation-states established; independence movements promoted in the European colonies; the United States driven to become a world power; and the conditions created for communism's rise in Russia and Hitler's in Germany. The war was not Europe's alone — it devastated the Middle East, Africa and Asia, and spurred colonial peoples' desire for independence: the war that remade Europe also began the unmaking of Europe's empires.
+
+Versailles, in the Grade 10 summary, made Germany responsible for the outbreak of the war and imposed loss of foreign territories, a reduced army and navy, and reparations. Hold the two registers together: the treaty as a document, and the war as a world-historical turn — the Grade 10 lesson insists on both.
+
 ## Say it to your companion
 
 Tell your companion the whole lesson as a story, without looking: At Versailles the victors made Germany pay and stripped her colonies; the war's results were ten million dead, a ruined Europe, America's rise, new states, fallen kings and the League of Nations.

@@ -18,6 +18,12 @@ From the start of the national movements, **many Africans wanted one continental
 
 And so the **Organisation of African Unity was formally founded in Addis Ababa** — the charter was **signed on May 25, 1963** (the book prints June 25, 1963 and a June conference; the corrected date is May, and this lesson teaches May). **31 independent countries approved its charter**, and **Addis Ababa was chosen as its seat**. Its **aims as listed**: **strengthening understanding and unity among Africa's peoples; speeding Africa's freedom from imperialism and colonialism; gathering world opinion on violations of Africans' political and basic human rights; and building the feeling that could one day found a United States of Africa**. One continent, one table, one seat — in the capital of the country that had never been colonised.
 
+## Sub lesson 4 — The Grade 10 depth — Manchester 1945 and the road to the OAU
+
+The Grade 10 book's Pan-Africanism runs from the idea's origin: Pan-Africanism — the idea that peoples of African descent have common interests and should be unified — originated in the New World in the 18th–19th centuries within the Black liberation struggle. Its turning point was the Fifth Pan-African Congress at Manchester in October 1945, where African delegates dominated for the first time and the focus became the liberation of colonised Africa.
+
+From Manchester the road runs to this lesson's founding: pupils prepare the timeline of the OAU's founding, chart its main organs, and trace its replacement by the AU — with the book's map of the years of African countries' independence as the visual spine. The Grade 10 depth is stocked so the founding never floats free of the century of gatherings behind it.
+
 ## Say it to your companion
 
 Tell your companion this lesson's story in your own words: In Addis Ababa on May 25, 1963 — the corrected date — 31 independent countries approved the charter of the Organisation of African Unity, with Addis Ababa as its seat.

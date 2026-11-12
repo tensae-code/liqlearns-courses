@@ -25,3 +25,15 @@ a) 30,000 militia  b) 300,000 militia  c) 3,000 militia  d) 6,000 Bodyguard
 **6. (Sub lesson 2)** The Somali army was smashed at —
 a) Karamara, March 1978  b) Maychew  c) Keren  d) Genale Doria
 **Answer: a) Karamara, March 1978** — Karamara, March 1978; then it left Ethiopian territory altogether.
+
+**7. (Sub lesson 3) ** The five points of Somalia's star stand for —
+a) Five rivers  b) The five Somali-speaking territories to be united  c) Five parties  d) Five ports
+**Answer: b) The five Somali-speaking territories to be united** — including the Ogaden and Kenya's Northern Frontier District.
+
+**8. (Sub lesson 3) ** The border war of January 1964 ended —
+a) With Somali victory  b) After OAU peacemaking, with no change of boundaries  c) With the Ogaden's transfer  d) In 1977
+**Answer: b) After OAU peacemaking, with no change of boundaries** — the contest resumed in 1977.
+
+**9. (Sub lesson 3) ** The teacher guide assigns the 1977 war's initiative to —
+a) Ethiopia  b) President Siad Barre of Somalia, pursuing a Greater Somalia  c) The OAU  d) Cuba
+**Answer: b) President Siad Barre of Somalia, pursuing a Greater Somalia** — guide evidence, printed p. 111.

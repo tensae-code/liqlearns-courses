@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: Europeans found America's
 
 ## Sub lesson 2 — Why Africa could supply
 Sub lesson 2 questions from the type files. Pass mark: Africans lived in a tropical climate like the New World's; cost; and African chiefs' readiness to sell war captives and others encouraged the trade.
+
+## Sub lesson 3 — The economics that locked the slave trade in (teacher guide — evidence)
+Sub lesson 3 questions from the type files. Pass mark: state both of the guide's causal claims and draw the lock-in they make together.

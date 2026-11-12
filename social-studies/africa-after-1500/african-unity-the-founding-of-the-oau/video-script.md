@@ -9,3 +9,5 @@ Now: The reconciliation.
 Now: Addis Ababa 1963 — the founding and its aims.
 In Addis Ababa on May 25, 1963 — the corrected date — 31 independent countries approved the charter of the Organisation of African Unity, with Addis Ababa as its seat.
 Tell it back — that is the lesson.
+
+Manchester, 1945: the delegates' benches fill with African faces for the first time — and the congress's resolution points at every colony on the map.

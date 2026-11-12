@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files. Pass mark: Give the bomb attack by D
 ## Sub lesson 2 — Guerrillas, farmers, inside patriots
 Sub lesson 2 questions from the type files. Pass mark: Name the guerrilla tactics, the inside patriots' role, Shewareged Gedle, and three women patriots.
 
+
+## Sub lesson 3 — The Grade 10 synthesis — two phases, the slogan, the women of the resistance
+Sub lesson 3 questions from the type files. Pass mark: tell the two phases with their dividing event, name the inner patriots' work, and place Shewareged Gedle in the account.

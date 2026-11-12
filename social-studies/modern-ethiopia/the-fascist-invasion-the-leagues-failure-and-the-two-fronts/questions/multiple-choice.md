@@ -25,3 +25,15 @@ a) Graziani  b) Pietro Badoglio  c) Zoli  d) Mussolini in person
 **6. (Sub lesson 2)** The southern front was commanded by —
 a) De Bono  b) General Rodolfo Graziani  c) Badoglio  d) Wingate
 **Answer: b) General Rodolfo Graziani** — Graziani.
+
+**7. (Sub lesson 3) ** In the Grade 10 framing, Italy's desire for Ethiopia —
+a) Began in 1935  b) Never ended despite Adwa  c) Was Britain's idea  d) Concerned trade only
+**Answer: b) Never ended despite Adwa** — Mussolini's invasion fulfilled a forty-year ambition.
+
+**8. (Sub lesson 3) ** The League of Nations met the Emperor's plea with —
+a) An army  b) Deaf ears  c) Immediate sanctions that worked  d) A new capital for Ethiopia
+**Answer: b) Deaf ears** — the Grade 10 book's own phrase.
+
+**9. (Sub lesson 3) ** The invasion proceeded on —
+a) One front  b) Two mapped fronts of Italian advance  c) No fronts — by sea only  d) A single road
+**Answer: b) Two mapped fronts of Italian advance** — the book maps the advances.

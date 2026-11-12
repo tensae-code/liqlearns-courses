@@ -22,3 +22,14 @@ a) Paris, London, Moscow  b) Berlin, Rome, Tokyo  c) Vienna, Madrid, Lisbon  d) 
 a) Britain and France, and it failed  b) Germany and Italy, and it worked  c) The League, enforced strongly  d) America, by embargo
 **Answer: a) Britain and France, and it failed** — Britain's and France's appeasement failed — a named cause of the war.
 
+**6. (Sub lesson 3) ** In the Grade 10 overview, the USA joined the Allies —
+a) In 1939  b) From December 1941  c) In 1914  d) Never
+**Answer: b) From December 1941** — with Italy in the Axis from June 1940.
+
+**7. (Sub lesson 3) ** Nazi Germany's complaint against Versailles was that it was —
+a) Too lenient  b) A dictated peace  c) Written in French  d) Never signed
+**Answer: b) A dictated peace** — the grievance the dictators rode.
+
+**8. (Sub lesson 3) ** The war shifted the global power balance —
+a) To Western Europe  b) From Western Europe to the USA and the USSR  c) To Africa  d) To Japan
+**Answer: b) From Western Europe to the USA and the USSR** — the doorway to the post-1945 unit.

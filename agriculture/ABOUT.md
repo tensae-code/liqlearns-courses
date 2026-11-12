@@ -10,3 +10,15 @@ are ours; the lessons are the books'.
 
 Per-book word lists, course shapes and guide apparatus are
 filed in this About as the bands' build logs hand them over.
+
+## Ethiopia, Agriculture Grade 11 — the book's own shape (student evidence)
+
+**The four arcs** (Grade 11 student book, placement 1): the
+course runs crops (Units 1–3), animals (Units 4–9), land and
+climate (Units 10–14) and food (Units 15–16); every unit opens
+with Brainstorming from local life and closes with Summary +
+Review Exercise, and the book returns throughout to Ethiopian
+indigenous knowledge — Konso terracing, ethnoveterinary
+remedies, Gedeo protection, chuko and enset/kocho. The book's
+named course-intro picture (a four-arc road map) and intro
+video are course-level material held here.

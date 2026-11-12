@@ -6,3 +6,5 @@ The super-simple voice, for the video that rides on top of the lesson (lesson-pl
 
 Say Britain and France delayed and sacrificed Ethiopia, and the embargo on both sides hurt only Ethiopia.
 Give the two fronts, De Bono then Badoglio north, Graziani south, and the northern start date October 3, 1935.
+
+Two arrows — from Eritrea, from Somalia — close on the capital like pincers, while in Geneva a hall listens and does nothing.

@@ -14,6 +14,12 @@ The book's basic causes begin at home, inside three states. **(a) Fascist-nature
 
 **(c)** The three states **spent heavily to produce arms, build their war forces and prepare their peoples' minds for war** — and formed the **Berlin–Rome–Tokyo Axis**, which **frightened other countries' security**. **(d)** Against this stood two failures: the **failure of Britain's and France's appeasement policy** — giving in to the dictators' demands in hope of peace — and the **weakness of the League of Nations**, the body founded after the First World War precisely to prevent this. Aggression grew; the restraints did not hold. The next lesson follows the war the Axis launched.
 
+## Sub lesson 3 — The Grade 10 overview — a war made by the peace of 1919
+
+The Grade 10 book frames the whole war in one overview before its fronts: fought between the Allied Powers — France, Britain, the USA from December 1941, and the USSR — and the Axis: Germany, Italy from June 1940, and Japan. Its roots lie in the two preceding decades: the fascist ascensions of the interwar lessons, and Nazi Germany's complaint that Versailles was a dictated peace — a settlement imposed, not negotiated, whose grievances the dictators rode to power.
+
+The overview's closing line is the unit's hinge: the war's effects shifted the global power balance from Western Europe to the United States and the Soviet Union. The war made by the peace of 1919 ended by making the superpowers — and the post-1945 world of the next units begins exactly there.
+
 ## Say it to your companion
 
 Tell your companion the whole lesson as a story, without looking: The Second World War grew from fascist dictatorships in Italy and Germany and a military government in Japan, from racist nationalism and a new arms build-up joined in the Axis — while appeasement failed and the League stood weak.

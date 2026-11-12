@@ -18,3 +18,5 @@ Now look for foreign flags. A dot here — Sierra Leone. A dot there — Algeria
 Count them: about ten parts in a hundred. The rest of the continent rules itself.
 
 Hold this picture. In the next lessons, watch how fast it is overturned.
+
+Two mirrors face each other across the sea. In one, Europe admires itself; in the other, an invented Africa glares back — drawn by the same hand.

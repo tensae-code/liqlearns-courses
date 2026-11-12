@@ -18,6 +18,12 @@ Look at the title and the dates. This is a story before it is a list: people act
 
 **Algeria** was the hardest. The **Communist Party led from before 1945** against the **white settlers ("colons")** who tried to frustrate it. Algerians founded the **National Liberation Front (FLN)** and fought a **bitter struggle from 1954 to 1962**, setting up a **provisional government in exile in Cairo**. **France agreed to a referendum in 1961**; the people **chose independence**, and FLN leader **Ahmed Ben Bella became first head of state in 1962**. Why was Algeria's struggle bloodier? The settlers were rooted there — the assessment questions return to exactly that.
 
+## Sub lesson 4 — The Grade 10 depth — Egypt to Algeria's hard road
+
+The Grade 10 book's North Africa runs in detail. Egypt, a British protectorate from 1882, produced the nationalist opening: Saad Zaghlul's delegation demanding an end to the protectorate, backed by demonstrations and strikes across the country. Morocco won independence by negotiated settlement on 2 March 1956, its French and Spanish zones reunited; Tunisia followed in 1956 under Habib Bourguiba's Neo-Destour Party.
+
+Algeria is the section's hard road: a large settler population, organised even into the "Secret Armed Organization" to block independence, forced the FLN under Ahmed Ben Bella into a bitter guerrilla war from 1954 to 1962, ended by agreement and referendum. Set the four roads side by side — delegation and strikes, negotiation, party leadership, guerrilla war — and North Africa alone teaches the unit's whole typology of liberation.
+
 ## Say it to your companion
 
 Tell your companion this lesson's story in your own words: After the Second World War, organised national struggle freed the north: Egypt, Libya, Sudan, Morocco, Tunisia — and Algeria last and hardest, in 1962 after a war from 1954.

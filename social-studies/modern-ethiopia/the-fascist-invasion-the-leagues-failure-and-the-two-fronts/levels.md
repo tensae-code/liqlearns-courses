@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files. Pass mark: Say Britain and France de
 ## Sub lesson 2 — Two fronts, poison gas
 Sub lesson 2 questions from the type files. Pass mark: Give the two fronts, De Bono then Badoglio north, Graziani south, and the northern start date October 3, 1935.
 
+
+## Sub lesson 3 — The Grade 10 depth — the invasion as the Grade 10 book frames it
+Sub lesson 3 questions from the type files. Pass mark: state the Grade 10 framing: the unbroken desire, the two fronts, the deaf ears.

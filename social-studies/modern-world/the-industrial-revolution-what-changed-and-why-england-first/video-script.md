@@ -9,3 +9,5 @@ Machines replace and aid the hand.
 Work leaves the home for the factory.
 England first: wealth, markets, coal, iron.
 Steam — power that works anywhere.
+
+The piston drives, the flywheel turns — steam becomes motion, motion becomes the factory age.

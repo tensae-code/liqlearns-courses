@@ -7,3 +7,6 @@ Sub lesson 1 questions from the type files. Pass mark: Explain that industrialis
 
 ## Sub lesson 2 — The 10% baseline
 Sub lesson 2 questions from the type files. Pass mark: State that before the 1880s only about 10% of Africa was ruled by foreign powers, and locate the footholds: Turkish North Africa, Omani Zanzibar, British Sierra Leone, French Algeria, Boers and British in South Africa, Portuguese Mozambique.
+
+## Sub lesson 3 — The mirror image — how Europe pictured Africa (teacher guide — evidence)
+Sub lesson 3 questions from the type files. Pass mark: state the mirror-image claim and the Arabization example, both as guide evidence.

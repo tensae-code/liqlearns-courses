@@ -11,3 +11,5 @@ He rules in peace, then his son.
 Five sons in five years follow — struggle!
 So princes are confined on Amba Geshen.
 The medieval kingdom has begun.
+
+A city of tents strikes its pavilions at dawn. The throne is loaded on mules; the whole capital walks to the next valley.

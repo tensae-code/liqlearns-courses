@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files. Pass mark: Name the three states and
 ## Sub lesson 2 — The Axis, appeasement and the weak League
 Sub lesson 2 questions from the type files. Pass mark: Explain absolute racist nationalism as a cause.
 
+
+## Sub lesson 3 — The Grade 10 overview — a war made by the peace of 1919
+Sub lesson 3 questions from the type files. Pass mark: give both blocs with their joining dates and state the war's closing shift of power.

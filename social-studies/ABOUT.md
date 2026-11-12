@@ -378,3 +378,13 @@ provenance material, filed here as the record of the edition
 Band F's evidence comes from — the 2011 guide is not the
 companion to the 2023 student book, and nothing from it is
 taught as that book's answer key.
+
+## Ethiopia, History Grades 10–12 — course shapes, glossaries, bibliographies (student + guide evidence)
+
+**The course shapes** (G11 student #1; G10 guide #1/#2/#15–17;
+G12 #1): each book's own map of its units and the guides'
+pedagogy frames — the frames Bands C–E built against.
+**Bibliographies**: the G10 guide's own list (printed p. 151)
+and the G12 peace coda (printed p. 261) are filed here as the
+books state them. **The G10 glossary** (printed pp. 231–236):
+the book's own word list for the modern-world titles.

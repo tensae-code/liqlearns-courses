@@ -25,3 +25,19 @@ a) Kebedech Seyoum  b) Woizero Shewareged Gedle  c) Taytu  d) Liqieylesh Beyan
 **6. (Sub lesson 2)** Patriots got provisions and arms by —
 a) Italian supply depots' gifts  b) Sheltering in farmers' houses and capturing them from the enemy  c) Importing by air  d) Taxing towns
 **Answer: b) Sheltering in farmers' houses and capturing them from the enemy** — Farmers' shelter and capture from the enemy.
+
+**7. (Sub lesson 3) ** The two phases of the resistance are divided by —
+a) The Battle of Adwa  b) The reprisals after the February 1937 attempt on Graziani  c) The coronation  d) The League's vote
+**Answer: b) The reprisals after the February 1937 attempt on Graziani** — traditional battles first, guerrilla warfare after.
+
+**8. (Sub lesson 3) ** The Yewust Arbegnoch were —
+a) Italian officials  b) The inner patriots — townspeople passing intelligence, weapons, medicine and food  c) A cavalry unit  d) The emperor's guard
+**Answer: b) The inner patriots — townspeople passing intelligence, weapons, medicine and food** — the resistance inside the occupation's towns.
+
+**9. (Sub lesson 3) ** A named woman patriot of the Grade 10 account is —
+a) Shewareged Gedle  b) Taytu Betul  c) Zewditu  d) Mentewab
+**Answer: a) Shewareged Gedle** — among women who gathered intelligence, led troops and rallied soldiers.
+
+**10. (Sub lesson 3) ** The patriotic slogan, in the book's gloss, urges —
+a) Patience  b) 'Stand! Rise up; you cannot sit idle while the nation is invaded'  c) Emigration  d) Negotiation
+**Answer: b) 'Stand! Rise up; you cannot sit idle while the nation is invaded'** — printed in Amharic in the student book.

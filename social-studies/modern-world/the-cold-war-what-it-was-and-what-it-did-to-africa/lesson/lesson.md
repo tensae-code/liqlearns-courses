@@ -14,6 +14,14 @@ The **Cold War (1945–1991)** was an **ideological war between the proponents o
 
 Though a world rivalry, the Cold War **heavily affected the developing countries, and Africa in particular**. In Africa, **aid and support were used to trigger coups and revolutions** — outside money and weapons deciding who ruled. Africa in this age drew **close political ties with America, Russia, Britain, France, China and Cuba** — so that **her tie to the colonial powers continued**. The book's verdict is blunt: **the Cold War and colonialism together kept Africa from fast development**, and both **spread neo-colonialism — the 'indirect-hand' colonial rule — in Africa**: rule no longer by direct governors, but by influence from outside, through aid, arms and friendly rulers.
 
+## Sub lesson 3 — The Grade 10 depth — blocs, containment, arms race
+
+The Grade 10 book's Cold War runs in working detail. The wartime partnership of the USA and USSR turned to confrontation by 1945–47 as Stalin consolidated control of Central and Eastern Europe — Tehran, Yalta and Potsdam marking the souring. From 1945–53 the USSR built the Eastern Bloc of puppet communist governments — Poland, Czechoslovakia and Hungary named — and repressed resistance; the US answered with containment and the Marshall Plan, whose motives pupils must explain; and the rivalry became an arms race before spreading from Europe to the Middle East, Asia and Latin America.
+
+[Picture 23105 — the Cold War map and the union breaking apart]
+
+Hold the Grade 10 definition beside this lesson's: a "cold" war of no direct combat between the superpowers, fought by military build-up, influence expansion and ideological delegitimation — capitalist free markets and multiparty politics against a centralised one-party communist system. The definition's three weapons — build-up, influence, delegitimation — organise every Cold War lesson that follows.
+
 ## Say it to your companion
 
 Tell your companion the whole lesson as a story, without looking: From 1945 to 1991 America and the Soviet Union fought an ideological war — capitalism against communism — without meeting in direct battle; its weight fell on the developing world, and on Africa above all.

@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files. Pass mark: Name the conference, year
 ## Sub lesson 2 — The war's results
 Sub lesson 2 questions from the type files. Pass mark: State Versailles's two measures against Germany: pay much money; stripped of African and Asian colonies.
 
+
+## Sub lesson 3 — The Grade 10 depth — what the war changed
+Sub lesson 3 questions from the type files. Pass mark: recite the Grade 10 consequence list and Versailles's four impositions.

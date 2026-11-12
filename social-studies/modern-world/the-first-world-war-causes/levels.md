@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files. Pass mark: Characterise the war as t
 ## Sub lesson 2 — Blocs and the arms race
 Sub lesson 2 questions from the type files. Pass mark: Explain imperialism/colonial clashes and nationalism as causes.
 
+
+## Sub lesson 3 — The Grade 10 depth — the alliance trap and the spark at Sarajevo
+Sub lesson 3 questions from the type files. Pass mark: name the Grade 10 system's four causes and its detonator, and give both blocs as the Grade 10 book aligns them.

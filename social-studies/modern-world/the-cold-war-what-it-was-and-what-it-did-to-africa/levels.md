@@ -8,3 +8,6 @@ Sub lesson 1 questions from the type files. Pass mark: Define the Cold War: year
 ## Sub lesson 2 — What it did to Africa
 Sub lesson 2 questions from the type files. Pass mark: Explain how it fell on Africa: aid and support triggering coups and revolutions; close ties with six named powers.
 
+
+## Sub lesson 3 — The Grade 10 depth — blocs, containment, arms race
+Sub lesson 3 questions from the type files. Pass mark: name the souring conferences, the bloc's three named states, the US answer, and the cold war's three weapons.

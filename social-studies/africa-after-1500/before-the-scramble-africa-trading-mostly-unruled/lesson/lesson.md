@@ -14,6 +14,12 @@ Now fix the number the whole unit stands on. **Before the 1880s, only about 10% 
 
 [Picture 22806 — a pre-1880 map with the small coastal footholds marked]
 
+## Sub lesson 3 — The mirror image — how Europe pictured Africa (teacher guide — evidence)
+
+The Grade 9 teacher guide's answer on early European contact adds an interpretation this lesson now carries as evidence. Inter-continental contact worked by exchange of ideas and technology — for example, North Africa became Arabized through its contacts. And the guide states Europe's deeper move plainly: Europeans created an image of Africa as the perverse opposite of Europe — its mirror image — so that Europe's own superiority would appear self-evident by contrast; Europe's idea of itself was predicated on that invented image.
+
+Carry the guide's point into every contact lesson that follows: when a European text of the age calls Africa dark, empty or uncivilised, ask the mirror question — what does the writer need Africa to be, for Europe to feel what it wants to feel about itself? Great Zimbabwe's ruins, explained away by European writers who could not credit African builders, are the guide's own classroom case.
+
 ## Say it to your companion
 
 Retell this lesson's story to your companion in order — part 1 — then part 2 — using the lesson's own names and dates. Your companion asks you one hard question about it — answer from the lesson.
