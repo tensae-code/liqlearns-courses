@@ -1,17 +1,20 @@
 # Sources — Uniform motion
 
-countries: Ethiopia
+countries: Ethiopia, Bolivia
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 103 printed pp. Printed page = PDF page − 8. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). Under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-teacher-placements.md.
+
+**Book 3:** *Texto de Aprendizaje, Física, Cuarto Año* (student textbook) — Bolivia, Ministerio de Educación de Bolivia. Title as printed: Área Física — Campo Vida Tierra y Territorio, Cuarto Año, Educación Secundaria Comunitaria Productiva (Ministerio de Educación de Bolivia). Grade 10 (4º de secundaria). Student book. Release: mid-size-books, asset grade-10-gov-bolivia-physics-student-full-year.pdf. Byte size: 7,505,330 (release asset; no size in record). PDF pages: 54. Offset: the PDF carries the student text's own folios (ending at printed p. 314 — the physics area section of the combined learning text); placements cite section order + PDF position. Verdict: COMPLETE as filed — text runs from the opening Mikola-tube practical to a closing bibliography; identity on cover pages. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bolivia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Uniform motion | Ethiopia, *Grade 9 Student Textbook*, printed pp. 52 |
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 9 Student Textbook*, printed pp. 52 |
 | Unit 3 — Motion in a Straight Line pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 9 Teacher's Guide*, printed pp. 25–40 |
+| §2 Movimiento; MRU — elements/classification of motion, mean/instantaneous/average velocity, units; opened by the Mikola tube bubble practical (Bolivia) | Bolivia, *Texto de Aprendizaje, Física, Cuarto Año*, §2 Movimiento; MRU, PDF pp. 2–15 approx. |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Bolivia).**
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

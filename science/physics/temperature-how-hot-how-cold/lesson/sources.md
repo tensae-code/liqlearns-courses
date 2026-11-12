@@ -1,17 +1,20 @@
 # Sources — Temperature — how hot, how cold
 
-countries: Ethiopia
+countries: Ethiopia, Bolivia (teacher-compendium evidence only)
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 103 printed pp. Printed page = PDF page − 8. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). Under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-teacher-placements.md.
+
+**Book 3:** *Compendio para Maestras y Maestros, Área Física (2023–2024)* (teacher compendium — a TEACHER COMPENDIUM re-issuing the official student learning texts for teachers, NOT a student textbook) — Bolivia, Ministerio de Educación de Bolivia. Title as printed: Compendio para Maestras y Maestros — Textos de Aprendizaje 2023–2024, Secundaria Comunitaria Productiva, Área Ciencias Naturales: Física (Ministerio de Educación de Bolivia, Documento oficial 2023). Grade: recorded as Grade 7 in TSV (filing artefact — the compendium spans ALL secondary years, 3º–6º). Teacher book. Release: mid-size-books-2, asset grade-07-gov-bolivia-physics-teacher-compendio.pdf. Byte size: 10,850,498 (release asset). PDF pages: 134. Offset: compendium printed pp. 1–134; its índice cites the student texts' own pages. Verdict: COMPLETE — full text read (44,375 words); presentation + índice prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bolivia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Temperature — how hot, how cold | Ethiopia, *Grade 9 Student Textbook*, printed pp. 146–147 |
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 9 Student Textbook*, printed pp. 146–147 |
 | Unit 7 — Temperature and Thermometry pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 9 Teacher's Guide*, printed pp. 85–103 |
+| 3º año: Calor y temperatura (teacher compendium — evidence) | Bolivia, *Compendio para Maestras y Maestros, Área Física (2023–2024)*, 3º año: Calor y temperatura, student-text p. 59 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia).** Bolivia is named as teacher-compendium evidence only (Compendio para Maestras y Maestros, Área Física 2023–2024 — teacher compendium), not added to this count.
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
