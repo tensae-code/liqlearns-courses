@@ -1,6 +1,6 @@
 # Sources — Archimedes' principle — the upthrust
 
-countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States
+countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -29,6 +29,8 @@ countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sr
 
 **Book 13:** *College Physics 2e* (student textbook) — United States, OpenStax, Rice University; CC BY-NC-SA. Title as printed: College Physics 2e — OpenStax, Rice University; CC BY-NC-SA. Grade: 13 · Student book · Repo path: grade-13/approved-private/united-states/college-physics-2e.pdf · Release: full-quality-oversized-books (asset 263,463,256 bytes — exact match). Byte size: 263,463,256 · PDF pages: 1,671 · Offset: printed folios carried in the PDF; chapter starts cited from this edition's own contents. Verdict: COMPLETE — identity proven by title page; full contents read. The text is the same 34-chapter OpenStax course as *College Physics for AP® Courses 2e* WITHOUT the AP apparatus (no "Connection for AP® Courses"/"Test Prep" sections; chapters run ~6–8% shorter), filed with its own chapter placements at this edition's own printed pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
 
+**Book 14:** *Physics Home-Study Learning — Senior Three (NCDC, 2020)* (student self-study book) — Uganda, National Curriculum Development Centre, Uganda, August 2020 — COVID-19 lockdown home-study intervention, Ministry of Education and Sports. Title as printed: Physics Home-Study Learning — Senior Three. Grade: Senior Three (Grade 10) · Student (self-study) book · Repo path: grade-10/gov/uganda/physics/student/home-study.pdf (Contents API route). Byte size: 3,257,653 (Contents API meta = downloaded) · PDF pages: 54 (= books.json recorded pages) · Offset: printed pagination follows the PDF closely (topics at PDF pp. 8–45). Verdict: COMPLETE — 8 self-study topics with learning outcomes, worked content and exercises, exactly a Senior Three revision pack. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Archimedes' principle and buoyant force | Grade 12 Student Textbook, printed pp. 96–100 |
@@ -45,6 +47,8 @@ countries: Ethiopia, Palestine, Barbados, Bahamas (curriculum evidence only), Sr
 | Ch. 11 Fluid Statics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 11 Fluid Statics, printed p. 473 — pressure, Pascal, buoyancy |
 | Ch. 11 Fluid Statics (College Physics 2e) | United States, *College Physics 2e*, Ch. 11 Fluid Statics, printed p. 443 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| Floating and Sinking (Uganda, Senior Three home-study) | Uganda, *Physics Home-Study Learning — Senior Three (NCDC, 2020)*, Floating and Sinking — PDF p. 25 |
 
-Searchable tags: physics, grade 12, fluid mechanics, archimedes' principle — the upthrust, density, pressure, teacher, palestine, sri lanka, united states
+**Acceptance count: taught in 11 countries (Ethiopia, Palestine, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, Indonesia, United States, Uganda).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+
+Searchable tags: physics, grade 12, fluid mechanics, archimedes' principle — the upthrust, density, pressure, teacher, palestine, sri lanka, united states, uganda

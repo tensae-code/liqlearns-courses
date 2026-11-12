@@ -1,6 +1,6 @@
 # Sources — Changes of state
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Sudan, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Sudan, Morocco (teacher-guide evidence only), Uganda
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum ev
 
 **Book 6:** *Al Moufid en Physique/Chimie, 1ère Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 7 (1ère année collégiale, 1AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 1ère Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-07/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 2,175,034 · PDF pages: 161 · Offset: the sommaire's pages are the guide's printed pages and are cited as printed p. Verdict: COMPLETE (title page, preface, full sommaire and activity descriptions verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
 
+**Book 7:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states ("This book consists of 8 chapters to be learnt in Senior One"). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Change of phase | Grade 11 Student Textbook, printed pp. 196–202 |
@@ -26,6 +28,8 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum ev
 | Chapitre 2, The three states of matter — states introduced phenomenologically in the first physics chapter of collège (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)*, Chapitre 2, printed p. 44 |
 | Chapitre 9, Physical transformations of matter — fusion, solidification, vaporisation as physical (reversible) transformations (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)*, Chapitre 9, printed p. 80 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Sudan).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| Ch 3: changes of state (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 3 — printed p. 59 |
 
-Searchable tags: physics, grade 11, heat conduction and calorimetry, changes of state, temperature
+**Acceptance count: taught in 3 countries (Ethiopia, Sudan, Uganda).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+
+Searchable tags: physics, grade 11, heat conduction and calorimetry, changes of state, temperature, uganda

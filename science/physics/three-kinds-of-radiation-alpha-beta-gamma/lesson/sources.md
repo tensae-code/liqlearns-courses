@@ -1,6 +1,6 @@
 # Sources — Three kinds of radiation — alpha, beta, gamma
 
-countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Syria, Malaysia, Fiji, Indonesia, United States
+countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Syria, Malaysia, Fiji, Indonesia, United States, Uganda
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bah
 
 **Book 10:** *College Physics 2e* (student textbook) — United States, OpenStax, Rice University; CC BY-NC-SA. Title as printed: College Physics 2e — OpenStax, Rice University; CC BY-NC-SA. Grade: 13 · Student book · Repo path: grade-13/approved-private/united-states/college-physics-2e.pdf · Release: full-quality-oversized-books (asset 263,463,256 bytes — exact match). Byte size: 263,463,256 · PDF pages: 1,671 · Offset: printed folios carried in the PDF; chapter starts cited from this edition's own contents. Verdict: COMPLETE — identity proven by title page; full contents read. The text is the same 34-chapter OpenStax course as *College Physics for AP® Courses 2e* WITHOUT the AP apparatus (no "Connection for AP® Courses"/"Test Prep" sections; chapters run ~6–8% shorter), filed with its own chapter placements at this edition's own printed pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/united-states-placements.md.
 
+**Book 11:** *Physics Home-Study Learning — Senior Four (NCDC, 2020)* (student self-study book) — Uganda, National Curriculum Development Centre, Uganda, August 2020 · ISBN 978-9970-00-199-6 — COVID-19 home-study material for Terms 2 and 3. Title as printed: Physics Home-Study Learning — Senior Four. Grade: Senior Four (Grade 11) · Student (self-study) book · Repo path: grade-11/gov/uganda/physics/student/home-study.pdf (release asset: mid-size-books-2). Byte size: 6,924,932 (release index size = downloaded) · PDF pages: 65 (= books.json recorded pages) · Offset: chapters at PDF pp. 7–60. Verdict: COMPLETE — the full Term 2 + Term 3 self-study booklet, 8 chapters. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Radioactivity — alpha, beta and gamma | Grade 11 Student Textbook, printed pp. 299–311 |
@@ -35,8 +37,10 @@ countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bah
 | Ch. 31 Radioactivity and Nuclear Physics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 31 Radioactivity and Nuclear Physics, printed p. 1475 — decay, half-life, binding energy, fission/fusion |
 | Ch. 31 Radioactivity and Nuclear Physics (College Physics 2e) | United States, *College Physics 2e*, Ch. 31, printed p. 1393 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Syria, Malaysia, Fiji, Indonesia, United States).** Andorra is named as curriculum-programme evidence only (*Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programme), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| Chapter: Radioactivity (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Radioactivity chapter — PDF p. 57 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Syria, Malaysia, Fiji, Indonesia, United States, Uganda).** Andorra is named as curriculum-programme evidence only (*Programa de física 2 del batxillerat general de l'Escola Andorrana (Decret del 9-12-2020)* — official curriculum programme), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, three kinds of radiation — alpha, beta, gamma, radiation, united states
+Searchable tags: physics, grade 11, nuclear physics, three kinds of radiation — alpha, beta, gamma, radiation, united states, uganda

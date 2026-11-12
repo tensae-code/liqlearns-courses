@@ -1,6 +1,6 @@
 # Sources — Momentum and impulse
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Bolivia (teacher-compendium evidence only), Nigeria (teacher-guide evidence only), Italy, Malaysia, Fiji
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Bolivia (teacher-compendium evidence only), Nigeria (teacher-guide evidence only), Italy, Malaysia, Fiji, Uganda
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Bolivia (teacher-
 
 **Book 7:** *Year 12 Physics* (student textbook) — Fiji, Ministry of Education, Curriculum Development Unit, Fiji, 2016. Title as printed: Year 12 Physics (Ministry of Education, Curriculum Development Unit, Fiji, 2016). Grade: 12 · Student book · Repo path: grade-12/gov/fiji/physics/student/full-year.pdf (fetched via recorded source URL mirror; GitHub Contents route timed out — see log). Byte size: 4,399,755 (no size in record) · PDF pages: 163 · Offset: printed p. N ≈ PDF p. N+2 (front matter i–ii + chapter re-start; TOC printed pp. 1–160). Verdict: COMPLETE — full text read (34,427 words); title page proves identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
+**Book 8:** *Physics Home-Study Learning — Senior Three (NCDC, 2020)* (student self-study book) — Uganda, National Curriculum Development Centre, Uganda, August 2020 — COVID-19 lockdown home-study intervention, Ministry of Education and Sports. Title as printed: Physics Home-Study Learning — Senior Three. Grade: Senior Three (Grade 10) · Student (self-study) book · Repo path: grade-10/gov/uganda/physics/student/home-study.pdf (Contents API route). Byte size: 3,257,653 (Contents API meta = downloaded) · PDF pages: 54 (= books.json recorded pages) · Offset: printed pagination follows the PDF closely (topics at PDF pp. 8–45). Verdict: COMPLETE — 8 self-study topics with learning outcomes, worked content and exercises, exactly a Senior Three revision pack. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Momentum and impulse | Grade 11 Student Textbook, printed pp. 148–153 |
@@ -27,8 +29,10 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Bolivia (teacher-
 | Ch. 2 Force and Motion I, §2.7 Impulse and Impulsive Force (Malaysia) | Malaysia, *Physics Form 4*, Ch. 2, §2.7 Impulse and Impulsive Force — printed p. 67 — impulse and impulsive force as a separate section (car-safety applications are the Malaysian signature here) |
 | Ch. 1 §1.8 Momentum (Fiji, Year 12) | Fiji, *Year 12 Physics*, Ch. 1 §1.8 Momentum — printed p. 60 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Italy, Malaysia, Fiji).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Bolivia is named as teacher-compendium evidence only (Compendio para Maestras y Maestros, Área Física 2023–2024 — teacher compendium), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
+| Momentum (Uganda, Senior Three home-study) | Uganda, *Physics Home-Study Learning — Senior Three (NCDC, 2020)*, Momentum — PDF p. 14 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Italy, Malaysia, Fiji, Uganda).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count. Bolivia is named as teacher-compendium evidence only (Compendio para Maestras y Maestros, Área Física 2023–2024 — teacher compendium), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 
-Searchable tags: physics, grade 11, dynamics, momentum and impulse, momentum
+Searchable tags: physics, grade 11, dynamics, momentum and impulse, momentum, uganda

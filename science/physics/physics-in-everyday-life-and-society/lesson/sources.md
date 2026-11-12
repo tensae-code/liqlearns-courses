@@ -1,6 +1,6 @@
 # Sources — Physics in everyday life and society
 
-countries: Ethiopia, Slovenia, Sudan
+countries: Ethiopia, Slovenia, Sudan, Uganda
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Slovenia, Sudan
 
 **Book 4:** *الفيزياء — للصف الأول الثانوي (Physics — First Secondary Year)* (student textbook) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research (NCCER), Bakht al-Ruda. ISBN 978-99942-53-54-8; legal deposit 741/2008; prepared by staff of Sudan University of Science and Technology. Grade 10 (First Secondary) · Student book · Repo path: grade-10/gov/sudan/physics/student/full-year.pdf. Release: mid-size-books. Byte size: 17,263,083. PDF pages: 89. Offset: printed p. 1 ≈ PDF p. 5 (printed = PDF − 4). Verdict: COMPLETE — the whole book is the mechanics volume (its preface scopes it to the science of motion/mechanics); 5 chapters, ending with the energy chapter and the deposit page. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sudan-placements.md.
 
+**Book 5:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states ("This book consists of 8 chapters to be learnt in Senior One"). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Why physics matters to society | Grade 11 Student Textbook, printed pp. 1–3 |
@@ -17,8 +19,10 @@ countries: Ethiopia, Slovenia, Sudan
 | Physics and the environment: Fizikalna dognanja (What physics has found) (Slovenia) | Slovenia, *Fizika 9*, Physics and the environment: Fizikalna dognanja (What physics has found) — incl. global warming of the atmosphere and solar cells — printed pp. 227–231 (unit folder 201) — Slovenia's own way: the course closes with physics applied to the environment |
 | Ch 1.3–1.4: importance of physics; effect of science and technology on society (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. 3 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Sudan).**
+| Ch 1: importance of studying physics; science, technology and society strand (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 1 — printed p. 5 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Sudan, Uganda).**
 
 In the student book, figure numbering restarts oddly in Unit 1's current-status section (Figures 9–16); no figure numbers are relied on in these lessons.
 
-Searchable tags: physics, grade 11, physics and human society, physics in everyday life and society, content, electron, ultrasound
+Searchable tags: physics, grade 11, physics and human society, physics in everyday life and society, content, electron, ultrasound, uganda

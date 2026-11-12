@@ -1,6 +1,6 @@
 # Sources — Force — gravity, weight and the newton meter
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only)
+countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-gui
 
 **Book 7:** *Al marjie Physique Chimie, Guide de l'enseignant(e), 3ème année de l'enseignement secondaire collégial* (teacher guide) — Morocco, Grade 9 (3AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Authors: Ahmed EL KOUARTY, Abdelkader SARSI, Salah BENYAMNA, Abdesslam RECHO et al. Repo path: grade-09/gov/morocco/physics-chemistry/teacher/marji3-3ac.pdf. Release: mid-size-books-6, asset grade-09-gov-morocco-physics-chemistry-teacher-marji3-3ac.pdf. Byte size: 7,175,934 · PDF pages: 119 · Offset: printed p. = PDF p. Verdict: COMPLETE (cover, table of contents, Partie 2 part-structure verified; physics unit headings located inside it). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
 
+**Book 8:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states ("This book consists of 8 chapters to be learnt in Senior One"). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gravity at every position of a falling ball | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 184–186 |
@@ -30,8 +32,10 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-gui
 | Chapitre 13, Weight and mass — distinguishing weight from mass, P = m·g (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, Chapitre 13, printed p. 104 |
 | Poids et masse units (teacher guide — evidence) | Morocco, *Al Marjie Physique Chimie, 3AC — Guide de l'enseignant(e)*, Partie 2, printed pp. 66–90 (located at PDF pp. 73, 92) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Malaysia).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| Ch 4: force of gravity and weight (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 4 — printed p. 66 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Malaysia, Uganda).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Placement: Student item 83 — g07-student-placements.md (Unit 7). This lesson rests on the student book only. BOOK NOTE: the student book's contents lists §7.4.2 twice (gravity, then measuring force; the second should be §7.4.3) — a contents misprint only; the body sections are taught here in their true order.
 
-Searchable tags: gravity weight W=mg newton meter spring balance grade 7 unit 7 ethiopia, finland
+Searchable tags: gravity weight W=mg newton meter spring balance grade 7 unit 7 ethiopia, finland, uganda

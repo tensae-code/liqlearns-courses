@@ -1,12 +1,14 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only)
+countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
 **Book 2:** *Physics for CSEC Examinations, 3rd Edition (Student's Book)* (student book) — Barbados. Title as printed: Physics for CSEC Examinations — 3rd Edition, Alec Farley and Clarence Trotz, Series Editor Dr Mike Taylor (Macmillan Caribbean; print file dated 2014-06-23, ISBN 9780230438842). Grade: 10 (CSEC, Caribbean) · Student book · Source note: this is the Caribbean-region CSEC text recorded for Barbados; an approved regional text, not a Barbados-authored book — cited as it is. Repo path: grade-10/gov/barbados/physics/student-book/physics-for-csec-examinations-3rd-edition-farley-trotz.pdf · Release: mid-size-books-3. Byte size: 35,234,406 (exact match: books.json = release asset) · PDF pages: 603 (exact match) · Offset: printed p. N ≈ PDF p. N+9 (front matter i–viii + prefaces). Verdict: COMPLETE — full text read (273,879 words); cover, imprint and contents prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/barbados-placements.md.
 
 **Book 3:** *Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* (teacher guide) — Indonesia, Kemdikbudristek, 2022. Title as printed: Buku Panduan Guru FISIKA untuk SMA/MA Kelas XI, Kemdikbudristek, 2022. Grade: 11 · Teacher guide · Edition: Cetakan Pertama, 2022; ISBN 978-623-472-724-1 (jil. 1) · Repo path: grade-11/gov/indonesia/fisika/teacher/full-year.pdf · Source read: https://static-sc.cloudapp.web.id/content/pdf/bukuteks/kurikulum21/Fisika-BG-KLS-XI.pdf (recorded source_url) · Extent: xiv + 234 printed pages · Offset: guide printed pagination; Panduan Khusus chapter starts — Bab 1 p. 13, Bab 2 p. 43, Bab 3 p. 81, Bab 4 p. 111, Bab 5 p. 135, Bab 6 p. 165, Bab 7 p. 191 · Verdict: COMPLETE (read in full text via browser fetch; cover, imprint, both TOCs and chapter schemes verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/indonesia-placements.md.
+
+**Book 4:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states ("This book consists of 8 chapters to be learnt in Senior One"). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,10 +17,12 @@ countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only)
 | Ch. 3 Acquiring Experimental Skills — practical assessment criteria M/M, P/D, A/I | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 3 Acquiring Experimental Skills, printed p. 26 |
 | Bab 3 Dinamika (Indonesia, Grade 11 teacher guide — evidence) | Indonesia, *Buku Panduan Guru Fisika untuk SMA/MA Kelas XI*, Bab 3 Dinamika — printed p. 81 — the ΣF vs a investigation is run as a controlled fair test |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Barbados).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
+| Ch 2: the scientific method inside the measurements chapter (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 2 Measurements in Physics — printed p. 28 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Barbados, Uganda).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
 
 Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — it teaches a §1.1 measurement section the student book lacks; guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
 Student placement: Grade 8 student item 4 (Unit 1 §1.3, printed pp. 12–14), with the variable definitions it stands on at printed pp. 6–8 inside student item 2's section — both ranges are the student book's own Unit 1, cited as printed. The fertiliser-and-bean framing is the student book's own fair-test activity. No book errors inside this item were flagged by the placements.
 
-Searchable tags: fair test, independent variable, dependent variable, controlled variables, control group, constants, Grade 8 Unit 1
+Searchable tags: fair test, independent variable, dependent variable, controlled variables, control group, constants, Grade 8 Unit 1, uganda
