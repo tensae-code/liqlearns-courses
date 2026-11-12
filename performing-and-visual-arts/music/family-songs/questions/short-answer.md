@@ -7,3 +7,6 @@ Answer in a few words, out loud or in writing.
 
 **2. (Sub lesson 3)** What wish does the Our Families song sing back for mother, father, brother and sister?
 **Answer:** Long life to them.
+
+**3. (Sub lesson 4)** In its book, what work does the My Childhood song stand immediately before?
+**Answer:** The photograph work — the song is a sung picture of childhood, just before the pictured ones.

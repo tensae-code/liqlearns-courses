@@ -30,6 +30,14 @@ These songs are sung **in groups, as the teacher intones** — the teacher start
 
 And there is one deeper step. In Grade 2 the family song is **sung from notes**: the song is written in music notes, and the singers follow the written notes as they sing — the picture of the family sits beside the written song. Singing from notes means the page tells your voice where to go.
 
+## Sub lesson 4 — My Childhood
+
+One more song belongs to this family — the song of the child himself. In Grade 2 the book gives **"ልጅነቴ"** — *My Childhood*. Its source is named in the book: **ህይወት ማሞ** (Hiwot Mamo), and its melody is **traditional** — a tune carried by the people themselves.
+
+The song celebrates **childhood play** — the playing years themselves, sung with joy — and it sings of **Ethiopia as an eternal home**: the country the child plays in is the home that lasts forever.
+
+In the book the song stands immediately before the photograph work — a **sung picture of childhood**, just before the children meet pictured ones. Sing it as that: your own childhood, sung.
+
 ## Say it to your companion
 
 Sing the mother song to your companion. Then say, for each of the four songs, one thing the song honours: mother, father, sister, brother. Finish with the message of a family song you know yourself.

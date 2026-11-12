@@ -25,3 +25,7 @@ a) by one child alone  b) in groups, as the teacher intones  c) without singing,
 **6. (Sub lesson 3)** Singing from notes means —
 a) singing the loudest  b) following the written music notes as you sing  c) singing with no book at all
 **Answer: b) following the written music notes as you sing**
+
+**7. (Sub lesson 4)** "ልጅነቴ" (My Childhood) celebrates —
+a) going to market  b) childhood play, and Ethiopia as an eternal home  c) the rainy season
+**Answer: b) childhood play, and Ethiopia as an eternal home**

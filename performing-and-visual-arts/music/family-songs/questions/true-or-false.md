@@ -10,3 +10,6 @@ Say whether each sentence is true or false.
 
 **3. (Sub lesson 3)** The family songs are only ever sung by one person alone.
 **Answer: False** — They are sung in groups, as the teacher intones.
+
+**4. (Sub lesson 4)** The melody of "ልጅነቴ" (My Childhood) is a traditional melody, and its source is named as ህይወት ማሞ.
+**Answer: True**

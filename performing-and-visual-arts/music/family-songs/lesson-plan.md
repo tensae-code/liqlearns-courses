@@ -22,6 +22,7 @@ The parts of this lesson, in order — the list the learner sees from the start,
 1. **Mother and father songs** — "እናቴ" (My Mother), who thinks of her child morning and evening, and "አባቴ" (My Father), support and shelter who works to provide — the two honouring songs of Grade 1.
 2. **Sister and brother songs** — "እህቴ" (My Sister), the playmate — playing, jumping and being happy together — and "ወንድሜ" (My Brother), who advises and cares.
 3. **Our families together** — "ቤተሰብ" (Family) and "ቤተሰቦቻችን" (Our Families) — the whole family sung together in groups, and the Grade 2 step: singing the family song from written notes.
+4. **My Childhood** — "ልጅነቴ" (My Childhood), source ህይወት ማሞ, a traditional melody — the child's own song inside the family: it celebrates childhood play and Ethiopia as an eternal home, standing in its book just before the photograph work as a sung picture of childhood. (Added by the supplementary build, Group G, from the Grade 2 placement the first groups left unstocked.)
 
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
@@ -34,6 +35,7 @@ Gate pool: all questions of the sub lesson — no hardness ranking is written in
 3. Sing the sister song (the playmate) and the brother song (who advises and cares).
 4. Sing the family songs together in a group, as the teacher intones them.
 5. Explain what singing from notes means, in simple words.
+6. Sing the My Childhood song and say what it celebrates: childhood play, and Ethiopia as an eternal home.
 
 ## What you need
 Your voice, and your class to sing with. For the deepest part, a family song written in notes, as in the book.
@@ -46,6 +48,7 @@ Your voice, and your class to sing with. For the deepest part, a family song wri
    - ADD AUDIO: sing-along recordings of "እህቴ" (My Sister) and "ወንድሜ" (My Brother) — the student sings along with each.
    - ADD GIF (described only — not filed in this build): a GIF of children jumping and playing together, for the sister song — the student jumps gently on the beat while singing.
    - ADD AUDIO: a sing-along recording of "ቤተሰቦቻችን" (Our Families) sung in groups, teacher's call and class answer — the student sings the answer parts.
+   - ADD AUDIO: a sing-along recording of "ልጅነቴ" (My Childhood) — the student sings along, then says what the song celebrates.
 3. **Say it to your companion** — as in lesson/lesson.md.
 4. **Questions** — from questions/, served at the learner's level and teaching-mix (levels.md).
 5. **Hands-on** — hands-on.md.
@@ -57,6 +60,7 @@ Your voice, and your class to sing with. For the deepest part, a family song wri
 - ADD AUDIO: sing-along recordings of "እህቴ" (My Sister) and "ወንድሜ" (My Brother) — the student sings along with each.
 - ADD GIF (described only — not filed in this build): a GIF of children jumping and playing together, for the sister song — the student jumps gently on the beat while singing.
 - ADD AUDIO: a sing-along recording of "ቤተሰቦቻችን" (Our Families) sung in groups, teacher's call and class answer — the student sings the answer parts.
+- ADD AUDIO: a sing-along recording of "ልጅነቴ" (My Childhood) — the student sings along, then says what the song celebrates.
 - VIDEO — the sing-along script in video-script.md, filmed (made later) → the student sings along with it.
 
 A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.

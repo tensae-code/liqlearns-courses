@@ -11,3 +11,5 @@ Brother advises and cares. Sing to him.
 
 Then sing them all together — our families!
 Long life to them!
+
+And childhood itself has a song — "ልጅነቴ", My Childhood: play, and Ethiopia, our eternal home. Sing it.

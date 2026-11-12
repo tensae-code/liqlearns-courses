@@ -10,3 +10,6 @@ Sub lesson 2 questions from the type files. Pass mark: sing both songs and say w
 
 ## Sub lesson 3 — Our families together
 Sub lesson 3 questions from the type files. Pass mark: sing a family song in a group, answering group to group, and say what singing from notes means.
+
+## Sub lesson 4 — My Childhood
+Sub lesson 4 questions from the type files. Pass mark: sing the My Childhood song and say what it celebrates — childhood play, and Ethiopia as an eternal home.

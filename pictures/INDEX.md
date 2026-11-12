@@ -1531,3 +1531,40 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 12186 | pictures/12186.gif | sorting | Science — Dry rubbish in its place |
 | 12187 | pictures/12187.webp | liquidwaste | Science — Dirty water and what it brings |
 | 12188 | pictures/12188.webp | shared | Science — Resources people make — and looking after them |
+| 10000 | pictures/10000.webp | the seven elements in seven tiles | Performing and Visual Arts — Visual Art |
+| 10001 | pictures/10001.webp | a twelve-part colour wheel | Performing and Visual Arts — Visual Art |
+| 10002 | pictures/10002.webp | drawing tools and a shaded form | Performing and Visual Arts — Visual Art |
+| 10003 | pictures/10003.webp | papier-mâché, collage and mosaic pieces | Performing and Visual Arts — Visual Art |
+| 10004 | pictures/10004.webp | the paint kinds in a row | Performing and Visual Arts — Visual Art |
+| 10005 | pictures/10005.webp | a cave wall with animal paintings | Performing and Visual Arts — Visual Art |
+| 10006 | pictures/10006.webp | a painter at an easel with a mother-and-child painting | Performing and Visual Arts — Visual Art |
+| 10007 | pictures/10007.webp | highland and lowland houses | Performing and Visual Arts — Visual Art |
+| 10008 | pictures/10008.webp | shapes and forms in colour, and a pattern in order | Performing and Visual Arts — Visual Art |
+| 10009 | pictures/10009.webp | an emblem and a poster | Performing and Visual Arts — Visual Art |
+| 10010 | pictures/10010.webp | a phone shooting a video, in three shot sizes | Performing and Visual Arts — Visual Art |
+| 10011 | pictures/10011.webp | a staff with the G clef and the F clef | Performing and Visual Arts — Music |
+| 10012 | pictures/10012.webp | eighth notes, a dotted note, and the loud-soft signs | Performing and Visual Arts — Music |
+| 10013 | pictures/10013.webp | the major scale ladder and a key signature | Performing and Visual Arts — Music |
+| 10014 | pictures/10014.webp | the four qenet on a five-sound ladder | Performing and Visual Arts — Music |
+| 10015 | pictures/10015.webp | an azmari, a church singer, and the instrument families | Performing and Visual Arts — Music |
+| 10016 | pictures/10016.webp | a fukera performer and his answering companions | Performing and Visual Arts — Music |
+| 10017 | pictures/10017.webp | a flag, elders under a tree, and children planting | Performing and Visual Arts — Music |
+| 10018 | pictures/10018.webp | a stage world labelled by its elements | Performing and Visual Arts — Drama and Dance |
+| 10019 | pictures/10019.webp | a script page and a rehearsal in progress | Performing and Visual Arts — Drama and Dance |
+| 10020 | pictures/10020.webp | a mime pulling an invisible rope, and children in animal masks | Performing and Visual Arts — Drama and Dance |
+| 10021 | pictures/10021.webp | an old cinema hall and a theatre stage | Performing and Visual Arts — Drama and Dance |
+| 10022 | pictures/10022.webp | dancers of the regions in their styles | Performing and Visual Arts — Drama and Dance |
+| 10023 | pictures/10023.webp | a composed dance formation, traditional and modern | Performing and Visual Arts — Drama and Dance |
+| 10024 | pictures/10024.webp | children in a play circle at dusk | Performing and Visual Arts — Drama and Dance |
+| 10025 | pictures/10025.webp | women and girls playing Shadey with flowers | Performing and Visual Arts — Drama and Dance |
+| 10026 | pictures/10026.webp | art speaking for society | Performing and Visual Arts — Culture and Values |
+| 10027 | pictures/10027.webp | folk crafts on a market cloth | Performing and Visual Arts — Culture and Values |
+| 10028 | pictures/10028.webp | a class judging artworks with reasons | Performing and Visual Arts — First Steps |
+| 10029 | pictures/10029.webp | the arts woven through the school subjects | Performing and Visual Arts — First Steps |
+| 10080 | pictures/10080.gif | a flat circle shading into a sphere | Performing and Visual Arts — Visual Art |
+| 10084 | pictures/10084.gif | staff lines and spaces lighting up in counting order | Performing and Visual Arts — Music |
+| 10085 | pictures/10085.gif | a dot appearing and a note stretching by half | Performing and Visual Arts — Music |
+| 10086 | pictures/10086.gif | a mime pulling an invisible rope | Performing and Visual Arts — Drama and Dance |
+| 10087 | pictures/10087.gif | the eskesta shoulder-and-chest shake on the count | Performing and Visual Arts — Drama and Dance |
+| 10088 | pictures/10088.gif | a dance phrase built element by element | Performing and Visual Arts — Drama and Dance |
+| 10089 | pictures/10089.gif | the circle game's turning movement | Performing and Visual Arts — Drama and Dance |

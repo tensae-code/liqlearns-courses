@@ -18,10 +18,11 @@ countries: Ethiopia
 | Sub lesson 2 — Brother song "ወንድሜ" (My Brother), with Exercise 7 (sing a family song you know and explain its message) | Grade 1 student textbook, printed p. 21 |
 | Sub lesson 3 — "ቤተሰብ" (Family), sung from written notes (Singing from Notes — Family Songs) | Grade 2 student textbook, §2.1–2.1.1, printed p. 24 |
 | Sub lesson 3 — "ቤተሰቦቻችን" (Our Families), sung in groups as the teacher intones | Grade 3 student textbook, printed p. 26 |
+| Sub lesson 4 — "ልጅነቴ" (My Childhood), source ህይወት ማሞ, traditional melody; celebrates childhood play and Ethiopia as an eternal home; stands immediately before the book's photograph work (stocked by the supplementary build, Group G) | Grade 2 student textbook, printed p. 7 |
 | Sub lesson 3 (teacher guide — evidence): the family song sung by the class, the first set song of the course | Grade 1 teacher guide, Ch. 2 §2.1, printed p. 16 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
-No lyrics of any family song are transcribed; the songs are named and their messages summarised, as the placements give them. The written-notes step is named and explained in words only — this lesson does not teach reading the notes themselves; that belongs to the notation lessons of Group E.
+No lyrics of any family song are transcribed; the songs are named and their messages summarised, as the placements give them. The same holds for Sub lesson 4's "ልጅነቴ" (My Childhood), added by Group G: named, sourced (ህይወት ማሞ, traditional melody) and summarised — never transcribed. The written-notes step is named and explained in words only — this lesson does not teach reading the notes themselves; that belongs to the notation lessons of Group E.
 
-Searchable tags: family songs, mother, father, sister, brother, እናቴ, አባቴ, እህቴ, ወንድሜ, ቤተሰብ, ቤተሰቦቻችን, singing from notes
+Searchable tags: family songs, mother, father, sister, brother, እናቴ, አባቴ, እህቴ, ወንድሜ, ቤተሰብ, ቤተሰቦቻችን, singing from notes, ልጅነቴ, my childhood, ህይወት ማሞ

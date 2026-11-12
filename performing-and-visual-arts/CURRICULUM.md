@@ -85,8 +85,30 @@ lessons are the books'.
   handwashing steps cannot fit a truthful 2-second loop — the
   ten-panel picture strip carries them), recorded in the
   lessons' sources.
-- Remaining: the upper-grade depth the read placed beyond the
-  first map (upper-grade music, drama, drawing and making, and
-  one unassigned song) is being built as a supplementary group
-  and registered here as it lands. See ABOUT.md for the full
-  book list and the acceptance reckoning.
+- **Supplementary group (upper-grade depth) — BUILT
+  2026-11-12:** 30 lessons, 440 questions, 37 media filed
+  (pictures 10000–10029, GIFs 10080–10089, all drawn and
+  frame-checked). Visual Art (11): The Elements of Visual Art;
+  The Colour Wheel; Drawing: The Foundation Skill; Making with
+  Paper and Pieces; Paints and How They Work; Cave Art and
+  Church Painting; Great Painters of Ethiopia; Houses of Our
+  Country; Shapes, Forms and Patterns in Colour; Emblems and
+  Posters That Speak; Video: Moving Pictures. Music (7):
+  Reading Music on the Staff; Faster Notes, Dynamics and Tempo;
+  Scales, Pitch and Key Signatures; Qenet: Ethiopia's Scales;
+  Ethiopian Traditional Music and Its History; Fukera and
+  Shilela: Boast and Answer; Anthems and Songs That Teach.
+  Drama and Dance (8): The Elements of Theatre; Writing and
+  Putting On a Play; Mime, Fables and First Plays; Theatre and
+  Film Through History; Folk Dance Styles and Eskesta; Dance
+  Composition and Modern Dance; Women's Traditional Plays;
+  Hoya Hoye and Buhe: Traditional Play Songs — and the Grade 2
+  song "My Childhood" (ልጅነቴ) rides inside Family Songs as
+  its own Sub lesson 4, with 3 questions of its own, as the
+  sweep judged. First Steps (2): Appreciating and Valuing the
+  Arts; The Arts Connect to Everything. Culture and Values
+  (2): What the Arts Do for Society; Folk Crafts of Ethiopia.
+
+**The whole course stands at 95 lessons, 1,424 questions and
+175 pictures/GIFs.** See ABOUT.md for the full book list and
+the acceptance reckoning.
