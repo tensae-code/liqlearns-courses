@@ -19,3 +19,21 @@ Pass mark: give the five steps — armature, make the material, apply, dry all t
 
 ## Sub lesson 6 — Monuments and artifacts (teacher-guide evidence)
 Pass mark: define artifact (any item made or given shape) and monument (built to commemorate a person or event), with the Tiya and Aksum stelae as examples.
+
+## Sub lesson 7 — Ethiopia's ancient monuments — the roll (Grade 8)
+Pass mark: name the three ancient one-stone monument groups (Axum, Tiya, Konso wakas) and at least four of Addis Ababa's memorial monuments.
+
+## Sub lesson 8 — The Axum monuments (Grade 8)
+Pass mark: give the Axum monuments' sizes (24–33 m), their one-rock making, false doors/windows and half-circle tops, the broken 33-metre stele, and the Rome theft and return.
+
+## Sub lesson 9 — Konso waka and the Tiya standing stones (Grade 8)
+Pass mark: tell whom a waka remembers and where it stands; give Tiya's numbers (44 stones, ~32 carved, 88 km from Addis Ababa, 1–5 m) and three carved images.
+
+## Sub lesson 10 — Axum coins; war weapons and jewellery (Grade 8)
+Pass mark: describe the Axum coins (gold/silver/bronze; king's portrait with barley ears; sun, moon and cross; 'alado') and name the war weapons with their Amharic names.
+
+## Sub lesson 11 — Monuments and their messages: living witnesses (Grade 8)
+Pass mark: call monuments living history witnesses and tell the messages of the Menelik, Haile Selassie and Abune Petros monuments (bronze; five-year struggle and the African Union; martyrdom 1929 E.C., monument 1933 E.C. on the spot).
+
+## Sub lesson 12 — Heritage in pictures (Grade 4)
+Pass mark: name the heritage plates' contents (parchment manuscripts, Debre Birhan Selassie painting; Aksum obelisk, Gondar palace, King Mikael's hall; Yemrehane Kristos rock church) and carry out Activity 3.1.

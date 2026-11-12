@@ -25,3 +25,7 @@ a) gouged away  b) left raised  c) painted last
 **6. (Sub lesson 6)** In stencil printing, the colour passes —
 a) over the whole sheet evenly  b) through the cut-out holes, dabbed with sponge or cloth  c) under the paper
 **Answer: b) through the cut-out holes.**
+
+**7.** (Sub lesson 7) The book's sharp-tool rules say you must never —
+a) sharpen a tool  b) share or pass sharp tools  c) carve wood
+**Answer: b) share or pass sharp tools.**

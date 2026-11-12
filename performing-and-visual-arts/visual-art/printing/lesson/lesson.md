@@ -69,6 +69,15 @@ Stencil grows: letters cut in thick paper print words; and a design can be print
 
 Printing itself is old — a branch of graphics whose beginnings are argued over: some scholars say Han-dynasty China, most agree on ancient Egypt. Its heart has never changed: carve or prepare the image, ink it, press it, repeat. Its grown-up forms include **batik** — cloth dyed where melted candle (wax) has covered it, so the dye cannot reach, the wax later ironed away — and **silk-screen** — colour pushed with a squeegee through silk stretched on a frame, its holes blocked opposite the design, so many prints can be prepared at one time. Printmakers name more methods still: intaglio, block/relief, lithography and screen printing among them — a painting is a one-off; prints are multiples.
 
+## Sub lesson 7 — Sharp tools: the carving safety rules (Grade 7)
+
+Printing blocks and carving tools are **sharp** — cutter, blade, knife — and sharp tools cause bleeding and cuts. The book's safety teaching is short and absolute:
+
+- **Work carefully** with every sharp tool — slowly, with the cut always travelling away from your other hand.
+- **Never share or pass sharp tools** — a tool is set down, never handed blade-first, and never carried open through the class.
+
+Every carved block in this lesson — and every carving you will ever do — stands under these two rules.
+
 ## Say it to your companion
 
 Explain the mirror rule to your companion with an example: "To print the letter facing this way, I carve it facing…" Then tell them which printing way you would choose for a gift card, and why.

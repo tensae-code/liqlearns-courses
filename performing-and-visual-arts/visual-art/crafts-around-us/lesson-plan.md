@@ -15,6 +15,11 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 5. **Three families of pottery** — earthenware, stoneware and ceramic ware, told apart by heat and strength.
 6. **Crafts kept alive** — how crafts survive: inherited skills, associations, and people who value handmade things (partly teacher-guide evidence — see sources.md).
 
+7. **Ancient handcraft: art you use every day (Grade 8)** — fully indigenous materials, made by hand for use — coins, knockers, pottery, weaving, embroidery.
+8. **Ancient weaving: clothes for every occasion (Grade 8)** — ሽመና from cotton, wool and thread — qemis to aklil, for councils, weddings, mourning and daily life.
+9. **Ancient pottery and today's pottery works (Grade 8)** — from the Axumite era — insira, dist, masero, jebena, gan — pottery for food, income and culture.
+10. **Stone tools and ancient jewellery (Grade 8)** — spear, knife, axe and the stone mill; ጌጣጌጥ — folk jewellery from local inputs, worn across the body.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

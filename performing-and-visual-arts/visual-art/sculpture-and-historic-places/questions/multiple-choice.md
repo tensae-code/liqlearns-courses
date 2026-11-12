@@ -25,3 +25,35 @@ a) tearing the strip edges  b) painting before it is dry all the way through  c)
 **6. (Sub lesson 6)** A monument is —
 a) any old stone  b) a structure explicitly created to commemorate a person or event  c) a kind of coin
 **Answer: b)** — the Tiya and Aksum stelae are examples.
+
+**7.** (Sub lesson 7) Which group is carved from one uniform stone?
+a) Axum, Tiya and Konso wakas  b) only Piassa statues  c) wooden houses
+**Answer: a) Axum, Tiya and Konso wakas.**
+
+**8.** (Sub lesson 8) The Axum monuments stand —
+a) 2–3 metres  b) 24–33 metres  c) 100 metres
+**Answer: b) 24–33 metres.**
+
+**9.** (Sub lesson 8) The stele stolen to Rome was —
+a) destroyed  b) returned and stood where it was  c) sold
+**Answer: b) returned and stood where it was.**
+
+**10.** (Sub lesson 9) A Konso waka remembers —
+a) a merchant  b) a deceased hero  c) a king only
+**Answer: b) a deceased hero.**
+
+**11.** (Sub lesson 9) Tiya's stones number —
+a) 12  b) 44, about 32 carved  c) 300
+**Answer: b) 44, about 32 carved.**
+
+**12.** (Sub lesson 10) Axum gold coins are called —
+a) alado (አላዶ)  b) birr  c) talari
+**Answer: a) alado (አላዶ).**
+
+**13.** (Sub lesson 11) Abune Petros was martyred in —
+a) 1929 E.C.  b) 1900 E.C.  c) 1963 E.C.
+**Answer: a) 1929 E.C.**
+
+**14.** (Sub lesson 12) Fig. 3.8 of the Grade 4 book shows —
+a) the Gondar palace  b) the Yemrehane Kristos rock church  c) a manuscript
+**Answer: b) the Yemrehane Kristos rock church.**

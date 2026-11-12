@@ -1,0 +1,20 @@
+# Sources — Painting Still Life
+
+countries: Ethiopia
+
+**Book 1:** *Performing and Visual Arts, Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors እሸቱ ታደሰ (Eshetu Tadesse) and ደስታ ይትባረክ (Desta Yitbarek); editors አታላይ መስፍን (Atalay Mesfin) and ደምሌ አባተ (Demle Abate). Printed pp. i–vi + 1–116. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g06-student-placements.md.
+**Book 2:** *Performing and Visual Arts, Teacher's Guide Book, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. (September 2021). Writers: Bareke Tadesse, Gizachew Tasew, Sara Mengistu, Ashenafi Nigussie. Printed pp. 1–161 as paginated; the secured copy's body runs to printed p. 109 (Units 4–5 missing — this lesson's part is Unit 2, inside the body held). Printed page ≈ PDF page + 10 in the body. Read page by page in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g07-teacher-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Painting defined: the word names both the ACT (applying, spraying or placing colour in the proper way on the wanted place) and the RESULT (the work); still-life painting: studying/painting, in a composed arrangement with composed design, the varied simple objects found around us; the book's Fig. 23 still-life drawing example | Book 1, §2.3, printed p. 43 |
+| Sub lesson 2 — Colour from light: colours gained from light's rays are SPECTRUM colours (the rainbow): red, orange, yellow, green, blue, indigo (ሰማያዊ ወይነጠጅ) and violet; colour's source is natural or artificial light; a ray passing broken through a triangular prism shows the blended colours (Fig. 24); with light we see each thing properly, without light all is dark; colour as the artist's feeling-representing, idea-placing element | Book 1, §2.3, printed p. 44 |
+| Sub lesson 3 — Doing the still-life painting: repeated drawing practice and good drawing skill are the basis; tools — thick drawing paper, watercolour, palette, clean water, cloth piece, pencil, eraser, sharpener, support board and the still-life model arrangement; steps — arrange the model in a comfortable place, draw it lightly in pencil on thick paper using the support, pour the needed colours on the palette, paint starting from the lightest colour, waiting for drying; the four pictured stages (ሀ) prepare the model, (ለ) draw it, (ሐ) paint it gradually in watercolour, (መ) finish it | Book 1, §2.3.1, printed pp. 49–50 |
+| Sub lesson 4 — Exercise 2.4: paint the three pictured still-life arrangements (ሀ, ለ, ሐ) in colour | Book 1, Exercise 2.4, printed p. 51 |
+| Sub lesson 5 (teacher guide — evidence) — Drawing and painting: drawing as the starting point of most artwork (recording ideas, planning finished works; used by sculptors, painters, printmakers, ceramic artists); still-life drawing practice, then preparing a still life for painting; painting media — pigment + medium; equipment (acrylic, watercolor, gouache, tempera, oil, poster colour, canvas, brushes, palette, sponge, palette knives); watercolour method taught step by step, with the worked example of a Lake Hawassa watercolour by Solomon Wagaye | Book 2, Unit 2 item 31, printed pp. 67–71 |
+
+**Acceptance count: taught in 1 country (Ethiopia).**
+
+Honesty notes: Sub lesson 5 stands on the Grade 7 teacher's guide and is labelled evidence there and in the table; it is not pupil text. The artist's name in that part, Solomon Wagaye, is copied from the placements file's own summary of the guide. The book's still-life plates (Fig. 23, the stage pictures, the Exercise 2.4 arrangements) are described in words only — artworks are described, never copied. Media 14200 and 14203 are the builders' own drawn plates, not the book's figures.
+
+Searchable tags: still life, painting, watercolour, spectrum, prism, rainbow, ሰማያዊ ወይነጠጅ, Solomon Wagaye, Lake Hawassa, palette

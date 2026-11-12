@@ -26,6 +26,15 @@ Half the wheel is **warm**: yellow, yellow-orange, orange, red-orange, red and r
 
 Colours agree across the wheel: a colour's **opposite** (complementary colour) sits directly across from it, through the centre. The book's pairs: **red–green, yellow–violet, blue–orange, yellow-green–red-violet, red-orange–blue-green**. Set a colour beside its opposite and both look stronger; mix a colour with its opposite and it grows dull — that is the purity rule you met in the first sub lesson, now with its address on the wheel.
 
+## Sub lesson 6 — One colour, and neighbours: monochromatic and analogous (Grade 6)
+
+Colours carry feelings matching their look. **Warm** colours relate to fire and advance toward the eye; **cool** colours rest it. The Grade 6 book adds two colour families built on nearness:
+
+- **Monochromatic** — one colour alone, worked in its own tints and shades: a whole picture in blues, light to dark.
+- **Analogous** — colours that sit **side by side** on the wheel, neighbours sharing a root — yellow, yellow-green and green together.
+
+Against them stand the **complementary** colours, opposites across the wheel, which you met in Sub lesson 5. Neighbours agree quietly; opposites strike. Choose by the feeling the work must carry.
+
 ## Say it to your companion
 
 Ask your companion for any colour on the wheel. Answer with its opposite and whether it is warm or cool. Then change places.

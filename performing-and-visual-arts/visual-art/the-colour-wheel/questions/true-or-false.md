@@ -16,3 +16,5 @@ Say whether each sentence is true or false.
 
 **5. (Sub lesson 5)** A colour's opposite sits right beside it on the wheel.
 **Answer: False**
+
+**6.** (Sub lesson 6) Warm colours relate to fire. **Answer: True** — the Grade 6 book's colour character.

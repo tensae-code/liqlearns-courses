@@ -19,3 +19,15 @@ Pass mark: order earthenware, stoneware and ceramic ware by firing heat, and mat
 
 ## Sub lesson 6 — Crafts kept alive
 Pass mark: say how pottery skills pass from mother to daughter, how makers organise in associations and specialise, and name the collectable crafts.
+
+## Sub lesson 7 — Ancient handcraft: art you use every day (Grade 8)
+Pass mark: define ancient handcraft (fully indigenous materials; by hand; for use; makeable by any skilled person) and name its families — pottery, weaving, coins, embroidery, jewellery, door knockers.
+
+## Sub lesson 8 — Ancient weaving: clothes for every occasion (Grade 8)
+Pass mark: name weaving's inputs (cotton, wool, thread), its products (qemis, shurab, barnos, bat, kaba, aklil, church vestments) and its occasions (judgement councils, weddings, mourning, festivals, daily life).
+
+## Sub lesson 9 — Ancient pottery and today's pottery works (Grade 8)
+Pass mark: tell pottery's Axumite-era beginning, name insira, dist, masero, jebena and gan, and give pottery works' three uses — food-preparation service, income, culture expression.
+
+## Sub lesson 10 — Stone tools and ancient jewellery (Grade 8)
+Pass mark: name the ancient stone tools (spear, knife, axe, stone mill) and tell what folk jewellery is made from and where it is worn.

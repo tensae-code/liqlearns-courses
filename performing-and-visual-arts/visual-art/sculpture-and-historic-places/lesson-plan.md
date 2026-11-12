@@ -15,6 +15,13 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 5. **Sculpture with clay and papier-mâché** — the five steps, from teacher-guide evidence.
 6. **Monuments and artifacts** — what an artifact and a monument are, from teacher-guide evidence.
 
+7. **Ethiopia's ancient monuments — the roll (Grade 8)** — Axum, Tiya and the Konso wakas — and Addis Ababa's memorial monuments named in full.
+8. **The Axum monuments (Grade 8)** — 24 to 33 metres from one rock — false doors, half-circle tops, the broken giant and the stolen stele returned.
+9. **Konso waka and the Tiya standing stones (Grade 8)** — a wooden statue for a hero at the village entrance; 44 stones at Tiya, their pictures carved.
+10. **Axum coins; war weapons and jewellery (Grade 8)** — gold, silver and bronze coins with kings' faces — and the weapons and jewellery of the fathers.
+11. **Monuments and their messages: living witnesses (Grade 8)** — monuments as living history witnesses — Menelik, Haile Selassie and Abune Petros worked in full.
+12. **Heritage in pictures (Grade 4)** — the Grade 4 plates — manuscripts and painting, architecture and monuments, the rock church — and Activity 3.1.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

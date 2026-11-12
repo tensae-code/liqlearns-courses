@@ -2718,3 +2718,7 @@ and lift; step 4's hold never opens while the pencil tilts back).
 | 22832 | pictures/22832.gif | colonial colours spreading across the map year by year, 1880–1914 | Social Studies — The Scramble and Berlin 1884–85 |
 | 22833 | pictures/22833.gif | a smith hammering a ploughshare | Social Studies — Cottage industries — skilled hands, low status |
 | 22834 | pictures/22834.gif | the boundary line being drawn around the expanding state | Social Studies — Menilek II — the present shape of Ethiopia |
+| 14200 | pictures/14200.webp | the spectrum plate — white light split into the colour band | Performing and Visual Arts — Painting Still Life |
+| 14201 | pictures/14201.webp | the design-elements plate — the elements and principles on one board | Performing and Visual Arts — Elements and Principles of Design |
+| 14202 | pictures/14202.webp | the eleven Lalibela churches plate | Performing and Visual Arts — Lalibela: Churches Carved from One Rock |
+| 14203 | pictures/14203.gif | GIF — still-life stages: arrange, light drawing, paint lightest-first, finish | Performing and Visual Arts — Painting Still Life |

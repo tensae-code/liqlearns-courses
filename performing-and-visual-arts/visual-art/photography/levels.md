@@ -13,3 +13,12 @@ Pass mark: list at least four of the book's benefits of photographs to a communi
 
 ## Sub lesson 4 — Passing a message by video
 Pass mark: define video (a message combining sound and moving image), name what is presented by video, and give the two after-watching tasks — present the message in writing, and draw it.
+
+## Sub lesson 5 — Three ways to frame: portrait, square and landscape (Grade 4)
+Pass mark: name the three frame compositions — vertical/portrait, square, horizontal/landscape — and match each of the book's six photographs (child portrait, object design, countryside, tourist places, farming photo, city layout) to its frame.
+
+## Sub lesson 6 — Photography practice: houses, frames and work songs (Grade 4)
+Pass mark: carry out the three Activity 1.6 tasks — draw/photograph local city houses and their layout; make a photo frame from paper and wood; present a local work song as a drawing and a poem.
+
+## Sub lesson 7 — Frameless pictures and the cityscape (Grade 6)
+Pass mark: tell landscape (horizontal) from portrait/cityscape (vertical) frame shapes, and say what a frameless composition is and when it grew common.

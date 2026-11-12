@@ -19,3 +19,6 @@ Pass mark: state the mirror rule and the raised-prints rule, and give the potato
 
 ## Sub lesson 6 — Stencil printing, and printing grows up
 Pass mark: give the stencil steps, say how three-colour stencilling works, and explain batik (wax resists dye) and silk-screen (colour through blocked silk) in one sentence each.
+
+## Sub lesson 7 — Sharp tools: the carving safety rules (Grade 7)
+Pass mark: state the two safety rules — work carefully with sharp tools; never share or pass sharp tools.

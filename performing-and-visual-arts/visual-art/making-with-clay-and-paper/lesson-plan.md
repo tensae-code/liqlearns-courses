@@ -15,6 +15,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 5. **A New Year gift card** — a card made by colour-painting, to give away.
 6. **Shaping letters from materials** — Amharic letters built from clay, sticks, stones and string.
 
+7. **Papier-mâché: paper kneaded like clay (Grade 8)** — the pupil-book §2.6.3 sequence in full — soak, knead, paste, form; recycling fallen paper.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

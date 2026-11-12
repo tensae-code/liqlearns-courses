@@ -26,6 +26,8 @@ countries: Ethiopia
 | Sub lesson 5 — A New Year gift card: make a New Year gift card by colour-painting and show it (Activity 5) | Book 1, printed p. 56 |
 | Sub lesson 6 — Shaping letters from materials: shape the Amharic letters from different materials and show them (Activity 1, language activities page) | Book 1, printed p. 72 |
 
+| Sub lesson 7 — Papier-mâché (Grade 8 pupil content): making forms by cutting and kneading (ማቡካት) varied papers; tools — paper pieces, water, bucket, cooled boiled wheat/teff flour paste with sugar; process — soak ~24 hours, knead until binding, mix with paste, paste onto a form or join like clay; Figs. 29–30; Activity 2.13 — a waste basket for each classroom | Book 4, §2.6.3, printed pp. 72–75 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: Book 5 (the Grade 2 teacher guide) is a scan with no usable text layer; its part is cited at section level only, exactly as its placements give it, and is labelled teacher-guide evidence. The Grade 5 modelling pages also teach the relief / in-the-round distinction; that distinction is taught in full in the Sculpture and Historic Places lesson, and here it appears only inside the clay-figure method. The Grade 3 New Year page (p. 56) pairs the card with collecting New Year songs; only the card — the visual-art part — is stocked here, as the structure map directs.

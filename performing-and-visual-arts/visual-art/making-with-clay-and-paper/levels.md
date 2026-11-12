@@ -19,3 +19,6 @@ Pass mark: describe a New Year gift card made by colour-painting, made by hand t
 
 ## Sub lesson 6 — Shaping letters from materials
 Pass mark: shape or name three Amharic letters built from materials such as clay, sticks, stones or string.
+
+## Sub lesson 7 — Papier-mâché: paper kneaded like clay (Grade 8)
+Pass mark: give the papier-mâché process in order (soak ~24 hours, knead until it binds, flour paste with sugar, mix and knead, paste on or form like clay) and carry out the waste-basket activity.

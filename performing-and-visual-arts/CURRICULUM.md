@@ -179,6 +179,20 @@ lessons are the books'.
   The Grade 5 can-do self-check mechanic (printed pp. 38–39)
   is stocked in all five Grade 5 chapter-lead lessons.
 
-**The whole course stands at 159 lessons, 2,558 questions and
-199 pictures/GIFs.** See ABOUT.md for the full book list and
+- **PVA FIX — audit close-out, Band B (Visual Art) — BUILT
+  2026-11-12:** the audit's misses in the Visual Art title
+  closed: 66 placements stocked, 45 citations fixed, 10 NEW
+  lessons (Painting Still Life; Telling History with
+  Illustration; Telling History in Words and Pictures;
+  Double Letters; Elements and Principles of Design;
+  Lalibela: Churches Carved from One Rock; Decorating Home
+  and Environment; Design and Perspective — Near and Far;
+  Composition in Visual Art; Elements of Design in 3D Arts),
+  210 questions added, 4 media filed (pictures 14200–14202,
+  GIF 14203, all drawn and frame-checked). With this band
+  the placement-coverage audit is fully closed: **318 of
+  318 placements stocked, 115 of 115 citations fixed.**
+
+**The whole course stands at 169 lessons, 2,768 questions and
+203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.

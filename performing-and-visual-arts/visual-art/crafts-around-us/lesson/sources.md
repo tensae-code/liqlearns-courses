@@ -20,6 +20,8 @@ countries: Ethiopia
 
 **Book 9:** *Performing and Visual Arts Teacher Guide Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2022, GEQIP-E, printed pp. i–vi + 1–78. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g10-teacher-placements.md.
 
+**Book 10:** *Grade 8 Performing and Visual Arts Student Textbook (ሥነ-ጥበባት የተማሪ መጽሐፍ 8ኛ ክፍል)* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., printed pp. i–vi + 1–139. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-12 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/performing-and-visual-arts/g08-student-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Metal work: curved knife, sickle, pointed tool, hoe blade | Book 1, §3.1, printed p. 37 |
@@ -35,6 +37,14 @@ countries: Ethiopia
 | Sub lesson 6 (teacher guide — evidence) — Ethiopian crafts and pottery: basketwork and agelgil, silver and crosses, textiles, religious paintings and manuscripts, woodwork, gourds/calabashes, stonework, pottery; women potters inheriting mothers' skills, organising in associations, specialising | Book 7, printed pp. 108–109 |
 | Sub lesson 6 (teacher guide — evidence) — Crafts from raw natural materials: woven geometric decoration, pottery and basketry, wooden crafts, with local examples | Book 8, Lessons 1–2, printed pp. 4–6 |
 | Sub lesson 6 (teacher guide — evidence) — Handcraft vs craft distinguished with local examples | Book 9, Lessons 19–21, printed pp. 26–30 |
+
+| Sub lesson 7 — Ancient handcraft (Grade 8): fully indigenous materials; formal and informal making; Axumite-era coins, jewellery, door knockers/latches, pottery, weaving; by hand, for use, by any skilled person | Book 10, §3.2.2, printed pp. 92–93 |
+| Sub lesson 4 — Handcraft products and their families (Grade 7): a community's handcraft products as material culture, made mostly by hand from local resources | Book 5, §3.6, printed pp. 113–114 |
+| Sub lesson 8 — Ancient weaving (Grade 8): ሽመና from cotton, wool, thread; products — qemis, shurab, barnos, bat, bed clothes, church vestments, kaba, aklil; used at judgement councils, weddings, mourning, festivals, daily life (Figs. 41–42) | Book 10, §3.2.2, printed p. 93 |
+| Sub lesson 9 — Ancient pottery (Grade 8): pottery began in the Axumite era; religion, culture and kings' works on the pieces; insira, dist, masero, jebena, gan (Fig. 43); the low social place the book records | Book 10, §3.2.2, printed p. 94 |
+| Sub lesson 9 — Pottery works (Grade 8): handcraft products for food-preparation service, income source and culture expression; made from clay soil by traditional and modern methods (Fig. 53) | Book 10, §4.3.2, printed pp. 114–115 |
+| Sub lesson 10 — Ancient stone tools (Grade 8): spear, knife, axe (መሮ), stone mill (የድንጋይ ወፍጮ) for hunting, house-making and utensils (Fig. 44) | Book 10, §3.2.2, printed pp. 94–95 |
+| Sub lesson 10 — Ancient jewellery (Grade 8): ጌጣጌጥ — folk jewellery from gold, bronze, silver, diamond, thread, precious stone, wood; worn on hand, ear, neck, hair, lip, nose; adorning people and domestic animals (Fig. 46) | Book 10, §3.2.2, printed pp. 96–97 |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 

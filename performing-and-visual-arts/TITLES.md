@@ -37,7 +37,13 @@ The titles, in ladder order:
    mosaic), paints and how they work, cave art and church painting,
    the great painters of Ethiopia, houses of our country, shapes,
    forms and patterns in colour, emblems and posters that speak,
-   and video — moving pictures.
+   and video — moving pictures. The audit close-out added:
+   painting still life; telling history with illustration, and
+   in words and pictures; double letters; the elements and
+   principles of design; Lalibela — churches carved from one
+   rock; decorating home and environment; design and
+   perspective — near and far; composition in visual art; and
+   the elements of design in 3D arts.
 3. **Music** — the ear and the voice: sounds around us, naming
    sounds, the songs (animals, family, nature, movement, festivals,
    school, counting, clean living, our country, colours), the

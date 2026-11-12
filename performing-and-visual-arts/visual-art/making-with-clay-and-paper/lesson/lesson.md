@@ -41,6 +41,21 @@ A card you make yourself carries your own hand in it. Make a New Year gift card 
 
 Letters are shapes, and shapes can be made from anything. Shape the Amharic letters from different materials — clay, sticks, stones, string, cut paper — and show them. A letter you build with your hands is a letter you will never forget how to write.
 
+## Sub lesson 7 — Papier-mâché: paper kneaded like clay (Grade 8)
+
+**Papier-mâché** (ወረቀትን በማቡካት ቅርፅ መስራት) makes forms by **cutting and kneading (ማቡካት) varied papers**: cut the fallen papers around us, wet and soak them in water, and use the paper **like clay** to make a form — recycling one of the things that dirty our environment.
+
+**Tools**: paper pieces, water and a bucket; and, cooled, boiled wheat flour paste with sugar.
+
+**The process, in order:**
+1. Soak the cut paper in water for about **24 hours**.
+2. **Knead** the soaked paper repeatedly until it binds.
+3. Prepare hot paste from wheat or teff flour, adding sugar; let it cool.
+4. Mix the kneaded paper with the paste and knead again.
+5. Finally, paste it onto the thing to be made — or, joining the paper like clay, make the wanted form directly.
+
+Fig. 29 shows a papier-mâché work made by kneading paper and mixing with paste; Fig. 30, one made by pasting paper. **Activity 2.13** — in groups, collect fallen paper pieces in the school compound and, by this process, cast a plastic bucket's form to make a papier-mâché **waste basket for each classroom**; and list papier-mâché's making kinds.
+
 ## Say it to your companion
 
 Tell your companion the clay chain in order — plan, knead, shape, dry, fire, decorate — and say which step they must never skip, and why. Then name one thing you would model, and one letter you would shape from sticks.

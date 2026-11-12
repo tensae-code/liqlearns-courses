@@ -49,6 +49,10 @@ countries: Ethiopia
 | Sub lesson 6 (teacher guide — evidence) — Printmaking: a painting is a one-off, prints are multiples; four methods — intaglio, block/relief, lithography, screen printing | Book 10, printed pp. 74–76 |
 | Sub lesson 6 (teacher guide — evidence) — Printmaking, "the art of stamping": five processes — silkscreen, lithography, intaglio/etching, monotype, relief | Book 11, printed pp. 28–32 |
 
+| Sub lesson 7 — Carving safety (Grade 7): sharp tools (cutter, blade, knife) cause bleeding and cuts — work carefully; never share or pass sharp tools | Book 6, printed p. 48 |
+| Sub lessons 1, 5 and 6 — Printing kinds (Grade 5): printing is multiplying an image, text or design in the wanted quantity by carving, gouging, or painting the backs of found things; the kinds surveyed | Book 4, §2.3.3, printed p. 67 |
+| Closing-exercise question stock (Grade 5): the Chapter 4 closing exercise — the false 'most handicraft products are made in the modern way'; printing defined in multiple choice | Book 4, printed pp. 116–117 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: Books 10 and 11 are teacher guides; the Grade 7 guide is a truncated copy (body printed pp. 1–109 only) and the Grade 8 guide is truncated (body printed pp. 1–56 plus syllabus) — the printmaking parts used here sit inside the surviving body pages of both, and are labelled teacher-guide evidence. The Grade 6 book captions its stencil figure (Fig. 33, printed p. 53) "relief-cut printing works" while its own labels describe a stencil and its print; the lesson follows the content of the section, as the placements record it. The Grade 7 student book numbers its printing block §2.1.2 a second time (the paint kinds carry the same number) — placements follow the content, not the numbers, and so does this lesson. Batik and silk-screen keep their own book-given names and steps; nothing about them is borrowed from outside the placements.

@@ -42,6 +42,30 @@ Pottery — preparing clay soil for a purpose and firing it in high heat so it h
 
 Crafts survive because people keep making and teaching them. Pottery is kept alive mainly by women who inherit their mothers' skills; today many organise in associations and specialise — one makes figurines, another pots, another plates — so the art survives. The collectable crafts of our cultures include basketwork and agelgil, silver and crosses, textiles, religious paintings and manuscripts, woodwork, gourds and calabashes, stonework and pottery. When you buy, use and care for a handmade thing, you help keep its craft alive.
 
+## Sub lesson 7 — Ancient handcraft: art you use every day (Grade 8)
+
+Ethiopia's **ancient handcraft** works are created from **fully indigenous materials**. They were mostly made by formal and informal ways, they demand ability and patience, and any skilled person can make them. From the ancient Axumite era, people have made varied coins, hand and chest jewellery, door knockers and latches, pottery works, weaving works and more — weakened by foreign invaders at times, yet still made and used in the country today.
+
+In general: ancient handcraft is the art that grew with making the materials a human uses in daily activity. It differs from other artworks in three ways — it is made **by hand**, it is **intended for use**, and it can be made by **any skilled person**. It holds ancient pottery, ancient weaving, ancient coins, ancient embroidery (ስፌት) and more.
+
+## Sub lesson 8 — Ancient weaving: clothes for every occasion (Grade 8)
+
+**Weaving** (ሽመና) is one of Ethiopia's ancient handcrafts, made by varied techniques from cotton, wool, thread and similar inputs. Its products: **qemis** (dress), **shurab** (sweater), **barnos**, **bat**, bed clothes, church vestments, **kaba** and **aklil** (crown), and the like.
+
+And weaving is worn through the whole of life: the products are used when sitting for **judgement councils**, at **weddings**, at **mourning**, at varied festivals and in daily life (Figs. 41–42 show weaving work).
+
+## Sub lesson 9 — Ancient pottery and today's pottery works (Grade 8)
+
+History says **pottery** (ሸክላ ስራ) began in the **Axumite era**; it classifies as ancient-era handcraft. On the works they made religion, culture, things reflecting kings' works, and small forms. Among ancient pottery works: flower vases, **insira**, **dist**, **masero**, **jebena**, **gan** and the like (Fig. 43). The book notes honestly that among Ethiopians these craft works were given a low place in society — the hands that made them were not honoured as they deserved.
+
+Pottery works today remain handcraft products used for **food-preparation service**, as an **income source**, and for **culture expression**, receiving our fathers' and mothers' experience from ancient times; they are made from clay soil by traditional and modern methods (Fig. 53).
+
+## Sub lesson 10 — Stone tools and ancient jewellery (Grade 8)
+
+**Ancient stone tools** are the craft products humans have used from ancient times for hunting, house-making and utensils: **spear, knife, axe (መሮ), stone mill (የድንጋይ ወፍጮ)** and the like (Fig. 44).
+
+**Ancient jewellery** (ጌጣጌጥ): a community's indigenous cultures of adorning **itself and its domestic animals** from local inputs classify as folk jewellery. It is prepared from gold, bronze, silver, diamond and other minerals, from thread, precious stone, wood and varied natural and human-made inputs, in varied form and method — beauty additions worn on **hand, ear, neck, hair, lip, nose** and similar body parts (Fig. 46).
+
 ## Say it to your companion
 
 Name one craft from each family — metal, pottery, weaving, wood, jewellery, basketry — and say what each thing is used for. Then tell your companion which pottery family a jebena belongs to, and why.

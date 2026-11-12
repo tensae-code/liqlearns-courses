@@ -15,6 +15,8 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 5. **Block printing: carve it backwards** — raised prints, gouged rests, and the mirror rule; potato and soap blocks.
 6. **Stencil printing, and printing grows up** — dab-through designs, three colours, and the grown forms: batik, silk-screen and the printmaker's methods.
 
+7. **Sharp tools: the carving safety rules (Grade 7)** — the book's carving-safety teaching — a printing block is carved with the same sharp tools.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

@@ -21,3 +21,11 @@ Pick the one right answer.
 **5. (Sub lesson 5)** What is the opposite of blue on the wheel?
   a) Orange b) Green c) Red
 **Answer: a) Orange** — the book's pairs put blue across from orange.
+
+**6.** (Sub lesson 6) A monochromatic colour scheme uses —
+a) all twelve colours  b) one colour in its tints and shades  c) only opposites
+**Answer: b) one colour in its tints and shades.**
+
+**7.** (Sub lesson 6) Analogous colours are —
+a) across the wheel  b) neighbours side by side on the wheel  c) black and white
+**Answer: b) neighbours side by side on the wheel.**

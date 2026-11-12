@@ -11,6 +11,12 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 1. **Ethiopian painting then and now** — the old colour-painting style, today's painting, and the named modern painter Afework Tekle.
 2. **Appreciating paintings** — slow looking at two painting works, and saying what they give you.
 
+3. **Indigenous knowledge in visual art: the heritage roll (Grade 6)** — §4.1 — architecture, jewellery, pottery, cave paintings, Lalibela, Gondar, Jegol, Tiya, church painting since the 4th century.
+4. **Indigenous knowledge on stage, film and photograph (Grade 6)** — §4.2 — knowledge that solved the society's problems, and the three house kinds of Fig. 54.
+5. **Showing appreciation: documentaries, exhibitions, stamps (Grade 6)** — how appreciation is expressed — and the photo route, with the Konso waka of Fig. 55.
+6. **Heritage practicals (Grade 6)** — the §4.2 practicals — theatre circles, the justice system and reconciliation ceremony on stage, tourism-office photographs.
+7. **Visual art IS our heritage (Grade 6)** — §5.1.1 — the heritage roll restated, and protecting heritage with posters, stamps, drawing and making.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

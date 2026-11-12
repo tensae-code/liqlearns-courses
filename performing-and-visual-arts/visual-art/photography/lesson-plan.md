@@ -13,6 +13,10 @@ A lesson plan also says **what goes on top of the lesson**: at the exact places 
 3. **Passing a message by photograph** — what photographs do for a country, and reading two message photographs.
 4. **Passing a message by video** — sound plus moving image; watching, writing the message, drawing it.
 
+5. **Three ways to frame: portrait, square and landscape (Grade 4)** — the Grade 4 book's six photo compositions and the third frame — the square.
+6. **Photography practice: houses, frames and work songs (Grade 4)** — Activity 1.6 — photograph city houses, make photo frames, present work songs as drawings and poems.
+7. **Frameless pictures and the cityscape (Grade 6)** — Grade 6 frame shapes: landscape and portrait, frameless composition, and the vertical cityscape.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

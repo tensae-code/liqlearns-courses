@@ -16,3 +16,6 @@ Sub lesson 4 questions from the type files. Pass mark: sort the twelve wheel col
 
 ## Sub lesson 5 — Opposite colours
 Sub lesson 5 questions from the type files. Pass mark: find any colour's opposite by a line through the wheel's centre and name the three primary pairs.
+
+## Sub lesson 6 — One colour, and neighbours: monochromatic and analogous (Grade 6)
+Pass mark: define monochromatic (one colour in its tints and shades) and analogous (neighbouring wheel colours) and tell both from complementary opposites.

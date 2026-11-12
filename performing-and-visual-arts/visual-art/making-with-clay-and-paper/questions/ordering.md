@@ -10,3 +10,5 @@ Put each set in the right order.
 
 **3. (Sub lesson 3)** Making a paper picture: paste the pieces down — cut the paper shapes — choose and fold the pieces.
 **Answer: choose and fold the pieces → cut the paper shapes → paste the pieces down** (cut and fold in the order your picture needs; pasting is last).
+
+**4.** (Sub lesson 7) Put the papier-mâché process in order: knead the soaked paper until it binds / soak the cut paper / mix with paste and form the thing / cut the fallen paper. **Answer: cut the fallen paper → soak the cut paper → knead the soaked paper until it binds → mix with paste and form the thing.**

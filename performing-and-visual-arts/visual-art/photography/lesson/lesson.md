@@ -43,6 +43,34 @@ Look at the two message photographs: children **reading together**, and **work s
 
 Video is a method of presenting a message **combining sound and moving image**. Films, documentaries, dramas, music and dances and other ideas are presented by video. Watching is a skill too: watch the video shown to you, then **present the message you understood — in writing** — and **make a drawing of the message you saw**. A photograph carries its message in one still moment; a video carries its message in sound and movement together. Both ask the same of you: watch carefully, and tell the message truly.
 
+## Sub lesson 5 — Three ways to frame: portrait, square and landscape (Grade 4)
+
+A photograph must match the size and direction of its paper, and the Grade 4 book shows **three** compositions, not two:
+
+- **Vertical (portrait)** — a child's portrait stands tall in the frame (Fig. 1.15).
+- **Square** — an object design sits in a square format, as wide as it is tall (Fig. 1.16).
+- **Horizontal (landscape)** — the rural countryside (Fig. 1.17) and tourist-attraction places (Fig. 1.18) spread wide; a farming photograph (Fig. 1.19) carries a two-line farmers' poem with it, and a city-layout photograph (Fig. 1.20) shows a whole town's plan.
+
+[Picture — described only, not made in this fix build: the book's six photographs in a row — child portrait, square object study, countryside, tourist site, farm work with its poem, city view — the student names the frame of each.]
+
+So before you press, ask three ways, not two: does my subject **stand** (portrait), **sit as one thing** (square), or **spread** (landscape)?
+
+## Sub lesson 6 — Photography practice: houses, frames and work songs (Grade 4)
+
+Now practise the way the book sets it (Activity 1.6):
+
+1. **Draw and photograph** the building and layout of houses in your local city.
+2. **Make photo frames** from paper and wood, and put your photographs in them.
+3. **Present local work songs** as drawings and poems — the photograph's cousins: a drawing shows the work, a poem sings it.
+
+A frame you made yourself finishes the photograph: it says this picture is worth keeping and showing.
+
+## Sub lesson 7 — Frameless pictures and the cityscape (Grade 6)
+
+The Grade 6 book returns to frame shapes and goes further. Compositions are commonly made in **two frame shapes**: the horizontal arrangement, lengthening sideways, is **landscape** — used mostly by landscape painters; the vertical arrangement, lengthening bottom to top, serves **portrait** and **cityscape** compositions. And since the twentieth century, **frameless** visual compositions have also grown common — a work with no frame edge at all, spreading as the artist chooses.
+
+So the city belongs to the tall frame: towers, minarets and tall buildings rise, and the cityscape composition rises with them.
+
 ## Say it to your companion
 
 Tell your companion the five guidance points for taking a photograph, in order. Then describe a photograph you would take to pass the message "our school reads together" — what would be in the frame, what colour behind, standing or wide?

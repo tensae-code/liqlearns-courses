@@ -16,6 +16,8 @@ The parts of this lesson, in order — the list the learner sees from the start,
 4. **Warm and cool colours, and the neutrals** — warm colours feel like sun and fire, cool colours like water and air; black and white are neutrals, on no wheel and neither warm nor cool (Grade 5, printed p. 12).
 5. **Opposite colours** — a colour's opposite sits directly across the wheel; the pairs named (Grade 5, printed pp. 12–13).
 
+6. **One colour, and neighbours: monochromatic and analogous (Grade 6)** — colour character in full — warm/cool, monochromatic, complementary, analogous.
+
 Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
 
 ## Before this lesson

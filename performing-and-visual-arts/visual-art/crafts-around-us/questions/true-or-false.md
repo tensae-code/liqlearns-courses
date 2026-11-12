@@ -13,3 +13,7 @@ Say if each sentence is true or false.
 **5. (Sub lesson 5)** Earthenware is the strongest pottery family because it is fired hottest. **Answer: False** — earthenware is fired at low heat and is the weakest; ceramic ware is fired hottest.
 
 **6. (Sub lesson 6)** When makers specialise — one in figurines, one in pots, one in plates — it helps the craft survive. **Answer: True.**
+
+**7.** (Sub lesson 7) Ancient handcraft uses fully indigenous materials. **Answer: True.**
+
+**8.** (Sub lesson 9) Pottery works serve food preparation, income and culture expression. **Answer: True.**

@@ -25,3 +25,11 @@ a) buying a printed card  b) colour-painting a card by hand  c) weaving a card f
 **6. (Sub lesson 6)** Letters can be shaped from —
 a) only a pencil  b) different materials like clay, sticks and stones  c) nothing — letters cannot be shaped
 **Answer: b) different materials like clay, sticks and stones.**
+
+**7.** (Sub lesson 7) The cut paper soaks in water for about —
+a) ten minutes  b) 24 hours  c) a week
+**Answer: b) 24 hours.**
+
+**8.** (Sub lesson 7) The paste is made from —
+a) clay  b) wheat or teff flour with sugar  c) tree sap only
+**Answer: b) wheat or teff flour with sugar.**

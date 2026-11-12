@@ -27,6 +27,9 @@ countries: Ethiopia
 | Sub lesson 5 — Letterforms: single line (Fig. 2.23), double line (Fig. 2.24), form/block (Fig. 2.25), varied styles/classes (Fig. 2.26); Activity 2.7 — write a letterform you know and show it | Book 3, printed pp. 36–38 |
 | Sub lesson 5 — Calligraphy in Grade 6: form and stance, light and shade, colour; letters' composition, thickness and length; Yigezu Bisrat's varied decorated letters; letters decorated with leaves; practicals — single composition, two tied/doubled writing tools, your NAME in decorated letters, light and shade, ሰላም written LARGE | Book 5, §2.6, printed pp. 55–57 |
 
+| Sub lesson 5 — Double writing with a broad pen or two tied pencils (Grade 5): after ruling the parallel lines, write with a broad marker pen, or with two pencils tied together | Book 4, §2.2.3.3, printed p. 62 |
+| Sub lesson 5 — Shade-and-light letters (Grade 5): the ornamental method — write the letter's main body first, then paint the part that must be shade; the caution on the first letter | Book 4, §2.2.3.4, printed pp. 62–64 |
+
 **Acceptance count: taught in 1 country (Ethiopia).**
 
 Honesty notes: the Grade 5 calligraphy plates placement (single/double/shaded examples in Amharic and English, with a two-tied-pencils GIF need) is stocked inside Sub lesson 5's practice set, where the Grade 6 book turns the same two-tools method into practice; no separate plate part is claimed. Line-kind Amharic names and spellings (ቋሚ, አግድም, ሠያፍ, ጎባጣ, ወጣ ገባ, ነጠላ, ድርብ) are copied exactly from the Grade 3 placements.

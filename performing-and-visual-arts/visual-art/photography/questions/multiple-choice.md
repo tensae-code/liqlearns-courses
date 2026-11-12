@@ -17,3 +17,19 @@ a) a rare animal  b) reading together, passing the message of learning shared  c
 **4. (Sub lesson 4)** Video passes a message by combining —
 a) smell and taste  b) sound and moving image  c) paper and pencil
 **Answer: b) sound and moving image.**
+
+**5.** (Sub lesson 5) The third frame composition in the Grade 4 book, beside vertical and horizontal, is —
+a) round  b) square  c) triangular
+**Answer: b) square** — the object design of Fig. 1.16 sits in a square format.
+
+**6.** (Sub lesson 5) The farming photograph (Fig. 1.19) is special because it —
+a) is in black and white  b) carries a two-line farmers' poem  c) shows a city
+**Answer: b)** — the poem travels with the photograph.
+
+**7.** (Sub lesson 6) Activity 1.6 asks you to make photo frames from —
+a) glass and gold  b) paper and wood  c) plastic only
+**Answer: b) paper and wood.**
+
+**8.** (Sub lesson 7) In the Grade 6 book, the vertical frame shape serves —
+a) only landscapes  b) portrait and cityscape compositions  c) no compositions
+**Answer: b) portrait and cityscape compositions.**
