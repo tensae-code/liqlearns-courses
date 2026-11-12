@@ -270,3 +270,18 @@ guide's line that BIOS settings are demonstrated but
 never taught. Book errors taught corrected and named in
 sources: the guide's "Device Danager" and
 "assign,ents". The course now stands at 415 lessons.
+
+**Band E1 (Grade 11, Unit 1) — BUILT 2026-11-12:** 15 new
+lessons, 184 questions, 25 media filed (pictures/GIFs
+16100–16124) — Information Systems: data, information,
+knowledge, wisdom and the pyramid; what an information
+system is and its five components; HRIS; and the
+applications — e-government, e-banking, e-learning,
+e-commerce, telemedicine, teleconferencing, IT for
+entrepreneurship — with the guide's worked school case,
+processing ladder and explicit/tacit distinction filed
+as labelled teacher evidence. Book errors taught
+corrected and named in sources: Unit 1 figures jump
+1.10 → 1.13, "Figureure 1.17" (p.19), the guide's
+contents omitting §1.4. The course now stands at 430
+lessons.

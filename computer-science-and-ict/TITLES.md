@@ -515,3 +515,23 @@ Grown by band D1 (Grade 10 depth added, not duplicated): `files-and-folders/what
 - Defragmenting — putting a file's pieces back together — `hardware/defragmenting-putting-a-files-pieces-back-together/`
 - Protecting a computer from power problems — `hardware/protecting-a-computer-from-power-problems/`
 - Shut down properly — or hibernate — `hardware/shut-down-properly-or-hibernate/`
+
+**Band E1 — Grade 11 Unit 1 (Information Systems and Its Applications), 15 new lessons:**
+
+- Data — raw facts with no meaning yet (Grade 11) — `computers-in-society/data-raw-facts-with-no-meaning-yet-grade-11/`
+- From data to information — processed data with meaning — `computers-in-society/information-processed-data-with-meaning/`
+- Knowledge — information put into action — `computers-in-society/knowledge-information-put-into-action/`
+- Wisdom — using knowledge well — `computers-in-society/wisdom-using-knowledge-well/`
+- Data, information, knowledge, wisdom — the pyramid — `computers-in-society/data-information-knowledge-wisdom-the-pyramid/`
+- What an information system is — `computers-in-society/what-an-information-system-is/`
+- The five components of an information system — `computers-in-society/the-five-components-of-an-information-system/`
+- An information system at work — HRIS — `computers-in-society/an-information-system-at-work-hris/`
+- E-government — public services online — `computers-in-society/e-government-public-services-online/`
+- E-banking — services, benefits and challenges — `computers-in-society/e-banking-services-benefits-and-challenges/`
+- E-learning — learning through digital devices — `computers-in-society/e-learning-learning-through-digital-devices/`
+- E-commerce — buying and selling online — `computers-in-society/e-commerce-buying-and-selling-online/`
+- Telemedicine — a doctor at a distance — `computers-in-society/telemedicine-a-doctor-at-a-distance/`
+- Teleconferencing — audio and video meetings — `computers-in-society/teleconferencing-audio-and-video-meetings/`
+- IT for entrepreneurship — starting an IT-based business — `computers-in-society/it-for-entrepreneurship-starting-an-it-based-business/`
+
+The first lesson also carries the Grade 11 book's own shape (student item 1: the six-unit road map, Picture 16100, and the course-intro video script) and teacher item 1 (the 105-period budget, lecture → demonstration → discussion rhythm, inclusion instructions) as labelled teacher evidence, noted for the course ABOUT.
