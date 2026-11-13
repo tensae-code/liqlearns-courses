@@ -1,0 +1,17 @@
+# Sources — Genetic counselling and prenatal diagnosis
+
+countries: Vietnam
+
+**Book 1:** Sinh học 12 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2024) — Vietnam. Grade: grade-12 Kind as verified: student textbook (Vietnamese) — Part Four: Genetics, Part Five: Evolution, Part Six: Ecology and environment; image-only scan, read visually as for the other Vietnam books. Repo path / source: grade-12/gov/vietnam/biology/student/full-year.pdf (TSV twin: releases/download/mid-size-books-2/grade-12-gov-vietnam-biology-student-full-year.pdf — same book, duplicate record, read once) Byte size: 45,450,976 bytes — matches the record's size_bytes exactly PDF pages: 199 — matches the record's 199 pages; printed-page offset: printed page = PDF page − 2 Verdict: COMPLETE — preface, contents, all 35 lessons, glossary (printed p. 194) and back cover with ISBN 978-604-0-39241-1 present. Structural summary: Ch.1 Molecular genetics; Ch.2 Chromosomal genetics (Mendel through human genetics); Ch.3 Extensions of chromosomal genetics (cytoplasmic inheritance, gene×environment, crop-variation practical); Ch.4 Population genetics; Ch.5 Evidence and theories of evolution (Darwin, modern synthesis, macroevolution); Ch.6 Environment and population ecology; Ch.7 Community ecology (communities, ecosystems, succession, biosphere and cycles, designing an artificial ecosystem); Ch.8 Restoration ecology, conservation and sustainable development, closing with a local-conservation project. Cited sources include Campbell Biology (12th ed.) — several figures are credited to it. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The whole lesson — Bài 13, III Medical genetic counselling — printed pp. 71–74 — A full counselling section: risk calculation from pedigrees and population genetics, amniocentesis drawn step by step (ultrasound, ~20 mL fluid, culture, analysis), chorionic villus sampling at 11–13 weeks, advising against consanguineous marriage, newborn screening (galactosaemia diet), and age-35 Down-syndrome risk; the same lesson treats Burkitt lymphoma's 8–14 translocation. (placement: NEW LESSON NEEDED: genetic-counselling-and-prenatal-diagnosis — no existing lesson covers this thing, so this lesson was built for it) | Book 1 (*Sinh học 12 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2024)*, student textbook, grade-12), printed pp. 71–74 |
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Placement choice, on the record: this NEW LESSON was built for the Vietnam placements stocked above — vietnam-placements.md. No existing lesson covers this thing as its own topic, so it gets its own lesson. It sits in biology/ and is registered in CURRICULUM.md Unit 16 (Biology). Vietnam's own way of teaching the thing, as the placements describe it, IS content in this lesson, carried exactly as described.
+
+Honesty (Vietnam): Book 1 (*Sinh học 12 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2024)*) is a student textbook as verified in the placements — so Vietnam counts toward acceptance. It is COMPLETE as stated in its book entry above. It was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-2, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, vietnam, genetic, counselling, and, prenatal, diagnosis

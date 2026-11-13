@@ -1,6 +1,6 @@
 # Sources — C3, C4 and CAM Plants
 
-countries: Ethiopia, India, Iran, Indonesia
+countries: Ethiopia, India, Iran, Indonesia, Vietnam
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, India, Iran, Indonesia
 
 **Book 4:** Biologi untuk SMA/MA Kelas XII (as printed; cover: BIOLOGI) — Indonesia. Grade: 12 (Kelas XII, SMA/MA) — Kind: student as verified — Repo path: grade-12/gov/indonesia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-12-gov-indonesia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 97032178 (grab-verified; books.json gives no size) — PDF pages: 264 — Printed-page offset: printed p. = PDF page − 10 (front matter i–x, main text printed pp. 1–254) — Verdict: COMPLETE — full Kurikulum Merdeka student text, Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2): all 4 chapters, glossary (printed p. 239), bibliography (p. 245), index (p. 249) present. Structural summary: Four-chapter capstone framed around global issues and the Covid-19 pandemic as a through-line (genetic substance, metabolism, evolution, home biotechnology), with PISA-style questions, collaborative projects and UN SDG 2030 links. Sequence: enzymes and metabolism → genetics and inheritance → evolution → biotechnology innovation. Each chapter opens with a local context (rice, hunger/energy, Sulawesi maleo bird, tempe fermentation) before the abstract mechanism. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
 
+**Book 5:** Sinh học 11 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2023) — Vietnam. Grade: grade-11 Kind as verified: student textbook (Vietnamese), "Part Three: Organismal biology" (Sinh học cơ thể); image-only scan, read visually (page renders + 4-up contact sheets, full-resolution contents and spot lessons). Repo path / source: grade-11/gov/vietnam/biology/student/full-year.pdf (TSV twin: releases/download/mid-size-books-2/grade-11-gov-vietnam-biology-student-full-year.pdf — same book, duplicate record, read once) Byte size: 41,635,137 bytes — matches the record's size_bytes exactly PDF pages: 191 — matches the record's 191 pages; printed-page offset: printed page = PDF page − 2 (preface printed p. 3 = PDF p. 5) Verdict: COMPLETE — preface (which itself lists the 5 chapters), contents, all 29 lessons, glossary (printed p. 187) and back cover with ISBN 978-604-0-35046-6 present. Structural summary: Ch.1 Metabolism and energy transformation in organisms (plants then animals, ending with immunity and excretion/homeostasis); Ch.2 Responsiveness in organisms (plants, animals, behaviour); Ch.3 Growth and development; Ch.4 Reproduction; Ch.5 How the body's physiological processes relate to each other, plus biology-related careers. Same lesson machinery as Grade 10, and every plant process is systematically compared with the animal way of doing the same job — the preface states this plant/animal comparison design openly. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — C3, C4 and CAM plants and photorespiration (§3.2, section span): | Student Textbook, Grade 12 — Printed pp. 128–133. |
 | India's way — Ch. 13: C4 plants and photorespiration within the photosynthesis chapter (placement slug: c3-c4-and-cam-plants) | Book 2 (Biology — Textbook for Class XI, student textbook, Grade 11), Ch. 13, printed pp. 206–225 |
 | Iran's way — Ch. 6 §3: photosynthesis in difficult conditions — printed p. 86 — oxygen level effect on photosynthesis and the C4/CAM answers | Book 3 (زیست‌شناسی (۳) — Biology (3), student textbook, Grade 12), Ch. 6 §3: photosynthesis in difficult conditions, printed p. 86 |
 | Indonesia's way — Ch.1B: CAM storage of organic acids at night; photorespiration and chemosynthesis (iron bacteria) as extensions | Book 4 (Biologi untuk SMA/MA Kelas XII, student textbook, Grade 12), printed p. 48 |
+| Vietnam's way — Bài 4, II.2b–c + II.3 — printed p. 29 — C₄ (Hatch–Slack 1965, PEP carboxylase, bundle-sheath diagram) and CAM (night/day diagram), plus their adaptation to harsh environments. | Book 5 (*Sinh học 11 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2023)*, student textbook, grade-11), printed p. 29 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, India, Iran, Indonesia).**
+**Acceptance count: taught in 5 countries (Ethiopia, India, Iran, Indonesia, Vietnam).**
 
 Honesty (Indonesia): Book 4 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XII*, Grade 12 (Kelas XII, SMA/MA), Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2) — so Indonesia counts toward acceptance. It is COMPLETE: all 4 chapters, glossary, bibliography and index present (264 PDF pages; printed p. = PDF page − 10). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
@@ -29,4 +32,6 @@ Honesty (India): Book 2 is a student textbook as verified in the placements — 
 
 Honesty (Iran): Book 3 is a student textbook as verified in the placements — *زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed)*, Grade 12 — so Iran counts toward acceptance. It is COMPLETE: all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present.
 
-Searchable tags: biology, ethiopia, and, cam, plants, india, iran, indonesia
+Honesty (Vietnam): Book 5 (*Sinh học 11 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2023)*) is a student textbook as verified in the placements — so Vietnam counts toward acceptance. It is COMPLETE as stated in its book entry above. It was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-2, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, and, cam, plants, india, iran, indonesia, vietnam

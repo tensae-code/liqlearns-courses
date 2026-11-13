@@ -1,6 +1,6 @@
 # Sources — Exponential vs logistic growth
 
-countries: Ethiopia, India, United States, Dominica, Jordan
+countries: Ethiopia, India, United States, Dominica, Jordan, Vietnam
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, India, United States, Dominica, Jordan
 
 **Book 6:** العلوم الحياتية — كتاب الأنشطة والتجارب العملية — الصف العاشر، الفصل الدراسي الثاني (Grade 10, Term 2, Activities Book) — Jordan. Grade: Grade 10, Term 2 — kind as verified: student workbook, NCCD, © HarperCollins Publishers Limited 2020, ISBN 978-9923-41-289-3 Source: link-only — https://www.minhaji.net/download/6010 — downloaded 3,066,786 bytes (exactly the staging books.json size) — PDF pages: 40 — printed-page offset: 0 Verdict: COMPLETE (all activities read) Structural summary: Continues Unit 3 Classification (printed pp. 4–25, mostly dissection/microscopy of plant and animal structure) and Unit 4 The Environment (pp. 26–39, population ecology done as live cultures and data). International-style questions close each unit. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/jordan-placements.md.
 
+**Book 7:** Sinh học 12 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2024) — Vietnam. Grade: grade-12 Kind as verified: student textbook (Vietnamese) — Part Four: Genetics, Part Five: Evolution, Part Six: Ecology and environment; image-only scan, read visually as for the other Vietnam books. Repo path / source: grade-12/gov/vietnam/biology/student/full-year.pdf (TSV twin: releases/download/mid-size-books-2/grade-12-gov-vietnam-biology-student-full-year.pdf — same book, duplicate record, read once) Byte size: 45,450,976 bytes — matches the record's size_bytes exactly PDF pages: 199 — matches the record's 199 pages; printed-page offset: printed page = PDF page − 2 Verdict: COMPLETE — preface, contents, all 35 lessons, glossary (printed p. 194) and back cover with ISBN 978-604-0-39241-1 present. Structural summary: Ch.1 Molecular genetics; Ch.2 Chromosomal genetics (Mendel through human genetics); Ch.3 Extensions of chromosomal genetics (cytoplasmic inheritance, gene×environment, crop-variation practical); Ch.4 Population genetics; Ch.5 Evidence and theories of evolution (Darwin, modern synthesis, macroevolution); Ch.6 Environment and population ecology; Ch.7 Community ecology (communities, ecosystems, succession, biosphere and cycles, designing an artificial ecosystem); Ch.8 Restoration ecology, conservation and sustainable development, closing with a local-conservation project. Cited sources include Campbell Biology (12th ed.) — several figures are credited to it. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Exponential and logistic growth | Student Textbook, Grade 11 — Printed pp. 237–240. |
@@ -22,8 +24,9 @@ countries: Ethiopia, India, United States, Dominica, Jordan
 | United States' way — Ch. 45: Population and Community Ecology — population growth curves (placement slug: biology/population-growth-curves — stocked into this lesson as the closest existing lesson covering population growth, exponential against logistic) | Book 4 (Biology 2e, student textbook, Grade 13 (recorded grade)), Ch. 45, PDF p. 1347 |
 | Dominica's way — Ch. 6: growth of natural populations; resources and their limits (placement slug: population-growth-curves — stocked into this lesson as the closest existing lesson covering that thing) | Book 5 (Biology for CSEC Examinations, 3rd ed., student textbook, Grade 11), Ch. 6, printed pp. 52–55 |
 | Jordan's way — Opening experiment: growth of a bacterial population — A living population-growth curve opens the Environment unit. | Book 6 (Life Science — Activities and Practical Experiments Book — Grade 10, Term 2, student workbook), printed p. 26 |
+| Vietnam's way — Bài 24 Population ecology — printed p. 128 — J and S curves in the core knowledge. (placement slug: how-a-population-grows-exponential-vs-logistic) | Book 7 (*Sinh học 12 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2024)*, student textbook, grade-12), printed p. 128 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, India, United States, Dominica, Jordan).**
+**Acceptance count: taught in 6 countries (Ethiopia, India, United States, Dominica, Jordan, Vietnam).**
 
 Honesty (Dominica): Book 5 is a student textbook as verified in the placements — *Biology for CSEC Examinations*, 3rd Edition (Linda Atwaroo-Ali, Macmillan Education, 2014), Grade 11 — so Dominica counts toward acceptance. It is COMPLETE: 26 chapters, the School-Based Assessment section and the index all present (387 PDF pages; printed p. = PDF page − ~13). It is a commercial CSEC textbook adopted for Dominica, an image-only scan read from its full printed contents, so the placements cite the contents' printed pages.
 
@@ -37,4 +40,6 @@ Honesty (United States): Book 4 is a student textbook as verified in the placeme
 
 Honesty (Jordan): Book 6 (Life Science — Activities and Practical Experiments Book — Grade 10, Term 2, student workbook) — the student textbooks and student workbooks above are pupil-taught books as verified in the placements — so Jordan counts toward acceptance. Each is COMPLETE as stated in its book entry above. The link-only Jordan books were downloaded from minhaji.net at exactly their staging books.json sizes and are staged in phase3-staging under the 2026-11-13 new rule. Jordan's Grade 12 Term-2 books are draft-state editions (نسخة قيد الإعداد — “version in preparation”), recorded as such wherever they are cited.
 
-Searchable tags: biology, ethiopia, exponential, logistic, growth, india, united, states, dominica, jordan
+Honesty (Vietnam): Book 7 (*Sinh học 12 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2024)*) is a student textbook as verified in the placements — so Vietnam counts toward acceptance. It is COMPLETE as stated in its book entry above. It was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-2, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, exponential, logistic, growth, india, united, states, dominica, jordan, vietnam

@@ -1,6 +1,6 @@
 # Sources — Industrial uses of enzymes
 
-countries: Ethiopia, Malaysia
+countries: Ethiopia, Malaysia, Vietnam
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -8,13 +8,17 @@ countries: Ethiopia, Malaysia
 
 **Book 3:** Biologi Tingkatan 4 (as printed; Bahasa Melayu edition) — Malaysia. Grade: 10 (Tingkatan 4) — Kind: student as verified — Repo path: grade-10/gov/malaysia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-10-gov-malaysia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 96276447 (grab-verified) — PDF pages: 323 — Printed-page offset: as the DLP edition (front matter roman; main text from printed p. 1); the 3 extra PDF pages over the DLP file are back-matter/cover sheets (textbook-loan pledge and Rukun Negara pages) — Verdict: COMPLETE — full KSSM student text in Bahasa Melayu, Ministry of Education Malaysia, Cetakan Pertama 2019, ISBN 978-967-2250-72-2, No. Siri Buku 0114, same author team as the DLP edition (Gan Wan Yeat et al.). Contents (Kandungan) verified chapter-for-chapter and page-for-page identical to the DLP edition: Bab 1 Pengenalan kepada Biologi dan Peraturan Makmal (printed p. 2) through Bab 15, with the same subtopic pagination (e.g. 5 Metabolisme dan Enzim p. 84, 6 Pembahagian Sel p. 98, 7 Respirasi Sel p. 112). Structural summary: The Bahasa Melayu original of the Biology Form 4 (DLP) book filed above; the DLP edition is its ministry English translation. All content placements are the DLP placements at identical printed pages; no topic exists in one edition that is absent from the other. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/malaysia-placements.md.
 
+**Book 4:** Chuyên đề học tập Sinh học 10 (Kết nối tri thức, NXBGD Việt Nam, ©2022) — Grade 10 Study Topics (elective specialisation book) — Vietnam. Grade: grade-10 Kind as verified: student specialisation book (Vietnamese) — the elective "study topics" companion to Sinh học 10, for career-oriented students; image-only scan, read visually as for the main book. Repo path / source: grade-10/gov/vietnam/biology/student/study-topics.pdf (TSV twin: releases/download/mid-size-books-2/grade-10-gov-vietnam-biology-student-study-topics.pdf — same book, duplicate record, read once) Byte size: 16,328,301 bytes — matches the record's size_bytes exactly PDF pages: 78 — matches the record's 78 pages; printed-page offset: printed page = PDF page − 1 Verdict: COMPLETE — preface, contents, all 3 topics / 12 lessons including 3 project lessons, glossary (printed p. 75) and back cover with ISBN 978-604-0-31078-1 present. Structural summary: Three career-technology topics, each ending in a student project (dự án): Topic 1 Cell technology and its achievements (plant cell technology, stem cells, animal cell technology); Topic 2 Enzyme technology and applications; Topic 3 Microbial technology in treating environmental pollution. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Enzymes in industry | Student Textbook, Grade 11 — Printed pp. 98–99. |
 | Malaysia's way — Ch.5: application of enzymes in daily life (placement: industrial-uses-of-enzymes) | Book 2 (Biology Form 4 (DLP), student textbook, Grade 10 (Form 4)), Ch.5, printed p. 95 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: industrial-uses-of-enzymes) | Book 3 (Biologi Tingkatan 4, student textbook, Grade 10 (Tingkatan 4)), Ch.5, printed p. 95 |
+| Vietnam's way — Topic 2, Bài 6 The enzyme-production technology process — printed p. 35 — How commercial enzyme preparations are made. | Book 4 (*Chuyên đề học tập Sinh học 10 (Kết nối tri thức, NXBGD Việt Nam, ©2022) — Grade 10 Study Topics*, student specialisation book, grade-10), printed p. 35 |
+| Vietnam's way — Topic 2, Bài 7 Applications of enzymes — printed p. 43 — Protease, cellulase, amylase and pectinase in food production, each enzyme treated product by product (fish sauce, wine, bread, beer, fruit juice). | Book 4 (*Chuyên đề học tập Sinh học 10 (Kết nối tri thức, NXBGD Việt Nam, ©2022) — Grade 10 Study Topics*, student specialisation book, grade-10), printed p. 43 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Malaysia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Vietnam).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
@@ -22,4 +26,6 @@ Honesty (Malaysia): Book 2 is a student textbook as verified in the placements �
 
 Honesty (Malaysia): Book 3 is a student textbook as verified in the placements — *Biologi Tingkatan 4*, Grade 10 (Tingkatan 4), Ministry of Education Malaysia, Cetakan Pertama 2019, ISBN 978-967-2250-72-2, No. Siri Buku 0114 — the Bahasa Melayu original of the DLP edition above, verified chapter-for-chapter and page-for-page identical to it, so it is cited at the same printed pages and Malaysia is counted once. It is COMPLETE (323 PDF pages).
 
-Searchable tags: biology, ethiopia, industrial, uses, enzymes, malaysia
+Honesty (Vietnam): Book 4 (*Chuyên đề học tập Sinh học 10 (Kết nối tri thức, NXBGD Việt Nam, ©2022) — Grade 10 Study Topics*) is a student specialisation book as verified in the placements — so Vietnam counts toward acceptance. It is COMPLETE as stated in its book entry above. It was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-2, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, industrial, uses, enzymes, malaysia, vietnam

@@ -1,17 +1,22 @@
 # Sources — The Calvin Cycle
 
-countries: Ethiopia
+countries: Ethiopia, Vietnam
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
+
+**Book 2:** Sinh học 11 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2023) — Vietnam. Grade: grade-11 Kind as verified: student textbook (Vietnamese), "Part Three: Organismal biology" (Sinh học cơ thể); image-only scan, read visually (page renders + 4-up contact sheets, full-resolution contents and spot lessons). Repo path / source: grade-11/gov/vietnam/biology/student/full-year.pdf (TSV twin: releases/download/mid-size-books-2/grade-11-gov-vietnam-biology-student-full-year.pdf — same book, duplicate record, read once) Byte size: 41,635,137 bytes — matches the record's size_bytes exactly PDF pages: 191 — matches the record's 191 pages; printed-page offset: printed page = PDF page − 2 (preface printed p. 3 = PDF p. 5) Verdict: COMPLETE — preface (which itself lists the 5 chapters), contents, all 29 lessons, glossary (printed p. 187) and back cover with ISBN 978-604-0-35046-6 present. Structural summary: Ch.1 Metabolism and energy transformation in organisms (plants then animals, ending with immunity and excretion/homeostasis); Ch.2 Responsiveness in organisms (plants, animals, behaviour); Ch.3 Growth and development; Ch.4 Reproduction; Ch.5 How the body's physiological processes relate to each other, plus biology-related careers. Same lesson machinery as Grade 10, and every plant process is systematically compared with the animal way of doing the same job — the preface states this plant/animal comparison design openly. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/vietnam-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — The light-independent reactions — Calvin cycle (§3.2.5): | Student Textbook, Grade 12 — Printed pp. 125–128. |
+| Vietnam's way — Bài 4, II.2a The C₃ pathway — printed p. 28 — Calvin–Benson (1951), RuBP, 3-PGA and G3P, with G3P shown as the branch point to carbohydrate, protein and lipid. | Book 2 (*Sinh học 11 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2023)*, student textbook, grade-11), printed p. 28 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Vietnam).**
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, the, calvin, cycle
+Honesty (Vietnam): Book 2 (*Sinh học 11 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2023)*) is a student textbook as verified in the placements — so Vietnam counts toward acceptance. It is COMPLETE as stated in its book entry above. It was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-2, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, the, calvin, cycle, vietnam

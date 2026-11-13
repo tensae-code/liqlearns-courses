@@ -1,6 +1,6 @@
 # Sources — Learned behaviour — habituation, conditioning, insight
 
-countries: Ethiopia, Armenia
+countries: Ethiopia, Armenia, Vietnam
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Armenia
 
 **Book 3:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
 
+**Book 4:** Sinh học 11 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2023) — Vietnam. Grade: grade-11 Kind as verified: student textbook (Vietnamese), "Part Three: Organismal biology" (Sinh học cơ thể); image-only scan, read visually (page renders + 4-up contact sheets, full-resolution contents and spot lessons). Repo path / source: grade-11/gov/vietnam/biology/student/full-year.pdf (TSV twin: releases/download/mid-size-books-2/grade-11-gov-vietnam-biology-student-full-year.pdf — same book, duplicate record, read once) Byte size: 41,635,137 bytes — matches the record's size_bytes exactly PDF pages: 191 — matches the record's 191 pages; printed-page offset: printed page = PDF page − 2 (preface printed p. 3 = PDF p. 5) Verdict: COMPLETE — preface (which itself lists the 5 chapters), contents, all 29 lessons, glossary (printed p. 187) and back cover with ISBN 978-604-0-35046-6 present. Structural summary: Ch.1 Metabolism and energy transformation in organisms (plants then animals, ending with immunity and excretion/homeostasis); Ch.2 Responsiveness in organisms (plants, animals, behaviour); Ch.3 Growth and development; Ch.4 Reproduction; Ch.5 How the body's physiological processes relate to each other, plus biology-related careers. Same lesson machinery as Grade 10, and every plant process is systematically compared with the animal way of doing the same job — the preface states this plant/animal comparison design openly. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Learned behaviour | Student Textbook, Grade 11 — Printed pp. 50–51. |
 | Sub lesson 2 — Added conditioning detail — Pavlov's dogs in three stages (teacher guide — evidence) | Teachers' Guide, Grade 11 — Printed pp. 57–59. |
 | Sub lesson 3 — Added conditioning detail — Skinner's box and the three operants (teacher guide — evidence) | Teachers' Guide, Grade 11 — Printed pp. 59–62. |
 | Armenia's way — §8 Higher nervous activity — conditioned reflexes and human higher nervous activity in the Pavlov tradition of the Armenian/Russian school. (placement slug: learned-behaviour-habituation-conditioning-insight) | Book 3 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 31 |
+| Vietnam's way — Bài 18, II.2 Learned behaviour — printed p. 116 — Learning by Pavlov-type and Skinner-type conditioning, both named. | Book 4 (*Sinh học 11 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2023)*, student textbook, grade-11), printed p. 116 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Armenia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Armenia, Vietnam).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
@@ -23,4 +26,6 @@ Honesty notes: this Teachers' Guide is a finished publication — first publishe
 
 Honesty (Armenia): Book 3 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
 
-Searchable tags: biology, ethiopia, learned, behaviour, habituation, conditioning, insight, armenia
+Honesty (Vietnam): Book 4 (*Sinh học 11 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2023)*) is a student textbook as verified in the placements — so Vietnam counts toward acceptance. It is COMPLETE as stated in its book entry above. It was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-2, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, learned, behaviour, habituation, conditioning, insight, armenia, vietnam

@@ -1,15 +1,20 @@
 # Sources — Learning from nature — biomimicry
 
-countries: Ethiopia
+countries: Ethiopia, Vietnam
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Sinh học 10 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2022) — Vietnam. Grade: grade-10 Kind as verified: student textbook (Vietnamese), "Connecting Knowledge with Life" series, Ministry of Education and Training / Vietnam Education Publishing House; image-only scan (no text layer) — read visually, page by page, from 100-DPI page renders and 4-up contact sheets, with full-resolution reads of the cover, contents and lesson openers. Repo path / source: grade-10/gov/vietnam/biology/student/full-year.pdf (TSV twin: releases/download/mid-size-books-2/grade-10-gov-vietnam-biology-student-full-year.pdf — same book, duplicate record, read once) Byte size: 37,469,581 bytes — matches the record's size_bytes exactly PDF pages: 162 — matches the record's 162 pages; printed-page offset: printed page = PDF page − 1 (contents printed p. 4 = PDF p. 5) Verdict: COMPLETE — cover, preface, contents, all 26 lessons (bài) plus 5 practical lessons, chapter summary concept-maps, glossary of terms (printed p. 158) and the publisher's imprint/back cover with ISBN 978-604-0-31077-4 all present. Structural summary: Vietnam's way is uniform and competency-based: every bài opens with a "Yêu cầu cần đạt" (outcomes to achieve) box and a real-life hook question, teaches in numbered sections interrupted by "Dừng lại và suy ngẫm" (Stop and reflect) question boxes and "Em có biết" (Did you know) / "Khoa học và đời sống" (Science and life) side boxes, and closes with a "Kiến thức cốt lõi" (Core knowledge) summary and "Luyện tập và vận dụng" (Practice and apply) tasks. Parts: Opening (Bài 1–3); Part One — Cell biology (Ch.1 chemical composition, Ch.2 cell structure, Ch.3 membrane transport and cell signalling, Ch.4 energy transformation, Ch.5 cell cycle and division); Part Two — Microbiology and viruses (Ch.6 microorganisms, Ch.7 viruses). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/vietnam-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Learning from nature — imitation as a method | Student Textbook, Grade 11 — Printed pp. 2–3. |
+| Vietnam's way — Bài 1, III.3c Biology and technology — printed p. 10 — Biomimetic technology (swarm robotics from social insects) inside the intro lesson. | Book 2 (*Sinh học 10 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2022)*, student textbook, grade-10), printed p. 10 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Vietnam).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, learning, from, nature, biomimicry
+Honesty (Vietnam): Book 2 (*Sinh học 10 (Kết nối tri thức với cuộc sống, NXBGD Việt Nam, ©2022)*) is a student textbook as verified in the placements — so Vietnam counts toward acceptance. It is COMPLETE as stated in its book entry above. It was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-2, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, learning, from, nature, biomimicry, vietnam
