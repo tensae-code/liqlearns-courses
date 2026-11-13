@@ -1,6 +1,6 @@
 # Sources — The Ear: Hearing and Balance
 
-countries: Ethiopia, Eritrea, Bolivia, Iran, Armenia
+countries: Ethiopia, Eritrea, Bolivia, Iran, Armenia, Iraq
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Eritrea, Bolivia, Iran, Armenia
 
 **Book 5:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
 
+**Book 6:** علم الأحياء (الإنسان وصحته) — Biology (Man and His Health), Third Intermediate / Grade 9 (as printed) — Iraq. Grade: 9 (grade-09) — Kind: student as verified — Repo path (release asset): full-quality-oversized-books/grade-09-gov-iraq-biology-student-full-year.pdf — Source: TSV record — Byte size: 143020108 (no size in record) — PDF pages: 140 — Printed-page offset: printed p. = PDF page − 2 (printed pp. 1–136 + covers) — Verdict: COMPLETE — image-only scan read page-by-page on 100 DPI 4-up contact sheets (renders deleted after filing); cover, imprint (13th revised edition, 1447H/2025; legal deposit no. 952, Baghdad), contents, all 11 chapters with their reviews, closing "تم بحمد الله" page and back cover present. Structural summary: Iraq's Grade 9 book is a dedicated human-body-and-health volume — "(Man and His Health)" is part of the printed title. Eleven chapters, one per body system (nervous, skeletal, muscular, digestive, circulatory, respiratory, urinary/excretion, reproductive, sense organs, secretion, immunity and diseases). Iraqi way: every chapter opens with a bilingual divider carrying a "Performance index" (مؤشرات الأداء) — the exact things the pupil will be able to do — and every technical term is printed in English beside the Arabic (the preface states this policy explicitly); each system chapter ends with its diseases treated under the fixed English headings (Symptoms) / (Remedy) / (Prevention); chapters close with a four-part review (test your knowledge / check your understanding / explain / build your skills, including a concept-map completion). Faith framing runs in the outcome lists ("appreciate the greatness of the Creator in..."). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — The ear (§5.2.5): | Student Textbook, Grade 12 — Printed pp. 291–294. |
@@ -19,8 +21,9 @@ countries: Ethiopia, Eritrea, Bolivia, Iran, Armenia
 | Bolivia's way — The ear and hearing pathologies: cofosis (total hearing loss, uni/bilateral), presbycusis | Book 3 (Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria, student textbook, Grade 8), printed pp. 177–179 |
 | Iran's way — Ch. 2 §2: hearing and balance — printed p. 27 | Book 4 (زیست‌شناسی (۲) — Biology (2), student textbook, Grade 11), Ch. 2 §2: hearing and balance, printed p. 27 |
 | Armenia's way — §12 Auditory and balance analyzers — outer/middle/inner ear and the vestibular apparatus as one paired analyzer chapter. (placement slug: the-ear-hearing-and-balance) | Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 42 |
+| Iraq's way — Ch. 9: the sense of hearing — ear ossicles (hammer and anvil named in the sense-organ components) | Book 6 (علم الأحياء (الإنسان وصحته) (Biology — Man and His Health, Third Intermediate), student textbook, Grade 9), printed p. 111 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Bolivia, Iran, Armenia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Bolivia, Iran, Armenia, Iraq).**
 
 Honesty (Bolivia): Book 3 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 8 (Secundaria 2) — so Bolivia counts toward acceptance. It is TRUNCATED: the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. This truncated copy is never counted as a complete book. 84 PDF pages; printed p. = PDF page + 146.
 
@@ -34,4 +37,6 @@ Honesty (Iran): Book 4 is a student textbook as verified in the placements — *
 
 Honesty (Armenia): Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
 
-Searchable tags: biology, eritrea, ethiopia, the, ear, hearing, and, balance, bolivia, iran, armenia
+Honesty (Iraq): Book 6 (*علم الأحياء (الإنسان وصحته) (Biology — Man and His Health, Third Intermediate)*, Grade 9) is a student textbook as verified in the placements — so Iraq counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, eritrea, ethiopia, the, ear, hearing, and, balance, bolivia, iran, armenia, iraq

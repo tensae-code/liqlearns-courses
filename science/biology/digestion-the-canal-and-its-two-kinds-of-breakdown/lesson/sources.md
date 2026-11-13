@@ -1,6 +1,6 @@
 # Sources — Digestion — the canal and its two kinds of breakdown
 
-countries: Ethiopia, Iran, Bhutan, Indonesia, Afghanistan, Armenia
+countries: Ethiopia, Iran, Bhutan, Indonesia, Afghanistan, Armenia, Iraq
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Iran, Bhutan, Indonesia, Afghanistan, Armenia
 
 **Book 8:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
 
+**Book 9:** علم الأحياء — للصف الخامس العلمي (Biology, Fifth Scientific / Grade 11 Scientific Track) (as printed) — Iraq. Grade: 11 (grade-11) — Kind: student as verified — Repo path (release asset): mid-size-books/grade-11-gov-iraq-biology-student-full-year.pdf — Source: TSV record — Byte size: 5615609 (no size in record) — PDF pages: 232 — Printed-page offset: printed p. = PDF page (running heads carry chapter + printed page on every page) — Verdict: COMPLETE — all 7 chapters run to their glossaries (تعريف بالمصطلحات, marked للإطلاع "for reading") and chapter questions; the book ends inside Ch. 7's question set at p. 232. Structural summary: A comparative-physiology volume: nutrition & digestion, respiration & gas exchange, excretion, locomotion, transport, nervous coordination & sensation, hormones & glands — each process traced across unicellular organisms, plants, invertebrates and vertebrates before the human case. Iraqi way: bilingual running heads and English terms throughout; "هل تعلم؟" (Did you know?) and "أضف إلى معلوماتك" (Add to your knowledge) boxes; long comparative figure series all labelled للإطلاع (for enrichment reading) while the two endocrine summary tables are marked للحفظ (for memorisation); every chapter closes with a bilingual glossary of its terms. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 95–96 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Iran, Bhutan, Indonesia, Afghanistan, Armenia
 | Indonesia's way — Ch.4B: chemical digestion — organ/enzyme table | Book 6 (Biologi untuk SMA/MA Kelas XI, student textbook, Grade 11), printed p. 110 |
 | Afghanistan's way — Ch1, digestion and absorption in the small and large intestines (placement slug: digestion-the-canal-and-its-two-kinds-of-breakdown) | Book 7 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), student textbook, Grade 9), printed p. 8 |
 | Armenia's way — §39 Structure and functions of the digestive system — the canal and its glands; mechanical and chemical breakdown. (placement slug: digestion-the-canal-and-its-two-kinds-of-breakdown) | Book 8 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 144 |
+| Iraq's way — Ch. 1: intracellular vs extracellular digestion; incomplete vs complete gut — earthworm as the complete-canal example; guts of squirrel (herbivore) and bat compared | Book 9 (علم الأحياء — للصف الخامس العلمي (Biology, Fifth Scientific), student textbook, Grade 11), printed p. 31 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Iran, Bhutan, Indonesia, Afghanistan, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Iran, Bhutan, Indonesia, Afghanistan, Armenia, Iraq).**
 
 Honesty (Indonesia): Book 6 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XI*, Grade 11 (Kelas XI, SMA/MA), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1) — so Indonesia counts toward acceptance. It is COMPLETE: all 8 chapters, glossary, index and bibliography present (312 PDF pages; printed p. = PDF page − 16). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
@@ -45,4 +48,6 @@ Honesty (Afghanistan): Book 7 (بیولوژی صنف نهم (Biology, Grade 9 �
 
 Honesty (Armenia): Book 8 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
 
-Searchable tags: biology, ethiopia, grade 10, digestion, the, canal, and, its, two, kinds, of, breakdown, iran, bhutan, indonesia, afghanistan, armenia
+Honesty (Iraq): Book 9 (*علم الأحياء — للصف الخامس العلمي (Biology, Fifth Scientific)*, Grade 11) is a student textbook as verified in the placements — so Iraq counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, grade 10, digestion, the, canal, and, its, two, kinds, of, breakdown, iran, bhutan, indonesia, afghanistan, armenia, iraq

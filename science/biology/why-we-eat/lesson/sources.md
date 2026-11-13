@@ -1,6 +1,6 @@
 # Sources — Why we eat — energy, building, protection
 
-countries: Ethiopia, Sudan, Gabon, Libya
+countries: Ethiopia, Sudan, Gabon, Libya, Iraq
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Sudan, Gabon, Libya
 
 **Book 16:** الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10) — Libya. Grade: grade-10 (first year of secondary, science general year) — Kind as verified: student textbook (Arabic). Publisher: Centre for Educational Curricula and Research, Libya, 2019–2020 / 1440–1441 H edition printed on title pages. — Repo path / source: grade-10/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-10-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 17,732,421 bytes (record size_bytes: none) — PDF pages: 115; printed-page offset: printed page number = PDF page number (offset 0) — Verdict: COMPLETE — preface, contents, all 7 units, end-of-unit summaries and "thinking corner" pages, bilingual Arabic–English glossary (printed pp. 109–113) and blank notes pages all present. — Structural summary: Organised as "Part One: Organisation of the individual and keeping it safe". Every unit opens with learning objectives and an introduction activity, runs numbered sections with key-word definitions, margin "key ideas" boxes, enrichment "light of knowledge" boxes, national-education and thinking-skills icons, and closes with a summary plus a problem-solving "Thinking Corner". Units: 1 What is biology?; 2 Cells — building units of life; 3 Diffusion and osmosis; 4 Enzymes; 5 Nutrition; 6 Nutrition in mammals; 7 Nutrition in plants. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
 
+**Book 17:** علم الأحياء — للصف الخامس العلمي (Biology, Fifth Scientific / Grade 11 Scientific Track) (as printed) — Iraq. Grade: 11 (grade-11) — Kind: student as verified — Repo path (release asset): mid-size-books/grade-11-gov-iraq-biology-student-full-year.pdf — Source: TSV record — Byte size: 5615609 (no size in record) — PDF pages: 232 — Printed-page offset: printed p. = PDF page (running heads carry chapter + printed page on every page) — Verdict: COMPLETE — all 7 chapters run to their glossaries (تعريف بالمصطلحات, marked للإطلاع "for reading") and chapter questions; the book ends inside Ch. 7's question set at p. 232. Structural summary: A comparative-physiology volume: nutrition & digestion, respiration & gas exchange, excretion, locomotion, transport, nervous coordination & sensation, hormones & glands — each process traced across unicellular organisms, plants, invertebrates and vertebrates before the human case. Iraqi way: bilingual running heads and English terms throughout; "هل تعلم؟" (Did you know?) and "أضف إلى معلوماتك" (Add to your knowledge) boxes; long comparative figure series all labelled للإطلاع (for enrichment reading) while the two endocrine summary tables are marked للحفظ (for memorisation); every chapter closes with a bilingual glossary of its terms. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 105–106 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Sudan, Gabon, Libya
 | The Grade 3 wording — why we need food | Ethiopia, *Environmental Science Student Textbook, Grade 3*, printed pp. 15–16 |
 | Sudan's way — Unit One: Nutrition in Living Organisms — concepts of food and nutrition; the food groups and their functions for the body (placement slug: why-we-eat) | Book 14 (علم الأحياء – الصف الثاني الثانوي, student textbook, Grade 11), Unit One, printed pp. 1–51 (objectives p. 2) |
 | Gabon's way — Lesson 8: Les rations alimentaires (teacher guide — evidence) (placement slug: why-we-eat) | Book 15 (Guide pédagogique Sciences, teacher guide, Grade 3), printed p. 12 |
+| Iraq's way — Ch. 1: nutritional requirements — proteins, then vitamins and minerals in two full role-and-source tables | Book 17 (علم الأحياء — للصف الخامس العلمي (Biology, Fifth Scientific), student textbook, Grade 11), printed p. 45 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Sudan, Libya) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Libya, Iraq) — Gabon's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 3; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
@@ -34,4 +37,6 @@ Honesty (Sudan): Book 14 is a student textbook as verified in the placements —
 
 Honesty (Libya): Book 16 (*الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10)*, Grade 10) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 16 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
 
-Searchable tags: biology, ethiopia, why, eat, energy, building, protection, sudan, gabon, libya
+Honesty (Iraq): Book 17 (*علم الأحياء — للصف الخامس العلمي (Biology, Fifth Scientific)*, Grade 11) is a student textbook as verified in the placements — so Iraq counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, why, eat, energy, building, protection, sudan, gabon, libya, iraq

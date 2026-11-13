@@ -1,6 +1,6 @@
 # Sources — Absorption — the villi at work
 
-countries: Ethiopia, Sri Lanka, Eritrea, Iran, Bhutan, Indonesia, Libya
+countries: Ethiopia, Sri Lanka, Eritrea, Iran, Bhutan, Indonesia, Libya, Iraq
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Sri Lanka, Eritrea, Iran, Bhutan, Indonesia, Libya
 
 **Book 8:** الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10) — Libya. Grade: grade-10 (first year of secondary, science general year) — Kind as verified: student textbook (Arabic). Publisher: Centre for Educational Curricula and Research, Libya, 2019–2020 / 1440–1441 H edition printed on title pages. — Repo path / source: grade-10/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-10-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 17,732,421 bytes (record size_bytes: none) — PDF pages: 115; printed-page offset: printed page number = PDF page number (offset 0) — Verdict: COMPLETE — preface, contents, all 7 units, end-of-unit summaries and "thinking corner" pages, bilingual Arabic–English glossary (printed pp. 109–113) and blank notes pages all present. — Structural summary: Organised as "Part One: Organisation of the individual and keeping it safe". Every unit opens with learning objectives and an introduction activity, runs numbered sections with key-word definitions, margin "key ideas" boxes, enrichment "light of knowledge" boxes, national-education and thinking-skills icons, and closes with a summary plus a problem-solving "Thinking Corner". Units: 1 What is biology?; 2 Cells — building units of life; 3 Diffusion and osmosis; 4 Enzymes; 5 Nutrition; 6 Nutrition in mammals; 7 Nutrition in plants. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
 
+**Book 9:** علم الأحياء — للصف الخامس العلمي (Biology, Fifth Scientific / Grade 11 Scientific Track) (as printed) — Iraq. Grade: 11 (grade-11) — Kind: student as verified — Repo path (release asset): mid-size-books/grade-11-gov-iraq-biology-student-full-year.pdf — Source: TSV record — Byte size: 5615609 (no size in record) — PDF pages: 232 — Printed-page offset: printed p. = PDF page (running heads carry chapter + printed page on every page) — Verdict: COMPLETE — all 7 chapters run to their glossaries (تعريف بالمصطلحات, marked للإطلاع "for reading") and chapter questions; the book ends inside Ch. 7's question set at p. 232. Structural summary: A comparative-physiology volume: nutrition & digestion, respiration & gas exchange, excretion, locomotion, transport, nervous coordination & sensation, hormones & glands — each process traced across unicellular organisms, plants, invertebrates and vertebrates before the human case. Iraqi way: bilingual running heads and English terms throughout; "هل تعلم؟" (Did you know?) and "أضف إلى معلوماتك" (Add to your knowledge) boxes; long comparative figure series all labelled للإطلاع (for enrichment reading) while the two endocrine summary tables are marked للحفظ (for memorisation); every chapter closes with a bilingual glossary of its terms. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 102–103 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Sri Lanka, Eritrea, Iran, Bhutan, Indonesia, Libya
 | Bhutan's way — Ch. 3.1: absorption and assimilation of food | Book 6 (BIOLOGY — CLASS 10, student textbook, Grade 10), printed pp. 59–61 |
 | Indonesia's way — Ch.4A: villus (jonjot usus) structure for absorption | Book 7 (Biologi untuk SMA/MA Kelas XI, student textbook, Grade 11), printed p. 105 |
 | Libya's way — Unit 6, 6-4 Absorption — Absorption through the small-intestine wall. (placement slug: absorption-the-villi-at-work) | Book 8 (Biology Student Book, Year 1 Secondary, student textbook, Grade 10), printed p. 85 |
+| Iraq's way — Ch. 1: small-intestine lining and absorption — chymotrypsin/carboxypeptidase completing protein digestion | Book 9 (علم الأحياء — للصف الخامس العلمي (Biology, Fifth Scientific), student textbook, Grade 11), printed p. 40 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sri Lanka, Eritrea, Iran, Bhutan, Indonesia, Libya).**
+**Acceptance count: taught in 8 countries (Ethiopia, Sri Lanka, Eritrea, Iran, Bhutan, Indonesia, Libya, Iraq).**
 
 Honesty (Indonesia): Book 7 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XI*, Grade 11 (Kelas XI, SMA/MA), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1) — so Indonesia counts toward acceptance. It is COMPLETE: all 8 chapters, glossary, index and bibliography present (312 PDF pages; printed p. = PDF page − 16). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
@@ -45,4 +48,6 @@ Honesty (Bhutan): Book 6 is a student textbook as verified in the placements —
 
 Honesty (Libya): Book 8 (*الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10)*, Grade 10) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 8 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
 
-Searchable tags: biology, eritrea, ethiopia, sri lanka, grade 10, absorption, the, villi, at, work, iran, bhutan, indonesia, libya
+Honesty (Iraq): Book 9 (*علم الأحياء — للصف الخامس العلمي (Biology, Fifth Scientific)*, Grade 11) is a student textbook as verified in the placements — so Iraq counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, eritrea, ethiopia, sri lanka, grade 10, absorption, the, villi, at, work, iran, bhutan, indonesia, libya, iraq
