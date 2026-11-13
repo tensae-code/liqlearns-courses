@@ -1210,6 +1210,11 @@ solar-system comparison lessons.
 467. **Foundations of embryology** (`biology/foundations-of-embryology`) — development from the fertilised egg as its own science — cleavage, gastrulation, and the three germ layers from which every organ traces (North Macedonia, Grade 13 elective — *БИОЛОГИЈА за IV година*, Ch. 3.III, printed pp. 145–151)
 468. **How exocrine glands are controlled** (`biology/how-exocrine-glands-are-controlled`) — the ducted glands — salivary, sweat, digestive — switched by fast nervous reflexes and timed hormonal signals, taught as the closing topic of the regulation year (North Macedonia, Grade 13 elective — *БИОЛОГИЈА за IV година*, Ch. 4.11, printed pp. 232–239)
 
+469. **Algae — thallus plants** (`biology/algae-thallus-plants`) — algae are thallus plants: their whole body is a thallus, one simple plant body not divided into root, stem and leaves — the simplest body plan in the plant kingdom, set against the cormus plants built of tissues and true organs (Bulgaria, Grade 7 — *Биология и здравно образование 7. клас*, student textbook, Topic 15, printed p. 33)
+470. **Modified plant organs** (`biology/modified-plant-organs`) — a plant organ can be modified, changed in form for a special job: tendrils to climb and hold, thorns to defend, storage organs to keep food and water — taught as a discussion/project topic (Bulgaria, Grade 7 — *Биология и здравно образование 7. клас*, student textbook, Topic 19, printed p. 42)
+471. **Cloning — debate and technique** (`biology/cloning-debate-and-technique`) — cloning makes new living things that are genetic copies of a single parent, taught together with the debate about what it should and should not be used for, closing the biotechnology section (Bulgaria, Grade 9 — *Биология и здравно образование 9. клас*, student textbook, Topic 32, printed p. 116)
+472. **Individual development — embryonic and post-embryonic** (`biology/individual-development-embryonic-and-postembryonic`) — every organism's individual development runs in order from the fertilised egg: the embryonic period to birth or hatching, then the post-embryonic period through growth and change to the adult (Bulgaria, Grade 10 — *Биология и здравно образование 10. клас*, student textbook, Topics 22–24, printed pp. 65–67)
+
 
 
 ## Unit 18 — Physics
