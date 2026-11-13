@@ -1,8 +1,10 @@
 # Sources — Mixtures — homogeneous and heterogeneous
 
-countries: Djibouti
+countries: Djibouti, Mauritania
 
 **Book 1 (teacher evidence only):** *Guide de l'enseignant Physique-Chimie, 6ème année* (teacher guide) — Djibouti. Title as printed: Guide de l'enseignant Physique-Chimie 6ème (Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti). Grade: Grade 6. Kind: teacher guide for the combined Physique-Chimie course, in French. Repo path: grade-06/gov/djibouti/physics-chemistry/full-year.pdf. Byte size: 2,584,438 (no size in record; matches the Physics-wave copy byte-for-byte size). PDF pages: 71; printed-page offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — full text read (19,998 words); sommaire proves the split: Partie II CHIMIE = Ch. 1 Mesure de volume et masse (shared measurement, placed in the Physics pass), Ch. 2 L'eau dans notre environnement, Ch. 3 L'eau dans les mélanges, Ch. 4 Boissons gazeuses; Partie III is Physics (placed in the Physics pass). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/djibouti-placements.md. EVIDENCE ONLY: this teacher guide is cited as teacher evidence only and is NOT counted toward this lesson's acceptance count. The library holds no Djibouti student manual (recorded debt from both waves), so no pupil-book content is claimed; the lesson is built from the guide content the placements describe.
+
+**Book 2:** *Sciences Physiques 2AS* (student textbook — combined Physics & Chemistry manual; Chemistry part placed here) — Mauritania. Title as printed: Sciences Physiques 2AS (République Islamique de Mauritanie, Institut Pédagogique National, 2026; authors Mohamed Abdou Leffad & Dah Mohamed El Mokhtar). Grade: 8 (collège) · Student · Repo path: grade-08/gov/mauritania/phy-2as-m.pdf. Byte size: 2,657,568 (no size in record) · PDF pages: 60 · Offset: printed pagination runs to ~p. 59; Chemistry Unit I at printed pp. 7–15. Verdict: COMPLETE — Chemistry Unit I read in full, page by page. Split: Chemistry Unit I placed here (the air-pressure/barometer part of Unit I §4 was placed by the Physics wave); all other units are Physics, placed by the Physics wave. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/mauritania-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -10,8 +12,9 @@ countries: Djibouti
 | Sub lesson 2 — The guide's four examples (teacher evidence only) | Djibouti, *Guide de l'enseignant Physique-Chimie, 6ème année* (teacher guide), Ch. 3: L'eau dans les mélanges, printed p. 32 — The guide's four examples (teacher evidence) |
 | Sub lesson 3 — The difference underneath — dissolving (teacher evidence only) | Djibouti, *Guide de l'enseignant Physique-Chimie, 6ème année* (teacher guide), Ch. 3: L'eau dans les mélanges, printed p. 32 — The difference underneath — dissolving (teacher evidence) |
 | Do it first; key ideas; Do It Yourself (teacher evidence only) | Djibouti, *Guide de l'enseignant Physique-Chimie, 6ème année* (teacher guide), Ch. 3: L'eau dans les mélanges, printed p. 32 (teacher evidence) |
+| Unit I, I: Les mélanges (Mauritania, Grade 8) | Book 2 (Grade 8) — Unit I, I: Les mélanges — printed p. 8 — a mixture defined as substances placed together without reacting chemically; homogeneous mixtures (tea, syrup, coffee, milk) against heterogeneous ones (water and oil, muddy water) whose parts can be told apart; no existing slug covers the mixture classification itself. |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Djibouti), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Mauritania).** Djibouti is named as teacher evidence only (*Guide de l'enseignant Physique-Chimie, 6ème année* — teacher guide, NOT a student textbook), not added to this count.
 
 Placement choice, on the record: this NEW LESSON was built for the Djibouti placement "NEW LESSON NEEDED: chemistry/mixtures-homogeneous-and-heterogeneous — Ch. 3: L'eau dans les mélanges — printed p. 32" — djibouti-placements.md. No existing lesson covers this thing, so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Djibouti's own way of teaching the thing, as the placements describe it, IS content in this lesson, carried exactly as described; nothing is presented as pupil-book content.
 

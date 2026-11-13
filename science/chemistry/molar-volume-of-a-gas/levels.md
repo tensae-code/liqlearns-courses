@@ -1,0 +1,4 @@
+# Molar volume of a gas — depth
+
+Whole-lesson pass mark: the learner works through the lesson's sub lessons in order (One mole of any gas — the same volume, The number — and the conditions it hangs on, Reading amount from volume — n = V/Vm), explains each in their own words using the lesson's own examples, and answers the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson; on a fail the learner reviews the questions and answers just done, then resets with another set; nothing ever relocks. Practice deepens inside each part before the learner moves on — retelling without notes, and working the lesson's own examples until the one thing is secure.
