@@ -1,10 +1,12 @@
 # Sources — The immune system — born with one, acquire the other
 
-countries: Ethiopia
+countries: Ethiopia, Brazil
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
 **Book 2:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
+
+**Book 3:** Biologia — Livro Didático Público, Ensino Médio (Secretaria de Estado da Educação do Paraná, SEED-PR; Governo do Estado do Paraná) — Brazil. Grade: 10 (Ensino Médio) — Kind: student as verified ("Este livro é público" — the public textbook, printed p. 1) — Repo path (release mid-size-books): grade-10-gov-brazil-biology-student-full-year.pdf — Source: SEED-PR. Byte size: 10,850,162 — PDF pages: 296 — Printed pages: contents at printed pp. 12–261+; printed p. = PDF page (sumário on PDF pp. 8–9). Verdict: COMPLETE — four structuring blocks (Conteúdos Estruturantes) with 16+ chapters, contents complete to Vaccines at printed p. 255+; the file runs to 296 PDF pages. Structural summary: Organisation of Living Beings (bacteria, viruses) → Biological Mechanisms (the cell, osmosis, embryos) → Biodiversity (a snakes-and-evolution riddle chapter, reproduction, DNA, blood, heredity, Brazilian biomes, the Mata Atlântica in distress, environmental problems — "human action or divine punishment?") → Implications of Biological Advances for the phenomenon LIFE (stem cells, cloning, vaccines). Every chapter is framed as a question, in the book's own inquiry style. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/brazil-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -14,9 +16,12 @@ countries: Ethiopia
 | Kinds of immunity (student book) | Book 2 (student textbook), printed pp. 124, 142–144 |
 | First milk (student book) | Book 2 (student textbook), printed pp. 124, 142–144 |
 | Vaccines (student book) | Book 2 (student textbook), printed pp. 124, 142–144 |
+| Brazil's way — Ch. 16: Vacinas — "como estaria a humanidade sem esses guerreiros em defesa de nosso organismo?" (how would humanity be without these warriors in defence of our organism?) — vaccines as warriors defending the body, closing the book | Book 3 (Biologia — Livro Didático Público, Ensino Médio, student textbook, Grade 10), Ch. 16, printed p. 255 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
 
 Honesty: the Grade 10 student placements file landed after this lesson was first built from the teacher guide; the pupil-taught student-book parts have now been added above as the core, and the guide rows stay labelled “(teacher guide — evidence)”. The guide is a pre-publication draft whose publication page was never filled in (placeholder date “xxxxx 2022” and placeholder ISBN/printer) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. Guide errors the placements flag are taught corrected and named here only: in the mitosis feedback two different phases are both lettered “D” (Telophase and Cytokinesis); the guide's §5.2.1 is titled “Blood donation” where the student book's is “Blood Groups”; the guide's Unit 4 is titled “Cell Cycle” where the student book's is “Cell Reproduction”.
 
-Searchable tags: biology, ethiopia, the, immune, system, born, with, one, acquire, the
+Honesty (Brazil): Book 3 is a student textbook as verified in the placements — *Biologia — Livro Didático Público, Ensino Médio*, the State of Paraná's public textbook (SEED-PR), Grade 10 — so Brazil counts toward acceptance. It is COMPLETE: four structuring blocks (Conteúdos Estruturantes) with 16+ chapters, contents complete to Vaccines at printed p. 255+, the file running to 296 PDF pages; printed p. = PDF page. Brazil's own way runs through the whole book and is content in this lesson: every chapter is framed as a question, in the book's inquiry style.
+
+Searchable tags: biology, ethiopia, the, immune, system, born, with, one, acquire, the, brazil

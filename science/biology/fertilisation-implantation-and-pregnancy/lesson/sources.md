@@ -1,15 +1,20 @@
 # Sources — Fertilisation, implantation and pregnancy
 
-countries: Ethiopia
+countries: Ethiopia, Brazil
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Biologia — Livro Didático Público, Ensino Médio (Secretaria de Estado da Educação do Paraná, SEED-PR; Governo do Estado do Paraná) — Brazil. Grade: 10 (Ensino Médio) — Kind: student as verified ("Este livro é público" — the public textbook, printed p. 1) — Repo path (release mid-size-books): grade-10-gov-brazil-biology-student-full-year.pdf — Source: SEED-PR. Byte size: 10,850,162 — PDF pages: 296 — Printed pages: contents at printed pp. 12–261+; printed p. = PDF page (sumário on PDF pp. 8–9). Verdict: COMPLETE — four structuring blocks (Conteúdos Estruturantes) with 16+ chapters, contents complete to Vaccines at printed p. 255+; the file runs to 296 PDF pages. Structural summary: Organisation of Living Beings (bacteria, viruses) → Biological Mechanisms (the cell, osmosis, embryos) → Biodiversity (a snakes-and-evolution riddle chapter, reproduction, DNA, blood, heredity, Brazilian biomes, the Mata Atlântica in distress, environmental problems — "human action or divine punishment?") → Implications of Biological Advances for the phenomenon LIFE (stem cells, cloning, vaccines). Every chapter is framed as a question, in the book's own inquiry style. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/brazil-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Fertilisation and pregnancy | Student Textbook, Grade 11 — Printed p. 197. |
+| Brazil's way — Ch. 5: Embriões — "a fantástica obra em construção! Como acontece este processo?" (the fantastic work under construction! How does this process happen?) — embryos and how development happens — stocked here from the placements slug `biology/milestones-of-baby-development`, which has no lesson of its own; this is the closest existing lesson covering that thing (the embryo's development carried by fertilisation, implantation and pregnancy) | Book 2 (Biologia — Livro Didático Público, Ensino Médio, student textbook, Grade 10), Ch. 5, printed p. 75 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, fertilisation, implantation, and, pregnancy
+Honesty (Brazil): Book 2 is a student textbook as verified in the placements — *Biologia — Livro Didático Público, Ensino Médio*, the State of Paraná's public textbook (SEED-PR), Grade 10 — so Brazil counts toward acceptance. It is COMPLETE: four structuring blocks (Conteúdos Estruturantes) with 16+ chapters, contents complete to Vaccines at printed p. 255+, the file running to 296 PDF pages; printed p. = PDF page. Brazil's own way runs through the whole book and is content in this lesson: every chapter is framed as a question, in the book's inquiry style.
+
+Searchable tags: biology, ethiopia, fertilisation, implantation, and, pregnancy, brazil

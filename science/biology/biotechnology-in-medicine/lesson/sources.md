@@ -1,17 +1,22 @@
 # Sources — Biotechnology in Medicine
 
-countries: Ethiopia
+countries: Ethiopia, Brazil
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
+
+**Book 2:** Biologia — Livro Didático Público, Ensino Médio (Secretaria de Estado da Educação do Paraná, SEED-PR; Governo do Estado do Paraná) — Brazil. Grade: 10 (Ensino Médio) — Kind: student as verified ("Este livro é público" — the public textbook, printed p. 1) — Repo path (release mid-size-books): grade-10-gov-brazil-biology-student-full-year.pdf — Source: SEED-PR. Byte size: 10,850,162 — PDF pages: 296 — Printed pages: contents at printed pp. 12–261+; printed p. = PDF page (sumário on PDF pp. 8–9). Verdict: COMPLETE — four structuring blocks (Conteúdos Estruturantes) with 16+ chapters, contents complete to Vaccines at printed p. 255+; the file runs to 296 PDF pages. Structural summary: Organisation of Living Beings (bacteria, viruses) → Biological Mechanisms (the cell, osmosis, embryos) → Biodiversity (a snakes-and-evolution riddle chapter, reproduction, DNA, blood, heredity, Brazilian biomes, the Mata Atlântica in distress, environmental problems — "human action or divine punishment?") → Implications of Biological Advances for the phenomenon LIFE (stem cells, cloning, vaccines). Every chapter is framed as a question, in the book's own inquiry style. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/brazil-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Biotechnology in health and wellbeing (§1.4/§1.6): | Student Textbook, Grade 12 — Printed pp. 20–27. |
+| Brazil's way — Ch. 14: Células-tronco — "a realidade de muitos sonhos ou a frustração da humanidade?" (the reality of many dreams or the frustration of humanity?) — stem cells posed as hope or frustration, inside the book's closing block, the Implications of Biological Advances for the phenomenon LIFE — stocked here from the placements slug `biology/stem-cells-and-regenerative-medicine`, which has no lesson of its own; this is the closest existing lesson covering that thing (biotechnology in medicine — the medical-applications lesson stem-cell medicine belongs to) | Book 2 (Biologia — Livro Didático Público, Ensino Médio, student textbook, Grade 10), Ch. 14, printed p. 227 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, biotechnology, medicine
+Honesty (Brazil): Book 2 is a student textbook as verified in the placements — *Biologia — Livro Didático Público, Ensino Médio*, the State of Paraná's public textbook (SEED-PR), Grade 10 — so Brazil counts toward acceptance. It is COMPLETE: four structuring blocks (Conteúdos Estruturantes) with 16+ chapters, contents complete to Vaccines at printed p. 255+, the file running to 296 PDF pages; printed p. = PDF page. Brazil's own way runs through the whole book and is content in this lesson: every chapter is framed as a question, in the book's inquiry style.
+
+Searchable tags: biology, ethiopia, biotechnology, medicine, brazil
