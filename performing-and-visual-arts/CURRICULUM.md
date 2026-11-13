@@ -123,7 +123,7 @@ lessons are the books'.
   Ethiopia; Traditional Music and What It Does; Dance in
   Society; Music in Society; Theatre in Society; Visual Art
   in Society; Dance, Culture and Society; Performing Art's
-  Three Benefits), 262 questions added, 7 media filed
+  Three Benefits), 256 questions added, 7 media filed
   (pictures 14000–14005, GIF 14010, all drawn and
   frame-checked). In the same pass the coordinator's own fix
   gave Emblems and Posters That Speak its Grade 6
