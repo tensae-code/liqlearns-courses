@@ -1,8 +1,10 @@
 # Sources — Negative and positive feedback
 
-countries: Ethiopia
+countries: Ethiopia, Dominica
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Biology for CSEC, 2nd Edition (Oxford University Press) — "Biology for CSEC 2nded Oxford" — Dominica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-2): grade-11-approved-private-dominica-dominica-biology-for-csec-oxford.pdf — Byte size: 52,773,980 — PDF pages: 324 — Printed pages: 316 (acknowledgements); printed p. = PDF page − ~5 (contents at PDF pp. 5–6). Verdict: COMPLETE — units A1–C28, three revision sections and index present. Structural summary: The Oxford treatment adds: carrying out an ecological study (A2.3); finite resources and "resources for the future?" (A4); the impact of pollution in the Caribbean (A5.2); testing for food substances (B9.2); immunisation and disease control inside transport (B13.5); homeostasis taught explicitly as negative feedback (B20.1); locomotion in animals (B17.5); plant and animal diseases (B24.4); and a closing genetics-technology unit, "Changing genes – what are the issues?" (C28). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/dominica-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -10,9 +12,12 @@ countries: Ethiopia
 | Negative feedback — the temperature example, step by step (rising temperature → brain centre → vasodilation and sweating → temperature falls; falling temperature reverses the machinery) | Student Textbook, Grade 11 — printed pp. 64–66 |
 | Positive feedback — amplifying a change | Student Textbook, Grade 11 — printed pp. 64–66 |
 | Ethiopian zoologists — the unit's closing honouring of Ethiopian university zoologists whose life-long study of the country's animals serves science and national development | Student Textbook, Grade 11 — printed pp. 64–66 |
+| Dominica's way — B20: homeostasis and negative feedback; temperature regulation (placement slug: homeostasis-how-the-body-keeps-things-steady — stocked into this lesson as the closest existing lesson covering that thing) | Book 2 (Biology for CSEC, 2nd ed., student textbook, Grade 11), B20, printed pp. 205–207 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Dominica).**
+
+Honesty (Dominica): Book 2 is a student textbook as verified in the placements — *Biology for CSEC*, 2nd Edition (Oxford University Press), Grade 11 — so Dominica counts toward acceptance. It is COMPLETE: units A1–C28, three revision sections and the index present (324 PDF pages; printed p. = PDF page − ~5). It is a commercial CSEC textbook adopted for Dominica, an image-only scan read from its full printed contents, so the placements cite the contents' printed pages.
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected. Fix note (2026-11-12): this lesson was rebuilt complete — an earlier build left the printed-pages field of this row blank, broke the lesson text off mid-sentence inside the temperature example, and omitted the Ethiopian zoologists part; all three defects are repaired here and the pages above are the placement's exact pages.
 
-Searchable tags: biology, ethiopia, negative, and, positive, feedback, homeostasis, vasodilation, sweating, zoologists
+Searchable tags: biology, ethiopia, negative, and, positive, feedback, homeostasis, vasodilation, sweating, zoologists, dominica

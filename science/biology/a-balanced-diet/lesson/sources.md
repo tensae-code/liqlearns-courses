@@ -1,6 +1,6 @@
 # Sources — A balanced diet — every group, in proportion
 
-countries: Ethiopia, Azerbaijan, Gabon, Nigeria
+countries: Ethiopia, Azerbaijan, Gabon, Nigeria, Dominica
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Azerbaijan, Gabon, Nigeria
 
 **Book 5:** Senior Secondary Biology 1 — Nigeria. Grade: 10 (Senior Secondary School 1, SS1) — Kind: student textbook as verified (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3; authors F. O. C. Ndu, P. Asun, J. O. Aina; written for the NERDC Biology curriculum and the WAEC / NECO / UTME syllabuses) — Source link recorded: https://www.headteacher.ng/product/biology-for-ss1-pdf-senior-secondary-school-e-textbook/ (the TSV records only the Telegram channel, https://t.me/liqlearns_textbooks; the download list's headteacher.ng page was fetched live — the redesigned WooCommerce page no longer exposes a direct PDF link) — Copy read: the byte-identical file already secured in the GitHub mid-size release `mid-size-books-8` (asset `grade-10-approved-private-nigeria-biology-student-textbook.pdf`), downloaded from the Releases API for this read — Byte size: 54,928,243 (exact match with the approved-private books.json record) — PDF pages: 232 — Printed-page offset: printed pages i–vi + 1–226 (printed = PDF − 6); the PDF is a born-digital InDesign file with a full text layer — Verdict: COMPLETE (index ends at printed p. 226; nothing missing). Structural summary: Four themes, fifteen chapters — Theme 1 Organisation of life (Ch. 1–4), Theme 2 The organism at work (Ch. 5–6), Theme 3 The organism and its environment (Ch. 7–14), Theme 4 Continuity of life (Ch. 15); every chapter carries activities, a summary and WAEC-style revision questions. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/nigeria-placements.md.
 
+**Book 6:** Biology for CSEC Examinations, 3rd Edition — Linda Atwaroo-Ali (Macmillan Education, 2014; ISBN 978-0-230-47948-7) — Dominica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-2): grade-11-approved-private-dominica-dominica-biology-for-csec-3rded-macmillan.pdf (records point to repo liqlearns-textbooks; the identical asset was grabbed from the textbooks repo release of the same name) — Byte size: 50,371,968 — PDF pages: 387 — Printed pages: 368 (index) plus photocopiable SBA pages 332–367; printed p. = PDF page − ~13 (contents at PDF pp. 5–7). Verdict: COMPLETE — 26 chapters, School-Based Assessment section and index all present. Structural summary: Section A ecology with Caribbean weight (human impact on marine and wetland environments; endangered and vulnerable organisms; greenhouse gases) → Section B life processes and disease (cells to sense organs; hypertension inside the transport chapter; HIV/AIDS and other STDs inside reproduction; disease's social and economic implications) → Section C continuity and variation (mitosis, meiosis, heredity, variation and evolution with DNA testing and forensic science). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/dominica-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 110–111 |
@@ -19,8 +21,11 @@ countries: Ethiopia, Azerbaijan, Gabon, Nigeria
 | Azerbaijan's way — Part VI §§42–43: healthy relations in the family; a healthy lifestyle — a healthy family (placement slug: a-healthy-lifestyle) | Book 3 (Биология 11, student textbook, Grade 11), Part VI §§42–43, printed pp. 158–162 |
 | Gabon's way — Lesson 4: Une alimentation équilibrée (teacher guide — evidence) (placement slug: a-balanced-plate) | Book 4 (Guide pédagogique Sciences, teacher guide, Grade 3), printed p. 7 |
 | Nigeria's way — Ch. 6, diet: diet and balanced diet for man, with deficiency consequences (placement slug: a-balanced-diet) | Book 5 (Senior Secondary Biology 1, student textbook, Grade 10), Ch. 6, printed p. 94 |
+| Dominica's way — Ch. 10: diet; a balanced diet; malnutrition (placement slug: a-balanced-plate — stocked into this lesson as the closest existing lesson covering that thing) | Book 6 (Biology for CSEC Examinations, 3rd ed., student textbook, Grade 11), Ch. 10, printed pp. 101–107 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Azerbaijan, Nigeria) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Azerbaijan, Nigeria, Dominica) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+
+Honesty (Dominica): Book 6 is a student textbook as verified in the placements — *Biology for CSEC Examinations*, 3rd Edition (Linda Atwaroo-Ali, Macmillan Education, 2014), Grade 11 — so Dominica counts toward acceptance. It is COMPLETE: 26 chapters, the School-Based Assessment section and the index all present (387 PDF pages; printed p. = PDF page − ~13). It is a commercial CSEC textbook adopted for Dominica, an image-only scan read from its full printed contents, so the placements cite the contents' printed pages.
 
 Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 3; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
@@ -30,4 +35,4 @@ Honesty (Azerbaijan): Book 3 is a student textbook as verified in the placements
 
 Honesty (Nigeria): Book 5 is a student textbook as verified in the placements — *Senior Secondary Biology 1* (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3), Grade 10 (Senior Secondary School 1, SS1) — so Nigeria counts toward acceptance. It is COMPLETE: the index ends at printed p. 226 and nothing is missing (232 PDF pages; printed p. = PDF page − 6).
 
-Searchable tags: biology, azerbaijan, ethiopia, balanced, diet, every, group, proportion, gabon, nigeria
+Searchable tags: biology, azerbaijan, ethiopia, balanced, diet, every, group, proportion, gabon, nigeria, dominica

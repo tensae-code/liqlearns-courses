@@ -1,18 +1,23 @@
 # Sources — Growth curves — sigmoid and intermittent growth
 
-countries: Nigeria
+countries: Nigeria, Dominica
 
 **Book 1:** Senior Secondary Biology 1 — Nigeria. Grade: 10 (Senior Secondary School 1, SS1) — Kind: student textbook as verified (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3; authors F. O. C. Ndu, P. Asun, J. O. Aina; written for the NERDC Biology curriculum and the WAEC / NECO / UTME syllabuses) — Source link recorded: https://www.headteacher.ng/product/biology-for-ss1-pdf-senior-secondary-school-e-textbook/ (the TSV records only the Telegram channel, https://t.me/liqlearns_textbooks; the download list's headteacher.ng page was fetched live — the redesigned WooCommerce page no longer exposes a direct PDF link) — Copy read: the byte-identical file already secured in the GitHub mid-size release `mid-size-books-8` (asset `grade-10-approved-private-nigeria-biology-student-textbook.pdf`), downloaded from the Releases API for this read — Byte size: 54,928,243 (exact match with the approved-private books.json record) — PDF pages: 232 — Printed-page offset: printed pages i–vi + 1–226 (printed = PDF − 6); the PDF is a born-digital InDesign file with a full text layer — Verdict: COMPLETE (index ends at printed p. 226; nothing missing). Structural summary: Four themes, fifteen chapters — Theme 1 Organisation of life (Ch. 1–4), Theme 2 The organism at work (Ch. 5–6), Theme 3 The organism and its environment (Ch. 7–14), Theme 4 Continuity of life (Ch. 15); every chapter carries activities, a summary and WAEC-style revision questions. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/nigeria-placements.md.
+
+**Book 2:** Biology for CSEC, 2nd Edition (Oxford University Press) — "Biology for CSEC 2nded Oxford" — Dominica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-2): grade-11-approved-private-dominica-dominica-biology-for-csec-oxford.pdf — Byte size: 52,773,980 — PDF pages: 324 — Printed pages: 316 (acknowledgements); printed p. = PDF page − ~5 (contents at PDF pp. 5–6). Verdict: COMPLETE — units A1–C28, three revision sections and index present. Structural summary: The Oxford treatment adds: carrying out an ecological study (A2.3); finite resources and "resources for the future?" (A4); the impact of pollution in the Caribbean (A5.2); testing for food substances (B9.2); immunisation and disease control inside transport (B13.5); homeostasis taught explicitly as negative feedback (B20.1); locomotion in animals (B17.5); plant and animal diseases (B24.4); and a closing genetics-technology unit, "Changing genes – what are the issues?" (C28). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/dominica-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Growth curves — sigmoid and intermittent growth | Book 1 (Senior Secondary Biology 1, student textbook, Grade 10), Ch. 4, printed p. 56 |
 | Do it first; the idea; key facts; Do It Yourself | Book 1 (Senior Secondary Biology 1), Ch. 4, printed p. 56 |
+| Dominica's way — B21: what are growth and development?; measuring growth (placement slug: animal-growth-and-development — stocked into this lesson as the closest existing lesson covering that thing) | Book 2 (Biology for CSEC, 2nd ed., student textbook, Grade 11), B21, printed pp. 209–213 |
 
-**Acceptance count: taught in 1 country (Nigeria).**
+**Acceptance count: taught in 2 countries (Nigeria, Dominica).**
+
+Honesty (Dominica): Book 2 is a student textbook as verified in the placements — *Biology for CSEC*, 2nd Edition (Oxford University Press), Grade 11 — so Dominica counts toward acceptance. It is COMPLETE: units A1–C28, three revision sections and the index present (324 PDF pages; printed p. = PDF page − ~5). It is a commercial CSEC textbook adopted for Dominica, an image-only scan read from its full printed contents, so the placements cite the contents' printed pages.
 
 Placement choice, on the record: this NEW LESSON was built for the Nigeria placement "NEW LESSON NEEDED: growth-curves-sigmoid-and-intermittent" — nigeria-placements.md. No existing lesson covers this thing as its own topic, so it gets its own lesson. It sits in biology/ and is registered in CURRICULUM.md Unit 16 (Biology). Nigeria's own way of teaching the thing, as the placements describe it, IS content in this lesson, carried exactly as described.
 
 Honesty (Nigeria): Book 1 is a student textbook as verified in the placements — *Senior Secondary Biology 1* (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3), Grade 10 (Senior Secondary School 1, SS1) — so Nigeria counts toward acceptance. It is COMPLETE: the index ends at printed p. 226 and nothing is missing (232 PDF pages; printed p. = PDF page − 6).
 
-Searchable tags: biology, nigeria, growth, curves, sigmoid, and, intermittent
+Searchable tags: biology, nigeria, growth, curves, sigmoid, and, intermittent, dominica

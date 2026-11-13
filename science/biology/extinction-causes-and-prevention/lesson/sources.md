@@ -1,17 +1,22 @@
 # Sources — Extinction: Causes and Prevention
 
-countries: Ethiopia
+countries: Ethiopia, Dominica
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
+
+**Book 2:** Biology for CSEC Examinations, 3rd Edition — Linda Atwaroo-Ali (Macmillan Education, 2014; ISBN 978-0-230-47948-7) — Dominica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-2): grade-11-approved-private-dominica-dominica-biology-for-csec-3rded-macmillan.pdf (records point to repo liqlearns-textbooks; the identical asset was grabbed from the textbooks repo release of the same name) — Byte size: 50,371,968 — PDF pages: 387 — Printed pages: 368 (index) plus photocopiable SBA pages 332–367; printed p. = PDF page − ~13 (contents at PDF pp. 5–7). Verdict: COMPLETE — 26 chapters, School-Based Assessment section and index all present. Structural summary: Section A ecology with Caribbean weight (human impact on marine and wetland environments; endangered and vulnerable organisms; greenhouse gases) → Section B life processes and disease (cells to sense organs; hypertension inside the transport chapter; HIV/AIDS and other STDs inside reproduction; disease's social and economic implications) → Section C continuity and variation (mitosis, meiosis, heredity, variation and evolution with DNA testing and forensic science). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/dominica-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Causes of species extinction (§4.1.9): | Student Textbook, Grade 12 — Printed p. 224. |
+| Dominica's way — Ch. 7: endangered and vulnerable organisms (placement slug: endangered-species-and-extinction — stocked into this lesson as the closest existing lesson covering that thing) | Book 2 (Biology for CSEC Examinations, 3rd ed., student textbook, Grade 11), Ch. 7, printed p. 64 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Dominica).**
+
+Honesty (Dominica): Book 2 is a student textbook as verified in the placements — *Biology for CSEC Examinations*, 3rd Edition (Linda Atwaroo-Ali, Macmillan Education, 2014), Grade 11 — so Dominica counts toward acceptance. It is COMPLETE: 26 chapters, the School-Based Assessment section and the index all present (387 PDF pages; printed p. = PDF page − ~13). It is a commercial CSEC textbook adopted for Dominica, an image-only scan read from its full printed contents, so the placements cite the contents' printed pages.
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, extinction, causes, and, prevention
+Searchable tags: biology, ethiopia, extinction, causes, and, prevention, dominica
