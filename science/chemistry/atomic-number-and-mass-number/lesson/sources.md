@@ -1,6 +1,6 @@
 # Sources — Atomic number and mass number
 
-countries: Ethiopia, Finland, Mongolia, Ecuador, Brazil, Iran, Malaysia
+countries: Ethiopia, Finland, Mongolia, Ecuador, Brazil, Iran, Malaysia, Fiji
 
 **Book 1:** *Chemistry, Student Textbook, Grade 9* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-016-1. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Finland, Mongolia, Ecuador, Brazil, Iran, Malaysia
 
 **Book 7:** *Chemistry — Form 4* (student textbook) — Malaysia. Title as printed: "Chemistry — Form 4" (KSSM textbook, Ministry of Education Malaysia, written to the Form 4 DSKP). Grade: Grade 10 (Form 4). Kind: student. Repo path: release asset grade-10-gov-malaysia-kimia-student-full-year-dlp.pdf (mid-size-books-2). Byte size: 62,079,117 (grab-verified). PDF pages: 292; printed-page offset: printed p. 2 (Chapter 1) = PDF p. 9 approx. (front matter i–viii). Verdict: COMPLETE. Structural summary: Eight chapters under four themes (Importance of Chemistry; Fundamentals of Chemistry; Interaction between Matter; Industrial Chemistry), each chapter closing with an Achievement Test; the book carries AR/QR features, a periodic table and data table of elements, glossary and index. Malaysia's way: every concept is tied to daily life and Malaysian industry, with 21st-century-skills and STEM activities throughout. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/malaysia-placements.md.
 
+**Book 8:** *Chemistry for Year 11 (amended 2016)* (student) — Fiji. Title as printed: "CHEMISTRY FOR YEAR 11" (Curriculum Development Unit / CAS Section, Ministry of Education, Fiji). Grade: Grade 11 (Year 11). Kind: student. Repo path: grade-11/gov/fiji/chemistry/student/full-year.pdf. Byte size: 11,231,982 (read via the record's own archived source URL; no size in record). PDF pages: 147; printed-page offset: printed p. 1 = PDF p. 7. Verdict: COMPLETE. Structural summary: Five strands — General Chemistry; Investigating Matter; Reactions; Materials; Environmental Chemistry — each with strand outcomes, worked examples, exercises and investigations, closing with bibliography, glossary and appendix. Fiji's way: every strand is anchored in Fijian everyday contexts (careers, local materials, soil and water). Records deduped: 2 records = 1 distinct book (TSV release record + books.json record for the same book) — cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Atomic number and mass number | Ethiopia, *Chemistry, Student Textbook, Grade 9*, Printed pp. 88–91 (section 3.5.2) |
@@ -25,8 +27,9 @@ countries: Ethiopia, Finland, Mongolia, Ecuador, Brazil, Iran, Malaysia
 | Ch. 6 Radiação e Vida! (Brazil, Grade 10) | Book 5 (Grade 10), Ch. 6, printed p. 89 — Nuclides worked on gold: N = A − Z = 197 − 79 = 118 neutrons |
 | Ch.1 (Iran, Grade 10) | Book 6 (Grade 10), printed p. 9 — table of symbol, name, atomic number — element symbols and atomic number |
 | Ch. 2.3 Atomic Structure (Malaysia, Grade 10) | Book 7 (Grade 10), printed p. 32 — Subatomic particles, atomic number, mass number and electron arrangement. |
+| Strand 2.2 Atomic Structure and Bonding (Fiji, Grade 11) | Book 8 (Grade 11), Strand 2.2 Atomic Structure and Bonding, printed p. 26 — Atomic structure (protons, neutrons, electrons, atomic/mass numbers) leading into bonding. |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Finland, Mongolia, Ecuador, Brazil, Iran, Malaysia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Finland, Mongolia, Ecuador, Brazil, Iran, Malaysia, Fiji).**
 
 Book errors taught corrected, named here only: the cover spells "Measurments" for Measurements; one Unit 3 summary passage dates Rutherford's nucleus work "in 1920" — the gold-foil work is 1909/1911 and is taught so; the proton is credited in different passages to Goldstein (1886, perforated-cathode work) and to Rutherford (1920) — both steps are taught in their order; Lewis's dates are printed once as "1875-1046" — taught corrected as 1875–1946; the Unit 2 competencies promise the factor-label method by name but the student sections never teach it by that name — it is taught explicitly in its own lesson from the teacher guide; Unit 4's older group labels are inconsistent ("Group VIIB elements are called as halogens", "Group 0" for noble gases) — taught with the modern family names; recurring typos "iconic compounds" (ionic compounds) and "glass road" (glass rod) are taught corrected.
 

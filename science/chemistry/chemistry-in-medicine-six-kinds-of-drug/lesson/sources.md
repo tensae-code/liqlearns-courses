@@ -1,6 +1,6 @@
 # Sources — Chemistry in medicine — six kinds of drug
 
-countries: Ethiopia, Iran, Malaysia
+countries: Ethiopia, Iran, Malaysia, Fiji
 
 **Book 1:** *Chemistry, Student Textbook, Grade 9* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-016-1. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Iran, Malaysia
 
 **Book 3:** *Chemistry — Form 5* (student textbook) — Malaysia. Title as printed: "Chemistry — Form 5" (KSSM textbook, Ministry of Education Malaysia, DSKP Form 5). Grade: Grade 11 (Form 5). Kind: student. Repo path: release asset grade-11-gov-malaysia-kimia-student-full-year-dlp.pdf (mid-size-books-5). Byte size: 53,049,969 (grab-verified). PDF pages: 212; printed-page offset: printed p. 4 (Ch. 1.1) = PDF p. 10 approx. (front matter i–vi). Verdict: COMPLETE. Structural summary: Five chapters under four themes (Chemical Process; Organic Chemistry; Heat; Technology in Chemistry): Redox Equilibrium; Carbon Compound; Thermochemistry; Polymer; Consumer and Industrial Chemistry — each with Achievement Test, concept maps and HOTS enrichment. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/malaysia-placements.md.
 
+**Book 4:** *Chemistry for Year 12* (student) — Fiji. Title as printed: "CHEMISTRY FOR YEAR 12" (Curriculum Development Unit, Ministry of Education, Fiji). Grade: Grade 12 (Year 12). Kind: student. Repo path: grade-12/gov/fiji/chemistry/student/full-year.pdf. Byte size: 17,590,024 (grab-verified). PDF pages: 198; printed-page offset: printed p. 1 = PDF p. 7 approx. Verdict: COMPLETE. Structural summary: Five strands — General Chemistry (measurement), Investigating Matter (atomic structure and bonding), Reactions (quantitative chemistry, redox, physical chemistry), Materials (inorganic, organic), Consumer Chemistry (food, medicines, household) — with bibliography at printed p. 183. Records deduped: 2 records = 1 distinct book (TSV release record + books.json record for the same book) — cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/fiji-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Chemistry in medicine | Ethiopia, *Chemistry, Student Textbook, Grade 9*, Printed pp. 9–10 |
 | Ch.1 closing (Iran, Grade 12) | Book 2 (Grade 12), printed pp. 25–36 — molecules serving health as the chapter frame — range left as originally read (range citations were sample-checked and are NOT uniformly offset) |
 | Ch. 5.4 Medicines and Cosmetics (Malaysia, Grade 11) | Book 3 (Grade 11), printed p. 181 — Traditional and modern medicines, antimicrobials and cosmetics ingredients. |
+| Strand 5.2 Chemistry of Medicines and Drugs (Fiji, Grade 12) | Book 4 (Grade 12), Strand 5.2 Chemistry of Medicines and Drugs, printed p. 173 — Medicines and drugs as consumer chemistry. |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iran, Malaysia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Iran, Malaysia, Fiji).**
 
 Book errors taught corrected, named here only: the cover spells "Measurments" for Measurements; one Unit 3 summary passage dates Rutherford's nucleus work "in 1920" — the gold-foil work is 1909/1911 and is taught so; the proton is credited in different passages to Goldstein (1886, perforated-cathode work) and to Rutherford (1920) — both steps are taught in their order; Lewis's dates are printed once as "1875-1046" — taught corrected as 1875–1946; the Unit 2 competencies promise the factor-label method by name but the student sections never teach it by that name — it is taught explicitly in its own lesson from the teacher guide; Unit 4's older group labels are inconsistent ("Group VIIB elements are called as halogens", "Group 0" for noble gases) — taught with the modern family names; recurring typos "iconic compounds" (ionic compounds) and "glass road" (glass rod) are taught corrected.
 

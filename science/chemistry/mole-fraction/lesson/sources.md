@@ -1,14 +1,17 @@
 # Sources — Mole fraction
 
-countries: Ethiopia
+countries: Ethiopia, Fiji
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
+
+**Book 2:** *Chemistry for Year 13* (student) — Fiji. Title as printed: "CHEMISTRY FOR YEAR 13" (Curriculum Advisory Services, Ministry of Education, Heritage & Arts, Fiji; based on the Year 13 Chemistry Syllabus 2018). Grade: Grade 13 (Year 13). Kind: student. Repo path: grade-13/gov/fiji/chemistry/student/full-year.pdf. Byte size: 11,917,853 (grab-verified). PDF pages: 350; printed-page offset: printed p. 1 = PDF p. 12 approx. (contents pp. 1–338, final PDF page blank). Verdict: COMPLETE. Structural summary: Five strands — General Chemistry (scientific skills, safety/SDS, experimental techniques, green chemistry), Investigating Matter (atomic structure to quantum numbers, periodic trends, bonding incl. σ/π and intermolecular attractions, states of matter and solutions), Physical Chemistry (electrochemistry, thermochemistry, aqueous solution chemistry: equilibrium, acids/bases, buffers, Ksp), Materials (inorganic: hydrides, oxides, chlorides, transition metals and complex ions; organic: isomerism, hydrocarbons, alkyl halides, amines, alcohols/phenol/ethers, aldehydes/ketones, carboxylic acids, carboxylic acid derivatives, esters and functional-group priority), Consumer Chemistry (polymers: natural/synthetic, properties, addition and condensation polymerisation, biodegradable and non-biodegradable polymers and their problems), closing with bibliography, glossary and reference appendices. Records deduped: 2 records = 1 distinct book (TSV release record + books.json record for the same book) — cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/fiji-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Mole fraction | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed pp. 84–86 (section 2.4.2) |
+| Strand 2.2 Liquids and Solutions (Fiji, Grade 13) | Book 2 (Grade 13), Strand 2.2 Liquids and Solutions, printed pp. 78–80 — Mole fraction alongside molarity, molality and weight percent as the four concentration languages. |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Fiji).**
 
 Book errors taught corrected, named here only: the contents misprints "SOLLUTIONS" for Solutions (Unit 2) and lists Unit 6 sections 6.3 and 6.4 both as aromatic hydrocarbons — in the body 6.3 covers alkenes and alkynes and is taught so; the Unit 3 summary repeats its deliquescent-salt sentence twice — taught once; "Phosphorous" is used throughout for the element phosphorus — taught corrected as phosphorus; several Unit 6 review reaction equations are typeset in garbled layout — the reactions are taught from the section text, where they are recoverable.
 

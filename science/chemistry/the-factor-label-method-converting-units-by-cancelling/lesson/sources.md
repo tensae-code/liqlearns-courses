@@ -1,14 +1,17 @@
 # Sources — The factor-label method — converting units by cancelling
 
-countries: Ethiopia
+countries: Ethiopia, Fiji
 
 **Book 1:** *Chemistry, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia. Chemistry, Teacher's Guide, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Editors: Tesfaye Semela (Ph.D.) (Curriculum Editor), Kenenisa Beresa (M.A.) (Language Editor), Ahmed Awel (M.Sc.) (Content Editor). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). Evaluators: Legesse Adane (Ph.D.), Nega Gichile, Sefiw Melesse, Tolessa Mergo. The guide carries no separate copyright/ISBN page in this file; it is the companion guide to the Grade 9 Student Textbook (first published August 2023, GEQIP-E; ISBN 978-99990-0-016-1). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-teacher-placements.md.
+
+**Book 2:** *Chemistry for Year 12* (student) — Fiji. Title as printed: "CHEMISTRY FOR YEAR 12" (Curriculum Development Unit, Ministry of Education, Fiji). Grade: Grade 12 (Year 12). Kind: student. Repo path: grade-12/gov/fiji/chemistry/student/full-year.pdf. Byte size: 17,590,024 (grab-verified). PDF pages: 198; printed-page offset: printed p. 1 = PDF p. 7 approx. Verdict: COMPLETE. Structural summary: Five strands — General Chemistry (measurement), Investigating Matter (atomic structure and bonding), Reactions (quantitative chemistry, redox, physical chemistry), Materials (inorganic, organic), Consumer Chemistry (food, medicines, household) — with bibliography at printed p. 183. Records deduped: 2 records = 1 distinct book (TSV release record + books.json record for the same book) — cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/fiji-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The factor-label method — converting units by cancelling (teacher guide — evidence) | Ethiopia, *Chemistry, Teacher's Guide, Grade 9*, Guide printed pp. 23–24; student printed p. 19 (competencies) |
+| Strand 1.2 Dimensional Analysis (Fiji, Grade 12) | Book 2 (Grade 12), Strand 1.2 Dimensional Analysis, printed p. 12 — Unit conversion by the factor-label method. |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Fiji).** Ethiopia is named as teacher-guide evidence only (*Chemistry, Teacher's Guide, Grade 9* — teacher guide, NOT a student textbook), not added to this count.
 
 Book errors taught corrected, named here only: the cover spells "Measurments" for Measurements; one Unit 3 summary passage dates Rutherford's nucleus work "in 1920" — the gold-foil work is 1909/1911 and is taught so; the proton is credited in different passages to Goldstein (1886, perforated-cathode work) and to Rutherford (1920) — both steps are taught in their order; Lewis's dates are printed once as "1875-1046" — taught corrected as 1875–1946; the Unit 2 competencies promise the factor-label method by name but the student sections never teach it by that name — it is taught explicitly in its own lesson from the teacher guide; Unit 4's older group labels are inconsistent ("Group VIIB elements are called as halogens", "Group 0" for noble gases) — taught with the modern family names; recurring typos "iconic compounds" (ionic compounds) and "glass road" (glass rod) are taught corrected.
 
