@@ -1,0 +1,4 @@
+# Integrated rate equations and half-life — depth
+
+Whole-lesson pass mark: the learner works through the lesson's sub lessons in order (Zero order — the straight-line fall, First order — the logarithmic fall, Half-life, and the pseudo-first-order disguise), explains each in their own words using the lesson's own examples, and answers the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson; on a fail the learner reviews the questions and answers just done, then resets with another set; nothing ever relocks. Practice deepens inside each part before the learner moves on — retelling without notes, working concentration-and-time problems in both orders and spotting the order from a half-life that does or does not move with the starting concentration.
