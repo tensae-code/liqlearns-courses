@@ -1,6 +1,6 @@
 # Sources — Sodium carbonate — the Solvay process
 
-countries: Ethiopia, Nigeria, India, Egypt, South Sudan, Yemen, China
+countries: Ethiopia, Nigeria, India, Egypt, South Sudan, Yemen, China, Pakistan (Punjab)
 
 **Book 1:** *Chemistry, Student Textbook, Grade 12* (Student Textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hailu Shiferaw (PhD), Muluken Aklilu (PhD). Content editor: Chala Regasa (MSc). Curriculum editor: Taye Hirpassa (BSc, MA). Language editor: Meseret Getnet (PhD). Illustrator: Asresahegn Kassaye (MSc). Designer: Daniel Tesfay (MSc). Evaluators: Tolessa Mergo Roro (BSc, MEd), Nega Gichile (BSc, MA), Sefiw Melesse (MSc). First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). © 2023 Ministry of Education. ISBN: 978-99990-0-019-2. Page rule: printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Nigeria, India, Egypt, South Sudan, Yemen, China
 
 **Book 10:** *普通高中教科书·化学必修 第一册 (Senior High Chemistry, Compulsory Volume 1)* (student textbook) — China. Title as printed: 普通高中教科书 化学 必修 第一册 (People's Education Press; editors-in-chief 王晶 / 郑长龙； back cover: 全国优秀教材一等奖， price ¥9.85, 2022 printing). Grade/kind: Senior high (compulsory course, first volume) — student textbook. The books.json record files it as "grade-12"; in the Chinese system 必修 is taken in the first senior-high year. Repo path: `grade-12/gov/china/普通高中教科书-化学必修 第一册.pdf` (books.json record). Byte size: 14,719,774 — EXACT match to the record. PDF pages: 139. Printed-page offset: printed = PDF − 5 (printed pp. 1–129 + periodic-table fold-out). Verdict: interior matches the record exactly (cover, contents, all four chapters read in full via the text layer). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/china-placements.md.
 
+**Book 11:** *CHEMISTRY 10* (student textbook) — Pakistan (Punjab). Title as printed: CHEMISTRY 10, Punjab Curriculum and Textbook Board, Lahore; authors Dr. Jalil Tariq and Dr. Irshad Ahmad Chatha; National Curriculum 2006 (N.O.C. dated 06.01.2012); this printing January 2020. Direct continuation of the 2006 Grade 9 edition — its chapters are numbered 9–16. Grade: 10 · Student textbook. Repo path: grade-10/gov/pakistan/chemistry/full-year.pdf (TSV record, grabbed via grab.py url). Byte size: 21,602,822 (matches the GitHub tree listing exactly) · PDF pages: 184 · Printed-page offset: printed p. = PDF p. − 2 (printed pp. 1–182). Verdict: COMPLETE — image-only full-page scan (all 184 pages full-page images, no text layer). Read basis stated plainly: page images — cover, contents page, all 8 chapter-opener pages with Major Topics and full Student Learning Outcomes lists, and the closing Index page (printed p. 182). Placements are outcomes-anchored for this scan, as with the Grade 9 books. Structure: Ch 9 Chemical Equilibrium; Ch 10 Acids, Bases and Salts; Ch 11 Organic Chemistry; Ch 12 Hydrocarbons; Ch 13 Biochemistry; Ch 14 Environmental Chemistry I: The Atmosphere; Ch 15 Environmental Chemistry II: Water; Ch 16 Chemical Industries. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Part 1 — The Solvay (ammonia-soda) process makes sodium carbonate fro… | Book 1 (Grade 12 Student Textbook), printed pp. 170–172 |
@@ -39,7 +41,11 @@ countries: Ethiopia, Nigeria, India, Egypt, South Sudan, Yemen, China
 | Ch. 2 §1 (China, Senior High (Compulsory Volume 1)) | Book 10 (Senior High, Compulsory Volume 1) — Ch. 2 §1 — printed p. 38 — Na₂CO₃ and NaHCO₃ compared at the bench (Experiments 2-4/2-5): appearance, opposite heat effects on dissolving, both alkaline, washing-soda crystals weathering, and NaHCO₃ decomposing on heating while Na₂CO₃ does not — heating as the distinguishing test. |
 | Ch. 2 §1 (China, Senior High (Compulsory Volume 1)) — placements slug recorded verbatim: chemistry/hou-debangs-combined-soda-process (stocked here, the existing lesson covering this thing) | Book 10 (Senior High, Compulsory Volume 1) — Ch. 2 §1 — printed p. 42 — 科学史话 and a research project tell soda making as national history: Leblanc → Solvay → Hou Debang's combined process （侯氏制碱法）, the Yongli "Red Triangle" brand, the 1926 Philadelphia gold medal and the wartime move to Sichuan (China's own way of teaching the soda industry). |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nigeria, India, Egypt, South Sudan, Yemen, China).**
+| 16.2 Solvay's Process (Pakistan (Punjab), Grade 10) — placements slug recorded verbatim: chemistry/the-solvay-process (stocked here, the existing lesson covering this thing) | Book 11 (Grade 10) — 16.2 Solvay's Process — printed p. 154 — Raw materials listed, basic reactions outlined and a flow-sheet diagram developed for making washing/baking soda from common salt. |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Nigeria, India, Egypt, South Sudan, Yemen, China, Pakistan (Punjab)).**
+
+**Placement-choice note (Pakistan):** the Pakistan placements file names `chemistry/the-solvay-process` for this content; that thing is covered by this lesson, so the Pakistan provenance rows above are stocked here and the original slug(s) are recorded verbatim in those rows.
 
 **Placement-choice note (China):** the China placements file names `chemistry/hou-debangs-combined-soda-process` for this content; that thing is covered by this lesson, so the China provenance rows above are stocked here and the original slug(s) are recorded verbatim in those rows.
 

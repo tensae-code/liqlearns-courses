@@ -1,6 +1,6 @@
 # Sources — Percent concentration
 
-countries: Ethiopia, Iran, North Macedonia, Belarus, Greece, Laos, Armenia, Moldova, Mauritania, Jordan, Mozambique, Bulgaria, Iraq, Cuba, Italy, China
+countries: Ethiopia, Iran, North Macedonia, Belarus, Greece, Laos, Armenia, Moldova, Mauritania, Jordan, Mozambique, Bulgaria, Iraq, Cuba, Italy, China, Pakistan (Punjab)
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
 
@@ -52,6 +52,8 @@ countries: Ethiopia, Iran, North Macedonia, Belarus, Greece, Laos, Armenia, Mold
 
 **Book 25:** *义务教育教科书·化学九年级下册 (Compulsory Education Textbook · Chemistry · Grade 9, Volume 2)* (student textbook) — China. Title as printed: 义务教育教科书 化学 九年级下册， People's Education Press （人民教育出版社）, first edition 2012, ISBN 978-7-107-24498-8. Grade: Grade 9 (junior secondary, second volume). Kind: student textbook. Records (same book, placed once): (a) TSV record titled "Grade 07" — repo path `grade-07/gov/china/chemistry/full-year.pdf` — the record's grade label is wrong: the file is this Grade 9 Vol 2 book, verified by cover, contents and full read; (b) books.json record — repo path `grade-09/gov/china/chemistry-vol2.pdf`, in_pushed: true. Byte size: 12,452,090 — exact match to the books.json record. PDF pages: 121. Printed-page offset: printed = PDF − 4 (printed pp. 1–115 plus periodic-table fold-out). Verdict: READ IN FULL, page by page, from rendered page images (the PDF is image-only). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/china-placements.md.
 
+**Book 26:** *CHEMISTRY 9* (student textbook — earlier National Curriculum 2006 edition) — Pakistan (Punjab). Title as printed: CHEMISTRY 9, Punjab Curriculum and Textbook Board, Lahore; authors Dr. Jalil Tariq and Dr. Irshad Ahmad Chatha; approved under National Curriculum 2006 (N.O.C. dated 2-12-2010); this printing January 2020. Grade: 9 · Student textbook. This is the EARLIER PCTB edition, a different book from the 2023 SNC edition above it in the placements file: different authors, different unit structure (8 units). Repo path: grade-09/gov/pakistan/chemistry/full-year.pdf (TSV record, grabbed via grab.py url). Byte size: 37,304,524 (matches the GitHub tree listing exactly) · PDF pages: 160 · Printed-page offset: printed p. = PDF p. − 2 (printed pp. 1–158). Verdict: COMPLETE — image-only full-page scan (all 160 pages full-page images, no text layer). Read basis stated plainly: page images — cover, contents page, all 8 unit-opener pages with their Major Concepts and full Student Learning Outcomes lists, §1.1 read in full, and the closing "List of Books" page (printed p. 158). Placements are outcomes-anchored for this scan, as with the SNC edition. Structure: Unit 1 Fundamentals; Unit 2 Structure of Atoms; Unit 3 Periodic Table and Periodicity; Unit 4 Structure of Molecules; Unit 5 Physical States of Matter; Unit 6 Solutions; Unit 7 Electrochemistry; Unit 8 Chemical Reactivity. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Percent concentration | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed pp. 81–84 (section 2.4.1) |
@@ -82,7 +84,9 @@ countries: Ethiopia, Iran, North Macedonia, Belarus, Greece, Laos, Armenia, Mold
 
 | Unit 9 Topic 3 溶液的浓度 (China, Grade 9) | Book 25 (Grade 9) — Unit 9 Topic 3 溶液的浓度 — printed p. 42 — Solute mass fraction (solute mass ÷ solution mass × 100%) motivated by a copper sulfate colour-depth comparison; worked examples prepare 150 kg of 16% NaCl solution and dilute 50 g of 98% sulfuric acid to 20%, keeping solute mass constant through the dilution. |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Iran, North Macedonia, Belarus, Greece, Laos, Armenia, Moldova, Mauritania, Jordan, Mozambique, Bulgaria, Iraq, Cuba, Italy, China).**
+| 6.4 (Pakistan (Punjab), Grade 9) | Book 26 (Grade 9) — 6.4 — printed p. 96 — Percentage solution defined. |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Iran, North Macedonia, Belarus, Greece, Laos, Armenia, Moldova, Mauritania, Jordan, Mozambique, Bulgaria, Iraq, Cuba, Italy, China, Pakistan (Punjab)).**
 
 **Placement-choice note (Cuba):** the Cuba placements file names `chemistry/percentage-and-ppm-limits-that-matter` for this content; that thing is covered by this lesson, so the Cuba provenance rows above are stocked here and the original slug is recorded verbatim in this note.
 

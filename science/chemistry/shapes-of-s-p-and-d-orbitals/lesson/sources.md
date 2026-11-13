@@ -1,6 +1,6 @@
 # Sources — Shapes of s, p and d orbitals
 
-countries: Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yemen, Jordan, Iraq, Cuba, China
+countries: Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yemen, Jordan, Iraq, Cuba, China, Pakistan (Punjab)
 
 **Book 1:** *Chemistry Textbook, Grade 11* (Student Textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tsegaye Girma (PhD), Abera Gure (PhD). Content editor: Chala Regasa (MSc). Curriculum editor: Taye Hirpassa (BSc, MA). Language editor: Meseret Getnet (PhD). Illustrator: Asresahegn Kassaye (MSc). Designer: Daniel Tesfay (MSc). Evaluators: Tolessa Mergo Roro (BSc, MEd), Nega Gichile (BSc, MA), Sefiw Melesse (MSc). ISBN: 978-99990-0-018-5. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g11-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yem
 
 **Book 14:** *普通高中教科书·化学选择性必修 2 · 物质结构与性质 (Senior High Chemistry, Selective Compulsory 2 — Structure and Properties of Matter)* (student textbook) — China. Title as printed: 普通高中教科书 化学 选择性必修2 物质结构与性质 (People's Education Press; editors-in-chief 王晶 / 郑长龙）. Grade/kind: Senior high (selective compulsory course 2) — student textbook. Record: books.json record for 选择性必修2 物质结构与性质 (in_pushed: true). Copy read: 10,476,075 bytes — EXACT match with the record; 115 PDF pp. Printed-page offset: printed = PDF − 3. Verdict: interior matches the record (introduction and all three chapters read in full). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/china-placements.md.
 
+**Book 15:** *Chemistry-XI* (student textbook — PECTAA, National Curriculum of Pakistan 2023) — Pakistan (Punjab). Title as printed: Chemistry-XI; "based on updated / Revised National Curriculum of Pakistan 2023 and has been approved by Punjab Education, Curriculum, Training and Assessment Authority (PECTAA)"; authors Dr. Saman Jamil, Prof. (R) Dr. Abid Zia, Prof. (R) Dr. Muhammad Abdul Qadir. This is the web version ("Web version of PECTAA textbook — Not for sale" watermark). Grade: 11 · Student textbook. Repo path: grade-11/gov/pakistan/chemistry/student/full-year.pdf (books.json record). NOTE carried exactly from the placements: the record claims in_pushed true, but the file is NOT in the GitHub tree (grade-11/gov/pakistan holds only CURRICULUM.md and books.json — grab.py tree has nothing to fetch); the book was read from the record's own Google Drive source link, which delivered a PDF of exactly the recorded byte size — the content is verified as the recorded book. Library side only: this book was staged for the pusher under the user's 2026-11-13 staged-not-deleted rule. Byte size: 25,120,279 (matches the record exactly) · PDF pages: 344 (matches the record) · Printed-page offset: printed p. = PDF p. − 4 (printed pp. 1–339 + bibliography). Verdict: COMPLETE — born-digital PDF with a text layer (some outcome pages carry OCR mojibake, still legible). Read basis: full contents pages and all 16 chapter-opener pages with their complete Student Learning Outcomes lists read (several in full text), Chapter 1 read into §1.3, Chapter 12 and 13 introductions read; book closes with a Bibliography. Placements are outcomes-anchored, as with the other Pakistan scans. Structure: 1 Periodic Table and Periodic Properties; 2 Atomic Structure; 3 Chemical Bonding; 4 Stoichiometry; 5 States and Phases of Matter; 6 Chemical Energetics; 7 Reaction Kinetics; 8 Chemical Equilibrium; 9 Acid-Base Chemistry; 10 Electrochemistry; 11 Hydrocarbons; 12 Nitrogen and Sulfur; 13 Halogens; 14 Atmosphere; 15 Basic Separation Techniques; 16 Lab Safety and Practical Skills. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Part 1 — An s orbital is a sphere around the nucleus… | Book 1 (Grade 11 Student Textbook), printed pp. 39–41 |
@@ -51,7 +53,11 @@ countries: Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yem
 
 | Ch. 1 §1 (China, Senior High (Selective Compulsory 2 — Structure and Properties of Matter)) | Book 14 (Senior High, Selective Compulsory 2) — Ch. 1 §1 — printed pp. 12–13 — Atomic orbitals as the spatial shapes of those probability clouds: s spherical, p dumbbell in three orientations, d more complex — the shapes hybridisation and bonding chapters will build with. |
 
-**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yemen, Jordan, Iraq, Cuba, China).**
+| Ch 2 (Pakistan (Punjab), Grade 11) — placements slug recorded verbatim: chemistry/shapes-of-atomic-orbitals (stocked here, the existing lesson covering this thing) | Book 15 (Grade 11) — Ch 2 — printed p. 20 — Shapes of s, p and d orbitals described. |
+
+**Acceptance count: taught in 13 countries (Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yemen, Jordan, Iraq, Cuba, China, Pakistan (Punjab)).**
+
+**Placement-choice note (Pakistan):** the Pakistan placements file names `chemistry/shapes-of-atomic-orbitals` for this content; that thing is covered by this lesson, so the Pakistan provenance rows above are stocked here and the original slug(s) are recorded verbatim in those rows.
 
 **Placement-choice note (Cuba):** the Cuba placements file names `chemistry/orbitals-probability-not-paths` for this content; that thing is covered by this lesson, so the Cuba provenance rows above are stocked here and the original slug is recorded verbatim in this note.
 
