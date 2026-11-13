@@ -41,7 +41,7 @@ stand in full in ABOUT.md, as teacher-guide evidence.
 ## Where the build stands
 
 **Units 1–3 (Letters, Reading, Word) — BUILT 2026-11-12:**
-21 lessons, 379 questions, 47 pictures and 11 GIFs filed
+21 lessons, 376 questions, 47 pictures and 11 GIFs filed
 (pictures 9850–9907), a video script in every lesson.
 
 **Units 4–7 (Sentence, Speaking, Writing, Listening) — BUILT
@@ -64,3 +64,7 @@ GIFs 12501–12514, drawn and frame-checked.
 
 **The whole course now stands at 52 lessons, 911 questions,
 83 pictures and 21 GIFs.**
+
+*(The Units 1–3 subtotal above was corrected 2026-11-13
+after a file-level recount: the per-lesson counts sum to
+376. The course total of 911 stands as counted.)*

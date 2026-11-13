@@ -193,6 +193,9 @@ lessons are the books'.
   the placement-coverage audit is fully closed: **318 of
   318 placements stocked, 115 of 115 citations fixed.**
 
-**The whole course stands at 169 lessons, 2,768 questions and
+**The whole course stands at 169 lessons, 2,762 questions and
 203 pictures/GIFs.** See ABOUT.md for the full book list and
 the acceptance reckoning.
+
+*(Question total corrected 2026-11-13 after a file-level
+recount: the question files hold exactly 2,762.)*
