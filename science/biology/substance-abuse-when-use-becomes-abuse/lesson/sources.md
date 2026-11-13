@@ -1,6 +1,6 @@
 # Sources — Substance abuse — when use becomes abuse
 
-countries: Ethiopia, Ecuador, Bhutan
+countries: Ethiopia, Ecuador, Bhutan, Armenia
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Ecuador, Bhutan
 
 **Book 4:** BIOLOGY — CLASS NINE (as printed; Revised Edition 2019, Kuensel Corporation, Thimphu; author Jigme Tshering) — Bhutan. Grade: 9 (grade-09) — Kind: student as verified — Repo path: grade-09/gov/bhutan/biology/full-year.pdf (release mid-size-books-5) — Source URL: https://rec.gov.bt/download/938/science/3806/ix-biology-textbook-2019.pdf — Byte size: 14,590,461 (matches books.json record exactly) — PDF pages: 266 (matches record) — Printed-page offset: printed p. = PDF page − 34 (front matter in roman numerals to xxxiv; body printed pp. 1–232) — Verdict: COMPLETE — Introduction + 10 chapters, model question paper and glossary all present to printed p. 232. Structural summary: Bhutan's BCSE Class 9 book frames biology through Gross National Happiness values and heavy practical/project assessment (project work and practical rubrics fill the front matter). Sequence: what biology is and its pioneers → the cell → green plants (transpiration, photosynthesis, transport, plant hormones) → digestive, circulatory, respiratory, nervous and endocrine systems → variation/genetics/evolution with genetic engineering and cloning → homeostasis and harmful substances → organisms in their environment. Competency-based questions close every sub-topic. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bhutan-placements.md.
 
+**Book 5:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 117–118 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 72–92 |
 | Ecuador's way — Sección 6, Tema 2: "Salud integral" framing — health damaged by eating disorders, alcohol/drugs, sedentary life and environmental contamination together | Book 3 (Biología — 1ro BGU, student textbook, Grade 11), Sección 6, Tema 2, printed pp. 80–85 |
 | Bhutan's way — Ch. 9 B a–c: drugs, effects of substance abuse, how addiction harms other people — framed explicitly as a Bhutanese social problem in the book's own questions | Book 4 (BIOLOGY — CLASS NINE, student textbook, Grade 9), printed pp. 186–190 |
+| Armenia's way — §9, second half — how harmful habits become dependence, taught as a health warning inside the regulation chapter. (placement slug: substance-abuse-when-use-becomes-abuse) | Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 33 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Bhutan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Bhutan, Armenia).**
 
 Honesty: the Grade 9 teacher guide paired with the student book is a pre-publication draft whose publication page was never filled in (placeholder date and ISBN) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. The student book is the finished 2023 first publication. Book errors the placements flag are taught corrected and named here only: the contents lists Unit 3 starting at 3.2 although 3.1 exists in the body; the contents omits §4.3.5 (sporulation and parthenogenesis); the wolf's name is printed “Canissimensis” in a table on printed p. 27 and is taught corrected as Canis simensis; “Musa acuminate” is taught corrected as Musa acuminata.
 
@@ -25,4 +28,6 @@ Honesty (Ecuador): Book 3 is a student textbook as verified in the placements �
 
 Honesty (Bhutan): Book 4 is a student textbook as verified in the placements — *BIOLOGY — CLASS NINE* (Bhutan, Kuensel Corporation, Thimphu; author Jigme Tshering), Grade 9 — so Bhutan counts toward acceptance. It is COMPLETE: Introduction + 10 chapters, model question paper and glossary all present to printed p. 232 (266 PDF pages; printed p. = PDF page − 34). The book was recorded twice in the library records (a TSV release record and a books.json record for the same repo path, byte-identical); it is one distinct book, taught once and cited once here.
 
-Searchable tags: biology, ethiopia, substance, abuse, when, use, becomes, abuse, ecuador, bhutan
+Honesty (Armenia): Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, substance, abuse, when, use, becomes, abuse, ecuador, bhutan, armenia

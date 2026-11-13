@@ -1,6 +1,6 @@
 # Sources — What blood is made of
 
-countries: Ethiopia, Brazil, Eritrea, Finland, Iran, Bhutan, Indonesia
+countries: Ethiopia, Brazil, Eritrea, Finland, Iran, Bhutan, Indonesia, Armenia
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Brazil, Eritrea, Finland, Iran, Bhutan, Indonesia
 
 **Book 10:** Buku Panduan Guru Biologi untuk SMA/MA Kelas XI (as printed) — Indonesia. Grade: 11 (Kelas XI) — Kind: teacher as verified — Repo path: grade-11/gov/indonesia/biologi/teacher/full-year.pdf (TSV release: mid-size-books-7/grade-11-gov-indonesia-biologi-teacher-full-year.pdf; books.json duplicate of the same book) — Byte size: 11598648 (grab-verified) — PDF pages: 336 — Printed-page offset: printed p. = PDF page − 12 (front matter i–xii, main text printed pp. 1–324) — Verdict: COMPLETE — full teacher guide, Cetakan pertama 2022, ISBN 978-602-427-895-3 (jil.1): Panduan Umum (general guide, printed p. 1) plus Panduan Khusus for all 8 student-book chapters (pp. 17–298), glossary (p. 300), bibliography (p. 309), index (p. 312). Structural summary: Mirrors the student book chapter-for-chapter. Per chapter: introduction, learning schemes (with alternative schemes where facilities differ), step-by-step learning procedures, parent-interaction guidance, teacher reflection, assessment banks, enrichment, student worksheets (LKPD) and teacher/student reading lists. The placements below record only content or teaching treatments the guide adds beyond the student book; the underlying lessons are already placed from the student book above. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
 
+**Book 11:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 113–116 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Brazil, Eritrea, Finland, Iran, Bhutan, Indonesia
 | Bhutan's way — Ch. 3.2: blood and its composition — plasma, red cells, white cells, platelets; clotting of blood | Book 8 (BIOLOGY — CLASS 10, student textbook, Grade 10), printed pp. 62–67 |
 | Indonesia's way — Ch.4A: blood components in carrying substances; erythrocyte structure | Book 9 (Biologi untuk SMA/MA Kelas XI, student textbook, Grade 11), printed p. 102 |
 | Indonesia's way — Ch.5: blood-cell types and an infographic of blood-group profiles in Indonesia used as data literacy (teacher guide — evidence) | Book 10 (Buku Panduan Guru Biologi untuk SMA/MA Kelas XI, teacher's guide, Grade 11), printed p. 178 |
+| Armenia's way — §24 Composition of blood — plasma and formed elements: nucleus-free biconcave erythrocytes (4.5–5 million per mm³) carrying oxygen, the several kinds of leukocytes defending the body, platelets and clotting (thrombus, index). (placement slug: what-blood-is-made-of) | Book 11 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 88 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Eritrea, Iran, Bhutan, Indonesia) — Finland's open teaching materials evidence is named here and counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Brazil, Eritrea, Iran, Bhutan, Indonesia, Armenia) — Finland's open teaching materials evidence is named here and counted nowhere.**
 
 Honesty (Indonesia): Book 9 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XI*, Grade 11 (Kelas XI, SMA/MA), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1) — so Indonesia counts toward acceptance. It is COMPLETE: all 8 chapters, glossary, index and bibliography present (312 PDF pages; printed p. = PDF page − 16). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
@@ -55,4 +58,6 @@ Honesty (Bhutan): Book 7 is a student textbook as verified in the placements —
 
 Honesty (Bhutan): Book 8 is a student textbook as verified in the placements — *BIOLOGY — CLASS 10* (Bhutan, Kuensel Corporation, Thimphu; author Jigme Tshering), Grade 10 — so Bhutan counts toward acceptance. It is COMPLETE: 7 chapters, sample question paper and glossary all present to printed p. 222 (248 PDF pages; printed p. = PDF page − 26). The book was recorded twice in the library records (a TSV release record and a books.json record for the same repo path, byte-identical); it is one distinct book, taught once and cited once here.
 
-Searchable tags: biology, eritrea, ethiopia, grade 10, what, blood, is, made, of, brazil, finland, iran, bhutan, indonesia
+Honesty (Armenia): Book 11 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, eritrea, ethiopia, grade 10, what, blood, is, made, of, brazil, finland, iran, bhutan, indonesia, armenia

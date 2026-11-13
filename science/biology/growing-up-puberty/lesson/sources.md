@@ -1,6 +1,6 @@
 # Sources — Growing up — puberty and the changes it brings
 
-countries: Ethiopia, France, Gabon, Papua New Guinea, Mongolia, Malaysia, Indonesia
+countries: Ethiopia, France, Gabon, Papua New Guinea, Mongolia, Malaysia, Indonesia, Armenia
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, France, Gabon, Papua New Guinea, Mongolia, Malaysia, Indone
 
 **Book 9:** Biologi untuk SMA/MA Kelas XI (as printed; cover: BIOLOGI) — Indonesia. Grade: 11 (Kelas XI, SMA/MA) — Kind: student as verified — Repo path: grade-11/gov/indonesia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-11-gov-indonesia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Source URL (books.json): penerbitcmedia BSE g11_biologi.pdf route — Byte size: 31492502 (grab-verified; books.json gives no size) — PDF pages: 312 — Printed-page offset: printed p. = PDF page − 16 (front matter i–xvi, main text printed pp. 1–296) — Verdict: COMPLETE — full Kurikulum Merdeka student text, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1): all 8 chapters, glossary (printed p. 270), index (p. 280), bibliography (p. 283) present; no missing signatures. Structural summary: Indonesia's Merdeka way: every chapter opens with a daily-life phenomenon and trigger questions (pertanyaan pemantik), concept map and learning objectives, then inquiry activities (Ayo Bereksplorasi / Berpikir Kritis / Mencoba), reflection and competency test, closing with enrichment (Pengayaan) using Indonesian research articles. Sequence: cells → membrane transport → plant regulation → human transport/exchange → body defence → human mobility (nerve + movement) → hormones in reproduction → growth and development. Pancasila learner profile is woven through activities. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
 
+**Book 10:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 81–84 |
@@ -31,8 +33,9 @@ countries: Ethiopia, France, Gabon, Papua New Guinea, Mongolia, Malaysia, Indone
 | Malaysia's way — Ch.15: health issues of the reproductive system; growth in humans and animals (placement: growing-up-puberty) | Book 7 (Biology Form 4 (DLP), student textbook, Grade 10 (Form 4)), Ch.15, printed p. 302 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: growing-up-puberty) | Book 8 (Biologi Tingkatan 4, student textbook, Grade 10 (Tingkatan 4)), Ch.15, printed p. 302 |
 | Indonesia's way — Ch.8A: growth and development in animals and humans, staged human development | Book 9 (Biologi untuk SMA/MA Kelas XI, student textbook, Grade 11), printed p. 250 |
+| Armenia's way — §46 Puberty; the female reproductive cycle — puberty changes in girls and boys; eggs maturing in the ovaries and menstruation beginning. (placement slug: growing-up-puberty) | Book 10 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 166 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, France, Mongolia, Malaysia, Indonesia) — Gabon's teacher-guide evidence is named here and counted nowhere. Papua New Guinea's Standards-Based senior-high teacher guides are evidence only, named here and counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, France, Mongolia, Malaysia, Indonesia, Armenia) — Gabon's teacher-guide evidence is named here and counted nowhere. Papua New Guinea's Standards-Based senior-high teacher guides are evidence only, named here and counted nowhere.**
 
 Honesty (Indonesia): Book 9 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XI*, Grade 11 (Kelas XI, SMA/MA), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1) — so Indonesia counts toward acceptance. It is COMPLETE: all 8 chapters, glossary, index and bibliography present (312 PDF pages; printed p. = PDF page − 16). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
@@ -50,4 +53,6 @@ Honesty (Malaysia): Book 7 is a student textbook as verified in the placements �
 
 Honesty (Malaysia): Book 8 is a student textbook as verified in the placements — *Biologi Tingkatan 4*, Grade 10 (Tingkatan 4), Ministry of Education Malaysia, Cetakan Pertama 2019, ISBN 978-967-2250-72-2, No. Siri Buku 0114 — the Bahasa Melayu original of the DLP edition above, verified chapter-for-chapter and page-for-page identical to it, so it is cited at the same printed pages and Malaysia is counted once. It is COMPLETE (323 PDF pages).
 
-Searchable tags: biology, ethiopia, growing, puberty, and, the, changes, brings, france, gabon, papua, new, guinea, mongolia, malaysia, indonesia
+Honesty (Armenia): Book 10 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, growing, puberty, and, the, changes, brings, france, gabon, papua, new, guinea, mongolia, malaysia, indonesia, armenia

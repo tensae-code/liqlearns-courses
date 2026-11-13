@@ -1,6 +1,6 @@
 # Sources — How life began — the competing accounts
 
-countries: Ethiopia, Ecuador, Italy, Bolivia, Indonesia
+countries: Ethiopia, Ecuador, Italy, Bolivia, Indonesia, Armenia
 
 **Book 1:** Biology, Teacher's Guide, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education. First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN: 978-99990-0-015-4. NOTE: unlike the Grade 11 pair, this file carries NO writers/editors list and NO printer line anywhere in its text — the title page is the cover design repeated, and the copyright page gives only publisher, year, thanks and ISBN. No author names are therefore recorded here, because none are printed in the book as held. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-teacher-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Ecuador, Italy, Bolivia, Indonesia
 
 **Book 5:** Biologi untuk SMA/MA Kelas XII (as printed; cover: BIOLOGI) — Indonesia. Grade: 12 (Kelas XII, SMA/MA) — Kind: student as verified — Repo path: grade-12/gov/indonesia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-12-gov-indonesia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 97032178 (grab-verified; books.json gives no size) — PDF pages: 264 — Printed-page offset: printed p. = PDF page − 10 (front matter i–x, main text printed pp. 1–254) — Verdict: COMPLETE — full Kurikulum Merdeka student text, Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2): all 4 chapters, glossary (printed p. 239), bibliography (p. 245), index (p. 249) present. Structural summary: Four-chapter capstone framed around global issues and the Covid-19 pandemic as a through-line (genetic substance, metabolism, evolution, home biotechnology), with PISA-style questions, collaborative projects and UN SDG 2030 links. Sequence: enzymes and metabolism → genetics and inheritance → evolution → biotechnology innovation. Each chapter opens with a local context (rice, hunger/energy, Sulawesi maleo bird, tempe fermentation) before the abstract mechanism. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
 
+**Book 6:** Կենսաբանություն 7 — Մեթոդական ուղեցույց (Biology 7 Methodological Guide) — Kirakosyan A., Soghoyan E., Abrahamyan H., Yerevan 2023 — Armenia. Grade: 7 (as printed) — Kind: teacher guide (methodological guide to the Grade 7 student book) as verified — Repo path: grade-07/gov/armenia/biology/teacher/armenia-g07-biology-teacher.pdf (TSV twin: releases/download/mid-size-books-4/grade-07-gov-armenia-biology-teacher-armenia-g07-biology-teacher.pdf) — Source URL: lib.armedu.am upload of 2023-09-05 — Byte size: 9,667,219 — PDF pages: 287 — Printed-page offset: 0 (printed folio = PDF page) — Verdict: COMPLETE — runs from the thematic plan and per-section teaching notes through answer keys, tests, comparison tables and closing appendices of extra laboratory works, project guidance and event scripts at printed p. 287. Cited as teacher-guide evidence only, outside the acceptance count. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Added origin-of-life detail — positions, Pasteur, eternity, cosmozoa and Miller's experiment (teacher guide — evidence) | Teacher's Guide, Grade 12 — Printed pp. 88–92, 119–120. |
@@ -19,8 +21,9 @@ countries: Ethiopia, Ecuador, Italy, Bolivia, Indonesia
 | Italy's way — A3.6: the origin of biomolecules | Book 3 (La nuova biologia.blu PLUS — Le cellule e i viventi, student textbook, Grade 9), printed p. A54 |
 | Bolivia's way — "Teorías del origen de la vida": panspermia (Anaxágoras), abiogenesis, Oparin's coacervates/primordial soup — taught as competing accounts side by side at the end of the astronomy unit | Book 4 (Texto de Aprendizaje — Biología-Geografía — Primer Año de Secundaria, student textbook, Grade 7), printed pp. 148–150 |
 | Indonesia's way — Ch.3B: chemical evolution and Miller's experiment, eukaryotic cell origin by symbiosis | Book 5 (Biologi untuk SMA/MA Kelas XII, student textbook, Grade 12), printed p. 135 |
+| Armenia's way — Extra background text "How living organisms arose" — teacher background on the old belief that organisms arise by themselves (weeds in fields, a mouse in a cupboard) versus origin by reproduction; enrichment for §1. (placement slug: how-life-began-the-competing-accounts) | Book 6 (Կենսաբանություն 7 — Մեթոդական ուղեցույց (Biology 7 Methodological Guide), teacher guide, Grade 7), printed p. 30 |
 
-**Acceptance count: taught in 4 countries (Ecuador, Italy, Bolivia, Indonesia) — Ethiopia's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ecuador, Italy, Bolivia, Indonesia) — Ethiopia's teacher-guide evidence is named here and counted nowhere. Armenia's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Indonesia): Book 5 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XII*, Grade 12 (Kelas XII, SMA/MA), Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2) — so Indonesia counts toward acceptance. It is COMPLETE: all 4 chapters, glossary, bibliography and index present (264 PDF pages; printed p. = PDF page − 10). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
@@ -34,4 +37,6 @@ Honesty (Ecuador): Book 2 is a student textbook as verified in the placements �
 
 Honesty (Italy): Book 3 is a student textbook as verified in the placements — *La nuova biologia.blu PLUS — Le cellule e i viventi* (Sadava, Hillis, Heller, Berenbaum; Zanichelli, 2a edizione), Grade 9 — so Italy counts toward acceptance. It is COMPLETE: the full ten-chapter volume is present (235 PDF pages; the book paginates by chapter codes A1–A10). It is an Italian liceo textbook from a commercial publisher adopted in Italian schools; the record's “gov” filing path is the library's filing, as the placements note.
 
-Searchable tags: biology, ethiopia, how, life, began, the, competing, accounts, ecuador, italy, bolivia, indonesia
+Honesty (Armenia): Book 6 (Կենսաբանություն 7 — Մեթոդական ուղեցույց (Biology 7 Methodological Guide), Grade 7) is a teacher guide as verified in the placements — cited as the evidence it is, outside the acceptance count. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, how, life, began, the, competing, accounts, ecuador, italy, bolivia, indonesia, armenia

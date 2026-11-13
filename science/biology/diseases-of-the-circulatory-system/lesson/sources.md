@@ -1,6 +1,6 @@
 # Sources — Diseases of the circulatory system
 
-countries: Ethiopia, Mongolia, Yemen, Malaysia, Indonesia, Pakistan (Punjab), Afghanistan
+countries: Ethiopia, Mongolia, Yemen, Malaysia, Indonesia, Pakistan (Punjab), Afghanistan, Armenia
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Mongolia, Yemen, Malaysia, Indonesia, Pakistan (Punjab), Af
 
 **Book 10:** بیولوژی صنف نهم (Biology, Grade 9 — Dari) — Afghanistan. Grade: 9 (record grade-09) — Kind: student textbook as verified (Ministry of Education (وزارت معارف), print year 1398 (2019/20); verified on the title and book-specification pages — subject Biology, grade, language Dari) — Source: Wayback capture 20210817013050 of moe.gov.af G9-Dr-Biology.pdf; staged at phase3-staging/grade-09/gov/afghanistan/بیولوژی_صنف_نهم.pdf — the recorded GitHub tree path returned HTTP 404, and the book was recovered from the official MoE Dari PDF via the Wayback Machine's best full capture (the archive.org `books_tg` copies of the same filenames are teacher guides and were deliberately NOT used) — Byte size: 8,778,267 — PDF pages: 116 — Printed-page offset: printed p. = PDF p. − 7 — Verdict: COMPLETE (9 chapters, ends with the chapter-9 summary) — Structural summary: a human-body year, one system per chapter, each closing with that system's diseases and hygiene. Ch1 digestive; Ch2 respiratory; Ch3 blood circulation (blood and its components, heart and its chambers, lymph, circulation problems); Ch4 excretory (cell wastes, excretory organs, kidney problems and new treatments); Ch5 skeletal and muscular (skeleton and bone structure, bone types and injuries, muscles and their injuries); Ch6 nervous system and sense organs; Ch7 endocrine (insulin and glucagon); Ch8 reproductive (male and female systems, menstrual cycle, fertilisation, pregnancy, sexually transmitted infections); Ch9 environmental problems and their solutions. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/afghanistan-placements.md.
 
+**Book 11:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 88 (teacher guide) |
@@ -28,6 +30,7 @@ countries: Ethiopia, Mongolia, Yemen, Malaysia, Indonesia, Pakistan (Punjab), Af
 | Pakistan (Punjab)'s way — Ch 9.3: cardiovascular disorders — myocardial infarction and its immediate treatment (oxygen…) (placement: diseases-of-the-circulatory-system) | Book 8 (Biology 9 (eLearn.Punjab edition), student textbook, Grade 9), printed pp. 265–268 |
 | Pakistan (Punjab)'s way — Ch 12.5: disorders of the nervous system (placement target is the book's disorders-of-a-system pattern; this lesson is nervous-system disorders — filed here as the nearest disorders slug; the mismatch is noted) (placement: diseases-of-the-circulatory-system) | Book 9 (BIOLOGY 10 (Punjab Curriculum and Textbook Board, Lahore), student textbook, Grade 10), printed p. 51 |
 | Afghanistan's way — Ch3, problems of blood circulation (placement slug: diseases-of-the-circulatory-system) | Book 10 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), student textbook, Grade 9), printed p. 30 |
+| Armenia's way — §30 Prevention of cardiovascular diseases and hygiene — heart and vessel diseases and the habits that prevent them. (placement slug: diseases-of-the-circulatory-system) | Book 11 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 107 |
 
 | Leukaemia (student book) | Book 2 (student textbook), printed pp. 125–127 |
 | Varicose veins (student book) | Book 2 (student textbook), printed pp. 125–127 |
@@ -38,7 +41,7 @@ countries: Ethiopia, Mongolia, Yemen, Malaysia, Indonesia, Pakistan (Punjab), Af
 | Malaysia's way — Ch.10: health issues related to the human circulatory system (placement: diseases-of-the-circulatory-system) | Book 5 (Biology Form 4 (DLP), student textbook, Grade 10 (Form 4)), Ch.10, printed p. 187 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: diseases-of-the-circulatory-system) | Book 6 (Biologi Tingkatan 4, student textbook, Grade 10 (Tingkatan 4)), Ch.10, printed p. 187 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Mongolia, Yemen, Malaysia, Indonesia, Pakistan (Punjab), Afghanistan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Mongolia, Yemen, Malaysia, Indonesia, Pakistan (Punjab), Afghanistan, Armenia).**
 
 Honesty (Pakistan (Punjab)): Book 8 is a student textbook as verified in the placements — *Biology 9* (eLearn.Punjab edition), Grade 9 — so Pakistan (Punjab) counts toward acceptance. It is TRUNCATED (minor): all 9 chapters are complete, but the closing glossary in this file runs only A–S (last entry “Saliva”); any T–Z glossary pages are not in the file — so this truncated copy is never counted as a complete book.
 
@@ -58,4 +61,6 @@ Honesty (Malaysia): Book 6 is a student textbook as verified in the placements �
 
 Honesty (Afghanistan): Book 10 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), Grade 9) is a student textbook as verified in the placements — Ministry of Education (وزارت معارف), print year 1398 (2019/20) — so Afghanistan counts toward acceptance. It is COMPLETE as stated in the book entry above. The recorded GitHub tree paths returned HTTP 404; the books were recovered from the official MoE Dari PDFs via the Wayback Machine's best full captures (the archive.org `books_tg` copies of the same filenames are teacher guides and were deliberately NOT used) and are staged in phase3-staging under the new rule, still needing an actual push.
 
-Searchable tags: biology, ethiopia, diseases, the, circulatory, system, mongolia, yemen, malaysia, indonesia, pakistan, punjab, afghanistan
+Honesty (Armenia): Book 11 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, diseases, the, circulatory, system, mongolia, yemen, malaysia, indonesia, pakistan, punjab, afghanistan, armenia

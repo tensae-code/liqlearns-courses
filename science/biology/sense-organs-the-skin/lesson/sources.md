@@ -1,6 +1,6 @@
 # Sources — Sense Organs: The Skin
 
-countries: Ethiopia, Mongolia, Bolivia, Indonesia
+countries: Ethiopia, Mongolia, Bolivia, Indonesia, Armenia
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia, Mongolia, Bolivia, Indonesia
 
 **Book 4:** Buku Panduan Guru Biologi untuk SMA/MA Kelas XI (as printed) — Indonesia. Grade: 11 (Kelas XI) — Kind: teacher as verified — Repo path: grade-11/gov/indonesia/biologi/teacher/full-year.pdf (TSV release: mid-size-books-7/grade-11-gov-indonesia-biologi-teacher-full-year.pdf; books.json duplicate of the same book) — Byte size: 11598648 (grab-verified) — PDF pages: 336 — Printed-page offset: printed p. = PDF page − 12 (front matter i–xii, main text printed pp. 1–324) — Verdict: COMPLETE — full teacher guide, Cetakan pertama 2022, ISBN 978-602-427-895-3 (jil.1): Panduan Umum (general guide, printed p. 1) plus Panduan Khusus for all 8 student-book chapters (pp. 17–298), glossary (p. 300), bibliography (p. 309), index (p. 312). Structural summary: Mirrors the student book chapter-for-chapter. Per chapter: introduction, learning schemes (with alternative schemes where facilities differ), step-by-step learning procedures, parent-interaction guidance, teacher reflection, assessment banks, enrichment, student worksheets (LKPD) and teacher/student reading lists. The placements below record only content or teaching treatments the guide adds beyond the student book; the underlying lessons are already placed from the student book above. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
 
+**Book 5:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Sense organs: the skin (§§5.2–5.2.1): | Student Textbook, Grade 12 — Printed pp. 273–277. |
 | Mongolia's way — Ch. 2 §2.4.5: the structure and function of the skin (placement slug: biology/skin-the-outer-shield — stocked into this lesson, biology/sense-organs-the-skin, as the closest existing lesson) | Book 2 (Биологи IX (Biology, Grade 9), student textbook, Grade 9), Ch. 2 §2.4.5, printed p. 71 |
 | Bolivia's way — The skin: barrier protection, temperature regulation by blood vessels and sweat, defence against germs | Book 3 (Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria, student textbook, Grade 8), printed pp. 174–176 |
 | Indonesia's way — Ch.5 assessment: skin pores and folds as the external-defence surface (teacher guide — evidence) | Book 4 (Buku Panduan Guru Biologi untuk SMA/MA Kelas XI, teacher's guide, Grade 11), printed p. 193 |
+| Armenia's way — §13, touch part — the skin as a sense organ: touch, pressure, temperature and pain receptors. (placement slug: sense-organs-the-skin) | Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 46 |
+| Armenia's way — §15 Functions and structure of the skin — skin layers, sebaceous glands and hair (index entries), protection and sensation. (placement slug: sense-organs-the-skin) | Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 54 |
+| Armenia's way — §17 Skin hygiene — washing, skin care and preventing skin damage, closing the skin chapter. (placement slug: sense-organs-the-skin) | Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 60 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, Bolivia). Indonesia's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Bolivia, Armenia). Indonesia's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Indonesia): Book 4 is a teacher's guide as verified in the placements — *Buku Panduan Guru Biologi untuk SMA/MA Kelas XI*, Grade 11 (Kelas XI), Cetakan pertama 2022, ISBN 978-602-427-895-3 (jil.1) — it is cited as evidence only: where this lesson stands on it alone, Indonesia is counted nowhere. It is COMPLETE: Panduan Umum plus Panduan Khusus for all 8 student-book chapters, glossary, bibliography and index present (336 PDF pages; printed p. = PDF page − 12). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, cited once here.
 
@@ -29,4 +34,6 @@ Pairing warning (carried exactly as the placements state it): the Grade 12 stude
 
 Honesty (Mongolia): Book 2 is a student textbook as verified in the placements — *Биологи IX (Biology, Grade 9)*, Grade 9 — so Mongolia counts toward acceptance. It is COMPLETE: title page, full contents, all 4 chapters with assessments present (143 PDF pages; printed p. = PDF page − 1). The recorded repo path (grade-09/gov/mongolia/mongolia-grade-09-biology.pdf) is a phantom — every repo-tree grab 404'd; the book was read from the ministry's econtent.edu.mn file (biology-318.pdf), whose byte size matches the books.json record exactly (10,457,027), and staged in phase3-staging under the 2026-11-13 rule.
 
-Searchable tags: biology, ethiopia, sense, organs, the, skin, mongolia, bolivia, indonesia
+Honesty (Armenia): Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, sense, organs, the, skin, mongolia, bolivia, indonesia, armenia

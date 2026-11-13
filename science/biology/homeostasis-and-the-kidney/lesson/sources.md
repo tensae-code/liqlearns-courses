@@ -1,6 +1,6 @@
 # Sources — Homeostasis and the Kidney
 
-countries: Ethiopia, United States, Bhutan, Afghanistan
+countries: Ethiopia, United States, Bhutan, Afghanistan, Armenia
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, United States, Bhutan, Afghanistan
 
 **Book 5:** بیولوژی صنف نهم (Biology, Grade 9 — Dari) — Afghanistan. Grade: 9 (record grade-09) — Kind: student textbook as verified (Ministry of Education (وزارت معارف), print year 1398 (2019/20); verified on the title and book-specification pages — subject Biology, grade, language Dari) — Source: Wayback capture 20210817013050 of moe.gov.af G9-Dr-Biology.pdf; staged at phase3-staging/grade-09/gov/afghanistan/بیولوژی_صنف_نهم.pdf — the recorded GitHub tree path returned HTTP 404, and the book was recovered from the official MoE Dari PDF via the Wayback Machine's best full capture (the archive.org `books_tg` copies of the same filenames are teacher guides and were deliberately NOT used) — Byte size: 8,778,267 — PDF pages: 116 — Printed-page offset: printed p. = PDF p. − 7 — Verdict: COMPLETE (9 chapters, ends with the chapter-9 summary) — Structural summary: a human-body year, one system per chapter, each closing with that system's diseases and hygiene. Ch1 digestive; Ch2 respiratory; Ch3 blood circulation (blood and its components, heart and its chambers, lymph, circulation problems); Ch4 excretory (cell wastes, excretory organs, kidney problems and new treatments); Ch5 skeletal and muscular (skeleton and bone structure, bone types and injuries, muscles and their injuries); Ch6 nervous system and sense organs; Ch7 endocrine (insulin and glucagon); Ch8 reproductive (male and female systems, menstrual cycle, fertilisation, pregnancy, sexually transmitted infections); Ch9 environmental problems and their solutions. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/afghanistan-placements.md.
 
+**Book 6:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Homeostasis and the human kidney (§5.3–5.3.1): | Student Textbook, Grade 12 — Printed pp. 317–326. |
@@ -19,8 +21,9 @@ countries: Ethiopia, United States, Bhutan, Afghanistan
 | United States' way — Ch. 41: Osmotic Regulation and Excretion (placement slug: biology/osmoregulation — stocked into this lesson as the closest existing lesson covering osmotic regulation and the kidney) | Book 3 (Biology 2e, student textbook, Grade 13 (recorded grade)), Ch. 41, PDF p. 1223 |
 | Bhutan's way — Ch. 3.3: kidney disease and haemodialysis; accessory excretory organs | Book 4 (BIOLOGY — CLASS 10, student textbook, Grade 10), printed pp. 78–80 |
 | Afghanistan's way — Ch4, the kidney's work in the excretory system (placement slug: homeostasis-and-the-kidney) | Book 5 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), student textbook, Grade 9), printed p. 35 |
+| Armenia's way — §44 Diseases of the urinary organs; hygiene of the urinary system — kidney/urinary disease, hygiene, and the kidney's homeostatic job. (placement slug: homeostasis-and-the-kidney) | Book 6 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 161 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, United States, Bhutan, Afghanistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, United States, Bhutan, Afghanistan, Armenia).**
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
@@ -34,4 +37,6 @@ Honesty (Bhutan): Book 4 is a student textbook as verified in the placements —
 
 Honesty (Afghanistan): Book 5 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), Grade 9) is a student textbook as verified in the placements — Ministry of Education (وزارت معارف), print year 1398 (2019/20) — so Afghanistan counts toward acceptance. It is COMPLETE as stated in the book entry above. The recorded GitHub tree paths returned HTTP 404; the books were recovered from the official MoE Dari PDFs via the Wayback Machine's best full captures (the archive.org `books_tg` copies of the same filenames are teacher guides and were deliberately NOT used) and are staged in phase3-staging under the new rule, still needing an actual push.
 
-Searchable tags: biology, ethiopia, homeostasis, and, the, kidney, united, states, bhutan, afghanistan
+Honesty (Armenia): Book 6 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, homeostasis, and, the, kidney, united, states, bhutan, afghanistan, armenia

@@ -1,6 +1,6 @@
 # Sources — A balanced diet — every group, in proportion
 
-countries: Ethiopia, Azerbaijan, Gabon, Nigeria, Dominica, Malaysia, Bolivia
+countries: Ethiopia, Azerbaijan, Gabon, Nigeria, Dominica, Malaysia, Bolivia, Armenia
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Azerbaijan, Gabon, Nigeria, Dominica, Malaysia, Bolivia
 
 **Book 9:** Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria (Ministerio de Educación de Bolivia) — Bolivia. Grade: 8 (Secundaria 2) — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-08-gov-bolivia-biology-geography-student-full-year.pdf — Byte size: 10,263,393 — PDF pages: 84 — Printed-page offset: printed p. = PDF page + 146 (file carries printed pp. 148–230 only) — Verdict: TRUNCATED — the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. Structural summary: In the surviving span: hormones and the endocrine system, fertilisation/implantation and embryonic development, an affective-relationships unit ("biología de las relaciones afectivas" — attachment and the right to a life free of violence), nutrition types and healthy eating built on Bolivia's "arco de la alimentación", eating disorders, the sense organs (eye, skin, ear and hearing loss), a long chemistry-of-matter block (debt), a thermology block opening with hyperthermia/hypothermia (physics debt), solar-system/Moon/eclipses (geography debt), renewable energy, and a closing ecology block on ecosystems and Bolivia's biomes and the extinction emergency. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bolivia-placements.md.
 
+**Book 10:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 110–111 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Azerbaijan, Gabon, Nigeria, Dominica, Malaysia, Bolivia
 | Malaysia's way — Ch.9: balanced diet; health issues related to the digestive system and eating habits (placement: a-balanced-diet) | Book 7 (Biology Form 4 (DLP), student textbook, Grade 10 (Form 4)), Ch.9, printed p. 156 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: a-balanced-diet) | Book 8 (Biologi Tingkatan 4, student textbook, Grade 10 (Tingkatan 4)), Ch.9, printed p. 156 |
 | Bolivia's way — Healthy eating and its benefits, organised by Bolivia's own "arco de la alimentación" (food-guide arc) — the country's own way: a national food arc instead of a pyramid | Book 9 (Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria, student textbook, Grade 8), printed pp. 162–164 |
+| Armenia's way — §38 Nutrients and vitamins; healthy diet — food nutrients, fats (index), vitamins and the rules of a healthy diet opening the digestion chapter. (placement slug: a-balanced-diet) | Book 10 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 136 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Azerbaijan, Nigeria, Dominica, Malaysia, Bolivia) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Azerbaijan, Nigeria, Dominica, Malaysia, Bolivia, Armenia) — Gabon's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Bolivia): Book 9 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 8 (Secundaria 2) — so Bolivia counts toward acceptance. It is TRUNCATED: the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. This truncated copy is never counted as a complete book. 84 PDF pages; printed p. = PDF page + 146.
 
@@ -50,4 +53,6 @@ Honesty (Malaysia): Book 7 is a student textbook as verified in the placements �
 
 Honesty (Malaysia): Book 8 is a student textbook as verified in the placements — *Biologi Tingkatan 4*, Grade 10 (Tingkatan 4), Ministry of Education Malaysia, Cetakan Pertama 2019, ISBN 978-967-2250-72-2, No. Siri Buku 0114 — the Bahasa Melayu original of the DLP edition above, verified chapter-for-chapter and page-for-page identical to it, so it is cited at the same printed pages and Malaysia is counted once. It is COMPLETE (323 PDF pages).
 
-Searchable tags: biology, azerbaijan, ethiopia, balanced, diet, every, group, proportion, gabon, nigeria, dominica, malaysia, bolivia
+Honesty (Armenia): Book 10 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, azerbaijan, ethiopia, balanced, diet, every, group, proportion, gabon, nigeria, dominica, malaysia, bolivia, armenia

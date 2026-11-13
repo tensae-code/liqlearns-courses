@@ -1,6 +1,6 @@
 # Sources — Types of joints
 
-countries: Ethiopia, Egypt, Eritrea, Gabon, Finland, India, Nigeria, Iran, Indonesia, Pakistan (Punjab)
+countries: Ethiopia, Egypt, Eritrea, Gabon, Finland, India, Nigeria, Iran, Indonesia, Pakistan (Punjab), Armenia
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Egypt, Eritrea, Gabon, Finland, India, Nigeria, Iran, Indon
 
 **Book 10:** BIOLOGY 10 (Punjab Curriculum and Textbook Board, Lahore) — Pakistan (Punjab) — PART FILE: Sections 3–6 only. Grade: 10 — Kind: student as verified — Repo path: grade-10/gov/pakistan/biology/full-year.pdf (TSV blob row; grabbed via grab.py tree) — Approved by the Federal Ministry of Education (Curriculum Wing) under the National Curriculum 2006; printed January 2020 by PCTB Lahore (print run 294,872) — Byte size: 29,494,446 (no books.json counterpart for this path) — PDF pages: 176 — Printed-page offset: printed p. = PDF page − 3 (Section 3 divider at PDF p. 5; Ch 10 opens printed p. 2) — Verdict: TRUNCATED — this file is the SECOND part of the book only: it opens at “SECTION 3: LIFE PROCESSES (Continued from Grade IX)” and contains chapters 10–18 with credits (printed p. 159) and glossary (printed p. 160–171+, A–W present at the file's end). Sections 1–2 (chapters 1–9) are NOT in this file — a library debt: the Grade 10 book is only half-secured at this repo path. Image-only scan — read from rendered contact sheets (cover/imprint, full contents, Ch 10 opening, glossary end). Structural summary: Section 3 Life Processes: Ch 10 Gaseous Exchange → Ch 11 Homeostasis → Ch 12 Coordination and Control → Ch 13 Support and Movement. Section 4 Continuity in Life: Ch 14 Reproduction → Ch 15 Inheritance. Section 5 Ecology: Ch 16 Man and his Environment. Section 6 Applications of Biology: Ch 17 Biotechnology → Ch 18 Pharmacology. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/pakistan-placements.md.
 
+**Book 11:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Joints | Student Textbook, Grade 11 — Printed pp. 184–185. |
@@ -34,8 +36,9 @@ countries: Ethiopia, Egypt, Eritrea, Gabon, Finland, India, Nigeria, Iran, Indon
 | Iran's way — Ch. 3 §1: joints — printed p. 42 — position sense in joint capsules, tendons and muscles named in the text | Book 8 (زیست‌شناسی (۲) — Biology (2), student textbook, Grade 11), Ch. 3 §1: joints, printed p. 42 |
 | Indonesia's way — Ch.6B: joints and arthritis as a joint disorder | Book 9 (Biologi untuk SMA/MA Kelas XI, student textbook, Grade 11), printed p. 191 |
 | Pakistan (Punjab)'s way — Ch 13.2: types of joints (placement: types-of-joints) | Book 10 (BIOLOGY 10 (Punjab Curriculum and Textbook Board, Lahore), student textbook, Grade 10), printed p. 62 |
+| Armenia's way — §19 Bone growth, types and connections — how bones grow, bone types, and fixed, semi-mobile and mobile connections (joints). (placement slug: types-of-joints) | Book 11 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 67 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Eritrea, India, Nigeria, Iran, Indonesia, Pakistan (Punjab)) — Gabon's teacher-guide evidence is named here and counted nowhere; Finland's open teaching materials evidence is named here and counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Egypt, Eritrea, India, Nigeria, Iran, Indonesia, Pakistan (Punjab), Armenia) — Gabon's teacher-guide evidence is named here and counted nowhere; Finland's open teaching materials evidence is named here and counted nowhere.**
 
 Honesty (Pakistan (Punjab)): Book 10 is a student textbook as verified in the placements — *BIOLOGY 10* (Punjab Curriculum and Textbook Board, Lahore), Grade 10 — so Pakistan (Punjab) counts toward acceptance for the chapters present. It is TRUNCATED: this file is the SECOND part of the book only — Sections 3–6 (chapters 10–18) with credits (printed p. 159) and glossary (printed p. 160–171+, A–W present at the file's end); Sections 1–2 (chapters 1–9) are NOT in this file — so this truncated copy is never counted as a complete book, and the Grade 10 book is only half-secured at this repo path (a library debt).
 
@@ -57,4 +60,6 @@ Honesty (Nigeria): Book 7 is a student textbook as verified in the placements �
 
 Honesty (Iran): Book 8 is a student textbook as verified in the placements — *زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed)*, Grade 11 — so Iran counts toward acceptance. It is COMPLETE: contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present.
 
-Searchable tags: biology, eritrea, ethiopia, types, joints, egypt, gabon, finland, india, nigeria, iran, indonesia, pakistan, punjab
+Honesty (Armenia): Book 11 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, eritrea, ethiopia, types, joints, egypt, gabon, finland, india, nigeria, iran, indonesia, pakistan, punjab, armenia

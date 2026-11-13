@@ -1,6 +1,6 @@
 # Sources — Blood groups and the Rhesus factor
 
-countries: Ethiopia, Sudan, Mongolia, Malaysia, Iran, Bhutan, Indonesia
+countries: Ethiopia, Sudan, Mongolia, Malaysia, Iran, Bhutan, Indonesia, Armenia
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
@@ -20,10 +20,13 @@ countries: Ethiopia, Sudan, Mongolia, Malaysia, Iran, Bhutan, Indonesia
 
 **Book 9:** Biologi untuk SMA/MA Kelas XI (as printed; cover: BIOLOGI) — Indonesia. Grade: 11 (Kelas XI, SMA/MA) — Kind: student as verified — Repo path: grade-11/gov/indonesia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-11-gov-indonesia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Source URL (books.json): penerbitcmedia BSE g11_biologi.pdf route — Byte size: 31492502 (grab-verified; books.json gives no size) — PDF pages: 312 — Printed-page offset: printed p. = PDF page − 16 (front matter i–xvi, main text printed pp. 1–296) — Verdict: COMPLETE — full Kurikulum Merdeka student text, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1): all 8 chapters, glossary (printed p. 270), index (p. 280), bibliography (p. 283) present; no missing signatures. Structural summary: Indonesia's Merdeka way: every chapter opens with a daily-life phenomenon and trigger questions (pertanyaan pemantik), concept map and learning objectives, then inquiry activities (Ayo Bereksplorasi / Berpikir Kritis / Mencoba), reflection and competency test, closing with enrichment (Pengayaan) using Indonesian research articles. Sequence: cells → membrane transport → plant regulation → human transport/exchange → body defence → human mobility (nerve + movement) → hormones in reproduction → growth and development. Pancasila learner profile is woven through activities. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
 
+**Book 10:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 84 (teacher guide) |
 | Indonesia's way — Ch.5B: blood-group testing practical, donor/recipient matching to avoid agglutination | Book 9 (Biologi untuk SMA/MA Kelas XI, student textbook, Grade 11), printed p. 139 |
+| Armenia's way — §25 Blood groups; Rh factor — ABO groups, agglutinins (index) and transfusion rules, Rhesus conflict. (placement slug: blood-groups-and-the-rhesus-factor) | Book 10 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 91 |
 
 | Antigens and antibodies (student book) | Book 2 (student textbook), printed pp. 117–120 |
 | Compatibility chart (student book) | Book 2 (student textbook), printed pp. 117–120 |
@@ -37,7 +40,7 @@ countries: Ethiopia, Sudan, Mongolia, Malaysia, Iran, Bhutan, Indonesia
 | Iran's way — Ch. 4 §3: blood groups — printed p. 63 — grouping inside the blood section | Book 7 (زیست‌شناسی (۱) — Biology (1), student textbook, Grade 10), Ch. 4 §3: blood groups, printed p. 63 |
 | Bhutan's way — Ch. 3.2: blood groups, the Rhesus system and blood transfusion | Book 8 (BIOLOGY — CLASS 10, student textbook, Grade 10), printed pp. 67–70 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Mongolia, Malaysia, Iran, Bhutan, Indonesia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Sudan, Mongolia, Malaysia, Iran, Bhutan, Indonesia, Armenia).**
 
 Honesty (Indonesia): Book 9 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XI*, Grade 11 (Kelas XI, SMA/MA), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1) — so Indonesia counts toward acceptance. It is COMPLETE: all 8 chapters, glossary, index and bibliography present (312 PDF pages; printed p. = PDF page − 16). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
@@ -55,4 +58,6 @@ Honesty (Iran): Book 7 is a student textbook as verified in the placements — *
 
 Honesty (Bhutan): Book 8 is a student textbook as verified in the placements — *BIOLOGY — CLASS 10* (Bhutan, Kuensel Corporation, Thimphu; author Jigme Tshering), Grade 10 — so Bhutan counts toward acceptance. It is COMPLETE: 7 chapters, sample question paper and glossary all present to printed p. 222 (248 PDF pages; printed p. = PDF page − 26). The book was recorded twice in the library records (a TSV release record and a books.json record for the same repo path, byte-identical); it is one distinct book, taught once and cited once here.
 
-Searchable tags: biology, ethiopia, blood, groups, and, the, rhesus, factor, sudan, mongolia, malaysia, iran, bhutan, indonesia
+Honesty (Armenia): Book 10 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, blood, groups, and, the, rhesus, factor, sudan, mongolia, malaysia, iran, bhutan, indonesia, armenia

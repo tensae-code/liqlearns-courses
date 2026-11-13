@@ -1176,6 +1176,12 @@ solar-system comparison lessons.
 
 442. **World biomes** (`biology/world-biomes`) — the Earth's great life regions sorted by climate — tundra and taiga, deciduous forest and grassland, desert, savanna and tropical rainforest — rainfall and temperature drawing the edges, plants and animals fitted to each (Afghanistan, Grade 11 — *بیولوژی صنف یازدهم (Biology, Grade 11 — Dari)*, student textbook, Part 5 Ch. 12, printed p. 155)
 
+443. **Fish dissection — a practical** (`biology/fish-dissection-practical`) — a guided dissection studies the fish from the outside in: first the external structure fitted to life in water, then — opened carefully, step by step — the internal organs in their places (Armenia, Grade 7 — *Կենսաբանություն 7 (Biology 7)*, student textbook, §21 laboratory work, printed p. 78)
+
+444. **Eye and ear care — correction and prevention** (`biology/eye-and-ear-care-correction-and-prevention`) — short-sight and long-sight are corrected with lenses fitted to the fault, and sight and hearing are protected before damage is done (Armenia, Grade 8 — *Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8)*, student textbook, §14, printed p. 49)
+
+445. **Posture and musculoskeletal hygiene** (`biology/posture-and-musculoskeletal-hygiene`) — correct posture for a growing body, preventing spinal curvature and flat feet, and exercise hygiene (Armenia, Grade 8 — *Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8)*, student textbook, §22, printed p. 81)
+
 
 
 ## Unit 18 — Physics

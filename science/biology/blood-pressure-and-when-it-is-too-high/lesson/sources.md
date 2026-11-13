@@ -1,6 +1,6 @@
 # Sources — Blood pressure — and when it is too high
 
-countries: Ethiopia, Finland, Iran
+countries: Ethiopia, Finland, Iran, Armenia
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Finland, Iran
 
 **Book 4:** زیست‌شناسی (۱) — Biology (1), Grade 10, Experimental Sciences branch (as printed) — Iran. Grade: 10 (grade-10) — Kind: student as verified — Repo path: grade-10/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-6 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/40/C110216.pdf — Byte size: 6775781 (matches books.json record exactly) — PDF pages: 120 (matches record) — Printed-page offset: printed p. = PDF page − 6 (printed pp. 1–114 + front matter) — Verdict: COMPLETE — cover, ministry imprint page (book code 110216), contents, all 7 chapters with their گفتار sections, activities and end-of-chapter material present; text runs to the phloem-transport close of Ch. 7. Structural summary: Iran opens its three-year upper-secondary Biology with a "matter and energy" context: what biology is and the limits of experimental science, then human body systems (digestion, gas exchange, circulation, osmotic regulation/excretion), then the plant half (cell-to-plant organisation, absorption and transport). Iranian way: each chapter opens with a QR code linking to extra digital content; boxed "بیشتر بدانید" (Know more) and etymology notes are explicitly declared non-examinable (not for school tests or the national university entrance exam); frequent numbered فعالیت (activities) including microscope work; Ch. 1 frames biology as serving society — safe and sufficient food, environment protection, human health. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
 
+**Book 5:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 112–113 |
 | Guide pedagogy for this unit (teacher guide — evidence) | Book 2 (teacher guide), guide printed pp. 73–98 (teacher guide) |
 | Finland's way — Card 12, Blood pressure — upper-arm cuff measurement, systolic/diastolic meaning, why pressure should be followed from youth, and lifestyle effects on cardiovascular health (open teaching material — evidence) (placement slug: blood-pressure-and-when-it-is-too-high) | Book 3 (Hyvinvointia mittaamalla, student work-card pack — open teaching material, evidence only, filed grade-07 / stated grades 8–9), printed p. 44 |
 | Iran's way — Ch. 4 §2: blood pressure — printed p. 58 — pressure in the vessels and its measurement | Book 4 (زیست‌شناسی (۱) — Biology (1), student textbook, Grade 10), Ch. 4 §2: blood pressure, printed p. 58 |
+| Armenia's way — §29 Movement of blood through the vessels — blood pressure, pulse, and why blood keeps moving in veins. (placement slug: blood-pressure-and-when-it-is-too-high) | Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 104 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Iran) — Finland's open teaching materials evidence is named here and counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Iran, Armenia) — Finland's open teaching materials evidence is named here and counted nowhere.**
 
 Honesty (Finland): Book 3 (Hyvinvointia mittaamalla, student work-card pack — open teaching material, evidence only, filed grade-07 / stated grades 8–9) — Finland's AOE open teaching materials as verified in the placements — NOT textbooks (worksheets, teacher guides/packs and a work-card pack as filed in each book entry above) — cited as the evidence they are, OUTSIDE the acceptance count, never counted as pupil-taught. Each is COMPLETE as stated in its book entry above. Each was recorded twice in the library records (TSV record + books.json record, same repo path) — one distinct book each, cited once here; the draw-and-name worksheet (where cited) is a variant edition whose shared content is taught once.
 
@@ -25,4 +28,6 @@ Honesty: the pupil-taught parts above stand on the finished Grade 10 student tex
 
 Honesty (Iran): Book 4 is a student textbook as verified in the placements — *زیست‌شناسی (۱) — Biology (1), Grade 10, Experimental Sciences branch (as printed)*, Grade 10 — so Iran counts toward acceptance. It is COMPLETE: cover, ministry imprint page (book code 110216), contents, all 7 chapters with their گفتار sections, activities and end-of-chapter material present; text runs to the phloem-transport close of Ch. 7.
 
-Searchable tags: biology, ethiopia, grade 10, blood, pressure, and, when, it, is, too, high, finland, iran
+Honesty (Armenia): Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, grade 10, blood, pressure, and, when, it, is, too, high, finland, iran, armenia

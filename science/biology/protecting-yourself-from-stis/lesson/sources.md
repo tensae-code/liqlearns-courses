@@ -1,6 +1,6 @@
 # Sources — Protecting yourself from STIs
 
-countries: Ethiopia, France, Bhutan
+countries: Ethiopia, France, Bhutan, Armenia
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, France, Bhutan
 
 **Book 4:** BIOLOGY — CLASS 10 (as printed; 2019, Kuensel Corporation; author Jigme Tshering, M.Sc.) — Bhutan. Grade: 10 (grade-10) — Kind: student as verified — Repo path: grade-10/gov/bhutan/biology/full-year.pdf (release mid-size-books-5) — Source URL: https://rec.gov.bt/download/946/science/3766/x-biology-textbook-2019.pdf — Byte size: 8,987,415 (matches books.json record exactly) — PDF pages: 248 (matches record) — Printed-page offset: printed p. = PDF page − 26 (body printed pp. 1–222) — Verdict: COMPLETE — 7 chapters, sample question paper and glossary all present to printed p. 222. Structural summary: Class 10 deepens Class 9 systems to mechanism level: cell types and membrane transport, mitosis/meiosis; photosynthesis split into light/dark reactions with Blackman's limiting-factor law; phloem pressure-flow and three named mineral-uptake mechanisms (ion exchange, mass flow, Donnan equilibrium); human digestion, blood groups/Rhesus and transfusion, kidney and dialysis, cellular respiration through Krebs cycle and electron transport; coordination, reproductive health (contraception, STIs, infertility treatment); micro-organisms, diseases and immunobiology; Mendelian inheritance, DNA structure, Hardy–Weinberg and speciation; ecosystems and a distinctly Bhutanese biodiversity chapter (Bhutan's biodiversity, IUCN, Bhutan Trust Fund for Environment Conservation). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bhutan-placements.md.
 
+**Book 5:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 100–102 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 53–71 |
 | France's way — contraceptive methods survey, STI documents, HIV-prevention tools, HPV vaccination (placement slug: protecting-yourself-from-stis) | Book 3 (SVT 2de GT — Manuel Libre de Sciences de la vie et de la Terre, student manual, Grade 10), Thème 3 "Corps humain et santé" / "Hormones et procréation humaine" / "Contraception et prévention des IST" — repository path as cited in the placements, in place of a printed page, as the placements state |
 | Bhutan's way — Ch. 4.3: sexually transmitted infections and their prevention | Book 4 (BIOLOGY — CLASS 10, student textbook, Grade 10), printed pp. 110–111 |
+| Armenia's way — §48, second half — protecting reproductive health and preventing sexually transmitted infections. (placement slug: protecting-yourself-from-stis) | Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 171 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Bhutan).**
+**Acceptance count: taught in 4 countries (Ethiopia, France, Bhutan, Armenia).**
 
 Honesty (France): Book 3 is a student manual as verified in the placements — *SVT 2de GT — Manuel Libre de Sciences de la vie et de la Terre*, Seconde (Les Manuels Libres, DRANE Île-de-France), Grade 10 (Seconde GT) — so France counts toward acceptance. It is COMPLETE as a manual: the full tree was enumerated (1,290 files across 12 tree pages) and the "Ce qu'il faut retenir" synthesis pages were read for the life-science chapters. It is NOT a PDF book and it was NOT downloaded: the secured asset is a 1,428,747,657-byte ZIP archive of the manual's public source repository, read through the repository's public API and raw files (project id 9329, default branch main), so the France row above cites the repository path in place of a printed page, exactly as the placements file states. The manual's earth-science parts — "Érosion — processus et conséquences", "Érosion et activité humaine" and the soil-formation/composition documents of "Caractéristiques des sols" — are DEBT, not placed in Biology, except the soil-biology documents placed where they teach biology.
 
@@ -25,4 +28,6 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Honesty (Bhutan): Book 4 is a student textbook as verified in the placements — *BIOLOGY — CLASS 10* (Bhutan, Kuensel Corporation, Thimphu; author Jigme Tshering), Grade 10 — so Bhutan counts toward acceptance. It is COMPLETE: 7 chapters, sample question paper and glossary all present to printed p. 222 (248 PDF pages; printed p. = PDF page − 26). The book was recorded twice in the library records (a TSV release record and a books.json record for the same repo path, byte-identical); it is one distinct book, taught once and cited once here.
 
-Searchable tags: biology, ethiopia, protecting, yourself, from, stis, france, bhutan
+Honesty (Armenia): Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, protecting, yourself, from, stis, france, bhutan, armenia

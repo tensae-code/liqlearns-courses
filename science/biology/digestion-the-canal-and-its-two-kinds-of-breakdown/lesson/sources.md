@@ -1,6 +1,6 @@
 # Sources — Digestion — the canal and its two kinds of breakdown
 
-countries: Ethiopia, Iran, Bhutan, Indonesia, Afghanistan
+countries: Ethiopia, Iran, Bhutan, Indonesia, Afghanistan, Armenia
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Iran, Bhutan, Indonesia, Afghanistan
 
 **Book 7:** بیولوژی صنف نهم (Biology, Grade 9 — Dari) — Afghanistan. Grade: 9 (record grade-09) — Kind: student textbook as verified (Ministry of Education (وزارت معارف), print year 1398 (2019/20); verified on the title and book-specification pages — subject Biology, grade, language Dari) — Source: Wayback capture 20210817013050 of moe.gov.af G9-Dr-Biology.pdf; staged at phase3-staging/grade-09/gov/afghanistan/بیولوژی_صنف_نهم.pdf — the recorded GitHub tree path returned HTTP 404, and the book was recovered from the official MoE Dari PDF via the Wayback Machine's best full capture (the archive.org `books_tg` copies of the same filenames are teacher guides and were deliberately NOT used) — Byte size: 8,778,267 — PDF pages: 116 — Printed-page offset: printed p. = PDF p. − 7 — Verdict: COMPLETE (9 chapters, ends with the chapter-9 summary) — Structural summary: a human-body year, one system per chapter, each closing with that system's diseases and hygiene. Ch1 digestive; Ch2 respiratory; Ch3 blood circulation (blood and its components, heart and its chambers, lymph, circulation problems); Ch4 excretory (cell wastes, excretory organs, kidney problems and new treatments); Ch5 skeletal and muscular (skeleton and bone structure, bone types and injuries, muscles and their injuries); Ch6 nervous system and sense organs; Ch7 endocrine (insulin and glucagon); Ch8 reproductive (male and female systems, menstrual cycle, fertilisation, pregnancy, sexually transmitted infections); Ch9 environmental problems and their solutions. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/afghanistan-placements.md.
 
+**Book 8:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 95–96 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Iran, Bhutan, Indonesia, Afghanistan
 | Bhutan's way — Ch. 3.1: chemical digestion in mouth, stomach, small and large intestine | Book 5 (BIOLOGY — CLASS 10, student textbook, Grade 10), printed pp. 55–58 |
 | Indonesia's way — Ch.4B: chemical digestion — organ/enzyme table | Book 6 (Biologi untuk SMA/MA Kelas XI, student textbook, Grade 11), printed p. 110 |
 | Afghanistan's way — Ch1, digestion and absorption in the small and large intestines (placement slug: digestion-the-canal-and-its-two-kinds-of-breakdown) | Book 7 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), student textbook, Grade 9), printed p. 8 |
+| Armenia's way — §39 Structure and functions of the digestive system — the canal and its glands; mechanical and chemical breakdown. (placement slug: digestion-the-canal-and-its-two-kinds-of-breakdown) | Book 8 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 144 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Iran, Bhutan, Indonesia, Afghanistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Iran, Bhutan, Indonesia, Afghanistan, Armenia).**
 
 Honesty (Indonesia): Book 6 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XI*, Grade 11 (Kelas XI, SMA/MA), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1) — so Indonesia counts toward acceptance. It is COMPLETE: all 8 chapters, glossary, index and bibliography present (312 PDF pages; printed p. = PDF page − 16). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
@@ -40,4 +43,6 @@ Honesty (Bhutan): Book 5 is a student textbook as verified in the placements —
 
 Honesty (Afghanistan): Book 7 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), Grade 9) is a student textbook as verified in the placements — Ministry of Education (وزارت معارف), print year 1398 (2019/20) — so Afghanistan counts toward acceptance. It is COMPLETE as stated in the book entry above. The recorded GitHub tree paths returned HTTP 404; the books were recovered from the official MoE Dari PDFs via the Wayback Machine's best full captures (the archive.org `books_tg` copies of the same filenames are teacher guides and were deliberately NOT used) and are staged in phase3-staging under the new rule, still needing an actual push.
 
-Searchable tags: biology, ethiopia, grade 10, digestion, the, canal, and, its, two, kinds, of, breakdown, iran, bhutan, indonesia, afghanistan
+Honesty (Armenia): Book 8 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, ethiopia, grade 10, digestion, the, canal, and, its, two, kinds, of, breakdown, iran, bhutan, indonesia, afghanistan, armenia
