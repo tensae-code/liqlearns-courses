@@ -1,6 +1,6 @@
 # Sources — Mitosis — the phases in order
 
-countries: Ethiopia, Azerbaijan, Palestine, Albania, Sudan, Cambodia, Samoa
+countries: Ethiopia, Azerbaijan, Palestine, Albania, Sudan, Cambodia, Samoa, India
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
@@ -20,10 +20,13 @@ countries: Ethiopia, Azerbaijan, Palestine, Albania, Sudan, Cambodia, Samoa
 
 **Book 9:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
 
+**Book 10:** Biology — Textbook for Class XI (NCERT, 2020-21 edition; source record "NCERT Biology - Class 11") — India. Grade: 11 — Kind: student as verified — Repo path: grade-11/gov/india/biology.pdf (release mid-size-books) — Source URL: https://archive.org/details/ncert-kebo1 — Byte size: 69,072,545 (record gives no size) — PDF pages: 356 — Page references are the book's printed chapter-start pages from its Contents (body printed pp. 1–343). Verdict: COMPLETE — all 22 chapters in 5 units present per the Contents, running to Unit V's end (Chemical Coordination, printed p. 331). Structural summary: India's national textbook, organised as Diversity in the Living World → Structural Organisation in Plants and Animals → Cell: Structure and Functions → Plant Physiology → Human Physiology, each unit fronted by a biographical sketch of a scientist (Ernst Mayr for Unit I). NCERT's way: physico-chemical unification — the preface argues respiration, metabolism and reproduction should be taught as one science across plants, animals and microbes, not as separate botany/zoology. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/india-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 69 (teacher guide) |
 | Cambodia's way — Ch. 2 (Reproduction and growth) L1: the origin of new cells (placement slug: biology/mitosis-the-phases-in-order) | Book 8 (ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11), student textbook, Grade 11), Ch. 2 L1, printed p. 38 |
+| India's way — Ch. 10: mitosis (placement slug: mitosis-the-phases-in-order) | Book 10 (Biology — Textbook for Class XI, student textbook, Grade 11), Ch. 10, printed pp. 162–171 |
 
 | Condensing (student book) | Book 2 (student textbook), printed pp. 84–88 |
 | Lining up and pulling apart (student book) | Book 2 (student textbook), printed pp. 84–88 |
@@ -37,7 +40,7 @@ countries: Ethiopia, Azerbaijan, Palestine, Albania, Sudan, Cambodia, Samoa
 | Sudan's way — Unit Two objectives: distinguishing mitotic division from meiotic division (placement slug: mitosis-the-phases-in-order) | Book 7 (علم الأحياء – الصف الأول الثانوي, student textbook, Grade 10), Unit Two objectives, printed p. 13 |
 | Samoa's way — Unit 3: Cell Division (placement slug: mitosis-the-phases-in-order) | Book 9 (Biology — Year 12, student textbook, Grade 12), printed p. 76 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Azerbaijan, Palestine, Sudan, Cambodia, Samoa) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Azerbaijan, Palestine, Sudan, Cambodia, Samoa, India) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty (Samoa): Book 9 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
@@ -53,4 +56,6 @@ Honesty (Sudan): Book 7 is a student textbook as verified in the placements — 
 
 Honesty (Cambodia): Book 8 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11)*, Grade 11, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
 
-Searchable tags: biology, azerbaijan, ethiopia, mitosis, the, phases, order, palestine, albania, sudan, cambodia, samoa
+Honesty (India): Book 10 is a student textbook as verified in the placements — *Biology — Textbook for Class XI* (NCERT, 2020-21 edition; source record "NCERT Biology - Class 11"), Grade 11 — so India counts toward acceptance. It is COMPLETE: all 22 chapters in 5 units present per the Contents, running to Unit V's end (Chemical Coordination, printed p. 331); 356 PDF pages; page references are the book's printed chapter-start pages from its Contents (body printed pp. 1–343). The Class XI volume was recorded twice in the library records (the placements file's 4 target records dedupe to 2 distinct books — each NCERT volume recorded twice, a TSV release record + a books.json record); it is one distinct book, taught once and cited once here. India's own way runs through the whole book and is content in this lesson: NCERT's physico-chemical unification — respiration, metabolism and reproduction taught as one science across plants, animals and microbes, not as separate botany/zoology — and each unit fronted by a biographical sketch of a scientist (Ernst Mayr for Unit I).
+
+Searchable tags: biology, azerbaijan, ethiopia, mitosis, the, phases, order, palestine, albania, sudan, cambodia, samoa, india

@@ -1,15 +1,20 @@
 # Sources — Exponential vs logistic growth
 
-countries: Ethiopia
+countries: Ethiopia, India
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Biology — Textbook for Class XII (NCERT, 2020-21 edition; "NCERT Biology - Class 12") — India. Grade: 12 — Kind: student as verified — Repo path: grade-12/gov/india/biology.pdf (release full-quality-oversized-books) — Source URL: https://archive.org/details/ncert-lebo1 — Byte size: 209,845,116 (record gives no size) — PDF pages: 296 — Page references are printed chapter-start pages from the Contents (body printed pp. 1–286). Verdict: COMPLETE — all 16 chapters in Units VI–X present per the Contents, through Environmental Issues (printed p. 270). Structural summary: Reproduction → Genetics and Evolution → Biology in Human Welfare → Biotechnology → Ecology. NCERT's applied turn: human reproduction and reproductive health are full chapters, food-production enhancement and microbes-in-welfare get their own unit, and the ecology unit closes the two-year course. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/india-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Exponential and logistic growth | Student Textbook, Grade 11 — Printed pp. 237–240. |
+| India's way — Ch. 13: exponential and logistic population growth (placement slug: exponential-vs-logistic-growth) | Book 2 (Biology — Textbook for Class XII, student textbook, Grade 12), Ch. 13, printed pp. 219–240 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, India).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, exponential, logistic, growth
+Honesty (India): Book 2 is a student textbook as verified in the placements — *Biology — Textbook for Class XII* (NCERT, 2020-21 edition), Grade 12 — so India counts toward acceptance. It is COMPLETE: all 16 chapters in Units VI–X present per the Contents, through Environmental Issues (printed p. 270); 296 PDF pages; page references are printed chapter-start pages from the Contents (body printed pp. 1–286). The Class XII volume was recorded twice in the library records (the placements file's 4 target records dedupe to 2 distinct books — each NCERT volume recorded twice, a TSV release record + a books.json record); it is one distinct book, taught once and cited once here. India's own way runs through the whole book and is content in this lesson: NCERT's applied turn — human reproduction and reproductive health as full chapters, food-production enhancement and microbes in human welfare with their own unit, and the ecology unit closing the two-year course.
+
+Searchable tags: biology, ethiopia, exponential, logistic, growth, india

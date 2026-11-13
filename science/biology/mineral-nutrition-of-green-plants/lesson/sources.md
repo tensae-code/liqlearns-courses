@@ -1,0 +1,15 @@
+# Sources — Mineral nutrition of green plants
+
+countries: India
+
+**Book 1:** Biology — Textbook for Class XI (NCERT, 2020-21 edition; source record "NCERT Biology - Class 11") — India. Grade: 11 — Kind: student as verified — Repo path: grade-11/gov/india/biology.pdf (release mid-size-books) — Source URL: https://archive.org/details/ncert-kebo1 — Byte size: 69,072,545 (record gives no size) — PDF pages: 356 — Page references are the book's printed chapter-start pages from its Contents (body printed pp. 1–343). Verdict: COMPLETE — all 22 chapters in 5 units present per the Contents, running to Unit V's end (Chemical Coordination, printed p. 331). Structural summary: India's national textbook, organised as Diversity in the Living World → Structural Organisation in Plants and Animals → Cell: Structure and Functions → Plant Physiology → Human Physiology, each unit fronted by a biographical sketch of a scientist (Ernst Mayr for Unit I). NCERT's way: physico-chemical unification — the preface argues respiration, metabolism and reproduction should be taught as one science across plants, animals and microbes, not as separate botany/zoology. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| India's way — Ch. 12 Mineral Nutrition: essential elements, deficiency symptoms, hydroponics, nitrogen fixation (placement: NEW LESSON NEEDED: mineral-nutrition-of-green-plants — no existing lesson covers this thing, so this lesson was built for it) | Book 1 (Biology — Textbook for Class XI, student textbook, Grade 11), Ch. 12, printed p. 194 |
+
+**Acceptance count: taught in 1 country (India).**
+
+Honesty (India): Book 1 is a student textbook as verified in the placements — *Biology — Textbook for Class XI* (NCERT, 2020-21 edition; source record "NCERT Biology - Class 11"), Grade 11 — so India counts toward acceptance. It is COMPLETE: all 22 chapters in 5 units present per the Contents, running to Unit V's end (Chemical Coordination, printed p. 331); 356 PDF pages; page references are the book's printed chapter-start pages from its Contents (body printed pp. 1–343). The Class XI volume was recorded twice in the library records (the placements file's 4 target records dedupe to 2 distinct books — each NCERT volume recorded twice, a TSV release record + a books.json record); it is one distinct book, taught once and cited once here. The India placements file files this chapter as the third book feeding this proposed lesson (the lesson was first proposed from Bhutan's placements); this lesson is built here on India's Class XI Chapter 12, and the other feeding books stand in their own countries' placements. India's own way runs through the whole book and is content in this lesson: NCERT's physico-chemical unification — respiration, metabolism and reproduction taught as one science across plants, animals and microbes, not as separate botany/zoology — and each unit fronted by a biographical sketch of a scientist (Ernst Mayr for Unit I).
+
+Searchable tags: biology, india, mineral, nutrition, of, green, plants, hydroponics, nitrogen fixation

@@ -1,17 +1,22 @@
 # Sources — C3, C4 and CAM Plants
 
-countries: Ethiopia
+countries: Ethiopia, India
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
+
+**Book 2:** Biology — Textbook for Class XI (NCERT, 2020-21 edition; source record "NCERT Biology - Class 11") — India. Grade: 11 — Kind: student as verified — Repo path: grade-11/gov/india/biology.pdf (release mid-size-books) — Source URL: https://archive.org/details/ncert-kebo1 — Byte size: 69,072,545 (record gives no size) — PDF pages: 356 — Page references are the book's printed chapter-start pages from its Contents (body printed pp. 1–343). Verdict: COMPLETE — all 22 chapters in 5 units present per the Contents, running to Unit V's end (Chemical Coordination, printed p. 331). Structural summary: India's national textbook, organised as Diversity in the Living World → Structural Organisation in Plants and Animals → Cell: Structure and Functions → Plant Physiology → Human Physiology, each unit fronted by a biographical sketch of a scientist (Ernst Mayr for Unit I). NCERT's way: physico-chemical unification — the preface argues respiration, metabolism and reproduction should be taught as one science across plants, animals and microbes, not as separate botany/zoology. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/india-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — C3, C4 and CAM plants and photorespiration (§3.2, section span): | Student Textbook, Grade 12 — Printed pp. 128–133. |
+| India's way — Ch. 13: C4 plants and photorespiration within the photosynthesis chapter (placement slug: c3-c4-and-cam-plants) | Book 2 (Biology — Textbook for Class XI, student textbook, Grade 11), Ch. 13, printed pp. 206–225 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, India).**
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, and, cam, plants
+Honesty (India): Book 2 is a student textbook as verified in the placements — *Biology — Textbook for Class XI* (NCERT, 2020-21 edition; source record "NCERT Biology - Class 11"), Grade 11 — so India counts toward acceptance. It is COMPLETE: all 22 chapters in 5 units present per the Contents, running to Unit V's end (Chemical Coordination, printed p. 331); 356 PDF pages; page references are the book's printed chapter-start pages from its Contents (body printed pp. 1–343). The Class XI volume was recorded twice in the library records (the placements file's 4 target records dedupe to 2 distinct books — each NCERT volume recorded twice, a TSV release record + a books.json record); it is one distinct book, taught once and cited once here. India's own way runs through the whole book and is content in this lesson: NCERT's physico-chemical unification — respiration, metabolism and reproduction taught as one science across plants, animals and microbes, not as separate botany/zoology — and each unit fronted by a biographical sketch of a scientist (Ernst Mayr for Unit I).
+
+Searchable tags: biology, ethiopia, and, cam, plants, india

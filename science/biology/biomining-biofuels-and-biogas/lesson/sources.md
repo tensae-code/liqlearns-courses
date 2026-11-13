@@ -1,17 +1,22 @@
 # Sources — Biomining, Biofuels and Biogas
 
-countries: Ethiopia
+countries: Ethiopia, India
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
+
+**Book 2:** Biology — Textbook for Class XII (NCERT, 2020-21 edition; "NCERT Biology - Class 12") — India. Grade: 12 — Kind: student as verified — Repo path: grade-12/gov/india/biology.pdf (release full-quality-oversized-books) — Source URL: https://archive.org/details/ncert-lebo1 — Byte size: 209,845,116 (record gives no size) — PDF pages: 296 — Page references are printed chapter-start pages from the Contents (body printed pp. 1–286). Verdict: COMPLETE — all 16 chapters in Units VI–X present per the Contents, through Environmental Issues (printed p. 270). Structural summary: Reproduction → Genetics and Evolution → Biology in Human Welfare → Biotechnology → Ecology. NCERT's applied turn: human reproduction and reproductive health are full chapters, food-production enhancement and microbes-in-welfare get their own unit, and the ecology unit closes the two-year course. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/india-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Biomining, biofuels and biogas (§1.4): | Student Textbook, Grade 12 — Printed pp. 24–33. |
+| India's way — Ch. 10: microbes in energy production (biogas) and biocontrol (placement slug: biomining-biofuels-and-biogas) | Book 2 (Biology — Textbook for Class XII, student textbook, Grade 12), Ch. 10, printed pp. 179–190 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, India).**
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, biomining, biofuels, and, biogas
+Honesty (India): Book 2 is a student textbook as verified in the placements — *Biology — Textbook for Class XII* (NCERT, 2020-21 edition), Grade 12 — so India counts toward acceptance. It is COMPLETE: all 16 chapters in Units VI–X present per the Contents, through Environmental Issues (printed p. 270); 296 PDF pages; page references are printed chapter-start pages from the Contents (body printed pp. 1–286). The Class XII volume was recorded twice in the library records (the placements file's 4 target records dedupe to 2 distinct books — each NCERT volume recorded twice, a TSV release record + a books.json record); it is one distinct book, taught once and cited once here. India's own way runs through the whole book and is content in this lesson: NCERT's applied turn — human reproduction and reproductive health as full chapters, food-production enhancement and microbes in human welfare with their own unit, and the ecology unit closing the two-year course.
+
+Searchable tags: biology, ethiopia, biomining, biofuels, and, biogas, india
