@@ -1113,6 +1113,10 @@ solar-system comparison lessons.
 
 395. **Reproduction in earthworm and garden snail** (`biology/reproduction-in-earthworm-and-garden-snail`) — two hermaphrodites that still cross-fertilise: earthworms exchanging sperm at the clitellum with fertilisation inside the slipped-off cocoon; snails exchanging sperm and laying egg batches in the soil (Nigeria, Grade 10 — *Senior Secondary Biology 1* (Learn Africa Plc, Third edition 2013), student textbook)
 
+396. **Plant and animal tissues** (`biology/plant-and-animal-tissues`) — a tissue is a group of similar cells doing one job together: Yemen's Grade 11 book teaches the animal tissues — epithelial (printed p. 25), connective (p. 31), muscular (p. 39), nervous (p. 42) — then the plant tissues, permanent (p. 45) and compound permanent, the vascular tissues (p. 49), and its activities book keys six microscope practicals to the same ground (Yemen, Grade 11 — *علم الأحياء وعلم الأرض — للصف الثاني الثانوي* (Biology and Earth Science, Second Secondary), student textbook, Unit 2, printed pp. 25–49; *الأنشطة والتجارب العملية* (Activities and Practical Experiments), student activities/practical book, Activities 3–8, printed pp. 12–27)
+
+397. **Noise and radiation pollution** (`biology/noise-and-radiation-pollution`) — pollution the eye cannot see in air or water: noise pollution (التلوث الضوضائي, printed p. 173) and radiation pollution (التلوث الإشعاعي, printed p. 176) taught as named pollution kinds of their own, beside food pollutants (p. 178) and soil pollution (p. 180) (Yemen, Grade 12 — *علم الأحياء وعلم الأرض — للصف الثالث الثانوي* (Biology and Earth Science, Third Secondary), student textbook, Unit 7, printed pp. 173–180)
+
 ## Unit 18 — Physics
 
 1. **A current makes a magnetic field** (`physics/a-current-makes-a-magnetic-field`) — current creates magnetism — A compass needle turns beside a current-carrying wire: current makes a circular magnetic field (B = μ₀I/2πr for a long straight wire), quantified by …
