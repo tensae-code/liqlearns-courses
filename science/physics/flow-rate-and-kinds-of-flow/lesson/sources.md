@@ -1,6 +1,6 @@
 # Sources — Flow rate and kinds of flow
 
-countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, Uzbekistan, India
+countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, Uzbekistan, India, Mozambique
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -20,11 +20,14 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, U
 
 **Book 9:** *Physics Part–II, Textbook for Class XI, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. ISBN 81-7450-566-0 (Part II). Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-ii.pdf · Source of record: https://archive.org/details/ncert-keph2. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World in Part I, later chapters +1; this Part II is numbered Ch. 9–15 in the older printing) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 10:** *MÓDULO 5 — FÍSICA — Hidrodinâmica / Gases e Termodinâmica* (student module) — Ministério da Educação e Cultura — Instituto de Desenvolvimento da Educação (INDE), Mozambique; distance-education (PESD) self-study module. Title as printed: MÓDULO 5 — FÍSICA — Hidrodinâmica / Gases e Termodinâmica. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica5-2o-Ciclo.pdf. Recorded byte size: 477,610 (books.json / reading-targets) — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination runs 1–~68 (Teste p. 60, Soluções p. 63 to end). Offset: printed p. 1 follows 3 unnumbered front pages (cover, title, contents) — printed N ≈ PDF N+3, inferred from sequence, not pdfinfo-verified. Verdict: COMPLETE (full text read through the end-of-module test and printed solutions). Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json — the same file the repo copy was collected from; identity verified from its own title page and table of contents. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); PDF page counts and printed↔PDF offsets are inferred from the printed pagination sequence and flagged as not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Fluid flow — steady, turbulent, and flow rate | Grade 12 Student Textbook, printed pp. 103–104 |
 | §§4.8–4.9 — the continuity equation (p. 102) and Bernoulli's principle (p. 104) | Sri Lanka, *Science for Technology: Physics Part II*, printed pp. 102–104 |
 | Ch. 12 Fluid Dynamics and Its Biological and Medical Applications (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 12 Fluid Dynamics, printed p. 525 — flow, Bernoulli, and the biological/medical applications |
+| Lição 1 Hidrodinâmica – Vazão Volúmica (Mozambique, PESD II Módulo 5) | Mozambique, *Módulo 5 — Física — Hidrodinâmica / Gases e Termodinâmica (PESD II, 2º Ciclo)*, Lição 1 Hidrodinâmica – Vazão Volúmica (volumetric flow rate, Q = V/Δt = A·v), opening with taps, river flow and dam discharge as the everyday frame — printed p. 5 |
 
 | Fluid Flow (Uganda, Senior Three home-study) | Uganda, *Physics Home-Study Learning — Senior Three (NCDC, 2020)*, Fluid Flow — PDF p. 33 |
 
@@ -34,6 +37,6 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, U
 | Ch. II, Tema 25: forces on a body moving in liquid/gas: laminar vs turbulent flow, dynamic pressure, the two-paper-sheets experiment, kite and wing lift (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. II, Tema 25: forces on a body moving in liquid/gas: laminar vs turbulent flow, dynamic pressure, the two-paper-sheets experiment, kite and wing lift — printed p. 61 |
 | Ch. 9 — viscosity and surface tension close the chapter (India, Class XI) | India, *Physics Part–II, Textbook for Class XI, NCERT*, Ch. 9 — viscosity and surface tension close the chapter |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, Uzbekistan, India).**
+**Acceptance count: taught in 10 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, Uzbekistan, India, Mozambique).**
 
-Searchable tags: physics, grade 12, fluid mechanics, flow rate and kinds of flow, laminar, sri lanka, united states, uganda, kenya, cambodia, egypt
+Searchable tags: physics, grade 12, fluid mechanics, flow rate and kinds of flow, laminar, sri lanka, united states, uganda, kenya, cambodia, egypt, mozambique

@@ -1,6 +1,6 @@
 # Sources — Fusion — joining light nuclei
 
-countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos, Vietnam, South Sudan
+countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos, Vietnam, South Sudan, Mozambique
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, 
 
 **Book 14:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 15:** *MÓDULO 4 — FÍSICA — Radiação do Corpo Negro / Física Atómica e Nuclear* (student module) — Ministério da Educação e Cultura — INDE, Mozambique (PESD distance education). Title as printed: MÓDULO 4 — FÍSICA — Radiação do Corpo Negro / Física Atómica e Nuclear. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica4-2o-Ciclo.pdf. Route used (retry reader, 2026-11-12): pusher-token GitHub Contents API raw download of the secured repo file itself — 1,032,501 bytes, EXACT match to the record; pdfinfo 185 pages. Offset: printed p. = PDF p. − 3 (Lição 1 printed p. 5 = PDF p. 8); printed pagination runs 1–159+ (Teste p. 156, Soluções p. 159) with solutions running to PDF p. 185. Verdict: COMPLETE (full text read cover to the last solutions page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Nuclear fusion and power production | Grade 11 Student Textbook, printed pp. 322–326 |
@@ -37,6 +39,7 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, 
 | Bab 9, Subbab F Reaksi Inti (Fisi dan Fusi) (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab F Reaksi Inti (Fisi dan Fusi) — guide p. 205 |
 | Unit 4, Ch. 2, lesson 2-3 "Nuclear Fission and Fusion" (second part) — fusion (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 131 |
 | Part X, Lesson 29 Nuclear Reactions (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part X, Lesson 29 Nuclear Reactions — printed p. 274 |
+| Lição 23 Fusão Nuclear – Reacção em Cadeia (Mozambique, PESD II Módulo 4) | Mozambique, *Módulo 4 — Física — Radiação do Corpo Negro / Física Atómica e Nuclear (PESD II, 2º Ciclo)*, Lição 23 Fusão Nuclear – Reacção em Cadeia — fusion taught together with the chain reaction in the closing lesson — printed p. 150 |
 
 | Ch 10: nuclear fusion (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 10: nuclear fusion — printed p. 184 |
 | L37 Nuclear synthesis (fusion) (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L37 Nuclear synthesis (fusion) — printed p. 196 |
@@ -50,8 +53,8 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, 
 
 | Topic 10: nuclear fusion (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 10: nuclear fusion — printed p. 310 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos, Vietnam, South Sudan).**
+**Acceptance count: taught in 15 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos, Vietnam, South Sudan, Mozambique).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, fusion — joining light nuclei, isotope, kenya, iran, north macedonia, laos, south sudan
+Searchable tags: physics, grade 11, nuclear physics, fusion — joining light nuclei, isotope, kenya, iran, north macedonia, laos, south sudan, mozambique

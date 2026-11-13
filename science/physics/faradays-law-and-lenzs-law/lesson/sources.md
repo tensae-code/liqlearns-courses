@@ -1,6 +1,6 @@
 # Sources — Faraday's law; Lenz's law
 
-countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam, South Sudan
+countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam, South Sudan, Mozambique
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -37,6 +37,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 16:** *Physics Secondary 4 — Teacher's Guide* (teacher's guide) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Teacher's guide · Repo path: grade-12/gov/south-sudan/physics/teacher/full-year.pdf (release asset: mid-size-books-2). Bytes: 6,084,056 (release index size = downloaded) · PDF pages: 131 · Offset: printed p. 1 ≈ PDF p. 6 (printed = PDF − 5). Verdict: COMPLETE — Part 1 introduction + topic-to-topic guide for all 7 units / 10 topics, Topic 10 at printed p. 114. Read method: image-only PDF — read via 100-DPI 4-up sheets. Its rows below are the guide's teaching-way layer over the student topics; South Sudan is counted in this lesson through the companion Student's Book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 17:** *MÓDULO 3 — FÍSICA — Electrostática, Corrente Eléctrica e Electromagnetismo* (student module) — Ministério da Educação e Cultura — INDE, Mozambique (PESD distance education). Title as printed: MÓDULO 3 — FÍSICA — Electrostática, Corrente Eléctrica e Electromagnetismo. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica3-2o-Ciclo.pdf. Recorded byte size: 707,784 — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination runs 1–~95 (Teste p. 87, answer keys p. 89 to end). Offset: printed p. 1 follows 3 unnumbered front pages — printed N ≈ PDF N+3, inferred, not pdfinfo-verified. Verdict: COMPLETE (full text read through the final test and correction keys). Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json — the same file the repo copy was collected from; identity verified from its own title page and table of contents. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); PDF page counts and printed↔PDF offsets are inferred from the printed pagination sequence and flagged as not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Faraday's law — emf from changing flux | Grade 12 Student Textbook, printed pp. 129–130 |
@@ -48,6 +50,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Ch.2 Electromagnetic induction (opener §§: magnetism intro; effect of electric and magnetic fields on charged particles; flux, Faraday and Lenz in the chapter body) (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.2 Electromagnetic induction (opener §§: magnetism intro; effect of electric and magnetic fields on charged particles; flux, Faraday and Lenz in the chapter body) — printed p. 45 |
 | L13 Electromagnetic induction; Faraday's law (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L13 Electromagnetic induction; Faraday's law — printed p. 77 |
 | Part V, Lesson 15 Electromagnetic Induction — Faraday and Lenz both named in the body (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part V, Lesson 15 Electromagnetic Induction — printed p. 120 |
+| Lição 12 A Indução Electromagnética – Leis de Faraday (Mozambique, PESD II Módulo 3) | Mozambique, *Módulo 3 — Física — Electrostática, Corrente Eléctrica e Electromagnetismo (PESD II, 2º Ciclo)*, Lição 12 A Indução Electromagnética – Leis de Faraday — printed p. 80 |
 
 | §33 Magnetic flux; electromagnetic induction; Lenz's rule; §34 The law of electromagnetic induction, the vortex electric field (printed p. 237) (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §33 Magnetic flux; electromagnetic induction; Lenz's rule; §34 The law of electromagnetic induction, the vortex electric field (printed p. 237) — printed p. 232 |
 
@@ -59,6 +62,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Topic 7: the laws of electromagnetic induction (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 7: the laws of electromagnetic induction — printed p. 198 |
 | Topic 7 Electromagnetic induction (guide) (South Sudan, Secondary 4 (Grade 12) — teacher's guide) | South Sudan, *Physics Secondary 4 — Teacher's Guide*, Topic 7 Electromagnetic induction (guide) — printed p. 89 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam, South Sudan).**
+**Acceptance count: taught in 15 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam, South Sudan, Mozambique).**
 
-Searchable tags: physics, grade 12, electromagnetism, faraday's law; lenz's law, energy, flux, iraq, iran, laos, south sudan
+Searchable tags: physics, grade 12, electromagnetism, faraday's law; lenz's law, energy, flux, iraq, iran, laos, south sudan, mozambique

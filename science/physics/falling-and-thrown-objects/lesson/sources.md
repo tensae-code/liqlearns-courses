@@ -1,6 +1,6 @@
 # Sources — Falling and thrown objects
 
-countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos
+countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos, Mozambique
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos
 
 **Book 7:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5* (student textbook) — Laos, MoES / RIES (ສ.ວ.ສ.), 2014 printing (imprint in file). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5. Grade: 10 (ມ.5) · Student book · Record: 2,849,732 bytes, 213 pages · Repo path: grade-10/gov/laos/physics/student/laos-g10-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m5/m5_physics.pdf (recorded source_url). Offset: printed page = the book's own lesson-start pages from its table of contents; front matter is unnumbered, so PDF page ≈ printed page + ~5 in the opening lessons. Verdict: COMPLETE for structure and placements — the book's own TOC (7 parts, 28 lessons, printed pages legible in the fetched text) was read, Part I's body was read (mechanics of motion, reference systems, the 24,000 km/h satellite example, vectors x′ox axes work), and lesson titles were taken from the bilingual TOC of the current RIES teacher guide for the same course, whose part/lesson sequence matches this book's TOC one-for-one. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
 
+**Book 8:** *MÓDULO 1 — FÍSICA — Mecânica – Cinemática* (student module) — Ministério da Educação e Cultura — Instituto de Desenvolvimento da Educação (INDE), Mozambique; distance-education (PESD) self-study module. Title as printed: MÓDULO 1 — FÍSICA — Mecânica – Cinemática. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica1-2o-Ciclo.pdf. Route used (retry reader, 2026-11-12): pusher-token GitHub Contents API raw download of the secured repo file itself — 1,189,737 bytes, EXACT match to the record; pdfinfo 143 pages. Offset: printed p. = PDF p. − 3 (printed “Acerca deste Módulo” p. 1 = PDF p. 4; Lição 1 printed p. 5 = PDF p. 8); printed pagination runs 1–114 (Teste p. 111, Soluções p. 114) with the solutions running to PDF p. 143. Verdict: COMPLETE (full text read cover to the last solutions page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Vertical motion and free fall | Grade 11 Student Textbook, printed pp. 70–74 |
@@ -25,11 +27,12 @@ countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos
 | Ch. 2 Force and Motion I, §2.3 Free Fall Motion (Malaysia) | Malaysia, *Physics Form 4*, Ch. 2, §2.3 Free Fall Motion — printed p. 46 |
 | Ch 3: motion under the acceleration of gravity (Sudan) | Sudan, *Physics — First Secondary Year*, printed p. 30 |
 | Part III, Lesson 11 Vertical Motion (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part III, Lesson 11 Vertical Motion — printed p. 86 |
+| Lição 15 Queda Livre (Mozambique, PESD II Módulo 1) | Mozambique, *Módulo 1 — Física — Mecânica – Cinemática (PESD II, 2º Ciclo)*, Lição 15 Queda Livre — printed p. 85 |
 
 | §24 Motion of a body under gravity (Belarus, Grade 9) | Belarus, *Фізіка. 9 клас (пад рэд. А. А. Сакольскага)*, §24 Motion of a body under gravity — printed p. 124 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos).**
+**Acceptance count: taught in 8 countries (Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos, Mozambique).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, falling and thrown objects, acceleration, ecuador, nicaragua, laos
+Searchable tags: physics, grade 11, motion in one and two dimensions, falling and thrown objects, acceleration, ecuador, nicaragua, laos, mozambique

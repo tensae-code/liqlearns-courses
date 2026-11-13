@@ -1,6 +1,6 @@
 # Sources — Electromagnets — a magnet you switch on
 
-countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova
+countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova
 
 **Book 7:** *Fizică: Manual pentru clasa a VIII-a (Physics: Textbook for Grade 8)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Ion Botgros, Viorel Bocancea & Vladimir Donici; Editura Cartier (Chișinău), 2024; approved by ministerial order nr. 367 of 25 March 2024, curriculum order nr. 1381 of 30 October 2019. Grade 8 · Student book · Repo path: grade-08/gov/moldova/physics/student/moldova-g08-physics.pdf (release copy: releases/download/mid-size-books-8/grade-08-gov-moldova-physics-student-moldova-g08-physics.pdf). Byte size: 18,560,422 (exact match with the record — re-obtained from the ministry source, eduresurse.gov.md, after the first reader's scratch copy proved corrupt: 13,105,557 bytes, broken cross-reference table, unreadable). PDF pages: 104 (record: 104). Offset: printed p. = PDF p. (printed p. 10 is PDF p. 10). Verdict: COMPLETE read (full text layer, all 104 pages; contents read in full, chapter summaries and interiors read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 8:** *MÓDULO 3 — FÍSICA — Electrostática, Corrente Eléctrica e Electromagnetismo* (student module) — Ministério da Educação e Cultura — INDE, Mozambique (PESD distance education). Title as printed: MÓDULO 3 — FÍSICA — Electrostática, Corrente Eléctrica e Electromagnetismo. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica3-2o-Ciclo.pdf. Recorded byte size: 707,784 — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination runs 1–~95 (Teste p. 87, answer keys p. 89 to end). Offset: printed p. 1 follows 3 unnumbered front pages — printed N ≈ PDF N+3, inferred, not pdfinfo-verified. Verdict: COMPLETE (full text read through the final test and correction keys). Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json — the same file the repo copy was collected from; identity verified from its own title page and table of contents. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); PDF page counts and printed↔PDF offsets are inferred from the printed pagination sequence and flagged as not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Current makes a field: the compass swings, settles, reverses (Activity 7.38); more current and coiling strengthen the field | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 224–225 (student placement 69) |
@@ -26,9 +28,10 @@ countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova
 | Ch. III, Temas 33–34: electromagnets and their uses; lab: build and test the simplest electromagnet (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. III, Temas 33–34: electromagnets and their uses; lab: build and test the simplest electromagnet — printed pp. 82–84 |
 | Theme 3 §3.12: the electromagnet (with the current-and-field lesson) (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 3 §3.12: the electromagnet (with the current-and-field lesson) — printed p. 157 |
 | Ch. IV §4.2: electromagnets and their applications (Moldova, Grade 8) | Moldova, *Fizică: Manual pentru clasa a VIII-a (Physics: Textbook for Grade 8)*, Ch. IV §4.2: electromagnets and their applications — printed p. 84 |
+| Lição 8 Aplicações do Electroíman (Mozambique, PESD II Módulo 3) | Mozambique, *Módulo 3 — Física — Electrostática, Corrente Eléctrica e Electromagnetismo (PESD II, 2º Ciclo)*, Lição 8 Aplicações do Electroíman — printed p. 58 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova).**
+**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique).**
 
 Summary-claim guard: the Unit 7 summary (printed pp. 228–230) states things no section teaches — including direction claims around electron current — and none of that un-taught summary material is carried into this lesson; the lesson teaches only §7.5.3's own content, as the placements direct.
 
-Searchable tags: electromagnet, current makes magnetism, coil, iron core, compass needle, switchable magnet, Ethiopia Grade 8 General Science Unit 7, north macedonia
+Searchable tags: electromagnet, current makes magnetism, coil, iron core, compass needle, switchable magnet, Ethiopia Grade 8 General Science Unit 7, north macedonia, mozambique

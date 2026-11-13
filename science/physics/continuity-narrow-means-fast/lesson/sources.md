@@ -1,6 +1,6 @@
 # Sources — Continuity — narrow means fast
 
-countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran
+countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran, Mozambique
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -27,11 +27,14 @@ countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 12:** *MÓDULO 5 — FÍSICA — Hidrodinâmica / Gases e Termodinâmica* (student module) — Ministério da Educação e Cultura — Instituto de Desenvolvimento da Educação (INDE), Mozambique; distance-education (PESD) self-study module. Title as printed: MÓDULO 5 — FÍSICA — Hidrodinâmica / Gases e Termodinâmica. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica5-2o-Ciclo.pdf. Recorded byte size: 477,610 (books.json / reading-targets) — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination runs 1–~68 (Teste p. 60, Soluções p. 63 to end). Offset: printed p. 1 follows 3 unnumbered front pages (cover, title, contents) — printed N ≈ PDF N+3, inferred from sequence, not pdfinfo-verified. Verdict: COMPLETE (full text read through the end-of-module test and printed solutions). Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json — the same file the repo copy was collected from; identity verified from its own title page and table of contents. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); PDF page counts and printed↔PDF offsets are inferred from the printed pagination sequence and flagged as not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The equation of continuity | Grade 12 Student Textbook, printed pp. 105–106 |
 | Fluid mechanics — flow and Bernoulli (Italy) | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, Ch.8 Fluid mechanics: steady flow of a fluid; Bernoulli's equation (printed p. 319) and its applications (p. 321); friction in fluids (p. 323) — printed p. 315 |
 | Unit 4: Bernoulli's rule, placed inside the energy unit per the edition preface (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. ~150 |
+| Lição 2 Fluído Ideal – Equação de Continuidade (Mozambique, PESD II Módulo 5) | Mozambique, *Módulo 5 — Física — Hidrodinâmica / Gases e Termodinâmica (PESD II, 2º Ciclo)*, Lição 2 Fluído Ideal – Equação de Continuidade (viscosity, ideal fluid, A1v1 = A2v2), with the hose-squeezing demonstration as the lead example — printed p. 10 |
 
 | Fluid Flow (continuity/Bernoulli strand) (Uganda, Senior Three home-study) | Uganda, *Physics Home-Study Learning — Senior Three (NCDC, 2020)*, Fluid Flow — PDF p. 33 |
 
@@ -43,6 +46,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Ch. 9 — streamline flow and the equation of continuity (India, Class XI) | India, *Physics Part–II, Textbook for Class XI, NCERT*, Ch. 9 — streamline flow and the equation of continuity |
 | §2-5, Fluid in motion and Bernoulli's principle — continuity as Bernoulli's companion (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §2-5 — printed p. 43 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran).**
+**Acceptance count: taught in 11 countries (Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran, Mozambique).**
 
-Searchable tags: physics, grade 12, fluid mechanics, continuity — narrow means fast, incompressible, uganda, kenya, cambodia, egypt, iran
+Searchable tags: physics, grade 12, fluid mechanics, continuity — narrow means fast, incompressible, uganda, kenya, cambodia, egypt, iran, mozambique

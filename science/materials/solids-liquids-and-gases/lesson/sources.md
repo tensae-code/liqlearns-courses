@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, M
 
 **Book 19:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 20:** *FÍSICA — MÓDULO 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student module) — República de Moçambique, Ministério da Educação e Desenvolvimento Humano — Instituto de Educação Aberta e à Distância (IEDA), 2023 edition (minister's foreword dated January 2024). Title as printed: FÍSICA — MÓDULO 1 (PESD I, 1º Ciclo). Grade: grade-07 filing (1º ciclo, grades 7–9, taught as one cycle with a 9th-grade exit exam) · Kind: student · Repo path: grade-07/gov/mozambique/fisica/student/Modulo-1-de-Fisica.pdf. Recorded byte size: 8,973,843 — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination (footer “Módulo 1 de Física, Página N | IEDA-2023”) runs to p. 110 (bibliography). Offset: unnumbered front matter precedes printed p. 1; TOC pagination used throughout — offset inferred, not pdfinfo-verified. Verdict: COMPLETE (index and full text read through the preparation test, correction key and bibliography). Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json — the same file the repo copy was collected from; identity verified from its own title page and table of contents. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); PDF page counts and printed↔PDF offsets are inferred from the printed pagination sequence and flagged as not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Solids keep their shape | Ethiopia, *Grade 3 Student Textbook*, Chapter 2, solids, printed p. 28 |
@@ -40,6 +42,7 @@ countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, M
 | Changes that make nothing new (teacher guide — evidence) | Ethiopia, *Grade 3 Teacher Guide (Addis Ababa Bureau)*, §2.4, exercise answers on boiling and change of state (teacher guide — evidence), printed pp. 36–40 |
 | Heat and internal energy: Zgradba trdnin, kapljevin in plinov (Structure of solids, liquids and gases) (Slovenia) | Slovenia, *Fizika 9*, Heat and internal energy: Zgradba trdnin, kapljevin in plinov (Structure of solids, liquids and gases) — printed p. 98 (unit folder 182) |
 | Ch. III §§3.1, 3.3 (*): structure and general properties of liquids; solids — crystalline substances, amorphous substances, liquid crystals (Moldova, Grade 11) | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. III §§3.1, 3.3 (*): structure and general properties of liquids; solids — crystalline substances, amorphous substances, liquid crystals — printed pp. 91, 101–104 |
+| Lição 3 Estados Físicos da Matéria (Mozambique, PESD I Módulo 1) | Mozambique, *Física — Módulo 1 (PESD I, 1º Ciclo)*, Lição 3 Estados Físicos da Matéria — printed p. 25 |
 
 | Boiling, melting and the candle — the Grade 4 depth | Ethiopia, *Grade 4 Student Textbook*, §2.5, printed pp. 53–56 |
 | Boiling, melting and the candle — the Grade 4 depth (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, §2.3, printed pp. 58–61 |
@@ -51,7 +54,7 @@ countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, M
 | Ch. I, Tema 9: molecular structure of solids, liquids and gases (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. I, Tema 9: molecular structure of solids, liquids and gases — printed p. 20 |
 | Ch. I, Tema 15: crystalline and amorphous bodies (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. I, Tema 15: crystalline and amorphous bodies — printed p. 39 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova).**
+**Acceptance count: taught in 8 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique).**
 
 Honesty: this teacher's guide scan is TRUNCATED mid-unit — printed pp. 1–66 held, stopping inside subtopic 3.3; the rest of Unit 3 and Units 4–5 are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
@@ -59,7 +62,7 @@ Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp
 
 Grade 6 extension (2026-11-12): the Grade 6 student book is COMPLETE (printed pp. 1–177).
 
-Searchable tags: solids liquids gases, states of matter, physical change, ice water vapour, boiling point, melting point, candle melting, iraq, north macedonia
+Searchable tags: solids liquids gases, states of matter, physical change, ice water vapour, boiling point, melting point, candle melting, iraq, north macedonia, mozambique
 
 ## Grade 7 growth (2026-11-12, Band GS-B)
 

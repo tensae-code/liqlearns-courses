@@ -1,6 +1,6 @@
 # Sources — Solving problems with Newton's laws
 
-countries: Ethiopia, Cambodia, Afghanistan, Bhutan, Moldova, Vietnam
+countries: Ethiopia, Cambodia, Afghanistan, Bhutan, Moldova, Vietnam, Mozambique
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -14,16 +14,19 @@ countries: Ethiopia, Cambodia, Afghanistan, Bhutan, Moldova, Vietnam
 
 **Book 6:** *Vật lí 10 (Physics 10) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student book · 4th reprint (Tái bản lần thứ tư) · Authors: Vũ Văn Hùng (editor-in-chief), Bùi Gia Thịnh (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-full-year.pdf). Byte size: 26,833,128 (matches record). PDF pages: 142 (record 142). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover, title page, full TOC and interior chapters verified against TOC). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 7:** *MÓDULO 2 — FÍSICA — Mecânica – Estática e Dinâmica* (student module) — Ministério da Educação e Cultura — INDE, Mozambique (PESD distance education). Title as printed: MÓDULO 2 — FÍSICA — Mecânica – Estática e Dinâmica. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica2-2o-Ciclo.pdf. Recorded byte size: 679,317 — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination runs 1–~97 (Teste p. 90, Soluções p. 91 to end). Offset: printed p. 1 follows the unnumbered cover/title pages and the roman-numeral contents (ii) — printed N ≈ PDF N+3, inferred, not pdfinfo-verified. Verdict: COMPLETE (full text read through the final test and solutions). Book quirk carried: the running header of Lesson 3 repeats Lesson 2's title although Lesson 3's own title page reads Condição de Equilíbrio de Translação. Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json — the same file the repo copy was collected from; identity verified from its own title page and table of contents. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); PDF page counts and printed↔PDF offsets are inferred from the printed pagination sequence and flagged as not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Applying Newton's laws — problem routine | Grade 11 Student Textbook, printed pp. 108–115 |
 | Ch. 1 Lesson 2: dynamics under Newton's laws (Cambodia, Grade 11) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១១ (Physics, Grade 11)*, Ch. 1 Lesson 2 — printed p. 14 |
 | Ch. 4 Newton's Laws of Motion — the three laws and applying them (Afghanistan, Grade 11) | Afghanistan, *فیزیک — صنف یازدهم (Physics — Grade 11)*, Ch. 4 Newton's Laws of Motion — printed p. 100 — first law p. 100, second law p. 102, third law p. 103, applying Newton's laws p. 107 |
 | Ch. II §2.7 (optional): motion of bodies under the action of several forces (Moldova, Grade 10) | Moldova, *Fizica, clasa a X-a (Physics, Grade 10)*, Ch. II §2.7 (optional): motion of bodies under the action of several forces — printed p. 72 |
+| Lição 7 Dinâmica – Leis de Newton, aplicações (Mozambique, PESD II Módulo 2) | Mozambique, *Módulo 2 — Física — Mecânica – Estática e Dinâmica (PESD II, 2º Ciclo)*, Lição 7 Dinâmica – Leis de Newton (applications: connected bodies, friction, tension) — printed p. 40 |
 
 | Ch. 5 Force and Motion—I — printed p. 94 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 5 Force and Motion—I — printed p. 94 |
 | Bài 20 — Examples of solving dynamics problems (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 20, Examples of solving dynamics problems: a whole lesson of worked dynamics examples — printed p. 80 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Afghanistan, Bhutan, Moldova, Vietnam).**
+**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Afghanistan, Bhutan, Moldova, Vietnam, Mozambique).**
 
-Searchable tags: physics, grade 11, dynamics, solving problems with newton's laws, work, cambodia
+Searchable tags: physics, grade 11, dynamics, solving problems with newton's laws, work, cambodia, mozambique

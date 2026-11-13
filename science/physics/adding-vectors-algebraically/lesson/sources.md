@@ -1,6 +1,6 @@
 # Sources — Adding vectors algebraically
 
-countries: Ethiopia, Palestine, Sudan, United States, Kuwait
+countries: Ethiopia, Palestine, Sudan, United States, Kuwait, Mozambique
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Palestine, Sudan, United States, Kuwait
 
 **Book 5:** *الفيزياء، الصف العاشر، الفصل الدراسي الأول (Physics, Grade 10, Term 1 — student book + applications workbook)* — Kuwait. Grade 10, student book + applications (workbook), Term 1. Edition: First edition 2026/2027 (1448H), Ministry of Education, Kuwait. Repo path: grade-10/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 43,688,933 (exact vs record). PDF pages: 134. Offset: PDF page = printed page + 1 (proven: PDF p. 22 carries printed folio 21). Verdict: COMPLETE read (contents + unit/chapter openers + spot content pages; text layer readable). Coverage gap in the secured set, carried on the record: Grade 10 Unit 2 (Matter and its Mechanical Properties) is in neither Grade 10 file. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 6:** *MÓDULO 2 — FÍSICA — Mecânica – Estática e Dinâmica* (student module) — Ministério da Educação e Cultura — INDE, Mozambique (PESD distance education). Title as printed: MÓDULO 2 — FÍSICA — Mecânica – Estática e Dinâmica. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica2-2o-Ciclo.pdf. Recorded byte size: 679,317 — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination runs 1–~97 (Teste p. 90, Soluções p. 91 to end). Offset: printed p. 1 follows the unnumbered cover/title pages and the roman-numeral contents (ii) — printed N ≈ PDF N+3, inferred, not pdfinfo-verified. Verdict: COMPLETE (full text read through the final test and solutions). Book quirk carried: the running header of Lesson 3 repeats Lesson 2's title although Lesson 3's own title page reads Condição de Equilíbrio de Translação. Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json — the same file the repo copy was collected from; identity verified from its own title page and table of contents. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); PDF page counts and printed↔PDF offsets are inferred from the printed pagination sequence and flagged as not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Algebraic addition and subtraction in two dimensions | Grade 11 Student Textbook, printed pp. 36–42 |
@@ -19,7 +21,8 @@ countries: Ethiopia, Palestine, Sudan, United States, Kuwait
 | Unit 1: parallelogram rule and vector equations (Sudan) | Sudan, *Physics — Second Secondary Year*, printed p. ~15 |
 | Ch. 3 Two-Dimensional Kinematics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 3 Two-Dimensional Kinematics — vectors, components, projectile motion (chapter-level placement from the complete contents plus verified chapter content) |
 | Ch. 3, lesson 3-1 "Properties of Vectors" (Kuwait, Grade 10 Term 1) | Kuwait, *Physics, Grade 10, Term 1 (student book + applications workbook)*, printed p. 74 |
+| Lição 1 Composição de Forças (Mozambique, PESD II Módulo 2) | Mozambique, *Módulo 2 — Física — Mecânica – Estática e Dinâmica (PESD II, 2º Ciclo)*, Lição 1 Composição de Forças (resultant by the cosine rule and by Cartesian components) — printed p. 5 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Sudan, United States, Kuwait).**
+**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Sudan, United States, Kuwait, Mozambique).**
 
-Searchable tags: physics, grade 11, vectors, adding vectors algebraically, component, palestine, united states
+Searchable tags: physics, grade 11, vectors, adding vectors algebraically, component, palestine, united states, mozambique

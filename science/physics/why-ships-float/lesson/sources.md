@@ -1,6 +1,6 @@
 # Sources — Why ships float
 
-countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova
+countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -20,11 +20,14 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 8:** *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)* (student textbook) — Moldova, Ministerul Educației, Culturii și Cercetării (Ministry of Education, Culture and Research). Authors: Ion Botgros, Viorel Bocancea, Vladimir Donici, Victor Ciuvaga & Nicolae Constantinov; Ediția a V-a, actualizată și completată (5th edition, updated and completed), Editura Educational, 2020; approved by ministerial order nr. 849 of 24 August 2020, curriculum order nr. 906/2019. Grade 7 · Student book · Repo path: grade-07/gov/moldova/physics/student/moldova-g07-physics.pdf (release copy: releases/download/mid-size-books-8/grade-07-gov-moldova-physics-student-moldova-g07-physics.pdf). Byte size: 15,128,079 (exact match). PDF pages: 146 (record: 146). Offset: printed p. = PDF p. − 2 (contents on printed pp. 4–5 are PDF pp. 6–7). Verdict: COMPLETE read (full text layer, all 146 pages; contents read in full, chapter interiors sampled throughout). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 9:** *FÍSICA — MÓDULO 3 (PESD I, 1º Ciclo)* (student module) — Ministério da Educação e Desenvolvimento Humano — IEDA, Moçambique, 2023 edition. Title as printed: FÍSICA — MÓDULO 3 (PESD I, 1º Ciclo). Grade: grade-07 filing (1º ciclo, grades 7–9) · Kind: student · Repo path: grade-07/gov/mozambique/fisica/student/Modulo-3-de-Fisica.pdf. Recorded byte size: 7,662,581 — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination runs past p. 94 (correction key). Offset: unnumbered front matter precedes printed p. 1; TOC pagination used — inferred, not pdfinfo-verified. Verdict: COMPLETE (index and full text read through the preparation test and correction key). Book quirk carried: the module introduction welcomes the learner to “módulo 4” although the cover and ficha técnica both say Módulo 3 — a misprint inside the book. Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json — the same file the repo copy was collected from; identity verified from its own title page and table of contents. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); PDF page counts and printed↔PDF offsets are inferred from the printed pagination sequence and flagged as not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sinking, floating, and big ships | Grade 12 Student Textbook, printed pp. 98–102 |
 | Also cited — Density, pressure and buoyancy: Vzgon in plavanje (Buoyancy and floating); Plavanje v vodi in zraku (Floating in water and in air) (Slovenia) | Slovenia, *Fizika 8*, Density, pressure and buoyancy: Vzgon in plavanje (Buoyancy and floating) — printed p. 241 (unit folder 164); Plavanje v vodi in zraku (Floating in water and in air) — printed p. 251 (unit folder 165) |
 | Ch. 3 §§3.6–3.7: Archimedes' force, floating bodies; laboratory — density of an unknown liquid using Archimedes' law (Moldova, Grade 7) | Moldova, *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)*, Ch. 3 §§3.6–3.7: Archimedes' force, floating bodies; laboratory — density of an unknown liquid using Archimedes' law — printed pp. 76, 80 |
+| Lição 17 Condições de Flutuação dos Corpos (Mozambique, PESD I Módulo 3) | Mozambique, *Física — Módulo 3 (PESD I, 1º Ciclo)*, Lição 17 Condições de Flutuação dos Corpos — printed p. 85 |
 
 | §38 Sailing of ships; aeronautics (extra reading) (Belarus, Grade 7) | Belarus, *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай)*, §38 Sailing of ships; aeronautics (extra reading) — printed p. 152 |
 
@@ -32,6 +35,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | §2-4, Buoyancy (شناوری) — why ships float (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §2-4 — printed p. 40 |
 | Theme 3 §3.5: floating, sinking and hovering of bodies — the three outcomes of thrust vs weight (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 3 §3.5: floating, sinking and hovering of bodies — the three outcomes of thrust vs weight — printed p. 89 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova).**
+**Acceptance count: taught in 8 countries (Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique).**
 
-Searchable tags: physics, grade 12, fluid mechanics, why ships float, displacement, iran, north macedonia
+Searchable tags: physics, grade 12, fluid mechanics, why ships float, displacement, iran, north macedonia, mozambique

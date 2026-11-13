@@ -1,6 +1,6 @@
 # Sources — Seeing inside the body — X-ray, CT and MRI
 
-countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos, Vietnam
+countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos, Vietnam, Mozambique
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 
 **Book 10:** *Chuyên đề học tập Vật lí 12 (Physics 12 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student study-topics book · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-12/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-study-topics.pdf). Byte size: 13,180,268 (matches record). PDF pages: 71 (record 71). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 11:** *MÓDULO 4 — FÍSICA — Radiação do Corpo Negro / Física Atómica e Nuclear* (student module) — Ministério da Educação e Cultura — INDE, Mozambique (PESD distance education). Title as printed: MÓDULO 4 — FÍSICA — Radiação do Corpo Negro / Física Atómica e Nuclear. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica4-2o-Ciclo.pdf. Route used (retry reader, 2026-11-12): pusher-token GitHub Contents API raw download of the secured repo file itself — 1,032,501 bytes, EXACT match to the record; pdfinfo 185 pages. Offset: printed p. = PDF p. − 3 (Lição 1 printed p. 5 = PDF p. 8); printed pagination runs 1–159+ (Teste p. 156, Soluções p. 159) with solutions running to PDF p. 185. Verdict: COMPLETE (full text read cover to the last solutions page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — X-rays | Grade 12 Student Textbook, printed pp. 12–14 |
@@ -30,6 +32,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 | Ch. 55 — X-rays (honest note: taught in 1968 as laboratory physics, long before the medical-imaging framing of this slug) | Sri Lanka, *Intermediate Physics, Part V: Magnetism and Electricity* (1968), printed p. 516 |
 | Ch. 32 Medical Applications of Nuclear Physics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 32 Medical Applications of Nuclear Physics, printed p. 1521 — imaging, radiation therapy, biological effects |
 | Part IX, Lesson 26 The Hydrogen Atom and X-Rays — the X-ray half of the lesson (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part IX, Lesson 26 The Hydrogen Atom and X-Rays — printed p. 233 |
+| Lição 15 Raios-X (Mozambique, PESD II Módulo 4) | Mozambique, *Módulo 4 — Física — Radiação do Corpo Negro / Física Atómica e Nuclear (PESD II, 2º Ciclo)*, Lição 15 Raios-X — printed p. 97 |
+| Lição 16 Espectro dos Raios-X (Mozambique, PESD II Módulo 4) | Mozambique, *Módulo 4 — Física — Radiação do Corpo Negro / Física Atómica e Nuclear (PESD II, 2º Ciclo)*, Lição 16 Espectro dos Raios-X — the X-ray spectrum (Kα/Kβ peaks) as its own lesson — printed p. 108 |
 
 | Lesson 3: X-Rays and their properties (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Electrons and X-Rays chapter, Lesson 3 — PDF p. 52 |
 
@@ -40,6 +44,6 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 | Bài 6 — X-ray imaging. CT scanning (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 6, X-ray imaging. CT scanning (Chụp cắt lớp) — printed p. 32 |
 | Bài 8 — Magnetic resonance imaging (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 8, Magnetic resonance imaging (Chụp cộng hưởng từ) — printed p. 44 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos, Vietnam).**
+**Acceptance count: taught in 11 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos, Vietnam, Mozambique).**
 
-Searchable tags: physics, grade 12, application of physics in other fields, seeing inside the body — x-ray, ct and mri, magnet, roentgen, sri lanka, united states, uganda, kenya, egypt, north macedonia, laos
+Searchable tags: physics, grade 12, application of physics in other fields, seeing inside the body — x-ray, ct and mri, magnet, roentgen, sri lanka, united states, uganda, kenya, egypt, north macedonia, laos, mozambique

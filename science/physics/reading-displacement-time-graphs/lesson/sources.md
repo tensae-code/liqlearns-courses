@@ -1,6 +1,6 @@
 # Sources — Reading displacement–time graphs
 
-countries: Ethiopia, Indonesia (teacher-guide evidence only), Iran, Vietnam, Libya
+countries: Ethiopia, Indonesia (teacher-guide evidence only), Iran, Vietnam, Libya, Mozambique
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 6:** *الفيزياء كتاب الطالب — Physics, Grade 10 (student book)* (student textbook) — Libya, Centre for Educational Curricula and Pedagogical Research, Ministry of Education; school year 1440–1441 AH / 2019–2020 CE (copyright page). Title as printed: الفيزياء كتاب الطالب — this volume is "Part One: General Physics" (الجزء الأول: الفيزياء العامة) of the Libyan secondary physics series. Grade: 10 · Student book (Arabic medium; unit titles are also printed in English in the book) · Repo path: grade-10/gov/libya/physics/student-book.pdf (TSV route: release asset grade-10-gov-libya-physics-student-book.pdf, mid-size-books-3). Byte size: 8,539,574 (release asset, verified) · PDF pages: 124 · Offset: printed p. ≈ PDF p. for body pages (Unit 1 opens at printed p. 7 = PDF p. 7; front matter is lettered أ، ب، ج). Verdict: COMPLETE — 7 units plus answers (printed p. 114); read from the full printed contents (image sheets) and text layer. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 7:** *MÓDULO 1 — FÍSICA — Mecânica – Cinemática* (student module) — Ministério da Educação e Cultura — Instituto de Desenvolvimento da Educação (INDE), Mozambique; distance-education (PESD) self-study module. Title as printed: MÓDULO 1 — FÍSICA — Mecânica – Cinemática. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica1-2o-Ciclo.pdf. Route used (retry reader, 2026-11-12): pusher-token GitHub Contents API raw download of the secured repo file itself — 1,189,737 bytes, EXACT match to the record; pdfinfo 143 pages. Offset: printed p. = PDF p. − 3 (printed “Acerca deste Módulo” p. 1 = PDF p. 4; Lição 1 printed p. 5 = PDF p. 8); printed pagination runs 1–114 (Teste p. 111, Soluções p. 114) with the solutions running to PDF p. 143. Verdict: COMPLETE (full text read cover to the last solutions page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Displacement–time graphs | Grade 11 Student Textbook, printed pp. 60–63 |
@@ -23,9 +25,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §1-1, Knowing motion — position–time graphs (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §1-1 — printed p. 2 |
 | Bài 7 — Displacement–time graphs (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 7, Displacement–time graphs — printed p. 34 |
 | U2 §2-3: graphical representation of the displacement–time relation (Libya, Grade 10) | Libya, *Physics, Grade 10 (student book — Part One: General Physics)*, U2 §2-3: graphical representation of the displacement–time relation — printed pp. 26–27 |
+| Lição 7 MRU – Gráfico da Posição em Função do Tempo x(t) (Mozambique, PESD II Módulo 1) | Mozambique, *Módulo 1 — Física — Mecânica – Cinemática (PESD II, 2º Ciclo)*, Lição 7 MRU – Gráfico da Posição em Função do Tempo x(t) — printed p. 46 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iran, Vietnam, Libya).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Iran, Vietnam, Libya, Mozambique).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, reading displacement–time graphs, acceleration, iran, libya
+Searchable tags: physics, grade 11, motion in one and two dimensions, reading displacement–time graphs, acceleration, iran, libya, mozambique

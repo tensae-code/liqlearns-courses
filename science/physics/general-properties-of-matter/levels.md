@@ -1,0 +1,4 @@
+# General properties of matter — depth
+
+Whole-lesson pass mark: the learner can do all of these — Every body of matter has mass (how much matter, weighed in kilograms) and volume (the space it takes up); Two bodies can never occupy the same place at the same time (impenetrability) — which is why a stone entering a full glass pushes water out; Matter is divisible into smaller and smaller parts, each still matter; Matter is compressible — gases most, liquids barely, solids least; Matter is elastic — deformed within its limit it returns to its first shape and volume — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

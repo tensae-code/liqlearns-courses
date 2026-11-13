@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -26,11 +26,14 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (tea
 
 **Book 17:** *Physics Secondary 1 — Student's Book* (student textbook) — South Sudan, Republic of South Sudan, Ministry of General Education and Instruction (cover: "Physics 1 cover", Adobe Illustrator 2019 file; funded-not-for-sale ministry book). Grade: Secondary 1 (Grade 9) · Student book · Repo path: grade-09/gov/south-sudan/physics/student/full-year.pdf. Bytes: 15,175,190 (Contents API meta = downloaded bytes) · PDF pages: 275 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — all 5 units / 8 topics present through Topic Test 8 (printed p. 265) plus end matter. South Sudan's own way: every topic ends with a Topic summary, "new words" list and a Topic Test; forces are introduced before pressure, and light is taught plane-surfaces-only at S1. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 18:** *FÍSICA — MÓDULO 4 (PESD I, 1º Ciclo)* (student module) — Ministério da Educação e Desenvolvimento Humano — IEDA, Moçambique, 2023 edition. Title as printed: FÍSICA — MÓDULO 4 (PESD I, 1º Ciclo). Grade: grade-07 filing (1º ciclo, grades 7–9) · Kind: student · Repo path: grade-07/gov/mozambique/fisica/student/Modulo-4-de-Fisica.pdf. Recorded byte size: 8,312,513 — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination runs to p. 153 (bibliography). Offset: unnumbered front matter precedes printed p. 1; TOC pagination used — inferred, not pdfinfo-verified. Verdict: COMPLETE (index and full text read through test, correction key and bibliography). Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json — the same file the repo copy was collected from; identity verified from its own title page and table of contents. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); PDF page counts and printed↔PDF offsets are inferred from the printed pagination sequence and flagged as not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Wall, table, book — and every shadow | Ethiopia, *Grade 2 Student Textbook*, Chapter 2, materials that block light; shadows and shade, printed pp. 23–25 |
 | Also cited — Light: Svetloba — shadows (Slovenia) | Slovenia, *Fizika 8*, Light: Svetloba — propagation of light and shadows — printed p. 24 (unit folder 141) |
 | Unit VI §6.3: shadow and penumbra (Moldova, Grade 6) | Moldova, *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)*, Unit VI §6.3: shadow and penumbra — printed p. 85 |
+| Lição 15 Sombra e Penumbra (Mozambique, PESD I Módulo 4) | Mozambique, *Física — Módulo 4 (PESD I, 1º Ciclo)*, Lição 15 Sombra e Penumbra — printed p. 75 |
 
 | Grade 4 — the shadow experiment: the dark place behind the blocker | Ethiopia, *Grade 4 Student Textbook*, §2.6 (Experiment 5), printed pp. 60–61 |
 | Grade 4 — the shadow experiment: the dark place behind the blocker (teacher guide — evidence) | Ethiopia, *Grade 4 Teacher Guide — SNNP edition*, §2.4, printed pp. 61–63 |
@@ -49,8 +52,8 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (tea
 
 | Topic 5.4: shadows and eclipses (South Sudan, Secondary 1 (Grade 9)) | South Sudan, *Physics Secondary 1 — Student's Book*, Topic 5.4: shadows and eclipses — printed p. 151 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 8 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp. 1–148) and both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies to the Grade 4 rows. Teacher-guide rows are evidence and never count as pupil-taught.
 
-Searchable tags: light blocking, opaque, shadow, shade, ብርሃን ከልካይ, opaque body ብርሃን ከል, Experiment 5, shadow formation, uganda, kenya, north macedonia, south sudan
+Searchable tags: light blocking, opaque, shadow, shade, ብርሃን ከልካይ, opaque body ብርሃን ከል, Experiment 5, shadow formation, uganda, kenya, north macedonia, south sudan, mozambique

@@ -1,6 +1,6 @@
 # Sources — The five motion equations
 
-countries: Ethiopia, Nicaragua, Bhutan
+countries: Ethiopia, Nicaragua, Bhutan, Mozambique
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -8,15 +8,22 @@ countries: Ethiopia, Nicaragua, Bhutan
 
 **Book 3:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
+**Book 4:** *FÍSICA — MÓDULO 1 (PESD I, Programa do Ensino Secundário à Distância – 1º Ciclo)* (student module) — República de Moçambique, Ministério da Educação e Desenvolvimento Humano — Instituto de Educação Aberta e à Distância (IEDA), 2023 edition (minister's foreword dated January 2024). Title as printed: FÍSICA — MÓDULO 1 (PESD I, 1º Ciclo). Grade: grade-07 filing (1º ciclo, grades 7–9, taught as one cycle with a 9th-grade exit exam) · Kind: student · Repo path: grade-07/gov/mozambique/fisica/student/Modulo-1-de-Fisica.pdf. Recorded byte size: 8,973,843 — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination (footer “Módulo 1 de Física, Página N | IEDA-2023”) runs to p. 110 (bibliography). Offset: unnumbered front matter precedes printed p. 1; TOC pagination used throughout — offset inferred, not pdfinfo-verified. Verdict: COMPLETE (index and full text read through the preparation test, correction key and bibliography). Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json — the same file the repo copy was collected from; identity verified from its own title page and table of contents. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); PDF page counts and printed↔PDF offsets are inferred from the printed pagination sequence and flagged as not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
+**Book 5:** *MÓDULO 1 — FÍSICA — Mecânica – Cinemática* (student module) — Ministério da Educação e Cultura — Instituto de Desenvolvimento da Educação (INDE), Mozambique; distance-education (PESD) self-study module. Title as printed: MÓDULO 1 — FÍSICA — Mecânica – Cinemática. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica1-2o-Ciclo.pdf. Route used (retry reader, 2026-11-12): pusher-token GitHub Contents API raw download of the secured repo file itself — 1,189,737 bytes, EXACT match to the record; pdfinfo 143 pages. Offset: printed p. = PDF p. − 3 (printed “Acerca deste Módulo” p. 1 = PDF p. 4; Lição 1 printed p. 5 = PDF p. 8); printed pagination runs 1–114 (Teste p. 111, Soluções p. 114) with the solutions running to PDF p. 143. Verdict: COMPLETE (full text read cover to the last solutions page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The equations of uniformly accelerated motion | Grade 11 Student Textbook, printed pp. 54–59 |
 | MRUV, accelerated and retarded — the equations (Nicaragua) | Nicaragua, *Física — Módulo Autoformativo, Décimo grado*, §1.3 MRUV acelerados y retardados: ecuaciones, printed p. 36 |
+| Lição 12 Leis das Velocidades e dos Espaços no MRUA (Mozambique, PESD I Módulo 1) | Mozambique, *Física — Módulo 1 (PESD I, 1º Ciclo)*, Lição 12 Leis das Velocidades e dos Espaços no Movimento Rectilíneo Uniformemente Acelerado — printed p. 81 |
+| Lição 10 Equação da Velocidade em Função do Tempo de um MRUV (Mozambique, PESD II Módulo 1) | Mozambique, *Módulo 1 — Física — Mecânica – Cinemática (PESD II, 2º Ciclo)*, Lição 10 Equação da Velocidade em Função do Tempo de um MRUV — printed p. 60 |
+| Lição 12 Equação da Posição em Função do Tempo de um MRUV (Mozambique, PESD II Módulo 1) | Mozambique, *Módulo 1 — Física — Mecânica – Cinemática (PESD II, 2º Ciclo)*, Lição 12 Equação da Posição em Função do Tempo de um MRUV — printed p. 69 |
 
 | Ch. 1: equations of linear motion — printed p. 22 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 1: equations of linear motion — printed p. 22 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Nicaragua, Bhutan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Nicaragua, Bhutan, Mozambique).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, the five motion equations, acceleration
+Searchable tags: physics, grade 11, motion in one and two dimensions, the five motion equations, acceleration, mozambique

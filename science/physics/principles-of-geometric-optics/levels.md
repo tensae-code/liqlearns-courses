@@ -1,0 +1,4 @@
+# Principles of geometric optics — independence and reversibility of light rays — depth
+
+Whole-lesson pass mark: the learner can do all of these — Rays cross without disturbing each other: the principle of independence lets every ray in a diagram be traced on its own; A ray sent back along its path retraces it exactly in reverse, at the same angles: the principle of reversibility; Together the principles make ray construction checkable — a path that cannot be travelled backwards is drawn wrong — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.
