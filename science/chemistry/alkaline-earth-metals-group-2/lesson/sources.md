@@ -1,0 +1,19 @@
+# Sources — Alkaline earth metals — group 2
+
+countries: Vietnam
+
+**Book 1:** *Hóa học 12 (Chemistry 12)* (student textbook) — Vietnam. Title as printed: HOÁ HỌC 12 — Kết nối tri thức với cuộc sống, Nhà xuất bản Giáo dục Việt Nam; preface confirms 8 chapters spanning general, organic and inorganic chemistry under the 2018 programme. Grade: 12. Kind as verified: student textbook (matches record). Repo path: grade-12/gov/vietnam/chemistry/student/full-year.pdf (TSV twin: mid-size-books-2 release asset grade-12-gov-vietnam-chemistry-student-full-year.pdf — same book, placed once). Byte size: 26,864,665 (matches the books.json record exactly). PDF pages: 147 (matches record); printed-page offset: printed p. = PDF p. − 1. Verdict: COMPLETE (final chapter review at printed p. 142, followed by end matter within the 147 PDF pages). Reading basis: CONTENTS-LEVEL read of an image-only scan — preface and contents (printed pp. 3–5) read in full on rendered pages and Ch.1 Bài 1 read on its opening page (printed p. 6: esters in nature — jasmine, orange, beeswax formulas — with hydrolysis, fat hydrogenation/oxidation and omega-3/omega-6 in the printed objectives); lesson titles and pages are the book's own — never upgraded to a full-read claim. Structure: 8 chapters — esters and lipids (incl. soap and detergents); carbohydrates; nitrogen compounds (amines, amino acids/peptides, proteins/enzymes); polymers; batteries and electrolysis; introduction to metals; group IA and IIA elements; the first transition series and complex compounds. Records deduped: 12 records = 6 distinct books for Vietnam as a whole — this book is cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Two outer electrons — the family character | Book 1 (Grade 12), Ch.7, Bài 25 Group IIA elements, printed p. 116 |
+| Sub lesson 2 — Reactions — steadier, and stronger down the group | Book 1 (Grade 12), Ch.7, Bài 25 Group IIA elements, printed p. 116 |
+| Sub lesson 3 — The calcium strand — lime, bone and shell | Book 1 (Grade 12), Ch.7, Bài 25 Group IIA elements, printed p. 116 |
+| Ch.7, Bài 25 Group IIA elements (Vietnam, Grade 12) | Book 1 (Grade 12), Ch.7, Bài 25 Group IIA elements, printed p. 116 — the alkaline-earth metals as a group lesson; no existing slug covers them. |
+| Do it first; key ideas; Do It Yourself | Book 1 (Grade 12), Ch.7, Bài 25 Group IIA elements, printed p. 116 |
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Placement choice, on the record: this NEW LESSON was built for the Vietnam placement "NEW LESSON NEEDED: alkaline-earth-metals-group-2 — Ch.7, Bài 25 Group IIA elements — printed p. 116 — the alkaline-earth metals as a group lesson; no existing slug covers them." — vietnam-placements.md. The placements file records for this slug: no existing slug covers the alkaline-earth metals as a group — the family-names lesson names them but does not teach the group; this lesson teaches the group itself. No existing Chemistry lesson covers this thing as its own lesson — checked against the full chemistry tree (385 lessons standing at merge time) — so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Reading basis, carried exactly as filed: Vietnam's books are CONTENTS-LEVEL reads of image-only scans — verified by byte size + pdfinfo + rendered cover, read via the rendered table of contents with chapter openers read on rendered pages — and this lesson's provenance is stated on that basis, not upgraded to a full-read claim. Vietnam's own way — as the placements describe it — IS part of this lesson's content, carried exactly as the placements describe it.
+
+Searchable tags: chemistry, alkaline earth metals, group 2, magnesium, calcium, limewater, Vietnam Grade 12
