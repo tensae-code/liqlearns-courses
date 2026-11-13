@@ -1,14 +1,17 @@
 # Sources — Nonmetals — the opposite set
 
-countries: Ethiopia
+countries: Ethiopia, Mongolia
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
+
+**Book 2:** *Хими VII (Chemistry VII)* (student textbook) — Mongolia. Title as printed: ХИМИ VII, Ministry of Education, Culture, Science and Sports (Боловсрол, соёл, шинжлэх ухаан, спортын яам), Ulaanbaatar, 2019. Grade: Grade 7. Kind: student textbook. Repo path: grade-07/gov/mongolia/mongolia-grade-07-chemistry.pdf (TSV release record mid-size-books, grabbed via grab.py url; the books.json record for the same file is a duplicate — placed once, cited ONCE here). Byte size: 51,529,168 (record gave no size). PDF pages: 99; printed-page offset: printed p. = PDF p. − 1 (contents printed p. 4). Verdict: COMPLETE — image-only full-page scan (all 99 pages are full-page images). Read basis stated plainly: page images — cover, the full contents page, and section pages read directly (§1.1 and §4.2 read in full; other sections placed from the contents structure plus their headed pages). Book ends with appendix: self-assessment answers (p. 94), glossary of terms (p. 95) and a periodic table (p. 96). Structure: Four chapters — (I) States of matter: states and phase transitions taught through particle theory, then diffusion; (II) Properties of materials: chemical elements and compounds, metals and nonmetals, element/compound/mixture; (III) Changes in materials: chemical reactions and word equations, reactions with indicators, practically important reactions; (IV) Chemistry and life: how researchers make discoveries, soil composition and properties (including soil pH), and human impact on the environment. Mongolian framing throughout — e.g. §1.1 opens with a countryside trip and the salt deposit of Sangiin Dalai lake in Uvs aimag to teach pure substances. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/mongolia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Nonmetals | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed pp. 218–220 (section 5.3.1) |
+| §2.2 Metals and nonmetals (Mongolia, Grade 7) | Book 2 (Grade 7), printed p. 35 — Nonmetals as the contrasting set to metals |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Mongolia).**
 
 Book errors taught corrected, named here only: the contents misprints "SOLLUTIONS" for Solutions (Unit 2) and lists Unit 6 sections 6.3 and 6.4 both as aromatic hydrocarbons — in the body 6.3 covers alkenes and alkynes and is taught so; the Unit 3 summary repeats its deliquescent-salt sentence twice — taught once; "Phosphorous" is used throughout for the element phosphorus — taught corrected as phosphorus; several Unit 6 review reaction equations are typeset in garbled layout — the reactions are taught from the section text, where they are recoverable.
 
