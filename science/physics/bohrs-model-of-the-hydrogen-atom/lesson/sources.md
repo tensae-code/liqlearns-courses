@@ -1,6 +1,6 @@
 # Sources — Bohr's model of the hydrogen atom and energy levels
 
-countries: Italy, Bulgaria, Yemen, Afghanistan, Laos, China, Jordan, Greece
+countries: Italy, Bulgaria, Yemen, Afghanistan, Laos, China, Jordan, Greece, Pakistan (Punjab)
 
 **Book 1:** *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti. Grade 12 span (filed Grade 12) · Student book · First edition February 2012 (colophon), with “Physics in English” · Repo: release `mid-size-books-6`, asset `grade-12-gov-italy-physics-student-full-year.pdf` — 27,398,676 bytes (matched asset) · PDF pages: 427 · Offset: placements cite chapter and PDF page (from chapter openers and section headings throughout the text). Verdict: COMPLETE (closes with Ch. 36 on the frontiers of physics — Planck-scale constants and the scientific worldview — and the orientation pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
 
@@ -18,6 +18,9 @@ countries: Italy, Bulgaria, Yemen, Afghanistan, Laos, China, Jordan, Greece
 
 
 **Book 8:** *Φυσική Γενικής Παιδείας Β΄ Γενικού Λυκείου (General-Education Physics, Grade 11)* (student book) — Greece, book code 22-0219-02. Grade: 11 · Student book (general education, "GP") · Repo path: grade-11/gov/greece/physics/full-year.pdf. Byte size: 13,485,215 (exact match) · PDF pages: 210 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 4 summary/questions/problems and closing essay "Determinism and quantum mechanics" to printed ~p. 208). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 9:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.33 Bohr's atom and the first quantum theory — PDF p. 240 |
@@ -32,7 +35,8 @@ countries: Italy, Bulgaria, Yemen, Afghanistan, Laos, China, Jordan, Greece
 | Unit 7 Lesson 2, Bohr's model of the hydrogen atom and the hydrogen spectrum | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 7 Lesson 2, Bohr's model of the hydrogen atom and the hydrogen spectrum — printed p. 119 — the Jordan placements file places this at chemistry/bohrs-model-and-hydrogen-energy-levels; stocked here as the primary Physics home (the expansion's shared Physics lesson for this topic), with an also-cited row in the Chemistry lesson as placed |
 | Ch. 4.1–4.2, Energy of the electron in the hydrogen atom / discrete energy levels | Greece, *General-Education Physics, Grade 11*, Ch. 4.1–4.2, Energy of the electron in the hydrogen atom / discrete energy levels — printed p. 177 — atomic (Bohr) physics inside the general-education book; chemistry Bohr slugs exist but no physics/ equivalent |
 
-**Acceptance count: taught in 8 countries (Italy, Bulgaria, Yemen, Afghanistan, Laos, China, Jordan, Greece).**
+| Ch. 20 §20.1, the hydrogen spectrum and its series (Balmer/Rydberg formula), Bohr's postulates, the hydrogen atom in energy levels, excitation and ionization potentials | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 20 §20.1, the hydrogen spectrum and its series (Balmer/Rydberg formula), Bohr's postulates, the hydrogen atom in energy levels, excitation and ionization potentials — printed p. 202 |
+**Acceptance count: taught in 9 countries (Italy, Bulgaria, Yemen, Afghanistan, Laos, China, Jordan, Greece, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Italy placement “Bohr's model of the hydrogen atom and energy levels” — italy-placements.md, Book 3, Ch.33, PDF p. 240 — the standing Bohr gap. (Chemistry's Bohr lessons treat the model inside chemistry's own sequence; this is the Physics-title lesson, from the Physics book.) It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics) beside the quantum lessons.
 

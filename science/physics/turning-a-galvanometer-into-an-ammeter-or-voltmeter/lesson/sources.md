@@ -1,6 +1,6 @@
 # Sources — Turning a galvanometer into an ammeter or voltmeter
 
-countries: Ethiopia, Uganda, Egypt, Afghanistan, India
+countries: Ethiopia, Uganda, Egypt, Afghanistan, India, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Uganda, Egypt, Afghanistan, India
 
 **Book 5:** *Physics Part–I, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-leph1. Verdict: COMPLETE (contents read in full, chapter and topic level). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 6:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — A shunt makes an ammeter | Grade 11 Student Textbook, printed pp. 255–257 |
@@ -22,7 +24,8 @@ countries: Ethiopia, Uganda, Egypt, Afghanistan, India
 | Ch. 4 — the galvanometer (Afghanistan, Grade 9) | Afghanistan, *فزیک — صنف نهم (Physics — Grade 9)*, Ch. 4 — printed p. 66 — the galvanometer as its own section |
 | Ch. 4 — galvanometer conversion sections (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 4 — galvanometer conversion sections |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Egypt, Afghanistan, India).**
+| Ch. 14, converting a galvanometer into a voltmeter and an ammeter | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 14, converting a galvanometer into a voltmeter and an ammeter — printed p. 56 (Objective 16; Problems 14.8–14.10, printed p. 80) |
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Egypt, Afghanistan, India, Pakistan (Punjab)).**
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

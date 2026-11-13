@@ -1,0 +1,4 @@
+# Weightlessness and artificial gravity in orbit — depth
+
+Whole-lesson pass mark: the learner can do all of these — A satellite is a projectile that never lands: gravity bends its path into orbit while it falls continuously toward the Earth; Mass is unchanged; inertia is unchanged — a heavy tool is as hard to accelerate in orbit as on Earth; Rotate the station and the rim's occupants are carried in a circle; the floor of the rim pushes inward, supplying centripetal force, and that push feels exactly like weight — artificial gravity a = v²/r = ω²r — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

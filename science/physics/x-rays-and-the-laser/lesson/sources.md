@@ -1,6 +1,6 @@
 # Sources — X-rays and the laser
 
-countries: Syria, Iraq, Egypt, Bulgaria, Yemen, Bhutan, Uzbekistan, Iran, Vietnam, China
+countries: Syria, Iraq, Egypt, Bulgaria, Yemen, Bhutan, Uzbekistan, Iran, Vietnam, China, Pakistan (Punjab)
 
 **Book 1:** *الفيزياء للصف الثالث الثانوي العلمي (Physics, Third Secondary, Scientific Track = Grade 12)* (student textbook) — Syria, Ministry of Education; 2025–2026 edition, first printed 2020–2021. Physics-only book. Image-only PDF — read from rendered pages (title, full contents, chapter openers and derivations sampled across the book). Grade: 12 · Student book (scientific track) · Release: full-quality-oversized-books · Asset: grade-12-gov-syria-physics-student-full-year.pdf · Byte size: 248,446,531 (matched asset) · PDF pages: 268 · Offset: printed folio = PDF page for content pages (folios 3–8 verified); the contents page numbers run about 3 higher than the folios at the start of the book, so placements below cite the contents numbers, as printed in the book's own index. Verdict: COMPLETE (contents end with U5 Astronomical physics at contents p. 254; the file runs to 268 pages). Structure: U1 Motion & dynamics; U2 Electricity & magnetism; U3 Standing waves; U4 Electronics & the solid state; U5 Astronomical physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/syria-placements.md.
 
@@ -26,6 +26,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 11:** *普通高中教科书·物理选择性必修 第一册 (Senior High Physics, Selective Compulsory Book 1)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 1 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第一册.pdf. Route: recorded kyohwang raw source; byte size 10,448,338 = recorded exactly. PDF pages: 130. Offset: PDF = printed + 5 (proven: §2.4 pendulum, printed p.46, lands on PDF p.51). Verdict: COMPLETE — chapters 1–4 through research project (p.116) and index (p.121). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 5).
 
+**Book 12:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Syria, *Physics, Third Secondary, Scientific Track (Grade 12)*, U4 X-rays (contents p. 240); laser rays (contents p. 246) — contents p. 240 |
@@ -46,7 +48,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §4-4, Laser (لیزر) — how a laser works and its uses (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §4-4 — printed p. 110 |
 | Bài 5 — X-rays (Tia X) (NEW tag stocked here) (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 5, X-rays (Tia X): how they are produced and their properties — the X-ray strand of this shared lesson (built for Syria's placement) — printed p. 27 |
 
-**Acceptance count: taught in 10 countries (Syria, Iraq, Egypt, Bulgaria, Yemen, Bhutan, Uzbekistan, Iran, Vietnam, China).**
+| Ch. 20, spontaneous and stimulated emission, metastable states and population inversion; the laser principle; the He-Ne gas laser; applications incl. holography | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 20, spontaneous and stimulated emission, metastable states and population inversion; the laser principle; the He-Ne gas laser; applications incl. holography — printed p. 202 (Learning Objectives 8–11) |
+**Acceptance count: taught in 11 countries (Syria, Iraq, Egypt, Bulgaria, Yemen, Bhutan, Uzbekistan, Iran, Vietnam, China, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Syria placement “X-rays and the laser” — syria-placements.md, U4 X-rays (contents p. 240); laser rays (contents p. 246) — contents p. 240. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

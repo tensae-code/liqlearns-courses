@@ -1,6 +1,6 @@
 # Sources — How a transistor controls current
 
-countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova, South Sudan
+countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova, South Sudan, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Mold
 
 **Book 9:** *South Sudan Secondary Physics 3 — Student's Book* (student textbook) — South Sudan, © 2018, The Republic of South Sudan, Ministry of General Education and Instruction (developed by MoGEI with subject experts under the new South Sudan National Curriculum). Grade: Secondary 3 (Grade 11) · Student book · Repo path: grade-11/gov/south-sudan/physics/student/full-year.pdf. Bytes: 47,258,719 (recorded size in books.json; downloaded = recorded, exact match) · PDF pages: 306 · Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 6 units / 8 topics through Topic 8 Bulk properties of solids and fluids, Topic Test 8 at printed p. 297. Read on the retry from the recorded books.json source (CGA Technologies' site; the file is mislabelled "Cover" in its name but is the complete book). Library debt, carried on the record: this book sits in books.json with in_pushed: false and its recorded GitHub tree URL returns 404 — the book was read and placed from its recorded source and still needs pushing library-side. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 10:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How a transistor works — biasing and the current rule | Grade 12 Student Textbook, printed pp. 156–157 |
@@ -34,7 +36,8 @@ countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Mold
 
 | Topic 4: transistors (South Sudan, Secondary 3 (Grade 11)) | South Sudan, *South Sudan Secondary Physics 3 — Student's Book*, Topic 4: transistors — printed p. 143 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova, South Sudan).**
+| Ch. 18, operation of the transistor and its current equation | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 18, operation of the transistor and its current equation — printed p. 154 (Learning Objectives 4–5) |
+**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova, South Sudan, Pakistan (Punjab)).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

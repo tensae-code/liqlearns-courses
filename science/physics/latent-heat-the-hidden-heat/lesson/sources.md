@@ -1,6 +1,6 @@
 # Sources — Latent heat — the hidden heat
 
-countries: Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Morocco (teacher-guide evidence only), Kuwait, Bulgaria, Belarus, Bhutan, Uzbekistan, Iran, Moldova, Vietnam, Libya, South Sudan, Jordan, Mauritania, Greece
+countries: Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Morocco (teacher-guide evidence only), Kuwait, Bulgaria, Belarus, Bhutan, Uzbekistan, Iran, Moldova, Vietnam, Libya, South Sudan, Jordan, Mauritania, Greece, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -51,6 +51,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 
 **Book 24:** *Φυσική Β΄ Γυμνασίου (Physics, Grade 8)* (student book) — Greece, book code 21-0100-02 (cover verso), Diophantos printing files dated 2013–2016. Grade: 8 · Student book · Repo path: grade-08/gov/greece/physics/full-year.pdf. Byte size: 16,175,368 (exact match) · PDF pages: 170 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 8 questions end printed p. 167, colophon + back cover follow). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 25:** *Physics IX* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition. Grade: 9 (Class IX) · Student book · Repo path: grade-09/gov/pakistan/physics/full-year.pdf. Byte size: 37,622,147 (matches the repo tree file size exactly) · PDF pages: 208 · Offset: printed page = PDF page (verified: Unit 2 printed 29 = PDF 29; Unit 9 content printed 206–208 = PDF 206–208). Verdict: COMPLETE as a textbook (Unit 1 opens the book at printed p. 1 and Unit 9's review questions end at printed p. 208), but the scan lacks the cover, title page and any index/front matter. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Latent heat | Grade 11 Student Textbook, printed pp. 197–208 |
@@ -86,6 +89,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Chapitre IV (Mauritania, Grade 12) | Mauritania, *Physique SN — 6ème AS*, Chapitre IV — printed p. 67–78 |
 | Ch. 7.1 | Greece, *Physics, Grade 8 (student book)*, Ch. 7.1 — printed p. 142 — heat absorbed without temperature change during melting/boiling |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Kuwait, Bulgaria, Belarus, Bhutan, Uzbekistan, Iran, Moldova, Vietnam, Libya, South Sudan, Jordan, Mauritania, Greece).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| Unit 8 §§8.5–8.6, latent heat of fusion and of vaporisation | Pakistan (Punjab), *Physics IX*, Unit 8 §§8.5–8.6, latent heat of fusion and of vaporisation — printed p. 177 |
+**Acceptance count: taught in 20 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Kuwait, Bulgaria, Belarus, Bhutan, Uzbekistan, Iran, Moldova, Vietnam, Libya, South Sudan, Jordan, Mauritania, Greece, Pakistan (Punjab)).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, latent heat — the hidden heat, latent heat, palestine, sri lanka, iran, libya, south sudan

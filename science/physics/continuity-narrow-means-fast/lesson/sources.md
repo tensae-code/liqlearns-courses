@@ -1,6 +1,6 @@
 # Sources — Continuity — narrow means fast
 
-countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran, Mozambique, Cuba, Jordan, Greece
+countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran, Mozambique, Cuba, Jordan, Greece, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -37,6 +37,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 
 **Book 16:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Γ΄ (Physics Grade 12, Volume G)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0282-01 (source_url), production files 22-0183.indd dated 2018. Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-g.pdf. Byte size: 17,866,571 (exact match) · PDF pages: 274 · Offset: printed = PDF − 1 (contents bound at the back, printed pp. 268–270). Verdict: COMPLETE (Ch. 7, appendices of constants, glossary, index, bibliography to printed p. 267, contents close the PDF). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 17:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The equation of continuity | Grade 12 Student Textbook, printed pp. 105–106 |
@@ -58,6 +61,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Unit 5 Lesson 2, flow continuity in narrowing pipes | Jordan, *Physics — Grade 10, Term 2 (Student Book)*, Unit 5 Lesson 2, flow continuity in narrowing pipes — printed p. 72 |
 | Ch. 3, Conservation of matter and the continuity equation | Greece, *Physics Grade 12, Teuchos G*, Ch. 3, Conservation of matter and the continuity equation — printed p. 93 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran, Mozambique, Cuba, Jordan, Greece).**
+| Ch. 5, equation of continuity as conservation of mass | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 5, equation of continuity as conservation of mass — printed p. 87 (chapter Learning Objectives) |
+**Acceptance count: taught in 15 countries (Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran, Mozambique, Cuba, Jordan, Greece, Pakistan (Punjab)).**
 
 Searchable tags: physics, grade 12, fluid mechanics, continuity — narrow means fast, incompressible, uganda, kenya, cambodia, egypt, iran, mozambique

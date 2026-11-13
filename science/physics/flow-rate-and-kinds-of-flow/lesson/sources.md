@@ -1,6 +1,6 @@
 # Sources — Flow rate and kinds of flow
 
-countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, Uzbekistan, India, Mozambique, Cuba, Jordan
+countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, Uzbekistan, India, Mozambique, Cuba, Jordan, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, U
 
 **Book 15:** *Physics — Grade 10, Term 2 (Teacher Book / Teacher's Guide) — دليل المعلم، الفيزياء، الصف العاشر، الفصل الدراسي الثاني* (teacher guide — TEACHER-GUIDE EVIDENCE ONLY, companion to the Grade 10 Term 2 student book and workbook; cited as evidence, outside the acceptance count) — Jordan, National Center for Curriculum Development (NCCD), Amman; same HarperCollins-2022-based edition family as the student book. Grade: 10 · Kind: teacher guide · Repo path/URL: release asset `grade-10-gov-jordan-physics-teacher-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-10-gov-jordan-physics-teacher-term-2.pdf · Bytes: 75,967,769 (matches release asset size exactly) · PDF pages: 154 · Offset: the guide keeps the student book's printed pagination for its units (Units 4–6 at printed pp. 7, 55, 91 as in the student book), with lettered front matter and A-paged appendices. Verdict: COMPLETE (worksheets appendix A1 and activities-answers appendix from A15). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
 
+**Book 16:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Fluid flow — steady, turbulent, and flow rate | Grade 12 Student Textbook, printed pp. 103–104 |
@@ -52,7 +54,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, U
 | Unit 5 Experiment 2 + enrichment, properties of moving fluids; measure flow speed and flow rate practically | Jordan, *Physics — Grade 10, Term 2 (Workbook / Activities and Practical Experiments Book)*, Unit 5 Experiment 2 + enrichment, properties of moving fluids; measure flow speed and flow rate practically — printed p. 29 |
 | Unit 5 Lesson 2 (guide), moving fluids | Jordan, *Physics — Grade 10, Term 2 (Teacher Book / Teacher's Guide)*, Unit 5 Lesson 2 (guide), moving fluids — printed p. 72 (teacher guide — evidence) |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, Uzbekistan, India, Mozambique, Cuba, Jordan).**
+| Ch. 5, streamline (laminar), incompressible and non-viscous flow | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 5, streamline (laminar), incompressible and non-viscous flow — printed p. 87 (chapter Learning Objectives) |
+**Acceptance count: taught in 13 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Cambodia, Egypt, Uzbekistan, India, Mozambique, Cuba, Jordan, Pakistan (Punjab)).**
  Jordan is also named as teacher-guide evidence only (its Grade 10 teacher guides) in the rows above, not added twice to this count.
 
 Searchable tags: physics, grade 12, fluid mechanics, flow rate and kinds of flow, laminar, sri lanka, united states, uganda, kenya, cambodia, egypt, mozambique

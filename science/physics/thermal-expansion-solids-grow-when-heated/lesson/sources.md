@@ -1,6 +1,6 @@
 # Sources — Thermal expansion — solids grow when heated
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan, Greece
+countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan, Greece, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -30,6 +30,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 
 **Book 13:** *Φυσική Β΄ Γυμνασίου (Physics, Grade 8)* (student book) — Greece, book code 21-0100-02 (cover verso), Diophantos printing files dated 2013–2016. Grade: 8 · Student book · Repo path: grade-08/gov/greece/physics/full-year.pdf. Byte size: 16,175,368 (exact match) · PDF pages: 170 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 8 questions end printed p. 167, colophon + back cover follow). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 14:** *Physics IX* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition. Grade: 9 (Class IX) · Student book · Repo path: grade-09/gov/pakistan/physics/full-year.pdf. Byte size: 37,622,147 (matches the repo tree file size exactly) · PDF pages: 208 · Offset: printed page = PDF page (verified: Unit 2 printed 29 = PDF 29; Unit 9 content printed 206–208 = PDF 206–208). Verdict: COMPLETE as a textbook (Unit 1 opens the book at printed p. 1 and Unit 9's review questions end at printed p. 208), but the scan lacks the cover, title page and any index/front matter. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Thermal expansion of solids | Grade 11 Student Textbook, printed pp. 190–195 |
@@ -46,6 +49,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Unit 2 Lesson 3, linear expansion and the coefficient of linear expansion, with applications | Jordan, *Physics — Grade 11, Term 1 (Student Book, Academic Track)*, Unit 2 Lesson 3, linear expansion and the coefficient of linear expansion, with applications — printed p. 81 |
 | Ch. 6.5, Thermal expansion and contraction | Greece, *Physics, Grade 8 (student book)*, Ch. 6.5, Thermal expansion and contraction — printed p. 130 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan, Greece).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
+| Unit 8 §8.8, thermal expansion of solids (linear and volumetric) | Pakistan (Punjab), *Physics IX*, Unit 8 §8.8, thermal expansion of solids (linear and volumetric) — printed p. 184 |
+**Acceptance count: taught in 11 countries (Ethiopia, Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan, Greece, Pakistan (Punjab)).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, thermal expansion — solids grow when heated, expansion, finland, uganda, iraq, yemen, iran, laos

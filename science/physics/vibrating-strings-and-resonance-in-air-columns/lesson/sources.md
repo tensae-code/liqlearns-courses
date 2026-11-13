@@ -1,6 +1,6 @@
 # Sources — Vibrating strings and resonance in air columns
 
-countries: Yemen, Vietnam, Jordan, Greece
+countries: Yemen, Vietnam, Jordan, Greece, Pakistan (Punjab)
 
 **Book 1:** *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)* (student textbook) — Yemen, Yemen MoE, same series/design as Grade 10. Grade: 11 · Student book · Repo: release `mid-size-books-2`, asset `grade-11-gov-yemen-physics-student-full-year.pdf` — 79,982,972 bytes. PDF pages: 274. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 10 evaluation at printed p. 270 closes the contents; closing pages present). Structure: 10 units — equilibrium of rigid bodies; periodic motions; sound waves; sound tones & resonance; light & vision devices; thermodynamics; heat engines; direct current; magnetism & magnetic effects of current; electrical measurements. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
@@ -12,6 +12,9 @@ countries: Yemen, Vietnam, Jordan, Greece
 **Book 4:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Γ΄ (Physics Grade 12, Volume G)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0282-01 (source_url), production files 22-0183.indd dated 2018. Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-g.pdf. Byte size: 17,866,571 (exact match) · PDF pages: 274 · Offset: printed = PDF − 1 (contents bound at the back, printed pp. 268–270). Verdict: COMPLETE (Ch. 7, appendices of constants, glossary, index, bibliography to printed p. 267, contents close the PDF). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 
 **Book 5:** *Εργαστηριακός Οδηγός Φυσικής, Γ΄ Γενικού Λυκείου (Physics Lab Guide, Grade 12)* (lab guide) — Greece, Pedagogical Institute / OEDV, 4th edition 2010 (colophon, printed back matter); the guide belongs to the older Positive & Technological direction course and is the lab companion secured alongside the current orientation volumes; its experiments map onto Teuchos G topics. Grade: 12 · Lab guide (kind recorded "student" in both record sets) · Repo path: grade-12/gov/greece/physics/lab-guide.pdf. Byte size: 11,077,671 (exact match) · PDF pages: 48 · Offset: printed = PDF (introduction printed p. 5 = PDF p. 5). Verdict: COMPLETE (7 lab activities, bibliography printed p. 46, contents + colophon close the book). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 6:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Yemen, *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)*, U4 Sound tones and resonance — printed p. 109 |
@@ -25,7 +28,8 @@ countries: Yemen, Vietnam, Jordan, Greece
 | Ch. 2, Standing waves | Greece, *Physics Grade 12, Teuchos G*, Ch. 2, Standing waves — printed p. 52 — no standing-wave slug exists |
 | Activity 3, Studying standing waves in a sound tube and finding the speed of sound in air | Greece, *Physics Lab Guide, Grade 12*, Activity 3, Studying standing waves in a sound tube and finding the speed of sound in air — printed p. 24 — (name reused from Teuchos G) |
 
-**Acceptance count: taught in 4 countries (Yemen, Vietnam, Jordan, Greece).**
+| Ch. 7, stationary waves in stretched strings, air columns and microwaves; harmonics | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 7, stationary waves in stretched strings, air columns and microwaves; harmonics — printed p. 132 (chapter Learning Objectives) |
+**Acceptance count: taught in 5 countries (Yemen, Vietnam, Jordan, Greece, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Yemen placement “Vibrating strings and resonance in air columns — open and closed” — yemen-placements.md, Book 3, U4, printed p. 109. Cross-reference, on the record: Syria's standing-waves treatment lives in physics/standing-waves-in-air-columns-longitudinal-standing-waves — this lesson is the strings-and-resonance companion to it, built for Yemen's combined strings + closed/open columns + instruments placement. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

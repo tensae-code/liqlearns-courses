@@ -1,6 +1,6 @@
 # Sources — Radiation — heat without a medium
 
-countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongolia, North Macedonia, Libya, Cuba, Greece
+countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongolia, North Macedonia, Libya, Cuba, Greece, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -20,6 +20,9 @@ countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongoli
 
 
 **Book 9:** *Η Φυσική με Πειράματα, Α΄ Γυμνασίου (Physics with Experiments, Grade 7)* (student book — a worksheet book of 12 inquiry worksheets) — Greece, Athens 2013, ISBN 978-960-06-4416-6, book code 21-0177-02 (title page). Grade: 7 · Student book · Repo path: grade-07/gov/greece/physics/full-year.pdf. Byte size: 4,880,836 (exact match to books.json record) · PDF pages: 74 · Offset: printed p. 1 = PDF p. 14 (printed = PDF − 13; front matter roman-numbered). Verdict: COMPLETE (ends with appendix and publisher colophon, printed pp. 57–59+). Grab route, on the record: downloaded from the publisher source_url recorded in books.json (ebooks.edu.gr, Diophantos/ITEP, no login) after the GitHub Releases/Contents API route timed out repeatedly; byte size matched the record exactly and cover/title/contents were checked in the PDF. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 10:** *Physics IX* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition. Grade: 9 (Class IX) · Student book · Repo path: grade-09/gov/pakistan/physics/full-year.pdf. Byte size: 37,622,147 (matches the repo tree file size exactly) · PDF pages: 208 · Offset: printed page = PDF page (verified: Unit 2 printed 29 = PDF 29; Unit 9 content printed 206–208 = PDF 206–208). Verdict: COMPLETE as a textbook (Unit 1 opens the book at printed p. 1 and Unit 9's review questions end at printed p. 208), but the scan lacks the cover, title page and any index/front matter. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Radiation and comparing the three mechanisms | Grade 11 Student Textbook, printed pp. 182–188 |
@@ -32,6 +35,7 @@ countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongoli
 | Ch. 4 §4.3.3: radiation, with a solar water-heater activity (blackened box, coil, glass cover) — printed pp. 102–105, 113 (Cuba, Grade 8) | Cuba, *Física — octavo grado (Grade 8 student book, 2002)*, Ch. 4 §4.3.3: radiation, with a solar water-heater activity (blackened box, coil, glass cover) — printed pp. 102–105, 113 |
 | Worksheet 8, Light heats – "cold" and "warm" colours | Greece, *Physics with Experiments, Grade 7*, Worksheet 8, Light heats – "cold" and "warm" colours — printed p. 33 — dark vs light surfaces warming differently under lamps/sun |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Mongolia, North Macedonia, Libya, Cuba, Greece).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+| Unit 9 §9.4, radiation (black vs silvery surfaces) | Pakistan (Punjab), *Physics IX*, Unit 9 §9.4, radiation (black vs silvery surfaces) — printed p. 200 |
+**Acceptance count: taught in 8 countries (Ethiopia, Slovenia, Mongolia, North Macedonia, Libya, Cuba, Greece, Pakistan (Punjab)).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, radiation — heat without a medium, conduction, cambodia, north macedonia, libya

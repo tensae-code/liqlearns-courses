@@ -1,6 +1,6 @@
 # Sources — A current makes a magnetic field
 
-countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece
+countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -74,6 +74,11 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 
 **Book 35:** *Φυσική Γ΄ Γυμνασίου (Physics, Grade 9)* (student book) — Greece, authors Antoniou, Dimitriadis, Kampouris, Papamichalis, Papatsimpa; book code 21-0156-02, printing files 2013–2016. Grade: 9 · Student book · Repo path: grade-09/gov/greece/physics/full-year.pdf. Byte size: 14,364,160 (exact match) · PDF pages: 186 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 11 fusion ends, exercises/bibliography to printed ~p. 185). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 36:** *Physics X* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition; pages stamped "Not For Sale — PESRP". Grade: 10 (Class X) · Student book · Repo path: grade-10/gov/pakistan/physics/full-year.pdf. Byte size: 31,273,002 (matches the repo tree file size exactly) · PDF pages: 201 · Offset: printed page = PDF page (verified: SHM of a spring printed 2–4 = PDF 2–4). Verdict: COMPLETE (Units 10–18 run to the index at printed 199 and bibliography at printed 200–201; the scan lacks only the cover/title page). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
+**Book 37:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Current creates magnetism — Oersted to Ampère | Grade 12 Student Textbook, printed pp. 122–125 |
@@ -117,6 +122,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Chapitre V (Mauritania, Grade 12) | Mauritania, *Physique SN — 6ème AS*, Chapitre V — printed p. 79–94 |
 | Ch. 3.3, Magnetic effects of electric current | Greece, *Physics, Grade 9 (student book)*, Ch. 3.3, Magnetic effects of electric current — printed p. 73 |
 
-**Acceptance count: taught in 27 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece).**
+| Unit 15 §15.1, magnetic effects of a steady current | Pakistan (Punjab), *Physics X*, Unit 15 §15.1, magnetic effects of a steady current — printed p. 117 |
+| Ch. 14 §14.1, magnetic field due to current in a long straight wire; the right-hand rule | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 14 §14.1, magnetic field due to current in a long straight wire; the right-hand rule — printed p. 57 |
+**Acceptance count: taught in 28 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab)).**
 
 Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq, egypt, yemen, iran, north macedonia, laos, libya, south sudan, mozambique

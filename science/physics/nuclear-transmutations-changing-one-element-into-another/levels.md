@@ -1,0 +1,4 @@
+# Nuclear transmutations — changing one element into another — depth
+
+Whole-lesson pass mark: the learner can do all of these — An element is its proton number Z; Every transmutation equation balances both numbers: total nucleon number A and total proton number Z are the same on both sides; People transmute deliberately by firing particles at nuclei: Rutherford's alpha particles turned nitrogen into oxygen — the first artificial transmutation — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

@@ -1,6 +1,6 @@
 # Sources — Three ways to charge a body
 
-countries: Ethiopia, Afghanistan, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, Jordan, Greece
+countries: Ethiopia, Afghanistan, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, Jordan, Greece, Pakistan (Punjab)
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 10* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 204 printed pp. Printed page = PDF page − 8. Contributors: Fikadu Eshetu (PhD), Writer; Mideksa Kasahun (MSc), Writer; Moges Tsega (PhD), Content Editor; Samuel Assefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). © 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-teacher-placements.md.
@@ -31,6 +31,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 
 **Book 14:** *Φυσική Γ΄ Γυμνασίου (Physics, Grade 9)* (student book) — Greece, authors Antoniou, Dimitriadis, Kampouris, Papamichalis, Papatsimpa; book code 21-0156-02, printing files 2013–2016. Grade: 9 · Student book · Repo path: grade-09/gov/greece/physics/full-year.pdf. Byte size: 14,364,160 (exact match) · PDF pages: 186 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 11 fusion ends, exercises/bibliography to printed ~p. 185). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 15:** *Physics X* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition; pages stamped "Not For Sale — PESRP". Grade: 10 (Class X) · Student book · Repo path: grade-10/gov/pakistan/physics/full-year.pdf. Byte size: 31,273,002 (matches the repo tree file size exactly) · PDF pages: 201 · Offset: printed page = PDF page (verified: SHM of a spring printed 2–4 = PDF 2–4). Verdict: COMPLETE (Units 10–18 run to the index at printed 199 and bibliography at printed 200–201; the scan lacks only the cover/title page). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Three ways to charge a body | Ethiopia, *Grade 10 Student Textbook*, printed pp. 94–96 |
@@ -51,7 +54,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Unit 3 Lesson 1, charging by rubbing, by conduction and by induction | Jordan, *Physics — Grade 11, Term 2 (Student Book, Academic Track)*, Unit 3 Lesson 1, charging by rubbing, by conduction and by induction — printed p. 12 |
 | Ch. 1.4, Ways of electrification and their microscopic explanation (friction, contact, induction) | Greece, *Physics, Grade 9 (student book)*, Ch. 1.4, Ways of electrification and their microscopic explanation (friction, contact, induction) — printed p. 16 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Afghanistan, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, Jordan, Greece).**
+| Unit 13 §13.2, electrostatic induction | Pakistan (Punjab), *Physics X*, Unit 13 §13.2, electrostatic induction — printed p. 68 |
+**Acceptance count: taught in 12 countries (Ethiopia, Afghanistan, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, Jordan, Greece, Pakistan (Punjab)).**
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

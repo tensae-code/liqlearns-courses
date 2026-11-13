@@ -1,6 +1,6 @@
 # Sources — Mass spectrometer and cyclotron — machines that steer charged particles
 
-countries: China, Jordan, Greece
+countries: China, Jordan, Greece, Pakistan (Punjab)
 
 **Book 1:** *普通高中教科书·物理选择性必修 第二册 (Senior High Physics, Selective Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 2 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 14,339,668 = recorded exactly. PDF pages: 122. Offset: PDF = printed + 5 (proven: §1.4 mass spectrometer, printed p.17, lands on PDF p.22). Verdict: COMPLETE — chapters 1–5 through research project (p.111) and index (p.115). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 6).
 
@@ -8,6 +8,9 @@ countries: China, Jordan, Greece
 
 
 **Book 3:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Β΄ (Physics Grade 12, Volume B)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0170-02, ISBN 978-960-06-2425-0 (back cover). Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-b.pdf. Byte size: 13,934,076 (exact match) · PDF pages: 246 · Offset: placements cite the printed page numbers of the book's own contents, bound at the back of this volume (printed pp. 238–241); the body is printed-numbered throughout. Verdict: COMPLETE (contents lists appendices/glossary to printed p. 236, contents and colophon close the PDF). Library note carried from the reading: this volume's Ch. 1–3 strands overlap by design with the Grade 11 orientation book's Ch. 3–5 in the Greek set, in this volume's fuller problem treatment. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 4:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | China, *Senior Physics, Selective Compulsory Book 2*, Ch.1 §4 Mass spectrometer and cyclotron — printed p. 17 |
@@ -18,7 +21,8 @@ countries: China, Jordan, Greece
 | Unit 5 Lesson 1 application, the mass spectrometer | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 5 Lesson 1 application, the mass spectrometer — printed p. 10 — stocked into this shared lesson (built for an earlier country's placement); the Jordan placements file tags it NEW LESSON NEEDED: the-mass-spectrometer-sorting-ions-by-mass |
 | Ch. 4, Applications: velocity selector, Thomson experiment, mass spectrograph | Greece, *Physics Grade 12, Teuchos B*, Ch. 4, Applications: velocity selector, Thomson experiment, mass spectrograph — printed p. 160 |
 
-**Acceptance count: taught in 3 countries (China, Jordan, Greece).**
+| Ch. 14, measuring e/m; the cathode ray oscilloscope, its principle and uses | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 14, measuring e/m; the cathode ray oscilloscope, its principle and uses — printed p. 56 (Learning Objectives 12–13) |
+**Acceptance count: taught in 4 countries (China, Jordan, Greece, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the China placement “NEW LESSON NEEDED: Mass spectrometer and cyclotron — machines that steer charged particles” — china-placements.md, Book 6 (Selective Compulsory Book 2), Ch.1 §4, printed p. 17. No existing lesson teaches either machine, so it is built here, following the circling lesson. It sits in physics/ (Physics).
 

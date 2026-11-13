@@ -1,0 +1,4 @@
+# Current as moving charge — I = nAvq — depth
+
+Whole-lesson pass mark: the learner can do all of these — In time Δt, every carrier within a length vΔt of a cross-section drifts past it: volume AvΔt, carriers nAvΔt, charge nAvqΔt; In a metal wire n is enormous (about 10²⁸–10²⁹ per cubic metre), so even amperes need drift speeds of fractions of a millimetre per second; The equation explains the wire menu: thicker wire (larger A) carries more current at the same drift speed; materials differ through n and q — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

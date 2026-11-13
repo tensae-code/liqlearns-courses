@@ -1,6 +1,6 @@
 # Sources — Doping — making N-type and P-type
 
-countries: Ethiopia, Belarus, Bhutan, India, Moldova, Jordan
+countries: Ethiopia, Belarus, Bhutan, India, Moldova, Jordan, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Belarus, Bhutan, India, Moldova, Jordan
 
 **Book 6:** *Physics — Grade 12, Term 2 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الثاني* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-801-7. First (experimental) edition 1447H/2025; approved by Ministry of Education decision (2025/77) dated 15 Sep 2025, for use from 15 Oct 2025 (school year 2025/2026). Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-2.pdf · Bytes: 50,602,897 (matches release asset size exactly) · PDF pages: 184 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5; Unit 5 printed 7 = PDF 7). Note: this PDF has no separate cover page — it opens on the title page. Verdict: COMPLETE (glossary printed 181–184, the last PDF page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
 
+**Book 7:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Doping — N-type and P-type | Grade 12 Student Textbook, printed pp. 144–146 |
@@ -25,7 +27,8 @@ countries: Ethiopia, Belarus, Bhutan, India, Moldova, Jordan
 | Ch. 14 Semiconductor Electronics (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 14 Semiconductor Electronics |
 | Unit 6 Lesson 2, doping and majority carriers | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 6 Lesson 2, doping and majority carriers — printed p. 83 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Bhutan, India, Moldova, Jordan).**
+| Ch. 17, intrinsic vs extrinsic semi-conductors: n-type from pentavalent doping | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 17, intrinsic vs extrinsic semi-conductors: n-type from pentavalent doping — printed p. 152 (chapter summary) |
+**Acceptance count: taught in 7 countries (Ethiopia, Belarus, Bhutan, India, Moldova, Jordan, Pakistan (Punjab)).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

@@ -1,6 +1,6 @@
 # Sources — Self-induction and mutual induction
 
-countries: Egypt, Belarus, Bhutan, Iran, China, Cuba, Jordan, Mauritania, Greece
+countries: Egypt, Belarus, Bhutan, Iran, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab)
 
 **Book 1:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
@@ -26,6 +26,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 
 **Book 11:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Β΄ (Physics Grade 12, Volume B)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0170-02, ISBN 978-960-06-2425-0 (back cover). Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-b.pdf. Byte size: 13,934,076 (exact match) · PDF pages: 246 · Offset: placements cite the printed page numbers of the book's own contents, bound at the back of this volume (printed pp. 238–241); the body is printed-numbered throughout. Verdict: COMPLETE (contents lists appendices/glossary to printed p. 236, contents and colophon close the PDF). Library note carried from the reading: this volume's Ch. 1–3 strands overlap by design with the Grade 11 orientation book's Ch. 3–5 in the Greek set, in this volume's fuller problem treatment. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 12:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Egypt, *Physics, Third Secondary (English), 2025–2026*, Unit 1, Ch. 3 — printed p. 66 |
@@ -46,7 +49,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Ch VI Auto-induction (Mauritania, Grade 13) — NEW LESSON NEEDED tag in mauritania-placements.md, stocked into this lesson | Mauritania, *Physique — 7ème Année, série C*, Ch VI Auto-induction — printed p. 142 |
 | Ch. 5, Self-induction | Greece, *Physics Grade 12, Teuchos B*, Ch. 5, Self-induction — printed p. 204 — (contents listing) |
 
-**Acceptance count: taught in 9 countries (Egypt, Belarus, Bhutan, Iran, China, Cuba, Jordan, Mauritania, Greece).**
+| Ch. 15, self and mutual induction; self-inductance and the henry; energy stored in an inductance, E = ½LI² | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 15, self and mutual induction; self-inductance and the henry; energy stored in an inductance, E = ½LI² — printed p. 81 (Learning Objectives 6–9) |
+**Acceptance count: taught in 10 countries (Egypt, Belarus, Bhutan, Iran, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Egypt placement "Self-induction and mutual induction" — egypt-placements.md, Book 4 (Grade 12 English), Unit 1, Ch. 3, printed p. 66 — a full lesson strand no existing slug covers. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

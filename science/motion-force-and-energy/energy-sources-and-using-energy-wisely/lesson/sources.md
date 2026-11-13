@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -58,6 +58,9 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 
 
 **Book 27:** *Φυσική Β΄ Γυμνασίου (Physics, Grade 8)* (student book) — Greece, book code 21-0100-02 (cover verso), Diophantos printing files dated 2013–2016. Grade: 8 · Student book · Repo path: grade-08/gov/greece/physics/full-year.pdf. Byte size: 16,175,368 (exact match) · PDF pages: 170 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 8 questions end printed p. 167, colophon + back cover follow). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 28:** *Physics IX* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition. Grade: 9 (Class IX) · Student book · Repo path: grade-09/gov/pakistan/physics/full-year.pdf. Byte size: 37,622,147 (matches the repo tree file size exactly) · PDF pages: 208 · Offset: printed page = PDF page (verified: Unit 2 printed 29 = PDF 29; Unit 9 content printed 206–208 = PDF 206–208). Verdict: COMPLETE as a textbook (Unit 1 opens the book at printed p. 1 and Unit 9's review questions end at printed p. 208), but the scan lacks the cover, title page and any index/front matter. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sources: non-renewable (wood as the book lists it, fossil fuels, nuclear fuels) and renewable (sun, wind, water) | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 194–195 |
@@ -97,7 +100,8 @@ PAIRING WARNING: the Grade 7 teacher guide is an Addis Ababa City Administration
 | الفصل الثالث, 1- مصادر الطاقة (Mauritania, Grade 12) | Mauritania, *Physics & Chemistry — 6ème LO (Arabic-medium)*, الفصل الثالث, 1- مصادر الطاقة — printed p. 27 |
 | Ch. 5.6, Energy sources | Greece, *Physics, Grade 8 (student book)*, Ch. 5.6, Energy sources — printed p. 103 |
 
-**Acceptance count: taught in 21 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
+| Unit 6 §6.7, major sources of energy | Pakistan (Punjab), *Physics IX*, Unit 6 §6.7, major sources of energy — printed p. 132 |
+**Acceptance count: taught in 22 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab)).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Andorra is named as curriculum-programme evidence only (*Programa de física del batxillerat general de l'Escola Andorrana (Decret 238/2025)* — official curriculum programme), not added to this count.
 
 Placement: Student item 89 — g07-student-placements.md (Unit 7), extended by Teacher items 16 and 17 — g07-teacher-placements.md, filed above as labelled teacher-evidence parts; the lesson's acceptance count stays 1 on the student book. BOOK ERRORS, taught corrected and flagged here: (1) the energy-conservation paragraph on the student book's printed p. 195 is duplicated verbatim inside itself — it is taught once here; (2) the book lists wood among non-renewable sources — taught as the book sorts it, with the tension named in talk (trees regrow, but the book's finite list is the lesson's rule). PAIRING: see the warning under Book 2.
 

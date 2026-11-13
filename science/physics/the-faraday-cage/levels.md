@@ -1,0 +1,4 @@
+# The Faraday cage — depth
+
+Whole-lesson pass mark: the learner can do all of these — Put a conductor in an external field and its free charges move until they cancel the field inside the material — which piles the charge on the outer surface; The induced surface charges arrange themselves so their field is everywhere equal and opposite to the applied field within the cavity; Sensitive electronics live in metal cases; buildings and aircraft let lightning's charge run over their outer skin while the inside stays safe; a car struck by lightning protects its occupants the same way — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

@@ -1,8 +1,10 @@
 # Sources — Seismic waves — how an earthquake's energy travels through the Earth
 
-countries: Moldova
+countries: Moldova, Pakistan (Punjab)
 
 **Book 1:** *Fizica, clasa a X-a (Physics, Grade 10)* (student textbook; printed/recorded title "Clasa 10 — Fizica (in limba romana)") — Moldova. Authors: Mihai Marinciuc (Chs. 1, 3, 4 and part of 2) & Spiridon Rusu (rest of Ch. 2, §4.3, Ch. 5, laboratory works); Editura Știința, 2012; drawn up to the discipline curriculum in force and approved by Order of the Minister of Education nr. 265 of 27 April 2012. Grade 10 · Student book · Repo path: grade-10/gov/moldova/physics/full-year.pdf (tree file; TSV row only — no size/pages in the record). Byte size: 6,817,784 (no size recorded). PDF pages: 180 (no page count recorded). Offset: printed p. = PDF p. (interior check: printed p. 31 is PDF p. 31). Verdict: COMPLETE read (full text layer, all 180 pages; contents read in full, interiors sampled throughout — the seismic-waves passage was read in full). Library debt, on the record: there is no Moldova Grade 9 or Grade 12 Physics record in the targets, and this Grade 10 book is a TSV-only record with no size/page data in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
+**Book 2:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,7 +14,8 @@ countries: Moldova
 | Sub lesson 3 — Surface waves — the rolling that does the damage (Moldova, Grade 10) | Moldova, *Fizica, clasa a X-a (Physics, Grade 10)*, Ch. V §5.13 (optional): surface waves — printed pp. 161–163 |
 | Do it first; key ideas; Do It Yourself | Moldova, *Fizica, clasa a X-a (Physics, Grade 10)*, as cited in the rows above |
 
-**Acceptance count: taught in 1 country (Moldova).**
+| Ch. 10, how seismometers use electromagnetic induction to detect earthquakes; emf proportional to displacement | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 10, how seismometers use electromagnetic induction to detect earthquakes; emf proportional to displacement — printed p. 222 (chapter Learning Objectives) |
+**Acceptance count: taught in 2 countries (Moldova, Pakistan (Punjab)).** Pakistan (Punjab)'s strand is the seismometer itself — electromagnetic induction detecting earthquakes, emf proportional to displacement — carried in the row.
 
 Placement choice, on the record: this NEW LESSON was built for the Moldova placement "NEW LESSON NEEDED: Seismic waves — how an earthquake's energy travels through the Earth" — moldova-placements.md, Book 4 (Grade 10), Ch. V §5.13 (optional), printed pp. 161–163. No existing lesson teaches seismic waves as waves — physics/physics-that-reads-the-earth names seismic behaviour inside geophysics exploration for Ethiopia, but does not teach P, S and surface waves, the focus or the epicentre — so the lesson is built here, in physics/, beside the wave lessons. It sits in physics/ (Physics, Unit 18).
 

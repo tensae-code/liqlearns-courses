@@ -1,0 +1,13 @@
+# Sources — How this physics course works — the Pakistani (Punjab) Grade 12 way
+
+countries: Pakistan (Punjab)
+
+**Book 1:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| whole book | Pakistan (Punjab), *PHYSICS 12 (PTB)*, whole book — printed p. 1 — Pakistan (Punjab)'s PTB pattern: numbered Learning Objectives open each chapter, Do You Know? / For Your Information boxes run through it, and a SUMMARY box plus QUESTIONS and PROBLEMS (with answers) close it. |
+
+**Acceptance count: taught in 1 country (Pakistan (Punjab)).**
+
+Searchable tags: physics, pakistan, punjab, how this physics course works the pakistani punjab grade 12 way

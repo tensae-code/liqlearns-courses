@@ -1,6 +1,6 @@
 # Sources — Analog vs digital
 
-countries: Ethiopia, Indonesia, United States, Bhutan, Vietnam, Cuba (programme/teacher-guide evidence only)
+countries: Ethiopia, Indonesia, United States, Bhutan, Vietnam, Cuba (programme/teacher-guide evidence only), Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Indonesia, United States, Bhutan, Vietnam, Cuba (programme/
 
 **Book 6:** *Programa: Física — onceno grado* (curriculum programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Cuba, Ministerio de Educación, Cuba, 2024; Editorial Pueblo y Educación; ISBN 978-959-13-4778-7 (digital). Third Perfeccionamiento series. Grade: 11 · Kind: teacher (curriculum programme) · Repo path: grade-11/gov/cuba/fisica/teacher/full-year.pdf · Byte size: 237,359 (matches books.json record; staging copy used) · PDF pages: 30 · Offset: printed p. = PDF p. − 3. Verdict: COMPLETE — full programme read, printed pp. 1–22+. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 3).
 
+**Book 7:** *Physics X* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition; pages stamped "Not For Sale — PESRP". Grade: 10 (Class X) · Student book · Repo path: grade-10/gov/pakistan/physics/full-year.pdf. Byte size: 31,273,002 (matches the repo tree file size exactly) · PDF pages: 201 · Offset: printed page = PDF page (verified: SHM of a spring printed 2–4 = PDF 2–4). Verdict: COMPLETE (Units 10–18 run to the index at printed 199 and bibliography at printed 200–201; the scan lacks only the cover/title page). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
+**Book 8:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Analog and digital signals; logic levels | Grade 12 Student Textbook, printed pp. 163–164 |
@@ -24,7 +28,9 @@ countries: Ethiopia, Indonesia, United States, Bhutan, Vietnam, Cuba (programme/
 | Ch. 5: analogue vs digital signals — more information can be sent digitally; communication through sound waves — printed pp. 117, 119 (Bhutan, Class X (Grade 10)) | Bhutan, *Physics Textbook, Class X*, Ch. 5: analogue vs digital signals — more information can be sent digitally; communication through sound waves — printed pp. 117, 119 |
 | Bài 5 — Analogue signals and digital signals (Vietnam, Grade 11) | Vietnam, *Chuyên đề học tập Vật lí 11*, Bài 5, Analogue signals and digital signals — printed p. 33 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Indonesia, United States, Bhutan, Vietnam).**
+| Unit 16, analogue and digital electronics | Pakistan (Punjab), *Physics X*, Unit 16, analogue and digital electronics — printed p. 142 |
+| Ch. 18, digital systems deal in quantities with only two discrete values | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 18, digital systems deal in quantities with only two discrete values — printed p. 172 (chapter summary) |
+**Acceptance count: taught in 6 countries (Ethiopia, Indonesia, United States, Bhutan, Vietnam, Pakistan (Punjab)).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

@@ -1,0 +1,4 @@
+# The operational amplifier — depth
+
+Whole-lesson pass mark: the learner can do all of these — The op-amp has inverting (−) and non-inverting (+) inputs and amplifies their difference by an open-loop gain of 10⁵ or more; Feed the output back to the − input and the amp drives that input to match the + input: with + earthed, the − input becomes a virtual earth — held at 0 V, drawing no current; Feed the signal to + instead and feedback to −, and the gain is 1 + Rf/Rin, always positive — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

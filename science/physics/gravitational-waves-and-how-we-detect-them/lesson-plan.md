@@ -1,0 +1,53 @@
+# Lesson plan — Gravitational waves and how we detect them
+
+**Course:** Science · **Title:** Physics · **Lesson:** Gravitational waves and how we detect them
+**Place in the curriculum:** Physics (CURRICULUM.md Unit 18), inside the modern-physics strand — PECTAA Grade 11's chapter on ripples in space-time itself
+**The one thing this lesson teaches:** accelerating masses ripple space-time itself, and the ripples — gravitational waves — travel at the speed of light; laser interferometers like LIGO catch them by measuring length changes thousands of times smaller than an atomic nucleus
+**This lesson's own level:** it stands on its own — a learner can land here directly. Any earlier lesson named below is recommended first, never forced
+
+A lesson plan also says **what goes on top of the lesson**: at the exact places marked below, the lesson page carries an add-on — an image, a GIF, a video, an audio. Every slot is written as **"a picture of …" in words, plus one little line saying what the student does with it**. The words carry the picture while the course is built and while the AI learns from the books; on the website the real add-on is dropped into that slot and the little explanation stays as the student's guide. Images follow the picture rule (a real photograph, or real art, with its source). GIFs come first where a thing must be shown moving or popping — a GIF here is 1–2 seconds.
+
+## Sub lessons
+1. **Ripples from accelerated masses** — Just as an accelerated charge radiates electromagnetic waves, an accelerated mass radiates gravitational waves — disturbances of space-time's geometry travelling outward at c. The strongest sources are the most violent: pairs of black holes or neutron stars spiralling into each other, flinging space itself into waves as they merge.
+2. **What a passing wave does** — A gravitational wave stretches space in one direction while squeezing it in the perpendicular direction, then reverses — distances between free objects breathe by a fractional amount called the strain. Even from a cataclysm across the universe, the strain at Earth is around 10⁻²¹: a kilometre of length changing by far less than an atom's width.
+3. **Interferometers — hearing space breathe** — LIGO's answer is the laser interferometer: two perpendicular arms, kilometres long, with light bouncing between mirrors; a passing wave lengthens one arm and shortens the other, shifting the interference pattern. Two detectors far apart confirm a real event against local noise. In 2015 the first signal — two black holes merging — opened gravitational-wave astronomy.
+Gate pool: all questions of the sub lesson — no hardness ranking is written in questions/, so the sub lesson's whole question set is the gate pool.
+
+## Before this lesson
+- This lesson stands alone for a learner landing on it directly; anything that would help is explained inside it as it is needed.
+- Recommended first, never forced: the neighbouring lessons of its strand named in the place line above.
+
+## What the learner can do when it ends
+1. Say, in their own words: just as an accelerated charge radiates electromagnetic waves, an accelerated mass radiates gravitational waves — disturbances of space-time's geometry travelling outward at c
+2. Say, in their own words: a gravitational wave stretches space in one direction while squeezing it in the perpendicular direction, then reverses — distances between free objects breathe by a fractional amount called the strain
+3. Say, in their own words: ligo's answer is the laser interferometer: two perpendicular arms, kilometres long, with light bouncing between mirrors; a passing wave lengthens one arm and shortens the other, shifting the interference pattern
+
+## What you need
+The apparatus and materials named in hands-on.md — each idea in this lesson is first met in the hand or in a worked measurement, not only on the page.
+
+## The run of the lesson (in order)
+1. **Do it first** — the learner does the opening activity before any explanation (lesson/lesson.md).
+2. **The explanation** — the lesson's parts, in order (lesson/lesson.md).
+   - ADD IMAGE: a picture of a drawn diagram of an L-shaped interferometer from above — laser, beam splitter, two long arms with mirrors, and a passing gravitational wave drawn as alternating stretch-and-squeeze arrows along the arms [Picture 36832] — the student studies the picture and names what each part shows.
+   - ADD GIF: a 1–2 second GIF of the lesson's central change happening — the student watches and says what changed
+   - ADD AUDIO (described slot only — no audio file is made in this build): a voice reading the lesson's key ideas aloud — the student listens, then repeats each one aloud from memory.
+3. **Say it to your companion** — the learner explains the lesson's main ideas in their own words (lesson/lesson.md).
+   - ADD VIDEO: the script in video-script.md, filmed — the lesson told in the super-simple voice (made later, when videos are made).
+4. **Questions** — from questions/: multiple-choice, short-answer and fill-in-the-blank — served at the learner's level and teaching-mix (levels.md).
+5. **Hands-on** — hands-on.md.
+6. **Do It Yourself** — the doing block at the end of lesson/lesson.md.
+
+## Add-ons for this lesson (the full list)
+- IMAGE — as described above → the student studies the picture and does what its line says.
+- GIF — as described above → the student watches the change happen.
+- AUDIO (described slot only) — a voice reading the key ideas aloud → the student repeats each from memory.
+- VIDEO — the video-script filmed (made later) → the student watches and does the lesson's actions along with it.
+
+A slot the builder cannot fill yet stays in the plan as a slot — the plan is the build sheet, so nothing the lesson needs gets forgotten.
+
+## If the learner is stuck
+- Cannot start → return to Do it first and do the opening activity with real objects or numbers before reading any explanation; the explanation is the story of that activity.
+- Mixes the sub lessons up → re-read the key ideas in order; each key idea is one sub lesson compressed to a line.
+
+## Teacher note
+The full text is lesson/lesson.md; every part traces to a book and page in lesson/sources.md. A teacher sending this lesson sends the lesson and its question list as they are — choosing, not remaking.

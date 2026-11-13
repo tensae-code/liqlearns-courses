@@ -1,6 +1,6 @@
 # Sources — Conduction — heat through solids
 
-countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongolia, North Macedonia, Libya
+countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongolia, North Macedonia, Libya, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongoli
 
 **Book 6:** *الفيزياء كتاب الطالب — Physics, Grade 11 (student book, Science stream)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 11 · Student book (Science stream — القسم العلمي, title page; Arabic medium) · Repo path: grade-11/gov/libya/physics/student-book.pdf (TSV route: release asset grade-11-gov-libya-physics-student-book.pdf, mid-size-books-3). Byte size: 23,437,224 (release asset, verified) · PDF pages: 220 · Offset: printed p. = PDF p. − 6 approx. (front matter + 3 contents pages). Verdict: COMPLETE — two parts, 13 units, answers (p. 203) and an English "Definitions" appendix (p. 211); read from the full printed contents (image sheets). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 7:** *Physics IX* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition. Grade: 9 (Class IX) · Student book · Repo path: grade-09/gov/pakistan/physics/full-year.pdf. Byte size: 37,622,147 (matches the repo tree file size exactly) · PDF pages: 208 · Offset: printed page = PDF page (verified: Unit 2 printed 29 = PDF 29; Unit 9 content printed 206–208 = PDF 206–208). Verdict: COMPLETE as a textbook (Unit 1 opens the book at printed p. 1 and Unit 9's review questions end at printed p. 208), but the scan lacks the cover, title page and any index/front matter. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Conduction | Grade 11 Student Textbook, printed pp. 179–181 |
@@ -23,6 +25,7 @@ countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongoli
 | Theme 2 §2.10: transferring heat — conduction (heat conductivity) (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 2 §2.10: transferring heat — conduction (heat conductivity) — printed p. 94 |
 | U5 §5-2: thermal conduction (Libya, Grade 11) | Libya, *Physics, Grade 11 (student book, Science stream)*, U5 §5-2: thermal conduction — printed pp. 60–61 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Mongolia, North Macedonia, Libya).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+| Unit 9 §9.2, conduction (vibrating atoms and free electrons) | Pakistan (Punjab), *Physics IX*, Unit 9 §9.2, conduction (vibrating atoms and free electrons) — printed p. 193 |
+**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Mongolia, North Macedonia, Libya, Pakistan (Punjab)).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, conduction — heat through solids, temperature, cambodia, north macedonia, libya

@@ -1,6 +1,6 @@
 # Sources — Rocket propulsion and escape velocity
 
-countries: Yemen, Cuba, Greece
+countries: Yemen, Cuba, Greece, Pakistan (Punjab)
 
 **Book 1:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
 
@@ -8,6 +8,9 @@ countries: Yemen, Cuba, Greece
 
 
 **Book 3:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Γ΄ (Physics Grade 12, Volume G)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0282-01 (source_url), production files 22-0183.indd dated 2018. Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-g.pdf. Byte size: 17,866,571 (exact match) · PDF pages: 274 · Offset: printed = PDF − 1 (contents bound at the back, printed pp. 268–270). Verdict: COMPLETE (Ch. 7, appendices of constants, glossary, index, bibliography to printed p. 267, contents close the PDF). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 4:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U1 Self-propulsion of rockets — printed p. 14 |
@@ -18,7 +21,8 @@ countries: Yemen, Cuba, Greece
 | Ch. 5 §5.3: application of momentum conservation to reactive (jet/rocket) motion — printed pp. 228–233 (Cuba, Grade 10) | Cuba, *Física — décimo grado (Grade 10 student book)*, Ch. 5 §5.3: application of momentum conservation to reactive (jet/rocket) motion — printed pp. 228–233 |
 | Ch. 5, Rocket propulsion | Greece, *Physics Grade 12, Teuchos G*, Ch. 5, Rocket propulsion — printed p. 167 — application chapter with no slug |
 
-**Acceptance count: taught in 3 countries (Yemen, Cuba, Greece).**
+| Ch. 2, motion of a rocket under thrust in a straight line, from momentum conservation | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 2, motion of a rocket under thrust in a straight line, from momentum conservation — printed p. 19 (chapter Learning Objectives) |
+**Acceptance count: taught in 4 countries (Yemen, Cuba, Greece, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Yemen placement “Rocket propulsion and escape velocity” — yemen-placements.md, Book 4, U1, printed p. 14. Cross-reference, on the record: Sudan's orbital treatment lives in physics/satellites-and-escape-velocity — this lesson is the rocket-propulsion companion to it, built for Yemen's combined rockets + escape velocity + satellites placement. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

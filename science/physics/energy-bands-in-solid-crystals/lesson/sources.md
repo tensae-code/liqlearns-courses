@@ -1,8 +1,10 @@
 # Sources — Energy bands in solid crystals
 
-countries: Vietnam
+countries: Vietnam, Pakistan (Punjab)
 
 **Book 1:** *Chuyên đề học tập Vật lí 12 (Physics 12 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student study-topics book · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-12/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-study-topics.pdf). Byte size: 13,180,268 (matches record). PDF pages: 71 (record 71). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
+**Book 2:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,7 +14,8 @@ countries: Vietnam
 | Sub lesson 3 — The gap sorts the solids — and semiconductors sit in the middle (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 12, Vùng năng lượng của tinh thể chất rắn (Energy bands in solid crystals): band theory as the capstone — conductors, insulators and semiconductors from the forbidden gap — printed p. 64 |
 | Do it first; key ideas; Do It Yourself | Vietnam, *Chuyên đề học tập Vật lí 12*, as cited in the rows above |
 
-**Acceptance count: taught in 1 country (Vietnam).**
+| Ch. 17, energy bands in solids; classifying insulators, conductors and semi-conductors by their bands | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 17, energy bands in solids; classifying insulators, conductors and semi-conductors by their bands — printed p. 135 (Learning Objectives 8–9) |
+**Acceptance count: taught in 2 countries (Vietnam, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Vietnam placement "NEW LESSON NEEDED: Energy bands in solid crystals" — vietnam-placements.md, Book 6 (Grade 12), Bài 12. No existing lesson teaches this as its own lesson — the nearest neighbours are named in lesson-plan.md's place line — so the lesson is built here. It sits in physics/ (Physics).
 

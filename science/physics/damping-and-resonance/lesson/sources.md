@@ -1,6 +1,6 @@
 # Sources — Damping and resonance
 
-countries: Malaysia, Mongolia, Iran, Laos, Vietnam, China, Jordan, Greece
+countries: Malaysia, Mongolia, Iran, Laos, Vietnam, China, Jordan, Greece, Pakistan (Punjab)
 
 **Book 1:** *Physics Form 4, Kurikulum Standard Sekolah Menengah (KSSM)* (student textbook) — Malaysia, Ministry of Education Malaysia. Title as printed: Physics Form 4, Kurikulum Standard Sekolah Menengah (KSSM), Ministry of Education Malaysia; writers incl. Chia Song Choy, Koay Kheng Chuan, Dr. Ooi Hean Beng et al.; Sasbadi Sdn. Bhd., first published 2019, ISBN 978-983-77-1530-1, Book Serial No. 0175KPM 2019. Grade: Form 4 (= Grade 10) · Kind: student · Files: grade-10/gov/malaysia/fizik/student/full-year-dlp.pdf (DLP) and grade-10/gov/malaysia/fizik/student/full-year.pdf (Malay) — the Malay and DLP files are the SAME book in two languages, cited together in this one entry; Malaysia counts ONCE per lesson. Offset: printed pages are the textbook's own contents pages. Verdict: COMPLETE (full contents read at section level from the textbook's own contents pages). Reading route, on the record: placements were made from public copies of the same editions and afterwards verified against the secured GitHub files — identical ISBNs/serial numbers (verification re-pull: Form 4 DLP asset 100,977,794 bytes, 316 PDF pages, Book Serial No. 0175/KPM 2019, ISBN 978-983-77-1530-1; Form 4 Malay asset 50,666,448 bytes, 298 PDF pages, Malay edition's own ISBN 978-967-5332-40-1). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/malaysia-placements.md.
 
@@ -22,6 +22,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 
 **Book 9:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Γ΄ (Physics Grade 12, Volume G)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0282-01 (source_url), production files 22-0183.indd dated 2018. Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-g.pdf. Byte size: 17,866,571 (exact match) · PDF pages: 274 · Offset: printed = PDF − 1 (contents bound at the back, printed pp. 268–270). Verdict: COMPLETE (Ch. 7, appendices of constants, glossary, index, bibliography to printed p. 267, contents close the PDF). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 10:** *Physics X* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition; pages stamped "Not For Sale — PESRP". Grade: 10 (Class X) · Student book · Repo path: grade-10/gov/pakistan/physics/full-year.pdf. Byte size: 31,273,002 (matches the repo tree file size exactly) · PDF pages: 201 · Offset: printed page = PDF page (verified: SHM of a spring printed 2–4 = PDF 2–4). Verdict: COMPLETE (Units 10–18 run to the index at printed 199 and bibliography at printed 200–201; the scan lacks only the cover/title page). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Malaysia, *Physics Form 4*, Ch. 5 Waves, §5.2 Damping and Resonance — printed p. 184 |
@@ -37,7 +40,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Unit 4 Lesson 1, damped harmonic motion, with life applications of SHM (metronome, building dampers) | Jordan, *Physics — Grade 11, Term 2 (Student Book, Academic Track)*, Unit 4 Lesson 1, damped harmonic motion, with life applications of SHM (metronome, building dampers) — printed p. 71 — stocked into this shared lesson (built for an earlier country's placement); the Jordan placements file tags it NEW LESSON NEEDED: damped-harmonic-motion-oscillations-that-die-away |
 | Ch. 1, Damped oscillations / forced oscillations | Greece, *Physics Grade 12, Teuchos G*, Ch. 1, Damped oscillations / forced oscillations — printed p. 17 |
 
-**Acceptance count: taught in 8 countries (Malaysia, Mongolia, Iran, Laos, Vietnam, China, Jordan, Greece).**
+| Unit 10 §10.2, damped oscillations | Pakistan (Punjab), *Physics X*, Unit 10 §10.2, damped oscillations — printed p. 5 — same new slug proposed for Jordan Grade 11 Term 2. |
+**Acceptance count: taught in 9 countries (Malaysia, Mongolia, Iran, Laos, Vietnam, China, Jordan, Greece, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Malaysia placement "Damping and resonance (waves)" — malaysia-placements.md, Book 1, Ch. 5 Waves, §5.2 Damping and Resonance — printed p. 184. Cross-reference, on the record: Syria's lesson `physics/damped-and-forced-oscillations-the-torsion-and-gravity-pendulums` carries damping and resonance inside a different strand — the torsion and gravity pendulums as measuring instruments (Grade 12, U1); this lesson is the waves-chapter treatment the Malaysian book teaches in Ch. 5, and the two lessons cross-refer rather than duplicate. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

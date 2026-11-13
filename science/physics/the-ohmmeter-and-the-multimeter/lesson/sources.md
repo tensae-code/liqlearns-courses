@@ -1,10 +1,12 @@
 # Sources — The ohmmeter and the multimeter
 
-countries: Egypt, China
+countries: Egypt, China, Pakistan (Punjab)
 
 **Book 1:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
 **Book 2:** *普通高中教科书·物理必修 第三册 (Senior High Physics, Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior (filed grade-12 in the library; Compulsory 3 is the third volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 21,556,582 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §9.2 Coulomb's law, printed p.6, lands on PDF p.11). Verdict: COMPLETE — chapters 9–13 through research project (p.131) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 4).
+
+**Book 3:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,7 +17,8 @@ countries: Egypt, China
 | Do it first; key ideas; Do It Yourself | Egypt, *Physics, Third Secondary (English), 2025–2026*, as cited in the rows above |
 | Ch.11 §5 Experiment: using the multi-range (universal) meter (China, Senior Physics, Compulsory Book 3) | China, *Senior Physics, Compulsory Book 3*, Ch.11 §5 Experiment: using the multi-range (universal) meter — printed p. 72 — stocked into the shared Egypt-built ohmmeter-and-multimeter lesson |
 
-**Acceptance count: taught in 2 countries (Egypt, China).**
+| Ch. 14, the AVO meter/multimeter; reading analogue scales and digital displays | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 14, the AVO meter/multimeter; reading analogue scales and digital displays — printed p. 56 (Learning Objectives 17–18) |
+**Acceptance count: taught in 3 countries (Egypt, China, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Egypt placement "The ohmmeter and the multimeter" — egypt-placements.md, Book 4 (Grade 12 English), Unit 1, Ch. 2, printed p. 55 — a full lesson strand no existing slug covers. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

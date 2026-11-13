@@ -1,0 +1,4 @@
+# Information storage devices — memory and disks — depth
+
+Whole-lesson pass mark: the learner can do all of these — Primary memory is the storage the processor works on directly: fast, close, and — for RAM — emptied when the power dies; Magnetic storage writes information as patterns of magnetisation: the hard disk spins platters under read-write heads and holds the machine's archive; magnetic disks and audio/video cassettes before it used the same principle on slower, removable media; The flash drive stores charge in solid-state memory: small, silent, nothing to spin or scratch, plugged in anywhere — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

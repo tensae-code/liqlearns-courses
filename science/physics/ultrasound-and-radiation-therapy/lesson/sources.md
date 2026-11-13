@@ -1,6 +1,6 @@
 # Sources — Ultrasound and radiation therapy
 
-countries: Ethiopia, Bulgaria, Yemen, Vietnam, Libya
+countries: Ethiopia, Bulgaria, Yemen, Vietnam, Libya, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bulgaria, Yemen, Vietnam, Libya
 
 **Book 5:** *الفيزياء كتاب الطالب — Physics, Grade 11 (student book, Science stream)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 11 · Student book (Science stream — القسم العلمي, title page; Arabic medium) · Repo path: grade-11/gov/libya/physics/student-book.pdf (TSV route: release asset grade-11-gov-libya-physics-student-book.pdf, mid-size-books-3). Byte size: 23,437,224 (release asset, verified) · PDF pages: 220 · Offset: printed p. = PDF p. − 6 approx. (front matter + 3 contents pages). Verdict: COMPLETE — two parts, 13 units, answers (p. 203) and an English "Definitions" appendix (p. 211); read from the full printed contents (image sheets). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 6:** *Physics X* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition; pages stamped "Not For Sale — PESRP". Grade: 10 (Class X) · Student book · Repo path: grade-10/gov/pakistan/physics/full-year.pdf. Byte size: 31,273,002 (matches the repo tree file size exactly) · PDF pages: 201 · Offset: printed page = PDF page (verified: SHM of a spring printed 2–4 = PDF 2–4). Verdict: COMPLETE (Units 10–18 run to the index at printed 199 and bibliography at printed 200–201; the scan lacks only the cover/title page). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Sound in medicine — stethoscope and ultrasound | Grade 12 Student Textbook, printed pp. 15–16 |
@@ -21,6 +23,7 @@ countries: Ethiopia, Bulgaria, Yemen, Vietnam, Libya
 | Bài 7 — Ultrasound (Siêu âm) (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 7, Ultrasound (Siêu âm): medical ultrasound imaging — printed p. 39 |
 | U9 §9-5: ultrasound (الصوت فوق السمعي) (Libya, Grade 11) | Libya, *Physics, Grade 11 (student book, Science stream)*, U9 §9-5: ultrasound (الصوت فوق السمعي) — printed pp. 137–138 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bulgaria, Yemen, Vietnam, Libya).**
+| Unit 11 §§11.7–11.8, audible frequency range and ultrasound | Pakistan (Punjab), *Physics X*, Unit 11 §§11.7–11.8, audible frequency range and ultrasound — printed p. 30 |
+**Acceptance count: taught in 6 countries (Ethiopia, Bulgaria, Yemen, Vietnam, Libya, Pakistan (Punjab)).**
 
 Searchable tags: physics, grade 12, application of physics in other fields, ultrasound and radiation therapy, ultrasound, yemen, libya

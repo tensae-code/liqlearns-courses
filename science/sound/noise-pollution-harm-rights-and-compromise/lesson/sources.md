@@ -1,6 +1,6 @@
 # Sources — Noise pollution — harm, rights and compromise
 
-countries: Ethiopia, Moldova, South Sudan, Cuba
+countries: Ethiopia, Moldova, South Sudan, Cuba, Pakistan (Punjab)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Moldova, South Sudan, Cuba
 
 **Book 6:** *Física — noveno grado* (student textbook) — Cuba, © 2025, Ministerio de Educación, Cuba; Editorial Pueblo y Educación; ISBN 978-959-13-5080-0 (digital). Third Perfeccionamiento series. NOTE: this 2025 student book is two programme-generations ahead of the 2011–2012 Grade 9 programme in this set. Grade: 9 · Kind: student · Repo path: grade-09/gov/cuba/fisica/student/full-year.pdf (release asset grade-09-gov-cuba-fisica-student-full-year.pdf, mid-size-books-5) · Byte size: 39,537,276 (release asset, verified) · PDF pages: 442 · Offset: printed p. = PDF p. − 12 (printed 419 = PDF 431). Verdict: COMPLETE — 4 chapters plus a laboratory-equipment annex (printed pp. 419–428). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 9).
 
+**Book 7:** *Physics X* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition; pages stamped "Not For Sale — PESRP". Grade: 10 (Class X) · Student book · Repo path: grade-10/gov/pakistan/physics/full-year.pdf. Byte size: 31,273,002 (matches the repo tree file size exactly) · PDF pages: 201 · Offset: printed page = PDF page (verified: SHM of a spring printed 2–4 = PDF 2–4). Verdict: COMPLETE (Units 10–18 run to the index at printed 199 and bibliography at printed 200–201; the scan lacks only the cover/title page). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What noise pollution is (the inventory, Activity 7.14; the definition; construction, traffic, aircraft; the harm of damaged ears and permanent hearing loss) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed p. 199 (student placement 59) |
@@ -25,7 +27,8 @@ countries: Ethiopia, Moldova, South Sudan, Cuba
 
 | Topic 8.10: sound pollution (South Sudan, Secondary 2 (Grade 10)) | South Sudan, *Physics Secondary 2 — Student's Book*, Topic 8.10: sound pollution — printed p. ~242 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Moldova, South Sudan, Cuba).**
+| Unit 11 §11.5, noise pollution (with §11.6, the importance of acoustics) | Pakistan (Punjab), *Physics X*, Unit 11 §11.5, noise pollution (with §11.6, the importance of acoustics) — printed p. 27 |
+**Acceptance count: taught in 5 countries (Ethiopia, Moldova, South Sudan, Cuba, Pakistan (Punjab)).**
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

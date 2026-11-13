@@ -1,6 +1,6 @@
 # Sources — Wave optics — interference and diffraction of light
 
-countries: Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan, Mauritania, Greece
+countries: Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab)
 
 **Book 1:** *Physics for Year 13* (student textbook) — Fiji, Ministry of Education, Heritage and Arts, Fiji — Curriculum Advisory Services; based on the Year 13 Physics Syllabus 2018. Title as printed: Physics for Year 13 (Ministry of Education, Heritage and Arts, Fiji — Curriculum Advisory Services; based on the Year 13 Physics Syllabus 2018). Grade: 13 · Student book · Repo path: grade-13/gov/fiji/physics/student/full-year.pdf · Release: mid-size-books-7. Byte size: 12,431,417 (release asset; no size in record) · PDF pages: 221 · Offset: printed p. N ≈ PDF p. N+4 (front matter i–iv + reference pages). Verdict: COMPLETE — full text read (45,871 words); copyright/acknowledgement pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
@@ -26,6 +26,9 @@ countries: Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan,
 
 
 **Book 12:** *Φυσική Γενικής Παιδείας Β΄ Γενικού Λυκείου (General-Education Physics, Grade 11)* (student book) — Greece, book code 22-0219-02. Grade: 11 · Student book (general education, "GP") · Repo path: grade-11/gov/greece/physics/full-year.pdf. Byte size: 13,485,215 (exact match) · PDF pages: 210 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 4 summary/questions/problems and closing essay "Determinism and quantum mechanics" to printed ~p. 208). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 13:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Fiji, *Physics for Year 13*, Strand 3 §3.3 Wave Optics — printed p. 80 |
@@ -53,7 +56,8 @@ countries: Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan,
 | Ch XII Interférences lumineuses (Mauritania, Grade 13) — NEW LESSON NEEDED tag in mauritania-placements.md, stocked into this lesson | Mauritania, *Physique — 7ème Année, série C*, Ch XII Interférences lumineuses — printed p. 256 |
 | Ch. 3.5, Polarisation of light | Greece, *General-Education Physics, Grade 11*, Ch. 3.5, Polarisation of light — printed p. 159 — full section; no polarisation slug exists |
 
-**Acceptance count: taught in 10 countries (Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan, Mauritania, Greece).**
+| Ch. 8 §§8.1–8.3, polarization of light (linear, circular, elliptical), producing and detecting plane polarized light, Malus's law, polaroids in photography and stress analysis | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 8 §§8.1–8.3, polarization of light (linear, circular, elliptical), producing and detecting plane polarized light, Malus's law, polaroids in photography and stress analysis — printed p. 167 |
+**Acceptance count: taught in 11 countries (Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Fiji placement “Wave optics — interference and diffraction of light” — fiji-placements.md, Book 3, Strand 3 §3.3 Wave Optics — printed p. 80. On the record: this lesson is light-specific — interference, single-slit diffraction and the grating treated for light. It is distinct from Malaysia's general wave lesson `physics/diffraction-of-waves` (diffraction of waves in general — water, sound and light) and from the grating-as-instrument lesson `light/diffraction-gratings-grooved-surfaces-splitting-light-by-wavelength`; the lessons cross-refer and none replaces the others. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

@@ -1,0 +1,4 @@
+# Energy efficiency — useful out over total in — depth
+
+Whole-lesson pass mark: the learner can do all of these — Efficiency compares what a conversion was for with what it cost: η = useful output / total input; The input that is not useful output is wasted, and in most machines it leaves as heat (with sound and vibration taking a share); Convert in steps and the efficiencies multiply: generate at 35%, transmit at 90%, and the lamp at 5% and the original fuel's energy arrives as light at 0 — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

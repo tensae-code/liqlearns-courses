@@ -1,8 +1,10 @@
 # Sources — How a refrigerator works
 
-countries: Jordan
+countries: Jordan, Pakistan (Punjab)
 
 **Book 1:** *Physics — Grade 11, Term 1 (Student Book, Academic Track) — الفيزياء، الصف الحادي عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الأول* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2024; prepared originally in English for the National Center for Curriculum Development (NCCD), Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-825-3. First (experimental) edition 1445H/2024, reprinted 2025; approved by Ministry of Education decision (2024/66) dated 26 Jun 2024, for use from school year 2024/2025. Grade: 11 · Kind: student (academic track) · Repo path/URL: release asset `grade-11-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-11-gov-jordan-physics-student-term-1.pdf · Bytes: 38,009,926 (matches release asset size exactly) · PDF pages: 102 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8). Verdict: COMPLETE (glossary printed 97, trigonometric-ratios table printed 99, references printed 100; PDF 102 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
+**Book 2:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,7 +14,8 @@ countries: Jordan
 | Sub lesson 3 — Jordan's enrichment — reading a real machine | Jordan, *Physics — Grade 11, Term 1 (Student Book, Academic Track)*, Unit 2 enrichment, the refrigerator as applied thermodynamics — printed p. 92 |
 | Do it first; key ideas; Do It Yourself | Jordan, *Physics — Grade 11, Term 1 (Student Book, Academic Track)*, as cited in the rows above |
 
-**Acceptance count: taught in 1 country (Jordan).**
+| Ch. 6, the refrigerator as a reversed heat engine and its COP | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 6, the refrigerator as a reversed heat engine and its COP — printed p. 112 (objectives; Numerical Problem 6.5, printed p. 131) |
+**Acceptance count: taught in 2 countries (Jordan, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Jordan placement "NEW LESSON NEEDED: how-a-refrigerator-works" — jordan-placements.md, Book 9 (Physics — Grade 11, Term 1 (Student Book, Academic Track)), Unit 2 enrichment, the refrigerator as applied thermodynamics — printed p. 92. No existing lesson teaches this as its own lesson — checked against the course before building (the neighbouring lessons named in the merge log carry their own topics) — so the lesson is built here. It sits in physics/ (Physics).
 

@@ -1,6 +1,6 @@
 # Sources — Ohm's law
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan, China, Cuba, Jordan, Mauritania, Greece
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -63,6 +63,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 **Book 29:** *Φυσική Γ΄ Γυμνασίου — Τετράδιο Εργασιών (Physics Grade 9, Workbook / Lab Exercise Notebook)* (workbook) — Greece, book code 21-0157, authors as the Grade 9 student book. Grade: 9 · Workbook · Repo path: grade-09/gov/greece/physics/workbook/full-year.pdf. Byte size: read copy 2,691,800 ≠ books.json record 445,208 — the publisher source_url now serves a newer printing of the same book (cover dated 12/10/2023, ISBN 978-960-06-6303-7, same code 21-0157, same authors/title); the GitHub-secured copy is the earlier printing. Identity verified by code/title/contents. PDF pages: 42 · Offset: printed = PDF − 1. Verdict: COMPLETE (worksheets for all 13 labs, colophon at end). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 
 **Book 30:** *Φυσική Γενικής Παιδείας Β΄ Γενικού Λυκείου (General-Education Physics, Grade 11)* (student book) — Greece, book code 22-0219-02. Grade: 11 · Student book (general education, "GP") · Repo path: grade-11/gov/greece/physics/full-year.pdf. Byte size: 13,485,215 (exact match) · PDF pages: 210 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 4 summary/questions/problems and closing essay "Determinism and quantum mechanics" to printed ~p. 208). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 31:** *Physics X* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition; pages stamped "Not For Sale — PESRP". Grade: 10 (Class X) · Student book · Repo path: grade-10/gov/pakistan/physics/full-year.pdf. Byte size: 31,273,002 (matches the repo tree file size exactly) · PDF pages: 201 · Offset: printed page = PDF page (verified: SHM of a spring printed 2–4 = PDF 2–4). Verdict: COMPLETE (Units 10–18 run to the index at printed 199 and bibliography at printed 200–201; the scan lacks only the cover/title page). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ohm's law — ohmic and non-ohmic conductors | Grade 11 Student Textbook, printed pp. 245–246 |
@@ -99,7 +102,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Worksheet Lab 2, Ohm's law | Greece, *Physics Grade 9, Workbook*, Worksheet Lab 2, Ohm's law — printed p. 10 |
 | Ch. 2.4, (Ohmic) resistance – resistor | Greece, *General-Education Physics, Grade 11*, Ch. 2.4, (Ohmic) resistance – resistor — printed p. 72 |
 
-**Acceptance count: taught in 18 countries (Ethiopia, Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan, China, Cuba, Jordan, Mauritania, Greece).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
+| Unit 14, Ohm's law | Pakistan (Punjab), *Physics X*, Unit 14, Ohm's law — printed p. 93 |
+**Acceptance count: taught in 19 countries (Ethiopia, Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab)).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

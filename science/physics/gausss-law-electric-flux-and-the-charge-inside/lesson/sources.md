@@ -1,6 +1,6 @@
 # Sources — Gauss’s law — electric flux and the charge inside
 
-countries: Bhutan, Jordan, Greece
+countries: Bhutan, Jordan, Greece, Pakistan (Punjab)
 
 **Book 1:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -10,6 +10,9 @@ countries: Bhutan, Jordan, Greece
 **Book 3:** *Φυσική Προσανατολισμού Β΄ Γενικού Λυκείου (Orientation Physics, Grade 11)* (student book) — Greece, book code 22-0223-02. Grade: 11 · Student book (orientation / positive-studies track, "ThSp") · Repo path: grade-11/gov/greece/physics/full-year-orientation.pdf. Byte size: 11,028,283 (exact match) · PDF pages: 226 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 5 electric field runs to the end, summary/questions/problems closing the book). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 
 **Book 4:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Β΄ (Physics Grade 12, Volume B)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0170-02, ISBN 978-960-06-2425-0 (back cover). Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-b.pdf. Byte size: 13,934,076 (exact match) · PDF pages: 246 · Offset: placements cite the printed page numbers of the book's own contents, bound at the back of this volume (printed pp. 238–241); the body is printed-numbered throughout. Verdict: COMPLETE (contents lists appendices/glossary to printed p. 236, contents and colophon close the PDF). Library note carried from the reading: this volume's Ch. 1–3 strands overlap by design with the Grade 11 orientation book's Ch. 3–5 in the Greek set, in this volume's fuller problem treatment. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 5:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Bhutan, Ch. 23 Gauss’s Law — printed p. 659 |
@@ -19,7 +22,8 @@ countries: Bhutan, Jordan, Greece
 | Ch. 5.3–5.4, Electric flux / Gauss's law | Greece, *Orientation Physics, Grade 11*, Ch. 5.3–5.4, Electric flux / Gauss's law — printed p. 145 — no Gauss's-law slug exists |
 | Ch. 3, Electric flux / Gauss's law | Greece, *Physics Grade 12, Teuchos B*, Ch. 3, Electric flux / Gauss's law — printed p. 83 |
 
-**Acceptance count: taught in 3 countries (Bhutan, Jordan, Greece).**
+| Ch. 12, Gauss's law and its applications | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 12, Gauss's law and its applications — printed p. 1 (Learning Objective 8) |
+**Acceptance count: taught in 4 countries (Bhutan, Jordan, Greece, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Bhutan placement “Gauss’s law — electric flux through a surface counts the charge inside” — bhutan-placements.md, Book 3 (Halliday, Resnick & Walker, Grade 11 record), Ch. 23 — printed p. 659. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

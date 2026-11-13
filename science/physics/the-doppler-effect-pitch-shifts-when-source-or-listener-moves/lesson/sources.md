@@ -1,6 +1,6 @@
 # Sources — The Doppler effect — pitch shifts when source or listener moves
 
-countries: Bhutan, North Macedonia, Laos, China, Cuba, Greece
+countries: Bhutan, North Macedonia, Laos, China, Cuba, Greece, Pakistan (Punjab)
 
 **Book 1:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -16,6 +16,9 @@ countries: Bhutan, North Macedonia, Laos, China, Cuba, Greece
 
 
 **Book 7:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Γ΄ (Physics Grade 12, Volume G)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0282-01 (source_url), production files 22-0183.indd dated 2018. Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-g.pdf. Byte size: 17,866,571 (exact match) · PDF pages: 274 · Offset: printed = PDF − 1 (contents bound at the back, printed pp. 268–270). Verdict: COMPLETE (Ch. 7, appendices of constants, glossary, index, bibliography to printed p. 267, contents close the PDF). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 8:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Bhutan, Ch. 17 Waves—II: the Doppler effect for sound and light — printed pp. 498–503 |
@@ -27,7 +30,8 @@ countries: Bhutan, North Macedonia, Laos, China, Cuba, Greece
 | Ch. 7 §7.4: Doppler effect treated with standing waves/speed of EM waves — printed pp. 391–392 (Cuba, Grade 11) | Cuba, *Física — onceno grado (Grade 11 student book, 2024)*, Ch. 7 §7.4: Doppler effect treated with standing waves/speed of EM waves — printed pp. 391–392 |
 | Ch. 5, Doppler phenomenon (Doppler echocardiography insert) | Greece, *Physics Grade 12, Teuchos G*, Ch. 5, Doppler phenomenon (Doppler echocardiography insert) — printed p. 168 — no Doppler slug exists |
 
-**Acceptance count: taught in 6 countries (Bhutan, North Macedonia, Laos, China, Cuba, Greece).**
+| Ch. 7, Doppler effect for sound; applications in radar, sonar, astronomy, satellites and speed traps | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 7, Doppler effect for sound; applications in radar, sonar, astronomy, satellites and speed traps — printed p. 132 (chapter Learning Objectives) |
+**Acceptance count: taught in 7 countries (Bhutan, North Macedonia, Laos, China, Cuba, Greece, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Bhutan placement “The Doppler effect — pitch and frequency shift when source or listener moves” — bhutan-placements.md, Book 3 (Halliday, Resnick & Walker, Grade 11 record), Ch. 17 — printed pp. 498–503. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

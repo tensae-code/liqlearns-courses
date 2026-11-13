@@ -1,6 +1,6 @@
 # Sources — Magnetic flux — how much field passes through
 
-countries: Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China, Jordan, Mauritania, Greece
+countries: Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China, Jordan, Mauritania, Greece, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -26,6 +26,11 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 
 **Book 11:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Β΄ (Physics Grade 12, Volume B)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0170-02, ISBN 978-960-06-2425-0 (back cover). Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-b.pdf. Byte size: 13,934,076 (exact match) · PDF pages: 246 · Offset: placements cite the printed page numbers of the book's own contents, bound at the back of this volume (printed pp. 238–241); the body is printed-numbered throughout. Verdict: COMPLETE (contents lists appendices/glossary to printed p. 236, contents and colophon close the PDF). Library note carried from the reading: this volume's Ch. 1–3 strands overlap by design with the Grade 11 orientation book's Ch. 3–5 in the Greek set, in this volume's fuller problem treatment. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 12:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
+**Book 13:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Magnetic flux | Grade 12 Student Textbook, printed pp. 128–129 |
@@ -41,6 +46,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Ch V (Mauritania, Grade 13) | Mauritania, *Physique — 7ème Année, Série Sciences Naturelles*, Ch V — printed p. 116–123 |
 | Ch. 4, Magnetic flux / Gauss's law in magnetism | Greece, *Physics Grade 12, Teuchos B*, Ch. 4, Magnetic flux / Gauss's law in magnetism — printed p. 154 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China, Jordan, Mauritania, Greece).**
+| Ch. 10 §10.2, magnetic flux and flux density, φ = BA cosθ, flux linkage | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 10 §10.2, magnetic flux and flux density, φ = BA cosθ, flux linkage — printed p. 225 |
+| Ch. 14, magnetic flux and the weber, Φ = B·A | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 14, magnetic flux and the weber, Φ = B·A — printed p. 56 (Learning Objectives 6–7) |
+**Acceptance count: taught in 11 countries (Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China, Jordan, Mauritania, Greece, Pakistan (Punjab)).**
 
 Searchable tags: physics, grade 12, electromagnetism, magnetic flux — how much field passes through, flux, iran, laos

@@ -1,0 +1,4 @@
+# How this physics course works — the Pakistani (Punjab) Grade 10 way — depth
+
+Whole-lesson pass mark: the learner can do all of these — Class X does not start again at Unit 1; Each Class X unit keeps the Grade 9 architecture — outcomes and major concepts first, investigation and society boxes through the text, sidebars for quick checks — so a learner moving from Class IX to Class X changes only the physics, never the way of learning it; The book ends with a full index (printed p — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

@@ -1,0 +1,16 @@
+# Sources — Kinds of solids — crystalline, amorphous, polymeric
+
+countries: Pakistan (Punjab)
+
+**Book 1:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
+**Book 2:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 5 §5.1, classification of solids by atomic arrangement | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 5 §5.1, classification of solids by atomic arrangement — printed p. 88 |
+| Ch. 17 §17.1, classification of solids: crystalline, glassy, amorphous and polymeric; the lattice | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 17 §17.1, classification of solids: crystalline, glassy, amorphous and polymeric; the lattice — printed p. 135 (repeated proposal — first made for the Grade 11 book, Ch. 5) |
+
+**Acceptance count: taught in 1 country (Pakistan (Punjab)).**
+
+Searchable tags: physics, pakistan, punjab, kinds of solids crystalline amorphous polymeric

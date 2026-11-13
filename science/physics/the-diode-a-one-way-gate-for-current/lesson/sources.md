@@ -1,6 +1,6 @@
 # Sources — The diode — a one-way gate for current
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India, Moldova, Cuba (programme/teacher-guide evidence only), Jordan, Mauritania, Greece
+countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India, Moldova, Cuba (programme/teacher-guide evidence only), Jordan, Mauritania, Greece, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -34,6 +34,9 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya,
 
 
 **Book 16:** *Φυσική Γενικής Παιδείας Β΄ Γενικού Λυκείου (General-Education Physics, Grade 11)* (student book) — Greece, book code 22-0219-02. Grade: 11 · Student book (general education, "GP") · Repo path: grade-11/gov/greece/physics/full-year.pdf. Byte size: 13,485,215 (exact match) · PDF pages: 210 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 4 summary/questions/problems and closing essay "Determinism and quantum mechanics" to printed ~p. 208). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 17:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The p-n junction diode | Grade 12 Student Textbook, printed pp. 147–148 |
@@ -55,7 +58,8 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya,
 | Chapitre VI, caractéristique de la diode Zener (Mauritania, Grade 11) | Mauritania, *Physiques — 5ème D*, Chapitre VI, caractéristique de la diode Zener — printed p. 94–113 |
 | Ch. 2.11, The diode | Greece, *General-Education Physics, Grade 11*, Ch. 2.11, The diode — printed p. 102 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India, Moldova, Jordan, Mauritania, Greece).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| Ch. 18, the p-n junction characteristic curve and forward resistance | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 18, the p-n junction characteristic curve and forward resistance — printed p. 155 |
+**Acceptance count: taught in 14 countries (Ethiopia, Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India, Moldova, Jordan, Mauritania, Greece, Pakistan (Punjab)).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

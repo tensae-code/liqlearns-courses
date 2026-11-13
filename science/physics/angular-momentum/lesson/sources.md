@@ -1,6 +1,6 @@
 # Sources — Angular momentum
 
-countries: Sri Lanka, Kuwait, Bhutan, North Macedonia, Moldova, Jordan, Greece
+countries: Sri Lanka, Kuwait, Bhutan, North Macedonia, Moldova, Jordan, Greece, Pakistan (Punjab)
 
 **Book 1:** *Science for Technology: Physics Part II* (student textbook) — Sri Lanka, Educational Publications Department, first edition 2016. Title as printed: தொழினுட்பவியலுக்கான விஞ்ஞானம், பௌதிகவியல் பகுதி – II; G.C.E. (A/L) Technology stream; Educational Publications Department; first edition 2016. Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/science-for-technology/textbook/physics-part-2.pdf · Release: mid-size-books-5. Byte size: 19,930,228 · PDF pages: 124 · Offset: printed p. N = PDF p. N+8 (printed p. 1 = PDF p. 9). Verdict: COMPLETE — identity proven by cover/title/imprint; full contents (printed pp. vii–viii) read; Chapter 1 read at its opening. Read basis: contents-anchored read with chapter-opening verification (image-only scan). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
 
@@ -16,6 +16,9 @@ countries: Sri Lanka, Kuwait, Bhutan, North Macedonia, Moldova, Jordan, Greece
 
 
 **Book 7:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Γ΄ (Physics Grade 12, Volume G)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0282-01 (source_url), production files 22-0183.indd dated 2018. Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-g.pdf. Byte size: 17,866,571 (exact match) · PDF pages: 274 · Offset: printed = PDF − 1 (contents bound at the back, printed pp. 268–270). Verdict: COMPLETE (Ch. 7, appendices of constants, glossary, index, bibliography to printed p. 267, contents close the PDF). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 8:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Sri Lanka, *Science for Technology: Physics Part II*, §1.10 — கோண உந்தம் (angular momentum) as its own section; cross-reference: the moment-of-inertia lesson `moment-of-inertia-rotations-mass` (§1.9 of the same chapter) — printed p. 14 |
@@ -31,7 +34,8 @@ countries: Sri Lanka, Kuwait, Bhutan, North Macedonia, Moldova, Jordan, Greece
 | Unit 2 Lesson 3, angular momentum, rotational kinetic energy, and conservation of angular momentum | Jordan, *Physics — Grade 12, Term 1 (Student Book, Academic Track)*, Unit 2 Lesson 3, angular momentum, rotational kinetic energy, and conservation of angular momentum — printed p. 67 — stocked into this shared lesson (built for an earlier country's placement); the Jordan placements file tags it NEW LESSON NEEDED: angular-momentum-and-its-conservation |
 | Ch. 4, Angular momentum / conservation of angular momentum | Greece, *Physics Grade 12, Teuchos G*, Ch. 4, Angular momentum / conservation of angular momentum — printed p. 123 — no angular-momentum slug exists |
 
-**Acceptance count: taught in 7 countries (Sri Lanka, Kuwait, Bhutan, North Macedonia, Moldova, Jordan, Greece).**
+| Ch. 3, conservation of angular momentum: gyroscopes, ice skaters, rotational energy storage | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 3, conservation of angular momentum: gyroscopes, ice skaters, rotational energy storage — printed p. 48 (chapter Learning Objectives) |
+**Acceptance count: taught in 8 countries (Sri Lanka, Kuwait, Bhutan, North Macedonia, Moldova, Jordan, Greece, Pakistan (Punjab)).**
 
 Placement choice, on the record: this NEW LESSON was built for the Sri Lanka placement “Angular momentum” — sri-lanka-placements.md, §1.10 — கோண உந்தம் (angular momentum) as its own section; cross-reference: the moment-of-inertia lesson `moment-of-inertia-rotations-mass` (§1.9 of the same chapter) — printed p. 14. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

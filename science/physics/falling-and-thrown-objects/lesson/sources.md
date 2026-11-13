@@ -1,6 +1,6 @@
 # Sources — Falling and thrown objects
 
-countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos, Mozambique
+countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos, Mozambique, Pakistan (Punjab)
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos, Mozambi
 
 **Book 8:** *MÓDULO 1 — FÍSICA — Mecânica – Cinemática* (student module) — Ministério da Educação e Cultura — Instituto de Desenvolvimento da Educação (INDE), Mozambique; distance-education (PESD) self-study module. Title as printed: MÓDULO 1 — FÍSICA — Mecânica – Cinemática. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica1-2o-Ciclo.pdf. Route used (retry reader, 2026-11-12): pusher-token GitHub Contents API raw download of the secured repo file itself — 1,189,737 bytes, EXACT match to the record; pdfinfo 143 pages. Offset: printed p. = PDF p. − 3 (printed “Acerca deste Módulo” p. 1 = PDF p. 4; Lição 1 printed p. 5 = PDF p. 8); printed pagination runs 1–114 (Teste p. 111, Soluções p. 114) with the solutions running to PDF p. 143. Verdict: COMPLETE (full text read cover to the last solutions page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
 
+**Book 9:** *Physics IX* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition. Grade: 9 (Class IX) · Student book · Repo path: grade-09/gov/pakistan/physics/full-year.pdf. Byte size: 37,622,147 (matches the repo tree file size exactly) · PDF pages: 208 · Offset: printed page = PDF page (verified: Unit 2 printed 29 = PDF 29; Unit 9 content printed 206–208 = PDF 206–208). Verdict: COMPLETE as a textbook (Unit 1 opens the book at printed p. 1 and Unit 9's review questions end at printed p. 208), but the scan lacks the cover, title page and any index/front matter. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Vertical motion and free fall | Grade 11 Student Textbook, printed pp. 70–74 |
@@ -31,7 +33,8 @@ countries: Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos, Mozambi
 
 | §24 Motion of a body under gravity (Belarus, Grade 9) | Belarus, *Фізіка. 9 клас (пад рэд. А. А. Сакольскага)*, §24 Motion of a body under gravity — printed p. 124 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos, Mozambique).**
+| Unit 2 §2.7, motion due to gravity | Pakistan (Punjab), *Physics IX*, Unit 2 §2.7, motion due to gravity — printed p. 50 |
+**Acceptance count: taught in 9 countries (Ethiopia, Ecuador, Nicaragua, Malaysia, Sudan, Belarus, Laos, Mozambique, Pakistan (Punjab)).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
