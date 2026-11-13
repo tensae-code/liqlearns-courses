@@ -1754,6 +1754,7 @@ solar-system comparison lessons.
 298. **Writing a laboratory report** (`chemistry/writing-a-laboratory-report`) — correct significant figures and units throughout — wrong sig figs "amount to lying about the precision";
 299. **Writing chemical equations** (`chemistry/writing-chemical-equations`) — Step 1: write the word equation (hydrogen + nitrogen → ammonia;
 300. **Writing electron configurations** (`chemistry/writing-electron-configurations`) — The Aufbau principle: electrons fill the lowest-energy orbitals first, in the filling order the diagram gives.
+301. **Chemistry in a team escape game** (`chemistry/chemistry-in-a-team-escape-game`) — Finland's way: chemistry carried inside a cooperative table escape game for class bonding — four colour teams solve three boxed puzzles each in phase 1 and combine their jigsaw pieces for a shared final puzzle in phase 2; the game's one chemistry case holds an article about elements plus a periodic table, and the six elements most common in the human body (O, C, H, N, Ca, P), marked with a UV pen, give their atomic numbers to a formula on a yellow card that forms a lock code — game instructions, not a textbook, stocked as printed (Finland, Grade 7 — *JUMISSA! -Pöytäpakopeli*, whole book, printed pp. 1–9; chemistry case printed p. 5)
 
 
 ## Unit 19 — Earth and Space
