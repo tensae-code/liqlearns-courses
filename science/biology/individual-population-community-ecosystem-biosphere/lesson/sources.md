@@ -1,6 +1,6 @@
 # Sources — Individual, population, community, ecosystem, biosphere
 
-countries: Ethiopia, Syria, Azerbaijan, France, Eritrea
+countries: Ethiopia, Syria, Azerbaijan, France, Eritrea, Laos
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Syria, Azerbaijan, France, Eritrea
 
 **Book 6:** Biology for Grade 12 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-12-gov-eritrea-biology-student-full-year.pdf — Byte size: 12,793,204 — PDF pages: 144. Verdict: COMPLETE — all three units named in the Introduction present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises. Structural summary: A three-unit capstone: molecular genetics taught at bond level (two hydrogen bonds A–T, three C–G), evolution with Lamarck presented and then criticised point by point, and ecology built on population phases (growth, stability, decline) and their factors. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 7:** ຊີວະວິທະຍາ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Biology, Secondary Year 6 / Grade 11, student textbook) (as printed) — Laos. Grade: 11 (grade-11) — Kind: student as verified — Repo path: grade-11/gov/laos/biology/student/laos-g11-biology-student.pdf — Source: books.json record (grabbed via tree route) — Byte size: 3249566 (matches record) — PDF pages: 225 — Printed-page offset: printed p. = PDF page − 7 (preface states 24 lessons in 5 parts; final questions printed p. 218) — Verdict: COMPLETE — read on 80 DPI contact sheets with the contents and the reproduction lesson also read at 150 DPI (renders deleted after filing); cover (human body systems artwork), title page (2015; E-learning unit among the contributors), preface, full contents, all 24 lessons present. Structural summary: A human-body year wrapped in ecology. Part II walks the human systems one per lesson — muscle, skeleton, digestion, respiration, circulation, excretion, nervous, sensation, hormones — then steps back for balance: a lesson on the mechanisms that keep the body in equilibrium (homeostasis), the immune system (whose closing questions treat HIV/AIDS and sexually transmitted infections), and human reproduction with spermatogenesis drawn stage by stage with English labels (Spermatogonium, Spermatocytes, Spermatid, Meiosis I and II, Mitosis, Rete testis). Parts III–IV turn outward: ecosystems, ecological factors, relationships and food interdependence, population ecology, the biosphere (ຊີວະໂລກ, "(Biosphere)" printed in English), energy transfer and nutrient cycling. Part V closes with quality of life: food and living, the value of food, quality of life. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 143–144 |
@@ -22,8 +24,11 @@ countries: Ethiopia, Syria, Azerbaijan, France, Eritrea
 | Azerbaijan's way — Part V §§30–31: boundaries of the biosphere and the global character of changes in it; the living matter of the biosphere (placement slug: what-an-ecosystem-is) | Book 4 (Биология 11, student textbook, Grade 11), Part V §§30–31, printed pp. 110–115 |
 | France's way — biodiversity read at genetic, species and ecosystem scales (placement slug: individual-population-community-ecosystem-biosphere) | Book 5 (SVT 2de GT — Manuel Libre de Sciences de la vie et de la Terre, student manual, Grade 10), Thème "L'organisation du vivant" / "Les échelles de la biodiversité" — repository path as cited in the placements, in place of a printed page, as the placements state |
 | Eritrea's way — Unit Three: components of an ecosystem (per the Introduction) | Book 6 (Biology for Grade 12 Textbook, student textbook, Grade 12), PDF pp. 93–144 |
+| Laos's way — Part IV: the Biosphere (ຊີວະໂລກ) — its lesson title carries “(Biosphere)” in English; the extent/boundaries of the biosphere (placement slug: the-biosphere-and-biomes) | Book 7 (ຊີວະວິທະຍາ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Biology, Grade 11), student textbook, Grade 11), Part IV — printed p. 174 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Syria, Azerbaijan, France, Eritrea).**
+**Acceptance count: taught in 6 countries (Ethiopia, Syria, Azerbaijan, France, Eritrea, Laos).**
+
+Honesty (Laos): Book 7 is a student textbook as verified in the placements — *ຊີວະວິທະຍາ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 6 (Biology, Secondary Year 6 / Grade 11, student textbook)*, Grade 11 — so Laos counts toward acceptance. It is COMPLETE: all 24 lessons in 5 parts present (225 PDF pages; printed p. = PDF page − 7).
 
 Honesty (Eritrea): Book 6 is a student textbook as verified in the placements — *Biology for Grade 12 Textbook* (The State of Eritrea, Ministry of Education), Grade 12, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all three units named in the Introduction are present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises (144 PDF pages). Page references are PDF pages, as the placements file gives them.
 
@@ -35,4 +40,4 @@ Honesty (Syria): Book 3 is a student textbook as verified in the placements — 
 
 Honesty (Azerbaijan): Book 4 is a student textbook as verified in the placements — *Биология 11* (Biology 11), the Russian-sector textbook (Şərq-Qərb, Baku, 2018) — so Azerbaijan counts toward acceptance. It is COMPLETE: seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present; 196 PDF pages, printed p. = PDF page − 2. The scan is image-only: the title page, colophon and the full two-page contents were read from page renders, so the placements cite the contents' printed pages. The placements slug for this stocking was what-an-ecosystem-is, which does not exist in the course; this lesson is the closest existing lesson covering that thing, and the original slug is recorded in the provenance row above.
 
-Searchable tags: biology, eritrea, azerbaijan, ethiopia, syria, individual, population, community, ecosystem, biosphere, france
+Searchable tags: biology, eritrea, azerbaijan, ethiopia, syria, individual, population, community, ecosystem, biosphere, france, laos

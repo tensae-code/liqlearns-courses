@@ -1,6 +1,6 @@
 # Sources — Cell theory — three statements, three scientists
 
-countries: Ethiopia, Palestine, Sudan
+countries: Ethiopia, Palestine, Sudan, Laos
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia, Palestine, Sudan
 
 **Book 4:** علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book") — Sudan. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-10-gov-sudan-biology-student-full-year.pdf — Byte size: 21,115,344 — PDF pages: 155 — Printed-page offset: printed p. = PDF page − 5 (unit pages carry both paginations). Verdict: COMPLETE — all five units present, Unit Five (Support) running to the end of the file. Structural summary: Introduction to Biology (its branches, and the contributions of earlier Muslim and non-Muslim scholars and of the Renaissance — Sudan names the Islamic-scholar strand explicitly) → Cell Biology → Classification of Living Organisms → Movement in Living Organisms → Support in Living Organisms. The systems year (nutrition/transport/respiration) is deferred to Second Secondary. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 5:** ຊີວະວິທະຍາ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Biology, Secondary Year 5 / Grade 10, student textbook) (as printed) — Laos. Grade: 10 (grade-10) — Kind: student as verified — Repo path: grade-10/gov/laos/biology/student/laos-g10-biology-student.pdf — Source: books.json record; the duplicate TSV record is the release asset mid-size-books-5/grade-10-gov-laos-biology-student-laos-g10-biology-student.pdf (tree grab 404s — the file is release-held; grabbed via the release URL, byte-identical to the record) — Byte size: 9092628 (matches record) — PDF pages: 227 — Printed-page offset: printed p. = PDF page − 7 (contents printed pp. 1–2 list 29 lessons; final content printed p. 220) — Verdict: COMPLETE — read on 80 DPI contact sheets with the two contents pages and spot lessons also read at 150 DPI (renders deleted after filing); cover (microscope, bacterium, plant cell and fish-anatomy artwork), title page (2014, Vientiane; SESDP-supported), preface, full contents, all 6 parts / 29 lessons, closing classification summary chart, questions (ຄຳຖາມ) closing sampled lessons. Structural summary: A zoology-and-foundations year organised by REVERSE size order — it opens with what biology is and the cell, does classification, tours the five kingdoms plant-side, and then gives invertebrates (Part V) BEFORE vertebrates (Part VI), ending not with a group but with three synthesis lessons: movement of living things, animal behaviour (ພຶດຕິກຳຂອງສັດ), and reproduction and growth of animals, whose last section teaches cell differentiation with a figure of one cell lineage becoming nerve, muscle and blood cells and the English term "(morphogenesis)" printed beside it. Lao way: branch names are given in English inside the Lao text (Biology = Bio + logy; Microbiology, Botany, Zoology, Physiology), and every invertebrate/vertebrate lesson is a form-and-life survey of the group. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/laos-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 45–46 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 33–52 |
 | Palestine's way — the cell theory (placement slug: cell-theory) | Book 3 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 1 Ch. 2 §1: the cell theory — printed p. 10 |
 | Sudan's way — Unit Two: Cell Biology — defining the cell and the concepts the cell theory is built on (placement slug: cell-theory) | Book 4 (علم الأحياء – الصف الأول الثانوي, student textbook, Grade 10), Unit Two, printed pp. 12–66 (objectives p. 13) |
+| Laos's way — Lesson 4: the cell and cell theory (ຈຸລັງ ແລະ ທິດສະດີກ່ຽວກັບຈຸລັງ) (placement slug: cell-theory) | Book 5 (ຊີວະວິທະຍາ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Biology, Grade 10), student textbook, Grade 10), Lesson 4 — printed p. 26 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Sudan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Sudan, Laos).**
+
+Honesty (Laos): Book 5 is a student textbook as verified in the placements — *ຊີວະວິທະຍາ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Biology, Secondary Year 5 / Grade 10, student textbook)*, Grade 10 — so Laos counts toward acceptance. It is COMPLETE: all 6 parts / 29 lessons present (227 PDF pages; printed p. = PDF page − 7). The book was recorded twice in the library records (a books.json record and a duplicate TSV record for the same release asset, byte-identical); it is one distinct book, taught once and cited once here.
 
 Honesty (Palestine): Book 3 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
@@ -25,4 +30,4 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Honesty (Sudan): Book 4 is a student textbook as verified in the placements — *علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book")*, Grade 10 — so Sudan counts toward acceptance. It is COMPLETE: all five units present, Unit Five (Support) running to the end of the file (155 PDF pages; printed p. = PDF page − 5).
 
-Searchable tags: biology, ethiopia, cell, theory, three, statements, three, scientists, palestine, sudan
+Searchable tags: biology, ethiopia, cell, theory, three, statements, three, scientists, palestine, sudan, laos
