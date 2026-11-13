@@ -1,6 +1,6 @@
 # Sources — Splitting a vector into components
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait, Bhutan, India, Moldova, Vietnam, China, Jordan
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait, Bhutan, India, Moldova, Vietnam, China, Jordan, Greece
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Sloveni
 
 **Book 14:** *Physics — Grade 10, Term 1 (Student Book) — الفيزياء، الصف العاشر، كتاب الطالب، الفصل الدراسي الأول* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2022; prepared originally in English for the National Center for Curriculum Development and Evaluation (NCCD), Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-254-1. Grade: 10 · Kind: student · Repo path/URL: release asset `grade-10-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-10-gov-jordan-physics-student-term-1.pdf · Bytes: 20,553,673 (matches release asset size exactly) · PDF pages: 88 · Offset: printed page = PDF page (verified: introduction printed 4 = PDF 4). Verdict: COMPLETE (glossary printed 85; ends PDF 88). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
 
+
+**Book 15:** *Φυσική Γενικής Παιδείας Α΄ Γενικού Λυκείου (General-Education Physics, Grade 10)* (student book) — Greece, book file code 22-0033 (source_url 22-0221-02), Kokkotas/Vlachos author team. Grade: 10 · Student book (general education) · Repo path: grade-10/gov/greece/physics/full-year.pdf. Byte size: 20,500,781 (exact match) · PDF pages: 234 · Offset: printed = PDF − 1. Verdict: COMPLETE (ends Ch. 2.2 summary/questions to printed p. 233 area, colophon follows). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Components of a vector | Grade 11 Student Textbook, printed pp. 26–33 |
@@ -47,8 +49,9 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Sloveni
 | Ch. 3, resolution of vectors sections — rectangular components (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 3, resolution of vectors sections — rectangular components |
 | Bài 13 §III — resolving a force into components (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 13 §III: resolving a force into perpendicular components, weight on an incline as the worked case — printed p. 59 |
 | Unit 1 Lesson 2, resolving vectors into components | Jordan, *Physics — Grade 10, Term 1 (Student Book)*, Unit 1 Lesson 2, resolving vectors into components — printed p. 17 |
+| Ch. 1.3.4, Analysis of a force into components | Greece, *General-Education Physics, Grade 10*, Ch. 1.3.4, Analysis of a force into components — printed p. 115 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait, Bhutan, India, Moldova, Vietnam, China, Jordan).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait, Bhutan, India, Moldova, Vietnam, China, Jordan, Greece).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

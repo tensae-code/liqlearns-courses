@@ -1,0 +1,4 @@
+# The greenhouse effect — trapping heat, the Greek experiment way — depth
+
+Whole-lesson pass mark: the learner can do all of these — Run the covered-versus-open flask comparison as a fair test (same lamp, same time, one difference); Explain the trapping: light enters freely, heat radiation and warm air escape slowly; State why the covered flask stops warming (inflow and the slower outflow come back into balance); Carry the model to the planet: greenhouse gases as the Earth's cover; Name the natural greenhouse effect as life-enabling, and its strengthening as the warming problem — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

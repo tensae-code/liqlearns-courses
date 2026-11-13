@@ -1,6 +1,6 @@
 # Sources — Internal energy and how it changes
 
-countries: Belarus, Uzbekistan, Iran, South Sudan, China
+countries: Belarus, Uzbekistan, Iran, South Sudan, China, Greece
 
 **Book 1:** *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай) (Physics, Grade 8)* (student textbook) — Belarus, Isachenkava & Liashchynski, ed. Isachenkava; Minsk, «Народная асвета», 2010 (signed to print 14.05.2010); Belarusian-language edition. Grade: 8 · Student book · Repo: release `mid-size-books-7`, asset `grade-08-gov-belarus-physics-student-full-year.pdf` — 18,653,720 bytes (matched asset). PDF pages: 184. Printed page ≈ PDF page. Verdict: COMPLETE (Ch.4 Laboratory experiment, density appendix at printed p. 179, answers at p. 180, contents and colophon present). Structure: Ch.1 Thermal phenomena (§§1–12); Ch.2 Electromagnetic phenomena (§§13–34); Ch.3 Light phenomena (§§35–43); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
 
@@ -18,6 +18,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 7:** *普通高中教科书·物理选择性必修 第三册 (Senior High Physics, Selective Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 3 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 12,278,176 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §4.2 photoelectric effect, printed p.71, lands on PDF p.76). Verdict: COMPLETE — chapters 1–5 through research project (p.132) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 7).
 
+
+**Book 8:** *Φυσική Γενικής Παιδείας Α΄ Γενικού Λυκείου (General-Education Physics, Grade 10)* (student book) — Greece, book file code 22-0033 (source_url 22-0221-02), Kokkotas/Vlachos author team. Grade: 10 · Student book (general education) · Repo path: grade-10/gov/greece/physics/full-year.pdf. Byte size: 20,500,781 (exact match) · PDF pages: 234 · Offset: printed = PDF − 1. Verdict: COMPLETE (ends Ch. 2.2 summary/questions to printed p. 233 area, colophon follows). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Belarus, *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай)*, §2 Internal energy (printed p. 9); §3 Ways of changing internal energy — printed p. 12 |
@@ -32,8 +34,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Ch.3 §1 Work, heat and the change of internal energy (China, Senior Physics, Selective Compulsory Book 3) | China, *Senior Physics, Selective Compulsory Book 3*, Ch.3 §1 Work, heat and the change of internal energy — printed p. 46 — senior restatement of the Grade 9 lesson — second row from this book in the shared internal-energy lesson |
 
 | Topic 7: internal energy of a system (South Sudan, Secondary 3 (Grade 11)) | South Sudan, *South Sudan Secondary Physics 3 — Student's Book*, Topic 7: internal energy of a system — printed p. 241 |
+| Ch. 2.2.3, Internal energy | Greece, *General-Education Physics, Grade 10*, Ch. 2.2.3, Internal energy — printed p. 209 — named concept chapter; no internal-energy slug exists |
 
-**Acceptance count: taught in 5 countries (Belarus, Uzbekistan, Iran, South Sudan, China).**
+**Acceptance count: taught in 6 countries (Belarus, Uzbekistan, Iran, South Sudan, China, Greece).**
 
 Placement choice, on the record: this NEW LESSON was built for the Belarus placement “Internal energy and how it changes” — belarus-placements.md, Book 2, §2 Internal energy (printed p. 9); §3 Ways of changing internal energy (printed p. 12). It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

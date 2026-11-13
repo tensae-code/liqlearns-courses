@@ -1,6 +1,6 @@
 # Sources — Wave optics — interference and diffraction of light
 
-countries: Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan, Mauritania
+countries: Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan, Mauritania, Greece
 
 **Book 1:** *Physics for Year 13* (student textbook) — Fiji, Ministry of Education, Heritage and Arts, Fiji — Curriculum Advisory Services; based on the Year 13 Physics Syllabus 2018. Title as printed: Physics for Year 13 (Ministry of Education, Heritage and Arts, Fiji — Curriculum Advisory Services; based on the Year 13 Physics Syllabus 2018). Grade: 13 · Student book · Repo path: grade-13/gov/fiji/physics/student/full-year.pdf · Release: mid-size-books-7. Byte size: 12,431,417 (release asset; no size in record) · PDF pages: 221 · Offset: printed p. N ≈ PDF p. N+4 (front matter i–iv + reference pages). Verdict: COMPLETE — full text read (45,871 words); copyright/acknowledgement pages prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/fiji-placements.md.
 
@@ -24,6 +24,8 @@ countries: Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan,
 
 **Book 11:** *Physique — 7ème Année — C — Mathématique* (student manual) — Mauritania, Institut Pédagogique National (IPN), Ministère de l'Éducation et de la Réforme du Système d'Enseignement — the new IPN collection, 2025/2026. Title as printed: Physique — 7ème Année — C — Mathématique (cover: "Physique 7ème Année N° C — Mathématique", IPN, 2025/2026). Grade: 13 (7AS), série C (mathematics track) · Student manual — Physics only (no Chemistry chapters appear anywhere in its 350 pages). Repo path: grade-13/gov/mauritania/phy-7as-c.pdf (record flags: in_pushed = true, on_disk = false). **Library debt found (retry reader, carried on the record): the file is NOT in GitHub at all** — the repo Contents API returns 404 for the tree path, a full sweep of all ten textbook releases (8,179 assets) contains no phy-7as-c asset under any name (the série D twin IS present), the pusher state file has no Mauritania 7AS entries, and phase3-staging holds no copy; the record's in_pushed = true is wrong for this book and it needs re-pushing from the publisher file. Route used (retry): the recorded publisher source itself, https://docs.bsimr.com/pdfs/secondaire2s/PHY-7AS-C.pdf, fetched whole with curl (a 1 KB Range probe first returned HTTP 206 with Content-Range total 57,412,021 bytes — EXACT match to the record). Byte size: 57,412,021 (exact match to record). PDF pages: 350 (pdfinfo). Offset: printed p. = PDF p. exactly (folios verified at PDF pp. 6, 23, 50, 95, 100, 150, 200, 250, 299, 310). Verdict: COMPLETE (full text read cover to the last exercise pages). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mauritania-placements.md.
 
+
+**Book 12:** *Φυσική Γενικής Παιδείας Β΄ Γενικού Λυκείου (General-Education Physics, Grade 11)* (student book) — Greece, book code 22-0219-02. Grade: 11 · Student book (general education, "GP") · Repo path: grade-11/gov/greece/physics/full-year.pdf. Byte size: 13,485,215 (exact match) · PDF pages: 210 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 4 summary/questions/problems and closing essay "Determinism and quantum mechanics" to printed ~p. 208). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Fiji, *Physics for Year 13*, Strand 3 §3.3 Wave Optics — printed p. 80 |
@@ -49,8 +51,9 @@ countries: Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan,
 
 | Ch VIII (Mauritania, Grade 13) — NEW LESSON NEEDED tag in mauritania-placements.md, stocked into this lesson | Mauritania, *Physique — 7ème Année, Série Sciences Naturelles*, Ch VIII — printed p. 160–180 |
 | Ch XII Interférences lumineuses (Mauritania, Grade 13) — NEW LESSON NEEDED tag in mauritania-placements.md, stocked into this lesson | Mauritania, *Physique — 7ème Année, série C*, Ch XII Interférences lumineuses — printed p. 256 |
+| Ch. 3.5, Polarisation of light | Greece, *General-Education Physics, Grade 11*, Ch. 3.5, Polarisation of light — printed p. 159 — full section; no polarisation slug exists |
 
-**Acceptance count: taught in 9 countries (Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan, Mauritania).**
+**Acceptance count: taught in 10 countries (Fiji, United States, Egypt, Afghanistan, Bhutan, China, Cuba, Jordan, Mauritania, Greece).**
 
 Placement choice, on the record: this NEW LESSON was built for the Fiji placement “Wave optics — interference and diffraction of light” — fiji-placements.md, Book 3, Strand 3 §3.3 Wave Optics — printed p. 80. On the record: this lesson is light-specific — interference, single-slit diffraction and the grating treated for light. It is distinct from Malaysia's general wave lesson `physics/diffraction-of-waves` (diffraction of waves in general — water, sound and light) and from the grating-as-instrument lesson `light/diffraction-gratings-grooved-surfaces-splitting-light-by-wavelength`; the lessons cross-refer and none replaces the others. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

@@ -1,6 +1,6 @@
 # Sources — Free fall — Galileo vs Aristotle
 
-countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evidence only), Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, Vietnam, Libya, Mozambique, China, Jordan
+countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evidence only), Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, Vietnam, Libya, Mozambique, China, Jordan, Greece
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evi
 
 **Book 17:** *Physics — Grade 9, Term 1 (Student Book) — الفيزياء، الصف التاسع، كتاب الطالب، الفصل الدراسي الأول* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. NCCD new-curriculum edition; approved for all schools of the Hashemite Kingdom of Jordan by Ministry of Education decision dated 19 Jun 2022 (قرار مجلس التربية والتعليم 2022/4). Grade: 9 · Kind: student · Repo path/URL: release asset `grade-09-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-09-gov-jordan-physics-student-term-1.pdf · Bytes: 27,740,195 (matches release asset size exactly) · PDF pages: 98 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8; Lesson 1 printed 10 = PDF 11). Verdict: COMPLETE (ends with glossary printed 92 and references printed 95; PDF pp. 98–99 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
 
+
+**Book 18:** *Φυσική Γενικής Παιδείας Α΄ Γενικού Λυκείου (General-Education Physics, Grade 10)* (student book) — Greece, book file code 22-0033 (source_url 22-0221-02), Kokkotas/Vlachos author team. Grade: 10 · Student book (general education) · Repo path: grade-10/gov/greece/physics/full-year.pdf. Byte size: 20,500,781 (exact match) · PDF pages: 234 · Offset: printed = PDF − 1. Verdict: COMPLETE (ends Ch. 2.2 summary/questions to printed p. 233 area, colophon follows). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Describing freely falling bodies — review of vertical motion | Grade 11 Student Textbook, printed pp. 75–79 |
@@ -57,8 +59,9 @@ countries: Ethiopia, Bolivia, Palestine, Slovenia, Cambodia (private-booklet evi
 | U2 §2-6: the acceleration of free fall, g (Libya, Grade 10) | Libya, *Physics, Grade 10 (student book — Part One: General Physics)*, U2 §2-6: the acceleration of free fall, g — printed pp. 33–34 |
 | Ch. 3 §§1–2: bodies falling from a height; bodies projected vertically upwards (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 2: Mechanics)*, Ch. 3 §§1–2: bodies falling from a height; bodies projected vertically upwards — printed pp. 36–42 |
 | Unit 2 Lesson 2, effect of air resistance on falling objects (paper sheet vs coin drop experiment) | Jordan, *Physics — Grade 9, Term 1 (Student Book)*, Unit 2 Lesson 2, effect of air resistance on falling objects (paper sheet vs coin drop experiment) — printed p. 58 |
+| Ch. 1.2.7, Free fall of bodies | Greece, *General-Education Physics, Grade 10*, Ch. 1.2.7, Free fall of bodies — printed p. 89 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Bolivia, Palestine, Slovenia, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, Vietnam, Libya, Mozambique, China, Jordan).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 16 countries (Ethiopia, Bolivia, Palestine, Slovenia, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, Vietnam, Libya, Mozambique, China, Jordan, Greece).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 

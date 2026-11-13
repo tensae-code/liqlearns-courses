@@ -1,6 +1,6 @@
 # Sources — The oscillating LC circuit and electrical resonance
 
-countries: Egypt, Uzbekistan, China, Mauritania
+countries: Egypt, Uzbekistan, China, Mauritania, Greece
 
 **Book 1:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
@@ -10,6 +10,8 @@ countries: Egypt, Uzbekistan, China, Mauritania
 
 **Book 4:** *Physique — 7ème Année — C — Mathématique* (student manual) — Mauritania, Institut Pédagogique National (IPN), Ministère de l'Éducation et de la Réforme du Système d'Enseignement — the new IPN collection, 2025/2026. Title as printed: Physique — 7ème Année — C — Mathématique (cover: "Physique 7ème Année N° C — Mathématique", IPN, 2025/2026). Grade: 13 (7AS), série C (mathematics track) · Student manual — Physics only (no Chemistry chapters appear anywhere in its 350 pages). Repo path: grade-13/gov/mauritania/phy-7as-c.pdf (record flags: in_pushed = true, on_disk = false). **Library debt found (retry reader, carried on the record): the file is NOT in GitHub at all** — the repo Contents API returns 404 for the tree path, a full sweep of all ten textbook releases (8,179 assets) contains no phy-7as-c asset under any name (the série D twin IS present), the pusher state file has no Mauritania 7AS entries, and phase3-staging holds no copy; the record's in_pushed = true is wrong for this book and it needs re-pushing from the publisher file. Route used (retry): the recorded publisher source itself, https://docs.bsimr.com/pdfs/secondaire2s/PHY-7AS-C.pdf, fetched whole with curl (a 1 KB Range probe first returned HTTP 206 with Content-Range total 57,412,021 bytes — EXACT match to the record). Byte size: 57,412,021 (exact match to record). PDF pages: 350 (pdfinfo). Offset: printed p. = PDF p. exactly (folios verified at PDF pp. 6, 23, 50, 95, 100, 150, 200, 250, 299, 310). Verdict: COMPLETE (full text read cover to the last exercise pages). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mauritania-placements.md.
 
+
+**Book 5:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Γ΄ (Physics Grade 12, Volume G)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0282-01 (source_url), production files 22-0183.indd dated 2018. Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-g.pdf. Byte size: 17,866,571 (exact match) · PDF pages: 274 · Offset: printed = PDF − 1 (contents bound at the back, printed pp. 268–270). Verdict: COMPLETE (Ch. 7, appendices of constants, glossary, index, bibliography to printed p. 267, contents close the PDF). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Egypt, *Physics, Third Secondary (English), 2025–2026*, Unit 1, Ch. 4 — printed p. 108 |
@@ -22,8 +24,9 @@ countries: Egypt, Uzbekistan, China, Mauritania
 
 | Ch VIII Oscillations électriques libres (Mauritania, Grade 13) — NEW LESSON NEEDED tag in mauritania-placements.md, stocked into this lesson | Mauritania, *Physique — 7ème Année, série C*, Ch VIII Oscillations électriques libres — printed p. 184 |
 | Ch IX Oscillations électriques forcées (Mauritania, Grade 13) — NEW LESSON NEEDED tag in mauritania-placements.md, stocked into this lesson | Mauritania, *Physique — 7ème Année, série C*, Ch IX Oscillations électriques forcées — printed p. 198 |
+| Ch. 1, Electrical oscillations | Greece, *Physics Grade 12, Teuchos G*, Ch. 1, Electrical oscillations — printed p. 14 — no LC-oscillation slug exists |
 
-**Acceptance count: taught in 4 countries (Egypt, Uzbekistan, China, Mauritania).**
+**Acceptance count: taught in 5 countries (Egypt, Uzbekistan, China, Mauritania, Greece).**
 
 Placement choice, on the record: this NEW LESSON was built for the Egypt placement "The oscillating (LC) circuit and electrical resonance" — egypt-placements.md, Book 4 (Grade 12 English), Unit 1, Ch. 4, printed p. 108 — a full lesson strand no existing slug covers. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

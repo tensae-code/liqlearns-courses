@@ -1,6 +1,6 @@
 # Sources — Experiments, models and theories
 
-countries: Ethiopia, Malaysia, Bhutan, Iran, Moldova, Vietnam
+countries: Ethiopia, Malaysia, Bhutan, Iran, Moldova, Vietnam, Greece
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 7:** *Vật lí 10 (Physics 10) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student book · 4th reprint (Tái bản lần thứ tư) · Authors: Vũ Văn Hùng (editor-in-chief), Bùi Gia Thịnh (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-full-year.pdf). Byte size: 26,833,128 (matches record). PDF pages: 142 (record 142). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover, title page, full TOC and interior chapters verified against TOC). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+
+**Book 8:** *Φυσική Β΄ Γυμνασίου — Εργαστηριακός Οδηγός (Physics Grade 8, Lab Guide)* (lab guide — student laboratory book) — Greece, code 21-0102-02, renewed edition files dated 2015–2016. Grade: 8 · Lab guide · Repo path: grade-08/gov/greece/physics/lab-guide.pdf. Byte size: 3,258,388 (exact match) · PDF pages: 66 · Offset: printed = PDF − 1. Verdict: COMPLETE (16 lab exercises, bibliography printed p. 63, colophon follows). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | How physics knowledge grows — inquiry and theory | Grade 11 Student Textbook, printed pp. 6–7 |
@@ -27,8 +29,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Ch. 0: methods in physics — printed p. 5 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 0: methods in physics — printed p. 5 |
 | §1-2, Modelling in physics — modelling given its own named section (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §1-2 — printed p. 5 |
 | Bài 1 §IV — the experimental method and the model method (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 1 §IV: the experimental method and the model method taught as a pair, the Galileo-vs-Aristotle falling-bodies story told step by step as the model of the experimental method; physical, theoretical and mathematical models distinguished — printed p. 9 |
+| Introduction, Experiment and theory | Greece, *Physics Grade 8, Lab Guide*, Introduction, Experiment and theory — printed p. 6 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Bhutan, Iran, Moldova, Vietnam).**
+**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Bhutan, Iran, Moldova, Vietnam, Greece).**
 
 In the student book, figure numbering restarts oddly in Unit 1's current-status section (Figures 9–16); no figure numbers are relied on in these lessons.
 

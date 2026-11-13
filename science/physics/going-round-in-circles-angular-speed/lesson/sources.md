@@ -1,6 +1,6 @@
 # Sources — Going round in circles — angular speed
 
-countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vietnam, China, Jordan
+countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vietnam, China, Jordan, Greece
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vi
 
 **Book 11:** *Physics — Grade 10, Term 2 (Student Book) — الفيزياء، الصف العاشر، كتاب الطالب، الفصل الدراسي الثاني* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2022; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD (same edition family as Term 1). Grade: 10 · Kind: student · Repo path/URL: release asset `grade-10-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-10-gov-jordan-physics-student-term-2.pdf · Bytes: 52,926,341 (matches release asset size exactly) · PDF pages: 132 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5). Verdict: COMPLETE (glossary at printed 128; ends PDF 132). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
 
+
+**Book 12:** *Φυσική Γενικής Παιδείας Α΄ Γενικού Λυκείου (General-Education Physics, Grade 10)* (student book) — Greece, book file code 22-0033 (source_url 22-0221-02), Kokkotas/Vlachos author team. Grade: 10 · Student book (general education) · Repo path: grade-10/gov/greece/physics/full-year.pdf. Byte size: 20,500,781 (exact match) · PDF pages: 234 · Offset: printed = PDF − 1. Verdict: COMPLETE (ends Ch. 2.2 summary/questions to printed p. 233 area, colophon follows). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 13:** *Φυσική Προσανατολισμού Β΄ Γενικού Λυκείου (Orientation Physics, Grade 11)* (student book) — Greece, book code 22-0223-02. Grade: 11 · Student book (orientation / positive-studies track, "ThSp") · Repo path: grade-11/gov/greece/physics/full-year-orientation.pdf. Byte size: 11,028,283 (exact match) · PDF pages: 226 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 5 electric field runs to the end, summary/questions/problems closing the book). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Uniform circular motion — angular quantities | Grade 11 Student Textbook, printed pp. 79–83 |
@@ -37,8 +41,10 @@ countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vi
 | Bài 31 — Kinematics of uniform circular motion (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 31, Kinematics of uniform circular motion — printed p. 120 |
 | Ch.6 §1 Circular motion (China, Senior Physics, Compulsory Book 2) | China, *Senior Physics, Compulsory Book 2*, Ch.6 §1 Circular motion — printed p. 23 |
 | Unit 4 Lesson 3, circular motion quantities | Jordan, *Physics — Grade 10, Term 2 (Student Book)*, Unit 4 Lesson 3, circular motion quantities — printed p. 42 |
+| Ch. 1.3.10, Uniform circular motion | Greece, *General-Education Physics, Grade 10*, Ch. 1.3.10, Uniform circular motion — printed p. 130 |
+| Ch. 1.2, Uniform circular motion | Greece, *Orientation Physics, Grade 11*, Ch. 1.2, Uniform circular motion — printed p. 12 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vietnam, China, Jordan).**
+**Acceptance count: taught in 12 countries (Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vietnam, China, Jordan, Greece).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 

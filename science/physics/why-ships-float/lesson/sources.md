@@ -1,6 +1,6 @@
 # Sources — Why ships float
 
-countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China, Cuba (programme/teacher-guide evidence only), Jordan
+countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China, Cuba (programme/teacher-guide evidence only), Jordan, Greece
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -28,6 +28,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 12:** *Physics — Grade 10, Term 2 (Student Book) — الفيزياء، الصف العاشر، كتاب الطالب، الفصل الدراسي الثاني* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2022; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD (same edition family as Term 1). Grade: 10 · Kind: student · Repo path/URL: release asset `grade-10-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-10-gov-jordan-physics-student-term-2.pdf · Bytes: 52,926,341 (matches release asset size exactly) · PDF pages: 132 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5). Verdict: COMPLETE (glossary at printed 128; ends PDF 132). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
 
+
+**Book 13:** *Φυσική Β΄ Γυμνασίου (Physics, Grade 8)* (student book) — Greece, book code 21-0100-02 (cover verso), Diophantos printing files dated 2013–2016. Grade: 8 · Student book · Repo path: grade-08/gov/greece/physics/full-year.pdf. Byte size: 16,175,368 (exact match) · PDF pages: 170 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 8 questions end printed p. 167, colophon + back cover follow). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 14:** *Φυσική Β΄ Γυμνασίου — Εργαστηριακός Οδηγός (Physics Grade 8, Lab Guide)* (lab guide — student laboratory book) — Greece, code 21-0102-02, renewed edition files dated 2015–2016. Grade: 8 · Lab guide · Repo path: grade-08/gov/greece/physics/lab-guide.pdf. Byte size: 3,258,388 (exact match) · PDF pages: 66 · Offset: printed = PDF − 1. Verdict: COMPLETE (16 lab exercises, bibliography printed p. 63, colophon follows). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sinking, floating, and big ships | Grade 12 Student Textbook, printed pp. 98–102 |
@@ -43,7 +47,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | §2-4, Buoyancy (شناوری) — why ships float (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §2-4 — printed p. 40 |
 | Theme 3 §3.5: floating, sinking and hovering of bodies — the three outcomes of thrust vs weight (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 3 §3.5: floating, sinking and hovering of bodies — the three outcomes of thrust vs weight — printed p. 89 |
 | Unit 5 Lesson 1, floating under Archimedes | Jordan, *Physics — Grade 10, Term 2 (Student Book)*, Unit 5 Lesson 1, floating under Archimedes — printed p. 60 |
+| Ch. 4.6, Floating | Greece, *Physics, Grade 8 (student book)*, Ch. 4.6, Floating — printed p. 80 |
+| Lab 14, Buoyancy and the weight of displaced liquid | Greece, *Physics Grade 8, Lab Guide*, Lab 14, Buoyancy and the weight of displaced liquid — printed p. 56 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China, Jordan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China, Jordan, Greece).**
 
 Searchable tags: physics, grade 12, fluid mechanics, why ships float, displacement, iran, north macedonia, mozambique

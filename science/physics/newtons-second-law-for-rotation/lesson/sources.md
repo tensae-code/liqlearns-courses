@@ -1,6 +1,6 @@
 # Sources — τ = Iα — Newton's second law for rotation
 
-countries: Ethiopia, Cambodia, Bhutan, North Macedonia, Laos, Jordan
+countries: Ethiopia, Cambodia, Bhutan, North Macedonia, Laos, Jordan, Greece
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Cambodia, Bhutan, North Macedonia, Laos, Jordan
 
 **Book 6:** *Physics — Grade 12, Term 1 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الأول* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-799-7. First (experimental) edition 1446H/2025; approved by the Ministry of Education in 2025, for use from school year 2025/2026. Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-1.pdf · Bytes: 29,161,215 (matches release asset size exactly) · PDF pages: 182 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8). Verdict: COMPLETE (Unit 4 review questions end printed 177, glossary printed 178–180; PDF 182 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
 
+
+**Book 7:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Γ΄ (Physics Grade 12, Volume G)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0282-01 (source_url), production files 22-0183.indd dated 2018. Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-g.pdf. Byte size: 17,866,571 (exact match) · PDF pages: 274 · Offset: printed = PDF − 1 (contents bound at the back, printed pp. 268–270). Verdict: COMPLETE (Ch. 7, appendices of constants, glossary, index, bibliography to printed p. 267, contents close the PDF). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Torque and angular acceleration | Grade 12 Student Textbook, printed pp. 52–53 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Cambodia, Bhutan, North Macedonia, Laos, Jordan
 | Ch. 10 Rotation — printed p. 257 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 10 Rotation — printed p. 257 |
 | Theme 2: dynamics of rotation — torque about the axis, the fundamental law of rotational dynamics, moment of inertia (North Macedonia, Grade 13) | North Macedonia, *Физика за IV година, природно-математичко подрачје, комбинација А (Physics for IV year gymnasium, natural-science–mathematics track, combination A — elective subject)*, Theme 2: dynamics of rotation — torque about the axis, the fundamental law of rotational dynamics, moment of inertia — theme opener, printed p. 53 |
 | Unit 2 Lesson 2, Newton's second law for rotational motion | Jordan, *Physics — Grade 12, Term 1 (Student Book, Academic Track)*, Unit 2 Lesson 2, Newton's second law for rotational motion — printed p. 62 |
+| Ch. 4, Fundamental law of rotational motion | Greece, *Physics Grade 12, Teuchos G*, Ch. 4, Fundamental law of rotational motion — printed p. 120 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Bhutan, North Macedonia, Laos, Jordan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Bhutan, North Macedonia, Laos, Jordan, Greece).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

@@ -1,6 +1,6 @@
 # Sources — Acceleration — speeding up and slowing down
 
-countries: Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus, Moldova, Mozambique
+countries: Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus, Moldova, Mozambique, Greece
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus, Moldova, Mozambiq
 
 **Book 8:** *MÓDULO 1 — FÍSICA — Mecânica – Cinemática* (student module) — Ministério da Educação e Cultura — Instituto de Desenvolvimento da Educação (INDE), Mozambique; distance-education (PESD) self-study module. Title as printed: MÓDULO 1 — FÍSICA — Mecânica – Cinemática. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica1-2o-Ciclo.pdf. Route used (retry reader, 2026-11-12): pusher-token GitHub Contents API raw download of the secured repo file itself — 1,189,737 bytes, EXACT match to the record; pdfinfo 143 pages. Offset: printed p. = PDF p. − 3 (printed “Acerca deste Módulo” p. 1 = PDF p. 4; Lição 1 printed p. 5 = PDF p. 8); printed pagination runs 1–114 (Teste p. 111, Soluções p. 114) with the solutions running to PDF p. 143. Verdict: COMPLETE (full text read cover to the last solutions page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
 
+
+**Book 9:** *Φυσική Β΄ Γυμνασίου (Physics, Grade 8)* (student book) — Greece, book code 21-0100-02 (cover verso), Diophantos printing files dated 2013–2016. Grade: 8 · Student book · Repo path: grade-08/gov/greece/physics/full-year.pdf. Byte size: 16,175,368 (exact match) · PDF pages: 170 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 8 questions end printed p. 167, colophon + back cover follow). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Speeding up and slowing down — acceleration in a straight line | Grade 11 Student Textbook, printed pp. 48–53 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus, Moldova, Mozambiq
 | Lição 14 Movimento Rectilíneo Uniformemente Acelerado e Retardado (Mozambique, PESD II Módulo 1) | Mozambique, *Módulo 1 — Física — Mecânica – Cinemática (PESD II, 2º Ciclo)*, Lição 14 Movimento Rectilíneo Uniformemente Acelerado e Retardado — accelerated vs retarded told apart by the signs on the graphs — printed p. 81 |
 
 | §11 Acceleration; §12–13 Speed, path and coordinate with constant acceleration (printed pp. 54–59) (Belarus, Grade 9) | Belarus, *Фізіка. 9 клас (пад рэд. А. А. Сакольскага)*, §11 Acceleration; §12–13 Speed, path and coordinate with constant acceleration (printed pp. 54–59) — printed p. 51 |
+| Ch. 2.4, Motion with changing speed | Greece, *Physics, Grade 8 (student book)*, Ch. 2.4, Motion with changing speed — printed p. 36 — qualitative/introductory acceleration, no equations strand |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus, Moldova, Mozambique).**
+**Acceptance count: taught in 8 countries (Ethiopia, Slovenia, Bulgaria, Afghanistan, Belarus, Moldova, Mozambique, Greece).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 

@@ -1,0 +1,4 @@
+# Molar heat capacities of gases — depth
+
+Whole-lesson pass mark: the learner can do all of these — Define Cv and Cp, each with its defining equation Q = n C ΔT and its held quantity; Explain through the first law why ΔU = n Cv ΔT holds for any ideal-gas change; Show why Cp must exceed Cv, and derive Cp − Cv = R for one mole warmed one kelvin; State γ = Cp/Cv and typical values (5⁄3 monatomic, 7⁄5 diatomic); Use γ as the exponent of the adiabatic law p V^γ = constant — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

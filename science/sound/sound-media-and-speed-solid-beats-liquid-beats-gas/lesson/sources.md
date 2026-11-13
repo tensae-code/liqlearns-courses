@@ -1,6 +1,6 @@
 # Sources — Sound — media and speed: solid beats liquid beats gas
 
-countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan
+countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan
 
 **Book 5:** *Physics Secondary 2 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 2 (Grade 10) · Student book · Repo path: grade-10/gov/south-sudan/physics/student/full-year.pdf. Bytes: 14,907,001 (Contents API meta = downloaded) · PDF pages: 319 · Offset: printed p. 1 ≈ PDF p. 7 (printed = PDF − 6). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Magnetism and Topic Test 10 at the end of the book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+
+**Book 6:** *Εργαστηριακός Οδηγός Φυσικής, Γ΄ Γενικού Λυκείου (Physics Lab Guide, Grade 12)* (lab guide) — Greece, Pedagogical Institute / OEDV, 4th edition 2010 (colophon, printed back matter); the guide belongs to the older Positive & Technological direction course and is the lab companion secured alongside the current orientation volumes; its experiments map onto Teuchos G topics. Grade: 12 · Lab guide (kind recorded "student" in both record sets) · Repo path: grade-12/gov/greece/physics/lab-guide.pdf. Byte size: 11,077,671 (exact match) · PDF pages: 48 · Offset: printed = PDF (introduction printed p. 5 = PDF p. 5). Verdict: COMPLETE (7 lab activities, bibliography printed p. 46, contents + colophon close the book). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The shout argument (Activity 7.10): speed depends on the medium, not pitch or loudness; sound in all directions through matter, never in a vacuum | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 193–195 (student placement 56) |
@@ -22,8 +24,9 @@ countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan
 | Ch. VI, Tema 54: propagation in different media; Boyle's bell-jar vacuum experiment; speed tables by gas/liquid/solid; thunder delay (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. VI, Tema 54: propagation in different media; Boyle's bell-jar vacuum experiment; speed tables by gas/liquid/solid; thunder delay — printed p. 145 |
 
 | Topic 8.8: speed of sound in solids, liquids and gases (South Sudan, Secondary 2 (Grade 10)) | South Sudan, *Physics Secondary 2 — Student's Book*, Topic 8.8: speed of sound in solids, liquids and gases — printed p. ~232 |
+| Activity 3 | Greece, *Physics Lab Guide, Grade 12*, Activity 3 — printed p. 24 — speed of sound measured from standing-wave nodes |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece).**
 
 New lesson in the new Sound title, not a growth of the primary Sound and vibration lesson: the primary lesson states the speed order; this item earns it — a four-groups defended argument plus the particle-collision account — so it is built whole here.
 

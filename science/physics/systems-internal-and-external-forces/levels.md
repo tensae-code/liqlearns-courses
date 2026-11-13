@@ -1,0 +1,4 @@
+# Systems — internal and external forces — depth
+
+Whole-lesson pass mark: the learner can do all of these — Define a system and state that every momentum claim is relative to the chosen boundary; Classify a given force as internal or external for a stated system, and reclassify it when the boundary moves; Explain, from Newton's third law, why internal forces cannot change total momentum; State that internal forces can still change the system's kinetic energy; State the conservation condition precisely: total momentum is constant when net external impulse is zero — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

@@ -1,6 +1,6 @@
 # Sources — Projectiles launched horizontally
 
-countries: Ethiopia, Fiji, Kuwait, Laos, Mozambique
+countries: Ethiopia, Fiji, Kuwait, Laos, Mozambique, Greece
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Fiji, Kuwait, Laos, Mozambique
 
 **Book 5:** *MÓDULO 1 — FÍSICA — Mecânica – Cinemática* (student module) — Ministério da Educação e Cultura — Instituto de Desenvolvimento da Educação (INDE), Mozambique; distance-education (PESD) self-study module. Title as printed: MÓDULO 1 — FÍSICA — Mecânica – Cinemática. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica1-2o-Ciclo.pdf. Route used (retry reader, 2026-11-12): pusher-token GitHub Contents API raw download of the secured repo file itself — 1,189,737 bytes, EXACT match to the record; pdfinfo 143 pages. Offset: printed p. = PDF p. − 3 (printed “Acerca deste Módulo” p. 1 = PDF p. 4; Lição 1 printed p. 5 = PDF p. 8); printed pagination runs 1–114 (Teste p. 111, Soluções p. 114) with the solutions running to PDF p. 143. Verdict: COMPLETE (full text read cover to the last solutions page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
 
+
+**Book 6:** *Φυσική Γενικής Παιδείας Α΄ Γενικού Λυκείου (General-Education Physics, Grade 10)* (student book) — Greece, book file code 22-0033 (source_url 22-0221-02), Kokkotas/Vlachos author team. Grade: 10 · Student book (general education) · Repo path: grade-10/gov/greece/physics/full-year.pdf. Byte size: 20,500,781 (exact match) · PDF pages: 234 · Offset: printed = PDF − 1. Verdict: COMPLETE (ends Ch. 2.2 summary/questions to printed p. 233 area, colophon follows). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 7:** *Φυσική Προσανατολισμού Β΄ Γενικού Λυκείου (Orientation Physics, Grade 11)* (student book) — Greece, book code 22-0223-02. Grade: 11 · Student book (orientation / positive-studies track, "ThSp") · Repo path: grade-11/gov/greece/physics/full-year-orientation.pdf. Byte size: 11,028,283 (exact match) · PDF pages: 226 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 5 electric field runs to the end, summary/questions/problems closing the book). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Horizontal projection | Grade 12 Student Textbook, printed pp. 26–28 |
@@ -19,8 +23,10 @@ countries: Ethiopia, Fiji, Kuwait, Laos, Mozambique
 | Activity 1 "The Speed of Projectiles" (for lesson 1-3) (Kuwait, Grade 11 Term 1 applications workbook) | Kuwait, *Physics, Grade 11, Term 1 — applications workbook*, printed p. 11 |
 | Part III, Lesson 14 Horizontal Throwing Motion (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part III, Lesson 14 Horizontal Throwing Motion — printed p. 108 |
 | Lição 18 Lançamento Horizontal (Mozambique, PESD II Módulo 1) | Mozambique, *Módulo 1 — Física — Mecânica – Cinemática (PESD II, 2º Ciclo)*, Lição 18 Lançamento Horizontal — printed p. 103 |
+| Ch. 1.3.8, Horizontal projectile launch | Greece, *General-Education Physics, Grade 10*, Ch. 1.3.8, Horizontal projectile launch — printed p. 123 |
+| Ch. 1.1, Horizontal launch | Greece, *Orientation Physics, Grade 11*, Ch. 1.1, Horizontal launch — printed p. 8 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Kuwait, Laos, Mozambique).**
+**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Kuwait, Laos, Mozambique, Greece).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

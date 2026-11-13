@@ -1,6 +1,6 @@
 # Sources — Thermal expansion — solids grow when heated
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan
+countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan, Greece
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -28,6 +28,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 12:** *Physics — Grade 11, Term 1 (Student Book, Academic Track) — الفيزياء، الصف الحادي عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الأول* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2024; prepared originally in English for the National Center for Curriculum Development (NCCD), Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-825-3. First (experimental) edition 1445H/2024, reprinted 2025; approved by Ministry of Education decision (2024/66) dated 26 Jun 2024, for use from school year 2024/2025. Grade: 11 · Kind: student (academic track) · Repo path/URL: release asset `grade-11-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-11-gov-jordan-physics-student-term-1.pdf · Bytes: 38,009,926 (matches release asset size exactly) · PDF pages: 102 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8). Verdict: COMPLETE (glossary printed 97, trigonometric-ratios table printed 99, references printed 100; PDF 102 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
 
+
+**Book 13:** *Φυσική Β΄ Γυμνασίου (Physics, Grade 8)* (student book) — Greece, book code 21-0100-02 (cover verso), Diophantos printing files dated 2013–2016. Grade: 8 · Student book · Repo path: grade-08/gov/greece/physics/full-year.pdf. Byte size: 16,175,368 (exact match) · PDF pages: 170 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 8 questions end printed p. 167, colophon + back cover follow). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Thermal expansion of solids | Grade 11 Student Textbook, printed pp. 190–195 |
@@ -42,7 +44,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Ch. 4 — thermal expansion (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 4 — printed p. 83 — thermal expansion |
 | §4-2, Thermal expansion (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §4-2 — printed p. 87 |
 | Unit 2 Lesson 3, linear expansion and the coefficient of linear expansion, with applications | Jordan, *Physics — Grade 11, Term 1 (Student Book, Academic Track)*, Unit 2 Lesson 3, linear expansion and the coefficient of linear expansion, with applications — printed p. 81 |
+| Ch. 6.5, Thermal expansion and contraction | Greece, *Physics, Grade 8 (student book)*, Ch. 6.5, Thermal expansion and contraction — printed p. 130 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
+**Acceptance count: taught in 10 countries (Ethiopia, Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan, Greece).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, thermal expansion — solids grow when heated, expansion, finland, uganda, iraq, yemen, iran, laos

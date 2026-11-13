@@ -1,0 +1,4 @@
+# Measuring area — counting squares for irregular surfaces — depth
+
+Whole-lesson pass mark: the learner can do all of these — State area as a count of unit squares, and recover l × w as the rectangle's count done by multiplication; Measure an irregular surface by counting whole squares plus part squares (paired, halved, or the more-than-half rule); Say why finer squared paper reduces the border error; Repeat a count by a second route, average, and report the area with its squared unit; Estimate the uncertainty of an area from the disagreement between two counts — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

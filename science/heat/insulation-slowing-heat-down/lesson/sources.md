@@ -1,6 +1,6 @@
 # Sources — Insulation — slowing heat down
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhutan, Libya
+countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhutan, Libya, Greece
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhu
 
 **Book 7:** *الفيزياء كتاب الطالب — Physics, Grade 11 (student book, Science stream)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 11 · Student book (Science stream — القسم العلمي, title page; Arabic medium) · Repo path: grade-11/gov/libya/physics/student-book.pdf (TSV route: release asset grade-11-gov-libya-physics-student-book.pdf, mid-size-books-3). Byte size: 23,437,224 (release asset, verified) · PDF pages: 220 · Offset: printed p. = PDF p. − 6 approx. (front matter + 3 contents pages). Verdict: COMPLETE — two parts, 13 units, answers (p. 203) and an English "Definitions" appendix (p. 211); read from the full printed contents (image sheets). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+
+**Book 8:** *Φυσική Β΄ Γυμνασίου — Εργαστηριακός Οδηγός (Physics Grade 8, Lab Guide)* (lab guide — student laboratory book) — Greece, code 21-0102-02, renewed edition files dated 2015–2016. Grade: 8 · Lab guide · Repo path: grade-08/gov/greece/physics/lab-guide.pdf. Byte size: 3,258,388 (exact match) · PDF pages: 66 · Offset: printed = PDF − 1. Verdict: COMPLETE (16 lab exercises, bibliography printed p. 63, colophon follows). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The two ice cubes: the defended claim (Emebet vs Andualem); an insulator slows transfer in both directions | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 207–209 (student placement 63) |
@@ -28,8 +30,9 @@ countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhu
 
 | Ch. 3: thermal insulation reducing energy transfer — printed p. 72 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 3: thermal insulation reducing energy transfer — printed p. 72 |
 | U5 §5-6: results and everyday-life applications of energy transfer (Libya, Grade 11) | Libya, *Physics, Grade 11 (student book, Science stream)*, U5 §5-6: results and everyday-life applications of energy transfer — printed pp. 67–72 |
+| Lab 16, Heat transfer (same water mass in vessels insulated with different materials) | Greece, *Physics Grade 8, Lab Guide*, Lab 16, Heat transfer (same water mass in vessels insulated with different materials) — printed p. 62 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Syria, Uganda, Bhutan, Libya).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Syria, Uganda, Bhutan, Libya, Greece).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

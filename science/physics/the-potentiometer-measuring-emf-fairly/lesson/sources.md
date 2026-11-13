@@ -1,6 +1,6 @@
 # Sources — The potentiometer — measuring emf fairly
 
-countries: Ethiopia, Sri Lanka, Yemen, India, Moldova
+countries: Ethiopia, Sri Lanka, Yemen, India, Moldova, Greece
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Sri Lanka, Yemen, India, Moldova
 
 **Book 5:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+
+**Book 6:** *Φυσική Γ΄ Γυμνασίου — Εργαστηριακός Οδηγός (Physics Grade 9, Lab Guide)* (lab guide) — Greece, book code 21-0158 (source_url 21-0158-01), authors as the Grade 9 student book. Grade: 9 · Lab guide · Repo path: grade-09/gov/greece/physics/lab-guide.pdf. Byte size: read copy 4,991,407 ≠ books.json record 1,733,383 — the publisher source_url now serves a newer printing of the same book (cover dated 12/10/2023, ISBN 978-960-06-6302-0, same code 21-0158, same authors/title); the GitHub-secured copy is the earlier printing. Identity verified by code, title page and contents; the edition difference is recorded honestly here. PDF pages: 70 · Offset: printed = PDF − 1. Verdict: COMPLETE (13 labs + 4 demonstration experiments, colophon at end). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The potentiometer | Grade 11 Student Textbook, printed pp. 258–260 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Sri Lanka, Yemen, India, Moldova
 | U10 The potentiometer; the Wheatstone bridge (printed p. 267) (Yemen, Grade 11) | Yemen, *الفيزياء للصف الثاني الثانوي (Physics, Second Secondary = Grade 11)*, U10 The potentiometer; the Wheatstone bridge (printed p. 267) — printed p. 263 |
 | Ch. 3 — potentiometer for EMF comparison (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 3 — potentiometer for EMF comparison |
 | Ch. V §§5.3, 5.5: digital measuring instruments and their rules of use; measuring current (ammeter shunt) and voltage (additional resistance); the potentiometer; laboratories — a source's internal resistance and EMF, a conductor's resistivity (Moldova, Grade 11) | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. V §§5.3, 5.5: digital measuring instruments and their rules of use; measuring current (ammeter shunt) and voltage (additional resistance); the potentiometer; laboratories — a source's internal resistance and EMF, a conductor's resistivity — printed pp. 199, 201, 203, 214, 216 |
+| Demonstration, Rheostat and potentiometer | Greece, *Physics Grade 9, Lab Guide*, Demonstration, Rheostat and potentiometer — printed p. 56 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sri Lanka, Yemen, India, Moldova).**
+**Acceptance count: taught in 6 countries (Ethiopia, Sri Lanka, Yemen, India, Moldova, Greece).**
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

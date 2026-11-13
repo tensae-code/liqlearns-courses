@@ -1,6 +1,6 @@
 # Sources — Semiconductors — silicon and its lattice
 
-countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia, Laos, Moldova, Vietnam, Jordan
+countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia, Laos, Moldova, Vietnam, Jordan, Greece
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -36,6 +36,8 @@ countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Bela
 
 **Book 17:** *Physics — Grade 12, Term 2 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الثاني* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-801-7. First (experimental) edition 1447H/2025; approved by Ministry of Education decision (2025/77) dated 15 Sep 2025, for use from 15 Oct 2025 (school year 2025/2026). Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-2.pdf · Bytes: 50,602,897 (matches release asset size exactly) · PDF pages: 184 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5; Unit 5 printed 7 = PDF 7). Note: this PDF has no separate cover page — it opens on the title page. Verdict: COMPLETE (glossary printed 181–184, the last PDF page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
 
+
+**Book 18:** *Φυσική Γενικής Παιδείας Β΄ Γενικού Λυκείου (General-Education Physics, Grade 11)* (student book) — Greece, book code 22-0219-02. Grade: 11 · Student book (general education, "GP") · Repo path: grade-11/gov/greece/physics/full-year.pdf. Byte size: 13,485,215 (exact match) · PDF pages: 210 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 4 summary/questions/problems and closing essay "Determinism and quantum mechanics" to printed ~p. 208). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Semiconductors — between conductor and insulator | Grade 12 Student Textbook, printed pp. 143–144 |
@@ -58,8 +60,9 @@ countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Bela
 | Theme 3 §3.6: conductors, semiconductors, insulators (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 3 §3.6: conductors, semiconductors, insulators — printed p. 133 |
 | Bài 23 — thermistor behaviour (Vietnam, Grade 11) | Vietnam, *Vật lí 11*, Bài 23: thermistor behaviour as the semiconductor evidence in this book — printed p. 95 |
 | Unit 6 Lesson 2, conductors, insulators and semiconductors; valence electrons | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 6 Lesson 2, conductors, insulators and semiconductors; valence electrons — printed p. 82 |
+| Insert B, Semiconductors in our life | Greece, *General-Education Physics, Grade 11*, Insert B, Semiconductors in our life — printed p. 140 — (contents listing) |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia, Laos, Moldova, Vietnam, Jordan).**
+**Acceptance count: taught in 18 countries (Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia, Laos, Moldova, Vietnam, Jordan, Greece).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

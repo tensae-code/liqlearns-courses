@@ -1,6 +1,6 @@
 # Sources — Heat — convection currents in liquids and gases
 
-countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania
+countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -30,6 +30,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 13:** *Physique SN — 6ème AS* (student manual, French-medium) — Mauritania, Institut Pédagogique National (IPN), 2026 collection; authors Souleymane Md Amar, Dah Mohamed El Moctar, Ahmed Jidein; illustrator/layout Nejdi Sid'Ahmed Ejjeyed (IPN); Islamic Development Bank funding per préface. Title as printed: Physique SN — 6ème AS (cover "Physique SN 6 ème AS"). Grade: 12 (6AS), Sciences de la Nature (D) track · Student manual — the D track's edition of the same Grade 12 programme as phy-6as-m: the same nine chapters in the same order, by a different author team; Physics only. Repo path: grade-12/gov/mauritania/phy-6as-d.pdf. Source read: https://docs.bsimr.com/pdfs/secondaire2s/PHY-6AS-D.pdf (IPN library copy the repo file came from). Recorded byte size: none recorded — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination runs past p. 159. Offset: printed page numbers verified in the text itself (chapter V exercises at printed pp. 88–92, chapter IX applications at printed pp. 154–159, matching the printed table of contents); PDF offset not pdfinfo-verified. Verdict: COMPLETE (parallel edition of phy-6as-m verified chapter by chapter). Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json (docs.bsimr.com, the IPN digital library) — the same file the repo copy was collected from; identity verified from the book's own cover/title pages and prefaces. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); printed pagination is taken from the page numbers printed in the book itself and the printed↔PDF offset is stated as inferred, not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mauritania-placements.md.
 
+
+**Book 14:** *Φυσική Β΄ Γυμνασίου (Physics, Grade 8)* (student book) — Greece, book code 21-0100-02 (cover verso), Diophantos printing files dated 2013–2016. Grade: 8 · Student book · Repo path: grade-08/gov/greece/physics/full-year.pdf. Byte size: 16,175,368 (exact match) · PDF pages: 170 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 8 questions end printed p. 167, colophon + back cover follow). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The convection loop: warmed fluid expands, lightens, rises; cool fluid sinks; the sawdust beaker (Activity 7.19) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 203–205 (student placement 61) |
@@ -50,8 +52,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 | Chapitre IV, II.2 (Mauritania, Grade 12) | Mauritania, *Physique — 6 AS M*, Chapitre IV, II.2 — printed p. 63–75 |
 | Chapitre IV (Mauritania, Grade 12) | Mauritania, *Physique SN — 6ème AS*, Chapitre IV — printed p. 67–78 |
+| Ch. 8.2, Heat transfer by currents (convection) | Greece, *Physics, Grade 8 (student book)*, Ch. 8.2, Heat transfer by currents (convection) — printed p. 159 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania).**
+**Acceptance count: taught in 11 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece).**
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

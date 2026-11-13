@@ -1,0 +1,4 @@
+# Self-assessment after every experiment — the Greek workbook way — depth
+
+Whole-lesson pass mark: the learner can do all of these — Describe the Greek workbook's shape: one worksheet per lab, pupil-authored tables, graphs and conclusions; State what the closing self-assessment block asks, and that it is written and ungraded; Explain why attaching marks would destroy the block's honesty; Use a self-assessment to name a concrete improvement for the next experiment; Say what the teacher learns from reading the class's self-assessments — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

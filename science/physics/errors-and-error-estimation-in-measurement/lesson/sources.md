@@ -1,6 +1,6 @@
 # Sources — Errors and error estimation in measurement
 
-countries: Sri Lanka, Vietnam, Jordan
+countries: Sri Lanka, Vietnam, Jordan, Greece
 
 **Book 1:** *Science for Technology: Physics Part I* (student textbook) — Sri Lanka, Educational Publications Department, first edition 2016. Title as printed: தொழினுட்பவியலுக்கான விஞ்ஞானம், பௌதிகவியல் பகுதி – I; G.C.E. (A/L) Technology stream; Educational Publications Department; first edition 2016 (preface dated 2016.05.18). Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/science-for-technology/textbook/physics-part-1.pdf · Release: mid-size-books-5. Byte size: 25,591,814 · PDF pages: 152 · Offset: printed p. N = PDF p. N+8 (printed p. 1 = PDF p. 9). Verdict: COMPLETE — identity proven by cover/title/imprint; full contents (printed pp. vii–viii) read; Chapter 1 read at its opening. Read basis: contents-anchored read with chapter-opening verification (image-only scan, no text layer). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
 
@@ -8,6 +8,10 @@ countries: Sri Lanka, Vietnam, Jordan
 
 **Book 3:** *Physics — Grade 9, Term 1 (Student Book) — الفيزياء، الصف التاسع، كتاب الطالب، الفصل الدراسي الأول* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. NCCD new-curriculum edition; approved for all schools of the Hashemite Kingdom of Jordan by Ministry of Education decision dated 19 Jun 2022 (قرار مجلس التربية والتعليم 2022/4). Grade: 9 · Kind: student · Repo path/URL: release asset `grade-09-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-09-gov-jordan-physics-student-term-1.pdf · Bytes: 27,740,195 (matches release asset size exactly) · PDF pages: 98 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8; Lesson 1 printed 10 = PDF 11). Verdict: COMPLETE (ends with glossary printed 92 and references printed 95; PDF pp. 98–99 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
 
+
+**Book 4:** *Φυσική Β΄ Γυμνασίου — Εργαστηριακός Οδηγός (Physics Grade 8, Lab Guide)* (lab guide — student laboratory book) — Greece, code 21-0102-02, renewed edition files dated 2015–2016. Grade: 8 · Lab guide · Repo path: grade-08/gov/greece/physics/lab-guide.pdf. Byte size: 3,258,388 (exact match) · PDF pages: 66 · Offset: printed = PDF − 1. Verdict: COMPLETE (16 lab exercises, bibliography printed p. 63, colophon follows). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 5:** *Φυσική Γ΄ Γυμνασίου — Εργαστηριακός Οδηγός (Physics Grade 9, Lab Guide)* (lab guide) — Greece, book code 21-0158 (source_url 21-0158-01), authors as the Grade 9 student book. Grade: 9 · Lab guide · Repo path: grade-09/gov/greece/physics/lab-guide.pdf. Byte size: read copy 4,991,407 ≠ books.json record 1,733,383 — the publisher source_url now serves a newer printing of the same book (cover dated 12/10/2023, ISBN 978-960-06-6302-0, same code 21-0158, same authors/title); the GitHub-secured copy is the earlier printing. Identity verified by code, title page and contents; the edition difference is recorded honestly here. PDF pages: 70 · Offset: printed = PDF − 1. Verdict: COMPLETE (13 labs + 4 demonstration experiments, colophon at end). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Sri Lanka, *Science for Technology: Physics Part I*, §1.5 — வழு மதிப்பீடு, estimating the error of a measurement — printed p. 30 |
@@ -17,8 +21,10 @@ countries: Sri Lanka, Vietnam, Jordan
 | Do it first; key ideas; Do It Yourself | Sri Lanka, *Science for Technology: Physics Part I*, as cited in the rows above |
 | Bài 3 — Practice: calculating errors in measurement (NEW tag stocked here) (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 3, Practice: calculating errors in measurement, recording results: direct vs indirect measurement; absolute and relative error; error propagation for sums and for products/quotients (incl. powers); writing A = Ā ± ΔA; plotting results with error boxes — Vietnam's full formal error-analysis lesson, stocked into this lesson, whose combining-errors sub lesson teaches the same rules — printed p. 17 |
 | Unit 1 Lesson 3, errors in measurement | Jordan, *Physics — Grade 9, Term 1 (Student Book)*, Unit 1 Lesson 3, errors in measurement — printed p. 31 — stocked into this shared lesson (built for an earlier country's placement); the Jordan placements file tags it NEW LESSON NEEDED: measurement-errors-systematic-random-and-parallax |
+| Introduction, How errors in measurements arise | Greece, *Physics Grade 8, Lab Guide*, Introduction, How errors in measurements arise — printed p. 11 — systematic treatment of error sources and uncertainty at Grade 8; no existing physics/ slug covers error itself |
+| Measurement–Errors–Graphs section | Greece, *Physics Grade 9, Lab Guide*, Measurement–Errors–Graphs section — printed p. 9 — same new-lesson need as the Grade 8 lab guide, repeated and extended here |
 
-**Acceptance count: taught in 3 countries (Sri Lanka, Vietnam, Jordan).**
+**Acceptance count: taught in 4 countries (Sri Lanka, Vietnam, Jordan, Greece).**
 
 Placement choice, on the record: this NEW LESSON was built for the Sri Lanka placement “Errors and error estimation in measurement” — sri-lanka-placements.md, §1.5 — வழு மதிப்பீடு, estimating the error of a measurement — printed p. 30. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

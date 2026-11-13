@@ -1,11 +1,15 @@
 # Sources — How molecular speeds are distributed
 
-countries: China, Cuba
+countries: China, Cuba, Greece
 
 **Book 1:** *普通高中教科书·物理选择性必修 第三册 (Senior High Physics, Selective Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 3 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 12,278,176 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §4.2 photoelectric effect, printed p.71, lands on PDF p.76). Verdict: COMPLETE — chapters 1–5 through research project (p.132) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 7).
 
 **Book 2:** *Física Parte 1 — onceno grado* (student textbook, Part 1 of a two-part set) — Cuba, 8th reprint 2011 of the 1990 edition (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990); ISBN 978-959-13-0713-2 (complete work), 978-959-13-0714-9 (Part I). Biblioteca CubaEduca item/244. Grade: 11 · Kind: student (Part 1) · Repo path: grade-11/gov/cuba/fisica/student/part-1-2011.pdf (release asset grade-11-gov-cuba-fisica-student-part-1-2011.pdf, mid-size-books-7) · Byte size: 20,427,124 (release asset, verified) · PDF pages: 161 · Offset: printed p. = PDF p. − 8 (printed 1 = PDF 9). Image-only print file; read via page sheets. Verdict: COMPLETE for Part 1 — index ends with answers at printed p. 146. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 12).
 
+
+**Book 3:** *Φυσική Προσανατολισμού Β΄ Γενικού Λυκείου (Orientation Physics, Grade 11)* (student book) — Greece, book code 22-0223-02. Grade: 11 · Student book (orientation / positive-studies track, "ThSp") · Repo path: grade-11/gov/greece/physics/full-year-orientation.pdf. Byte size: 11,028,283 (exact match) · PDF pages: 226 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 5 electric field runs to the end, summary/questions/problems closing the book). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+
+**Book 4:** *Φυσική Γ΄ Γενικού Λυκείου, Τεύχος Β΄ (Physics Grade 12, Volume B)* (student book, orientation — positive studies & health studies) — Greece, book code 22-0170-02, ISBN 978-960-06-2425-0 (back cover). Grade: 12 · Student book · Repo path: grade-12/gov/greece/physics/teuxos-b.pdf. Byte size: 13,934,076 (exact match) · PDF pages: 246 · Offset: placements cite the printed page numbers of the book's own contents, bound at the back of this volume (printed pp. 238–241); the body is printed-numbered throughout. Verdict: COMPLETE (contents lists appendices/glossary to printed p. 236, contents and colophon close the PDF). Library note carried from the reading: this volume's Ch. 1–3 strands overlap by design with the Grade 11 orientation book's Ch. 3–5 in the Greek set, in this volume's fuller problem treatment. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | China, *Senior Physics, Selective Compulsory Book 3*, Ch.1 §3 The statistical law of molecular speed distribution — printed p. 10 |
@@ -14,8 +18,10 @@ countries: China, Cuba
 | Sub lesson 3 — Warming the gas — the curve moves and flattens | China, *Senior Physics, Selective Compulsory Book 3*, Ch.1 §3 The statistical law of molecular speed distribution — printed p. 10 |
 | Do it first; key ideas; Do It Yourself | China, *Senior Physics, Selective Compulsory Book 3*, Ch.1 §3 The statistical law of molecular speed distribution — printed p. 10, as cited in the rows above |
 | Ch. 1 §1.7: velocities of molecules, Stern's experiment — printed pp. 10–12 — the 1990 edition names the experiment; the 2024 book drops it (Cuba, Grade 11, Part 1) | Cuba, *Física Parte 1 — onceno grado (Grade 11 student book, Part 1, 2011)*, Ch. 1 §1.7: velocities of molecules, Stern's experiment — printed pp. 10–12 — the 1990 edition names the experiment; the 2024 book drops it |
+| Ch. 3.6, Distribution of molecular speeds (Maxwell distribution, qualitatively graphed) | Greece, *Orientation Physics, Grade 11*, Ch. 3.6, Distribution of molecular speeds (Maxwell distribution, qualitatively graphed) — printed p. 81 |
+| Ch. 1, Distribution of molecular speeds | Greece, *Physics Grade 12, Teuchos B*, Ch. 1, Distribution of molecular speeds — printed p. 19 |
 
-**Acceptance count: taught in 2 countries (China, Cuba).**
+**Acceptance count: taught in 3 countries (China, Cuba, Greece).**
 
 Placement choice, on the record: this NEW LESSON was built for the China placement “NEW LESSON NEEDED: How molecular speeds are distributed” — china-placements.md, Book 7 (Selective Compulsory Book 3), Ch.1 §3, printed p. 10. The kinetic-theory lesson states the theory's claims; the speed distribution — Maxwell curve, landmarks, temperature reshaping — has no lesson, so it is built here. It sits in physics/ (Physics) in the molecular-theory chapter.
 
