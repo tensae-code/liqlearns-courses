@@ -1,14 +1,17 @@
 # Sources — Mass–volume problems
 
-countries: Ethiopia
+countries: Ethiopia, Syria
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
+
+**Book 2:** *الفيزياء والكيمياء للصف الثامن الأساسي (Physics & Chemistry, Grade 8 Basic)* (student textbook) — Syria. Syrian Arab Republic, Ministry of Education; 2025–2026 printing (1446H), first printed 2018–2019 (title page). Combined Physics + Chemistry volume — SPLIT: Physics parts (Units 2–4) already placed by the Physics wave; Chemistry parts placed here are Unit 1 only. Grade: Grade 8 · Kind: student. Repo path: grade-08/gov/syria/physics-chemistry/student/full-year.pdf (books.json record, on_disk: false, in_pushed: true — read from the GitHub release full-quality-oversized-books asset grade-08-gov-syria-physics-chemistry-student-full-year.pdf; the TSV record is the same book — duplicate, placed once). Byte size: 176,346,073 (matches books.json size_bytes exactly). PDF pages: 160, image-only (no usable text layer — read visually from rendered pages). Printed page = PDF page (folios verified against the contents list). Verdict: COMPLETE (Unit 4 questions stand at printed p. 159 and the file runs its full 160 pages). Structure: U1 Structural chemistry (Chemistry); U2 Motion & forces (Physics); U3 Electricity (Physics); U4 Light (Physics). Chemistry occupies printed pp. 3–54 (seven lessons, unit questions, iron-rust project). Syria's own way, common to the set: every lesson opens with printed objectives and key words, is built around “I try and I conclude” bench experiments with an explicit “I conclude” box, worked applications, enrichment boxes, and closes with unit questions plus a hands-on project. Records deduped: 6 target records (3 TSV release rows + 3 books.json entries) = 3 distinct books — this book cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/syria-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Mass–volume problems | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed pp. 42–44 (section 1.6.4) |
+| U1 L7 Chemical calculation (Syria, Grade 8) | Book 2 (Grade 8), printed p. 46 — the same iron + acid reaction carried to a gas volume: hydrogen evolved at the standard conditions computed at 2.24 L from 5.6 g of iron; a Jabir ibn Hayyan enrichment box closes the lesson. |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Syria).**
 
 Book errors taught corrected, named here only: the contents misprints "SOLLUTIONS" for Solutions (Unit 2) and lists Unit 6 sections 6.3 and 6.4 both as aromatic hydrocarbons — in the body 6.3 covers alkenes and alkynes and is taught so; the Unit 3 summary repeats its deliquescent-salt sentence twice — taught once; "Phosphorous" is used throughout for the element phosphorus — taught corrected as phosphorus; several Unit 6 review reaction equations are typeset in garbled layout — the reactions are taught from the section text, where they are recoverable.
 

@@ -1,0 +1,18 @@
+# Sources — Element symbols and chemical formulas — first steps
+
+countries: Syria
+
+**Book 1:** *الفيزياء والكيمياء للصف السابع الأساسي (Physics & Chemistry, Grade 7 Basic)* (student textbook) — Syria. Syrian Arab Republic, Ministry of Education; NCCD developed-curriculum edition, first printed 2017–2018 (title page). Combined Physics + Chemistry volume — SPLIT: Physics parts (Units 1–3 and the sound lesson in Unit 4) already placed by the Physics wave; Chemistry parts placed here are Unit 4 Lessons 1–2 only. Grade: Grade 7 · Kind: student. Repo path: grade-07/gov/syria/physics-chemistry/student/full-year.pdf (books.json record, on_disk — read from the staging copy; the TSV record is the same book as release mid-size-books-4 asset grade-07-gov-syria-physics-chemistry-student-full-year.pdf — duplicate, placed once). Byte size: 67,265,164 (matches books.json size_bytes exactly). PDF pages: 168, with a text layer. Printed page = PDF page (folios verified). Verdict: COMPLETE (Unit 4 questions and the closing project run to the last pages). Structure: U1 Motion & dynamics (Physics); U2 Pressure & Archimedes (Physics); U3 Matter & heat (Physics); U4 Matter & energy — L1 The atom (Chemistry), L2 Elements and compounds (Chemistry), L3 Sound waves (Physics), closing project (thermal flask, Physics). Chemistry occupies printed pp. 134–151 plus its share of the Unit 4 questions (printed pp. 164–165). Syria's own way, common to the set: every lesson opens with printed objectives and key words, is built around “I try and I conclude” bench experiments with an explicit “I conclude” box, worked applications, enrichment boxes, and closes with unit questions plus a hands-on project. Records deduped: 6 target records (3 TSV release rows + 3 books.json entries) = 3 distinct books — this book cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/syria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Writing element molecules with subscripts | Book 1 (Grade 7), U4 L2 Elements and compounds, printed p. 146 |
+| Sub lesson 2 — Element symbols and their Latin roots | Book 1 (Grade 7), U4 L2 Elements and compounds, printed p. 146 |
+| Sub lesson 3 — Reading compound formulas atom-by-atom | Book 1 (Grade 7), U4 L2 Elements and compounds, printed p. 146 |
+| Do it first; key ideas; Do It Yourself | Book 1 (Grade 7), U4 L2 Elements and compounds, printed p. 146 |
+
+**Acceptance count: taught in 1 country (Syria).**
+
+Placement choice, on the record: this NEW LESSON was built for the Syria placement "NEW LESSON NEEDED: element-symbols-and-chemical-formulas-first-steps — U4 L2 Elements and compounds — printed p. 146 — writing element molecules with subscripts (He, O2, O3, Cl2, S8), a table of element symbols with their Latin roots (Na Natrium, K Kalium, Fe Ferrum, Au Aurum, Hg Hydrargyrum, Pb Plumbum and others), ozone in the upper atmosphere as enrichment, then chemical formulas of compounds (ammonia, sulphur dioxide, methane, ethanol) read atom-by-atom; the Unit 4 questions (printed p. 164) test exactly this symbol/formula reading. No existing slug covers this first symbols-and-formulas step." — syria-placements.md. No existing lesson covers this thing — checked against the full chemistry tree (343 lessons standing at merge time). It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Syria's own way — as the placements describe it — IS part of this lesson's content, carried exactly as the placements describe it. The book is a student textbook (combined Physics & Chemistry volume, Chemistry parts only), so this lesson counts toward acceptance normally.
+
+Searchable tags: chemistry, symbols, formulas, subscripts, Latin names, Syria Grade 7
