@@ -1,0 +1,4 @@
+# The hydrogen spectral series — Lyman, Balmer, Paschen and the Rydberg formula — depth
+
+Whole-lesson pass mark: the learner can do all of these — A spectral line is a fall between levels: hν = 13.6 × (1/p² − 1/n²) eV; Rydberg formula: 1/λ = R_H(1/p² − 1/n²), R_H ≈ 1.097×10⁷ m⁻¹; Lyman series: falls to p = 1 — ultraviolet; Balmer series: falls to p = 2 — visible (Hα: 3 → 2, red); Paschen (3), Brackett (4), Pfund (5), Humphreys (6) — infrared series — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

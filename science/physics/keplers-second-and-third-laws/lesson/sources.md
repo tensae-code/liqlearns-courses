@@ -1,6 +1,6 @@
 # Sources — Kepler's second and third laws
 
-countries: Ethiopia, Nicaragua, Bhutan, Uzbekistan, China
+countries: Ethiopia, Nicaragua, Bhutan, Uzbekistan, China, Mauritania
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nicaragua, Bhutan, Uzbekistan, China
 
 **Book 5:** *普通高中教科书·物理必修 第二册 (Senior High Physics, Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series (2022 printing as Book 1). Grade: senior (filed grade-12 in the library; Compulsory 2 is the second volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 16,251,494 = recorded exactly. PDF pages: 114. Offset: PDF = printed + 5 (proven: §6.2 printed p.27 heading lands on PDF p.32). Verdict: COMPLETE — chapters 5–8 (continuing Book 1's numbering) through research project (p.102) and index (p.106). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 3).
 
+**Book 6:** *Physique — 7ème Année — C — Mathématique* (student manual) — Mauritania, Institut Pédagogique National (IPN), Ministère de l'Éducation et de la Réforme du Système d'Enseignement — the new IPN collection, 2025/2026. Title as printed: Physique — 7ème Année — C — Mathématique (cover: "Physique 7ème Année N° C — Mathématique", IPN, 2025/2026). Grade: 13 (7AS), série C (mathematics track) · Student manual — Physics only (no Chemistry chapters appear anywhere in its 350 pages). Repo path: grade-13/gov/mauritania/phy-7as-c.pdf (record flags: in_pushed = true, on_disk = false). **Library debt found (retry reader, carried on the record): the file is NOT in GitHub at all** — the repo Contents API returns 404 for the tree path, a full sweep of all ten textbook releases (8,179 assets) contains no phy-7as-c asset under any name (the série D twin IS present), the pusher state file has no Mauritania 7AS entries, and phase3-staging holds no copy; the record's in_pushed = true is wrong for this book and it needs re-pushing from the publisher file. Route used (retry): the recorded publisher source itself, https://docs.bsimr.com/pdfs/secondaire2s/PHY-7AS-C.pdf, fetched whole with curl (a 1 KB Range probe first returned HTTP 206 with Content-Range total 57,412,021 bytes — EXACT match to the record). Byte size: 57,412,021 (exact match to record). PDF pages: 350 (pdfinfo). Offset: printed p. = PDF p. exactly (folios verified at PDF pp. 6, 23, 50, 95, 100, 150, 200, 250, 299, 310). Verdict: COMPLETE (full text read cover to the last exercise pages). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kepler's second law — equal areas | Grade 12 Student Textbook, printed pp. 56–58 |
@@ -22,7 +24,9 @@ countries: Ethiopia, Nicaragua, Bhutan, Uzbekistan, China
 | Ch. 7: relative size/position of heavenly bodies — the parallax method and Kepler's third law — printed pp. 167–169 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 7: relative size/position of heavenly bodies — the parallax method and Kepler's third law — printed pp. 167–169 |
 | Ch. IV, Temas 45–48 (Kepler strand): Kepler's laws (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. IV, Temas 45–48 (Kepler strand): Kepler's laws — printed pp. 121–126 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nicaragua, Bhutan, Uzbekistan, China).**
+| Ch II (Mauritania, Grade 13) | Mauritania, *Physique — 7ème Année, série C*, Ch II — printed p. 53 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Nicaragua, Bhutan, Uzbekistan, China, Mauritania).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

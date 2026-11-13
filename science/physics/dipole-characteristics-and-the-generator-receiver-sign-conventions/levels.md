@@ -1,0 +1,4 @@
+# Dipole characteristics and the generator/receiver sign conventions — depth
+
+Whole-lesson pass mark: the learner can do all of these — A dipole's characteristic is its U–I curve, traced point by point in both directions; Passive ⟺ the characteristic passes through the origin: U = 0 when I = 0; The lamp: passive, non-linear (heating filament), symmetric; The Zener diode: asymmetric — forward conduction, reverse avalanche threshold; Receiver convention: U arrow against I; generator convention: U arrow with I — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

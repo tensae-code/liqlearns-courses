@@ -1,0 +1,4 @@
+# Seeing fast motion — retinal persistence and the stroboscope — depth
+
+Whole-lesson pass mark: the learner can do all of these — Retinal persistence: the eye holds an image ≈ 1/15–1/20 s — faster changes fuse; A stroboscope flashes at N′ against motion of frequency N; N′ = N (or N/k matching): apparent rest — the object frozen at one phase; Flashing at a sub-multiple shows k fixed images — the phases side by side; Slight mismatch: motion appears slowed — forwards if N′ < N, reversed if N′ > N — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

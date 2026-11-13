@@ -1,0 +1,4 @@
+# The generator as an active dipole — EMF, internal resistance and the operating point — depth
+
+Whole-lesson pass mark: the learner can do all of these — A generator's characteristic falls: U = E − rI; E is the open-circuit voltage (I = 0); r is the internal resistance — the slope's size; Power balance: generated EI = useful UI + internal Joule loss rI²; Efficiency ρ = U/E — it falls as the drawn current grows; The operating point is where generator and receiver characteristics cross: I = E/(R + r) — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

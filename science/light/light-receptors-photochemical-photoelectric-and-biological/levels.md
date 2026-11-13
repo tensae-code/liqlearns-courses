@@ -1,0 +1,4 @@
+# Light receptors — photochemical, photoelectric and biological — depth
+
+Whole-lesson pass mark: the learner can do all of these — A receptor is where light arrives and produces a change; Photochemical receptors: light drives a chemical change (photographic film); Biological receptors: living organs answer light — retina, skin, the green leaf; Photoelectric receptors: light frees charge — solar panels and photocells turn light into current; Sources give light out; receptors take it in — the two ends of every optics story — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

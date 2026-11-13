@@ -1,0 +1,4 @@
+# The three effects of an electric current — thermal, magnetic, chemical — depth
+
+Whole-lesson pass mark: the learner can do all of these — One current, three effects: thermal, magnetic, chemical; Thermal (Joule) effect: current heats a resistance — toaster, iron, and the fuse that melts to protect; Magnetic effect: Oersted 1820 — a current's field swings a compass needle; coiled with an iron core it is an electromagnet; Chemical effect: electrolysis splits compounds — water into hydrogen and oxygen, metal plating, battery charging; Each effect is met by its experiment first: warm wire, swinging needle, gas bubbles — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

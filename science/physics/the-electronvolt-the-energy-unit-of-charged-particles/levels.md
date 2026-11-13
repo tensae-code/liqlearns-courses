@@ -1,0 +1,4 @@
+# The electronvolt — the energy unit of charged particles — depth
+
+Whole-lesson pass mark: the learner can do all of these — 1 eV = the energy one elementary charge gains crossing 1 V; 1 eV = 1.6×10⁻¹⁹ J — the joule scaled down to single particles; Multiples: keV (10³), MeV (10⁶), GeV (10⁹); Energy gained (in eV) = charge in units of e × volts crossed — an α through 10⁶ V gains 2 MeV; Atomic levels are quoted in eV (hydrogen: −13.6/n² eV; 13.6 eV ionises) — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

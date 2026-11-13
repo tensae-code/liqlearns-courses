@@ -1,0 +1,4 @@
+# The active receiver — counter-EMF of an electrolyser — depth
+
+Whole-lesson pass mark: the learner can do all of these — An active receiver (electrolyser) has a counter-EMF E′ — it pushes back against the applied voltage; Its characteristic is a rising line NOT through the origin: U = E′ + r′I; E′ is the intercept (the open-circuit voltage it keeps); r′ is the slope — its internal resistance; Mirror of the generator: generator U = E − rI falls; receiver U = E′ + r′I rises; Energy: UI = E′I stored as chemistry + r′I² lost as heat — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

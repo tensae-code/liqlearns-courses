@@ -1,0 +1,4 @@
+# Equilibrium of a solid under two forces — depth
+
+Whole-lesson pass mark: the learner can do all of these — Two-force equilibrium: same line of action, opposite senses, equal intensities — F₁ + F₂ = 0; The condition is established on the bench with two dynamometers on a light card; On a table: weight and the table's reaction balance; hanging: weight and tension balance; On a spring: tension T = K·Δl grows until it equals the weight; Floating is two-force equilibrium: Archimedes' thrust equals the weight (F_A = P) — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

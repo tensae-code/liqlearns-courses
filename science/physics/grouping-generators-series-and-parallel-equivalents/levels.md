@@ -1,0 +1,4 @@
+# Grouping generators — series and parallel equivalents — depth
+
+Whole-lesson pass mark: the learner can do all of these — Series grouping: E_eq = ΣEᵢ and r_eq = Σrᵢ — voltage bought at the price of added internal resistance; Parallel grouping of identical generators: E_eq = E and r_eq = r/n; A flat 4.5 V battery is three 1.5 V cells in series; Series for voltage; parallel for current capacity and endurance; The team is then one equivalent generator: I = E_eq/(R + r_eq) — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

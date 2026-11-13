@@ -1,6 +1,6 @@
 # Sources — Dose and detectors — measuring radiation
 
-countries: Ethiopia, Kenya, Yemen, North Macedonia, Laos, Vietnam, Libya, South Sudan
+countries: Ethiopia, Kenya, Yemen, North Macedonia, Laos, Vietnam, Libya, South Sudan, Mauritania
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Kenya, Yemen, North Macedonia, Laos, Vietnam, Libya, South 
 
 **Book 9:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 10:** *Physique Chimie — 6ème LM* (student manual, French-medium, combined Physics & Chemistry) — Mauritania, Institut Pédagogique National (IPN), 2026 collection; concepteurs Sidi Maham and Mohamed Anne (professeurs); layout Heibetna Yahya Brey (IPN); programme 2020 per the introduction; Islamic Development Bank funding per préface. Title as printed: Physique Chimie — 6ème LM. Grade: 12 (6AS), Lettres Modernes track · Student manual — only its three Physics chapters are placed in this Physics pass; its four Chemistry chapters are named in the placements file as debt, not placed. Repo path: grade-12/gov/mauritania/phy-6as-lm.pdf. Source read: https://docs.bsimr.com/pdfs/secondaire2s/PHY-6AS-LM.pdf (IPN library copy the repo file came from). Recorded byte size: none recorded — not re-verified locally. PDF pages: not pdfinfo-verified; printed table of contents: Physics Ch 1 p. 10, Ch 2 p. 20, Ch 3 p. 33; Chemistry Ch 1 p. 46, Ch 2 p. 59, Ch 3 p. 72, Ch 4 p. 82. Offset: per the book's own printed table of contents — inferred. Verdict: COMPLETE (all three Physics chapters read at their openings and cores; Chemistry part identified from its table of contents and chapter openings). Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json (docs.bsimr.com, the IPN digital library) — the same file the repo copy was collected from; identity verified from the book's own cover/title pages and prefaces. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); printed pagination is taken from the page numbers printed in the book itself and the printed↔PDF offset is stated as inferred, not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mauritania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Dose — how much radiation a body takes | Grade 11 Student Textbook, printed pp. 308–315 |
@@ -35,7 +37,9 @@ countries: Ethiopia, Kenya, Yemen, North Macedonia, Laos, Vietnam, Libya, South 
 
 | Topic 10: detectors of radiation (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 10: detectors of radiation — printed p. 291 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Kenya, Yemen, North Macedonia, Laos, Vietnam, Libya, South Sudan).**
+| Chapitre 2, 3 (Mauritania, Grade 12) | Mauritania, *Physique Chimie — 6ème LM*, Chapitre 2, 3 — printed p. 20–32 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Kenya, Yemen, North Macedonia, Laos, Vietnam, Libya, South Sudan, Mauritania).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

@@ -1,0 +1,4 @@
+# The speed of light, the light-year and the astronomical unit — depth
+
+Whole-lesson pass mark: the learner can do all of these — Light travels at a finite speed: c ≈ 3×10⁸ m/s in vacuum; Sunlight takes about 8 minutes to reach Earth — we see distant things as they were; Distance = c × time turns light's travel time into a ruler; 1 light-year ≈ 9.46×10¹⁵ m — a distance, not a time; 1 AU ≈ 1.50×10¹¹ m, the Earth–Sun distance ≈ 8 light-minutes — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

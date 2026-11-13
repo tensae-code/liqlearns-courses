@@ -1,0 +1,4 @@
+# Equilibrium of a solid under three non-parallel forces — depth
+
+Whole-lesson pass mark: the learner can do all of these — Three-force equilibrium needs concurrency: all three lines of action through one point; …and the vector sum zero: F₁ + F₂ + F₃ = 0; Geometric method: the three arrows drawn head-to-tail close into a force polygon (triangle); Algebraic method: project on two axes — ΣFx = 0 and ΣFy = 0; Car on an incline: friction = mg·sin α, normal reaction = mg·cos α — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.
