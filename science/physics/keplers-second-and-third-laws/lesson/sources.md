@@ -1,6 +1,6 @@
 # Sources — Kepler's second and third laws
 
-countries: Ethiopia, Nicaragua, Bhutan, Uzbekistan
+countries: Ethiopia, Nicaragua, Bhutan, Uzbekistan, China
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -10,16 +10,19 @@ countries: Ethiopia, Nicaragua, Bhutan, Uzbekistan
 
 **Book 4:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it (Ch. II Optics read at Tema 23–24: reflection/refraction laws, Snell's law, total internal reflection). Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
+**Book 5:** *普通高中教科书·物理必修 第二册 (Senior High Physics, Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series (2022 printing as Book 1). Grade: senior (filed grade-12 in the library; Compulsory 2 is the second volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 16,251,494 = recorded exactly. PDF pages: 114. Offset: PDF = printed + 5 (proven: §6.2 printed p.27 heading lands on PDF p.32). Verdict: COMPLETE — chapters 5–8 (continuing Book 1's numbering) through research project (p.102) and index (p.106). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Kepler's second law — equal areas | Grade 12 Student Textbook, printed pp. 56–58 |
 | Sub lesson 2 — Kepler's third law — periods and distances | Grade 12 Student Textbook, printed pp. 56–58 |
 | Kepler's laws, with Kepler and Tycho Brahe's observations (Nicaragua) | Nicaragua, *Física — Módulo Autoformativo, Décimo grado*, §3.2 Leyes de Kepler (con 3.2.1 Kepler y las observaciones de Tycho Brahe), printed p. 100 |
+| Ch.7 §1 Planetary motion (second half) (China, Senior Physics, Compulsory Book 2) | China, *Senior Physics, Compulsory Book 2*, Ch.7 §1 Planetary motion (second half) — printed p. 44 |
 
 | Ch. 7: relative size/position of heavenly bodies — the parallax method and Kepler's third law — printed pp. 167–169 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 7: relative size/position of heavenly bodies — the parallax method and Kepler's third law — printed pp. 167–169 |
 | Ch. IV, Temas 45–48 (Kepler strand): Kepler's laws (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. IV, Temas 45–48 (Kepler strand): Kepler's laws — printed pp. 121–126 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nicaragua, Bhutan, Uzbekistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nicaragua, Bhutan, Uzbekistan, China).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

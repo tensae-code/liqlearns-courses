@@ -1,6 +1,6 @@
 # Sources — Splitting a vector into components
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait, Bhutan, India, Moldova, Vietnam
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait, Bhutan, India, Moldova, Vietnam, China
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Sloveni
 
 **Book 12:** *Vật lí 10 (Physics 10) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student book · 4th reprint (Tái bản lần thứ tư) · Authors: Vũ Văn Hùng (editor-in-chief), Bùi Gia Thịnh (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-full-year.pdf). Byte size: 26,833,128 (matches record). PDF pages: 142 (record 142). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover, title page, full TOC and interior chapters verified against TOC). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 13:** *普通高中教科书·物理必修 第一册 (Senior High Physics, Compulsory Book 1)* (student book) — China, PEP (People's Education Press), 2019 edition, this PDF 2022 printing (cover file stamp 2022/5/7). Grade: senior (filed grade-12 in the library; Compulsory 1 is the first volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第一册.pdf. Route: recorded source_url (kyohwang/ChinaTextbook raw); downloaded file byte size 16,310,933 = recorded size exactly. PDF pages: 134. Offset: PDF page = printed page + 5 (proven: PDF p.20 carries printed p.15; PDF p.6 carries printed p.1). Verdict: COMPLETE — cover, title page, full TOC and all four chapters plus closing research-project and student-experiment appendices present to printed p.125 index. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 1).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Components of a vector | Grade 11 Student Textbook, printed pp. 26–33 |
@@ -37,12 +39,13 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Barbados, Sloveni
 | Bab 1 Vektor (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 1 Vektor — printed p. 1 — trigonometric resolution of vectors and of forces on a block-and-rope setup |
 | Ch. 3, lesson 3-2 "Vector Addition and Resolution" (second half) — resolution into components (Kuwait, Grade 10 Term 1) | Kuwait, *Physics, Grade 10, Term 1 (student book + applications workbook)*, printed p. 81 |
 | Ch. I §1.4: operations with vectors — addition, subtraction, components and projections (Moldova, Grade 10) | Moldova, *Fizica, clasa a X-a (Physics, Grade 10)*, Ch. I §1.4: operations with vectors — addition, subtraction, components and projections — printed pp. 16–18 |
+| Ch.3 §4 Composition and decomposition of forces (China, Senior Physics, Compulsory Book 1) | China, *Senior Physics, Compulsory Book 1*, Ch.3 §4 Composition and decomposition of forces — printed p. 72 — parallelogram rule with components |
 
 | Ch. 3 Vectors: components, unit vectors, multiplying vectors — printed p. 40 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 3 Vectors: components, unit vectors, multiplying vectors — printed p. 40 |
 | Ch. 3, resolution of vectors sections — rectangular components (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 3, resolution of vectors sections — rectangular components |
 | Bài 13 §III — resolving a force into components (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 13 §III: resolving a force into perpendicular components, weight on an incline as the worked case — printed p. 59 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait, Bhutan, India, Moldova, Vietnam).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+**Acceptance count: taught in 12 countries (Ethiopia, Barbados, Slovenia, Malaysia, Sudan, Indonesia, Kuwait, Bhutan, India, Moldova, Vietnam, China).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

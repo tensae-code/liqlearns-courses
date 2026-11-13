@@ -1,6 +1,6 @@
 # Sources — Series and parallel circuits — one path, many paths
 
-countries: Ethiopia, Bolivia, Gabon (teacher-guide evidence only), Morocco (teacher-guide evidence only)
+countries: Ethiopia, Bolivia, Gabon (teacher-guide evidence only), Morocco (teacher-guide evidence only), China
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -10,16 +10,19 @@ countries: Ethiopia, Bolivia, Gabon (teacher-guide evidence only), Morocco (teac
 
 **Book 4:** *Al Moufid en Physique/Chimie, 1ère Année du cycle secondaire collégial — Guide de l'enseignant(e)* (teacher guide) — Morocco, Grade 7 (1ère année collégiale, 1AC) · Teacher guide (Physics-Chemistry), read as Physics evidence · Title as printed: Al Moufid en Physique/Chimie, 1ère Année du cycle secondaire collégial — Guide de l'enseignant(e). Repo path: grade-07/gov/morocco/physics-chemistry/teacher/full-year.pdf. Byte size: 2,175,034 · PDF pages: 161 · Offset: the sommaire's pages are the guide's printed pages and are cited as printed p. Verdict: COMPLETE (title page, preface, full sommaire and activity descriptions verified). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/morocco-placements.md. Morocco holds no student Physics books in the library; this guide is teacher-guide evidence only.
 
+**Book 5:** *义务教育教科书 物理 九年级 全一册 (Compulsory Education Physics, Grade 9, full-year volume)* (student book) — China, PEP (People's Education Press), compulsory-education textbook (this printing carries no year on the extracted cover pages; priced ¥11.40 on cover). Grade: Grade 9. Repo path: grade-09/gov/china/full-year.pdf. Route: recorded source_url (kyohwang/ChinaTextbook) via raw route; byte size 25,394,810 = recorded size exactly; PDF pages 191 = recorded pages exactly. Offset: PDF page = printed page + 7 (proven: PDF p.9 carries printed p.2, §13.1). Verdict: COMPLETE — TOC and all chapters 13–22 present through the index at printed p.182. The volume continues the junior course at Chapter 13 (Chapters 1–12 were the Grade 8 volume) — China's own numbering way. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 2).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Series: one loop, current through each load in turn; break stops everything; build-and-measure (Activity 7.27) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 212–215 (student placement 65) |
 | Sub lesson 2 — Parallel: branches divide the current; one branch out, others glow; home lighting deduced; build-and-measure (Activity 7.28) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 212–215 (student placement 65) |
 | Circuitos de corriente para el avance tecnológico (Bolivia) | Bolivia, *Texto de Aprendizaje, Física, Sexto Año*, Circuitos de corriente para el avance tecnológico, PDF p. 70 approx. |
+| Ch.15 §3 Series and parallel connections (China, Grade 9 Physics (full-year)) | China, *Grade 9 Physics (full-year)*, Ch.15 §3 Series and parallel connections — printed p. 41 |
 
 | Electric circuits in series and in parallel (en série et en dérivation) (teacher guide — evidence) | Gabon, *Super Efficace — Sciences, Guide pédagogique, 4e année*, Palier 2: Les circuits électriques en série et en dérivation, printed p. 16 |
 
 | Chapitre 16, Types of electrical assemblies (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)*, Chapitre 16, printed p. 123 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Bolivia).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Bolivia, China).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Searchable tags: series circuit, parallel circuit, branches, ammeter, brightness, home lighting, Ethiopia Grade 8 General Science Unit 7

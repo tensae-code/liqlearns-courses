@@ -1,0 +1,4 @@
+# Waves reflect, refract and diffract — depth
+
+Whole-lesson pass mark: the learner can do all of these — Reflection: angle of reflection = angle of incidence; wavelength, frequency and speed unchanged; Refraction: where the wave's speed changes (shallower water), the wavelength changes and an angled front bends — frequency never changes at a border; Diffraction: waves spread through gaps and around edges, strongest when the gap is about a wavelength wide; One tray of water shows all three — the complete manners of a travelling wave at a border — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

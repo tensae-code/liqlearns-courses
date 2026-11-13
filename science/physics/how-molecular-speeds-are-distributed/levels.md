@@ -1,0 +1,4 @@
+# How molecular speeds are distributed — depth
+
+Whole-lesson pass mark: the learner can do all of these — Molecular speeds follow a fixed statistical distribution (Maxwell): few slow, few very fast, most in between — no single “speed of the molecules”; Three landmarks: most probable speed (the peak), mean speed, and root-mean-square speed — the rms is the one tied to energy and temperature; All three grow as √T; warming shifts the curve right, lowers and broadens it, and fattens the fast tail; The tail does real work: evaporation, reaction rates and atmospheric escape are all tail phenomena — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

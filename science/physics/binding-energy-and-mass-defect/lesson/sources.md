@@ -1,6 +1,6 @@
 # Sources — Binding energy and mass defect
 
-countries: Ethiopia, Indonesia, Yemen, Bhutan, India, North Macedonia, Vietnam
+countries: Ethiopia, Indonesia, Yemen, Bhutan, India, North Macedonia, Vietnam, China
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -16,18 +16,21 @@ countries: Ethiopia, Indonesia, Yemen, Bhutan, India, North Macedonia, Vietnam
 
 **Book 7:** *Vật lí 12 (Physics 12) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student book · 2nd reprint (Tái bản lần thứ hai) · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Văn Biên (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House); appraisal decisions 1882/QĐ-BGDĐT (2023) and 2892/QĐ-BGDĐT (2023). Repo path: grade-12/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-full-year.pdf). Byte size: 24,390,203 (matches record). PDF pages: 127 (record 127). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (cover/title/TOC verified; interiors spot-verified at the induction-applications, EM-field and radioactivity/nuclear-industry lessons). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 8:** *普通高中教科书·物理选择性必修 第三册 (Senior High Physics, Selective Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 3 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 12,278,176 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §4.2 photoelectric effect, printed p.71, lands on PDF p.76). Verdict: COMPLETE — chapters 1–5 through research project (p.132) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 7).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mass defect and binding energy | Grade 11 Student Textbook, printed pp. 299–304 |
 | Bab 9, Subbab B Defek Massa dan Energi Ikat (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab B Defek Massa dan Energi Ikat — guide p. 200 |
 | U7 Nuclear binding energy (Yemen, Grade 12) | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U7 Nuclear binding energy — printed p. 180 |
+| Ch.5 §3 Nuclear force and binding energy (China, Senior Physics, Selective Compulsory Book 3) | China, *Senior Physics, Selective Compulsory Book 3*, Ch.5 §3 Nuclear force and binding energy — printed p. 115 |
 
 | Ch. 42 Nuclear Physics — printed p. 1276 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 42 Nuclear Physics — printed p. 1276 |
 | Ch. 13 — mass–energy relation and binding-energy curve (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 13 — mass–energy relation and binding-energy curve |
 | Theme 4 §4.10: binding energy of the nucleus (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 4 §4.10: binding energy of the nucleus — printed p. 266 |
 | Bài 22 — Nuclear reactions and binding energy (Vietnam, Grade 12) | Vietnam, *Vật lí 12*, Bài 22, Nuclear reactions and binding energy — printed p. 96 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Indonesia, Yemen, Bhutan, India, North Macedonia, Vietnam).**
+**Acceptance count: taught in 8 countries (Ethiopia, Indonesia, Yemen, Bhutan, India, North Macedonia, Vietnam, China).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

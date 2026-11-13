@@ -1,0 +1,4 @@
+# Combining and splitting motion — components move independently — depth
+
+Whole-lesson pass mark: the learner can do all of these — Any planar motion splits into horizontal and vertical component motions — vector bookkeeping by the parallelogram rule; The components move independently: each answers only its own direction's forces, in the same shared time; A dropped and a horizontally thrown ball land together — identical vertical accounts; Combine by adding displacements and velocities as vectors: speed = √(vx² + vy²), heading = the diagonal — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

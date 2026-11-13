@@ -1,6 +1,6 @@
 # Sources — Household circuits; reading resistor colour codes
 
-countries: Ethiopia, Morocco (teacher-guide evidence only), Uganda, Kenya, Cambodia (private-booklet evidence only), Libya, South Sudan
+countries: Ethiopia, Morocco (teacher-guide evidence only), Uganda, Kenya, Cambodia (private-booklet evidence only), Libya, South Sudan, China
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -20,10 +20,13 @@ countries: Ethiopia, Morocco (teacher-guide evidence only), Uganda, Kenya, Cambo
 
 **Book 9:** *Physics Secondary 4 — Teacher's Guide* (teacher's guide) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Teacher's guide · Repo path: grade-12/gov/south-sudan/physics/teacher/full-year.pdf (release asset: mid-size-books-2). Bytes: 6,084,056 (release index size = downloaded) · PDF pages: 131 · Offset: printed p. 1 ≈ PDF p. 6 (printed = PDF − 5). Verdict: COMPLETE — Part 1 introduction + topic-to-topic guide for all 7 units / 10 topics, Topic 10 at printed p. 114. Read method: image-only PDF — read via 100-DPI 4-up sheets. Its rows below are the guide's teaching-way layer over the student topics; South Sudan is counted in this lesson through the companion Student's Book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 10:** *义务教育教科书 物理 九年级 全一册 (Compulsory Education Physics, Grade 9, full-year volume)* (student book) — China, PEP (People's Education Press), compulsory-education textbook (this printing carries no year on the extracted cover pages; priced ¥11.40 on cover). Grade: Grade 9. Repo path: grade-09/gov/china/full-year.pdf. Route: recorded source_url (kyohwang/ChinaTextbook) via raw route; byte size 25,394,810 = recorded size exactly; PDF pages 191 = recorded pages exactly. Offset: PDF page = printed page + 7 (proven: PDF p.9 carries printed p.2, §13.1). Verdict: COMPLETE — TOC and all chapters 13–22 present through the index at printed p.182. The volume continues the junior course at Chapter 13 (Chapters 1–12 were the Grade 8 volume) — China's own numbering way. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 2).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Household circuits and safety | Grade 11 Student Textbook, printed pp. 281–282 |
 | Sub lesson 2 — Reading resistor colour codes | Grade 11 Student Textbook, printed pp. 281–282 |
+| Ch.19 §1 Household circuits (China, Grade 9 Physics (full-year)) | China, *Grade 9 Physics (full-year)*, Ch.19 §1 Household circuits — printed p. 105 — wiring, fuse and switch placement in the home circuit |
 
 | Chapitre 17, Domestic electrical installation — meter, breaker, sockets, earth (teacher guide — evidence) | Morocco, *Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, Chapitre 17, printed p. 144 |
 
@@ -37,7 +40,7 @@ countries: Ethiopia, Morocco (teacher-guide evidence only), Uganda, Kenya, Cambo
 | Topic 8: household installation devices, lamps, fuses and circuit breakers, cables and plugs, household wiring (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 8: household installation devices, lamps, fuses and circuit breakers, cables and plugs, household wiring — printed p. 233 |
 | Topic 8 Electric power transmission and household installation (guide) (South Sudan, Secondary 4 (Grade 12) — teacher's guide) | South Sudan, *Physics Secondary 4 — Teacher's Guide*, Topic 8 Electric power transmission and household installation (guide) — printed p. 96 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Kenya, Libya, South Sudan).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Kenya, Libya, South Sudan, China).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

@@ -1,17 +1,21 @@
 # Sources — Experiment: series vs parallel circuits
 
-countries: Ethiopia, Libya
+countries: Ethiopia, Libya, China
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
 **Book 2:** *الفيزياء كراسة النشاط العملي — Physics, Grade 12 (practical activity workbook, Science stream)* (workbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Workbook (practical activities, كراسة النشاط العملي) — the electricity-and-magnetism volume of the practical series · Repo path: grade-12/gov/libya/physics/practical-activity-workbook.pdf (Contents-API tree route). Byte size: 1,556,668 (Contents-API meta + raw download, verified) · PDF pages: 43 · Offset: printed p. = PDF p. − 4 (printed 1 = PDF 5). Verdict: COMPLETE — contents and all experiment titles read via page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 3:** *义务教育教科书 物理 九年级 全一册 (Compulsory Education Physics, Grade 9, full-year volume)* (student book) — China, PEP (People's Education Press), compulsory-education textbook (this printing carries no year on the extracted cover pages; priced ¥11.40 on cover). Grade: Grade 9. Repo path: grade-09/gov/china/full-year.pdf. Route: recorded source_url (kyohwang/ChinaTextbook) via raw route; byte size 25,394,810 = recorded size exactly; PDF pages 191 = recorded pages exactly. Offset: PDF page = printed page + 7 (proven: PDF p.9 carries printed p.2, §13.1). Verdict: COMPLETE — TOC and all chapters 13–22 present through the index at printed p.182. The volume continues the junior course at Chapter 13 (Chapters 1–12 were the Grade 8 volume) — China's own numbering way. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 2).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Practical — series and parallel characteristics | Grade 11 Student Textbook, printed pp. 251–252 |
 | Exps. 8–9: verifying the total-resistance formula for series connection, then for parallel (Libya, Grade 12) | Libya, *Physics, Grade 12 (practical activity workbook, Science stream)*, Exps. 8–9: verifying the total-resistance formula for series connection, then for parallel — printed pp. 26–29 |
+| Ch.15 §5 How current behaves in series and parallel circuits (China, Grade 9 Physics (full-year)) | China, *Grade 9 Physics (full-year)*, Ch.15 §5 How current behaves in series and parallel circuits — printed p. 49 — discovered by measurement — stocked into the bench-experiment lesson that measures currents and voltages around series and parallel circuits and checks exactly these rules |
+| Ch.16 §2 How voltage behaves in series and parallel circuits (China, Grade 9 Physics (full-year)) | China, *Grade 9 Physics (full-year)*, Ch.16 §2 How voltage behaves in series and parallel circuits — printed p. 60 — second row in the same bench-experiment lesson — series voltages add, parallel branch voltages match the supply |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Libya).**
+**Acceptance count: taught in 3 countries (Ethiopia, Libya, China).**
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

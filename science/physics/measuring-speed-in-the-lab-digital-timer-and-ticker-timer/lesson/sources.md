@@ -1,8 +1,10 @@
 # Sources — Measuring speed in the lab — digital timer and ticker timer
 
-countries: Vietnam
+countries: Vietnam, China
 
 **Book 1:** *Vật lí 10 (Physics 10) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student book · 4th reprint (Tái bản lần thứ tư) · Authors: Vũ Văn Hùng (editor-in-chief), Bùi Gia Thịnh (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-full-year.pdf). Byte size: 26,833,128 (matches record). PDF pages: 142 (record 142). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover, title page, full TOC and interior chapters verified against TOC). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
+**Book 2:** *普通高中教科书·物理必修 第一册 (Senior High Physics, Compulsory Book 1)* (student book) — China, PEP (People's Education Press), 2019 edition, this PDF 2022 printing (cover file stamp 2022/5/7). Grade: senior (filed grade-12 in the library; Compulsory 1 is the first volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第一册.pdf. Route: recorded source_url (kyohwang/ChinaTextbook raw); downloaded file byte size 16,310,933 = recorded size exactly. PDF pages: 134. Offset: PDF page = printed page + 5 (proven: PDF p.20 carries printed p.15; PDF p.6 carries printed p.1). Verdict: COMPLETE — cover, title page, full TOC and all four chapters plus closing research-project and student-experiment appendices present to printed p.125 index. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 1).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,8 +13,9 @@ countries: Vietnam
 | Sub lesson 2 — The ticker timer and its paper tape (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 6, Practice: measuring the speed of a moving object: the digital timer MC964 with photogates (modes A, B, A+B, A↔B, T) and the vibrating-needle ticker timer (~50 Hz, 0.02 s dot spacing) used as two complete timing toolkits — printed p. 30 |
 | Sub lesson 3 — From records to speeds — honestly (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 6, Practice: measuring the speed of a moving object: the digital timer MC964 with photogates (modes A, B, A+B, A↔B, T) and the vibrating-needle ticker timer (~50 Hz, 0.02 s dot spacing) used as two complete timing toolkits — printed p. 30 |
 | Do it first; key ideas; Do It Yourself | Vietnam, *Vật lí 10*, as cited in the rows above |
+| Ch.2 §1 Experiment: how a trolley's velocity changes with time (ticker timer / dots on tape) (China, Senior Physics, Compulsory Book 1) | China, *Senior Physics, Compulsory Book 1*, Ch.2 §1 Experiment: how a trolley's velocity changes with time (ticker timer / dots on tape) — printed p. 36 — China's way: the motion laws are built from this measured v–t graph before any formula — stocked into the shared measuring-speed lesson, whose ticker-timer sub lesson teaches the same tape record |
 
-**Acceptance count: taught in 1 country (Vietnam).**
+**Acceptance count: taught in 2 countries (Vietnam, China).**
 
 Placement choice, on the record: this NEW LESSON was built for the Vietnam placement "NEW LESSON NEEDED: Measuring speed in the lab — digital timer and ticker timer" — vietnam-placements.md, Book 1 (Grade 10), Bài 6. No existing lesson teaches this as its own lesson — the nearest neighbours are named in lesson-plan.md's place line — so the lesson is built here. It sits in physics/ (Physics).
 

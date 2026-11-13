@@ -1,6 +1,6 @@
 # Sources — Transformers — stepping voltage up and down
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Haiti (programme evidence only), Syria, Malaysia, Indonesia, Uganda, Kenya, Iraq, Cambodia (private-booklet evidence only), Egypt, Kuwait, Bulgaria, Afghanistan, Uzbekistan, Iran, Laos, Vietnam, Libya, South Sudan
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Haiti (programme evidence only), Syria, Malaysia, Indonesia, Uganda, Kenya, Iraq, Cambodia (private-booklet evidence only), Egypt, Kuwait, Bulgaria, Afghanistan, Uzbekistan, Iran, Laos, Vietnam, Libya, South Sudan, China
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -42,6 +42,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Haiti (prog
 
 **Book 21:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 22:** *普通高中教科书·物理选择性必修 第二册 (Senior High Physics, Selective Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 2 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 14,339,668 = recorded exactly. PDF pages: 122. Offset: PDF = printed + 5 (proven: §1.4 mass spectrometer, printed p.17, lands on PDF p.22). Verdict: COMPLETE — chapters 1–5 through research project (p.111) and index (p.115). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 6).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Transformers | Grade 12 Student Textbook, printed pp. 131–133 |
@@ -52,6 +54,7 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Haiti (prog
 | Bab 3, Subbab G Transformator (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 3, Subbab G Transformator — guide p. 80 |
 | Unit 2, Ch. 1, lesson 1-3 "Transformers" (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 33 |
 | Part VI (Lessons 17–18 strand) — transformer worked in the AC body between the power and circuits lessons (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part VI (Lessons 17–18 strand) |
+| Ch.3 §3 Transformers (China, Senior Physics, Selective Compulsory Book 2) | China, *Senior Physics, Selective Compulsory Book 2*, Ch.3 §3 Transformers — printed p. 58 |
 
 | Lesson 3: Transformers (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Lesson 3: Transformers — PDF p. 45 |
 
@@ -69,6 +72,6 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Haiti (prog
 
 | Topic 7: transformers, efficiency, power losses (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 7: transformers, efficiency, power losses — printed p. 201 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Syria, Malaysia, Indonesia, Uganda, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Afghanistan, Uzbekistan, Iran, Laos, Vietnam, Libya, South Sudan).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 4e année / NS4* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 18 countries (Ethiopia, Syria, Malaysia, Indonesia, Uganda, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Afghanistan, Uzbekistan, Iran, Laos, Vietnam, Libya, South Sudan, China).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 4e année / NS4* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Searchable tags: physics, grade 12, electromagnetism, transformers — stepping voltage up and down, induction, uganda, kenya, iraq, cambodia, egypt, iran, laos, libya, south sudan

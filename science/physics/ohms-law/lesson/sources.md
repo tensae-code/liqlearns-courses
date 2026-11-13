@@ -1,6 +1,6 @@
 # Sources — Ohm's law
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan, China
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -39,6 +39,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 18:** *South Sudan Secondary Physics 3 — Teacher's Guide* (teacher's guide) — South Sudan, © 2018, The Republic of South Sudan, Ministry of General Education and Instruction. Grade: Secondary 3 (Grade 11) · Teacher's guide · Repo path: grade-11/gov/south-sudan/physics/teacher/full-year.pdf. Bytes: 44,709,787 (recorded size in books.json; downloaded = recorded, exact match) · PDF pages: 154 · Offset: printed p. 1 ≈ PDF p. 6 (printed = PDF − 5). Verdict: COMPLETE — Part 1 Introduction + Part 2 topic-to-topic guide for all 6 units / 8 topics. Read on the retry from the recorded books.json source (CGA Technologies' site; again the complete book under a "Cover" file name). Library debt, carried on the record: this guide sits in books.json with in_pushed: false — read and placed from its recorded source, still to be pushed library-side. Its rows below are the guide's teaching-way layer over the student topics; South Sudan is counted in this lesson through the companion Student's Book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 19:** *义务教育教科书 物理 九年级 全一册 (Compulsory Education Physics, Grade 9, full-year volume)* (student book) — China, PEP (People's Education Press), compulsory-education textbook (this printing carries no year on the extracted cover pages; priced ¥11.40 on cover). Grade: Grade 9. Repo path: grade-09/gov/china/full-year.pdf. Route: recorded source_url (kyohwang/ChinaTextbook) via raw route; byte size 25,394,810 = recorded size exactly; PDF pages 191 = recorded pages exactly. Offset: PDF page = printed page + 7 (proven: PDF p.9 carries printed p.2, §13.1). Verdict: COMPLETE — TOC and all chapters 13–22 present through the index at printed p.182. The volume continues the junior course at Chapter 13 (Chapters 1–12 were the Grade 8 volume) — China's own numbering way. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 2).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ohm's law — ohmic and non-ohmic conductors | Grade 11 Student Textbook, printed pp. 245–246 |
@@ -56,11 +58,13 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Bài 23 — Resistance. Ohm's law (Vietnam, Grade 11) | Vietnam, *Vật lí 11*, Bài 23, Resistance. Ohm's law: includes resistance vs temperature and thermistors (NTC/PTC named in the glossary) — semiconductor resistance taught inside the Ohm's-law lesson — printed p. 95 |
 | U2 §2-4: resistance (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U2 §2-4: resistance — printed pp. 39–45 |
 | Exp. 7: p.d. vs current across a non-ohmic conductor — an incandescent lamp filament (مصباح كهربائي فتيلي) (Libya, Grade 12) | Libya, *Physics, Grade 12 (practical activity workbook, Science stream)*, Exp. 7: p.d. vs current across a non-ohmic conductor — an incandescent lamp filament (مصباح كهربائي فتيلي) — printed pp. 23–25 |
+| Ch.17 §1 How current depends on voltage and resistance (investigation) (China, Grade 9 Physics (full-year)) | China, *Grade 9 Physics (full-year)*, Ch.17 §1 How current depends on voltage and resistance (investigation) — printed p. 74 |
+| Ch.17 §2 Ohm's law (China, Grade 9 Physics (full-year)) | China, *Grade 9 Physics (full-year)*, Ch.17 §2 Ohm's law — printed p. 78 — second row: the law itself, stated after the investigation |
 
 | Topic 3: Ohm's law (South Sudan, Secondary 3 (Grade 11)) | South Sudan, *South Sudan Secondary Physics 3 — Student's Book*, Topic 3: Ohm's law — printed p. 82 |
 | Topic 3 Current electricity (guide) (South Sudan, Secondary 3 (Grade 11) — teacher's guide) | South Sudan, *South Sudan Secondary Physics 3 — Teacher's Guide*, Topic 3 Current electricity (guide) — printed p. 58 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
+**Acceptance count: taught in 14 countries (Ethiopia, Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan, China).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

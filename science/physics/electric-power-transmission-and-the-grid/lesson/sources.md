@@ -1,6 +1,6 @@
 # Sources — Electric power transmission and the grid
 
-countries: Uganda, Kenya, Uzbekistan, South Sudan
+countries: Uganda, Kenya, Uzbekistan, South Sudan, China
 
 **Book 1:** *Physics Home-Study Learning — Senior Four (NCDC, 2020)* (student self-study book) — Uganda, National Curriculum Development Centre, Uganda, August 2020 · ISBN 978-9970-00-199-6 — COVID-19 home-study material for Terms 2 and 3. Title as printed: Physics Home-Study Learning — Senior Four. Grade: Senior Four (Grade 11) · Student (self-study) book · Repo path: grade-11/gov/uganda/physics/student/home-study.pdf (release asset: mid-size-books-2). Byte size: 6,924,932 (release index size = downloaded) · PDF pages: 65 (= books.json recorded pages) · Offset: chapters at PDF pp. 7–60. Verdict: COMPLETE — the full Term 2 + Term 3 self-study booklet, 8 chapters. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
@@ -10,6 +10,8 @@ countries: Uganda, Kenya, Uzbekistan, South Sudan
 
 **Book 4:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 5:** *普通高中教科书·物理选择性必修 第二册 (Senior High Physics, Selective Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 2 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 14,339,668 = recorded exactly. PDF pages: 122. Offset: PDF = printed + 5 (proven: §1.4 mass spectrometer, printed p.17, lands on PDF p.22). Verdict: COMPLETE — chapters 1–5 through research project (p.111) and index (p.115). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 6).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Electric Energy and Power chapter, Lesson 4: Power Transmission — PDF p. 30 |
@@ -17,13 +19,14 @@ countries: Uganda, Kenya, Uzbekistan, South Sudan
 | Sub lesson 2 — Stepping up — why the grid runs at high voltage | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Electric Energy and Power chapter, Lesson 4: Power Transmission — PDF p. 30 |
 | Sub lesson 3 — The grid journey — generation to the home | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Electric Energy and Power chapter, Lesson 4: Power Transmission — PDF p. 30 |
 | Do it first; key ideas; Do It Yourself | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Electric Energy and Power chapter, Lesson 4: Power Transmission — PDF p. 30 |
+| Ch.3 §4 Transmitting electric power — why the grid steps voltage up (China, Senior Physics, Selective Compulsory Book 2) | China, *Senior Physics, Selective Compulsory Book 2*, Ch.3 §4 Transmitting electric power — why the grid steps voltage up — printed p. 63 — stocked into the shared Uganda-built power-transmission lesson |
 
 | Ch 6 Mains electricity: sources, power transmission (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 6 Mains electricity: sources, power transmission — printed p. 117 (stocked into this existing shared lesson per the Kenya merge brief; the placements file tags it NEW LESSON NEEDED) |
 | Ch. IV, Temas 45–46: power stations and their kinds (thermal, hydro, nuclear, wind in the chapter summary), transmission lines and the unified energy system; the chapter test asks where Uzbekistan's first hydroelectric station was built (own way) (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. IV, Temas 45–46: power stations and their kinds (thermal, hydro, nuclear, wind in the chapter summary), transmission lines and the unified energy system; the chapter test asks where Uzbekistan's first hydroelectric station was built (own way) — printed pp. 108–111 |
 
 | Topic 8: the grid transmission system, cable losses, a.c. vs d.c., dangers of high voltage, environmental impact — taught as a full topic (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 8: the grid transmission system, cable losses, a.c. vs d.c., dangers of high voltage, environmental impact — taught as a full topic — printed p. 227 |
 
-**Acceptance count: taught in 4 countries (Uganda, Kenya, Uzbekistan, South Sudan).**
+**Acceptance count: taught in 5 countries (Uganda, Kenya, Uzbekistan, South Sudan, China).**
 
 Placement choice, on the record: this NEW LESSON was built for the Uganda placement "Electric power transmission and the grid" — uganda-placements.md, Book 4, Lesson 4: Power Transmission, PDF p. 30. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics) beside the transformers and household-circuits lessons. Library gap: Senior Two Physics is absent from the library records entirely.
 

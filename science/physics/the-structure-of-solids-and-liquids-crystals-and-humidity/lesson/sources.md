@@ -1,10 +1,12 @@
 # Sources — The structure of solids and liquids — crystals and humidity
 
-countries: Belarus, Uzbekistan
+countries: Belarus, Uzbekistan, China
 
 **Book 1:** *Фізіка. 10 клас (Physics, Grade 10)* (student textbook — study aid) — Belarus, Hromyka A. U., Zenkovich U. I., Lutsevich A. A., Slesar I. E.; Minsk, «Адукацыя і выхаванне», 2013 (signed to print 13.06.2013); Belarusian-language edition. Grade: 10 · Student book · Repo: release `mid-size-books-7`, asset `grade-10-gov-belarus-physics-student-full-year.pdf` — 9,997,702 bytes (matched asset). PDF pages: 274. Printed page ≈ PDF page − 4 at the back (contents printed pp. 268–270). Verdict: COMPLETE (Laboratory experiment at printed p. 249, appendix p. 260, answers p. 264, contents and colophon present). Structure: Molecular physics — Ch.1 Foundations of molecular-kinetic theory (§§1–8); Ch.2 Foundations of thermodynamics (§§9–12); Electrodynamics — Ch.3 Electrostatics (§§13–21); Ch.4 Direct current (§§22–23); Ch.5 Current in different media (§§24–28); Ch.6 Magnetic field & electromagnetic induction (§§29–35). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
 
 **Book 2:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it (Ch. II Optics read at Tema 23–24: reflection/refraction laws, Snell's law, total internal reflection). Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
+
+**Book 3:** *普通高中教科书·物理选择性必修 第三册 (Senior High Physics, Selective Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 3 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 12,278,176 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §4.2 photoelectric effect, printed p.71, lands on PDF p.76). Verdict: COMPLETE — chapters 1–5 through research project (p.132) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 7).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,8 +17,9 @@ countries: Belarus, Uzbekistan
 | Sub lesson 4 — Air humidity — the vapour that is actually there | Belarus, *Фізіка. 10 клас*, §8 Air humidity — printed p. 56 |
 | Do it first; key ideas; Do It Yourself | Belarus, *Фізіка. 10 клас*, as cited in the rows above |
 | Ch. I, Temas 10–11: air humidity; formation of dew, frost, fog, clouds and precipitation in nature (the humidity strand of this lesson) (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. I, Temas 10–11: air humidity; formation of dew, frost, fog, clouds and precipitation in nature (the humidity strand of this lesson) — printed pp. 30–31 |
+| Ch.2 §4 Solids — crystals and non-crystals (China, Senior Physics, Selective Compulsory Book 3) | China, *Senior Physics, Selective Compulsory Book 3*, Ch.2 §4 Solids — crystals and non-crystals — printed p. 31 — stocked into the shared Belarus-built solids-and-liquids lesson, whose first sub lesson is the crystal lattice and its amorphous rivals |
 
-**Acceptance count: taught in 2 countries (Belarus, Uzbekistan).**
+**Acceptance count: taught in 3 countries (Belarus, Uzbekistan, China).**
 
 Placement choice, on the record: this NEW LESSON was built for the Belarus placement “Structure of solids and liquids — crystals, surface tension, humidity” — belarus-placements.md, Book 4, §6 Structure and properties of solids (printed p. 43); §7 Liquids and surface tension (printed p. 47); §8 Evaporation and condensation, saturated vapour, air humidity (printed p. 56) — printed p. 43. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics). The §7 surface-tension strand is ALSO CITED in physics/surface-tension-and-capillarity, where Belarus is counted too; the main stocking of §§6–8 stays in this lesson.
 

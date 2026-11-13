@@ -1,0 +1,4 @@
+# Joule's law — the heat a current makes — depth
+
+Whole-lesson pass mark: the learner can do all of these — Joule's law: the heat a current makes in a resistor is Q = I²Rt; The heat grows with the square of the current — double I, four times the heat; Dividing by time gives the heating power P = I²R — one account with P = VI for a pure resistor; Tamed, I²R heating is the heater, kettle and fuse; untamed, it is why overloaded wires are a fire risk — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

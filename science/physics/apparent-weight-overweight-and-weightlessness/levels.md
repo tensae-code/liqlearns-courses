@@ -1,0 +1,4 @@
+# Apparent weight — overweight and weightlessness — depth
+
+Whole-lesson pass mark: the learner can do all of these — A scale reads the normal force N pushing back on you — that is your apparent weight; Accelerating up (or braking a descent): N = m(g + a) — overweight (超重); Accelerating down: N = m(g − a) — you feel lighter; Free fall, a = g: N = 0 — weightlessness (失重), while gravity still pulls at full strength; orbiting crews are in continuous free fall — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

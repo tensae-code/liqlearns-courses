@@ -1,6 +1,6 @@
 # Sources — Self-induction and mutual induction
 
-countries: Egypt, Belarus, Bhutan, Iran
+countries: Egypt, Belarus, Bhutan, Iran, China
 
 **Book 1:** *Physics, Third Secondary* (student textbook, English-medium edition; the ministry's "developed book") — Egypt, Ministry of Education, Egypt, 2025–2026 school year. Grade: Grade 12 (Third Secondary) · Student book (full-year book) · Repo path: grade-12/gov/egypt/Physics_English_Sec3.pdf · Byte size: 42,538,690 (= recorded size exactly) · PDF pages: 219 · Offset: PDF page = printed page throughout (proven: PDF p. 8 carries printed folio 8, PDF p. 150 carries ١٥٠, PDF p. 180 carries ١٨٠). Verdict: COMPLETE — image-only PDF (no text layer), read visually from rendered pages: contents, every unit/chapter divider, chapter overviews and content pages on contact sheets, end matter (general revision + six appendices) verified present. Verified language variants of this same book, read by identity and carrying no separate placements: the Arabic edition, *الفيزياء للصف الثالث الثانوي* (grade-12/gov/egypt/Physics_Arabic_Sec3.pdf, 46,925,419 bytes = recorded size exactly, 201 PDF pages), and the French edition, *Physique, Troisième année secondaire* (grade-12/gov/egypt/Physics_French_Sec3.pdf, 24,276,147 bytes = recorded size exactly, 208 PDF pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/egypt-placements.md.
 
@@ -14,6 +14,8 @@ countries: Egypt, Belarus, Bhutan, Iran
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 6:** *普通高中教科书·物理选择性必修 第二册 (Senior High Physics, Selective Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 2 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 14,339,668 = recorded exactly. PDF pages: 122. Offset: PDF = printed + 5 (proven: §1.4 mass spectrometer, printed p.17, lands on PDF p.22). Verdict: COMPLETE — chapters 1–5 through research project (p.111) and index (p.115). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 6).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Egypt, *Physics, Third Secondary (English), 2025–2026*, Unit 1, Ch. 3 — printed p. 66 |
@@ -21,13 +23,14 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Sub lesson 2 — Inductance and the henry | Egypt, *Physics, Third Secondary (English), 2025–2026*, Unit 1, Ch. 3: Self-induction and mutual induction — printed p. 66 |
 | Sub lesson 3 — Mutual induction — one coil induces in another | Egypt, *Physics, Third Secondary (English), 2025–2026*, Unit 1, Ch. 3: Self-induction and mutual induction — printed p. 66 |
 | Do it first; key ideas; Do It Yourself | Egypt, *Physics, Third Secondary (English), 2025–2026*, as cited in the rows above |
+| Ch.2 §4 Mutual induction and self-induction (China, Senior Physics, Selective Compulsory Book 2) | China, *Senior Physics, Selective Compulsory Book 2*, Ch.2 §4 Mutual induction and self-induction — printed p. 40 — stocked into the shared Egypt-built self-induction-and-mutual-induction lesson |
 
 | §35 Self-induction; inductance; energy of the magnetic field of a coil with current — tagged NEW LESSON NEEDED in belarus-placements.md and stocked into this existing shared lesson per the Belarus merge brief (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §35 Self-induction; inductance; energy of the magnetic field of a coil with current — printed p. 242 |
 
 | Inductance — a coil opposes changes in its own current — Ch. 30: inductance, self-induction, RL circuits, energy in a magnetic field — printed pp. 879–893 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 30: inductance, self-induction, RL circuits, energy in a magnetic field — printed pp. 879–893 |
 | §3-10, Inductors (القاگرها) — self-inductance and energy in an inductor (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-10 — printed p. 93 |
 
-**Acceptance count: taught in 4 countries (Egypt, Belarus, Bhutan, Iran).**
+**Acceptance count: taught in 5 countries (Egypt, Belarus, Bhutan, Iran, China).**
 
 Placement choice, on the record: this NEW LESSON was built for the Egypt placement "Self-induction and mutual induction" — egypt-placements.md, Book 4 (Grade 12 English), Unit 1, Ch. 3, printed p. 66 — a full lesson strand no existing slug covers. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

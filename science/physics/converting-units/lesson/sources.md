@@ -1,6 +1,6 @@
 # Sources — Converting units
 
-countries: Ethiopia, Egypt, Iran
+countries: Ethiopia, Egypt, Iran, China
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 103 printed pp. Printed page = PDF page − 8. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). Under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-teacher-placements.md.
@@ -13,6 +13,8 @@ countries: Ethiopia, Egypt, Iran
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 6:** *普通高中教科书·物理必修 第一册 (Senior High Physics, Compulsory Book 1)* (student book) — China, PEP (People's Education Press), 2019 edition, this PDF 2022 printing (cover file stamp 2022/5/7). Grade: senior (filed grade-12 in the library; Compulsory 1 is the first volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第一册.pdf. Route: recorded source_url (kyohwang/ChinaTextbook raw); downloaded file byte size 16,310,933 = recorded size exactly. PDF pages: 134. Offset: PDF page = printed page + 5 (proven: PDF p.20 carries printed p.15; PDF p.6 carries printed p.1). Verdict: COMPLETE — cover, title page, full TOC and all four chapters plus closing research-project and student-experiment appendices present to printed p.125 index. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 1).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Converting units | Ethiopia, *Grade 9 Student Textbook*, printed pp. 29–38 |
@@ -20,8 +22,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Unit 2 — Physical Quantities pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 9 Teacher's Guide*, printed pp. 11–24 |
 | Ch.1 The SI units table and unit standards (metre, second, kilogram) — standards defined historically, cesium second included (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — First Term (English), 2025–2026*, Ch.1 The SI units table and unit standards (metre, second, kilogram) — standards defined historically, cesium second included — printed p. 9 |
 | §1-4, Measurement and the International System of units (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §1-4 — printed p. 7 |
+| Ch.4 §4 The mechanics system of units (China, Senior Physics, Compulsory Book 1) | China, *Senior Physics, Compulsory Book 1*, Ch.4 §4 The mechanics system of units — printed p. 99 — base vs derived units and unit checking of formulas — China's unit-system lesson |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Iran).**
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Iran, China).**
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

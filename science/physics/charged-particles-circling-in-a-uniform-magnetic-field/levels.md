@@ -1,0 +1,4 @@
+# Charged particles circling in a uniform magnetic field — depth
+
+Whole-lesson pass mark: the learner can do all of these — Across a uniform field, the Lorentz force is always perpendicular to the velocity: it steers without speeding, doing no work; It acts as the centripetal force, qvB = mv²/r, so the path is a circle of radius r = mv/qB; The period T = 2πm/qB is independent of the speed — the fact the cyclotron is built on; Along the field there is no force: angled entry gives a helix — circle across, drift along — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

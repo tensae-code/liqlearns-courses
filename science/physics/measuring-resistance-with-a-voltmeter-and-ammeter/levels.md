@@ -1,0 +1,4 @@
+# Measuring resistance with a voltmeter and ammeter — depth
+
+Whole-lesson pass mark: the learner can do all of these — Volt-ampere method: ammeter in series reads the resistor's current, voltmeter in parallel reads its voltage, R = V/I; Use a sliding rheostat to take several (V, I) pairs; average the R values, or plot V against I — the gradient is R; Read quickly and keep currents modest: a warming resistor changes its own value while you measure; The meters lean on the result: voltmeter's sip of current / ammeter's small drop — know which way your wiring biases R — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

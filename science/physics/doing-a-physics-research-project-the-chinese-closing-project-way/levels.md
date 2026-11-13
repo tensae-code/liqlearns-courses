@@ -1,0 +1,4 @@
+# Doing a physics research project — the Chinese closing-project way — depth
+
+Whole-lesson pass mark: the learner can do all of these — Every PEP senior volume closes with a research project unit (课题研究), with a worked sample project and suggested topics; A project question must be small, safe and testable: what changes, what is measured, what is kept the same; Plan first — variables, instruments, repeats, results table — then measure honestly and keep the raw readings; Finish by arguing from the evidence: graph, pattern, comparison with taught physics, honest errors, presentation — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

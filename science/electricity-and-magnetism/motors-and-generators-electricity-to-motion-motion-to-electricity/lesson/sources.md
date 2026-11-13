@@ -1,6 +1,6 @@
 # Sources — Motors and generators — electricity to motion, motion to electricity
 
-countries: Ethiopia, Argentina, Afghanistan, Bhutan, Moldova
+countries: Ethiopia, Argentina, Afghanistan, Bhutan, Moldova, China
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Argentina, Afghanistan, Bhutan, Moldova
 
 **Book 6:** *Fizică: Manual pentru clasa a VIII-a (Physics: Textbook for Grade 8)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Ion Botgros, Viorel Bocancea & Vladimir Donici; Editura Cartier (Chișinău), 2024; approved by ministerial order nr. 367 of 25 March 2024, curriculum order nr. 1381 of 30 October 2019. Grade 8 · Student book · Repo path: grade-08/gov/moldova/physics/student/moldova-g08-physics.pdf (release copy: releases/download/mid-size-books-8/grade-08-gov-moldova-physics-student-moldova-g08-physics.pdf). Byte size: 18,560,422 (exact match with the record — re-obtained from the ministry source, eduresurse.gov.md, after the first reader's scratch copy proved corrupt: 13,105,557 bytes, broken cross-reference table, unreadable). PDF pages: 104 (record: 104). Offset: printed p. = PDF p. (printed p. 10 is PDF p. 10). Verdict: COMPLETE read (full text layer, all 104 pages; contents read in full, chapter summaries and interiors read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 7:** *义务教育教科书 物理 九年级 全一册 (Compulsory Education Physics, Grade 9, full-year volume)* (student book) — China, PEP (People's Education Press), compulsory-education textbook (this printing carries no year on the extracted cover pages; priced ¥11.40 on cover). Grade: Grade 9. Repo path: grade-09/gov/china/full-year.pdf. Route: recorded source_url (kyohwang/ChinaTextbook) via raw route; byte size 25,394,810 = recorded size exactly; PDF pages 191 = recorded pages exactly. Offset: PDF page = printed page + 7 (proven: PDF p.9 carries printed p.2, §13.1). Verdict: COMPLETE — TOC and all chapters 13–22 present through the index at printed p.182. The volume continues the junior course at Chapter 13 (Chapters 1–12 were the Grade 8 volume) — China's own numbering way. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 2).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The motor: the nudge-and-spin build (Activity 7.39); anatomy — source, permanent magnet, rotating loop, shaft; hundreds of turns on iron; refrigerators, air conditioners, trains | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 225–233 (student placement 70) |
@@ -22,10 +24,11 @@ countries: Ethiopia, Argentina, Afghanistan, Bhutan, Moldova
 | Ch. 9 — generators (Afghanistan, Grade 10) | Afghanistan, *فیزیک — صنف دهم (Physics — Grade 10)*, Ch. 9 — printed p. 239 — generators |
 | Ch. 4 — the bicycle dynamo, a small generator working by induction (Afghanistan, Grade 9) | Afghanistan, *فزیک — صنف نهم (Physics — Grade 9)*, Ch. 4 — printed p. 71 — the bicycle dynamo, read in the body: a small generator working by induction, turning the wheel's rotational energy into light |
 | Ch. IV §4.4: electric motors (Moldova, Grade 8) | Moldova, *Fizică: Manual pentru clasa a VIII-a (Physics: Textbook for Grade 8)*, Ch. IV §4.4: electric motors — printed p. 91 |
+| Ch.20 §4 The electric motor (China, Grade 9 Physics (full-year)) | China, *Grade 9 Physics (full-year)*, Ch.20 §4 The electric motor — printed p. 133 |
 
 | Ch. 4: force on a current-carrying conductor in a magnetic field, applied in simple electric motors — printed p. 98 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 4: force on a current-carrying conductor in a magnetic field, applied in simple electric motors — printed p. 98 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Argentina, Afghanistan, Bhutan, Moldova).**
+**Acceptance count: taught in 6 countries (Ethiopia, Argentina, Afghanistan, Bhutan, Moldova, China).**
 
 Assessment warning carried exactly as the placements direct: the student book's Unit 7 review questions (printed pp. 232–233) are a copy-paste of Unit 6's questions — the size-ordering question, the ‘biggest object’ question and the Earth–Sun movement item reappear there as Unit 7 items — so NOTHING from that review is carried into this lesson's questions or into any Unit 7 lesson's assessment; every question in this build is written from the Unit 7 sections themselves. Two summary claims no section teaches (electron-current direction; force on a current-carrying wire in an external field, printed pp. 228–230) are likewise NOT taught as Unit 7 content anywhere in this build.
 

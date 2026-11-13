@@ -1,0 +1,4 @@
+# Experiment — measuring a metal's resistivity — depth
+
+Whole-lesson pass mark: the learner can do all of these — Resistivity is the material's own share of resistance: R = ρL/A, so ρ = RA/L, measured in ohm-metres (Ω·m); Three measurements feed it: R by volt-ampere, L between the voltmeter's contacts, d by micrometer; The diameter rules the accuracy — A goes as d², so diameter errors count double; average many micrometer readings; Keep the current small and brief: a warmed wire changes its ρ while you measure it — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

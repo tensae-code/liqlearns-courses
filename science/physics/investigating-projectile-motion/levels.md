@@ -1,0 +1,4 @@
+# Investigating projectile motion — depth
+
+Whole-lesson pass mark: the learner can do all of these — A clean flat-throw starts with a purely horizontal velocity — a ramp and level lip provide it; Equal times, equal horizontal steps: the horizontal motion is uniform; Vertical falls grow 1 : 3 : 5 per beat (totals 1 : 4 : 9): uniformly accelerated motion at g; The dropped control ball keeps the projectile's height in every frame — they land together; the laws of the next section are this record in symbols — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

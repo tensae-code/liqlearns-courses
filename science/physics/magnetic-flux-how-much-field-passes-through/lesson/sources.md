@@ -1,6 +1,6 @@
 # Sources — Magnetic flux — how much field passes through
 
-countries: Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam
+countries: Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -18,16 +18,19 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 7:** *Vật lí 12 (Physics 12) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student book · 2nd reprint (Tái bản lần thứ hai) · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Văn Biên (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House); appraisal decisions 1882/QĐ-BGDĐT (2023) and 2892/QĐ-BGDĐT (2023). Repo path: grade-12/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-full-year.pdf). Byte size: 24,390,203 (matches record). PDF pages: 127 (record 127). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (cover/title/TOC verified; interiors spot-verified at the induction-applications, EM-field and radioactivity/nuclear-industry lessons). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 8:** *普通高中教科书·物理必修 第三册 (Senior High Physics, Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior (filed grade-12 in the library; Compulsory 3 is the third volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 21,556,582 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §9.2 Coulomb's law, printed p.6, lands on PDF p.11). Verdict: COMPLETE — chapters 9–13 through research project (p.131) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 4).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Magnetic flux | Grade 12 Student Textbook, printed pp. 128–129 |
 | L7 Magnetic field; magnetic induction (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L7 Magnetic field; magnetic induction — printed p. 46 |
 | Part V, Lesson 15 Electromagnetic Induction (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part V, Lesson 15 Electromagnetic Induction — printed p. 120 |
+| Ch.13 §2 Magnetic induction strength and magnetic flux (China, Senior Physics, Compulsory Book 3) | China, *Senior Physics, Compulsory Book 3*, Ch.13 §2 Magnetic induction strength and magnetic flux — printed p. 109 |
 
 | §30 Magnetic-field induction; lines of magnetic induction (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §30 Magnetic-field induction; lines of magnetic induction — printed p. 208 |
 | §3-7, Electromagnetic induction — magnetic flux (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-7 — printed p. 85 |
 | Bài 16 — Magnetic flux. Electromagnetic induction (Vietnam, Grade 12) | Vietnam, *Vật lí 12*, Bài 16, Magnetic flux. The phenomenon of electromagnetic induction — printed p. 66 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China).**
 
 Searchable tags: physics, grade 12, electromagnetism, magnetic flux — how much field passes through, flux, iran, laos

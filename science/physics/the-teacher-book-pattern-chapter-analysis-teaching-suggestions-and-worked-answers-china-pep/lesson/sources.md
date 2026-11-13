@@ -1,0 +1,19 @@
+# Sources — The teacher-book pattern — chapter analysis, teaching suggestions and worked answers (China PEP)
+
+countries: China (teacher-guide evidence only)
+
+**Book 1:** *普通高中教科书 物理 必修第二册 教师教学用书 (Teacher's Teaching Book for Senior Physics, Compulsory Book 2)* (TEACHER'S GUIDE — cited as teacher-guide evidence only, outside the acceptance count) — China, PEP (People's Education Press). Grade/kind: teacher's guide for Compulsory Book 2 — the record (grade-11/gov/china/physics/teacher-guide.pdf) names the right kind in its path but its TSV kind field said “student”, and the “grade-11” label is the library's filing of the senior sequence, not a grade the book claims; both record faults are carried as library debt. Repo path: grade-11/gov/china/physics/teacher-guide.pdf (contents-API route via curl; no recorded byte size existed). Byte size: 7,659,836 (downloaded file). PDF pages: 66. Offset: PDF page = printed page + 6 (proven: last PDF page 66 carries printed folio 60). Verdict: TRUNCATED — read as far as the file goes: the guide's own contents run to printed p.131 but the secured scan stops at printed p.60 (Ch.5 and Ch.6 guidance complete, nothing of Ch.7–8); the back half (printed pp. 61–131) is missing from the secured file — library debt. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 11).
+
+| Lesson part | Where it comes from |
+|---|---|
+| The whole lesson | China, *Teacher's Teaching Book for Compulsory Book 2 (PEP) — teacher's guide*, the whole held part (Ch.5 and Ch.6 guidance, printed pp. 1–60 of ~131; the scan is truncated — Ch.7–8 guidance missing) |
+| Sub lesson 1 — The chapter overview — the map before the march | China, *Teacher's Teaching Book for Compulsory Book 2 (PEP) — teacher's guide*, the whole held part (Ch.5 and Ch.6 guidance, printed pp. 1–60 of ~131; the scan is truncated — Ch.7–8 guidance missing) |
+| Sub lesson 2 — Section by section — analysis with teaching suggestions | China, *Teacher's Teaching Book for Compulsory Book 2 (PEP) — teacher's guide*, the whole held part (Ch.5 and Ch.6 guidance, printed pp. 1–60 of ~131; the scan is truncated — Ch.7–8 guidance missing) |
+| Sub lesson 3 — Worked answers and reference materials — the teacher's back room | China, *Teacher's Teaching Book for Compulsory Book 2 (PEP) — teacher's guide*, the whole held part (Ch.5 and Ch.6 guidance, printed pp. 1–60 of ~131; the scan is truncated — Ch.7–8 guidance missing) |
+| Do it first; key ideas; Do It Yourself | China, *Teacher's Teaching Book for Compulsory Book 2 (PEP) — teacher's guide*, the whole held part (Ch.5 and Ch.6 guidance, printed pp. 1–60 of ~131; the scan is truncated — Ch.7–8 guidance missing), as cited in the rows above |
+
+**Acceptance count: taught in 0 countries.** China is named as teacher-guide evidence only (*普通高中教科书 物理 必修第二册 教师教学用书 (Teacher's Teaching Book for Senior Physics, Compulsory Book 2)* — teacher's guide, truncated scan), not added to this count.
+
+Placement choice, on the record: this NEW LESSON was built for the China placement “NEW LESSON NEEDED: The teacher-book pattern — chapter analysis, teaching suggestions and worked answers (China PEP)” — china-placements.md, Book 11 (Teacher's Teaching Book for Compulsory Book 2), whole held part, printed p. 1. It stands on the teacher-guide evidence footing (0 countries), following the Zambia/Uganda/South Sudan course-way precedents: a teacher's guide is cited as the teaching-way layer, never counted. The truncation of the secured scan (printed p. 60 of ~131) is carried in the lesson and its book entry. It sits in physics/ (Physics) among the how-this-course-works lessons.
+
+Searchable tags: teacher guide, pep, teaching pattern, chapter overview, teaching suggestions, reference materials, china, evidence only

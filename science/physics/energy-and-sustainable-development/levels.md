@@ -1,0 +1,4 @@
+# Energy and sustainable development — depth
+
+Whole-lesson pass mark: the learner can do all of these — Most working energy still comes from finite fossil fuels — burned once, gone, and their burning loads the air; Renewable flows — solar, water, wind, geothermal, tides — are refilled by nature on a human timescale; Efficiency is an energy source: the joule never used is the cheapest and cleanest; Sustainable development: meet today's needs without spending the world the next generations will need — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

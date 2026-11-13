@@ -1,0 +1,4 @@
+# What gravitation theory achieved — weighing the Earth, predicting planets — depth
+
+Whole-lesson pass mark: the learner can do all of these — Set mg = GMm/R² at the surface: M = gR²/G — the Earth weighed from g, R and Cavendish's G, without leaving the ground; The same method weighs the Sun and any planet that has a moon, from the moon's period and orbit radius; Uranus's drift, taken seriously, predicted Neptune's position; Galle found it there in 1846; The daily harvest: tides priced, Halley's comet returning on schedule, planetary tables for navigation — a theory audited by its achievements — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

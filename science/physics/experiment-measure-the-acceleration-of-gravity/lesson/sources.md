@@ -1,6 +1,6 @@
 # Sources — Experiment: measure the acceleration of gravity
 
-countries: Ethiopia, Bulgaria, Vietnam, Libya
+countries: Ethiopia, Bulgaria, Vietnam, Libya, China
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bulgaria, Vietnam, Libya
 
 **Book 5:** *الفيزياء كراسة النشاط العملي — Physics, Grade 11 (practical activity workbook, Science stream)* (workbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 11 · Workbook (practical activities, كراسة النشاط العملي) — the heat-and-light volume of the practical series, with a two-experiment mechanics tail · Repo path: grade-11/gov/libya/physics/practical-activity-workbook.pdf (Contents-API tree route). Byte size: 2,904,004 (Contents-API meta + raw download, verified) · PDF pages: 72 · Offset: printed p. = PDF p. (printed 7 = PDF 7). Verdict: COMPLETE — contents and all experiment titles read via page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 6:** *普通高中教科书·物理选择性必修 第一册 (Senior High Physics, Selective Compulsory Book 1)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 1 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第一册.pdf. Route: recorded kyohwang raw source; byte size 10,448,338 = recorded exactly. PDF pages: 130. Offset: PDF = printed + 5 (proven: §2.4 pendulum, printed p.46, lands on PDF p.51). Verdict: COMPLETE — chapters 1–4 through research project (p.116) and index (p.121). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 5).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Practical — measuring g | Grade 11 Student Textbook, printed pp. 74–75 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Bulgaria, Vietnam, Libya
 | Bài 11 — Practice: measuring free-fall acceleration (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 11, Practice: measuring free-fall acceleration — printed p. 47 |
 | Experiments 3 and 4: determining free-fall acceleration g using the pendulum, then determining g by a second route — two different g experiments back to back is Libya's way (Libya, Grade 10) | Libya, *Physics, Grade 10 (practical activity workbook)*, Experiments 3 and 4: determining free-fall acceleration g using the pendulum, then determining g by a second route — printed pp. 36–41 |
 | Mechanics Exp. 1: determining Earth's gravitational acceleration (Libya, Grade 11) | Libya, *Physics, Grade 11 (practical activity workbook, Science stream)*, Mechanics Exp. 1: determining Earth's gravitational acceleration — printed pp. 65–66 |
+| Ch.2 §5 Experiment: measuring g with a simple pendulum (China, Senior Physics, Selective Compulsory Book 1) | China, *Senior Physics, Selective Compulsory Book 1*, Ch.2 §5 Experiment: measuring g with a simple pendulum — printed p. 51 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bulgaria, Vietnam, Libya).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bulgaria, Vietnam, Libya, China).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 

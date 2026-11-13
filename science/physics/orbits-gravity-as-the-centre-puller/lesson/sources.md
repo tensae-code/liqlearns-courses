@@ -1,6 +1,6 @@
 # Sources — Orbits — gravity as the centre-puller
 
-countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India
+countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, China
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India
 
 **Book 8:** *Physics Part–I, Textbook for Class XI, NCERT (National Council of Educational Research and Training), New Delhi* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books/grade-11-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-keph1. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World, later chapters +1) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 9:** *普通高中教科书·物理必修 第二册 (Senior High Physics, Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series (2022 printing as Book 1). Grade: senior (filed grade-12 in the library; Compulsory 2 is the second volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 16,251,494 = recorded exactly. PDF pages: 114. Offset: PDF = printed + 5 (proven: §6.2 printed p.27 heading lands on PDF p.32). Verdict: COMPLETE — chapters 5–8 (continuing Book 1's numbering) through research project (p.102) and index (p.106). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gravitation and orbits — centripetal force from gravity | Grade 12 Student Textbook, printed pp. 61–62 |
@@ -26,11 +28,12 @@ countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India
 | Book 1: planetary motion and Kepler's laws strand (Sudan) | Sudan, *Physics — Third Secondary Year*, printed p. ~20 |
 | Ch.5 Satellites: orbital velocity and what satellites are for (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — Term 2 (English), 2025–2026*, Ch.5 Satellites: orbital velocity and what satellites are for — printed p. 96 |
 | Ch. 4, lesson 4-1 "Orbits of Artificial Satellites" (Kuwait, Grade 11 Term 1) | Kuwait, *Physics, Grade 11, Term 1 (student book)*, printed p. 105 |
+| Ch.7 §4 Spaceflight (China, Senior Physics, Compulsory Book 2) | China, *Senior Physics, Compulsory Book 2*, Ch.7 §4 Spaceflight — printed p. 59 — the three cosmic velocities |
 
 | Ch. 13 Gravitation: Newton's law, gravitation inside Earth, Kepler's laws, Einstein and gravitation — printed p. 354 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 13 Gravitation: Newton's law, gravitation inside Earth, Kepler's laws, Einstein and gravitation — printed p. 354 |
 | Ch. 7 — escape speed, Earth satellites and energy of an orbiting satellite sections (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 7 — escape speed, Earth satellites and energy of an orbiting satellite sections |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India).**
+**Acceptance count: taught in 9 countries (Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, China).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

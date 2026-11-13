@@ -1,6 +1,6 @@
 # Sources — Going round in circles — angular speed
 
-countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vietnam
+countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vietnam, China
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vi
 
 **Book 9:** *Vật lí 10 (Physics 10) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student book · 4th reprint (Tái bản lần thứ tư) · Authors: Vũ Văn Hùng (editor-in-chief), Bùi Gia Thịnh (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-full-year.pdf). Byte size: 26,833,128 (matches record). PDF pages: 142 (record 142). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover, title page, full TOC and interior chapters verified against TOC). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 10:** *普通高中教科书·物理必修 第二册 (Senior High Physics, Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series (2022 printing as Book 1). Grade: senior (filed grade-12 in the library; Compulsory 2 is the second volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 16,251,494 = recorded exactly. PDF pages: 114. Offset: PDF = printed + 5 (proven: §6.2 printed p.27 heading lands on PDF p.32). Verdict: COMPLETE — chapters 5–8 (continuing Book 1's numbering) through research project (p.102) and index (p.106). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Uniform circular motion — angular quantities | Grade 11 Student Textbook, printed pp. 79–83 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vi
 | §2-4, Uniform circular motion — angular speed | Iran, *Physics (3), Grade 12, Mathematical Sciences* (Iran, book code 112209 — Mathematical branch only), §2-4 — printed p. 48 |
 | Part III, Lesson 15 Uniform Circular Motion (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part III, Lesson 15 Uniform Circular Motion — printed p. 117 |
 | Bài 31 — Kinematics of uniform circular motion (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 31, Kinematics of uniform circular motion — printed p. 120 |
+| Ch.6 §1 Circular motion (China, Senior Physics, Compulsory Book 2) | China, *Senior Physics, Compulsory Book 2*, Ch.6 §1 Circular motion — printed p. 23 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vietnam).**
+**Acceptance count: taught in 10 countries (Ethiopia, Ecuador, Bolivia, Egypt, Afghanistan, India, Iran, Laos, Vietnam, China).**
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 

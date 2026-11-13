@@ -1,6 +1,6 @@
 # Sources — Discovering the nucleus — Rutherford to Chadwick
 
-countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India, North Macedonia, Laos, Libya
+countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India, North Macedonia, Laos, Libya, China
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait,
 
 **Book 14:** *الفيزياء كتاب الطالب، الجزء الأول — Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Student book (third secondary year, Science stream; Arabic medium) · Repo path: grade-12/gov/libya/physics/student-book-part-1.pdf (TSV route: release asset grade-12-gov-libya-physics-student-book-part-1.pdf, mid-size-books-3). Byte size: 10,169,298 (release asset, verified) · PDF pages: 177 · Offset: printed p. = PDF p. − 5 approx. Verdict: COMPLETE for Part 1 — 9 units plus answers (printed p. 172); read from the full text layer and printed contents. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 15:** *普通高中教科书·物理选择性必修 第三册 (Senior High Physics, Selective Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 3 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 12,278,176 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §4.2 photoelectric effect, printed p.71, lands on PDF p.76). Verdict: COMPLETE — chapters 1–5 through research project (p.132) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 7).
+
 | Lesson part | Where it comes from |
 |---|---|
 | How the nucleus was found — Rutherford and the neutron | Grade 11 Student Textbook, printed pp. 291–298 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait,
 | Theme 4 §4.3: models of the atom (Thomson, Rutherford, Bohr) (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 4 §4.3: models of the atom (Thomson, Rutherford, Bohr) — printed p. 214 |
 | Part IX, Lesson 25 The Structure of Matter (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part IX, Lesson 25 The Structure of Matter — printed p. 224 |
 | U9 §9-6: discovering the nuclear atom (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U9 §9-6: discovering the nuclear atom — printed p. 161 |
+| Ch.4 §3 The nuclear-structure model of the atom (China, Senior Physics, Selective Compulsory Book 3) | China, *Senior Physics, Selective Compulsory Book 3*, Ch.4 §3 The nuclear-structure model of the atom — printed p. 78 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India, North Macedonia, Laos, Libya).**
+**Acceptance count: taught in 15 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India, North Macedonia, Laos, Libya, China).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
