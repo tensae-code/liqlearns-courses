@@ -1,0 +1,15 @@
+# Sources — Stigma, prejudice and inclusion in health
+
+countries: Mozambique
+
+**Book 1:** *Biologia — Módulo 4 (PESD I, 1º ciclo, grades 7–9) — 2023 edition* — Mozambique. Grade: PESD I, 1º ciclo (grades 7–9); kind: student (verified, same 2023 IEDA series) Repo path: grade-07/gov/mozambique/biologia/student/Modulo-4-de-Biologia.pdf (duplicate: TSV release URL + books.json record, same book) Byte size: 13,441,403 (matches books.json exactly); PDF pages: 137; printed pages 1–135, offset PDF p. − 1 Verdict: COMPLETE — all 17 lessons (Índice numbering skips from 14 to 16; Lesson 15, on stigma/prejudice/inclusion, is present in the body), preparation test, answer key and bibliography present Structure: environment/agriculture, plant reproduction, human reproduction and adolescent health. Lessons: 1 natural resources; 2 soil; 3 food crops; 4 food crops (soil preparation, pest control, organic fertiliser, rotation); 5 reproduction (incl. vegetative propagation); 6 pollination; 7 germination; 8 regulation of plant life (plant hormones in agriculture); 9 human reproduction and menstrual cycle; 10 pregnancy; 11 adolescent relationships (drugs and alcohol); 12 influence of friends (bullying, conflict resolution, child-marriage law); 13 sexually transmitted infections; 14 HIV and opportunistic infections; 15 stigma, prejudice and inclusion; 16 diseases (incl. cervical and prostate cancer, Pap test); 17 medicines (care, allergy). All Mozambique books are IEDA (Instituto de Educação Aberta e à Distância) PESD distance-learning self-study modules in Portuguese, Ministry of Education. Each was recorded twice in the library records (a TSV record and a books.json record for the same repo path) — a verified duplicate, taught once and cited once here. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/mozambique-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mozambique's way — Lesson 15 (unnumbered in the ÍNDICE sequence between 14 and 16) — stigma (individual, e.g. around alcoholism, mental illness, homosexuality; tribal, by race/religion), prejudice as judgement without critical analysis, intolerance, exclusion and inclusion as human-rights content inside the biology course. (placement: NEW LESSON NEEDED: stigma-prejudice-and-inclusion-in-health — no existing lesson covers this thing, so this lesson was built for it) | Book 1 (*Biologia — Módulo 4 (PESD I, 2023)*, student module, PESD I, grades 7–9, 2023), printed p. 112 |
+
+**Acceptance count: taught in 1 country (Mozambique).**
+
+Honesty (Mozambique): Book 1 (*Biologia — Módulo 4 (PESD I, 2023)*) is an IEDA PESD distance-learning self-study student module in Portuguese (Ministry of Education, Mozambique), as verified in the placements — so Mozambique counts toward acceptance. It is COMPLETE as stated in its book entry above. It was recorded twice in the library records (a TSV record and a books.json record for the same repo path) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, mozambique, stigma, prejudice, and, inclusion, in, health

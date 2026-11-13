@@ -1,17 +1,22 @@
 # Sources — Bacterial Shapes, Nutrition and Reproduction
 
-countries: Ethiopia
+countries: Ethiopia, Mozambique
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
+
+**Book 2:** *Módulo 1 de Biologia — Sistemática, estudo e classificação dos seres vivos no reino Monera e dos fungos* — Mozambique. Grade: PESD II, 2º ciclo (grades 10–12; module itself states it prepares for the grade-10 national exam); kind: student (verified) Repo path: grade-10/gov/mozambique/biologia/student/Biologia1-2o-Ciclo.pdf (duplicate: TSV blob URL + books.json record, same path) Byte size: 1,117,253 (matches books.json size_bytes exactly); PDF pages: 90; printed pages 1–85, offset PDF p. − 5 Verdict: COMPLETE — all 13 lessons, solutions and preparation test present; PDF pp. 9 and 75 are blank dividers, no content missing Structure: self-instructional module — each lesson has introduction, terminology, objectives, content, summary, worked activities, self-assessment; answer key and end-of-module preparation test at the back. Lessons: 1 diversity and history of classification; 2 taxonomic hierarchy and species concept; 3 prokaryotes / Kingdom Monera; 4 importance of bacteria and bacterial diseases; 5 blue-green algae (Cyanophyta); 6 viruses; 7 viral reproduction and viral diseases; 8 eukaryotic Protista; 9 protist algae; 10 parasitic protozoa; 11 Kingdom Fungi; 12 fungal reproduction; 13 phylum Mycophyta and lichens. All Mozambique books are IEDA (Instituto de Educação Aberta e à Distância) PESD distance-learning self-study modules in Portuguese, Ministry of Education. Each was recorded twice in the library records (a TSV record and a books.json record for the same repo path) — a verified duplicate, taught once and cited once here. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/mozambique-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Bacterial shapes, nutrition and reproduction (§2.1.2–2.1.4): | Student Textbook, Grade 12 — Printed pp. 52–56. |
+| Mozambique's way — Lesson 4, bacterial diseases — cholera (Vibrio cholerae), tetanus (Clostridium tetani, toxin acting on the nervous system), diphtheria and tuberculosis named as bacterial diseases with cause and key features. | Book 2 (*Módulo 1 de Biologia — Sistemática, Monera e fungos*, student module, PESD II, grades 10–12), printed p. 25–26 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Mozambique).**
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, bacterial, shapes, nutrition, and, reproduction
+Honesty (Mozambique): Book 2 (*Módulo 1 de Biologia — Sistemática, Monera e fungos*) is an IEDA PESD distance-learning self-study student module in Portuguese (Ministry of Education, Mozambique), as verified in the placements — so Mozambique counts toward acceptance. It is COMPLETE as stated in its book entry above. Each was recorded twice in the library records (a TSV record and a books.json record for the same repo path) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, bacterial, shapes, nutrition, and, reproduction, mozambique
