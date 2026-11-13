@@ -1,6 +1,6 @@
 # Sources — Monohybrid crosses and the law of segregation
 
-countries: Ethiopia, Albania, Eritrea, Samoa, India, Italy, Yemen, Dominica, Malaysia
+countries: Ethiopia, Albania, Eritrea, Samoa, India, Italy, Yemen, Dominica, Malaysia, Iran
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Albania, Eritrea, Samoa, India, Italy, Yemen, Dominica, Mal
 
 **Book 11:** Biologi Tingkatan 5 (as printed; Bahasa Melayu edition) — Malaysia. Grade: 11 (Tingkatan 5) — Kind: student as verified — Repo path: grade-11/gov/malaysia/biologi/student/full-year.pdf (TSV release: mid-size-books-5/grade-11-gov-malaysia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 78520784 (grab-verified) — PDF pages: 307 — Printed-page offset: as the DLP edition (printed p. = PDF page − 10 for main text) — Verdict: COMPLETE — full KSSM student text in Bahasa Melayu, Ministry of Education Malaysia, Cetakan Pertama 2020, ISBN 978-967-0463-53-7, No. siri buku 0097, IMS Books Trading Sdn. Bhd. — the Malay original of the DLP edition above (consecutive ISBN and form code FT175003 vs the DLP's FT175004), same author team (Jariah binti Khalib, Rodiah binti Abdul Wahid, Sudani binti Sudin). Structural summary: Parallel language edition of "Biology Form 5 (DLP)" filed above; contents verified as the same 13-chapter, 3-theme structure. All content placements are the DLP placements at identical printed pages. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/malaysia-placements.md.
 
+**Book 12:** زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed) — Iran. Grade: 12 (grade-12) — Kind: student as verified — Repo path: grade-12/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/712/C112216.pdf — Byte size: 6587991 (matches books.json record exactly) — PDF pages: 136 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–128) — Verdict: COMPLETE — all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present. Structural summary: The molecular-and-evolution year: information molecules, information flow in the cell, inheritance across generations, change in hereditary information (evolution), energy from matter (respiration), matter from energy (photosynthesis), modern biotechnologies, and animal behaviour. Iranian way: every chapter title page carries a printed exam-scope notice stating whether numerical/computational questions, codon-sequence questions etc. may be set from that chapter in the national university entrance exam — the syllabus boundary is printed inside the book itself. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Monohybrid cross, Punnett square and segregation | Student Textbook, Grade 11 — Printed pp. 133–137. |
@@ -36,8 +38,9 @@ countries: Ethiopia, Albania, Eritrea, Samoa, India, Italy, Yemen, Dominica, Mal
 | Dominica's way — Ch. 25: genes; examples of genetic effects; pedigree charts (placement slug: monohybrid-crosses-and-the-law-of-segregation) | Book 9 (Biology for CSEC Examinations, 3rd ed., student textbook, Grade 11), Ch. 25, printed pp. 297–304 |
 | Malaysia's way — Ch.11: monohybrid inheritance (placement: monohybrid-crosses-and-the-law-of-segregation) | Book 10 (Biology Form 5 (DLP), student textbook, Grade 11 (Form 5)), Ch.11, printed p. 230 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: monohybrid-crosses-and-the-law-of-segregation) | Book 11 (Biologi Tingkatan 5, student textbook, Grade 11 (Tingkatan 5)), Ch.11, printed p. 230 |
+| Iran's way — Ch. 3 §1: crosses and segregation — printed p. 40 | Book 12 (زیست‌شناسی (۳) — Biology (3), student textbook, Grade 12), Ch. 3 §1: crosses and segregation, printed p. 40 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Samoa, India, Italy, Yemen, Dominica, Malaysia) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Eritrea, Samoa, India, Italy, Yemen, Dominica, Malaysia, Iran) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty (Dominica): Book 9 is a student textbook as verified in the placements — *Biology for CSEC Examinations*, 3rd Edition (Linda Atwaroo-Ali, Macmillan Education, 2014), Grade 11 — so Dominica counts toward acceptance. It is COMPLETE: 26 chapters, the School-Based Assessment section and the index all present (387 PDF pages; printed p. = PDF page − ~13). It is a commercial CSEC textbook adopted for Dominica, an image-only scan read from its full printed contents, so the placements cite the contents' printed pages.
 
@@ -61,4 +64,6 @@ Honesty (Malaysia): Book 10 is a student textbook as verified in the placements 
 
 Honesty (Malaysia): Book 11 is a student textbook as verified in the placements — *Biologi Tingkatan 5*, Grade 11 (Tingkatan 5), Ministry of Education Malaysia, Cetakan Pertama 2020, ISBN 978-967-0463-53-7, No. siri buku 0097 — the Malay original of the DLP edition above, contents verified as the same 13-chapter, 3-theme structure, so it is cited at the same printed pages and Malaysia is counted once. It is COMPLETE (307 PDF pages).
 
-Searchable tags: biology, eritrea, ethiopia, monohybrid, crosses, and, the, law, segregation, albania, samoa, india, italy, yemen, dominica, malaysia
+Honesty (Iran): Book 12 is a student textbook as verified in the placements — *زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed)*, Grade 12 — so Iran counts toward acceptance. It is COMPLETE: all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present.
+
+Searchable tags: biology, eritrea, ethiopia, monohybrid, crosses, and, the, law, segregation, albania, samoa, india, italy, yemen, dominica, malaysia, iran

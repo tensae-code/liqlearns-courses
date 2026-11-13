@@ -1,6 +1,6 @@
 # Sources — Organisation of the Nervous System: Brain and Spinal Cord
 
-countries: Ethiopia, Eritrea, Malaysia
+countries: Ethiopia, Eritrea, Malaysia, Iran
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Eritrea, Malaysia
 
 **Book 4:** Biologi Tingkatan 4 (as printed; Bahasa Melayu edition) — Malaysia. Grade: 10 (Tingkatan 4) — Kind: student as verified — Repo path: grade-10/gov/malaysia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-10-gov-malaysia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 96276447 (grab-verified) — PDF pages: 323 — Printed-page offset: as the DLP edition (front matter roman; main text from printed p. 1); the 3 extra PDF pages over the DLP file are back-matter/cover sheets (textbook-loan pledge and Rukun Negara pages) — Verdict: COMPLETE — full KSSM student text in Bahasa Melayu, Ministry of Education Malaysia, Cetakan Pertama 2019, ISBN 978-967-2250-72-2, No. Siri Buku 0114, same author team as the DLP edition (Gan Wan Yeat et al.). Contents (Kandungan) verified chapter-for-chapter and page-for-page identical to the DLP edition: Bab 1 Pengenalan kepada Biologi dan Peraturan Makmal (printed p. 2) through Bab 15, with the same subtopic pagination (e.g. 5 Metabolisme dan Enzim p. 84, 6 Pembahagian Sel p. 98, 7 Respirasi Sel p. 112). Structural summary: The Bahasa Melayu original of the Biology Form 4 (DLP) book filed above; the DLP edition is its ministry English translation. All content placements are the DLP placements at identical printed pages; no topic exists in one edition that is absent from the other. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/malaysia-placements.md.
 
+**Book 5:** زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed) — Iran. Grade: 11 (grade-11) — Kind: student as verified — Repo path: grade-11/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111216.pdf — Byte size: 8357552 (matches books.json record exactly) — PDF pages: 168 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–160) — Verdict: COMPLETE — contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present. Structural summary: The regulation-and-reproduction year: neural regulation, senses, movement, chemical (hormonal) regulation, immunity, cell division, human and animal reproduction, flowering-plant reproduction, and plant responses to stimuli. Iranian way: chapters open from everyday technology/life hooks (EEG brain recording for Ch. 1, a city losing all communications for chemical regulation, prosthetic limbs for the movement chapter); defence is taught as three named "lines of defence" (خطوط دفاعی) with a "No entry" (ورود ممنوع) framing for the first line. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Types of the nervous system; the brain and its protection (§5.1.4): | Student Textbook, Grade 12 — Printed pp. 254–261. |
 | Eritrea's way — Unit Eight: brain organisation within the nervous unit | Book 2 (Biology for Grade 10 Textbook, student textbook, Grade 10), PDF pp. 173–203 |
 | Malaysia's way — Ch.12: coordination and response; nervous system (placement: organisation-of-the-nervous-system-brain-and-spinal-cord) | Book 3 (Biology Form 4 (DLP), student textbook, Grade 10 (Form 4)), Ch.12, printed p. 216 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: organisation-of-the-nervous-system-brain-and-spinal-cord) | Book 4 (Biologi Tingkatan 4, student textbook, Grade 10 (Tingkatan 4)), Ch.12, printed p. 216 |
+| Iran's way — Ch. 1 §2: structure of the nervous system — printed p. 9 — central and peripheral organisation | Book 5 (زیست‌شناسی (۲) — Biology (2), student textbook, Grade 11), Ch. 1 §2: structure of the nervous system, printed p. 9 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Malaysia).**
+**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Malaysia, Iran).**
 
 Honesty (Eritrea): Book 2 is a student textbook as verified in the placements — *Biology for Grade 10 Textbook* (The State of Eritrea, Ministry of Education), Grade 10, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file (203 PDF pages). Page references are PDF pages of the unit openings; printed pagination runs inside the same sequence.
 
@@ -29,4 +32,6 @@ Honesty (Malaysia): Book 3 is a student textbook as verified in the placements �
 
 Honesty (Malaysia): Book 4 is a student textbook as verified in the placements — *Biologi Tingkatan 4*, Grade 10 (Tingkatan 4), Ministry of Education Malaysia, Cetakan Pertama 2019, ISBN 978-967-2250-72-2, No. Siri Buku 0114 — the Bahasa Melayu original of the DLP edition above, verified chapter-for-chapter and page-for-page identical to it, so it is cited at the same printed pages and Malaysia is counted once. It is COMPLETE (323 PDF pages).
 
-Searchable tags: biology, eritrea, ethiopia, organisation, the, nervous, system, brain, and, spinal, cord, malaysia
+Honesty (Iran): Book 5 is a student textbook as verified in the placements — *زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed)*, Grade 11 — so Iran counts toward acceptance. It is COMPLETE: contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present.
+
+Searchable tags: biology, eritrea, ethiopia, organisation, the, nervous, system, brain, and, spinal, cord, malaysia, iran

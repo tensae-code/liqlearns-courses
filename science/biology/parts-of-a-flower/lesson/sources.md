@@ -1,6 +1,6 @@
 # Sources — Parts of a flower
 
-countries: Ethiopia, Morocco, Albania, Uganda, Uzbekistan, Nigeria, Malaysia
+countries: Ethiopia, Morocco, Albania, Uganda, Uzbekistan, Nigeria, Malaysia, Iran
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Morocco, Albania, Uganda, Uzbekistan, Nigeria, Malaysia
 
 **Book 9:** Biologi Tingkatan 5 (as printed; Bahasa Melayu edition) — Malaysia. Grade: 11 (Tingkatan 5) — Kind: student as verified — Repo path: grade-11/gov/malaysia/biologi/student/full-year.pdf (TSV release: mid-size-books-5/grade-11-gov-malaysia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 78520784 (grab-verified) — PDF pages: 307 — Printed-page offset: as the DLP edition (printed p. = PDF page − 10 for main text) — Verdict: COMPLETE — full KSSM student text in Bahasa Melayu, Ministry of Education Malaysia, Cetakan Pertama 2020, ISBN 978-967-0463-53-7, No. siri buku 0097, IMS Books Trading Sdn. Bhd. — the Malay original of the DLP edition above (consecutive ISBN and form code FT175003 vs the DLP's FT175004), same author team (Jariah binti Khalib, Rodiah binti Abdul Wahid, Sudani binti Sudin). Structural summary: Parallel language edition of "Biology Form 5 (DLP)" filed above; contents verified as the same 13-chapter, 3-theme structure. All content placements are the DLP placements at identical printed pages. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/malaysia-placements.md.
 
+**Book 10:** زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed) — Iran. Grade: 11 (grade-11) — Kind: student as verified — Repo path: grade-11/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111216.pdf — Byte size: 8357552 (matches books.json record exactly) — PDF pages: 168 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–160) — Verdict: COMPLETE — contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present. Structural summary: The regulation-and-reproduction year: neural regulation, senses, movement, chemical (hormonal) regulation, immunity, cell division, human and animal reproduction, flowering-plant reproduction, and plant responses to stimuli. Iranian way: chapters open from everyday technology/life hooks (EEG brain recording for Ch. 1, a city losing all communications for chemical regulation, prosthetic limbs for the movement chapter); defence is taught as three named "lines of defence" (خطوط دفاعی) with a "No entry" (ورود ممنوع) framing for the first line. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 27–28 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Morocco, Albania, Uganda, Uzbekistan, Nigeria, Malaysia
 | Nigeria's way — Ch. 4, reproduction: the flower dissected in a hibiscus activity — androecium and gynoecium identified as the essential parts for pollination and fertilisation (placement slug: parts-of-a-flower) | Book 7 (Senior Secondary Biology 1, student textbook, Grade 10), Ch. 4, printed p. 76 |
 | Malaysia's way — Ch.6: structure of a flower (placement: parts-of-a-flower) | Book 8 (Biology Form 5 (DLP), student textbook, Grade 11 (Form 5)), Ch.6, printed p. 114 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: parts-of-a-flower) | Book 9 (Biologi Tingkatan 5, student textbook, Grade 11 (Tingkatan 5)), Ch.6, printed p. 114 |
+| Iran's way — Ch. 8 §2: sexual reproduction in flowering plants — printed p. 124 — flower as the costly structure: colour, scent compounds and nectar as payment to pollinators | Book 10 (زیست‌شناسی (۲) — Biology (2), student textbook, Grade 11), Ch. 8 §2: sexual reproduction in flowering plants, printed p. 124 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Uzbekistan, Nigeria, Malaysia) — Morocco's teacher-guide evidence and Albania's teacher-book evidence are named here and counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Uzbekistan, Nigeria, Malaysia, Iran) — Morocco's teacher-guide evidence and Albania's teacher-book evidence are named here and counted nowhere.**
 
 Honesty (Uganda): Book 5 is a student textbook as verified in the placements — *Biology Textbook — Senior One (NCDC Prototype)*, Grade 8 (Senior One) — so Uganda counts toward acceptance. It is COMPLETE: preface, acknowledgements, contents, all 5 chapters and the closing chapter summary (printed p. 86) plus the NCDC back page present (96 PDF pages; printed p. = PDF page − 8); it is watermarked “PROTOTYPE” throughout, as recorded. The book was recorded twice in the library records (TSV release row + books.json record for the same book); it is one distinct book, taught once and cited once here.
 
@@ -50,4 +53,6 @@ Honesty (Malaysia): Book 8 is a student textbook as verified in the placements �
 
 Honesty (Malaysia): Book 9 is a student textbook as verified in the placements — *Biologi Tingkatan 5*, Grade 11 (Tingkatan 5), Ministry of Education Malaysia, Cetakan Pertama 2020, ISBN 978-967-0463-53-7, No. siri buku 0097 — the Malay original of the DLP edition above, contents verified as the same 13-chapter, 3-theme structure, so it is cited at the same printed pages and Malaysia is counted once. It is COMPLETE (307 PDF pages).
 
-Searchable tags: biology, ethiopia, morocco, grade 10, parts, of, a, flower, albania, uganda, uzbekistan, nigeria, malaysia
+Honesty (Iran): Book 10 is a student textbook as verified in the placements — *زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed)*, Grade 11 — so Iran counts toward acceptance. It is COMPLETE: contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present.
+
+Searchable tags: biology, ethiopia, morocco, grade 10, parts, of, a, flower, albania, uganda, uzbekistan, nigeria, malaysia, iran

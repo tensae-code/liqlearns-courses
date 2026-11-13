@@ -1,6 +1,6 @@
 # Sources — The Eye and Vision
 
-countries: Ethiopia, Afghanistan, Eritrea, Finland, Yemen, Bolivia
+countries: Ethiopia, Afghanistan, Eritrea, Finland, Yemen, Bolivia, Iran
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -13,6 +13,8 @@ countries: Ethiopia, Afghanistan, Eritrea, Finland, Yemen, Bolivia
 
 **Book 6:** Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria (Ministerio de Educación de Bolivia) — Bolivia. Grade: 8 (Secundaria 2) — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-08-gov-bolivia-biology-geography-student-full-year.pdf — Byte size: 10,263,393 — PDF pages: 84 — Printed-page offset: printed p. = PDF page + 146 (file carries printed pp. 148–230 only) — Verdict: TRUNCATED — the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. Structural summary: In the surviving span: hormones and the endocrine system, fertilisation/implantation and embryonic development, an affective-relationships unit ("biología de las relaciones afectivas" — attachment and the right to a life free of violence), nutrition types and healthy eating built on Bolivia's "arco de la alimentación", eating disorders, the sense organs (eye, skin, ear and hearing loss), a long chemistry-of-matter block (debt), a thermology block opening with hyperthermia/hypothermia (physics debt), solar-system/Moon/eclipses (geography debt), renewable energy, and a closing ecology block on ecosystems and Bolivia's biomes and the extinction emergency. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bolivia-placements.md.
 
+**Book 7:** زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed) — Iran. Grade: 11 (grade-11) — Kind: student as verified — Repo path: grade-11/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111216.pdf — Byte size: 8357552 (matches books.json record exactly) — PDF pages: 168 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–160) — Verdict: COMPLETE — contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present. Structural summary: The regulation-and-reproduction year: neural regulation, senses, movement, chemical (hormonal) regulation, immunity, cell division, human and animal reproduction, flowering-plant reproduction, and plant responses to stimuli. Iranian way: chapters open from everyday technology/life hooks (EEG brain recording for Ch. 1, a city losing all communications for chemical regulation, prosthetic limbs for the movement chapter); defence is taught as three named "lines of defence" (خطوط دفاعی) with a "No entry" (ورود ممنوع) framing for the first line. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — The eye (§5.2.4): | Student Textbook, Grade 12 — Printed pp. 281–290. |
@@ -21,8 +23,9 @@ countries: Ethiopia, Afghanistan, Eritrea, Finland, Yemen, Bolivia
 | Finland's way — The fish eye and its lens — spherical, pearl-like lens refracts more strongly than the flatter human lens; the fish focuses by moving the lens in and out (as snakes do), not by changing its shape; the removed lens can be used to magnify text (open teaching material — evidence) (placement slug: the-eye-and-vision) | Book 4 (Kalan preparointi — opettajan ohje, teacher's guide — open teaching material, evidence only, grade-07 / stated grades 7–9), printed p. 5 |
 | Yemen's way — Activities 4–6: changes in the eye's pupil with light distance and intensity — the importance of having two ears, locating the taste-receptor sites on the tongue (placement slug: the-eye-light-and-seeing) | Book 5 (Activities and Practical Experiments, student activities/practical book, Grade 12), Activities 4–6, printed pp. 13–15 |
 | Bolivia's way — The eye: eyeball layers (sclerotic and the rest), ~2.5 cm diameter in the orbital cavity | Book 6 (Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria, student textbook, Grade 8), printed pp. 171–173 |
+| Iran's way — Ch. 2 §2: the special senses — printed p. 23 — eye and ear treated in depth; chapter opens on an electron micrograph of hearing-receptor cilia (1 micrometre scale) | Book 7 (زیست‌شناسی (۲) — Biology (2), student textbook, Grade 11), Ch. 2 §2: the special senses, printed p. 23 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Eritrea, Yemen, Bolivia) — Finland's open teaching materials evidence is named here and counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Eritrea, Yemen, Bolivia, Iran) — Finland's open teaching materials evidence is named here and counted nowhere.**
 
 Honesty (Bolivia): Book 6 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 8 (Secundaria 2) — so Bolivia counts toward acceptance. It is TRUNCATED: the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. This truncated copy is never counted as a complete book. 84 PDF pages; printed p. = PDF page + 146.
 
@@ -38,4 +41,6 @@ Honesty (Yemen): Book 5 is a student activities/practical book as verified in th
 
 Placement choice (Yemen): The placements slug 'the-eye-light-and-seeing' does not exist in the course; this lesson is the closest existing lesson covering that thing, and the original slug is recorded in the provenance row above.
 
-Searchable tags: biology, eritrea, ethiopia, the, eye, and, vision, finland, yemen, bolivia
+Honesty (Iran): Book 7 is a student textbook as verified in the placements — *زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed)*, Grade 11 — so Iran counts toward acceptance. It is COMPLETE: contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present.
+
+Searchable tags: biology, eritrea, ethiopia, the, eye, and, vision, finland, yemen, bolivia, iran

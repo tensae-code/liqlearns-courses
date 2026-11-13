@@ -1,6 +1,6 @@
 # Sources — Mutations
 
-countries: Ethiopia, Nicaragua, Palestine, Eritrea, Papua New Guinea, Laos, Italy, Malaysia
+countries: Ethiopia, Nicaragua, Palestine, Eritrea, Papua New Guinea, Laos, Italy, Malaysia, Iran
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Nicaragua, Palestine, Eritrea, Papua New Guinea, Laos, Ital
 
 **Book 9:** Biologi Tingkatan 5 (as printed; Bahasa Melayu edition) — Malaysia. Grade: 11 (Tingkatan 5) — Kind: student as verified — Repo path: grade-11/gov/malaysia/biologi/student/full-year.pdf (TSV release: mid-size-books-5/grade-11-gov-malaysia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 78520784 (grab-verified) — PDF pages: 307 — Printed-page offset: as the DLP edition (printed p. = PDF page − 10 for main text) — Verdict: COMPLETE — full KSSM student text in Bahasa Melayu, Ministry of Education Malaysia, Cetakan Pertama 2020, ISBN 978-967-0463-53-7, No. siri buku 0097, IMS Books Trading Sdn. Bhd. — the Malay original of the DLP edition above (consecutive ISBN and form code FT175003 vs the DLP's FT175004), same author team (Jariah binti Khalib, Rodiah binti Abdul Wahid, Sudani binti Sudin). Structural summary: Parallel language edition of "Biology Form 5 (DLP)" filed above; contents verified as the same 13-chapter, 3-theme structure. All content placements are the DLP placements at identical printed pages. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/malaysia-placements.md.
 
+**Book 10:** زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed) — Iran. Grade: 12 (grade-12) — Kind: student as verified — Repo path: grade-12/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/712/C112216.pdf — Byte size: 6587991 (matches books.json record exactly) — PDF pages: 136 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–128) — Verdict: COMPLETE — all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present. Structural summary: The molecular-and-evolution year: information molecules, information flow in the cell, inheritance across generations, change in hereditary information (evolution), energy from matter (respiration), matter from energy (photosynthesis), modern biotechnologies, and animal behaviour. Iranian way: every chapter title page carries a printed exam-scope notice stating whether numerical/computational questions, codon-sequence questions etc. may be set from that chapter in the national university entrance exam — the syllabus boundary is printed inside the book itself. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Mutation (§4.1.6): | Student Textbook, Grade 12 — Printed pp. 208–214. |
@@ -31,8 +33,9 @@ countries: Ethiopia, Nicaragua, Palestine, Eritrea, Papua New Guinea, Laos, Ital
 | Italy's way — Unità 1.18: mutations can modify the meaning of genes | Book 7 (Campbell — Biologia: concetti e collegamenti, Secondo biennio, student textbook, Grade 11), printed p. 25 |
 | Malaysia's way — Ch.12: mutation (placement: mutations) | Book 8 (Biology Form 5 (DLP), student textbook, Grade 11 (Form 5)), Ch.12, printed p. 269 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: mutations) | Book 9 (Biologi Tingkatan 5, student textbook, Grade 11 (Tingkatan 5)), Ch.12, printed p. 269 |
+| Iran's way — Ch. 4 §1: change in the hereditary material of organisms — printed p. 48 — mutation as the raw change | Book 10 (زیست‌شناسی (۳) — Biology (3), student textbook, Grade 12), Ch. 4 §1: change in the hereditary material of organisms, printed p. 48 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Nicaragua, Palestine, Eritrea, Laos, Italy, Malaysia). Papua New Guinea's Standards-Based senior-high teacher guides are evidence only, named here and counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Nicaragua, Palestine, Eritrea, Laos, Italy, Malaysia, Iran). Papua New Guinea's Standards-Based senior-high teacher guides are evidence only, named here and counted nowhere.**
 
 Honesty (Laos): Book 6 is a student textbook as verified in the placements — *ຊີວະວິທະຍາ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Biology, Secondary Year 7 / Grade 12, student textbook)*, Grade 12 — so Laos counts toward acceptance. It is COMPLETE: all 21 lessons in 6 parts present (209 PDF pages; printed p. = PDF page − 7). The book also contains a full geology part (ທໍລະນີວິທະຍາ — Earth's internal structure, rock types, Basic Mineralogy and the minerals found in Lao PDR) which carries no biology placements and is not stocked in this course; it is recorded here so the book's full shape is known.
 
@@ -54,4 +57,6 @@ Honesty (Malaysia): Book 8 is a student textbook as verified in the placements �
 
 Honesty (Malaysia): Book 9 is a student textbook as verified in the placements — *Biologi Tingkatan 5*, Grade 11 (Tingkatan 5), Ministry of Education Malaysia, Cetakan Pertama 2020, ISBN 978-967-0463-53-7, No. siri buku 0097 — the Malay original of the DLP edition above, contents verified as the same 13-chapter, 3-theme structure, so it is cited at the same printed pages and Malaysia is counted once. It is COMPLETE (307 PDF pages).
 
-Searchable tags: biology, eritrea, ethiopia, mutations, nicaragua, palestine, papua, new, guinea, laos, italy, malaysia
+Honesty (Iran): Book 10 is a student textbook as verified in the placements — *زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed)*, Grade 12 — so Iran counts toward acceptance. It is COMPLETE: all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present.
+
+Searchable tags: biology, eritrea, ethiopia, mutations, nicaragua, palestine, papua, new, guinea, laos, italy, malaysia, iran

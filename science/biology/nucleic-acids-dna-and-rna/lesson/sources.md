@@ -1,6 +1,6 @@
 # Sources — Nucleic acids — DNA and RNA
 
-countries: Ethiopia, Nicaragua, Palestine, Eritrea, Italy, Malaysia
+countries: Ethiopia, Nicaragua, Palestine, Eritrea, Italy, Malaysia, Iran
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Nicaragua, Palestine, Eritrea, Italy, Malaysia
 
 **Book 8:** Biologi Tingkatan 4 (as printed; Bahasa Melayu edition) — Malaysia. Grade: 10 (Tingkatan 4) — Kind: student as verified — Repo path: grade-10/gov/malaysia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-10-gov-malaysia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 96276447 (grab-verified) — PDF pages: 323 — Printed-page offset: as the DLP edition (front matter roman; main text from printed p. 1); the 3 extra PDF pages over the DLP file are back-matter/cover sheets (textbook-loan pledge and Rukun Negara pages) — Verdict: COMPLETE — full KSSM student text in Bahasa Melayu, Ministry of Education Malaysia, Cetakan Pertama 2019, ISBN 978-967-2250-72-2, No. Siri Buku 0114, same author team as the DLP edition (Gan Wan Yeat et al.). Contents (Kandungan) verified chapter-for-chapter and page-for-page identical to the DLP edition: Bab 1 Pengenalan kepada Biologi dan Peraturan Makmal (printed p. 2) through Bab 15, with the same subtopic pagination (e.g. 5 Metabolisme dan Enzim p. 84, 6 Pembahagian Sel p. 98, 7 Respirasi Sel p. 112). Structural summary: The Bahasa Melayu original of the Biology Form 4 (DLP) book filed above; the DLP edition is its ministry English translation. All content placements are the DLP placements at identical printed pages; no topic exists in one edition that is absent from the other. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/malaysia-placements.md.
 
+**Book 9:** زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed) — Iran. Grade: 12 (grade-12) — Kind: student as verified — Repo path: grade-12/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/712/C112216.pdf — Byte size: 6587991 (matches books.json record exactly) — PDF pages: 136 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–128) — Verdict: COMPLETE — all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present. Structural summary: The molecular-and-evolution year: information molecules, information flow in the cell, inheritance across generations, change in hereditary information (evolution), energy from matter (respiration), matter from energy (photosynthesis), modern biotechnologies, and animal behaviour. Iranian way: every chapter title page carries a printed exam-scope notice stating whether numerical/computational questions, codon-sequence questions etc. may be set from that chapter in the national university entrance exam — the syllabus boundary is printed inside the book itself. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 72–75 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Nicaragua, Palestine, Eritrea, Italy, Malaysia
 | Italy's way — A3.4: nucleic acids — structure and functions | Book 6 (La nuova biologia.blu PLUS — Le cellule e i viventi, student textbook, Grade 9), printed p. A48 |
 | Malaysia's way — Ch.4: nucleic acids (placement: nucleic-acids-dna-and-rna) | Book 7 (Biology Form 4 (DLP), student textbook, Grade 10 (Form 4)), Ch.4, printed p. 79 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: nucleic-acids-dna-and-rna) | Book 8 (Biologi Tingkatan 4, student textbook, Grade 10 (Tingkatan 4)), Ch.4, printed p. 79 |
+| Iran's way — Ch. 1 §1: nucleic acids — printed p. 2 | Book 9 (زیست‌شناسی (۳) — Biology (3), student textbook, Grade 12), Ch. 1 §1: nucleic acids, printed p. 2 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nicaragua, Palestine, Eritrea, Italy, Malaysia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nicaragua, Palestine, Eritrea, Italy, Malaysia, Iran).**
 
 Honesty (Eritrea): Book 5 is a student textbook as verified in the placements — *Biology for Grade 12 Textbook* (The State of Eritrea, Ministry of Education), Grade 12, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all three units named in the Introduction are present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises (144 PDF pages). Page references are PDF pages, as the placements file gives them.
 
@@ -45,4 +48,6 @@ Honesty (Malaysia): Book 7 is a student textbook as verified in the placements �
 
 Honesty (Malaysia): Book 8 is a student textbook as verified in the placements — *Biologi Tingkatan 4*, Grade 10 (Tingkatan 4), Ministry of Education Malaysia, Cetakan Pertama 2019, ISBN 978-967-2250-72-2, No. Siri Buku 0114 — the Bahasa Melayu original of the DLP edition above, verified chapter-for-chapter and page-for-page identical to it, so it is cited at the same printed pages and Malaysia is counted once. It is COMPLETE (323 PDF pages).
 
-Searchable tags: biology, eritrea, ethiopia, grade 10, nucleic, acids, dna, and, rna, nicaragua, palestine, italy, malaysia
+Honesty (Iran): Book 9 is a student textbook as verified in the placements — *زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed)*, Grade 12 — so Iran counts toward acceptance. It is COMPLETE: all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present.
+
+Searchable tags: biology, eritrea, ethiopia, grade 10, nucleic, acids, dna, and, rna, nicaragua, palestine, italy, malaysia, iran

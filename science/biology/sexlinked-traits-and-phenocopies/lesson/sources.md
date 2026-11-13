@@ -1,6 +1,6 @@
 # Sources — Sex-linked traits and phenocopies
 
-countries: Ethiopia, Albania, Sudan, Laos, Uzbekistan, Yemen, Dominica, Bolivia
+countries: Ethiopia, Albania, Sudan, Laos, Uzbekistan, Yemen, Dominica, Bolivia, Iran
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -19,6 +19,8 @@ countries: Ethiopia, Albania, Sudan, Laos, Uzbekistan, Yemen, Dominica, Bolivia
 
 **Book 9:** Texto de Aprendizaje — Biología-Geografía — Sexto Año de Secundaria (Ministerio de Educación de Bolivia) — Bolivia. Grade: 12 (Secundaria 6) — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-12-gov-bolivia-biology-geography-student-full-year.pdf — Byte size: 7,519,198 — PDF pages: 76 — Printed-page numbers not machine-readable in this file; page references below are PDF pages. — Verdict: COMPLETE as secured — the file opens on the genetics unit opener and closes with the area bibliography (PDF p. 76); a single-trimester volume. Structural summary: A genetics-to-ecology survey: inheritance patterns and genetic variability (genes as house plans, Mendel, sex-linked inheritance, the genetic code), genetic anomalies with an inclusion strand (polydactyly, a Down-syndrome student's story), biotechnology by colour branches, cloning, transgenic crops (Roundup Ready soy) and their risks; origin of life (Pasteur against spontaneous generation), geological eras, natural selection and human evolution; health — disease, vaccination, HPV and the Pap test, hygiene, non-communicable diseases and obesity; animal diversity (cnidarians, fish, birds), Linnaean classification, avian flu; ecology — producers, biogeochemical cycles, ecosystems, mimicry, the biosphere, and water use and saving. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bolivia-placements.md.
 
+**Book 10:** زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed) — Iran. Grade: 12 (grade-12) — Kind: student as verified — Repo path: grade-12/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/712/C112216.pdf — Byte size: 6587991 (matches books.json record exactly) — PDF pages: 136 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–128) — Verdict: COMPLETE — all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present. Structural summary: The molecular-and-evolution year: information molecules, information flow in the cell, inheritance across generations, change in hereditary information (evolution), energy from matter (respiration), matter from energy (photosynthesis), modern biotechnologies, and animal behaviour. Iranian way: every chapter title page carries a printed exam-scope notice stating whether numerical/computational questions, codon-sequence questions etc. may be set from that chapter in the national university entrance exam — the syllabus boundary is printed inside the book itself. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Sex-linked inheritance and environmental effects on phenotype | Student Textbook, Grade 11 — Printed pp. 148–149. |
@@ -30,8 +32,9 @@ countries: Ethiopia, Albania, Sudan, Laos, Uzbekistan, Yemen, Dominica, Bolivia
 | Dominica's way — Ch. 26: genetic variation and its importance (placement slug: genotypic-vs-phenotypic-variation — stocked into this lesson as the closest existing lesson covering that thing) | Book 7 (Biology for CSEC Examinations, 3rd ed., student textbook, Grade 11), Ch. 26, printed pp. 310–312 |
 | Dominica's way — C27.1: variation (placement slug: genotypic-vs-phenotypic-variation — stocked into this lesson as the closest existing lesson covering that thing) | Book 8 (Biology for CSEC, 2nd ed., student textbook, Grade 11), C27.1, printed p. 288 |
 | Bolivia's way — Sex-linked inheritance: genes on the X and Y chromosomes; XX/XY difference | Book 9 (Texto de Aprendizaje — Biología-Geografía — Sexto Año de Secundaria, student textbook, Grade 12), PDF pp. 7–8 |
+| Iran's way — Ch. 3 §2: sex-linked and environment-shaped traits — printed p. 45 | Book 10 (زیست‌شناسی (۳) — Biology (3), student textbook, Grade 12), Ch. 3 §2: sex-linked and environment-shaped traits, printed p. 45 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sudan, Laos, Uzbekistan, Yemen, Dominica, Bolivia) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 8 countries (Ethiopia, Sudan, Laos, Uzbekistan, Yemen, Dominica, Bolivia, Iran) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty (Bolivia): Book 9 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Sexto Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 12 (Secundaria 6) — so Bolivia counts toward acceptance. It is COMPLETE as secured: the file opens on the genetics unit opener and closes with the area bibliography (PDF p. 76); a single-trimester volume; 76 PDF pages; printed-page numbers are not machine-readable in this file, so its placements cite PDF pages.
 
@@ -51,4 +54,6 @@ Honesty (Yemen): Book 6 is a student textbook as verified in the placements — 
 
 Placement choice (Yemen): The placements slug 'genotype-phenotype-and-the-environment' does not exist in the course; this lesson is the closest existing lesson covering that thing, and the original slug is recorded in the provenance row above.
 
-Searchable tags: biology, ethiopia, sex, linked, traits, and, phenocopies, albania, sudan, laos, uzbekistan, yemen, dominica, bolivia
+Honesty (Iran): Book 10 is a student textbook as verified in the placements — *زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed)*, Grade 12 — so Iran counts toward acceptance. It is COMPLETE: all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present.
+
+Searchable tags: biology, ethiopia, sex, linked, traits, and, phenocopies, albania, sudan, laos, uzbekistan, yemen, dominica, bolivia, iran

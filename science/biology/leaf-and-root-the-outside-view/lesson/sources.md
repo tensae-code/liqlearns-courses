@@ -1,6 +1,6 @@
 # Sources — Leaf and root — the outside view
 
-countries: Ethiopia, Syria, Uganda, Samoa, Uzbekistan, Malaysia
+countries: Ethiopia, Syria, Uganda, Samoa, Uzbekistan, Malaysia, Iran
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Syria, Uganda, Samoa, Uzbekistan, Malaysia
 
 **Book 8:** Biologi Tingkatan 5 (as printed; Bahasa Melayu edition) — Malaysia. Grade: 11 (Tingkatan 5) — Kind: student as verified — Repo path: grade-11/gov/malaysia/biologi/student/full-year.pdf (TSV release: mid-size-books-5/grade-11-gov-malaysia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 78520784 (grab-verified) — PDF pages: 307 — Printed-page offset: as the DLP edition (printed p. = PDF page − 10 for main text) — Verdict: COMPLETE — full KSSM student text in Bahasa Melayu, Ministry of Education Malaysia, Cetakan Pertama 2020, ISBN 978-967-0463-53-7, No. siri buku 0097, IMS Books Trading Sdn. Bhd. — the Malay original of the DLP edition above (consecutive ISBN and form code FT175003 vs the DLP's FT175004), same author team (Jariah binti Khalib, Rodiah binti Abdul Wahid, Sudani binti Sudin). Structural summary: Parallel language edition of "Biology Form 5 (DLP)" filed above; contents verified as the same 13-chapter, 3-theme structure. All content placements are the DLP placements at identical printed pages. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/malaysia-placements.md.
 
+**Book 9:** زیست‌شناسی (۱) — Biology (1), Grade 10, Experimental Sciences branch (as printed) — Iran. Grade: 10 (grade-10) — Kind: student as verified — Repo path: grade-10/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-6 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/40/C110216.pdf — Byte size: 6775781 (matches books.json record exactly) — PDF pages: 120 (matches record) — Printed-page offset: printed p. = PDF page − 6 (printed pp. 1–114 + front matter) — Verdict: COMPLETE — cover, ministry imprint page (book code 110216), contents, all 7 chapters with their گفتار sections, activities and end-of-chapter material present; text runs to the phloem-transport close of Ch. 7. Structural summary: Iran opens its three-year upper-secondary Biology with a "matter and energy" context: what biology is and the limits of experimental science, then human body systems (digestion, gas exchange, circulation, osmotic regulation/excretion), then the plant half (cell-to-plant organisation, absorption and transport). Iranian way: each chapter opens with a QR code linking to extra digital content; boxed "بیشتر بدانید" (Know more) and etymology notes are explicitly declared non-examinable (not for school tests or the national university entrance exam); frequent numbered فعالیت (activities) including microscope work; Ch. 1 frames biology as serving society — safe and sufficient food, environment protection, human health. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 21–22 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Syria, Uganda, Samoa, Uzbekistan, Malaysia
 | Uzbekistan's way — kinds of roots and root systems; external and internal root structure | Book 6 (Ботаника 5 (Botany 5), student textbook, Grade 5), Chapter III §9–10, printed pp. 33–38 |
 | Malaysia's way — Ch.3: root as organ for water and mineral-salt uptake (placement: leaf-and-root-the-outside-view) | Book 7 (Biology Form 5 (DLP), student textbook, Grade 11 (Form 5)), Ch.3, printed p. 65 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: leaf-and-root-the-outside-view) | Book 8 (Biologi Tingkatan 5, student textbook, Grade 11 (Tingkatan 5)), Ch.3, printed p. 65 |
+| Iran's way — Ch. 6 §3: root and leaf external structure — printed p. 93 | Book 9 (زیست‌شناسی (۱) — Biology (1), student textbook, Grade 10), Ch. 6 §3: root and leaf external structure, printed p. 93 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Syria, Uganda, Samoa, Uzbekistan, Malaysia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Syria, Uganda, Samoa, Uzbekistan, Malaysia, Iran).**
 
 Honesty (Samoa): Book 5 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
@@ -45,4 +48,6 @@ Honesty (Malaysia): Book 7 is a student textbook as verified in the placements �
 
 Honesty (Malaysia): Book 8 is a student textbook as verified in the placements — *Biologi Tingkatan 5*, Grade 11 (Tingkatan 5), Ministry of Education Malaysia, Cetakan Pertama 2020, ISBN 978-967-0463-53-7, No. siri buku 0097 — the Malay original of the DLP edition above, contents verified as the same 13-chapter, 3-theme structure, so it is cited at the same printed pages and Malaysia is counted once. It is COMPLETE (307 PDF pages).
 
-Searchable tags: biology, ethiopia, syria, grade 10, leaf, and, root, the, outside, view, uganda, samoa, uzbekistan, malaysia
+Honesty (Iran): Book 9 is a student textbook as verified in the placements — *زیست‌شناسی (۱) — Biology (1), Grade 10, Experimental Sciences branch (as printed)*, Grade 10 — so Iran counts toward acceptance. It is COMPLETE: cover, ministry imprint page (book code 110216), contents, all 7 chapters with their گفتار sections, activities and end-of-chapter material present; text runs to the phloem-transport close of Ch. 7.
+
+Searchable tags: biology, ethiopia, syria, grade 10, leaf, and, root, the, outside, view, uganda, samoa, uzbekistan, malaysia, iran

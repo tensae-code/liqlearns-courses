@@ -1,6 +1,6 @@
 # Sources — Germination — what a seed needs, two ways it grows
 
-countries: Ethiopia, Albania, Samoa, Uzbekistan
+countries: Ethiopia, Albania, Samoa, Uzbekistan, Iran
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Albania, Samoa, Uzbekistan
 
 **Book 5:** Ботаника 6 (Botany 6) — U. Pratov, A. Tukhtaev, F. Azimova; 3rd edition, "O'zbekiston", 2009; ISBN 978-9943-01-422-0 — Uzbekistan. Grade: 6 — Kind: student as verified (title page: recommended by the Ministry of Public Education for grade 6) — Source: blob URL cdn.samtravels.uz mirror of the ministry book — Byte size: 52,154,846 — PDF pages: 144 — Printed pages: 144 (colophon "144 стр."), printed p. = PDF page — Verdict: COMPLETE — nine chapters to the back cover. Structural summary: Reproductive botany then full plant systematics: flower, fruits and seeds, the plant as one organism — then the divisions in order (bacteria, fungi, lichens, algae, mosses, horsetails, ferns, gymnosperms, angiosperms family by family, Uzbek-relevant families given full lessons: malvaceae — the cotton family — saxaul-bearing chenopods, grapes, melons). The closing chapters are Uzbekistan itself: the plant cover of deserts and tugai forests, of adyr foothills, mountains and jailau summer pastures; the Red Book; the development of the plant world; and a history of botanical science in Uzbekistan. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uzbekistan-placements.md.
 
+**Book 6:** زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed) — Iran. Grade: 11 (grade-11) — Kind: student as verified — Repo path: grade-11/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111216.pdf — Byte size: 8357552 (matches books.json record exactly) — PDF pages: 168 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–160) — Verdict: COMPLETE — contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present. Structural summary: The regulation-and-reproduction year: neural regulation, senses, movement, chemical (hormonal) regulation, immunity, cell division, human and animal reproduction, flowering-plant reproduction, and plant responses to stimuli. Iranian way: chapters open from everyday technology/life hooks (EEG brain recording for Ch. 1, a city losing all communications for chemical regulation, prosthetic limbs for the movement chapter); defence is taught as three named "lines of defence" (خطوط دفاعی) with a "No entry" (ورود ممنوع) framing for the first line. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 32–33 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Albania, Samoa, Uzbekistan
 | Albania's way — Plan 5 plus Practical no. 1: Mbirja e farave — seed germination and growth, done as practical work (teacher book — evidence) (placement slug: germination-what-a-seed-needs) | Book 3 (Libër Mësuesi — Biologjia 11, teacher's book, Grade 11), printed p. 4 |
 | Samoa's way — Unit 4: Germination (placement slug: germination-what-a-seed-needs) | Book 4 (Biology — Year 12, student textbook, Grade 12), printed p. 124 |
 | Uzbekistan's way — germination of seeds, nutrition and growth | Book 5 (Ботаника 6 (Botany 6), student textbook, Grade 6), Chapter II §11, printed p. 35 |
+| Iran's way — Ch. 8 §3: from egg cell to plant — printed p. 130 — seed and fruit formation, then the new plant | Book 6 (زیست‌شناسی (۲) — Biology (2), student textbook, Grade 11), Ch. 8 §3: from egg cell to plant, printed p. 130 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Samoa, Uzbekistan) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Samoa, Uzbekistan, Iran) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty (Samoa): Book 4 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
@@ -30,4 +33,6 @@ Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër 
 
 Honesty (Uzbekistan): Book 5 is a student textbook as verified in the placements — *Ботаника 6 (Botany 6)* (U. Pratov, A. Tukhtaev, F. Azimova; 3rd edition, "O'zbekiston", 2009; ISBN 978-9943-01-422-0), Grade 6 — so Uzbekistan counts toward acceptance. It is COMPLETE: nine chapters to the back cover (144 PDF pages; printed p. = PDF page). It is a Russian-language edition — one of Uzbekistan's Russian-sector textbooks — an image-only scan read from 100-DPI contact sheets (covers, title pages, full contents tables and sampled body pages read), so the placements cite the contents' printed pages. Its Chapter IX §§51–52 (decorative plants grown outdoors and indoors, printed pp. 136–140) is applied plant identification and cultivation; the placements note it and place it nowhere, and it is not placed here either.
 
-Searchable tags: biology, ethiopia, grade 10, germination, what, a, seed, needs, albania, samoa, uzbekistan
+Honesty (Iran): Book 6 is a student textbook as verified in the placements — *زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed)*, Grade 11 — so Iran counts toward acceptance. It is COMPLETE: contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present.
+
+Searchable tags: biology, ethiopia, grade 10, germination, what, a, seed, needs, albania, samoa, uzbekistan, iran

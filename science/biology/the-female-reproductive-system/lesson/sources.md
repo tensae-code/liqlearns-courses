@@ -1,6 +1,6 @@
 # Sources — The female reproductive system
 
-countries: Ethiopia, Palestine, Egypt, France, Eritrea, Sudan, Gabon, Nigeria, Dominica
+countries: Ethiopia, Palestine, Egypt, France, Eritrea, Sudan, Gabon, Nigeria, Dominica, Iran
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Palestine, Egypt, France, Eritrea, Sudan, Gabon, Nigeria, D
 
 **Book 12:** Biology for CSEC, 2nd Edition (Oxford University Press) — "Biology for CSEC 2nded Oxford" — Dominica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-2): grade-11-approved-private-dominica-dominica-biology-for-csec-oxford.pdf — Byte size: 52,773,980 — PDF pages: 324 — Printed pages: 316 (acknowledgements); printed p. = PDF page − ~5 (contents at PDF pp. 5–6). Verdict: COMPLETE — units A1–C28, three revision sections and index present. Structural summary: The Oxford treatment adds: carrying out an ecological study (A2.3); finite resources and "resources for the future?" (A4); the impact of pollution in the Caribbean (A5.2); testing for food substances (B9.2); immunisation and disease control inside transport (B13.5); homeostasis taught explicitly as negative feedback (B20.1); locomotion in animals (B17.5); plant and animal diseases (B24.4); and a closing genetics-technology unit, "Changing genes – what are the issues?" (C28). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/dominica-placements.md.
 
+**Book 13:** زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed) — Iran. Grade: 11 (grade-11) — Kind: student as verified — Repo path: grade-11/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111216.pdf — Byte size: 8357552 (matches books.json record exactly) — PDF pages: 168 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–160) — Verdict: COMPLETE — contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present. Structural summary: The regulation-and-reproduction year: neural regulation, senses, movement, chemical (hormonal) regulation, immunity, cell division, human and animal reproduction, flowering-plant reproduction, and plant responses to stimuli. Iranian way: chapters open from everyday technology/life hooks (EEG brain recording for Ch. 1, a city losing all communications for chemical regulation, prosthetic limbs for the movement chapter); defence is taught as three named "lines of defence" (خطوط دفاعی) with a "No entry" (ورود ممنوع) framing for the first line. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 86–88 |
@@ -40,8 +42,9 @@ countries: Ethiopia, Palestine, Egypt, France, Eritrea, Sudan, Gabon, Nigeria, D
 | Nigeria's way — Ch. 4, the structure and functions of male and female gonads: the female gonads — structure and egg production (placement slug: the-female-reproductive-system) | Book 10 (Senior Secondary Biology 1, student textbook, Grade 10), Ch. 4, printed p. 77 |
 | Dominica's way — Ch. 20: the female reproductive system (placement slug: the-female-reproductive-system) | Book 11 (Biology for CSEC Examinations, 3rd ed., student textbook, Grade 11), Ch. 20, printed p. 247 |
 | Dominica's way — B23: human reproduction — the reproductive system; the menstrual cycle (placement slug: the-female-reproductive-system) | Book 12 (Biology for CSEC, 2nd ed., student textbook, Grade 11), B23, printed pp. 230–233 |
+| Iran's way — Ch. 7 §2: the reproductive system in the female — printed p. 102 | Book 13 (زیست‌شناسی (۲) — Biology (2), student textbook, Grade 11), Ch. 7 §2: the reproductive system in the female, printed p. 102 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Egypt, France, Eritrea, Sudan, Nigeria, Dominica) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Egypt, France, Eritrea, Sudan, Nigeria, Dominica, Iran) — Gabon's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Dominica): Books 11 and 12 are student textbooks as verified in the placements — *Biology for CSEC Examinations*, 3rd Edition (Linda Atwaroo-Ali, Macmillan Education, 2014), Grade 11, and *Biology for CSEC*, 2nd Edition (Oxford University Press), Grade 11 — so Dominica counts toward acceptance (one country, two distinct books, each cited). Both are COMPLETE (Macmillan: 26 chapters, School-Based Assessment section and index present, 387 PDF pages, printed p. = PDF page − ~13; Oxford: units A1–C28, three revision sections and index present, 324 PDF pages, printed p. = PDF page − ~5). Both are commercial CSEC textbooks adopted for Dominica, image-only scans read from their full printed contents, so the placements cite the contents' printed pages.
 
@@ -63,4 +66,6 @@ Honesty (Sudan): Book 8 is a student textbook as verified in the placements — 
 
 Honesty (Nigeria): Book 10 is a student textbook as verified in the placements — *Senior Secondary Biology 1* (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3), Grade 10 (Senior Secondary School 1, SS1) — so Nigeria counts toward acceptance. It is COMPLETE: the index ends at printed p. 226 and nothing is missing (232 PDF pages; printed p. = PDF page − 6).
 
-Searchable tags: biology, eritrea, ethiopia, the, female, reproductive, system, palestine, egypt, france, sudan, gabon, nigeria, dominica
+Honesty (Iran): Book 13 is a student textbook as verified in the placements — *زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed)*, Grade 11 — so Iran counts toward acceptance. It is COMPLETE: contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present.
+
+Searchable tags: biology, eritrea, ethiopia, the, female, reproductive, system, palestine, egypt, france, sudan, gabon, nigeria, dominica, iran

@@ -1,6 +1,6 @@
 # Sources — RNA — the working copy
 
-countries: Ethiopia, Eritrea
+countries: Ethiopia, Eritrea, Iran
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Eritrea
 
 **Book 3:** Biology for Grade 12 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-12-gov-eritrea-biology-student-full-year.pdf — Byte size: 12,793,204 — PDF pages: 144. Verdict: COMPLETE — all three units named in the Introduction present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises. Structural summary: A three-unit capstone: molecular genetics taught at bond level (two hydrogen bonds A–T, three C–G), evolution with Lamarck presented and then criticised point by point, and ecology built on population phases (growth, stability, decline) and their factors. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 4:** زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed) — Iran. Grade: 12 (grade-12) — Kind: student as verified — Repo path: grade-12/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/712/C112216.pdf — Byte size: 6587991 (matches books.json record exactly) — PDF pages: 136 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–128) — Verdict: COMPLETE — all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present. Structural summary: The molecular-and-evolution year: information molecules, information flow in the cell, inheritance across generations, change in hereditary information (evolution), energy from matter (respiration), matter from energy (photosynthesis), modern biotechnologies, and animal behaviour. Iranian way: every chapter title page carries a printed exam-scope notice stating whether numerical/computational questions, codon-sequence questions etc. may be set from that chapter in the national university entrance exam — the syllabus boundary is printed inside the book itself. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — RNA structure and function | Student Textbook, Grade 11 — Printed p. 117. |
 | Sub lesson 2 — Added chromosome note and DNA–RNA comparison table (teacher guide — evidence) | Teachers' Guide, Grade 11 — Printed pp. 91, 93. |
 | Eritrea's way — Unit One §1.1.2: RNA — composition and distribution beyond the nucleus | Book 3 (Biology for Grade 12 Textbook, student textbook, Grade 12), PDF p. 10 |
+| Iran's way — Ch. 2 §2: towards protein — printed p. 27 — RNA types and translation machinery | Book 4 (زیست‌شناسی (۳) — Biology (3), student textbook, Grade 12), Ch. 2 §2: towards protein, printed p. 27 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Eritrea).**
+**Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Iran).**
 
 Honesty (Eritrea): Book 3 is a student textbook as verified in the placements — *Biology for Grade 12 Textbook* (The State of Eritrea, Ministry of Education), Grade 12, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all three units named in the Introduction are present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises (144 PDF pages). Page references are PDF pages, as the placements file gives them.
 
@@ -22,4 +25,6 @@ Honesty notes from the placements: this student book's contents page numbers run
 
 Honesty notes: this Teachers' Guide is a finished publication — first published August 2023, © 2023 FDRE Ministry of Education, ISBN 978-99990-0-014-7, printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23 — and its imprint is cited here as fact. The guide is teacher evidence only: it adds explanations, worked examples and answer keys to the Grade 11 student book; it is never counted as pupil-taught. Guide-only content (for example bird ZW sex determination, Pavlov's and Skinner's experiments in full, and the Wogesha traditional bone-healer investigation) is labelled (teacher guide — evidence) in the table above. The guide's contents numbering diverges from the student book's; lesson numbering follows the student book.
 
-Searchable tags: biology, eritrea, ethiopia, rna, the, working, copy
+Honesty (Iran): Book 4 is a student textbook as verified in the placements — *زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed)*, Grade 12 — so Iran counts toward acceptance. It is COMPLETE: all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present.
+
+Searchable tags: biology, eritrea, ethiopia, rna, the, working, copy, iran
