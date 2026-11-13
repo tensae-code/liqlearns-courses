@@ -1,0 +1,9 @@
+# Protected areas and the Red Book of Kazakhstan — short answer
+
+Answer in your own words.
+
+**1.** State the one thing this lesson teaches and explain it.
+**Answer: Kazakhstan guards its nature through a network of specially protected areas — state reserves, national parks and sanctuaries, each with its own rules — and lists its rarest species, the snow leopard, the Caspian seal and Selevinia among them, in the Red Book of Kazakhstan, protected by law, by science and by practical measures. state reserves, national parks (10 reserves, 11 national parks, 50 sanctuaries as printed), the Red Book of Kazakhstan and its listed species (snow leopard, Caspian seal, saiga-type entries) on p. 17**
+
+**2.** Explain Kazakhstan's way of teaching this.
+**Answer: state reserves, national parks (10 reserves, 11 national parks, 50 sanctuaries as printed), the Red Book of Kazakhstan and its listed species (snow leopard, Caspian seal, saiga-type entries) on p. 17 history of reserves from 1922, the full network by type, what is forbidden/permitted in each listed species (snow leopard, Selevinia, desman) and the three directions of biodiversity protection: law, science, practical measures §6 Specially protected areas in Kazakhstan. Protected areas of the local region §7 The Red Book of the Republic of Kazakhstan 1.5 Protection of animals and plants §6 Specially protected natural territories in Kazakhstan §7 The Red Book of the Republic of Kazakhstan §7 Plants and animals of Kazakhstan's specially protected natural territories §8 Animals and plants of the local region entered in the Red Book the Kazakhstan species research tasks are this module's conservation core Module 1: Species native to Kazakhstan — photo spread and Table 1.4 matching common names to scientific names (Red-throated loon, Snow leopard, Semirechensk salamander, Shrubby buckwheat…)**
