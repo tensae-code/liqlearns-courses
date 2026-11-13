@@ -1,0 +1,18 @@
+# Sources — Mental health disorders
+
+countries: Azerbaijan
+
+**Book 1:** Биология 11 (Biology 11 — Russian sector; Şərq-Qərb, Baku, 2018) — Azerbaijan. (Mammadova, Hasanova, Mahmudova, Fatiyeva; Şərq-Qərb, Baku 2018; © Ministry of Education of the Republic of Azerbaijan, licence 2018-187; 192 printed pages) — the Russian-sector textbook. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-3): grade-11-gov-azerbaijan-biology-student-full-year.pdf — Byte size: 9,113,319 — PDF pages: 196 — Printed pages: 192 (colophon "Səhifə sayı 192"); printed p. = PDF page − 2 (contents at printed pp. 4–5). Verdict: COMPLETE — seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present. Image-only scan: title page, colophon and the full two-page contents were read from page renders; placements cite the contents' printed pages. Structural summary: an unusual Grade 11 course: the ORIGIN OF LIFE (hypotheses from spontaneous generation to modern views, formation of biological monomers and polymers, the path to multicellularity) → MICROBIOLOGY as a whole part (microflora of soil, water, air and food; microbes in infectious processes; the host and the environment in infection) → SELECTION → BIOTECHNOLOGY AND BIONICS (with cloning of living organisms) → the BIOSPHERE in Vernadsky's frame (living matter, energy transformations, land and ocean biomass) → the HUMAN part, which runs from chordate embryology into mental health — anxiety disorders, depression, psychoses, healthy family relations — and closes with CONTROLLED AND UNCONTROLLED CELL DIVISION: tumours and a section titled simply "Cancer". Placements at liqlearns-courses-work/expansion-biology-2026-11-13/azerbaijan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The whole lesson — the development of the human psyche (§38) and the disorders taught by name: anxiety disorders — Тревожные расстройства (§39), depression — Депрессии (§40), psychoses — Психозы (§41) | Book 1 (Биология 11, student textbook, Grade 11), Part VI §§38–41, printed pp. 144–155 |
+| Do it first; key facts; Do It Yourself | Book 1 (Биология 11), Part VI §§38–41, printed pp. 144–155 |
+
+**Acceptance count: taught in 1 country (Azerbaijan).**
+
+Placement choice, on the record: this NEW LESSON was built for the Azerbaijan placement "NEW LESSON NEEDED: mental-health-disorders" — azerbaijan-placements.md. No existing lesson covers this thing: the course's substance-abuse and nervous-system lessons touch the mind and behaviour, and its health lessons teach diseases of the body, but no lesson teaches the disorders of the psyche by name, so it gets its own lesson. It sits in biology/ and is registered in CURRICULUM.md Unit 16 (Biology) as lesson 345. Azerbaijan's own way of teaching the thing, as the placements describe it, IS content in this lesson, carried exactly as described: school biology teaching mental-health disorders by name, inside the human part of the book, between human embryonic development and healthy family relations.
+
+Honesty: Book 1 is a student textbook as verified in the placements — *Биология 11* (Biology 11), the Russian-sector textbook (Şərq-Qərb, Baku, 2018) — so Azerbaijan counts toward acceptance. It is COMPLETE: seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present; 196 PDF pages, printed p. = PDF page − 2. The scan is image-only: the title page, colophon and the full two-page contents were read from page renders, so the placements cite the contents' printed pages.
+
+Searchable tags: biology, azerbaijan, mental health disorders, anxiety disorders, depression, psychoses, human psyche

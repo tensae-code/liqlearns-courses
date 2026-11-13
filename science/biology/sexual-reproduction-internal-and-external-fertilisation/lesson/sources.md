@@ -1,6 +1,6 @@
 # Sources — Sexual reproduction — internal and external fertilisation
 
-countries: Ethiopia, Morocco
+countries: Ethiopia, Morocco, Azerbaijan
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Morocco
 
 **Book 3:** Guide Almoufid SVT — 2e année collégiale (Al Moufid in Life and Earth Sciences, Teacher's Guide) — Morocco. “Al Moufid en Sciences de la Vie et de la Terre — Guide du professeur”, Deuxième Année de l'enseignement collégial (2AC = Grade 8), the French-language teacher guide for the parascolaire manual. Grade: 8 — Kind: teacher as verified — Repo path (release mid-size-books-3): grade-08-gov-morocco-svt-teacher-full-year.pdf. Byte size: 6,082,584 — PDF pages: 90 — Printed-page offset: printed p. = PDF page − 1 (Sommaire at printed p. 88). Verdict: COMPLETE as a guide — methodology part plus both programme units worked as sequences with tasks; the guide ends with its Sommaire. TEACHER'S GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/morocco-placements.md.
 
+**Book 4:** Биология 11 (Biology 11 — Russian sector; Şərq-Qərb, Baku, 2018) — Azerbaijan. (Mammadova, Hasanova, Mahmudova, Fatiyeva; Şərq-Qərb, Baku 2018; © Ministry of Education of the Republic of Azerbaijan, licence 2018-187; 192 printed pages) — the Russian-sector textbook. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-3): grade-11-gov-azerbaijan-biology-student-full-year.pdf — Byte size: 9,113,319 — PDF pages: 196 — Printed pages: 192 (colophon "Səhifə sayı 192"); printed p. = PDF page − 2 (contents at printed pp. 4–5). Verdict: COMPLETE — seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present. Image-only scan: title page, colophon and the full two-page contents were read from page renders; placements cite the contents' printed pages. Structural summary: an unusual Grade 11 course: the ORIGIN OF LIFE (hypotheses from spontaneous generation to modern views, formation of biological monomers and polymers, the path to multicellularity) → MICROBIOLOGY as a whole part (microflora of soil, water, air and food; microbes in infectious processes; the host and the environment in infection) → SELECTION → BIOTECHNOLOGY AND BIONICS (with cloning of living organisms) → the BIOSPHERE in Vernadsky's frame (living matter, energy transformations, land and ocean biomass) → the HUMAN part, which runs from chordate embryology into mental health — anxiety disorders, depression, psychoses, healthy family relations — and closes with CONTROLLED AND UNCONTROLLED CELL DIVISION: tumours and a section titled simply "Cancer". Placements at liqlearns-courses-work/expansion-biology-2026-11-13/azerbaijan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Sexual reproduction, fertilisation and early development | Student Textbook, Grade 11 — Printed pp. 26–28. |
 | Sub lesson 2 — Added development stages — blastula, cleavage, gastrula and germ layers (teacher guide — evidence) | Teachers' Guide, Grade 11 — Printed p. 44. |
 | Morocco's way — male, female, gametes, fertilisation, development and the development cycle, deepened from primary level “avec la dimension cellulaire” for collège (teacher guide — evidence) | Book 3 (Guide Almoufid SVT, teacher's guide, Grade 8), printed pp. 54–56 |
+| Azerbaijan's way — Part VI §§36–37: embryonic development of chordates; embryonic development of the human (placement slug: milestones-of-baby-development) | Book 4 (Биология 11, student textbook, Grade 11), Part VI §§36–37, printed pp. 138–140 |
 
-**Acceptance count: taught in 1 country (Ethiopia) — Morocco's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Azerbaijan) — Morocco's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
@@ -22,4 +25,6 @@ Honesty notes: this Teachers' Guide is a finished publication — first publishe
 
 Honesty (Morocco): Morocco's evidence here is a teacher's guide only — the Guide Almoufid SVT, Grade 8 — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count.
 
-Searchable tags: biology, ethiopia, morocco, sexual, reproduction, internal, and, external, fertilisation
+Honesty (Azerbaijan): Book 4 is a student textbook as verified in the placements — *Биология 11* (Biology 11), the Russian-sector textbook (Şərq-Qərb, Baku, 2018) — so Azerbaijan counts toward acceptance. It is COMPLETE: seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present; 196 PDF pages, printed p. = PDF page − 2. The scan is image-only: the title page, colophon and the full two-page contents were read from page renders, so the placements cite the contents' printed pages. The placements slug for this stocking was milestones-of-baby-development, which does not exist in the course; this lesson is the closest existing lesson covering that thing, and the original slug is recorded in the provenance row above.
+
+Searchable tags: biology, azerbaijan, ethiopia, morocco, sexual, reproduction, internal, and, external, fertilisation
