@@ -1,6 +1,6 @@
 # Sources — Alkanes at work — fuels
 
-countries: Ethiopia, Ecuador, Vietnam, Greece, Afghanistan, Yemen, Jordan, Mozambique
+countries: Ethiopia, Ecuador, Vietnam, Greece, Afghanistan, Yemen, Jordan, Mozambique, China
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Ecuador, Vietnam, Greece, Afghanistan, Yemen, Jordan, Mozam
 
 **Book 8:** *Módulo 2 de Química (PESD I, 1º ciclo)* (student — self-instruction module) — Mozambique. Title as printed: "Módulo 2 de Química" (MINEDH / IEDA, PESD I — Programa do Ensino Secundário à Distância, 1º Ciclo; IEDA-2023). Grade: PESD I 1º ciclo (grades 7–9 cycle). Kind: student (self-instruction module). Repo path: grade-07/gov/mozambique/quimica/student/Modulo-2-de-Quimica.pdf. Byte size: 6,277,423 (matches books.json record exactly). PDF pages: 174. Printed-page offset: printed p. = PDF p. − 2 (printed footer "Página N | IEDA-2023"). Verdict: COMPLETE — all 20 lessons present, ending with heat-of-reaction exercises and correction keys. Structure (own summary): periodic table and its regularities, chemical bonding (general, ionic, covalent, metallic), then a water-and-air strand — water, water treatment, water as solvent and solution concentration — then hydrogen, redox and its importance, oxygen and its properties, catalysts, air and the ozone layer, oxidation and combustion, fuels and flames, and heat of reaction. Records deduped: 20 records = 10 distinct books for Mozambique as a whole (each PESD module appears once as a TSV record and once as a books.json record for the same repo file) — this book is cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/mozambique-placements.md.
 
+**Book 9:** *义务教育教科书·化学九年级上册 (Compulsory Education Textbook · Chemistry · Grade 9, Volume 1)* (student textbook) — China. Title as printed: 义务教育教科书 化学 九年级上册， People's Education Press （人民教育出版社）, written to the 2011 national curriculum standard and approved 2012 (this copy a later printing). Grade: Grade 9 (junior secondary, first volume). Kind: student textbook. Record: books.json — repo path `grade-09/gov/china/chemistry-vol1.pdf`, in_pushed: true. Byte size: 16,252,622 — exact match to the record. PDF pages: 162. Printed-page offset: printed = PDF − 5 (printed pp. 1–155 plus periodic-table fold-out). Verdict: READ IN FULL, page by page, from the PDF's text layer. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/china-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Alkanes at work | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed pp. 262–263 (section 6.2.8) |
@@ -29,7 +31,9 @@ countries: Ethiopia, Ecuador, Vietnam, Greece, Afghanistan, Yemen, Jordan, Mozam
 | Unit 5 enrichment (Jordan, Grade 10 Term 2) | Book 7 (Grade 10 Term 2) — Unit 5 enrichment — printed p. 76 — Enrichment: hydrogen as a fuel. |
 | Lição 19, Combustíveis (Mozambique, PESD I, Módulo 2) | Book 8 (PESD I, Módulo 2) — Lição 19, Combustíveis — printed p. 152 — substances that burn in air's oxygen are fuels; the flame's three regions (dark, bright, heat-giving) and the heat region used for cooking. |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Ecuador, Vietnam, Greece, Afghanistan, Yemen, Jordan, Mozambique).**
+| Unit 7 Topic 2 (China, Grade 9) | Book 9 (Grade 9) — Unit 7 Topic 2 — printed p. 139 — Methane, the main part of natural gas: colourless gas, purity test, burning experiment proving water and carbon dioxide form (CH₄ + 2O₂ → CO₂ + 2H₂O); marsh gas and farm biogas digesters turning straw and manure into fuel and fertiliser. |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Ecuador, Vietnam, Greece, Afghanistan, Yemen, Jordan, Mozambique, China).**
 
 **Placement-choice note (Yemen):** the Yemen placements file names `chemistry/methane-at-work-carbon-black-and-hydrogen` for this content; that thing is covered by this lesson, so the Yemen provenance rows above are stocked here and the original slug is recorded verbatim in this note.
 

@@ -1,6 +1,6 @@
 # Sources — Shapes of s, p and d orbitals
 
-countries: Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yemen, Jordan, Iraq, Cuba
+countries: Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yemen, Jordan, Iraq, Cuba, China
 
 **Book 1:** *Chemistry Textbook, Grade 11* (Student Textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tsegaye Girma (PhD), Abera Gure (PhD). Content editor: Chala Regasa (MSc). Curriculum editor: Taye Hirpassa (BSc, MA). Language editor: Meseret Getnet (PhD). Illustrator: Asresahegn Kassaye (MSc). Designer: Daniel Tesfay (MSc). Evaluators: Tolessa Mergo Roro (BSc, MEd), Nega Gichile (BSc, MA), Sefiw Melesse (MSc). ISBN: 978-99990-0-018-5. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g11-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yem
 
 **Book 13:** *Química — duodécimo grado (Silvia C. Núñez Junco, Nilda Delgado Yanes, Rafael León Pérez, Andrés Rodríguez Jiménez, Miguel Enrique Charbonet Martel, Jorge Ignacio Sautié Ballesteros, Redisber Polo Barrera; Tercer Perfeccionamiento, Ministerio de Educación, Cuba)* — Cuba. Title as printed: Química — duodécimo grado (Silvia C. Núñez Junco, Nilda Delgado Yanes, Rafael León Pérez, Andrés Rodríguez Jiménez, Miguel Enrique Charbonet Martel, Jorge Ignacio Sautié Ballesteros, Redisber Polo Barrera; Tercer Perfeccionamiento, Ministerio de Educación, Cuba) Grade: 12 (Preuniversitario) Kind as verified: student textbook (full-year) Repo path: grade-12/gov/cuba/quimica/student/full-year.pdf (TSV duplicate: release mid-size-books-7/grade-12-gov-cuba-quimica-student-full-year.pdf — grabbed via the release route with the curl grabber) Byte size: 20,339,566 (grab-reported; no size in record) PDF pages: 439 Printed-page offset: printed p. 1 = PDF p. 10 Verdict: COMPLETE — read via the extracted text layer, contents-anchored and section-by-section across all five chapters, appendices and annexes Read in the 2026-11-12 Chemistry expansion read. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/cuba-placements.md.
 
+**Book 14:** *普通高中教科书·化学选择性必修 2 · 物质结构与性质 (Senior High Chemistry, Selective Compulsory 2 — Structure and Properties of Matter)* (student textbook) — China. Title as printed: 普通高中教科书 化学 选择性必修2 物质结构与性质 (People's Education Press; editors-in-chief 王晶 / 郑长龙）. Grade/kind: Senior high (selective compulsory course 2) — student textbook. Record: books.json record for 选择性必修2 物质结构与性质 (in_pushed: true). Copy read: 10,476,075 bytes — EXACT match with the record; 115 PDF pp. Printed-page offset: printed = PDF − 3. Verdict: interior matches the record (introduction and all three chapters read in full). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/china-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Part 1 — An s orbital is a sphere around the nucleus… | Book 1 (Grade 11 Student Textbook), printed pp. 39–41 |
@@ -47,7 +49,9 @@ countries: Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yem
 | Ch. 2, §2.4 (Cuba, Grade 10) | Book 12 (Grade 10) — printed pp. 21–23 — the modern model through hydrogen: fixed energy levels n, the orbital as the region of highest probability (no defined trajectory), (nl) notation with s/p/d/f, n² orbitals per level tabulated, and s-sphere/p-dumbbell shapes drawn. |
 | Ch. 1, §1.1 (Cuba, Grade 12) | Book 13 (Grade 12) — printed p. 8 — carbon's electron distribution rebuilt for organic chemistry: levels, sublevels and orbitals, orbital shapes, the Moeller diagram and the construction (aufbau) principle applied. |
 
-**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yemen, Jordan, Iraq, Cuba).**
+| Ch. 1 §1 (China, Senior High (Selective Compulsory 2 — Structure and Properties of Matter)) | Book 14 (Senior High, Selective Compulsory 2) — Ch. 1 §1 — printed pp. 12–13 — Atomic orbitals as the spatial shapes of those probability clouds: s spherical, p dumbbell in three orientations, d more complex — the shapes hybridisation and bonding chapters will build with. |
+
+**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Belarus, Kuwait, Egypt, Libya, Bhutan, Yemen, Jordan, Iraq, Cuba, China).**
 
 **Placement-choice note (Cuba):** the Cuba placements file names `chemistry/orbitals-probability-not-paths` for this content; that thing is covered by this lesson, so the Cuba provenance rows above are stocked here and the original slug is recorded verbatim in this note.
 

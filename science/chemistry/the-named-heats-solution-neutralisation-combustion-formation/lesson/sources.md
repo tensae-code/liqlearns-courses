@@ -1,13 +1,19 @@
 # Sources — The named heats — solution, neutralisation, combustion, formation
 
-countries: Yemen
+countries: Yemen, China
 
 **Book 1:** *الكيمياء للصف الثالث الثانوي (Chemistry for the Third Secondary Year)* (student textbook) — Yemen. Title as printed: الكيمياء للصف الثالث الثانوي. Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curricula Sector; print rights reserved 1448 AH / 2027 CE (e-learning edition). Grade: 12 · Kind: student textbook. Repo path: release `mid-size-books-2`, asset `grade-12-gov-yemen-chemistry-student-full-year.pdf`. Byte size: 20,148,915 · PDF pages: 194 · Printed-page offset: printed page = PDF page − 1 (folio 3 on PDF p. 4; last folio 192 on PDF p. 193; PDF p. 194 is the back cover). Verdict: COMPLETE — read in full as rendered page images (same legacy-font text-layer problem as the other Yemen books). [Observed in the placements, not stocked: Unit 1's activity pointer refers iron-in-salts experiments to a companion Grade 12 activities book that is not among the records — it is not a placement and is not cited as a source here.] Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/yemen-placements.md.
+
+**Book 2:** *普通高中教科书·化学选择性必修 1 · 化学反应原理 (Senior High Chemistry, Selective Compulsory 1 — Principles of Chemical Reactions)* (student textbook) — China. Title as printed: 普通高中教科书 化学 选择性必修1 化学反应原理 (People's Education Press; editors-in-chief 王晶 / 郑长龙； volume editors 范楼珍 / 吴海建）. Grade/kind: Senior high (selective compulsory course 1) — student textbook. Record: books.json `grade-12/gov/china/普通高中教科书-化学选择性必修 1-化学反应原理.pdf` (in_pushed: true). Copy read: 12,347,748 bytes — EXACT match with the record; 139 PDF pp. Printed-page offset: printed = PDF − 5. Verdict: interior matches the record (cover, introduction and all four chapters read in full). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/china-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 2 (Yemen, Grade 12) | Book 1 (Grade 12) — Unit 2 — printed pp. 31–35 — A family of standard heats is defined and exemplified: heat of solution (NH4NO3 dissolving at +25.7 kJ/mol — the cold-pack effect — against NaOH dissolving strongly exothermic), heat of vaporisation and condensation read off water's full heating curve (ΔHvap = +44 kJ/mol), heat of neutralisation — a constant −57.7 kJ/mol for any strong acid with any strong base, because the only real reaction is H+ + OH− → H2O (HCl + KOH worked) — standard heat of combustion ΔH°c (H2 −285.9, C −393.5, propane −2219.2, methanol −726.6 kJ/mol) measured in the drawn bomb calorimeter (مسعر القنبلة), and standard heat of formation ΔH°f with its stability rule: the more negative the formation heat, the more stable the compound at room temperature; positive-ΔHf compounds tend to fall apart on their own. |
 
-**Acceptance count: taught in 1 country (Yemen).**
+| Ch. 1 §1 (China, Senior High (Selective Compulsory 1 — Principles of Chemical Reactions)) — placements slug recorded verbatim: chemistry/combustion-heat-and-choosing-a-fuel-by-the-numbers (stocked here, the existing lesson covering this thing) | Book 2 (Senior High, Selective Compulsory 1) — Ch. 1 §1 — printed pp. 10–11 — Combustion heat defined (kJ/mol for complete combustion to stable products at 25 °C, 101 kPa) with an appendix table; exercises compare hydrogen, methane and ethanol per gram — hydrogen wins on energy per unit mass — and a human-fatty-acid combustion equation links the idea to food energy. |
+
+**Acceptance count: taught in 2 countries (Yemen, China).**
+
+**Placement-choice note (China):** the China placements file names `chemistry/combustion-heat-and-choosing-a-fuel-by-the-numbers` for this content; that thing is covered by this lesson, so the China provenance rows above are stocked here and the original slug(s) are recorded verbatim in those rows.
 
 Searchable tags: chemistry, Yemen, The named heats — solution, neutralisation, combustion, formation

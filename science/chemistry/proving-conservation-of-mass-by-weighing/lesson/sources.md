@@ -1,6 +1,6 @@
 # Sources — Proving conservation of mass by weighing
 
-countries: Ethiopia, Syria, Afghanistan, Armenia, Bhutan
+countries: Ethiopia, Syria, Afghanistan, Armenia, Bhutan, China
 
 **Book 1:** *Chemistry, Student Textbook, Grade 9* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-016-1. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Syria, Afghanistan, Armenia, Bhutan
 
 **Book 5:** *A Textbook of Chemistry, Class IX (Bhutan Edition)* (student textbook) — Bhutan. Title as printed: A TEXTBOOK OF CHEMISTRY, Class IX, by Dr. N. K. Sharma; © Macmillan Publishers India Private Ltd., 2017; written in conformity with the Science Curriculum Framework of the Department of Curriculum Research and Development, Bhutan (preface). Grade: 9 · Kind as verified: student textbook (matches record). Repo path: grade-09/gov/bhutan/chemistry/full-year.pdf (release asset grade-09-gov-bhutan-chemistry-full-year.pdf). Byte size: 6,714,092 (matches record exactly) · PDF pages: 188 (matches record) · Printed-page offset: printed p. = PDF p. − 24 (Introduction printed p. 1 = PDF p. 25); printed pages below are the book's own contents-page numbers. Verdict: COMPLETE (7 chapters, glossary p. 149, specimen question paper p. 158, all present). Structure: Introduction to Chemistry, then Periodic Table; Chemical Bonding; Reactivity of Metals; Chemical Reactions, Conservation of Mass and Stoichiometry; Rate of Reaction and Energy Transfer; "Green Chemistry" (in content: nature's cycles, fertilisers, global warming, polymers and their hazards); Organic Chemistry: Hydrocarbons. Records deduped: 6 records = 3 distinct books (TSV release URL + books.json entry per grade) — this book is cited once here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/bhutan-placements.md.
 
+**Book 6:** *义务教育教科书·化学九年级上册 (Compulsory Education Textbook · Chemistry · Grade 9, Volume 1)* (student textbook) — China. Title as printed: 义务教育教科书 化学 九年级上册， People's Education Press （人民教育出版社）, written to the 2011 national curriculum standard and approved 2012 (this copy a later printing). Grade: Grade 9 (junior secondary, first volume). Kind: student textbook. Record: books.json — repo path `grade-09/gov/china/chemistry-vol1.pdf`, in_pushed: true. Byte size: 16,252,622 — exact match to the record. PDF pages: 162. Printed-page offset: printed = PDF − 5 (printed pp. 1–155 plus periodic-table fold-out). Verdict: READ IN FULL, page by page, from the PDF's text layer. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/china-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The sealed flask — silver nitrate and hydrochloric acid | Ethiopia, *Chemistry, Student Textbook, Grade 9*, Printed pp. 58–61 |
@@ -21,7 +23,9 @@ countries: Ethiopia, Syria, Afghanistan, Armenia, Bhutan
 | Theme 4, §4.2 Laboratory work: oxidation of copper in open and closed tubes (Armenia, Grade 7) | Book 4 (Grade 7), Theme 4, §4.2 Laboratory work: oxidation of copper in open and closed tubes — printed p. 113 — weighing evidence for the conservation law (open vs closed vessel contrast is Armenia's own demonstration). |
 | Ch.4 §4.7 (Bhutan, Grade 9) | Book 5 (Grade 9), Ch.4 §4.7 — printed p. 54 — conservation shown by weighing, in the same section's practical framing. |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Syria, Afghanistan, Armenia, Bhutan).**
+| Unit 5 Topic 1 质量守恒定律 (China, Grade 9) | Book 6 (Grade 9) — Unit 5 Topic 1 质量守恒定律 — printed p. 92 — The law approached by weighing whole reactions on a balance, including the two puzzles: sodium carbonate with acid seems to lose mass (a gas escapes the open beaker) and burning magnesium gains mass (oxygen joins in). |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Syria, Afghanistan, Armenia, Bhutan, China).**
 
 Book errors taught corrected, named here only: the cover spells "Measurments" for Measurements; one Unit 3 summary passage dates Rutherford's nucleus work "in 1920" — the gold-foil work is 1909/1911 and is taught so; the proton is credited in different passages to Goldstein (1886, perforated-cathode work) and to Rutherford (1920) — both steps are taught in their order; Lewis's dates are printed once as "1875-1046" — taught corrected as 1875–1946; the Unit 2 competencies promise the factor-label method by name but the student sections never teach it by that name — it is taught explicitly in its own lesson from the teacher guide; Unit 4's older group labels are inconsistent ("Group VIIB elements are called as halogens", "Group 0" for noble gases) — taught with the modern family names; recurring typos "iconic compounds" (ionic compounds) and "glass road" (glass rod) are taught corrected.
 

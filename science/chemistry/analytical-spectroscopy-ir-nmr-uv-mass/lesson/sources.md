@@ -1,8 +1,10 @@
 # Sources — Analytical spectroscopy — IR, NMR, UV and mass
 
-countries: South Sudan
+countries: South Sudan, China
 
 **Book 1:** *South Sudan Secondary 4 Chemistry — Student's Book* (student textbook) — South Sudan. Title as printed: "South Sudan Secondary 4 Chemistry — Student's Book" (© 2018, Ministry of General Education and Instruction). Grade: Secondary 4 (record grade Grade 12). Kind: student. Repo path: grade-12/gov/south-sudan/chemistry/student/full-year.pdf (TSV copy is the same file in the mid-size-books-2 release). Byte size: 7,560,729 (no size in either record). PDF pages: 240; printed-page offset: contents/body share one printed numbering (Unit 1 at printed p. 1; glossary printed p. 226, closing periodic table). Verdict: COMPLETE — all 7 units, glossary and appendix present. Structure: ion and gas identification, energetics with bond-energy calculations, kinetics/equilibrium/electrochemistry, ores and extraction of six metals, analytical techniques (chromatography and four spectroscopies), a full organic chemistry unit, and an introduction to nuclear chemistry. Records deduped: 15 records = 8 distinct books for South Sudan as a whole — this book is cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/south-sudan-placements.md.
+
+**Book 2:** *普通高中教科书·化学选择性必修 3 · 有机化学基础 (Senior High Chemistry, Selective Compulsory 3 — Foundations of Organic Chemistry)* (student textbook) — China. Title as printed: 普通高中教科书 化学 选择性必修3 有机化学基础 (People's Education Press; editors-in-chief 王晶 / 郑长龙）. Grade/kind: Senior high (selective compulsory course 3) — student textbook. Record: books.json record for 选择性必修3 有机化学基础 (in_pushed: true). Copy read: 14,980,642 bytes — EXACT match with the record; 163 PDF pp. Printed-page offset: printed = PDF − 5. Verdict: interior matches the record (introduction and all five chapters read in full). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/china-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,7 +14,11 @@ countries: South Sudan
 | Sub lesson 4 — Mass spectroscopy — weighing the molecule | Book 1 (Secondary 4), §5.5 Mass Spectroscopy — printed p. 116 — mass spectroscopy (the unit's own spelling). |
 | Do it first; key ideas; Do It Yourself | Book 1 (Secondary 4), §§5.2–5.5, printed pp. 109–116 |
 
-**Acceptance count: taught in 1 country (South Sudan).**
+| Ch. 1 §2 (China, Senior High (Selective Compulsory 3 — Foundations of Organic Chemistry)) — placements slug recorded verbatim: chemistry/mass-spectrometry-and-spectra-that-name-the-structure (stocked here, the existing lesson covering this thing) | Book 2 (Senior High, Selective Compulsory 3) — Ch. 1 §2 — printed pp. 18–21 — Mass spectrometry gives the molar mass from a tiny sample (46 for the same unknown → molecular formula C₂H₆O), high-resolution instruments can yield the formula directly; the two candidate structures are then separated by infrared spectroscopy (which bonds/groups absorb) and ¹H NMR (how many hydrogen environments), with X-ray diffraction named for full 3-D structures of crystals. |
+
+**Acceptance count: taught in 2 countries (South Sudan, China).**
+
+**Placement-choice note (China):** the China placements file names `chemistry/mass-spectrometry-and-spectra-that-name-the-structure` for this content; that thing is covered by this lesson, so the China provenance rows above are stocked here and the original slug(s) are recorded verbatim in those rows.
 
 Placement choice, on the record: this NEW LESSON was built for the South Sudan placements "NEW LESSON NEEDED: analytical-spectroscopy-ir-nmr-uv-mass — §5.2 Infrared Spectroscopy — printed p. 109", "NEW LESSON NEEDED: analytical-spectroscopy-ir-nmr-uv-mass — §5.3 Nuclear Magnetic Resonance — printed p. 112", "NEW LESSON NEEDED: analytical-spectroscopy-ir-nmr-uv-mass — §5.4 Ultra Violet Spectroscopy — printed p. 115" and "NEW LESSON NEEDED: analytical-spectroscopy-ir-nmr-uv-mass — §5.5 Mass Spectroscopy — printed p. 116" — south-sudan-placements.md. The placements file names this slug, which does not exist in the tree: no existing Chemistry lesson teaches the analytical spectroscopies — the spectra lessons on file treat atomic line spectra, a different thing — so the unit's four techniques, placed under one proposed slug, get their own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). South Sudan's own way — the four spectroscopies standing as §§5.2–5.5 of the analytical techniques unit, in IR, NMR, UV, mass order — IS part of this lesson's content, carried exactly as the placements describe it; the book's spelling "mass spectroscopy" is recorded in the provenance. The book is a student textbook, so this lesson counts toward acceptance normally.
 

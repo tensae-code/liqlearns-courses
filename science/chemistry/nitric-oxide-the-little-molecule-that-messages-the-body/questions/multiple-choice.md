@@ -1,0 +1,13 @@
+# Nitric oxide — the little molecule that messages the body — multiple choice
+
+Pick the one right answer.
+
+**1.** Which statement belongs to this lesson — Nitric oxide — the little molecule that messages the body?
+a) A full background dossier on NO: Science magazine's 1992 "Molecule of the Year"; the bonding puzzle (15 valence electrons; quantum-chemical energy levels match N₂'s pattern, not O₂'s; a three-electron π bond), bond length 105 pm and bond energy 678 kJ/mol tabulated against N₂ (111 pm, 942) and O₂ (121 pm, 494), paramagnetic as a one-unpaired-electron radical; then its second life — the endothelium-derived relaxing factor that dilates blood vessels, synthesised from L-arginine, with a biological half-life of only 3–5 seconds, acting as a neurotransmitter that needs no receptor or storage vesicle.
+b) The six nutrient classes (protein, carbohydrate, oil/fat, vitamin, mineral salts, water); proteins built from amino acids, digested and rebuilt, about 18 kJ/g; haemoglobin's Fe²⁺ carrying oxygen and carbon monoxide binding 200–300 times more strongly — the chemistry of coal-gas poisoning; a data card on enzymes as protein catalysts, and cards on smoking and on formaldehyde denaturing protein.
+c) Carbohydrates: starch (C₆H₁₀O₅)ₙ hydrolysed by enzymes to glucose, glucose oxidised in the body (C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O, about 16 kJ/g, supplying 60–70% of energy), sucrose as the table sugar, and a cellulose card; oils and fats at about 39 kJ/g as the body's reserve fuel; vitamins and the diseases of lacking them (night blindness, scurvy); the Chinese Residents' Balanced Diet Pagoda as the national guide to daily amounts (printed p. 95).
+**Answer: a) A full background dossier on NO: Science magazine's 1992 "Molecule of the Year"; the bonding puzzle (15 valence electrons; quantum-chemical energy levels match N₂'s pattern, not O₂'s; a three-electron π bond), bond length 105 pm and bond energy 678 kJ/mol tabulated against N₂ (111 pm, 942) and O₂ (121 pm, 494), paramagnetic as a one-unpaired-electron radical; then its second life — the endothelium-derived relaxing factor that dilates blood vessels, synthesised from L-arginine, with a biological half-life of only 3–5 seconds, acting as a neurotransmitter that needs no receptor or storage vesicle.**
+
+**2.** This lesson's China source is…
+a) China's People's Education Press teacher guide （教师教学用书） — PARTIAL (Chapters 5–6 only), teacher evidence only  b) a book from another country  c) no book at all  d) a website summary
+**Answer: a) China's People's Education Press teacher guide （教师教学用书） — PARTIAL (Chapters 5–6 only), teacher evidence only**
