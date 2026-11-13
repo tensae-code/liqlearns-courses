@@ -1,6 +1,6 @@
 # Sources — Nutrition — food in, life sustained
 
-countries: Ethiopia, Sri Lanka, Cambodia, Laos, Mongolia, Yemen, Dominica
+countries: Ethiopia, Sri Lanka, Cambodia, Laos, Mongolia, Yemen, Dominica, Bolivia
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -19,6 +19,8 @@ countries: Ethiopia, Sri Lanka, Cambodia, Laos, Mongolia, Yemen, Dominica
 
 **Book 9:** Biology for CSEC, 2nd Edition (Oxford University Press) — "Biology for CSEC 2nded Oxford" — Dominica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-2): grade-11-approved-private-dominica-dominica-biology-for-csec-oxford.pdf — Byte size: 52,773,980 — PDF pages: 324 — Printed pages: 316 (acknowledgements); printed p. = PDF page − ~5 (contents at PDF pp. 5–6). Verdict: COMPLETE — units A1–C28, three revision sections and index present. Structural summary: The Oxford treatment adds: carrying out an ecological study (A2.3); finite resources and "resources for the future?" (A4); the impact of pollution in the Caribbean (A5.2); testing for food substances (B9.2); immunisation and disease control inside transport (B13.5); homeostasis taught explicitly as negative feedback (B20.1); locomotion in animals (B17.5); plant and animal diseases (B24.4); and a closing genetics-technology unit, "Changing genes – what are the issues?" (C28). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/dominica-placements.md.
 
+**Book 10:** Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria (Ministerio de Educación de Bolivia) — Bolivia. Grade: 8 (Secundaria 2) — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-08-gov-bolivia-biology-geography-student-full-year.pdf — Byte size: 10,263,393 — PDF pages: 84 — Printed-page offset: printed p. = PDF page + 146 (file carries printed pp. 148–230 only) — Verdict: TRUNCATED — the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. Structural summary: In the surviving span: hormones and the endocrine system, fertilisation/implantation and embryonic development, an affective-relationships unit ("biología de las relaciones afectivas" — attachment and the right to a life free of violence), nutrition types and healthy eating built on Bolivia's "arco de la alimentación", eating disorders, the sense organs (eye, skin, ear and hearing loss), a long chemistry-of-matter block (debt), a thermology block opening with hyperthermia/hypothermia (physics debt), solar-system/Moon/eclipses (geography debt), renewable energy, and a closing ecology block on ecosystems and Bolivia's biomes and the extinction emergency. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 106 |
@@ -30,8 +32,11 @@ countries: Ethiopia, Sri Lanka, Cambodia, Laos, Mongolia, Yemen, Dominica
 | Mongolia's way — Ch. II §2.2.1: human nutrition; §2.2.2: the mineral nutrition of plants (placement slug: biology/nutrition-food-in-life-sustained) | Book 7 (Биологи X (Biology, Grade 10), student textbook, Grade 10), Ch. II §2.2.1, printed p. 35; §2.2.2, printed p. 38 |
 | Yemen's way — Unit 3: nutrition and autotrophic nutrition (placement slug: nutrition-food-in-life-sustained) | Book 8 (Biology and Earth Science, student textbook, Grade 10), Unit 3, printed p. 62 |
 | Dominica's way — B9: life chemicals and nutrition — food substances; testing for food substances (placement slug: food-groups — stocked into this lesson as the closest existing lesson covering that thing) | Book 9 (Biology for CSEC, 2nd ed., student textbook, Grade 11), B9, printed pp. 98–100 |
+| Bolivia's way — Nutrition types: heterotrophic nutrition in animals (rabbit eating lettuce, lion) against autotrophic | Book 10 (Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria, student textbook, Grade 8), printed pp. 159–161 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sri Lanka, Cambodia, Laos, Mongolia, Yemen, Dominica).**
+**Acceptance count: taught in 8 countries (Ethiopia, Sri Lanka, Cambodia, Laos, Mongolia, Yemen, Dominica, Bolivia).**
+
+Honesty (Bolivia): Book 10 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 8 (Secundaria 2) — so Bolivia counts toward acceptance. It is TRUNCATED: the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. This truncated copy is never counted as a complete book. 84 PDF pages; printed p. = PDF page + 146.
 
 Honesty (Dominica): Book 9 is a student textbook as verified in the placements — *Biology for CSEC*, 2nd Edition (Oxford University Press), Grade 11 — so Dominica counts toward acceptance. It is COMPLETE: units A1–C28, three revision sections and the index present (324 PDF pages; printed p. = PDF page − ~5). It is a commercial CSEC textbook adopted for Dominica, an image-only scan read from its full printed contents, so the placements cite the contents' printed pages.
 
@@ -49,4 +54,4 @@ Honesty (Mongolia): Book 7 is a student textbook as verified in the placements �
 
 Honesty (Yemen): Book 8 is a student textbook as verified in the placements — *علم الأحياء وعلم الأرض — للصف الأول الثانوي (Biology and Earth Science, First Secondary / Grade 10)*, Grade 10, Ministry of Education, Curricula Directorate — so Yemen counts toward acceptance. It is COMPLETE: all 7 units with unit reviews, the scientific-terms list and the back cover present (226 PDF pages; printed p. = PDF page − 1). The scan is image-only and was read on 80–100 DPI 4-up contact sheets. Its Unit 7 (printed pp. 179–213) is earth science — geology, Earth's structure and crust, rock types, faults — debt, not placed in Biology.
 
-Searchable tags: biology, ethiopia, sri lanka, nutrition, food, life, sustained, cambodia, laos, mongolia, yemen, dominica
+Searchable tags: biology, ethiopia, sri lanka, nutrition, food, life, sustained, cambodia, laos, mongolia, yemen, dominica, bolivia

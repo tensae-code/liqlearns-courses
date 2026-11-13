@@ -1,6 +1,6 @@
 # Sources — Renewable and non-renewable resources
 
-countries: Ethiopia, Sudan, Dominica
+countries: Ethiopia, Sudan, Dominica, Bolivia
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -8,13 +8,18 @@ countries: Ethiopia, Sudan, Dominica
 
 **Book 3:** Biology for CSEC, 2nd Edition (Oxford University Press) — "Biology for CSEC 2nded Oxford" — Dominica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-2): grade-11-approved-private-dominica-dominica-biology-for-csec-oxford.pdf — Byte size: 52,773,980 — PDF pages: 324 — Printed pages: 316 (acknowledgements); printed p. = PDF page − ~5 (contents at PDF pp. 5–6). Verdict: COMPLETE — units A1–C28, three revision sections and index present. Structural summary: The Oxford treatment adds: carrying out an ecological study (A2.3); finite resources and "resources for the future?" (A4); the impact of pollution in the Caribbean (A5.2); testing for food substances (B9.2); immunisation and disease control inside transport (B13.5); homeostasis taught explicitly as negative feedback (B20.1); locomotion in animals (B17.5); plant and animal diseases (B24.4); and a closing genetics-technology unit, "Changing genes – what are the issues?" (C28). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/dominica-placements.md.
 
+**Book 4:** Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria (Ministerio de Educación de Bolivia) — Bolivia. Grade: 8 (Secundaria 2) — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-08-gov-bolivia-biology-geography-student-full-year.pdf — Byte size: 10,263,393 — PDF pages: 84 — Printed-page offset: printed p. = PDF page + 146 (file carries printed pp. 148–230 only) — Verdict: TRUNCATED — the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. Structural summary: In the surviving span: hormones and the endocrine system, fertilisation/implantation and embryonic development, an affective-relationships unit ("biología de las relaciones afectivas" — attachment and the right to a life free of violence), nutrition types and healthy eating built on Bolivia's "arco de la alimentación", eating disorders, the sense organs (eye, skin, ear and hearing loss), a long chemistry-of-matter block (debt), a thermology block opening with hyperthermia/hypothermia (physics debt), solar-system/Moon/eclipses (geography debt), renewable energy, and a closing ecology block on ecosystems and Bolivia's biomes and the extinction emergency. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Natural resources — renewable and non-renewable | Student Textbook, Grade 11 — Printed pp. 248–249. |
 | Sudan's way — Unit Three Part 2 §1: permanent natural resources — solar energy and its exploitation in Sudan; wind energy in Sudan; water energy for electricity in Sudan — renewable energy taught as Sudanese resource geography (placement slug: renewable-and-nonrenewable-resources) | Book 2 (علم الأحياء – الصف الثالث الثانوي, student textbook, Grade 12), Unit Three Part 2 §1, printed pp. 219–222 |
 | Dominica's way — A4: finite resources; resources for the future? (placement slug: renewable-and-nonrenewable-resources) | Book 3 (Biology for CSEC, 2nd ed., student textbook, Grade 11), A4, printed pp. 39–43 |
+| Bolivia's way — Energy in Madre Tierra: renewable sources as sustainable and lower-impact vs finite non-renewables driving climate change | Book 4 (Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria, student textbook, Grade 8), printed pp. 216–221 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Sudan, Dominica).**
+**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Dominica, Bolivia).**
+
+Honesty (Bolivia): Book 4 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 8 (Secundaria 2) — so Bolivia counts toward acceptance. It is TRUNCATED: the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. This truncated copy is never counted as a complete book. 84 PDF pages; printed p. = PDF page + 146.
 
 Honesty (Dominica): Book 3 is a student textbook as verified in the placements — *Biology for CSEC*, 2nd Edition (Oxford University Press), Grade 11 — so Dominica counts toward acceptance. It is COMPLETE: units A1–C28, three revision sections and the index present (324 PDF pages; printed p. = PDF page − ~5). It is a commercial CSEC textbook adopted for Dominica, an image-only scan read from its full printed contents, so the placements cite the contents' printed pages.
 
@@ -22,4 +27,4 @@ Honesty notes from the placements: this student book's contents page numbers run
 
 Honesty (Sudan): Book 2 is a student textbook as verified in the placements — *علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book")*, Grade 12 — so Sudan counts toward acceptance. It is COMPLETE: three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables (252 PDF pages; printed p. = PDF page − 7).
 
-Searchable tags: biology, ethiopia, renewable, and, non, renewable, resources, sudan, dominica
+Searchable tags: biology, ethiopia, renewable, and, non, renewable, resources, sudan, dominica, bolivia

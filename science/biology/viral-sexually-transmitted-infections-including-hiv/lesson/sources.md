@@ -1,15 +1,20 @@
 # Sources — Viral sexually transmitted infections — including HIV
 
-countries: Ethiopia
+countries: Ethiopia, Bolivia
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Texto de Aprendizaje — Biología-Geografía — Sexto Año de Secundaria (Ministerio de Educación de Bolivia) — Bolivia. Grade: 12 (Secundaria 6) — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-12-gov-bolivia-biology-geography-student-full-year.pdf — Byte size: 7,519,198 — PDF pages: 76 — Printed-page numbers not machine-readable in this file; page references below are PDF pages. — Verdict: COMPLETE as secured — the file opens on the genetics unit opener and closes with the area bibliography (PDF p. 76); a single-trimester volume. Structural summary: A genetics-to-ecology survey: inheritance patterns and genetic variability (genes as house plans, Mendel, sex-linked inheritance, the genetic code), genetic anomalies with an inclusion strand (polydactyly, a Down-syndrome student's story), biotechnology by colour branches, cloning, transgenic crops (Roundup Ready soy) and their risks; origin of life (Pasteur against spontaneous generation), geological eras, natural selection and human evolution; health — disease, vaccination, HPV and the Pap test, hygiene, non-communicable diseases and obesity; animal diversity (cnidarians, fish, birds), Linnaean classification, avian flu; ecology — producers, biogeochemical cycles, ecosystems, mimicry, the biosphere, and water use and saving. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bolivia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Viral STIs | Student Textbook, Grade 11 — Printed pp. 209–212. |
+| Bolivia's way — HPV: genital warts to invasive cervical cancer; prevention by early Pap-test detection | Book 2 (Texto de Aprendizaje — Biología-Geografía — Sexto Año de Secundaria, student textbook, Grade 12), PDF pp. 43–44 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Bolivia).**
+
+Honesty (Bolivia): Book 2 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Sexto Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 12 (Secundaria 6) — so Bolivia counts toward acceptance. It is COMPLETE as secured: the file opens on the genetics unit opener and closes with the area bibliography (PDF p. 76); a single-trimester volume; 76 PDF pages; printed-page numbers are not machine-readable in this file, so its placements cite PDF pages.
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, viral, sexually, transmitted, infections, including, hiv
+Searchable tags: biology, ethiopia, viral, sexually, transmitted, infections, including, hiv, bolivia

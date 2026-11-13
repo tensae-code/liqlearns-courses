@@ -1,6 +1,6 @@
 # Sources — Human evolution
 
-countries: Ethiopia, Nicaragua, Cambodia, Laos, India
+countries: Ethiopia, Nicaragua, Cambodia, Laos, India, Bolivia
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Nicaragua, Cambodia, Laos, India
 
 **Book 6:** Biology — Textbook for Class XII (NCERT, 2020-21 edition; "NCERT Biology - Class 12") — India. Grade: 12 — Kind: student as verified — Repo path: grade-12/gov/india/biology.pdf (release full-quality-oversized-books) — Source URL: https://archive.org/details/ncert-lebo1 — Byte size: 209,845,116 (record gives no size) — PDF pages: 296 — Page references are printed chapter-start pages from the Contents (body printed pp. 1–286). Verdict: COMPLETE — all 16 chapters in Units VI–X present per the Contents, through Environmental Issues (printed p. 270). Structural summary: Reproduction → Genetics and Evolution → Biology in Human Welfare → Biotechnology → Ecology. NCERT's applied turn: human reproduction and reproductive health are full chapters, food-production enhancement and microbes-in-welfare get their own unit, and the ecology unit closes the two-year course. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/india-placements.md.
 
+**Book 7:** Texto de Aprendizaje — Biología-Geografía — Sexto Año de Secundaria (Ministerio de Educación de Bolivia) — Bolivia. Grade: 12 (Secundaria 6) — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-12-gov-bolivia-biology-geography-student-full-year.pdf — Byte size: 7,519,198 — PDF pages: 76 — Printed-page numbers not machine-readable in this file; page references below are PDF pages. — Verdict: COMPLETE as secured — the file opens on the genetics unit opener and closes with the area bibliography (PDF p. 76); a single-trimester volume. Structural summary: A genetics-to-ecology survey: inheritance patterns and genetic variability (genes as house plans, Mendel, sex-linked inheritance, the genetic code), genetic anomalies with an inclusion strand (polydactyly, a Down-syndrome student's story), biotechnology by colour branches, cloning, transgenic crops (Roundup Ready soy) and their risks; origin of life (Pasteur against spontaneous generation), geological eras, natural selection and human evolution; health — disease, vaccination, HPV and the Pap test, hygiene, non-communicable diseases and obesity; animal diversity (cnidarians, fish, birds), Linnaean classification, avian flu; ecology — producers, biogeochemical cycles, ecosystems, mimicry, the biosphere, and water use and saving. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Human evolution (§4.1.5): | Student Textbook, Grade 12 — Printed pp. 200–207. |
@@ -22,8 +24,11 @@ countries: Ethiopia, Nicaragua, Cambodia, Laos, India
 | Cambodia's way — Ch. 6 L3: the origin of humans (កំណើតមនុស្ស) (placement slug: biology/human-evolution-our-place-in-nature) | Book 4 (ជីវវិទ្យា ថ្នាក់ទី១២ (Biology, Grade 12), student textbook, Grade 12), Ch. 6 L3, printed p. 212 |
 | Laos's way — Lesson 2: human evolution (ວິວັດທະນາການຂອງມະນຸດ) (placement slug: human-evolution-our-place-in-nature) | Book 5 (ຊີວະວິທະຍາ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Biology, Grade 12), student textbook, Grade 12), Lesson 2 — printed p. 13 |
 | India's way — Ch. 7: origin and evolution of man (placement slug: human-evolution) | Book 6 (Biology — Textbook for Class XII, student textbook, Grade 12), Ch. 7, printed pp. 126–142 |
+| Bolivia's way — Human evolution: Australopithecus (bipedal, Lucy) and Homo habilis | Book 7 (Texto de Aprendizaje — Biología-Geografía — Sexto Año de Secundaria, student textbook, Grade 12), PDF pp. 37–38 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nicaragua, Cambodia, Laos, India).**
+**Acceptance count: taught in 6 countries (Ethiopia, Nicaragua, Cambodia, Laos, India, Bolivia).**
+
+Honesty (Bolivia): Book 7 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Sexto Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 12 (Secundaria 6) — so Bolivia counts toward acceptance. It is COMPLETE as secured: the file opens on the genetics unit opener and closes with the area bibliography (PDF p. 76); a single-trimester volume; 76 PDF pages; printed-page numbers are not machine-readable in this file, so its placements cite PDF pages.
 
 Honesty (Laos): Book 5 is a student textbook as verified in the placements — *ຊີວະວິທະຍາ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 7 (Biology, Secondary Year 7 / Grade 12, student textbook)*, Grade 12 — so Laos counts toward acceptance. It is COMPLETE: all 21 lessons in 6 parts present (209 PDF pages; printed p. = PDF page − 7). The book also contains a full geology part (ທໍລະນີວິທະຍາ — Earth's internal structure, rock types, Basic Mineralogy and the minerals found in Lao PDR) which carries no biology placements and is not stocked in this course; it is recorded here so the book's full shape is known.
 

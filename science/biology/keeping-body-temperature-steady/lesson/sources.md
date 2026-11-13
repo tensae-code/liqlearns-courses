@@ -1,6 +1,6 @@
 # Sources — Keeping body temperature steady
 
-countries: Ethiopia, Egypt, Eritrea
+countries: Ethiopia, Egypt, Eritrea, Bolivia
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia, Egypt, Eritrea
 
 **Book 4:** Biology for Grade 11 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-5), grade-11-gov-eritrea-biology-student-full-year.pdf — Byte size: 10,367,822 — PDF pages: 143 — Printed-page offset: printed p. = PDF page − 6 (Unit Six exercises at printed p. 137). Verdict: COMPLETE — all six units named in the Introduction present, ending with Unit Six (Plant Systems) exercises. Structural summary: Endocrine system → reproductive system → skeletal system → muscular system → homeostasis (temperature, water balance via hypothalamus–pituitary–ADH, rest) → plant systems (growth, meristems, differentiation, determinate/indeterminate growth). Homeostasis is a whole unit here, not a section. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 5:** Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria (Ministerio de Educación de Bolivia) — Bolivia. Grade: 8 (Secundaria 2) — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-08-gov-bolivia-biology-geography-student-full-year.pdf — Byte size: 10,263,393 — PDF pages: 84 — Printed-page offset: printed p. = PDF page + 146 (file carries printed pp. 148–230 only) — Verdict: TRUNCATED — the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. Structural summary: In the surviving span: hormones and the endocrine system, fertilisation/implantation and embryonic development, an affective-relationships unit ("biología de las relaciones afectivas" — attachment and the right to a life free of violence), nutrition types and healthy eating built on Bolivia's "arco de la alimentación", eating disorders, the sense organs (eye, skin, ear and hearing loss), a long chemistry-of-matter block (debt), a thermology block opening with hyperthermia/hypothermia (physics debt), solar-system/Moon/eclipses (geography debt), renewable energy, and a closing ecology block on ecosystems and Bolivia's biomes and the extinction emergency. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bolivia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Thermoregulation | Student Textbook, Grade 11 — Printed pp. 56–61. |
 | Sub lesson 2 — Added thermoregulation detail — hibernation, aestivation, body form and the SA:V cube (teacher guide — evidence) | Teachers' Guide, Grade 11 — Printed pp. 66–69. |
 | Egypt's way — thyroxine's effects — growth, basal metabolic rate, monosaccharide absorption (placement slug: keeping-body-temperature-steady) | Book 3 (BIOLOGY, student textbook, Grade 12), Ch. 2, printed p. 29 |
 | Eritrea's way — Unit Five: temperature control within the homeostasis unit | Book 4 (Biology for Grade 11 Textbook, student textbook, Grade 11), printed pp. 83–102 |
+| Bolivia's way — Practical opening of the thermology unit: hyperthermia vs hypothermia as abnormal body temperatures (inside a physics unit; the body-temperature content is placed, the heat physics is debt) | Book 5 (Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria, student textbook, Grade 8), printed pp. 204–205 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Eritrea).**
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Eritrea, Bolivia).**
+
+Honesty (Bolivia): Book 5 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 8 (Secundaria 2) — so Bolivia counts toward acceptance. It is TRUNCATED: the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. This truncated copy is never counted as a complete book. 84 PDF pages; printed p. = PDF page + 146.
 
 Honesty (Eritrea): Book 4 is a student textbook as verified in the placements — *Biology for Grade 11 Textbook* (The State of Eritrea, Ministry of Education), Grade 11, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all six units named in the Introduction are present, ending with Unit Six (Plant Systems) exercises (143 PDF pages). Printed-page offset: printed p. = PDF page − 6; the citations here use the printed pages as the placements file gives them.
 
@@ -27,4 +32,4 @@ Honesty notes from the placements: this student book's contents page numbers run
 
 Honesty notes: this Teachers' Guide is a finished publication — first published August 2023, © 2023 FDRE Ministry of Education, ISBN 978-99990-0-014-7, printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23 — and its imprint is cited here as fact. The guide is teacher evidence only: it adds explanations, worked examples and answer keys to the Grade 11 student book; it is never counted as pupil-taught. Guide-only content (for example bird ZW sex determination, Pavlov's and Skinner's experiments in full, and the Wogesha traditional bone-healer investigation) is labelled (teacher guide — evidence) in the table above. The guide's contents numbering diverges from the student book's; lesson numbering follows the student book.
 
-Searchable tags: biology, eritrea, ethiopia, keeping, body, temperature, steady, egypt
+Searchable tags: biology, eritrea, ethiopia, keeping, body, temperature, steady, egypt, bolivia
