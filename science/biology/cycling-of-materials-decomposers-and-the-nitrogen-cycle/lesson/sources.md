@@ -1,6 +1,6 @@
 # Sources — Cycling of materials — decomposers and the nitrogen cycle
 
-countries: Ethiopia, Costa Rica, Nicaragua, France, Uganda
+countries: Ethiopia, Costa Rica, Nicaragua, France, Uganda, Cambodia
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
@@ -14,10 +14,13 @@ countries: Ethiopia, Costa Rica, Nicaragua, France, Uganda
 
 **Book 6:** Biology Home-Study Learning — Senior Two (NCDC, 2020) (as printed: HOME-STUDY / SELF-STUDY LEARNING — BIOLOGY, SENIOR TWO) — Uganda. Grade: 9 (Senior Two) — Kind: student (home-study booklet) as verified — Repo path: grade-09/gov/uganda/biology/student/home-study.pdf (books.json record only; grabbed via grab.py tree — in GitHub despite an earlier disconnect on first attempt) — Source URL (books.json): https://sharebility.net/download/s2-biologyterm-two-and-three/?wpdmdl=27590 — Byte size: 1,750,692 — PDF pages: 28 (matches books.json pages: 28) — Printed-page offset: booklet pagination restarts inside; pages cited by PDF/booklet position. Verdict: COMPLETE — Ministry of Education and Sports / NCDC home-study intervention published 2020 for the COVID-19 school lockdown: foreword, acknowledgements, "About this booklet", all lessons, and NCDC back page present. Opens with COVID-19 symptoms/prevention content before the biology. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uganda-placements.md.
 
+**Book 7:** ជីវវិទ្យា ថ្នាក់ទី១២ (Biology, Grade 12) (as printed) — Cambodia. Grade: 12 (grade-12) — Kind: student as verified — Staging path: grade-12/gov/cambodia/biology/student/full-year.pdf (Sala 00004269) — Source: books.json record (pages null in the record), on_disk — Byte size: 79108284 (matches the full size at source) — PDF pages: 257 — Printed-page offset: printed p. = PDF page − 4 (printed p. 1 opens Ch. 1; contents run to printed p. 246, with back matter after) — Verdict: COMPLETE — read on 80 DPI contact sheets with contents and the first chapter at 150 DPI (renders deleted after filing); cover (the horse-evolution series with leg bones), title page (MoEYS; ISBN 978-9995-001-117), preface, full contents, all 8 chapters present. Library note: the staging CURRICULUM.md still flags this file as a truncated 50,331,648-byte download — that note is stale: the file on disk is now the complete 79,108,284-byte book, verified by byte size and page count. This reader did not re-download anything. Structural summary: Eight chapters: (1) Gymnosperms and angiosperms — the gymnosperm lesson names its four groups bilingually (Cycads, Conifers, Ginkgoes, Gnetophytes, with "Gymnos"/"Sperma" printed in English); (2) Growth and reproduction of plants; (3) coordination in organisms — nervous system, sense organs, endocrine system; (4) The role of proteins — amino acids, proteins, enzymes; (5) Genetic information and gene expression — "ADN ជាព័ត៌មានសេនេទិច" (DNA as genetic information, ADN printed in Latin letters), gene expression, biotechnology; (6) Evolution — Darwin's theory (ទ្រឹស្តីរបស់លោកដាវិន), evidence of evolution, the origin of humans — matching the horse series on the cover; (7) Populations and communities — including interactions among living things; (8) Ecology (អេកូឡូស៊ី) — food webs in ecosystems, cycles of matter. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 103–104 (teacher guide) |
 | France's way — micro-organisms and soil fertility; organisms indispensable to recycling organic matter (placement slug: cycling-of-materials-decomposers-and-the-nitrogen-cycle) | Book 5 (SVT 2de GT — Manuel Libre de Sciences de la vie et de la Terre, student manual, Grade 10), "Enjeux contemporains de la planète" / "Production et recyclage de la biomasse" — repository path as cited in the placements, in place of a printed page, as the placements state |
+| Cambodia's way — Ch. 8 L2: cycles of matter (វដ្តរូបធាតុ) (placement slug: biology/nutrient-cycles) | Book 7 (ជីវវិទ្យា ថ្នាក់ទី១២ (Biology, Grade 12), student textbook, Grade 12), Ch. 8 L2, printed p. 246 |
 
 | Materials cycle (student book) | Book 2 (student textbook), printed pp. 159–168 |
 | Four processes (student book) | Book 2 (student textbook), printed pp. 159–168 |
@@ -27,7 +30,7 @@ countries: Ethiopia, Costa Rica, Nicaragua, France, Uganda
 | Nicaragua's way — Unidad 5.3: Ciclos biogeoquímicos | Book 4 (Biología — Undécimo grado, student textbook, Grade 11), Unidad 5.3, printed p. 143 |
 | Uganda's way — the Soil topic activity: draw the nitrogen cycle by filling the gaps in a diagram | Book 6 (Biology Home-Study Learning — Senior Two (NCDC, 2020), student home-study booklet, Grade 9), PDF p. 15 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Costa Rica, Nicaragua, France, Uganda).**
+**Acceptance count: taught in 6 countries (Ethiopia, Costa Rica, Nicaragua, France, Uganda, Cambodia).**
 
 Honesty (Uganda): Book 6 is a student home-study booklet as verified in the placements — *Biology Home-Study Learning — Senior Two* (NCDC, 2020), Grade 9 (Senior Two) — so Uganda counts toward acceptance. It is COMPLETE: foreword, acknowledgements, “About this booklet”, all lessons and the NCDC back page present (28 PDF pages; pages cited by PDF/booklet position).
 
@@ -39,4 +42,6 @@ Honesty: the Grade 10 student placements file landed after this lesson was first
 
 Honesty (Costa Rica): Book 3 is a student anthology as verified in the placements — *Biología Undécimo*, an Antología of CONED (Colegio Nacional de Educación a Distancia), published with UNED, Grade 11 (Código 80026) — so Costa Rica counts toward acceptance. It is COMPLETE: five units, unit schemas, exercises and bibliography all present; 208 PDF pages, printed p. = PDF page. Costa Rica's own way runs through the whole book and is content in this lesson: an ecology course in Spanish written for distance learners, each unit opening with a "Lectura Reflexiva" reading and "Situaciones de aprendizaje" (learning situations).
 
-Searchable tags: biology, ethiopia, cycling, materials, decomposers, and, the, nitrogen, cycle, costa rica, nicaragua, france, uganda
+Honesty (Cambodia): Book 7 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១២ (Biology, Grade 12)*, Grade 12, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
+
+Searchable tags: biology, ethiopia, cycling, materials, decomposers, and, the, nitrogen, cycle, costa rica, nicaragua, france, uganda, cambodia

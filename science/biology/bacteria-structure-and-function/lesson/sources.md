@@ -1,17 +1,22 @@
 # Sources — Bacteria: Structure and Function
 
-countries: Ethiopia
+countries: Ethiopia, Cambodia
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
+
+**Book 2:** ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10) (as printed) — Cambodia. Grade: 10 (grade-10) — Kind: student as verified — Staging path: grade-10/gov/cambodia/biology/student/full-year.pdf (Sala 00004291) — Source: books.json record, on_disk — Byte size: 37258561 (matches record) — PDF pages: 123 — Printed-page offset: printed p. = PDF page − 5 (printed p. 1 = Introduction to biology; the book closes with a Khmer glossary, printed pp. 114–118) — Verdict: COMPLETE — read on 80 DPI contact sheets with contents and sampled pages at 150 DPI (renders deleted after filing); cover (hornbill, fungi, coconut artwork), title page (MoEYS; ISBN 978-9995-000-745; curriculum support from JICA acknowledged in the preface), preface, full contents, all 5 chapters, glossary present. The scan carries the ministry teacher-site watermark (krou.moeys.gov.kh). Structural summary: Five chapters: (1) classification and diversity of living things — viruses & bacteria, protists, fungi, plants, animals; (2) the cell — the cell, then prokaryotes vs eukaryotes; (3) Metabolism (មេតាបូលីស) — photosynthesis and cellular respiration; (4) Human biology — only two systems: skeletal and muscular; (5) Biology in agriculture (ជីវវិទ្យាក្នុងវិស័យកសិកម្ម) — soil, then breeding (ការបង្កាត់). The introduction defines biology and the characteristics of life (លក្ខណៈពិសេសនៃជីវិត). Cambodian way: the year ends not with theory but with soil and breeding for farming, and the book closes with a Khmer scientific glossary (one entry even glosses DNA as "ADN"). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/cambodia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Eubacteria: general features and cell structure (§2.1–2.1.1): | Student Textbook, Grade 12 — Printed pp. 43–51. |
+| Cambodia's way — Ch. 1 L2: viruses and bacteria — the bacteria part (placement slug: biology/bacteria-structure-and-function) | Book 2 (ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10), student textbook, Grade 10), Ch. 1 L2, printed p. 17 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Cambodia).**
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, bacteria, structure, and, function
+Honesty (Cambodia): Book 2 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10)*, Grade 10, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
+
+Searchable tags: biology, ethiopia, bacteria, structure, and, function, cambodia

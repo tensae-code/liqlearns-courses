@@ -1,6 +1,6 @@
 # Sources — Mitosis — the phases in order
 
-countries: Ethiopia, Azerbaijan, Palestine, Albania, Sudan
+countries: Ethiopia, Azerbaijan, Palestine, Albania, Sudan, Cambodia
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
@@ -16,9 +16,12 @@ countries: Ethiopia, Azerbaijan, Palestine, Albania, Sudan
 
 **Book 7:** علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book") — Sudan. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-10-gov-sudan-biology-student-full-year.pdf — Byte size: 21,115,344 — PDF pages: 155 — Printed-page offset: printed p. = PDF page − 5 (unit pages carry both paginations). Verdict: COMPLETE — all five units present, Unit Five (Support) running to the end of the file. Structural summary: Introduction to Biology (its branches, and the contributions of earlier Muslim and non-Muslim scholars and of the Renaissance — Sudan names the Islamic-scholar strand explicitly) → Cell Biology → Classification of Living Organisms → Movement in Living Organisms → Support in Living Organisms. The systems year (nutrition/transport/respiration) is deferred to Second Secondary. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 8:** ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11) (as printed) — Cambodia. Grade: 11 (grade-11) — Kind: student as verified — Staging path: grade-11/gov/cambodia/biology/student/full-year.pdf (Sala 00004290) — Source: books.json record, on_disk — Byte size: 79630868 (matches record) — PDF pages: 256 — Printed-page offset: printed p. = PDF page − 4 (printed p. 1 opens Ch. 1 with a photo of school students at a microscope; the book closes with references, printed p. 248, and a Khmer glossary, printed pp. 249–252) — Verdict: COMPLETE — read on 80 DPI contact sheets with the contents/imprint spread and sampled pages at 150 DPI (renders deleted after filing); title page (MoEYS; ISBN 978-9995-000-707), preface (the book serves the 2005–2009 curriculum framework), full contents printed on the imprint spread, all 8 chapters, references and glossary present. Structural summary: Eight chapters: (1) The cell — chemical composition of the cell, cell structure, and cell processes related to energy; (2) Reproduction and growth — the origin of new cells (division), reproduction of organisms; (3) Heredity — laws of heredity, chromosomes; (4) Food and human digestion; (5) Blood circulation and excretion in humans; (6) Nervous and endocrine systems; (7) an environment chapter — environment, biodiversity (ជីវចម្រុះ); (8) Biology and health — fighting disease, food and health. The glossary is precise enough to define polyploidy (3n, 4n, 5n...) and the gene through "ADN". Placements at liqlearns-courses-work/expansion-biology-2026-11-13/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 69 (teacher guide) |
+| Cambodia's way — Ch. 2 (Reproduction and growth) L1: the origin of new cells (placement slug: biology/mitosis-the-phases-in-order) | Book 8 (ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11), student textbook, Grade 11), Ch. 2 L1, printed p. 38 |
 
 | Condensing (student book) | Book 2 (student textbook), printed pp. 84–88 |
 | Lining up and pulling apart (student book) | Book 2 (student textbook), printed pp. 84–88 |
@@ -31,7 +34,7 @@ countries: Ethiopia, Azerbaijan, Palestine, Albania, Sudan
 | Albania's way — Thematic: Cikli qelizor te eukariotët (the cell cycle in eukaryotes) (teacher book — evidence) (placement slug: mitosis-the-phases-in-order) | Book 6 (Libër Mësuesi — Biologjia me zgjedhje 12, teacher's book, Grade 12), printed p. 4 |
 | Sudan's way — Unit Two objectives: distinguishing mitotic division from meiotic division (placement slug: mitosis-the-phases-in-order) | Book 7 (علم الأحياء – الصف الأول الثانوي, student textbook, Grade 10), Unit Two objectives, printed p. 13 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Azerbaijan, Palestine, Sudan) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Azerbaijan, Palestine, Sudan, Cambodia) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty (Palestine): Book 4 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
@@ -43,4 +46,6 @@ Honesty (Albania): Albania's evidence here is teacher's books only — *Libër M
 
 Honesty (Sudan): Book 7 is a student textbook as verified in the placements — *علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book")*, Grade 10 — so Sudan counts toward acceptance. It is COMPLETE: all five units present, Unit Five (Support) running to the end of the file (155 PDF pages; printed p. = PDF page − 5).
 
-Searchable tags: biology, azerbaijan, ethiopia, mitosis, the, phases, order, palestine, albania, sudan
+Honesty (Cambodia): Book 8 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11)*, Grade 11, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
+
+Searchable tags: biology, azerbaijan, ethiopia, mitosis, the, phases, order, palestine, albania, sudan, cambodia

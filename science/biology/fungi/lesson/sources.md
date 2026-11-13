@@ -1,6 +1,6 @@
 # Sources — Fungi
 
-countries: Ethiopia, Syria, Palestine
+countries: Ethiopia, Syria, Palestine, Cambodia
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Syria, Palestine
 
 **Book 3:** العلوم الحياتية — الصف العاشر (Life Sciences, Grade 10; Palestinian Ministry of Education) — Palestine. Grade: 10 — Kind: student as verified — Repo path: grade-10/gov/palestine/life-sciences/full-year.pdf — Byte size: 5,620,184 (record gives no size) — PDF pages: 132 — Printed pages: 126+ (references at printed p. 126); printed-page offset: printed p. = PDF page − 5 approx. (contents at PDF p. 5). Verdict: COMPLETE — four units and the reference list all present. Structural summary: Cell structure and functions (microscopes first, then the genetic material inside the cell — including DNA replication and mutations in Grade 10) → the cell cycle and division (with tumours as a named topic, and crossing over) → human body systems (the four tissues, the reproductive systems with diseases, the urinary system down to the nephron) → classification of living organisms (modern classification, naming, levels, morphological vs genetic classification; the protist and fungi kingdoms, with the positive roles of protists and fungi in daily life). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/palestine-placements.md.
 
+**Book 4:** ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10) (as printed) — Cambodia. Grade: 10 (grade-10) — Kind: student as verified — Staging path: grade-10/gov/cambodia/biology/student/full-year.pdf (Sala 00004291) — Source: books.json record, on_disk — Byte size: 37258561 (matches record) — PDF pages: 123 — Printed-page offset: printed p. = PDF page − 5 (printed p. 1 = Introduction to biology; the book closes with a Khmer glossary, printed pp. 114–118) — Verdict: COMPLETE — read on 80 DPI contact sheets with contents and sampled pages at 150 DPI (renders deleted after filing); cover (hornbill, fungi, coconut artwork), title page (MoEYS; ISBN 978-9995-000-745; curriculum support from JICA acknowledged in the preface), preface, full contents, all 5 chapters, glossary present. The scan carries the ministry teacher-site watermark (krou.moeys.gov.kh). Structural summary: Five chapters: (1) classification and diversity of living things — viruses & bacteria, protists, fungi, plants, animals; (2) the cell — the cell, then prokaryotes vs eukaryotes; (3) Metabolism (មេតាបូលីស) — photosynthesis and cellular respiration; (4) Human biology — only two systems: skeletal and muscular; (5) Biology in agriculture (ជីវវិទ្យាក្នុងវិស័យកសិកម្ម) — soil, then breeding (ការបង្កាត់). The introduction defines biology and the characteristics of life (លក្ខណៈពិសេសនៃជីវិត). Cambodian way: the year ends not with theory but with soil and breeding for farming, and the book closes with a Khmer scientific glossary (one entry even glosses DNA as "ADN"). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Fungi (§2.3): | Student Textbook, Grade 12 — Printed pp. 62–70. |
 | Syria's way — the fungi (placement slug: fungi-animal-like-plants) | Book 2 (Biology & Earth Science, student textbook, Grade 7), Unit 2, Lesson 3: الفطريات (the fungi) — printed p. 46 |
 | Palestine's way — Kingdom Fungi — characteristics; classification; the effect of fungi on our lives (placement slug: fungi-animal-like-plants) | Book 3 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 4 Ch. 3: Kingdom Fungi — characteristics; classification; the effect of fungi on our lives — printed pp. 113–118 |
+| Cambodia's way — Ch. 1 L4: fungi (ផ្សិត) (placement slug: biology/fungi-not-plants-not-animals) | Book 4 (ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10), student textbook, Grade 10), Ch. 1 L4, printed p. 26 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Syria, Palestine).**
+**Acceptance count: taught in 4 countries (Ethiopia, Syria, Palestine, Cambodia).**
 
 Honesty (Palestine): Book 3 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
@@ -24,4 +27,6 @@ Pairing warning (carried exactly as the placements state it): the Grade 12 stude
 
 Honesty (Syria): Book 2 is a student textbook as verified in the placements — علم الأحياء والأرض (Biology & Earth Science), Grade 7, Syria MoE / NCCD, printed 2022 — so Syria counts toward acceptance. It is COMPLETE: five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page (172 printed pp.; printed p. = PDF page). Despite the cover's “and Earth”, the book's own introduction calls it “علم الأحياء والبيئة” (Biology and Environment), and its contents contain NO earth-science unit — all five units are biology and environment, so there is no earth-science debt from this book.
 
-Searchable tags: biology, ethiopia, syria, fungi, palestine
+Honesty (Cambodia): Book 4 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10)*, Grade 10, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
+
+Searchable tags: biology, ethiopia, syria, fungi, palestine, cambodia

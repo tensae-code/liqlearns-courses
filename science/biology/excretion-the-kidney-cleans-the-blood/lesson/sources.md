@@ -1,6 +1,6 @@
 # Sources — Excretion — the kidney cleans the blood
 
-countries: Ethiopia, Palestine, Eritrea, Sudan
+countries: Ethiopia, Palestine, Eritrea, Sudan, Cambodia
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Palestine, Eritrea, Sudan
 
 **Book 5:** علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book") — Sudan. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-11-gov-sudan-biology-student-full-year.pdf — Byte size: 19,051,757 — PDF pages: 180 — Printed-page offset: printed p. = PDF page − 6 (Unit Two opener printed p. 52). Verdict: COMPLETE — five units: Nutrition, Transport, Respiration, Excretion, Coordination, running to the end of the file. Structural summary: A process-physiology year organised by life process across plants and animals together: nutrition (with malnutrition diseases, photosynthesis factor experiments, and leaf cross-sections cut by the students), transport, respiration, excretion, co-ordination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 6:** ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11) (as printed) — Cambodia. Grade: 11 (grade-11) — Kind: student as verified — Staging path: grade-11/gov/cambodia/biology/student/full-year.pdf (Sala 00004290) — Source: books.json record, on_disk — Byte size: 79630868 (matches record) — PDF pages: 256 — Printed-page offset: printed p. = PDF page − 4 (printed p. 1 opens Ch. 1 with a photo of school students at a microscope; the book closes with references, printed p. 248, and a Khmer glossary, printed pp. 249–252) — Verdict: COMPLETE — read on 80 DPI contact sheets with the contents/imprint spread and sampled pages at 150 DPI (renders deleted after filing); title page (MoEYS; ISBN 978-9995-000-707), preface (the book serves the 2005–2009 curriculum framework), full contents printed on the imprint spread, all 8 chapters, references and glossary present. Structural summary: Eight chapters: (1) The cell — chemical composition of the cell, cell structure, and cell processes related to energy; (2) Reproduction and growth — the origin of new cells (division), reproduction of organisms; (3) Heredity — laws of heredity, chromosomes; (4) Food and human digestion; (5) Blood circulation and excretion in humans; (6) Nervous and endocrine systems; (7) an environment chapter — environment, biodiversity (ជីវចម្រុះ); (8) Biology and health — fighting disease, food and health. The glossary is precise enough to define polyploidy (3n, 4n, 5n...) and the gene through "ADN". Placements at liqlearns-courses-work/expansion-biology-2026-11-13/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 137–139 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Palestine, Eritrea, Sudan
 | Palestine's way — nitrogenous wastes; health problems of the urinary system (placement slug: nitrogenous-wastes-urea-uric-acid-ammonia) | Book 3 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 3 Ch. 3 §4: nitrogenous wastes; §5 health problems of the urinary system — printed pp. 89–93 |
 | Eritrea's way — Unit Six: Excretory System | Book 4 (Biology for Grade 10 Textbook, student textbook, Grade 10), PDF p. 135 |
 | Sudan's way — Unit Four: Excretion in Living Organisms (placement slug: excretion-the-kidney-cleans-the-blood) | Book 5 (علم الأحياء – الصف الثاني الثانوي, student textbook, Grade 11), Unit Four, printed pp. 112–133 |
+| Cambodia's way — Ch. 5 L2: excretion (ការបញ្ចេញចោល) (placement slug: biology/excretion-the-kidney-cleans-the-blood) | Book 6 (ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11), student textbook, Grade 11), Ch. 5 L2, printed p. 150 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Eritrea, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Eritrea, Sudan, Cambodia).**
 
 Honesty (Eritrea): Book 4 is a student textbook as verified in the placements — *Biology for Grade 10 Textbook* (The State of Eritrea, Ministry of Education), Grade 10, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file (203 PDF pages). Page references are PDF pages of the unit openings; printed pagination runs inside the same sequence.
 
@@ -30,4 +33,6 @@ Honesty: the pupil-taught parts above stand on the finished Grade 10 student tex
 
 Honesty (Sudan): Book 5 is a student textbook as verified in the placements — *علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book")*, Grade 11 — so Sudan counts toward acceptance. It is COMPLETE: five units — Nutrition, Transport, Respiration, Excretion, Coordination — running to the end of the file (180 PDF pages; printed p. = PDF page − 6). The Grade 11 file is a scan circulated by a Sudanese study network (its cover carries that network's stamp); the underlying book is the named ministry text, verified on its unit pages, exactly as the placements record it.
 
-Searchable tags: biology, eritrea, ethiopia, grade 10, excretion, the, kidney, cleans, the, blood, palestine, sudan
+Honesty (Cambodia): Book 6 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11)*, Grade 11, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
+
+Searchable tags: biology, eritrea, ethiopia, grade 10, excretion, the, kidney, cleans, the, blood, palestine, sudan, cambodia

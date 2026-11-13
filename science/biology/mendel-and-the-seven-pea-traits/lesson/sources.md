@@ -1,6 +1,6 @@
 # Sources — Mendel and the seven pea traits
 
-countries: Ethiopia, Nicaragua, Sudan
+countries: Ethiopia, Nicaragua, Sudan, Cambodia
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Nicaragua, Sudan
 
 **Book 4:** علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book") — Sudan. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-12-gov-sudan-biology-student-full-year.pdf — Byte size: 24,677,634 — PDF pages: 252 — Printed-page offset: printed p. = PDF page − 7 (Unit Two opener printed p. 128). Verdict: COMPLETE — three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables. Structural summary: Reproduction taught comparatively — asexual first (its characteristics, BENEFITS and DEFECTS debated as headings), then sexual reproduction group by group (Hydra, tapeworms, insects, frog, flowering plants) before a long human-reproduction span. Genetics goes beyond Mendel to modified ratios, multiple alleles, polygenes and two mechanisms of sex determination. The Ecosystem unit's second part is Sudan-specific resource geography: solar, wind and hydro energy exploitation in Sudan, wild animal resources "especially in Sudan", and soil. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 5:** ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11) (as printed) — Cambodia. Grade: 11 (grade-11) — Kind: student as verified — Staging path: grade-11/gov/cambodia/biology/student/full-year.pdf (Sala 00004290) — Source: books.json record, on_disk — Byte size: 79630868 (matches record) — PDF pages: 256 — Printed-page offset: printed p. = PDF page − 4 (printed p. 1 opens Ch. 1 with a photo of school students at a microscope; the book closes with references, printed p. 248, and a Khmer glossary, printed pp. 249–252) — Verdict: COMPLETE — read on 80 DPI contact sheets with the contents/imprint spread and sampled pages at 150 DPI (renders deleted after filing); title page (MoEYS; ISBN 978-9995-000-707), preface (the book serves the 2005–2009 curriculum framework), full contents printed on the imprint spread, all 8 chapters, references and glossary present. Structural summary: Eight chapters: (1) The cell — chemical composition of the cell, cell structure, and cell processes related to energy; (2) Reproduction and growth — the origin of new cells (division), reproduction of organisms; (3) Heredity — laws of heredity, chromosomes; (4) Food and human digestion; (5) Blood circulation and excretion in humans; (6) Nervous and endocrine systems; (7) an environment chapter — environment, biodiversity (ជីវចម្រុះ); (8) Biology and health — fighting disease, food and health. The glossary is precise enough to define polyploidy (3n, 4n, 5n...) and the gene through "ADN". Placements at liqlearns-courses-work/expansion-biology-2026-11-13/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Mendel and his pea crosses | Student Textbook, Grade 11 — Printed pp. 131–132. |
 | Sub lesson 2 — Added Mendel detail — why peas, and why he succeeded (teacher guide — evidence) | Teachers' Guide, Grade 11 — Printed p. 98. |
 | Nicaragua's way — Unidad 4.2: Genética Mendeliana | Book 3 (Biología — Undécimo grado, student textbook, Grade 11), Unidad 4.2, printed pp. 100–111 |
 | Sudan's way — Unit Two §1: Mendel's experiments and laws — first law, second law, test cross, back cross (placement slug: mendel-and-the-seven-pea-traits) | Book 4 (علم الأحياء – الصف الثالث الثانوي, student textbook, Grade 12), Unit Two §1, printed pp. 132–152 |
+| Cambodia's way — Ch. 3 (Heredity) L1: the laws of heredity (ច្បាប់កំណែពូជ) (placement slug: biology/mendel-and-the-seven-pea-traits) | Book 5 (ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11), student textbook, Grade 11), Ch. 3 L1, printed p. 74 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Nicaragua, Sudan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Nicaragua, Sudan, Cambodia).**
 
 Honesty (Nicaragua): Book 3 is a student textbook as verified in the placements — *Biología — Undécimo grado* (MINED Nicaragua; "Somos vida y energía — Ciencias Físico Naturales-Biología, Undécimo Grado"), Grade 11 — so Nicaragua counts toward acceptance. It is COMPLETE: all five units of the contents present, each closing with its Autoevaluación, and the Bibliografía at the end; 163 PDF pages, printed p. = PDF page + 1. The same Undécimo-grado text was recorded three times in the library records (two TSV rows — release + blob — and one books.json record); it is one distinct book, taught once and cited once here. Nicaragua's own way runs through the whole book and is content in this lesson: the book is written in the first person plural of belonging — "Somos biología", "Así estamos formados", "Nuestras células realizan funciones".
 
@@ -27,4 +30,6 @@ Honesty notes: this Teachers' Guide is a finished publication — first publishe
 
 Honesty (Sudan): Book 4 is a student textbook as verified in the placements — *علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book")*, Grade 12 — so Sudan counts toward acceptance. It is COMPLETE: three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables (252 PDF pages; printed p. = PDF page − 7).
 
-Searchable tags: biology, ethiopia, mendel, and, the, seven, pea, traits, nicaragua, sudan
+Honesty (Cambodia): Book 5 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11)*, Grade 11, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
+
+Searchable tags: biology, ethiopia, mendel, and, the, seven, pea, traits, nicaragua, sudan, cambodia

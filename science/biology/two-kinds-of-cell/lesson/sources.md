@@ -1,6 +1,6 @@
 # Sources — Two kinds of cell — with and without a nucleus
 
-countries: Ethiopia, Syria, Palestine, Albania, Sudan
+countries: Ethiopia, Syria, Palestine, Albania, Sudan, Cambodia
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Syria, Palestine, Albania, Sudan
 
 **Book 6:** علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book") — Sudan. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-10-gov-sudan-biology-student-full-year.pdf — Byte size: 21,115,344 — PDF pages: 155 — Printed-page offset: printed p. = PDF page − 5 (unit pages carry both paginations). Verdict: COMPLETE — all five units present, Unit Five (Support) running to the end of the file. Structural summary: Introduction to Biology (its branches, and the contributions of earlier Muslim and non-Muslim scholars and of the Renaissance — Sudan names the Islamic-scholar strand explicitly) → Cell Biology → Classification of Living Organisms → Movement in Living Organisms → Support in Living Organisms. The systems year (nutrition/transport/respiration) is deferred to Second Secondary. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 7:** ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10) (as printed) — Cambodia. Grade: 10 (grade-10) — Kind: student as verified — Staging path: grade-10/gov/cambodia/biology/student/full-year.pdf (Sala 00004291) — Source: books.json record, on_disk — Byte size: 37258561 (matches record) — PDF pages: 123 — Printed-page offset: printed p. = PDF page − 5 (printed p. 1 = Introduction to biology; the book closes with a Khmer glossary, printed pp. 114–118) — Verdict: COMPLETE — read on 80 DPI contact sheets with contents and sampled pages at 150 DPI (renders deleted after filing); cover (hornbill, fungi, coconut artwork), title page (MoEYS; ISBN 978-9995-000-745; curriculum support from JICA acknowledged in the preface), preface, full contents, all 5 chapters, glossary present. The scan carries the ministry teacher-site watermark (krou.moeys.gov.kh). Structural summary: Five chapters: (1) classification and diversity of living things — viruses & bacteria, protists, fungi, plants, animals; (2) the cell — the cell, then prokaryotes vs eukaryotes; (3) Metabolism (មេតាបូលីស) — photosynthesis and cellular respiration; (4) Human biology — only two systems: skeletal and muscular; (5) Biology in agriculture (ជីវវិទ្យាក្នុងវិស័យកសិកម្ម) — soil, then breeding (ការបង្កាត់). The introduction defines biology and the characteristics of life (លក្ខណៈពិសេសនៃជីវិត). Cambodian way: the year ends not with theory but with soil and breeding for farming, and the book closes with a Khmer scientific glossary (one entry even glosses DNA as "ADN"). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 53–54 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Syria, Palestine, Albania, Sudan
 | Palestine's way — prokaryotic cells and eukaryotic cells (placement slug: two-kinds-of-cell) | Book 4 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 1 Ch. 2 §2: prokaryotic cells and eukaryotic cells — printed p. 11 |
 | Albania's way — Thematic: Ndërtimi dhe funksionimi i qelizave eukariote dhe prokariote (structure and functioning of eukaryotic and prokaryotic cells), with microscope observation of plant and animal cells (teacher book — evidence) (placement slug: two-kinds-of-cell) | Book 5 (Libër Mësuesi — Biologjia me zgjedhje 12, teacher's book, Grade 12), printed p. 4 |
 | Sudan's way — Unit Two objectives: comparing prokaryotic and eukaryotic cells; differences among cell shapes (placement slug: two-kinds-of-cell) | Book 6 (علم الأحياء – الصف الأول الثانوي, student textbook, Grade 10), Unit Two objectives, printed p. 13 |
+| Cambodia's way — Ch. 2 L2: prokaryotes and eukaryotes (ប្រូការីយ៉ូតនិងអ៊ីការីយ៉ូត) (placement slug: biology/two-kinds-of-cell) | Book 7 (ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10), student textbook, Grade 10), Ch. 2 L2, printed p. 62 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Syria, Palestine, Sudan) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Syria, Palestine, Sudan, Cambodia) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty (Palestine): Book 4 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
@@ -35,4 +38,6 @@ Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër 
 
 Honesty (Sudan): Book 6 is a student textbook as verified in the placements — *علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book")*, Grade 10 — so Sudan counts toward acceptance. It is COMPLETE: all five units present, Unit Five (Support) running to the end of the file (155 PDF pages; printed p. = PDF page − 5).
 
-Searchable tags: biology, ethiopia, syria, two, kinds, cell, with, and, without, nucleus, palestine, albania, sudan
+Honesty (Cambodia): Book 7 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10)*, Grade 10, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
+
+Searchable tags: biology, ethiopia, syria, two, kinds, cell, with, and, without, nucleus, palestine, albania, sudan, cambodia

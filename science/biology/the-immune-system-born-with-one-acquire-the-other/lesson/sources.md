@@ -1,6 +1,6 @@
 # Sources — The immune system — born with one, acquire the other
 
-countries: Ethiopia, Brazil, Syria, Egypt, Albania, Eritrea
+countries: Ethiopia, Brazil, Syria, Egypt, Albania, Eritrea, Cambodia
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
@@ -16,10 +16,13 @@ countries: Ethiopia, Brazil, Syria, Egypt, Albania, Eritrea
 
 **Book 7:** Biology for Grade 10 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-10-gov-eritrea-biology-student-full-year.pdf — Byte size: 13,622,452 — PDF pages: 203 — Page references are PDF pages of the unit openings (printed pagination runs inside the same sequence). Verdict: COMPLETE — all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file. Structural summary: A human-systems year: food and digestion (with bench chemistry — Benedict's test on lactose, acid hydrolysis of sucrose), circulatory system, a full unit on the lymphatic system, a full unit on the immune system (innate vs acquired), respiratory, excretory, sense organs, nervous system. Eritrea gives the lymphatic and immune systems whole units where most courses fold them into circulation. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 8:** ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11) (as printed) — Cambodia. Grade: 11 (grade-11) — Kind: student as verified — Staging path: grade-11/gov/cambodia/biology/student/full-year.pdf (Sala 00004290) — Source: books.json record, on_disk — Byte size: 79630868 (matches record) — PDF pages: 256 — Printed-page offset: printed p. = PDF page − 4 (printed p. 1 opens Ch. 1 with a photo of school students at a microscope; the book closes with references, printed p. 248, and a Khmer glossary, printed pp. 249–252) — Verdict: COMPLETE — read on 80 DPI contact sheets with the contents/imprint spread and sampled pages at 150 DPI (renders deleted after filing); title page (MoEYS; ISBN 978-9995-000-707), preface (the book serves the 2005–2009 curriculum framework), full contents printed on the imprint spread, all 8 chapters, references and glossary present. Structural summary: Eight chapters: (1) The cell — chemical composition of the cell, cell structure, and cell processes related to energy; (2) Reproduction and growth — the origin of new cells (division), reproduction of organisms; (3) Heredity — laws of heredity, chromosomes; (4) Food and human digestion; (5) Blood circulation and excretion in humans; (6) Nervous and endocrine systems; (7) an environment chapter — environment, biodiversity (ជីវចម្រុះ); (8) Biology and health — fighting disease, food and health. The glossary is precise enough to define polyploidy (3n, 4n, 5n...) and the gene through "ADN". Placements at liqlearns-courses-work/expansion-biology-2026-11-13/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 95 (teacher guide) |
 | Eritrea's way — Unit Four: Immune System — innate (inborn) immunity vs acquired immunity that adapts to each new disease | Book 7 (Biology for Grade 10 Textbook, student textbook, Grade 10), PDF pp. 109–116 |
+| Cambodia's way — Ch. 8 (Biology and health) L1: fighting disease (ការប្រយុទ្ធប្រឆាំងនឹងជំងឺ) (placement slug: biology/the-immune-system-defending-the-body) | Book 8 (ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11), student textbook, Grade 11), Ch. 8 L1, printed p. 226 |
 
 | From lymphatic base (student book) | Book 2 (student textbook), printed pp. 124, 142–144 |
 | Kinds of immunity (student book) | Book 2 (student textbook), printed pp. 124, 142–144 |
@@ -30,7 +33,7 @@ countries: Ethiopia, Brazil, Syria, Egypt, Albania, Eritrea
 | Egypt's way — the immune system mechanism in man — natural (innate) vs acquired immunity cooperating; first line (skin, cerumen, tears, respiratory mucus and cilia, saliva, gastric HCl) and second line (inflammatory response, histamine, interferons, neutrophils/monocytes/macrophages/NK cells) (placement slug: the-immune-system-born-with-one-acquire-the-other) | Book 5 (BIOLOGY, student textbook, Grade 12), Ch. 4, printed pp. 99–100 |
 | Albania's way — Thematic: Sistemi imunitar (the immune system) (teacher book — evidence) (placement slug: the-immune-system-born-with-one-acquire-the-other) | Book 6 (Libër Mësuesi — Biologjia me zgjedhje 12, teacher's book, Grade 12), printed p. 4 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Brazil, Syria, Egypt, Eritrea) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Brazil, Syria, Egypt, Eritrea, Cambodia) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty (Eritrea): Book 7 is a student textbook as verified in the placements — *Biology for Grade 10 Textbook* (The State of Eritrea, Ministry of Education), Grade 10, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file (203 PDF pages). Page references are PDF pages of the unit openings; printed pagination runs inside the same sequence.
 
@@ -44,4 +47,6 @@ Honesty (Syria): Book 4 is a student textbook as verified in the placements — 
 
 Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia me zgjedhje 12* (Teacher's Book, Elective Biology 12; Mediaprint), Grade 12 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own annual plan and lesson plans, cited to the plan pages.
 
-Searchable tags: biology, eritrea, ethiopia, syria, the, immune, system, born, with, one, acquire, the, brazil, egypt, albania
+Honesty (Cambodia): Book 8 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11)*, Grade 11, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
+
+Searchable tags: biology, eritrea, ethiopia, syria, the, immune, system, born, with, one, acquire, the, brazil, egypt, albania, cambodia

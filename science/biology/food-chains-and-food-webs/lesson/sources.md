@@ -1,6 +1,6 @@
 # Sources — Food chains and food webs
 
-countries: Ethiopia, Costa Rica, Albania, Eritrea
+countries: Ethiopia, Costa Rica, Albania, Eritrea, Cambodia
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
@@ -12,10 +12,13 @@ countries: Ethiopia, Costa Rica, Albania, Eritrea
 
 **Book 5:** Biology for Grade 12 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-12-gov-eritrea-biology-student-full-year.pdf — Byte size: 12,793,204 — PDF pages: 144. Verdict: COMPLETE — all three units named in the Introduction present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises. Structural summary: A three-unit capstone: molecular genetics taught at bond level (two hydrogen bonds A–T, three C–G), evolution with Lamarck presented and then criticised point by point, and ecology built on population phases (growth, stability, decline) and their factors. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 6:** ជីវវិទ្យា ថ្នាក់ទី១២ (Biology, Grade 12) (as printed) — Cambodia. Grade: 12 (grade-12) — Kind: student as verified — Staging path: grade-12/gov/cambodia/biology/student/full-year.pdf (Sala 00004269) — Source: books.json record (pages null in the record), on_disk — Byte size: 79108284 (matches the full size at source) — PDF pages: 257 — Printed-page offset: printed p. = PDF page − 4 (printed p. 1 opens Ch. 1; contents run to printed p. 246, with back matter after) — Verdict: COMPLETE — read on 80 DPI contact sheets with contents and the first chapter at 150 DPI (renders deleted after filing); cover (the horse-evolution series with leg bones), title page (MoEYS; ISBN 978-9995-001-117), preface, full contents, all 8 chapters present. Library note: the staging CURRICULUM.md still flags this file as a truncated 50,331,648-byte download — that note is stale: the file on disk is now the complete 79,108,284-byte book, verified by byte size and page count. This reader did not re-download anything. Structural summary: Eight chapters: (1) Gymnosperms and angiosperms — the gymnosperm lesson names its four groups bilingually (Cycads, Conifers, Ginkgoes, Gnetophytes, with "Gymnos"/"Sperma" printed in English); (2) Growth and reproduction of plants; (3) coordination in organisms — nervous system, sense organs, endocrine system; (4) The role of proteins — amino acids, proteins, enzymes; (5) Genetic information and gene expression — "ADN ជាព័ត៌មានសេនេទិច" (DNA as genetic information, ADN printed in Latin letters), gene expression, biotechnology; (6) Evolution — Darwin's theory (ទ្រឹស្តីរបស់លោកដាវិន), evidence of evolution, the origin of humans — matching the horse series on the cover; (7) Populations and communities — including interactions among living things; (8) Ecology (អេកូឡូស៊ី) — food webs in ecosystems, cycles of matter. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/cambodia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 100 (teacher guide) |
 | Eritrea's way — Unit Three: feeding relations within the ecology unit | Book 5 (Biology for Grade 12 Textbook, student textbook, Grade 12), PDF pp. 93–144 |
+| Cambodia's way — Ch. 8 (Ecology) L1: food webs in ecosystems (placement slug: biology/food-chains-food-webs-and-energy-transfer) | Book 6 (ជីវវិទ្យា ថ្នាក់ទី១២ (Biology, Grade 12), student textbook, Grade 12), Ch. 8 L1, printed p. 242 |
 
 | Who eats whom (student book) | Book 2 (student textbook), printed pp. 153–154 |
 | Webs (student book) | Book 2 (student textbook), printed pp. 153–154 |
@@ -24,7 +27,7 @@ countries: Ethiopia, Costa Rica, Albania, Eritrea
 | Costa Rica's way — Unit 2 Temas: Cadena Alimenticia; Red trófica (food chain; trophic web) | Book 3 (Biología Undécimo — Antologías CONED, student anthology, Grade 11), Unit 2, printed pp. 69–70 |
 | Albania's way — Plans: Ekologjia dhe ekosistemet (ecology and ecosystems); Rryma e energjisë: zinxhirët dhe rrjetat (energy flow: chains and webs) (teacher book — evidence) (placement slug: food-chains-and-food-webs) | Book 4 (Libër Mësuesi — Biologjia 11, teacher's book, Grade 11), printed p. 6 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Eritrea) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Eritrea, Cambodia) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty (Eritrea): Book 5 is a student textbook as verified in the placements — *Biology for Grade 12 Textbook* (The State of Eritrea, Ministry of Education), Grade 12, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all three units named in the Introduction are present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises (144 PDF pages). Page references are PDF pages, as the placements file gives them.
 
@@ -34,4 +37,6 @@ Honesty (Costa Rica): Book 3 is a student anthology as verified in the placement
 
 Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia 11* (Teacher's Book, Biology 11; Mediaprint), Grade 11 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own yearly plan and numbered daily-plan topic lists (the taught curriculum), cited to the plan pages.
 
-Searchable tags: biology, eritrea, ethiopia, food, chains, and, food, webs, costa rica, albania
+Honesty (Cambodia): Book 6 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១២ (Biology, Grade 12)*, Grade 12, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
+
+Searchable tags: biology, eritrea, ethiopia, food, chains, and, food, webs, costa rica, albania, cambodia

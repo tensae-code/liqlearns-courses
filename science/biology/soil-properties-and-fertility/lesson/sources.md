@@ -1,15 +1,20 @@
 # Sources — Soil — properties and fertility
 
-countries: Uganda
+countries: Uganda, Cambodia
 
 **Book 1:** Biology Home-Study Learning — Senior Two (NCDC, 2020) (as printed: HOME-STUDY / SELF-STUDY LEARNING — BIOLOGY, SENIOR TWO) — Uganda. Grade: 9 (Senior Two) — Kind: student (home-study booklet) as verified — Repo path: grade-09/gov/uganda/biology/student/home-study.pdf (books.json record only; grabbed via grab.py tree — in GitHub despite an earlier disconnect on first attempt) — Source URL (books.json): https://sharebility.net/download/s2-biologyterm-two-and-three/?wpdmdl=27590 — Byte size: 1,750,692 — PDF pages: 28 (matches books.json pages: 28) — Printed-page offset: booklet pagination restarts inside; pages cited by PDF/booklet position. Verdict: COMPLETE — Ministry of Education and Sports / NCDC home-study intervention published 2020 for the COVID-19 school lockdown: foreword, acknowledgements, "About this booklet", all lessons, and NCDC back page present. Opens with COVID-19 symptoms/prevention content before the biology. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uganda-placements.md.
+
+**Book 2:** ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10) (as printed) — Cambodia. Grade: 10 (grade-10) — Kind: student as verified — Staging path: grade-10/gov/cambodia/biology/student/full-year.pdf (Sala 00004291) — Source: books.json record, on_disk — Byte size: 37258561 (matches record) — PDF pages: 123 — Printed-page offset: printed p. = PDF page − 5 (printed p. 1 = Introduction to biology; the book closes with a Khmer glossary, printed pp. 114–118) — Verdict: COMPLETE — read on 80 DPI contact sheets with contents and sampled pages at 150 DPI (renders deleted after filing); cover (hornbill, fungi, coconut artwork), title page (MoEYS; ISBN 978-9995-000-745; curriculum support from JICA acknowledged in the preface), preface, full contents, all 5 chapters, glossary present. The scan carries the ministry teacher-site watermark (krou.moeys.gov.kh). Structural summary: Five chapters: (1) classification and diversity of living things — viruses & bacteria, protists, fungi, plants, animals; (2) the cell — the cell, then prokaryotes vs eukaryotes; (3) Metabolism (មេតាបូលីស) — photosynthesis and cellular respiration; (4) Human biology — only two systems: skeletal and muscular; (5) Biology in agriculture (ជីវវិទ្យាក្នុងវិស័យកសិកម្ម) — soil, then breeding (ការបង្កាត់). The introduction defines biology and the characteristics of life (លក្ខណៈពិសេសនៃជីវិត). Cambodian way: the year ends not with theory but with soil and breeding for farming, and the book closes with a Khmer scientific glossary (one entry even glosses DNA as "ADN"). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/cambodia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Soil, Lesson 1: the physical and chemical properties of soil — the bottle-shake sedimentation experiment with measured layer heights (H3) (placement: NEW LESSON NEEDED: soil-properties-and-fertility — no existing slug covered soil as a topic, so this lesson was built for it) | Book 1 (Biology Home-Study Learning — Senior Two (NCDC, 2020), student home-study booklet, Grade 9), Topic: Soil, Lesson 1, PDF pp. 7–10 |
+| Cambodia's way — Ch. 5 (Biology in agriculture) L1: soil (ដី) — soil taught as an agriculture-biology lesson in its own right (placement slug: biology/soil-and-plant-growth (NEW LESSON NEEDED in placements; stocked here as the existing lesson covering soil)) | Book 2 (ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10), student textbook, Grade 10), Ch. 5 L1, printed p. 98 |
 
-**Acceptance count: taught in 1 country (Uganda).**
+**Acceptance count: taught in 2 countries (Uganda, Cambodia).**
 
 Honesty (Uganda): Book 1 is a student home-study booklet as verified in the placements — *Biology Home-Study Learning — Senior Two* (NCDC, 2020), Grade 9 (Senior Two) — so Uganda counts toward acceptance. It is COMPLETE: foreword, acknowledgements, "About this booklet", all lessons and the NCDC back page present (28 PDF pages; pages cited by PDF/booklet position).
 
-Searchable tags: biology, uganda, soil, properties, and, fertility
+Honesty (Cambodia): Book 2 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10)*, Grade 10, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
+
+Searchable tags: biology, uganda, soil, properties, and, fertility, cambodia
