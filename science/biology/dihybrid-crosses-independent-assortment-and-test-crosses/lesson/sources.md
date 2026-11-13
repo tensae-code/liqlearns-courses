@@ -1,6 +1,6 @@
 # Sources — Dihybrid crosses, independent assortment and test crosses
 
-countries: Ethiopia, Sudan, India, Uzbekistan, Malaysia
+countries: Ethiopia, Sudan, India, Uzbekistan, Malaysia, Bhutan
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Sudan, India, Uzbekistan, Malaysia
 
 **Book 7:** Biologi Tingkatan 5 (as printed; Bahasa Melayu edition) — Malaysia. Grade: 11 (Tingkatan 5) — Kind: student as verified — Repo path: grade-11/gov/malaysia/biologi/student/full-year.pdf (TSV release: mid-size-books-5/grade-11-gov-malaysia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 78520784 (grab-verified) — PDF pages: 307 — Printed-page offset: as the DLP edition (printed p. = PDF page − 10 for main text) — Verdict: COMPLETE — full KSSM student text in Bahasa Melayu, Ministry of Education Malaysia, Cetakan Pertama 2020, ISBN 978-967-0463-53-7, No. siri buku 0097, IMS Books Trading Sdn. Bhd. — the Malay original of the DLP edition above (consecutive ISBN and form code FT175003 vs the DLP's FT175004), same author team (Jariah binti Khalib, Rodiah binti Abdul Wahid, Sudani binti Sudin). Structural summary: Parallel language edition of "Biology Form 5 (DLP)" filed above; contents verified as the same 13-chapter, 3-theme structure. All content placements are the DLP placements at identical printed pages. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/malaysia-placements.md.
 
+**Book 8:** BIOLOGY — CLASS 10 (as printed; 2019, Kuensel Corporation; author Jigme Tshering, M.Sc.) — Bhutan. Grade: 10 (grade-10) — Kind: student as verified — Repo path: grade-10/gov/bhutan/biology/full-year.pdf (release mid-size-books-5) — Source URL: https://rec.gov.bt/download/946/science/3766/x-biology-textbook-2019.pdf — Byte size: 8,987,415 (matches books.json record exactly) — PDF pages: 248 (matches record) — Printed-page offset: printed p. = PDF page − 26 (body printed pp. 1–222) — Verdict: COMPLETE — 7 chapters, sample question paper and glossary all present to printed p. 222. Structural summary: Class 10 deepens Class 9 systems to mechanism level: cell types and membrane transport, mitosis/meiosis; photosynthesis split into light/dark reactions with Blackman's limiting-factor law; phloem pressure-flow and three named mineral-uptake mechanisms (ion exchange, mass flow, Donnan equilibrium); human digestion, blood groups/Rhesus and transfusion, kidney and dialysis, cellular respiration through Krebs cycle and electron transport; coordination, reproductive health (contraception, STIs, infertility treatment); micro-organisms, diseases and immunobiology; Mendelian inheritance, DNA structure, Hardy–Weinberg and speciation; ecosystems and a distinctly Bhutanese biodiversity chapter (Bhutan's biodiversity, IUCN, Bhutan Trust Fund for Environment Conservation). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Dihybrid cross and independent assortment; test cross | Student Textbook, Grade 11 — Printed pp. 136–139. |
@@ -26,8 +28,9 @@ countries: Ethiopia, Sudan, India, Uzbekistan, Malaysia
 | Uzbekistan's way — linked inheritance of genes (placement slug: linked-genes-and-linkage-maps — stocked into this lesson as the nearest existing home) | Book 5 (Биология — Основы цитологии и генетики (Biology: Fundamentals of Cytology and Genetics), student textbook, Grade 9), Part V Ch. 11 §51, printed p. 116 |
 | Malaysia's way — Ch.11: dihybrid inheritance (placement: dihybrid-crosses-independent-assortment-and-test-crosses) | Book 6 (Biology Form 5 (DLP), student textbook, Grade 11 (Form 5)), Ch.11, printed p. 238 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: dihybrid-crosses-independent-assortment-and-test-crosses) | Book 7 (Biologi Tingkatan 5, student textbook, Grade 11 (Tingkatan 5)), Ch.11, printed p. 238 |
+| Bhutan's way — Ch. 6.2: the dihybrid cross | Book 8 (BIOLOGY — CLASS 10, student textbook, Grade 10), printed pp. 156–161 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sudan, India, Uzbekistan, Malaysia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Sudan, India, Uzbekistan, Malaysia, Bhutan).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
@@ -43,4 +46,6 @@ Honesty (Malaysia): Book 6 is a student textbook as verified in the placements �
 
 Honesty (Malaysia): Book 7 is a student textbook as verified in the placements — *Biologi Tingkatan 5*, Grade 11 (Tingkatan 5), Ministry of Education Malaysia, Cetakan Pertama 2020, ISBN 978-967-0463-53-7, No. siri buku 0097 — the Malay original of the DLP edition above, contents verified as the same 13-chapter, 3-theme structure, so it is cited at the same printed pages and Malaysia is counted once. It is COMPLETE (307 PDF pages).
 
-Searchable tags: biology, ethiopia, dihybrid, crosses, independent, assortment, and, test, crosses, sudan, india, uzbekistan, malaysia
+Honesty (Bhutan): Book 8 is a student textbook as verified in the placements — *BIOLOGY — CLASS 10* (Bhutan, Kuensel Corporation, Thimphu; author Jigme Tshering), Grade 10 — so Bhutan counts toward acceptance. It is COMPLETE: 7 chapters, sample question paper and glossary all present to printed p. 222 (248 PDF pages; printed p. = PDF page − 26). The book was recorded twice in the library records (a TSV release record and a books.json record for the same repo path, byte-identical); it is one distinct book, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, dihybrid, crosses, independent, assortment, and, test, crosses, sudan, india, uzbekistan, malaysia, bhutan

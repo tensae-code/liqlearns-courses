@@ -1,6 +1,6 @@
 # Sources — Using a microscope — carry, focus, put away
 
-countries: Ethiopia, Syria, Palestine, Uzbekistan, Yemen, Dominica
+countries: Ethiopia, Syria, Palestine, Uzbekistan, Yemen, Dominica, Bhutan
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -15,6 +15,8 @@ countries: Ethiopia, Syria, Palestine, Uzbekistan, Yemen, Dominica
 
 **Book 7:** Biology for CSEC Examinations, 3rd Edition — Linda Atwaroo-Ali (Macmillan Education, 2014; ISBN 978-0-230-47948-7) — Dominica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-2): grade-11-approved-private-dominica-dominica-biology-for-csec-3rded-macmillan.pdf (records point to repo liqlearns-textbooks; the identical asset was grabbed from the textbooks repo release of the same name) — Byte size: 50,371,968 — PDF pages: 387 — Printed pages: 368 (index) plus photocopiable SBA pages 332–367; printed p. = PDF page − ~13 (contents at PDF pp. 5–7). Verdict: COMPLETE — 26 chapters, School-Based Assessment section and index all present. Structural summary: Section A ecology with Caribbean weight (human impact on marine and wetland environments; endangered and vulnerable organisms; greenhouse gases) → Section B life processes and disease (cells to sense organs; hypertension inside the transport chapter; HIV/AIDS and other STDs inside reproduction; disease's social and economic implications) → Section C continuity and variation (mitosis, meiosis, heredity, variation and evolution with DNA testing and forensic science). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/dominica-placements.md.
 
+**Book 8:** BIOLOGY — CLASS NINE (as printed; Revised Edition 2019, Kuensel Corporation, Thimphu; author Jigme Tshering) — Bhutan. Grade: 9 (grade-09) — Kind: student as verified — Repo path: grade-09/gov/bhutan/biology/full-year.pdf (release mid-size-books-5) — Source URL: https://rec.gov.bt/download/938/science/3806/ix-biology-textbook-2019.pdf — Byte size: 14,590,461 (matches books.json record exactly) — PDF pages: 266 (matches record) — Printed-page offset: printed p. = PDF page − 34 (front matter in roman numerals to xxxiv; body printed pp. 1–232) — Verdict: COMPLETE — Introduction + 10 chapters, model question paper and glossary all present to printed p. 232. Structural summary: Bhutan's BCSE Class 9 book frames biology through Gross National Happiness values and heavy practical/project assessment (project work and practical rubrics fill the front matter). Sequence: what biology is and its pioneers → the cell → green plants (transpiration, photosynthesis, transport, plant hormones) → digestive, circulatory, respiratory, nervous and endocrine systems → variation/genetics/evolution with genetic engineering and cloning → homeostasis and harmful substances → organisms in their environment. Competency-based questions close every sub-topic. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 13–14 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Syria, Palestine, Uzbekistan, Yemen, Dominica
 | Uzbekistan's way — magnifying instruments | Book 5 (Ботаника 5 (Botany 5), student textbook, Grade 5), Chapter II §4, printed p. 19 |
 | Yemen's way — Unit 1 Activities 1–2: the compound light microscope (The Light Microscope) — parts named bilingually (Ocular Lens, Objective Lens, Revolving nose Piece, Condenser Lens, Arm, Stage, Tube), handling and care of the instrument as its own activity (placement slug: using-a-microscope-seeing-the-tiny) | Book 6 (Activities and Practical Experiments, student activities/practical book, Grade 10), Unit 1 Activities 1–2, printed pp. 9–13 |
 | Dominica's way — Ch. 8: why we need microscopes (placement slug: using-a-microscope) | Book 7 (Biology for CSEC Examinations, 3rd ed., student textbook, Grade 11), Ch. 8, printed p. 78 |
+| Bhutan's way — Ch. 1 A i: techniques for preparing temporary slides, and why staining is needed | Book 8 (BIOLOGY — CLASS NINE, student textbook, Grade 9), printed p. 14 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Syria, Palestine, Uzbekistan, Yemen, Dominica).**
+**Acceptance count: taught in 7 countries (Ethiopia, Syria, Palestine, Uzbekistan, Yemen, Dominica, Bhutan).**
 
 Honesty (Dominica): Book 7 is a student textbook as verified in the placements — *Biology for CSEC Examinations*, 3rd Edition (Linda Atwaroo-Ali, Macmillan Education, 2014), Grade 11 — so Dominica counts toward acceptance. It is COMPLETE: 26 chapters, the School-Based Assessment section and the index all present (387 PDF pages; printed p. = PDF page − ~13). It is a commercial CSEC textbook adopted for Dominica, an image-only scan read from its full printed contents, so the placements cite the contents' printed pages.
 
@@ -41,4 +44,6 @@ Honesty (Yemen): Book 6 is a student activities/practical book as verified in th
 
 Placement choice (Yemen): The placements slug 'using-a-microscope-seeing-the-tiny' does not exist in the course; this lesson is the closest existing lesson covering that thing, and the original slug is recorded in the provenance row above.
 
-Searchable tags: biology, ethiopia, syria, using, microscope, carry, focus, put, away, palestine, uzbekistan, yemen, dominica
+Honesty (Bhutan): Book 8 is a student textbook as verified in the placements — *BIOLOGY — CLASS NINE* (Bhutan, Kuensel Corporation, Thimphu; author Jigme Tshering), Grade 9 — so Bhutan counts toward acceptance. It is COMPLETE: Introduction + 10 chapters, model question paper and glossary all present to printed p. 232 (266 PDF pages; printed p. = PDF page − 34). The book was recorded twice in the library records (a TSV release record and a books.json record for the same repo path, byte-identical); it is one distinct book, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, syria, using, microscope, carry, focus, put, away, palestine, uzbekistan, yemen, dominica, bhutan

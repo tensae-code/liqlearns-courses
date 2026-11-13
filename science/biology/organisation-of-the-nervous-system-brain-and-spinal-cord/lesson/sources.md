@@ -1,6 +1,6 @@
 # Sources — Organisation of the Nervous System: Brain and Spinal Cord
 
-countries: Ethiopia, Eritrea, Malaysia, Iran
+countries: Ethiopia, Eritrea, Malaysia, Iran, Bhutan
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Eritrea, Malaysia, Iran
 
 **Book 5:** زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed) — Iran. Grade: 11 (grade-11) — Kind: student as verified — Repo path: grade-11/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111216.pdf — Byte size: 8357552 (matches books.json record exactly) — PDF pages: 168 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–160) — Verdict: COMPLETE — contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present. Structural summary: The regulation-and-reproduction year: neural regulation, senses, movement, chemical (hormonal) regulation, immunity, cell division, human and animal reproduction, flowering-plant reproduction, and plant responses to stimuli. Iranian way: chapters open from everyday technology/life hooks (EEG brain recording for Ch. 1, a city losing all communications for chemical regulation, prosthetic limbs for the movement chapter); defence is taught as three named "lines of defence" (خطوط دفاعی) with a "No entry" (ورود ممنوع) framing for the first line. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
 
+**Book 6:** BIOLOGY — CLASS NINE (as printed; Revised Edition 2019, Kuensel Corporation, Thimphu; author Jigme Tshering) — Bhutan. Grade: 9 (grade-09) — Kind: student as verified — Repo path: grade-09/gov/bhutan/biology/full-year.pdf (release mid-size-books-5) — Source URL: https://rec.gov.bt/download/938/science/3806/ix-biology-textbook-2019.pdf — Byte size: 14,590,461 (matches books.json record exactly) — PDF pages: 266 (matches record) — Printed-page offset: printed p. = PDF page − 34 (front matter in roman numerals to xxxiv; body printed pp. 1–232) — Verdict: COMPLETE — Introduction + 10 chapters, model question paper and glossary all present to printed p. 232. Structural summary: Bhutan's BCSE Class 9 book frames biology through Gross National Happiness values and heavy practical/project assessment (project work and practical rubrics fill the front matter). Sequence: what biology is and its pioneers → the cell → green plants (transpiration, photosynthesis, transport, plant hormones) → digestive, circulatory, respiratory, nervous and endocrine systems → variation/genetics/evolution with genetic engineering and cloning → homeostasis and harmful substances → organisms in their environment. Competency-based questions close every sub-topic. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Types of the nervous system; the brain and its protection (§5.1.4): | Student Textbook, Grade 12 — Printed pp. 254–261. |
@@ -19,8 +21,9 @@ countries: Ethiopia, Eritrea, Malaysia, Iran
 | Malaysia's way — Ch.12: coordination and response; nervous system (placement: organisation-of-the-nervous-system-brain-and-spinal-cord) | Book 3 (Biology Form 4 (DLP), student textbook, Grade 10 (Form 4)), Ch.12, printed p. 216 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: organisation-of-the-nervous-system-brain-and-spinal-cord) | Book 4 (Biologi Tingkatan 4, student textbook, Grade 10 (Tingkatan 4)), Ch.12, printed p. 216 |
 | Iran's way — Ch. 1 §2: structure of the nervous system — printed p. 9 — central and peripheral organisation | Book 5 (زیست‌شناسی (۲) — Biology (2), student textbook, Grade 11), Ch. 1 §2: structure of the nervous system, printed p. 9 |
+| Bhutan's way — Ch. 6 A d–e: central and peripheral nervous systems | Book 6 (BIOLOGY — CLASS NINE, student textbook, Grade 9), printed pp. 112–127 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Malaysia, Iran).**
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Malaysia, Iran, Bhutan).**
 
 Honesty (Eritrea): Book 2 is a student textbook as verified in the placements — *Biology for Grade 10 Textbook* (The State of Eritrea, Ministry of Education), Grade 10, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file (203 PDF pages). Page references are PDF pages of the unit openings; printed pagination runs inside the same sequence.
 
@@ -34,4 +37,6 @@ Honesty (Malaysia): Book 4 is a student textbook as verified in the placements �
 
 Honesty (Iran): Book 5 is a student textbook as verified in the placements — *زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed)*, Grade 11 — so Iran counts toward acceptance. It is COMPLETE: contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present.
 
-Searchable tags: biology, eritrea, ethiopia, organisation, the, nervous, system, brain, and, spinal, cord, malaysia, iran
+Honesty (Bhutan): Book 6 is a student textbook as verified in the placements — *BIOLOGY — CLASS NINE* (Bhutan, Kuensel Corporation, Thimphu; author Jigme Tshering), Grade 9 — so Bhutan counts toward acceptance. It is COMPLETE: Introduction + 10 chapters, model question paper and glossary all present to printed p. 232 (266 PDF pages; printed p. = PDF page − 34). The book was recorded twice in the library records (a TSV release record and a books.json record for the same repo path, byte-identical); it is one distinct book, taught once and cited once here.
+
+Searchable tags: biology, eritrea, ethiopia, organisation, the, nervous, system, brain, and, spinal, cord, malaysia, iran, bhutan

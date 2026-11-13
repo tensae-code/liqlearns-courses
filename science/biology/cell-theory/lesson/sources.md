@@ -1,6 +1,6 @@
 # Sources — Cell theory — three statements, three scientists
 
-countries: Ethiopia, Palestine, Sudan, Laos, Uzbekistan
+countries: Ethiopia, Palestine, Sudan, Laos, Uzbekistan, Bhutan
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Palestine, Sudan, Laos, Uzbekistan
 
 **Book 6:** Биология — Основы цитологии и генетики, 9 класс (Biology: Fundamentals of Cytology and Genetics, Grade 9) — A. Zikiryayev, A. To'xtayev, I. Azimov, N. Sonin; 2nd edition, "Zar Qalam", Tashkent 2006 — Uzbekistan. Grade: 9 — Kind: student as verified — Repo path (release full-quality-oversized-books): grade-09-gov-uzbekistan-biology-student-full-year.pdf — Byte size: 149,928,894 — PDF pages: 154 — Printed pages: ~152, contents §§1–64 at printed pp. 3–148 — Verdict: COMPLETE — six parts, fourteen chapters, to the colophon and back cover. (Contents omits a §50 number between §49 and §51 — the book's own numbering slip, not missing pages.) Structural summary: Diversity of the organic world → cytology → the chemical bases of life → reproduction and ontogenesis (with the biogenetic law) → genetics in depth (linked inheritance, gene interaction, human genetics and hereditary diseases) → selection, closing with Uzbekistan's own breeding science: cotton varieties "Ulugh-600" and "Sanzor", Academician Musaev's cotton genetic collection, folk breeder Rismat-ota Musamuhamedov's grapes, the Karabair horse. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uzbekistan-placements.md.
 
+**Book 7:** BIOLOGY — CLASS NINE (as printed; Revised Edition 2019, Kuensel Corporation, Thimphu; author Jigme Tshering) — Bhutan. Grade: 9 (grade-09) — Kind: student as verified — Repo path: grade-09/gov/bhutan/biology/full-year.pdf (release mid-size-books-5) — Source URL: https://rec.gov.bt/download/938/science/3806/ix-biology-textbook-2019.pdf — Byte size: 14,590,461 (matches books.json record exactly) — PDF pages: 266 (matches record) — Printed-page offset: printed p. = PDF page − 34 (front matter in roman numerals to xxxiv; body printed pp. 1–232) — Verdict: COMPLETE — Introduction + 10 chapters, model question paper and glossary all present to printed p. 232. Structural summary: Bhutan's BCSE Class 9 book frames biology through Gross National Happiness values and heavy practical/project assessment (project work and practical rubrics fill the front matter). Sequence: what biology is and its pioneers → the cell → green plants (transpiration, photosynthesis, transport, plant hormones) → digestive, circulatory, respiratory, nervous and endocrine systems → variation/genetics/evolution with genetic engineering and cloning → homeostasis and harmful substances → organisms in their environment. Competency-based questions close every sub-topic. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 45–46 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Palestine, Sudan, Laos, Uzbekistan
 | Sudan's way — Unit Two: Cell Biology — defining the cell and the concepts the cell theory is built on (placement slug: cell-theory) | Book 4 (علم الأحياء – الصف الأول الثانوي, student textbook, Grade 10), Unit Two, printed pp. 12–66 (objectives p. 13) |
 | Laos's way — Lesson 4: the cell and cell theory (ຈຸລັງ ແລະ ທິດສະດີກ່ຽວກັບຈຸລັງ) (placement slug: cell-theory) | Book 5 (ຊີວະວິທະຍາ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Biology, Grade 10), student textbook, Grade 10), Lesson 4 — printed p. 26 |
 | Uzbekistan's way — history of the study of the cell and the cell theory; methods of studying the cell | Book 6 (Биология — Основы цитологии и генетики (Biology: Fundamentals of Cytology and Genetics), student textbook, Grade 9), Part II Ch. 3 §9–10, printed pp. 33–35 |
+| Bhutan's way — Ch. 1 A: discovery of the cell (Hooke's cork) and cell theory | Book 7 (BIOLOGY — CLASS NINE, student textbook, Grade 9), printed pp. 2–4 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Sudan, Laos, Uzbekistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Sudan, Laos, Uzbekistan, Bhutan).**
 
 Honesty (Laos): Book 5 is a student textbook as verified in the placements — *ຊີວະວິທະຍາ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 5 (Biology, Secondary Year 5 / Grade 10, student textbook)*, Grade 10 — so Laos counts toward acceptance. It is COMPLETE: all 6 parts / 29 lessons present (227 PDF pages; printed p. = PDF page − 7). The book was recorded twice in the library records (a books.json record and a duplicate TSV record for the same release asset, byte-identical); it is one distinct book, taught once and cited once here.
 
@@ -35,4 +38,6 @@ Honesty (Sudan): Book 4 is a student textbook as verified in the placements — 
 
 Honesty (Uzbekistan): Book 6 is a student textbook as verified in the placements — *Биология — Основы цитологии и генетики, 9 класс (Biology: Fundamentals of Cytology and Genetics, Grade 9)* (A. Zikiryayev, A. To'xtayev, I. Azimov, N. Sonin; 2nd edition, "Zar Qalam", Tashkent 2006), Grade 9 — so Uzbekistan counts toward acceptance. It is COMPLETE: six parts, fourteen chapters, to the colophon and back cover (154 PDF pages; contents §§1–64 at printed pp. 3–148). Its contents omits a §50 number between §49 and §51 — the book's own numbering slip, not missing pages. It is a Russian-language edition — one of Uzbekistan's Russian-sector textbooks — an image-only scan read from 100-DPI contact sheets (covers, title pages, full contents tables and sampled body pages read), so the placements cite the contents' printed pages.
 
-Searchable tags: biology, ethiopia, cell, theory, three, statements, three, scientists, palestine, sudan, laos, uzbekistan
+Honesty (Bhutan): Book 7 is a student textbook as verified in the placements — *BIOLOGY — CLASS NINE* (Bhutan, Kuensel Corporation, Thimphu; author Jigme Tshering), Grade 9 — so Bhutan counts toward acceptance. It is COMPLETE: Introduction + 10 chapters, model question paper and glossary all present to printed p. 232 (266 PDF pages; printed p. = PDF page − 34). The book was recorded twice in the library records (a TSV release record and a books.json record for the same repo path, byte-identical); it is one distinct book, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, cell, theory, three, statements, three, scientists, palestine, sudan, laos, uzbekistan, bhutan
