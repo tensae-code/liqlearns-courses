@@ -1,6 +1,6 @@
 # Sources — Germination — what a seed needs, two ways it grows
 
-countries: Ethiopia, Albania, Samoa, Uzbekistan, Iran
+countries: Ethiopia, Albania, Samoa, Uzbekistan, Iran, Indonesia
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Albania, Samoa, Uzbekistan, Iran
 
 **Book 6:** زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed) — Iran. Grade: 11 (grade-11) — Kind: student as verified — Repo path: grade-11/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/41/C111216.pdf — Byte size: 8357552 (matches books.json record exactly) — PDF pages: 168 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–160) — Verdict: COMPLETE — contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present. Structural summary: The regulation-and-reproduction year: neural regulation, senses, movement, chemical (hormonal) regulation, immunity, cell division, human and animal reproduction, flowering-plant reproduction, and plant responses to stimuli. Iranian way: chapters open from everyday technology/life hooks (EEG brain recording for Ch. 1, a city losing all communications for chemical regulation, prosthetic limbs for the movement chapter); defence is taught as three named "lines of defence" (خطوط دفاعی) with a "No entry" (ورود ممنوع) framing for the first line. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
 
+**Book 7:** Biologi untuk SMA/MA Kelas XI (as printed; cover: BIOLOGI) — Indonesia. Grade: 11 (Kelas XI, SMA/MA) — Kind: student as verified — Repo path: grade-11/gov/indonesia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-11-gov-indonesia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Source URL (books.json): penerbitcmedia BSE g11_biologi.pdf route — Byte size: 31492502 (grab-verified; books.json gives no size) — PDF pages: 312 — Printed-page offset: printed p. = PDF page − 16 (front matter i–xvi, main text printed pp. 1–296) — Verdict: COMPLETE — full Kurikulum Merdeka student text, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1): all 8 chapters, glossary (printed p. 270), index (p. 280), bibliography (p. 283) present; no missing signatures. Structural summary: Indonesia's Merdeka way: every chapter opens with a daily-life phenomenon and trigger questions (pertanyaan pemantik), concept map and learning objectives, then inquiry activities (Ayo Bereksplorasi / Berpikir Kritis / Mencoba), reflection and competency test, closing with enrichment (Pengayaan) using Indonesian research articles. Sequence: cells → membrane transport → plant regulation → human transport/exchange → body defence → human mobility (nerve + movement) → hormones in reproduction → growth and development. Pancasila learner profile is woven through activities. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 32–33 |
@@ -22,8 +24,11 @@ countries: Ethiopia, Albania, Samoa, Uzbekistan, Iran
 | Samoa's way — Unit 4: Germination (placement slug: germination-what-a-seed-needs) | Book 4 (Biology — Year 12, student textbook, Grade 12), printed p. 124 |
 | Uzbekistan's way — germination of seeds, nutrition and growth | Book 5 (Ботаника 6 (Botany 6), student textbook, Grade 6), Chapter II §11, printed p. 35 |
 | Iran's way — Ch. 8 §3: from egg cell to plant — printed p. 130 — seed and fruit formation, then the new plant | Book 6 (زیست‌شناسی (۲) — Biology (2), student textbook, Grade 11), Ch. 8 §3: from egg cell to plant, printed p. 130 |
+| Indonesia's way — Ch.8A: growth phenomena — seedling (plantula), meristem types, primary/secondary (lateral) growth | Book 7 (Biologi untuk SMA/MA Kelas XI, student textbook, Grade 11), printed p. 245 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Samoa, Uzbekistan, Iran) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Samoa, Uzbekistan, Iran, Indonesia) — Albania's teacher-book evidence is named here and counted nowhere.**
+
+Honesty (Indonesia): Book 7 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XI*, Grade 11 (Kelas XI, SMA/MA), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1) — so Indonesia counts toward acceptance. It is COMPLETE: all 8 chapters, glossary, index and bibliography present (312 PDF pages; printed p. = PDF page − 16). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
 Honesty (Samoa): Book 4 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
@@ -35,4 +40,4 @@ Honesty (Uzbekistan): Book 5 is a student textbook as verified in the placements
 
 Honesty (Iran): Book 6 is a student textbook as verified in the placements — *زیست‌شناسی (۲) — Biology (2), Grade 11, Experimental Sciences branch (as printed)*, Grade 11 — so Iran counts toward acceptance. It is COMPLETE: contents, all 9 chapters with گفتار sections, and the closing Persian–English glossary (واژه‌نامه) present.
 
-Searchable tags: biology, ethiopia, grade 10, germination, what, a, seed, needs, albania, samoa, uzbekistan, iran
+Searchable tags: biology, ethiopia, grade 10, germination, what, a, seed, needs, albania, samoa, uzbekistan, iran, indonesia

@@ -1,15 +1,20 @@
 # Sources — Inhibition — competitive, noncompetitive, uncompetitive
 
-countries: Ethiopia
+countries: Ethiopia, Indonesia
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Biologi untuk SMA/MA Kelas XII (as printed; cover: BIOLOGI) — Indonesia. Grade: 12 (Kelas XII, SMA/MA) — Kind: student as verified — Repo path: grade-12/gov/indonesia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-12-gov-indonesia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 97032178 (grab-verified; books.json gives no size) — PDF pages: 264 — Printed-page offset: printed p. = PDF page − 10 (front matter i–x, main text printed pp. 1–254) — Verdict: COMPLETE — full Kurikulum Merdeka student text, Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2): all 4 chapters, glossary (printed p. 239), bibliography (p. 245), index (p. 249) present. Structural summary: Four-chapter capstone framed around global issues and the Covid-19 pandemic as a through-line (genetic substance, metabolism, evolution, home biotechnology), with PISA-style questions, collaborative projects and UN SDG 2030 links. Sequence: enzymes and metabolism → genetics and inheritance → evolution → biotechnology innovation. Each chapter opens with a local context (rice, hunger/energy, Sulawesi maleo bird, tempe fermentation) before the abstract mechanism. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Enzyme inhibition | Student Textbook, Grade 11 — Printed pp. 90–91. |
+| Indonesia's way — Ch.1A: competitive and non-competitive inhibitors | Book 2 (Biologi untuk SMA/MA Kelas XII, student textbook, Grade 12), printed p. 13 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Indonesia).**
+
+Honesty (Indonesia): Book 2 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XII*, Grade 12 (Kelas XII, SMA/MA), Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2) — so Indonesia counts toward acceptance. It is COMPLETE: all 4 chapters, glossary, bibliography and index present (264 PDF pages; printed p. = PDF page − 10). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, inhibition, competitive, noncompetitive, uncompetitive
+Searchable tags: biology, ethiopia, inhibition, competitive, noncompetitive, uncompetitive, indonesia

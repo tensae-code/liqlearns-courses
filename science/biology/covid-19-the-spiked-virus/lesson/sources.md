@@ -1,6 +1,6 @@
 # Sources — COVID-19 — the spiked virus and how to stop it
 
-countries: Ethiopia, Sweden, Uganda
+countries: Ethiopia, Sweden, Uganda, Indonesia
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Sweden, Uganda
 
 **Book 6:** Biology Home-Study Learning — Senior Two (NCDC, 2020) (as printed: HOME-STUDY / SELF-STUDY LEARNING — BIOLOGY, SENIOR TWO) — Uganda. Grade: 9 (Senior Two) — Kind: student (home-study booklet) as verified — Repo path: grade-09/gov/uganda/biology/student/home-study.pdf (books.json record only; grabbed via grab.py tree — in GitHub despite an earlier disconnect on first attempt) — Source URL (books.json): https://sharebility.net/download/s2-biologyterm-two-and-three/?wpdmdl=27590 — Byte size: 1,750,692 — PDF pages: 28 (matches books.json pages: 28) — Printed-page offset: booklet pagination restarts inside; pages cited by PDF/booklet position. Verdict: COMPLETE — Ministry of Education and Sports / NCDC home-study intervention published 2020 for the COVID-19 school lockdown: foreword, acknowledgements, "About this booklet", all lessons, and NCDC back page present. Opens with COVID-19 symptoms/prevention content before the biology. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uganda-placements.md.
 
+**Book 7:** Biologi untuk SMA/MA Kelas XII (as printed; cover: BIOLOGI) — Indonesia. Grade: 12 (Kelas XII, SMA/MA) — Kind: student as verified — Repo path: grade-12/gov/indonesia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-12-gov-indonesia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 97032178 (grab-verified; books.json gives no size) — PDF pages: 264 — Printed-page offset: printed p. = PDF page − 10 (front matter i–x, main text printed pp. 1–254) — Verdict: COMPLETE — full Kurikulum Merdeka student text, Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2): all 4 chapters, glossary (printed p. 239), bibliography (p. 245), index (p. 249) present. Structural summary: Four-chapter capstone framed around global issues and the Covid-19 pandemic as a through-line (genetic substance, metabolism, evolution, home biotechnology), with PISA-style questions, collaborative projects and UN SDG 2030 links. Sequence: enzymes and metabolism → genetics and inheritance → evolution → biotechnology innovation. Each chapter opens with a local context (rice, hunger/energy, Sulawesi maleo bird, tempe fermentation) before the abstract mechanism. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 133–136 |
@@ -22,8 +24,11 @@ countries: Ethiopia, Sweden, Uganda
 | The virus particle as one recognisable shape (Sweden) | Book 4 (Coronavirus, förenklad, SPSM tactile sheet) — whole sheet, PDF p. 1 — simplified tactile coronavirus, the spiked round particle as a single recognisable shape; Sweden's accessibility way: a deliberately unlabelled, reduced-complexity version of the same model |
 | Slowing the spread, read off a graph (Sweden) | Book 5 (Platta ut kurvan, SPSM tactile sheet set) — whole sheet set, PDF pp. 1–2 — the flatten-the-curve graph: cases over time, with vs without protective measures, against healthcare capacity; epidemic control taught graphically/tactually, no prose |
 | Uganda's way — the opening lesson of the lockdown home-study booklet: COVID-19 — what it is, its symptoms (dry cough…), prevention — the pandemic itself is the first biology lesson of the booklet | Book 6 (Biology Home-Study Learning — Senior Two (NCDC, 2020), student home-study booklet, Grade 9), booklet p. 8 (PDF p. 8) |
+| Indonesia's way — Ch.4F: Covid-19 vaccine types developed from virus-control principles | Book 7 (Biologi untuk SMA/MA Kelas XII, student textbook, Grade 12), printed p. 216 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Sweden, Uganda).**
+**Acceptance count: taught in 4 countries (Ethiopia, Sweden, Uganda, Indonesia).**
+
+Honesty (Indonesia): Book 7 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XII*, Grade 12 (Kelas XII, SMA/MA), Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2) — so Indonesia counts toward acceptance. It is COMPLETE: all 4 chapters, glossary, bibliography and index present (264 PDF pages; printed p. = PDF page − 10). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
 Honesty (Uganda): Book 6 is a student home-study booklet as verified in the placements — *Biology Home-Study Learning — Senior Two* (NCDC, 2020), Grade 9 (Senior Two) — so Uganda counts toward acceptance. It is COMPLETE: foreword, acknowledgements, “About this booklet”, all lessons and the NCDC back page present (28 PDF pages; pages cited by PDF/booklet position).
 
@@ -31,4 +36,4 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Honesty (Sweden): Books 3–5 are SPSM tactile teaching sheet sets — raised-line print originals for visually impaired learners, cited as exactly that, not as prose textbooks; their teaching content is the tactile diagram/graph itself, and the placements' page references are PDF sheet numbers (the sheets are unnumbered). They are student material as verified in the placements, so Sweden counts toward acceptance.
 
-Searchable tags: biology, ethiopia, sweden, covid, the, spiked, virus, and, how, stop, uganda
+Searchable tags: biology, ethiopia, sweden, covid, the, spiked, virus, and, how, stop, uganda, indonesia

@@ -1,6 +1,6 @@
 # Sources — Diseases of the circulatory system
 
-countries: Ethiopia, Mongolia, Yemen, Malaysia
+countries: Ethiopia, Mongolia, Yemen, Malaysia, Indonesia
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
@@ -13,9 +13,12 @@ countries: Ethiopia, Mongolia, Yemen, Malaysia
 
 **Book 6:** Biologi Tingkatan 4 (as printed; Bahasa Melayu edition) — Malaysia. Grade: 10 (Tingkatan 4) — Kind: student as verified — Repo path: grade-10/gov/malaysia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-10-gov-malaysia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 96276447 (grab-verified) — PDF pages: 323 — Printed-page offset: as the DLP edition (front matter roman; main text from printed p. 1); the 3 extra PDF pages over the DLP file are back-matter/cover sheets (textbook-loan pledge and Rukun Negara pages) — Verdict: COMPLETE — full KSSM student text in Bahasa Melayu, Ministry of Education Malaysia, Cetakan Pertama 2019, ISBN 978-967-2250-72-2, No. Siri Buku 0114, same author team as the DLP edition (Gan Wan Yeat et al.). Contents (Kandungan) verified chapter-for-chapter and page-for-page identical to the DLP edition: Bab 1 Pengenalan kepada Biologi dan Peraturan Makmal (printed p. 2) through Bab 15, with the same subtopic pagination (e.g. 5 Metabolisme dan Enzim p. 84, 6 Pembahagian Sel p. 98, 7 Respirasi Sel p. 112). Structural summary: The Bahasa Melayu original of the Biology Form 4 (DLP) book filed above; the DLP edition is its ministry English translation. All content placements are the DLP placements at identical printed pages; no topic exists in one edition that is absent from the other. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/malaysia-placements.md.
 
+**Book 7:** Biologi untuk SMA/MA Kelas XI (as printed; cover: BIOLOGI) — Indonesia. Grade: 11 (Kelas XI, SMA/MA) — Kind: student as verified — Repo path: grade-11/gov/indonesia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-11-gov-indonesia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Source URL (books.json): penerbitcmedia BSE g11_biologi.pdf route — Byte size: 31492502 (grab-verified; books.json gives no size) — PDF pages: 312 — Printed-page offset: printed p. = PDF page − 16 (front matter i–xvi, main text printed pp. 1–296) — Verdict: COMPLETE — full Kurikulum Merdeka student text, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1): all 8 chapters, glossary (printed p. 270), index (p. 280), bibliography (p. 283) present; no missing signatures. Structural summary: Indonesia's Merdeka way: every chapter opens with a daily-life phenomenon and trigger questions (pertanyaan pemantik), concept map and learning objectives, then inquiry activities (Ayo Bereksplorasi / Berpikir Kritis / Mencoba), reflection and competency test, closing with enrichment (Pengayaan) using Indonesian research articles. Sequence: cells → membrane transport → plant regulation → human transport/exchange → body defence → human mobility (nerve + movement) → hormones in reproduction → growth and development. Pancasila learner profile is woven through activities. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 88 (teacher guide) |
+| Indonesia's way — Ch.4C: disorders of exchange and transport, inflammatory diseases (Table 4.8), healthy-lifestyle prevention | Book 7 (Biologi untuk SMA/MA Kelas XI, student textbook, Grade 11), printed p. 118 |
 
 | Leukaemia (student book) | Book 2 (student textbook), printed pp. 125–127 |
 | Varicose veins (student book) | Book 2 (student textbook), printed pp. 125–127 |
@@ -26,7 +29,9 @@ countries: Ethiopia, Mongolia, Yemen, Malaysia
 | Malaysia's way — Ch.10: health issues related to the human circulatory system (placement: diseases-of-the-circulatory-system) | Book 5 (Biology Form 4 (DLP), student textbook, Grade 10 (Form 4)), Ch.10, printed p. 187 |
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: diseases-of-the-circulatory-system) | Book 6 (Biologi Tingkatan 4, student textbook, Grade 10 (Tingkatan 4)), Ch.10, printed p. 187 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Yemen, Malaysia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Yemen, Malaysia, Indonesia).**
+
+Honesty (Indonesia): Book 7 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XI*, Grade 11 (Kelas XI, SMA/MA), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1) — so Indonesia counts toward acceptance. It is COMPLETE: all 8 chapters, glossary, index and bibliography present (312 PDF pages; printed p. = PDF page − 16). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
 Honesty: the Grade 10 student placements file landed after this lesson was first built from the teacher guide; the pupil-taught student-book parts have now been added above as the core, and the guide rows stay labelled “(teacher guide — evidence)”. The guide is a pre-publication draft whose publication page was never filled in (placeholder date “xxxxx 2022” and placeholder ISBN/printer) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. Guide errors the placements flag are taught corrected and named here only: in the mitosis feedback two different phases are both lettered “D” (Telophase and Cytokinesis); the guide's §5.2.1 is titled “Blood donation” where the student book's is “Blood Groups”; the guide's Unit 4 is titled “Cell Cycle” where the student book's is “Cell Reproduction”.
 
@@ -38,4 +43,4 @@ Honesty (Malaysia): Book 5 is a student textbook as verified in the placements �
 
 Honesty (Malaysia): Book 6 is a student textbook as verified in the placements — *Biologi Tingkatan 4*, Grade 10 (Tingkatan 4), Ministry of Education Malaysia, Cetakan Pertama 2019, ISBN 978-967-2250-72-2, No. Siri Buku 0114 — the Bahasa Melayu original of the DLP edition above, verified chapter-for-chapter and page-for-page identical to it, so it is cited at the same printed pages and Malaysia is counted once. It is COMPLETE (323 PDF pages).
 
-Searchable tags: biology, ethiopia, diseases, the, circulatory, system, mongolia, yemen, malaysia
+Searchable tags: biology, ethiopia, diseases, the, circulatory, system, mongolia, yemen, malaysia, indonesia

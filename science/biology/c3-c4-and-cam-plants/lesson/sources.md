@@ -1,6 +1,6 @@
 # Sources — C3, C4 and CAM Plants
 
-countries: Ethiopia, India, Iran
+countries: Ethiopia, India, Iran, Indonesia
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -8,13 +8,18 @@ countries: Ethiopia, India, Iran
 
 **Book 3:** زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed) — Iran. Grade: 12 (grade-12) — Kind: student as verified — Repo path: grade-12/gov/iran/biology/student/full-year.pdf (TSV release mid-size-books-7 duplicates this path) — Source URL: http://www.chap.sch.ir/sites/default/files/lbooks/1405-1406/712/C112216.pdf — Byte size: 6587991 (matches books.json record exactly) — PDF pages: 136 (matches record) — Printed-page offset: printed p. = PDF page − 8 (printed pp. 1–128) — Verdict: COMPLETE — all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present. Structural summary: The molecular-and-evolution year: information molecules, information flow in the cell, inheritance across generations, change in hereditary information (evolution), energy from matter (respiration), matter from energy (photosynthesis), modern biotechnologies, and animal behaviour. Iranian way: every chapter title page carries a printed exam-scope notice stating whether numerical/computational questions, codon-sequence questions etc. may be set from that chapter in the national university entrance exam — the syllabus boundary is printed inside the book itself. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/iran-placements.md.
 
+**Book 4:** Biologi untuk SMA/MA Kelas XII (as printed; cover: BIOLOGI) — Indonesia. Grade: 12 (Kelas XII, SMA/MA) — Kind: student as verified — Repo path: grade-12/gov/indonesia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-12-gov-indonesia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 97032178 (grab-verified; books.json gives no size) — PDF pages: 264 — Printed-page offset: printed p. = PDF page − 10 (front matter i–x, main text printed pp. 1–254) — Verdict: COMPLETE — full Kurikulum Merdeka student text, Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2): all 4 chapters, glossary (printed p. 239), bibliography (p. 245), index (p. 249) present. Structural summary: Four-chapter capstone framed around global issues and the Covid-19 pandemic as a through-line (genetic substance, metabolism, evolution, home biotechnology), with PISA-style questions, collaborative projects and UN SDG 2030 links. Sequence: enzymes and metabolism → genetics and inheritance → evolution → biotechnology innovation. Each chapter opens with a local context (rice, hunger/energy, Sulawesi maleo bird, tempe fermentation) before the abstract mechanism. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — C3, C4 and CAM plants and photorespiration (§3.2, section span): | Student Textbook, Grade 12 — Printed pp. 128–133. |
 | India's way — Ch. 13: C4 plants and photorespiration within the photosynthesis chapter (placement slug: c3-c4-and-cam-plants) | Book 2 (Biology — Textbook for Class XI, student textbook, Grade 11), Ch. 13, printed pp. 206–225 |
 | Iran's way — Ch. 6 §3: photosynthesis in difficult conditions — printed p. 86 — oxygen level effect on photosynthesis and the C4/CAM answers | Book 3 (زیست‌شناسی (۳) — Biology (3), student textbook, Grade 12), Ch. 6 §3: photosynthesis in difficult conditions, printed p. 86 |
+| Indonesia's way — Ch.1B: CAM storage of organic acids at night; photorespiration and chemosynthesis (iron bacteria) as extensions | Book 4 (Biologi untuk SMA/MA Kelas XII, student textbook, Grade 12), printed p. 48 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, India, Iran).**
+**Acceptance count: taught in 4 countries (Ethiopia, India, Iran, Indonesia).**
+
+Honesty (Indonesia): Book 4 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XII*, Grade 12 (Kelas XII, SMA/MA), Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2) — so Indonesia counts toward acceptance. It is COMPLETE: all 4 chapters, glossary, bibliography and index present (264 PDF pages; printed p. = PDF page − 10). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
@@ -24,4 +29,4 @@ Honesty (India): Book 2 is a student textbook as verified in the placements — 
 
 Honesty (Iran): Book 3 is a student textbook as verified in the placements — *زیست‌شناسی (۳) — Biology (3), Grade 12, Experimental Sciences branch (as printed)*, Grade 12 — so Iran counts toward acceptance. It is COMPLETE: all 8 chapters with گفتار sections and the closing bibliography (فهرست منابع, citing Raven/Mason/Losos/Singer Biology and Mason et al. Understanding Biology) present.
 
-Searchable tags: biology, ethiopia, and, cam, plants, india, iran
+Searchable tags: biology, ethiopia, and, cam, plants, india, iran, indonesia

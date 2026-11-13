@@ -1,17 +1,22 @@
 # Sources — Microbes in Ethiopian fermented foods
 
-countries: Ethiopia
+countries: Ethiopia, Indonesia
 
 **Book 1:** Biology, Teacher's Guide, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education. First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN: 978-99990-0-015-4. NOTE: unlike the Grade 11 pair, this file carries NO writers/editors list and NO printer line anywhere in its text — the title page is the cover design repeated, and the copyright page gives only publisher, year, thanks and ISBN. No author names are therefore recorded here, because none are printed in the book as held. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-teacher-placements.md.
+
+**Book 2:** Biologi untuk SMA/MA Kelas XII (as printed; cover: BIOLOGI) — Indonesia. Grade: 12 (Kelas XII, SMA/MA) — Kind: student as verified — Repo path: grade-12/gov/indonesia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-12-gov-indonesia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 97032178 (grab-verified; books.json gives no size) — PDF pages: 264 — Printed-page offset: printed p. = PDF page − 10 (front matter i–x, main text printed pp. 1–254) — Verdict: COMPLETE — full Kurikulum Merdeka student text, Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2): all 4 chapters, glossary (printed p. 239), bibliography (p. 245), index (p. 249) present. Structural summary: Four-chapter capstone framed around global issues and the Covid-19 pandemic as a through-line (genetic substance, metabolism, evolution, home biotechnology), with PISA-style questions, collaborative projects and UN SDG 2030 links. Sequence: enzymes and metabolism → genetics and inheritance → evolution → biotechnology innovation. Each chapter opens with a local context (rice, hunger/energy, Sulawesi maleo bird, tempe fermentation) before the abstract mechanism. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Added fermentation detail — Ethiopia's traditional fermentation microbes, and metabolite types (teacher guide — evidence) | Teacher's Guide, Grade 12 — Printed pp. 13–14. |
+| Indonesia's way — Ch.4E: conventional fermentation applications, taught through tempe fermentation-time practical — Indonesian tempe is the vehicle; slug is the fermentation home (Ethiopia-named, content parallel noted) | Book 2 (Biologi untuk SMA/MA Kelas XII, student textbook, Grade 12), printed p. 195 |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Indonesia) — Ethiopia's teacher-guide evidence is named here and counted nowhere.**
+
+Honesty (Indonesia): Book 2 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XII*, Grade 12 (Kelas XII, SMA/MA), Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2) — so Indonesia counts toward acceptance. It is COMPLETE: all 4 chapters, glossary, bibliography and index present (264 PDF pages; printed p. = PDF page − 10). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
 Honesty notes: this Teacher's Guide is a finished publication — first published August 2023, © 2023 FDRE Ministry of Education, ISBN 978-99990-0-015-4 — and its imprint is cited here as fact. The guide as held prints no writers/editors list; none is invented here. The guide is teacher evidence only and is never counted as pupil-taught. Its Unit Five and Six teaching blocks copy-paste "evidence for evolution" boilerplate into unrelated sections — ignored here. Its human-evolution notes print a dated three-"race" classification with inconsistent population figures: that passage is NOT taught in the lesson; only the timeline and brain-growth detail is used, and the omission is named here. The guide's numbering diverges from the student book's (its §§4.2–4.5 are the student book's §§4.1.6–4.1.9); the pairing warnings in the Grade 12 placements are carried exactly: the two books are edition-matched companions WITH real divergences — do not merge blindly.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, microbes, ethiopian, fermented, foods
+Searchable tags: biology, ethiopia, microbes, ethiopian, fermented, foods, indonesia

@@ -1,17 +1,22 @@
 # Sources — Gene Flow
 
-countries: Ethiopia
+countries: Ethiopia, Indonesia
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
+
+**Book 2:** Biologi untuk SMA/MA Kelas XII (as printed; cover: BIOLOGI) — Indonesia. Grade: 12 (Kelas XII, SMA/MA) — Kind: student as verified — Repo path: grade-12/gov/indonesia/biologi/student/full-year.pdf (TSV release: mid-size-books-2/grade-12-gov-indonesia-biologi-student-full-year.pdf; books.json duplicate of the same book) — Byte size: 97032178 (grab-verified; books.json gives no size) — PDF pages: 264 — Printed-page offset: printed p. = PDF page − 10 (front matter i–x, main text printed pp. 1–254) — Verdict: COMPLETE — full Kurikulum Merdeka student text, Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2): all 4 chapters, glossary (printed p. 239), bibliography (p. 245), index (p. 249) present. Structural summary: Four-chapter capstone framed around global issues and the Covid-19 pandemic as a through-line (genetic substance, metabolism, evolution, home biotechnology), with PISA-style questions, collaborative projects and UN SDG 2030 links. Sequence: enzymes and metabolism → genetics and inheritance → evolution → biotechnology innovation. Each chapter opens with a local context (rice, hunger/energy, Sulawesi maleo bird, tempe fermentation) before the abstract mechanism. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/indonesia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Gene flow (§4.1.8): | Student Textbook, Grade 12 — Printed pp. 223–224. |
+| Indonesia's way — Ch.3B: gene flow between populations | Book 2 (Biologi untuk SMA/MA Kelas XII, student textbook, Grade 12), printed p. 156 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Indonesia).**
+
+Honesty (Indonesia): Book 2 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XII*, Grade 12 (Kelas XII, SMA/MA), Cetakan pertama 2022, ISBN 978-602-427-958-5 (jil.2) — so Indonesia counts toward acceptance. It is COMPLETE: all 4 chapters, glossary, bibliography and index present (264 PDF pages; printed p. = PDF page − 10). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, gene, flow
+Searchable tags: biology, ethiopia, gene, flow, indonesia
