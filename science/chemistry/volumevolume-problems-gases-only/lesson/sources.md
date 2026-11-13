@@ -1,14 +1,17 @@
 # Sources — Volume–volume problems — gases only
 
-countries: Ethiopia
+countries: Ethiopia, Dominica
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
+
+**Book 2:** *Chemistry for CSEC®, 2nd Edition* (student textbook) — Dominica. Title as printed: Chemistry for CSEC® — 2nd Edition (Anne Tindale, Elizabeth Ritchie, Dianne Luttig, Sarah Chapman, Jennifer Murray, Anna Bowman; Nelson Thornes / Oxford University Press, 2014, ISBN 978-1-4085-2505-0). Grade: 11 · Kind as verified: student textbook (commercial CSEC course book on Dominica's approved list — the CXC syllabus course for the Caribbean, written by Caribbean teachers; not a ministry-printed book, recorded as the record states: approved-private). Repo path: release asset grade-11-approved-private-dominica-dominica-chemistry-for-csec-oxford.pdf (mid-size-books-2). Byte size: 61,539,955 (grabbed file; no byte size in the TSV record to check against). PDF pages: 372; printed-page offset: printed p. = PDF p. − 6 (contents iii–iv, text printed pp. 1–364, then periodic table and index). Verdict: COMPLETE — read in full from rendered page images (the PDF is image-only; no text layer): cover, imprint, contents, all 22 units A1–C22, key-concepts pages, periodic table (printed p. 360), index to printed p. 364, back cover. Structure: Section A Principles of chemistry (A1–A12), Section B Organic chemistry (B13–B16), Section C Inorganic chemistry (C17–C22); every unit runs the same rhythm: objectives → teaching text with practical activities → summary questions → key concepts → CSEC exam-style questions. The Caribbean's own way throughout: sucrose extraction from sugar cane, rum manufacture, Trinidad oil and Pitch Lake, bauxite from Jamaica and Guyana, coral-island limestone — regional industry is the specimen the theory is practised on. Records: 1 (TSV release asset) = 1 distinct book — cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/dominica-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Volume–volume problems | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed pp. 40–42 (section 1.6.3) |
+| A7.5 (Dominica, Grade 11) | Book 2 (Grade 11), A7.5, printed pp. 116–117 — gas-volume stoichiometry at rtp/stp through the mole ratio (Haber synthesis volumes; SO₃ from O₂). |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Dominica).**
 
 Book errors taught corrected, named here only: the contents misprints "SOLLUTIONS" for Solutions (Unit 2) and lists Unit 6 sections 6.3 and 6.4 both as aromatic hydrocarbons — in the body 6.3 covers alkenes and alkynes and is taught so; the Unit 3 summary repeats its deliquescent-salt sentence twice — taught once; "Phosphorous" is used throughout for the element phosphorus — taught corrected as phosphorus; several Unit 6 review reaction equations are typeset in garbled layout — the reactions are taught from the section text, where they are recoverable.
 
