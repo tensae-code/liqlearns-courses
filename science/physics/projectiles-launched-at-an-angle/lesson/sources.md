@@ -1,6 +1,6 @@
 # Sources — Projectiles launched at an angle
 
-countries: Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China, Jordan, Mauritania
+countries: Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China, Jordan, Mauritania, Armenia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China, Jordan, Mauritania
 
 **Book 8:** *Physique — 7ème Année Secondaire, Série Sciences Naturelles* (student manual, French-medium) — Mauritania, Institut Pédagogique National (IPN), 2026 collection; authors Dah Mouhamed El Moctar, Mohamed Abdou Leffad and Souleymane Mohamed Amar; layout Cheikhoumi Sid'Ahmed Ejjeyed [names as read from the cover]. Title as printed: Physique — 7ème Année Secondaire — Série Sciences Naturelles. Grade: 13 (7AS), Sciences Naturelles (D) track · Student manual — the baccalauréat-year Physics manual, Physics only. Repo path: grade-13/gov/mauritania/phy-7as-d.pdf. Source read: https://docs.bsimr.com/pdfs/secondaire2s/PHY-7AS-D.pdf (IPN library copy the repo file came from). Recorded byte size: none recorded — not re-verified locally. PDF pages: not pdfinfo-verified; printed pagination runs past p. 224 (final nuclear exercise set). Offset: printed page numbers are printed in the book itself and are cited directly; chapter start pages marked ~ in the placements file are interpolated between neighbouring printed markers — inferred. Verdict: COMPLETE (all eleven chapters read — every chapter's core theory sampled in the fetched text, several in full worked detail). Reading route, on the record (from the placements file): the prescribed GitHub repo download route failed through this VM's egress proxy, so the book was read in full via the text fetcher from the publisher source URL recorded in its folder's books.json (docs.bsimr.com, the IPN digital library) — the same file the repo copy was collected from; identity verified from the book's own cover/title pages and prefaces. Byte-size-vs-record and pdfinfo checks could NOT be run (no local PDF could be downloaded); printed pagination is taken from the page numbers printed in the book itself and the printed↔PDF offset is stated as inferred, not pdfinfo-verified. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mauritania-placements.md.
 
+**Book 9:** *Ֆիզիկա 10 (Physics 10)* (student book, high school) — Armenia, Grade 10 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2024 · Repo path: grade-10/gov/armenia/physics/student/armenia-g10-physics-student.pdf · Byte size: 125,950,221 (image-only scan; read from rendered page sheets) · PDF pages: 194 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. XIII ends §88, indexes printed pp. 187–188, contents printed pp. 189–191). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angled (inclined) projectile motion | Grade 12 Student Textbook, printed pp. 29–33 |
@@ -27,10 +29,11 @@ countries: Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China, Jordan, Mauritania
 | Ch. 1, lesson 1-3 "Projectile Motion" (Kuwait, Grade 11 Term 1) | Kuwait, *Physics, Grade 11, Term 1 (student book)*, printed p. 29 |
 | Ch.5 §4 Laws of projectile motion (China, Senior Physics, Compulsory Book 2) | China, *Senior Physics, Compulsory Book 2*, Ch.5 §4 Laws of projectile motion — printed p. 14 — horizontal and angled launches treated together |
 | Unit 2 Lesson 2, projectiles incl. maximum height | Jordan, *Physics — Grade 10, Term 1 (Student Book)*, Unit 2 Lesson 2, projectiles incl. maximum height — printed p. 57 |
+| Motion of a body thrown at an angle to the horizon (+ lab) | Armenia, *Ֆիզիկա 10 (Physics 10)*, Ch. V §29–§30, Motion of a body thrown at an angle to the horizon (+ lab) — printed p. 63 |
 
 | Ch II (Mauritania, Grade 13) | Mauritania, *Physique — 7ème Année, Série Sciences Naturelles*, Ch II — printed p. 20–96 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China, Jordan, Mauritania).**
+**Acceptance count: taught in 9 countries (Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China, Jordan, Mauritania, Armenia).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

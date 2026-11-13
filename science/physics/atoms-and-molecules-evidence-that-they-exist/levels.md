@@ -1,0 +1,4 @@
+# Atoms and molecules — evidence that they exist — depth
+
+Whole-lesson pass mark: the learner can do all of these — Break a substance finer and finer and the Armenian book stops the breaking at the atom: the smallest particle that still carries the substance's chemical identity; Atoms rarely travel alone: two or more joined make a molecule, and the molecule is the working particle of diffusion, pressure and temperature in this course; §8's title carries its method: phenomena confirming their existence — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

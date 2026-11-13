@@ -1,6 +1,6 @@
 # Sources — Projectiles launched horizontally
 
-countries: Ethiopia, Fiji, Kuwait, Laos, Mozambique, Greece
+countries: Ethiopia, Fiji, Kuwait, Laos, Mozambique, Greece, Armenia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Fiji, Kuwait, Laos, Mozambique, Greece
 **Book 6:** *Φυσική Γενικής Παιδείας Α΄ Γενικού Λυκείου (General-Education Physics, Grade 10)* (student book) — Greece, book file code 22-0033 (source_url 22-0221-02), Kokkotas/Vlachos author team. Grade: 10 · Student book (general education) · Repo path: grade-10/gov/greece/physics/full-year.pdf. Byte size: 20,500,781 (exact match) · PDF pages: 234 · Offset: printed = PDF − 1. Verdict: COMPLETE (ends Ch. 2.2 summary/questions to printed p. 233 area, colophon follows). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
 
 **Book 7:** *Φυσική Προσανατολισμού Β΄ Γενικού Λυκείου (Orientation Physics, Grade 11)* (student book) — Greece, book code 22-0223-02. Grade: 11 · Student book (orientation / positive-studies track, "ThSp") · Repo path: grade-11/gov/greece/physics/full-year-orientation.pdf. Byte size: 11,028,283 (exact match) · PDF pages: 226 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 5 electric field runs to the end, summary/questions/problems closing the book). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+**Book 8:** *Ֆիզիկա 10 (Physics 10)* (student book, high school) — Armenia, Grade 10 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2024 · Repo path: grade-10/gov/armenia/physics/student/armenia-g10-physics-student.pdf · Byte size: 125,950,221 (image-only scan; read from rendered page sheets) · PDF pages: 194 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. XIII ends §88, indexes printed pp. 187–188, contents printed pp. 189–191). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Horizontal projection | Grade 12 Student Textbook, printed pp. 26–28 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Fiji, Kuwait, Laos, Mozambique, Greece
 | Lição 18 Lançamento Horizontal (Mozambique, PESD II Módulo 1) | Mozambique, *Módulo 1 — Física — Mecânica – Cinemática (PESD II, 2º Ciclo)*, Lição 18 Lançamento Horizontal — printed p. 103 |
 | Ch. 1.3.8, Horizontal projectile launch | Greece, *General-Education Physics, Grade 10*, Ch. 1.3.8, Horizontal projectile launch — printed p. 123 |
 | Ch. 1.1, Horizontal launch | Greece, *Orientation Physics, Grade 11*, Ch. 1.1, Horizontal launch — printed p. 8 |
+| Motion of a body thrown horizontally (+ lab) | Armenia, *Ֆիզիկա 10 (Physics 10)*, Ch. V §27–§28, Motion of a body thrown horizontally (+ lab) — printed p. 59 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Kuwait, Laos, Mozambique, Greece).**
+**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Kuwait, Laos, Mozambique, Greece, Armenia).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

@@ -1,6 +1,6 @@
 # Sources — Binding energy and mass defect
 
-countries: Ethiopia, Indonesia, Yemen, Bhutan, India, North Macedonia, Vietnam, China, Jordan, Mauritania, Pakistan (Punjab)
+countries: Ethiopia, Indonesia, Yemen, Bhutan, India, North Macedonia, Vietnam, China, Jordan, Mauritania, Pakistan (Punjab), Armenia
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -24,12 +24,15 @@ countries: Ethiopia, Indonesia, Yemen, Bhutan, India, North Macedonia, Vietnam, 
 
 **Book 11:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 12:** *Ֆիզիկա 12 (Physics 12)* (student book, high school) — Armenia, Grade 12 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-12/gov/armenia/physics/student/armenia-g12-physics-student.pdf · Byte size: 142,755,861 (image-only scan; read from rendered page sheets) · PDF pages: 174 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. VIII ends §64, indexes printed pp. 167–168, contents printed pp. 169–171). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Mass defect and binding energy | Grade 11 Student Textbook, printed pp. 299–304 |
 | Bab 9, Subbab B Defek Massa dan Energi Ikat (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 9, Subbab B Defek Massa dan Energi Ikat — guide p. 200 |
 | U7 Nuclear binding energy (Yemen, Grade 12) | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U7 Nuclear binding energy — printed p. 180 |
 | Ch.5 §3 Nuclear force and binding energy (China, Senior Physics, Selective Compulsory Book 3) | China, *Senior Physics, Selective Compulsory Book 3*, Ch.5 §3 Nuclear force and binding energy — printed p. 115 |
+| Binding energy of the nucleus | Armenia, *Ֆիզիկա 12 (Physics 12)*, Ch. VII §53, Binding energy of the nucleus — printed p. 133 |
 
 | Ch. 42 Nuclear Physics — printed p. 1276 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 42 Nuclear Physics — printed p. 1276 |
 | Ch. 13 — mass–energy relation and binding-energy curve (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 13 — mass–energy relation and binding-energy curve |
@@ -40,7 +43,7 @@ countries: Ethiopia, Indonesia, Yemen, Bhutan, India, North Macedonia, Vietnam, 
 | Ch XI, §3 (Mauritania, Grade 13) | Mauritania, *Physique — 7ème Année, Série Sciences Naturelles*, Ch XI, §3 — printed p. 212 |
 
 | Ch. 21, mass defect and binding energy from Einstein's equation; the binding-energy-per-nucleon curve | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 21, mass defect and binding energy from Einstein's equation; the binding-energy-per-nucleon curve — printed p. 219 (Learning Objectives 5–6) |
-**Acceptance count: taught in 11 countries (Ethiopia, Indonesia, Yemen, Bhutan, India, North Macedonia, Vietnam, China, Jordan, Mauritania, Pakistan (Punjab)).**
+**Acceptance count: taught in 12 countries (Ethiopia, Indonesia, Yemen, Bhutan, India, North Macedonia, Vietnam, China, Jordan, Mauritania, Pakistan (Punjab), Armenia).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

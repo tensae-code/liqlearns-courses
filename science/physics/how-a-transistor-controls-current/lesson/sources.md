@@ -1,6 +1,6 @@
 # Sources — How a transistor controls current
 
-countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova, South Sudan, Pakistan (Punjab)
+countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova, South Sudan, Pakistan (Punjab), Armenia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Mold
 
 **Book 10:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 11:** *Ֆիզիկա 11 (Physics 11)* (student book, high school) — Armenia, Grade 11 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-11/gov/armenia/physics/student/armenia-g11-physics-student.pdf · Byte size: 142,090,223 (image-only scan; read from rendered page sheets — the first download, 136,675,081 bytes, was truncated with a broken xref and discarded; a resumed download completed the file at exactly the source's Content-Length, after which pdfinfo read it cleanly) · PDF pages: 194 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. IX ends §99, indexes printed pp. 185–186, contents printed pp. 187–190, colophon follows). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How a transistor works — biasing and the current rule | Grade 12 Student Textbook, printed pp. 156–157 |
@@ -30,6 +32,7 @@ countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Mold
 | Ch.8 The transistor as amplifier and as switch (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.8 The transistor as amplifier and as switch — printed p. 182 |
 | Unit 3, Ch. 1, lesson 1-2 "The Transistor" (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 79 |
 | Ch. VI §6.7 (e): the transistor (Moldova, Grade 11) | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. VI §6.7 (e): the transistor — printed p. 247 |
+| Ch. VI §64 | Armenia, *Ֆիզիկա 11 (Physics 11)*, Ch. VI §64 — printed p. 122 |
 
 | Ch. 41 Conduction of Electricity in Solids: metals, semiconductors, doping, the transistor — printed pp. 1252, 1270 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 41 Conduction of Electricity in Solids: metals, semiconductors, doping, the transistor — printed pp. 1252, 1270 |
 | Ch. V, Temas 53–54: the transistor; simple devices built on semiconductor components (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. V, Temas 53–54: the transistor; simple devices built on semiconductor components — printed pp. 127–129 |
@@ -37,7 +40,7 @@ countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Mold
 | Topic 4: transistors (South Sudan, Secondary 3 (Grade 11)) | South Sudan, *South Sudan Secondary Physics 3 — Student's Book*, Topic 4: transistors — printed p. 143 |
 
 | Ch. 18, operation of the transistor and its current equation | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 18, operation of the transistor and its current equation — printed p. 154 (Learning Objectives 4–5) |
-**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova, South Sudan, Pakistan (Punjab)).**
+**Acceptance count: taught in 11 countries (Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova, South Sudan, Pakistan (Punjab), Armenia).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

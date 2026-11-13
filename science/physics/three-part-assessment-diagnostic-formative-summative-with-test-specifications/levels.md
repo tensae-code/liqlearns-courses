@@ -1,0 +1,4 @@
+# Three-part assessment — diagnostic, formative, summative, with test specifications — depth
+
+Whole-lesson pass mark: the learner can do all of these — The guides' assessment chapter opens before the topic does: diagnostic assessment finds the starting point — which prerequisites are firm, which misconceptions are already in the room; During the topic, formative assessment is the steering wheel: questions, short tasks, lab observations whose results change what happens next — re-teach this, practise that, let this group run; After the topic, summative assessment certifies: the thematic test — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

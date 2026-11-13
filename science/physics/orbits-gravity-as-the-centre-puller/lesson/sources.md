@@ -1,6 +1,6 @@
 # Sources — Orbits — gravity as the centre-puller
 
-countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, China, Jordan, Mauritania, Pakistan (Punjab)
+countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, China, Jordan, Mauritania, Pakistan (Punjab), Armenia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, C
 
 **Book 14:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 15:** *Ֆիզիկա 10 (Physics 10)* (student book, high school) — Armenia, Grade 10 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2024 · Repo path: grade-10/gov/armenia/physics/student/armenia-g10-physics-student.pdf · Byte size: 125,950,221 (image-only scan; read from rendered page sheets) · PDF pages: 194 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. XIII ends §88, indexes printed pp. 187–188, contents printed pp. 189–191). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gravitation and orbits — centripetal force from gravity | Grade 12 Student Textbook, printed pp. 61–62 |
@@ -39,6 +41,7 @@ countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, C
 | Ch.5 Satellites: orbital velocity and what satellites are for (Egypt, Grade 11) | Egypt, *Physics, Second Secondary — Term 2 (English), 2025–2026*, Ch.5 Satellites: orbital velocity and what satellites are for — printed p. 96 |
 | Ch. 4, lesson 4-1 "Orbits of Artificial Satellites" (Kuwait, Grade 11 Term 1) | Kuwait, *Physics, Grade 11, Term 1 (student book)*, printed p. 105 |
 | Ch.7 §4 Spaceflight (China, Senior Physics, Compulsory Book 2) | China, *Senior Physics, Compulsory Book 2*, Ch.7 §4 Spaceflight — printed p. 59 — the three cosmic velocities |
+| Artificial Earth satellites; first cosmic velocity | Armenia, *Ֆիզիկա 10 (Physics 10)*, Ch. VII §44, Artificial Earth satellites; first cosmic velocity — printed p. 94 |
 
 | Ch. 13 Gravitation: Newton's law, gravitation inside Earth, Kepler's laws, Einstein and gravitation — printed p. 354 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 13 Gravitation: Newton's law, gravitation inside Earth, Kepler's laws, Einstein and gravitation — printed p. 354 |
 | Ch. 7 — escape speed, Earth satellites and energy of an orbiting satellite sections (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 7 — escape speed, Earth satellites and energy of an orbiting satellite sections |
@@ -49,7 +52,7 @@ countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, C
 
 | Unit 5 §5.4, artificial satellites | Pakistan (Punjab), *Physics IX*, Unit 5 §5.4, artificial satellites — printed p. 111 |
 | Ch. 3, orbital velocity and period of a satellite, v = 2πr/T | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 3, orbital velocity and period of a satellite, v = 2πr/T — printed p. 48 (chapter Learning Objectives) |
-**Acceptance count: taught in 12 countries (Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, China, Jordan, Mauritania, Pakistan (Punjab)).**
+**Acceptance count: taught in 13 countries (Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, China, Jordan, Mauritania, Pakistan (Punjab), Armenia).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

@@ -1,6 +1,6 @@
 # Sources — Surface tension and capillarity
 
-countries: Uganda, Kenya, Belarus, Uzbekistan, Moldova, South Sudan, Mozambique, China
+countries: Uganda, Kenya, Belarus, Uzbekistan, Moldova, South Sudan, Mozambique, China, Armenia
 
 **Book 1:** *Physics Textbook — Senior One (NCDC Prototype)* (student textbook) — Uganda, National Curriculum Development Centre, Uganda — marked "PROTOTYPE" on every page. Title as printed: Physics Textbook — Senior One. Grade: Senior One (Grade 8) · Student book · Repo path: grade-08/gov/uganda/physics/student/full-year.pdf (release asset: mid-size-books-3). Byte size: 13,701,443 (release index size = downloaded) · PDF pages: 164 (= books.json recorded pages) · Offset: printed p. 1 ≈ PDF p. 11 (printed = PDF − 10). Verdict: COMPLETE — 8 chapters, exactly the extent its own "About this book" states. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
@@ -18,6 +18,8 @@ countries: Uganda, Kenya, Belarus, Uzbekistan, Moldova, South Sudan, Mozambique,
 
 **Book 8:** *普通高中教科书·物理选择性必修 第三册 (Senior High Physics, Selective Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 3 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 12,278,176 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §4.2 photoelectric effect, printed p.71, lands on PDF p.76). Verdict: COMPLETE — chapters 1–5 through research project (p.132) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 7).
 
+**Book 9:** *Ֆիզիկա 11 (Physics 11)* (student book, high school) — Armenia, Grade 11 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-11/gov/armenia/physics/student/armenia-g11-physics-student.pdf · Byte size: 142,090,223 (image-only scan; read from rendered page sheets — the first download, 136,675,081 bytes, was truncated with a broken xref and discarded; a resumed download completed the file at exactly the source's Content-Length, after which pdfinfo read it cleanly) · PDF pages: 194 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. IX ends §99, indexes printed pp. 185–186, contents printed pp. 187–190, colophon follows). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 4 Effects of forces: intermolecular forces, surface tension, capillarity and capillary rise — printed p. 78 |
@@ -28,6 +30,8 @@ countries: Uganda, Kenya, Belarus, Uzbekistan, Moldova, South Sudan, Mozambique,
 | Ch. III §3.2 (*): surface phenomena — the surface layer, the surface-tension coefficient, the shape of the surface layer, capillary phenomena (Moldova, Grade 11) — stocked into this existing shared lesson per the Moldova merge; the placements file tags it NEW LESSON NEEDED: Surface tension and capillarity — water's skin, and how liquids climb thin tubes | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. III §3.2 (*): surface phenomena — the surface layer, the surface-tension coefficient, the shape of the surface layer, capillary phenomena — printed pp. 92, 97 |
 | Lição 4 As Forças de Coesão, de Adesão e a Capilaridade (Mozambique, PESD I Módulo 1) — stocked into this shared lesson; the placements file tags it NEW LESSON NEEDED: Cohesion, adhesion and capillarity | Mozambique, *Física — Módulo 1 (PESD I, 1º Ciclo)*, Lição 4 As Forças de Coesão, de Adesão e a Capilaridade — particle forces between liquids and solids taught at 1º-ciclo level — printed p. 30 |
 | Ch.2 §5 Liquids — surface tension, wetting and capillarity (China, Senior Physics, Selective Compulsory Book 3) | China, *Senior Physics, Selective Compulsory Book 3*, Ch.2 §5 Liquids — surface tension, wetting and capillarity — printed p. 36 — stocked into the shared Uganda-built surface-tension lesson; liquid crystals close the section in the book |
+| Surface tension and its coefficient; determining the coefficient | Armenia, *Ֆիզիկա 11 (Physics 11)*, Ch. III §27–Lab 6, Surface tension and its coefficient; determining the coefficient — printed p. 55 |
+| Wetting; capillary phenomena; Laplace pressure | Armenia, *Ֆիզիկա 11 (Physics 11)*, Ch. III §28, Wetting; capillary phenomena; Laplace pressure — printed p. 57 |
 
 | Ch 3: cohesive and adhesive forces, surface tension (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 3: cohesive and adhesive forces, surface tension — printed p. ~60 (stocked into this existing shared lesson per the Kenya merge brief; the placements file tags it NEW LESSON NEEDED) |
 
@@ -36,7 +40,7 @@ countries: Uganda, Kenya, Belarus, Uzbekistan, Moldova, South Sudan, Mozambique,
 
 | Topic 1.5–1.6: cohesive and adhesive forces, surface tension — a full sub-topic with applications (South Sudan, Secondary 1 (Grade 9)) | South Sudan, *Physics Secondary 1 — Student's Book*, Topic 1.5–1.6: cohesive and adhesive forces, surface tension — a full sub-topic with applications — printed p. 18 |
 
-**Acceptance count: taught in 8 countries (Uganda, Kenya, Belarus, Uzbekistan, Moldova, South Sudan, Mozambique, China).**
+**Acceptance count: taught in 9 countries (Uganda, Kenya, Belarus, Uzbekistan, Moldova, South Sudan, Mozambique, China, Armenia).**
 
 Placement choice, on the record: this NEW LESSON was built for the Uganda placement "Surface tension and capillarity" — uganda-placements.md, Book 1, Ch 4, printed p. 78 — a full strand with the capillary-rise experiment, with no matching slug. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics). Library gap: Senior Two Physics is absent from the library records entirely.
 

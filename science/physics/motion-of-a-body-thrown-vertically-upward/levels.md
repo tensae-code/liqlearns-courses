@@ -1,0 +1,4 @@
+# Motion of a body thrown vertically upward — depth
+
+Whole-lesson pass mark: the learner can do all of these — The throw's only force is gravity, pulling down at g, so the upward speed falls in a straight line: v = v₀ − gt; At t = v₀/g the speed reaches zero — not the acceleration: g acts at the top as at every other instant, which is exactly why the body does not stay there; Every vertical-throw problem is bookkeeping: choose up as positive, write a = −g, and let the algebra speak — a negative v late in the problem simply means 'moving down' — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

@@ -1,6 +1,6 @@
 # Sources — Why ships float
 
-countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China, Cuba (programme/teacher-guide evidence only), Jordan, Greece, Pakistan (Punjab)
+countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China, Cuba (programme/teacher-guide evidence only), Jordan, Greece, Pakistan (Punjab), Armenia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -37,6 +37,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 16:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 17:** *Ֆիզիկա 7 (Physics 7)* (student book) — Armenia, Grade 7 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2023 (bibliographic page: 168 pp.) · Repo path: grade-07/gov/armenia/physics/student/armenia-g07-physics-student.pdf · Byte size: 14,290,789 · PDF pages: 170 · Offset: printed = PDF − 1 (contents printed pp. 165–167). Verdict: COMPLETE (Ch. VI ends §55, subject/name indexes printed p. 164, contents and colophon follow). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sinking, floating, and big ships | Grade 12 Student Textbook, printed pp. 98–102 |
@@ -45,6 +47,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Lição 17 Condições de Flutuação dos Corpos (Mozambique, PESD I Módulo 3) | Mozambique, *Física — Módulo 3 (PESD I, 1º Ciclo)*, Lição 17 Condições de Flutuação dos Corpos — printed p. 85 |
 | Ch.10 §3 Floating and sinking conditions and their applications (物体的浮沉条件及应用) (China, Grade 8 Physics, Volume 2 (recorded as “Grade 7”)) | China, *Grade 8 Physics, Volume 2 (recorded as “Grade 7”)*, Ch.10 §3 Floating and sinking conditions and their applications (物体的浮沉条件及应用) — printed p. 57 — ships, submarines, balloons |
 | Unit 4 treatment (§§4.7–4.8): upthrust, Archimedes' law and flotation conditions — printed pp. 192–207 (teacher-guide evidence) (Cuba, Grade 8 methodological guide) | Cuba, *Orientaciones metodológicas: Física — octavo grado (Grade 8 methodological orientations)*, Unit 4 treatment (§§4.7–4.8): upthrust, Archimedes' law and flotation conditions — printed pp. 192–207 |
+| Floating conditions; how ships float; aeronautics (balloons) | Armenia, *Ֆիզիկա 7 (Physics 7)*, Ch. VI §53–§54, Floating conditions; how ships float; aeronautics (balloons) — printed p. 155 |
 
 | §38 Sailing of ships; aeronautics (extra reading) (Belarus, Grade 7) | Belarus, *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай)*, §38 Sailing of ships; aeronautics (extra reading) — printed p. 152 |
 
@@ -57,6 +60,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 | Unit 7 §7.7, principle of floatation | Pakistan (Punjab), *Physics IX*, Unit 7 §7.7, principle of floatation — printed p. 158 |
 | Ch. 5, why steel ships are engineered to float in the sea | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 5, why steel ships are engineered to float in the sea — printed p. 87 (chapter Learning Objectives) |
-**Acceptance count: taught in 12 countries (Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China, Jordan, Greece, Pakistan (Punjab)).**
+**Acceptance count: taught in 13 countries (Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China, Jordan, Greece, Pakistan (Punjab), Armenia).**
 
 Searchable tags: physics, grade 12, fluid mechanics, why ships float, displacement, iran, north macedonia, mozambique

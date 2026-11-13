@@ -1,6 +1,6 @@
 # Sources — Magnetic flux — how much field passes through
 
-countries: Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China, Jordan, Mauritania, Greece, Pakistan (Punjab)
+countries: Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -31,12 +31,15 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 13:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 14:** *Ֆիզիկա 11 (Physics 11)* (student book, high school) — Armenia, Grade 11 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-11/gov/armenia/physics/student/armenia-g11-physics-student.pdf · Byte size: 142,090,223 (image-only scan; read from rendered page sheets — the first download, 136,675,081 bytes, was truncated with a broken xref and discarded; a resumed download completed the file at exactly the source's Content-Length, after which pdfinfo read it cleanly) · PDF pages: 194 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. IX ends §99, indexes printed pp. 185–186, contents printed pp. 187–190, colophon follows). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Magnetic flux | Grade 12 Student Textbook, printed pp. 128–129 |
 | L7 Magnetic field; magnetic induction (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L7 Magnetic field; magnetic induction — printed p. 46 |
 | Part V, Lesson 15 Electromagnetic Induction (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part V, Lesson 15 Electromagnetic Induction — printed p. 120 |
 | Ch.13 §2 Magnetic induction strength and magnetic flux (China, Senior Physics, Compulsory Book 3) | China, *Senior Physics, Compulsory Book 3*, Ch.13 §2 Magnetic induction strength and magnetic flux — printed p. 109 |
+| Magnetic flux | Armenia, *Ֆիզիկա 11 (Physics 11)*, Ch. VIII §80, Magnetic flux — printed p. 152 |
 
 | §30 Magnetic-field induction; lines of magnetic induction (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §30 Magnetic-field induction; lines of magnetic induction — printed p. 208 |
 | §3-7, Electromagnetic induction — magnetic flux (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-7 — printed p. 85 |
@@ -48,6 +51,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 | Ch. 10 §10.2, magnetic flux and flux density, φ = BA cosθ, flux linkage | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 10 §10.2, magnetic flux and flux density, φ = BA cosθ, flux linkage — printed p. 225 |
 | Ch. 14, magnetic flux and the weber, Φ = B·A | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 14, magnetic flux and the weber, Φ = B·A — printed p. 56 (Learning Objectives 6–7) |
-**Acceptance count: taught in 11 countries (Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China, Jordan, Mauritania, Greece, Pakistan (Punjab)).**
+**Acceptance count: taught in 12 countries (Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia).**
 
 Searchable tags: physics, grade 12, electromagnetism, magnetic flux — how much field passes through, flux, iran, laos

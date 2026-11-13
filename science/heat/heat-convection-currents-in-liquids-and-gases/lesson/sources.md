@@ -1,6 +1,6 @@
 # Sources — Heat — convection currents in liquids and gases
 
-countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece
+countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece, Armenia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -32,6 +32,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 
 **Book 14:** *Φυσική Β΄ Γυμνασίου (Physics, Grade 8)* (student book) — Greece, book code 21-0100-02 (cover verso), Diophantos printing files dated 2013–2016. Grade: 8 · Student book · Repo path: grade-08/gov/greece/physics/full-year.pdf. Byte size: 16,175,368 (exact match) · PDF pages: 170 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. 8 questions end printed p. 167, colophon + back cover follow). Grab route, on the record: publisher source_url (ebooks.edu.gr) after the GitHub API route timed out; byte size matched exactly. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+**Book 15:** *Ֆիզիկա 8 (Physics 8)* (student book) — Armenia, Grade 8 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2024 · Repo path: grade-08/gov/armenia/physics/student/armenia-g08-physics-student.pdf · Byte size: 107,431,987 (image-only scan; read from rendered page sheets — contents + chapter pages) · PDF pages: 162 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. V ends §56, chapter summaries and answers close the book; contents printed pp. 157–159). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The convection loop: warmed fluid expands, lightens, rises; cool fluid sinks; the sawdust beaker (Activity 7.19) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 203–205 (student placement 61) |
@@ -39,6 +41,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | A charcoal-heated room keyed as convection and radiation together (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, printed pp. 126–127, 132–133 (teacher placement 22) |
 | Ch. 11 §§11.30–11.40 Heat transfer; land and sea breeze (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 11 §§11.30–11.40 Heat transfer; land and sea breeze — Fiji/Pacific coastal way of teaching convection — printed p. 92 |
 | Part VII, Lesson 26 Heat Transfer — conduction, convection and radiation taught as one transfer lesson (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part VII, Lesson 26 Heat Transfer — printed p. 190 |
+| Convection | Armenia, *Ֆիզիկա 8 (Physics 8)*, Ch. IV §43, Convection — printed p. 113 |
 
 | Ch 6: convection (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 6 — printed p. 109 |
 
@@ -54,7 +57,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Chapitre IV (Mauritania, Grade 12) | Mauritania, *Physique SN — 6ème AS*, Chapitre IV — printed p. 67–78 |
 | Ch. 8.2, Heat transfer by currents (convection) | Greece, *Physics, Grade 8 (student book)*, Ch. 8.2, Heat transfer by currents (convection) — printed p. 159 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece).**
+**Acceptance count: taught in 12 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece, Armenia).**
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

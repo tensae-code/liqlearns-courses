@@ -1,6 +1,6 @@
 # Sources — Thermal expansion — solids grow when heated
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan, Greece, Pakistan (Punjab)
+countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan, Greece, Pakistan (Punjab), Armenia
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -33,12 +33,15 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 14:** *Physics IX* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition. Grade: 9 (Class IX) · Student book · Repo path: grade-09/gov/pakistan/physics/full-year.pdf. Byte size: 37,622,147 (matches the repo tree file size exactly) · PDF pages: 208 · Offset: printed page = PDF page (verified: Unit 2 printed 29 = PDF 29; Unit 9 content printed 206–208 = PDF 206–208). Verdict: COMPLETE as a textbook (Unit 1 opens the book at printed p. 1 and Unit 9's review questions end at printed p. 208), but the scan lacks the cover, title page and any index/front matter. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 15:** *Ֆիզիկա 11 (Physics 11)* (student book, high school) — Armenia, Grade 11 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-11/gov/armenia/physics/student/armenia-g11-physics-student.pdf · Byte size: 142,090,223 (image-only scan; read from rendered page sheets — the first download, 136,675,081 bytes, was truncated with a broken xref and discarded; a resumed download completed the file at exactly the source's Content-Length, after which pdfinfo read it cleanly) · PDF pages: 194 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. IX ends §99, indexes printed pp. 185–186, contents printed pp. 187–190, colophon follows). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Thermal expansion of solids | Grade 11 Student Textbook, printed pp. 190–195 |
 | Thermal expansion of air — the same expansion law taught with air before solids (instructor pack — evidence) | Finland, *Fysiikkaa: Tutkitaan ilmaa ja lämpöä*, Lesson 1, air expands when warmed and contracts when cooled (fountain / shrinking bottle), PDF p. 2 |
 | U3 Expansion of bodies by heat (Syria) | Syria, *Physics & Chemistry, Grade 7 Basic*, U3 Expansion of bodies by heat — printed p. 120 |
 | Part VII, Lesson 27 Heat and Expansion of Matter (Laos, Grade 10) | Laos, *ຟີຊິກສາດ (Physics, Grade 10 / ມ.5)*, Part VII, Lesson 27 Heat and Expansion of Matter — printed p. 194 |
+| Thermal expansion of solids | Armenia, *Ֆիզիկա 11 (Physics 11)*, Ch. III §32–§33, Thermal expansion of solids — printed p. 64 |
 
 | Ch 7: expansion of solids (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 7 Expansion of solids, liquids and gases — printed p. 127 |
 | Ch.5 L1 Heat and the expansion of bodies (Iraq, Grade 7) | Iraq, *الفيزياء كتاب الطالب للصف الأول المتوسط (Physics, Student Book, First Intermediate = Grade 7)*, Ch.5 L1 Heat and the expansion of bodies — printed p. 75 |
@@ -50,6 +53,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Ch. 6.5, Thermal expansion and contraction | Greece, *Physics, Grade 8 (student book)*, Ch. 6.5, Thermal expansion and contraction — printed p. 130 |
 
 | Unit 8 §8.8, thermal expansion of solids (linear and volumetric) | Pakistan (Punjab), *Physics IX*, Unit 8 §8.8, thermal expansion of solids (linear and volumetric) — printed p. 184 |
-**Acceptance count: taught in 11 countries (Ethiopia, Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan, Greece, Pakistan (Punjab)).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
+**Acceptance count: taught in 12 countries (Ethiopia, Syria, Uganda, Iraq, Yemen, Afghanistan, Iran, Laos, Jordan, Greece, Pakistan (Punjab), Armenia).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count.
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, thermal expansion — solids grow when heated, expansion, finland, uganda, iraq, yemen, iran, laos

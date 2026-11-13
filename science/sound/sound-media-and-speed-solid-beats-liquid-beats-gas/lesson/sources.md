@@ -1,6 +1,6 @@
 # Sources — Sound — media and speed: solid beats liquid beats gas
 
-countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece
+countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece, Armenia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -14,11 +14,14 @@ countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece
 
 
 **Book 6:** *Εργαστηριακός Οδηγός Φυσικής, Γ΄ Γενικού Λυκείου (Physics Lab Guide, Grade 12)* (lab guide) — Greece, Pedagogical Institute / OEDV, 4th edition 2010 (colophon, printed back matter); the guide belongs to the older Positive & Technological direction course and is the lab companion secured alongside the current orientation volumes; its experiments map onto Teuchos G topics. Grade: 12 · Lab guide (kind recorded "student" in both record sets) · Repo path: grade-12/gov/greece/physics/lab-guide.pdf. Byte size: 11,077,671 (exact match) · PDF pages: 48 · Offset: printed = PDF (introduction printed p. 5 = PDF p. 5). Verdict: COMPLETE (7 lab activities, bibliography printed p. 46, contents + colophon close the book). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+**Book 7:** *Ֆիզիկա 8 (Physics 8)* (student book) — Armenia, Grade 8 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2024 · Repo path: grade-08/gov/armenia/physics/student/armenia-g08-physics-student.pdf · Byte size: 107,431,987 (image-only scan; read from rendered page sheets — contents + chapter pages) · PDF pages: 162 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. V ends §56, chapter summaries and answers close the book; contents printed pp. 157–159). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The shout argument (Activity 7.10): speed depends on the medium, not pitch or loudness; sound in all directions through matter, never in a vacuum | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 193–195 (student placement 56) |
 | Sub lesson 2 — Particles hand it on: solids fastest, liquids slower, gases slowest (steel > water > air); the funnel-and-tube test (Activity 7.11) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 193–195 (student placement 56) |
 | Ch. 18 Sound as Wave Motion — reflection/refraction/interference/diffraction of sound, pitch/loudness, ultrasound | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 18 Sound as Wave Motion, printed p. 263 |
+| Ch. III §36 | Armenia, *Ֆիզիկա 8 (Physics 8)*, Ch. III §36 — printed p. 93 |
 
 | Ch 9: factors affecting the velocity of sound (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 9: factors affecting the velocity of sound — printed p. ~185 |
 | Ch. VI, Tema 54: propagation in different media; Boyle's bell-jar vacuum experiment; speed tables by gas/liquid/solid; thunder delay (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. VI, Tema 54: propagation in different media; Boyle's bell-jar vacuum experiment; speed tables by gas/liquid/solid; thunder delay — printed p. 145 |
@@ -26,7 +29,7 @@ countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece
 | Topic 8.8: speed of sound in solids, liquids and gases (South Sudan, Secondary 2 (Grade 10)) | South Sudan, *Physics Secondary 2 — Student's Book*, Topic 8.8: speed of sound in solids, liquids and gases — printed p. ~232 |
 | Activity 3 | Greece, *Physics Lab Guide, Grade 12*, Activity 3 — printed p. 24 — speed of sound measured from standing-wave nodes |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece).**
+**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece, Armenia).**
 
 New lesson in the new Sound title, not a growth of the primary Sound and vibration lesson: the primary lesson states the speed order; this item earns it — a four-groups defended argument plus the particle-collision account — so it is built whole here.
 

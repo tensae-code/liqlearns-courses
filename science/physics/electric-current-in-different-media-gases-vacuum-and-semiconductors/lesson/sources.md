@@ -1,6 +1,6 @@
 # Sources — Electric current in different media — gases, vacuum and semiconductors
 
-countries: Mongolia, Belarus, Moldova, Libya, Cuba
+countries: Mongolia, Belarus, Moldova, Libya, Cuba, Armenia
 
 **Book 1:** *Физик XI* (student textbook) — Mongolia. Title as printed: ФИЗИК XI — Grade 11 textbook of the 12-year school; authors M. Ganbat, Sh. Chadraabal, O. Altangoo et al.; Ministry approval; 3rd edition (bibliographic record: Ulaanbaatar 2017, 148 pp.) Grade: Grade 11 · student · recorded size 10,859,195 bytes — **download matched EXACTLY; pdfinfo 151 pages**. Route used: https://econtent.edu.mn/content/11rangi/fizik/fizik-269.pdf (recorded page id=269). Verdict: COMPLETE (full text read; contents at PDF p. 5). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -14,6 +14,8 @@ countries: Mongolia, Belarus, Moldova, Libya, Cuba
 
 **Book 6:** *Physics X* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition; pages stamped "Not For Sale — PESRP". Grade: 10 (Class X) · Student book · Repo path: grade-10/gov/pakistan/physics/full-year.pdf. Byte size: 31,273,002 (matches the repo tree file size exactly) · PDF pages: 201 · Offset: printed page = PDF page (verified: SHM of a spring printed 2–4 = PDF 2–4). Verdict: COMPLETE (Units 10–18 run to the index at printed 199 and bibliography at printed 200–201; the scan lacks only the cover/title page). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 7:** *Ֆիզիկա 11 (Physics 11)* (student book, high school) — Armenia, Grade 11 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-11/gov/armenia/physics/student/armenia-g11-physics-student.pdf · Byte size: 142,090,223 (image-only scan; read from rendered page sheets — the first download, 136,675,081 bytes, was truncated with a broken xref and discarded; a resumed download completed the file at exactly the source's Content-Length, after which pdfinfo read it cleanly) · PDF pages: 194 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. IX ends §99, indexes printed pp. 185–186, contents printed pp. 187–190, colophon follows). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Mongolia, *Физик XI*, §3.3 Орчин дахь цахилгаан гүйдэл — printed p. 89 |
@@ -23,12 +25,14 @@ countries: Mongolia, Belarus, Moldova, Libya, Cuba
 | Do it first; key ideas; Do It Yourself | Mongolia, *Физик XI*, §3.3 Орчин дахь цахилгаан гүйдэл — printed p. 89 |
 | Ch. VI §6.5: current in vacuum — thermionic emission, the vacuum diode and triode, the electron-beam tube (*) (Moldova, Grade 11) — stocked into this existing shared lesson per the Moldova merge; the placements file tags it NEW LESSON NEEDED: Thermionic emission and the electron beam — vacuum diodes, triodes and the cathode-ray tube | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. VI §6.5: current in vacuum — thermionic emission, the vacuum diode and triode, the electron-beam tube (*) — printed pp. 239, 242 |
 | Ch. 6: current in metals (pp. 160–167), in gases (pp. 168–176), in semiconductors (pp. 180–194), semiconductor applications (pp. 195–201) — the media-by-media comparison is the 1990 edition's organising way (Cuba, Grade 11, Part 2) | Cuba, *Física Parte 2 — onceno grado (Grade 11 student book, Part 2, 2013)*, Ch. 6: current in metals (pp. 160–167), in gases (pp. 168–176), in semiconductors (pp. 180–194), semiconductor applications (pp. 195–201) — the media-by-media comparison is the 1990 edition's organising way |
+| Non-self-sustained and self-sustained gas discharges | Armenia, *Ֆիզիկա 11 (Physics 11)*, Ch. VI §68, Non-self-sustained and self-sustained gas discharges — printed p. 130 |
+| Electric current in vacuum (and its devices) | Armenia, *Ֆիզիկա 11 (Physics 11)*, Ch. VI §§63/69, Electric current in vacuum (and its devices) — printed p. 121 — the vacuum strand sits inside the media chapter (contents order as printed) |
 
 | §26 Current in gases; discharges; plasma — tagged NEW LESSON NEEDED in belarus-placements.md and stocked into this existing shared lesson per the Belarus merge brief (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §26 Current in gases; discharges; plasma — printed p. 185 |
 | U8 §§8-1–8-2: electrons and how they are produced; investigating the properties of electrons (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U8 §§8-1–8-2: electrons and how they are produced; investigating the properties of electrons — printed pp. 134–135 |
 
 | Unit 16 §§16.1–16.2, thermionic emission; investigating the properties of electrons (cathode-ray oscilloscope) (also cited — Pakistan (Punjab) counted at its primary lesson) | Pakistan (Punjab), *Physics X*, Unit 16 §§16.1–16.2, thermionic emission; investigating the properties of electrons (cathode-ray oscilloscope) — printed p. 138 — no slug covers thermionic emission or the CRO. |
-**Acceptance count: taught in 5 countries (Mongolia, Belarus, Moldova, Libya, Cuba).**
+**Acceptance count: taught in 6 countries (Mongolia, Belarus, Moldova, Libya, Cuba, Armenia).**
 
 Placement choice, on the record: this NEW LESSON was built for the Mongolia placement “Electric current in different media — gases, vacuum and semiconductors” — mongolia-placements.md, Book 5 (Физик XI), §3.3 Орчин дахь цахилгаан гүйдэл — printed p. 89. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

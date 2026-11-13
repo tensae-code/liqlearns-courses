@@ -1,6 +1,6 @@
 # Sources — Matter — diffusion
 
-countries: Ethiopia, Uzbekistan
+countries: Ethiopia, Uzbekistan, Armenia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
@@ -9,14 +9,20 @@ countries: Ethiopia, Uzbekistan
 
 PAIRING WARNING: this guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.) — same syllabus and unit order, different activity numbering. Guide material is filed as syllabus-level teacher evidence, never as a page-key to the student book.
 
+**Book 4:** *Ֆիզիկա 7 (Physics 7)* (student book) — Armenia, Grade 7 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2023 (bibliographic page: 168 pp.) · Repo path: grade-07/gov/armenia/physics/student/armenia-g07-physics-student.pdf · Byte size: 14,290,789 · PDF pages: 170 · Offset: printed = PDF − 1 (contents printed pp. 165–167). Verdict: COMPLETE (Ch. VI ends §55, subject/name indexes printed p. 164, contents and colophon follow). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
+**Book 5:** *Ֆիզիկա 11 (Physics 11)* (student book, high school) — Armenia, Grade 11 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-11/gov/armenia/physics/student/armenia-g11-physics-student.pdf · Byte size: 142,090,223 (image-only scan; read from rendered page sheets — the first download, 136,675,081 bytes, was truncated with a broken xref and discarded; a resumed download completed the file at exactly the source's Content-Length, after which pdfinfo read it cleanly) · PDF pages: 194 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. IX ends §99, indexes printed pp. 185–186, contents printed pp. 187–190, colophon follows). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Diffusion in gases and liquids | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed p. 33 |
 | Why solids barely diffuse — particle speeds and attraction by state | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed p. 33 |
 | Classroom proofs — perfume timing and ink in water (teacher guide — evidence) | Ethiopia, *General Science Teacher's Guide, Grade 7* (teacher guide — evidence), Unit 2, printed pp. 16–18 |
 | Ch. I, Tema 8 + home practical Tema 10: diffusion in different media; measuring diffusion in liquids at home (D = h/t) (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. I, Tema 8 + home practical Tema 10: diffusion in different media; measuring diffusion in liquids at home (D = h/t) — printed pp. 18, 22 |
+| Motion of molecules: diffusion | Armenia, *Ֆիզիկա 7 (Physics 7)*, Ch. II §10, Motion of molecules: diffusion — printed p. 30 |
+| Brownian motion; diffusion | Armenia, *Ֆիզիկա 11 (Physics 11)*, Ch. I §5, Brownian motion; diffusion — printed p. 13 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uzbekistan).**
+**Acceptance count: taught in 3 countries (Ethiopia, Uzbekistan, Armenia).**
 
 Pairing warning carried: the Grade 7 teacher guide is an Addis Ababa bureau book (2023), not edition-matched to the Amhara student book (© 2015 E.C.); guide rows are syllabus-level teacher evidence only.
 

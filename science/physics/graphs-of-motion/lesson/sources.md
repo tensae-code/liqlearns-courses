@@ -1,6 +1,6 @@
 # Sources — Graphs of motion — reading slopes and areas
 
-countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji, Indonesia, Iraq, Egypt, Belarus, Bhutan, Moldova, Libya, South Sudan, Mozambique, Cuba (programme/teacher-guide evidence only), Jordan, Mauritania, Greece, Pakistan (Punjab)
+countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji, Indonesia, Iraq, Egypt, Belarus, Bhutan, Moldova, Libya, South Sudan, Mozambique, Cuba (programme/teacher-guide evidence only), Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -55,6 +55,8 @@ countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji, Indonesia, 
 
 **Book 26:** *Physics IX* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition. Grade: 9 (Class IX) · Student book · Repo path: grade-09/gov/pakistan/physics/full-year.pdf. Byte size: 37,622,147 (matches the repo tree file size exactly) · PDF pages: 208 · Offset: printed page = PDF page (verified: Unit 2 printed 29 = PDF 29; Unit 9 content printed 206–208 = PDF 206–208). Verdict: COMPLETE as a textbook (Unit 1 opens the book at printed p. 1 and Unit 9's review questions end at printed p. 208), but the scan lacks the cover, title page and any index/front matter. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 27:** *Ֆիզիկա 10 (Physics 10)* (student book, high school) — Armenia, Grade 10 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2024 · Repo path: grade-10/gov/armenia/physics/student/armenia-g10-physics-student.pdf · Byte size: 125,950,221 (image-only scan; read from rendered page sheets) · PDF pages: 194 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. XIII ends §88, indexes printed pp. 187–188, contents printed pp. 189–191). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Graphs of motion — reading slopes and areas | Ethiopia, *Grade 9 Student Textbook*, printed pp. 53–62 |
@@ -72,6 +74,7 @@ countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji, Indonesia, 
 | Lição 9 Gráficos do Movimento Rectilíneo Uniforme (Mozambique, PESD I Módulo 1) | Mozambique, *Física — Módulo 1 (PESD I, 1º Ciclo)*, Lição 9 Gráficos do Movimento Rectilíneo Uniforme — printed p. 58 |
 | Lição 5 MRU – Gráfico v(t) (Mozambique, PESD II Módulo 1) | Mozambique, *Módulo 1 — Física — Mecânica – Cinemática (PESD II, 2º Ciclo)*, Lição 5 MRU – Gráfico v(t) — printed p. 35 |
 | Unit 2 treatment: building and reading position/time and velocity/time tables and graphs for uniform motion — printed pp. 44–79 (teacher-guide evidence) (Cuba, Grade 8 methodological guide) | Cuba, *Orientaciones metodológicas: Física — octavo grado (Grade 8 methodological orientations)*, Unit 2 treatment: building and reading position/time and velocity/time tables and graphs for uniform motion — printed pp. 44–79 |
+| Graphs of displacement, coordinate and velocity | Armenia, *Ֆիզիկա 10 (Physics 10)*, Ch. II §10, Graphs of displacement, coordinate and velocity — printed p. 23 |
 
 | §4 Graphs of path and speed for uniform rectilinear motion (Belarus, Grade 7) | Belarus, *Фізіка. 7 клас (пад рэд. Л. А. Ісачанкавай)*, §4 Graphs of path and speed for uniform rectilinear motion — printed p. 16 |
 | §8 Graphical representation of uniform rectilinear motion (uniform motion itself, §7, printed p. 29) (Belarus, Grade 9) | Belarus, *Фізіка. 9 клас (пад рэд. А. А. Сакольскага)*, §8 Graphical representation of uniform rectilinear motion (uniform motion itself, §7, printed p. 29) — printed p. 35 |
@@ -89,7 +92,7 @@ countries: Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji, Indonesia, 
 | Introduction H–I, Change and rate of change / graphical representations | Greece, *General-Education Physics, Grade 10*, Introduction H–I, Change and rate of change / graphical representations — printed p. 29 |
 
 | Unit 2 §2.5, distance/velocity–time graphs | Pakistan (Punjab), *Physics IX*, Unit 2 §2.5, distance/velocity–time graphs — printed p. 41 |
-**Acceptance count: taught in 19 countries (Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji, Indonesia, Iraq, Egypt, Belarus, Bhutan, Moldova, Libya, South Sudan, Mozambique, Jordan, Mauritania, Greece, Pakistan (Punjab)).**
+**Acceptance count: taught in 20 countries (Ethiopia, Nicaragua, Palestine, Slovenia, Malaysia, Fiji, Indonesia, Iraq, Egypt, Belarus, Bhutan, Moldova, Libya, South Sudan, Mozambique, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia).**
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

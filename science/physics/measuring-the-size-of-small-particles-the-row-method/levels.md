@@ -1,0 +1,4 @@
+# Measuring the size of small particles — the row method — depth
+
+Whole-lesson pass mark: the learner can do all of these — A single millet grain, shot pellet or ball bearing defeats a millimetre ruler: the reading error is as big as the thing; Measure the row's length L, count the particles N, and divide: size = L ÷ N; The Grade 11 book's first laboratory work evaluates the size of a molecule, and its logic is the row method grown subtler: spread a known tiny volume of oil one molecule thick, measure the film's area, and divide volume by area — the thickness left standing is one molecule's size, of order 10⁻⁹ m — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

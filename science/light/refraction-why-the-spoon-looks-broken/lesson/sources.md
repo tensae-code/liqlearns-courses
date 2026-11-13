@@ -1,6 +1,6 @@
 # Sources — Refraction — why the spoon looks broken
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab)
+countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab), Armenia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -17,6 +17,10 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, 
 
 **Book 7:** *Physics X* (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board (PCTB), Lahore; Single National Curriculum (SNC) edition; pages stamped "Not For Sale — PESRP". Grade: 10 (Class X) · Student book · Repo path: grade-10/gov/pakistan/physics/full-year.pdf. Byte size: 31,273,002 (matches the repo tree file size exactly) · PDF pages: 201 · Offset: printed page = PDF page (verified: SHM of a spring printed 2–4 = PDF 2–4). Verdict: COMPLETE (Units 10–18 run to the index at printed 199 and bibliography at printed 200–201; the scan lacks only the cover/title page). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 8:** *Ֆիզիկա 9 (Physics 9)* (student book) — Armenia, Grade 9 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-09/gov/armenia/physics/student/armenia-g09-physics-student.pdf · Byte size: 169,813,640 (image-only scan; read from rendered page sheets) · PDF pages: 158 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. V ends §55, indexes printed pp. 151–152, contents printed pp. 153–155, colophon follows). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
+**Book 9:** *Ֆիզիկա 12 (Physics 12)* (student book, high school) — Armenia, Grade 12 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-12/gov/armenia/physics/student/armenia-g12-physics-student.pdf · Byte size: 142,755,861 (image-only scan; read from rendered page sheets) · PDF pages: 174 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. VIII ends §64, indexes printed pp. 167–168, contents printed pp. 169–171). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The bend at the boundary: refraction defined; the perpendicular exception; the broken spoon (Activity 7.8) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 187–189 (student placement 53) |
@@ -26,9 +30,11 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, 
 | Ch. 4 Refraction — laws of refraction and the parallel-sided plate (Afghanistan, Grade 10) | Afghanistan, *فیزیک — صنف دهم (Physics — Grade 10)*, Ch. 4 Refraction — printed p. 69 — laws of refraction p. 75, light through a parallel-sided plate p. 79 |
 | Unit 5 Lesson 1, refraction at a boundary | Jordan, *Physics — Grade 9, Term 2 (Student Book)*, Unit 5 Lesson 1, refraction at a boundary — printed p. 36 |
 | Ch. 8.1, Refraction of light | Greece, *Physics, Grade 9 (student book)*, Ch. 8.1, Refraction of light — printed p. 141 |
+| Refraction of light; laws of refraction | Armenia, *Ֆիզիկա 9 (Physics 9)*, Ch. III §33, Refraction of light; laws of refraction — printed p. 85 |
+| Laws of refraction of light | Armenia, *Ֆիզիկա 12 (Physics 12)*, Ch. II §12, Laws of refraction of light — printed p. 28 |
 
 | Unit 12 §12.4, refraction of light and its laws | Pakistan (Punjab), *Physics X*, Unit 12 §12.4, refraction of light and its laws — printed p. 41 |
-**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab)).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab), Armenia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 New lesson at Grade 8 depth, not a growth of the primary combined Reflection, refraction and splitting light lesson: that lesson carries refraction as one part of three at primary depth (coin and pencil); this item is a full Grade 8 section with the towards/away rule and the one-plane law-form, so it is built whole here.
 

@@ -1,0 +1,4 @@
+# Physical body and substance — the structure of matter — depth
+
+Whole-lesson pass mark: the learner can do all of these — A physical body is any single object with a place in space: a cup, a ruler, a stone, a drop of water, the Moon; Ask what the body is made of and you name a substance: the cup is plastic, the ruler wood, the ring gold; The chapter's real destination: substances are not solid through and through — they are built of tiny particles, atoms and molecules, with spaces between them — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

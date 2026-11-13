@@ -1,6 +1,6 @@
 # Sources — Electromagnets — a magnet you switch on
 
-countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece
+countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova
 
 
 **Book 10:** *Η Φυσική με Πειράματα, Α΄ Γυμνασίου (Physics with Experiments, Grade 7)* (student book — a worksheet book of 12 inquiry worksheets) — Greece, Athens 2013, ISBN 978-960-06-4416-6, book code 21-0177-02 (title page). Grade: 7 · Student book · Repo path: grade-07/gov/greece/physics/full-year.pdf. Byte size: 4,880,836 (exact match to books.json record) · PDF pages: 74 · Offset: printed p. 1 = PDF p. 14 (printed = PDF − 13; front matter roman-numbered). Verdict: COMPLETE (ends with appendix and publisher colophon, printed pp. 57–59+). Grab route, on the record: downloaded from the publisher source_url recorded in books.json (ebooks.edu.gr, Diophantos/ITEP, no login) after the GitHub Releases/Contents API route timed out repeatedly; byte size matched the record exactly and cover/title/contents were checked in the PDF. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/greece-placements.md.
+**Book 11:** *Ֆիզիկա 9 (Physics 9)* (student book) — Armenia, Grade 9 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-09/gov/armenia/physics/student/armenia-g09-physics-student.pdf · Byte size: 169,813,640 (image-only scan; read from rendered page sheets) · PDF pages: 158 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. V ends §55, indexes printed pp. 151–152, contents printed pp. 153–155, colophon follows). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Current makes a field: the compass swings, settles, reverses (Activity 7.38); more current and coiling strengthen the field | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 224–225 (student placement 69) |
@@ -35,8 +37,9 @@ countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova
 | Lição 8 Aplicações do Electroíman (Mozambique, PESD II Módulo 3) | Mozambique, *Módulo 3 — Física — Electrostática, Corrente Eléctrica e Electromagnetismo (PESD II, 2º Ciclo)*, Lição 8 Aplicações do Electroíman — printed p. 58 |
 | Ch.20 §3 Electromagnets (China, Grade 9 Physics (full-year)) | China, *Grade 9 Physics (full-year)*, Ch.20 §3 Electromagnets — printed p. 129 — what makes an electromagnet stronger, investigated |
 | Worksheet 11 | Greece, *Physics with Experiments, Grade 7*, Worksheet 11 — printed p. 48 — coil-and-current magnetism as the motor's working part |
+| Electromagnet; Earth's magnetic field | Armenia, *Ֆիզիկա 9 (Physics 9)*, Ch. II §25, Electromagnet; Earth's magnetic field — printed p. 61 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece).**
+**Acceptance count: taught in 10 countries (Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia).**
 
 Summary-claim guard: the Unit 7 summary (printed pp. 228–230) states things no section teaches — including direction claims around electron current — and none of that un-taught summary material is carried into this lesson; the lesson teaches only §7.5.3's own content, as the placements direct.
 

@@ -1,6 +1,6 @@
 # Sources — The three fundamental interactions
 
-countries: Brazil, Ecuador, Pakistan (Punjab)
+countries: Brazil, Ecuador, Pakistan (Punjab), Armenia
 
 **Book 1:** *Física — Ensino Médio, Livro Didático Público* (student textbook) — Brazil, Secretaria de Estado da Educação do Paraná (SEED-PR), Governo do Estado do Paraná. Title as printed: Física — Ensino Médio, Livro Didático Público — a state public textbook, recorded for Brazil as it is. Grade 10 (Ensino Médio). Student book. Release: mid-size-books, asset grade-10-gov-brazil-physics-student-full-year.pdf. Byte size: 6,449,200. PDF pages: 232. Page rule: printed p. N ≈ PDF p. N. Verdict: COMPLETE — read in full (72,833 words) in the 2026-11-12 Physics expansion read; ends with epilogue references at printed p. 232. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/brazil-placements.md.
 
@@ -10,6 +10,8 @@ countries: Brazil, Ecuador, Pakistan (Punjab)
 
 **Book 4:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 5:** *Ֆիզիկա 12 (Physics 12)* (student book, high school) — Armenia, Grade 12 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-12/gov/armenia/physics/student/armenia-g12-physics-student.pdf · Byte size: 142,755,861 (image-only scan; read from rendered page sheets) · PDF pages: 174 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. VIII ends §64, indexes printed pp. 167–168, contents printed pp. 169–171). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The gravitational interaction — the weakest, ruling the largest | Brazil, *Física — Ensino Médio, Livro Didático Público* (SEED-PR), Epílogo, Ch. 14 As Três Interações Fundamentais, printed p. 219 |
@@ -17,10 +19,11 @@ countries: Brazil, Ecuador, Pakistan (Punjab)
 | The nuclear interaction — the strongest, across the smallest distance | Brazil, *Física — Ensino Médio, Livro Didático Público* (SEED-PR), Epílogo, Ch. 14 As Três Interações Fundamentais, printed p. 219 |
 | Three interactions, one world; Do it first; key ideas; Do It Yourself | Brazil, *Física — Ensino Médio, Livro Didático Público* (SEED-PR), Epílogo, Ch. 14 As Três Interações Fundamentais, printed p. 219 |
 | The four fundamental forces (Ecuador) | Ecuador, *Física — Primero de Bachillerato*, Tema 19 Fuerzas de la naturaleza, printed p. 237 |
+| Fundamental interactions; quarks; prospects for creating a unified field theory | Armenia, *Ֆիզիկա 12 (Physics 12)*, Ch. VIII §62–§64, Fundamental interactions; quarks; prospects for creating a unified field theory — printed p. 159 — the book ends by pointing at unification; no slug covers quarks/interactions as a set |
 
 | Ch. 12 §12.2, gravity, electromagnetic, weak and strong forces compared by strength and range (Table 12.1) | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 12 §12.2, gravity, electromagnetic, weak and strong forces compared by strength and range (Table 12.1) — printed p. 256 |
 | Ch. 21, the basic forces of nature | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 21, the basic forces of nature — printed p. 219 (Learning Objective 22; repeated proposal — first made for the Grade 11 book, Ch. 12) |
-**Acceptance count: taught in 3 countries (Brazil, Ecuador, Pakistan (Punjab)).** Pakistan (Punjab) teaches FOUR fundamental forces (gravity, electromagnetic, weak, strong) where this lesson's first book frames three — the four-force framing is carried in the row.
+**Acceptance count: taught in 4 countries (Brazil, Ecuador, Pakistan (Punjab), Armenia).** Pakistan (Punjab) teaches FOUR fundamental forces (gravity, electromagnetic, weak, strong) where this lesson's first book frames three — the four-force framing is carried in the row.
 
 Provenance note: Ecuador's book presents FOUR fundamental forces — gravity, electromagnetism, the strong nuclear force and the weak nuclear force — where Brazil's epilogue gathers THREE, counting the electromagnetic and weak interactions together as one electroweak interaction. The difference is each country's own way of presenting it, and it stays on the record here.
 

@@ -1,0 +1,4 @@
+# Build your own radio receiver — the Armenian Grade 12 lab — depth
+
+Whole-lesson pass mark: the learner can do all of these — The simplest receiver (the crystal set) has one part per job; The lab's work is in the hands: winding the coil's turns on its former, connecting the detector the right way round, joining the earphone, raising the longest aerial available and making a real earth connection; Slide the contact (or turn the capacitor) slowly: at one setting the mush sharpens into a station — the tuning circuit has hit resonance with that carrier, exactly the LC resonance of the oscillations chapter made audible — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

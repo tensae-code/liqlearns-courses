@@ -1,6 +1,6 @@
 # Sources — LEDs and photodiodes
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Pakistan (Punjab)
+countries: Ethiopia, Bahamas (curriculum evidence only), Pakistan (Punjab), Armenia
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Pakistan (Punjab)
 
 **Book 3:** *PHYSICS 12* (student book) — Pakistan (Punjab), Punjab Textbook Board, Lahore — the older PTB Physics 12, its chapters running 12–21 and continuing the chapter numbering of the old scheme's Physics 11; not an SNC/PECTAA edition, and no year is printed on the title page in this scan. Grade: 12 (Class XII) · Student book · The record file grade-12/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login); the scan itself is watermarked Freebooks.pk. Byte size: 29,184,274 (exact match with the record's size_bytes) · PDF pages: 269 · Offset: printed page = PDF page − 1 (verified: Ch. 12 opener printed 1 = PDF 2). Verdict: COMPLETE (Ch. 12 Electrostatics at printed p. 1 through Ch. 21 Nuclear Physics, followed by the book's index ending at printed p. 268). Library note carried from the reading: the library record titles it "Physics Class 12 SNC — Punjab Board (PCTB)" — the record's edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 4:** *Ֆիզիկա 12 (Physics 12)* (student book, high school) — Armenia, Grade 12 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-12/gov/armenia/physics/student/armenia-g12-physics-student.pdf · Byte size: 142,755,861 (image-only scan; read from rendered page sheets) · PDF pages: 174 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. VIII ends §64, indexes printed pp. 167–168, contents printed pp. 169–171). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The LED — current into light | Grade 12 Student Textbook, printed pp. 153–154 |
 | Sub lesson 2 — The photodiode — light into current; diodes as guards | Grade 12 Student Textbook, printed pp. 153–154 |
 | LED and LDR in circuits — LDR/thermistor resistance variation graphed (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv (skills pp. 1–41) |
+| The photoeffect phenomenon and its laws; photoeffect theory; applications of the photoeffect | Armenia, *Ֆիզիկա 12 (Physics 12)*, Ch. V §36–§39, The photoeffect phenomenon and its laws; photoeffect theory; applications of the photoeffect — printed p. 86 — filed under the photo-device slug for the applications strand (see log) |
 
 | Ch. 18, uses of the light-emitting diode, photo diode and photo voltaic cell; LED colour set by the semiconductor material | Pakistan (Punjab), *PHYSICS 12 (PTB)*, Ch. 18, uses of the light-emitting diode, photo diode and photo voltaic cell; LED colour set by the semiconductor material — printed p. 154 (Objective 3; Question 18.12 (ii), printed p. 173) |
-**Acceptance count: taught in 2 countries (Ethiopia, Pakistan (Punjab)).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Pakistan (Punjab), Armenia).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

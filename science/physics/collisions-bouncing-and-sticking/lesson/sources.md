@@ -1,6 +1,6 @@
 # Sources — Collisions — bouncing and sticking
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China, Cuba, Jordan, Greece, Pakistan (Punjab)
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China, Cuba, Jordan, Greece, Pakistan (Punjab), Armenia
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United Stat
 
 **Book 16:** *PHYSICS 11* (student book) — Pakistan (Punjab), Punjab Education, Curriculum, Training and Assessment Authority (PECTAA), Lahore — "Web version", marked Experimental Edition; based on the Updated/Revised National Curriculum of Pakistan-2023 and approved by PECTAA. Grade: 11 (Class XI) · Student book · The record file grade-11/gov/pakistan/physics/student/full-year.pdf is absent from the repo tree; read instead from the record's own public source URL (Google Drive, no login). Byte size: 47,429,142 (exact match with the record's size_bytes) · PDF pages: 276 · Offset: printed page = PDF page − 3 (verified: Ch. 1 opener printed 1 = PDF 4). Verdict: COMPLETE (cover, approval/authors page and contents present; Ch. 1 Measurements at printed p. 1 through Ch. 12 Nuclear and Particle Physics, closing with the Bibliography at printed p. 273). Library note carried from the reading: the library record titles it "Physics Class 11 SNC — Punjab Board (PCTB)", but the printed publisher is PECTAA, not PCTB — the record's publisher/edition label should be corrected. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/pakistan-placements.md.
 
+**Book 17:** *Ֆիզիկա 10 (Physics 10)* (student book, high school) — Armenia, Grade 10 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2024 · Repo path: grade-10/gov/armenia/physics/student/armenia-g10-physics-student.pdf · Byte size: 125,950,221 (image-only scan; read from rendered page sheets) · PDF pages: 194 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. XIII ends §88, indexes printed pp. 187–188, contents printed pp. 189–191). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Collisions — elastic and perfectly inelastic | Grade 11 Student Textbook, printed pp. 157–161 |
@@ -47,6 +49,7 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United Stat
 | Lição 17 Choque Elástico (Mozambique, PESD II Módulo 2) | Mozambique, *Módulo 2 — Física — Mecânica – Estática e Dinâmica (PESD II, 2º Ciclo)*, Lição 17 Choque Elástico — printed p. 84 |
 | Ch.1 §5 Elastic and inelastic collisions (China, Senior Physics, Selective Compulsory Book 1) | China, *Senior Physics, Selective Compulsory Book 1*, Ch.1 §5 Elastic and inelastic collisions — printed p. 21 |
 | Ch. 6 §6.7: collisions (choque) as the application chapter of both conservation laws — printed pp. 263–273 (Cuba, Grade 10) | Cuba, *Física — décimo grado (Grade 10 student book)*, Ch. 6 §6.7: collisions (choque) as the application chapter of both conservation laws — printed pp. 263–273 |
+| Elastic and inelastic collisions | Armenia, *Ֆիզիկա 10 (Physics 10)*, Ch. X §70, Elastic and inelastic collisions — printed p. 145 |
 
 | Ch. 9 Center of Mass and Linear Momentum — printed p. 214 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 9 Center of Mass and Linear Momentum — printed p. 214 |
 | Ch. 5, §5.11 Collisions — printed p. 83 (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 5, §5.11 Collisions — printed p. 83 |
@@ -56,6 +59,6 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United Stat
 | Ch. 5, Collisions / central elastic collision of two spheres | Greece, *Physics Grade 12, Teuchos G*, Ch. 5, Collisions / central elastic collision of two spheres — printed p. 154 |
 
 | Ch. 2, elastic vs inelastic collisions; relative speed of approach/separation | Pakistan (Punjab), *PHYSICS 11 (PECTAA)*, Ch. 2, elastic vs inelastic collisions; relative speed of approach/separation — printed p. 47 (Numerical Problems 2.10–2.12) |
-**Acceptance count: taught in 14 countries (Ethiopia, United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China, Cuba, Jordan, Greece, Pakistan (Punjab)).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count.
+**Acceptance count: taught in 15 countries (Ethiopia, United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China, Cuba, Jordan, Greece, Pakistan (Punjab), Armenia).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count.
 
 Searchable tags: physics, grade 11, dynamics, collisions — bouncing and sticking, momentum, united states, yemen, laos, mozambique

@@ -1,10 +1,12 @@
 # Sources — The nuclear industry — power stations and other uses
 
-countries: Vietnam, Libya
+countries: Vietnam, Libya, Armenia
 
 **Book 1:** *Vật lí 12 (Physics 12) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student book · 2nd reprint (Tái bản lần thứ hai) · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Văn Biên (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House); appraisal decisions 1882/QĐ-BGDĐT (2023) and 2892/QĐ-BGDĐT (2023). Repo path: grade-12/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-full-year.pdf). Byte size: 24,390,203 (matches record). PDF pages: 127 (record 127). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (cover/title/TOC verified; interiors spot-verified at the induction-applications, EM-field and radioactivity/nuclear-industry lessons). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
 **Book 2:** *الفيزياء كتاب الطالب، الجزء الأول — Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Student book (third secondary year, Science stream; Arabic medium) · Repo path: grade-12/gov/libya/physics/student-book-part-1.pdf (TSV route: release asset grade-12-gov-libya-physics-student-book-part-1.pdf, mid-size-books-3). Byte size: 10,169,298 (release asset, verified) · PDF pages: 177 · Offset: printed p. = PDF p. − 5 approx. Verdict: COMPLETE for Part 1 — 9 units plus answers (printed p. 172); read from the full text layer and printed contents. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
+
+**Book 3:** *Ֆիզիկա 9 (Physics 9)* (student book) — Armenia, Grade 9 · authors G. Melikyan, S. Mailyan, ed. Prof. E. Ghazaryan, Edit Print, Yerevan 2025 · Repo path: grade-09/gov/armenia/physics/student/armenia-g09-physics-student.pdf · Byte size: 169,813,640 (image-only scan; read from rendered page sheets) · PDF pages: 158 · Offset: printed = PDF − 1. Verdict: COMPLETE (Ch. V ends §55, indexes printed pp. 151–152, contents printed pp. 153–155, colophon follows). Read in full in the 2026-11-12 Physics expansion read — downloaded from the publisher source_url recorded in books.json (lib.armedu.am, the Armenian education resource library, no login) after the GitHub Releases/Contents API route timed out repeatedly; identity verified by cover/title page, author/editor names, contents and colophon inside the PDF (books.json records no size_bytes for Armenia). Placements at liqlearns-courses-work/expansion-physics-2026-11-12/armenia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -14,8 +16,9 @@ countries: Vietnam, Libya
 | Sub lesson 3 — The debate — advantages against burdens (Vietnam, Grade 12) | Vietnam, *Vật lí 12*, Bài 24, Nuclear industry (Công nghiệp hạt nhân): the reactor → turbine → generator plant schematic (Gundremmingen, Germany, as the photo case) and the industry's other uses, with the advantages/disadvantages debate as the lesson's opener — printed p. 114 |
 | Do it first; key ideas; Do It Yourself | Vietnam, *Vật lí 12*, as cited in the rows above |
 | U9 §9-9: nuclear energy (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U9 §9-9: nuclear energy — printed pp. 165–167 |
+| Nuclear energetics and ecological (environmental) problems | Armenia, *Ֆիզիկա 9 (Physics 9)*, Ch. IV §44, Nuclear energetics and ecological (environmental) problems — printed p. 111 — a named § weighing nuclear power against ecology; no slug covers it |
 
-**Acceptance count: taught in 2 countries (Vietnam, Libya).**
+**Acceptance count: taught in 3 countries (Vietnam, Libya, Armenia).**
 
 Placement choice, on the record: this NEW LESSON was built for the Vietnam placement "NEW LESSON NEEDED: The nuclear industry — power stations and other uses" — vietnam-placements.md, Book 3 (Grade 12), Bài 24. No existing lesson teaches this as its own lesson — the nearest neighbours are named in lesson-plan.md's place line — so the lesson is built here. It sits in physics/ (Physics).
 
