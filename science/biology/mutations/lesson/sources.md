@@ -1,6 +1,6 @@
 # Sources — Mutations
 
-countries: Ethiopia, Nicaragua, Palestine
+countries: Ethiopia, Nicaragua, Palestine, Eritrea
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -8,13 +8,18 @@ countries: Ethiopia, Nicaragua, Palestine
 
 **Book 3:** العلوم الحياتية — الصف العاشر (Life Sciences, Grade 10; Palestinian Ministry of Education) — Palestine. Grade: 10 — Kind: student as verified — Repo path: grade-10/gov/palestine/life-sciences/full-year.pdf — Byte size: 5,620,184 (record gives no size) — PDF pages: 132 — Printed pages: 126+ (references at printed p. 126); printed-page offset: printed p. = PDF page − 5 approx. (contents at PDF p. 5). Verdict: COMPLETE — four units and the reference list all present. Structural summary: Cell structure and functions (microscopes first, then the genetic material inside the cell — including DNA replication and mutations in Grade 10) → the cell cycle and division (with tumours as a named topic, and crossing over) → human body systems (the four tissues, the reproductive systems with diseases, the urinary system down to the nephron) → classification of living organisms (modern classification, naming, levels, morphological vs genetic classification; the protist and fungi kingdoms, with the positive roles of protists and fungi in daily life). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/palestine-placements.md.
 
+**Book 4:** Biology for Grade 12 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-12-gov-eritrea-biology-student-full-year.pdf — Byte size: 12,793,204 — PDF pages: 144. Verdict: COMPLETE — all three units named in the Introduction present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises. Structural summary: A three-unit capstone: molecular genetics taught at bond level (two hydrogen bonds A–T, three C–G), evolution with Lamarck presented and then criticised point by point, and ecology built on population phases (growth, stability, decline) and their factors. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Mutation (§4.1.6): | Student Textbook, Grade 12 — Printed pp. 208–214. |
 | Nicaragua's way — Unidad 4.4: ¿Por qué se dan las mutaciones? | Book 2 (Biología — Undécimo grado, student textbook, Grade 11), Unidad 4.4, printed p. 124 |
 | Palestine's way — mutations (placement slug: mutations-changes-in-the-code) | Book 3 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 1 Ch. 3 §6: mutations — printed p. 25 |
+| Eritrea's way — Unit One: mutation within the inheritance mechanisms | Book 4 (Biology for Grade 12 Textbook, student textbook, Grade 12), PDF pp. 9–66 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Nicaragua, Palestine).**
+**Acceptance count: taught in 4 countries (Ethiopia, Nicaragua, Palestine, Eritrea).**
+
+Honesty (Eritrea): Book 4 is a student textbook as verified in the placements — *Biology for Grade 12 Textbook* (The State of Eritrea, Ministry of Education), Grade 12, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all three units named in the Introduction are present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises (144 PDF pages). Page references are PDF pages, as the placements file gives them.
 
 Honesty (Palestine): Book 3 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
@@ -24,4 +29,4 @@ Honesty notes from the placements: this student book's contents skips §2.10, ju
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, mutations, nicaragua, palestine
+Searchable tags: biology, eritrea, ethiopia, mutations, nicaragua, palestine

@@ -1,6 +1,6 @@
 # Sources — The male reproductive system
 
-countries: Ethiopia, Morocco, Palestine, France, Albania
+countries: Ethiopia, Morocco, Palestine, France, Albania, Eritrea
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Morocco, Palestine, France, Albania
 
 **Book 7:** Libër Mësuesi — Biologjia 11 (Teacher's Book, Biology 11; Mediaprint) — Albania. Grade: 11 — Kind: teacher as verified — Repo path (release mid-size-books-2): grade-11-approved-private-albania-biologjia-teacher-libri-i-mesuesit-biologjia-11-mediaprint.pdf — Source: Mediaprint (approved private publisher) — Byte size: 5,619,139 — PDF pages: 172 — Printed-page offset: printed p. = PDF page − 2 (plan at printed p. 4). Verdict: COMPLETE — annual plan, term plans, daily plans, term tests and practical activities all present. Structural summary: The year is organised under three recurring thematics — Ciklet (Cycles), Diversiteti (Diversity), Ndërveprimet (Interactions) — and taught as: reproduction (flowering plants, then humans in unusual completeness: contraception, placenta, pregnancy care, birth, STIs), variation and heredity (DNA, mitosis/meiosis, inheritance patterns, inherited medical disorders, sex determination), variation and selection, then ecology (energy flow, pyramids, decomposition, carbon and water cycles, population factors). TEACHER'S BOOK — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/albania-placements.md.
 
+**Book 8:** Biology for Grade 11 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-5), grade-11-gov-eritrea-biology-student-full-year.pdf — Byte size: 10,367,822 — PDF pages: 143 — Printed-page offset: printed p. = PDF page − 6 (Unit Six exercises at printed p. 137). Verdict: COMPLETE — all six units named in the Introduction present, ending with Unit Six (Plant Systems) exercises. Structural summary: Endocrine system → reproductive system → skeletal system → muscular system → homeostasis (temperature, water balance via hypothalamus–pituitary–ADH, rest) → plant systems (growth, meristems, differentiation, determinate/indeterminate growth). Homeostasis is a whole unit here, not a section. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 84–86 |
@@ -25,8 +27,11 @@ countries: Ethiopia, Morocco, Palestine, France, Albania
 | Palestine's way — the reproductive systems and reproduction — the male system (placement slug: the-male-reproductive-system) | Book 5 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 3 Ch. 2: the reproductive systems and reproduction — printed pp. 68–79 |
 | France's way — male reproductive apparatus (labelling) (placement slug: the-male-reproductive-system) | Book 6 (SVT 2de GT — Manuel Libre de Sciences de la vie et de la Terre, student manual, Grade 10), Thème 3 "Corps humain et santé" / "Humain, fécondation et puberté" — repository path as cited in the placements, in place of a printed page, as the placements state |
 | Albania's way — Plan: Riprodhimi te njeriu (reproduction in humans) (teacher book — evidence) (placement slug: the-male-reproductive-system) | Book 7 (Libër Mësuesi — Biologjia 11, teacher's book, Grade 11), printed p. 5 |
+| Eritrea's way — Unit Two: The Reproductive System | Book 8 (Biology for Grade 11 Textbook, student textbook, Grade 11), printed pp. 27–52 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, France) — Morocco's teacher-guide evidence and Albania's teacher-book evidence are named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, France, Eritrea) — Morocco's teacher-guide evidence and Albania's teacher-book evidence are named here and counted nowhere.**
+
+Honesty (Eritrea): Book 8 is a student textbook as verified in the placements — *Biology for Grade 11 Textbook* (The State of Eritrea, Ministry of Education), Grade 11, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all six units named in the Introduction are present, ending with Unit Six (Plant Systems) exercises (143 PDF pages). Printed-page offset: printed p. = PDF page − 6; the citations here use the printed pages as the placements file gives them.
 
 Honesty (France): Book 6 is a student manual as verified in the placements — *SVT 2de GT — Manuel Libre de Sciences de la vie et de la Terre*, Seconde (Les Manuels Libres, DRANE Île-de-France), Grade 10 (Seconde GT) — so France counts toward acceptance. It is COMPLETE as a manual: the full tree was enumerated (1,290 files across 12 tree pages) and the "Ce qu'il faut retenir" synthesis pages were read for the life-science chapters. It is NOT a PDF book and it was NOT downloaded: the secured asset is a 1,428,747,657-byte ZIP archive of the manual's public source repository, read through the repository's public API and raw files (project id 9329, default branch main), so the France row above cites the repository path in place of a printed page, exactly as the placements file states. The manual's earth-science parts — "Érosion — processus et conséquences", "Érosion et activité humaine" and the soil-formation/composition documents of "Caractéristiques des sols" — are DEBT, not placed in Biology, except the soil-biology documents placed where they teach biology.
 
@@ -40,4 +45,4 @@ Honesty (Morocco): Morocco's evidence here is a teacher's guide only — the Gui
 
 Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia 11* (Teacher's Book, Biology 11; Mediaprint), Grade 11 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own yearly plan and numbered daily-plan topic lists (the taught curriculum), cited to the plan pages.
 
-Searchable tags: biology, ethiopia, morocco, the, male, reproductive, system, palestine, france, albania
+Searchable tags: biology, eritrea, ethiopia, morocco, the, male, reproductive, system, palestine, france, albania

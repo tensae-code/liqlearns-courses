@@ -1,6 +1,6 @@
 # Sources — The DNA double helix
 
-countries: Ethiopia, Brazil, Egypt, Albania
+countries: Ethiopia, Brazil, Egypt, Albania, Eritrea
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Brazil, Egypt, Albania
 
 **Book 5:** Libër Mësuesi — Biologjia me zgjedhje 12 (Teacher's Book, Elective Biology 12; Mediaprint) — Albania. Grade: 12 — Kind: teacher as verified — Repo path (release mid-size-books-2): grade-12-approved-private-albania-biologjia-teacher-libri-i-mesuesit-biologjia-12-mediaprint.pdf — Source: Mediaprint (approved private publisher) — Byte size: 6,873,849 — PDF pages: 264 — Printed-page offset: printed p. = PDF page − 2 (plan at printed p. 4). Verdict: COMPLETE — annual plan (54 + 46 + 36 hours), lesson planning to p. 234, term tests and the answers to the generalising questions (pp. 246+). Structural summary: The elective year, from the book's annual plan thematics: diversity of biological molecules (taught through food tests), structure and functioning of eukaryotic and prokaryotic cells, the eukaryotic cell cycle, exchange and transport of substances (membrane, diffusion, osmosis, active transport and cotransport, ATP), the immune system, gas exchange in plants and animals, transport in plants and animals, DNA–genes–protein synthesis, genetics, and cycles. TEACHER'S BOOK — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/albania-placements.md.
 
+**Book 6:** Biology for Grade 12 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-12-gov-eritrea-biology-student-full-year.pdf — Byte size: 12,793,204 — PDF pages: 144. Verdict: COMPLETE — all three units named in the Introduction present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises. Structural summary: A three-unit capstone: molecular genetics taught at bond level (two hydrogen bonds A–T, three C–G), evolution with Lamarck presented and then criticised point by point, and ecology built on population phases (growth, stability, decline) and their factors. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — DNA structure | Student Textbook, Grade 11 — Printed pp. 110–113. |
@@ -19,8 +21,11 @@ countries: Ethiopia, Brazil, Egypt, Albania
 | Egypt's way — DNA quantity evidence (constant in somatic cells, half in gametes) and DNA structure within the chapter (placement slug: the-dna-double-helix) | Book 3 (BIOLOGY, student textbook, Grade 12), Ch. 5, printed pp. 111–130 |
 | Albania's way — Plans: AND-ja, proteinat dhe veçoritë (DNA, proteins and traits); Si transmetohet kodi gjenetik — Gjenoma e njeriut (how the genetic code is transmitted; the human genome) (teacher book — evidence) (placement slug: dna-structure-and-function) | Book 4 (Libër Mësuesi — Biologjia 11, teacher's book, Grade 11), printed p. 5 |
 | Albania's way — Thematic: ADN-ja, gjenet, sinteza e proteinave (DNA, genes, protein synthesis) (teacher book — evidence) (placement slug: dna-structure-and-function) | Book 5 (Libër Mësuesi — Biologjia me zgjedhje 12, teacher's book, Grade 12), printed p. 4 |
+| Eritrea's way — Unit One §1.1: DNA structure — strands held by hydrogen bonds, two between adenine–thymine, three between cytosine–guanine | Book 6 (Biology for Grade 12 Textbook, student textbook, Grade 12), PDF p. 10 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Brazil, Egypt) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Brazil, Egypt, Eritrea) — Albania's teacher-book evidence is named here and counted nowhere.**
+
+Honesty (Eritrea): Book 6 is a student textbook as verified in the placements — *Biology for Grade 12 Textbook* (The State of Eritrea, Ministry of Education), Grade 12, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all three units named in the Introduction are present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises (144 PDF pages). Page references are PDF pages, as the placements file gives them.
 
 Honesty (Egypt): Book 3 is a student textbook as verified in the placements — *BIOLOGY* (General Secondary Certificate, Third Secondary, Term 1; "developed textbook" 2025–2026, Ministry of Education & Technical Education, Arab Republic of Egypt), Grade 12 — so Egypt counts toward acceptance. It is COMPLETE (Term 1 volume): all seven contents chapters present through the Earth-science chapter that closes the book (English edition 184 PDF pages; printed p. = PDF page − 1). It is LINK-ONLY and staged, not in GitHub (in_pushed: false), staged at ~/workspace/phase3-staging/grade-12/gov/egypt/. Its Arabic, English and French editions are language variants of the ONE book, cited inside the book entry above and counted once — no extra counts. Chapter Seven — Earth science (printed pp. 153–183) is DEBT, not placed in Biology: components of planet Earth (crust Sial/Sima, mantle, core) and geological structures (folds, faults; primary structures — cross bedding, ripple marks, graded bedding, mud cracks) — a Geology/Earth-science chapter bound into the biology book.
 
@@ -30,4 +35,4 @@ Honesty (Brazil): Book 2 is a student textbook as verified in the placements —
 
 Honesty (Albania): Albania's evidence here is teacher's books only — *Libër Mësuesi — Biologjia 11* (Teacher's Book, Biology 11; Mediaprint), Grade 11, and *Libër Mësuesi — Biologjia me zgjedhje 12* (Teacher's Book, Elective Biology 12; Mediaprint), Grade 12 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the books' own yearly/annual plans and numbered daily-plan topic lists (the taught curriculum), cited to the plan pages.
 
-Searchable tags: biology, ethiopia, the, dna, double, helix, brazil, egypt, albania
+Searchable tags: biology, eritrea, ethiopia, the, dna, double, helix, brazil, egypt, albania

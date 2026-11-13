@@ -1,6 +1,6 @@
 # Sources — The immune system — born with one, acquire the other
 
-countries: Ethiopia, Brazil, Syria, Egypt, Albania
+countries: Ethiopia, Brazil, Syria, Egypt, Albania, Eritrea
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
@@ -14,9 +14,12 @@ countries: Ethiopia, Brazil, Syria, Egypt, Albania
 
 **Book 6:** Libër Mësuesi — Biologjia me zgjedhje 12 (Teacher's Book, Elective Biology 12; Mediaprint) — Albania. Grade: 12 — Kind: teacher as verified — Repo path (release mid-size-books-2): grade-12-approved-private-albania-biologjia-teacher-libri-i-mesuesit-biologjia-12-mediaprint.pdf — Source: Mediaprint (approved private publisher) — Byte size: 6,873,849 — PDF pages: 264 — Printed-page offset: printed p. = PDF page − 2 (plan at printed p. 4). Verdict: COMPLETE — annual plan (54 + 46 + 36 hours), lesson planning to p. 234, term tests and the answers to the generalising questions (pp. 246+). Structural summary: The elective year, from the book's annual plan thematics: diversity of biological molecules (taught through food tests), structure and functioning of eukaryotic and prokaryotic cells, the eukaryotic cell cycle, exchange and transport of substances (membrane, diffusion, osmosis, active transport and cotransport, ATP), the immune system, gas exchange in plants and animals, transport in plants and animals, DNA–genes–protein synthesis, genetics, and cycles. TEACHER'S BOOK — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/albania-placements.md.
 
+**Book 7:** Biology for Grade 10 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-10-gov-eritrea-biology-student-full-year.pdf — Byte size: 13,622,452 — PDF pages: 203 — Page references are PDF pages of the unit openings (printed pagination runs inside the same sequence). Verdict: COMPLETE — all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file. Structural summary: A human-systems year: food and digestion (with bench chemistry — Benedict's test on lactose, acid hydrolysis of sucrose), circulatory system, a full unit on the lymphatic system, a full unit on the immune system (innate vs acquired), respiratory, excretory, sense organs, nervous system. Eritrea gives the lymphatic and immune systems whole units where most courses fold them into circulation. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 95 (teacher guide) |
+| Eritrea's way — Unit Four: Immune System — innate (inborn) immunity vs acquired immunity that adapts to each new disease | Book 7 (Biology for Grade 10 Textbook, student textbook, Grade 10), PDF pp. 109–116 |
 
 | From lymphatic base (student book) | Book 2 (student textbook), printed pp. 124, 142–144 |
 | Kinds of immunity (student book) | Book 2 (student textbook), printed pp. 124, 142–144 |
@@ -27,7 +30,9 @@ countries: Ethiopia, Brazil, Syria, Egypt, Albania
 | Egypt's way — the immune system mechanism in man — natural (innate) vs acquired immunity cooperating; first line (skin, cerumen, tears, respiratory mucus and cilia, saliva, gastric HCl) and second line (inflammatory response, histamine, interferons, neutrophils/monocytes/macrophages/NK cells) (placement slug: the-immune-system-born-with-one-acquire-the-other) | Book 5 (BIOLOGY, student textbook, Grade 12), Ch. 4, printed pp. 99–100 |
 | Albania's way — Thematic: Sistemi imunitar (the immune system) (teacher book — evidence) (placement slug: the-immune-system-born-with-one-acquire-the-other) | Book 6 (Libër Mësuesi — Biologjia me zgjedhje 12, teacher's book, Grade 12), printed p. 4 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Brazil, Syria, Egypt) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Brazil, Syria, Egypt, Eritrea) — Albania's teacher-book evidence is named here and counted nowhere.**
+
+Honesty (Eritrea): Book 7 is a student textbook as verified in the placements — *Biology for Grade 10 Textbook* (The State of Eritrea, Ministry of Education), Grade 10, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file (203 PDF pages). Page references are PDF pages of the unit openings; printed pagination runs inside the same sequence.
 
 Honesty (Egypt): Book 5 is a student textbook as verified in the placements — *BIOLOGY* (General Secondary Certificate, Third Secondary, Term 1; "developed textbook" 2025–2026, Ministry of Education & Technical Education, Arab Republic of Egypt), Grade 12 — so Egypt counts toward acceptance. It is COMPLETE (Term 1 volume): all seven contents chapters present through the Earth-science chapter that closes the book (English edition 184 PDF pages; printed p. = PDF page − 1). It is LINK-ONLY and staged, not in GitHub (in_pushed: false), staged at ~/workspace/phase3-staging/grade-12/gov/egypt/. Its Arabic, English and French editions are language variants of the ONE book, cited inside the book entry above and counted once — no extra counts. Chapter Seven — Earth science (printed pp. 153–183) is DEBT, not placed in Biology: components of planet Earth (crust Sial/Sima, mantle, core) and geological structures (folds, faults; primary structures — cross bedding, ripple marks, graded bedding, mud cracks) — a Geology/Earth-science chapter bound into the biology book.
 
@@ -39,4 +44,4 @@ Honesty (Syria): Book 4 is a student textbook as verified in the placements — 
 
 Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia me zgjedhje 12* (Teacher's Book, Elective Biology 12; Mediaprint), Grade 12 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own annual plan and lesson plans, cited to the plan pages.
 
-Searchable tags: biology, ethiopia, syria, the, immune, system, born, with, one, acquire, the, brazil, egypt, albania
+Searchable tags: biology, eritrea, ethiopia, syria, the, immune, system, born, with, one, acquire, the, brazil, egypt, albania

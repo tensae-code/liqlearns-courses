@@ -1,6 +1,6 @@
 # Sources — Food chains and food webs
 
-countries: Ethiopia, Costa Rica, Albania
+countries: Ethiopia, Costa Rica, Albania, Eritrea
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
@@ -10,9 +10,12 @@ countries: Ethiopia, Costa Rica, Albania
 
 **Book 4:** Libër Mësuesi — Biologjia 11 (Teacher's Book, Biology 11; Mediaprint) — Albania. Grade: 11 — Kind: teacher as verified — Repo path (release mid-size-books-2): grade-11-approved-private-albania-biologjia-teacher-libri-i-mesuesit-biologjia-11-mediaprint.pdf — Source: Mediaprint (approved private publisher) — Byte size: 5,619,139 — PDF pages: 172 — Printed-page offset: printed p. = PDF page − 2 (plan at printed p. 4). Verdict: COMPLETE — annual plan, term plans, daily plans, term tests and practical activities all present. Structural summary: The year is organised under three recurring thematics — Ciklet (Cycles), Diversiteti (Diversity), Ndërveprimet (Interactions) — and taught as: reproduction (flowering plants, then humans in unusual completeness: contraception, placenta, pregnancy care, birth, STIs), variation and heredity (DNA, mitosis/meiosis, inheritance patterns, inherited medical disorders, sex determination), variation and selection, then ecology (energy flow, pyramids, decomposition, carbon and water cycles, population factors). TEACHER'S BOOK — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/albania-placements.md.
 
+**Book 5:** Biology for Grade 12 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-12-gov-eritrea-biology-student-full-year.pdf — Byte size: 12,793,204 — PDF pages: 144. Verdict: COMPLETE — all three units named in the Introduction present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises. Structural summary: A three-unit capstone: molecular genetics taught at bond level (two hydrogen bonds A–T, three C–G), evolution with Lamarck presented and then criticised point by point, and ecology built on population phases (growth, stability, decline) and their factors. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 100 (teacher guide) |
+| Eritrea's way — Unit Three: feeding relations within the ecology unit | Book 5 (Biology for Grade 12 Textbook, student textbook, Grade 12), PDF pp. 93–144 |
 
 | Who eats whom (student book) | Book 2 (student textbook), printed pp. 153–154 |
 | Webs (student book) | Book 2 (student textbook), printed pp. 153–154 |
@@ -21,7 +24,9 @@ countries: Ethiopia, Costa Rica, Albania
 | Costa Rica's way — Unit 2 Temas: Cadena Alimenticia; Red trófica (food chain; trophic web) | Book 3 (Biología Undécimo — Antologías CONED, student anthology, Grade 11), Unit 2, printed pp. 69–70 |
 | Albania's way — Plans: Ekologjia dhe ekosistemet (ecology and ecosystems); Rryma e energjisë: zinxhirët dhe rrjetat (energy flow: chains and webs) (teacher book — evidence) (placement slug: food-chains-and-food-webs) | Book 4 (Libër Mësuesi — Biologjia 11, teacher's book, Grade 11), printed p. 6 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Costa Rica) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Eritrea) — Albania's teacher-book evidence is named here and counted nowhere.**
+
+Honesty (Eritrea): Book 5 is a student textbook as verified in the placements — *Biology for Grade 12 Textbook* (The State of Eritrea, Ministry of Education), Grade 12, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all three units named in the Introduction are present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises (144 PDF pages). Page references are PDF pages, as the placements file gives them.
 
 Honesty: the Grade 10 student placements file landed after this lesson was first built from the teacher guide; the pupil-taught student-book parts have now been added above as the core, and the guide rows stay labelled “(teacher guide — evidence)”. The guide is a pre-publication draft whose publication page was never filled in (placeholder date “xxxxx 2022” and placeholder ISBN/printer) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. Guide errors the placements flag are taught corrected and named here only: in the mitosis feedback two different phases are both lettered “D” (Telophase and Cytokinesis); the guide's §5.2.1 is titled “Blood donation” where the student book's is “Blood Groups”; the guide's Unit 4 is titled “Cell Cycle” where the student book's is “Cell Reproduction”.
 
@@ -29,4 +34,4 @@ Honesty (Costa Rica): Book 3 is a student anthology as verified in the placement
 
 Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia 11* (Teacher's Book, Biology 11; Mediaprint), Grade 11 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own yearly plan and numbered daily-plan topic lists (the taught curriculum), cited to the plan pages.
 
-Searchable tags: biology, ethiopia, food, chains, and, food, webs, costa rica, albania
+Searchable tags: biology, eritrea, ethiopia, food, chains, and, food, webs, costa rica, albania

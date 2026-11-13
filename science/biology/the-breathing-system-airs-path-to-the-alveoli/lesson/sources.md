@@ -1,6 +1,6 @@
 # Sources — The breathing system — air's path to the alveoli
 
-countries: Ethiopia, Albania
+countries: Ethiopia, Albania, Eritrea
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -8,16 +8,21 @@ countries: Ethiopia, Albania
 
 **Book 3:** Libër Mësuesi — Biologjia me zgjedhje 12 (Teacher's Book, Elective Biology 12; Mediaprint) — Albania. Grade: 12 — Kind: teacher as verified — Repo path (release mid-size-books-2): grade-12-approved-private-albania-biologjia-teacher-libri-i-mesuesit-biologjia-12-mediaprint.pdf — Source: Mediaprint (approved private publisher) — Byte size: 6,873,849 — PDF pages: 264 — Printed-page offset: printed p. = PDF page − 2 (plan at printed p. 4). Verdict: COMPLETE — annual plan (54 + 46 + 36 hours), lesson planning to p. 234, term tests and the answers to the generalising questions (pp. 246+). Structural summary: The elective year, from the book's annual plan thematics: diversity of biological molecules (taught through food tests), structure and functioning of eukaryotic and prokaryotic cells, the eukaryotic cell cycle, exchange and transport of substances (membrane, diffusion, osmosis, active transport and cotransport, ATP), the immune system, gas exchange in plants and animals, transport in plants and animals, DNA–genes–protein synthesis, genetics, and cycles. TEACHER'S BOOK — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/albania-placements.md.
 
+**Book 4:** Biology for Grade 10 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-10-gov-eritrea-biology-student-full-year.pdf — Byte size: 13,622,452 — PDF pages: 203 — Page references are PDF pages of the unit openings (printed pagination runs inside the same sequence). Verdict: COMPLETE — all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file. Structural summary: A human-systems year: food and digestion (with bench chemistry — Benedict's test on lactose, acid hydrolysis of sucrose), circulatory system, a full unit on the lymphatic system, a full unit on the immune system (innate vs acquired), respiratory, excretory, sense organs, nervous system. Eritrea gives the lymphatic and immune systems whole units where most courses fold them into circulation. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 128–133 |
 | Guide pedagogy for this unit (teacher guide — evidence) | Book 2 (teacher guide), guide printed pp. 73–98 (teacher guide) |
 | Albania's way — Thematic: Shkëmbimi i gazeve te bimët dhe kafshët (gas exchange in plants and animals) (teacher book — evidence) (placement slug: gas-exchange-surfaces) | Book 3 (Libër Mësuesi — Biologjia me zgjedhje 12, teacher's book, Grade 12), printed p. 4 |
+| Eritrea's way — Unit Five: the air path within the respiratory unit | Book 4 (Biology for Grade 10 Textbook, student textbook, Grade 10), PDF pp. 117–134 |
 
-**Acceptance count: taught in 1 country (Ethiopia) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Eritrea) — Albania's teacher-book evidence is named here and counted nowhere.**
+
+Honesty (Eritrea): Book 4 is a student textbook as verified in the placements — *Biology for Grade 10 Textbook* (The State of Eritrea, Ministry of Education), Grade 10, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file (203 PDF pages). Page references are PDF pages of the unit openings; printed pagination runs inside the same sequence.
 
 Honesty: the pupil-taught parts above stand on the finished Grade 10 student textbook (August 2023, ISBN 978-99990-0-009-3). The teacher-guide rows are evidence only and never count as pupil-taught; the guide is a pre-publication draft whose publication page was never filled in (placeholder date “xxxxx 2022” and placeholder ISBN/printer) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. Student-book errors and quirks the placements flag are taught corrected and named here only: Activity 3.21 is misprinted “Activity 3.216” (printed p. 75); Figure 5.4’s caption is printed twice (printed p. 102); the student book’s §5.2.1 is “Blood Groups” where the guide’s is “Blood donation”; the student book’s Unit 4 is “Cell Reproduction” where the guide’s is “Cell Cycle”.
 
 Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia me zgjedhje 12* (Teacher's Book, Elective Biology 12; Mediaprint), Grade 12 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own annual plan and lesson plans, cited to the plan pages.
 
-Searchable tags: biology, ethiopia, grade 10, the, breathing, system, airs, path, to, the, alveoli, albania
+Searchable tags: biology, eritrea, ethiopia, grade 10, the, breathing, system, airs, path, to, the, alveoli, albania
