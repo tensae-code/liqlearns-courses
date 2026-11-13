@@ -1,0 +1,18 @@
+# Sources — Amines, amides and nitriles
+
+countries: Brazil
+
+**Book 1:** *Química, Livro Didático Público, Ensino Médio* (student textbook) — Brazil. Title as printed: Química — Ensino Médio, Livro Didático Público (SEED-PR, Secretaria de Estado da Educação do Paraná, 2ª edição, 2006; collective work of Paraná state-school teachers — "este livro é público"). Grade: Grade 10 (record) — the book serves all of Ensino Médio (Grades 10–12) as a single public textbook. Kind as verified: student textbook. Repo path: release asset grade-10-gov-brazil-chemistry-student-full-year.pdf (mid-size-books). Byte size: 10,760,816. PDF pages: 248; printed-page offset: 0 (printed p. = PDF p.; cataloguing itself states 248 pp.). Verdict: COMPLETE (17 chapters plus periodic-table and standard-potentials appendices, through p. 248). Structure: Brazil's own way — chemistry taught as 17 thematic inquiry chapters ("Folhas") under three structuring contents (Matéria e sua Natureza; Biogeoquímica; Química Sintética), each chapter opening from a daily-life puzzle and building the chemistry by dialogue, experiment and research rather than by systematic topic order. Records deduped: 1 record = 1 distinct book (TSV release URL only) — cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/brazil-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Amines — the group the messengers share | Book 1 (Grade 10), Ch. 17 A Vida Sem Elas Não Tem Graça, printed pp. 229–241 — The amine group shared by neurotransmitters; nerve impulses as Na⁺/K⁺ concentration differences that must be restored |
+| Sub lesson 2 — Amides — the carbonyl joined to nitrogen, on the cosmetics label | Book 1 (Grade 10), Ch. 17, printed pp. 229–241 — Amides in cosmetics (ceramides on labels) |
+| Sub lesson 3 — Nitriles — nitrogen at the triple bond | Book 1 (Grade 10), Ch. 17, printed pp. 229–241 — The nitrile function as the chapter's third nitrogen function; UV-B and skin cancer closing the book |
+| Do it first; key ideas; Do It Yourself | Book 1 (Grade 10), Ch. 17, printed pp. 229–241 |
+
+**Acceptance count: taught in 1 country (Brazil).**
+
+Placement choice, on the record: this NEW LESSON was built for the Brazil placement "NEW LESSON NEEDED: amines-amides-and-nitriles — Ch. 17 A Vida Sem Elas Não Tem Graça — printed pp. 229–241 — the amine group shared by neurotransmitters; nerve impulses as Na⁺/K⁺ concentration differences that must be restored; amides in cosmetics (ceramides on labels); UV-B and skin cancer closing the book. (Same NEW slug as Bolivia's nitrogen-functions placement.)" — brazil-placements.md. The placements file names this slug, which does not exist in the tree. The neighbouring lesson Amines, amides and amino acids teaches a different trio — amines and amides sorted beside amino acids as one derivative family of the alkanoic acids — and covers nitriles only as a starting material on the way to amines, never as a function in its own right; no existing lesson teaches the nitrogen functions amines / amides / nitriles as Brazil's closing chapter groups them — so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Brazil's own way — the functions met in the body's own messengers and on the cosmetics label, closing the whole book on UV-B and skin cancer — IS part of this lesson's content, carried exactly as the placements describe it. The book is a student textbook, so this lesson counts toward acceptance normally.
+
+Searchable tags: chemistry, amines, amides, nitriles, nitrogen functions, neurotransmitters, ceramides, Brazil Grade 10

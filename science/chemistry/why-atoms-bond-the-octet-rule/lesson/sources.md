@@ -1,14 +1,17 @@
 # Sources — Why atoms bond — the octet rule
 
-countries: Ethiopia
+countries: Ethiopia, Brazil
 
 **Book 1:** *Chemistry, Student Textbook, Grade 9* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-016-1. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-student-placements.md.
+
+**Book 2:** *Química, Livro Didático Público, Ensino Médio* (student textbook) — Brazil. Title as printed: Química — Ensino Médio, Livro Didático Público (SEED-PR, Secretaria de Estado da Educação do Paraná, 2ª edição, 2006; collective work of Paraná state-school teachers — "este livro é público"). Grade: Grade 10 (record) — the book serves all of Ensino Médio (Grades 10–12) as a single public textbook. Kind as verified: student textbook. Repo path: release asset grade-10-gov-brazil-chemistry-student-full-year.pdf (mid-size-books). Byte size: 10,760,816. PDF pages: 248; printed-page offset: 0 (printed p. = PDF p.; cataloguing itself states 248 pp.). Verdict: COMPLETE (17 chapters plus periodic-table and standard-potentials appendices, through p. 248). Structure: Brazil's own way — chemistry taught as 17 thematic inquiry chapters ("Folhas") under three structuring contents (Matéria e sua Natureza; Biogeoquímica; Química Sintética), each chapter opening from a daily-life puzzle and building the chemistry by dialogue, experiment and research rather than by systematic topic order. Records deduped: 1 record = 1 distinct book (TSV release URL only) — cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/brazil-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Why atoms bond | Ethiopia, *Chemistry, Student Textbook, Grade 9*, Printed pp. 141–143 (section 5.1) |
+| Ch. 4 Ligue e Fique Ligado (Brazil, Grade 10) | Book 2 (Grade 10), Ch. 4, printed pp. 61–65 — The octet rule as the atoms' anchor, with the explicit question of whether it works for all atoms; the periodic table read by s, p, d sublevel endings |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Brazil).**
 
 Book errors taught corrected, named here only: the cover spells "Measurments" for Measurements; one Unit 3 summary passage dates Rutherford's nucleus work "in 1920" — the gold-foil work is 1909/1911 and is taught so; the proton is credited in different passages to Goldstein (1886, perforated-cathode work) and to Rutherford (1920) — both steps are taught in their order; Lewis's dates are printed once as "1875-1046" — taught corrected as 1875–1946; the Unit 2 competencies promise the factor-label method by name but the student sections never teach it by that name — it is taught explicitly in its own lesson from the teacher guide; Unit 4's older group labels are inconsistent ("Group VIIB elements are called as halogens", "Group 0" for noble gases) — taught with the modern family names; recurring typos "iconic compounds" (ionic compounds) and "glass road" (glass rod) are taught corrected.
 
