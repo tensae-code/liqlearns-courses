@@ -1,0 +1,4 @@
+# The partition law — depth
+
+Whole-lesson pass mark: the learner works through the lesson's sub lessons in order (The distribution law — a fixed ratio between two solvents, Solvent extraction — using the coefficient, Applications — including finding a complex ion's formula), explains each in their own words using the lesson's own examples, and answers the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson; on a fail the learner reviews the questions and answers just done, then resets with another set; nothing ever relocks. Practice deepens inside each part before the learner moves on — retelling without notes, calculating the coefficient and a remaining amount from partition data, and planning an extraction that uses small repeated portions.

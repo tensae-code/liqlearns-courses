@@ -1,14 +1,17 @@
 # Sources — Burning wood — a transformation in full
 
-countries: Ethiopia
+countries: Ethiopia (teacher-guide evidence only), Uganda
 
 **Book 1:** *Chemistry, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia. Chemistry, Teacher's Guide, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Editors: Tesfaye Semela (Ph.D.) (Curriculum Editor), Kenenisa Beresa (M.A.) (Language Editor), Ahmed Awel (M.Sc.) (Content Editor). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). Evaluators: Legesse Adane (Ph.D.), Nega Gichile, Sefiw Melesse, Tolessa Mergo. The guide carries no separate copyright/ISBN page in this file; it is the companion guide to the Grade 9 Student Textbook (first published August 2023, GEQIP-E; ISBN 978-99990-0-016-1). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-teacher-placements.md.
+
+**Book 2:** *Chemistry Textbook — Senior One Prototype (Lower Secondary Curriculum)* (student) — Uganda. Title as printed: "CHEMISTRY — PROTOTYPE — Senior One" (Lower Secondary Curriculum learner's textbook). Grade: Grade 8 (Senior One). Kind: student. Repo path: grade-08/gov/uganda/chemistry/student/full-year.pdf. Byte size: 12,815,411 (grab-verified; no size in record). PDF pages: 122 (matches books.json record); printed-page offset: printed p. 1 = PDF p. 10 approx. (front matter v–vii). Verdict: COMPLETE. Structural summary: Nine chapters for the new lower-secondary curriculum, each with key words, learning outcomes, activities and end-of-chapter questions: Chemistry and Society; Experimental Chemistry; States and Changes of States of Matter; Using Materials; Temporary and Permanent Changes to Materials; Mixtures, Elements and Compounds; Air; Water; Rocks and Minerals. Uganda's way: chemistry is framed through materials and the Ugandan economy from the first chapter. Records deduped (carried from the placements): 5 records = 3 distinct books (Senior One prototype and Senior Five home-study each appear as TSV + books.json records for the same book; Senior Four home-study is books.json only) — this book is cited once here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Burning wood — a transformation in full (teacher guide — evidence) | Ethiopia, *Chemistry, Teacher's Guide, Grade 9*, Printed pp. 6–7 |
+| Ch. 5 Temporary and Permanent Changes to Materials (Uganda, Grade 8) | Book 2 (Grade 8), printed p. 50 — Temporary (physical) vs permanent (chemical) changes and classifying changes |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Uganda).** Ethiopia is named as teacher-guide evidence only (*Chemistry, Teacher's Guide, Grade 9* — teacher guide), not added to this count.
 
 Book errors taught corrected, named here only: the cover spells "Measurments" for Measurements; one Unit 3 summary passage dates Rutherford's nucleus work "in 1920" — the gold-foil work is 1909/1911 and is taught so; the proton is credited in different passages to Goldstein (1886, perforated-cathode work) and to Rutherford (1920) — both steps are taught in their order; Lewis's dates are printed once as "1875-1046" — taught corrected as 1875–1946; the Unit 2 competencies promise the factor-label method by name but the student sections never teach it by that name — it is taught explicitly in its own lesson from the teacher guide; Unit 4's older group labels are inconsistent ("Group VIIB elements are called as halogens", "Group 0" for noble gases) — taught with the modern family names; recurring typos "iconic compounds" (ionic compounds) and "glass road" (glass rod) are taught corrected.
 
