@@ -1,6 +1,6 @@
 # Sources — What makes an ecosystem self-supporting
 
-countries: Ethiopia, Costa Rica
+countries: Ethiopia, Costa Rica, Syria
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -8,16 +8,21 @@ countries: Ethiopia, Costa Rica
 
 **Book 3:** Biología Undécimo — Antologías CONED (Código 80026; CONED–UNED, Costa Rica) — Costa Rica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-5): grade-11-gov-costa-rica-biology-student-biologia-coned-11.pdf. Byte size: 5,592,023 — PDF pages: 208 — Printed pages: 206 (bibliography) — Printed-page offset: printed p. = PDF page (Tabla de Contenidos at printed pp. 5–6). Verdict: COMPLETE — five units, unit schemas, exercises and bibliography all present. Structural summary: Unit 1 opens with a mimicry case (Eristalis tenax, the hoverfly that imitates a bee) and teaches ecological relationships — including coevolution and a full parasitology strand (parasite life cycles, vectors, transmission, prevention). Unit 2 teaches ecosystem thermodynamics outright — the laws of thermodynamics and entropy in a school text. Unit 3 pairs biogeochemical cycles with photosynthesis and respiration compared side by side. Unit 4 is ecological succession, including succession in coastal habitats and ecological restoration. Unit 5 closes with sustainable development and climate change in Costa Rica, under the reading "Costa Rica, un país Sustentable". Placements at liqlearns-courses-work/expansion-biology-2026-11-13/costa-rica-placements.md.
 
+**Book 4:** علم الأحياء والأرض — الصف السابع (Biology & Earth Science, Grade 7) — Syrian Arab Republic, Ministry of Education, National Center for Curriculum Development (NCCD), 2022 edition (Syria MoE / NCCD 2021–2022, printed 2022) — Syria. Grade: 7 — Kind: student as verified — Repo path (release full-quality-oversized-books): grade-07-gov-syria-science-student-full-year.pdf — Byte size: 120,700,651 — PDF pages: 172 — Printed pages: 172 (contents الفهرست at printed pp. 3–4); printed p. = PDF page. Verdict: COMPLETE — five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 144–145 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 93–101 |
 | Costa Rica's way — Unit 4 Temas: Sucesión ecológica en habitas costeros (succession in coastal habitats); Restauración ecológica (ecological restoration) — Costa Rica teaches succession where its own coast is concerned, and ties it to restoring ecosystems | Book 3 (Biología Undécimo — Antologías CONED, student anthology, Grade 11), Unit 4, printed pp. 162–166 |
+| Syria's way — ecological balance (placement slug: what-makes-an-ecosystem-self-supporting) | Book 4 (Biology & Earth Science, student textbook, Grade 7), Unit 5, Lesson 3: التوازن البيئي (Ecological Balance) — printed p. 164 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Costa Rica).**
+**Acceptance count: taught in 3 countries (Ethiopia, Costa Rica, Syria).**
 
 Honesty: the Grade 9 teacher guide paired with the student book is a pre-publication draft whose publication page was never filled in (placeholder date and ISBN) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. The student book is the finished 2023 first publication. Book errors the placements flag are taught corrected and named here only: the contents lists Unit 3 starting at 3.2 although 3.1 exists in the body; the contents omits §4.3.5 (sporulation and parthenogenesis); the wolf's name is printed “Canissimensis” in a table on printed p. 27 and is taught corrected as Canis simensis; “Musa acuminate” is taught corrected as Musa acuminata.
 
 Honesty (Costa Rica): Book 3 is a student anthology as verified in the placements — *Biología Undécimo*, an Antología of CONED (Colegio Nacional de Educación a Distancia), published with UNED, Grade 11 (Código 80026) — so Costa Rica counts toward acceptance. It is COMPLETE: five units, unit schemas, exercises and bibliography all present; 208 PDF pages, printed p. = PDF page. Costa Rica's own way runs through the whole book and is content in this lesson: an ecology course in Spanish written for distance learners, each unit opening with a "Lectura Reflexiva" reading and "Situaciones de aprendizaje" (learning situations).
 
-Searchable tags: biology, ethiopia, what, makes, ecosystem, self, supporting, costa rica
+Honesty (Syria): Book 4 is a student textbook as verified in the placements — علم الأحياء والأرض (Biology & Earth Science), Grade 7, Syria MoE / NCCD, printed 2022 — so Syria counts toward acceptance. It is COMPLETE: five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page (172 printed pp.; printed p. = PDF page). Despite the cover's “and Earth”, the book's own introduction calls it “علم الأحياء والبيئة” (Biology and Environment), and its contents contain NO earth-science unit — all five units are biology and environment, so there is no earth-science debt from this book.
+
+Searchable tags: biology, ethiopia, syria, what, makes, ecosystem, self, supporting, costa rica

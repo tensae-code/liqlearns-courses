@@ -1,6 +1,6 @@
 # Sources — Plantae — from mosses to flowering plants
 
-countries: Ethiopia, Morocco
+countries: Ethiopia, Morocco, Syria
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -8,16 +8,21 @@ countries: Ethiopia, Morocco
 
 **Book 3:** Guide Almoufid SVT — 2e année collégiale (Al Moufid in Life and Earth Sciences, Teacher's Guide) — Morocco. “Al Moufid en Sciences de la Vie et de la Terre — Guide du professeur”, Deuxième Année de l'enseignement collégial (2AC = Grade 8), the French-language teacher guide for the parascolaire manual. Grade: 8 — Kind: teacher as verified — Repo path (release mid-size-books-3): grade-08-gov-morocco-svt-teacher-full-year.pdf. Byte size: 6,082,584 — PDF pages: 90 — Printed-page offset: printed p. = PDF page − 1 (Sommaire at printed p. 88). Verdict: COMPLETE as a guide — methodology part plus both programme units worked as sequences with tasks; the guide ends with its Sommaire. TEACHER'S GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/morocco-placements.md.
 
+**Book 4:** علم الأحياء والأرض — الصف السابع (Biology & Earth Science, Grade 7) — Syrian Arab Republic, Ministry of Education, National Center for Curriculum Development (NCCD), 2022 edition (Syria MoE / NCCD 2021–2022, printed 2022) — Syria. Grade: 7 — Kind: student as verified — Repo path (release full-quality-oversized-books): grade-07-gov-syria-science-student-full-year.pdf — Byte size: 120,700,651 — PDF pages: 172 — Printed pages: 172 (contents الفهرست at printed pp. 3–4); printed p. = PDF page. Verdict: COMPLETE — five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/syria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 35–36 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 14–32 |
 | Alternation of generations in plants — stocked here from the placements slug `biology/alternation-of-generations-in-plants`, which has no lesson of its own; this is the closest existing lesson covering the fern: the fern's reproductive organs and gametes; what happens in the female reproductive organ of the fern prothallus; the pea and fern development cycles drawn as schemas side by side (teacher guide — evidence) | Book 3 (Guide Almoufid SVT, teacher's guide, Grade 8), printed pp. 64–67 |
+| Syria's way — the mosses and the ferns, the spore-plant groups taught in sequence (placement slug: alternation-of-generations-in-plants) | Book 4 (Biology & Earth Science, student textbook, Grade 7), الحزازيات (the mosses) — printed p. 76; السراخس (the ferns) — printed p. 80 |
 
-**Acceptance count: taught in 1 country (Ethiopia) — Morocco's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Syria) — Morocco's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty: the Grade 9 teacher guide paired with the student book is a pre-publication draft whose publication page was never filled in (placeholder date and ISBN) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. The student book is the finished 2023 first publication. Book errors the placements flag are taught corrected and named here only: the contents lists Unit 3 starting at 3.2 although 3.1 exists in the body; the contents omits §4.3.5 (sporulation and parthenogenesis); the wolf's name is printed “Canissimensis” in a table on printed p. 27 and is taught corrected as Canis simensis; “Musa acuminate” is taught corrected as Musa acuminata.
 
 Honesty (Morocco): Morocco's evidence here is a teacher's guide only — the Guide Almoufid SVT, Grade 8 — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count.
 
-Searchable tags: biology, ethiopia, morocco, plantae, from, mosses, flowering, plants
+Honesty (Syria): Book 4 is a student textbook as verified in the placements — علم الأحياء والأرض (Biology & Earth Science), Grade 7, Syria MoE / NCCD, printed 2022 — so Syria counts toward acceptance. It is COMPLETE: five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page (172 printed pp.; printed p. = PDF page). Despite the cover's “and Earth”, the book's own introduction calls it “علم الأحياء والبيئة” (Biology and Environment), and its contents contain NO earth-science unit — all five units are biology and environment, so there is no earth-science debt from this book.
+
+Searchable tags: biology, ethiopia, syria, morocco, plantae, from, mosses, flowering, plants
