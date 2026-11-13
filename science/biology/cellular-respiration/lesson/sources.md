@@ -1,17 +1,22 @@
 # Sources — Cellular Respiration
 
-countries: Ethiopia
+countries: Ethiopia, Costa Rica
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
+
+**Book 2:** Biología Undécimo — Antologías CONED (Código 80026; CONED–UNED, Costa Rica) — Costa Rica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-5): grade-11-gov-costa-rica-biology-student-biologia-coned-11.pdf. Byte size: 5,592,023 — PDF pages: 208 — Printed pages: 206 (bibliography) — Printed-page offset: printed p. = PDF page (Tabla de Contenidos at printed pp. 5–6). Verdict: COMPLETE — five units, unit schemas, exercises and bibliography all present. Structural summary: Unit 1 opens with a mimicry case (Eristalis tenax, the hoverfly that imitates a bee) and teaches ecological relationships — including coevolution and a full parasitology strand (parasite life cycles, vectors, transmission, prevention). Unit 2 teaches ecosystem thermodynamics outright — the laws of thermodynamics and entropy in a school text. Unit 3 pairs biogeochemical cycles with photosynthesis and respiration compared side by side. Unit 4 is ecological succession, including succession in coastal habitats and ecological restoration. Unit 5 closes with sustainable development and climate change in Costa Rica, under the reading "Costa Rica, un país Sustentable". Placements at liqlearns-courses-work/expansion-biology-2026-11-13/costa-rica-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Cellular respiration: glycolysis, the Krebs cycle and the electron transport system (§3.4): | Student Textbook, Grade 12 — Printed pp. 136–148. |
+| Costa Rica's way — Unit 3 Temas: Respiración celular o aeróbica; Semejanzas y diferencias entre la síntesis de clorofila y respiración aeróbica (cellular or aerobic respiration; similarities and differences between chlorophyll synthesis and aerobic respiration — Costa Rica's own way: photosynthesis and respiration compared side by side) | Book 2 (Biología Undécimo — Antologías CONED, student anthology, Grade 11), Unit 3, printed pp. 130–132 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Costa Rica).**
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, cellular, respiration
+Honesty (Costa Rica): Book 2 is a student anthology as verified in the placements — *Biología Undécimo*, an Antología of CONED (Colegio Nacional de Educación a Distancia), published with UNED, Grade 11 (Código 80026) — so Costa Rica counts toward acceptance. It is COMPLETE: five units, unit schemas, exercises and bibliography all present; 208 PDF pages, printed p. = PDF page. Costa Rica's own way runs through the whole book and is content in this lesson: an ecology course in Spanish written for distance learners, each unit opening with a "Lectura Reflexiva" reading and "Situaciones de aprendizaje" (learning situations).
+
+Searchable tags: biology, ethiopia, cellular, respiration, costa rica

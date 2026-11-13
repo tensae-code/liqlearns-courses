@@ -1,15 +1,20 @@
 # Sources — Harmful insects — pests and disease carriers
 
-countries: Ethiopia
+countries: Ethiopia, Costa Rica
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Biología Undécimo — Antologías CONED (Código 80026; CONED–UNED, Costa Rica) — Costa Rica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-5): grade-11-gov-costa-rica-biology-student-biologia-coned-11.pdf. Byte size: 5,592,023 — PDF pages: 208 — Printed pages: 206 (bibliography) — Printed-page offset: printed p. = PDF page (Tabla de Contenidos at printed pp. 5–6). Verdict: COMPLETE — five units, unit schemas, exercises and bibliography all present. Structural summary: Unit 1 opens with a mimicry case (Eristalis tenax, the hoverfly that imitates a bee) and teaches ecological relationships — including coevolution and a full parasitology strand (parasite life cycles, vectors, transmission, prevention). Unit 2 teaches ecosystem thermodynamics outright — the laws of thermodynamics and entropy in a school text. Unit 3 pairs biogeochemical cycles with photosynthesis and respiration compared side by side. Unit 4 is ecological succession, including succession in coastal habitats and ecological restoration. Unit 5 closes with sustainable development and climate change in Costa Rica, under the reading "Costa Rica, un país Sustentable". Placements at liqlearns-courses-work/expansion-biology-2026-11-13/costa-rica-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Harmful insects | Student Textbook, Grade 11 — Printed pp. 47–48. |
+| Costa Rica's way — Unit 1 Temas: Vectores Parasitarios (formas de transmisión, prevención) (parasitic vectors — forms of transmission, prevention) — stocked here from the placements slug `biology/controlling-pests-without-poisons`, which has no lesson of its own; this is the closest existing lesson covering that thing (harmful insects, pests and disease carriers — the vectors that carry parasites and disease, how they transmit, and how transmission is prevented) | Book 2 (Biología Undécimo — Antologías CONED, student anthology, Grade 11), Unit 1, printed p. 33 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Costa Rica).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, harmful, insects, pests, and, disease, carriers
+Honesty (Costa Rica): Book 2 is a student anthology as verified in the placements — *Biología Undécimo*, an Antología of CONED (Colegio Nacional de Educación a Distancia), published with UNED, Grade 11 (Código 80026) — so Costa Rica counts toward acceptance. It is COMPLETE: five units, unit schemas, exercises and bibliography all present; 208 PDF pages, printed p. = PDF page. Costa Rica's own way runs through the whole book and is content in this lesson: an ecology course in Spanish written for distance learners, each unit opening with a "Lectura Reflexiva" reading and "Situaciones de aprendizaje" (learning situations).
+
+Searchable tags: biology, ethiopia, harmful, insects, pests, and, disease, carriers, costa rica
