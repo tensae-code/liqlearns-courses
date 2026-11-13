@@ -1,14 +1,17 @@
 # Sources — Calculating with significant figures
 
-countries: Ethiopia
+countries: Ethiopia, Yemen
 
 **Book 1:** *Chemistry, Student Textbook, Grade 9* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-016-1. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-student-placements.md.
+
+**Book 2:** *الكيمياء للصف الأول الثانوي (Chemistry for the First Secondary Year)* (student textbook) — Yemen. Title as printed: الكيمياء للصف الأول الثانوي. Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curricula Sector / General Administration of Curricula (الجمهورية اليمنية، وزارة التربية والتعليم والبحث العلمي، قطاع المناهج وتخطيط التعليم، الإدارة العامة للمناهج); print rights reserved 1448 AH / 2027 CE (an e-learning edition, distributed via http://E-learning-moe.edu.ye). Grade: 10 · Kind: student textbook. Repo path: release `mid-size-books`, asset `grade-10-gov-yemen-chemistry-student-full-year.pdf`. Byte size: 30,078,903 · PDF pages: 194 · Printed-page offset: printed page = PDF page − 1 (folio 3 on PDF p. 4; folio 192 on PDF p. 193; back cover PDF p. 194). Verdict: COMPLETE — read in full, page by page, as rendered page images (the PDF's embedded text layer uses a legacy Arabic font encoding that extracts as gibberish, so the whole book was read visually from 100-DPI page sheets; tesseract OCR was tested and abandoned as too slow on this host). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/yemen-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Calculating with significant figures | Ethiopia, *Chemistry, Student Textbook, Grade 9*, Printed pp. 33–35 |
+| Unit 1 (Yemen, Grade 10) | Book 2 (Grade 10) — Unit 1 — printed pp. 27–28 — Arithmetic obeys the weakest measurement: in addition and subtraction the answer keeps the decimal places of the least precise value (worked column additions ending 26.32 and 127.4), and in multiplication and division it keeps the significant-figure count of the least precise value (27.2001/2.2 = 12; 250.100 × 4.812 rounded to 121). |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Yemen).**
 
 Book errors taught corrected, named here only: the cover spells "Measurments" for Measurements; one Unit 3 summary passage dates Rutherford's nucleus work "in 1920" — the gold-foil work is 1909/1911 and is taught so; the proton is credited in different passages to Goldstein (1886, perforated-cathode work) and to Rutherford (1920) — both steps are taught in their order; Lewis's dates are printed once as "1875-1046" — taught corrected as 1875–1946; the Unit 2 competencies promise the factor-label method by name but the student sections never teach it by that name — it is taught explicitly in its own lesson from the teacher guide; Unit 4's older group labels are inconsistent ("Group VIIB elements are called as halogens", "Group 0" for noble gases) — taught with the modern family names; recurring typos "iconic compounds" (ionic compounds) and "glass road" (glass rod) are taught corrected.
 

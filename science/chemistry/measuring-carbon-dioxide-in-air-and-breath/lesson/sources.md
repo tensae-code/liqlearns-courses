@@ -1,0 +1,13 @@
+# Sources — Measuring carbon dioxide in air and breath
+
+countries: Yemen (teacher evidence only)
+
+**Book 1 (teacher evidence only):** *دليل المعلم لتدريس كتاب الكيمياء للصف الثالث الثانوي (Teacher's Guide for Teaching the Chemistry Book, Third Secondary Year)* (TEACHER guide) — Yemen. Title as printed: دليل المعلم لتدريس كتاب الكيمياء للصف الثالث الثانوي. Publisher: Republic of Yemen, Ministry of Education, Curricula and Guidance Sector, General Administration for Curricula; second edition 1433 AH / 2012 CE; approved by the Higher Curricula Committee (meeting 41, 1/9/2002) for the school year 2003/2004. Lead author: Prof. Dawood Abdulmalik al-Hadaabi. Grade: 12 · Kind: teacher guide — the official teacher's guide to the Grade 12 student textbook (Book 4 of the Yemen set), same nine units, same order. Repo path: release `mid-size-books-3`, asset `grade-12-gov-yemen-chemistry-teacher-full-year.pdf`. Byte size: 7,400,903 · PDF pages: 90 · Printed-page offset: printed page = PDF page − 1 (folios run 3–87; one preface pair is transposed in the scan; PDF p. 90 is the back cover). Verdict: COMPLETE — read in full as rendered page images. EVIDENCE ONLY: this teacher guide is cited as teacher evidence only and is NOT counted toward this lesson's acceptance count; placements from it are only the guide's added content (background, activities and evaluation answers that do not merely repeat the student book). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 9 activities [teacher evidence] (Yemen, Grade 12) | Book 1 (Grade 12) [teacher evidence] — Unit 9 activities [teacher evidence] — printed pp. 85–86 — Activities 13 and 14 measure CO2 volumetrically with a drawn two-tube manometer apparatus: air is drawn into a conical flask over a small beaker of 6M sodium hydroxide sealed under a layer of mineral oil, the flask is shaken by hand (held by the neck so the hand's heat does not falsify the reading) until the liquid level in tube B stops rising, and the CO2 percentage is computed from the partial pressure — %CO2 = (mm Hg of CO2 ÷ atmospheric mm Hg) × 100, with atmospheric pressure taken as 760 mmHg at sea level and the result matching the known ≈ 0.03% (the reaction given: 2NaOH + CO2 → Na2CO3 + H2O); Activity 14 repeats the measurement on exhaled breath, blowing through tube A six to eight times with the cheek, and the class compares breath against air. |
+
+**Acceptance count: taught in 0 countries — teacher-guide evidence only (Yemen), counted nowhere.**
+
+Searchable tags: chemistry, Yemen, Measuring carbon dioxide in air and breath

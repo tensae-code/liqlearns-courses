@@ -1,0 +1,13 @@
+# Sources — Polymerisation in the classroom — glue, borax and interfacial films
+
+countries: Yemen (teacher evidence only)
+
+**Book 1 (teacher evidence only):** *دليل المعلم لتدريس كتاب الكيمياء للصف الثالث الثانوي (Teacher's Guide for Teaching the Chemistry Book, Third Secondary Year)* (TEACHER guide) — Yemen. Title as printed: دليل المعلم لتدريس كتاب الكيمياء للصف الثالث الثانوي. Publisher: Republic of Yemen, Ministry of Education, Curricula and Guidance Sector, General Administration for Curricula; second edition 1433 AH / 2012 CE; approved by the Higher Curricula Committee (meeting 41, 1/9/2002) for the school year 2003/2004. Lead author: Prof. Dawood Abdulmalik al-Hadaabi. Grade: 12 · Kind: teacher guide — the official teacher's guide to the Grade 12 student textbook (Book 4 of the Yemen set), same nine units, same order. Repo path: release `mid-size-books-3`, asset `grade-12-gov-yemen-chemistry-teacher-full-year.pdf`. Byte size: 7,400,903 · PDF pages: 90 · Printed-page offset: printed page = PDF page − 1 (folios run 3–87; one preface pair is transposed in the scan; PDF p. 90 is the back cover). Verdict: COMPLETE — read in full as rendered page images. EVIDENCE ONLY: this teacher guide is cited as teacher evidence only and is NOT counted toward this lesson's acceptance count; placements from it are only the guide's added content (background, activities and evaluation answers that do not merely repeat the student book). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 8 activities [teacher evidence] (Yemen, Grade 12) | Book 1 (Grade 12) [teacher evidence] — Unit 8 activities [teacher evidence] — printed p. 78 — Activity 15, preparing a polymer (تحضير البوليمر): 60 mL of paper glue mixed with 60 mL of water in a glass beaker, poured into four paper cups; a borax solution (5 g in 100 mL water) is added in increasing doses (5 mL, 10 mL, 20 mL) and each cup's contents drawn out and stretched — the stretch length grows as the borax share rises, and the guide classifies the ways polymerisation is run (bulk polymerisation بلمرة الكتلة, solution, suspension مستحلبات and emulsion polymerisation) and names the interfacial polymerisation (البلمرة البينية) of the nylon rope trick as the same family of process, noting borax cross-links the glue polymer and the more cross-linking, the greater the molecular weight and the stronger the polymer. |
+
+**Acceptance count: taught in 0 countries — teacher-guide evidence only (Yemen), counted nowhere.**
+
+Searchable tags: chemistry, Yemen, Polymerisation in the classroom — glue, borax and interfacial films

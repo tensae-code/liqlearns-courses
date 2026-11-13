@@ -1,6 +1,6 @@
 # Sources — Alkanes at work — fuels
 
-countries: Ethiopia, Ecuador, Vietnam, Greece, Afghanistan
+countries: Ethiopia, Ecuador, Vietnam, Greece, Afghanistan, Yemen
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Ecuador, Vietnam, Greece, Afghanistan
 
 **Book 5:** *کیمیا صنف نهم (Chemistry, Grade 9)* (student textbook) — Afghanistan. Title as printed: کیمیا — Chemistry, صنف نهم (Grade 9); Ministry of Education, Kabul; printed 1399 HS; text language Dari (book-specifications page). Grade: 9. Kind as verified: student textbook (matches record). Record repo path: grade-09/gov/afghanistan/کیمیا_صنف_نهم.pdf — NOT in tree (folder listing holds biology, Islamic education and mathematics only). Actual secured copy: release asset grade-09-gov-afghanistan-09af18aca2.pdf (mid-size-books-7), identified by cover scan of the grade's hash-named assets. Byte size: 25,727,648 (no size in record). PDF pages: 81. Printed-page offset: printed p. = PDF p. − 6 (Chapter 1 printed p. 2 = PDF p. 8); printed pages cited are the contents-page numbers. Verdict: COMPLETE (4 chapters, chapter summaries and exercises all present). Structure: the whole year is organic chemistry: Ch.1 Organic compounds; Ch.2 Hydrocarbons; Ch.3 Functional groups in organic compounds; Ch.4 Reactions of organic compounds. (Inorganic compounds were covered briefly in Grades 7–8, per the introduction.) Records: staging books.json only (no TSV row — a known record debt; the record claims in_pushed: true but its tree path is false — the book lives only as the hash-named release asset named above) — cited once here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/afghanistan-placements.md.
 
+**Book 6:** *الكيمياء للصف الأول الثانوي (Chemistry for the First Secondary Year)* (student textbook) — Yemen. Title as printed: الكيمياء للصف الأول الثانوي. Publisher: Republic of Yemen, Ministry of Education and Scientific Research, Curricula Sector / General Administration of Curricula (الجمهورية اليمنية، وزارة التربية والتعليم والبحث العلمي، قطاع المناهج وتخطيط التعليم، الإدارة العامة للمناهج); print rights reserved 1448 AH / 2027 CE (an e-learning edition, distributed via http://E-learning-moe.edu.ye). Grade: 10 · Kind: student textbook. Repo path: release `mid-size-books`, asset `grade-10-gov-yemen-chemistry-student-full-year.pdf`. Byte size: 30,078,903 · PDF pages: 194 · Printed-page offset: printed page = PDF page − 1 (folio 3 on PDF p. 4; folio 192 on PDF p. 193; back cover PDF p. 194). Verdict: COMPLETE — read in full, page by page, as rendered page images (the PDF's embedded text layer uses a legacy Arabic font encoding that extracts as gibberish, so the whole book was read visually from 100-DPI page sheets; tesseract OCR was tested and abandoned as too slow on this host). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/yemen-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Alkanes at work | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed pp. 262–263 (section 6.2.8) |
@@ -19,8 +21,12 @@ countries: Ethiopia, Ecuador, Vietnam, Greece, Afghanistan
 | Topic 2, Bài 7 Chemistry of combustion and explosion reactions (Vietnam, Grade 10) | Book 3 (Grade 10), Topic 2, Bài 7 Chemistry of combustion and explosion reactions, printed p. 38 — the chemistry of burning fuels and explosive mixtures. |
 | Unit 3 Ch.1.4–1.6 (Greece, Grade 9) | Book 4 (Grade 9), Unit 3 Ch.1.4–1.6 — printed p. 84 — Hydrocarbons as fuels; the air pollution they cause and protection measures. |
 | Ch.2 §Methane (Afghanistan, Grade 9) | Book 5 (Grade 9), Ch.2 §Methane — printed p. 20 — methane with natural gas (introduction). |
+| Unit 8 (Yemen, Grade 10) | Book 6 (Grade 10) — Unit 8 — printed p. 170 — Methane's uses are industrial chemistry in miniature: heated to 1000 °C it splits into carbon black for car tyres and printing ink and hydrogen; passed with steam over nickel on alumina at 725 °C the same split feeds ammonia manufacture; and it is the starting material for methyl chloride, chloroform, methanol and formaldehyde, besides serving as a fuel once liquefied under pressure. |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Ecuador, Vietnam, Greece, Afghanistan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Ecuador, Vietnam, Greece, Afghanistan, Yemen).**
+
+**Placement-choice note (Yemen):** the Yemen placements file names `chemistry/methane-at-work-carbon-black-and-hydrogen` for this content; that thing is covered by this lesson, so the Yemen provenance rows above are stocked here and the original slug is recorded verbatim in this note.
+
 
 Book errors taught corrected, named here only: the contents misprints "SOLLUTIONS" for Solutions (Unit 2) and lists Unit 6 sections 6.3 and 6.4 both as aromatic hydrocarbons — in the body 6.3 covers alkenes and alkynes and is taught so; the Unit 3 summary repeats its deliquescent-salt sentence twice — taught once; "Phosphorous" is used throughout for the element phosphorus — taught corrected as phosphorus; several Unit 6 review reaction equations are typeset in garbled layout — the reactions are taught from the section text, where they are recoverable.
 
