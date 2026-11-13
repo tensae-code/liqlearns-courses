@@ -1,0 +1,15 @@
+# Sources — Excretion and osmosis in plants
+
+countries: Pakistan (Punjab)
+
+**Book 1:** Biology Class 9 SNC — Punjab Board (PCTB) (as printed: BIOLOGY 9, Based on Revised National Curriculum of Pakistan 2023) — Pakistan (Punjab). Grade: 9 (grade-09) — Kind: student as verified — Repo path: grade-09/gov/pakistan/biology/student/full-year.pdf (read from the phase3-staging on-disk copy) — Source URL: https://drive.google.com/uc?export=download&id=1rH5qC3FM12nPcH1zIVbm25tMKWxMv-3P — Byte size: 31,362,949 (matches books.json exactly) — PDF pages: 180 — Printed-page offset: printed p. = PDF page (contents = PDF pp. 3–4; glossary ends printed p. 180) — Verdict: COMPLETE — Punjab Curriculum and Textbook Board, Lahore; “Experimental Edition”, authors incl. Dr Raheela Nadeem, Dr Robeela Shabbir, Dr Adnan Ahmad Rana; approved under the updated/revised National Curriculum of Pakistan 2023 (the record's “SNC” label is the older name for the same single-national-curriculum line). The web version carries the “Web version of PCTB Textbook” watermark. Image-only scan — read from rendered contact sheets (cover/imprint, full contents, chapter 1, glossary end). All 11 chapters + glossary (printed pp. 173–180, A–Z complete, last entry “Zygote”) present. Structural summary: The 2023-curriculum rewrite is more modern in shape than the eLearn edition: Ch 1 The Science of Biology (branches; biology's relation with other sciences incl. biophysics/biochemistry/computational biology/bio-economics; careers; “Quranic instructions to reveal the study of life”; science as a collaborative field; scientific method; theory and law/principle; malaria as the example of biological method) → Ch 2 Biodiversity → Ch 3 The Cell → Ch 4 Cell Cycle → Ch 5 Tissues, Organs and Organ Systems → Ch 6 Biomolecules → Ch 7 Enzymes → Ch 8 Bioenergetics → Ch 9 Plant Physiology → Ch 10 Reproduction in Plants → Ch 11 Biostatistics → glossary. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/pakistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The whole lesson — Ch 9.7–9.8: mechanisms for excretion in plants; osmotic adjustments in plants — plant excretion/osmoregulation as named topics have no existing slug at this level (placement: NEW LESSON NEEDED: excretion-and-osmosis-in-plants — no existing slug covers this, so this lesson was built for it) | Book 1 (Biology Class 9 SNC — Punjab Board (PCTB), student textbook, Grade 9), printed pp. 140–142 |
+
+**Acceptance count: taught in 1 country (Pakistan (Punjab)).**
+
+Honesty (Pakistan (Punjab)): Book 1 is a student textbook as verified in the placements — *Biology Class 9 SNC* (as printed: BIOLOGY 9, Based on Revised National Curriculum of Pakistan 2023), Grade 9, Punjab Curriculum and Textbook Board, Lahore — so Pakistan (Punjab) counts toward acceptance. It is COMPLETE: all 11 chapters + glossary (printed pp. 173–180, A–Z complete, last entry “Zygote”) present (180 PDF pages; printed p. = PDF page).
+
+Searchable tags: biology, pakistan, punjab, excretion, and, osmosis, in, plants
