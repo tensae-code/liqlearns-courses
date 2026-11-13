@@ -1,6 +1,6 @@
 # Sources — Barrier contraceptives
 
-countries: Ethiopia, Bhutan, Mozambique
+countries: Ethiopia, Bhutan, Mozambique, Greece
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Bhutan, Mozambique
 
 **Book 3:** *Módulo 7 de Biologia — Sistema nervoso, endócrino, órgãos dos sentidos, reprodução e ontogénese* — Mozambique. Grade: PESD II, 2º ciclo (grades 10–12); kind: student (verified) Repo path: grade-10/gov/mozambique/biologia/student/Biologia7-2o-Ciclo.pdf (duplicate: TSV blob URL + books.json record, same path) Byte size: 2,945,381 (matches books.json exactly); PDF pages: 133; printed pages 1–128, offset PDF p. − 5 Verdict: COMPLETE — all 15 lessons, solutions and preparation test present Structure: coordination, senses, reproduction and development. Lessons: 1 nervous system and neuron; 2 nerve impulse, synapse, reflex acts; 3 evolution of the vertebrate brain (encephalon) and its disorders; 4 endocrine system and hormone properties; 5 endocrine glands and their hormones; 6 sense organs and receptor types; 7 eye and ear; 8 tongue, nose and skin; 9 reproductive systems (hermaphrodite invertebrates, birds); 10 human male and female systems; 11 menstrual cycle and hormonal regulation; 12 contraceptive methods and family planning; 13 physiology of childbirth; 14 ontogenesis and egg types; 15 phases of embryonic development. All Mozambique books are IEDA (Instituto de Educação Aberta e à Distância) PESD distance-learning self-study modules in Portuguese, Ministry of Education. Each was recorded twice in the library records (a TSV record and a books.json record for the same repo path) — a verified duplicate, taught once and cited once here. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/mozambique-placements.md.
 
+**Book 4:** Βιολογία Α΄ Γυμνασίου — Τετράδιο Εργασιών (Biologia A' Gymnasiou, Workbook) — Greece. Grade: Grade 7 Kind: workbook (verified) Repo path/source: grade-07/gov/greece/biology/workbook/full-year.pdf (books.json, tree) Byte size: 4,089,343 (matches record exactly) PDF pages: 90; printed-page offset: printed = PDF − 1 Verdict: COMPLETE — all 42 activities (1.1–7.2) present in unit order to printed p. 85+ Structural summary: Activity workbook mirroring the textbook's 7 units, with playful scenario titles and discovery-learning tasks (group work, presentations, real-life data). Distinctive Greece-only angles: food preservatives in my plate, blood-pressure diary morning/evening, blood groups, pollution and circulation, artificial respiration, posture, monocots/dicots in the field, animal metamorphoses, adolescent problems, conception and contraception. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Contraceptives — barrier methods | Student Textbook, Grade 11 — Printed pp. 198–199. |
 | Bhutan's way — Ch. 4.3: contraception and pregnancy prevention, incl. barrier methods | Book 2 (BIOLOGY — CLASS 10, student textbook, Grade 10), printed pp. 108–109 |
 | Mozambique's way — Lesson 12 — the male condom described (impermeable rubber sheath preventing direct contact between partners' sexual organs). | Book 3 (*Módulo 7 de Biologia — Nervoso, endócrino, sentidos, reprodução e ontogénese*, student module, PESD II, grades 10–12), printed p. 85 |
+| Greece's way — Activity 6.4 (conception and contraception) | Book 4 (*Βιολογία Α΄ Γυμνασίου — Τετράδιο Εργασιών (Workbook), Grade 7*, workbook), printed p. 81 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bhutan, Mozambique).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Mozambique, Greece).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
@@ -22,4 +25,6 @@ Honesty (Bhutan): Book 2 is a student textbook as verified in the placements —
 
 Honesty (Mozambique): Book 3 (*Módulo 7 de Biologia — Nervoso, endócrino, sentidos, reprodução e ontogénese*) is an IEDA PESD distance-learning self-study student module in Portuguese (Ministry of Education, Mozambique), as verified in the placements — so Mozambique counts toward acceptance. It is COMPLETE as stated in its book entry above. Each was recorded twice in the library records (a TSV record and a books.json record for the same repo path) — a verified duplicate, taught once and cited once here.
 
-Searchable tags: biology, ethiopia, barrier, contraceptives, bhutan, mozambique
+Honesty (Greece): Book 4 (*Βιολογία Α΄ Γυμνασίου — Τετράδιο Εργασιών (Workbook), Grade 7*) is a workbook as verified in the placements — so Greece counts toward acceptance. It is COMPLETE as stated in its book entry above. Greece's library records duplicate each other (TSV records duplicate books.json records by book, and the books.json grade-09 entries are cross-reference copies of the grade-08 B'–C' Gymnasiou books) — every Greece book is taught once and cited once here, exactly as the placements file files it.
+
+Searchable tags: biology, ethiopia, barrier, contraceptives, bhutan, mozambique, greece

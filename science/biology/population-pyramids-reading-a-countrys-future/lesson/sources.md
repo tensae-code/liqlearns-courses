@@ -1,15 +1,20 @@
 # Sources — Population pyramids — reading a country's future
 
-countries: Ethiopia
+countries: Ethiopia, Greece
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Βιολογία Β΄ Γενικού Λυκείου (Biologia B' Lykeiou, Grade 11) — Vivlio Mathiti, Τεύχος Α΄ (single general-education volume in this record) — Greece. Grade: Grade 11 Kind: student textbook (verified; general-education "Άνθρωπος και Υγεία / Άνθρωπος και Περιβάλλον / Εξέλιξη" book, book code 0-22-0072) Repo path/source: grade-11/gov/greece/biology/teuxos-a.pdf (books.json); same book as TSV release grade-11-gov-greece-biology-teuxos-a.pdf Byte size: 13,757,644 (matches record exactly) PDF pages: 162; printed-page offset: printed = PDF − 1 Verdict: COMPLETE — all 3 chapters and the Nutrition insert, bibliography at printed p. 159 Structural summary: Grade 11 general biology in three blocks: 1 Humans and Health — health factors, micro-organisms (pathogen categories; transmission and control), defence mechanisms and immunity (non-specific/specific, immune-system problems, AIDS), cancer, addictive substances; 2 Humans and Environment — ecosystem concept and characteristics, energy flow (chains, webs, pyramids, productivity), biogeochemical cycles, human population, biodiversity loss, desertification, pollution; 3 Evolution — classification and evolution, Lamarck, natural selection (with clarifications and "in action" cases), modern synthesis, phylogeny evidence, human evolution from primates to first humans and human population diversity. Insert: Nutrition (p. 155). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/greece-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Demographic structure — rates and population pyramids | Student Textbook, Grade 11 — Printed pp. 241–243. |
+| Greece's way — §2.4 (the human population: growth and structure) | Book 2 (*Βιολογία Β΄ Γενικού Λυκείου (Biologia B' Lykeiou), Grade 11*, student textbook), printed p. 92 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Greece).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, population, pyramids, reading, country, future
+Honesty (Greece): Book 2 (*Βιολογία Β΄ Γενικού Λυκείου (Biologia B' Lykeiou), Grade 11*) is a student textbook as verified in the placements — so Greece counts toward acceptance. It is COMPLETE as stated in its book entry above. This record holds a single general-education volume (Τεύχος Α΄, book code 0-22-0072), exactly as the placements file files it. Greece's library records duplicate each other (TSV records duplicate books.json records by book, and the books.json grade-09 entries are cross-reference copies of the grade-08 B'–C' Gymnasiou books) — every Greece book is taught once and cited once here, exactly as the placements file files it.
+
+Searchable tags: biology, ethiopia, population, pyramids, reading, country, future, greece

@@ -1,0 +1,17 @@
+# Sources — Techniques of molecular biology
+
+countries: Greece
+
+**Book 1:** Βιολογία Γ΄ Γενικού Λυκείου, Ομάδας Προσανατολισμού — Τεύχος Β΄ (Grade 12 orientation volume B) — Greece. Grade: Grade 12 Kind: student textbook (verified; book code 0-22-0178; written as a sequence of stated propositions, each chapter ending with summary and questions) Repo path/source: grade-12/gov/greece/biology/teuxos-b.pdf (books.json); same book as TSV release grade-12-gov-greece-biology-teuxos-b.pdf Byte size: 21,843,888 (matches record exactly) PDF pages: 210; printed-page offset: printed = PDF − 1 Verdict: COMPLETE — all 12 chapters, appendix "Techniques used in Biology" (printed p. 179), glossary (p. 199), bibliography (p. 206) Structural summary: Genetics-and-biotechnology volume in proposition style: 1 The genetic material (DNA as genetic material, nucleotides, double helix, prokaryotic/eukaryotic organisation, human karyotype, organelle DNA, viral genomes); 2 Replication, expression and regulation of genetic information (incl. genetic code, prokaryotic/eukaryotic gene regulation); 3 Viruses (structure, phage cycle, animal/plant viruses, viroids; prions insert); 4 Recombinant DNA technology (genomic/cDNA libraries, hybridisation, PCR); 5 Mendelian inheritance (both laws, incomplete/codominance, lethal and multiple alleles, pedigrees, autosomal and sex-linked patterns); 6 Mutations (sickle-cell case, types, causes, haemoglobin and metabolic disorders, chromosomal abnormalities, diagnosis/counselling/prenatal testing, cancer from mutations); 7 Biotechnology principles (microbial cultures, fermentation scale-up, penicillin); 8 Medicine (pharmaceutical proteins, monoclonal antibodies, vaccines, antibiotics, gene therapy, Human Genome Project); 9 Agriculture/livestock (controlled crosses, transgenics, Agrobacterium, pest control, pharming, cloning); 10 Industry (biomass, yeasts, alcoholic and dairy fermentations, biometallurgy); 11 Environment (sewage/waste treatment, oil spills); 12 Bioethics. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Greece's way — Appendix ("Techniques used in Biology" appendix (20 pages of named laboratory techniques)) | Book 1 (*Βιολογία Γ΄ Γενικού Λυκείου — Τεύχος Β΄ (Grade 12 orientation volume B)*, student textbook), printed p. 179 |
+
+**Acceptance count: taught in 1 country (Greece).**
+
+Placement choice, on the record: this NEW LESSON was built for the Greece placement "NEW LESSON NEEDED: techniques-of-molecular-biology" — greece-placements.md. No existing lesson covers this thing as its own topic at merge time, so it gets its own lesson. It sits in biology/ and is registered in CURRICULUM.md Unit 16 (Biology) as lesson 656. Greece's own way of teaching the thing, as the placements describe it, IS content in this lesson, carried exactly as described.
+
+Honesty (Greece): Book 1 (*Βιολογία Γ΄ Γενικού Λυκείου — Τεύχος Β΄ (Grade 12 orientation volume B)*) is a student textbook as verified in the placements — so Greece counts toward acceptance. It is COMPLETE as stated in its book entry above. Greece's library records duplicate each other (TSV records duplicate books.json records by book, and the books.json grade-09 entries are cross-reference copies of the grade-08 B'–C' Gymnasiou books) — every Greece book is taught once and cited once here, exactly as the placements file files it.
+
+Searchable tags: biology, greece, techniques, of, molecular, biology

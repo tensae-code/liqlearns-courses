@@ -1,6 +1,6 @@
 # Sources — Energy nutrients — carbohydrates, fats and oils
 
-countries: Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia, Libya, Mozambique
+countries: Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia, Libya, Mozambique, Greece
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia, Libya, Mozambique
 
 **Book 8:** *Biologia — Módulo 2 (PESD I, 1º ciclo, grades 7–9) — 2023 edition* — Mozambique. Grade: PESD I, 1º ciclo (grades 7–9); kind: student (verified, same 2023 IEDA series) Repo path: grade-07/gov/mozambique/biologia/student/Modulo-2-de-Biologia.pdf (duplicate: TSV release URL + books.json record, same book) Byte size: 12,454,846 (matches books.json exactly); PDF pages: 85; printed pages 1–83, offset PDF p. − 1 Verdict: COMPLETE — all 10 lessons, end-of-module preparation test, answer key and bibliography present Structure: 2 thematic units (3 Living things and environment; 4 Nutrition and Health). Lessons: 1 ecosystem; 2 processes inside an ecosystem (food chains/webs, ecological pyramids); 3 human action on the ecosystem; 4 basic nutrition concepts, food composition, vitamins; 5 minerals, proteins, carbohydrates, lipids (with food-identification experiments); 6 food handling and conservation; 7 food poisoning; 8 balanced diet (food wheel); 9 diseases of poor diet; 10 food infections and parasitoses. All Mozambique books are IEDA (Instituto de Educação Aberta e à Distância) PESD distance-learning self-study modules in Portuguese, Ministry of Education. Each was recorded twice in the library records (a TSV record and a books.json record for the same repo path) — a verified duplicate, taught once and cited once here. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/mozambique-placements.md.
 
+**Book 9:** Βιολογία Α΄ & Β΄ Γυμνασίου — Εργαστηριακός Οδηγός (Biologia A' & B' Gymnasiou, Laboratory Guide) — Greece. Grade: Grade 7 Kind: laboratory guide (record says "student"; verified as the student lab guide — exercises with worksheets) Repo path/source: grade-07/gov/greece/biology/lab-guide.pdf (books.json, tree) Byte size: 4,925,805 (matches record exactly) PDF pages: 54; printed-page offset: printed = PDF − 1 Verdict: COMPLETE — safety/first-aid/equipment front matter, microscope and slide-preparation sections, all 14 exercises each followed by its worksheet, bibliography at printed p. 51 Structural summary: Practical companion to the Grade 7 textbook: lab safety rules and first aid, school lab instruments, the microscope as the lab's basic tool, preparing a wet-mount slide, then 14 numbered experiments (Άσκηση 1–14), each with a fill-in worksheet (Φύλλο Εργασίας). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 106–108 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia, Libya, Mozambique
 | Bolivia's way — Carbohydrates as immediate fuel: 1 g = 4 kcal, energy needs varying by person | Book 6 (Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria, student textbook, Grade 8), printed pp. 165–167 |
 | Libya's way — Unit 5, 5-2 Nutrients in food — Carbohydrates, fats and proteins as food nutrients. (placement slug: energy-nutrients-carbohydrates-fats) | Book 7 (Biology Student Book, Year 1 Secondary, student textbook, Grade 10), printed p. 51 |
 | Mozambique's way — Lesson 5 — lipids as energy foods alongside carbohydrates; kitchen experiments identifying proteins and carbohydrates — chewing cassava, sweet potato or ripe papaya and tasting the sweetness as starch is broken down. | Book 8 (*Biologia — Módulo 2 (PESD I, 2023)*, student module, PESD I, grades 7–9, 2023), printed p. 41–43 |
+| Greece's way — Exercise 9 (measuring the energy foods give off (burning-food calorimetry)) | Book 9 (*Βιολογία Α΄ & Β΄ Γυμνασίου — Εργαστηριακός Οδηγός (Laboratory Guide), Grade 7*, student laboratory guide), printed p. 29 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia, Libya, Mozambique).**
+**Acceptance count: taught in 8 countries (Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia, Libya, Mozambique, Greece).**
 
 Honesty (Bolivia): Book 6 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 8 (Secundaria 2) — so Bolivia counts toward acceptance. It is TRUNCATED: the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. This truncated copy is never counted as a complete book. 84 PDF pages; printed p. = PDF page + 146.
 
@@ -45,4 +48,6 @@ Honesty (Libya): Book 7 (*الأحياء كتاب الطالب — Biology Stude
 
 Honesty (Mozambique): Book 8 (*Biologia — Módulo 2 (PESD I, 2023)*) is an IEDA PESD distance-learning self-study student module in Portuguese (Ministry of Education, Mozambique), as verified in the placements — so Mozambique counts toward acceptance. It is COMPLETE as stated in its book entry above. Each was recorded twice in the library records (a TSV record and a books.json record for the same repo path) — a verified duplicate, taught once and cited once here.
 
-Searchable tags: biology, ethiopia, sri lanka, energy, nutrients, carbohydrates, fats, and, oils, uganda, nigeria, bolivia, libya, mozambique
+Honesty (Greece): Book 9 (*Βιολογία Α΄ & Β΄ Γυμνασίου — Εργαστηριακός Οδηγός (Laboratory Guide), Grade 7*) is a student laboratory guide (exercises with worksheets for pupils) as verified in the placements — so Greece counts toward acceptance. It is COMPLETE as stated in its book entry above. The library record calls it a student book; it is verified as the student laboratory guide and is cited as that here, exactly as the placements file files it. Greece's library records duplicate each other (TSV records duplicate books.json records by book, and the books.json grade-09 entries are cross-reference copies of the grade-08 B'–C' Gymnasiou books) — every Greece book is taught once and cited once here, exactly as the placements file files it.
+
+Searchable tags: biology, ethiopia, sri lanka, energy, nutrients, carbohydrates, fats, and, oils, uganda, nigeria, bolivia, libya, mozambique, greece
