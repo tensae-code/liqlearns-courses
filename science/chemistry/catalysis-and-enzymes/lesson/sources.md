@@ -1,14 +1,21 @@
 # Sources — Catalysis and enzymes
 
-countries: Mauritania
+countries: Mauritania, Italy (teacher evidence only)
 
 **Book 1:** *Chimie 7ème Année Secondaire* (student textbook) — Mauritania. Title as printed: Chimie 7ème Année Secondaire (République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National; authors Souleymane Md Amar, Mohamed Abdou Lefad, Dah Mohamed El Moctar; for Terminales 7C, 7D et TMGM; programmes validated 2022). Grade: 13 · Student · Repo path: grade-13/gov/mauritania/chi-7as-m.pdf. Byte size: 8,183,734 (publisher copy, docs.bsimr.com — the publisher source URL recorded in books.json; no size in record) · PDF pages: 196 · Offset: printed p. N = PDF p. N (Table des matières at the end lists Préface 3, Rappel de cours 5, Ch. I cours 25, Ch. II cours 39 — all matching the PDF; a few pages carry a second scan numbering, disregarded). Verdict: COMPLETE — full text read. Split: none — pure Chemistry, read whole. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/mauritania-placements.md.
+
+**Book 2 (teacher evidence only):** *Chimica organica, Biochimica, Biotecnologie (Campbell) — Guida per l'insegnante* (teacher guide) — Italy. Title as printed (p. 1): "Bernard, Casavecchia, Taylor, Simon, Dickey, Hogan, Reece — CHIMICA ORGANICA, BIOCHIMICA, BIOTECNOLOGIE — Con la biologia di Campbell — Guida per l'insegnante"; © 2022 Pearson Italia, Milano–Torino (p. 2). Record ISBN 9788893790789. Grade: 13. Kind: TEACHER GUIDE. Repo path: release `mid-size-books-6`, asset `grade-13-gov-italy-chemistry-teacher-full-year-campbell-chimica-organica-guida-insegnante.pdf`. Byte size: 21,647,957. PDF pages: 144. Printed guide pages = PDF pages. Verdict: COMPLETE — identity confirmed from its own title and © pages; read in full. EVIDENCE ONLY: this teacher guide is cited as teacher evidence only and is NOT counted toward this lesson's acceptance count. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/italy-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Ch. VI (Mauritania, Grade 13) | Book 1 (Grade 13) — Ch. VI — printed p. 95 — a catalyst speeds formation and disappearance while appearing in no bilan equation and in tiny quantity; homogeneous vs heterogeneous catalysis distinguished, enzymes presented as biological protein catalysts, and light explicitly ruled out as a catalyst; no catalysis slug exists. |
+| Modulo E, Capitolo 12, §§5–9 (Italy, Grade 13) — placements slug recorded verbatim: chemistry/enzyme-regulation-cofactors-inhibitors-allostery-and-feedback (stocked here, the existing lesson covering this thing) | TEACHER EVIDENCE ONLY: Book 2 (Grade 13), Modulo E, Capitolo 12, §§5–9 — guide pp. 19–20 — Enzymes beyond the active site: the energy profile with and without catalyst; the six enzyme classes named by reaction (ossidoreduttasi, transferasi, idrolasi, liasi, isomerasi, ligasi); activity against temperature, pH and concentrations; cofactors NAD, FAD and coenzyme A; competitive against non-competitive inhibitors; allosteric regulation and feedback inhibition as metabolic control. |
 
 **Acceptance count: taught in 1 country (Mauritania).**
+
+**Placement-choice note (Italy):** the Italy placements file names `chemistry/enzyme-regulation-cofactors-inhibitors-allostery-and-feedback` for this content; that thing is covered by this lesson, so the Italy provenance rows above are stocked here and the original slug(s) are recorded verbatim in those rows.
+
+**Italy teacher-evidence note:** Italy's placement(s) in this lesson come from *Chimica organica, Biochimica, Biotecnologie (Campbell) — Guida per l'insegnante* (teacher guide) — cited as teacher evidence only, outside the acceptance count above; Italy is not added to this lesson's count.
 
 Placement choice, on the record: this NEW LESSON was built for the Mauritania placement "NEW LESSON NEEDED: chemistry/catalysis-and-enzymes — Ch. VI" — mauritania-placements.md. No existing lesson covers this thing, so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Mauritania's own way of teaching the thing, as the placements describe it, IS content in this lesson, carried exactly as described.
 

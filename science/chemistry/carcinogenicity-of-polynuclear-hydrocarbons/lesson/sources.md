@@ -1,8 +1,10 @@
 # Sources — Carcinogenicity of polynuclear hydrocarbons
 
-countries: India
+countries: India, Italy (teacher evidence only)
 
 **Book 1:** *Chemistry, Part II, Textbook for Class XI* (student textbook) — India. Title as printed: Chemistry, Part II, Textbook for Class XI; NCERT, New Delhi; ISBN 81-7450-535-0 (Part II). Grade: 11. Kind as verified: student textbook (matches record). Repo path: grade-11/gov/india/chemistry-part-ii.pdf (release asset grade-11-gov-india-chemistry-part-ii.pdf). Byte size: 59,825,871 (no size in record). PDF pages: 168; printed pagination continues Part I (printed pp. 263–423+); printed pages below are the book's contents-page numbers. Verdict: COMPLETE (Units 8–14, answers and index present). Structure: Unit 8 Redox Reactions; Unit 9 Hydrogen; Unit 10 The s-Block Elements; Unit 11 The p-Block Elements; Unit 12 Organic Chemistry — Some Basic Principles and Techniques; Unit 13 Hydrocarbons; Unit 14 Environmental Chemistry. Records deduped: 8 records = 4 distinct books (NCERT Class 11 Part I & II, Class 12 Part I & II; TSV release URL + books.json entry per book — the books.json records carry no size or page count, so identity is verified by cover, ISBN and contents instead) — this book is cited once here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/india-placements.md.
+
+**Book 2 (teacher evidence only):** *Chimica organica, Biochimica, Biotecnologie (Campbell) — Guida per l'insegnante* (teacher guide) — Italy. Title as printed (p. 1): "Bernard, Casavecchia, Taylor, Simon, Dickey, Hogan, Reece — CHIMICA ORGANICA, BIOCHIMICA, BIOTECNOLOGIE — Con la biologia di Campbell — Guida per l'insegnante"; © 2022 Pearson Italia, Milano–Torino (p. 2). Record ISBN 9788893790789. Grade: 13. Kind: TEACHER GUIDE. Repo path: release `mid-size-books-6`, asset `grade-13-gov-italy-chemistry-teacher-full-year-campbell-chimica-organica-guida-insegnante.pdf`. Byte size: 21,647,957. PDF pages: 144. Printed guide pages = PDF pages. Verdict: COMPLETE — identity confirmed from its own title and © pages; read in full. EVIDENCE ONLY: this teacher guide is cited as teacher evidence only and is NOT counted toward this lesson's acceptance count. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/italy-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -10,8 +12,13 @@ countries: India
 | Sub lesson 2 — Born in smoke — incomplete combustion | Book 1 (Grade 11), Unit 13 §13.6 — printed p. 403 — formation on incomplete combustion of tobacco, coal and petroleum, and entry into the body |
 | Sub lesson 3 — From breath to DNA — how they cause cancer | Book 1 (Grade 11), Unit 13 §13.6 — printed p. 403 — biochemical reactions in the body, DNA damage and cancer; benzo(a)pyrene |
 | Do it first; key ideas; Do It Yourself | Book 1 (Grade 11), Unit 13 §13.6 Carcinogenicity and Toxicity — printed p. 403 |
+| Modulo B, Capitolo 4, §§5–6 (Italy, Grade 13) — placements slug recorded verbatim: chemistry/polycyclic-aromatic-and-heteroaromatic-hydrocarbons (stocked here, the existing lesson covering this thing) | TEACHER EVIDENCE ONLY: Book 2 (Grade 13), Modulo B, Capitolo 4, §§5–6 — guide p. 7 — The aromatic world widened: polycyclic aromatics, fused (condensati) and linked (concatenati), Hückel-tested; heteroaromatics compared head-to-head — six-membered pyridine against five-membered pyrrole, their behaviour traced to the heteroatom. |
 
 **Acceptance count: taught in 1 country (India).**
+
+**Placement-choice note (Italy):** the Italy placements file names `chemistry/polycyclic-aromatic-and-heteroaromatic-hydrocarbons` for this content; that thing is covered by this lesson, so the Italy provenance rows above are stocked here and the original slug(s) are recorded verbatim in those rows.
+
+**Italy teacher-evidence note:** Italy's placement(s) in this lesson come from *Chimica organica, Biochimica, Biotecnologie (Campbell) — Guida per l'insegnante* (teacher guide) — cited as teacher evidence only, outside the acceptance count above; Italy is not added to this lesson's count.
 
 Placement choice, on the record: this NEW LESSON was built for the India placement "NEW LESSON NEEDED: carcinogenicity-of-polynuclear-hydrocarbons — Unit 13 §13.6 Carcinogenicity and Toxicity — printed p. 403 — NCERT's own health close to the hydrocarbons unit; no existing slug covers it" — india-placements.md. No existing Chemistry lesson covers the carcinogenicity of the polynuclear hydrocarbons — the neighbouring lessons teach the hydrocarbon families and benzene itself, none of them the fused-ring family's formation in incomplete combustion or its DNA-damaging action in the body — so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). India's own way — the hydrocarbons unit closing with a named health section (§13.6) on the carcinogenicity and toxicity of its largest molecules — IS part of this lesson's content, carried exactly as the placement describes it. The book is a student textbook, so this lesson counts toward acceptance normally.
 
