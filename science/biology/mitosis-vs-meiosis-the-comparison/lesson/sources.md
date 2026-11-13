@@ -1,22 +1,27 @@
 # Sources — Mitosis vs meiosis — the comparison
 
-countries: Ethiopia
+countries: Ethiopia, Papua New Guinea
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
 **Book 2:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
+**Book 3:** Biology — Standards-Based Grade 12 Senior High Teacher Guide (Papua New Guinea Department of Education) — Papua New Guinea. Grade: 12 — Kind: teacher as verified — Repo path: grade-12/gov/papua-new-guinea/biology/teacher/grade-12-biology-teachers-guide.pdf (release mid-size-books-8) — Source URL: https://education.gov.pg/uploads/curriculum/secondary-syllabus/teacher-guide/Biology_Grade_12-TG.pdf — Byte size: 10,787,961 (matches books.json record exactly) — PDF pages: 156 (matches record) — Printed-page offset: printed p. = PDF page − 8 (content overview tables at printed pp. 44–46). Verdict: COMPLETE — Scientific Inquiry strand plus the Life Science units (Population Ecology, Genetics, Evolution) taught in full, with lesson planning, assessment, glossary and appendices. Structural summary: Grade 12 turns outward: Population Ecology with PNG-specific environmental issues (mining and logging, monocultural farming and overfishing, plastics and chemical wastes, eutrophication and biomagnification, natural and artificial succession), then Genetics (DNA to inheritance to mutation and human genetic disorders), Biotechnology (gene technology and its societal impacts), and Evolution (theories and mechanisms). Inquiry teaching is modelled on a flashlight-and-batteries hypothesis example. TEACHER'S GUIDE ("FREE ISSUE NOT FOR SALE") — evidence only: cited as the evidence it is, OUTSIDE the acceptance count, never counted as pupil-taught. Recorded twice in the library records (a TSV release record + a books.json record for the same book); it is one distinct book, taught once and cited once here. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/papua-new-guinea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 71 (teacher guide) |
+| Papua New Guinea's way — Genetics: mitosis vs meiosis in eukaryotic organisms (teacher guide — evidence) | Book 3 (Biology — Standards-Based Grade 12 Senior High Teacher Guide, teacher's guide, Grade 12), printed p. 46 |
 
 | Table 4.1 (student book) | Book 2 (student textbook), printed pp. 88–91 |
 | Compared points (student book) | Book 2 (student textbook), printed pp. 88–91 |
 | Meiosis halves (student book) | Book 2 (student textbook), printed pp. 88–91 |
 | Mitosis keeps (student book) | Book 2 (student textbook), printed pp. 88–91 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Papua New Guinea's Standards-Based senior-high teacher guides are evidence only, named here and counted nowhere.**
+
+Honesty (Papua New Guinea): Book 3 (Biology — Standards-Based Grade 12 Senior High Teacher Guide) — Papua New Guinea Department of Education teacher's guides as verified in the placements — NOT student textbooks — cited as the evidence they are, OUTSIDE the acceptance count, never counted as pupil-taught. Each is COMPLETE as stated in its book entry above. Each was recorded twice in the library records (a TSV release record + a books.json record for the same book) — one distinct book each, taught once and cited once here.
 
 Honesty: the Grade 10 student placements file landed after this lesson was first built from the teacher guide; the pupil-taught student-book parts have now been added above as the core, and the guide rows stay labelled “(teacher guide — evidence)”. The guide is a pre-publication draft whose publication page was never filled in (placeholder date “xxxxx 2022” and placeholder ISBN/printer) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. Guide errors the placements flag are taught corrected and named here only: in the mitosis feedback two different phases are both lettered “D” (Telophase and Cytokinesis); the guide's §5.2.1 is titled “Blood donation” where the student book's is “Blood Groups”; the guide's Unit 4 is titled “Cell Cycle” where the student book's is “Cell Reproduction”.
 
-Searchable tags: biology, ethiopia, mitosis, meiosis, the, comparison
+Searchable tags: biology, ethiopia, mitosis, meiosis, the, comparison, papua, new, guinea

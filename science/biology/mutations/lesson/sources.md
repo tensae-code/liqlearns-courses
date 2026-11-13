@@ -1,6 +1,6 @@
 # Sources — Mutations
 
-countries: Ethiopia, Nicaragua, Palestine, Eritrea
+countries: Ethiopia, Nicaragua, Palestine, Eritrea, Papua New Guinea
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia, Nicaragua, Palestine, Eritrea
 
 **Book 4:** Biology for Grade 12 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-12-gov-eritrea-biology-student-full-year.pdf — Byte size: 12,793,204 — PDF pages: 144. Verdict: COMPLETE — all three units named in the Introduction present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises. Structural summary: A three-unit capstone: molecular genetics taught at bond level (two hydrogen bonds A–T, three C–G), evolution with Lamarck presented and then criticised point by point, and ecology built on population phases (growth, stability, decline) and their factors. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 5:** Biology — Standards-Based Grade 12 Senior High Teacher Guide (Papua New Guinea Department of Education) — Papua New Guinea. Grade: 12 — Kind: teacher as verified — Repo path: grade-12/gov/papua-new-guinea/biology/teacher/grade-12-biology-teachers-guide.pdf (release mid-size-books-8) — Source URL: https://education.gov.pg/uploads/curriculum/secondary-syllabus/teacher-guide/Biology_Grade_12-TG.pdf — Byte size: 10,787,961 (matches books.json record exactly) — PDF pages: 156 (matches record) — Printed-page offset: printed p. = PDF page − 8 (content overview tables at printed pp. 44–46). Verdict: COMPLETE — Scientific Inquiry strand plus the Life Science units (Population Ecology, Genetics, Evolution) taught in full, with lesson planning, assessment, glossary and appendices. Structural summary: Grade 12 turns outward: Population Ecology with PNG-specific environmental issues (mining and logging, monocultural farming and overfishing, plastics and chemical wastes, eutrophication and biomagnification, natural and artificial succession), then Genetics (DNA to inheritance to mutation and human genetic disorders), Biotechnology (gene technology and its societal impacts), and Evolution (theories and mechanisms). Inquiry teaching is modelled on a flashlight-and-batteries hypothesis example. TEACHER'S GUIDE ("FREE ISSUE NOT FOR SALE") — evidence only: cited as the evidence it is, OUTSIDE the acceptance count, never counted as pupil-taught. Recorded twice in the library records (a TSV release record + a books.json record for the same book); it is one distinct book, taught once and cited once here. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/papua-new-guinea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Mutation (§4.1.6): | Student Textbook, Grade 12 — Printed pp. 208–214. |
 | Nicaragua's way — Unidad 4.4: ¿Por qué se dan las mutaciones? | Book 2 (Biología — Undécimo grado, student textbook, Grade 11), Unidad 4.4, printed p. 124 |
 | Palestine's way — mutations (placement slug: mutations-changes-in-the-code) | Book 3 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 1 Ch. 3 §6: mutations — printed p. 25 |
 | Eritrea's way — Unit One: mutation within the inheritance mechanisms | Book 4 (Biology for Grade 12 Textbook, student textbook, Grade 12), PDF pp. 9–66 |
+| Papua New Guinea's way — Genetics / Variations: discrete and continuous variations; mutations and types of mutations in organisms (teacher guide — evidence) | Book 5 (Biology — Standards-Based Grade 12 Senior High Teacher Guide, teacher's guide, Grade 12), printed p. 46 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nicaragua, Palestine, Eritrea).**
+**Acceptance count: taught in 4 countries (Ethiopia, Nicaragua, Palestine, Eritrea). Papua New Guinea's Standards-Based senior-high teacher guides are evidence only, named here and counted nowhere.**
+
+Honesty (Papua New Guinea): Book 5 (Biology — Standards-Based Grade 12 Senior High Teacher Guide) — Papua New Guinea Department of Education teacher's guides as verified in the placements — NOT student textbooks — cited as the evidence they are, OUTSIDE the acceptance count, never counted as pupil-taught. Each is COMPLETE as stated in its book entry above. Each was recorded twice in the library records (a TSV release record + a books.json record for the same book) — one distinct book each, taught once and cited once here.
 
 Honesty (Eritrea): Book 4 is a student textbook as verified in the placements — *Biology for Grade 12 Textbook* (The State of Eritrea, Ministry of Education), Grade 12, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all three units named in the Introduction are present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises (144 PDF pages). Page references are PDF pages, as the placements file gives them.
 
@@ -29,4 +34,4 @@ Honesty notes from the placements: this student book's contents skips §2.10, ju
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, eritrea, ethiopia, mutations, nicaragua, palestine
+Searchable tags: biology, eritrea, ethiopia, mutations, nicaragua, palestine, papua, new, guinea

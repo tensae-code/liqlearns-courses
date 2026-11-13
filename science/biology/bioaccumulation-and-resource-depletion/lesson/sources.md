@@ -1,15 +1,20 @@
 # Sources — Bioaccumulation and resource depletion
 
-countries: Ethiopia
+countries: Ethiopia, Papua New Guinea
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Biology — Standards-Based Grade 12 Senior High Teacher Guide (Papua New Guinea Department of Education) — Papua New Guinea. Grade: 12 — Kind: teacher as verified — Repo path: grade-12/gov/papua-new-guinea/biology/teacher/grade-12-biology-teachers-guide.pdf (release mid-size-books-8) — Source URL: https://education.gov.pg/uploads/curriculum/secondary-syllabus/teacher-guide/Biology_Grade_12-TG.pdf — Byte size: 10,787,961 (matches books.json record exactly) — PDF pages: 156 (matches record) — Printed-page offset: printed p. = PDF page − 8 (content overview tables at printed pp. 44–46). Verdict: COMPLETE — Scientific Inquiry strand plus the Life Science units (Population Ecology, Genetics, Evolution) taught in full, with lesson planning, assessment, glossary and appendices. Structural summary: Grade 12 turns outward: Population Ecology with PNG-specific environmental issues (mining and logging, monocultural farming and overfishing, plastics and chemical wastes, eutrophication and biomagnification, natural and artificial succession), then Genetics (DNA to inheritance to mutation and human genetic disorders), Biotechnology (gene technology and its societal impacts), and Evolution (theories and mechanisms). Inquiry teaching is modelled on a flashlight-and-batteries hypothesis example. TEACHER'S GUIDE ("FREE ISSUE NOT FOR SALE") — evidence only: cited as the evidence it is, OUTSIDE the acceptance count, never counted as pupil-taught. Recorded twice in the library records (a TSV release record + a books.json record for the same book); it is one distinct book, taught once and cited once here. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/papua-new-guinea-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Toxic bioaccumulation and resource depletion | Student Textbook, Grade 11 — Printed pp. 271–273. |
+| Papua New Guinea's way — Population Ecology / Interactions: biomagnification in the same lesson set (teacher guide — evidence) | Book 2 (Biology — Standards-Based Grade 12 Senior High Teacher Guide, teacher's guide, Grade 12), printed p. 45 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia). Papua New Guinea's Standards-Based senior-high teacher guides are evidence only, named here and counted nowhere.**
+
+Honesty (Papua New Guinea): Book 2 (Biology — Standards-Based Grade 12 Senior High Teacher Guide) — Papua New Guinea Department of Education teacher's guides as verified in the placements — NOT student textbooks — cited as the evidence they are, OUTSIDE the acceptance count, never counted as pupil-taught. Each is COMPLETE as stated in its book entry above. Each was recorded twice in the library records (a TSV release record + a books.json record for the same book) — one distinct book each, taught once and cited once here.
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, bioaccumulation, and, resource, depletion
+Searchable tags: biology, ethiopia, bioaccumulation, and, resource, depletion, papua, new, guinea
