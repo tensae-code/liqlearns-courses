@@ -1,0 +1,9 @@
+# Stem cells and totipotency — short answer
+
+Answer in your own words.
+
+**1.** State the one thing this lesson teaches and explain it.
+**Answer: a totipotent cell can make a whole organism, and stem cells carry that power at every scale: Steward's carrot grown from one cell (1958), Dolly and the cloned monkeys Zhongzhong and Huahua from a body cell's nucleus, haematopoietic stem cells rebuilding blood, and iPS cells — a patient's own cells reprogrammed in 2006 — promising the same without an embryo and without rejection, the tumour risk stated plainly. Zhongzhong and Huahua (2017), the first primate somatic-cell clones: the three technical hurdles that had blocked primates, and the text states China's ban on human cloning outright. (The same proposed lesson is exercised again from Ch. 6 §2 below.)**
+
+**2.** Explain China's way of teaching this.
+**Answer: Zhongzhong and Huahua (2017), the first primate somatic-cell clones: the three technical hurdles that had blocked primates, and the text states China's ban on human cloning outright. (The same proposed lesson is exercised again from Ch. 6 §2 below.) Steward's carrot (1958), the Xenopus gut-cell nuclear transfer, Dolly, and Zhongzhong and Huahua again from the animal side; haematopoietic stem cells and cord blood; and the closing feature on bone-marrow transplantation and the China Marrow Donor Program (founded 2001; over 2.42 million registered volunteers and 6,000 donations by March 2018) — donation framed as an act of love that costs the donor nothing lasting. embryonic against adult stem cells; haematopoietic stem-cell transplantation as the mature therapy; iPS cells (2006) — a patient's own cells reprogrammed, already used to treat sickle-cell anaemia in mice, and preferred in prospect because no embryo is destroyed and no rejection is expected; the tumour risk stated plainly. (Senior treatment; the slug was first proposed in this wave for 必修1's stem-cell feature.)**

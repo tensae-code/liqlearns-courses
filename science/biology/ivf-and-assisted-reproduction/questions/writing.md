@@ -1,0 +1,6 @@
+# IVF and assisted reproduction — writing
+
+Write your answer out in full sentences.
+
+**1.** Write two or three sentences explaining this lesson's topic to someone who has never met it.
+**Model answer: Assisted reproduction helps where natural conception fails — artificial insemination, IVF and embryo transfer, sperm and egg banks — the technology that gave the world Louise Brown in 1978 and mainland China its first test-tube baby in 1988, held under China's management measures and technical norms so embryo gene testing cannot slide into customised babies. Edwards and Steptoe, Louise Brown in 1978, mainland China's first IVF baby at Peking University Third Hospital in 1988, and roughly four million IVF births by 2010. No existing lesson covers assisted reproduction.**
