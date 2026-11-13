@@ -1,0 +1,12 @@
+# Hands-on — Heart dissection — structure of the mammalian heart
+
+The lesson with your hands and your feet, not only your eyes.
+
+## Say it with real things
+Find, point to or act out one real example of this lesson's topic in your own surroundings, and say aloud how it shows the lesson's one thing: a mammalian heart dissected following pictured steps shows its plan directly: chambers and valves identified on a numbered diagram, and the wall thicknesses of the chambers compared.
+
+## Teach it on paper
+Draw the lesson's picture from memory: a mammalian heart cut open with its chambers and valves numbered 1 to 14 on a diagram beside it, the thick wall of the left ventricle visibly thicker than the right. Label each part and check your drawing against the lesson.
+
+## Ask and answer
+With a companion, ask each other the lesson's key-fact questions in turn — one asks, one answers from memory, then swap.
