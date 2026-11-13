@@ -1,6 +1,6 @@
 # Sources — Copper — from chalcopyrite to pure wire
 
-countries: Ethiopia, Nigeria, Malaysia, Belarus, India
+countries: Ethiopia, Nigeria, Malaysia, Belarus, India, South Sudan
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nigeria, Malaysia, Belarus, India
 
 **Book 5:** *Chemistry, Part I, Textbook for Class XII* (student textbook) — India. Title as printed: Chemistry, Part I, Textbook for Class XII; NCERT, New Delhi (2020-21 impression). Grade: 12. Kind as verified: student textbook (matches record). Repo path: grade-12/gov/india/chemistry-part-i.pdf (release asset grade-12-gov-india-chemistry-part-i.pdf). Byte size: 96,058,557 (no size in record). PDF pages: 283; printed pages below are the book's contents-page numbers. Verdict: COMPLETE (Units 1–9, appendices, answers and index present). Structure: Unit 1 The Solid State; Unit 2 Solutions; Unit 3 Electrochemistry; Unit 4 Chemical Kinetics; Unit 5 Surface Chemistry; Unit 6 General Principles and Processes of Isolation of Elements; Unit 7 The p-Block Elements; Unit 8 The d- and f-Block Elements; Unit 9 Coordination Compounds. Records deduped: 8 records = 4 distinct books (NCERT Class 11 Part I & II, Class 12 Part I & II; TSV release URL + books.json entry per book — the books.json records carry no size or page count, so identity is verified by cover, ISBN and contents instead) — this book is cited once here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/india-placements.md.
 
+**Book 6:** *South Sudan Secondary 4 Chemistry — Student's Book* (student textbook) — South Sudan. Title as printed: "South Sudan Secondary 4 Chemistry — Student's Book" (© 2018, Ministry of General Education and Instruction). Grade: Secondary 4 (record grade Grade 12). Kind: student. Repo path: grade-12/gov/south-sudan/chemistry/student/full-year.pdf (TSV copy is the same file in the mid-size-books-2 release). Byte size: 7,560,729 (no size in either record). PDF pages: 240; printed-page offset: contents/body share one printed numbering (Unit 1 at printed p. 1; glossary printed p. 226, closing periodic table). Verdict: COMPLETE — all 7 units, glossary and appendix present. Structure: ion and gas identification, energetics with bond-energy calculations, kinetics/equilibrium/electrochemistry, ores and extraction of six metals, analytical techniques (chromatography and four spectroscopies), a full organic chemistry unit, and an introduction to nuclear chemistry. Records deduped: 15 records = 8 distinct books for South Sudan as a whole — this book is cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Copper | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed pp. 215–218 (within section 5.2.3) |
@@ -19,8 +21,9 @@ countries: Ethiopia, Nigeria, Malaysia, Belarus, India
 | Ch. 1.5 Extraction of Metal from Its Ore (Malaysia, Grade 11) | Book 3 (Grade 11), printed p. 48 — Extracting metals from ores by reduction/electrolysis according to reactivity. |
 | Part VIII §55 Metals of the B groups (Belarus, Grade 10) | Book 4 (Grade 10), Part VIII §55 Metals of the B groups — printed p. 273 — transition metals incl. copper. |
 | Unit 6 General Principles and Processes of Isolation of Elements (India, Grade 12) | Book 5 (Grade 12), Unit 6 General Principles and Processes of Isolation of Elements — printed pp. 149–169 — occurrence, concentration of ores, extraction, thermodynamic and electrochemical principles of metallurgy, refining (§§6.1–6.7). |
+| §4.3 Copper (South Sudan, Secondary 4) | Book 6 (Secondary 4), §4.3 Copper — printed p. 84 — copper's ores and extraction. |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nigeria, Malaysia, Belarus, India).**
+**Acceptance count: taught in 6 countries (Ethiopia, Nigeria, Malaysia, Belarus, India, South Sudan).**
 
 Book errors taught corrected, named here only: the contents misprints "SOLLUTIONS" for Solutions (Unit 2) and lists Unit 6 sections 6.3 and 6.4 both as aromatic hydrocarbons — in the body 6.3 covers alkenes and alkynes and is taught so; the Unit 3 summary repeats its deliquescent-salt sentence twice — taught once; "Phosphorous" is used throughout for the element phosphorus — taught corrected as phosphorus; several Unit 6 review reaction equations are typeset in garbled layout — the reactions are taught from the section text, where they are recoverable.
 
