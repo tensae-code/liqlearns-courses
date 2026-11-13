@@ -1,14 +1,17 @@
 # Sources — Döbereiner's triads
 
-countries: Ethiopia
+countries: Ethiopia, North Macedonia
 
 **Book 1:** *Chemistry, Student Textbook, Grade 9* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-016-1. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-student-placements.md.
+
+**Book 2:** *Хемија за VIII одделение во основно образование (Chemistry, Grade 8, primary)* (student textbook) — North Macedonia. Title as printed: ХЕМИЈА ЗА VIII ОДДЕЛЕНИЕ во основно образование, by проф. д-р Слоботка Алексовска, Скопје, 2026. Grade: 8 — student textbook. Repo path: grade-08/gov/north-macedonia/chemistry/student/full-year.pdf (books.json record; grabbed via grab.py tree after three API congestion failures — RemoteDisconnected — succeeded on the fourth try with backoff). Byte size: 3,887,028 (the record gave no size). PDF pages: 110 (matches record); printed-page offset: printed p. = PDF p. − 2 (108 printed pages; glossary printed pp. 103–106). Verdict: COMPLETE — read in full via pdftotext; ends with a terminological glossary and the CIP page. Structure: two themes — (1) Structure of the atom and the periodic system (particles, electron shells, historical atomic models, classification history from pre-Mendeleev systems to the modern table, periodic property changes, group names); (2) Oxides, hydroxides and acids — nomenclature, preparation, properties and uses for each class, with environmental threads (greenhouse effect, acid rain) and enrichment boxes (isotopes in cosmochemistry, hydroxides in batteries, superacids). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/north-macedonia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Döbereiner's triads | Ethiopia, *Chemistry, Student Textbook, Grade 9*, Printed pp. 111–112 (section 4.1.1) |
+| 1.3, Systematisation before Mendeleev (North Macedonia, Grade 8) | Book 2 (Grade 8), 1.3, Systematisation before Mendeleev — printed p. 34 — Pre-Mendeleev systems, including the triads line of development |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, North Macedonia).**
 
 Book errors taught corrected, named here only: the cover spells "Measurments" for Measurements; one Unit 3 summary passage dates Rutherford's nucleus work "in 1920" — the gold-foil work is 1909/1911 and is taught so; the proton is credited in different passages to Goldstein (1886, perforated-cathode work) and to Rutherford (1920) — both steps are taught in their order; Lewis's dates are printed once as "1875-1046" — taught corrected as 1875–1946; the Unit 2 competencies promise the factor-label method by name but the student sections never teach it by that name — it is taught explicitly in its own lesson from the teacher guide; Unit 4's older group labels are inconsistent ("Group VIIB elements are called as halogens", "Group 0" for noble gases) — taught with the modern family names; recurring typos "iconic compounds" (ionic compounds) and "glass road" (glass rod) are taught corrected.
 
