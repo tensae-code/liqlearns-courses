@@ -1150,6 +1150,32 @@ solar-system comparison lessons.
 428. **Stomata — opening by guard-cell turgor** (`biology/stomata-opening-by-guard-cell-turgor`) — a stoma opens when its two guard cells gain water by osmosis, become turgid and bulge outwards, letting carbon dioxide and oxygen move, and closes when they lose water and go flaccid (South Sudan, Secondary 1 — *Biology Student's Book 1* (MoGEI, © 2018), student textbook, §3.5, printed p. 79)
 
 429. **The bryophyte life cycle — the moss** (`biology/bryophyte-life-cycle-moss`) — the green moss plant is the gametophyte, bearing antheridia and archegonia; the sporophyte — seta and capsule — grows out of it and stays dependent on it, and fertilisation depends on water (South Sudan, Secondary 3 — *Biology, Secondary 3 — Student's Book* (MoGEI, © 2018), student textbook, §1.6, printed p. 19)
+430. **Afghanistan's seed plants** (`biology/afghanistans-seed-plants`) — Afghanistan's Grade 7 book closes its botany with the country's own seed plants — the conifers of the eastern forests, the wheat and barley of the fields, and the almond, pistachio, pomegranate, grape and mulberry of the orchards: seed plants in cones and seed plants in fruits, and what each group gives the country (Afghanistan, Grade 7 — *بیولوژی صنف هفتم (Biology, Grade 7 — Dari)*, student textbook, Ch. 6, printed p. 55)
+
+431. **Algae — plant-like protists** (`biology/algae-plant-like-protists`) — the plant-like protists: chlorophyll-bearing, photosynthetic, with no true roots, stems or leaves — from single cells and filaments to the great seaweeds, the base of food chains in water (Afghanistan, Grade 8 — *بیولوژی صنف هشتم (Biology, Grade 8 — Dari)*, student textbook, Ch. 2, printed p. 19)
+
+432. **Lichens — a symbiosis** (`biology/lichens-a-symbiosis`) — a lichen is two living things in one body — a fungus giving shelter, water and minerals, an alga making food — in crust, leafy and tufted forms, pioneers on bare rock and indicators of clean air (Afghanistan, Grade 8 — *بیولوژی صنف هشتم (Biology, Grade 8 — Dari)*, student textbook, Ch. 2, printed p. 22)
+
+433. **Afghanistan's birds and mammals** (`biology/afghanistans-birds-and-mammals`) — the country's own two warm-blooded vertebrate groups surveyed at home: birds — feathers, wings, beaks, shelled eggs — from mountain raptors to farmyard birds, and mammals — hair and milk — from the markhor and snow leopard to the farm's sheep, goats and horses (Afghanistan, Grade 8 — *بیولوژی صنف هشتم (Biology, Grade 8 — Dari)*, student textbook, Ch. 4, printed p. 66)
+
+434. **Economic importance of fish, birds and mammals** (`biology/economic-importance-of-fish-birds-and-mammals`) — what the three groups earn a household: fish as food and income, birds as eggs, meat and free pest control, mammals as milk, meat, wool, leather and labour — and why use must leave breeding stock and habitat intact (Afghanistan, Grade 8 — *بیولوژی صنف هشتم (Biology, Grade 8 — Dari)*, student textbook, Ch. 4, printed p. 66)
+
+435. **Digestive system disorders and hygiene** (`biology/digestive-system-disorders-and-hygiene`) — the gut's own disorders — diarrhoea, dysentery, ulcers, worms — most of them carried in by dirty water, hands and food, and the hygiene chain of hands, water, food and eating habits that keeps them out (Afghanistan, Grade 9 — *بیولوژی صنف نهم (Biology, Grade 9 — Dari)*, student textbook, Ch. 1, printed p. 9)
+
+436. **Common respiratory diseases** (`biology/common-respiratory-diseases`) — the air path's common diseases pinned to the part each strikes — colds and influenza, bronchitis, pneumonia, tuberculosis and asthma — how they spread through the air and how air, hygiene and vaccination prevent them (Afghanistan, Grade 9 — *بیولوژی صنف نهم (Biology, Grade 9 — Dari)*, student textbook, Ch. 2, printed p. 18)
+
+437. **Blood and its components** (`biology/blood-and-its-components`) — blood as a liquid tissue: plasma the carrier, red cells carrying oxygen on haemoglobin, white cells defending, platelets clotting — four components, four jobs (Afghanistan, Grade 9 — *بیولوژی صنف نهم (Biology, Grade 9 — Dari)*, student textbook, Ch. 3, printed p. 22)
+
+438. **Kidney failure and new treatments** (`biology/kidney-failure-and-new-treatments`) — when the kidneys can no longer clean the blood — its causes in diabetes, blood pressure, infection and stones, its warning signs, and the new treatments: dialysis cleaning the blood outside the body, and transplant replacing the organ's work with one donated kidney (Afghanistan, Grade 9 — *بیولوژی صنف نهم (Biology, Grade 9 — Dari)*, student textbook, Ch. 4, printed p. 38)
+
+439. **Comparing invertebrate body systems** (`biology/comparing-invertebrate-body-systems`) — the comparative table across the invertebrate phyla: digestion from intracellular to a through tube, breathing from skin to tracheae, open against closed circulation, nerve net to brain and cord, flame cells to Malpighian tubules (Afghanistan, Grade 11 — *بیولوژی صنف یازدهم (Biology, Grade 11 — Dari)*, student textbook, Part 3 Ch. 8, printed p. 97)
+
+440. **Comparing vertebrate body systems** (`biology/comparing-vertebrate-body-systems`) — one body plan tuned five ways: hearts of two, three and four chambers, single against double circulation, gills to air-sac lungs, ectotherm against endotherm, water eggs to milk-fed young (Afghanistan, Grade 11 — *بیولوژی صنف یازدهم (Biology, Grade 11 — Dari)*, student textbook, Part 4 Ch. 10, printed p. 135)
+
+441. **Interactions between populations** (`biology/interactions-between-populations`) — competition, predation, parasitism, mutualism and commensalism — every interaction read by the signs each population carries, and the linked rise and fall of predator and prey (Afghanistan, Grade 11 — *بیولوژی صنف یازدهم (Biology, Grade 11 — Dari)*, student textbook, Part 5 Ch. 11, printed p. 148)
+
+442. **World biomes** (`biology/world-biomes`) — the Earth's great life regions sorted by climate — tundra and taiga, deciduous forest and grassland, desert, savanna and tropical rainforest — rainfall and temperature drawing the edges, plants and animals fitted to each (Afghanistan, Grade 11 — *بیولوژی صنف یازدهم (Biology, Grade 11 — Dari)*, student textbook, Part 5 Ch. 12, printed p. 155)
+
 
 
 ## Unit 18 — Physics

@@ -1,0 +1,15 @@
+# Sources — Kidney failure and new treatments
+
+countries: Afghanistan
+
+**Book 1:** بیولوژی صنف نهم (Biology, Grade 9 — Dari) — Afghanistan. Grade: 9 (record grade-09) — Kind: student textbook as verified (Ministry of Education (وزارت معارف), print year 1398 (2019/20); verified on the title and book-specification pages — subject Biology, grade, language Dari) — Source: Wayback capture 20210817013050 of moe.gov.af G9-Dr-Biology.pdf; staged at phase3-staging/grade-09/gov/afghanistan/بیولوژی_صنف_نهم.pdf — the recorded GitHub tree path returned HTTP 404, and the book was recovered from the official MoE Dari PDF via the Wayback Machine's best full capture (the archive.org `books_tg` copies of the same filenames are teacher guides and were deliberately NOT used) — Byte size: 8,778,267 — PDF pages: 116 — Printed-page offset: printed p. = PDF p. − 7 — Verdict: COMPLETE (9 chapters, ends with the chapter-9 summary) — Structural summary: a human-body year, one system per chapter, each closing with that system's diseases and hygiene. Ch1 digestive; Ch2 respiratory; Ch3 blood circulation (blood and its components, heart and its chambers, lymph, circulation problems); Ch4 excretory (cell wastes, excretory organs, kidney problems and new treatments); Ch5 skeletal and muscular (skeleton and bone structure, bone types and injuries, muscles and their injuries); Ch6 nervous system and sense organs; Ch7 endocrine (insulin and glucagon); Ch8 reproductive (male and female systems, menstrual cycle, fertilisation, pregnancy, sexually transmitted infections); Ch9 environmental problems and their solutions. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The whole lesson — Ch4, kidney problems and the new ways of treating them (dialysis era) (placement: NEW LESSON NEEDED: kidney-failure-and-new-treatments — no existing slug covers this, so this lesson was built for it) | Book 1 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), student textbook, Grade 9), printed p. 38 — Afghanistan's way: the Grade 9 excretory chapter ends by looking forward — from kidney problems to the new treatments for them, dialysis and transplant, so the system is taught together with the medicine that rescues it. |
+
+**Acceptance count: taught in 1 country (Afghanistan).**
+
+Honesty (Afghanistan): Book 1 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), Grade 9) is a student textbook as verified in the placements — Ministry of Education (وزارت معارف), print year 1398 (2019/20) — so Afghanistan counts toward acceptance. It is COMPLETE as stated in the book entry above. The recorded GitHub tree paths returned HTTP 404; the books were recovered from the official MoE Dari PDFs via the Wayback Machine's best full captures (the archive.org `books_tg` copies of the same filenames are teacher guides and were deliberately NOT used) and are staged in phase3-staging under the new rule, still needing an actual push.
+
+Searchable tags: biology, afghanistan, kidney, failure, and, new, treatments
