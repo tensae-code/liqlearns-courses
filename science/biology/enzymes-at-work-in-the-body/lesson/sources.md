@@ -1,15 +1,20 @@
 # Sources — Enzymes at work in the body
 
-countries: Ethiopia
+countries: Ethiopia, Samoa
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Biology — Year 13 Learning Guide (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 13 (Year 13) — Kind: student learning guide as verified (recorded as student; it is a ministry learning guide keyed to a set textbook, “LifeScience”, whose chapters it cites) — Repo path: grade-13/gov/samoa/biology/student/full-year.pdf — Source URL: https://mesc.gov.ws/education/textbooks/ (ministry textbooks page) — Byte size: 1,424,227 (record gives no size) — PDF pages: 55 — Printed-page offset: printed p. = PDF page + 1 (contents: units at printed pp. 7, 13, 21, 34, 43, 51). Verdict: COMPLETE as a guide — all six units present (the Year 12 five plus Environment). Filed with placements from its Key Learning Points, which state taught content in summary form; it is a guide, not the full textbook — the underlying “LifeScience” text itself is a library debt. Structural summary: For each unit: outcome checkboxes (“describe…”, “investigate…”, “discuss…”) plus Key Learning Points. Year 13 adds comparative animal physiology (gas exchange in mammals/fish/insects, skeleton types, antagonistic muscles, open vs closed circulation) and a full Environment unit using local examples. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — What enzymes do in the body | Student Textbook, Grade 11 — Printed pp. 79–81. |
+| Samoa's way — Unit 2: enzymes — structure and function; investigating temperature's effect on enzyme action and structure (placement slug: enzymes-at-work-in-the-body) | Book 2 (Biology — Year 13 Learning Guide, student learning guide, Grade 13), printed p. 14 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Samoa).**
+
+Honesty (Samoa): Book 2 is a student learning guide as verified in the placements — *Biology — Year 13 Learning Guide* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 13 — a ministry learning guide keyed to a set textbook, “LifeScience”, whose chapters it cites; the placements here are filed from its Key Learning Points, which state taught content in summary form. It is a guide, not the full textbook — the underlying “LifeScience” text itself is a library debt. It is COMPLETE as a guide: all six units present (55 PDF pages; printed p. = PDF page + 1). Samoa counts toward acceptance on the guide's student-facing record, exactly as the placements file files it.
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, enzymes, work, the, body
+Searchable tags: biology, ethiopia, enzymes, work, the, body, samoa

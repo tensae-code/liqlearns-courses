@@ -1,6 +1,6 @@
 # Sources — Meiosis — halving the chromosomes
 
-countries: Ethiopia, Azerbaijan, Nicaragua, Palestine, Albania
+countries: Ethiopia, Azerbaijan, Nicaragua, Palestine, Albania, Samoa
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Azerbaijan, Nicaragua, Palestine, Albania
 
 **Book 6:** Libër Mësuesi — Biologjia 11 (Teacher's Book, Biology 11; Mediaprint) — Albania. Grade: 11 — Kind: teacher as verified — Repo path (release mid-size-books-2): grade-11-approved-private-albania-biologjia-teacher-libri-i-mesuesit-biologjia-11-mediaprint.pdf — Source: Mediaprint (approved private publisher) — Byte size: 5,619,139 — PDF pages: 172 — Printed-page offset: printed p. = PDF page − 2 (plan at printed p. 4). Verdict: COMPLETE — annual plan, term plans, daily plans, term tests and practical activities all present. Structural summary: The year is organised under three recurring thematics — Ciklet (Cycles), Diversiteti (Diversity), Ndërveprimet (Interactions) — and taught as: reproduction (flowering plants, then humans in unusual completeness: contraception, placenta, pregnancy care, birth, STIs), variation and heredity (DNA, mitosis/meiosis, inheritance patterns, inherited medical disorders, sex determination), variation and selection, then ecology (energy flow, pyramids, decomposition, carbon and water cycles, population factors). TEACHER'S BOOK — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/albania-placements.md.
 
+**Book 7:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 88–91 |
@@ -22,8 +24,11 @@ countries: Ethiopia, Azerbaijan, Nicaragua, Palestine, Albania
 | Nicaragua's way — Unidad 2.4: La meiosis y la gametogénesis | Book 4 (Biología — Undécimo grado, student textbook, Grade 11), Unidad 2.4, printed p. 65 |
 | Palestine's way — meiotic division and its stages (placement slug: meiosis-halving-the-chromosomes) | Book 5 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 2 Ch. 2 §§1–2: meiotic division and its stages — printed pp. 43–45 |
 | Albania's way — Plan: Ndarja qelizore — Mejoza (cell division — meiosis) (teacher book — evidence) (placement slug: meiosis-halving-the-chromosomes) | Book 6 (Libër Mësuesi — Biologjia 11, teacher's book, Grade 11), printed p. 5 |
+| Samoa's way — Unit 3: cell division through meiosis (placement slug: meiosis-halving-the-chromosomes) | Book 7 (Biology — Year 12, student textbook, Grade 12), printed pp. 76–84 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Azerbaijan, Nicaragua, Palestine) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Azerbaijan, Nicaragua, Palestine, Samoa) — Albania's teacher-book evidence is named here and counted nowhere.**
+
+Honesty (Samoa): Book 7 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
 Honesty (Palestine): Book 5 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
@@ -35,4 +40,4 @@ Honesty (Azerbaijan): Book 3 is a student textbook as verified in the placements
 
 Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia 11* (Teacher's Book, Biology 11; Mediaprint), Grade 11 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own yearly plan and numbered daily-plan topic lists (the taught curriculum), cited to the plan pages.
 
-Searchable tags: biology, azerbaijan, ethiopia, grade 10, meiosis, halving, the, chromosomes, nicaragua, palestine, albania
+Searchable tags: biology, azerbaijan, ethiopia, grade 10, meiosis, halving, the, chromosomes, nicaragua, palestine, albania, samoa

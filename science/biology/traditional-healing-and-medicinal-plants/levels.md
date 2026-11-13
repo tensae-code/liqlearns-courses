@@ -1,0 +1,5 @@
+# Traditional healing and medicinal plants — depth
+
+This file is the lesson's depth record. This lesson has no sub lessons — it is one whole, single-skill lesson.
+
+Whole-lesson pass mark: the learner can state the one thing this lesson teaches (In Samoa's Year 12 biology, health is taught as balance — between natural, social and supernatural elements — and healing is the work of the taulasea, the local healer, whose treatments include fofo (massage and manipulation) and medicines made from named Samoan plants: 'ava'avaaitu (Macropiper puberulum) for “ghost sickness”, an 'ava'avaaitu sosolo bark infusion for mouth infections and coughs, ginger, Matalafi (Psychotria insularum) — the most-used medicinal plant — and Moso'i (Cananga odorata) for constipation, stomachache and postpartum sickness.) and explain each key fact in their own words. Practice deepens by matching each named Samoan plant to what it treats, and by explaining how Samoa's balance idea of health differs from a germ-only idea of sickness, without looking.

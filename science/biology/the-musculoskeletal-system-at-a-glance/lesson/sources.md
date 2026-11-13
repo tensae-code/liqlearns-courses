@@ -1,6 +1,6 @@
 # Sources — The musculoskeletal system at a glance
 
-countries: Ethiopia, Egypt, Sudan, Cambodia, Gabon
+countries: Ethiopia, Egypt, Sudan, Cambodia, Gabon, Samoa
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Egypt, Sudan, Cambodia, Gabon
 
 **Book 6:** Guide pédagogique Sciences — Grade 5 (CM1 level; IPN Gabon, © EDIG/EDICEF 2024; Assengone Menvie Edith Olga épse Kebila, Moudoki Henri René et al.) — Gabon. Grade: 5 — Kind: teacher as verified — Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf — Byte size: 1,435,808 — PDF pages: 60 — Printed-page offset: none — Verdict: COMPLETE — five paliers, printed pp. 3–60, 18 biology lessons present. Structural summary: The oldest primary year turns to body defences and reproduction: the immune system investigated inquiry-style (what it is, what it is composed of), the nervous system, the great functions of the human body; then a full human-reproduction sequence (female apparatus, male apparatus, puberty, human reproduction); then health and safety — accident prevention, first aid, drugs and their dangers, HIV/AIDS and STIs, the WHO definition of health quoted in the guide; closing with humans and environment, the diversity and evolution of living things, the life of the elephant, plant nutrient needs and food webs. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
 
+**Book 7:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The musculoskeletal system — parts and jobs | Student Textbook, Grade 11 — Printed pp. 175–176. |
@@ -22,8 +24,11 @@ countries: Ethiopia, Egypt, Sudan, Cambodia, Gabon
 | Sudan's way — Unit Four: Movement in Living Organisms (placement slug: the-musculoskeletal-system-at-a-glance) | Book 4 (علم الأحياء – الصف الأول الثانوي, student textbook, Grade 10), Unit Four, printed pp. 106–136 |
 | Cambodia's way — Ch. 4 (Human biology) L1: the skeletal system (ប្រព័ន្ធគ្រោងឆ្អឹង) — L2: the muscular system (ប្រព័ន្ធសាច់ដុំ) p. 90 (placement slug: biology/bones-and-the-skeleton) | Book 5 (ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10), student textbook, Grade 10), Ch. 4 L1, printed p. 84 (muscular system L2, printed p. 90) |
 | Gabon's way — Lesson 7: Les grandes fonctions du corps humain — the body's great functions surveyed (teacher guide — evidence) (placement slug: the-musculoskeletal-system-at-a-glance) | Book 6 (Guide pédagogique Sciences, teacher guide, Grade 5), printed p. 9 |
+| Samoa's way — Unit 5: Movement (placement slug: the-musculoskeletal-system-at-a-glance) | Book 7 (Biology — Year 12, student textbook, Grade 12), printed p. 145 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Sudan, Cambodia) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Sudan, Cambodia, Samoa) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+
+Honesty (Samoa): Book 7 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
 Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 5; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
@@ -37,4 +42,4 @@ Honesty (Sudan): Book 4 is a student textbook as verified in the placements — 
 
 Honesty (Cambodia): Book 5 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10)*, Grade 10, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
 
-Searchable tags: biology, ethiopia, the, musculoskeletal, system, glance, egypt, sudan, cambodia, gabon
+Searchable tags: biology, ethiopia, the, musculoskeletal, system, glance, egypt, sudan, cambodia, gabon, samoa

@@ -1,6 +1,6 @@
 # Sources — Infectious and non-infectious disease — and breaking the chain of infection
 
-countries: Ethiopia, Syria, Azerbaijan, Gabon
+countries: Ethiopia, Syria, Azerbaijan, Gabon, Samoa
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Syria, Azerbaijan, Gabon
 
 **Book 5:** Guide pédagogique Sciences — Grade 5 (CM1 level; IPN Gabon, © EDIG/EDICEF 2024; Assengone Menvie Edith Olga épse Kebila, Moudoki Henri René et al.) — Gabon. Grade: 5 — Kind: teacher as verified — Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf — Byte size: 1,435,808 — PDF pages: 60 — Printed-page offset: none — Verdict: COMPLETE — five paliers, printed pp. 3–60, 18 biology lessons present. Structural summary: The oldest primary year turns to body defences and reproduction: the immune system investigated inquiry-style (what it is, what it is composed of), the nervous system, the great functions of the human body; then a full human-reproduction sequence (female apparatus, male apparatus, puberty, human reproduction); then health and safety — accident prevention, first aid, drugs and their dangers, HIV/AIDS and STIs, the WHO definition of health quoted in the guide; closing with humans and environment, the diversity and evolution of living things, the life of the elephant, plant nutrient needs and food webs. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
 
+**Book 6:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 127–129 |
@@ -19,8 +21,11 @@ countries: Ethiopia, Syria, Azerbaijan, Gabon
 | Syria's way — health and disease (placement slug: infectious-and-non-infectious-disease) | Book 3 (Biology & Earth Science, student textbook, Grade 7), Unit 4, Lesson 1: الصحة والمرض (Health and Disease) — printed p. 116 |
 | Azerbaijan's way — Part II §§15–17: the role of microorganisms in infectious processes; the role of the host organism in the development of infectious processes; the influence of the environment on the course of infectious diseases (placement slug: infectious-and-non-infectious-disease) | Book 4 (Биология 11, student textbook, Grade 11), Part II §§15–17, printed pp. 58–63 |
 | Gabon's way — Lesson 30: La bonne santé et les maladies — health defined by the WHO text quoted in the guide; Lesson 33: La préservation de la santé (teacher guide — evidence) (placement slug: infectious-and-non-infectious-disease) | Book 5 (Guide pédagogique Sciences, teacher guide, Grade 5), printed pp. 37 and 41 |
+| Samoa's way — Unit 1: Diseases (placement slug: infectious-and-non-infectious-disease) | Book 6 (Biology — Year 12, student textbook, Grade 12), printed p. 33 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Syria, Azerbaijan) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Syria, Azerbaijan, Samoa) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+
+Honesty (Samoa): Book 6 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
 Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 5; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
@@ -30,4 +35,4 @@ Honesty (Syria): Book 3 is a student textbook as verified in the placements — 
 
 Honesty (Azerbaijan): Book 4 is a student textbook as verified in the placements — *Биология 11* (Biology 11), the Russian-sector textbook (Şərq-Qərb, Baku, 2018) — so Azerbaijan counts toward acceptance. It is COMPLETE: seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present; 196 PDF pages, printed p. = PDF page − 2. The scan is image-only: the title page, colophon and the full two-page contents were read from page renders, so the placements cite the contents' printed pages.
 
-Searchable tags: biology, azerbaijan, ethiopia, syria, infectious, and, non, infectious, disease, and, breaking, the, gabon
+Searchable tags: biology, azerbaijan, ethiopia, syria, infectious, and, non, infectious, disease, and, breaking, the, gabon, samoa

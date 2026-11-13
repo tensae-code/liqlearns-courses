@@ -1,6 +1,6 @@
 # Sources — Excretion — the kidney cleans the blood
 
-countries: Ethiopia, Palestine, Eritrea, Sudan, Cambodia, Gabon
+countries: Ethiopia, Palestine, Eritrea, Sudan, Cambodia, Gabon, Samoa
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Palestine, Eritrea, Sudan, Cambodia, Gabon
 
 **Book 7:** Guide pédagogique Sciences — Grade 4 (CE2 level; IPN Gabon, © EDIG/EDICEF 2024; author Angwe Emane Gabriel et al.) — Gabon. Grade: 4 — Kind: teacher as verified — Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf — Byte size: 1,366,088 — PDF pages: 60 — Printed-page offset: none — Verdict: COMPLETE — five paliers, printed pp. 3–60, 18 biology lessons present. Structural summary: The human body systems first (respiration, circulation, digestion, excretion), then microbes and disease with local problems named in the guide itself (malaria, Covid-19), intestinal worms, vaccination, tuberculosis; then Gabon's environment — deforestation, water and soil pollution, soil erosion, protecting ecosystems; then reproduction: the dog and the fish as lessons (butterfly and frog in the palier's competency frame), and plant reproduction by seeds, cuttings and suckers. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
 
+**Book 8:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 137–139 |
@@ -25,8 +27,11 @@ countries: Ethiopia, Palestine, Eritrea, Sudan, Cambodia, Gabon
 | Sudan's way — Unit Four: Excretion in Living Organisms (placement slug: excretion-the-kidney-cleans-the-blood) | Book 5 (علم الأحياء – الصف الثاني الثانوي, student textbook, Grade 11), Unit Four, printed pp. 112–133 |
 | Cambodia's way — Ch. 5 L2: excretion (ការបញ្ចេញចោល) (placement slug: biology/excretion-the-kidney-cleans-the-blood) | Book 6 (ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11), student textbook, Grade 11), Ch. 5 L2, printed p. 150 |
 | Gabon's way — Lesson 10: L'excrétion : l'urine (teacher guide — evidence) (placement slug: excretion-the-kidney-cleans-the-blood) | Book 7 (Guide pédagogique Sciences, teacher guide, Grade 4), printed p. 14 |
+| Samoa's way — Unit 5: Excretion (placement slug: excretion-the-kidney-cleans-the-blood) | Book 8 (Biology — Year 12, student textbook, Grade 12), printed p. 144 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Eritrea, Sudan, Cambodia) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Eritrea, Sudan, Cambodia, Samoa) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+
+Honesty (Samoa): Book 8 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
 Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 4; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
@@ -40,4 +45,4 @@ Honesty (Sudan): Book 5 is a student textbook as verified in the placements — 
 
 Honesty (Cambodia): Book 6 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១១ (Biology, Grade 11)*, Grade 11, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
 
-Searchable tags: biology, eritrea, ethiopia, grade 10, excretion, the, kidney, cleans, the, blood, palestine, sudan, cambodia, gabon
+Searchable tags: biology, eritrea, ethiopia, grade 10, excretion, the, kidney, cleans, the, blood, palestine, sudan, cambodia, gabon, samoa

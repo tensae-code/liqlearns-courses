@@ -1,6 +1,6 @@
 # Sources — Osmosis — water crossing the membrane
 
-countries: Ethiopia, Sri Lanka, Brazil, Albania
+countries: Ethiopia, Sri Lanka, Brazil, Albania, Samoa
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Sri Lanka, Brazil, Albania
 
 **Book 5:** Libër Mësuesi — Biologjia me zgjedhje 12 (Teacher's Book, Elective Biology 12; Mediaprint) — Albania. Grade: 12 — Kind: teacher as verified — Repo path (release mid-size-books-2): grade-12-approved-private-albania-biologjia-teacher-libri-i-mesuesit-biologjia-12-mediaprint.pdf — Source: Mediaprint (approved private publisher) — Byte size: 6,873,849 — PDF pages: 264 — Printed-page offset: printed p. = PDF page − 2 (plan at printed p. 4). Verdict: COMPLETE — annual plan (54 + 46 + 36 hours), lesson planning to p. 234, term tests and the answers to the generalising questions (pp. 246+). Structural summary: The elective year, from the book's annual plan thematics: diversity of biological molecules (taught through food tests), structure and functioning of eukaryotic and prokaryotic cells, the eukaryotic cell cycle, exchange and transport of substances (membrane, diffusion, osmosis, active transport and cotransport, ATP), the immune system, gas exchange in plants and animals, transport in plants and animals, DNA–genes–protein synthesis, genetics, and cycles. TEACHER'S BOOK — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/albania-placements.md.
 
+**Book 6:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 62–68 |
@@ -19,8 +21,11 @@ countries: Ethiopia, Sri Lanka, Brazil, Albania
 | Sri Lanka's way — osmosis; cells and water | Book 3 (Biology 1, student textbook, Grade 10), Ch. 5 §5-4: பிரசாரணம் (osmosis); §5-6 cells and water — contents, Ch. 5 |
 | Brazil's way — Ch. 4: Osmose — "o equilíbrio natural e necessário" (the natural and necessary balance): a whole chapter on osmosis alone | Book 4 (Biologia — Livro Didático Público, Ensino Médio, student textbook, Grade 10), Ch. 4, printed p. 63 |
 | Albania's way — Plan Q&A: “Çfarë është osmoza?” — water passing from higher to lower water potential (teacher book — evidence) (placement slug: osmosis-water-crossing-the-membrane) | Book 5 (Libër Mësuesi — Biologjia me zgjedhje 12, teacher's book, Grade 12), printed p. 4 |
+| Samoa's way — Unit 2: osmosis within the same section (placement slug: osmosis-water-crossing-the-membrane) | Book 6 (Biology — Year 12, student textbook, Grade 12), printed pp. 67–71 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Sri Lanka, Brazil) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Sri Lanka, Brazil, Samoa) — Albania's teacher-book evidence is named here and counted nowhere.**
+
+Honesty (Samoa): Book 6 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
 Honesty: the Grade 9 teacher guide paired with the student book is a pre-publication draft whose publication page was never filled in (placeholder date and ISBN) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. The student book is the finished 2023 first publication. Book errors the placements flag are taught corrected and named here only: the contents lists Unit 3 starting at 3.2 although 3.1 exists in the body; the contents omits §4.3.5 (sporulation and parthenogenesis); the wolf's name is printed “Canissimensis” in a table on printed p. 27 and is taught corrected as Canis simensis; “Musa acuminate” is taught corrected as Musa acuminata.
 
@@ -30,4 +35,4 @@ Honesty (Brazil): Book 4 is a student textbook as verified in the placements —
 
 Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia me zgjedhje 12* (Teacher's Book, Elective Biology 12; Mediaprint), Grade 12 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own annual plan and lesson plans, cited to the plan pages.
 
-Searchable tags: biology, ethiopia, sri lanka, osmosis, water, crossing, the, membrane, brazil, albania
+Searchable tags: biology, ethiopia, sri lanka, osmosis, water, crossing, the, membrane, brazil, albania, samoa

@@ -1,6 +1,6 @@
 # Sources — Monohybrid crosses and the law of segregation
 
-countries: Ethiopia, Albania, Eritrea
+countries: Ethiopia, Albania, Eritrea, Samoa
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia, Albania, Eritrea
 
 **Book 4:** Biology for Grade 12 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-12-gov-eritrea-biology-student-full-year.pdf — Byte size: 12,793,204 — PDF pages: 144. Verdict: COMPLETE — all three units named in the Introduction present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises. Structural summary: A three-unit capstone: molecular genetics taught at bond level (two hydrogen bonds A–T, three C–G), evolution with Lamarck presented and then criticised point by point, and ecology built on population phases (growth, stability, decline) and their factors. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 5:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Monohybrid cross, Punnett square and segregation | Student Textbook, Grade 11 — Printed pp. 133–137. |
 | Albania's way — Plans: Trashëgimia (heredity); Studimi i modeleve të trashëgimisë (studying inheritance patterns, with a practical) (teacher book — evidence) (placement slug: monohybrid-crosses-and-the-law-of-segregation) | Book 2 (Libër Mësuesi — Biologjia 11, teacher's book, Grade 11), printed pp. 5–6 |
 | Albania's way — Thematic: Gjenetika (genetics) (teacher book — evidence) (placement slug: monohybrid-crosses-and-the-law-of-segregation) | Book 3 (Libër Mësuesi — Biologjia me zgjedhje 12, teacher's book, Grade 12), printed p. 4 |
 | Eritrea's way — Unit One: mechanisms of inheritance within the genetics unit | Book 4 (Biology for Grade 12 Textbook, student textbook, Grade 12), PDF pp. 9–66 |
+| Samoa's way — Unit 3: Inheritance (placement slug: monohybrid-crosses-and-the-law-of-segregation) | Book 5 (Biology — Year 12, student textbook, Grade 12), printed pp. 85–106 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Eritrea) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Samoa) — Albania's teacher-book evidence is named here and counted nowhere.**
+
+Honesty (Samoa): Book 5 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
 Honesty (Eritrea): Book 4 is a student textbook as verified in the placements — *Biology for Grade 12 Textbook* (The State of Eritrea, Ministry of Education), Grade 12, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all three units named in the Introduction are present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises (144 PDF pages). Page references are PDF pages, as the placements file gives them.
 
@@ -25,4 +30,4 @@ Honesty notes from the placements: this student book's contents page numbers run
 
 Honesty (Albania): Albania's evidence here is teacher's books only — *Libër Mësuesi — Biologjia 11* (Teacher's Book, Biology 11; Mediaprint), Grade 11, and *Libër Mësuesi — Biologjia me zgjedhje 12* (Teacher's Book, Elective Biology 12; Mediaprint), Grade 12 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the books' own yearly/annual plans and numbered daily-plan topic lists (the taught curriculum), cited to the plan pages.
 
-Searchable tags: biology, eritrea, ethiopia, monohybrid, crosses, and, the, law, segregation, albania
+Searchable tags: biology, eritrea, ethiopia, monohybrid, crosses, and, the, law, segregation, albania, samoa

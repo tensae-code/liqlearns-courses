@@ -1,6 +1,6 @@
 # Sources — Microorganisms
 
-countries: Ethiopia, Brazil, Azerbaijan, Gabon
+countries: Ethiopia, Brazil, Azerbaijan, Gabon, Samoa
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia, Brazil, Azerbaijan, Gabon
 
 **Book 4:** Guide pédagogique Sciences — Grade 4 (CE2 level; IPN Gabon, © EDIG/EDICEF 2024; author Angwe Emane Gabriel et al.) — Gabon. Grade: 4 — Kind: teacher as verified — Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf — Byte size: 1,366,088 — PDF pages: 60 — Printed-page offset: none — Verdict: COMPLETE — five paliers, printed pp. 3–60, 18 biology lessons present. Structural summary: The human body systems first (respiration, circulation, digestion, excretion), then microbes and disease with local problems named in the guide itself (malaria, Covid-19), intestinal worms, vaccination, tuberculosis; then Gabon's environment — deforestation, water and soil pollution, soil erosion, protecting ecosystems; then reproduction: the dog and the fish as lessons (butterfly and frog in the palier's competency frame), and plant reproduction by seeds, cuttings and suckers. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
 
+**Book 5:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Microorganisms and the three domains (unit opening): | Student Textbook, Grade 12 — Printed pp. 40–42. |
 | Brazil's way — Ch. 1: Bactérias — "um universo microscópico" (a microscopic universe): the Organisation of Living Beings block opens with bacteria as a whole microscopic universe | Book 2 (Biologia — Livro Didático Público, Ensino Médio, student textbook, Grade 10), Ch. 1, printed p. 15 |
 | Azerbaijan's way — Part II §9: microorganisms; §10: the branches of microbiology (placement slug: microorganisms) | Book 3 (Биология 11, student textbook, Grade 11), Part II §§9–10, printed pp. 42–45 |
 | Gabon's way — Lesson 11: Les microbes — classifying microbes by nature; local problems (paludisme, Covid-19) named as lesson material (teacher guide — evidence) (placement slug: microorganisms) | Book 4 (Guide pédagogique Sciences, teacher guide, Grade 4), printed p. 16 |
+| Samoa's way — Unit 1: Micro-Organisms (placement slug: microorganisms) | Book 5 (Biology — Year 12, student textbook, Grade 12), printed p. 8 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Brazil, Azerbaijan) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Brazil, Azerbaijan, Samoa) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+
+Honesty (Samoa): Book 5 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
 Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 4; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
@@ -29,4 +34,4 @@ Honesty (Brazil): Book 2 is a student textbook as verified in the placements —
 
 Honesty (Azerbaijan): Book 3 is a student textbook as verified in the placements — *Биология 11* (Biology 11), the Russian-sector textbook (Şərq-Qərb, Baku, 2018) — so Azerbaijan counts toward acceptance. It is COMPLETE: seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present; 196 PDF pages, printed p. = PDF page − 2. The scan is image-only: the title page, colophon and the full two-page contents were read from page renders, so the placements cite the contents' printed pages.
 
-Searchable tags: biology, azerbaijan, ethiopia, microorganisms, brazil, gabon
+Searchable tags: biology, azerbaijan, ethiopia, microorganisms, brazil, gabon, samoa

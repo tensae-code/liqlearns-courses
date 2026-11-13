@@ -1,6 +1,6 @@
 # Sources — Photosynthesis
 
-countries: Ethiopia, Sri Lanka, Costa Rica, France, Sudan, Uganda, Cambodia
+countries: Ethiopia, Sri Lanka, Costa Rica, France, Sudan, Uganda, Cambodia, Samoa
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Sri Lanka, Costa Rica, France, Sudan, Uganda, Cambodia
 
 **Book 7:** ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10) (as printed) — Cambodia. Grade: 10 (grade-10) — Kind: student as verified — Staging path: grade-10/gov/cambodia/biology/student/full-year.pdf (Sala 00004291) — Source: books.json record, on_disk — Byte size: 37258561 (matches record) — PDF pages: 123 — Printed-page offset: printed p. = PDF page − 5 (printed p. 1 = Introduction to biology; the book closes with a Khmer glossary, printed pp. 114–118) — Verdict: COMPLETE — read on 80 DPI contact sheets with contents and sampled pages at 150 DPI (renders deleted after filing); cover (hornbill, fungi, coconut artwork), title page (MoEYS; ISBN 978-9995-000-745; curriculum support from JICA acknowledged in the preface), preface, full contents, all 5 chapters, glossary present. The scan carries the ministry teacher-site watermark (krou.moeys.gov.kh). Structural summary: Five chapters: (1) classification and diversity of living things — viruses & bacteria, protists, fungi, plants, animals; (2) the cell — the cell, then prokaryotes vs eukaryotes; (3) Metabolism (មេតាបូលីស) — photosynthesis and cellular respiration; (4) Human biology — only two systems: skeletal and muscular; (5) Biology in agriculture (ជីវវិទ្យាក្នុងវិស័យកសិកម្ម) — soil, then breeding (ការបង្កាត់). The introduction defines biology and the characteristics of life (លក្ខណៈពិសេសនៃជីវិត). Cambodian way: the year ends not with theory but with soil and breeding for farming, and the book closes with a Khmer scientific glossary (one entry even glosses DNA as "ADN"). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/cambodia-placements.md.
 
+**Book 8:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Photosynthesis: the leaf and the chloroplast (§3.2 opening): | Student Textbook, Grade 12 — Printed pp. 117–120. |
@@ -25,8 +27,11 @@ countries: Ethiopia, Sri Lanka, Costa Rica, France, Sudan, Uganda, Cambodia
 | Sudan's way — Unit One objectives: the concept of photosynthesis and the factors affecting it, with experiments on those factors performed by the students (placement slug: photosynthesis) | Book 5 (علم الأحياء – الصف الثاني الثانوي, student textbook, Grade 11), Unit One objectives, printed p. 2 |
 | Uganda's way — the photosynthesis lesson: the factor-missing table (no water → a raw material is missing → no photosynthesis) | Book 6 (Biology Home-Study Learning — Senior Two (NCDC, 2020), student home-study booklet, Grade 9), PDF p. 23 |
 | Cambodia's way — Ch. 3 (Metabolism) L1: photosynthesis (រស្មីសំយោគ) (placement slug: biology/photosynthesis) | Book 7 (ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10), student textbook, Grade 10), Ch. 3 L1, printed p. 66 |
+| Samoa's way — Unit 4: Photosynthesis (placement slug: photosynthesis) | Book 8 (Biology — Year 12, student textbook, Grade 12), printed p. 107 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Sri Lanka, Costa Rica, France, Sudan, Uganda, Cambodia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Sri Lanka, Costa Rica, France, Sudan, Uganda, Cambodia, Samoa).**
+
+Honesty (Samoa): Book 8 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
 Honesty (Uganda): Book 6 is a student home-study booklet as verified in the placements — *Biology Home-Study Learning — Senior Two* (NCDC, 2020), Grade 9 (Senior Two) — so Uganda counts toward acceptance. It is COMPLETE: foreword, acknowledgements, “About this booklet”, all lessons and the NCDC back page present (28 PDF pages; pages cited by PDF/booklet position).
 
@@ -44,4 +49,4 @@ Honesty (Sudan): Book 5 is a student textbook as verified in the placements — 
 
 Honesty (Cambodia): Book 7 is a student textbook as verified in the placements — *ជីវវិទ្យា ថ្នាក់ទី១០ (Biology, Grade 10)*, Grade 10, MoEYS, Cambodia — so Cambodia counts toward acceptance. It is COMPLETE as stated in its book entry above. Cambodia's three books are distinct grade books, each cited once here where placed; no Cambodia book is a teacher guide, programme or curriculum in these placements.
 
-Searchable tags: biology, ethiopia, sri lanka, photosynthesis, costa rica, france, sudan, uganda, cambodia
+Searchable tags: biology, ethiopia, sri lanka, photosynthesis, costa rica, france, sudan, uganda, cambodia, samoa
