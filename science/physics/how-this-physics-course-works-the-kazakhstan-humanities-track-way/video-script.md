@@ -1,0 +1,8 @@
+# How this physics course works — the Kazakhstan humanities-track way — video script
+
+**Opening (the hook):** The humanities track learns physics by rebuilding the world a discovery was made in: for each great step, you reconstruct its epoch — its writers, artists and rulers — keep a project growing all year, and defend it at the end, so the physics is remembered as a human story with the equations inside it.
+
+**Walk-through:** Take the sub lessons in order. For 'Physics through history — rebuild the epoch': The OGN preface is explicit: this track meets physics through the scientific method and through history. For 'The year-long project': One creative project runs the whole year, chosen early and grown lesson by lesson: each new topic adds its epoch and its evidence to the project. For 'The defence — coursework': At the year's end the project is defended as coursework: presented, explained and questioned, like the dissertations it imitates at school scale. 
+**The picture:** [Picture 36865] — a picture of a drawn diagram — a year-long road through a physics course with a small museum of an epoch beside it (writers, artists and rulers of a discovery's time) and a learner defending a project scroll at the road's end. Walk the learner across it slowly, naming each part as the sub lessons name it.
+
+**Close:** Say the one thing once more, plainly: the humanities track learns physics by rebuilding the world a discovery was made in: for each great step, you reconstruct its epoch — its writers, artists and rulers — keep a project growing all year, and defend it at the end, so the physics is remembered as a human story with the equations inside it. Then send the learner to the Do It Yourself items.

@@ -1,6 +1,6 @@
 # Sources — Reading velocity–time graphs
 
-countries: Ethiopia, Indonesia (teacher-guide evidence only), Libya, Mozambique
+countries: Ethiopia, Indonesia (teacher-guide evidence only), Libya, Mozambique, Kazakhstan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Indonesia (teacher-guide evidence only), Libya, Mozambique
 
 **Book 4:** *MÓDULO 1 — FÍSICA — Mecânica – Cinemática* (student module) — Ministério da Educação e Cultura — Instituto de Desenvolvimento da Educação (INDE), Mozambique; distance-education (PESD) self-study module. Title as printed: MÓDULO 1 — FÍSICA — Mecânica – Cinemática. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica1-2o-Ciclo.pdf. Route used (retry reader, 2026-11-12): pusher-token GitHub Contents API raw download of the secured repo file itself — 1,189,737 bytes, EXACT match to the record; pdfinfo 143 pages. Offset: printed p. = PDF p. − 3 (printed “Acerca deste Módulo” p. 1 = PDF p. 4; Lição 1 printed p. 5 = PDF p. 8); printed pagination runs 1–114 (Teste p. 111, Soluções p. 114) with the solutions running to PDF p. 143. Verdict: COMPLETE (full text read cover to the last solutions page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
 
+**Book 5:** **Title as printed:** Physics, Grade 9 — Tom Tierney (special advisor: Pat Doyle; Zakhidam Julay, Aizat Aimakhanova) — Express Publishing, first published 2018, printed in Kazakhstan, ISBN 978-1-4715-7521-1 · **Grade:** Grade 9 · **Type:** student textbook (English edition, written for the Kazakhstani Grade 9 programme; the secured file is the publisher's print-proof PDF with crop marks and the expresspublishing.kz watermark) · **Repo path:** grade-09-gov-kazakhstan-fizika-student-477.pdf (mid-size-books-5) · **Bytes:** 29,871,754 (verified exact against the release-asset index and the okulyk.kz original) · **PDF pages:** 194 · **Offset:** printed page = PDF page − 1 (the contents, printed p. 3, stands on PDF p. 4; bullets below cite printed pages) · **Verdict:** COMPLETE (the whole book read from the renders — contents, every module's headed topic blocks, and the glossary to printed p. 187; the file's last pages are blank proof leaves and the back cover) Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kazakhstan-placements.md (record 477).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Velocity–time and acceleration graphs | Grade 11 Student Textbook, printed pp. 64–69 |
 | Bab 2 Kinematika (Indonesia, Grade 11 teacher guide — evidence) | Indonesia, *Buku Panduan Guru Fisika untuk SMA/MA Kelas XI*, Bab 2 Kinematika — printed p. 43 — guide's meeting plan builds graph-reading before formulae |
 | U2 §2-5: graphical representation of the velocity–time relation (Libya, Grade 10) | Libya, *Physics, Grade 10 (student book — Part One: General Physics)*, U2 §2-5: graphical representation of the velocity–time relation — printed pp. 29–32 |
 | Lição 11 Gráfico da Velocidade em Função do Tempo de um MRUV (Mozambique, PESD II Módulo 1) | Mozambique, *Módulo 1 — Física — Mecânica – Cinemática (PESD II, 2º Ciclo)*, Lição 11 Gráfico da Velocidade em Função do Tempo de um MRUV — printed p. 64 |
+| Module 1: Velocity–Time Graphs | Kazakhstan, *Tierney (Express Publishing), English edition, 2018*, Module 1: Velocity–Time Graphs — printed p. 17 — Slope and area both read (English edition, Express Publishing, 2018) |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Libya, Mozambique).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Libya, Mozambique, Kazakhstan).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 

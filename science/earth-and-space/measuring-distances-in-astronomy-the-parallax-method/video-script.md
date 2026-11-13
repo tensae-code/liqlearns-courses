@@ -1,0 +1,8 @@
+# Measuring distances in astronomy — the parallax method — video script
+
+**Opening (the hook):** You cannot pace out the sky, but you can triangulate it: look at a near body from two places, measure its tiny apparent shift — its parallax — and the baseline you walked turns that angle into a distance, out to the nearest stars.
+
+**Walk-through:** Take the sub lessons in order. For 'Parallax — the shift of the near against the far': Hold a finger before your face and blink between eyes: the finger jumps against the wall. For 'Horizontal parallax — the Solar System': For the Moon, Sun and planets the Kazakh books use horizontal parallax: the angle under which Earth's radius would be seen from the body — equivalently, the shift of the body against the stars between two observatories a known distance apart. For 'Annual parallax and the parsec': For stars the baseline is Earth's orbit itself: photograph a near star, wait six months, photograph it again — it has shifted against the distant stars by twice its annual parallax. 
+**The picture:** [Picture 36864] — a picture of a drawn diagram — the Earth at two opposite points of its orbit six months apart, sight lines converging on a near star against distant stars, the tiny parallax angle marked at the star, with the parsec defined beside it. Walk the learner across it slowly, naming each part as the sub lessons name it.
+
+**Close:** Say the one thing once more, plainly: you cannot pace out the sky, but you can triangulate it: look at a near body from two places, measure its tiny apparent shift — its parallax — and the baseline you walked turns that angle into a distance, out to the nearest stars. Then send the learner to the Do It Yourself items.

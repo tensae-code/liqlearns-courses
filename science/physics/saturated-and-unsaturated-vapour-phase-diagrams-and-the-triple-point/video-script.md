@@ -1,0 +1,8 @@
+# Saturated and unsaturated vapour, phase diagrams, triple point and critical state — video script
+
+**Opening (the hook):** A vapour above its liquid settles into a balance — saturated vapour, whose pressure no squeezing can raise — and the whole map of a substance's states fits on one phase diagram, where three states meet at the triple point and the liquid–gas line ends at the critical point.
+
+**Walk-through:** Take the sub lessons in order. For 'Saturated and unsaturated vapour': Above a liquid in a closed space, evaporation and condensation race each other. For 'The phase diagram — one map of three states': Plot pressure against temperature and a substance's states become regions: solid, liquid, gas, fenced by three curves — melting, boiling (vaporisation) and sublimation. For 'Triple point and critical state': The three curves meet at one point — the triple point — where solid, liquid and gas all coexist (for water, 0.01 °C at about 611 Pa; it once defined the kelvin). 
+**The picture:** [Picture 36860] — a picture of a drawn diagram — a phase diagram with pressure against temperature: solid, liquid and gas regions meeting at one triple point, the boiling curve ending at a critical point, and the sublimation curve rising from the origin. Walk the learner across it slowly, naming each part as the sub lessons name it.
+
+**Close:** Say the one thing once more, plainly: a vapour above its liquid settles into a balance — saturated vapour, whose pressure no squeezing can raise — and the whole map of a substance's states fits on one phase diagram, where three states meet at the triple point and the liquid–gas line ends at the critical point. Then send the learner to the Do It Yourself items.
