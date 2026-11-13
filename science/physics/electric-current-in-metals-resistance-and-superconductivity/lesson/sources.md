@@ -1,6 +1,6 @@
 # Sources — Electric current in metals — resistance and temperature, superconductivity
 
-countries: Italy, Bulgaria, Belarus, Iran, Laos, Moldova
+countries: Italy, Bulgaria, Belarus, Iran, Laos, Moldova, Libya
 
 **Book 1:** *L'Amaldi per i licei scientifici.blu, Vol. 2: Onde, campo elettrico e magnetico* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 2: Onde, campo elettrico e magnetico. Grades 10–11 span (filed Grade 11) · Student book · First edition March 2012 (colophon), with “Physics in English” sections · Repo: release `mid-size-books-6`, asset `grade-11-gov-italy-physics-student-full-year.pdf` — 26,364,503 bytes (matched asset) · PDF pages: 452 · Offset: placements cite chapter and PDF page (the printed contents pages are typographically corrupt in the text layer, so the structure was taken from the chapter openers and section headings throughout the text, which are intact). Verdict: COMPLETE (the volume runs Ch. 15 through Ch. 26, closing with the magnetic field, as its title promises). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
 
@@ -18,6 +18,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 7:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 8:** *الفيزياء كراسة النشاط العملي — Physics, Grade 12 (practical activity workbook, Science stream)* (workbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Workbook (practical activities, كراسة النشاط العملي) — the electricity-and-magnetism volume of the practical series · Repo path: grade-12/gov/libya/physics/practical-activity-workbook.pdf (Contents-API tree route). Byte size: 1,556,668 (Contents-API meta + raw download, verified) · PDF pages: 43 · Offset: printed p. = PDF p. − 4 (printed 1 = PDF 5). Verdict: COMPLETE — contents and all experiment titles read via page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 2: Onde, campo elettrico e magnetico*, Ch.23 La corrente elettrica nei metalli — PDF p. 282 |
@@ -31,9 +33,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 | §24 Current in metals; temperature dependence of metal resistance; superconductivity — tagged NEW LESSON NEEDED in belarus-placements.md and stocked into this existing shared lesson per the Belarus merge brief (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §24 Current in metals; temperature dependence of metal resistance; superconductivity — printed p. 168 |
 | §2-3, Factors affecting resistance — resistivity, length, area, temperature (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §2-3 — printed p. 45 |
+| Exps. 4–5: p.d. across different lengths of a resistance wire; how the current changes as the wire's length changes (Libya, Grade 12) | Libya, *Physics, Grade 12 (practical activity workbook, Science stream)*, Exps. 4–5: p.d. across different lengths of a resistance wire; how the current changes as the wire's length changes — printed pp. 17–19 |
 
-**Acceptance count: taught in 6 countries (Italy, Bulgaria, Belarus, Iran, Laos, Moldova).**
+**Acceptance count: taught in 7 countries (Italy, Bulgaria, Belarus, Iran, Laos, Moldova, Libya).**
 
 Placement choice, on the record: this NEW LESSON was built for the Italy placement “Electric current in metals — resistance and temperature, superconductivity” — italy-placements.md, Book 2, Ch.23, PDF p. 282 — the same current-in-metals gap named for Belarus G10 / Bulgaria G9 in this expansion. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics) beside the current lessons.
 
-Searchable tags: current in metals, electron gas, drift velocity, resistivity temperature, superconductivity, onnes, meissner, critical temperature, italy, amaldi, iran, laos
+Searchable tags: current in metals, electron gas, drift velocity, resistivity temperature, superconductivity, onnes, meissner, critical temperature, italy, amaldi, iran, laos, libya

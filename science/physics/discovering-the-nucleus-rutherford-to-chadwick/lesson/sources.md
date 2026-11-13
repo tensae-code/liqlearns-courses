@@ -1,6 +1,6 @@
 # Sources — Discovering the nucleus — Rutherford to Chadwick
 
-countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India, North Macedonia, Laos
+countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India, North Macedonia, Laos, Libya
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait,
 
 **Book 13:** *ແບບຮຽນ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Textbook, Physics, Secondary Year 7)* (student textbook) — Laos, MoES / RIES, 2016 (cover and title page read from the secured file itself). Grade: 12 (ມ.7) · Student book · Record: 4,699,501 bytes, 305 pages · Repo path: grade-12/gov/laos/physics/student/laos-g12-physics-student.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (4,699,501 bytes), pdfinfo 305 pages, cover proves identity (the recorded MoES source is the same file per the staging note). Offset: printed p. = PDF p. − 7 (printed p. 1 = PDF p. 8; Lesson 30 runs printed pp. 289–298 = PDF pp. 296–305, so the file ends exactly at the book's end). Verdict: COMPLETE — full TOC (10 parts, 30 lessons) read from the book's own contents pages; body spot-read across the book in text and image (rotation opening, Doppler named in English in the sound-phenomena lesson, Faraday/Lenz in the induction lesson, transformer in the AC part, Bohr/Planck/Einstein and the photoelectric strand in the atomic part, Lesson 30's radiation-uses body with its sievert dose table read to the final exercise page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
 
+**Book 14:** *الفيزياء كتاب الطالب، الجزء الأول — Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Student book (third secondary year, Science stream; Arabic medium) · Repo path: grade-12/gov/libya/physics/student-book-part-1.pdf (TSV route: release asset grade-12-gov-libya-physics-student-book-part-1.pdf, mid-size-books-3). Byte size: 10,169,298 (release asset, verified) · PDF pages: 177 · Offset: printed p. = PDF p. − 5 approx. Verdict: COMPLETE for Part 1 — 9 units plus answers (printed p. 172); read from the full text layer and printed contents. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How the nucleus was found — Rutherford and the neutron | Grade 11 Student Textbook, printed pp. 291–298 |
@@ -43,9 +45,10 @@ countries: Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait,
 | Ch. 12 Atoms — Thomson and Rutherford models in sequence (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 12 Atoms — Thomson and Rutherford models in sequence |
 | Theme 4 §4.3: models of the atom (Thomson, Rutherford, Bohr) (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 4 §4.3: models of the atom (Thomson, Rutherford, Bohr) — printed p. 214 |
 | Part IX, Lesson 25 The Structure of Matter (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part IX, Lesson 25 The Structure of Matter — printed p. 224 |
+| U9 §9-6: discovering the nuclear atom (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U9 §9-6: discovering the nuclear atom — printed p. 161 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India, North Macedonia, Laos).**
+**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Malaysia, Fiji, Indonesia, United States, Kuwait, Yemen, Afghanistan, Uzbekistan, India, North Macedonia, Laos, Libya).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, discovering the nucleus — rutherford to chadwick, neutron, united states, yemen, north macedonia, laos
+Searchable tags: physics, grade 11, nuclear physics, discovering the nucleus — rutherford to chadwick, neutron, united states, yemen, north macedonia, laos, libya

@@ -1,8 +1,10 @@
 # Sources — The nuclear industry — power stations and other uses
 
-countries: Vietnam
+countries: Vietnam, Libya
 
 **Book 1:** *Vật lí 12 (Physics 12) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student book · 2nd reprint (Tái bản lần thứ hai) · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Văn Biên (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House); appraisal decisions 1882/QĐ-BGDĐT (2023) and 2892/QĐ-BGDĐT (2023). Repo path: grade-12/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-full-year.pdf). Byte size: 24,390,203 (matches record). PDF pages: 127 (record 127). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (cover/title/TOC verified; interiors spot-verified at the induction-applications, EM-field and radioactivity/nuclear-industry lessons). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
+**Book 2:** *الفيزياء كتاب الطالب، الجزء الأول — Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Student book (third secondary year, Science stream; Arabic medium) · Repo path: grade-12/gov/libya/physics/student-book-part-1.pdf (TSV route: release asset grade-12-gov-libya-physics-student-book-part-1.pdf, mid-size-books-3). Byte size: 10,169,298 (release asset, verified) · PDF pages: 177 · Offset: printed p. = PDF p. − 5 approx. Verdict: COMPLETE for Part 1 — 9 units plus answers (printed p. 172); read from the full text layer and printed contents. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,9 +13,10 @@ countries: Vietnam
 | Sub lesson 2 — Beyond electricity — tracers, scans, therapy and gauges (Vietnam, Grade 12) | Vietnam, *Vật lí 12*, Bài 24, Nuclear industry (Công nghiệp hạt nhân): the reactor → turbine → generator plant schematic (Gundremmingen, Germany, as the photo case) and the industry's other uses, with the advantages/disadvantages debate as the lesson's opener — printed p. 114 |
 | Sub lesson 3 — The debate — advantages against burdens (Vietnam, Grade 12) | Vietnam, *Vật lí 12*, Bài 24, Nuclear industry (Công nghiệp hạt nhân): the reactor → turbine → generator plant schematic (Gundremmingen, Germany, as the photo case) and the industry's other uses, with the advantages/disadvantages debate as the lesson's opener — printed p. 114 |
 | Do it first; key ideas; Do It Yourself | Vietnam, *Vật lí 12*, as cited in the rows above |
+| U9 §9-9: nuclear energy (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U9 §9-9: nuclear energy — printed pp. 165–167 |
 
-**Acceptance count: taught in 1 country (Vietnam).**
+**Acceptance count: taught in 2 countries (Vietnam, Libya).**
 
 Placement choice, on the record: this NEW LESSON was built for the Vietnam placement "NEW LESSON NEEDED: The nuclear industry — power stations and other uses" — vietnam-placements.md, Book 3 (Grade 12), Bài 24. No existing lesson teaches this as its own lesson — the nearest neighbours are named in lesson-plan.md's place line — so the lesson is built here. It sits in physics/ (Physics).
 
-Searchable tags: nuclear industry, nuclear power station, reactor, turbine, generator, control rods, radioisotopes, tracer, radiotherapy, nuclear waste, vietnam, grade 12, bai 24
+Searchable tags: nuclear industry, nuclear power station, reactor, turbine, generator, control rods, radioisotopes, tracer, radiotherapy, nuclear waste, vietnam, grade 12, bai 24, libya

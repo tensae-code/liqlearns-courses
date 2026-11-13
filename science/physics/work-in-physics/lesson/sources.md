@@ -1,9 +1,11 @@
 # Sources — Work in physics — force times distance
 
-countries: Ethiopia
+countries: Ethiopia, Libya
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 **Book 2:** *Physics, Teacher's Guide, Grade 9* (teacher's guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, © 2022, 103 printed pp. Printed page = PDF page − 8. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). Under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN as printed: 978-999944-2-046-9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-teacher-placements.md.
+
+**Book 3:** *الفيزياء كتاب الطالب — Physics, Grade 10 (student book)* (student textbook) — Libya, Centre for Educational Curricula and Pedagogical Research, Ministry of Education; school year 1440–1441 AH / 2019–2020 CE (copyright page). Title as printed: الفيزياء كتاب الطالب — this volume is "Part One: General Physics" (الجزء الأول: الفيزياء العامة) of the Libyan secondary physics series. Grade: 10 · Student book (Arabic medium; unit titles are also printed in English in the book) · Repo path: grade-10/gov/libya/physics/student-book.pdf (TSV route: release asset grade-10-gov-libya-physics-student-book.pdf, mid-size-books-3). Byte size: 8,539,574 (release asset, verified) · PDF pages: 124 · Offset: printed p. ≈ PDF p. for body pages (Unit 1 opens at printed p. 7 = PDF p. 7; front matter is lettered أ، ب، ج). Verdict: COMPLETE — 7 units plus answers (printed p. 114); read from the full printed contents (image sheets) and text layer. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,9 +13,10 @@ countries: Ethiopia
 | Do it first; key ideas; Do It Yourself | Ethiopia, *Grade 9 Student Textbook*, printed pp. 74–75 |
 | Formulas and worked numbers | Ethiopia, *Grade 9 Student Textbook*, printed pp. 74–75 |
 | Unit 4 — Force, Work, Energy and Power pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 9 Teacher's Guide*, printed pp. 41–54 |
+| U6 §6-1: work (Libya, Grade 10) | Libya, *Physics, Grade 10 (student book — Part One: General Physics)*, U6 §6-1: work — printed pp. 84–85 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Libya).**
 
 Pairing warning, carried exactly: PAIRING WARNING (minor): the guide is © 2022 while the student book's imprint is dated 2023; content matches, but the build should cite them as a 2022 guide / 2023 student printing pair, not a single-year edition. The student book's © line truncates the year ("© 202…") in the text layer. The Grade 9 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 10 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 
-Searchable tags: work in physics — force times distance, grade 9 physics, unit 4, work w = f × s, measured in joules., no displacement means no work, however great the effort., movement perpendicular to the force means no work by that force.
+Searchable tags: work in physics — force times distance, grade 9 physics, unit 4, work w = f × s, measured in joules., no displacement means no work, however great the effort., movement perpendicular to the force means no work by that force., libya

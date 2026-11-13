@@ -1,8 +1,12 @@
 # Sources — Resolving and combining forces — resultant and the parallelogram law
 
-countries: Sri Lanka
+countries: Sri Lanka, Libya
 
 **Book 1:** *Science for Technology: Physics Part I* (student textbook) — Sri Lanka, Educational Publications Department, first edition 2016. Title as printed: தொழினுட்பவியலுக்கான விஞ்ஞானம், பௌதிகவியல் பகுதி – I; G.C.E. (A/L) Technology stream; Educational Publications Department; first edition 2016 (preface dated 2016.05.18). Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/science-for-technology/textbook/physics-part-1.pdf · Release: mid-size-books-5. Byte size: 25,591,814 · PDF pages: 152 · Offset: printed p. N = PDF p. N+8 (printed p. 1 = PDF p. 9). Verdict: COMPLETE — identity proven by cover/title/imprint; full contents (printed pp. vii–viii) read; Chapter 1 read at its opening. Read basis: contents-anchored read with chapter-opening verification (image-only scan, no text layer). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
+
+**Book 2:** *الفيزياء كتاب الطالب — Physics, Grade 11 (student book, Science stream)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 11 · Student book (Science stream — القسم العلمي, title page; Arabic medium) · Repo path: grade-11/gov/libya/physics/student-book.pdf (TSV route: release asset grade-11-gov-libya-physics-student-book.pdf, mid-size-books-3). Byte size: 23,437,224 (release asset, verified) · PDF pages: 220 · Offset: printed p. = PDF p. − 6 approx. (front matter + 3 contents pages). Verdict: COMPLETE — two parts, 13 units, answers (p. 203) and an English "Definitions" appendix (p. 211); read from the full printed contents (image sheets). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
+
+**Book 3:** *الفيزياء، الجزء الثاني (الميكانيكا) — Physics, Grade 12 (student book, Part 2: Mechanics)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Student book (third secondary year, Science stream; Arabic medium, with bilingual Arabic/English chapter and section headings) · Repo path: grade-12/gov/libya/physics/student-book-part-2.pdf (TSV route: release asset grade-12-gov-libya-physics-student-book-part-2.pdf, mid-size-books-3). Byte size: 15,667,220 (release asset, verified) · PDF pages: 102 · Offset: printed p. = PDF p. (Chapter 1 opens at printed p. 7 = PDF p. 7). Verdict: COMPLETE for Part 2 — 6 chapters plus an answers appendix; read via page sheets (image scan). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,9 +15,11 @@ countries: Sri Lanka
 | Sub lesson 2 — The parallelogram law and the resultant of two forces | Sri Lanka, *Science for Technology: Physics Part I*, §§3.1.5–3.2 — resolution of forces; resultant of two forces; the parallelogram law of forces — printed pp. 93–103 |
 | Sub lesson 3 — Combining several forces by components | Sri Lanka, *Science for Technology: Physics Part I*, §§3.1.5–3.2 — resolution of forces; resultant of two forces; the parallelogram law of forces — printed pp. 93–103 |
 | Do it first; key ideas; Do It Yourself | Sri Lanka, *Science for Technology: Physics Part I*, as cited in the rows above |
+| U13: force as a vector quantity — combining forces geometrically, resolving into components, combining by perpendicular components, algebraic resolution, with exercise sets A/B/C interleaved (Libya, Grade 11) | Libya, *Physics, Grade 11 (student book, Science stream)*, U13: force as a vector quantity — combining forces geometrically, resolving into components, combining by perpendicular components, algebraic resolution, with exercise sets A/B/C interleaved — printed pp. 189–196 |
+| Ch. 1: resolving forces — horizontally and vertically, forces at an angle, triangular relations, resolving in other directions; the chapter's method is writing one F = ma equation per direction (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 2: Mechanics)*, Ch. 1: resolving forces — horizontally and vertically, forces at an angle, triangular relations, resolving in other directions; the chapter's method is writing one F = ma equation per direction — printed pp. 7–19 |
 
-**Acceptance count: taught in 1 country (Sri Lanka).**
+**Acceptance count: taught in 2 countries (Sri Lanka, Libya).**
 
 Placement choice, on the record: this NEW LESSON was built for the Sri Lanka placement “Resolving and combining forces — resultant and the parallelogram law” — sri-lanka-placements.md, §§3.1.5–3.2 — resolution of forces; resultant of two forces; the parallelogram law of forces — printed pp. 93–103. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 
-Searchable tags: resultant, parallelogram law, resolving forces, components, sri lanka
+Searchable tags: resultant, parallelogram law, resolving forces, components, sri lanka, libya

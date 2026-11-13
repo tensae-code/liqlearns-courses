@@ -1,6 +1,6 @@
 # Sources — Radiation at work — tracers, medicine and dating
 
-countries: Ethiopia, Afghanistan, Laos, Vietnam
+countries: Ethiopia, Afghanistan, Laos, Vietnam, Libya
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,15 +10,18 @@ countries: Ethiopia, Afghanistan, Laos, Vietnam
 
 **Book 4:** *Vật lí 12 (Physics 12) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student book · 2nd reprint (Tái bản lần thứ hai) · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Văn Biên (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House); appraisal decisions 1882/QĐ-BGDĐT (2023) and 2892/QĐ-BGDĐT (2023). Repo path: grade-12/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-full-year.pdf). Byte size: 24,390,203 (matches record). PDF pages: 127 (record 127). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (cover/title/TOC verified; interiors spot-verified at the induction-applications, EM-field and radioactivity/nuclear-industry lessons). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 5:** *الفيزياء كتاب الطالب، الجزء الأول — Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Student book (third secondary year, Science stream; Arabic medium) · Repo path: grade-12/gov/libya/physics/student-book-part-1.pdf (TSV route: release asset grade-12-gov-libya-physics-student-book-part-1.pdf, mid-size-books-3). Byte size: 10,169,298 (release asset, verified) · PDF pages: 177 · Offset: printed p. = PDF p. − 5 approx. Verdict: COMPLETE for Part 1 — 9 units plus answers (printed p. 172); read from the full text layer and printed contents. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Uses of nuclear radiation | Grade 11 Student Textbook, printed pp. 312–315 |
 | Ch. 6 — the nuclear reactor and its uses (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 6 — printed p. 172 — the nuclear reactor p. 172 and uses of the nuclear reactor p. 177 (nuclear bombs p. 175 in the same closing strand) |
 | Part X, Lesson 30 Uses of Radiation and Protection from Radioactivity — tracer and medical uses (I-131, Co-60 named in the body) and a nuclear power station diagram (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part X, Lesson 30 Uses of Radiation and Protection from Radioactivity — printed p. 289 |
 | Bài 24 — Nuclear industry: other uses (Vietnam, Grade 12) | Vietnam, *Vật lí 12*, Bài 24, Nuclear industry (Công nghiệp hạt nhân): plant operation plus the industry's other branches; PET/CT signage photographed in Bài 23's safety section — printed p. 114 |
+| U9 §9-5: radiation and people — uses, dangers and precautions (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U9 §9-5: radiation and people — uses, dangers and precautions — printed pp. 158–160 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Laos, Vietnam).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Laos, Vietnam, Libya).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 
-Searchable tags: physics, grade 11, nuclear physics, radiation at work — tracers, medicine and dating, isotope, laos
+Searchable tags: physics, grade 11, nuclear physics, radiation at work — tracers, medicine and dating, isotope, laos, libya

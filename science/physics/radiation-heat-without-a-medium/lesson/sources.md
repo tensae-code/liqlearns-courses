@@ -1,6 +1,6 @@
 # Sources — Radiation — heat without a medium
 
-countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongolia, North Macedonia
+countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongolia, North Macedonia, Libya
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongoli
 
 **Book 5:** *Физика за VIII одделение (Physics for Grade 8)* (student textbook) — North Macedonia, Prof. Dr Lambe Barandovski (Institute of Physics, Faculty of Natural Sciences and Mathematics, Skopje) & Vera Zoroska MSc; Просветно дело (Prosvetno delo), Skopje; imprint: Skopje 2025, CIP record 2026; ISBN 978-608-228-592-4; 236 printed pages, print run 13,171; approved for use by decision of the National Textbook Commission of the Republic of North Macedonia, 25.06.2026, no. 26-766/1. Grade: 8 · Student book · Repo path: grade-08/gov/north-macedonia/physics/student/full-year.pdf (release copy: releases/download/mid-size-books/grade-08-gov-north-macedonia-physics-student-full-year.pdf). Byte size: 27,010,647 (no size recorded in books.json — the book was verified by page count and identity instead). PDF pages: 238 (record: 238). Offset: printed p. = PDF p. − 1 (printed p. 49 is PDF p. 50). Verdict: COMPLETE — full text layer, all 238 pages; contents read in full, theme openers and interiors read. Library note, carried on the record: the Grade 8 record carries no file size in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/north-macedonia-placements.md.
 
+**Book 6:** *الفيزياء كتاب الطالب — Physics, Grade 11 (student book, Science stream)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 11 · Student book (Science stream — القسم العلمي, title page; Arabic medium) · Repo path: grade-11/gov/libya/physics/student-book.pdf (TSV route: release asset grade-11-gov-libya-physics-student-book.pdf, mid-size-books-3). Byte size: 23,437,224 (release asset, verified) · PDF pages: 220 · Offset: printed p. = PDF p. − 6 approx. (front matter + 3 contents pages). Verdict: COMPLETE — two parts, 13 units, answers (p. 203) and an English "Definitions" appendix (p. 211); read from the full printed contents (image sheets). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Radiation and comparing the three mechanisms | Grade 11 Student Textbook, printed pp. 182–188 |
@@ -19,7 +21,8 @@ countries: Ethiopia, Slovenia, Cambodia (private-booklet evidence only), Mongoli
 | Ch. 2 Unit 3: radiation — warming the Earth (Cambodia, Grade 7 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 7, Teacher version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 2 Unit 3 — printed p. 61 |
 | §1.3 (Mongolia, Grade 9) | Mongolia, *Физик IX*, §1.3 — printed p. 46 |
 | Theme 2 §2.11: heat transfer by radiation (with the convection lesson) (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 2 §2.11: heat transfer by radiation (with the convection lesson) — printed p. 97 |
+| U5 §5-4: thermal radiation (Libya, Grade 11) | Libya, *Physics, Grade 11 (student book, Science stream)*, U5 §5-4: thermal radiation — printed pp. 64–66 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Mongolia, North Macedonia).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Slovenia, Mongolia, North Macedonia, Libya).** Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
-Searchable tags: physics, grade 11, heat conduction and calorimetry, radiation — heat without a medium, conduction, cambodia, north macedonia
+Searchable tags: physics, grade 11, heat conduction and calorimetry, radiation — heat without a medium, conduction, cambodia, north macedonia, libya

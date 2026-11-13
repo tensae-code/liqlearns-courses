@@ -1,8 +1,10 @@
 # Sources — Magnetic properties of iron — permeability and hysteresis
 
-countries: Sri Lanka
+countries: Sri Lanka, Libya
 
 **Book 1:** *Intermediate Physics, Part V: Magnetism and Electricity* (student textbook) — Sri Lanka (Ceylon), C. J. Smith, translated and published in Ceylon by the Educational Publications Department by arrangement with Edward Arnold (Publishers) Ltd., London; first edition 1968; printed at the Ceylon Government Press. Title as printed: இடைநிலைப் பௌதிகவியல் — C. J. Smith, Part V: Magnetism and Electricity. LIBRARY DEBT, named on the record: this book is ONLY Part V (Magnetism and Electricity) of Smith's five-part *Intermediate Physics* series, not the whole *Intermediate Physics*. Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/physics/textbook/intermediate-1968.pdf · Release: full-quality-oversized-books. Byte size: 173,466,674 (exact match to the release asset) · PDF pages: 620 · Offset: printed p. N = PDF p. N+20 (printed p. 1 = PDF p. 21). Verdict: COMPLETE as the record's book — identity proven by cover/title/copyright pages; full contents read (chapters 38–55); chapter openings verified. Read basis stated honestly: placements rest on the complete contents + the author's own preface summary of Part V + verified chapter openings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
+
+**Book 2:** *الفيزياء كتاب الطالب، الجزء الأول — Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Student book (third secondary year, Science stream; Arabic medium) · Repo path: grade-12/gov/libya/physics/student-book-part-1.pdf (TSV route: release asset grade-12-gov-libya-physics-student-book-part-1.pdf, mid-size-books-3). Byte size: 10,169,298 (release asset, verified) · PDF pages: 177 · Offset: printed p. = PDF p. − 5 approx. Verdict: COMPLETE for Part 1 — 9 units plus answers (printed p. 172); read from the full text layer and printed contents. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,9 +13,10 @@ countries: Sri Lanka
 | Sub lesson 2 — The hysteresis loop | Sri Lanka, *Intermediate Physics, Part V: Magnetism and Electricity* (1968), Ch. 54 — magnetism of iron and other metals — printed p. 488 |
 | Sub lesson 3 — Choosing irons — soft, hard, and AC losses | Sri Lanka, *Intermediate Physics, Part V: Magnetism and Electricity* (1968), Ch. 54 — magnetism of iron and other metals — printed p. 488 |
 | Do it first; key ideas; Do It Yourself | Sri Lanka, *Intermediate Physics, Part V: Magnetism and Electricity* (1968), as cited in the rows above |
+| U5 §§5-6–5-7: magnetic properties of iron and steel; uses of permanent magnets and electromagnets (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U5 §§5-6–5-7: magnetic properties of iron and steel; uses of permanent magnets and electromagnets — printed pp. 90–93 |
 
-**Acceptance count: taught in 1 country (Sri Lanka).**
+**Acceptance count: taught in 2 countries (Sri Lanka, Libya).**
 
 Placement choice, on the record: this NEW LESSON was built for the Sri Lanka placement “Magnetic properties of iron — permeability and hysteresis” — sri-lanka-placements.md, Ch. 54 — magnetism of iron and other metals — printed p. 488. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 
-Searchable tags: permeability, hysteresis, remanence, coercivity, soft iron, magnetic properties of iron, sri lanka
+Searchable tags: permeability, hysteresis, remanence, coercivity, soft iron, magnetic properties of iron, sri lanka, libya

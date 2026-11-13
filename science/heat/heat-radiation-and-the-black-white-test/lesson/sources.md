@@ -1,6 +1,6 @@
 # Sources — Heat — radiation and the black/white test
 
-countries: Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos
+countries: Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -24,6 +24,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 10:** *ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5* (student textbook) — Laos, MoES / RIES (ສ.ວ.ສ.), 2014 printing (imprint in file). Title as printed: ຟີຊິກສາດ (Physics), ຊັ້ນມັດທະຍົມສຶກສາປີທີ 5. Grade: 10 (ມ.5) · Student book · Record: 2,849,732 bytes, 213 pages · Repo path: grade-10/gov/laos/physics/student/laos-g10-physics-student.pdf · Source read: https://github.com/Xaypanya/Lao-Textbook/raw/refs/heads/main/textbooks/secondary/m5/m5_physics.pdf (recorded source_url). Offset: printed page = the book's own lesson-start pages from its table of contents; front matter is unnumbered, so PDF page ≈ printed page + ~5 in the opening lessons. Verdict: COMPLETE for structure and placements — the book's own TOC (7 parts, 28 lessons, printed pages legible in the fetched text) was read, Part I's body was read (mechanics of motion, reference systems, the 24,000 km/h satellite example, vectors x′ox axes work), and lesson titles were taken from the bilingual TOC of the current RIES teacher guide for the same course, whose part/lesson sequence matches this book's TOC one-for-one. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
 
+**Book 11:** *الفيزياء كراسة النشاط العملي — Physics, Grade 11 (practical activity workbook, Science stream)* (workbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 11 · Workbook (practical activities, كراسة النشاط العملي) — the heat-and-light volume of the practical series, with a two-experiment mechanics tail · Repo path: grade-11/gov/libya/physics/practical-activity-workbook.pdf (Contents-API tree route). Byte size: 2,904,004 (Contents-API meta + raw download, verified) · PDF pages: 72 · Offset: printed p. = PDF p. (printed 7 = PDF 7). Verdict: COMPLETE — contents and all experiment titles read via page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Radiation: heat by electromagnetic waves, no medium, through a vacuum; every hot object radiates (Activity 7.21) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 205–207 (student placement 62) |
@@ -39,9 +41,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 | §6 Radiation (Belarus, Grade 8) | Belarus, *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай)*, §6 Radiation — printed p. 24 |
 | §4-5, Methods of heat transfer — radiation (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §4-5 — printed p. 111 |
+| Heat Exps. 9–10: absorption of radiation by a black vs a silvered surface; radiation from an electric lamp falling on two thermometers (Libya, Grade 11) | Libya, *Physics, Grade 11 (practical activity workbook, Science stream)*, Heat Exps. 9–10: absorption of radiation by a black vs a silvered surface; radiation from an electric lamp falling on two thermometers — printed pp. 39–41 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos).**
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya).**
 
 Book error taught corrected: Activity 7.22's results table heads its second column “silver cloth” while its own procedure says white cloth (printed p. 207) — the lesson follows the procedure (white cloth) throughout, and the heading error is flagged here, never reproduced. Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
-Searchable tags: radiation, electromagnetic waves, vacuum, absorption, black heats faster, white reflects, fair test graph, Ethiopia Grade 8 General Science Unit 7, uganda, kenya, iran, laos
+Searchable tags: radiation, electromagnetic waves, vacuum, absorption, black heats faster, white reflects, fair test graph, Ethiopia Grade 8 General Science Unit 7, uganda, kenya, iran, laos, libya
