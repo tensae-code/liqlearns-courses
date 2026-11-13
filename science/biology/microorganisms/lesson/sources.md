@@ -1,6 +1,6 @@
 # Sources — Microorganisms
 
-countries: Ethiopia, Brazil, Azerbaijan, Gabon, Samoa
+countries: Ethiopia, Brazil, Azerbaijan, Gabon, Samoa, Uzbekistan
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Brazil, Azerbaijan, Gabon, Samoa
 
 **Book 5:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
 
+**Book 6:** Ботаника 6 (Botany 6) — U. Pratov, A. Tukhtaev, F. Azimova; 3rd edition, "O'zbekiston", 2009; ISBN 978-9943-01-422-0 — Uzbekistan. Grade: 6 — Kind: student as verified (title page: recommended by the Ministry of Public Education for grade 6) — Source: blob URL cdn.samtravels.uz mirror of the ministry book — Byte size: 52,154,846 — PDF pages: 144 — Printed pages: 144 (colophon "144 стр."), printed p. = PDF page — Verdict: COMPLETE — nine chapters to the back cover. Structural summary: Reproductive botany then full plant systematics: flower, fruits and seeds, the plant as one organism — then the divisions in order (bacteria, fungi, lichens, algae, mosses, horsetails, ferns, gymnosperms, angiosperms family by family, Uzbek-relevant families given full lessons: malvaceae — the cotton family — saxaul-bearing chenopods, grapes, melons). The closing chapters are Uzbekistan itself: the plant cover of deserts and tugai forests, of adyr foothills, mountains and jailau summer pastures; the Red Book; the development of the plant world; and a history of botanical science in Uzbekistan. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Microorganisms and the three domains (unit opening): | Student Textbook, Grade 12 — Printed pp. 40–42. |
@@ -19,8 +21,9 @@ countries: Ethiopia, Brazil, Azerbaijan, Gabon, Samoa
 | Azerbaijan's way — Part II §9: microorganisms; §10: the branches of microbiology (placement slug: microorganisms) | Book 3 (Биология 11, student textbook, Grade 11), Part II §§9–10, printed pp. 42–45 |
 | Gabon's way — Lesson 11: Les microbes — classifying microbes by nature; local problems (paludisme, Covid-19) named as lesson material (teacher guide — evidence) (placement slug: microorganisms) | Book 4 (Guide pédagogique Sciences, teacher guide, Grade 4), printed p. 16 |
 | Samoa's way — Unit 1: Micro-Organisms (placement slug: microorganisms) | Book 5 (Biology — Year 12, student textbook, Grade 12), printed p. 8 |
+| Uzbekistan's way — structure and life of bacteria; the significance of bacteria in nature and the national economy | Book 6 (Ботаника 6 (Botany 6), student textbook, Grade 6), Chapter IV, Bacteria division §15–16, printed pp. 47–50 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Brazil, Azerbaijan, Samoa) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Brazil, Azerbaijan, Samoa, Uzbekistan) — Gabon's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Samoa): Book 5 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
@@ -34,4 +37,6 @@ Honesty (Brazil): Book 2 is a student textbook as verified in the placements —
 
 Honesty (Azerbaijan): Book 3 is a student textbook as verified in the placements — *Биология 11* (Biology 11), the Russian-sector textbook (Şərq-Qərb, Baku, 2018) — so Azerbaijan counts toward acceptance. It is COMPLETE: seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present; 196 PDF pages, printed p. = PDF page − 2. The scan is image-only: the title page, colophon and the full two-page contents were read from page renders, so the placements cite the contents' printed pages.
 
-Searchable tags: biology, azerbaijan, ethiopia, microorganisms, brazil, gabon, samoa
+Honesty (Uzbekistan): Book 6 is a student textbook as verified in the placements — *Ботаника 6 (Botany 6)* (U. Pratov, A. Tukhtaev, F. Azimova; 3rd edition, "O'zbekiston", 2009; ISBN 978-9943-01-422-0), Grade 6 — so Uzbekistan counts toward acceptance. It is COMPLETE: nine chapters to the back cover (144 PDF pages; printed p. = PDF page). It is a Russian-language edition — one of Uzbekistan's Russian-sector textbooks — an image-only scan read from 100-DPI contact sheets (covers, title pages, full contents tables and sampled body pages read), so the placements cite the contents' printed pages. Its Chapter IX §§51–52 (decorative plants grown outdoors and indoors, printed pp. 136–140) is applied plant identification and cultivation; the placements note it and place it nowhere, and it is not placed here either.
+
+Searchable tags: biology, azerbaijan, ethiopia, microorganisms, brazil, gabon, samoa, uzbekistan

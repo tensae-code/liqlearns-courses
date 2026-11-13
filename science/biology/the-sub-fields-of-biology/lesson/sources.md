@@ -1,6 +1,6 @@
 # Sources — The sub-fields of biology
 
-countries: Ethiopia, Sudan
+countries: Ethiopia, Sudan, Uzbekistan
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -8,17 +8,22 @@ countries: Ethiopia, Sudan
 
 **Book 3:** علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book") — Sudan. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-10-gov-sudan-biology-student-full-year.pdf — Byte size: 21,115,344 — PDF pages: 155 — Printed-page offset: printed p. = PDF page − 5 (unit pages carry both paginations). Verdict: COMPLETE — all five units present, Unit Five (Support) running to the end of the file. Structural summary: Introduction to Biology (its branches, and the contributions of earlier Muslim and non-Muslim scholars and of the Renaissance — Sudan names the Islamic-scholar strand explicitly) → Cell Biology → Classification of Living Organisms → Movement in Living Organisms → Support in Living Organisms. The systems year (nutrition/transport/respiration) is deferred to Second Secondary. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 4:** Ботаника 5 (Botany 5) — U. Pratov, A. Tukhtaev, F. Azimova; Tashkent "Uzbekistan", 2007; ISBN 978-9943-01-055-0 — Uzbekistan. Grade: 5 (Қласс 5) — Kind: student as verified (title page: recommended by the Ministry of Public Education of the Republic of Uzbekistan as the textbook for grade 5) — Source: blob URL soiro.ru (Russian teacher-resource mirror of the ministry book) — Byte size: 33,501,467 — PDF pages: 97 — Printed pages: 96 (colophon "96 с."), printed p. = PDF page − 1 — Verdict: COMPLETE — introduction, all six chapters and the appendix (herbarium-making, answers, plant-name index) present. Structural summary: Organ-level botany through the flowering plant: introduction (botany's own branch-tree — geobotany, systematics, ecology, palaeobotany, morphology, anatomy, cytology — and Uzbekistan's flora: ~4,500 higher-plant species, medicinal plants of folk medicine pictured and named, Red Book species) → flowering plants → the cell (with magnifying instruments) → root → stem → leaf → vegetative reproduction. Every chapter carries laboratory work, excursions, riddles and proverbs as standing features. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 1–3 |
 | Guide pedagogy for this unit (teacher guide — evidence) | Book 2 (teacher guide), guide printed pp. 1–6 (teacher guide) |
 | Unit 1 answer block — the guide's expected answers to the Unit 1 review questions: the sub-field definitions, the pure/applied sorting, and the discovery–contribution matches, including the Ethiopian biologists section (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 14–15 |
 | Sudan's way — Unit One: the branch map on the unit opener — botany, zoology, biochemistry, ecology, anatomy, embryology, genetics, histology, taxonomy, entomology, physiology, parasitology, biostatistics (placement slug: the-sub-fields-of-biology) | Book 3 (علم الأحياء – الصف الأول الثانوي, student textbook, Grade 10), Unit One, printed p. 1 |
+| Uzbekistan's way — Introduction: botany drawn as a tree of sub-sciences (systematics, morphology, anatomy, cytology, ecology, geobotany, palaeobotany) | Book 4 (Ботаника 5 (Botany 5), student textbook, Grade 5), Introduction, printed p. 5 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Sudan).**
+**Acceptance count: taught in 3 countries (Ethiopia, Sudan, Uzbekistan).**
 
 Honesty: the pupil-taught parts above stand on the finished Grade 10 student textbook (August 2023, ISBN 978-99990-0-009-3). The teacher-guide rows are evidence only and never count as pupil-taught; the guide is a pre-publication draft whose publication page was never filled in (placeholder date “xxxxx 2022” and placeholder ISBN/printer) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. Student-book errors and quirks the placements flag are taught corrected and named here only: Activity 3.21 is misprinted “Activity 3.216” (printed p. 75); Figure 5.4’s caption is printed twice (printed p. 102); the student book’s §5.2.1 is “Blood Groups” where the guide’s is “Blood donation”; the student book’s Unit 4 is “Cell Reproduction” where the guide’s is “Cell Cycle”.
 
 Honesty (Sudan): Book 3 is a student textbook as verified in the placements — *علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book")*, Grade 10 — so Sudan counts toward acceptance. It is COMPLETE: all five units present, Unit Five (Support) running to the end of the file (155 PDF pages; printed p. = PDF page − 5).
 
-Searchable tags: biology, ethiopia, grade 10, the, sub, fields, of, biology, sudan
+Honesty (Uzbekistan): Book 4 is a student textbook as verified in the placements — *Ботаника 5 (Botany 5)* (U. Pratov, A. Tukhtaev, F. Azimova; Tashkent "Uzbekistan", 2007; ISBN 978-9943-01-055-0), Grade 5 — so Uzbekistan counts toward acceptance. It is COMPLETE: introduction, all six chapters and the appendix present (97 PDF pages; printed p. = PDF page − 1). It is a Russian-language edition — one of Uzbekistan's Russian-sector textbooks — an image-only scan read from 100-DPI contact sheets (covers, title pages, full contents tables and sampled body pages read), so the placements cite the contents' printed pages.
+
+Searchable tags: biology, ethiopia, grade 10, the, sub, fields, of, biology, sudan, uzbekistan

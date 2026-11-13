@@ -1,6 +1,6 @@
 # Sources — Germination — what a seed needs, two ways it grows
 
-countries: Ethiopia, Albania, Samoa
+countries: Ethiopia, Albania, Samoa, Uzbekistan
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Albania, Samoa
 
 **Book 4:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
 
+**Book 5:** Ботаника 6 (Botany 6) — U. Pratov, A. Tukhtaev, F. Azimova; 3rd edition, "O'zbekiston", 2009; ISBN 978-9943-01-422-0 — Uzbekistan. Grade: 6 — Kind: student as verified (title page: recommended by the Ministry of Public Education for grade 6) — Source: blob URL cdn.samtravels.uz mirror of the ministry book — Byte size: 52,154,846 — PDF pages: 144 — Printed pages: 144 (colophon "144 стр."), printed p. = PDF page — Verdict: COMPLETE — nine chapters to the back cover. Structural summary: Reproductive botany then full plant systematics: flower, fruits and seeds, the plant as one organism — then the divisions in order (bacteria, fungi, lichens, algae, mosses, horsetails, ferns, gymnosperms, angiosperms family by family, Uzbek-relevant families given full lessons: malvaceae — the cotton family — saxaul-bearing chenopods, grapes, melons). The closing chapters are Uzbekistan itself: the plant cover of deserts and tugai forests, of adyr foothills, mountains and jailau summer pastures; the Red Book; the development of the plant world; and a history of botanical science in Uzbekistan. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 32–33 |
 | Guide pedagogy for this unit (teacher guide — evidence) | Book 2 (teacher guide), guide printed pp. 16–35 (teacher guide) |
 | Albania's way — Plan 5 plus Practical no. 1: Mbirja e farave — seed germination and growth, done as practical work (teacher book — evidence) (placement slug: germination-what-a-seed-needs) | Book 3 (Libër Mësuesi — Biologjia 11, teacher's book, Grade 11), printed p. 4 |
 | Samoa's way — Unit 4: Germination (placement slug: germination-what-a-seed-needs) | Book 4 (Biology — Year 12, student textbook, Grade 12), printed p. 124 |
+| Uzbekistan's way — germination of seeds, nutrition and growth | Book 5 (Ботаника 6 (Botany 6), student textbook, Grade 6), Chapter II §11, printed p. 35 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Samoa) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Samoa, Uzbekistan) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty (Samoa): Book 4 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
@@ -25,4 +28,6 @@ Honesty: the pupil-taught parts above stand on the finished Grade 10 student tex
 
 Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia 11* (Teacher's Book, Biology 11; Mediaprint), Grade 11 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own yearly plan and numbered daily-plan topic lists (the taught curriculum), cited to the plan pages.
 
-Searchable tags: biology, ethiopia, grade 10, germination, what, a, seed, needs, albania, samoa
+Honesty (Uzbekistan): Book 5 is a student textbook as verified in the placements — *Ботаника 6 (Botany 6)* (U. Pratov, A. Tukhtaev, F. Azimova; 3rd edition, "O'zbekiston", 2009; ISBN 978-9943-01-422-0), Grade 6 — so Uzbekistan counts toward acceptance. It is COMPLETE: nine chapters to the back cover (144 PDF pages; printed p. = PDF page). It is a Russian-language edition — one of Uzbekistan's Russian-sector textbooks — an image-only scan read from 100-DPI contact sheets (covers, title pages, full contents tables and sampled body pages read), so the placements cite the contents' printed pages. Its Chapter IX §§51–52 (decorative plants grown outdoors and indoors, printed pp. 136–140) is applied plant identification and cultivation; the placements note it and place it nowhere, and it is not placed here either.
+
+Searchable tags: biology, ethiopia, grade 10, germination, what, a, seed, needs, albania, samoa, uzbekistan

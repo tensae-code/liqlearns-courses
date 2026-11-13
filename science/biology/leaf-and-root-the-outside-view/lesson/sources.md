@@ -1,6 +1,6 @@
 # Sources — Leaf and root — the outside view
 
-countries: Ethiopia, Syria, Uganda, Samoa
+countries: Ethiopia, Syria, Uganda, Samoa, Uzbekistan
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Syria, Uganda, Samoa
 
 **Book 5:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
 
+**Book 6:** Ботаника 5 (Botany 5) — U. Pratov, A. Tukhtaev, F. Azimova; Tashkent "Uzbekistan", 2007; ISBN 978-9943-01-055-0 — Uzbekistan. Grade: 5 (Қласс 5) — Kind: student as verified (title page: recommended by the Ministry of Public Education of the Republic of Uzbekistan as the textbook for grade 5) — Source: blob URL soiro.ru (Russian teacher-resource mirror of the ministry book) — Byte size: 33,501,467 — PDF pages: 97 — Printed pages: 96 (colophon "96 с."), printed p. = PDF page − 1 — Verdict: COMPLETE — introduction, all six chapters and the appendix (herbarium-making, answers, plant-name index) present. Structural summary: Organ-level botany through the flowering plant: introduction (botany's own branch-tree — geobotany, systematics, ecology, palaeobotany, morphology, anatomy, cytology — and Uzbekistan's flora: ~4,500 higher-plant species, medicinal plants of folk medicine pictured and named, Red Book species) → flowering plants → the cell (with magnifying instruments) → root → stem → leaf → vegetative reproduction. Every chapter carries laboratory work, excursions, riddles and proverbs as standing features. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 21–22 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Syria, Uganda, Samoa
 | Syria's way — the root system of the seed plants (placement slug: leaf-and-root-the-outside-view) | Book 3 (Biology & Earth Science, student textbook, Grade 7), Lesson 5: الجهاز الإعاشي في النباتات البذرية — المجموع الجذري (the root system) — printed p. 90 |
 | Uganda's way — Ch 5: how roots, stems and leaves are adapted to their function; the classification of leaves | Book 4 (Biology Textbook — Senior One (NCDC Prototype), student textbook, Grade 8), Ch 5, printed pp. 73–81 |
 | Samoa's way — Unit 4: Root Structure (placement slug: leaf-and-root-the-outside-view) | Book 5 (Biology — Year 12, student textbook, Grade 12), printed p. 114 |
+| Uzbekistan's way — kinds of roots and root systems; external and internal root structure | Book 6 (Ботаника 5 (Botany 5), student textbook, Grade 5), Chapter III §9–10, printed pp. 33–38 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Syria, Uganda, Samoa).**
+**Acceptance count: taught in 5 countries (Ethiopia, Syria, Uganda, Samoa, Uzbekistan).**
 
 Honesty (Samoa): Book 5 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
@@ -30,4 +33,6 @@ Honesty: the pupil-taught parts above stand on the finished Grade 10 student tex
 
 Honesty (Syria): Book 3 is a student textbook as verified in the placements — علم الأحياء والأرض (Biology & Earth Science), Grade 7, Syria MoE / NCCD, printed 2022 — so Syria counts toward acceptance. It is COMPLETE: five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page (172 printed pp.; printed p. = PDF page). Despite the cover's “and Earth”, the book's own introduction calls it “علم الأحياء والبيئة” (Biology and Environment), and its contents contain NO earth-science unit — all five units are biology and environment, so there is no earth-science debt from this book.
 
-Searchable tags: biology, ethiopia, syria, grade 10, leaf, and, root, the, outside, view, uganda, samoa
+Honesty (Uzbekistan): Book 6 is a student textbook as verified in the placements — *Ботаника 5 (Botany 5)* (U. Pratov, A. Tukhtaev, F. Azimova; Tashkent "Uzbekistan", 2007; ISBN 978-9943-01-055-0), Grade 5 — so Uzbekistan counts toward acceptance. It is COMPLETE: introduction, all six chapters and the appendix present (97 PDF pages; printed p. = PDF page − 1). It is a Russian-language edition — one of Uzbekistan's Russian-sector textbooks — an image-only scan read from 100-DPI contact sheets (covers, title pages, full contents tables and sampled body pages read), so the placements cite the contents' printed pages.
+
+Searchable tags: biology, ethiopia, syria, grade 10, leaf, and, root, the, outside, view, uganda, samoa, uzbekistan

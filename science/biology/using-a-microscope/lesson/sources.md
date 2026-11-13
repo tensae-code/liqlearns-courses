@@ -1,6 +1,6 @@
 # Sources — Using a microscope — carry, focus, put away
 
-countries: Ethiopia, Syria, Palestine
+countries: Ethiopia, Syria, Palestine, Uzbekistan
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Syria, Palestine
 
 **Book 4:** العلوم الحياتية — الصف العاشر (Life Sciences, Grade 10; Palestinian Ministry of Education) — Palestine. Grade: 10 — Kind: student as verified — Repo path: grade-10/gov/palestine/life-sciences/full-year.pdf — Byte size: 5,620,184 (record gives no size) — PDF pages: 132 — Printed pages: 126+ (references at printed p. 126); printed-page offset: printed p. = PDF page − 5 approx. (contents at PDF p. 5). Verdict: COMPLETE — four units and the reference list all present. Structural summary: Cell structure and functions (microscopes first, then the genetic material inside the cell — including DNA replication and mutations in Grade 10) → the cell cycle and division (with tumours as a named topic, and crossing over) → human body systems (the four tissues, the reproductive systems with diseases, the urinary system down to the nephron) → classification of living organisms (modern classification, naming, levels, morphological vs genetic classification; the protist and fungi kingdoms, with the positive roles of protists and fungi in daily life). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/palestine-placements.md.
 
+**Book 5:** Ботаника 5 (Botany 5) — U. Pratov, A. Tukhtaev, F. Azimova; Tashkent "Uzbekistan", 2007; ISBN 978-9943-01-055-0 — Uzbekistan. Grade: 5 (Қласс 5) — Kind: student as verified (title page: recommended by the Ministry of Public Education of the Republic of Uzbekistan as the textbook for grade 5) — Source: blob URL soiro.ru (Russian teacher-resource mirror of the ministry book) — Byte size: 33,501,467 — PDF pages: 97 — Printed pages: 96 (colophon "96 с."), printed p. = PDF page − 1 — Verdict: COMPLETE — introduction, all six chapters and the appendix (herbarium-making, answers, plant-name index) present. Structural summary: Organ-level botany through the flowering plant: introduction (botany's own branch-tree — geobotany, systematics, ecology, palaeobotany, morphology, anatomy, cytology — and Uzbekistan's flora: ~4,500 higher-plant species, medicinal plants of folk medicine pictured and named, Red Book species) → flowering plants → the cell (with magnifying instruments) → root → stem → leaf → vegetative reproduction. Every chapter carries laboratory work, excursions, riddles and proverbs as standing features. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uzbekistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 13–14 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 1–13 |
 | Syria's way — the microscope (placement slug: using-a-microscope) | Book 3 (Biology & Earth Science, student textbook, Grade 7), Unit 1, Lesson 1: المجهر (The Microscope) — printed p. 6 |
 | Palestine's way — Microscopes and their types — what microscopes are for; the microscopes themselves (placement slug: using-a-microscope) | Book 4 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 1 Ch. 1: Microscopes and their types — printed pp. 4–9 |
+| Uzbekistan's way — magnifying instruments | Book 5 (Ботаника 5 (Botany 5), student textbook, Grade 5), Chapter II §4, printed p. 19 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Syria, Palestine).**
+**Acceptance count: taught in 4 countries (Ethiopia, Syria, Palestine, Uzbekistan).**
 
 Honesty (Palestine): Book 4 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
@@ -25,4 +28,6 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Honesty (Syria): Book 3 is a student textbook as verified in the placements — علم الأحياء والأرض (Biology & Earth Science), Grade 7, Syria MoE / NCCD, printed 2022 — so Syria counts toward acceptance. It is COMPLETE: five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page (172 printed pp.; printed p. = PDF page). Despite the cover's “and Earth”, the book's own introduction calls it “علم الأحياء والبيئة” (Biology and Environment), and its contents contain NO earth-science unit — all five units are biology and environment, so there is no earth-science debt from this book.
 
-Searchable tags: biology, ethiopia, syria, using, microscope, carry, focus, put, away, palestine
+Honesty (Uzbekistan): Book 5 is a student textbook as verified in the placements — *Ботаника 5 (Botany 5)* (U. Pratov, A. Tukhtaev, F. Azimova; Tashkent "Uzbekistan", 2007; ISBN 978-9943-01-055-0), Grade 5 — so Uzbekistan counts toward acceptance. It is COMPLETE: introduction, all six chapters and the appendix present (97 PDF pages; printed p. = PDF page − 1). It is a Russian-language edition — one of Uzbekistan's Russian-sector textbooks — an image-only scan read from 100-DPI contact sheets (covers, title pages, full contents tables and sampled body pages read), so the placements cite the contents' printed pages.
+
+Searchable tags: biology, ethiopia, syria, using, microscope, carry, focus, put, away, palestine, uzbekistan
