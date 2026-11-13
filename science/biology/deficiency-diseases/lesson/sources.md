@@ -1,6 +1,6 @@
 # Sources — Deficiency diseases — what happens when a nutrient is missing
 
-countries: Ethiopia, Egypt, Sudan
+countries: Ethiopia, Egypt, Sudan, Uganda
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia, Egypt, Sudan
 
 **Book 4:** علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book") — Sudan. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-11-gov-sudan-biology-student-full-year.pdf — Byte size: 19,051,757 — PDF pages: 180 — Printed-page offset: printed p. = PDF page − 6 (Unit Two opener printed p. 52). Verdict: COMPLETE — five units: Nutrition, Transport, Respiration, Excretion, Coordination, running to the end of the file. Structural summary: A process-physiology year organised by life process across plants and animals together: nutrition (with malnutrition diseases, photosynthesis factor experiments, and leaf cross-sections cut by the students), transport, respiration, excretion, co-ordination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 5:** Biology Home-Study Learning — Senior Two (NCDC, 2020) (as printed: HOME-STUDY / SELF-STUDY LEARNING — BIOLOGY, SENIOR TWO) — Uganda. Grade: 9 (Senior Two) — Kind: student (home-study booklet) as verified — Repo path: grade-09/gov/uganda/biology/student/home-study.pdf (books.json record only; grabbed via grab.py tree — in GitHub despite an earlier disconnect on first attempt) — Source URL (books.json): https://sharebility.net/download/s2-biologyterm-two-and-three/?wpdmdl=27590 — Byte size: 1,750,692 — PDF pages: 28 (matches books.json pages: 28) — Printed-page offset: booklet pagination restarts inside; pages cited by PDF/booklet position. Verdict: COMPLETE — Ministry of Education and Sports / NCDC home-study intervention published 2020 for the COVID-19 school lockdown: foreword, acknowledgements, "About this booklet", all lessons, and NCDC back page present. Opens with COVID-19 symptoms/prevention content before the biology. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 112–115 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 72–92 |
 | Egypt's way — thyroid diseases — simple goiter from iodine deficiency (treated with iodised salt), cretinism, myxedema, exophthalmic goiter with its photograph and treatments — hormone-deficiency disease taught clinically, case by case (placement slug: deficiency-diseases) | Book 3 (BIOLOGY, student textbook, Grade 12), Ch. 2, printed pp. 30–31 |
 | Sudan's way — Unit One objectives: some malnutrition diseases, their symptoms and prevention (placement slug: deficiency-diseases) | Book 4 (علم الأحياء – الصف الثاني الثانوي, student textbook, Grade 11), Unit One objectives, printed p. 2 |
+| Uganda's way — the Nutrition lessons: minerals — their importance in the structure and functioning of the body, with a nutrients/examples/use/sources table | Book 5 (Biology Home-Study Learning — Senior Two (NCDC, 2020), student home-study booklet, Grade 9), PDF pp. 17–18 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Sudan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Sudan, Uganda).**
+
+Honesty (Uganda): Book 5 is a student home-study booklet as verified in the placements — *Biology Home-Study Learning — Senior Two* (NCDC, 2020), Grade 9 (Senior Two) — so Uganda counts toward acceptance. It is COMPLETE: foreword, acknowledgements, “About this booklet”, all lessons and the NCDC back page present (28 PDF pages; pages cited by PDF/booklet position).
 
 Honesty (Egypt): Book 3 is a student textbook as verified in the placements — *BIOLOGY* (General Secondary Certificate, Third Secondary, Term 1; "developed textbook" 2025–2026, Ministry of Education & Technical Education, Arab Republic of Egypt), Grade 12 — so Egypt counts toward acceptance. It is COMPLETE (Term 1 volume): all seven contents chapters present through the Earth-science chapter that closes the book (English edition 184 PDF pages; printed p. = PDF page − 1). It is LINK-ONLY and staged, not in GitHub (in_pushed: false), staged at ~/workspace/phase3-staging/grade-12/gov/egypt/. Its Arabic, English and French editions are language variants of the ONE book, cited inside the book entry above and counted once — no extra counts. Chapter Seven — Earth science (printed pp. 153–183) is DEBT, not placed in Biology: components of planet Earth (crust Sial/Sima, mantle, core) and geological structures (folds, faults; primary structures — cross bedding, ripple marks, graded bedding, mud cracks) — a Geology/Earth-science chapter bound into the biology book.
 
@@ -25,4 +30,4 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Honesty (Sudan): Book 4 is a student textbook as verified in the placements — *علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book")*, Grade 11 — so Sudan counts toward acceptance. It is COMPLETE: five units — Nutrition, Transport, Respiration, Excretion, Coordination — running to the end of the file (180 PDF pages; printed p. = PDF page − 6). The Grade 11 file is a scan circulated by a Sudanese study network (its cover carries that network's stamp); the underlying book is the named ministry text, verified on its unit pages, exactly as the placements record it.
 
-Searchable tags: biology, ethiopia, deficiency, diseases, what, happens, when, nutrient, missing, egypt, sudan
+Searchable tags: biology, ethiopia, deficiency, diseases, what, happens, when, nutrient, missing, egypt, sudan, uganda

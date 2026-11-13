@@ -1,6 +1,6 @@
 # Sources — Classification — grouping by shared characteristics
 
-countries: Ethiopia, Syria, Palestine, Sudan
+countries: Ethiopia, Syria, Palestine, Sudan, Uganda
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Syria, Palestine, Sudan
 
 **Book 5:** علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book") — Sudan. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-10-gov-sudan-biology-student-full-year.pdf — Byte size: 21,115,344 — PDF pages: 155 — Printed-page offset: printed p. = PDF page − 5 (unit pages carry both paginations). Verdict: COMPLETE — all five units present, Unit Five (Support) running to the end of the file. Structural summary: Introduction to Biology (its branches, and the contributions of earlier Muslim and non-Muslim scholars and of the Renaissance — Sudan names the Islamic-scholar strand explicitly) → Cell Biology → Classification of Living Organisms → Movement in Living Organisms → Support in Living Organisms. The systems year (nutrition/transport/respiration) is deferred to Second Secondary. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 6:** Biology Textbook — Senior One (NCDC Prototype) (as printed: BIOLOGY TEXTBOOK, SENIOR ONE, LOWER SECONDARY CURRICULUM — PROTOTYPE) — Uganda. Grade: 8 (Senior One) — Kind: student as verified — Repo path: grade-08/gov/uganda/biology/student/full-year.pdf (grabbed via the TSV release asset grade-08-gov-uganda-biology-student-full-year.pdf, mid-size-books-2) — Source URL (books.json): https://ncdc.go.ug/wp-content/uploads/2024/03/Biology-prototype.pdf — Byte size: 13,934,066 (books.json size_bytes: null) — PDF pages: 96 — Printed-page offset: printed p. = PDF page − 8 (chapter 1 opens on printed p. 1 = PDF p. 9; roman-numeral front matter v–vi). Verdict: COMPLETE — preface (NCDC Governing Council chairperson), acknowledgements, contents, all 5 chapters and the closing chapter summary (printed p. 86) plus NCDC back page present. Watermarked "PROTOTYPE" throughout, as recorded. Structural summary: a competency/activity-based learner's textbook for the revised Lower Secondary Curriculum — every chapter opens with Key Words and "By the end of this chapter you should be able to…" outcomes, and teaches through numbered activities done individually, in pairs or in groups, with the teacher as facilitator: Ch 1 Introduction to Biology → Ch 2 Cells → Ch 3 Classification → Ch 4 Insects → Ch 5 Flowering Plants. Recorded twice in the library records (the TSV release row + a books.json record for the same book); it is one distinct book, taught once and cited once here. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 21–22 |
@@ -19,8 +21,11 @@ countries: Ethiopia, Syria, Palestine, Sudan
 | Syria's way — classification of living things (placement slug: classification-grouping-by-shared-characteristics) | Book 3 (Biology & Earth Science, student textbook, Grade 7), Unit 2, Lesson 4: تصنيف الأحياء (classification of living things) — printed p. 58 |
 | Palestine's way — modern classification of living organisms; the levels of classification (placement slug: classification-grouping-by-shared-characteristics) | Book 4 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 4 Ch. 1 §1: modern classification of living organisms; §3 the levels of classification — printed pp. 98–100 |
 | Sudan's way — Unit Three: Classification of Living Organisms (placement slug: classification-grouping-by-shared-characteristics) | Book 5 (علم الأحياء – الصف الأول الثانوي, student textbook, Grade 10), Unit Three, printed pp. 67–105 |
+| Uganda's way — Ch 3: the need to group/categorise living organisms; the levels of classification | Book 6 (Biology Textbook — Senior One (NCDC Prototype), student textbook, Grade 8), Ch 3, printed pp. 25–26 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Syria, Palestine, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Syria, Palestine, Sudan, Uganda).**
+
+Honesty (Uganda): Book 6 is a student textbook as verified in the placements — *Biology Textbook — Senior One (NCDC Prototype)*, Grade 8 (Senior One) — so Uganda counts toward acceptance. It is COMPLETE: preface, acknowledgements, contents, all 5 chapters and the closing chapter summary (printed p. 86) plus the NCDC back page present (96 PDF pages; printed p. = PDF page − 8); it is watermarked “PROTOTYPE” throughout, as recorded. The book was recorded twice in the library records (TSV release row + books.json record for the same book); it is one distinct book, taught once and cited once here.
 
 Honesty (Palestine): Book 4 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
@@ -30,4 +35,4 @@ Honesty (Syria): Book 3 is a student textbook as verified in the placements — 
 
 Honesty (Sudan): Book 5 is a student textbook as verified in the placements — *علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book")*, Grade 10 — so Sudan counts toward acceptance. It is COMPLETE: all five units present, Unit Five (Support) running to the end of the file (155 PDF pages; printed p. = PDF page − 5).
 
-Searchable tags: biology, ethiopia, syria, classification, grouping, shared, characteristics, palestine, sudan
+Searchable tags: biology, ethiopia, syria, classification, grouping, shared, characteristics, palestine, sudan, uganda

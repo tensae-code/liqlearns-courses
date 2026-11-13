@@ -1,6 +1,6 @@
 # Sources — Digestion — the whole journey
 
-countries: Ethiopia, Sri Lanka, Eritrea
+countries: Ethiopia, Sri Lanka, Eritrea, Uganda
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia, Sri Lanka, Eritrea
 
 **Book 4:** Biology for Grade 10 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-10-gov-eritrea-biology-student-full-year.pdf — Byte size: 13,622,452 — PDF pages: 203 — Page references are PDF pages of the unit openings (printed pagination runs inside the same sequence). Verdict: COMPLETE — all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file. Structural summary: A human-systems year: food and digestion (with bench chemistry — Benedict's test on lactose, acid hydrolysis of sucrose), circulatory system, a full unit on the lymphatic system, a full unit on the immune system (innate vs acquired), respiratory, excretory, sense organs, nervous system. Eritrea gives the lymphatic and immune systems whole units where most courses fold them into circulation. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 5:** Biology Home-Study Learning — Senior Two (NCDC, 2020) (as printed: HOME-STUDY / SELF-STUDY LEARNING — BIOLOGY, SENIOR TWO) — Uganda. Grade: 9 (Senior Two) — Kind: student (home-study booklet) as verified — Repo path: grade-09/gov/uganda/biology/student/home-study.pdf (books.json record only; grabbed via grab.py tree — in GitHub despite an earlier disconnect on first attempt) — Source URL (books.json): https://sharebility.net/download/s2-biologyterm-two-and-three/?wpdmdl=27590 — Byte size: 1,750,692 — PDF pages: 28 (matches books.json pages: 28) — Printed-page offset: booklet pagination restarts inside; pages cited by PDF/booklet position. Verdict: COMPLETE — Ministry of Education and Sports / NCDC home-study intervention published 2020 for the COVID-19 school lockdown: foreword, acknowledgements, "About this booklet", all lessons, and NCDC back page present. Opens with COVID-19 symptoms/prevention content before the biology. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 106 |
 | Guide pedagogy for this unit (teacher guide — evidence) | Book 2 (teacher guide), guide printed pp. 73–98 (teacher guide) |
 | Sri Lanka's way — digestion — the food's journey, station by station | Book 3 (Biology 1, student textbook, Grade 10), Ch. 4: சமிபாடு (Digestion) — food's path through the body told as a journey: the mouth cavity, the pharynx and oesophagus, the stomach, the chyme reaching the small intestine, the small and large intestine — §§4-1 to 4-6, contents, Ch. 4 |
 | Eritrea's way — Unit One: Food and Digestion | Book 4 (Biology for Grade 10 Textbook, student textbook, Grade 10), PDF p. 11 |
+| Uganda's way — the Nutrition lessons: the digestive system — the alimentary canal parts, the glands, the juices and enzymes (substrate → product table), the rectum and egestion | Book 5 (Biology Home-Study Learning — Senior Two (NCDC, 2020), student home-study booklet, Grade 9), PDF pp. 21–22 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Sri Lanka, Eritrea).**
+**Acceptance count: taught in 4 countries (Ethiopia, Sri Lanka, Eritrea, Uganda).**
+
+Honesty (Uganda): Book 5 is a student home-study booklet as verified in the placements — *Biology Home-Study Learning — Senior Two* (NCDC, 2020), Grade 9 (Senior Two) — so Uganda counts toward acceptance. It is COMPLETE: foreword, acknowledgements, “About this booklet”, all lessons and the NCDC back page present (28 PDF pages; pages cited by PDF/booklet position).
 
 Honesty (Eritrea): Book 4 is a student textbook as verified in the placements — *Biology for Grade 10 Textbook* (The State of Eritrea, Ministry of Education), Grade 10, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file (203 PDF pages). Page references are PDF pages of the unit openings; printed pagination runs inside the same sequence.
 
@@ -25,4 +30,4 @@ Honesty: the pupil-taught parts above stand on the finished Grade 10 student tex
 
 Honesty (Sri Lanka): Book 3 is a student textbook as verified in the placements — உயிரியல் 1 (Biology 1), the Tamil-medium GCE Ordinary Level text of 1966, digitised by the Noolaham Foundation — so Sri Lanka counts toward acceptance. It is COMPLETE as digitised (front cover to back cover) and is only Part 1: its own note to students limits its scope to the biology syllabus portion for the second term of the first year of the O/L class, and further parts are a library debt, not held here. The scan is image-only and the paper is aged, with white correction marks on some pages; it was read from page renders (title page, full contents, student notes and sampled body pages), so the Sri Lanka row above cites the chapter and section references exactly as the placements file gives them, with a printed page only where the placements file gives one (printed p. = PDF page − 8).
 
-Searchable tags: biology, eritrea, ethiopia, sri lanka, grade 10, digestion, the, whole, journey
+Searchable tags: biology, eritrea, ethiopia, sri lanka, grade 10, digestion, the, whole, journey, uganda

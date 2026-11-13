@@ -1,6 +1,6 @@
 # Sources — Scientific names — genus + epithet
 
-countries: Ethiopia, Palestine
+countries: Ethiopia, Palestine, Uganda
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -8,16 +8,21 @@ countries: Ethiopia, Palestine
 
 **Book 3:** العلوم الحياتية — الصف العاشر (Life Sciences, Grade 10; Palestinian Ministry of Education) — Palestine. Grade: 10 — Kind: student as verified — Repo path: grade-10/gov/palestine/life-sciences/full-year.pdf — Byte size: 5,620,184 (record gives no size) — PDF pages: 132 — Printed pages: 126+ (references at printed p. 126); printed-page offset: printed p. = PDF page − 5 approx. (contents at PDF p. 5). Verdict: COMPLETE — four units and the reference list all present. Structural summary: Cell structure and functions (microscopes first, then the genetic material inside the cell — including DNA replication and mutations in Grade 10) → the cell cycle and division (with tumours as a named topic, and crossing over) → human body systems (the four tissues, the reproductive systems with diseases, the urinary system down to the nephron) → classification of living organisms (modern classification, naming, levels, morphological vs genetic classification; the protist and fungi kingdoms, with the positive roles of protists and fungi in daily life). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/palestine-placements.md.
 
+**Book 4:** Biology Textbook — Senior One (NCDC Prototype) (as printed: BIOLOGY TEXTBOOK, SENIOR ONE, LOWER SECONDARY CURRICULUM — PROTOTYPE) — Uganda. Grade: 8 (Senior One) — Kind: student as verified — Repo path: grade-08/gov/uganda/biology/student/full-year.pdf (grabbed via the TSV release asset grade-08-gov-uganda-biology-student-full-year.pdf, mid-size-books-2) — Source URL (books.json): https://ncdc.go.ug/wp-content/uploads/2024/03/Biology-prototype.pdf — Byte size: 13,934,066 (books.json size_bytes: null) — PDF pages: 96 — Printed-page offset: printed p. = PDF page − 8 (chapter 1 opens on printed p. 1 = PDF p. 9; roman-numeral front matter v–vi). Verdict: COMPLETE — preface (NCDC Governing Council chairperson), acknowledgements, contents, all 5 chapters and the closing chapter summary (printed p. 86) plus NCDC back page present. Watermarked "PROTOTYPE" throughout, as recorded. Structural summary: a competency/activity-based learner's textbook for the revised Lower Secondary Curriculum — every chapter opens with Key Words and "By the end of this chapter you should be able to…" outcomes, and teaches through numbered activities done individually, in pairs or in groups, with the teacher as facilitator: Ch 1 Introduction to Biology → Ch 2 Cells → Ch 3 Classification → Ch 4 Insects → Ch 5 Flowering Plants. Recorded twice in the library records (the TSV release row + a books.json record for the same book); it is one distinct book, taught once and cited once here. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uganda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 25–28 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 14–32 |
 | Palestine's way — naming of living organisms (placement slug: binomial-names-the-two-name-system) | Book 3 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 4 Ch. 1 §2: naming of living organisms — printed p. 100 |
+| Uganda's way — Ch 3: binomial scientific names — the two-part names | Book 4 (Biology Textbook — Senior One (NCDC Prototype), student textbook, Grade 8), Ch 3, printed pp. 24–26 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Palestine).**
+**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Uganda).**
+
+Honesty (Uganda): Book 4 is a student textbook as verified in the placements — *Biology Textbook — Senior One (NCDC Prototype)*, Grade 8 (Senior One) — so Uganda counts toward acceptance. It is COMPLETE: preface, acknowledgements, contents, all 5 chapters and the closing chapter summary (printed p. 86) plus the NCDC back page present (96 PDF pages; printed p. = PDF page − 8); it is watermarked “PROTOTYPE” throughout, as recorded. The book was recorded twice in the library records (TSV release row + books.json record for the same book); it is one distinct book, taught once and cited once here.
 
 Honesty (Palestine): Book 3 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
 Honesty: the Grade 9 teacher guide paired with the student book is a pre-publication draft whose publication page was never filled in (placeholder date and ISBN) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. The student book is the finished 2023 first publication. Book errors the placements flag are taught corrected and named here only: the contents lists Unit 3 starting at 3.2 although 3.1 exists in the body; the contents omits §4.3.5 (sporulation and parthenogenesis); the wolf's name is printed “Canissimensis” in a table on printed p. 27 and is taught corrected as Canis simensis; “Musa acuminate” is taught corrected as Musa acuminata.
 
-Searchable tags: biology, ethiopia, scientific, names, genus, epithet, palestine
+Searchable tags: biology, ethiopia, scientific, names, genus, epithet, palestine, uganda

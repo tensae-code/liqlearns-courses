@@ -1,15 +1,20 @@
 # Sources — Useful insects in farming and as food
 
-countries: Ethiopia
+countries: Ethiopia, Uganda
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Biology Textbook — Senior One (NCDC Prototype) (as printed: BIOLOGY TEXTBOOK, SENIOR ONE, LOWER SECONDARY CURRICULUM — PROTOTYPE) — Uganda. Grade: 8 (Senior One) — Kind: student as verified — Repo path: grade-08/gov/uganda/biology/student/full-year.pdf (grabbed via the TSV release asset grade-08-gov-uganda-biology-student-full-year.pdf, mid-size-books-2) — Source URL (books.json): https://ncdc.go.ug/wp-content/uploads/2024/03/Biology-prototype.pdf — Byte size: 13,934,066 (books.json size_bytes: null) — PDF pages: 96 — Printed-page offset: printed p. = PDF page − 8 (chapter 1 opens on printed p. 1 = PDF p. 9; roman-numeral front matter v–vi). Verdict: COMPLETE — preface (NCDC Governing Council chairperson), acknowledgements, contents, all 5 chapters and the closing chapter summary (printed p. 86) plus NCDC back page present. Watermarked "PROTOTYPE" throughout, as recorded. Structural summary: a competency/activity-based learner's textbook for the revised Lower Secondary Curriculum — every chapter opens with Key Words and "By the end of this chapter you should be able to…" outcomes, and teaches through numbered activities done individually, in pairs or in groups, with the teacher as facilitator: Ch 1 Introduction to Biology → Ch 2 Cells → Ch 3 Classification → Ch 4 Insects → Ch 5 Flowering Plants. Recorded twice in the library records (the TSV release row + a books.json record for the same book); it is one distinct book, taught once and cited once here. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uganda-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Beneficial insects — agriculture and food | Student Textbook, Grade 11 — Printed pp. 43–45. |
+| Uganda's way — Ch 4: the beneficial side of the same insects (bee, butterfly), taught alongside the harm | Book 2 (Biology Textbook — Senior One (NCDC Prototype), student textbook, Grade 8), Ch 4, printed pp. 60–66 range |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
+
+Honesty (Uganda): Book 2 is a student textbook as verified in the placements — *Biology Textbook — Senior One (NCDC Prototype)*, Grade 8 (Senior One) — so Uganda counts toward acceptance. It is COMPLETE: preface, acknowledgements, contents, all 5 chapters and the closing chapter summary (printed p. 86) plus the NCDC back page present (96 PDF pages; printed p. = PDF page − 8); it is watermarked “PROTOTYPE” throughout, as recorded. The book was recorded twice in the library records (TSV release row + books.json record for the same book); it is one distinct book, taught once and cited once here.
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, useful, insects, farming, and, food
+Searchable tags: biology, ethiopia, useful, insects, farming, and, food, uganda
