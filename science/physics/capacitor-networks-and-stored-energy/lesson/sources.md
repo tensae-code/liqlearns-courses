@@ -1,6 +1,6 @@
 # Sources — Capacitor networks and stored energy
 
-countries: Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan, Cuba
+countries: Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan, Cuba, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -30,6 +30,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 13:** *Física Parte 1 — onceno grado* (student textbook, Part 1 of a two-part set) — Cuba, 8th reprint 2011 of the 1990 edition (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990); ISBN 978-959-13-0713-2 (complete work), 978-959-13-0714-9 (Part I). Biblioteca CubaEduca item/244. Grade: 11 · Kind: student (Part 1) · Repo path: grade-11/gov/cuba/fisica/student/part-1-2011.pdf (release asset grade-11-gov-cuba-fisica-student-part-1-2011.pdf, mid-size-books-7) · Byte size: 20,427,124 (release asset, verified) · PDF pages: 161 · Offset: printed p. = PDF p. − 8 (printed 1 = PDF 9). Image-only print file; read via page sheets. Verdict: COMPLETE for Part 1 — index ends with answers at printed p. 146. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 12).
 
+**Book 14:** *Physics — Grade 12, Term 1 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الأول* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-799-7. First (experimental) edition 1446H/2025; approved by the Ministry of Education in 2025, for use from school year 2025/2026. Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-1.pdf · Bytes: 29,161,215 (matches release asset size exactly) · PDF pages: 182 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8). Verdict: COMPLETE (Unit 4 review questions end printed 177, glossary printed 178–180; PDF 182 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Capacitors in series and parallel | Grade 11 Student Textbook, printed pp. 276–280 |
@@ -48,8 +50,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Theme 1 §1.11: connecting capacitors (with the capacitors lesson) (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 1 §1.11: connecting capacitors (with the capacitors lesson) — printed p. 62 |
 
 | Topic 5: combination of capacitors (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 5: combination of capacitors — printed p. 151 |
+| Unit 3 Lesson 3, energy stored in a capacitor | Jordan, *Physics — Grade 12, Term 1 (Student Book, Academic Track)*, Unit 3 Lesson 3, energy stored in a capacitor — printed p. 124 |
+| Unit 3 Lesson 3, combining capacitors in series and parallel | Jordan, *Physics — Grade 12, Term 1 (Student Book, Academic Track)*, Unit 3 Lesson 3, combining capacitors in series and parallel — printed p. 126 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan, Cuba).**
+**Acceptance count: taught in 11 countries (Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan, Cuba, Jordan).**
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

@@ -1,0 +1,4 @@
+# Nuclear stability and the stability valley — depth
+
+Whole-lesson pass mark: the learner can do all of these — Stable nuclei occupy a narrow band — the stability valley — on the N–Z chart; Light stable nuclei have N ≈ Z; heavier ones need more neutrons per proton; The valley bends because proton repulsion grows while the strong force binds only neighbours; Beyond bismuth (Z = 83) no nucleus is stable; Nuclei decay toward the valley: neutron-rich by beta-minus, proton-rich by beta-plus or capture, the heaviest by alpha emission — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

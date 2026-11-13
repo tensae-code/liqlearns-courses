@@ -1,0 +1,4 @@
+# Tension force in ropes and connectors — practical — depth
+
+Whole-lesson pass mark: the learner can do all of these — Tension is the pull transmitted along a rope or connector; ropes pull, never push; A spring balance in series with the rope reads the tension at that point; Tension is the same at every point of a light, inextensible rope; Massive or rough-running connectors make the readings differ; Connected bodies joined by one rope share one tension in their diagrams — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

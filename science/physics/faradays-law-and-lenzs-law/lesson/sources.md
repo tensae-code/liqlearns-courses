@@ -1,6 +1,6 @@
 # Sources — Faraday's law; Lenz's law
 
-countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam, South Sudan, Mozambique, China, Cuba
+countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam, South Sudan, Mozambique, China, Cuba, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -49,6 +49,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 22:** *Física Parte 2 — onceno grado* (student textbook, Part 2 of the two-part set begun in Part 1; pagination is continuous with Part 1) — Cuba, 10th reprint 2013 of the 1990 edition (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990); ISBN 978-959-13-0713-2 (complete work), 978-959-13-0715-6 (Part 2). Biblioteca CubaEduca item/246. Grade: 11 · Kind: student (Part 2) · Repo path: grade-11/gov/cuba/fisica/student/part-2-2013.pdf (release asset grade-11-gov-cuba-fisica-student-part-2-2013.pdf, mid-size-books-7) · Byte size: 27,033,131 (release asset, verified) · PDF pages: 225 · Offset: printed p. = PDF p. + 140 (printed 146 = PDF 6). Image-only print file; read via page sheets. Verdict: COMPLETE for Part 2 — index runs Ch. 5 (p. 146) to Ch. 10 and answers to chapter tasks (p. 360). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 13).
 
+**Book 23:** *Physics — Grade 12, Term 2 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الثاني* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-801-7. First (experimental) edition 1447H/2025; approved by Ministry of Education decision (2025/77) dated 15 Sep 2025, for use from 15 Oct 2025 (school year 2025/2026). Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-2.pdf · Bytes: 50,602,897 (matches release asset size exactly) · PDF pages: 184 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5; Unit 5 printed 7 = PDF 7). Note: this PDF has no separate cover page — it opens on the title page. Verdict: COMPLETE (glossary printed 181–184, the last PDF page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Faraday's law — emf from changing flux | Grade 12 Student Textbook, printed pp. 129–130 |
@@ -77,7 +79,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 | Topic 7: the laws of electromagnetic induction (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 7: the laws of electromagnetic induction — printed p. 198 |
 | Topic 7 Electromagnetic induction (guide) (South Sudan, Secondary 4 (Grade 12) — teacher's guide) | South Sudan, *Physics Secondary 4 — Teacher's Guide*, Topic 7 Electromagnetic induction (guide) — printed p. 89 |
+| Unit 5 Lesson 3, induced EMF and Faraday's law of induction | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 5 Lesson 3, induced EMF and Faraday's law of induction — printed p. 41 |
+| Unit 5 Lesson 3, motional EMF | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 5 Lesson 3, motional EMF — printed p. 47 |
+| Unit 5 Lesson 3, Lenz's law | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 5 Lesson 3, Lenz's law — printed p. 49 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam, South Sudan, Mozambique, China, Cuba).**
+**Acceptance count: taught in 18 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam, South Sudan, Mozambique, China, Cuba, Jordan).**
 
 Searchable tags: physics, grade 12, electromagnetism, faraday's law; lenz's law, energy, flux, iraq, iran, laos, south sudan, mozambique

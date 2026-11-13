@@ -1,6 +1,6 @@
 # Sources — Continuity — narrow means fast
 
-countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran, Mozambique, Cuba
+countries: Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran, Mozambique, Cuba, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -33,6 +33,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 14:** *Física — onceno grado* (student textbook) — Cuba, © 2024, Ministerio de Educación, Cuba; Editorial Pueblo y Educación; ISBN 978-959-13-4845-6 (digital). Third Perfeccionamiento series; Biblioteca CubaEduca item/718. This is the current one-volume edition that supersedes the two-part 2011/2013 set. Grade: 11 · Kind: student · Repo path: grade-11/gov/cuba/fisica/student/full-year.pdf (release asset grade-11-gov-cuba-fisica-student-full-year.pdf, mid-size-books-7) · Byte size: 33,701,604 (release asset, verified) · PDF pages: 418 · Offset: printed p. ≈ PDF p. − 7. Verdict: COMPLETE — 7 chapters, solutions (p. 400) and bibliography (p. 410). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 11).
 
+**Book 15:** *Physics — Grade 10, Term 2 (Student Book) — الفيزياء، الصف العاشر، كتاب الطالب، الفصل الدراسي الثاني* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2022; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD (same edition family as Term 1). Grade: 10 · Kind: student · Repo path/URL: release asset `grade-10-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-10-gov-jordan-physics-student-term-2.pdf · Bytes: 52,926,341 (matches release asset size exactly) · PDF pages: 132 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5). Verdict: COMPLETE (glossary at printed 128; ends PDF 132). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The equation of continuity | Grade 12 Student Textbook, printed pp. 105–106 |
@@ -51,7 +53,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Ch. 14 Fluids — printed p. 386 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 14 Fluids — printed p. 386 |
 | Ch. 9 — streamline flow and the equation of continuity (India, Class XI) | India, *Physics Part–II, Textbook for Class XI, NCERT*, Ch. 9 — streamline flow and the equation of continuity |
 | §2-5, Fluid in motion and Bernoulli's principle — continuity as Bernoulli's companion (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §2-5 — printed p. 43 |
+| Unit 5 Lesson 2, flow continuity in narrowing pipes | Jordan, *Physics — Grade 10, Term 2 (Student Book)*, Unit 5 Lesson 2, flow continuity in narrowing pipes — printed p. 72 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran, Mozambique, Cuba).**
+**Acceptance count: taught in 13 countries (Ethiopia, Italy, Sudan, Uganda, Kenya, Cambodia, Egypt, Bhutan, India, Iran, Mozambique, Cuba, Jordan).**
 
 Searchable tags: physics, grade 12, fluid mechanics, continuity — narrow means fast, incompressible, uganda, kenya, cambodia, egypt, iran, mozambique

@@ -1,0 +1,4 @@
+# Electrostatic applications — inkjet printing and spray painting — depth
+
+Whole-lesson pass mark: the learner can do all of these — Inkjet drops are given a measured charge that encodes where they must land; Deflecting plates steer each drop in proportion to its charge; uncharged drops are recycled; Spray-paint droplets are charged and the workpiece earthed, so the field carries paint to all faces; Charged droplets repel each other into a fine, even cloud; Both applications place matter with the force F = qE on a charged parcel — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

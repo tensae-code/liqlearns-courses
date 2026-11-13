@@ -1,0 +1,4 @@
+# Car safety physics — seat belts, airbags and crumple design — depth
+
+Whole-lesson pass mark: the learner can do all of these — A crash's impulse is fixed by the momentum change; only its delivery can be chosen; Stretching the stopping time cuts the force for the same impulse, J = FΔt; Seat belts spread force over strong bones and stop the body becoming a projectile; Airbags lengthen the head's stopping time and spread its force; Crumple zones spend the car's structure to decelerate the rigid passenger cell gently — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

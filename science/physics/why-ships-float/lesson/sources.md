@@ -1,6 +1,6 @@
 # Sources — Why ships float
 
-countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China, Cuba (programme/teacher-guide evidence only)
+countries: Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China, Cuba (programme/teacher-guide evidence only), Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -26,6 +26,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 11:** *Orientaciones metodológicas: Física — octavo grado* (methodological orientations — teacher-guide evidence, NOT a student book, cited as it is) — Cuba, Ministerio de Educación, Cuba, 2024; Editorial Pueblo y Educación; ISBN 978-959-13-4782-4 (digital). Grade: 8 · Kind: teacher (methodological guide to the 2024 programme and student book) · Repo path: grade-08/gov/cuba/fisica/teacher/orientaciones.pdf — NOTE: the TSV row for this title points at a different release asset (grade-08-gov-cuba-educacion-fisica-teacher-orientaciones.pdf, 5,877,231 bytes); the Physics guide is the separate asset grade-08-gov-cuba-fisica-teacher-orientaciones.pdf used here — TSV link/title mismatch = library debt, carried on the record · Byte size: 6,087,413 (release asset, mid-size-books-3, verified against asset index) · PDF pages: 262 · Offset: printed p. = PDF p. − 5 approx. (printed 253 ≈ PDF 258). Verdict: COMPLETE — index and all five unit treatments read; cover visually verified as Física, octavo grado. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 4).
 
+**Book 12:** *Physics — Grade 10, Term 2 (Student Book) — الفيزياء، الصف العاشر، كتاب الطالب، الفصل الدراسي الثاني* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2022; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD (same edition family as Term 1). Grade: 10 · Kind: student · Repo path/URL: release asset `grade-10-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-10-gov-jordan-physics-student-term-2.pdf · Bytes: 52,926,341 (matches release asset size exactly) · PDF pages: 132 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5). Verdict: COMPLETE (glossary at printed 128; ends PDF 132). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sinking, floating, and big ships | Grade 12 Student Textbook, printed pp. 98–102 |
@@ -40,7 +42,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Ch. 2: principle of floatation — floating bodies, equilibrium of floating bodies, volume submerged — printed p. 56 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 2: principle of floatation — floating bodies, equilibrium of floating bodies, volume submerged — printed p. 56 |
 | §2-4, Buoyancy (شناوری) — why ships float (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §2-4 — printed p. 40 |
 | Theme 3 §3.5: floating, sinking and hovering of bodies — the three outcomes of thrust vs weight (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 3 §3.5: floating, sinking and hovering of bodies — the three outcomes of thrust vs weight — printed p. 89 |
+| Unit 5 Lesson 1, floating under Archimedes | Jordan, *Physics — Grade 10, Term 2 (Student Book)*, Unit 5 Lesson 1, floating under Archimedes — printed p. 60 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China).**
+**Acceptance count: taught in 10 countries (Ethiopia, Slovenia, Belarus, Bhutan, Iran, North Macedonia, Moldova, Mozambique, China, Jordan).**
 
 Searchable tags: physics, grade 12, fluid mechanics, why ships float, displacement, iran, north macedonia, mozambique

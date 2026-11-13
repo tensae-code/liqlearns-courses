@@ -1,6 +1,6 @@
 # Sources — Measurement — accuracy and precision
 
-countries: Ethiopia, Barbados, Bulgaria, India, Moldova
+countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Barbados, Bulgaria, India, Moldova
 
 **Book 7:** *Fizica, clasa a X-a (Physics, Grade 10)* (student textbook; printed/recorded title "Clasa 10 — Fizica (in limba romana)") — Moldova. Authors: Mihai Marinciuc (Chs. 1, 3, 4 and part of 2) & Spiridon Rusu (rest of Ch. 2, §4.3, Ch. 5, laboratory works); Editura Știința, 2012; drawn up to the discipline curriculum in force and approved by Order of the Minister of Education nr. 265 of 27 April 2012. Grade 10 · Student book · Repo path: grade-10/gov/moldova/physics/full-year.pdf (tree file; TSV row only — no size/pages in the record). Byte size: 6,817,784 (no size recorded). PDF pages: 180 (no page count recorded). Offset: printed p. = PDF p. (interior check: printed p. 31 is PDF p. 31). Verdict: COMPLETE read (full text layer, all 180 pages; contents read in full, interiors sampled throughout). Library debt, on the record: there is no Moldova Grade 9 or Grade 12 Physics record in the targets, and this Grade 10 book is a TSV-only record with no size/page data in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 8:** *Physics — Grade 9, Term 1 (Student Book) — الفيزياء، الصف التاسع، كتاب الطالب، الفصل الدراسي الأول* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. NCCD new-curriculum edition; approved for all schools of the Hashemite Kingdom of Jordan by Ministry of Education decision dated 19 Jun 2022 (قرار مجلس التربية والتعليم 2022/4). Grade: 9 · Kind: student · Repo path/URL: release asset `grade-09-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-09-gov-jordan-physics-student-term-1.pdf · Bytes: 27,740,195 (matches release asset size exactly) · PDF pages: 98 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8; Lesson 1 printed 10 = PDF 11). Verdict: COMPLETE (ends with glossary printed 92 and references printed 95; PDF pp. 98–99 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Two words, two judgements (the four groups and the 100 °C true value) | Ethiopia, *General Science Student Textbook, Grade 7*, printed p. 19 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Barbados, Bulgaria, India, Moldova
 | Unit II §2.2: measuring/determining length; instrumental errors and calculating errors (Moldova, Grade 6) | Moldova, *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)*, Unit II §2.2: measuring/determining length; instrumental errors and calculating errors — printed p. 15 |
 | Ch. 2 §2.8: absolute error — a standalone lesson on measurement error (Moldova, Grade 7) | Moldova, *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)*, Ch. 2 §2.8: absolute error — a standalone lesson on measurement error — printed p. 53 |
 | Laboratory section: elementary notions of error calculation — measurements and errors, errors of direct and indirect measurements, the error of a single measurement, graphical processing of experimental data; laboratory works (uniformly accelerated motion; a body's elastic constant) — Moldova's own way: the error primer is part of the pupil's physics book (Moldova, Grade 10) | Moldova, *Fizica, clasa a X-a (Physics, Grade 10)*, Laboratory section: elementary notions of error calculation — measurements and errors, errors of direct and indirect measurements, the error of a single measurement, graphical processing of experimental data; laboratory works (uniformly accelerated motion; a body's elastic constant) — Moldova's own way: the error primer is part of the pupil's physics book — printed pp. 165–172 |
+| Unit 1 Lesson 2, significant figures as honest precision | Jordan, *Physics — Grade 9, Term 1 (Student Book)*, Unit 1 Lesson 2, significant figures as honest precision — printed p. 20 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Bulgaria, India, Moldova).**
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan).**
 
 Pairing note for this lesson: the teacher guide's Unit 1 has NO scientific-measurement section — this lesson stands on the STUDENT BOOK ALONE, and the guide carries no counterpart for it.
 

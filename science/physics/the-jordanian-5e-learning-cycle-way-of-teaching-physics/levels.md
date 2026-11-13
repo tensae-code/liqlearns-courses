@@ -1,0 +1,4 @@
+# The Jordanian 5E learning-cycle way of teaching physics — depth
+
+Whole-lesson pass mark: the learner can do all of these — Jordan's guides teach inside the 5E cycle: engage, explore, explain, elaborate, evaluate; Exploration precedes explanation — the pattern is met before the law is named; Lessons are delivered in three phases: present, teach, assess; Elaboration pushes the idea into applications and STEAM tasks; Evaluation asks whether the idea works somewhere new, not only whether it can be recited — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

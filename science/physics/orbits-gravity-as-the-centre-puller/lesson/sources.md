@@ -1,6 +1,6 @@
 # Sources — Orbits — gravity as the centre-puller
 
-countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, China
+countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, China, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, C
 
 **Book 9:** *普通高中教科书·物理必修 第二册 (Senior High Physics, Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series (2022 printing as Book 1). Grade: senior (filed grade-12 in the library; Compulsory 2 is the second volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 16,251,494 = recorded exactly. PDF pages: 114. Offset: PDF = printed + 5 (proven: §6.2 printed p.27 heading lands on PDF p.32). Verdict: COMPLETE — chapters 5–8 (continuing Book 1's numbering) through research project (p.102) and index (p.106). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 3).
 
+**Book 10:** *Physics — Grade 10, Term 2 (Student Book) — الفيزياء، الصف العاشر، كتاب الطالب، الفصل الدراسي الثاني* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2022; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD (same edition family as Term 1). Grade: 10 · Kind: student · Repo path/URL: release asset `grade-10-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-10-gov-jordan-physics-student-term-2.pdf · Bytes: 52,926,341 (matches release asset size exactly) · PDF pages: 132 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5). Verdict: COMPLETE (glossary at printed 128; ends PDF 132). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gravitation and orbits — centripetal force from gravity | Grade 12 Student Textbook, printed pp. 61–62 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, C
 
 | Ch. 13 Gravitation: Newton's law, gravitation inside Earth, Kepler's laws, Einstein and gravitation — printed p. 354 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 13 Gravitation: Newton's law, gravitation inside Earth, Kepler's laws, Einstein and gravitation — printed p. 354 |
 | Ch. 7 — escape speed, Earth satellites and energy of an orbiting satellite sections (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 7 — escape speed, Earth satellites and energy of an orbiting satellite sections |
+| Unit 4 Lesson 1, orbits under gravitation | Jordan, *Physics — Grade 10, Term 2 (Student Book)*, Unit 4 Lesson 1, orbits under gravitation — printed p. 10 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, China).**
+**Acceptance count: taught in 10 countries (Ethiopia, Nicaragua, Malaysia, Sudan, Egypt, Kuwait, Bhutan, India, China, Jordan).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

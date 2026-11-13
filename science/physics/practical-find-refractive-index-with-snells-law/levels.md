@@ -1,0 +1,4 @@
+# Practical — find the refractive index with Snell's law — depth
+
+Whole-lesson pass mark: the learner can do all of these — Trace the ray through the block and draw the normal at the entry point; Measure i and r from the normal, never from the surface; Snell's law gives the refractive index: n = sin i / sin r; Repeat at several angles and average — or take the slope of sin i against sin r; For glass, n should land near 1.5; state the range and the error sources — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

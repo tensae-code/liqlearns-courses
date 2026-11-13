@@ -1,0 +1,4 @@
+# How this physics course works — the Jordanian Grade 9 way — depth
+
+Whole-lesson pass mark: the learner can do all of these — Every Jordanian unit opens with an introductory experiment done before the theory; A general-idea page states each unit's big idea in plain words; English physics terms are glossed beside the Arabic at first use; Lessons end with review and units close with a unit review; A 'Physics and life' spread applies each unit to daily life — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

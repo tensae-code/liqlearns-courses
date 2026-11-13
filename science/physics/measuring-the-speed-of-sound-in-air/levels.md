@@ -1,0 +1,4 @@
+# Measuring the speed of sound in air — depth
+
+Whole-lesson pass mark: the learner can do all of these — Sound's speed is measured as a known distance divided by its travel time; The direct method times a sound across a long baseline against a light signal; The echo method times repeated claps matched to their echoes over 2d; Reaction time is the main error; long distances and repetition shrink it; The value in air near room temperature is about 340 m/s — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

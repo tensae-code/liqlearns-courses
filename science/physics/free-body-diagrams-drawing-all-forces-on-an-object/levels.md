@@ -1,0 +1,4 @@
+# Free-body diagrams — drawing all the forces on an object — depth
+
+Whole-lesson pass mark: the learner can do all of these — A free-body diagram draws ONE isolated object with every force acting ON it; Forces the object exerts on others are never drawn; The cast, in order: weight, normal reaction, friction, tension, applied forces; Arrows start at the body, point with the force, and are sized to scale; Resolve, add per direction: zero means balance, a resultant means F = ma — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

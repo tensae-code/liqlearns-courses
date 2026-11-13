@@ -1,0 +1,4 @@
+# How this physics course works — the Jordanian Grade 11 way — depth
+
+Whole-lesson pass mark: the learner can do all of these — Grade 11 runs two units per term in the same NCCD pattern; Introductory experiments open the senior units too — spring balance, calorimetry; English terms remain glossed at first use in the academic track; Enrichment spreads are real technology: wind energy, the refrigerator; The back matter adds a trigonometric-ratios table beside the glossary — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

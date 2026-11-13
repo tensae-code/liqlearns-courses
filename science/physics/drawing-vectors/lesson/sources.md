@@ -1,6 +1,6 @@
 # Sources — Drawing vectors — arrows with scale and direction
 
-countries: Ethiopia, Slovenia, Moldova
+countries: Ethiopia, Slovenia, Moldova, Jordan
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Slovenia, Moldova
 
 **Book 4:** *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)* (student textbook) — Moldova, Ministerul Educației, Culturii și Cercetării (Ministry of Education, Culture and Research). Authors: Ion Botgros, Viorel Bocancea, Vladimir Donici, Victor Ciuvaga & Nicolae Constantinov; Ediția a V-a, actualizată și completată (5th edition, updated and completed), Editura Educational, 2020; approved by ministerial order nr. 849 of 24 August 2020, curriculum order nr. 906/2019. Grade 7 · Student book · Repo path: grade-07/gov/moldova/physics/student/moldova-g07-physics.pdf (release copy: releases/download/mid-size-books-8/grade-07-gov-moldova-physics-student-moldova-g07-physics.pdf). Byte size: 15,128,079 (exact match). PDF pages: 146 (record: 146). Offset: printed p. = PDF p. − 2 (contents on printed pp. 4–5 are PDF pp. 6–7). Verdict: COMPLETE read (full text layer, all 146 pages; contents read in full, chapter interiors sampled throughout). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 5:** *Physics — Grade 10, Term 1 (Student Book) — الفيزياء، الصف العاشر، كتاب الطالب، الفصل الدراسي الأول* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2022; prepared originally in English for the National Center for Curriculum Development and Evaluation (NCCD), Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-254-1. Grade: 10 · Kind: student · Repo path/URL: release asset `grade-10-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-10-gov-jordan-physics-student-term-1.pdf · Bytes: 20,553,673 (matches release asset size exactly) · PDF pages: 88 · Offset: printed page = PDF page (verified: introduction printed 4 = PDF 4). Verdict: COMPLETE (glossary printed 85; ends PDF 88). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Drawing vectors — arrows with scale and direction | Ethiopia, *Grade 10 Student Textbook*, printed pp. 3–5 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Slovenia, Moldova
 | Unit 1 — Vector Quantities pedagogy and worked answers (teacher guide — evidence) | Ethiopia, *Grade 10 Teacher's Guide*, printed pp. 5–26 |
 | Forces: Risanje sil (Drawing forces to scale) (Slovenia) | Slovenia, *Fizika 8*, Forces: Risanje sil (Drawing forces to scale) — printed p. 132 (unit folder 221) |
 | Ch. 2 §2.2: force — a vector quantity (Moldova, Grade 7) | Moldova, *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)*, Ch. 2 §2.2: force — a vector quantity — printed p. 38 |
+| Unit 1 Lesson 1, representing vectors | Jordan, *Physics — Grade 10, Term 1 (Student Book)*, Unit 1 Lesson 1, representing vectors — printed p. 8 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Moldova).**
+**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Moldova, Jordan).**
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

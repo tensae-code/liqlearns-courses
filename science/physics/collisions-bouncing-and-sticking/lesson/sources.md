@@ -1,6 +1,6 @@
 # Sources — Collisions — bouncing and sticking
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China, Cuba
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China, Cuba, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -25,6 +25,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United Stat
 
 **Book 12:** *Física — décimo grado* (student textbook) — Cuba, 4th reprint 2014 of the 1989 edition (© Ministerio de Educación, Cuba, 1989; Editorial Pueblo y Educación, 1989); ISBN 978-959-13-0711-8. Authors: Juan Núñez Viera, Carlos Sifredo Barrios, José Luis Hernández Báez, Esther María Vilaú Pérez. Grade: 10 · Kind: student · Repo path: grade-10/gov/cuba/fisica/student/full-year.pdf (release asset grade-10-gov-cuba-fisica-student-full-year.pdf, mid-size-books-3) · Byte size: 42,830,762 (release asset, verified) · PDF pages: 385 · Offset: printed p. = PDF p. − 9 (printed 1 = PDF 10). Image-only scan; read via 100-DPI page sheets. Verdict: COMPLETE — index runs to Ch. 8 general tasks (printed p. 365) and answers to chapter tasks (p. 373). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 10).
 
+**Book 13:** *Physics — Grade 12, Term 1 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الأول* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-799-7. First (experimental) edition 1446H/2025; approved by the Ministry of Education in 2025, for use from school year 2025/2026. Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-1.pdf · Bytes: 29,161,215 (matches release asset size exactly) · PDF pages: 182 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8). Verdict: COMPLETE (Unit 4 review questions end printed 177, glossary printed 178–180; PDF 182 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Collisions — elastic and perfectly inelastic | Grade 11 Student Textbook, printed pp. 157–161 |
@@ -41,7 +43,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United Stat
 
 | Ch. 9 Center of Mass and Linear Momentum — printed p. 214 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 9 Center of Mass and Linear Momentum — printed p. 214 |
 | Ch. 5, §5.11 Collisions — printed p. 83 (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 5, §5.11 Collisions — printed p. 83 |
+| Unit 1 Lesson 2, elastic, inelastic and perfectly inelastic collisions; kinetic energy in collisions | Jordan, *Physics — Grade 12, Term 1 (Student Book, Academic Track)*, Unit 1 Lesson 2, elastic, inelastic and perfectly inelastic collisions; kinetic energy in collisions — printed p. 22 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China, Cuba).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count.
+**Acceptance count: taught in 12 countries (Ethiopia, United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China, Cuba, Jordan).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count.
 
 Searchable tags: physics, grade 11, dynamics, collisions — bouncing and sticking, momentum, united states, yemen, laos, mozambique

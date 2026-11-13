@@ -1,6 +1,6 @@
 # Sources — Centripetal acceleration — always toward the centre
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, Indonesia, Kenya, Kuwait, Belarus, Bhutan, Moldova, South Sudan, China
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, Indonesia, Kenya, Kuwait, Belarus, Bhutan, Moldova, South Sudan, China, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, 
 
 **Book 13:** *普通高中教科书·物理必修 第二册 (Senior High Physics, Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series (2022 printing as Book 1). Grade: senior (filed grade-12 in the library; Compulsory 2 is the second volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 16,251,494 = recorded exactly. PDF pages: 114. Offset: PDF = printed + 5 (proven: §6.2 printed p.27 heading lands on PDF p.32). Verdict: COMPLETE — chapters 5–8 (continuing Book 1's numbering) through research project (p.102) and index (p.106). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 3).
 
+**Book 14:** *Physics — Grade 10, Term 2 (Student Book) — الفيزياء، الصف العاشر، كتاب الطالب، الفصل الدراسي الثاني* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2022; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD (same edition family as Term 1). Grade: 10 · Kind: student · Repo path/URL: release asset `grade-10-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-10-gov-jordan-physics-student-term-2.pdf · Bytes: 52,926,341 (matches release asset size exactly) · PDF pages: 132 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5). Verdict: COMPLETE (glossary at printed 128; ends PDF 132). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Centripetal acceleration | Grade 11 Student Textbook, printed pp. 83–86 |
@@ -47,8 +49,9 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, 
 
 | Topic 1: circular motion, centripetal force and acceleration (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 1: circular motion, centripetal force and acceleration — printed p. 2 |
 | Topic 1 Uniform circular motion (guide) (South Sudan, Secondary 4 (Grade 12) — teacher's guide) | South Sudan, *Physics Secondary 4 — Teacher's Guide*, Topic 1 Uniform circular motion (guide) — printed p. 21 |
+| Unit 4 Lesson 3, centripetal acceleration | Jordan, *Physics — Grade 10, Term 2 (Student Book)*, Unit 4 Lesson 3, centripetal acceleration — printed p. 46 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Palestine, Fiji, Indonesia, Kenya, Kuwait, Belarus, Bhutan, Moldova, South Sudan, China).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+**Acceptance count: taught in 12 countries (Ethiopia, Palestine, Fiji, Indonesia, Kenya, Kuwait, Belarus, Bhutan, Moldova, South Sudan, China, Jordan).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

@@ -1,6 +1,6 @@
 # Sources — Bohr's model and hydrogen energy levels
 
-countries: Ethiopia, Sudan, Egypt, India, Cuba
+countries: Ethiopia, Sudan, Egypt, India, Cuba, Jordan (also-cited — counted in Physics)
 
 **Book 1:** *Chemistry Textbook, Grade 11* (Student Textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tsegaye Girma (PhD), Abera Gure (PhD). Content editor: Chala Regasa (MSc). Curriculum editor: Taye Hirpassa (BSc, MA). Language editor: Meseret Getnet (PhD). Illustrator: Asresahegn Kassaye (MSc). Designer: Daniel Tesfay (MSc). Evaluators: Tolessa Mergo Roro (BSc, MEd), Nega Gichile (BSc, MA), Sefiw Melesse (MSc). ISBN: 978-99990-0-018-5. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Sudan, Egypt, India, Cuba
 
 **Book 6:** *Física — duodécimo grado, Parte 1* (student textbook, Part 1) — Cuba, Second edition 2007 (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990; first reprint 2000); ISBN 959-13-0676-8 (complete work), 959-13-0677-6 (Part 1). Authors: Carlos Sifredo Barrios, Fernando González Pérez, Joaquín Tutor Sánchez, Antonio Pérez Hernández, Miguel Ferrer López. Grade: 12 · Kind: student (Part 1) · Repo path: grade-12/gov/cuba/fisica/student/part-1.pdf · Byte size: 16,853,129 (matches books.json record; staging copy used) · PDF pages: 85 print spreads (landscape, two printed pages per PDF page); printed pages 1–159 + colour plates (Láminas) · Offset: printed pp. run in spread order, printed 1 ≈ PDF spread 5. Verdict: COMPLETE for Part 1 — all 6 chapters present per full index. Library debt, carried on the record: the preface states Part 2 is devoted to consolidating the fundamental work methods of physics — no Grade 12 Part 2 book appears in the reading targets / library records for Cuba. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 14).
 
+**Book 7:** *Physics — Grade 12, Term 2 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الثاني* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-801-7. First (experimental) edition 1447H/2025; approved by Ministry of Education decision (2025/77) dated 15 Sep 2025, for use from 15 Oct 2025 (school year 2025/2026). Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-2.pdf · Bytes: 50,602,897 (matches release asset size exactly) · PDF pages: 184 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5; Unit 5 printed 7 = PDF 7). Note: this PDF has no separate cover page — it opens on the title page. Verdict: COMPLETE (glossary printed 181–184, the last PDF page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Fixed levels — no falling in | Book 1 (Grade 11 Student Textbook), printed pp. 25–32 |
@@ -26,6 +28,7 @@ countries: Ethiopia, Sudan, Egypt, India, Cuba
 | Ch.6 Bohr's model of the atom (1913 postulates) (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.6 Bohr's model of the atom (1913 postulates) — printed p. 135 |
 | Ch. 12 — Bohr model and the hydrogen spectrum (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 12 — Bohr model and the hydrogen spectrum |
 | Ch. 4 §4.3: Bohr's atomic model applied to the hydrogen atom — printed pp. 75–79 (filed under the existing Bohr slug) (Cuba, Grade 12, Part 1) | Cuba, *Física — duodécimo grado, Parte 1 (Grade 12 student book, Part 1)*, Ch. 4 §4.3: Bohr's atomic model applied to the hydrogen atom — printed pp. 75–79 (filed under the existing Bohr slug) |
+| Unit 7 Lesson 2, Bohr's model of the hydrogen atom and the hydrogen spectrum | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 7 Lesson 2, Bohr's model of the hydrogen atom and the hydrogen spectrum — printed p. 119 (also-cited — counted in Physics) — also-cited row as placed in the Jordan placements file; Jordan is counted in the Physics lesson physics/bohrs-model-of-the-hydrogen-atom, not in this Chemistry count |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Sudan, Egypt, India, Cuba).**
 

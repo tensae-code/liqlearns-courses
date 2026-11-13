@@ -1,6 +1,6 @@
 # Sources — Refraction — why the spoon looks broken
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan
+countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, Jordan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan
 
 **Book 4:** *فیزیک — صنف دهم (Physics — Grade 10)* (student textbook) — Afghanistan, Ministry of Education, Kabul. Title as printed: فیزیک — صنف دهم (Physics — Grade 10), Ministry of Education, Kabul. Grade: 10 · Student book, Dari · Edition/year: print year 1398 HS (2019/20), Kabul. Repo path (record): grade-10/gov/afghanistan/فیزیک_صنف_دهم.pdf — in_pushed: true; record byte size/pages: null. Read from: official ministry PDF, moe.gov.af (G10-Dr-physic.pdf). Verdict: COMPLETE — full text fetched; complete contents with printed pages read; chapter 1 opening read in Dari. Printed ↔ fetched offset: contents printed pp. 1–9 precede the body; printed p. 1 = Chapter 1 start. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/afghanistan-placements.md.
 
+**Book 5:** *Physics — Grade 9, Term 2 (Student Book) — الفيزياء، الصف التاسع، كتاب الطالب، الفصل الدراسي الثاني* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. NCCD new-curriculum edition; approved by Ministry of Education decision (2022/133) dated 15 Dec 2022, for use from school year 2022/2023. © HarperCollins Publishers Limited 2022 (adapted source). Grade: 9 · Kind: student · Repo path/URL: release asset `grade-09-gov-jordan-physics-student-term-2-1K4HIL.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-09-gov-jordan-physics-student-term-2-1K4HIL.pdf · Bytes: 64,122,842 (matches release asset size exactly) · PDF pages: 80 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5; Unit 4 printed 7 = PDF 7). Verdict: COMPLETE (glossary printed 76, references printed 78). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The bend at the boundary: refraction defined; the perpendicular exception; the broken spoon (Activity 7.8) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 187–189 (student placement 53) |
@@ -17,8 +19,9 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan
 | Refraction, refractive index, critical angle, total internal reflection (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv |
 | Ch. 6 Light and Optics, §6.1 Refraction of Light (Malaysia) | Malaysia, *Physics Form 4*, Ch. 6 Light and Optics, §6.1 Refraction of Light — printed p. 232 — incl. real/apparent depth |
 | Ch. 4 Refraction — laws of refraction and the parallel-sided plate (Afghanistan, Grade 10) | Afghanistan, *فیزیک — صنف دهم (Physics — Grade 10)*, Ch. 4 Refraction — printed p. 69 — laws of refraction p. 75, light through a parallel-sided plate p. 79 |
+| Unit 5 Lesson 1, refraction at a boundary | Jordan, *Physics — Grade 9, Term 2 (Student Book)*, Unit 5 Lesson 1, refraction at a boundary — printed p. 36 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Malaysia, Afghanistan).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Afghanistan, Jordan).** Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 New lesson at Grade 8 depth, not a growth of the primary combined Reflection, refraction and splitting light lesson: that lesson carries refraction as one part of three at primary depth (coin and pencil); this item is a full Grade 8 section with the towards/away rule and the one-plane law-form, so it is built whole here.
 

@@ -1,0 +1,4 @@
+# Worksheets and answers appendix — Jordan Grade 10 Term 1 — depth
+
+Whole-lesson pass mark: the learner can do all of these — The appendix holds worksheets (A1) and the activities-book answer key (A15); Worksheets mirror the three teaching units: Vectors, Motion, Forces; The key sets the standard of a complete practical answer; This is teacher-guide material, cited as evidence, outside the acceptance count; It is recorded so Jordan's consolidation stock for Term 1 is not lost — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

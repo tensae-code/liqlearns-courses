@@ -1,6 +1,6 @@
 # Sources — Experiment: find the coefficient of friction
 
-countries: Ethiopia, Indonesia, Kuwait
+countries: Ethiopia, Indonesia, Kuwait, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -8,12 +8,15 @@ countries: Ethiopia, Indonesia, Kuwait
 
 **Book 3:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
+**Book 4:** *Physics — Grade 10, Term 2 (Workbook / Activities and Practical Experiments Book) — الفيزياء، الصف العاشر، كتاب الأنشطة والتجارب العملية، الفصل الدراسي الثاني* (student workbook, activities and practical experiments companion to the Term 2 student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2022; NCCD, Amman (same edition family as the Term 2 student book). Grade: 10 · Kind: student workbook · Repo path/URL: release asset `grade-10-gov-jordan-physics-student-term-2-workbook.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-10-gov-jordan-physics-student-term-2-workbook.pdf · Bytes: 20,062,584 (matches release asset size exactly) · PDF pages: 52 · Offset: printed page = PDF page (Unit 4 opener printed 4 = PDF 4). Verdict: COMPLETE (ends with Unit 6 international-test-style questions, printed 52). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Practical — measuring friction | Grade 11 Student Textbook, printed pp. 115–125 |
 | Bab 3 Dinamika Gerak Partikel (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 3 Dinamika Gerak Partikel — chapter 3 — friction investigation is a set Aktivitas experiment |
 | Activity 4 "Calculating the Friction Force" (Kuwait, Grade 11 Term 1 applications workbook) | Kuwait, *Physics, Grade 11, Term 1 — applications workbook*, printed p. 18 |
+| Unit 4 Experiment 2, factors static and kinetic friction depend on | Jordan, *Physics — Grade 10, Term 2 (Workbook / Activities and Practical Experiments Book)*, Unit 4 Experiment 2, factors static and kinetic friction depend on — printed p. 8 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Indonesia, Kuwait).**
+**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, Kuwait, Jordan).**
 
 Searchable tags: physics, grade 11, dynamics, experiment: find the coefficient of friction, friction

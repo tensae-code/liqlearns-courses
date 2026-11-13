@@ -1,6 +1,6 @@
 # Sources — Expansion of liquids; water's strange 0–4 °C behaviour
 
-countries: Ethiopia, Uganda, Yemen, Iran, North Macedonia, Moldova, South Sudan
+countries: Ethiopia, Uganda, Yemen, Iran, North Macedonia, Moldova, South Sudan, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -20,6 +20,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 8:** *Physics Secondary 1 — Student's Book* (student textbook) — South Sudan, Republic of South Sudan, Ministry of General Education and Instruction (cover: "Physics 1 cover", Adobe Illustrator 2019 file; funded-not-for-sale ministry book). Grade: Secondary 1 (Grade 9) · Student book · Repo path: grade-09/gov/south-sudan/physics/student/full-year.pdf. Bytes: 15,175,190 (Contents API meta = downloaded bytes) · PDF pages: 275 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — all 5 units / 8 topics present through Topic Test 8 (printed p. 265) plus end matter. South Sudan's own way: every topic ends with a Topic summary, "new words" list and a Topic Test; forces are introduced before pressure, and light is taught plane-surfaces-only at S1. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 9:** *Physics — Grade 11, Term 1 (Student Book, Academic Track) — الفيزياء، الصف الحادي عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الأول* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2024; prepared originally in English for the National Center for Curriculum Development (NCCD), Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-825-3. First (experimental) edition 1445H/2024, reprinted 2025; approved by Ministry of Education decision (2024/66) dated 26 Jun 2024, for use from school year 2024/2025. Grade: 11 · Kind: student (academic track) · Repo path/URL: release asset `grade-11-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-11-gov-jordan-physics-student-term-1.pdf · Bytes: 38,009,926 (matches release asset size exactly) · PDF pages: 102 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8). Verdict: COMPLETE (glossary printed 97, trigonometric-ratios table printed 99, references printed 100; PDF 102 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Liquids and gases expand more | Grade 11 Student Textbook, printed pp. 193–201 |
@@ -32,7 +34,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Theme 2 §2.6: expansion of liquids and the anomaly of water (with the thermal-expansion lesson) (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 2 §2.6: expansion of liquids and the anomaly of water (with the thermal-expansion lesson) — printed p. 78 |
 
 | Topic 4.8: liquid expansion (South Sudan, Secondary 1 (Grade 9)) | South Sudan, *Physics Secondary 1 — Student's Book*, Topic 4.8: liquid expansion — printed p. 128 |
+| Unit 2 Lesson 3, expansion of liquids and the anomalous behaviour of water | Jordan, *Physics — Grade 11, Term 1 (Student Book, Academic Track)*, Unit 2 Lesson 3, expansion of liquids and the anomalous behaviour of water — printed p. 89 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Yemen, Iran, North Macedonia, Moldova, South Sudan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Yemen, Iran, North Macedonia, Moldova, South Sudan, Jordan).**
 
 Searchable tags: physics, grade 11, heat conduction and calorimetry, expansion of liquids; water's strange 0–4 °c behaviour, work, uganda, yemen, iran, north macedonia, south sudan

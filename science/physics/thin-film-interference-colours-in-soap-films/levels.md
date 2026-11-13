@@ -1,0 +1,4 @@
+# Thin-film interference — colours in soap films — depth
+
+Whole-lesson pass mark: the learner can do all of these — Light reflects from both surfaces of the film; the two reflections interfere; The path difference is twice the film's thickness; Reflection off a denser medium adds a half-cycle phase change, flipping the rule; A nearly-vanished film reflects destructively — the black patch on a draining bubble; Each thickness reinforces its own colour; the bands are a thickness map — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

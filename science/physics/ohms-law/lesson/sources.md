@@ -1,6 +1,6 @@
 # Sources — Ohm's law
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan, China, Cuba
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan, China, Cuba, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -45,6 +45,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 21:** *Física — noveno grado* (student textbook) — Cuba, © 2025, Ministerio de Educación, Cuba; Editorial Pueblo y Educación; ISBN 978-959-13-5080-0 (digital). Third Perfeccionamiento series. NOTE: this 2025 student book is two programme-generations ahead of the 2011–2012 Grade 9 programme in this set. Grade: 9 · Kind: student · Repo path: grade-09/gov/cuba/fisica/student/full-year.pdf (release asset grade-09-gov-cuba-fisica-student-full-year.pdf, mid-size-books-5) · Byte size: 39,537,276 (release asset, verified) · PDF pages: 442 · Offset: printed p. = PDF p. − 12 (printed 419 = PDF 431). Verdict: COMPLETE — 4 chapters plus a laboratory-equipment annex (printed pp. 419–428). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 9).
 
+**Book 22:** *Physics — Grade 12, Term 1 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الأول* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-799-7. First (experimental) edition 1446H/2025; approved by the Ministry of Education in 2025, for use from school year 2025/2026. Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-1.pdf · Bytes: 29,161,215 (matches release asset size exactly) · PDF pages: 182 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8). Verdict: COMPLETE (Unit 4 review questions end printed 177, glossary printed 178–180; PDF 182 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ohm's law — ohmic and non-ohmic conductors | Grade 11 Student Textbook, printed pp. 245–246 |
@@ -69,8 +71,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 | Topic 3: Ohm's law (South Sudan, Secondary 3 (Grade 11)) | South Sudan, *South Sudan Secondary Physics 3 — Student's Book*, Topic 3: Ohm's law — printed p. 82 |
 | Topic 3 Current electricity (guide) (South Sudan, Secondary 3 (Grade 11) — teacher's guide) | South Sudan, *South Sudan Secondary Physics 3 — Teacher's Guide*, Topic 3 Current electricity (guide) — printed p. 58 |
+| Unit 4 intro experiment, investigating the voltage–current relation for a resistor | Jordan, *Physics — Grade 12, Term 1 (Student Book, Academic Track)*, Unit 4 intro experiment, investigating the voltage–current relation for a resistor — printed p. 141 |
+| Unit 4 Lesson 1, Ohm's law; ohmic conductors vs non-ohmic materials | Jordan, *Physics — Grade 12, Term 1 (Student Book, Academic Track)*, Unit 4 Lesson 1, Ohm's law; ohmic conductors vs non-ohmic materials — printed p. 143 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan, China, Cuba).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
+**Acceptance count: taught in 16 countries (Ethiopia, Ecuador, Sri Lanka, Malaysia, Sudan, United States, Egypt, Yemen, Iran, Laos, Vietnam, Libya, South Sudan, China, Cuba, Jordan).** Djibouti is named as teacher-guide evidence only (Guide du professeur Physique-Chimie, 8ème année — teacher guide), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

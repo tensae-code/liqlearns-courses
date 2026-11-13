@@ -1,6 +1,6 @@
 # Sources — Radiation at work — tracers, medicine and dating
 
-countries: Ethiopia, Afghanistan, Laos, Vietnam, Libya, South Sudan
+countries: Ethiopia, Afghanistan, Laos, Vietnam, Libya, South Sudan, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Afghanistan, Laos, Vietnam, Libya, South Sudan
 
 **Book 6:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 7:** *Physics — Grade 12, Term 2 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الثاني* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-801-7. First (experimental) edition 1447H/2025; approved by Ministry of Education decision (2025/77) dated 15 Sep 2025, for use from 15 Oct 2025 (school year 2025/2026). Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-2.pdf · Bytes: 50,602,897 (matches release asset size exactly) · PDF pages: 184 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5; Unit 5 printed 7 = PDF 7). Note: this PDF has no separate cover page — it opens on the title page. Verdict: COMPLETE (glossary printed 181–184, the last PDF page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Uses of nuclear radiation | Grade 11 Student Textbook, printed pp. 312–315 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Afghanistan, Laos, Vietnam, Libya, South Sudan
 | U9 §9-5: radiation and people — uses, dangers and precautions (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U9 §9-5: radiation and people — uses, dangers and precautions — printed pp. 158–160 |
 
 | Topic 10: applications of radioactivity (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 10: applications of radioactivity — printed p. 311 |
+| Unit 8 Lesson 3, applications of nuclear physics: tracing, radiotherapy, materials analysis, food preservation | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 8 Lesson 3, applications of nuclear physics: tracing, radiotherapy, materials analysis, food preservation — printed p. 172 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Laos, Vietnam, Libya, South Sudan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Laos, Vietnam, Libya, South Sudan, Jordan).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

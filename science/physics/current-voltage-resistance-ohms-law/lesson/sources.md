@@ -1,6 +1,6 @@
 # Sources — Current, voltage, resistance — Ohm's law
 
-countries: Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan, North Macedonia, Moldova, China
+countries: Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan, North Macedonia, Moldova, China, Jordan
 
 **Book 1:** *Physics, Student Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, first published 2023, 249 printed pp. Printed page = PDF page − 6. Writers: Fikadu Eshetu (PhD), Mideksa Kasahun (MSc). Editors: Moges Tsega (PhD), content editor; Samuel Assefa (PhD), curriculum editor; Felekech G/Egziabher (PhD), language editor. Illustrator: Umer Nuri (MSc). Designer: Derese Tekestebrihan (PhD fellow). Evaluators: Zafu Abraha (MSc), Girmaye Defar (MSc), Dessie Melese (MSc). First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-033-8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g10-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan, North Macedonia,
 
 **Book 11:** *普通高中教科书·物理必修 第三册 (Senior High Physics, Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior (filed grade-12 in the library; Compulsory 3 is the third volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 21,556,582 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §9.2 Coulomb's law, printed p.6, lands on PDF p.11). Verdict: COMPLETE — chapters 9–13 through research project (p.131) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 4).
 
+**Book 12:** *Physics — Grade 12, Term 1 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الأول* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-799-7. First (experimental) edition 1446H/2025; approved by the Ministry of Education in 2025, for use from school year 2025/2026. Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-1.pdf · Bytes: 29,161,215 (matches release asset size exactly) · PDF pages: 182 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8). Verdict: COMPLETE (Unit 4 review questions end printed 177, glossary printed 178–180; PDF 182 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Current, voltage, resistance — Ohm's law | Ethiopia, *Grade 10 Student Textbook*, printed pp. 110–119 |
@@ -40,8 +42,9 @@ countries: Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan, North Macedonia,
 
 | Ch. 4: electric circuits — flow of electric current, Ohm's law, calculating resistance/voltage/current and the effect of resistance on current — printed pp. 73, 77 (Bhutan, Class X (Grade 10)) | Bhutan, *Physics Textbook, Class X*, Ch. 4: electric circuits — flow of electric current, Ohm's law, calculating resistance/voltage/current and the effect of resistance on current — printed pp. 73, 77 |
 | Theme 1 §§1.7–1.8: electric resistance, resistors; Ohm's law for a part and for the whole circuit (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 1 §§1.7–1.8: electric resistance, resistors; Ohm's law for a part and for the whole circuit — printed pp. 42, 48 |
+| Unit 4 Lesson 1, factors affecting resistance and resistivity | Jordan, *Physics — Grade 12, Term 1 (Student Book, Academic Track)*, Unit 4 Lesson 1, factors affecting resistance and resistivity — printed p. 146 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan, North Macedonia, Moldova, China).**
+**Acceptance count: taught in 10 countries (Ethiopia, Slovenia, Cambodia, Egypt, Kuwait, Bhutan, North Macedonia, Moldova, China, Jordan).**
 
 Pairing notes, carried exactly: (a) year gap — guide © 2022, student book first published 2023; cite as a 2022 guide / 2023 student printing pair. (b) The guide adds structured virtual-experiment lessons (e.g. a dedicated virtual-experiment lesson closing Unit 3) that correspond to the student book's end-of-unit Virtual Labs links — matched in intent, not a content divergence; no student topic lacks guide coverage and no guide topic lacks a student section. The Grade 10 Teacher's Guide carries unfinished imprint placeholders — "First Published xxxxx 2022" and "Contract no. xxxxxxxxxxx" — and its printed ISBN 978-999944-2-046-9 is IDENTICAL to the ISBN printed in the Grade 9 Teacher's Guide and is malformed in grouping; one ISBN cannot belong to two different guides — at least one of the two records is wrong.
 

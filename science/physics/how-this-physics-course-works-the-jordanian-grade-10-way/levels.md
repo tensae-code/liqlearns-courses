@@ -1,0 +1,4 @@
+# How this physics course works — the Jordanian Grade 10 way — depth
+
+Whole-lesson pass mark: the learner can do all of these — Grade 10 keeps the Grade 9 NCCD pattern: experiment first, general idea, glossed terms, review; The air track is Term 1's introductory instrument for motion; Vectors, motion graphs and equations are the year's new mathematical tools; Free-body diagrams arrive with the applications of Newton's laws; Every unit closes with a STEAM enrichment joining physics to design — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

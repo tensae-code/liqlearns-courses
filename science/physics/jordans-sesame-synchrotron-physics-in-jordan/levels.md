@@ -1,0 +1,4 @@
+# Jordan's SESAME synchrotron — physics in Jordan — depth
+
+Whole-lesson pass mark: the learner can do all of these — SESAME is a synchrotron light source hosted in Balqa, Jordan, storing electrons at 2.5 GeV; Dipole magnets bend the beam in its circle — F = qvB supplying the centripetal force; Accelerating cavities restore energy with electric fields; Bent electrons radiate intense synchrotron light, infrared to X-rays; The light serves crystallography, heritage science, materials and environmental research — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

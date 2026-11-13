@@ -1,0 +1,4 @@
+# Evaporation and boiling — how they differ — depth
+
+Whole-lesson pass mark: the learner can do all of these — Evaporation: surface only, at any temperature, slow, and it cools the liquid; Boiling: throughout the liquid, only at the boiling point, vigorous, temperature steady; Evaporation's escapees are the fastest surface particles — their leaving lowers the average energy; Boiling begins when vapour pressure inside bubbles matches the outside pressure; Evaporation speeds up with heat, wind, larger surface and drier air — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

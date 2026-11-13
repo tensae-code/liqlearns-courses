@@ -1,0 +1,4 @@
+# Mirage and optical phenomena in daily life — depth
+
+Whole-lesson pass mark: the learner can do all of these — Hot air near the ground is less dense, so light bends gradually crossing the layers; A mirage is sky light curved up into the eye and projected onto the ground — it looks like water; The turning of the ray is total internal reflection in gradual, layered form; Shimmering air, twinkling stars and the flattened setting Sun are the same bending; Over cold surfaces the gradient reverses and a superior mirage can float above the horizon — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

@@ -1,6 +1,6 @@
 # Sources — Doping — making N-type and P-type
 
-countries: Ethiopia, Belarus, Bhutan, India, Moldova
+countries: Ethiopia, Belarus, Bhutan, India, Moldova, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Belarus, Bhutan, India, Moldova
 
 **Book 5:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 6:** *Physics — Grade 12, Term 2 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الثاني* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-801-7. First (experimental) edition 1447H/2025; approved by Ministry of Education decision (2025/77) dated 15 Sep 2025, for use from 15 Oct 2025 (school year 2025/2026). Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-2.pdf · Bytes: 50,602,897 (matches release asset size exactly) · PDF pages: 184 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5; Unit 5 printed 7 = PDF 7). Note: this PDF has no separate cover page — it opens on the title page. Verdict: COMPLETE (glossary printed 181–184, the last PDF page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Doping — N-type and P-type | Grade 12 Student Textbook, printed pp. 144–146 |
@@ -21,8 +23,9 @@ countries: Ethiopia, Belarus, Bhutan, India, Moldova
 
 | Ch. 41 Conduction of Electricity in Solids: metals, semiconductors, doping, the transistor — printed pp. 1252, 1270 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 41 Conduction of Electricity in Solids: metals, semiconductors, doping, the transistor — printed pp. 1252, 1270 |
 | Ch. 14 Semiconductor Electronics (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 14 Semiconductor Electronics |
+| Unit 6 Lesson 2, doping and majority carriers | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 6 Lesson 2, doping and majority carriers — printed p. 83 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Bhutan, India, Moldova).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Bhutan, India, Moldova, Jordan).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

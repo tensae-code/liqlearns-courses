@@ -1,0 +1,4 @@
+# How a refrigerator works — depth
+
+Whole-lesson pass mark: the learner can do all of these — The refrigerant loops through compressor, condenser, expansion valve, evaporator; Compression heats the gas; expansion through the narrow valve cools it sharply; Inside, the cold refrigerant evaporates by absorbing the food's heat; outside, it condenses and sheds heat; Moving heat from cold to hot requires paid work — the compressor's electricity; The fridge warms its room by the removed heat plus the compressor's work — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

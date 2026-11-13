@@ -1,6 +1,6 @@
 # Sources — Projectiles launched at an angle
 
-countries: Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China
+countries: Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China
 
 **Book 6:** *普通高中教科书·物理必修 第二册 (Senior High Physics, Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series (2022 printing as Book 1). Grade: senior (filed grade-12 in the library; Compulsory 2 is the second volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 16,251,494 = recorded exactly. PDF pages: 114. Offset: PDF = printed + 5 (proven: §6.2 printed p.27 heading lands on PDF p.32). Verdict: COMPLETE — chapters 5–8 (continuing Book 1's numbering) through research project (p.102) and index (p.106). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 3).
 
+**Book 7:** *Physics — Grade 10, Term 1 (Student Book) — الفيزياء، الصف العاشر، كتاب الطالب، الفصل الدراسي الأول* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2022; prepared originally in English for the National Center for Curriculum Development and Evaluation (NCCD), Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-254-1. Grade: 10 · Kind: student · Repo path/URL: release asset `grade-10-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-10-gov-jordan-physics-student-term-1.pdf · Bytes: 20,553,673 (matches release asset size exactly) · PDF pages: 88 · Offset: printed page = PDF page (verified: introduction printed 4 = PDF 4). Verdict: COMPLETE (glossary printed 85; ends PDF 88). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Angled (inclined) projectile motion | Grade 12 Student Textbook, printed pp. 29–33 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China
 | Ch. 1 Lesson 1, §3: projectile motion — trajectory, range and maximum height (Cambodia, Grade 11) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១១ (Physics, Grade 11)*, Ch. 1 Lesson 1, §3 — printed pp. 5–6 |
 | Ch. 1, lesson 1-3 "Projectile Motion" (Kuwait, Grade 11 Term 1) | Kuwait, *Physics, Grade 11, Term 1 (student book)*, printed p. 29 |
 | Ch.5 §4 Laws of projectile motion (China, Senior Physics, Compulsory Book 2) | China, *Senior Physics, Compulsory Book 2*, Ch.5 §4 Laws of projectile motion — printed p. 14 — horizontal and angled launches treated together |
+| Unit 2 Lesson 2, projectiles incl. maximum height | Jordan, *Physics — Grade 10, Term 1 (Student Book)*, Unit 2 Lesson 2, projectiles incl. maximum height — printed p. 57 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China).**
+**Acceptance count: taught in 7 countries (Ethiopia, Bolivia, Sudan, Cambodia, Kuwait, China, Jordan).**
 
 The book prints the gravitation constant check inconsistently (a worked example gives F = 584 N by the gravitation formula and 588 N by mg for the same 60 kg person, presented without comment on the rounding); where this lesson uses those numbers it keeps both exactly as printed.
 

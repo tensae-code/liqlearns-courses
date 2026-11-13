@@ -1,6 +1,6 @@
 # Sources — Fusion — joining light nuclei
 
-countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos, Vietnam, South Sudan, Mozambique, China
+countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos, Vietnam, South Sudan, Mozambique, China, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, 
 
 **Book 16:** *普通高中教科书·物理选择性必修 第三册 (Senior High Physics, Selective Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 3 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 12,278,176 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §4.2 photoelectric effect, printed p.71, lands on PDF p.76). Verdict: COMPLETE — chapters 1–5 through research project (p.132) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 7).
 
+**Book 17:** *Physics — Grade 12, Term 2 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الثاني* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-801-7. First (experimental) edition 1447H/2025; approved by Ministry of Education decision (2025/77) dated 15 Sep 2025, for use from 15 Oct 2025 (school year 2025/2026). Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-2.pdf · Bytes: 50,602,897 (matches release asset size exactly) · PDF pages: 184 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5; Unit 5 printed 7 = PDF 7). Note: this PDF has no separate cover page — it opens on the title page. Verdict: COMPLETE (glossary printed 181–184, the last PDF page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Nuclear fusion and power production | Grade 11 Student Textbook, printed pp. 322–326 |
@@ -55,8 +57,9 @@ countries: Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, 
 | Bài 22 — Fusion (Vietnam, Grade 12) | Vietnam, *Vật lí 12*, Bài 22, Nuclear reactions and binding energy — printed p. 96 |
 
 | Topic 10: nuclear fusion (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 10: nuclear fusion — printed p. 310 |
+| Unit 8 Lesson 3, nuclear fusion and thermonuclear reactions | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 8 Lesson 3, nuclear fusion and thermonuclear reactions — printed p. 169 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos, Vietnam, South Sudan, Mozambique, China).**
+**Acceptance count: taught in 17 countries (Ethiopia, Malaysia, Indonesia, Kenya, Kuwait, Bulgaria, Afghanistan, Bhutan, India, Iran, North Macedonia, Laos, Vietnam, South Sudan, Mozambique, China, Jordan).**
 
 The student book's Unit 7 summary prints K-242 in an end-of-unit question — an implausible isotope label, presumably a misprint; it is not taught here. The Grade 11 Teacher Guide's Unit 7 introduction names the "International Atomic Energy Institute"; the body is the International Atomic Energy Agency — the corrected name is taught, and the guide's wording is named here only.
 

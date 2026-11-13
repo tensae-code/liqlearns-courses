@@ -1,10 +1,12 @@
 # Sources — Errors and error estimation in measurement
 
-countries: Sri Lanka, Vietnam
+countries: Sri Lanka, Vietnam, Jordan
 
 **Book 1:** *Science for Technology: Physics Part I* (student textbook) — Sri Lanka, Educational Publications Department, first edition 2016. Title as printed: தொழினுட்பவியலுக்கான விஞ்ஞானம், பௌதிகவியல் பகுதி – I; G.C.E. (A/L) Technology stream; Educational Publications Department; first edition 2016 (preface dated 2016.05.18). Grade: 12 · Student book (Tamil medium) · Repo path: grade-12/gov/sri-lanka/science-for-technology/textbook/physics-part-1.pdf · Release: mid-size-books-5. Byte size: 25,591,814 · PDF pages: 152 · Offset: printed p. N = PDF p. N+8 (printed p. 1 = PDF p. 9). Verdict: COMPLETE — identity proven by cover/title/imprint; full contents (printed pp. vii–viii) read; Chapter 1 read at its opening. Read basis: contents-anchored read with chapter-opening verification (image-only scan, no text layer). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/sri-lanka-placements.md.
 
 **Book 2:** *Vật lí 10 (Physics 10) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student book · 4th reprint (Tái bản lần thứ tư) · Authors: Vũ Văn Hùng (editor-in-chief), Bùi Gia Thịnh (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-full-year.pdf). Byte size: 26,833,128 (matches record). PDF pages: 142 (record 142). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover, title page, full TOC and interior chapters verified against TOC). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
+**Book 3:** *Physics — Grade 9, Term 1 (Student Book) — الفيزياء، الصف التاسع، كتاب الطالب، الفصل الدراسي الأول* (student book) — Jordan, National Center for Curriculum Development (NCCD), Amman. NCCD new-curriculum edition; approved for all schools of the Hashemite Kingdom of Jordan by Ministry of Education decision dated 19 Jun 2022 (قرار مجلس التربية والتعليم 2022/4). Grade: 9 · Kind: student · Repo path/URL: release asset `grade-09-gov-jordan-physics-student-term-1.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-2/grade-09-gov-jordan-physics-student-term-1.pdf · Bytes: 27,740,195 (matches release asset size exactly) · PDF pages: 98 · Offset: printed page = PDF page − 1 (verified: introduction printed 5 = PDF 6; Unit 1 printed 7 = PDF 8; Lesson 1 printed 10 = PDF 11). Verdict: COMPLETE (ends with glossary printed 92 and references printed 95; PDF pp. 98–99 blank). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -14,8 +16,9 @@ countries: Sri Lanka, Vietnam
 | Sub lesson 3 — Estimating and combining errors | Sri Lanka, *Science for Technology: Physics Part I*, §1.5 — வழு மதிப்பீடு, estimating the error of a measurement — printed p. 30 |
 | Do it first; key ideas; Do It Yourself | Sri Lanka, *Science for Technology: Physics Part I*, as cited in the rows above |
 | Bài 3 — Practice: calculating errors in measurement (NEW tag stocked here) (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 3, Practice: calculating errors in measurement, recording results: direct vs indirect measurement; absolute and relative error; error propagation for sums and for products/quotients (incl. powers); writing A = Ā ± ΔA; plotting results with error boxes — Vietnam's full formal error-analysis lesson, stocked into this lesson, whose combining-errors sub lesson teaches the same rules — printed p. 17 |
+| Unit 1 Lesson 3, errors in measurement | Jordan, *Physics — Grade 9, Term 1 (Student Book)*, Unit 1 Lesson 3, errors in measurement — printed p. 31 — stocked into this shared lesson (built for an earlier country's placement); the Jordan placements file tags it NEW LESSON NEEDED: measurement-errors-systematic-random-and-parallax |
 
-**Acceptance count: taught in 2 countries (Sri Lanka, Vietnam).**
+**Acceptance count: taught in 3 countries (Sri Lanka, Vietnam, Jordan).**
 
 Placement choice, on the record: this NEW LESSON was built for the Sri Lanka placement “Errors and error estimation in measurement” — sri-lanka-placements.md, §1.5 — வழு மதிப்பீடு, estimating the error of a measurement — printed p. 30. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

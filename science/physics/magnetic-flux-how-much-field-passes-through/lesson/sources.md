@@ -1,6 +1,6 @@
 # Sources — Magnetic flux — how much field passes through
 
-countries: Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China
+countries: Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China, Jordan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 8:** *普通高中教科书·物理必修 第三册 (Senior High Physics, Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior (filed grade-12 in the library; Compulsory 3 is the third volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 21,556,582 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §9.2 Coulomb's law, printed p.6, lands on PDF p.11). Verdict: COMPLETE — chapters 9–13 through research project (p.131) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 4).
 
+**Book 9:** *Physics — Grade 12, Term 2 (Student Book, Academic Track) — الفيزياء، الصف الثاني عشر – المسار الأكاديمي، كتاب الطالب، الفصل الدراسي الثاني* (student book, academic track) — Jordan, National Center for Curriculum Development (NCCD), Amman. © HarperCollins Publishers Limited 2025; prepared originally in English for NCCD, Amman; translated to Arabic, adapted and published by NCCD. ISBN 978-9923-41-801-7. First (experimental) edition 1447H/2025; approved by Ministry of Education decision (2025/77) dated 15 Sep 2025, for use from 15 Oct 2025 (school year 2025/2026). Grade: 12 · Kind: student (academic track) · Repo path/URL: release asset `grade-12-gov-jordan-physics-student-term-2.pdf` — https://github.com/tensae-code/liqlearns-textbooks/releases/download/mid-size-books-5/grade-12-gov-jordan-physics-student-term-2.pdf · Bytes: 50,602,897 (matches release asset size exactly) · PDF pages: 184 · Offset: printed page = PDF page (verified: introduction printed 5 = PDF 5; Unit 5 printed 7 = PDF 7). Note: this PDF has no separate cover page — it opens on the title page. Verdict: COMPLETE (glossary printed 181–184, the last PDF page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Magnetic flux | Grade 12 Student Textbook, printed pp. 128–129 |
@@ -30,7 +32,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §30 Magnetic-field induction; lines of magnetic induction (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §30 Magnetic-field induction; lines of magnetic induction — printed p. 208 |
 | §3-7, Electromagnetic induction — magnetic flux (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-7 — printed p. 85 |
 | Bài 16 — Magnetic flux. Electromagnetic induction (Vietnam, Grade 12) | Vietnam, *Vật lí 12*, Bài 16, Magnetic flux. The phenomenon of electromagnetic induction — printed p. 66 |
+| Unit 5 Lesson 3, magnetic flux | Jordan, *Physics — Grade 12, Term 2 (Student Book, Academic Track)*, Unit 5 Lesson 3, magnetic flux — printed p. 43 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China).**
+**Acceptance count: taught in 8 countries (Ethiopia, Bulgaria, Belarus, Iran, Laos, Vietnam, China, Jordan).**
 
 Searchable tags: physics, grade 12, electromagnetism, magnetic flux — how much field passes through, flux, iran, laos
