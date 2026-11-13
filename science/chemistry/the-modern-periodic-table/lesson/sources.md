@@ -1,10 +1,12 @@
 # Sources — The modern periodic table
 
-countries: Ethiopia
+countries: Ethiopia, Palestine
 
 **Book 1:** *Chemistry Textbook, Grade 11* (Student Textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tsegaye Girma (PhD), Abera Gure (PhD). Content editor: Chala Regasa (MSc). Curriculum editor: Taye Hirpassa (BSc, MA). Language editor: Meseret Getnet (PhD). Illustrator: Asresahegn Kassaye (MSc). Designer: Daniel Tesfay (MSc). Evaluators: Tolessa Mergo Roro (BSc, MEd), Nega Gichile (BSc, MA), Sefiw Melesse (MSc). ISBN: 978-99990-0-018-5. Page rule: printed page = PDF page − 10. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g11-student-placements.md.
 
 **Book 2:** *Chemistry Teachers Guide, Grade 11* (Teacher Guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tsegaye Girma (PhD), Abera Gure (PhD). Content editor: Chala Regasa (MSc). Curriculum editor: Taye Hirpassa (BSc, MA). Language editor: Meseret Getnet (PhD). Illustrator: Asresahegn Kassaye (MSc). Designer: Daniel Tesfay (MSc). Evaluators: Tolessa Mergo Roro (BSc, MEd), Nega Gichile (BSc, MA), Sefiw Melesse (MSc). First published August 2023 under GEQIP-E. ISBN: 978-99990-0-022-2. Page rule: printed page = PDF page − 11. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g11-teacher-placements.md.
+
+**Book 3:** *الجدول الدوري للعناصر (Periodic Table poster supplement)* (student supplement) — Palestine. Title as printed: "الجدول الدوري للعناصر / Periodic Table". Grade: Grade 10. Kind: student supplement (single-page wall-chart periodic table). Repo path: grade-10/gov/palestine/chemistry/periodic-table.pdf. Byte size: 175,156 (grab-verified; no size in record). PDF pages: 1; printed-page offset: n/a (poster). Verdict: COMPLETE. Structural summary: A one-page colour periodic table in Arabic: groups labelled IA–VIIIA with transition blocks IIIB–IIB, every element cell carrying atomic number, symbol and atomic mass, lanthanides and actinides below, and an Arabic colour legend separating main-group elements (alkali metals, alkaline earths, other metals, metalloids, nonmetals, halogens, noble gases), transition elements, lanthanides/actinides and synthetic elements. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/palestine-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,8 +14,9 @@ countries: Ethiopia
 | Part 2 — Rows are periods; columns are groups of elements with simila… | Book 1 (Grade 11 Student Textbook), printed pp. 47–48 |
 | Part 3 — The table's order is the organising result of electron struc… | Book 1 (Grade 11 Student Textbook), printed pp. 47–48 |
 | Whole lesson (teacher guide — evidence) | Book 2 (Grade 11 Teacher Guide), printed pp. 1–41 — unit pedagogy, harmonised answers and worked solutions |
+| Whole poster | Book 3 (Grade 10 Periodic Table poster supplement), printed p. 1 — Palestine's way: the table itself is issued as a standalone Arabic-language reference poster for Grade 10, classified by colour into element families rather than printed inside a textbook chapter |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Palestine).**
 
 Pairing warning (carried exactly from the placements): the Grade 11 teacher guide is an EDITION-MATCHED COMPANION to the student textbook (same writers and editors, first published August 2023 under GEQIP-E), with heading-level divergences — (1) the guide's contents list no §1.3.3 "Discovery of the Neutron" heading (the student book has it as its own section); (2) the guide's contents fold Le Chatelier's principle out of the heading list — §5.2.6 is titled "Equilibrium and Industry" where the student book has §5.2.6 Le Chatelier and §5.2.7 Industry; (3) the guide gives "Reactions of aldehydes and ketones" its own heading §6.3.3, which the student contents fold into §6.3; (4) the guide splits carboxylic-acid nomenclature into two headings (§6.4.1/§6.4.2) where the student book has one. The student book's numbering governs; the guide's contents-page numbering is not imported. Book errors are taught corrected and named only here: the guide's contents print "PHYSICAL STATS OF MATTER" for Unit 3, "Itroduction" (§2.1), "Reversible and Rrreversible" (§5.2.1), mislabel the solid state as §3.4.1, garble the Unit 6 contents page numbers, and its body answer text at printed p.204 contains a formula slip "C2H25" in one worked ester answer; the student book's contents headings mislabel the running header "UNIT 1" on contents pp. III and V for Units 3 and 6 matter, and its book-care page prints "Tis textbook" for "This textbook". None of these is reproduced in the teaching text.
 
