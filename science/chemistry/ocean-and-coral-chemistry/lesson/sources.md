@@ -1,0 +1,18 @@
+# Sources — Ocean and coral chemistry
+
+countries: Samoa
+
+**Book 1:** *Chemistry — Year 12 Student Learning Guide (Samoa Chemistry Curriculum, MESC)* (student) — Samoa. Title as printed: "STUDENT LEARNING GUIDE — Samoa Chemistry Curriculum, Year 12" (prepared by Dr David Salter, Dept of Chemistry, University of Auckland; produced by Mahobe Resources NZ Ltd; funded by NZAID under the Samoa Official Development Assistance Programme). Grade: Grade 12 (Year 12). Kind: student (learning guide). Repo path: grade-12/gov/samoa/chemistry/student/full-year.pdf. Byte size: 1,303,361 (grab-verified via tree; no size in record). PDF pages: 62; printed-page offset: printed p. 1 = PDF p. 4. Verdict: COMPLETE. Structural summary: Introduction (why know chemistry; understanding chemistry; using the guide), then Atomic Structure; Quantitative Chemistry; Physical Chemistry (redox, acid–base, precipitation reactions); a long descriptive strand (metals, oxygen and hydrogen, water, nitrogen, ammonia, carbon, sulfur, chlorine); Hydrocarbons and Functional Groups; Food Chemistry (proteins, fats and oils) — Samoan storylines interleaved. Reading note (from the placements): the guide's headings are set in a legacy font whose text layer decodes as a +3 Caesar shift; headings and contents were decoded with that shift, body text is plain. Samoa's way throughout: Samoan storylines (copper-ion toxicity, coral and ocean chemistry, rusting, brewing in Samoa) carry the concepts. Records note: the Year 12 book is a books.json record only — its record source URL is the MESC textbooks listing page, so the book was read via its repo tree path (carried from the placements). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Seawater's carbonate balance | Book 1 (Grade 12), Storyline: Coral Chemistry in the Ocean — printed p. 15 — Samoa's own way: carbonate chemistry of coral and seawater as a storyline |
+| Sub lesson 2 — Coral builds with carbonate | Book 1 (Grade 12), Storyline: Coral Chemistry in the Ocean — printed p. 15 — Samoa's own way: carbonate chemistry of coral and seawater as a storyline |
+| Sub lesson 3 — When the balance tips | Book 1 (Grade 12), Storyline: Coral Chemistry in the Ocean — printed p. 15 — Samoa's own way: carbonate chemistry of coral and seawater as a storyline |
+| Do it first; key ideas; Do It Yourself | Book 1 (Grade 12), Storyline: Coral Chemistry in the Ocean — printed p. 15 |
+
+**Acceptance count: taught in 1 country (Samoa).**
+
+Placement choice, on the record: this NEW LESSON was built for the Samoa placement "NEW LESSON NEEDED: ocean-and-coral-chemistry — Storyline: Coral Chemistry in the Ocean — printed p. 15 — Samoa's own way: carbonate chemistry of coral and seawater as a storyline" — samoa-placements.md. No existing Chemistry lesson covers the carbonate chemistry of coral and seawater as its thing — the neighbouring lessons cover equilibrium in general (Dynamic equilibrium), weak-acid strength (How strong is 'weak'? Ka and Kb), an industrial carbonate (Sodium carbonate — the Solvay process) and carbonate minerals inside the Earth's crust — so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Samoa's own way — the coral storyline carrying the carbonate chemistry, for an island nation whose reefs are built of it — IS part of this lesson's content, carried exactly as the placement describes it. The book is a student learning guide, so this lesson counts toward acceptance normally.
+
+Searchable tags: chemistry, ocean, coral, carbonate, seawater, ocean acidification, calcium carbonate, Samoa Grade 12

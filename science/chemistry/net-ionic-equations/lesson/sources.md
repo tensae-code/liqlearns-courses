@@ -1,14 +1,17 @@
 # Sources — Net ionic equations
 
-countries: Ethiopia
+countries: Ethiopia, Samoa
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
+
+**Book 2:** *Chemistry — Year 12 Student Learning Guide (Samoa Chemistry Curriculum, MESC)* (student) — Samoa. Title as printed: "STUDENT LEARNING GUIDE — Samoa Chemistry Curriculum, Year 12" (prepared by Dr David Salter, Dept of Chemistry, University of Auckland; produced by Mahobe Resources NZ Ltd; funded by NZAID under the Samoa Official Development Assistance Programme). Grade: Grade 12 (Year 12). Kind: student (learning guide). Repo path: grade-12/gov/samoa/chemistry/student/full-year.pdf. Byte size: 1,303,361 (grab-verified via tree; no size in record). PDF pages: 62; printed-page offset: printed p. 1 = PDF p. 4. Verdict: COMPLETE. Structural summary: Introduction (why know chemistry; understanding chemistry; using the guide), then Atomic Structure; Quantitative Chemistry; Physical Chemistry (redox, acid–base, precipitation reactions); a long descriptive strand (metals, oxygen and hydrogen, water, nitrogen, ammonia, carbon, sulfur, chlorine); Hydrocarbons and Functional Groups; Food Chemistry (proteins, fats and oils) — Samoan storylines interleaved. Reading note (from the placements): the guide's headings are set in a legacy font whose text layer decodes as a +3 Caesar shift; headings and contents were decoded with that shift, body text is plain. Samoa's way throughout: Samoan storylines (copper-ion toxicity, coral and ocean chemistry, rusting, brewing in Samoa) carry the concepts. Records note: the Year 12 book is a books.json record only — its record source URL is the MESC textbooks listing page, so the book was read via its repo tree path (carried from the placements). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/samoa-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Net ionic equations | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed pp. 101–103 (section 2.7) |
+| Precipitation Reactions (Samoa, Grade 12) | Book 2 (Grade 12), printed p. 13 — Precipitation reactions and the ionic equations behind them |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Samoa).**
 
 Book errors taught corrected, named here only: the contents misprints "SOLLUTIONS" for Solutions (Unit 2) and lists Unit 6 sections 6.3 and 6.4 both as aromatic hydrocarbons — in the body 6.3 covers alkenes and alkynes and is taught so; the Unit 3 summary repeats its deliquescent-salt sentence twice — taught once; "Phosphorous" is used throughout for the element phosphorus — taught corrected as phosphorus; several Unit 6 review reaction equations are typeset in garbled layout — the reactions are taught from the section text, where they are recoverable.
 
