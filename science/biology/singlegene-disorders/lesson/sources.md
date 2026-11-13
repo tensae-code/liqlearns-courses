@@ -1,20 +1,25 @@
 # Sources — Single-gene disorders
 
-countries: Ethiopia
+countries: Ethiopia, Albania
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
 **Book 2:** Biology, Teachers' Guide, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tesfaye (MA/MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-014-7. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-teacher-placements.md.
 
+**Book 3:** Libër Mësuesi — Biologjia 11 (Teacher's Book, Biology 11; Mediaprint) — Albania. Grade: 11 — Kind: teacher as verified — Repo path (release mid-size-books-2): grade-11-approved-private-albania-biologjia-teacher-libri-i-mesuesit-biologjia-11-mediaprint.pdf — Source: Mediaprint (approved private publisher) — Byte size: 5,619,139 — PDF pages: 172 — Printed-page offset: printed p. = PDF page − 2 (plan at printed p. 4). Verdict: COMPLETE — annual plan, term plans, daily plans, term tests and practical activities all present. Structural summary: The year is organised under three recurring thematics — Ciklet (Cycles), Diversiteti (Diversity), Ndërveprimet (Interactions) — and taught as: reproduction (flowering plants, then humans in unusual completeness: contraception, placenta, pregnancy care, birth, STIs), variation and heredity (DNA, mitosis/meiosis, inheritance patterns, inherited medical disorders, sex determination), variation and selection, then ecology (energy flow, pyramids, decomposition, carbon and water cycles, population factors). TEACHER'S BOOK — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/albania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Single-gene disorders | Student Textbook, Grade 11 — Printed pp. 153–155. |
 | Sub lesson 2 — Added genetic-disorders table — cause, symptom, treatment (teacher guide — evidence) | Teachers' Guide, Grade 11 — Printed pp. 109–110. |
+| Albania's way — Plan: Trashëgimia e çrregullimeve mjekësore (inheritance of medical disorders) (teacher book — evidence) (placement slug: monogenic-disorders-dominant-recessive-and-sexlinked) | Book 3 (Libër Mësuesi — Biologjia 11, teacher's book, Grade 11), printed p. 6 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
 Honesty notes: this Teachers' Guide is a finished publication — first published August 2023, © 2023 FDRE Ministry of Education, ISBN 978-99990-0-014-7, printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23 — and its imprint is cited here as fact. The guide is teacher evidence only: it adds explanations, worked examples and answer keys to the Grade 11 student book; it is never counted as pupil-taught. Guide-only content (for example bird ZW sex determination, Pavlov's and Skinner's experiments in full, and the Wogesha traditional bone-healer investigation) is labelled (teacher guide — evidence) in the table above. The guide's contents numbering diverges from the student book's; lesson numbering follows the student book.
 
-Searchable tags: biology, ethiopia, single, gene, disorders
+Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia 11* (Teacher's Book, Biology 11; Mediaprint), Grade 11 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own yearly plan and numbered daily-plan topic lists (the taught curriculum), cited to the plan pages.
+
+Searchable tags: biology, ethiopia, single, gene, disorders, albania

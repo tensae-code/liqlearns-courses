@@ -1,6 +1,6 @@
 # Sources — Meiosis — halving the chromosomes
 
-countries: Ethiopia, Azerbaijan, Nicaragua, Palestine
+countries: Ethiopia, Azerbaijan, Nicaragua, Palestine, Albania
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Azerbaijan, Nicaragua, Palestine
 
 **Book 5:** العلوم الحياتية — الصف العاشر (Life Sciences, Grade 10; Palestinian Ministry of Education) — Palestine. Grade: 10 — Kind: student as verified — Repo path: grade-10/gov/palestine/life-sciences/full-year.pdf — Byte size: 5,620,184 (record gives no size) — PDF pages: 132 — Printed pages: 126+ (references at printed p. 126); printed-page offset: printed p. = PDF page − 5 approx. (contents at PDF p. 5). Verdict: COMPLETE — four units and the reference list all present. Structural summary: Cell structure and functions (microscopes first, then the genetic material inside the cell — including DNA replication and mutations in Grade 10) → the cell cycle and division (with tumours as a named topic, and crossing over) → human body systems (the four tissues, the reproductive systems with diseases, the urinary system down to the nephron) → classification of living organisms (modern classification, naming, levels, morphological vs genetic classification; the protist and fungi kingdoms, with the positive roles of protists and fungi in daily life). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/palestine-placements.md.
 
+**Book 6:** Libër Mësuesi — Biologjia 11 (Teacher's Book, Biology 11; Mediaprint) — Albania. Grade: 11 — Kind: teacher as verified — Repo path (release mid-size-books-2): grade-11-approved-private-albania-biologjia-teacher-libri-i-mesuesit-biologjia-11-mediaprint.pdf — Source: Mediaprint (approved private publisher) — Byte size: 5,619,139 — PDF pages: 172 — Printed-page offset: printed p. = PDF page − 2 (plan at printed p. 4). Verdict: COMPLETE — annual plan, term plans, daily plans, term tests and practical activities all present. Structural summary: The year is organised under three recurring thematics — Ciklet (Cycles), Diversiteti (Diversity), Ndërveprimet (Interactions) — and taught as: reproduction (flowering plants, then humans in unusual completeness: contraception, placenta, pregnancy care, birth, STIs), variation and heredity (DNA, mitosis/meiosis, inheritance patterns, inherited medical disorders, sex determination), variation and selection, then ecology (energy flow, pyramids, decomposition, carbon and water cycles, population factors). TEACHER'S BOOK — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/albania-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 88–91 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Azerbaijan, Nicaragua, Palestine
 | Azerbaijan's way — Part VII §48: similarity and difference between mitosis and meiosis (placement slug: meiosis-halving-the-chromosomes) | Book 3 (Биология 11, student textbook, Grade 11), Part VII §48, printed p. 182 |
 | Nicaragua's way — Unidad 2.4: La meiosis y la gametogénesis | Book 4 (Biología — Undécimo grado, student textbook, Grade 11), Unidad 2.4, printed p. 65 |
 | Palestine's way — meiotic division and its stages (placement slug: meiosis-halving-the-chromosomes) | Book 5 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 2 Ch. 2 §§1–2: meiotic division and its stages — printed pp. 43–45 |
+| Albania's way — Plan: Ndarja qelizore — Mejoza (cell division — meiosis) (teacher book — evidence) (placement slug: meiosis-halving-the-chromosomes) | Book 6 (Libër Mësuesi — Biologjia 11, teacher's book, Grade 11), printed p. 5 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Azerbaijan, Nicaragua, Palestine).**
+**Acceptance count: taught in 4 countries (Ethiopia, Azerbaijan, Nicaragua, Palestine) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty (Palestine): Book 5 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
@@ -30,4 +33,6 @@ Honesty: the pupil-taught parts above stand on the finished Grade 10 student tex
 
 Honesty (Azerbaijan): Book 3 is a student textbook as verified in the placements — *Биология 11* (Biology 11), the Russian-sector textbook (Şərq-Qərb, Baku, 2018) — so Azerbaijan counts toward acceptance. It is COMPLETE: seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present; 196 PDF pages, printed p. = PDF page − 2. The scan is image-only: the title page, colophon and the full two-page contents were read from page renders, so the placements cite the contents' printed pages.
 
-Searchable tags: biology, azerbaijan, ethiopia, grade 10, meiosis, halving, the, chromosomes, nicaragua, palestine
+Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia 11* (Teacher's Book, Biology 11; Mediaprint), Grade 11 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own yearly plan and numbered daily-plan topic lists (the taught curriculum), cited to the plan pages.
+
+Searchable tags: biology, azerbaijan, ethiopia, grade 10, meiosis, halving, the, chromosomes, nicaragua, palestine, albania
