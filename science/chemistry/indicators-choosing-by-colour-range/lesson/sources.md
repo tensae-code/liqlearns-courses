@@ -6,12 +6,15 @@ countries: Ethiopia
 
 **Book 2:** *Chemistry Teacher's Guide, Grade 12* (Teacher Guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hailu Shiferaw (PhD), Muluken Aklilu (PhD). Content editor: Chala Regasa (MSc). Curriculum editor: Taye Hirpassa (BSc, MA). Language editor: Meseret Getnet (PhD). Illustrator: Asresahegn Kassaye (MSc). Designer: Daniel Tesfay (MSc). Evaluators: Tolessa Mergo Roro (BSc, MEd), Nega Gichile (BSc, MA), Sefiw Melesse (MSc). First published August 2023 under GEQIP-E. © 2023 Ministry of Education. ISBN: 978-99990-0-023-9. Page rule: printed page = PDF page − 7. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g12-teacher-placements.md.
 
+**Book 3 (teacher evidence only):** *CHEMISTRY TEACHING MODULE — FORM 2 — TERM 3* (teacher / teaching module) — Zambia. Title as printed: "CHEMISTRY TEACHING MODULE — FORM 2 — TERM 3" (Republic of Zambia, Ministry of Education, Curriculum Development Centre, Lusaka, 2026). Grade: Grade 8 (Form 2). Kind: teacher (teaching module / teacher guide). Repo path: grade-08/gov/zambia/chemistry/term-3.pdf. Byte size: 2,315,594 (grab-verified; no size in record). PDF pages: 99; printed-page offset: printed p. 1 = PDF p. 16 (front matter i–xv). Verdict: COMPLETE. Structural summary: A single-topic teacher module (Topic 2.5 Acids, Bases and Salts) for the 2024 syllabus, with front matter on how to use the module, learner-centred methods, safety, assessment and competences, then seven sub-topics each with introduction, learner activities, key learning points and assessment guidance (teacher evidence throughout). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/zambia-placements.md. EVIDENCE ONLY: this teacher module is cited as teacher evidence only and is NOT counted toward this lesson's acceptance count; the countries line and acceptance count are unchanged.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Part 1 — An acid–base indicator is a weak acid or base whose two form… | Book 1 (Grade 12 Student Textbook), printed pp. 42–44 |
 | Part 2 — It changes colour over a characteristic pH range — roughly t… | Book 1 (Grade 12 Student Textbook), printed pp. 42–44 |
 | Part 3 — Choose the indicator whose range falls inside the titration'… | Book 1 (Grade 12 Student Textbook), printed pp. 42–44 |
 | Whole lesson (teacher guide — evidence) | Book 2 (Grade 12 Teacher Guide), printed pp. 13–45 — unit pedagogy, harmonised answers and worked solutions |
+| Acid-base indicators (teacher evidence only) | Book 3 (Grade 8 Form 2 Teaching Module), printed p. 46 (Sub-Topic 2.5.5 Acid-Base Indicators) — Indicators and their colour changes used to identify acidic, basic and neutral solutions, including plant-based indicators |
 
 **Acceptance count: taught in 1 country (Ethiopia).**
 
