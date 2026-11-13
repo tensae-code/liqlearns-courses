@@ -1,10 +1,12 @@
 # Sources — Water ionises itself — pH and pOH
 
-countries: Ethiopia
+countries: Ethiopia, Malaysia
 
 **Book 1:** *Chemistry, Student Textbook, Grade 12* (Student Textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hailu Shiferaw (PhD), Muluken Aklilu (PhD). Content editor: Chala Regasa (MSc). Curriculum editor: Taye Hirpassa (BSc, MA). Language editor: Meseret Getnet (PhD). Illustrator: Asresahegn Kassaye (MSc). Designer: Daniel Tesfay (MSc). Evaluators: Tolessa Mergo Roro (BSc, MEd), Nega Gichile (BSc, MA), Sefiw Melesse (MSc). First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). © 2023 Ministry of Education. ISBN: 978-99990-0-019-2. Page rule: printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g12-student-placements.md.
 
 **Book 2:** *Chemistry Teacher's Guide, Grade 12* (Teacher Guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Hailu Shiferaw (PhD), Muluken Aklilu (PhD). Content editor: Chala Regasa (MSc). Curriculum editor: Taye Hirpassa (BSc, MA). Language editor: Meseret Getnet (PhD). Illustrator: Asresahegn Kassaye (MSc). Designer: Daniel Tesfay (MSc). Evaluators: Tolessa Mergo Roro (BSc, MEd), Nega Gichile (BSc, MA), Sefiw Melesse (MSc). First published August 2023 under GEQIP-E. © 2023 Ministry of Education. ISBN: 978-99990-0-023-9. Page rule: printed page = PDF page − 7. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g12-teacher-placements.md.
+
+**Book 3:** *Chemistry — Form 4* (student textbook) — Malaysia. Title as printed: "Chemistry — Form 4" (KSSM textbook, Ministry of Education Malaysia, written to the Form 4 DSKP). Grade: Grade 10 (Form 4). Kind: student. Repo path: release asset grade-10-gov-malaysia-kimia-student-full-year-dlp.pdf (mid-size-books-2). Byte size: 62,079,117 (grab-verified). PDF pages: 292; printed-page offset: printed p. 2 (Chapter 1) = PDF p. 9 approx. (front matter i–viii). Verdict: COMPLETE. Structural summary: Eight chapters under four themes (Importance of Chemistry; Fundamentals of Chemistry; Interaction between Matter; Industrial Chemistry), each chapter closing with an Achievement Test; the book carries AR/QR features, a periodic table and data table of elements, glossary and index. Malaysia's way: every concept is tied to daily life and Malaysian industry, with 21st-century-skills and STEM activities throughout. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/malaysia-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -13,8 +15,9 @@ countries: Ethiopia
 | Part 3 — Neutral water has pH 7; acids sit below 7, bases above… | Book 1 (Grade 12 Student Textbook), printed pp. 15–22 |
 | Whole lesson (teacher guide — evidence) | Book 2 (Grade 12 Teacher Guide), printed pp. 13–45 — unit pedagogy, harmonised answers and worked solutions |
 | Video script | Book 1 (Grade 12 Student Textbook), printed pp. 15–22 — the placements name a worked-example/explainer video-script need for this lesson |
+| Ch. 6.1–6.2 Role of Water; pH Value (Malaysia, Grade 10) | Book 3 (Grade 10), printed pp. 136–143 — Water's role in showing acidic/alkaline properties, then the pH value. |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Malaysia).**
 
 Pairing warning (carried exactly from the placements): the Grade 12 teacher guide is an EDITION-MATCHED COMPANION to the student textbook (same writers and editors, August 2023, GEQIP-E), with small heading divergences — (1) the guide carries a 12-page general INTRODUCTION (printed pp.1–12) with no student-book counterpart; (2) the guide's §4.3 is titled "Classification of Polymer and its Synthesis" where the student book's §4.3 is just "Classification of Polymers"; (3) the guide spells the voltaic section "Voltaic (Galvanic Cells)" where the student contents print "Volatic Cells". One promise inside the guide is NOT kept by its file: the Introduction (printed p.3) says helpful references are listed at the end of the guide, but no reference list appears — recorded in the placements as a book/file debt. The student book's numbering governs. Book errors are taught corrected and named only here: the student book's copyright page mistakenly thanks contributors for "this Teacher Guide"; its cover prints "MINSTRY OF EDUCATION"; its contents print "Ionic Equlibria of Week Acids", "Hydrolysis of Salts of Weak Acids and Week Bases" and "Volatic Cells" (§2.5); Unit 1 outcomes print "Bronsted-Lowery"; the book-care page prints "Tis textbook"; the guide's cover prints "MINSTRY OF EDUCATION" and its contents "INTRODCUTION". None of these is reproduced in the teaching text.
 

@@ -1,6 +1,6 @@
 # Sources — Isomers — same formula, different structure
 
-countries: Ethiopia, Nicaragua, Mongolia, Ecuador, Brazil
+countries: Ethiopia, Nicaragua, Mongolia, Ecuador, Brazil, Malaysia
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nicaragua, Mongolia, Ecuador, Brazil
 
 **Book 5:** *Química, Livro Didático Público, Ensino Médio* (student textbook) — Brazil. Title as printed: Química — Ensino Médio, Livro Didático Público (SEED-PR, Secretaria de Estado da Educação do Paraná, 2ª edição, 2006; collective work of Paraná state-school teachers — "este livro é público"). Grade: Grade 10 (record) — the book serves all of Ensino Médio (Grades 10–12) as a single public textbook. Kind as verified: student textbook. Repo path: release asset grade-10-gov-brazil-chemistry-student-full-year.pdf (mid-size-books). Byte size: 10,760,816. PDF pages: 248; printed-page offset: 0 (printed p. = PDF p.; cataloguing itself states 248 pp.). Verdict: COMPLETE (17 chapters plus periodic-table and standard-potentials appendices, through p. 248). Structure: Brazil's own way — chemistry taught as 17 thematic inquiry chapters ("Folhas") under three structuring contents (Matéria e sua Natureza; Biogeoquímica; Química Sintética), each chapter opening from a daily-life puzzle and building the chemistry by dialogue, experiment and research rather than by systematic topic order. Records deduped: 1 record = 1 distinct book (TSV release URL only) — cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/brazil-placements.md.
 
+**Book 6:** *Chemistry — Form 5* (student textbook) — Malaysia. Title as printed: "Chemistry — Form 5" (KSSM textbook, Ministry of Education Malaysia, DSKP Form 5). Grade: Grade 11 (Form 5). Kind: student. Repo path: release asset grade-11-gov-malaysia-kimia-student-full-year-dlp.pdf (mid-size-books-5). Byte size: 53,049,969 (grab-verified). PDF pages: 212; printed-page offset: printed p. 4 (Ch. 1.1) = PDF p. 10 approx. (front matter i–vi). Verdict: COMPLETE. Structural summary: Five chapters under four themes (Chemical Process; Organic Chemistry; Heat; Technology in Chemistry): Redox Equilibrium; Carbon Compound; Thermochemistry; Polymer; Consumer and Industrial Chemistry — each with Achievement Test, concept maps and HOTS enrichment. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/malaysia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Isomers | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed pp. 252–255 (section 6.2.4) |
@@ -19,8 +21,9 @@ countries: Ethiopia, Nicaragua, Mongolia, Ecuador, Brazil
 | §5.3 Structural isomers, nomenclature (Mongolia, Grade 9) | Book 3 (Grade 9), printed p. 150 — Structural isomerism |
 | Sección 8 (Ecuador, Grade 13) | Book 4 (Grade 13), printed pp. 105, 114 — Isomer formulas completed and compared (similarities/differences); butane vs isobutane structures in the evaluation |
 | Ch. 15 A Química na Farmácia: Remédio (Brazil, Grade 10) | Book 5 (Grade 10), Ch. 15, printed pp. 199–210 — Isomerism in medicines: molecular asymmetry, mirror images and chirality (ears, shoes, shells), lactic acid in sour milk vs tired muscle, limonene R in orange / S in lemon, cis/trans geometric isomers, stereoisomerism's history |
+| Ch. 2.4 Isomers and Naming based on IUPAC Nomenclature (Malaysia, Grade 11) | Book 6 (Grade 11), printed p. 101 — Structural isomers and systematic IUPAC naming. |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Nicaragua, Mongolia, Ecuador, Brazil).**
+**Acceptance count: taught in 6 countries (Ethiopia, Nicaragua, Mongolia, Ecuador, Brazil, Malaysia).**
 
 Book errors taught corrected, named here only: the contents misprints "SOLLUTIONS" for Solutions (Unit 2) and lists Unit 6 sections 6.3 and 6.4 both as aromatic hydrocarbons — in the body 6.3 covers alkenes and alkynes and is taught so; the Unit 3 summary repeats its deliquescent-salt sentence twice — taught once; "Phosphorous" is used throughout for the element phosphorus — taught corrected as phosphorus; several Unit 6 review reaction equations are typeset in garbled layout — the reactions are taught from the section text, where they are recoverable.
 
