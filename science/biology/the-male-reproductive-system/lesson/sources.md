@@ -1,6 +1,6 @@
 # Sources — The male reproductive system
 
-countries: Ethiopia, Morocco, Palestine, France, Albania, Eritrea, Sudan
+countries: Ethiopia, Morocco, Palestine, France, Albania, Eritrea, Sudan, Gabon
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Morocco, Palestine, France, Albania, Eritrea, Sudan
 
 **Book 9:** علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book") — Sudan. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-12-gov-sudan-biology-student-full-year.pdf — Byte size: 24,677,634 — PDF pages: 252 — Printed-page offset: printed p. = PDF page − 7 (Unit Two opener printed p. 128). Verdict: COMPLETE — three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables. Structural summary: Reproduction taught comparatively — asexual first (its characteristics, BENEFITS and DEFECTS debated as headings), then sexual reproduction group by group (Hydra, tapeworms, insects, frog, flowering plants) before a long human-reproduction span. Genetics goes beyond Mendel to modified ratios, multiple alleles, polygenes and two mechanisms of sex determination. The Ecosystem unit's second part is Sudan-specific resource geography: solar, wind and hydro energy exploitation in Sudan, wild animal resources "especially in Sudan", and soil. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 10:** Guide pédagogique Sciences — Grade 5 (CM1 level; IPN Gabon, © EDIG/EDICEF 2024; Assengone Menvie Edith Olga épse Kebila, Moudoki Henri René et al.) — Gabon. Grade: 5 — Kind: teacher as verified — Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf — Byte size: 1,435,808 — PDF pages: 60 — Printed-page offset: none — Verdict: COMPLETE — five paliers, printed pp. 3–60, 18 biology lessons present. Structural summary: The oldest primary year turns to body defences and reproduction: the immune system investigated inquiry-style (what it is, what it is composed of), the nervous system, the great functions of the human body; then a full human-reproduction sequence (female apparatus, male apparatus, puberty, human reproduction); then health and safety — accident prevention, first aid, drugs and their dangers, HIV/AIDS and STIs, the WHO definition of health quoted in the guide; closing with humans and environment, the diversity and evolution of living things, the life of the elephant, plant nutrient needs and food webs. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 84–86 |
@@ -31,8 +33,11 @@ countries: Ethiopia, Morocco, Palestine, France, Albania, Eritrea, Sudan
 | Albania's way — Plan: Riprodhimi te njeriu (reproduction in humans) (teacher book — evidence) (placement slug: the-male-reproductive-system) | Book 7 (Libër Mësuesi — Biologjia 11, teacher's book, Grade 11), printed p. 5 |
 | Eritrea's way — Unit Two: The Reproductive System | Book 8 (Biology for Grade 11 Textbook, student textbook, Grade 11), printed pp. 27–52 |
 | Sudan's way — Unit One §2.11: sexual reproduction in humans (the unit's long closing span) (placement slug: the-male-reproductive-system) | Book 9 (علم الأحياء – الصف الثالث الثانوي, student textbook, Grade 12), Unit One §2.11, printed pp. 95–127 |
+| Gabon's way — Lesson 13: L'appareil génital masculin (teacher guide — evidence) (placement slug: the-male-reproductive-system) | Book 10 (Guide pédagogique Sciences, teacher guide, Grade 5), printed p. 17 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Palestine, France, Eritrea, Sudan) — Morocco's teacher-guide evidence and Albania's teacher-book evidence are named here and counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Palestine, France, Eritrea, Sudan) — Morocco's teacher-guide evidence and Albania's teacher-book evidence and Gabon's teacher-guide evidence are named here and counted nowhere.**
+
+Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 5; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
 Honesty (Eritrea): Book 8 is a student textbook as verified in the placements — *Biology for Grade 11 Textbook* (The State of Eritrea, Ministry of Education), Grade 11, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all six units named in the Introduction are present, ending with Unit Six (Plant Systems) exercises (143 PDF pages). Printed-page offset: printed p. = PDF page − 6; the citations here use the printed pages as the placements file gives them.
 
@@ -50,4 +55,4 @@ Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër 
 
 Honesty (Sudan): Book 9 is a student textbook as verified in the placements — *علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book")*, Grade 12 — so Sudan counts toward acceptance. It is COMPLETE: three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables (252 PDF pages; printed p. = PDF page − 7).
 
-Searchable tags: biology, eritrea, ethiopia, morocco, the, male, reproductive, system, palestine, france, albania, sudan
+Searchable tags: biology, eritrea, ethiopia, morocco, the, male, reproductive, system, palestine, france, albania, sudan, gabon

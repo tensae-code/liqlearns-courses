@@ -1,6 +1,6 @@
 # Sources — Different bodies, different diets
 
-countries: Ethiopia, France, Sudan
+countries: Ethiopia, France, Sudan, Gabon
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia, France, Sudan
 
 **Book 4:** علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book") — Sudan. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-11-gov-sudan-biology-student-full-year.pdf — Byte size: 19,051,757 — PDF pages: 180 — Printed-page offset: printed p. = PDF page − 6 (Unit Two opener printed p. 52). Verdict: COMPLETE — five units: Nutrition, Transport, Respiration, Excretion, Coordination, running to the end of the file. Structural summary: A process-physiology year organised by life process across plants and animals together: nutrition (with malnutrition diseases, photosynthesis factor experiments, and leaf cross-sections cut by the students), transport, respiration, excretion, co-ordination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 5:** Guide pédagogique Sciences — Grade 3 (CE1 level; IPN Gabon, © EDIG/EDICEF 2023; author Mendome Dine Béatrice épse N'No) — Gabon. Grade: 3 — Kind: teacher as verified — Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf — Byte size: 1,385,512 (record gives no size) — PDF pages: 64 — Printed-page offset: none (printed = PDF) — Verdict: COMPLETE — five paliers, printed pp. 3–64, all 15 biology lessons present. Structural summary: Biology at this level is food, the body, plants' needs and health: types of food, balanced meals and rations; animal diets, teeth and food chains; human bones, muscles and joints; what plants need (water and mineral salts, then air and light) and improving harvests; the factors of good health and — very Gabonese — a closing lesson on preventing malaria. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 111–112 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 72–92 |
 | France's way — autotrophs build organic matter from mineral matter; heterotrophs feed on other living things (placement slug: different-bodies-different-diets) | Book 3 (SVT 2de GT — Manuel Libre de Sciences de la vie et de la Terre, student manual, Grade 10), Thème "L'organisation du vivant" / "Le métabolisme des cellules" (chapter synthesis close, read) — repository path as cited in the placements, in place of a printed page, as the placements state |
 | Sudan's way — Unit One objectives: the forms of nutrition in living organisms; autotrophic vs heterotrophic nutrition defined (placement slug: different-bodies-different-diets) | Book 4 (علم الأحياء – الصف الثاني الثانوي, student textbook, Grade 11), Unit One objectives, printed p. 2 |
+| Gabon's way — Lesson 11: Les régimes alimentaires des animaux — animals classed as végétariens and the other diets (teacher guide — evidence) (placement slug: different-bodies-different-diets) | Book 5 (Guide pédagogique Sciences, teacher guide, Grade 3), printed p. 17 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, France, Sudan).**
+**Acceptance count: taught in 3 countries (Ethiopia, France, Sudan) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+
+Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 3; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
 Honesty (France): Book 3 is a student manual as verified in the placements — *SVT 2de GT — Manuel Libre de Sciences de la vie et de la Terre*, Seconde (Les Manuels Libres, DRANE Île-de-France), Grade 10 (Seconde GT) — so France counts toward acceptance. It is COMPLETE as a manual: the full tree was enumerated (1,290 files across 12 tree pages) and the "Ce qu'il faut retenir" synthesis pages were read for the life-science chapters. It is NOT a PDF book and it was NOT downloaded: the secured asset is a 1,428,747,657-byte ZIP archive of the manual's public source repository, read through the repository's public API and raw files (project id 9329, default branch main), so the France row above cites the repository path in place of a printed page, exactly as the placements file states. The manual's earth-science parts — "Érosion — processus et conséquences", "Érosion et activité humaine" and the soil-formation/composition documents of "Caractéristiques des sols" — are DEBT, not placed in Biology, except the soil-biology documents placed where they teach biology.
 
@@ -25,4 +30,4 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Honesty (Sudan): Book 4 is a student textbook as verified in the placements — *علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book")*, Grade 11 — so Sudan counts toward acceptance. It is COMPLETE: five units — Nutrition, Transport, Respiration, Excretion, Coordination — running to the end of the file (180 PDF pages; printed p. = PDF page − 6). The Grade 11 file is a scan circulated by a Sudanese study network (its cover carries that network's stamp); the underlying book is the named ministry text, verified on its unit pages, exactly as the placements record it.
 
-Searchable tags: biology, ethiopia, different, bodies, different, diets, france, sudan
+Searchable tags: biology, ethiopia, different, bodies, different, diets, france, sudan, gabon

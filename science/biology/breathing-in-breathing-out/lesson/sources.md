@@ -1,6 +1,6 @@
 # Sources — Breathing in, breathing out
 
-countries: Ethiopia, Eritrea, Sudan
+countries: Ethiopia, Eritrea, Sudan, Gabon
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia, Eritrea, Sudan
 
 **Book 4:** علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book") — Sudan. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-11-gov-sudan-biology-student-full-year.pdf — Byte size: 19,051,757 — PDF pages: 180 — Printed-page offset: printed p. = PDF page − 6 (Unit Two opener printed p. 52). Verdict: COMPLETE — five units: Nutrition, Transport, Respiration, Excretion, Coordination, running to the end of the file. Structural summary: A process-physiology year organised by life process across plants and animals together: nutrition (with malnutrition diseases, photosynthesis factor experiments, and leaf cross-sections cut by the students), transport, respiration, excretion, co-ordination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 5:** Guide pédagogique Sciences — Grade 4 (CE2 level; IPN Gabon, © EDIG/EDICEF 2024; author Angwe Emane Gabriel et al.) — Gabon. Grade: 4 — Kind: teacher as verified — Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf — Byte size: 1,366,088 — PDF pages: 60 — Printed-page offset: none — Verdict: COMPLETE — five paliers, printed pp. 3–60, 18 biology lessons present. Structural summary: The human body systems first (respiration, circulation, digestion, excretion), then microbes and disease with local problems named in the guide itself (malaria, Covid-19), intestinal worms, vaccination, tuberculosis; then Gabon's environment — deforestation, water and soil pollution, soil erosion, protecting ecosystems; then reproduction: the dog and the fish as lessons (butterfly and frog in the palier's competency frame), and plant reproduction by seeds, cuttings and suckers. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 134–136 |
 | Guide pedagogy for this unit (teacher guide — evidence) | Book 2 (teacher guide), guide printed pp. 73–98 (teacher guide) |
 | Eritrea's way — Unit Five: Respiratory System | Book 3 (Biology for Grade 10 Textbook, student textbook, Grade 10), PDF p. 117 |
 | Sudan's way — Unit Three: gas exchange within the respiration unit (placement slug: breathing-in-breathing-out) | Book 4 (علم الأحياء – الصف الثاني الثانوي, student textbook, Grade 11), Unit Three, printed pp. 95–111 |
+| Gabon's way — Lesson 1: La respiration — respiratory movements and the path of air (teacher guide — evidence) (placement slug: breathing-in-breathing-out) | Book 5 (Guide pédagogique Sciences, teacher guide, Grade 4), printed p. 3 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Sudan).**
+**Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Sudan) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+
+Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 4; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
 Honesty (Eritrea): Book 3 is a student textbook as verified in the placements — *Biology for Grade 10 Textbook* (The State of Eritrea, Ministry of Education), Grade 10, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file (203 PDF pages). Page references are PDF pages of the unit openings; printed pagination runs inside the same sequence.
 
@@ -25,4 +30,4 @@ Honesty: the pupil-taught parts above stand on the finished Grade 10 student tex
 
 Honesty (Sudan): Book 4 is a student textbook as verified in the placements — *علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book")*, Grade 11 — so Sudan counts toward acceptance. It is COMPLETE: five units — Nutrition, Transport, Respiration, Excretion, Coordination — running to the end of the file (180 PDF pages; printed p. = PDF page − 6). The Grade 11 file is a scan circulated by a Sudanese study network (its cover carries that network's stamp); the underlying book is the named ministry text, verified on its unit pages, exactly as the placements record it.
 
-Searchable tags: biology, eritrea, ethiopia, grade 10, breathing, in, breathing, out, sudan
+Searchable tags: biology, eritrea, ethiopia, grade 10, breathing, in, breathing, out, sudan, gabon

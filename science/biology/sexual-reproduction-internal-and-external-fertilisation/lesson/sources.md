@@ -1,6 +1,6 @@
 # Sources — Sexual reproduction — internal and external fertilisation
 
-countries: Ethiopia, Morocco, Azerbaijan, Sudan
+countries: Ethiopia, Morocco, Azerbaijan, Sudan, Gabon
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Morocco, Azerbaijan, Sudan
 
 **Book 5:** علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book") — Sudan. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-12-gov-sudan-biology-student-full-year.pdf — Byte size: 24,677,634 — PDF pages: 252 — Printed-page offset: printed p. = PDF page − 7 (Unit Two opener printed p. 128). Verdict: COMPLETE — three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables. Structural summary: Reproduction taught comparatively — asexual first (its characteristics, BENEFITS and DEFECTS debated as headings), then sexual reproduction group by group (Hydra, tapeworms, insects, frog, flowering plants) before a long human-reproduction span. Genetics goes beyond Mendel to modified ratios, multiple alleles, polygenes and two mechanisms of sex determination. The Ecosystem unit's second part is Sudan-specific resource geography: solar, wind and hydro energy exploitation in Sudan, wild animal resources "especially in Sudan", and soil. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
 
+**Book 6:** Guide pédagogique Sciences — Grade 4 (CE2 level; IPN Gabon, © EDIG/EDICEF 2024; author Angwe Emane Gabriel et al.) — Gabon. Grade: 4 — Kind: teacher as verified — Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf — Byte size: 1,366,088 — PDF pages: 60 — Printed-page offset: none — Verdict: COMPLETE — five paliers, printed pp. 3–60, 18 biology lessons present. Structural summary: The human body systems first (respiration, circulation, digestion, excretion), then microbes and disease with local problems named in the guide itself (malaria, Covid-19), intestinal worms, vaccination, tuberculosis; then Gabon's environment — deforestation, water and soil pollution, soil erosion, protecting ecosystems; then reproduction: the dog and the fish as lessons (butterfly and frog in the palier's competency frame), and plant reproduction by seeds, cuttings and suckers. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Sexual reproduction, fertilisation and early development | Student Textbook, Grade 11 — Printed pp. 26–28. |
@@ -19,8 +21,11 @@ countries: Ethiopia, Morocco, Azerbaijan, Sudan
 | Morocco's way — male, female, gametes, fertilisation, development and the development cycle, deepened from primary level “avec la dimension cellulaire” for collège (teacher guide — evidence) | Book 3 (Guide Almoufid SVT, teacher's guide, Grade 8), printed pp. 54–56 |
 | Azerbaijan's way — Part VI §§36–37: embryonic development of chordates; embryonic development of the human (placement slug: milestones-of-baby-development) | Book 4 (Биология 11, student textbook, Grade 11), Part VI §§36–37, printed pp. 138–140 |
 | Sudan's way — Unit One §2: sexual reproduction — characteristics, benefits, defects, its two methods, life cycles (placement slug: sexual-reproduction-internal-and-external-fertilisation) | Book 5 (علم الأحياء – الصف الثالث الثانوي, student textbook, Grade 12), Unit One §2, printed pp. 9–30 |
+| Gabon's way — Lesson 31: La reproduction animale (1) : le chien; Lesson 34: (2) : le poisson (teacher guide — evidence) (placement slug: sexual-reproduction-internal-and-external-fertilisation) | Book 6 (Guide pédagogique Sciences, teacher guide, Grade 4), printed pp. 40 and 44 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Azerbaijan, Sudan) — Morocco's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Azerbaijan, Sudan) — Morocco's teacher-guide evidence and Gabon's teacher-guide evidence are named here and counted nowhere.**
+
+Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 4; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
@@ -32,4 +37,4 @@ Honesty (Azerbaijan): Book 4 is a student textbook as verified in the placements
 
 Honesty (Sudan): Book 5 is a student textbook as verified in the placements — *علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book")*, Grade 12 — so Sudan counts toward acceptance. It is COMPLETE: three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables (252 PDF pages; printed p. = PDF page − 7).
 
-Searchable tags: biology, azerbaijan, ethiopia, morocco, sexual, reproduction, internal, and, external, fertilisation, sudan
+Searchable tags: biology, azerbaijan, ethiopia, morocco, sexual, reproduction, internal, and, external, fertilisation, sudan, gabon

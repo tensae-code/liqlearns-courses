@@ -1,6 +1,6 @@
 # Sources — Cardiac, skeletal and smooth muscle
 
-countries: Ethiopia, Egypt, Eritrea
+countries: Ethiopia, Egypt, Eritrea, Gabon
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -8,13 +8,18 @@ countries: Ethiopia, Egypt, Eritrea
 
 **Book 3:** Biology for Grade 11 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-5), grade-11-gov-eritrea-biology-student-full-year.pdf — Byte size: 10,367,822 — PDF pages: 143 — Printed-page offset: printed p. = PDF page − 6 (Unit Six exercises at printed p. 137). Verdict: COMPLETE — all six units named in the Introduction present, ending with Unit Six (Plant Systems) exercises. Structural summary: Endocrine system → reproductive system → skeletal system → muscular system → homeostasis (temperature, water balance via hypothalamus–pituitary–ADH, rest) → plant systems (growth, meristems, differentiation, determinate/indeterminate growth). Homeostasis is a whole unit here, not a section. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 4:** Guide pédagogique Sciences — Grade 3 (CE1 level; IPN Gabon, © EDIG/EDICEF 2023; author Mendome Dine Béatrice épse N'No) — Gabon. Grade: 3 — Kind: teacher as verified — Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf — Byte size: 1,385,512 (record gives no size) — PDF pages: 64 — Printed-page offset: none (printed = PDF) — Verdict: COMPLETE — five paliers, printed pp. 3–64, all 15 biology lessons present. Structural summary: Biology at this level is food, the body, plants' needs and health: types of food, balanced meals and rations; animal diets, teeth and food chains; human bones, muscles and joints; what plants need (water and mineral salts, then air and light) and improving harvests; the factors of good health and — very Gabonese — a closing lesson on preventing malaria. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Three types of muscle | Student Textbook, Grade 11 — Printed pp. 177–178. |
 | Egypt's way — voluntary muscles (skeletal, striated, under the control of the will) vs involuntary muscles, within the three-systems coordination frame (skeletal, nervous, muscular) (placement slug: cardiac-skeletal-and-smooth-muscle) | Book 2 (BIOLOGY, student textbook, Grade 12), Ch. 1, printed p. 17 |
 | Eritrea's way — Unit Four: The Muscular System | Book 3 (Biology for Grade 11 Textbook, student textbook, Grade 11), printed pp. 75–82 |
+| Gabon's way — Lesson 24: Les muscles du corps humain (teacher guide — evidence) (placement slug: how-muscles-move-the-body) | Book 4 (Guide pédagogique Sciences, teacher guide, Grade 3), printed p. 34 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Eritrea).**
+**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Eritrea) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+
+Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 3; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
 Honesty (Eritrea): Book 3 is a student textbook as verified in the placements — *Biology for Grade 11 Textbook* (The State of Eritrea, Ministry of Education), Grade 11, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all six units named in the Introduction are present, ending with Unit Six (Plant Systems) exercises (143 PDF pages). Printed-page offset: printed p. = PDF page − 6; the citations here use the printed pages as the placements file gives them.
 
@@ -22,4 +27,4 @@ Honesty (Egypt): Book 2 is a student textbook as verified in the placements — 
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, eritrea, ethiopia, cardiac, skeletal, and, smooth, muscle, egypt
+Searchable tags: biology, eritrea, ethiopia, cardiac, skeletal, and, smooth, muscle, egypt, gabon
