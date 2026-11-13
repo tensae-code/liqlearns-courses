@@ -1057,6 +1057,8 @@ solar-system comparison lessons.
 
 367. **The biogenetic law and developmental patterns** (`biology/the-biogenetic-law-and-developmental-patterns`) — in its individual development (ontogeny), an organism briefly repeats the stages its group passed through in its evolutionary history (phylogeny) — the biogenetic law, stated as a law at the close of the development chapter, after the embryonic and postembryonic periods (Uzbekistan, Grade 9 — *Биология — Основы цитологии и генетики (Biology: Fundamentals of Cytology and Genetics)*, student textbook, Part IV Ch. 10 §42, printed p. 101)
 
+368. **Food security and climate hazards** (`biology/food-security-and-climate-hazards`) — the world population's food supply taught as a biology topic, closing the Grade 9 nutrition sequence, with drought and flood hazards (ган гачиг, үер усны аюул) named as the dangers that cut it (Mongolia, Grade 9 — *Биологи IX (Biology, Grade 9)*, student textbook, Ch. 2 §2.2.4, printed p. 37)
+
 ## Unit 18 — Physics
 
 1. **A current makes a magnetic field** (`physics/a-current-makes-a-magnetic-field`) — current creates magnetism — A compass needle turns beside a current-carrying wire: current makes a circular magnetic field (B = μ₀I/2πr for a long straight wire), quantified by …
