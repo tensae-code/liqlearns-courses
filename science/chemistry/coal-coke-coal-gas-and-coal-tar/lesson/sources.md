@@ -1,18 +1,21 @@
 # Sources — Coal — coke, coal gas and coal tar
 
-countries: Ethiopia
+countries: Ethiopia, Greece
 
 **Book 1:** *Chemistry, Student Textbook, Grade 10* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-017-8. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-student-placements.md.
 
 **Book 2:** *Chemistry, Teacher's Guide, Grade 10* (teacher's guide) — Ethiopia. Chemistry, Teacher's Guide, Grade 10. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Alemayehu Paulos (Ph.D.), Adelew Estifanos (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun Nigusie (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). Evaluators: Amare Aregahegn Dubale (Ph.D.) (Reviewer), Nega Gichile, Sefiw Melesse, Tolessa Mergo. First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN is printed on the guide's copyright page. Companion to the Grade 10 Student Textbook (first published August 2023; ISBN 978-99990-0-017-8). Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g10-teacher-placements.md.
 
+**Book 3:** *Χημεία Γ΄ Γυμνασίου (Chemistry, Grade 9) — Vivlio Mathiti* (student textbook) — Greece. Title as printed: Χημεία Γ΄ Γυμνασίου (Theodoropoulos, Papatheofanous, Sideri); publisher ΙΤΥΕ «Διόφαντος», book code 21-0161, ISBN 978-960-06-2782-4. Grade: 9 (G' Gymnasiou). Kind as verified: student textbook. Repo path: grade-09/gov/greece/chemistry/full-year.pdf (duplicate record: TSV release mid-size-books/grade-09-gov-greece-chemistry-full-year.pdf — same book, identical byte size, placed once). Byte size: 14,370,896 (matches books.json record exactly). PDF pages: 114. Printed-page offset: printed = PDF − 1. Verdict: COMPLETE. Three units run in full to glossary (printed p. 109) and bibliography (printed p. 111). Structure: Unit 1 is acids–bases–salts with pH and everyday applications; Unit 2 classifies the elements (periodic table, alkalis, metals, carbon, silicon, halogens); Unit 3 is carbon chemistry (hydrocarbons, petroleum and polymers, ethanol, carbohydrates–proteins–fats). Each chapter opens with daily-life links and goals, teaches through experiments, and closes with "It is a matter of… Chemistry" everyday-life readings — the Greek way of anchoring every topic in daily life. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/greece-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Coal | Ethiopia, *Chemistry, Student Textbook, Grade 10*, Printed p. 294 (within section 6.5) |
+| Unit 2 Ch.4 Ο άνθρακας (Greece, Grade 9) | Book 3 (Grade 9), Unit 2 Ch.4 Ο άνθρακας — printed p. 65 — Carbon: natural carbons (diamond, graphite, fossil carbons incl. Greek lignite, p. 72) and artificial carbons; carbonates; cement and concrete (p. 67). |
 
 | Coal as impure carbon (teacher guide — evidence) | Ethiopia, *Chemistry, Teacher's Guide, Grade 10*, Appendix syllabus, printed p. 312 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Greece).**
 
 Book errors taught corrected, named here only: the contents misprints "SOLLUTIONS" for Solutions (Unit 2) and lists Unit 6 sections 6.3 and 6.4 both as aromatic hydrocarbons — in the body 6.3 covers alkenes and alkynes and is taught so; the Unit 3 summary repeats its deliquescent-salt sentence twice — taught once; "Phosphorous" is used throughout for the element phosphorus — taught corrected as phosphorus; several Unit 6 review reaction equations are typeset in garbled layout — the reactions are taught from the section text, where they are recoverable.
 
