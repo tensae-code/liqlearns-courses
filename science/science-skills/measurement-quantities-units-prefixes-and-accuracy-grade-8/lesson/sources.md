@@ -1,16 +1,19 @@
 # Sources — Measurement — quantities, units, prefixes, accuracy and precision (Grade 8)
 
-countries: Ethiopia
+countries: Ethiopia, Cuba (programme/teacher-guide evidence only)
 
 **Book 1:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp. Printed page = PDF page (1:1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
+
+**Book 2:** *Orientaciones metodológicas: Física — octavo grado* (methodological orientations — teacher-guide evidence, NOT a student book, cited as it is) — Cuba, Ministerio de Educación, Cuba, 2024; Editorial Pueblo y Educación; ISBN 978-959-13-4782-4 (digital). Grade: 8 · Kind: teacher (methodological guide to the 2024 programme and student book) · Repo path: grade-08/gov/cuba/fisica/teacher/orientaciones.pdf — NOTE: the TSV row for this title points at a different release asset (grade-08-gov-cuba-educacion-fisica-teacher-orientaciones.pdf, 5,877,231 bytes); the Physics guide is the separate asset grade-08-gov-cuba-fisica-teacher-orientaciones.pdf used here — TSV link/title mismatch = library debt, carried on the record · Byte size: 6,087,413 (release asset, mid-size-books-3, verified against asset index) · PDF pages: 262 · Offset: printed p. = PDF p. − 5 approx. (printed 253 ≈ PDF 258). Verdict: COMPLETE — index and all five unit treatments read; cover visually verified as Física, octavo grado. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 4).
 
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Indigenous or modern? Quantities and their units (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8* (teacher guide — evidence), printed pp. 9–13 |
 | Sub lesson 2 — Prefixes and conversions (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8* (teacher guide — evidence), printed pp. 13–17 |
 | Sub lesson 3 — Accuracy and precision (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8* (teacher guide — evidence), printed pp. 13, 16–17 |
+| Unit 1 treatment: measurement taught through the International Vocabulary of Metrology (VIM) concepts, direct/indirect measurement and uncertainty sources — printed pp. 28–40 — Cuba's metrology-first framing is its own way (teacher-guide evidence) (Cuba, Grade 8 methodological guide) | Cuba, *Orientaciones metodológicas: Física — octavo grado (Grade 8 methodological orientations)*, Unit 1 treatment: measurement taught through the International Vocabulary of Metrology (VIM) concepts, direct/indirect measurement and uncertainty sources — printed pp. 28–40 — Cuba's metrology-first framing is its own way |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia), named here, counted nowhere.**
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Ethiopia, Cuba), named here, counted nowhere.**
 
 Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — it teaches a §1.1 measurement section the student book lacks; guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

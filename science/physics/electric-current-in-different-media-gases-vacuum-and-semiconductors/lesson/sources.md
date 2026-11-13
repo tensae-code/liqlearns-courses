@@ -1,6 +1,6 @@
 # Sources — Electric current in different media — gases, vacuum and semiconductors
 
-countries: Mongolia, Belarus, Moldova, Libya
+countries: Mongolia, Belarus, Moldova, Libya, Cuba
 
 **Book 1:** *Физик XI* (student textbook) — Mongolia. Title as printed: ФИЗИК XI — Grade 11 textbook of the 12-year school; authors M. Ganbat, Sh. Chadraabal, O. Altangoo et al.; Ministry approval; 3rd edition (bibliographic record: Ulaanbaatar 2017, 148 pp.) Grade: Grade 11 · student · recorded size 10,859,195 bytes — **download matched EXACTLY; pdfinfo 151 pages**. Route used: https://econtent.edu.mn/content/11rangi/fizik/fizik-269.pdf (recorded page id=269). Verdict: COMPLETE (full text read; contents at PDF p. 5). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -10,6 +10,8 @@ countries: Mongolia, Belarus, Moldova, Libya
 
 **Book 4:** *الفيزياء كتاب الطالب، الجزء الأول — Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Student book (third secondary year, Science stream; Arabic medium) · Repo path: grade-12/gov/libya/physics/student-book-part-1.pdf (TSV route: release asset grade-12-gov-libya-physics-student-book-part-1.pdf, mid-size-books-3). Byte size: 10,169,298 (release asset, verified) · PDF pages: 177 · Offset: printed p. = PDF p. − 5 approx. Verdict: COMPLETE for Part 1 — 9 units plus answers (printed p. 172); read from the full text layer and printed contents. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 5:** *Física Parte 2 — onceno grado* (student textbook, Part 2 of the two-part set begun in Part 1; pagination is continuous with Part 1) — Cuba, 10th reprint 2013 of the 1990 edition (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990); ISBN 978-959-13-0713-2 (complete work), 978-959-13-0715-6 (Part 2). Biblioteca CubaEduca item/246. Grade: 11 · Kind: student (Part 2) · Repo path: grade-11/gov/cuba/fisica/student/part-2-2013.pdf (release asset grade-11-gov-cuba-fisica-student-part-2-2013.pdf, mid-size-books-7) · Byte size: 27,033,131 (release asset, verified) · PDF pages: 225 · Offset: printed p. = PDF p. + 140 (printed 146 = PDF 6). Image-only print file; read via page sheets. Verdict: COMPLETE for Part 2 — index runs Ch. 5 (p. 146) to Ch. 10 and answers to chapter tasks (p. 360). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 13).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Mongolia, *Физик XI*, §3.3 Орчин дахь цахилгаан гүйдэл — printed p. 89 |
@@ -18,11 +20,12 @@ countries: Mongolia, Belarus, Moldova, Libya
 | Sub lesson 3 — Current in semiconductors — electrons and holes, engineered | Mongolia, *Физик XI*, §3.3 Орчин дахь цахилгаан гүйдэл — printed p. 89 |
 | Do it first; key ideas; Do It Yourself | Mongolia, *Физик XI*, §3.3 Орчин дахь цахилгаан гүйдэл — printed p. 89 |
 | Ch. VI §6.5: current in vacuum — thermionic emission, the vacuum diode and triode, the electron-beam tube (*) (Moldova, Grade 11) — stocked into this existing shared lesson per the Moldova merge; the placements file tags it NEW LESSON NEEDED: Thermionic emission and the electron beam — vacuum diodes, triodes and the cathode-ray tube | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. VI §6.5: current in vacuum — thermionic emission, the vacuum diode and triode, the electron-beam tube (*) — printed pp. 239, 242 |
+| Ch. 6: current in metals (pp. 160–167), in gases (pp. 168–176), in semiconductors (pp. 180–194), semiconductor applications (pp. 195–201) — the media-by-media comparison is the 1990 edition's organising way (Cuba, Grade 11, Part 2) | Cuba, *Física Parte 2 — onceno grado (Grade 11 student book, Part 2, 2013)*, Ch. 6: current in metals (pp. 160–167), in gases (pp. 168–176), in semiconductors (pp. 180–194), semiconductor applications (pp. 195–201) — the media-by-media comparison is the 1990 edition's organising way |
 
 | §26 Current in gases; discharges; plasma — tagged NEW LESSON NEEDED in belarus-placements.md and stocked into this existing shared lesson per the Belarus merge brief (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §26 Current in gases; discharges; plasma — printed p. 185 |
 | U8 §§8-1–8-2: electrons and how they are produced; investigating the properties of electrons (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U8 §§8-1–8-2: electrons and how they are produced; investigating the properties of electrons — printed pp. 134–135 |
 
-**Acceptance count: taught in 4 countries (Mongolia, Belarus, Moldova, Libya).**
+**Acceptance count: taught in 5 countries (Mongolia, Belarus, Moldova, Libya, Cuba).**
 
 Placement choice, on the record: this NEW LESSON was built for the Mongolia placement “Electric current in different media — gases, vacuum and semiconductors” — mongolia-placements.md, Book 5 (Физик XI), §3.3 Орчин дахь цахилгаан гүйдэл — printed p. 89. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

@@ -1,6 +1,6 @@
 # Sources — The cathode ray tube and oscilloscope
 
-countries: Uganda, Kenya, Yemen, Libya, South Sudan
+countries: Uganda, Kenya, Yemen, Libya, South Sudan, Cuba
 
 **Book 1:** *Physics Home-Study Learning — Senior Four (NCDC, 2020)* (student self-study book) — Uganda, National Curriculum Development Centre, Uganda, August 2020 · ISBN 978-9970-00-199-6 — COVID-19 home-study material for Terms 2 and 3. Title as printed: Physics Home-Study Learning — Senior Four. Grade: Senior Four (Grade 11) · Student (self-study) book · Repo path: grade-11/gov/uganda/physics/student/home-study.pdf (release asset: mid-size-books-2). Byte size: 6,924,932 (release index size = downloaded) · PDF pages: 65 (= books.json recorded pages) · Offset: chapters at PDF pp. 7–60. Verdict: COMPLETE — the full Term 2 + Term 3 self-study booklet, 8 chapters. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uganda-placements.md. Library gap, carried on the record: Senior Two Physics is absent from the library records entirely (no S2 Physics book recorded).
 
@@ -16,6 +16,8 @@ countries: Uganda, Kenya, Yemen, Libya, South Sudan
 
 **Book 7:** *Physics Secondary 4 — Teacher's Guide* (teacher's guide) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Teacher's guide · Repo path: grade-12/gov/south-sudan/physics/teacher/full-year.pdf (release asset: mid-size-books-2). Bytes: 6,084,056 (release index size = downloaded) · PDF pages: 131 · Offset: printed p. 1 ≈ PDF p. 6 (printed = PDF − 5). Verdict: COMPLETE — Part 1 introduction + topic-to-topic guide for all 7 units / 10 topics, Topic 10 at printed p. 114. Read method: image-only PDF — read via 100-DPI 4-up sheets. Its rows below are the guide's teaching-way layer over the student topics; South Sudan is counted in this lesson through the companion Student's Book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 8:** *Física Parte 2 — onceno grado* (student textbook, Part 2 of the two-part set begun in Part 1; pagination is continuous with Part 1) — Cuba, 10th reprint 2013 of the 1990 edition (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990); ISBN 978-959-13-0713-2 (complete work), 978-959-13-0715-6 (Part 2). Biblioteca CubaEduca item/246. Grade: 11 · Kind: student (Part 2) · Repo path: grade-11/gov/cuba/fisica/student/part-2-2013.pdf (release asset grade-11-gov-cuba-fisica-student-part-2-2013.pdf, mid-size-books-7) · Byte size: 27,033,131 (release asset, verified) · PDF pages: 225 · Offset: printed p. = PDF p. + 140 (printed 146 = PDF 6). Image-only print file; read via page sheets. Verdict: COMPLETE for Part 2 — index runs Ch. 5 (p. 146) to Ch. 10 and answers to chapter tasks (p. 360). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 13).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Chapter: Electrons and X-Rays — cathode rays, CRO lessons — PDF p. 48 |
@@ -23,6 +25,7 @@ countries: Uganda, Kenya, Yemen, Libya, South Sudan
 | Sub lesson 2 — The cathode ray tube — gun, deflection and screen | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Chapter: Electrons and X-Rays — cathode rays, CRO lessons — PDF p. 48 |
 | Sub lesson 3 — The oscilloscope — measuring with the trace | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Chapter: Electrons and X-Rays — cathode rays, CRO lessons — PDF p. 48 |
 | Do it first; key ideas; Do It Yourself | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Chapter: Electrons and X-Rays — cathode rays, CRO lessons — PDF p. 48 |
+| Ch. 6 §6.4: electron beams, the cathode-ray tube — printed pp. 177–179 — dropped from the 2024 edition (Cuba, Grade 11, Part 2) | Cuba, *Física Parte 2 — onceno grado (Grade 11 student book, Part 2, 2013)*, Ch. 6 §6.4: electron beams, the cathode-ray tube — printed pp. 177–179 — dropped from the 2024 edition |
 
 | Ch 7: thermionic emission, cathode ray oscilloscope, the television tube (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 7: thermionic emission, cathode ray oscilloscope, the television tube — printed p. 131 (stocked into this existing shared lesson per the Kenya merge brief; the placements file tags it NEW LESSON NEEDED) |
 | U4 Electronic devices: conduction in gases (printed p. 87), the cathode-ray tube (printed p. 89), the oscilloscope (printed p. 90) — the cathode-ray tube / oscilloscope / gas-discharge strands of the devices placement (Yemen, Grade 12) — stocked into this existing shared lesson per the Yemen merge brief; the placements file tags it NEW LESSON NEEDED: Electronic devices — cathode-ray tube, oscilloscope and television; the radar strand (printed p. 92) is NOT double-placed here — it stays counted in physics/radar-seeing-with-radio-waves via this note, exactly as the placements file directs | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U4 Electronic devices: conduction in gases (printed p. 87), the cathode-ray tube (printed p. 89), the oscilloscope (printed p. 90) — the cathode-ray tube / oscilloscope / gas-discharge strands of the devices placement — printed p. 85 |
@@ -32,7 +35,7 @@ countries: Uganda, Kenya, Yemen, Libya, South Sudan
 | Topic 9: cathode rays, C.R.O. construction and uses — a full unit (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 9: cathode rays, C.R.O. construction and uses — a full unit — printed p. 252 |
 | Topic 9 Cathode ray tube (guide) (South Sudan, Secondary 4 (Grade 12) — teacher's guide) | South Sudan, *Physics Secondary 4 — Teacher's Guide*, Topic 9 Cathode ray tube (guide) — printed p. 105 |
 
-**Acceptance count: taught in 5 countries (Uganda, Kenya, Yemen, Libya, South Sudan).**
+**Acceptance count: taught in 6 countries (Uganda, Kenya, Yemen, Libya, South Sudan, Cuba).**
 
 Placement choice, on the record: this NEW LESSON was built for the Uganda placement "The cathode ray tube and oscilloscope" — uganda-placements.md, Book 4, Chapter: Electrons and X-Rays, PDF p. 48. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics) beside the X-ray lessons. Library gap: Senior Two Physics is absent from the library records entirely.
 

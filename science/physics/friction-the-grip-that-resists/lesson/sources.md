@@ -1,6 +1,6 @@
 # Sources — Friction — the grip that resists
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Finland (instructor-pack evidence only), Slovenia, Uganda, Cambodia (private-booklet evidence only), Afghanistan, Belarus, Bhutan, North Macedonia, Laos, Moldova, Libya, China
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Finland (instructor-pack evidence only), Slovenia, Uganda, Cambodia (private-booklet evidence only), Afghanistan, Belarus, Bhutan, North Macedonia, Laos, Moldova, Libya, China, Cuba (programme/teacher-guide evidence only)
 
 **Book 1:** *Physics, Student Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, 2023, 174 printed pp. Printed page = PDF page − 7. Contributors: Menberu Mengesha (PhD), Writer; Nebiyu Gemechu (PhD), Writer; Moges Tsega (PhD), Content Editor; Samuel Asefa (PhD), Curriculum Editor; Felekech G/Egziabher (PhD), Language Editor; Umer Nuri (MSc), Illustrator; Derese Tekestebrihan (PhD fellow), Book Designer. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-032-1. Imprint page dated 2023. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g09-student-placements.md.
 
@@ -42,6 +42,8 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Finland (instructor
 
 **Book 20:** *义务教育教科书 物理 八年级 下册 (Compulsory Education Physics, Grade 8, Volume 2)* (student book) — China, PEP (People's Education Press), 2012-edition junior series printing. GRADE MISLABELLED IN THE RECORD, carried honestly: the record's path (grade-07/gov/china/physics/full-year.pdf) is wrong on both grade and volume — China has no Grade 7 physics, and this book is really Grade 8, second volume (下册), the spring-term half of Grade 8, holding Chapters 7–12 (Chapters 1–6 are Volume 1, which is NOT in the secured set). Repo path: grade-07/gov/china/physics/full-year.pdf (contents-API route via curl; no recorded byte size existed for this record). Byte size: 9,580,390 (downloaded file; nothing recorded to match). PDF pages: 96. Offset: PDF page = printed page + 4 (proven: PDF p.49 carries printed folio 45, Ch.9 §4). Verdict: COMPLETE — image-only PDF, read visually: cover, full printed contents (PDF pp. 3–4) and chapter openers verified. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 8).
 
+**Book 21:** *Programa: Física — octavo grado* (curriculum programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Cuba, Ministerio de Educación, Cuba, 2024; Editorial Pueblo y Educación; ISBN 978-959-13-4740-4 (digital). Third Perfeccionamiento (curriculum reform) series. Grade: 8 · Kind: teacher (curriculum programme) · Repo path: grade-08/gov/cuba/fisica/teacher/full-year.pdf · Byte size: 297,865 (matches books.json record; staging copy used) · PDF pages: 22 · Offset: printed p. = PDF p. − 3 (printed 1 = PDF 4). Verdict: COMPLETE — full programme read, printed pp. 1–17 + bibliography. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 1).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The teaching — Friction — the grip that resists | Ethiopia, *Grade 9 Student Textbook*, printed pp. 73 |
@@ -54,6 +56,7 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Finland (instructor
 | Ch. 2 §2.6: the friction force (Moldova, Grade 7) | Moldova, *Fizică: Manual pentru clasa a VII-a, Ediția a V-a (Physics: Textbook for Grade 7, 5th edition)*, Ch. 2 §2.6: the friction force — printed p. 49 |
 | Ch.3 §2 Friction (China, Senior Physics, Compulsory Book 1) | China, *Senior Physics, Compulsory Book 1*, Ch.3 §2 Friction — printed p. 63 — static vs sliding friction measured, not just stated |
 | Ch.8 §3 Friction (摩擦力) (China, Grade 8 Physics, Volume 2 (recorded as “Grade 7”)) | China, *Grade 8 Physics, Volume 2 (recorded as “Grade 7”)*, Ch.8 §3 Friction (摩擦力) — printed p. 23 — factors of sliding friction measured with the spring balance |
+| Unit 2: sliding friction demonstration, factors it depends on — printed p. 9 (programme evidence) (Cuba, Grade 8 programme) | Cuba, *Programa: Física — octavo grado (Grade 8 programme)*, Unit 2: sliding friction demonstration, factors it depends on — printed p. 9 |
 
 | Ch 4: friction between surfaces, factors, advantages and disadvantages (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 4 — printed p. 73 |
 | Friction (Uganda, Senior Three home-study) | Uganda, *Physics Home-Study Learning — Senior Three (NCDC, 2020)*, Friction — PDF p. 23 |

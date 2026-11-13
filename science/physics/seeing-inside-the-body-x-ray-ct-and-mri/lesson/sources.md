@@ -1,6 +1,6 @@
 # Sources — Seeing inside the body — X-ray, CT and MRI
 
-countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos, Vietnam, Mozambique
+countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos, Vietnam, Mozambique, Cuba
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 
 **Book 11:** *MÓDULO 4 — FÍSICA — Radiação do Corpo Negro / Física Atómica e Nuclear* (student module) — Ministério da Educação e Cultura — INDE, Mozambique (PESD distance education). Title as printed: MÓDULO 4 — FÍSICA — Radiação do Corpo Negro / Física Atómica e Nuclear. Grade: grade-10 filing (2º ciclo, grades 10–12) · Kind: student · Repo path: grade-10/gov/mozambique/fisica/student/Fisica4-2o-Ciclo.pdf. Route used (retry reader, 2026-11-12): pusher-token GitHub Contents API raw download of the secured repo file itself — 1,032,501 bytes, EXACT match to the record; pdfinfo 185 pages. Offset: printed p. = PDF p. − 3 (Lição 1 printed p. 5 = PDF p. 8); printed pagination runs 1–159+ (Teste p. 156, Soluções p. 159) with solutions running to PDF p. 185. Verdict: COMPLETE (full text read cover to the last solutions page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mozambique-placements.md.
 
+**Book 12:** *Física — duodécimo grado, Parte 1* (student textbook, Part 1) — Cuba, Second edition 2007 (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990; first reprint 2000); ISBN 959-13-0676-8 (complete work), 959-13-0677-6 (Part 1). Authors: Carlos Sifredo Barrios, Fernando González Pérez, Joaquín Tutor Sánchez, Antonio Pérez Hernández, Miguel Ferrer López. Grade: 12 · Kind: student (Part 1) · Repo path: grade-12/gov/cuba/fisica/student/part-1.pdf · Byte size: 16,853,129 (matches books.json record; staging copy used) · PDF pages: 85 print spreads (landscape, two printed pages per PDF page); printed pages 1–159 + colour plates (Láminas) · Offset: printed pp. run in spread order, printed 1 ≈ PDF spread 5. Verdict: COMPLETE for Part 1 — all 6 chapters present per full index. Library debt, carried on the record: the preface states Part 2 is devoted to consolidating the fundamental work methods of physics — no Grade 12 Part 2 book appears in the reading targets / library records for Cuba. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 14).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — X-rays | Grade 12 Student Textbook, printed pp. 12–14 |
@@ -34,6 +36,7 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 | Part IX, Lesson 26 The Hydrogen Atom and X-Rays — the X-ray half of the lesson (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part IX, Lesson 26 The Hydrogen Atom and X-Rays — printed p. 233 |
 | Lição 15 Raios-X (Mozambique, PESD II Módulo 4) | Mozambique, *Módulo 4 — Física — Radiação do Corpo Negro / Física Atómica e Nuclear (PESD II, 2º Ciclo)*, Lição 15 Raios-X — printed p. 97 |
 | Lição 16 Espectro dos Raios-X (Mozambique, PESD II Módulo 4) | Mozambique, *Módulo 4 — Física — Radiação do Corpo Negro / Física Atómica e Nuclear (PESD II, 2º Ciclo)*, Lição 16 Espectro dos Raios-X — the X-ray spectrum (Kα/Kβ peaks) as its own lesson — printed p. 108 |
+| Ch. 3 §3.3: X-rays — printed pp. 57–59 (X-ray production/physics filed under the existing X-ray slug) (Cuba, Grade 12, Part 1) | Cuba, *Física — duodécimo grado, Parte 1 (Grade 12 student book, Part 1)*, Ch. 3 §3.3: X-rays — printed pp. 57–59 (X-ray production/physics filed under the existing X-ray slug) |
 
 | Lesson 3: X-Rays and their properties (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Electrons and X-Rays chapter, Lesson 3 — PDF p. 52 |
 
@@ -44,6 +47,6 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 | Bài 6 — X-ray imaging. CT scanning (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 6, X-ray imaging. CT scanning (Chụp cắt lớp) — printed p. 32 |
 | Bài 8 — Magnetic resonance imaging (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 8, Magnetic resonance imaging (Chụp cộng hưởng từ) — printed p. 44 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos, Vietnam, Mozambique).**
+**Acceptance count: taught in 12 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos, Vietnam, Mozambique, Cuba).**
 
 Searchable tags: physics, grade 12, application of physics in other fields, seeing inside the body — x-ray, ct and mri, magnet, roentgen, sri lanka, united states, uganda, kenya, egypt, north macedonia, laos, mozambique

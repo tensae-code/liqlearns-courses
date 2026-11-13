@@ -1,6 +1,6 @@
 # Sources — The Sun — its scale, layers, spots and storms
 
-countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria
+countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curricul
 
 **Book 5:** *Физика и астрономия за 7. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Gradinarova M., Benova E., Velchev N.; Pedagog 6, 2024. Grade 7 · Student book · Repo: release `mid-size-books-8`, asset `grade-07-gov-bulgaria-physics-and-astronomy-fizika-7-klas-pedagog6-2024.pdf` — 98,056,293 bytes (matched books.json/release) · PDF pages: 114 · Printed page = PDF page (folios 6–9 verified) · Verdict: COMPLETE (exit test printed p. 109, glossary p. 110, answers p. 112). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
+**Book 6:** *Física — duodécimo grado, Parte 1* (student textbook, Part 1) — Cuba, Second edition 2007 (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990; first reprint 2000); ISBN 959-13-0676-8 (complete work), 959-13-0677-6 (Part 1). Authors: Carlos Sifredo Barrios, Fernando González Pérez, Joaquín Tutor Sánchez, Antonio Pérez Hernández, Miguel Ferrer López. Grade: 12 · Kind: student (Part 1) · Repo path: grade-12/gov/cuba/fisica/student/part-1.pdf · Byte size: 16,853,129 (matches books.json record; staging copy used) · PDF pages: 85 print spreads (landscape, two printed pages per PDF page); printed pages 1–159 + colour plates (Láminas) · Offset: printed pp. run in spread order, printed 1 ≈ PDF spread 5. Verdict: COMPLETE for Part 1 — all 6 chapters present per full index. Library debt, carried on the record: the preface states Part 2 is devoted to consolidating the fundamental work methods of physics — no Grade 12 Part 2 book appears in the reading targets / library records for Cuba. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 14).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Scale and mass: the 108-diameter chalk test, the football-and-grain apparent-size test, 98% of the mass, gravity holding the orbits | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 6, printed pp. 159–162 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curricul
 | Astrophysics — celestial observation, Moon phases/eclipses, star classification by colour (curriculum evidence) | Bahamas, *Curriculum Guidelines — Physics, Grades 10, 11, 12*, printed p. xiv |
 | Universe: Zvezde (Stars) (Slovenia) | Slovenia, *Fizika 8*, Universe: Zvezde (Stars) — printed p. 69 (unit folder 146) |
 | L43 The Sun and the stars (Bulgaria, Grade 7) | Bulgaria, *Физика и астрономия за 7. клас (Педагог 6, 2024)*, L43 The Sun and the stars — printed p. 96 |
+| Ch. 6 §§6.2–6.5: the Sun, solar radiation, the Sun's interior, the solar atmosphere and its influence on Earth — printed pp. 128–139 (Cuba, Grade 12, Part 1) | Cuba, *Física — duodécimo grado, Parte 1 (Grade 12 student book, Part 1)*, Ch. 6 §§6.2–6.5: the Sun, solar radiation, the Sun's interior, the solar atmosphere and its influence on Earth — printed pp. 128–139 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Slovenia, Bulgaria).** Finland is named as teacher-training evidence only (*Pieniä digiprojekteja yläkouluun* — teacher-training project booklet), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+**Acceptance count: taught in 4 countries (Ethiopia, Slovenia, Bulgaria, Cuba).** Finland is named as teacher-training evidence only (*Pieniä digiprojekteja yläkouluun* — teacher-training project booklet), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 No book errors attach to this item.
 

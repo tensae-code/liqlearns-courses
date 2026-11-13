@@ -1,6 +1,6 @@
 # Sources — Elementary particles and quarks — the fundamental interactions
 
-countries: Italy, United States, Bulgaria, Bhutan, China
+countries: Italy, United States, Bulgaria, Bhutan, China, Cuba
 
 **Book 1:** *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti* (student textbook) — Italy, Ugo Amaldi, Zanichelli, 2012. Title as printed: L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti. Grade 12 span (filed Grade 12) · Student book · First edition February 2012 (colophon), with “Physics in English” · Repo: release `mid-size-books-6`, asset `grade-12-gov-italy-physics-student-full-year.pdf` — 27,398,676 bytes (matched asset) · PDF pages: 427 · Offset: placements cite chapter and PDF page (from chapter openers and section headings throughout the text). Verdict: COMPLETE (closes with Ch. 36 on the frontiers of physics — Planck-scale constants and the scientific worldview — and the orientation pages). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/italy-placements.md.
 
@@ -12,6 +12,8 @@ countries: Italy, United States, Bulgaria, Bhutan, China
 
 **Book 5:** *普通高中教科书·物理选择性必修 第三册 (Senior High Physics, Selective Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 3 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 12,278,176 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §4.2 photoelectric effect, printed p.71, lands on PDF p.76). Verdict: COMPLETE — chapters 1–5 through research project (p.132) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 7).
 
+**Book 6:** *Física — duodécimo grado, Parte 1* (student textbook, Part 1) — Cuba, Second edition 2007 (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990; first reprint 2000); ISBN 959-13-0676-8 (complete work), 959-13-0677-6 (Part 1). Authors: Carlos Sifredo Barrios, Fernando González Pérez, Joaquín Tutor Sánchez, Antonio Pérez Hernández, Miguel Ferrer López. Grade: 12 · Kind: student (Part 1) · Repo path: grade-12/gov/cuba/fisica/student/part-1.pdf · Byte size: 16,853,129 (matches books.json record; staging copy used) · PDF pages: 85 print spreads (landscape, two printed pages per PDF page); printed pages 1–159 + colour plates (Láminas) · Offset: printed pp. run in spread order, printed 1 ≈ PDF spread 5. Verdict: COMPLETE for Part 1 — all 6 chapters present per full index. Library debt, carried on the record: the preface states Part 2 is devoted to consolidating the fundamental work methods of physics — no Grade 12 Part 2 book appears in the reading targets / library records for Cuba. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 14).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Italy, *L'Amaldi per i licei scientifici.blu, Vol. 3: Induzione e onde elettromagnetiche, Relatività e quanti*, Ch.35 Le particelle-materia fondamentali: the Standard-Model particle survey — PDF p. 330 |
@@ -21,10 +23,11 @@ countries: Italy, United States, Bulgaria, Bhutan, China
 | Ch. 33 Particle Physics (AP Courses 2e) | United States, *College Physics for AP® Courses 2e*, Ch. 33, printed p. 1567 — quarks, leptons, forces, accelerators |
 | L38 Elementary particles; L39 Quarks; fundamental interactions (printed p. 203) — tagged NEW LESSON NEEDED in bulgaria-placements.md and stocked into this existing shared lesson per the Bulgaria merge brief (Bulgaria, Grade 10) | Bulgaria, *Физика и астрономия за 10. клас (Педагог 6, 2024)*, L38 Elementary particles; L39 Quarks; fundamental interactions (printed p. 203) — tagged NEW LESSON NEEDED in bulgaria-placements.md and stocked into this existing shared lesson per the Bulgaria merge brief — printed p. 199 |
 | Ch.5 §5 “Elementary” particles (China, Senior Physics, Selective Compulsory Book 3) | China, *Senior Physics, Selective Compulsory Book 3*, Ch.5 §5 “Elementary” particles — printed p. 126 — stocked into the shared Italy-built elementary-particles-and-quarks lesson |
+| Ch. 5 §5.6: fundamental particles as their own section — printed pp. 117–118 (Cuba, Grade 12, Part 1) | Cuba, *Física — duodécimo grado, Parte 1 (Grade 12 student book, Part 1)*, Ch. 5 §5.6: fundamental particles as their own section — printed pp. 117–118 |
 
 | Elementary particles and the Big Bang — quarks, leptons and the early universe — Ch. 44 Quarks, Leptons, and the Big Bang — printed p. 1334 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 44 Quarks, Leptons, and the Big Bang — printed p. 1334 |
 
-**Acceptance count: taught in 5 countries (Italy, United States, Bulgaria, Bhutan, China).**
+**Acceptance count: taught in 6 countries (Italy, United States, Bulgaria, Bhutan, China, Cuba).**
 
 Placement choice, on the record: this NEW LESSON was built for the Italy placement “Elementary particles and quarks — the fundamental interactions” — italy-placements.md, Book 3, Ch.35, PDF p. 330 — the same particle gap named for Bulgaria G10 in this expansion. Brazil's **The three fundamental interactions** (`physics/the-three-fundamental-interactions`) teaches the interactions' own story; this lesson is the particle survey and cross-references it rather than duplicating it. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

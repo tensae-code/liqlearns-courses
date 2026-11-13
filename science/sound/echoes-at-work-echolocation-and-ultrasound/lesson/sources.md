@@ -1,6 +1,6 @@
 # Sources — Echoes at work — echolocation and ultrasound
 
-countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Vietnam, Libya, South Sudan
+countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Vietnam, Libya, South Sudan, Cuba
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -26,6 +26,10 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodi
 
 **Book 12:** *Physics Secondary 2 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 2 (Grade 10) · Student book · Repo path: grade-10/gov/south-sudan/physics/student/full-year.pdf. Bytes: 14,907,001 (Contents API meta = downloaded) · PDF pages: 319 · Offset: printed p. 1 ≈ PDF p. 7 (printed = PDF − 6). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Magnetism and Topic Test 10 at the end of the book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 13:** *Programa de Física — 9no grado* (curriculum programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Cuba, Ministerio de Educación, school year 2011–2012 (older, pre-Third-Perfeccionamiento programme — a different, earlier edition than the 2024 Grade 8 programme). Grade: 9 · Kind: teacher (curriculum programme) · Repo path: grade-09/gov/cuba/fisica/teacher/full-year.pdf · Byte size: 240,816 (matches books.json record; Contents-API raw route, verified) · PDF pages: 20 · Offset: no printed folios extractable; placements cite unit and PDF page. Verdict: COMPLETE — full programme read. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 2).
+
+**Book 14:** *Física — noveno grado* (student textbook) — Cuba, © 2025, Ministerio de Educación, Cuba; Editorial Pueblo y Educación; ISBN 978-959-13-5080-0 (digital). Third Perfeccionamiento series. NOTE: this 2025 student book is two programme-generations ahead of the 2011–2012 Grade 9 programme in this set. Grade: 9 · Kind: student · Repo path: grade-09/gov/cuba/fisica/student/full-year.pdf (release asset grade-09-gov-cuba-fisica-student-full-year.pdf, mid-size-books-5) · Byte size: 39,537,276 (release asset, verified) · PDF pages: 442 · Offset: printed p. = PDF p. − 12 (printed 419 = PDF 431). Verdict: COMPLETE — 4 chapters plus a laboratory-equipment annex (printed pp. 419–428). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 9).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Echo: reflected sound, the 0.1 s rule, hard surfaces reflecting and soft absorbing | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 197–198 (student placement 58) |
@@ -33,6 +37,8 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodi
 | Echo keyed to its applications in hearing aids, sound boards and street design (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, Unit 7 key, printed pp. 120–121, 125, 135, 138 (teacher placement 21) — filed as labelled teacher evidence inside this lesson's Sub lesson 1. |
 | Theme 3 Topic 7: application of sound waves (teacher guide — evidence) | Nigeria, *Excellence in Physics for Senior Secondary — Teacher's Guide Book 2*, Theme 3 Topic 7, printed p. 53 |
 | Ch. 13 §13.30 Echo (Fiji, Year 11) | Fiji, *Year 11 Physics*, Ch. 13 §13.30 Echo — printed p. 125 |
+| Unit 1: absorption, reflection and diffraction of sound; ultrasound applications — PDF p. 5 (programme evidence) (Cuba, Grade 9 programme) | Cuba, *Programa de Física — 9no grado (Grade 9 programme)*, Unit 1: absorption, reflection and diffraction of sound; ultrasound applications — PDF p. 5 |
+| Ch. 1 §§1.4.2, 1.5: absorption, reflection and diffraction of sound; ultrasound applications — printed pp. 62–82 (Cuba, Grade 9) | Cuba, *Física — noveno grado (Grade 9 student book, 2025)*, Ch. 1 §§1.4.2, 1.5: absorption, reflection and diffraction of sound; ultrasound applications — printed pp. 62–82 |
 
 | Ch 9: reflection of sound (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 9: reflection of sound — printed p. ~190 |
 | Ch. 6 Lesson 2: echoes at work — sonar, bats, ultrasound ranging (Cambodia, Grade 8 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 8, Student version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 6 Lesson 2 — printed p. 80 |
@@ -45,7 +51,7 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodi
 
 | Topic 8.5 + 8.9: ultrasonic sound, reflection of sound (South Sudan, Secondary 2 (Grade 10)) | South Sudan, *Physics Secondary 2 — Student's Book*, Topic 8.5 + 8.9: ultrasonic sound, reflection of sound — printed p. ~224 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Fiji, Kenya, Bhutan, Uzbekistan, Vietnam, Libya, South Sudan).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 9 countries (Ethiopia, Fiji, Kenya, Bhutan, Uzbekistan, Vietnam, Libya, South Sudan, Cuba).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

@@ -1,0 +1,4 @@
+# Limits of validity of Newton's laws — where classical mechanics stops working — depth
+
+Whole-lesson pass mark: the learner can do all of these — Newton's laws hold inside a territory: speeds far below c, sizes far above atoms, gravity not extreme; Near light speed, relativity replaces the Newtonian account (moving clocks slow; nothing massive reaches c); Inside atoms, quantum physics replaces smooth Newtonian trajectories; In very strong gravity, general relativity is needed (Mercury's extra precession); Newton's laws are the limiting case of the deeper theories at everyday speeds — still the right tool there — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

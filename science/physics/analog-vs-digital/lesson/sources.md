@@ -1,6 +1,6 @@
 # Sources — Analog vs digital
 
-countries: Ethiopia, Indonesia, United States, Bhutan, Vietnam
+countries: Ethiopia, Indonesia, United States, Bhutan, Vietnam, Cuba (programme/teacher-guide evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -12,11 +12,14 @@ countries: Ethiopia, Indonesia, United States, Bhutan, Vietnam
 
 **Book 5:** *Chuyên đề học tập Vật lí 11 (Physics 11 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 11 — Kết nối tri thức với cuộc sống. Grade 11 · Student study-topics book · NXB Giáo dục Việt Nam (Vietnam Education Publishing House) (front matter follows the same series pattern; TOC verified). Repo path: grade-11/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-11-gov-vietnam-physics-student-study-topics.pdf). Byte size: 11,728,203 (matches record). PDF pages: 63 (record 63). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 6:** *Programa: Física — onceno grado* (curriculum programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Cuba, Ministerio de Educación, Cuba, 2024; Editorial Pueblo y Educación; ISBN 978-959-13-4778-7 (digital). Third Perfeccionamiento series. Grade: 11 · Kind: teacher (curriculum programme) · Repo path: grade-11/gov/cuba/fisica/teacher/full-year.pdf · Byte size: 237,359 (matches books.json record; staging copy used) · PDF pages: 30 · Offset: printed p. = PDF p. − 3. Verdict: COMPLETE — full programme read, printed pp. 1–22+. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Analog and digital signals; logic levels | Grade 12 Student Textbook, printed pp. 163–164 |
 | Bab 6, Subbab A Sistem Elektronika (Indonesia, Grade 12) | Indonesia, *Fisika untuk SMA/MA Kelas XII*, Bab 6, Subbab A Sistem Elektronika — guide p. 137 — digital instruments introduction |
 | Digital waves — PHYS.4.4 (Utah SEEd) | United States, *Physics for Utah SEEd Standards (Revised 2025)*, PHYS.4.4 Digital Waves, printed p. 174 — digital vs analogue information in waves |
+| Unit 7: analogue and digital telecommunication closes the Grade 11 course — printed p. 21 (programme evidence) (Cuba, Grade 11 programme) | Cuba, *Programa: Física — onceno grado (Grade 11 programme)*, Unit 7: analogue and digital telecommunication closes the Grade 11 course — printed p. 21 |
 
 | Ch. 5: analogue vs digital signals — more information can be sent digitally; communication through sound waves — printed pp. 117, 119 (Bhutan, Class X (Grade 10)) | Bhutan, *Physics Textbook, Class X*, Ch. 5: analogue vs digital signals — more information can be sent digitally; communication through sound waves — printed pp. 117, 119 |
 | Bài 5 — Analogue signals and digital signals (Vietnam, Grade 11) | Vietnam, *Chuyên đề học tập Vật lí 11*, Bài 5, Analogue signals and digital signals — printed p. 33 |

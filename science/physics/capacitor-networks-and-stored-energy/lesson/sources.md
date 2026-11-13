@@ -1,6 +1,6 @@
 # Sources — Capacitor networks and stored energy
 
-countries: Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan
+countries: Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan, Cuba
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -24,6 +24,12 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 10:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 11:** *Programa: Física — onceno grado* (curriculum programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Cuba, Ministerio de Educación, Cuba, 2024; Editorial Pueblo y Educación; ISBN 978-959-13-4778-7 (digital). Third Perfeccionamiento series. Grade: 11 · Kind: teacher (curriculum programme) · Repo path: grade-11/gov/cuba/fisica/teacher/full-year.pdf · Byte size: 237,359 (matches books.json record; staging copy used) · PDF pages: 30 · Offset: printed p. = PDF p. − 3. Verdict: COMPLETE — full programme read, printed pp. 1–22+. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 3).
+
+**Book 12:** *Física — onceno grado* (student textbook) — Cuba, © 2024, Ministerio de Educación, Cuba; Editorial Pueblo y Educación; ISBN 978-959-13-4845-6 (digital). Third Perfeccionamiento series; Biblioteca CubaEduca item/718. This is the current one-volume edition that supersedes the two-part 2011/2013 set. Grade: 11 · Kind: student · Repo path: grade-11/gov/cuba/fisica/student/full-year.pdf (release asset grade-11-gov-cuba-fisica-student-full-year.pdf, mid-size-books-7) · Byte size: 33,701,604 (release asset, verified) · PDF pages: 418 · Offset: printed p. ≈ PDF p. − 7. Verdict: COMPLETE — 7 chapters, solutions (p. 400) and bibliography (p. 410). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 11).
+
+**Book 13:** *Física Parte 1 — onceno grado* (student textbook, Part 1 of a two-part set) — Cuba, 8th reprint 2011 of the 1990 edition (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990); ISBN 978-959-13-0713-2 (complete work), 978-959-13-0714-9 (Part I). Biblioteca CubaEduca item/244. Grade: 11 · Kind: student (Part 1) · Repo path: grade-11/gov/cuba/fisica/student/part-1-2011.pdf (release asset grade-11-gov-cuba-fisica-student-part-1-2011.pdf, mid-size-books-7) · Byte size: 20,427,124 (release asset, verified) · PDF pages: 161 · Offset: printed p. = PDF p. − 8 (printed 1 = PDF 9). Image-only print file; read via page sheets. Verdict: COMPLETE for Part 1 — index ends with answers at printed p. 146. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 12).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Capacitors in series and parallel | Grade 11 Student Textbook, printed pp. 276–280 |
@@ -31,6 +37,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Ch.1 §§1-6–1-10 (connecting capacitors series/parallel, energy stored, capacitor types, applications) (Iraq, Grade 12) | Iraq, *الفيزياء للصف السادس العلمي (Physics, Sixth Scientific = Grade 12)*, Ch.1 §§1-6–1-10 (connecting capacitors series/parallel, energy stored, capacitor types, applications) — printed p. 5 (opener list) |
 | Ch.4 Connecting capacitors in AC circuits (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.4 Connecting capacitors in AC circuits — printed p. 103 |
 | Ch. IV §§4.6–4.7: electric capacitance, the plane capacitor, grouping of capacitors; energy of the electric field; laboratory — measuring a capacitor's capacitance (Moldova, Grade 11) | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. IV §§4.6–4.7: electric capacitance, the plane capacitor, grouping of capacitors; energy of the electric field; laboratory — measuring a capacitor's capacitance — printed pp. 156, 160, 165, 170 |
+| Unit 3: capacitors in series and parallel, charge/discharge experiments — printed pp. 12–13 (programme evidence) (Cuba, Grade 11 programme) | Cuba, *Programa: Física — onceno grado (Grade 11 programme)*, Unit 3: capacitors in series and parallel, charge/discharge experiments — printed pp. 12–13 |
+| Ch. 3 §3.9: energy stored in the electrostatic field, coupling of capacitors — printed pp. 171–176 (Cuba, Grade 11) | Cuba, *Física — onceno grado (Grade 11 student book, 2024)*, Ch. 3 §3.9: energy stored in the electrostatic field, coupling of capacitors — printed pp. 171–176 |
+| Ch. 4 §§4.19–4.20: energy stored in the electrostatic field, coupling of capacitors — printed pp. 126–129 (Cuba, Grade 11, Part 1) | Cuba, *Física Parte 1 — onceno grado (Grade 11 student book, Part 1, 2011)*, Ch. 4 §§4.19–4.20: energy stored in the electrostatic field, coupling of capacitors — printed pp. 126–129 |
 
 | §21 Energy of the charged capacitor's electrostatic field (Belarus, Grade 10) | Belarus, *Фізіка. 10 клас*, §21 Energy of the charged capacitor's electrostatic field — printed p. 152 |
 
@@ -40,7 +49,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 | Topic 5: combination of capacitors (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 5: combination of capacitors — printed p. 151 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Iraq, Egypt, Belarus, Bhutan, Iran, North Macedonia, Moldova, South Sudan, Cuba).**
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 

@@ -1,6 +1,6 @@
 # Sources — Kepler's first law — elliptical orbits
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Ecuador, Nicaragua, Italy, Bhutan, China
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Ecuador, Nicaragua, Italy, Bhutan, China, Cuba
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Ecuador, Nicaragu
 
 **Book 7:** *普通高中教科书·物理必修 第二册 (Senior High Physics, Compulsory Book 2)* (student book) — China, PEP (People's Education Press), 2019 series (2022 printing as Book 1). Grade: senior (filed grade-12 in the library; Compulsory 2 is the second volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第二册.pdf. Route: recorded kyohwang raw source; byte size 16,251,494 = recorded exactly. PDF pages: 114. Offset: PDF = printed + 5 (proven: §6.2 printed p.27 heading lands on PDF p.32). Verdict: COMPLETE — chapters 5–8 (continuing Book 1's numbering) through research project (p.102) and index (p.106). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 3).
 
+**Book 8:** *Física — décimo grado* (student textbook) — Cuba, 4th reprint 2014 of the 1989 edition (© Ministerio de Educación, Cuba, 1989; Editorial Pueblo y Educación, 1989); ISBN 978-959-13-0711-8. Authors: Juan Núñez Viera, Carlos Sifredo Barrios, José Luis Hernández Báez, Esther María Vilaú Pérez. Grade: 10 · Kind: student · Repo path: grade-10/gov/cuba/fisica/student/full-year.pdf (release asset grade-10-gov-cuba-fisica-student-full-year.pdf, mid-size-books-3) · Byte size: 42,830,762 (release asset, verified) · PDF pages: 385 · Offset: printed p. = PDF p. − 9 (printed 1 = PDF 10). Image-only scan; read via 100-DPI page sheets. Verdict: COMPLETE — index runs to Ch. 8 general tasks (printed p. 365) and answers to chapter tasks (p. 373). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 10).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Planetary motion before Kepler — and Kepler's first law | Grade 12 Student Textbook, printed pp. 54–55 |
@@ -24,10 +26,11 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Ecuador, Nicaragu
 | Kepler's laws (Nicaragua) | Nicaragua, *Física — Módulo Autoformativo, Décimo grado*, §3.2 Leyes de Kepler, printed p. 100 |
 | Kepler's laws (Italy) | Italy, *Il nuovo Amaldi per i licei scientifici.blu, Vol. 1: Meccanica e termodinamica*, Ch.7 Gravitation: Kepler's laws — printed p. 266 |
 | Ch.7 §1 Planetary motion (China, Senior Physics, Compulsory Book 2) | China, *Senior Physics, Compulsory Book 2*, Ch.7 §1 Planetary motion — printed p. 44 |
+| Ch. 4 §4.1: Kepler's laws open the gravitation chapter — printed pp. 191–192 (Cuba, Grade 10) | Cuba, *Física — décimo grado (Grade 10 student book)*, Ch. 4 §4.1: Kepler's laws open the gravitation chapter — printed pp. 191–192 |
 
 | Ch. 13 Gravitation: Newton's law, gravitation inside Earth, Kepler's laws, Einstein and gravitation — printed p. 354 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 13 Gravitation: Newton's law, gravitation inside Earth, Kepler's laws, Einstein and gravitation — printed p. 354 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Ecuador, Nicaragua, Italy, Bhutan, China).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+**Acceptance count: taught in 7 countries (Ethiopia, Ecuador, Nicaragua, Italy, Bhutan, China, Cuba).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 

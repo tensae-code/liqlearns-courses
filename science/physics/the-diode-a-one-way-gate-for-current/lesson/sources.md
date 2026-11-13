@@ -1,6 +1,6 @@
 # Sources — The diode — a one-way gate for current
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India, Moldova
+countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya, Egypt, Kuwait, Yemen, Uzbekistan, India, Moldova, Cuba (programme/teacher-guide evidence only)
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya,
 
 **Book 11:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 12:** *Programa: Física — onceno grado* (curriculum programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Cuba, Ministerio de Educación, Cuba, 2024; Editorial Pueblo y Educación; ISBN 978-959-13-4778-7 (digital). Third Perfeccionamiento series. Grade: 11 · Kind: teacher (curriculum programme) · Repo path: grade-11/gov/cuba/fisica/teacher/full-year.pdf · Byte size: 237,359 (matches books.json record; staging copy used) · PDF pages: 30 · Offset: printed p. = PDF p. − 3. Verdict: COMPLETE — full programme read, printed pp. 1–22+. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 3).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The p-n junction diode | Grade 12 Student Textbook, printed pp. 147–148 |
@@ -32,6 +34,7 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Italy, Malaysia, Kenya,
 | Ch. 5 Electronics, §5.2 Semiconductor Diode (Malaysia) | Malaysia, *Physics Form 5*, Ch. 5, §5.2 Semiconductor Diode — printed p. 181 — incl. diode as rectifier |
 | Unit 3, Ch. 1, lesson 1-1 "The Diode" (Kuwait, Grade 12 Term 2) | Kuwait, *Physics, Grade 12, Term 2 (student book + applications, two bound sections)*, printed p. 68 |
 | Ch. VI §6.2: current in semiconductors — resistivity falls as temperature and illumination rise (thermistor, photoresistor, read in full); intrinsic and extrinsic (impurity) conduction (*); the p–n junction, the semiconductor diode (*) (Moldova, Grade 11) | Moldova, *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)*, Ch. VI §6.2: current in semiconductors — resistivity falls as temperature and illumination rise (thermistor, photoresistor, read in full); intrinsic and extrinsic (impurity) conduction (*); the p–n junction, the semiconductor diode (*) — printed pp. 226, 228, 230, 231 |
+| Unit 4: current in different media, P-N junction, semiconductor diode, transistors — printed p. 15 (programme evidence) (Cuba, Grade 11 programme) | Cuba, *Programa: Física — onceno grado (Grade 11 programme)*, Unit 4: current in different media, P-N junction, semiconductor diode, transistors — printed p. 15 |
 
 | Ch 11: the p-n junction and semiconductor diode (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 11: the p-n junction and semiconductor diode — printed p. 192 |
 | Ch.8 The p–n junction, forward/reverse bias (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.8 The p–n junction, forward/reverse bias — printed p. 176 |

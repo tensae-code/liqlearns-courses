@@ -1,6 +1,6 @@
 # Sources — Electromagnetic induction — making current with a magnet
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Haiti (programme evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya, Iraq, Egypt, Kuwait, Yemen, Afghanistan, Bhutan, Uzbekistan, Iran, Laos, Vietnam, Libya, South Sudan, China
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Barbados, Haiti (programme evidence only), Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya, Iraq, Egypt, Kuwait, Yemen, Afghanistan, Bhutan, Uzbekistan, Iran, Laos, Vietnam, Libya, South Sudan, China, Cuba
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -68,6 +68,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 32:** *普通高中教科书·物理必修 第三册 (Senior High Physics, Compulsory Book 3)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior (filed grade-12 in the library; Compulsory 3 is the third volume of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理必修 第三册.pdf. Route: recorded kyohwang raw source; byte size 21,556,582 = recorded exactly. PDF pages: 143. Offset: PDF = printed + 5 (proven: §9.2 Coulomb's law, printed p.6, lands on PDF p.11). Verdict: COMPLETE — chapters 9–13 through research project (p.131) and index (p.136). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 4).
 
+**Book 33:** *Física — noveno grado* (student textbook) — Cuba, © 2025, Ministerio de Educación, Cuba; Editorial Pueblo y Educación; ISBN 978-959-13-5080-0 (digital). Third Perfeccionamiento series. NOTE: this 2025 student book is two programme-generations ahead of the 2011–2012 Grade 9 programme in this set. Grade: 9 · Kind: student · Repo path: grade-09/gov/cuba/fisica/student/full-year.pdf (release asset grade-09-gov-cuba-fisica-student-full-year.pdf, mid-size-books-5) · Byte size: 39,537,276 (release asset, verified) · PDF pages: 442 · Offset: printed p. = PDF p. − 12 (printed 419 = PDF 431). Verdict: COMPLETE — 4 chapters plus a laboratory-equipment annex (printed pp. 419–428). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 9).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Electromagnetic induction — the discovery | Grade 12 Student Textbook, printed pp. 126–127 |
@@ -86,6 +88,7 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Part V, Lesson 15 Electromagnetic Induction (Laos, Grade 12) | Laos, *ຟີຊິກສາດ (Physics, Grade 12 / ມ.7)*, Part V, Lesson 15 Electromagnetic Induction — printed p. 120 |
 | Ch.20 §5 Magnetism produces electricity (China, Grade 9 Physics (full-year)) | China, *Grade 9 Physics (full-year)*, Ch.20 §5 Magnetism produces electricity — printed p. 138 — Faraday's discovery and the generator |
 | Ch.13 §3 Electromagnetic induction phenomena and applications (China, Senior Physics, Compulsory Book 3) | China, *Senior Physics, Compulsory Book 3*, Ch.13 §3 Electromagnetic induction phenomena and applications — printed p. 114 |
+| Ch. 3 §3.6: electromagnetic induction and Faraday's induction law, practical uses — printed pp. 284–297 (Cuba, Grade 9) | Cuba, *Física — noveno grado (Grade 9 student book, 2025)*, Ch. 3 §3.6: electromagnetic induction and Faraday's induction law, practical uses — printed pp. 284–297 |
 
 | Chapter: Electromagnetic Induction (Uganda, Senior Four home-study) | Uganda, *Physics Home-Study Learning — Senior Four (NCDC, 2020)*, Electromagnetic Induction chapter — PDF p. 39 |
 
@@ -106,6 +109,6 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 | Topic 7: demonstrations and factors affecting induced emf (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 7: demonstrations and factors affecting induced emf — printed p. 191 |
 
-**Acceptance count: taught in 23 countries (Ethiopia, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya, Iraq, Egypt, Kuwait, Yemen, Afghanistan, Bhutan, Uzbekistan, Iran, Laos, Vietnam, Libya, South Sudan, China).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
+**Acceptance count: taught in 24 countries (Ethiopia, Barbados, Sri Lanka, Syria, Slovenia, Malaysia, Fiji, United States, Uganda, Kenya, Iraq, Egypt, Kuwait, Yemen, Afghanistan, Bhutan, Uzbekistan, Iran, Laos, Vietnam, Libya, South Sudan, China, Cuba).** Papua New Guinea is named as teacher-guide evidence only (Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guide), not added to this count. Haiti is named as programme evidence only (*Programme détaillé NS, Physique 3e année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count.
 
 Searchable tags: physics, grade 12, electromagnetism, electromagnetic induction — making current with a magnet, activity, current, sri lanka, united states, uganda, kenya, iraq, egypt, yemen, iran, laos, libya, south sudan

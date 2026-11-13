@@ -1,6 +1,6 @@
 # Sources — Collisions — bouncing and sticking
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China, Cuba
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United Stat
 
 **Book 11:** *普通高中教科书·物理选择性必修 第一册 (Senior High Physics, Selective Compulsory Book 1)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 1 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第一册.pdf. Route: recorded kyohwang raw source; byte size 10,448,338 = recorded exactly. PDF pages: 130. Offset: PDF = printed + 5 (proven: §2.4 pendulum, printed p.46, lands on PDF p.51). Verdict: COMPLETE — chapters 1–4 through research project (p.116) and index (p.121). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 5).
 
+**Book 12:** *Física — décimo grado* (student textbook) — Cuba, 4th reprint 2014 of the 1989 edition (© Ministerio de Educación, Cuba, 1989; Editorial Pueblo y Educación, 1989); ISBN 978-959-13-0711-8. Authors: Juan Núñez Viera, Carlos Sifredo Barrios, José Luis Hernández Báez, Esther María Vilaú Pérez. Grade: 10 · Kind: student · Repo path: grade-10/gov/cuba/fisica/student/full-year.pdf (release asset grade-10-gov-cuba-fisica-student-full-year.pdf, mid-size-books-3) · Byte size: 42,830,762 (release asset, verified) · PDF pages: 385 · Offset: printed p. = PDF p. − 9 (printed 1 = PDF 10). Image-only scan; read via 100-DPI page sheets. Verdict: COMPLETE — index runs to Ch. 8 general tasks (printed p. 365) and answers to chapter tasks (p. 373). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 10).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Collisions — elastic and perfectly inelastic | Grade 11 Student Textbook, printed pp. 157–161 |
@@ -35,10 +37,11 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), United Stat
 | Lição 16 Choque Inelástico (Mozambique, PESD II Módulo 2) | Mozambique, *Módulo 2 — Física — Mecânica – Estática e Dinâmica (PESD II, 2º Ciclo)*, Lição 16 Choque Inelástico — inelastic and elastic collisions get separate lessons in this module — printed p. 81 |
 | Lição 17 Choque Elástico (Mozambique, PESD II Módulo 2) | Mozambique, *Módulo 2 — Física — Mecânica – Estática e Dinâmica (PESD II, 2º Ciclo)*, Lição 17 Choque Elástico — printed p. 84 |
 | Ch.1 §5 Elastic and inelastic collisions (China, Senior Physics, Selective Compulsory Book 1) | China, *Senior Physics, Selective Compulsory Book 1*, Ch.1 §5 Elastic and inelastic collisions — printed p. 21 |
+| Ch. 6 §6.7: collisions (choque) as the application chapter of both conservation laws — printed pp. 263–273 (Cuba, Grade 10) | Cuba, *Física — décimo grado (Grade 10 student book)*, Ch. 6 §6.7: collisions (choque) as the application chapter of both conservation laws — printed pp. 263–273 |
 
 | Ch. 9 Center of Mass and Linear Momentum — printed p. 214 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 9 Center of Mass and Linear Momentum — printed p. 214 |
 | Ch. 5, §5.11 Collisions — printed p. 83 (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 5, §5.11 Collisions — printed p. 83 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count.
+**Acceptance count: taught in 11 countries (Ethiopia, United States, Yemen, Afghanistan, Bhutan, India, Laos, Moldova, Mozambique, China, Cuba).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008 — teacher guide), not added to this count.
 
 Searchable tags: physics, grade 11, dynamics, collisions — bouncing and sticking, momentum, united states, yemen, laos, mozambique

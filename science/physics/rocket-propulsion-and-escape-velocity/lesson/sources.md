@@ -1,8 +1,10 @@
 # Sources — Rocket propulsion and escape velocity
 
-countries: Yemen
+countries: Yemen, Cuba
 
 **Book 1:** *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)* (student textbook) — Yemen, Yemen MoE, same series/design. Grade: 12 · Student book · Repo: release `mid-size-books-2`, asset `grade-12-gov-yemen-physics-student-full-year.pdf` — 67,708,791 bytes. PDF pages: 218. Printed page = PDF page − 1 (folios 8–11 verified on PDF pp. 9–12). Verdict: COMPLETE (Unit 9 evaluation at printed p. 210, then the glossary of terms, printed p. 211). Structure: 9 units — momentum & projectiles; alternating current; electronics; electronic devices; atomic physics; radiation & matter; nuclear physics; solar energy; cosmic physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/yemen-placements.md.
+
+**Book 2:** *Física — décimo grado* (student textbook) — Cuba, 4th reprint 2014 of the 1989 edition (© Ministerio de Educación, Cuba, 1989; Editorial Pueblo y Educación, 1989); ISBN 978-959-13-0711-8. Authors: Juan Núñez Viera, Carlos Sifredo Barrios, José Luis Hernández Báez, Esther María Vilaú Pérez. Grade: 10 · Kind: student · Repo path: grade-10/gov/cuba/fisica/student/full-year.pdf (release asset grade-10-gov-cuba-fisica-student-full-year.pdf, mid-size-books-3) · Byte size: 42,830,762 (release asset, verified) · PDF pages: 385 · Offset: printed p. = PDF p. − 9 (printed 1 = PDF 10). Image-only scan; read via 100-DPI page sheets. Verdict: COMPLETE — index runs to Ch. 8 general tasks (printed p. 365) and answers to chapter tasks (p. 373). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 10).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,8 +13,9 @@ countries: Yemen
 | Sub lesson 2 — Escape velocity — fast enough to leave | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U1 Escape velocity from Earth's gravity — printed p. 17 |
 | Sub lesson 3 — Satellites — falling around the Earth | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, U1 Motion of artificial satellites around Earth — printed p. 19 |
 | Do it first; key ideas; Do It Yourself | Yemen, *الفيزياء للصف الثالث الثانوي (Physics, Third Secondary = Grade 12)*, as cited in the rows above |
+| Ch. 5 §5.3: application of momentum conservation to reactive (jet/rocket) motion — printed pp. 228–233 (Cuba, Grade 10) | Cuba, *Física — décimo grado (Grade 10 student book)*, Ch. 5 §5.3: application of momentum conservation to reactive (jet/rocket) motion — printed pp. 228–233 |
 
-**Acceptance count: taught in 1 country (Yemen).**
+**Acceptance count: taught in 2 countries (Yemen, Cuba).**
 
 Placement choice, on the record: this NEW LESSON was built for the Yemen placement “Rocket propulsion and escape velocity” — yemen-placements.md, Book 4, U1, printed p. 14. Cross-reference, on the record: Sudan's orbital treatment lives in physics/satellites-and-escape-velocity — this lesson is the rocket-propulsion companion to it, built for Yemen's combined rockets + escape velocity + satellites placement. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

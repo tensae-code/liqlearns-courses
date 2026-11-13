@@ -1,6 +1,6 @@
 # Sources — Scalars and vectors
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine, Nigeria (teacher-guide evidence only), Italy, Sudan, Fiji, Indonesia, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Bhutan, India, North Macedonia, Libya, South Sudan
+countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine, Nigeria (teacher-guide evidence only), Italy, Sudan, Fiji, Indonesia, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Bhutan, India, North Macedonia, Libya, South Sudan, Cuba
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -47,6 +47,8 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine
 
 **Book 23:** *Physics Secondary 1 — Student's Book* (student textbook) — South Sudan, Republic of South Sudan, Ministry of General Education and Instruction (cover: "Physics 1 cover", Adobe Illustrator 2019 file; funded-not-for-sale ministry book). Grade: Secondary 1 (Grade 9) · Student book · Repo path: grade-09/gov/south-sudan/physics/student/full-year.pdf. Bytes: 15,175,190 (Contents API meta = downloaded bytes) · PDF pages: 275 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — all 5 units / 8 topics present through Topic Test 8 (printed p. 265) plus end matter. South Sudan's own way: every topic ends with a Topic summary, "new words" list and a Topic Test; forces are introduced before pressure, and light is taught plane-surfaces-only at S1. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
+**Book 24:** *Física — décimo grado* (student textbook) — Cuba, 4th reprint 2014 of the 1989 edition (© Ministerio de Educación, Cuba, 1989; Editorial Pueblo y Educación, 1989); ISBN 978-959-13-0711-8. Authors: Juan Núñez Viera, Carlos Sifredo Barrios, José Luis Hernández Báez, Esther María Vilaú Pérez. Grade: 10 · Kind: student · Repo path: grade-10/gov/cuba/fisica/student/full-year.pdf (release asset grade-10-gov-cuba-fisica-student-full-year.pdf, mid-size-books-3) · Byte size: 42,830,762 (release asset, verified) · PDF pages: 385 · Offset: printed p. = PDF p. − 9 (printed 1 = PDF 10). Image-only scan; read via 100-DPI page sheets. Verdict: COMPLETE — index runs to Ch. 8 general tasks (printed p. 365) and answers to chapter tasks (p. 373). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 10).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Scalars and vectors; kinds of vectors | Grade 11 Student Textbook, printed pp. 17–21 |
@@ -61,6 +63,7 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine
 | Ch. 1 Mechanics §§1.1–1.3 (Fiji, Year 12) | Fiji, *Year 12 Physics*, Ch. 1 Mechanics §§1.1–1.3 — measurements, relationships, vectors — printed p. 1 |
 | Bab 1 Vektor (Indonesia, Grade 11) | Indonesia, *Fisika untuk SMA/MA Kelas XI*, Bab 1 Vektor — printed p. 1 — scalar vs vector quantities introduced through aircraft navigation instruments and a location plan |
 | Ch. 1, lesson 1-1 "Scalar and Vector Quantities" (Kuwait, Grade 11 Term 1) | Kuwait, *Physics, Grade 11, Term 1 (student book)*, printed p. 14 |
+| Ch. 1 §§1.8–1.9: vectors and operations with vectors — printed pp. 16–26 (Cuba, Grade 10) | Cuba, *Física — décimo grado (Grade 10 student book)*, Ch. 1 §§1.8–1.9: vectors and operations with vectors — printed pp. 16–26 |
 
 | Vectors and Scalars (Uganda, Senior Three home-study) | Uganda, *Physics Home-Study Learning — Senior Three (NCDC, 2020)*, Vectors and Scalars — PDF p. 8 |
 
@@ -78,7 +81,7 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Nicaragua, Palestine
 
 | Topic 2.4–2.5: representing forces with vector diagrams, combining forces — vectors enter through force diagrams, not abstract maths (South Sudan, Secondary 1 (Grade 9)) | South Sudan, *Physics Secondary 1 — Student's Book*, Topic 2.4–2.5: representing forces with vector diagrams, combining forces — vectors enter through force diagrams, not abstract maths — printed p. 37 |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Nicaragua, Palestine, Italy, Sudan, Fiji, Indonesia, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Bhutan, India, North Macedonia, Libya, South Sudan).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* and *Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guides), not added to this count.
+**Acceptance count: taught in 20 countries (Ethiopia, Nicaragua, Palestine, Italy, Sudan, Fiji, Indonesia, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Bhutan, India, North Macedonia, Libya, South Sudan, Cuba).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 1* and *Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guides), not added to this count.
 
 Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 

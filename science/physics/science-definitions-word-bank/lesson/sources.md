@@ -1,8 +1,10 @@
 # Sources — Science definitions — the physics word bank
 
-countries: Libya
+countries: Libya, Cuba (programme/teacher-guide evidence only)
 
 **Book 1:** *الفيزياء كتاب الطالب — Physics, Grade 11 (student book, Science stream)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 11 · Student book (Science stream — القسم العلمي, title page; Arabic medium) · Repo path: grade-11/gov/libya/physics/student-book.pdf (TSV route: release asset grade-11-gov-libya-physics-student-book.pdf, mid-size-books-3). Byte size: 23,437,224 (release asset, verified) · PDF pages: 220 · Offset: printed p. = PDF p. − 6 approx. (front matter + 3 contents pages). Verdict: COMPLETE — two parts, 13 units, answers (p. 203) and an English "Definitions" appendix (p. 211); read from the full printed contents (image sheets). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
+
+**Book 2:** *Orientaciones metodológicas: Física — octavo grado* (methodological orientations — teacher-guide evidence, NOT a student book, cited as it is) — Cuba, Ministerio de Educación, Cuba, 2024; Editorial Pueblo y Educación; ISBN 978-959-13-4782-4 (digital). Grade: 8 · Kind: teacher (methodological guide to the 2024 programme and student book) · Repo path: grade-08/gov/cuba/fisica/teacher/orientaciones.pdf — NOTE: the TSV row for this title points at a different release asset (grade-08-gov-cuba-educacion-fisica-teacher-orientaciones.pdf, 5,877,231 bytes); the Physics guide is the separate asset grade-08-gov-cuba-fisica-teacher-orientaciones.pdf used here — TSV link/title mismatch = library debt, carried on the record · Byte size: 6,087,413 (release asset, mid-size-books-3, verified against asset index) · PDF pages: 262 · Offset: printed p. = PDF p. − 5 approx. (printed 253 ≈ PDF 258). Verdict: COMPLETE — index and all five unit treatments read; cover visually verified as Física, octavo grado. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 4).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -11,6 +13,7 @@ countries: Libya
 | Sub lesson 2 — Words of motion and force (Libya, Grade 11) | Libya, *Physics, Grade 11 (student book, Science stream)*, Appendix 1 — printed p. 211 |
 | Sub lesson 3 — Words of heat, waves and electricity — and using the bank (Libya, Grade 11) | Libya, *Physics, Grade 11 (student book, Science stream)*, Appendix 1 — printed p. 211 |
 | Do it first; key ideas; Do It Yourself | Libya, *Physics, Grade 11 (student book, Science stream)*, as cited in the rows above |
+| Every unit of this guide (and the pattern it sets) ends in a Vocabulario section defining the unit's terms (printed pp. 135, 164, 208, 254) — a per-unit glossary is a structural feature of the Cuban teacher guides (teacher-guide evidence) (Cuba, Grade 8 methodological guide) | Cuba, *Orientaciones metodológicas: Física — octavo grado (Grade 8 methodological orientations)*, Every unit of this guide (and the pattern it sets) ends in a Vocabulario section defining the unit's terms (printed pp. 135, 164, 208, 254) — a per-unit glossary is a structural feature of the Cuban teacher guides |
 
 **Acceptance count: taught in 1 country (Libya).**
 

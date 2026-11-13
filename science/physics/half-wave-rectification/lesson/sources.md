@@ -1,6 +1,6 @@
 # Sources — Half-wave rectification
 
-countries: Ethiopia, Kenya, India, Vietnam
+countries: Ethiopia, Kenya, India, Vietnam, Cuba
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -10,15 +10,21 @@ countries: Ethiopia, Kenya, India, Vietnam
 
 **Book 4:** *Chuyên đề học tập Vật lí 12 (Physics 12 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student study-topics book · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-12/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-study-topics.pdf). Byte size: 13,180,268 (matches record). PDF pages: 71 (record 71). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 5:** *Física — onceno grado* (student textbook) — Cuba, © 2024, Ministerio de Educación, Cuba; Editorial Pueblo y Educación; ISBN 978-959-13-4845-6 (digital). Third Perfeccionamiento series; Biblioteca CubaEduca item/718. This is the current one-volume edition that supersedes the two-part 2011/2013 set. Grade: 11 · Kind: student · Repo path: grade-11/gov/cuba/fisica/student/full-year.pdf (release asset grade-11-gov-cuba-fisica-student-full-year.pdf, mid-size-books-7) · Byte size: 33,701,604 (release asset, verified) · PDF pages: 418 · Offset: printed p. ≈ PDF p. − 7. Verdict: COMPLETE — 7 chapters, solutions (p. 400) and bibliography (p. 410). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 11).
+
+**Book 6:** *Física Parte 2 — onceno grado* (student textbook, Part 2 of the two-part set begun in Part 1; pagination is continuous with Part 1) — Cuba, 10th reprint 2013 of the 1990 edition (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990); ISBN 978-959-13-0713-2 (complete work), 978-959-13-0715-6 (Part 2). Biblioteca CubaEduca item/246. Grade: 11 · Kind: student (Part 2) · Repo path: grade-11/gov/cuba/fisica/student/part-2-2013.pdf (release asset grade-11-gov-cuba-fisica-student-part-2-2013.pdf, mid-size-books-7) · Byte size: 27,033,131 (release asset, verified) · PDF pages: 225 · Offset: printed p. = PDF p. + 140 (printed 146 = PDF 6). Image-only print file; read via page sheets. Verdict: COMPLETE for Part 2 — index runs Ch. 5 (p. 146) to Ch. 10 and answers to chapter tasks (p. 360). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 13).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Half-wave rectification | Grade 12 Student Textbook, printed pp. 150–151 |
+| Ch. 6 §6.4: rectification of alternating current — printed pp. 367–369 (Cuba, Grade 11) | Cuba, *Física — onceno grado (Grade 11 student book, 2024)*, Ch. 6 §6.4: rectification of alternating current — printed pp. 367–369 |
+| Ch. 9 §9.4: rectification of alternating current — printed pp. 312–315 (Cuba, Grade 11, Part 2) | Cuba, *Física Parte 2 — onceno grado (Grade 11 student book, Part 2, 2013)*, Ch. 9 §9.4: rectification of alternating current — printed pp. 312–315 |
 
 | Ch 11: applications of junction diodes in rectification (Kenya, Form Four) | Kenya, *Secondary Physics — Student's Book Four (KLB)*, Ch 11: applications of junction diodes in rectification — printed p. 198 |
 | Ch. 14 — rectifiers in the devices chapter (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 14 — rectifiers in the devices chapter |
 | Bài 4 — Rectifying alternating current: half-wave (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 4, Rectifying alternating current — printed p. 19 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Kenya, India, Vietnam).**
+**Acceptance count: taught in 5 countries (Ethiopia, Kenya, India, Vietnam, Cuba).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

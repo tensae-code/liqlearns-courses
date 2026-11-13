@@ -1,6 +1,6 @@
 # Sources — Reflection, refraction and splitting light
 
-countries: Ethiopia, Iran, China
+countries: Ethiopia, Iran, China, Cuba
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -12,6 +12,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 15:** *普通高中教科书·物理选择性必修 第一册 (Senior High Physics, Selective Compulsory Book 1)* (student book) — China, PEP (People's Education Press), 2019 series. Grade: senior elective track (filed grade-12 in the library; Selective Compulsory 1 belongs to the later senior years of the three-year senior sequence — the grade-12 filing is a library labelling debt, named in the placements file). Repo path: grade-12/gov/china/普通高中教科书-物理选择性必修 第一册.pdf. Route: recorded kyohwang raw source; byte size 10,448,338 = recorded exactly. PDF pages: 130. Offset: PDF = printed + 5 (proven: §2.4 pendulum, printed p.46, lands on PDF p.51). Verdict: COMPLETE — chapters 1–4 through research project (p.116) and index (p.121). Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/china-placements.md (Book 5).
 
+**Book 16:** *Física — noveno grado* (student textbook) — Cuba, © 2025, Ministerio de Educación, Cuba; Editorial Pueblo y Educación; ISBN 978-959-13-5080-0 (digital). Third Perfeccionamiento series. NOTE: this 2025 student book is two programme-generations ahead of the 2011–2012 Grade 9 programme in this set. Grade: 9 · Kind: student · Repo path: grade-09/gov/cuba/fisica/student/full-year.pdf (release asset grade-09-gov-cuba-fisica-student-full-year.pdf, mid-size-books-5) · Byte size: 39,537,276 (release asset, verified) · PDF pages: 442 · Offset: printed p. = PDF p. − 12 (printed 419 = PDF 431). Verdict: COMPLETE — 4 chapters plus a laboratory-equipment annex (printed pp. 419–428). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 9).
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reflection and its two laws | Ethiopia, *Grade 6 Student Textbook*, printed pp. 80–81 |
@@ -19,8 +21,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Dispersion — white light is seven colours | Ethiopia, *Grade 6 Student Textbook*, printed pp. 83–84 |
 | §3-7–3-8, Wave reflection; Wave refraction (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §3-7–3-8 — printed pp. 76, 81 |
 | Ch.4 §1 Refraction of light (China, Senior Physics, Selective Compulsory Book 1) | China, *Senior Physics, Selective Compulsory Book 1*, Ch.4 §1 Refraction of light — printed p. 85 — refractive index measured in an experiment |
+| Ch. 4 §4.5: regularities in reflection and refraction — printed pp. 329–334 (Cuba, Grade 9) | Cuba, *Física — noveno grado (Grade 9 student book, 2025)*, Ch. 4 §4.5: regularities in reflection and refraction — printed pp. 329–334 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iran, China).**
+**Acceptance count: taught in 4 countries (Ethiopia, Iran, China, Cuba).**
 
 The Grade 6 student book is COMPLETE (printed pp. 1–177). The GIF for the coin activity reuses the rising-water motion; the coin itself is carried by the picture and the activity — noted here so the GIF is not over-claimed.
 

@@ -1,10 +1,12 @@
 # Sources — Diffraction gratings — grooved surfaces splitting light by wavelength
 
-countries: Finland, Bhutan
+countries: Finland, Bhutan, Cuba
 
 **Book 1:** *Oppilastyö — Valon aaltoluonne (Pupil practical: The nature of light; printed title "Oppilastyö: Valon luonne")* (student practical with teacher/model-answer sections) — Finland, Grade 7 (level given in the document as yläkoulu, lower secondary), authors Ilona Savolainen & Tomi Koivisto, University of Jyväskylä students. Repo path: grade-07/gov/finland/physics/student/finland-g07-aoe3803-oppilastyo-valo.pdf. Bytes: 545,144 (exact match). PDF pages: 8. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 8 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
 **Book 2:** *Fundamentals of Physics, 10th Edition (Extended)* (student textbook — a US university textbook the library records as Bhutan's Class XI Physics book, adopted for Classes XI–XII) — Halliday, Resnick & Walker, John Wiley & Sons; Copyright 2014. Grade: 11 (recorded grade) · Student book · Repo path: grade-11/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-11-gov-bhutan-physics-full-year.pdf; books.json source_url: an archive.org copy of the same file). Byte size: 53,690,656 (exact match). PDF pages: 1,450 (record: 1,450). Offset: printed p. = PDF p. − 26 (printed p. 1 is PDF p. 27). Verdict: COMPLETE — full text layer, all 1,450 pages extracted; brief and detailed contents read in full, chapter openers and interiors sampled throughout. Note, on the record: the Grade 12 record is the SAME file — its MD5 (39e1817b05cf155433309dbb2f3289fe) is identical to this Grade 11 file's MD5, with the same byte size and page count — so the book is cited ONCE here, as the Grade 11 record, and never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
+
+**Book 3:** *Física — duodécimo grado, Parte 1* (student textbook, Part 1) — Cuba, Second edition 2007 (© Ministerio de Educación, Cuba, 1990; Editorial Pueblo y Educación, 1990; first reprint 2000); ISBN 959-13-0676-8 (complete work), 959-13-0677-6 (Part 1). Authors: Carlos Sifredo Barrios, Fernando González Pérez, Joaquín Tutor Sánchez, Antonio Pérez Hernández, Miguel Ferrer López. Grade: 12 · Kind: student (Part 1) · Repo path: grade-12/gov/cuba/fisica/student/part-1.pdf · Byte size: 16,853,129 (matches books.json record; staging copy used) · PDF pages: 85 print spreads (landscape, two printed pages per PDF page); printed pages 1–159 + colour plates (Láminas) · Offset: printed pp. run in spread order, printed 1 ≈ PDF spread 5. Verdict: COMPLETE for Part 1 — all 6 chapters present per full index. Library debt, carried on the record: the preface states Part 2 is devoted to consolidating the fundamental work methods of physics — no Grade 12 Part 2 book appears in the reading targets / library records for Cuba. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 14).
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -12,10 +14,11 @@ countries: Finland, Bhutan
 | Sub lesson 2 — Each wavelength its own angle — the CD rainbow | Finland, *Oppilastyö — Valon aaltoluonne*, the pupil practical (torch, CD, colours on the wall), PDF pp. 1–4; the CD-as-grating explanation, groove spacing and each wavelength reflected at its own angle, PDF p. 4 |
 | Sub lesson 3 — Gratings beside prisms — two ways to take light apart | Finland, *Oppilastyö — Valon aaltoluonne*, the CD-as-grating explanation, PDF p. 4 |
 | Do it first; key ideas; Do It Yourself | Finland, *Oppilastyö — Valon aaltoluonne*, the pupil practical, PDF pp. 1–4 |
+| Ch. 1 §1.5: diffraction networks/gratings — printed pp. 8–9 (Cuba, Grade 12, Part 1) | Cuba, *Física — duodécimo grado, Parte 1 (Grade 12 student book, Part 1)*, Ch. 1 §1.5: diffraction networks/gratings — printed pp. 8–9 |
 
 | Diffraction gratings — grooved surfaces splitting light by wavelength — Ch. 36 Diffraction: single/double slit, gratings, X-ray diffraction — printed p. 1081 — same NEW lesson as the Finland Grade 7 practical names (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 36 Diffraction: single/double slit, gratings, X-ray diffraction — printed p. 1081 — same NEW lesson as the Finland Grade 7 practical names |
 
-**Acceptance count: taught in 2 countries (Finland, Bhutan).**
+**Acceptance count: taught in 3 countries (Finland, Bhutan, Cuba).**
 
 Placement choice, on the record: this NEW LESSON was built for the Finland placement "Diffraction gratings — grooved surfaces splitting light by wavelength" — finland-placements.md, Book 3, PDF p. 4 — which goes beyond the existing dispersion lesson's prism/rainbow treatment. It sits in light/ beside that dispersion lesson and is registered in CURRICULUM.md Unit 5 (Light). The source is a pupil practical (student material with model answers), so Finland counts for this lesson.
 

@@ -1,6 +1,6 @@
 # Sources — Careers that use physics
 
-countries: Ethiopia, Uganda, Kenya, Vietnam
+countries: Ethiopia, Uganda, Kenya, Vietnam, Cuba
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -10,16 +10,22 @@ countries: Ethiopia, Uganda, Kenya, Vietnam
 
 **Book 4:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 5:** *Programa: Física — octavo grado* (curriculum programme — teacher/curriculum evidence, NOT a student book, cited as it is) — Cuba, Ministerio de Educación, Cuba, 2024; Editorial Pueblo y Educación; ISBN 978-959-13-4740-4 (digital). Third Perfeccionamiento (curriculum reform) series. Grade: 8 · Kind: teacher (curriculum programme) · Repo path: grade-08/gov/cuba/fisica/teacher/full-year.pdf · Byte size: 297,865 (matches books.json record; staging copy used) · PDF pages: 22 · Offset: printed p. = PDF p. − 3 (printed 1 = PDF 4). Verdict: COMPLETE — full programme read, printed pp. 1–17 + bibliography. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 1).
+
+**Book 6:** *Física — octavo grado* (student textbook) — Cuba, © 2002, Ministerio de Educación / Editorial Pueblo y Educación; ISBN 959-13-0996-1. Authors: Pablo Valdés Castro, Rolando Valdés Castro, Carlos Sifredo Barrios. NOTE: this is the 2002 edition — the repo's tree copy is the old student book, while the Grade 8 programme and orientations in this set are the 2024 reform editions (edition mismatch in the library's Cuba G8 set). Grade: 8 · Kind: student · Repo path: grade-08/gov/cuba/fisica/student/full-year.pdf · Byte size: 3,001,043 (Contents-API meta + raw download, verified; no size in books.json) · PDF pages: 121 · Offset: printed p. = PDF p. − 6 (printed 1 = PDF 7). Verdict: COMPLETE — 4 chapters, ends with Chapter 4 consolidation activities at printed p. 114. Duplicate note, carried on the record: the Biblioteca CubaEduca route (grade-08/gov/cuba/fisica/student/full-year-biblioteca.pdf) holds the exact same 2002 book at the identical byte size — cited once here, never double-counted. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 7).
+
 | Lesson part | Where it comes from |
 |---|---|
 | The mission of physics and careers in physics | Grade 11 Student Textbook, printed pp. 7–10 |
+| Unit 1: what physicists actually do (observe, search information, design experiments, publish) and Cuban/international scientists' work — printed p. 7 (programme evidence) (Cuba, Grade 8 programme) | Cuba, *Programa: Física — octavo grado (Grade 8 programme)*, Unit 1: what physicists actually do (observe, search information, design experiments, publish) and Cuban/international scientists' work — printed p. 7 |
+| Ch. 1 §1.3.4: the work of physicists — printed pp. 17–18 (Cuba, Grade 8) | Cuba, *Física — octavo grado (Grade 8 student book, 2002)*, Ch. 1 §1.3.4: the work of physicists — printed pp. 17–18 |
 
 | Ch 1: careers in physics (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 1 — printed p. 6 |
 
 | Ch 1: career opportunities in physics (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 1: career opportunities in physics — printed p. ~5 |
 | Bài 3 — Applications of physics in some professions (Vietnam, Grade 10) | Vietnam, *Chuyên đề học tập Vật lí 10*, Bài 3, Introducing applications of physics in some professions: the careers lesson in extended, profession-by-profession form — printed p. 22 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Kenya, Vietnam).**
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Kenya, Vietnam, Cuba).**
 
 In the student book, figure numbering restarts oddly in Unit 1's current-status section (Figures 9–16); no figure numbers are relied on in these lessons.
 
