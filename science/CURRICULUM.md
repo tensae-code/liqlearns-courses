@@ -1026,6 +1026,7 @@ solar-system comparison lessons.
 336. **Why food insecurity happens** (`biology/why-food-insecurity-happens`) — Global food supply is uneven because physical factors (climate, soil quality, gradient) and human factors (technology) control what is produced where; the causes-of-food-insecur…
 337. **Why species go extinct** (`biology/why-species-go-extinct`) — Causes of species extinction are listed in teaching-note form: habitat degradation and destruction (elimination or change of living space), toxicity (killing directly through fo…
 338. **Why we eat — energy, building, protection** (`biology/why-we-eat`) — food gives energy, builds and repairs the body, and protects it — shortage of a group causes deficiency disease.
+339. **Epidemic curves and healthcare capacity** (`biology/epidemic-curves-and-healthcare-capacity`) — an epidemic curve plots cases against time; without protective measures its peak crosses the healthcare-capacity line, with them the curve flattens and the peak stays under it — taught from Sweden's tactile "flatten the curve" graph (Sweden, Grade 1 — *Platta ut kurvan*, SPSM tactile sheet set, PDF pp. 1–2)
 
 ## Unit 18 — Physics
 

@@ -1,17 +1,22 @@
 # Sources — Viruses
 
-countries: Ethiopia
+countries: Ethiopia, Sweden
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
+
+**Book 2:** Coronavirus — Sweden. Grade: 1 (grade-01) — Kind: student (tactile teaching sheet) as verified — Repo path: grade-01/gov/sweden/tryckoriginal-coronavirus-for-egen-utskrift.pdf — Source URL: https://webbutiken.spsm.se/globalassets/egenproduktion/filer/tryckoriginal-coronavirus-for-egen-utskrift.pdf. Byte size: 1,930,539 (books.json size_bytes: null — no record size to check against) — PDF pages: 3 (matches books.json pages: 3) — Printed-page offset: none (unnumbered sheets; PDF p. = sheet). Verdict: COMPLETE — all 3 sheets present: title sheet, cross-section diagram of the coronavirus, and the labelled key to the diagram. An SPSM (Specialpedagogiska skolmyndigheten — Swedish Agency for Special Needs Education and Schools) tactile print original ("tryckoriginal … för egen utskrift" = print original for own printing): a raised-line / swell-paper teaching sheet for visually impaired learners, not a prose textbook. Text layer carries only the title, diagram labels and the answer key; the teaching content is the tactile diagram itself. Structure: a single tactile cross-section of a coronavirus particle; the key (sheet 3) labels E-protein, hemagglutinin-esterase (HE), M-protein, glycoprotein (S) [spike], RNA with N-protein, and the shell/envelope (skal). Sweden's way: virology taught to the youngest / visually impaired learners as one touchable labelled model — structure only, no transmission or disease text. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sweden-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Viruses (§2.5): | Student Textbook, Grade 12 — Printed pp. 78–89. |
+| What a virus particle is made of (Sweden) | Book 2 (Coronavirus, SPSM tactile sheet set) — whole sheet set, PDF pp. 2–3 — protein coat/envelope, spikes and RNA inside, introduced as a labelled model before any disease content |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Sweden).**
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, viruses
+Honesty (Sweden): Book 2 is an SPSM tactile teaching sheet set — a raised-line print original for visually impaired learners, cited as exactly that, not as a prose textbook; its teaching content is the tactile diagram itself, and the placements' page references are PDF sheet numbers (the sheets are unnumbered). It is student material as verified in the placements, so Sweden counts toward acceptance.
+
+Searchable tags: biology, ethiopia, sweden, viruses
