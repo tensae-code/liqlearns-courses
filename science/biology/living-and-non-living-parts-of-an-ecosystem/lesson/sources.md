@@ -1,6 +1,6 @@
 # Sources — Living and non-living parts of an ecosystem
 
-countries: Ethiopia, Syria
+countries: Ethiopia, Syria, Nicaragua
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -8,16 +8,21 @@ countries: Ethiopia, Syria
 
 **Book 3:** علم الأحياء والأرض — الصف السابع (Biology & Earth Science, Grade 7) — Syrian Arab Republic, Ministry of Education, National Center for Curriculum Development (NCCD), 2022 edition (Syria MoE / NCCD 2021–2022, printed 2022) — Syria. Grade: 7 — Kind: student as verified — Repo path (release full-quality-oversized-books): grade-07-gov-syria-science-student-full-year.pdf — Byte size: 120,700,651 — PDF pages: 172 — Printed pages: 172 (contents الفهرست at printed pp. 3–4); printed p. = PDF page. Verdict: COMPLETE — five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/syria-placements.md.
 
+**Book 4:** Biología — Undécimo grado (MINED Nicaragua; "Somos vida y energía — Ciencias Físico Naturales-Biología, Undécimo Grado") — Nicaragua. Grade: 11 — Kind: student as verified — Repo path: grade-11/gov/nicaragua/biology/student/full-year.pdf (release mid-size-books-3 and blob) — Source URL: https://www.mined.gob.ni/biblioteca/wp-content/uploads/2025/10/Biologia-11mo-grado-2019-app.pdf — Byte size: 9,243,302 — PDF pages: 163 — Printed-page offset: printed p. = PDF page + 1 (contents printed pp. 13–164). Verdict: COMPLETE — all five units of the contents present, each closing with its Autoevaluación, and the Bibliografía at the end (PDF p. 162; PDF p. 163 blank). Structural summary: Nicaragua writes the whole book in the first person plural of belonging — "Somos biología" (We are biology), "Así estamos formados" (This is how we are made), "Nuestras células realizan funciones". Units: We are biology (biology and our environment, origin of life, evolutionist theories of the 17th century onward, human evolution) → How we are formed (the cell, organelles, cell functions, meiosis and gametogenesis) → Precursor molecules of life (inorganic and organic biomolecules, carbohydrates/lipids/proteins in our diet, DNA as "the molecular language of life") → Biological inheritance (Mendelian genetics, chromosomal theory, mutations) → Ecology and environment (ecosystems, biogeochemical cycles, environment and health). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/nicaragua-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 140–143 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 93–101 |
 | Syria's way — the ecosystem (placement slug: what-an-ecosystem-is) | Book 3 (Biology & Earth Science, student textbook, Grade 7), Unit 5, Lesson 2: النظام البيئي (The Ecosystem) — printed p. 156 |
+| Nicaragua's way — Unidad 5.2: La diversidad de los ecosistemas | Book 4 (Biología — Undécimo grado, student textbook, Grade 11), Unidad 5.2, printed p. 141 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Syria).**
+**Acceptance count: taught in 3 countries (Ethiopia, Syria, Nicaragua).**
+
+Honesty (Nicaragua): Book 4 is a student textbook as verified in the placements — *Biología — Undécimo grado* (MINED Nicaragua; "Somos vida y energía — Ciencias Físico Naturales-Biología, Undécimo Grado"), Grade 11 — so Nicaragua counts toward acceptance. It is COMPLETE: all five units of the contents present, each closing with its Autoevaluación, and the Bibliografía at the end; 163 PDF pages, printed p. = PDF page + 1. The same Undécimo-grado text was recorded three times in the library records (two TSV rows — release + blob — and one books.json record); it is one distinct book, taught once and cited once here. Nicaragua's own way runs through the whole book and is content in this lesson: the book is written in the first person plural of belonging — "Somos biología", "Así estamos formados", "Nuestras células realizan funciones".
 
 Honesty: the Grade 9 teacher guide paired with the student book is a pre-publication draft whose publication page was never filled in (placeholder date and ISBN) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. The student book is the finished 2023 first publication. Book errors the placements flag are taught corrected and named here only: the contents lists Unit 3 starting at 3.2 although 3.1 exists in the body; the contents omits §4.3.5 (sporulation and parthenogenesis); the wolf's name is printed “Canissimensis” in a table on printed p. 27 and is taught corrected as Canis simensis; “Musa acuminate” is taught corrected as Musa acuminata.
 
 Honesty (Syria): Book 3 is a student textbook as verified in the placements — علم الأحياء والأرض (Biology & Earth Science), Grade 7, Syria MoE / NCCD, printed 2022 — so Syria counts toward acceptance. It is COMPLETE: five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page (172 printed pp.; printed p. = PDF page). Despite the cover's “and Earth”, the book's own introduction calls it “علم الأحياء والبيئة” (Biology and Environment), and its contents contain NO earth-science unit — all five units are biology and environment, so there is no earth-science debt from this book.
 
-Searchable tags: biology, ethiopia, syria, living, and, non, living, parts, ecosystem
+Searchable tags: biology, ethiopia, syria, living, and, non, living, parts, ecosystem, nicaragua

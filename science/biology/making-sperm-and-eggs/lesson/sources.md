@@ -1,15 +1,20 @@
 # Sources — Making sperm and eggs
 
-countries: Ethiopia
+countries: Ethiopia, Nicaragua
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** Biología — Undécimo grado (MINED Nicaragua; "Somos vida y energía — Ciencias Físico Naturales-Biología, Undécimo Grado") — Nicaragua. Grade: 11 — Kind: student as verified — Repo path: grade-11/gov/nicaragua/biology/student/full-year.pdf (release mid-size-books-3 and blob) — Source URL: https://www.mined.gob.ni/biblioteca/wp-content/uploads/2025/10/Biologia-11mo-grado-2019-app.pdf — Byte size: 9,243,302 — PDF pages: 163 — Printed-page offset: printed p. = PDF page + 1 (contents printed pp. 13–164). Verdict: COMPLETE — all five units of the contents present, each closing with its Autoevaluación, and the Bibliografía at the end (PDF p. 162; PDF p. 163 blank). Structural summary: Nicaragua writes the whole book in the first person plural of belonging — "Somos biología" (We are biology), "Así estamos formados" (This is how we are made), "Nuestras células realizan funciones". Units: We are biology (biology and our environment, origin of life, evolutionist theories of the 17th century onward, human evolution) → How we are formed (the cell, organelles, cell functions, meiosis and gametogenesis) → Precursor molecules of life (inorganic and organic biomolecules, carbohydrates/lipids/proteins in our diet, DNA as "the molecular language of life") → Biological inheritance (Mendelian genetics, chromosomal theory, mutations) → Ecology and environment (ecosystems, biogeochemical cycles, environment and health). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/nicaragua-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Gametogenesis — spermatogenesis and oogenesis | Student Textbook, Grade 11 — Printed pp. 190–192. |
+| Nicaragua's way — Unidad 2.4: gametogenesis alongside meiosis | Book 2 (Biología — Undécimo grado, student textbook, Grade 11), Unidad 2.4, printed pp. 65–67 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Nicaragua).**
+
+Honesty (Nicaragua): Book 2 is a student textbook as verified in the placements — *Biología — Undécimo grado* (MINED Nicaragua; "Somos vida y energía — Ciencias Físico Naturales-Biología, Undécimo Grado"), Grade 11 — so Nicaragua counts toward acceptance. It is COMPLETE: all five units of the contents present, each closing with its Autoevaluación, and the Bibliografía at the end; 163 PDF pages, printed p. = PDF page + 1. The same Undécimo-grado text was recorded three times in the library records (two TSV rows — release + blob — and one books.json record); it is one distinct book, taught once and cited once here. Nicaragua's own way runs through the whole book and is content in this lesson: the book is written in the first person plural of belonging — "Somos biología", "Así estamos formados", "Nuestras células realizan funciones".
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, making, sperm, and, eggs
+Searchable tags: biology, ethiopia, making, sperm, and, eggs, nicaragua
