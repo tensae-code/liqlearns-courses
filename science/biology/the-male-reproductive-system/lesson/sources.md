@@ -1,6 +1,6 @@
 # Sources — The male reproductive system
 
-countries: Ethiopia, Morocco
+countries: Ethiopia, Morocco, Palestine
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -10,14 +10,19 @@ countries: Ethiopia, Morocco
 
 **Book 4:** Guide Almoufid SVT — 2e année collégiale (Al Moufid in Life and Earth Sciences, Teacher's Guide) — Morocco. “Al Moufid en Sciences de la Vie et de la Terre — Guide du professeur”, Deuxième Année de l'enseignement collégial (2AC = Grade 8), the French-language teacher guide for the parascolaire manual. Grade: 8 — Kind: teacher as verified — Repo path (release mid-size-books-3): grade-08-gov-morocco-svt-teacher-full-year.pdf. Byte size: 6,082,584 — PDF pages: 90 — Printed-page offset: printed p. = PDF page − 1 (Sommaire at printed p. 88). Verdict: COMPLETE as a guide — methodology part plus both programme units worked as sequences with tasks; the guide ends with its Sommaire. TEACHER'S GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/morocco-placements.md.
 
+**Book 5:** العلوم الحياتية — الصف العاشر (Life Sciences, Grade 10; Palestinian Ministry of Education) — Palestine. Grade: 10 — Kind: student as verified — Repo path: grade-10/gov/palestine/life-sciences/full-year.pdf — Byte size: 5,620,184 (record gives no size) — PDF pages: 132 — Printed pages: 126+ (references at printed p. 126); printed-page offset: printed p. = PDF page − 5 approx. (contents at PDF p. 5). Verdict: COMPLETE — four units and the reference list all present. Structural summary: Cell structure and functions (microscopes first, then the genetic material inside the cell — including DNA replication and mutations in Grade 10) → the cell cycle and division (with tumours as a named topic, and crossing over) → human body systems (the four tissues, the reproductive systems with diseases, the urinary system down to the nephron) → classification of living organisms (modern classification, naming, levels, morphological vs genetic classification; the protist and fungi kingdoms, with the positive roles of protists and fungi in daily life). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 84–86 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 53–71 |
 | The Grade 11 depth — external organs (penis, testes, scrotum) and internal parts (prostate, vas deferens, urethra) producing and depositing sperm; erection mechanics (arousal dilates the arteries of the erectile tissues, blood engorges them and compressed veins trap it); the urethra carrying both urine and semen | Book 3 (student textbook, Grade 11), printed pp. 186–188 |
 | Morocco's way — pupils trace (calquer) the reproductive apparatus of the mouse and label it (teacher guide — evidence) | Book 4 (Guide Almoufid SVT, teacher's guide, Grade 8), printed p. 58 |
+| Palestine's way — the reproductive systems and reproduction — the male system (placement slug: the-male-reproductive-system) | Book 5 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 3 Ch. 2: the reproductive systems and reproduction — printed pp. 68–79 |
 
-**Acceptance count: taught in 1 country (Ethiopia) — Morocco's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 2 countries (Ethiopia, Palestine) — Morocco's teacher-guide evidence is named here and counted nowhere.**
+
+Honesty (Palestine): Book 5 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
 Honesty: the Grade 9 teacher guide paired with the student book is a pre-publication draft whose publication page was never filled in (placeholder date and ISBN) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. The student book is the finished 2023 first publication. Book errors the placements flag are taught corrected and named here only: the contents lists Unit 3 starting at 3.2 although 3.1 exists in the body; the contents omits §4.3.5 (sporulation and parthenogenesis); the wolf's name is printed “Canissimensis” in a table on printed p. 27 and is taught corrected as Canis simensis; “Musa acuminate” is taught corrected as Musa acuminata.
 
@@ -25,4 +30,4 @@ Fix note (2026-11-12): the Grade 11 depth above (Book 3, printed pp. 186–188) 
 
 Honesty (Morocco): Morocco's evidence here is a teacher's guide only — the Guide Almoufid SVT, Grade 8 — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count.
 
-Searchable tags: biology, ethiopia, morocco, the, male, reproductive, system
+Searchable tags: biology, ethiopia, morocco, the, male, reproductive, system, palestine

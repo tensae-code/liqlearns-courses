@@ -1,17 +1,22 @@
 # Sources — Fungi
 
-countries: Ethiopia, Syria
+countries: Ethiopia, Syria, Palestine
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
 **Book 2:** علم الأحياء والأرض — الصف السابع (Biology & Earth Science, Grade 7) — Syrian Arab Republic, Ministry of Education, National Center for Curriculum Development (NCCD), 2022 edition (Syria MoE / NCCD 2021–2022, printed 2022) — Syria. Grade: 7 — Kind: student as verified — Repo path (release full-quality-oversized-books): grade-07-gov-syria-science-student-full-year.pdf — Byte size: 120,700,651 — PDF pages: 172 — Printed pages: 172 (contents الفهرست at printed pp. 3–4); printed p. = PDF page. Verdict: COMPLETE — five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/syria-placements.md.
 
+**Book 3:** العلوم الحياتية — الصف العاشر (Life Sciences, Grade 10; Palestinian Ministry of Education) — Palestine. Grade: 10 — Kind: student as verified — Repo path: grade-10/gov/palestine/life-sciences/full-year.pdf — Byte size: 5,620,184 (record gives no size) — PDF pages: 132 — Printed pages: 126+ (references at printed p. 126); printed-page offset: printed p. = PDF page − 5 approx. (contents at PDF p. 5). Verdict: COMPLETE — four units and the reference list all present. Structural summary: Cell structure and functions (microscopes first, then the genetic material inside the cell — including DNA replication and mutations in Grade 10) → the cell cycle and division (with tumours as a named topic, and crossing over) → human body systems (the four tissues, the reproductive systems with diseases, the urinary system down to the nephron) → classification of living organisms (modern classification, naming, levels, morphological vs genetic classification; the protist and fungi kingdoms, with the positive roles of protists and fungi in daily life). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Fungi (§2.3): | Student Textbook, Grade 12 — Printed pp. 62–70. |
 | Syria's way — the fungi (placement slug: fungi-animal-like-plants) | Book 2 (Biology & Earth Science, student textbook, Grade 7), Unit 2, Lesson 3: الفطريات (the fungi) — printed p. 46 |
+| Palestine's way — Kingdom Fungi — characteristics; classification; the effect of fungi on our lives (placement slug: fungi-animal-like-plants) | Book 3 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 4 Ch. 3: Kingdom Fungi — characteristics; classification; the effect of fungi on our lives — printed pp. 113–118 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Syria).**
+**Acceptance count: taught in 3 countries (Ethiopia, Syria, Palestine).**
+
+Honesty (Palestine): Book 3 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
@@ -19,4 +24,4 @@ Pairing warning (carried exactly as the placements state it): the Grade 12 stude
 
 Honesty (Syria): Book 2 is a student textbook as verified in the placements — علم الأحياء والأرض (Biology & Earth Science), Grade 7, Syria MoE / NCCD, printed 2022 — so Syria counts toward acceptance. It is COMPLETE: five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page (172 printed pp.; printed p. = PDF page). Despite the cover's “and Earth”, the book's own introduction calls it “علم الأحياء والبيئة” (Biology and Environment), and its contents contain NO earth-science unit — all five units are biology and environment, so there is no earth-science debt from this book.
 
-Searchable tags: biology, ethiopia, syria, fungi
+Searchable tags: biology, ethiopia, syria, fungi, palestine

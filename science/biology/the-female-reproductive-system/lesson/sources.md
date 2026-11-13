@@ -1,6 +1,6 @@
 # Sources — The female reproductive system
 
-countries: Ethiopia
+countries: Ethiopia, Palestine
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -8,16 +8,21 @@ countries: Ethiopia
 
 **Book 3:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
+**Book 4:** العلوم الحياتية — الصف العاشر (Life Sciences, Grade 10; Palestinian Ministry of Education) — Palestine. Grade: 10 — Kind: student as verified — Repo path: grade-10/gov/palestine/life-sciences/full-year.pdf — Byte size: 5,620,184 (record gives no size) — PDF pages: 132 — Printed pages: 126+ (references at printed p. 126); printed-page offset: printed p. = PDF page − 5 approx. (contents at PDF p. 5). Verdict: COMPLETE — four units and the reference list all present. Structural summary: Cell structure and functions (microscopes first, then the genetic material inside the cell — including DNA replication and mutations in Grade 10) → the cell cycle and division (with tumours as a named topic, and crossing over) → human body systems (the four tissues, the reproductive systems with diseases, the urinary system down to the nephron) → classification of living organisms (modern classification, naming, levels, morphological vs genetic classification; the protist and fungi kingdoms, with the positive roles of protists and fungi in daily life). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/palestine-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 86–88 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 53–71 |
 | The Grade 11 depth — external structures (labia majora and minora, clitoris) and internal organs (vagina, also the birth canal; uterus with its cervix; fallopian tubes; ovaries), each organ's function tabled, and the system's jobs (producing eggs, secreting hormones such as oestrogen, providing the site of fertilisation, gestating a fetus, giving birth) | Book 3 (student textbook, Grade 11), printed pp. 188–190 |
+| Palestine's way — the female system, through fertilisation and the stages of embryo development (placement slug: the-female-reproductive-system) | Book 4 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 3 Ch. 2: the female system within the same chapter, through fertilisation and the stages of embryo development — printed pp. 68–79 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Palestine).**
+
+Honesty (Palestine): Book 4 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
 Honesty: the Grade 9 teacher guide paired with the student book is a pre-publication draft whose publication page was never filled in (placeholder date and ISBN) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. The student book is the finished 2023 first publication. Book errors the placements flag are taught corrected and named here only: the contents lists Unit 3 starting at 3.2 although 3.1 exists in the body; the contents omits §4.3.5 (sporulation and parthenogenesis); the wolf's name is printed “Canissimensis” in a table on printed p. 27 and is taught corrected as Canis simensis; “Musa acuminate” is taught corrected as Musa acuminata.
 
 Fix note (2026-11-12): the Grade 11 depth above (Book 3, printed pp. 188–190) was added to this lesson; the Grade 9 rows are unchanged and remain the lesson's foundation.
 
-Searchable tags: biology, ethiopia, the, female, reproductive, system
+Searchable tags: biology, ethiopia, the, female, reproductive, system, palestine
