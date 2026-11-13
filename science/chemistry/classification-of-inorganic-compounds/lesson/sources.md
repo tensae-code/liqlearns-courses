@@ -1,0 +1,18 @@
+# Sources — Classification of inorganic compounds
+
+countries: Armenia
+
+**Book 1:** *Քիմիա 8 (Chemistry, Grade 8, student textbook)* (student textbook) — Armenia. Title as printed: ՔԻՄԻԱ 8 — Հանրակրթական դպրոցի 8-րդ դասարանի դասագիրք (Chemistry 8, textbook for Grade 8), Ք. Բդոյան, Զ. Կարապետյան, Մ. Գափոյան, printed «Թոփ Պրինտ», 2024, guaranteed/approved by the RA Ministry of Education, Science, Culture and Sport; cover itself diagrams the course scheme (metal / nonmetal / basic oxide / acidic oxide / base / acid / salt). Grade: 8 · Kind as verified: student textbook (matches record). Repo path: grade-08/gov/armenia/chemistry/student/armenia-g08-chemistry-student.pdf (TSV twin: mid-size-books-4 release asset grade-08-gov-armenia-chemistry-student-armenia-g08-chemistry-student.pdf — same book, placed once). Byte size: 17,488,888 (no size recorded in either record) · PDF pages: 170 · Printed-page offset: printed p. = PDF p. − 1 (answers folio 165 sits on PDF p. 166; contents on PDF pp. 167–168). Verdict: COMPLETE (answers section closes the book at printed p. 165; Mendeleev periodic-system wall chart printed as the final page). Reading basis: full text layer extracted; contents (PDF pp. 167–168, column-jumbled in extraction) reconstructed and every theme's lesson openers verified in the body text layer (lesson numbers and titles quoted from the body). Structure: 6 themes — electronic structure of the atom; chemical bond; classification of inorganic substances (oxides, bases, acids, salts and their genetic connection); amount of substance — the mole; solutions (solubility, mass fraction, molar concentration); types of chemical reactions (exchange, displacement, neutralisation, exo/endothermic and thermochemical equations). Records deduped: 12 records = 6 distinct books for Armenia — this book cited ONCE here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Four main classes | Book 1 (Grade 8), Theme 3, §3/1 Classification of inorganic compounds — printed p. 59 — Four main classes |
+| Sub lesson 2 — The cover scheme — how the classes connect | Book 1 (Grade 8), Theme 3, §3/1 Classification of inorganic compounds — printed p. 59 — The cover scheme — how the classes connect |
+| Sub lesson 3 — One class at a time, after the map | Book 1 (Grade 8), Theme 3, §3/1 Classification of inorganic compounds — printed p. 59 — One class at a time, after the map |
+| Do it first; key ideas; Do It Yourself | Book 1 (Grade 8), Theme 3, §3/1 Classification of inorganic compounds — printed p. 59 |
+
+**Acceptance count: taught in 1 country (Armenia).**
+
+Placement choice, on the record: this NEW LESSON was built for the Armenia placement "[NEW LESSON NEEDED: classification-of-inorganic-compounds] — Theme 3, §3/1 Classification of inorganic compounds — printed p. 59 — the four main classes (oxides, bases, acids, salts) set out as one classification scheme; no existing slug is this overview lesson (the cover prints the same scheme)." — armenia-placements.md. The tree check agrees: no existing lesson covers this thing as its own lesson (checked against the 408 chemistry lessons standing at merge time), so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Armenia's own way of teaching the thing, as the placement describes it, IS part of this lesson's content, carried exactly as the placement describes it. The book is a student textbook, so this lesson counts toward acceptance normally.
+
+Searchable tags: chemistry, classification, inorganic compounds, oxides, bases, acids, salts, Armenia Grade 8
