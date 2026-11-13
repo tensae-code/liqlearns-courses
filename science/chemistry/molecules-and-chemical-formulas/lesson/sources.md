@@ -1,8 +1,10 @@
 # Sources — Molecules and chemical formulas
 
-countries: Djibouti
+countries: Djibouti, Cuba
 
 **Book 1 (teacher evidence only):** *Guide du professeur Physique-Chimie, 8ème année* (teacher guide) — Djibouti. Title as printed: Guide du professeur Physique-Chimie, 8ème année (conçu et réalisé par Abdillahi Farah Wais; Ministère de l'Éducation Nationale, République de Djibouti). Grade: Grade 8. Kind: teacher guide for the combined Physique-Chimie course, in French. Repo path: grade-08/gov/djibouti/physics-chemistry/full-year.pdf. Byte size: 1,907,488 (no size in record; matches the Physics-wave copy). PDF pages: 79; printed-page offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — full text read (23,526 words); sommaire and chapter sequence prove identity; the Chemistry part (Partie II) runs Ch. 4–7 between the electricity part and the mechanics part. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/djibouti-placements.md. EVIDENCE ONLY: this teacher guide is cited as teacher evidence only and is NOT counted toward this lesson's acceptance count. The library holds no Djibouti student manual (recorded debt from both waves), so no pupil-book content is claimed; the lesson is built from the guide content the placements describe.
+
+**Book 2:** *Química — Duodécimo grado, Parte 2 (Nury I. Collada Martínez, Miguel M. Martínez Sánchez, Irene Comendeiros Torres, Pablo S. Perea Pérez, Carlos Rodríguez Argüelles; 2008 reprint line, Perfeccionamiento Continuo del Sistema Nacional de Educación General Politécnica y Laboral)* — Cuba. Title as printed: Química — Duodécimo grado, Parte 2 (Nury I. Collada Martínez, Miguel M. Martínez Sánchez, Irene Comendeiros Torres, Pablo S. Perea Pérez, Carlos Rodríguez Argüelles; 2008 reprint line, Perfeccionamiento Continuo del Sistema Nacional de Educación General Politécnica y Laboral) Grade: 12 (Preuniversitario) Kind as verified: student textbook (Parte 2 — the systematisation part of the older Grade 12 course) Repo path: grade-12/gov/cuba/quimica/student/part-2-2008.pdf (books.json record — grabbed via the tree route with the curl grabber) Byte size: 3,386,882 (grabbed file) PDF pages: 42 (later signatures print two book pages per sheet) Verdict: COMPLETE — read in full via the extracted text layer Read in the 2026-11-12 Chemistry expansion read. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/cuba-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -10,8 +12,11 @@ countries: Djibouti
 | Sub lesson 2 — Counting the guide's three formulas (teacher evidence only) | Djibouti, *Guide du professeur Physique-Chimie, 8ème année* (teacher guide), Ch. 4: Atomes, molécules et ions, printed p. 41 — Counting the guide's three formulas (teacher evidence) |
 | Sub lesson 3 — Simple bodies and compound bodies (teacher evidence only) | Djibouti, *Guide du professeur Physique-Chimie, 8ème année* (teacher guide), Ch. 4: Atomes, molécules et ions, printed p. 41 — Simple bodies and compound bodies (teacher evidence) |
 | Do it first; key ideas; Do It Yourself (teacher evidence only) | Djibouti, *Guide du professeur Physique-Chimie, 8ème année* (teacher guide), Ch. 4: Atomes, molécules et ions, printed p. 41 (teacher evidence) |
+| Ch. 2, §2.1 (Cuba, Grade 12) | Book 2 (Grade 12) — printed p. ~16 — chemical formulae and their double interpretation, qualitative and quantitative — what a formula says about composition and about amounts. |
 
-**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Djibouti), named here, counted nowhere.**
+**Acceptance count: taught in 1 country (Cuba).** Djibouti is named as teacher evidence only (its Grade 8 *Guide du professeur Physique-Chimie, 8ème année* — teacher guide, NOT a student textbook), not added to this count; Cuba's Grade 12 student textbook now carries this lesson on student-book evidence.
+
+**Placement-choice note (Cuba):** the Cuba placements file names `chemistry/reading-a-formula` for this content; that thing is covered by this lesson, so the Cuba provenance rows above are stocked here and the original slug is recorded verbatim in this note.
 
 Placement choice, on the record: this NEW LESSON was built for the Djibouti placement "NEW LESSON NEEDED: chemistry/molecules-and-chemical-formulas — Ch. 4: Atomes, molécules et ions — printed p. 41" — djibouti-placements.md. No existing lesson covers this thing, so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Djibouti's own way of teaching the thing, as the placements describe it, IS content in this lesson, carried exactly as described; nothing is presented as pupil-book content.
 
