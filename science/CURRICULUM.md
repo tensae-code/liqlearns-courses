@@ -1182,6 +1182,16 @@ solar-system comparison lessons.
 
 445. **Posture and musculoskeletal hygiene** (`biology/posture-and-musculoskeletal-hygiene`) — correct posture for a growing body, preventing spinal curvature and flat feet, and exercise hygiene (Armenia, Grade 8 — *Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8)*, student textbook, §22, printed p. 81)
 
+446. **The seashore community** (`biology/the-seashore-community`) — a seashore community studied as a whole: the living things of a shore live in zones between the tides, each kind living where it can stand the covering and uncovering of the sea (Fiji, Grade 11 — *Biology for All — Year 11*, student textbook, Ch. 6.2.2, printed p. 86)
+
+447. **First aid basics** (`biology/first-aid-basics`) — first aid is the first help given to a person who is injured or suddenly taken ill, before medical help takes over: keep the person and yourself safe, keep the airway open and breathing going, stop bleeding, keep the person still and warm, and send for help (Fiji, Grade 11 — *Biology for All — Year 11*, student textbook, Ch. 8.5, printed p. 118)
+
+448. **Saltwater intrusion and coastal aquifers** (`biology/saltwater-intrusion-and-coastal-aquifers`) — beneath a coast, fresh groundwater sits on denser salt water; when the sea level rises, the salt water pushes further inland and up into the fresh water — saltwater intrusion — and Fiji's coastal wells and aquifers are where it strikes first (Fiji, Grade 12 — *Biology for All — Year 12*, student textbook, Sub-strand 3.2, printed p. 193)
+
+449. **Cyanobacteria — the blue-green algae** (`biology/cyanobacteria-blue-green-algae`) — cyanobacteria are bacteria that photosynthesise: single cells and filaments of Kingdom Monera that make their own food from sunlight like plants do, which is why they were long mistaken for algae (Fiji, Grade 13 — *Biology for All — Year 13 Biology*, student textbook, §3.2.2, printed p. 143)
+
+450. **Body cavities — acoelomate, pseudocoelomate, coelomate** (`biology/body-cavities-acoelomate-pseudocoelomate-coelomate`) — animals are sorted by the cavity inside the body wall: acoelomates have no cavity, pseudocoelomates have a cavity not lined by mesoderm, and coelomates have a true coelom, a cavity fully lined by mesoderm, in which the organs lie and move (Fiji, Grade 13 — *Biology for All — Year 13 Biology*, student textbook, §3.2.6, printed pp. 195–201)
+
 
 
 ## Unit 18 — Physics

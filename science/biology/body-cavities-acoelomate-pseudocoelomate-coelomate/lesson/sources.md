@@ -1,0 +1,15 @@
+# Sources — Body cavities — acoelomate, pseudocoelomate, coelomate
+
+countries: Fiji
+
+**Book 1:** Biology for All — Year 13 Biology — Fiji. Grade: 13 (Year 13) — Kind: student as verified — Repo path: grade-13/gov/fiji/biology/student/full-year.pdf (grabbed via the TSV release asset grade-13-gov-fiji-biology-student-full-year.pdf, mid-size-books-7) — Source URL (books.json): Google Drive viewer link (view-only; not used — the GitHub copy was read) — Byte size: 19,002,576 (books.json size_bytes: null) — PDF pages: 271 — Printed-page offset: printed p. = PDF page (page footers match PDF pagination in the body, e.g. PDF p. 3 footer "3|Page"; contents lists Strand 1 starting printed p. 8) — Verdict: COMPLETE — First Edition 2018, © Ministry of Education, Fiji, 2018 (Ministry of Education, Heritage & Arts); preface, full contents, all strands, glossary (ch. 4.0, printed p. ~239) and bibliography (5.0) present to the end of the PDF. — Structural summary: The final-year volume inverts the junior order: it opens with advanced genetics and evolution, moves to behaviour/ecology ("Living Together"), then spends half the book on a full diversity survey kingdom by kingdom. Sequence: 1.1 Genetics (gene concept, protein synthesis, variation, types of inheritance, genetic engineering/biotechnology, population genetics — Hardy–Weinberg, natural selection) → 1.2 Evolution (organic evolution and its evidences, human evolution: Ramapithecus, Australopithecus, the hominid line) → Strand 2 Living Together (organisms and environment: biological timing, biological orientation, inter/intraspecific relationships) → 3.1 Sub-cellular life: viruses → 3.2 Diversity of life (cellular organisation and differentiation, Monera incl. cyanobacteria, Protista — algae, slime moulds, protozoans, Fungi and their phyla, Plantae division by division, Animalia phylum by phylum from Cnidaria to Chordata) → 3.3 Environmental issues: man's modification of the biosphere → glossary, bibliography. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/fiji-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The whole lesson — 3.2.6: the acoelomate / pseudocoelomate / coelomate body-plan ladder used as the organising spine of the whole animal survey (incl. Rotifera, Nematomorpha, Loricifera, Acanthocephala) (placement: NEW LESSON NEEDED: body-cavities-acoelomate-pseudocoelomate-coelomate — no existing slug covers body-cavity grades, so this lesson was built for it) | Book 1 (Biology for All — Year 13 Biology, student textbook, Grade 13), printed pp. 195–201 |
+
+**Acceptance count: taught in 1 country (Fiji).**
+
+Honesty (Fiji): Book 1 (*Biology for All — Year 13 Biology*, Grade 13) is a student textbook as verified in the placements — so Fiji counts toward acceptance. It is COMPLETE as stated in the book entry above. The book was recorded twice in the library records (a TSV record and a books.json record for the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, fiji, body, cavities, acoelomate, pseudocoelomate, coelomate
