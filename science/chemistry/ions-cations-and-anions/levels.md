@@ -1,0 +1,4 @@
+# Ions — cations and anions — depth
+
+Whole-lesson pass mark: the learner works through the lesson's sub lessons in order (Ch. 1.2 Formation of ions — Kazakhstan's Grade 8 book (Grade 8, bilingual ed. Kaliev); Module 1 — Kazakhstan's Grade 8 book (Grade 8, Express Publishing); Ch. I §4 Formation of ions — Kazakhstan's Grade 8 book (Grade 8, Ospanova (Russian)); Ch. I §5 Main points of the TED. Properties of ions — Kazakhstan's Grade 9 book (Grade 9 Pt 1, Ospanova)), explains each in their own words using the lesson's own examples, and answers the lesson's questions from the lesson text.
+This lesson has 4 sub lesson(s), proved in order: each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson; on a fail the learner reviews the questions and answers just done, then resets with another set; nothing ever relocks.
