@@ -1,0 +1,18 @@
+# Sources — Amines, amides and amino acids
+
+countries: Nigeria
+
+**Book 1:** *Senior Secondary Chemistry Textbook 3* (student) — Nigeria. Title as printed: "Senior Secondary Chemistry — Textbook 3" (Sam Tunde Bajah et al., Learn Africa Plc, Revised Edition). Grade: Grade 12 (Senior Secondary 3). Kind: student (approved-private textbook, as recorded). Repo path: grade-12/approved-private/nigeria/chemistry-student-textbook.pdf. Byte size: 3,631,327 (grab-verified; no size in record). PDF pages: 280; printed-page offset: printed p. 1 = PDF p. 9. Verdict: COMPLETE (contents, worked experiments and chapter test papers/answers all present). Structural summary: Fourteen chapters: quantitative/qualitative analysis with full titration experiments; petroleum; chemical bonding and periodicity; extraction of metals; Group 1 and Group 2 metals with their named compounds in Nigerian systematic (Stock) nomenclature; aluminium; tin, iron and the first transition series; waste and pollution ethics; alkanoic acids and derivatives (amines, amides, amino acids, esters, detergents); fats and oils; soap and detergents; giant molecules (carbohydrates, fats, proteins, enzymes, nucleic acids); nuclear chemistry; projects. Nigeria's way: heavy practical/experiment content and Nigerian industrial contexts (petroleum first among them). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/nigeria-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — Amines — ammonia's carbon family | Book 1 (Grade 12), Ch. 9 Amines, Amides, Amino Acids, printed p. ~155 — Naming, sources and preparation of amines as one derivative family |
+| Sub lesson 2 — Amides — the carbonyl joined to nitrogen | Book 1 (Grade 12), Ch. 9 Amines, Amides, Amino Acids, printed p. ~155 — Naming, sources and preparation of amides as one derivative family |
+| Sub lesson 3 — Amino acids — both groups in one molecule | Book 1 (Grade 12), Ch. 9 Amines, Amides, Amino Acids, printed p. ~155 — Naming, sources and preparation of amino acids as one derivative family |
+| Do it first; key ideas; Do It Yourself | Book 1 (Grade 12), Ch. 9 Amines, Amides, Amino Acids, printed p. ~155 |
+
+**Acceptance count: taught in 1 country (Nigeria).**
+
+Placement choice, on the record: this NEW LESSON was built for the Nigeria placement "NEW LESSON NEEDED: amines-amides-and-amino-acids — Ch. 9 Amines, Amides, Amino Acids — printed p. ~155 — Naming, sources and preparation of amines, amides and amino acids as one derivative family" — nigeria-placements.md. No existing Chemistry lesson covers amines, amides and amino acids as a family — the neighbouring lessons cover alkanoic (carboxylic) acids and esters, the families this chapter derives them from — so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Nigeria's own way — amines, amides and amino acids taught together as one derivative family inside the alkanoic-acids chapter (Ch. 9) — IS part of this lesson's content, carried exactly as the placements describe it. The book is a student textbook, so this lesson counts toward acceptance normally.
+
+Searchable tags: chemistry, amines, amides, amino acids, Nigeria Grade 12
