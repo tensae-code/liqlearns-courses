@@ -1,0 +1,4 @@
+# The uniform electric field — depth
+
+Whole-lesson pass mark: the learner can do all of these — A uniform field lives between large parallel plates: straight, parallel, evenly spaced field lines; the same E everywhere; E = V/d (volts per metre = newtons per coulomb): raise V or shrink d and the field strengthens; A charge in the field feels the constant force F = qE and so moves with constant acceleration a = qE/m; A charge fired across the field follows a parabola — free flight along its entry direction, constant acceleration across it — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

@@ -1,6 +1,6 @@
 # Sources — Solving problems with Newton's laws
 
-countries: Ethiopia, Cambodia, Afghanistan, Bhutan, Moldova
+countries: Ethiopia, Cambodia, Afghanistan, Bhutan, Moldova, Vietnam
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Cambodia, Afghanistan, Bhutan, Moldova
 
 **Book 5:** *Fizica, clasa a X-a (Physics, Grade 10)* (student textbook; printed/recorded title "Clasa 10 — Fizica (in limba romana)") — Moldova. Authors: Mihai Marinciuc (Chs. 1, 3, 4 and part of 2) & Spiridon Rusu (rest of Ch. 2, §4.3, Ch. 5, laboratory works); Editura Știința, 2012; drawn up to the discipline curriculum in force and approved by Order of the Minister of Education nr. 265 of 27 April 2012. Grade 10 · Student book · Repo path: grade-10/gov/moldova/physics/full-year.pdf (tree file; TSV row only — no size/pages in the record). Byte size: 6,817,784 (no size recorded). PDF pages: 180 (no page count recorded). Offset: printed p. = PDF p. (interior check: printed p. 31 is PDF p. 31). Verdict: COMPLETE read (full text layer, all 180 pages; contents read in full, interiors sampled throughout). Library debt, on the record: there is no Moldova Grade 9 or Grade 12 Physics record in the targets, and this Grade 10 book is a TSV-only record with no size/page data in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 6:** *Vật lí 10 (Physics 10) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student book · 4th reprint (Tái bản lần thứ tư) · Authors: Vũ Văn Hùng (editor-in-chief), Bùi Gia Thịnh (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-full-year.pdf). Byte size: 26,833,128 (matches record). PDF pages: 142 (record 142). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover, title page, full TOC and interior chapters verified against TOC). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Applying Newton's laws — problem routine | Grade 11 Student Textbook, printed pp. 108–115 |
@@ -20,7 +22,8 @@ countries: Ethiopia, Cambodia, Afghanistan, Bhutan, Moldova
 | Ch. II §2.7 (optional): motion of bodies under the action of several forces (Moldova, Grade 10) | Moldova, *Fizica, clasa a X-a (Physics, Grade 10)*, Ch. II §2.7 (optional): motion of bodies under the action of several forces — printed p. 72 |
 
 | Ch. 5 Force and Motion—I — printed p. 94 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 5 Force and Motion—I — printed p. 94 |
+| Bài 20 — Examples of solving dynamics problems (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 20, Examples of solving dynamics problems: a whole lesson of worked dynamics examples — printed p. 80 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Afghanistan, Bhutan, Moldova).**
+**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, Afghanistan, Bhutan, Moldova, Vietnam).**
 
 Searchable tags: physics, grade 11, dynamics, solving problems with newton's laws, work, cambodia

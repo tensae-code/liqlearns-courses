@@ -1,0 +1,4 @@
+# Gravitational field strength — depth
+
+Whole-lesson pass mark: the learner can do all of these — A mass creates a gravitational field around it; field lines point toward the mass and crowd where the field is stronger; Field strength g = F/m — the force on each kilogram placed at the point, in N/kg; For a spherical mass, g = GM/r²: independent of the test mass, falling with the inverse square of distance; Surface g (Earth ≈ 9.8 N/kg, Moon ≈ 1.6 N/kg) is also the free-fall acceleration at that place — the same quantity in two units — answering the lesson's questions from the lesson text.
+This lesson has 2 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

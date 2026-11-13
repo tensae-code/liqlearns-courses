@@ -1,6 +1,6 @@
 # Sources — Echoes at work — echolocation and ultrasound
 
-countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan
+countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodi
 
 **Book 9:** *ФИЗИКА 6 (Fizika 6)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelsko-poligraficheskiy tvorcheskiy dom imeni Chulpana, Tashkent 2009; ISBN 978-9943-05-282-6 (imprint: 160 printed pp., print run 32,765). Grade: 6 · Student book (Russian-medium edition) · Repo path: grade-06/gov/uzbekistan/physics/full-year.pdf. Byte size: 53,761,071. PDF pages: 161. Offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — read page by page in full from page images (41 sheets); contents (printed pp. 156–157) confirm all 57 temas present; back cover seen. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
+**Book 10:** *Chuyên đề học tập Vật lí 12 (Physics 12 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student study-topics book · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-12/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-study-topics.pdf). Byte size: 13,180,268 (matches record). PDF pages: 71 (record 71). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Echo: reflected sound, the 0.1 s rule, hard surfaces reflecting and soft absorbing | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 197–198 (student placement 58) |
@@ -34,8 +36,9 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodi
 
 | Ch. 6: uses of ultrasound (medical scanning, SONAR — ocean depth, bats) and radio waves in RADAR — printed pp. 151–158 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 6: uses of ultrasound (medical scanning, SONAR — ocean depth, bats) and radio waves in RADAR — printed pp. 151–158 |
 | Ch. VI, Tema 56: echo; echo sounding h = v·t/2; ultrasound flaw detection and medical ultrasound (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. VI, Tema 56: echo; echo sounding h = v·t/2; ultrasound flaw detection and medical ultrasound — printed p. 149 |
+| Bài 7 — Ultrasound imaging (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 7, Ultrasound (Siêu âm) — printed p. 39 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Kenya, Bhutan, Uzbekistan).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Kenya, Bhutan, Uzbekistan, Vietnam).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 

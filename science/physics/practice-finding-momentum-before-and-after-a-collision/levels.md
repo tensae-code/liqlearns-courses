@@ -1,0 +1,4 @@
+# Practice — finding momentum before and after a collision — depth
+
+Whole-lesson pass mark: the learner can do all of these — Momentum before: weigh each trolley and measure its incoming velocity, then p = mv for each, with a chosen positive direction and signs written down; After a sticking collision the pair moves as one mass at one velocity; after a bouncing collision each trolley has its own signed velocity; The total momentum after is the sum of the signed momenta — a rebound counts negative; Equal before/after totals (within error) verify conservation; friction and a sloping track explain the small shortfall — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

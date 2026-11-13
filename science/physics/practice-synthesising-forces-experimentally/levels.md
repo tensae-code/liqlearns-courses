@@ -1,0 +1,4 @@
+# Practice — synthesising forces experimentally — depth
+
+Whole-lesson pass mark: the learner can do all of these — Two spring balances pulling one ring at an angle give two real forces F₁ and F₂ with measured sizes and directions; The parallelogram built on F₁ and F₂ predicts the resultant — its diagonal, read back through the drawing's scale; A single balance that holds the ring in the same place reads the resultant directly; agreement with the diagonal, within honest error, verifies the rule; Zero errors, cord friction and the ring's weight explain the small disagreements — and must be named, not hidden — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

@@ -1,6 +1,6 @@
 # Sources — Physics in everyday life and society
 
-countries: Ethiopia, Slovenia, Sudan, Uganda, Bhutan, Moldova
+countries: Ethiopia, Slovenia, Sudan, Uganda, Bhutan, Moldova, Vietnam
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Slovenia, Sudan, Uganda, Bhutan, Moldova
 
 **Book 8:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 9:** *Vật lí 10 (Physics 10) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student book · 4th reprint (Tái bản lần thứ tư) · Authors: Vũ Văn Hùng (editor-in-chief), Bùi Gia Thịnh (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-full-year.pdf). Byte size: 26,833,128 (matches record). PDF pages: 142 (record 142). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover, title page, full TOC and interior chapters verified against TOC). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Why physics matters to society | Grade 11 Student Textbook, printed pp. 1–3 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Slovenia, Sudan, Uganda, Bhutan, Moldova
 | Ch 1: importance of studying physics; science, technology and society strand (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 1 — printed p. 5 |
 
 | Ch. 0: physics and society — printed p. 6 (Bhutan, Class IX (Grade 9)) | Bhutan, *Physics, Class Nine*, Ch. 0: physics and society — printed p. 6 |
+| Bài 1 §III — physics as the base of science and technology (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 1 §III: physics as the base of all natural science and of technology through the four industrial revolutions, with Vietnam's own examples — the Hòa Bình hydroelectric plant, a car production line, robots/AI — and the harm side (factory emissions, the atomic bomb) — printed p. 8 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Sudan, Uganda, Bhutan, Moldova).**
+**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Sudan, Uganda, Bhutan, Moldova, Vietnam).**
 
 In the student book, figure numbering restarts oddly in Unit 1's current-status section (Figures 9–16); no figure numbers are relied on in these lessons.
 

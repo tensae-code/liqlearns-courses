@@ -1,6 +1,6 @@
 # Sources — X-rays and the laser
 
-countries: Syria, Iraq, Egypt, Bulgaria, Yemen, Bhutan, Uzbekistan, Iran
+countries: Syria, Iraq, Egypt, Bulgaria, Yemen, Bhutan, Uzbekistan, Iran, Vietnam
 
 **Book 1:** *الفيزياء للصف الثالث الثانوي العلمي (Physics, Third Secondary, Scientific Track = Grade 12)* (student textbook) — Syria, Ministry of Education; 2025–2026 edition, first printed 2020–2021. Physics-only book. Image-only PDF — read from rendered pages (title, full contents, chapter openers and derivations sampled across the book). Grade: 12 · Student book (scientific track) · Release: full-quality-oversized-books · Asset: grade-12-gov-syria-physics-student-full-year.pdf · Byte size: 248,446,531 (matched asset) · PDF pages: 268 · Offset: printed folio = PDF page for content pages (folios 3–8 verified); the contents page numbers run about 3 higher than the folios at the start of the book, so placements below cite the contents numbers, as printed in the book's own index. Verdict: COMPLETE (contents end with U5 Astronomical physics at contents p. 254; the file runs to 268 pages). Structure: U1 Motion & dynamics; U2 Electricity & magnetism; U3 Standing waves; U4 Electronics & the solid state; U5 Astronomical physics. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/syria-placements.md.
 
@@ -22,6 +22,8 @@ countries: Syria, Iraq, Egypt, Bulgaria, Yemen, Bhutan, Uzbekistan, Iran
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the same core content at shifted pagination; the section and printed page cited in the row below are the Experimental Sciences book's. Both books genuinely teach this part, and the placement is stocked once.
 
+**Book 10:** *Chuyên đề học tập Vật lí 12 (Physics 12 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student study-topics book · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-12/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-study-topics.pdf). Byte size: 13,180,268 (matches record). PDF pages: 71 (record 71). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Syria, *Physics, Third Secondary, Scientific Track (Grade 12)*, U4 X-rays (contents p. 240); laser rays (contents p. 246) — contents p. 240 |
@@ -39,8 +41,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Atomic physics — energy levels, spectra and how lasers work — Ch. 40 All About Atoms (lasers at printed p. 1240) — printed p. 1219 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 40 All About Atoms (lasers at printed p. 1240) — printed p. 1219 |
 | Ch. III, Tema 39: lasers and their applications (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. III, Tema 39: lasers and their applications — printed p. 105 |
 | §4-4, Laser (لیزر) — how a laser works and its uses (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §4-4 — printed p. 110 |
+| Bài 5 — X-rays (Tia X) (NEW tag stocked here) (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 5, X-rays (Tia X): how they are produced and their properties — the X-ray strand of this shared lesson (built for Syria's placement) — printed p. 27 |
 
-**Acceptance count: taught in 8 countries (Syria, Iraq, Egypt, Bulgaria, Yemen, Bhutan, Uzbekistan, Iran).**
+**Acceptance count: taught in 9 countries (Syria, Iraq, Egypt, Bulgaria, Yemen, Bhutan, Uzbekistan, Iran, Vietnam).**
 
 Placement choice, on the record: this NEW LESSON was built for the Syria placement “X-rays and the laser” — syria-placements.md, U4 X-rays (contents p. 240); laser rays (contents p. 246) — contents p. 240. It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 

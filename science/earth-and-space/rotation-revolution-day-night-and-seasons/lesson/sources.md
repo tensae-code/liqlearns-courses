@@ -1,6 +1,6 @@
 # Sources — The Earth — rotation, revolution, day-night and seasons
 
-countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan
+countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan
 
 **Book 3:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it (Ch. II Optics read at Tema 23–24: reflection/refraction laws, Snell's law, total internal reflection). Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
+**Book 4:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Rotation: turning on a 23.5°-tilted axis, 24 hours for one turn, day and night as faces turn toward and away from the Sun | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 6, printed pp. 161–162 |
 | Sub lesson 2 — Revolution: one journey around the Sun in 365¼ days; the fixed tilt leaning the hemispheres toward and away in turn; summer, winter, spring and autumn opposite in north and south | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 6, printed pp. 161–162 |
 | Seasons and times of day — pupil video topics (teacher-training evidence) | Finland, *Pieniä digiprojekteja yläkouluun*, Physics project, pupil video topics, PDF pp. 4–6 |
 | Ch. IV, Tema 49: motion of the Moon, phases and periods; solar and lunar eclipses (the Moon-phases/eclipses content rides on this lesson) (Uzbekistan, Grade 9) | Uzbekistan, *ФИЗИКА 9*, Ch. IV, Tema 49: motion of the Moon, phases and periods; solar and lunar eclipses (the Moon-phases/eclipses content rides on this lesson) — printed p. 128 |
+| Bài 4 — Determining directions (Vietnam, Grade 10) | Vietnam, *Chuyên đề học tập Vật lí 10*, Bài 4, Determining directions: finding direction from the Sun and stars — printed p. 34 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uzbekistan).** Finland is named as teacher-training evidence only (*Pieniä digiprojekteja yläkouluun* — teacher-training project booklet), not added to this count.
+**Acceptance count: taught in 3 countries (Ethiopia, Uzbekistan, Vietnam).** Finland is named as teacher-training evidence only (*Pieniä digiprojekteja yläkouluun* — teacher-training project booklet), not added to this count.
 
 Searchable tags: rotation, revolution, day and night, seasons, axis tilt 23.5 degrees, 365¼ days, hemispheres, Ethiopia Grade 7 General Science Unit 6, finland

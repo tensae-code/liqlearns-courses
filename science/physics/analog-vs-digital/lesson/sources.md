@@ -1,6 +1,6 @@
 # Sources — Analog vs digital
 
-countries: Ethiopia, Indonesia, United States, Bhutan
+countries: Ethiopia, Indonesia, United States, Bhutan, Vietnam
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Indonesia, United States, Bhutan
 
 **Book 4:** *Physics Textbook, Class X* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2015, Reprint 2018. Grade: 10 · Student book · Repo path: grade-10/gov/bhutan/physics/full-year.pdf (source: REC Bhutan, x-physics-textbook-2019.pdf). Byte size: 5,022,766 (exact match). PDF pages: 193 (record: 193). Offset: printed p. = PDF p. − 25 (printed p. 1 is PDF p. 26); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 193 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
+**Book 5:** *Chuyên đề học tập Vật lí 11 (Physics 11 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 11 — Kết nối tri thức với cuộc sống. Grade 11 · Student study-topics book · NXB Giáo dục Việt Nam (Vietnam Education Publishing House) (front matter follows the same series pattern; TOC verified). Repo path: grade-11/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-11-gov-vietnam-physics-student-study-topics.pdf). Byte size: 11,728,203 (matches record). PDF pages: 63 (record 63). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Analog and digital signals; logic levels | Grade 12 Student Textbook, printed pp. 163–164 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Indonesia, United States, Bhutan
 | Digital waves — PHYS.4.4 (Utah SEEd) | United States, *Physics for Utah SEEd Standards (Revised 2025)*, PHYS.4.4 Digital Waves, printed p. 174 — digital vs analogue information in waves |
 
 | Ch. 5: analogue vs digital signals — more information can be sent digitally; communication through sound waves — printed pp. 117, 119 (Bhutan, Class X (Grade 10)) | Bhutan, *Physics Textbook, Class X*, Ch. 5: analogue vs digital signals — more information can be sent digitally; communication through sound waves — printed pp. 117, 119 |
+| Bài 5 — Analogue signals and digital signals (Vietnam, Grade 11) | Vietnam, *Chuyên đề học tập Vật lí 11*, Bài 5, Analogue signals and digital signals — printed p. 33 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Indonesia, United States, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Indonesia, United States, Bhutan, Vietnam).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

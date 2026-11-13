@@ -1,6 +1,6 @@
 # Sources — Seeing inside the body — X-ray, CT and MRI
 
-countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos
+countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos, Vietnam
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 
 **Book 9:** *ແບບຮຽນ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Textbook, Physics, Secondary Year 7)* (student textbook) — Laos, MoES / RIES, 2016 (cover and title page read from the secured file itself). Grade: 12 (ມ.7) · Student book · Record: 4,699,501 bytes, 305 pages · Repo path: grade-12/gov/laos/physics/student/laos-g12-physics-student.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (4,699,501 bytes), pdfinfo 305 pages, cover proves identity (the recorded MoES source is the same file per the staging note). Offset: printed p. = PDF p. − 7 (printed p. 1 = PDF p. 8; Lesson 30 runs printed pp. 289–298 = PDF pp. 296–305, so the file ends exactly at the book's end). Verdict: COMPLETE — full TOC (10 parts, 30 lessons) read from the book's own contents pages; body spot-read across the book in text and image (rotation opening, Doppler named in English in the sound-phenomena lesson, Faraday/Lenz in the induction lesson, transformer in the AC part, Bohr/Planck/Einstein and the photoelectric strand in the atomic part, Lesson 30's radiation-uses body with its sievert dose table read to the final exercise page). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
 
+**Book 10:** *Chuyên đề học tập Vật lí 12 (Physics 12 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student study-topics book · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-12/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-study-topics.pdf). Byte size: 13,180,268 (matches record). PDF pages: 71 (record 71). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — X-rays | Grade 12 Student Textbook, printed pp. 12–14 |
@@ -35,7 +37,9 @@ countries: Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan
 | Ch.6 Applications of X-rays (medical imaging, crystal structure) (Egypt, Grade 12) | Egypt, *Physics, Third Secondary (English), 2025–2026*, Ch.6 Applications of X-rays (medical imaging, crystal structure) — printed p. 148 |
 | Ch. 5 — X-rays (Afghanistan, Grade 12) | Afghanistan, *فزیک — صنف دوازدهم (Physics — Grade 12)*, Ch. 5 — printed p. 123 — X-rays (شعاع ایکس, named in English in the TOC) |
 | Theme 4 §4.5: X-rays and their application (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 4 §4.5: X-rays and their application — printed p. 231 |
+| Bài 6 — X-ray imaging. CT scanning (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 6, X-ray imaging. CT scanning (Chụp cắt lớp) — printed p. 32 |
+| Bài 8 — Magnetic resonance imaging (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 8, Magnetic resonance imaging (Chụp cộng hưởng từ) — printed p. 44 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos).**
+**Acceptance count: taught in 10 countries (Ethiopia, Sri Lanka, United States, Uganda, Kenya, Egypt, Afghanistan, North Macedonia, Laos, Vietnam).**
 
 Searchable tags: physics, grade 12, application of physics in other fields, seeing inside the body — x-ray, ct and mri, magnet, roentgen, sri lanka, united states, uganda, kenya, egypt, north macedonia, laos

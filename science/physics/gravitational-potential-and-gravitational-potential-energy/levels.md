@@ -1,0 +1,4 @@
+# Gravitational potential and gravitational potential energy — depth
+
+Whole-lesson pass mark: the learner can do all of these — Gravitational potential energy: E_p = −GMm/r — zero at infinity, negative everywhere finite, because the mass is bound and work is needed to free it; Gravitational potential V = −GM/r (J/kg) is the field's energy-per-kilogram map; potentials from several masses add as scalars; Field strength g is the slope of the potential — the force view and the energy view of one field; Escape needs total energy zero: escape velocity v = √(2GM/r), 11.2 km/s from Earth's surface, 2.4 km/s from the Moon's — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

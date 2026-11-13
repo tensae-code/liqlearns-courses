@@ -1,6 +1,6 @@
 # Sources — Semiconductors — silicon and its lattice
 
-countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia, Laos, Moldova
+countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia, Laos, Moldova, Vietnam
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Bela
 
 **Book 15:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 16:** *Vật lí 11 (Physics 11) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 11 — Kết nối tri thức với cuộc sống. Grade 11 · Student book · 3rd reprint (Tái bản lần thứ ba) · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Văn Biên (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House); national appraisal council decision 2026/QĐ-BGDĐT (21 Jul 2022) printed in front matter. Repo path: grade-11/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-11-gov-vietnam-physics-student-full-year.pdf). Byte size: 20,957,133 (matches record). PDF pages: 119 (record 119). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (cover/title/TOC verified; interior lessons spot-verified at wave exercises, the sound-speed practice and the EMF practice against the TOC). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Semiconductors — between conductor and insulator | Grade 12 Student Textbook, printed pp. 143–144 |
@@ -52,8 +54,9 @@ countries: Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Bela
 | Ch. V, Temas 47–49: what semiconductors are; structure and intrinsic conductivity; impurity semiconductors (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. V, Temas 47–49: what semiconductors are; structure and intrinsic conductivity; impurity semiconductors — printed pp. 119–123 |
 | Ch. 14 Semiconductor Electronics — energy bands, intrinsic/extrinsic semiconductors (India, Class XII) | India, *Physics Part–II, Textbook for Class XII, NCERT*, Ch. 14 Semiconductor Electronics — energy bands, intrinsic/extrinsic semiconductors |
 | Theme 3 §3.6: conductors, semiconductors, insulators (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 3 §3.6: conductors, semiconductors, insulators — printed p. 133 |
+| Bài 23 — thermistor behaviour (Vietnam, Grade 11) | Vietnam, *Vật lí 11*, Bài 23: thermistor behaviour as the semiconductor evidence in this book — printed p. 95 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia, Laos, Moldova).**
+**Acceptance count: taught in 16 countries (Ethiopia, Barbados, Kenya, Iraq, Egypt, Kuwait, Bulgaria, Yemen, Belarus, Bhutan, Uzbekistan, India, North Macedonia, Laos, Moldova, Vietnam).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 

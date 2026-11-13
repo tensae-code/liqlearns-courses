@@ -1,0 +1,4 @@
+# Velocity and acceleration in harmonic oscillation — depth
+
+Whole-lesson pass mark: the learner can do all of these — Velocity in SHM: v = −ωA sin(ωt + φ) — maximum ωA at the centre, zero at the extremes, a quarter-cycle ahead of the displacement in phase; Acceleration in SHM: a = −ω²x — proportional to the displacement and always opposite to it, directed back to the centre; maximum ω²A at the extremes; a = −ω²x is the defining condition of simple harmonic motion, for any oscillator; The speed at displacement x is v = ±ω√(A² − x²) — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.
