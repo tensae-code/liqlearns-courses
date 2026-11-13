@@ -1,6 +1,6 @@
 # Sources — The female reproductive system
 
-countries: Ethiopia, Palestine, Egypt, France, Eritrea, Sudan, Gabon
+countries: Ethiopia, Palestine, Egypt, France, Eritrea, Sudan, Gabon, Nigeria
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Palestine, Egypt, France, Eritrea, Sudan, Gabon
 
 **Book 9:** Guide pédagogique Sciences — Grade 5 (CM1 level; IPN Gabon, © EDIG/EDICEF 2024; Assengone Menvie Edith Olga épse Kebila, Moudoki Henri René et al.) — Gabon. Grade: 5 — Kind: teacher as verified — Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf — Byte size: 1,435,808 — PDF pages: 60 — Printed-page offset: none — Verdict: COMPLETE — five paliers, printed pp. 3–60, 18 biology lessons present. Structural summary: The oldest primary year turns to body defences and reproduction: the immune system investigated inquiry-style (what it is, what it is composed of), the nervous system, the great functions of the human body; then a full human-reproduction sequence (female apparatus, male apparatus, puberty, human reproduction); then health and safety — accident prevention, first aid, drugs and their dangers, HIV/AIDS and STIs, the WHO definition of health quoted in the guide; closing with humans and environment, the diversity and evolution of living things, the life of the elephant, plant nutrient needs and food webs. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
 
+**Book 10:** Senior Secondary Biology 1 — Nigeria. Grade: 10 (Senior Secondary School 1, SS1) — Kind: student textbook as verified (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3; authors F. O. C. Ndu, P. Asun, J. O. Aina; written for the NERDC Biology curriculum and the WAEC / NECO / UTME syllabuses) — Source link recorded: https://www.headteacher.ng/product/biology-for-ss1-pdf-senior-secondary-school-e-textbook/ (the TSV records only the Telegram channel, https://t.me/liqlearns_textbooks; the download list's headteacher.ng page was fetched live — the redesigned WooCommerce page no longer exposes a direct PDF link) — Copy read: the byte-identical file already secured in the GitHub mid-size release `mid-size-books-8` (asset `grade-10-approved-private-nigeria-biology-student-textbook.pdf`), downloaded from the Releases API for this read — Byte size: 54,928,243 (exact match with the approved-private books.json record) — PDF pages: 232 — Printed-page offset: printed pages i–vi + 1–226 (printed = PDF − 6); the PDF is a born-digital InDesign file with a full text layer — Verdict: COMPLETE (index ends at printed p. 226; nothing missing). Structural summary: Four themes, fifteen chapters — Theme 1 Organisation of life (Ch. 1–4), Theme 2 The organism at work (Ch. 5–6), Theme 3 The organism and its environment (Ch. 7–14), Theme 4 Continuity of life (Ch. 15); every chapter carries activities, a summary and WAEC-style revision questions. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/nigeria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 86–88 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Palestine, Egypt, France, Eritrea, Sudan, Gabon
 | Eritrea's way — Unit Two: the female system within the reproduction unit | Book 7 (Biology for Grade 11 Textbook, student textbook, Grade 11), printed pp. 27–52 |
 | Sudan's way — Unit One §2.11: the female system within the human span (placement slug: the-female-reproductive-system) | Book 8 (علم الأحياء – الصف الثالث الثانوي, student textbook, Grade 12), Unit One §2.11, printed pp. 95–127 |
 | Gabon's way — Lesson 10: L'appareil génital féminin — describe it and the role of each organ (teacher guide — evidence) (placement slug: the-female-reproductive-system) | Book 9 (Guide pédagogique Sciences, teacher guide, Grade 5), printed p. 14 |
+| Nigeria's way — Ch. 4, the structure and functions of male and female gonads: the female gonads — structure and egg production (placement slug: the-female-reproductive-system) | Book 10 (Senior Secondary Biology 1, student textbook, Grade 10), Ch. 4, printed p. 77 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Egypt, France, Eritrea, Sudan) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Egypt, France, Eritrea, Sudan, Nigeria) — Gabon's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 5; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
@@ -50,4 +53,6 @@ Fix note (2026-11-12): the Grade 11 depth above (Book 3, printed pp. 188–190) 
 
 Honesty (Sudan): Book 8 is a student textbook as verified in the placements — *علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book")*, Grade 12 — so Sudan counts toward acceptance. It is COMPLETE: three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables (252 PDF pages; printed p. = PDF page − 7).
 
-Searchable tags: biology, eritrea, ethiopia, the, female, reproductive, system, palestine, egypt, france, sudan, gabon
+Honesty (Nigeria): Book 10 is a student textbook as verified in the placements — *Senior Secondary Biology 1* (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3), Grade 10 (Senior Secondary School 1, SS1) — so Nigeria counts toward acceptance. It is COMPLETE: the index ends at printed p. 226 and nothing is missing (232 PDF pages; printed p. = PDF page − 6).
+
+Searchable tags: biology, eritrea, ethiopia, the, female, reproductive, system, palestine, egypt, france, sudan, gabon, nigeria

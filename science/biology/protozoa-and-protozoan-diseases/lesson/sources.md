@@ -1,17 +1,22 @@
 # Sources — Protozoa and Protozoan Diseases
 
-countries: Ethiopia
+countries: Ethiopia, Nigeria
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
+
+**Book 2:** Senior Secondary Biology 1 — Nigeria. Grade: 10 (Senior Secondary School 1, SS1) — Kind: student textbook as verified (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3; authors F. O. C. Ndu, P. Asun, J. O. Aina; written for the NERDC Biology curriculum and the WAEC / NECO / UTME syllabuses) — Source link recorded: https://www.headteacher.ng/product/biology-for-ss1-pdf-senior-secondary-school-e-textbook/ (the TSV records only the Telegram channel, https://t.me/liqlearns_textbooks; the download list's headteacher.ng page was fetched live — the redesigned WooCommerce page no longer exposes a direct PDF link) — Copy read: the byte-identical file already secured in the GitHub mid-size release `mid-size-books-8` (asset `grade-10-approved-private-nigeria-biology-student-textbook.pdf`), downloaded from the Releases API for this read — Byte size: 54,928,243 (exact match with the approved-private books.json record) — PDF pages: 232 — Printed-page offset: printed pages i–vi + 1–226 (printed = PDF − 6); the PDF is a born-digital InDesign file with a full text layer — Verdict: COMPLETE (index ends at printed p. 226; nothing missing). Structural summary: Four themes, fifteen chapters — Theme 1 Organisation of life (Ch. 1–4), Theme 2 The organism at work (Ch. 5–6), Theme 3 The organism and its environment (Ch. 7–14), Theme 4 Continuity of life (Ch. 15); every chapter carries activities, a summary and WAEC-style revision questions. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/nigeria-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Protozoa and the diseases they cause (§2.4): | Student Textbook, Grade 12 — Printed pp. 71–77. |
+| Nigeria's way — Ch. 1, Phylum Protozoa: the protozoan classes keyed by locomotory organelle (pseudopodia, cilia, flagella, none), with Trypanosoma gambiense (sleeping sickness) and Plasmodium (malaria) as the Nigerian disease examples (placement slug: protozoa-and-protozoan-diseases) | Book 2 (Senior Secondary Biology 1, student textbook, Grade 10), Ch. 1, printed p. 9 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Nigeria).**
 
 Honesty notes from the placements: this student book's contents skips §2.10, jumps §3.2.1 to §3.2.5 and skips §5.1.5 — the lessons follow the body's real order. Its §2.6 self-question says "reduction of vitamin K" where "production" is meant; the lesson teaches production. The book's human-evolution section carries a dated "human races" framing (printed pp. 200–207), a historical artefact of an older source text: it is NOT taught as current science in the lesson, and is named only here. The book was read visually at section level (it has no usable text layer), so placements stand at section level against its own contents.
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, ethiopia, protozoa, and, protozoan, diseases
+Honesty (Nigeria): Book 2 is a student textbook as verified in the placements — *Senior Secondary Biology 1* (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3), Grade 10 (Senior Secondary School 1, SS1) — so Nigeria counts toward acceptance. It is COMPLETE: the index ends at printed p. 226 and nothing is missing (232 PDF pages; printed p. = PDF page − 6).
+
+Searchable tags: biology, ethiopia, protozoa, and, protozoan, diseases, nigeria

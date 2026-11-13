@@ -1,6 +1,6 @@
 # Sources — Energy nutrients — carbohydrates, fats and oils
 
-countries: Ethiopia, Sri Lanka, Uganda
+countries: Ethiopia, Sri Lanka, Uganda, Nigeria
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Sri Lanka, Uganda
 
 **Book 4:** Biology Home-Study Learning — Senior Two (NCDC, 2020) (as printed: HOME-STUDY / SELF-STUDY LEARNING — BIOLOGY, SENIOR TWO) — Uganda. Grade: 9 (Senior Two) — Kind: student (home-study booklet) as verified — Repo path: grade-09/gov/uganda/biology/student/home-study.pdf (books.json record only; grabbed via grab.py tree — in GitHub despite an earlier disconnect on first attempt) — Source URL (books.json): https://sharebility.net/download/s2-biologyterm-two-and-three/?wpdmdl=27590 — Byte size: 1,750,692 — PDF pages: 28 (matches books.json pages: 28) — Printed-page offset: booklet pagination restarts inside; pages cited by PDF/booklet position. Verdict: COMPLETE — Ministry of Education and Sports / NCDC home-study intervention published 2020 for the COVID-19 school lockdown: foreword, acknowledgements, "About this booklet", all lessons, and NCDC back page present. Opens with COVID-19 symptoms/prevention content before the biology. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/uganda-placements.md.
 
+**Book 5:** Senior Secondary Biology 1 — Nigeria. Grade: 10 (Senior Secondary School 1, SS1) — Kind: student textbook as verified (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3; authors F. O. C. Ndu, P. Asun, J. O. Aina; written for the NERDC Biology curriculum and the WAEC / NECO / UTME syllabuses) — Source link recorded: https://www.headteacher.ng/product/biology-for-ss1-pdf-senior-secondary-school-e-textbook/ (the TSV records only the Telegram channel, https://t.me/liqlearns_textbooks; the download list's headteacher.ng page was fetched live — the redesigned WooCommerce page no longer exposes a direct PDF link) — Copy read: the byte-identical file already secured in the GitHub mid-size release `mid-size-books-8` (asset `grade-10-approved-private-nigeria-biology-student-textbook.pdf`), downloaded from the Releases API for this read — Byte size: 54,928,243 (exact match with the approved-private books.json record) — PDF pages: 232 — Printed-page offset: printed pages i–vi + 1–226 (printed = PDF − 6); the PDF is a born-digital InDesign file with a full text layer — Verdict: COMPLETE (index ends at printed p. 226; nothing missing). Structural summary: Four themes, fifteen chapters — Theme 1 Organisation of life (Ch. 1–4), Theme 2 The organism at work (Ch. 5–6), Theme 3 The organism and its environment (Ch. 7–14), Theme 4 Continuity of life (Ch. 15); every chapter carries activities, a summary and WAEC-style revision questions. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/nigeria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 106–108 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 72–92 |
 | Sri Lanka's way — carbohydrates (placement slug: carbohydrates-the-quick-energy-molecules) | Book 3 (Biology 1, student textbook, Grade 10), Ch. 3 §3-2: கார்போவைத்ரேற்றுகள் (carbohydrates) — contents, Ch. 3 |
 | Uganda's way — Nutrition Lesson 1: the food nutrients — the groups and what each does | Book 4 (Biology Home-Study Learning — Senior Two (NCDC, 2020), student home-study booklet, Grade 9), PDF p. 16 |
+| Nigeria's way — Ch. 6, nutrition in animals: food — the food classes and what each is used for, opening the animal-nutrition chapter (placement slug: energy-nutrients-carbohydrates-fats) | Book 5 (Senior Secondary Biology 1, student textbook, Grade 10), Ch. 6, printed p. 89 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Sri Lanka, Uganda).**
+**Acceptance count: taught in 4 countries (Ethiopia, Sri Lanka, Uganda, Nigeria).**
 
 Honesty (Uganda): Book 4 is a student home-study booklet as verified in the placements — *Biology Home-Study Learning — Senior Two* (NCDC, 2020), Grade 9 (Senior Two) — so Uganda counts toward acceptance. It is COMPLETE: foreword, acknowledgements, “About this booklet”, all lessons and the NCDC back page present (28 PDF pages; pages cited by PDF/booklet position).
 
@@ -25,4 +28,6 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Honesty (Sri Lanka): Book 3 is a student textbook as verified in the placements — உயிரியல் 1 (Biology 1), the Tamil-medium GCE Ordinary Level text of 1966, digitised by the Noolaham Foundation — so Sri Lanka counts toward acceptance. It is COMPLETE as digitised (front cover to back cover) and is only Part 1: its own note to students limits its scope to the biology syllabus portion for the second term of the first year of the O/L class, and further parts are a library debt, not held here. The scan is image-only and the paper is aged, with white correction marks on some pages; it was read from page renders (title page, full contents, student notes and sampled body pages), so the Sri Lanka row above cites the chapter and section references exactly as the placements file gives them, with a printed page only where the placements file gives one (printed p. = PDF page − 8).
 
-Searchable tags: biology, ethiopia, sri lanka, energy, nutrients, carbohydrates, fats, and, oils, uganda
+Honesty (Nigeria): Book 5 is a student textbook as verified in the placements — *Senior Secondary Biology 1* (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3), Grade 10 (Senior Secondary School 1, SS1) — so Nigeria counts toward acceptance. It is COMPLETE: the index ends at printed p. 226 and nothing is missing (232 PDF pages; printed p. = PDF page − 6).
+
+Searchable tags: biology, ethiopia, sri lanka, energy, nutrients, carbohydrates, fats, and, oils, uganda, nigeria

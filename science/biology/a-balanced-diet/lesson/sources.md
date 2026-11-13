@@ -1,6 +1,6 @@
 # Sources — A balanced diet — every group, in proportion
 
-countries: Ethiopia, Azerbaijan, Gabon
+countries: Ethiopia, Azerbaijan, Gabon, Nigeria
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Azerbaijan, Gabon
 
 **Book 4:** Guide pédagogique Sciences — Grade 3 (CE1 level; IPN Gabon, © EDIG/EDICEF 2023; author Mendome Dine Béatrice épse N'No) — Gabon. Grade: 3 — Kind: teacher as verified — Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf — Byte size: 1,385,512 (record gives no size) — PDF pages: 64 — Printed-page offset: none (printed = PDF) — Verdict: COMPLETE — five paliers, printed pp. 3–64, all 15 biology lessons present. Structural summary: Biology at this level is food, the body, plants' needs and health: types of food, balanced meals and rations; animal diets, teeth and food chains; human bones, muscles and joints; what plants need (water and mineral salts, then air and light) and improving harvests; the factors of good health and — very Gabonese — a closing lesson on preventing malaria. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
 
+**Book 5:** Senior Secondary Biology 1 — Nigeria. Grade: 10 (Senior Secondary School 1, SS1) — Kind: student textbook as verified (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3; authors F. O. C. Ndu, P. Asun, J. O. Aina; written for the NERDC Biology curriculum and the WAEC / NECO / UTME syllabuses) — Source link recorded: https://www.headteacher.ng/product/biology-for-ss1-pdf-senior-secondary-school-e-textbook/ (the TSV records only the Telegram channel, https://t.me/liqlearns_textbooks; the download list's headteacher.ng page was fetched live — the redesigned WooCommerce page no longer exposes a direct PDF link) — Copy read: the byte-identical file already secured in the GitHub mid-size release `mid-size-books-8` (asset `grade-10-approved-private-nigeria-biology-student-textbook.pdf`), downloaded from the Releases API for this read — Byte size: 54,928,243 (exact match with the approved-private books.json record) — PDF pages: 232 — Printed-page offset: printed pages i–vi + 1–226 (printed = PDF − 6); the PDF is a born-digital InDesign file with a full text layer — Verdict: COMPLETE (index ends at printed p. 226; nothing missing). Structural summary: Four themes, fifteen chapters — Theme 1 Organisation of life (Ch. 1–4), Theme 2 The organism at work (Ch. 5–6), Theme 3 The organism and its environment (Ch. 7–14), Theme 4 Continuity of life (Ch. 15); every chapter carries activities, a summary and WAEC-style revision questions. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/nigeria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 110–111 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 72–92 |
 | Azerbaijan's way — Part VI §§42–43: healthy relations in the family; a healthy lifestyle — a healthy family (placement slug: a-healthy-lifestyle) | Book 3 (Биология 11, student textbook, Grade 11), Part VI §§42–43, printed pp. 158–162 |
 | Gabon's way — Lesson 4: Une alimentation équilibrée (teacher guide — evidence) (placement slug: a-balanced-plate) | Book 4 (Guide pédagogique Sciences, teacher guide, Grade 3), printed p. 7 |
+| Nigeria's way — Ch. 6, diet: diet and balanced diet for man, with deficiency consequences (placement slug: a-balanced-diet) | Book 5 (Senior Secondary Biology 1, student textbook, Grade 10), Ch. 6, printed p. 94 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Azerbaijan) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Azerbaijan, Nigeria) — Gabon's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 3; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
@@ -25,4 +28,6 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Honesty (Azerbaijan): Book 3 is a student textbook as verified in the placements — *Биология 11* (Biology 11), the Russian-sector textbook (Şərq-Qərb, Baku, 2018) — so Azerbaijan counts toward acceptance. It is COMPLETE: seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present; 196 PDF pages, printed p. = PDF page − 2. The scan is image-only: the title page, colophon and the full two-page contents were read from page renders, so the placements cite the contents' printed pages. The placements slug for this stocking was a-healthy-lifestyle, which does not exist in the course; this lesson is the closest existing lesson covering that thing, and the original slug is recorded in the provenance row above. Azerbaijan's healthy-lifestyle sections are stocked here as the closest existing lesson; no existing lesson teaches healthy family relations as its own thing.
 
-Searchable tags: biology, azerbaijan, ethiopia, balanced, diet, every, group, proportion, gabon
+Honesty (Nigeria): Book 5 is a student textbook as verified in the placements — *Senior Secondary Biology 1* (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3), Grade 10 (Senior Secondary School 1, SS1) — so Nigeria counts toward acceptance. It is COMPLETE: the index ends at printed p. 226 and nothing is missing (232 PDF pages; printed p. = PDF page − 6).
+
+Searchable tags: biology, azerbaijan, ethiopia, balanced, diet, every, group, proportion, gabon, nigeria

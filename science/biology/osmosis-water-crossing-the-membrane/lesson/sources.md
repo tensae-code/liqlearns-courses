@@ -1,6 +1,6 @@
 # Sources — Osmosis — water crossing the membrane
 
-countries: Ethiopia, Sri Lanka, Brazil, Albania, Samoa
+countries: Ethiopia, Sri Lanka, Brazil, Albania, Samoa, Nigeria
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Sri Lanka, Brazil, Albania, Samoa
 
 **Book 6:** Biology — Year 12 (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004) — Samoa. Grade: 12 (Year 12) — Kind: student as verified — Repo path: grade-12/gov/samoa/biology/student/full-year.pdf (release mid-size-books-7) — Source URL: https://mesc.gov.ws/wp-content/uploads/2020/03/Biology-Year-12.pdf — Byte size: 14,786,328 (record gives no size) — PDF pages: 187 — Printed-page offset: printed p. = PDF page − 1 (contents printed pp. 5–148+; body runs to the ministry colophon). Verdict: COMPLETE — all five units of the contents present. Structural summary: Variety of Life (living things, micro-organisms, harmful micro-organisms, diseases, pathogens, controlling/curing disease — and a full section on Samoan traditional plant medicine) → Cell Biology (structure, respiration, diffusion/osmosis, enzymes) → Genetics (cell division, inheritance) → Plants (photosynthesis, structure, roots, processes, reproduction, germination, co-ordination) → Animals (nutrition, circulation, gas exchange, excretion, movement, endocrine). Samoa's way: health is taught through the local healer (taulasea) and named Samoan medicinal plants alongside antiseptics, antibiotics and vaccination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/samoa-placements.md.
 
+**Book 7:** Senior Secondary Biology 1 — Nigeria. Grade: 10 (Senior Secondary School 1, SS1) — Kind: student textbook as verified (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3; authors F. O. C. Ndu, P. Asun, J. O. Aina; written for the NERDC Biology curriculum and the WAEC / NECO / UTME syllabuses) — Source link recorded: https://www.headteacher.ng/product/biology-for-ss1-pdf-senior-secondary-school-e-textbook/ (the TSV records only the Telegram channel, https://t.me/liqlearns_textbooks; the download list's headteacher.ng page was fetched live — the redesigned WooCommerce page no longer exposes a direct PDF link) — Copy read: the byte-identical file already secured in the GitHub mid-size release `mid-size-books-8` (asset `grade-10-approved-private-nigeria-biology-student-textbook.pdf`), downloaded from the Releases API for this read — Byte size: 54,928,243 (exact match with the approved-private books.json record) — PDF pages: 232 — Printed-page offset: printed pages i–vi + 1–226 (printed = PDF − 6); the PDF is a born-digital InDesign file with a full text layer — Verdict: COMPLETE (index ends at printed p. 226; nothing missing). Structural summary: Four themes, fifteen chapters — Theme 1 Organisation of life (Ch. 1–4), Theme 2 The organism at work (Ch. 5–6), Theme 3 The organism and its environment (Ch. 7–14), Theme 4 Continuity of life (Ch. 15); every chapter carries activities, a summary and WAEC-style revision questions. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/nigeria-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 62–68 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Sri Lanka, Brazil, Albania, Samoa
 | Brazil's way — Ch. 4: Osmose — "o equilíbrio natural e necessário" (the natural and necessary balance): a whole chapter on osmosis alone | Book 4 (Biologia — Livro Didático Público, Ensino Médio, student textbook, Grade 10), Ch. 4, printed p. 63 |
 | Albania's way — Plan Q&A: “Çfarë është osmoza?” — water passing from higher to lower water potential (teacher book — evidence) (placement slug: osmosis-water-crossing-the-membrane) | Book 5 (Libër Mësuesi — Biologjia me zgjedhje 12, teacher's book, Grade 12), printed p. 4 |
 | Samoa's way — Unit 2: osmosis within the same section (placement slug: osmosis-water-crossing-the-membrane) | Book 6 (Biology — Year 12, student textbook, Grade 12), printed pp. 67–71 |
+| Nigeria's way — Ch. 3, osmosis: osmosis, then turgidity, plasmolysis and the living cell, including what happens to animal cells in solutions of different strengths (placement slug: osmosis-water-crossing-the-membrane) | Book 7 (Senior Secondary Biology 1, student textbook, Grade 10), Ch. 3, printed p. 39 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Sri Lanka, Brazil, Samoa) — Albania's teacher-book evidence is named here and counted nowhere.**
+**Acceptance count: taught in 5 countries (Ethiopia, Sri Lanka, Brazil, Samoa, Nigeria) — Albania's teacher-book evidence is named here and counted nowhere.**
 
 Honesty (Samoa): Book 6 is a student textbook as verified in the placements — *Biology — Year 12* (MESC Samoa; © Ministry of Education, Sports and Culture, Sāmoa, 2004), Grade 12 — so Samoa counts toward acceptance. It is COMPLETE: all five units of the contents present (187 PDF pages; printed p. = PDF page − 1). The Year 12 text was recorded twice in the library records (TSV release + books.json) — a verified duplicate record of one book, cited once here.
 
@@ -35,4 +38,6 @@ Honesty (Brazil): Book 4 is a student textbook as verified in the placements —
 
 Honesty (Albania): Albania's evidence here is a teacher's book only — *Libër Mësuesi — Biologjia me zgjedhje 12* (Teacher's Book, Elective Biology 12; Mediaprint), Grade 12 — cited as teacher-book evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. The placements are taken from the book's own annual plan and lesson plans, cited to the plan pages.
 
-Searchable tags: biology, ethiopia, sri lanka, osmosis, water, crossing, the, membrane, brazil, albania, samoa
+Honesty (Nigeria): Book 7 is a student textbook as verified in the placements — *Senior Secondary Biology 1* (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3), Grade 10 (Senior Secondary School 1, SS1) — so Nigeria counts toward acceptance. It is COMPLETE: the index ends at printed p. 226 and nothing is missing (232 PDF pages; printed p. = PDF page − 6).
+
+Searchable tags: biology, ethiopia, sri lanka, osmosis, water, crossing, the, membrane, brazil, albania, samoa, nigeria
