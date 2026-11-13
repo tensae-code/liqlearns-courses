@@ -1,12 +1,14 @@
 # Sources — Noise pollution — harm, rights and compromise
 
-countries: Ethiopia, Moldova
+countries: Ethiopia, Moldova, South Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
 **Book 2:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia, Federal Ministry of Education new syllabus, implemented from 2014 E.C. (no bureau, publisher or publication year printed anywhere in the book). Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. COMPLETE: 141 pp. Printed page = PDF page. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
 
 **Book 3:** *Fizică: Manual pentru clasa a VIII-a (Physics: Textbook for Grade 8)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Ion Botgros, Viorel Bocancea & Vladimir Donici; Editura Cartier (Chișinău), 2024; approved by ministerial order nr. 367 of 25 March 2024, curriculum order nr. 1381 of 30 October 2019. Grade 8 · Student book · Repo path: grade-08/gov/moldova/physics/student/moldova-g08-physics.pdf (release copy: releases/download/mid-size-books-8/grade-08-gov-moldova-physics-student-moldova-g08-physics.pdf). Byte size: 18,560,422 (exact match with the record — re-obtained from the ministry source, eduresurse.gov.md, after the first reader's scratch copy proved corrupt: 13,105,557 bytes, broken cross-reference table, unreadable). PDF pages: 104 (record: 104). Offset: printed p. = PDF p. (printed p. 10 is PDF p. 10). Verdict: COMPLETE read (full text layer, all 104 pages; contents read in full, chapter summaries and interiors read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
+
+**Book 4:** *Physics Secondary 2 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 2 (Grade 10) · Student book · Repo path: grade-10/gov/south-sudan/physics/student/full-year.pdf. Bytes: 14,907,001 (Contents API meta = downloaded) · PDF pages: 319 · Offset: printed p. 1 ≈ PDF p. 7 (printed = PDF − 6). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Magnetism and Topic Test 10 at the end of the book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,8 +17,10 @@ countries: Ethiopia, Moldova
 | Sound pollution as an Addis Ababa problem — causes keyed as vehicles, explosions, machines and loudspeakers; an invited professional advised; a hearing level of 80 dB among the Exercise 7.8 answers (teacher guide — evidence) | Ethiopia, *General Science Teacher Guide, Grade 8*, printed pp. 120–121, 125, 135, 138 (teacher placement 21) |
 | Ch. I §1.4: sound waves — speed and loudness of sound, pitch by frequency, hearing range 16 Hz–20,000 Hz, infrasound and ultrasound, noise (phonetic) pollution and ear protection (Moldova, Grade 8) | Moldova, *Fizică: Manual pentru clasa a VIII-a (Physics: Textbook for Grade 8)*, Ch. I §1.4: sound waves — speed and loudness of sound, pitch by frequency, hearing range 16 Hz–20,000 Hz, infrasound and ultrasound, noise (phonetic) pollution and ear protection — printed p. 15 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Moldova).**
+| Topic 8.10: sound pollution (South Sudan, Secondary 2 (Grade 10)) | South Sudan, *Physics Secondary 2 — Student's Book*, Topic 8.10: sound pollution — printed p. ~242 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Moldova, South Sudan).**
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
-Searchable tags: noise pollution, hearing loss, loudspeaker debate, compromise, Addis Ababa, Ethiopia Grade 8 General Science Unit 7
+Searchable tags: noise pollution, hearing loss, loudspeaker debate, compromise, Addis Ababa, Ethiopia Grade 8 General Science Unit 7, south sudan

@@ -1,6 +1,6 @@
 # Sources — Heat — radiation and the black/white test
 
-countries: Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya
+countries: Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya, South Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -26,6 +26,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 11:** *الفيزياء كراسة النشاط العملي — Physics, Grade 11 (practical activity workbook, Science stream)* (workbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 11 · Workbook (practical activities, كراسة النشاط العملي) — the heat-and-light volume of the practical series, with a two-experiment mechanics tail · Repo path: grade-11/gov/libya/physics/practical-activity-workbook.pdf (Contents-API tree route). Byte size: 2,904,004 (Contents-API meta + raw download, verified) · PDF pages: 72 · Offset: printed p. = PDF p. (printed 7 = PDF 7). Verdict: COMPLETE — contents and all experiment titles read via page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 12:** *Physics Secondary 2 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 2 (Grade 10) · Student book · Repo path: grade-10/gov/south-sudan/physics/student/full-year.pdf. Bytes: 14,907,001 (Contents API meta = downloaded) · PDF pages: 319 · Offset: printed p. 1 ≈ PDF p. 7 (printed = PDF − 6). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Magnetism and Topic Test 10 at the end of the book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Radiation: heat by electromagnetic waves, no medium, through a vacuum; every hot object radiates (Activity 7.21) | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 205–207 (student placement 62) |
@@ -43,8 +45,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | §4-5, Methods of heat transfer — radiation (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §4-5 — printed p. 111 |
 | Heat Exps. 9–10: absorption of radiation by a black vs a silvered surface; radiation from an electric lamp falling on two thermometers (Libya, Grade 11) | Libya, *Physics, Grade 11 (practical activity workbook, Science stream)*, Heat Exps. 9–10: absorption of radiation by a black vs a silvered surface; radiation from an electric lamp falling on two thermometers — printed pp. 39–41 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya).**
+| Topic 9.2: heat transfer by radiation (South Sudan, Secondary 2 (Grade 10)) | South Sudan, *Physics Secondary 2 — Student's Book*, Topic 9.2: heat transfer by radiation — printed p. ~248 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya, South Sudan).**
 
 Book error taught corrected: Activity 7.22's results table heads its second column “silver cloth” while its own procedure says white cloth (printed p. 207) — the lesson follows the procedure (white cloth) throughout, and the heading error is flagged here, never reproduced. Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
-Searchable tags: radiation, electromagnetic waves, vacuum, absorption, black heats faster, white reflects, fair test graph, Ethiopia Grade 8 General Science Unit 7, uganda, kenya, iran, laos, libya
+Searchable tags: radiation, electromagnetic waves, vacuum, absorption, black heats faster, white reflects, fair test graph, Ethiopia Grade 8 General Science Unit 7, uganda, kenya, iran, laos, libya, south sudan

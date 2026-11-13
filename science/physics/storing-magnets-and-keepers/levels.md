@@ -1,0 +1,4 @@
+# Storing magnets and keepers — depth
+
+Whole-lesson pass mark: the learner can do all of these — Magnets weaken in store by self-demagnetisation, heat, knocks and careless pole-to-pole storage — storage is a designed answer, not tidiness; Bar magnets: store in pairs with unlike poles together and a soft-iron keeper across each end, closing the magnetic circuit; A keeper is soft iron: it carries the field while stored and loses its magnetism when removed; A horseshoe magnet takes one keeper across both poles; all magnets want cool, dry, knock-free storage — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

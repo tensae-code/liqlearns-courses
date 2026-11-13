@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (tea
 
 **Book 16:** *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Vlad Sorocovici & Diana Gatman; Chișinău, 2023 (state public-property textbook, issued free from the state budget); written to the discipline curriculum approved by ministerial order nr. 906 of 17 July 2019; approved 04.09.2023. Grade 6 · Student book · Repo path: grade-06/gov/moldova/physics/student/moldova-g06-physics.pdf (release copy: releases/download/mid-size-books-8/grade-06-gov-moldova-physics-student-moldova-g06-physics.pdf). Byte size: 40,060,787 (exact match). PDF pages: 97 (record: 97). Offset: printed p. = PDF p. − 1 (printed p. 1 is PDF p. 2). Verdict: COMPLETE read (full text layer, all 97 pages; contents read in full, every unit opener read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 17:** *Physics Secondary 1 — Student's Book* (student textbook) — South Sudan, Republic of South Sudan, Ministry of General Education and Instruction (cover: "Physics 1 cover", Adobe Illustrator 2019 file; funded-not-for-sale ministry book). Grade: Secondary 1 (Grade 9) · Student book · Repo path: grade-09/gov/south-sudan/physics/student/full-year.pdf. Bytes: 15,175,190 (Contents API meta = downloaded bytes) · PDF pages: 275 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — all 5 units / 8 topics present through Topic Test 8 (printed p. 265) plus end matter. South Sudan's own way: every topic ends with a Topic summary, "new words" list and a Topic Test; forces are introduced before pressure, and light is taught plane-surfaces-only at S1. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Wall, table, book — and every shadow | Ethiopia, *Grade 2 Student Textbook*, Chapter 2, materials that block light; shadows and shade, printed pp. 23–25 |
@@ -45,8 +47,10 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (tea
 | Ch 8: shadows and eclipses (Kenya, Form One) | Kenya, *Secondary Physics — Student's Book One (KLB, Fourth Edition)*, Ch 8: shadows and eclipses — printed p. ~210 |
 | Theme 4 §4.2: shadows and penumbras (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 4 §4.2: shadows and penumbras — printed p. 169 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| Topic 5.4: shadows and eclipses (South Sudan, Secondary 1 (Grade 9)) | South Sudan, *Physics Secondary 1 — Student's Book*, Topic 5.4: shadows and eclipses — printed p. 151 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Grade 4 extension (2026-11-12): the Grade 4 student book is COMPLETE (printed pp. 1–148) and both Grade 4 regional teacher guides are COMPLETE in hand — no truncation note applies to the Grade 4 rows. Teacher-guide rows are evidence and never count as pupil-taught.
 
-Searchable tags: light blocking, opaque, shadow, shade, ብርሃን ከልካይ, opaque body ብርሃን ከል, Experiment 5, shadow formation, uganda, kenya, north macedonia
+Searchable tags: light blocking, opaque, shadow, shade, ብርሃን ከልካይ, opaque body ብርሃን ከል, Experiment 5, shadow formation, uganda, kenya, north macedonia, south sudan

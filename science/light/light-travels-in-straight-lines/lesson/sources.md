@@ -1,6 +1,6 @@
 # Sources — Light travels in straight lines
 
-countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova
+countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (teacher-guide evidence only), Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (t
 
 **Book 28:** *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)* (student textbook) — Moldova, Ministerul Educației și Cercetării (Ministry of Education and Research). Authors: Vlad Sorocovici & Diana Gatman; Chișinău, 2023 (state public-property textbook, issued free from the state budget); written to the discipline curriculum approved by ministerial order nr. 906 of 17 July 2019; approved 04.09.2023. Grade 6 · Student book · Repo path: grade-06/gov/moldova/physics/student/moldova-g06-physics.pdf (release copy: releases/download/mid-size-books-8/grade-06-gov-moldova-physics-student-moldova-g06-physics.pdf). Byte size: 40,060,787 (exact match). PDF pages: 97 (record: 97). Offset: printed p. = PDF p. − 1 (printed p. 1 is PDF p. 2). Verdict: COMPLETE read (full text layer, all 97 pages; contents read in full, every unit opener read). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 29:** *Physics Secondary 1 — Student's Book* (student textbook) — South Sudan, Republic of South Sudan, Ministry of General Education and Instruction (cover: "Physics 1 cover", Adobe Illustrator 2019 file; funded-not-for-sale ministry book). Grade: Secondary 1 (Grade 9) · Student book · Repo path: grade-09/gov/south-sudan/physics/student/full-year.pdf. Bytes: 15,175,190 (Contents API meta = downloaded bytes) · PDF pages: 275 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — all 5 units / 8 topics present through Topic Test 8 (printed p. 265) plus end matter. South Sudan's own way: every topic ends with a Topic summary, "new words" list and a Topic Test; forces are introduced before pressure, and light is taught plane-surfaces-only at S1. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Experiment 4 — the straight tube and the bent tube | Ethiopia, *Grade 4 Student Textbook*, §2.6, printed pp. 59–60 |
@@ -66,10 +68,12 @@ countries: Ethiopia, Haiti (programme evidence only), Slovenia, Fiji, Morocco (t
 | Ch. V, Temas 44–45: rectilinear propagation; shadow and penumbra; solar and lunar eclipses (saros) (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. V, Temas 44–45: rectilinear propagation; shadow and penumbra; solar and lunar eclipses (saros) — printed pp. 118–120 |
 | Theme 4 §4.1: propagation of light (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 4 §4.1: propagation of light — printed p. 166 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Slovenia, Fiji, Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| Topic 5.1–5.3: nature of light, rays and beams, rectilinear propagation (South Sudan, Secondary 1 (Grade 9)) | South Sudan, *Physics Secondary 1 — Student's Book*, Topic 5.1–5.3: nature of light, rays and beams, rectilinear propagation — printed p. 146 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Slovenia, Fiji, Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan).** Haiti is named as programme evidence only (*Programme détaillé NS, Physique 1re année* (MENFP, Nouveau Secondaire, 2008–2009) — official Physics programme documents), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 2AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 2AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 The Grade 4 student book is COMPLETE (printed pp. 1–148); nothing in this lesson rests on the regional teacher guides. Flame safety: in the book the candle is the class's light source; this lesson keeps the candle as adult-handled, with a torch named as the home substitute.
 
 Grade 6 extension (2026-11-12): the Grade 6 student book is COMPLETE.
 
-Searchable tags: light travels straight, straight lines, candle tube experiment, energy, bounces into eyes, light travels in straight lines, kenya, iraq, cambodia, egypt, yemen, north macedonia, laos
+Searchable tags: light travels straight, straight lines, candle tube experiment, energy, bounces into eyes, light travels in straight lines, kenya, iraq, cambodia, egypt, yemen, north macedonia, laos, south sudan

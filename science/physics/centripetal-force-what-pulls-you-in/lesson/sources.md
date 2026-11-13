@@ -1,6 +1,6 @@
 # Sources — Centripetal force — what pulls you in
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, Bahamas (curriculum evidence only), Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt, Kuwait, Yemen, Iran, Vietnam
+countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, Bahamas (curriculum evidence only), Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt, Kuwait, Yemen, Iran, Vietnam, South Sudan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -33,6 +33,8 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, 
 
 **Book 15:** *Vật lí 10 (Physics 10) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student book · 4th reprint (Tái bản lần thứ tư) · Authors: Vũ Văn Hùng (editor-in-chief), Bùi Gia Thịnh (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-full-year.pdf). Byte size: 26,833,128 (matches record). PDF pages: 142 (record 142). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover, title page, full TOC and interior chapters verified against TOC). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 16:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Centripetal force | Grade 11 Student Textbook, printed pp. 86–89 |
@@ -53,10 +55,12 @@ countries: Ethiopia, Zambia (teacher-module evidence only), Bolivia, Nicaragua, 
 | §2-4, Uniform circular motion — centripetal force | Iran, *Physics (3), Grade 12, Mathematical Sciences* (Iran, book code 112209 — Mathematical branch only), §2-4 — printed p. 48 |
 | Bài 32 — Centripetal force and centripetal acceleration (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 32, Centripetal force and centripetal acceleration — printed p. 123 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Bolivia, Nicaragua, Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt, Kuwait, Yemen, Iran, Vietnam).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| Topic 1: applications of uniform circular motion, motion in a vertical circle (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 1: applications of uniform circular motion, motion in a vertical circle — printed p. 17 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Bolivia, Nicaragua, Italy, Sri Lanka, Slovenia, Sudan, Kenya, Egypt, Kuwait, Yemen, Iran, Vietnam, South Sudan).** Zambia is named as teacher-module evidence only (CDC Physics Teaching Modules), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
 
 Record debt, named here in sources only: the Form 1 module is recorded in the library as a Grade 7 student full-year book ("Physics", grade-07/gov/zambia/physics/full-year.pdf); the file is actually the Form 1 Term 3 teacher Teaching Module (Topic 5 only, CDC 2025) — grade label, kind and scope in the record all mismatch the book.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal force — what pulls you in, acceleration, sri lanka, kenya, egypt, yemen, iran
+Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal force — what pulls you in, acceleration, sri lanka, kenya, egypt, yemen, iran, south sudan

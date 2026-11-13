@@ -1,6 +1,6 @@
 # Sources — Magnetic fields — field lines, Earth's field and the compass
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India
+countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India, South Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum ev
 
 **Book 6:** *Physics Part–I, Textbook for Class XII, NCERT* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 12 · Kind: student · Repo: grade-12/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books-2/grade-12-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-leph1. Verdict: COMPLETE (contents read in full, chapter and topic level). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 7:** *Physics Secondary 2 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 2 (Grade 10) · Student book · Repo path: grade-10/gov/south-sudan/physics/student/full-year.pdf. Bytes: 14,907,001 (Contents API meta = downloaded) · PDF pages: 319 · Offset: printed p. 1 ≈ PDF p. 7 (printed = PDF − 6). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Magnetism and Topic Test 10 at the end of the book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Seeing the field: filings over one magnet, two unlike-facing, two like-facing (Activity 7.36); field lines — closed loops, never crossing, N to S outside, crowded where strong | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 220–223 (student placement 68) |
@@ -26,8 +28,10 @@ countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum ev
 | Ch. 5 Lesson 1: magnetism, compasses, the maglev train (Cambodia, Grade 8 — private-booklet evidence) | Cambodia, *PISA Sample Test — Physics Grade 8, Student version (PRIVATE booklet — Preah Sisowath High School, New Generation School)*, Ch. 5 Lesson 1 — printed p. 56 |
 | Ch. 5 — magnetic properties of materials and magnetisation close the chapter (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 5 — magnetic properties of materials and magnetisation close the chapter |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Kenya, India).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+| Topic 10: compass, Earth's field, declination and inclination (South Sudan, Secondary 2 (Grade 10)) | South Sudan, *Physics Secondary 2 — Student's Book*, Topic 10: compass, Earth's field, declination and inclination — printed p. ~281 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Kenya, India, South Sudan).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Book cross-reference taught corrected: §7.5.2's text (printed p. 222) points to “Figure 7.9” for the magnetic field lines between bar magnets, but Figure 7.9 is the book's parallel-circuit diagram; the filings pattern is Figure 7.10. The lesson teaches the filings patterns without the wrong figure number, and the error is flagged here, never reproduced.
 
-Searchable tags: magnetic field, field lines, iron filings, Earth as magnet, compass, polar light shows, Ethiopia Grade 8 General Science Unit 7, kenya, cambodia
+Searchable tags: magnetic field, field lines, iron filings, Earth as magnet, compass, polar light shows, Ethiopia Grade 8 General Science Unit 7, kenya, cambodia, south sudan

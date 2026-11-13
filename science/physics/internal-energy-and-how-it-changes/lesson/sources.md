@@ -1,6 +1,6 @@
 # Sources — Internal energy and how it changes
 
-countries: Belarus, Uzbekistan, Iran
+countries: Belarus, Uzbekistan, Iran, South Sudan
 
 **Book 1:** *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай) (Physics, Grade 8)* (student textbook) — Belarus, Isachenkava & Liashchynski, ed. Isachenkava; Minsk, «Народная асвета», 2010 (signed to print 14.05.2010); Belarusian-language edition. Grade: 8 · Student book · Repo: release `mid-size-books-7`, asset `grade-08-gov-belarus-physics-student-full-year.pdf` — 18,653,720 bytes (matched asset). PDF pages: 184. Printed page ≈ PDF page. Verdict: COMPLETE (Ch.4 Laboratory experiment, density appendix at printed p. 179, answers at p. 180, contents and colophon present). Structure: Ch.1 Thermal phenomena (§§1–12); Ch.2 Electromagnetic phenomena (§§13–34); Ch.3 Light phenomena (§§35–43); Ch.4 Laboratory experiment. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/belarus-placements.md.
 
@@ -12,6 +12,8 @@ countries: Belarus, Uzbekistan, Iran
 
 Iran is counted ONCE for this lesson: the Mathematical Sciences book contains the Experimental Sciences book's core (Chapters 1–4 §§1–5 at identical printed pagination) plus extra sections; both books genuinely teach this part, and the placement is stocked once.
 
+**Book 5:** *South Sudan Secondary Physics 3 — Student's Book* (student textbook) — South Sudan, © 2018, The Republic of South Sudan, Ministry of General Education and Instruction (developed by MoGEI with subject experts under the new South Sudan National Curriculum). Grade: Secondary 3 (Grade 11) · Student book · Repo path: grade-11/gov/south-sudan/physics/student/full-year.pdf. Bytes: 47,258,719 (recorded size in books.json; downloaded = recorded, exact match) · PDF pages: 306 · Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 6 units / 8 topics through Topic 8 Bulk properties of solids and fluids, Topic Test 8 at printed p. 297. Read on the retry from the recorded books.json source (CGA Technologies' site; the file is mislabelled "Cover" in its name but is the complete book). Library debt, carried on the record: this book sits in books.json with in_pushed: false and its recorded GitHub tree URL returns 404 — the book was read and placed from its recorded source and still needs pushing library-side. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Belarus, *Фізіка. 8 клас (пад рэд. Л. А. Ісачанкавай)*, §2 Internal energy (printed p. 9); §3 Ways of changing internal energy — printed p. 12 |
@@ -22,8 +24,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | Ch. IV, Tema 40: internal energy and ways of changing it; temperature as the measure of particles' mean kinetic energy (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. IV, Tema 40: internal energy and ways of changing it; temperature as the measure of particles' mean kinetic energy — printed p. 105 |
 | §3-6, Work and internal energy — friction turns work into internal energy, the bridge from mechanics to heat inside the work chapter (Iran, Grade 10) | Iran, *Physics (1), Grade 10* (Iran — both branch books, codes 110214/110209, same printed pagination; counted once), §3-6 — printed p. 71 |
 
-**Acceptance count: taught in 3 countries (Belarus, Uzbekistan, Iran).**
+| Topic 7: internal energy of a system (South Sudan, Secondary 3 (Grade 11)) | South Sudan, *South Sudan Secondary Physics 3 — Student's Book*, Topic 7: internal energy of a system — printed p. 241 |
+
+**Acceptance count: taught in 4 countries (Belarus, Uzbekistan, Iran, South Sudan).**
 
 Placement choice, on the record: this NEW LESSON was built for the Belarus placement “Internal energy and how it changes” — belarus-placements.md, Book 2, §2 Internal energy (printed p. 9); §3 Ways of changing internal energy (printed p. 12). It sits in physics/ and is registered in CURRICULUM.md Unit 18 (Physics).
 
-Searchable tags: internal energy, work, heat transfer, particles, temperature, belarus, grade 8, iran
+Searchable tags: internal energy, work, heat transfer, particles, temperature, belarus, grade 8, iran, south sudan

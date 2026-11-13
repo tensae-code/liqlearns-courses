@@ -1,6 +1,6 @@
 # Sources — Centripetal acceleration — always toward the centre
 
-countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, Indonesia, Kenya, Kuwait, Belarus, Bhutan, Moldova
+countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, Indonesia, Kenya, Kuwait, Belarus, Bhutan, Moldova, South Sudan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, 
 
 **Book 10:** *Fizica, clasa a X-a (Physics, Grade 10)* (student textbook; printed/recorded title "Clasa 10 — Fizica (in limba romana)") — Moldova. Authors: Mihai Marinciuc (Chs. 1, 3, 4 and part of 2) & Spiridon Rusu (rest of Ch. 2, §4.3, Ch. 5, laboratory works); Editura Știința, 2012; drawn up to the discipline curriculum in force and approved by Order of the Minister of Education nr. 265 of 27 April 2012. Grade 10 · Student book · Repo path: grade-10/gov/moldova/physics/full-year.pdf (tree file; TSV row only — no size/pages in the record). Byte size: 6,817,784 (no size recorded). PDF pages: 180 (no page count recorded). Offset: printed p. = PDF p. (interior check: printed p. 31 is PDF p. 31). Verdict: COMPLETE read (full text layer, all 180 pages; contents read in full, interiors sampled throughout). Library debt, on the record: there is no Moldova Grade 9 or Grade 12 Physics record in the targets, and this Grade 10 book is a TSV-only record with no size/page data in books.json. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 11:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
+**Book 12:** *Physics Secondary 4 — Teacher's Guide* (teacher's guide) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Teacher's guide · Repo path: grade-12/gov/south-sudan/physics/teacher/full-year.pdf (release asset: mid-size-books-2). Bytes: 6,084,056 (release index size = downloaded) · PDF pages: 131 · Offset: printed p. 1 ≈ PDF p. 6 (printed = PDF − 5). Verdict: COMPLETE — Part 1 introduction + topic-to-topic guide for all 7 units / 10 topics, Topic 10 at printed p. 114. Read method: image-only PDF — read via 100-DPI 4-up sheets. Its rows below are the guide's teaching-way layer over the student topics; South Sudan is counted in this lesson through the companion Student's Book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Centripetal acceleration | Grade 11 Student Textbook, printed pp. 83–86 |
@@ -38,10 +42,13 @@ countries: Ethiopia, Bahrain (solutions-manual evidence only), Palestine, Fiji, 
 
 | Ch. 4 Motion in Two and Three Dimensions: projectiles, circular motion, relative velocity — printed p. 62 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 4 Motion in Two and Three Dimensions: projectiles, circular motion, relative velocity — printed p. 62 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Palestine, Fiji, Indonesia, Kenya, Kuwait, Belarus, Bhutan, Moldova).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
+| Topic 1: circular motion, centripetal force and acceleration (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 1: circular motion, centripetal force and acceleration — printed p. 2 |
+| Topic 1 Uniform circular motion (guide) (South Sudan, Secondary 4 (Grade 12) — teacher's guide) | South Sudan, *Physics Secondary 4 — Teacher's Guide*, Topic 1 Uniform circular motion (guide) — printed p. 21 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Palestine, Fiji, Indonesia, Kenya, Kuwait, Belarus, Bhutan, Moldova, South Sudan).** Bahrain is named as solutions-manual evidence only (فيز 217 Term 2 solutions manual — worked answers for Glencoe *Physics: Principles and Problems*), not added to this count.
 
 Record debt, named here in sources only: the book is recorded in the library as a Grade 11 student book titled "Physics Teacher Guide with Student Book Activities (فيز 217)" (grade-11/gov/bahrain/physics-student-term-2.pdf); the file is actually the English-language SOLUTIONS MANUAL for Bahrain's فيز 217 course (worked answers for Glencoe *Physics: Principles and Problems*, Chapters 5–11) — record kind "student" and the recorded title are both filing mismatches.
 
 The unit's title promises two-dimensional motion, but this book teaches no projectile-motion section — two dimensions appear only as uniform circular motion. Projectile motion is taught in the Grade 12 book; nothing about projectiles is claimed for this lesson from this book.
 
-Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal acceleration — always toward the centre, acceleration, palestine, kenya
+Searchable tags: physics, grade 11, motion in one and two dimensions, centripetal acceleration — always toward the centre, acceleration, palestine, kenya, south sudan

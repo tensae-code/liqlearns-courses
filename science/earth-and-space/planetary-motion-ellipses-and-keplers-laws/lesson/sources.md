@@ -1,6 +1,6 @@
 # Sources — Planetary motion — ellipses and Kepler's laws
 
-countries: Ethiopia, Malaysia, Kuwait, India
+countries: Ethiopia, Malaysia, Kuwait, India, South Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Malaysia, Kuwait, India
 
 **Book 5:** *Physics Part–I, Textbook for Class XI, NCERT (National Council of Educational Research and Training), New Delhi* (student textbook) — India, NCERT (National Council of Educational Research and Training), New Delhi. Grade: 11 · Kind: student · Repo: grade-11/gov/india/physics-part-i.pdf; TSV copy: GitHub release mid-size-books/grade-11-gov-india-physics-part-i.pdf · Source of record: https://archive.org/details/ncert-keph1. Verdict: COMPLETE (contents read in full, section level, with printed pages). Edition note: the archived copy is the pre-rationalisation printing (extra Ch. 1 Physical World, later chapters +1) — placements are keyed to chapters so they hold in both printings. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/india-placements.md.
 
+**Book 6:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Activity 6.9's marble sky: fixed stars, month-by-month sight-lines, retrograde drift | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 6, printed pp. 171–172 |
@@ -21,7 +23,9 @@ countries: Ethiopia, Malaysia, Kuwait, India
 | Activity 7 "Elliptical Trajectory" (for lesson 4-2, satellites) (Kuwait, Grade 11 Term 1 applications workbook) | Kuwait, *Physics, Grade 11, Term 1 — applications workbook*, printed p. 27 |
 | Ch. 7 Gravitation, §7.2 Kepler's Laws — printed p. 128 (India, Class XI) | India, *Physics Part–I, Textbook for Class XI, NCERT*, Ch. 7 Gravitation, §7.2 Kepler's Laws — printed p. 128 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Malaysia, Kuwait, India).**
+| Topic 3: Kepler's laws and applications (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 3: Kepler's laws and applications — printed p. 68 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Kuwait, India, South Sudan).**
 
 PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
@@ -29,4 +33,4 @@ GUIDE KEY ERRORS, corrected before use: the guide's Exercises 6.2/6.4 answer key
 
 The ellipse-construction craft and the ESSTI / Ethiopian satellites material in Sub lesson 2 come from the teacher guide (guide item 19, printed pp. 103–107) and are labelled teacher evidence wherever they appear; the guide's Venus-watch project (Project 6.1) is carried in hands-on.md.
 
-Searchable tags: Kepler's laws, ellipse, eccentricity, foci, retrograde marble model, ESSTI, Entoto Observatory, Ethiopia satellites, Ethiopia Grade 8 General Science Unit 6
+Searchable tags: Kepler's laws, ellipse, eccentricity, foci, retrograde marble model, ESSTI, Entoto Observatory, Ethiopia satellites, Ethiopia Grade 8 General Science Unit 6, south sudan

@@ -1,6 +1,6 @@
 # Sources — Echoes at work — echolocation and ultrasound
 
-countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Vietnam, Libya
+countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Vietnam, Libya, South Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodi
 
 **Book 11:** *الفيزياء كتاب الطالب — Physics, Grade 11 (student book, Science stream)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 11 · Student book (Science stream — القسم العلمي, title page; Arabic medium) · Repo path: grade-11/gov/libya/physics/student-book.pdf (TSV route: release asset grade-11-gov-libya-physics-student-book.pdf, mid-size-books-3). Byte size: 23,437,224 (release asset, verified) · PDF pages: 220 · Offset: printed p. = PDF p. − 6 approx. (front matter + 3 contents pages). Verdict: COMPLETE — two parts, 13 units, answers (p. 203) and an English "Definitions" appendix (p. 211); read from the full printed contents (image sheets). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 12:** *Physics Secondary 2 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 2 (Grade 10) · Student book · Repo path: grade-10/gov/south-sudan/physics/student/full-year.pdf. Bytes: 14,907,001 (Contents API meta = downloaded) · PDF pages: 319 · Offset: printed p. 1 ≈ PDF p. 7 (printed = PDF − 6). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Magnetism and Topic Test 10 at the end of the book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Echo: reflected sound, the 0.1 s rule, hard surfaces reflecting and soft absorbing | Ethiopia, *General Science Student Textbook, Grade 8*, Unit 7, printed pp. 197–198 (student placement 58) |
@@ -41,8 +43,10 @@ countries: Ethiopia, Nigeria (teacher-guide evidence only), Fiji, Kenya, Cambodi
 | Bài 7 — Ultrasound imaging (Vietnam, Grade 12) | Vietnam, *Chuyên đề học tập Vật lí 12*, Bài 7, Ultrasound (Siêu âm) — printed p. 39 |
 | U9 §9-4: reflection of sound (Libya, Grade 11) | Libya, *Physics, Grade 11 (student book, Science stream)*, U9 §9-4: reflection of sound — printed pp. 134–136 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Kenya, Bhutan, Uzbekistan, Vietnam, Libya).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
+| Topic 8.5 + 8.9: ultrasonic sound, reflection of sound (South Sudan, Secondary 2 (Grade 10)) | South Sudan, *Physics Secondary 2 — Student's Book*, Topic 8.5 + 8.9: ultrasonic sound, reflection of sound — printed p. ~224 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Fiji, Kenya, Bhutan, Uzbekistan, Vietnam, Libya, South Sudan).** Nigeria is named as teacher-guide evidence only (*Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2* (Cambridge University Press, written to the NERDC curriculum) — teacher's guide), not added to this count. Cambodia is named as private-booklet evidence only (PRIVATE exam-prep / sample-test booklets — Preah Sisowath High School, New Generation School — cited as evidence of the tested syllabus, not government textbooks), not added to this count.
 
 Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
-Searchable tags: echo, reflection of sound, 0.1 second, echolocation, sonar, ultrasound, 20 kHz, ear protection, Ethiopia Grade 8 General Science Unit 7, kenya, cambodia, libya
+Searchable tags: echo, reflection of sound, 0.1 second, echolocation, sonar, ultrasound, 20 kHz, ear protection, Ethiopia Grade 8 General Science Unit 7, kenya, cambodia, libya, south sudan

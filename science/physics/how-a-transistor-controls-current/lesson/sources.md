@@ -1,6 +1,6 @@
 # Sources — How a transistor controls current
 
-countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova
+countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova, South Sudan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Mold
 
 **Book 8:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 9:** *South Sudan Secondary Physics 3 — Student's Book* (student textbook) — South Sudan, © 2018, The Republic of South Sudan, Ministry of General Education and Instruction (developed by MoGEI with subject experts under the new South Sudan National Curriculum). Grade: Secondary 3 (Grade 11) · Student book · Repo path: grade-11/gov/south-sudan/physics/student/full-year.pdf. Bytes: 47,258,719 (recorded size in books.json; downloaded = recorded, exact match) · PDF pages: 306 · Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 6 units / 8 topics through Topic 8 Bulk properties of solids and fluids, Topic Test 8 at printed p. 297. Read on the retry from the recorded books.json source (CGA Technologies' site; the file is mislabelled "Cover" in its name but is the complete book). Library debt, carried on the record: this book sits in books.json with in_pushed: false and its recorded GitHub tree URL returns 404 — the book was read and placed from its recorded source and still needs pushing library-side. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | How a transistor works — biasing and the current rule | Grade 12 Student Textbook, printed pp. 156–157 |
@@ -30,8 +32,10 @@ countries: Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Mold
 | Ch. 41 Conduction of Electricity in Solids: metals, semiconductors, doping, the transistor — printed pp. 1252, 1270 (Bhutan, Class XI (Grade 11 record)) | Bhutan, *Fundamentals of Physics, 10th Edition (Extended)*, Ch. 41 Conduction of Electricity in Solids: metals, semiconductors, doping, the transistor — printed pp. 1252, 1270 |
 | Ch. V, Temas 53–54: the transistor; simple devices built on semiconductor components (Uzbekistan, Grade 8) | Uzbekistan, *ФИЗИКА 8*, Ch. V, Temas 53–54: the transistor; simple devices built on semiconductor components — printed pp. 127–129 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova).**
+| Topic 4: transistors (South Sudan, Secondary 3 (Grade 11)) | South Sudan, *South Sudan Secondary Physics 3 — Student's Book*, Topic 4: transistors — printed p. 143 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Barbados, Malaysia, Egypt, Kuwait, Bhutan, Uzbekistan, Moldova, South Sudan).**
 
 The student book's diode section contains a stray "Logic gates" heading in the practical-uses run (printed p.154 area) before logic gates are properly taught in §5.6; the gates are taught in their own lessons here, in the book's proper order.
 
-Searchable tags: physics, grade 12, basics of electronics, how a transistor controls current, junction, egypt
+Searchable tags: physics, grade 12, basics of electronics, how a transistor controls current, junction, egypt, south sudan

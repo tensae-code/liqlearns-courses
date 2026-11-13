@@ -1,6 +1,6 @@
 # Sources — A current makes a magnetic field
 
-countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos, Libya
+countries: Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos, Libya, South Sudan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -48,6 +48,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 22:** *الفيزياء كتاب الطالب، الجزء الأول — Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Student book (third secondary year, Science stream; Arabic medium) · Repo path: grade-12/gov/libya/physics/student-book-part-1.pdf (TSV route: release asset grade-12-gov-libya-physics-student-book-part-1.pdf, mid-size-books-3). Byte size: 10,169,298 (release asset, verified) · PDF pages: 177 · Offset: printed p. = PDF p. − 5 approx. Verdict: COMPLETE for Part 1 — 9 units plus answers (printed p. 172); read from the full text layer and printed contents. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 23:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
+**Book 24:** *Physics Secondary 4 — Teacher's Guide* (teacher's guide) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Teacher's guide · Repo path: grade-12/gov/south-sudan/physics/teacher/full-year.pdf (release asset: mid-size-books-2). Bytes: 6,084,056 (release index size = downloaded) · PDF pages: 131 · Offset: printed p. 1 ≈ PDF p. 6 (printed = PDF − 5). Verdict: COMPLETE — Part 1 introduction + topic-to-topic guide for all 7 units / 10 topics, Topic 10 at printed p. 114. Read method: image-only PDF — read via 100-DPI 4-up sheets. Its rows below are the guide's teaching-way layer over the student topics; South Sudan is counted in this lesson through the companion Student's Book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Current creates magnetism — Oersted to Ampère | Grade 12 Student Textbook, printed pp. 122–125 |
@@ -76,6 +80,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Theme 3 §3.12: magnetic field of an electric current; the electromagnet (North Macedonia, Grade 8) | North Macedonia, *Физика за VIII одделение (Physics for Grade 8)*, Theme 3 §3.12: magnetic field of an electric current; the electromagnet — printed p. 157 |
 | U5 §5-8: the magnetic effect of an electric current (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U5 §5-8: the magnetic effect of an electric current — printed pp. 94–98 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos, Libya).**
+| Topic 6: magnetic field of a straight wire, solenoid and coil; the Biot–Savart law (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 6: magnetic field of a straight wire, solenoid and coil; the Biot–Savart law — printed p. 172 |
+| Topic 6 Magnetic effect of an electric current (guide) (South Sudan, Secondary 4 (Grade 12) — teacher's guide) | South Sudan, *Physics Secondary 4 — Teacher's Guide*, Topic 6 Magnetic effect of an electric current (guide) — printed p. 84 |
 
-Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq, egypt, yemen, iran, north macedonia, laos, libya
+**Acceptance count: taught in 21 countries (Ethiopia, Ecuador, Sri Lanka, Syria, Fiji, Indonesia, Kenya, Iraq, Egypt, Mongolia, Kuwait, Yemen, Belarus, Bhutan, Uzbekistan, India, Iran, North Macedonia, Laos, Libya, South Sudan).**
+
+Searchable tags: physics, grade 12, electromagnetism, a current makes a magnetic field, current, ecuador, sri lanka, kenya, iraq, egypt, yemen, iran, north macedonia, laos, libya, south sudan

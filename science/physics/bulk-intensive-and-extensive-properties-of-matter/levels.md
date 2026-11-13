@@ -1,0 +1,4 @@
+# Bulk, intensive and extensive properties of matter — depth
+
+Whole-lesson pass mark: the learner can do all of these — A bulk property describes a whole amount of matter taken together — the lump, the tankful, the stream; Extensive properties grow with the amount and halve when it halves: mass, volume, length, total internal energy; Intensive properties are unchanged by splitting: temperature, density, pressure, melting point; A ratio of two extensive properties (density = mass/volume) is intensive — intensive properties identify the material — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

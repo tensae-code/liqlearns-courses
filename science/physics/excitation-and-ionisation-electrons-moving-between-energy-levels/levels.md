@@ -1,0 +1,4 @@
+# Excitation and ionisation — electrons moving between energy levels — depth
+
+Whole-lesson pass mark: the learner can do all of these — Electrons occupy fixed energy levels; the lowest is the ground state, and levels crowd together toward the escape energy; Excitation: the electron absorbs exactly a level difference and jumps up, staying in the atom; falling back, it emits that energy, often as light; Ionisation: the electron absorbs at least the ionisation energy and leaves; the atom becomes a positive ion; Energy arrives by photon, collision or heat — the amount decides excitation against ionisation — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

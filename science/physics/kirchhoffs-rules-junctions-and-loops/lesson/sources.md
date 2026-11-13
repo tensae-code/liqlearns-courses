@@ -1,6 +1,6 @@
 # Sources — Kirchhoff's rules — junctions and loops
 
-countries: Ethiopia, Italy, Fiji, Indonesia, Morocco (teacher-guide evidence only), Egypt, Mongolia, Yemen, Bhutan, India, North Macedonia, Laos, Moldova
+countries: Ethiopia, Italy, Fiji, Indonesia, Morocco (teacher-guide evidence only), Egypt, Mongolia, Yemen, Bhutan, India, North Macedonia, Laos, Moldova, South Sudan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -31,6 +31,8 @@ countries: Ethiopia, Italy, Fiji, Indonesia, Morocco (teacher-guide evidence onl
 
 **Book 14:** *Fizică. Manual pentru clasa a XI-a (Physics: Textbook for Grade 11)* (student textbook) — Moldova. Authors: Mihai Marinciuc & Spiridon Rusu; Editura Știința, 2020; approved by Order of the Ministry of Education, Culture and Research nr. 1219 of 06.11.2020, curriculum order nr. 906/2019. Grade 11 · Student book · Repo path: grade-11/gov/moldova/physics/student/moldova-g11-physics.pdf (release copy: releases/download/mid-size-books-8/grade-11-gov-moldova-physics-student-moldova-g11-physics.pdf). Byte size: 7,709,885 (exact match). PDF pages: 256 (record: 256). Offset: printed p. = PDF p. (contents and interiors check: printed p. 19 is PDF p. 19). Verdict: COMPLETE read (full text layer, all 256 pages; contents read in full; the temperature-as-molecular-motion passage, the heat-engines-and-environment passage and the semiconductor passage were read in full). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/moldova-placements.md.
 
+**Book 15:** *South Sudan Secondary Physics 3 — Student's Book* (student textbook) — South Sudan, © 2018, The Republic of South Sudan, Ministry of General Education and Instruction (developed by MoGEI with subject experts under the new South Sudan National Curriculum). Grade: Secondary 3 (Grade 11) · Student book · Repo path: grade-11/gov/south-sudan/physics/student/full-year.pdf. Bytes: 47,258,719 (recorded size in books.json; downloaded = recorded, exact match) · PDF pages: 306 · Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 6 units / 8 topics through Topic 8 Bulk properties of solids and fluids, Topic Test 8 at printed p. 297. Read on the retry from the recorded books.json source (CGA Technologies' site; the file is mislabelled "Cover" in its name but is the complete book). Library debt, carried on the record: this book sits in books.json with in_pushed: false and its recorded GitHub tree URL returns 404 — the book was read and placed from its recorded source and still needs pushing library-side. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The junction rule | Grade 11 Student Textbook, printed pp. 265–269 |
@@ -51,8 +53,10 @@ countries: Ethiopia, Italy, Fiji, Indonesia, Morocco (teacher-guide evidence onl
 | Ch. 3 — Kirchhoff's laws (India, Class XII) | India, *Physics Part–I, Textbook for Class XII, NCERT*, Ch. 3 — Kirchhoff's laws |
 | Theme 1 §1.9: Kirchhoff's rules (North Macedonia, Grade 11) | North Macedonia, *Физика за II година гимназиско образование (Physics for the 2nd year of gymnasium education)*, Theme 1 §1.9: Kirchhoff's rules — printed p. 53 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Italy, Fiji, Indonesia, Egypt, Mongolia, Yemen, Bhutan, India, North Macedonia, Laos, Moldova).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| Topic 3: Kirchhoff's laws (South Sudan, Secondary 3 (Grade 11)) | South Sudan, *South Sudan Secondary Physics 3 — Student's Book*, Topic 3: Kirchhoff's laws — printed p. 101 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Italy, Fiji, Indonesia, Egypt, Mongolia, Yemen, Bhutan, India, North Macedonia, Laos, Moldova, South Sudan).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Pairing warning (carried exactly): the guide retitles Unit 6 "Electric Current and Circuits" where the student book says "Electrostatics and Electric Circuit", and numbers Capacitors as §6.5 / Surroundings as §6.6, folding the student book's Kirchhoff material into its §6.4 treatment, while the student book numbers Capacitors §6.6 and Surroundings §6.7. These lessons follow the student book's numbering.
 
-Searchable tags: physics, grade 11, electrostatics and electric circuit, kirchhoff's rules — junctions and loops, junction, voltage, egypt, yemen, north macedonia, laos
+Searchable tags: physics, grade 11, electrostatics and electric circuit, kirchhoff's rules — junctions and loops, junction, voltage, egypt, yemen, north macedonia, laos, south sudan

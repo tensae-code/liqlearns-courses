@@ -1,6 +1,6 @@
 # Sources — Sound — media and speed: solid beats liquid beats gas
 
-countries: Ethiopia, Barbados, Kenya, Uzbekistan
+countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -9,6 +9,8 @@ countries: Ethiopia, Barbados, Kenya, Uzbekistan
 **Book 3:** *Secondary Physics — Student's Book Two* (student textbook) — Kenya, Kenya Literature Bureau (KLB), 5th edition 2013; © Ministry of Education, Kenya · ISBN 978-9966-10-212-6 (first published 1988; 5th edition 2013). Title as printed: Secondary Physics — Student's Book Two (KLB, 5th edition 2013). Grade: Form Two (Grade 10) · Student book · Repo path: grade-10/approved-private/kenya/kenya-physics-form2-klb.pdf (read from the phase3-staging copy of the same path, 7,473,471 bytes) · Byte size: 7,473,471 (staging copy) · PDF pages: 230 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — 10 chapters through Fluid Flow, each with Revision Exercises. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kenya-placements.md. Library gap, carried on the record: Form Three of the KLB series is absent from the library records (Forms 1, 2 and 4 only) — a library gap, not a reading miss.
 
 **Book 4:** *ФИЗИКА 6 (Fizika 6)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelsko-poligraficheskiy tvorcheskiy dom imeni Chulpana, Tashkent 2009; ISBN 978-9943-05-282-6 (imprint: 160 printed pp., print run 32,765). Grade: 6 · Student book (Russian-medium edition) · Repo path: grade-06/gov/uzbekistan/physics/full-year.pdf. Byte size: 53,761,071. PDF pages: 161. Offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — read page by page in full from page images (41 sheets); contents (printed pp. 156–157) confirm all 57 temas present; back cover seen. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
+
+**Book 5:** *Physics Secondary 2 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 2 (Grade 10) · Student book · Repo path: grade-10/gov/south-sudan/physics/student/full-year.pdf. Bytes: 14,907,001 (Contents API meta = downloaded) · PDF pages: 319 · Offset: printed p. 1 ≈ PDF p. 7 (printed = PDF − 6). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Magnetism and Topic Test 10 at the end of the book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,8 +21,10 @@ countries: Ethiopia, Barbados, Kenya, Uzbekistan
 | Ch 9: factors affecting the velocity of sound (Kenya, Form Two) | Kenya, *Secondary Physics — Student's Book Two (KLB, 5th edition 2013)*, Ch 9: factors affecting the velocity of sound — printed p. ~185 |
 | Ch. VI, Tema 54: propagation in different media; Boyle's bell-jar vacuum experiment; speed tables by gas/liquid/solid; thunder delay (Uzbekistan, Grade 6) | Uzbekistan, *ФИЗИКА 6*, Ch. VI, Tema 54: propagation in different media; Boyle's bell-jar vacuum experiment; speed tables by gas/liquid/solid; thunder delay — printed p. 145 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Kenya, Uzbekistan).**
+| Topic 8.8: speed of sound in solids, liquids and gases (South Sudan, Secondary 2 (Grade 10)) | South Sudan, *Physics Secondary 2 — Student's Book*, Topic 8.8: speed of sound in solids, liquids and gases — printed p. ~232 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan).**
 
 New lesson in the new Sound title, not a growth of the primary Sound and vibration lesson: the primary lesson states the speed order; this item earns it — a four-groups defended argument plus the particle-collision account — so it is built whole here.
 
-Searchable tags: sound speed, medium, vacuum, solid liquid gas, steel water air, particle collisions, Ethiopia Grade 8 General Science Unit 7, kenya
+Searchable tags: sound speed, medium, vacuum, solid liquid gas, steel water air, particle collisions, Ethiopia Grade 8 General Science Unit 7, kenya, south sudan

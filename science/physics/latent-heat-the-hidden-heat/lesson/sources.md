@@ -1,6 +1,6 @@
 # Sources — Latent heat — the hidden heat
 
-countries: Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Morocco (teacher-guide evidence only), Kuwait, Bulgaria, Belarus, Bhutan, Uzbekistan, Iran, Moldova, Vietnam, Libya
+countries: Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Morocco (teacher-guide evidence only), Kuwait, Bulgaria, Belarus, Bhutan, Uzbekistan, Iran, Moldova, Vietnam, Libya, South Sudan
 
 **Book 1:** Physics, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Fresenay Misker (MSc), Zinaye Tefera (MSc). Content editor: Hagos Tsegaye (PhD). Curriculum editor: Abharam Zelalem (PhD). Language editor: Daniel Taye (PhD). Illustrator: Getasew Admasu. Designer: Geda Hoka (M.A.). Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-034-5. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g11-student-placements.md.
 
@@ -41,6 +41,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 
 **Book 19:** *الفيزياء كراسة النشاط العملي — Physics, Grade 11 (practical activity workbook, Science stream)* (workbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 11 · Workbook (practical activities, كراسة النشاط العملي) — the heat-and-light volume of the practical series, with a two-experiment mechanics tail · Repo path: grade-11/gov/libya/physics/practical-activity-workbook.pdf (Contents-API tree route). Byte size: 2,904,004 (Contents-API meta + raw download, verified) · PDF pages: 72 · Offset: printed p. = PDF p. (printed 7 = PDF 7). Verdict: COMPLETE — contents and all experiment titles read via page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 20:** *South Sudan Secondary Physics 3 — Student's Book* (student textbook) — South Sudan, © 2018, The Republic of South Sudan, Ministry of General Education and Instruction (developed by MoGEI with subject experts under the new South Sudan National Curriculum). Grade: Secondary 3 (Grade 11) · Student book · Repo path: grade-11/gov/south-sudan/physics/student/full-year.pdf. Bytes: 47,258,719 (recorded size in books.json; downloaded = recorded, exact match) · PDF pages: 306 · Offset: printed p. 1 ≈ PDF p. 9 (printed = PDF − 8). Verdict: COMPLETE — 6 units / 8 topics through Topic 8 Bulk properties of solids and fluids, Topic Test 8 at printed p. 297. Read on the retry from the recorded books.json source (CGA Technologies' site; the file is mislabelled "Cover" in its name but is the complete book). Library debt, carried on the record: this book sits in books.json with in_pushed: false and its recorded GitHub tree URL returns 404 — the book was read and placed from its recorded source and still needs pushing library-side. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Latent heat | Grade 11 Student Textbook, printed pp. 197–208 |
@@ -67,6 +69,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 | U4 §4-3: latent heat (الحرارة الكامنة) (Libya, Grade 11) | Libya, *Physics, Grade 11 (student book, Science stream)*, U4 §4-3: latent heat (الحرارة الكامنة) — printed pp. 45–49 |
 | Heat Exps. 5–6: determining the specific latent heat of fusion of ice and of vaporisation of water (Libya, Grade 11) | Libya, *Physics, Grade 11 (practical activity workbook, Science stream)*, Heat Exps. 5–6: determining the specific latent heat of fusion of ice and of vaporisation of water — printed pp. 32–35 |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Kuwait, Bulgaria, Belarus, Bhutan, Uzbekistan, Iran, Moldova, Vietnam, Libya).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| Topic 7: latent heat and specific latent heat of fusion (South Sudan, Secondary 3 (Grade 11)) | South Sudan, *South Sudan Secondary Physics 3 — Student's Book*, Topic 7: latent heat and specific latent heat of fusion — printed p. 232 |
+| Topic 7: latent heat and specific latent heat of vapourisation (South Sudan, Secondary 3 (Grade 11)) | South Sudan, *South Sudan Secondary Physics 3 — Student's Book*, Topic 7: latent heat and specific latent heat of vapourisation — printed p. 235 |
 
-Searchable tags: physics, grade 11, heat conduction and calorimetry, latent heat — the hidden heat, latent heat, palestine, sri lanka, iran, libya
+**Acceptance count: taught in 16 countries (Ethiopia, Palestine, Sri Lanka, Malaysia, Sudan, Indonesia, Kuwait, Bulgaria, Belarus, Bhutan, Uzbekistan, Iran, Moldova, Vietnam, Libya, South Sudan).** Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 1AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+
+Searchable tags: physics, grade 11, heat conduction and calorimetry, latent heat — the hidden heat, latent heat, palestine, sri lanka, iran, libya, south sudan

@@ -1,0 +1,4 @@
+# Semiconductors — intrinsic and extrinsic, the p-n junction diode — depth
+
+Whole-lesson pass mark: the learner can do all of these — Semiconductors (silicon, germanium) conduct between conductors and insulators, and their conductivity can be engineered; Intrinsic: pure crystal — electrons and holes born in equal, few pairs; warmth makes more carriers; Extrinsic: doping — donors make n-type (majority electrons), acceptors make p-type (majority holes); both stay neutral; The p-n junction diode: a depletion region at the join; forward bias conducts, reverse bias blocks — a one-way gate for current — answering the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one. Practice deepens inside each part before the learner moves on — restating each part in the learner's own examples, working its numbers, and checking new cases against it until the teaching is the learner's own.

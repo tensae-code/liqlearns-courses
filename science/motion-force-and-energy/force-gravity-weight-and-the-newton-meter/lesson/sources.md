@@ -1,6 +1,6 @@
 # Sources — Force — gravity, weight and the newton meter
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam
+countries: Ethiopia, Finland (instructor-pack evidence only), Gabon (teacher-guide evidence only), Slovenia, Malaysia, Morocco (teacher-guide evidence only), Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -32,6 +32,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 14:** *Vật lí 10 (Physics 10) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student book · 4th reprint (Tái bản lần thứ tư) · Authors: Vũ Văn Hùng (editor-in-chief), Bùi Gia Thịnh (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-full-year.pdf). Byte size: 26,833,128 (matches record). PDF pages: 142 (record 142). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover, title page, full TOC and interior chapters verified against TOC). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 15:** *Physics Secondary 1 — Student's Book* (student textbook) — South Sudan, Republic of South Sudan, Ministry of General Education and Instruction (cover: "Physics 1 cover", Adobe Illustrator 2019 file; funded-not-for-sale ministry book). Grade: Secondary 1 (Grade 9) · Student book · Repo path: grade-09/gov/south-sudan/physics/student/full-year.pdf. Bytes: 15,175,190 (Contents API meta = downloaded bytes) · PDF pages: 275 · Offset: printed p. 1 ≈ PDF p. 10 (printed = PDF − 9). Verdict: COMPLETE — all 5 units / 8 topics present through Topic Test 8 (printed p. 265) plus end matter. South Sudan's own way: every topic ends with a Topic summary, "new words" list and a Topic Test; forces are introduced before pressure, and light is taught plane-surfaces-only at S1. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Gravity at every position of a falling ball | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 184–186 |
@@ -54,8 +56,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | Theme 2 §2.3: Earth's gravity (zemjina teža) and weight (težina) (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 2 §2.3: Earth's gravity (zemjina teža) and weight (težina) — printed p. 50 |
 | Bài 17 — Gravity and tension (Vietnam, Grade 10) | Vietnam, *Vật lí 10*, Bài 17, Gravity and tension — printed p. 69 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Slovenia, Malaysia, Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
+| Topic 2.3 + 2.7: measuring force, weight and mass (South Sudan, Secondary 1 (Grade 9)) | South Sudan, *Physics Secondary 1 — Student's Book*, Topic 2.3 + 2.7: measuring force, weight and mass — printed p. 35 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Slovenia, Malaysia, Uganda, Belarus, Iran, North Macedonia, Moldova, Vietnam, South Sudan).** Finland is named as instructor-pack evidence only (*Fysiikkaa: Tutkitaan ilmaa ja lämpöä* — instructor pack), not added to this count. Gabon is named as teacher-guide evidence only (Super Efficace — Sciences, Guide pédagogique, 3e/4e/5e année — teacher guides), not added to this count. Morocco is named as teacher-guide evidence only (*Al Moufid en Physique/Chimie, 3AC — Guide de l'enseignant(e)*, *Al Marjie Physique Chimie, 3AC — Guide de l'enseignant(e)* — Physics-Chemistry teacher guides), not added to this count.
 
 Placement: Student item 83 — g07-student-placements.md (Unit 7). This lesson rests on the student book only. BOOK NOTE: the student book's contents lists §7.4.2 twice (gravity, then measuring force; the second should be §7.4.3) — a contents misprint only; the body sections are taught here in their true order.
 
-Searchable tags: gravity weight W=mg newton meter spring balance grade 7 unit 7 ethiopia, finland, uganda, iran, north macedonia
+Searchable tags: gravity weight W=mg newton meter spring balance grade 7 unit 7 ethiopia, finland, uganda, iran, north macedonia, south sudan

@@ -1,6 +1,6 @@
 # Sources — Faraday's law; Lenz's law
 
-countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam
+countries: Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam, South Sudan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -33,6 +33,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 14:** *Vật lí 12 (Physics 12) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student book) — Vietnam. Title as printed: VẬT LÍ 12 — Kết nối tri thức với cuộc sống. Grade 12 · Student book · 2nd reprint (Tái bản lần thứ hai) · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Văn Biên (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House); appraisal decisions 1882/QĐ-BGDĐT (2023) and 2892/QĐ-BGDĐT (2023). Repo path: grade-12/gov/vietnam/physics/student/full-year.pdf · Release: mid-size-books-2 (asset grade-12-gov-vietnam-physics-student-full-year.pdf). Byte size: 24,390,203 (matches record). PDF pages: 127 (record 127). Offset: printed p. = PDF p. − 2. Verdict: COMPLETE (cover/title/TOC verified; interiors spot-verified at the induction-applications, EM-field and radioactivity/nuclear-industry lessons). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
+**Book 15:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
+**Book 16:** *Physics Secondary 4 — Teacher's Guide* (teacher's guide) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Teacher's guide · Repo path: grade-12/gov/south-sudan/physics/teacher/full-year.pdf (release asset: mid-size-books-2). Bytes: 6,084,056 (release index size = downloaded) · PDF pages: 131 · Offset: printed p. 1 ≈ PDF p. 6 (printed = PDF − 5). Verdict: COMPLETE — Part 1 introduction + topic-to-topic guide for all 7 units / 10 topics, Topic 10 at printed p. 114. Read method: image-only PDF — read via 100-DPI 4-up sheets. Its rows below are the guide's teaching-way layer over the student topics; South Sudan is counted in this lesson through the companion Student's Book. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Faraday's law — emf from changing flux | Grade 12 Student Textbook, printed pp. 129–130 |
@@ -52,6 +56,9 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §3-8–3-9, Faraday's law of electromagnetic induction; Lenz's law (Iran, Grade 11) | Iran, *Physics (2), Grade 11* (Iran — Experimental book code 111244 cited; Mathematical book code 111209 carries the same content at shifted pagination; counted once), §3-8–3-9 — printed pp. 87, 91 |
 | Bài 16 — Faraday's law and Lenz's law (Vietnam, Grade 12) | Vietnam, *Vật lí 12*, Bài 16: e = −N ΔΦ/Δt used explicitly in Bài 18's applications — printed p. 66 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam).**
+| Topic 7: the laws of electromagnetic induction (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 7: the laws of electromagnetic induction — printed p. 198 |
+| Topic 7 Electromagnetic induction (guide) (South Sudan, Secondary 4 (Grade 12) — teacher's guide) | South Sudan, *Physics Secondary 4 — Teacher's Guide*, Topic 7 Electromagnetic induction (guide) — printed p. 89 |
 
-Searchable tags: physics, grade 12, electromagnetism, faraday's law; lenz's law, energy, flux, iraq, iran, laos
+**Acceptance count: taught in 14 countries (Ethiopia, Italy, Syria, Fiji, Indonesia, Iraq, Bulgaria, Belarus, Bhutan, India, Iran, Laos, Vietnam, South Sudan).**
+
+Searchable tags: physics, grade 12, electromagnetism, faraday's law; lenz's law, energy, flux, iraq, iran, laos, south sudan

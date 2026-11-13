@@ -1,6 +1,6 @@
 # Sources — Motors and generators
 
-countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Syria, Fiji, Indonesia, Uganda, Egypt, Kuwait, Uzbekistan, India, Iran, Laos, Vietnam, Libya
+countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Syria, Fiji, Indonesia, Uganda, Egypt, Kuwait, Uzbekistan, India, Iran, Laos, Vietnam, Libya, South Sudan
 
 **Book 1:** Physics, Student Textbook, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Contributors: Abebe Getachew (PhD), Writer; Tizazu Abza (PhD), Writer; Hagos Tsegaye (PhD), Content Editor; Abreham Zelalem (PhD), Curriculum Editor; Daniel Taye (PhD), Language Editor; Getasew Admasu (PhD), Illustrator; Kasim Kedir (MSc) and Derese T. Nega, Book Designers. Evaluators: Girmaye Defar (MSc), Dessie Melese (MSc), Zafu Abraha (MSc). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-035-2. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Page rule: printed page = PDF page − 6. Placements at liqlearns-courses-work/ethiopia-2026-11-11/physics/g12-student-placements.md.
 
@@ -33,6 +33,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (cu
 
 **Book 16:** *الفيزياء كتاب الطالب، الجزء الأول — Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)* (student textbook) — Libya, State of Libya, Ministry of Education, Centre for Educational Curricula and Pedagogical Research; 1440–1441 AH / 2019–2020 CE. Grade: 12 · Student book (third secondary year, Science stream; Arabic medium) · Repo path: grade-12/gov/libya/physics/student-book-part-1.pdf (TSV route: release asset grade-12-gov-libya-physics-student-book-part-1.pdf, mid-size-books-3). Byte size: 10,169,298 (release asset, verified) · PDF pages: 177 · Offset: printed p. = PDF p. − 5 approx. Verdict: COMPLETE for Part 1 — 9 units plus answers (printed p. 172); read from the full text layer and printed contents. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/libya-placements.md.
 
+**Book 17:** *Physics Secondary 4 — Student's Book* (student textbook) — South Sudan, Ministry of General Education and Instruction, South Sudan. Grade: Secondary 4 (Grade 12) · Student book · Repo path: grade-12/gov/south-sudan/physics/student/full-year.pdf (release asset: mid-size-books-2). Bytes: 17,086,421 (release index size = downloaded) · PDF pages: 326 · Offset: printed p. 1 ≈ PDF p. 8 (printed = PDF − 7). Verdict: COMPLETE — 7 units / 10 topics through Topic 10 Radioactivity and Nuclear Energy, Topic Test at printed p. 317. South Sudan's own way: household wiring and electrical safety are a full examined topic at S4, and gravitation is taught with Kepler's laws inside the same topic. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Relays and the electric bell | Grade 12 Student Textbook, printed pp. 134–137 |
@@ -56,6 +58,8 @@ countries: Ethiopia, Papua New Guinea (teacher-guide evidence only), Bahamas (cu
 | Bài 17 — AC generator (Máy phát điện xoay chiều) (NEW tag stocked here) (Vietnam, Grade 12) | Vietnam, *Vật lí 12*, Bài 17, AC generator (Máy phát điện xoay chiều) — stocked into this lesson, whose third sub lesson is the AC generator — printed p. 72 |
 | U7 §7-2: AC generators (مولدات التيار المتردد) (Libya, Grade 12) | Libya, *Physics, Grade 12 (student book, Part 1: Electricity, Magnetism and Atomic Physics)*, U7 §7-2: AC generators (مولدات التيار المتردد) — printed pp. 122–123 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Syria, Fiji, Indonesia, Uganda, Egypt, Kuwait, Uzbekistan, India, Iran, Laos, Vietnam, Libya).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+| Topic 7: the a.c. generator (South Sudan, Secondary 4 (Grade 12)) | South Sudan, *Physics Secondary 4 — Student's Book*, Topic 7: the a.c. generator — printed p. 214 |
 
-Searchable tags: physics, grade 12, electromagnetism, motors and generators, generator, uganda, egypt, iran, laos, libya
+**Acceptance count: taught in 14 countries (Ethiopia, Syria, Fiji, Indonesia, Uganda, Egypt, Kuwait, Uzbekistan, India, Iran, Laos, Vietnam, Libya, South Sudan).** Papua New Guinea is named as teacher-guide evidence only (Physics, Upper Secondary Teacher Guide (OBE), 2008; Physics Teacher Guide Grade 12, Standards-Based, 2020 — teacher guides), not added to this count. Bahamas is named as curriculum evidence only (*Curriculum Guidelines — Physics, Grades 10, 11, 12* (Ministry of Education, Department of Education, 2010) — curriculum guidelines, NOT a student book), not added to this count.
+
+Searchable tags: physics, grade 12, electromagnetism, motors and generators, generator, uganda, egypt, iran, laos, libya, south sudan
