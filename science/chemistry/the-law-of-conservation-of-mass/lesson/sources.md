@@ -1,14 +1,17 @@
 # Sources — The law of conservation of mass
 
-countries: Ethiopia
+countries: Ethiopia, Nicaragua
 
 **Book 1:** *Chemistry, Student Textbook, Grade 9* (student textbook) — Ethiopia. Chemistry, Student Textbook, Grade 9. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Sisay Tadesse (Ph.D.), Tegene Tesfaye (Ph.D.). Curriculum editor: Tesfaye Semela (Ph.D.). Language editor: Kenenisa Beresa (M.A.). Content editor: Ahmed Awel (M.Sc.). Illustrator: Abinet Tilahun (M.Sc.). Designer: Konno B. Hirbaye (M.Sc.). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-016-1. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/chemistry/g09-student-placements.md.
+
+**Book 2:** *Módulo Autoformativo de Química — Décimo grado* (student) — Nicaragua. Title as printed: "Módulo Autoformativo de Química — Décimo Grado" (Ministerio de Educación, MINED, Nicaragua; PROSEN education-sector support). Grade: Grade 10 (décimo grado). Kind: student (self-study module). Repo path: grade-10/gov/nicaragua/chemistry/student/full-year.pdf — NOTE: this path returns 404 in the repo tree (verified repeatedly); the book was read via the record's own public source URL (mined.gob.ni), byte-identical to the record. Byte size: 71,907,231 (matches books.json record exactly). PDF pages: 308; printed-page offset: printed p. 1 (Unidad I) = PDF p. 13 approx. Verdict: COMPLETE. Structural summary: A self-formation module in six units — Modern Atomic Theory; Chemical Reactions and Their Relation to Life; Solutions; Carbon as the Essential Element of Life's Molecules; Aliphatic, Alicyclic and Aromatic Hydrocarbons; Oxygenated and Nitrogenated Organic Compounds (incl. carbohydrates, lipids, amines/amides, amino acids and proteins) — each unit ending in learning performances tied to daily life and to "Madre Tierra" (Mother Earth). Nicaragua's way: every unit closes with the benefits and harms of the chemistry for people and the environment. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/nicaragua-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The law of conservation of mass | Ethiopia, *Chemistry, Student Textbook, Grade 9*, Printed pp. 56–58 |
+| Unidad II: Leyes generales de la química (Nicaragua, Grade 10) | Book 2 (Grade 10), Unidad II: Leyes generales de la química — printed pp. 47–55 — Conservation of mass, Proust's definite proportions and Dalton's multiple proportions (the-law-of-definite-proportions and the-law-of-multiple-proportions covered in the same sequence). |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Nicaragua).**
 
 Book errors taught corrected, named here only: the cover spells "Measurments" for Measurements; one Unit 3 summary passage dates Rutherford's nucleus work "in 1920" — the gold-foil work is 1909/1911 and is taught so; the proton is credited in different passages to Goldstein (1886, perforated-cathode work) and to Rutherford (1920) — both steps are taught in their order; Lewis's dates are printed once as "1875-1046" — taught corrected as 1875–1946; the Unit 2 competencies promise the factor-label method by name but the student sections never teach it by that name — it is taught explicitly in its own lesson from the teacher guide; Unit 4's older group labels are inconsistent ("Group VIIB elements are called as halogens", "Group 0" for noble gases) — taught with the modern family names; recurring typos "iconic compounds" (ionic compounds) and "glass road" (glass rod) are taught corrected.
 
