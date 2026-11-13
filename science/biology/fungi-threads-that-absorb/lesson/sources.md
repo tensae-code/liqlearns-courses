@@ -1,18 +1,23 @@
 # Sources — Fungi — threads that absorb their food
 
-countries: Ethiopia
+countries: Ethiopia, Jordan
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
 **Book 2:** Biology, Teacher's Guide, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, PhD; Zelalem G/mariam, PhD. Editors: Kedir Woliy, PhD (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, PhD (Language Editor). Illustrator: Simachew Ayanaw, MSc. Designer: Tesfamichael Getu, PhD. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer, contract number and printer's address all left as placeholders (XXXXXXXXXXXX / xxxxxxxx). Those placeholder values are NOT facts and are never cited as a real ISBN or date. 101 printed pp. Page rule: printed page = PDF page − 15 for the numbered body. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-teacher-placements.md.
 
+**Book 3:** العلوم الحياتية — كتاب الأنشطة والتجارب العملية — الصف التاسع، الفصل الدراسي الأول (Life Science — Activities and Practical Experiments Book — Grade 9, Term 1) — Jordan. Grade: Grade 9, Term 1 — kind as verified: student workbook (activities/practicals book), NCCD, © HarperCollins Publishers Limited 2022, ISBN 978-9923-41-485-9 Source: GitHub Release mid-size-books-2, grade-09-gov-jordan-biology-student-term-1-workbook.pdf — byte size: 11,868,059 (matches the phase3-staging books.json record for this book exactly) PDF pages: 48 (PDF p. 48 blank) — printed-page offset: printed = PDF − 1 Verdict: COMPLETE (all activities read; contents match the student book's Term-1 units) Structural summary: A practical workbook, not a theory book: every item is an experiment/activity with goal, materials, safety notes, steps, data tables and analysis questions, in the student book's unit order. Unit 1 "The Study of Life" (printed pp. 4–23), Unit 2 "The Cell and Its Vital Processes" (printed pp. 24–47). Each unit closes with "international-test-style questions" — full PISA-style stimulus texts with data (Semmelweis and childbed fever; biodiversity and food webs; a seed respirometer). Jordan's way: biology is examined through doing — hypothesis, controlled variables, tables and graphs — from the first term of Grade 9. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 33–35 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 14–32 |
+| Jordan's way — Bread mould as the experimental organism — A fungus grown, observed and measured (ruler, grid squares) as a living model; safe disposal of mouldy samples is part of the task. | Book 3 (Life Science — Activities and Practical Experiments Book — Grade 9, Term 1, student workbook), printed p. 4 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Jordan).**
 
 Honesty: the Grade 9 teacher guide paired with the student book is a pre-publication draft whose publication page was never filled in (placeholder date and ISBN) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. The student book is the finished 2023 first publication. Book errors the placements flag are taught corrected and named here only: the contents lists Unit 3 starting at 3.2 although 3.1 exists in the body; the contents omits §4.3.5 (sporulation and parthenogenesis); the wolf's name is printed “Canissimensis” in a table on printed p. 27 and is taught corrected as Canis simensis; “Musa acuminate” is taught corrected as Musa acuminata.
 
-Searchable tags: biology, ethiopia, fungi, threads, that, absorb, their, food
+Honesty (Jordan): Book 3 (Life Science — Activities and Practical Experiments Book — Grade 9, Term 1, student workbook) — the student textbooks and student workbooks above are pupil-taught books as verified in the placements — so Jordan counts toward acceptance. Each is COMPLETE as stated in its book entry above. The link-only Jordan books were downloaded from minhaji.net at exactly their staging books.json sizes and are staged in phase3-staging under the 2026-11-13 new rule. Jordan's Grade 12 Term-2 books are draft-state editions (نسخة قيد الإعداد — “version in preparation”), recorded as such wherever they are cited.
+
+Searchable tags: biology, ethiopia, fungi, threads, that, absorb, their, food, jordan

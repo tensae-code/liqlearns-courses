@@ -1,6 +1,6 @@
 # Sources — Experiments that prove the transport routes
 
-countries: Ethiopia, Bhutan, Afghanistan, Libya
+countries: Ethiopia, Bhutan, Afghanistan, Libya, Jordan
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Bhutan, Afghanistan, Libya
 
 **Book 5:** الأحياء كراسة النشاط العملي — Biology Practical Activity Workbook, Year 2 Secondary, Science stream (Grade 11) — Libya. Grade: grade-11 — Kind as verified: workbook — practical investigations book (Arabic), 2019–2020 edition. — Repo path / source: grade-11/gov/libya/biology/practical-activity-workbook.pdf — Byte size: 1,254,650 bytes (record size_bytes: none) — PDF pages: 58; printed-page offset: printed page number = PDF page number — Verdict: COMPLETE — biological-drawing notes, all 8 investigation chapters listed in contents (printed pp. 9–55) present, closing general questions on animal cells and nutrition. — Structural summary: Investigation chapters: 1 Transport in mammals; 2 Transport in flowering plants; 3 Respiration; 4 Excretion; 5 Homeostasis; 6 Nervous system; 7 Sense organs; 8 Biodiversity and conservation. Dissection and microscopy carry this book — heart, urinary system, brain, neurone and eye are all examined physically. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
 
+**Book 6:** العلوم الحياتية — كتاب الطالب — الصف الحادي عشر، المسار الأكاديمي، الفصل الدراسي الأول (Life Science — Student Book — Grade 11, Academic Track, Term 1) — Jordan. Grade: Grade 11, Term 1 — kind as verified: student textbook, NCCD, © HarperCollins Publishers Limited 2024, ISBN 978-9923-41-829-1 Source: GitHub Release mid-size-books-5, grade-11-gov-jordan-biology-student-term-1.pdf — byte size: 79,903,751 (exactly the phase3-staging books.json size, minhaji file 9350) PDF pages: 62 — printed-page offset: printed = PDF − 1 (printed pp. 5–60, references last) Verdict: COMPLETE (contents fully present through glossary and reference list, printed pp. 59–60) Structural summary: Unit 1 Vital Processes in the Plant: Lesson 1 Transport in Plants (printed p. 10), Lesson 2 Response in Plants (p. 21), enrichment on tree rings (p. 32). Unit 2 Seed Plants and Their Reproduction: Lesson 1 Seed Plants (p. 38), Lesson 2 Asexual Reproduction in Seed Plants (p. 47), enrichment on plant reproduction and global food security (p. 55). The plant-physiology depth is university-leaning: the root's three water pathways and the Casparian strip are taught in full. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 40 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Bhutan, Afghanistan, Libya
 | Bhutan's way — Ch. 2 C: stem-section dye experiment and its question set | Book 3 (BIOLOGY — CLASS NINE, student textbook, Grade 9), printed p. 44 |
 | Afghanistan's way — Part 3, Ch7, evidence for the transport routes (placement slug: experiments-that-prove-the-transport-routes) | Book 4 (بیولوژی صنف دوازدهم (Biology, Grade 12 — Dari), student textbook, Grade 12), printed p. 108 |
 | Libya's way — Investigations 1/2–3/2 Internal structure of a dicot stem, root and leaf; the path of water through a plant; root pressure (placement slug: experiments-that-prove-the-transport-routes) | Book 5 (Biology Practical Activity Workbook, Year 2 Secondary, Science stream, practical investigations workbook, Grade 11), printed pp. 15–19 |
+| Jordan's way — The three routes of water across the root — After entering through epidermal cells, water crosses the cortex by the apoplast route, the symplast route, or the transmembrane route, until the waxy Casparian strip in the endodermis cell walls blocks the apoplast path. | Book 6 (Life Science — Student Book — Grade 11, Academic Track, Term 1, student textbook), printed p. 14 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Afghanistan, Libya).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Afghanistan, Libya, Jordan).**
 
 Honesty: the pupil-taught parts above stand on the finished Grade 10 student textbook (August 2023, ISBN 978-99990-0-009-3). The teacher-guide rows are evidence only and never count as pupil-taught; the guide is a pre-publication draft whose publication page was never filled in (placeholder date “xxxxx 2022” and placeholder ISBN/printer) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. Student-book errors and quirks the placements flag are taught corrected and named here only: Activity 3.21 is misprinted “Activity 3.216” (printed p. 75); Figure 5.4’s caption is printed twice (printed p. 102); the student book’s §5.2.1 is “Blood Groups” where the guide’s is “Blood donation”; the student book’s Unit 4 is “Cell Reproduction” where the guide’s is “Cell Cycle”.
 
@@ -30,4 +33,6 @@ Honesty (Afghanistan): Book 4 (بیولوژی صنف دوازدهم (Biology, Gr
 
 Honesty (Libya): Book 5 (*الأحياء كراسة النشاط العملي — Biology Practical Activity Workbook, Year 2 Secondary, Science stream (Grade 11)*, Grade 11) is a workbook — practical / laboratory investigations book as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above.
 
-Searchable tags: biology, ethiopia, grade 10, experiments, that, prove, the, transport, routes, bhutan, afghanistan, libya
+Honesty (Jordan): Book 6 (Life Science — Student Book — Grade 11, Academic Track, Term 1, student textbook) — the student textbooks and student workbooks above are pupil-taught books as verified in the placements — so Jordan counts toward acceptance. Each is COMPLETE as stated in its book entry above. The link-only Jordan books were downloaded from minhaji.net at exactly their staging books.json sizes and are staged in phase3-staging under the 2026-11-13 new rule. Jordan's Grade 12 Term-2 books are draft-state editions (نسخة قيد الإعداد — “version in preparation”), recorded as such wherever they are cited.
+
+Searchable tags: biology, ethiopia, grade 10, experiments, that, prove, the, transport, routes, bhutan, afghanistan, libya, jordan

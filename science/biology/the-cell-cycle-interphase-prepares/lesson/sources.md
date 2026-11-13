@@ -1,15 +1,20 @@
 # Sources — The cell cycle — interphase prepares
 
-countries: Ethiopia
+countries: Ethiopia, Jordan
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** العلوم الحياتية — كتاب الطالب — الصف الثاني عشر، المسار الأكاديمي، الفصل الدراسي الأول (Life Science — Student Book — Grade 12, Academic Track, Term 1) — Jordan. Grade: Grade 12, Term 1 — kind as verified: student textbook, NCCD, © HarperCollins Publishers Limited 2025, ISBN 978-9923-41-803-1 Source: GitHub Release full-quality-oversized-books, grade-12-gov-jordan-biology-student-term-1.pdf — byte size: 174,742,223 (exactly the phase3-staging books.json size, minhaji file 10392) PDF pages: 202 — printed-page offset: printed = PDF − 1 (printed pp. 5–201; glossary from printed p. 198). Note: this file's text layer carries a font-encoding fault that garbles some Arabic glyphs in extraction; the printed pages themselves are clean, and all headings/contents were verified legibly. Verdict: COMPLETE (all four units, enrichments, reviews and the glossary present) Structural summary: Unit 1 Chemistry of Life: Lesson 1 Organic Compounds in Living Organisms (printed p. 10), Lesson 2 Enzymes and the ATP Energy Molecule (p. 36), Lesson 3 Chemical Reactions in the Cell (p. 45), enrichment "Bacteria and Energy" (p. 63). Unit 2 The Cell Cycle and Protein Synthesis: cell cycle (p. 70), cell division and its importance (p. 77), DNA replication and gene expression (p. 89), enrichment on telomeres (p. 102). Unit 3 Genetics: Mendelian inheritance (p. 110), inheritance after Mendel (p. 123), mutations and genetic disorders (p. 143), enrichment on brain maps (p. 160). Unit 4 Biotechnology: tools of biotechnology (p. 168), applications of biotechnology (p. 180), enrichment on DNA microarrays and gene expression (p. 193). A "linking to technology" box in Unit 1 presents Artificial Photosynthesis as the answer being developed to fossil-fuel problems (global warming, CO₂ emissions). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/jordan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — The cell cycle and interphase | Student Textbook, Grade 11 — Printed pp. 118–120. |
+| Jordan's way — Unit 2, Lesson 1: The cell cycle — The cycle as the frame for division and protein synthesis. | Book 2 (Life Science — Student Book — Grade 12, Academic Track, Term 1, student textbook), printed p. 70 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Jordan).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, the, cell, cycle, interphase, prepares
+Honesty (Jordan): Book 2 (Life Science — Student Book — Grade 12, Academic Track, Term 1, student textbook) — the student textbooks and student workbooks above are pupil-taught books as verified in the placements — so Jordan counts toward acceptance. Each is COMPLETE as stated in its book entry above. The link-only Jordan books were downloaded from minhaji.net at exactly their staging books.json sizes and are staged in phase3-staging under the 2026-11-13 new rule. Jordan's Grade 12 Term-2 books are draft-state editions (نسخة قيد الإعداد — “version in preparation”), recorded as such wherever they are cited.
+
+Searchable tags: biology, ethiopia, the, cell, cycle, interphase, prepares, jordan

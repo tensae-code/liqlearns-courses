@@ -1,6 +1,6 @@
 # Sources — What regulates population growth
 
-countries: Ethiopia, Eritrea, Cambodia, Laos, Mongolia, Dominica
+countries: Ethiopia, Eritrea, Cambodia, Laos, Mongolia, Dominica, Jordan
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Eritrea, Cambodia, Laos, Mongolia, Dominica
 
 **Book 7:** Biology for CSEC, 2nd Edition (Oxford University Press) — "Biology for CSEC 2nded Oxford" — Dominica. Grade: 11 — Kind: student as verified — Repo path (release mid-size-books-2): grade-11-approved-private-dominica-dominica-biology-for-csec-oxford.pdf — Byte size: 52,773,980 — PDF pages: 324 — Printed pages: 316 (acknowledgements); printed p. = PDF page − ~5 (contents at PDF pp. 5–6). Verdict: COMPLETE — units A1–C28, three revision sections and index present. Structural summary: The Oxford treatment adds: carrying out an ecological study (A2.3); finite resources and "resources for the future?" (A4); the impact of pollution in the Caribbean (A5.2); testing for food substances (B9.2); immunisation and disease control inside transport (B13.5); homeostasis taught explicitly as negative feedback (B20.1); locomotion in animals (B17.5); plant and animal diseases (B24.4); and a closing genetics-technology unit, "Changing genes – what are the issues?" (C28). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/dominica-placements.md.
 
+**Book 8:** العلوم الحياتية — كتاب الأنشطة والتجارب العملية — الصف العاشر، الفصل الدراسي الثاني (Grade 10, Term 2, Activities Book) — Jordan. Grade: Grade 10, Term 2 — kind as verified: student workbook, NCCD, © HarperCollins Publishers Limited 2020, ISBN 978-9923-41-289-3 Source: link-only — https://www.minhaji.net/download/6010 — downloaded 3,066,786 bytes (exactly the staging books.json size) — PDF pages: 40 — printed-page offset: 0 Verdict: COMPLETE (all activities read) Structural summary: Continues Unit 3 Classification (printed pp. 4–25, mostly dissection/microscopy of plant and animal structure) and Unit 4 The Environment (pp. 26–39, population ecology done as live cultures and data). International-style questions close each unit. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/jordan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Population regulation | Student Textbook, Grade 11 — Printed pp. 246–247. |
@@ -25,8 +27,9 @@ countries: Ethiopia, Eritrea, Cambodia, Laos, Mongolia, Dominica
 | Mongolia's way — Ch. IV §4.2: population — the factors affecting population size and growth (placement slug: biology/populations-how-they-change — stocked into this lesson, biology/what-regulates-population-growth, as the closest existing lesson) | Book 5 (Биологи X (Biology, Grade 10), student textbook, Grade 10), Ch. IV §4.2, printed p. 116; factors, printed p. 117 |
 | Mongolia's way — Ch. XI §11.3: population characteristics and structure; §11.4: the community; §11.5: ecosystem structure (placement slug: biology/populations-how-they-change — stocked into this lesson, biology/what-regulates-population-growth, as the closest existing lesson) | Book 6 (Биологи (Biology, Grade 11), student textbook, Grade 11), Ch. XI §11.3, printed p. 128; §11.4, printed p. 131; §11.5, printed p. 136 |
 | Dominica's way — A6: factors affecting natural population growth; human population growth and its effects (placement slug: population-growth-curves — stocked into this lesson as the closest existing lesson covering that thing) | Book 7 (Biology for CSEC, 2nd ed., student textbook, Grade 11), A6, printed pp. 61–63 |
+| Jordan's way — Population growth and change over time — Two linked enrichment studies: tracking a population's growth, then its numbers changing with time. | Book 8 (Life Science — Activities and Practical Experiments Book — Grade 10, Term 2, student workbook), printed pp. 33–35 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Cambodia, Laos, Mongolia, Dominica).**
+**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Cambodia, Laos, Mongolia, Dominica, Jordan).**
 
 Honesty (Dominica): Book 7 is a student textbook as verified in the placements — *Biology for CSEC*, 2nd Edition (Oxford University Press), Grade 11 — so Dominica counts toward acceptance. It is COMPLETE: units A1–C28, three revision sections and the index present (324 PDF pages; printed p. = PDF page − ~5). It is a commercial CSEC textbook adopted for Dominica, an image-only scan read from its full printed contents, so the placements cite the contents' printed pages.
 
@@ -42,4 +45,6 @@ Honesty (Mongolia): Book 5 is a student textbook as verified in the placements �
 
 Honesty (Mongolia): Book 6 is a student textbook as verified in the placements — *Биологи (Biology, Grade 11)*, Grade 11 — so Mongolia counts toward acceptance. It is COMPLETE: title page, full contents, all 11 chapters present (141 PDF pages; printed p. = PDF page − 1, verified on body pages). The recorded repo path (grade-11/gov/mongolia/mongolia-grade-11-biology.pdf) is a phantom — every repo-tree grab 404'd; the book was read from the ministry's econtent.edu.mn file (biology-417.pdf), whose byte size matches the books.json record exactly (6,242,965), and staged in phase3-staging under the 2026-11-13 rule.
 
-Searchable tags: biology, eritrea, ethiopia, what, regulates, population, growth, cambodia, laos, mongolia, dominica
+Honesty (Jordan): Book 8 (Life Science — Activities and Practical Experiments Book — Grade 10, Term 2, student workbook) — the student textbooks and student workbooks above are pupil-taught books as verified in the placements — so Jordan counts toward acceptance. Each is COMPLETE as stated in its book entry above. The link-only Jordan books were downloaded from minhaji.net at exactly their staging books.json sizes and are staged in phase3-staging under the 2026-11-13 new rule. Jordan's Grade 12 Term-2 books are draft-state editions (نسخة قيد الإعداد — “version in preparation”), recorded as such wherever they are cited.
+
+Searchable tags: biology, eritrea, ethiopia, what, regulates, population, growth, cambodia, laos, mongolia, dominica, jordan
