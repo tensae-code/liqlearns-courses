@@ -1,20 +1,25 @@
 # Sources — Frog reproduction — eggs, tadpoles, metamorphosis
 
-countries: Ethiopia
+countries: Ethiopia, Morocco
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
 **Book 2:** Biology, Teachers' Guide, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tesfaye (MA/MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-014-7. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-teacher-placements.md.
 
+**Book 3:** Guide Almoufid SVT — 2e année collégiale (Al Moufid in Life and Earth Sciences, Teacher's Guide) — Morocco. “Al Moufid en Sciences de la Vie et de la Terre — Guide du professeur”, Deuxième Année de l'enseignement collégial (2AC = Grade 8), the French-language teacher guide for the parascolaire manual. Grade: 8 — Kind: teacher as verified — Repo path (release mid-size-books-3): grade-08-gov-morocco-svt-teacher-full-year.pdf. Byte size: 6,082,584 — PDF pages: 90 — Printed-page offset: printed p. = PDF page − 1 (Sommaire at printed p. 88). Verdict: COMPLETE as a guide — methodology part plus both programme units worked as sequences with tasks; the guide ends with its Sommaire. TEACHER'S GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/morocco-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Reproduction in frogs | Student Textbook, Grade 11 — Printed pp. 30–32. |
 | Sub lesson 2 — Added frog detail — organ functions and the tadpole–frog comparison (teacher guide — evidence) | Teachers' Guide, Grade 11 — Printed pp. 47–48. |
+| Animal development cycles compared — stocked here from the placements slug `biology/animal-life-cycles`, which has no lesson of its own; this is the closest existing lesson on an animal's development cycle: Unit 2 Task 4 — comparing the development cycles of the three animals studied, translated into a table (teacher guide — evidence) | Book 3 (Guide Almoufid SVT, teacher's guide, Grade 8), printed p. 61 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 1 country (Ethiopia) — Morocco's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
 Honesty notes: this Teachers' Guide is a finished publication — first published August 2023, © 2023 FDRE Ministry of Education, ISBN 978-99990-0-014-7, printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23 — and its imprint is cited here as fact. The guide is teacher evidence only: it adds explanations, worked examples and answer keys to the Grade 11 student book; it is never counted as pupil-taught. Guide-only content (for example bird ZW sex determination, Pavlov's and Skinner's experiments in full, and the Wogesha traditional bone-healer investigation) is labelled (teacher guide — evidence) in the table above. The guide's contents numbering diverges from the student book's; lesson numbering follows the student book.
 
-Searchable tags: biology, ethiopia, frog, reproduction, eggs, tadpoles, metamorphosis
+Honesty (Morocco): Morocco's evidence here is a teacher's guide only — the Guide Almoufid SVT, Grade 8 — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count.
+
+Searchable tags: biology, ethiopia, morocco, frog, reproduction, eggs, tadpoles, metamorphosis

@@ -1027,6 +1027,7 @@ solar-system comparison lessons.
 337. **Why species go extinct** (`biology/why-species-go-extinct`) — Causes of species extinction are listed in teaching-note form: habitat degradation and destruction (elimination or change of living space), toxicity (killing directly through fo…
 338. **Why we eat — energy, building, protection** (`biology/why-we-eat`) — food gives energy, builds and repairs the body, and protects it — shortage of a group causes deficiency disease.
 339. **Epidemic curves and healthcare capacity** (`biology/epidemic-curves-and-healthcare-capacity`) — an epidemic curve plots cases against time; without protective measures its peak crosses the healthcare-capacity line, with them the curve flattens and the peak stays under it — taught from Sweden's tactile "flatten the curve" graph (Sweden, Grade 1 — *Platta ut kurvan*, SPSM tactile sheet set, PDF pp. 1–2)
+340. **Cloning and plant tissue culture** (`biology/cloning-and-plant-tissue-culture`) — cloning copies one donor's heredity without fertilisation; Morocco teaches it by comparing two techniques — one based on an egg, the other on a specialised somatic cell from the mammary glands — and by comparing cloning with natural reproduction to deduce the principle (Morocco, Grade 8 — *Guide Almoufid SVT*, teacher's guide — evidence only, printed pp. 85–87)
 
 ## Unit 18 — Physics
 
