@@ -1,6 +1,6 @@
 # Sources — The nephron — how urine is made
 
-countries: Ethiopia, Palestine, Iran, Bhutan, Indonesia, South Sudan, Armenia
+countries: Ethiopia, Palestine, Iran, Bhutan, Indonesia, South Sudan, Armenia, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Palestine, Iran, Bhutan, Indonesia, South Sudan, Armenia
 
 **Book 8:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
 
+**Book 9:** الأحياء كتاب الطالب — Biology Student Book, Year 2 Secondary, Science stream (Grade 11) — Libya. Grade: grade-11 (second year of secondary, science section) — Kind as verified: student textbook (Arabic), same Libyan secondary series and layout as Grade 10, Centre for Educational Curricula and Research. — Repo path / source: grade-11/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-11-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 16,943,504 bytes (record size_bytes: none) — PDF pages: 131; printed-page offset: printed page number = PDF page number (offset 0; contents pp. 9–128 all land inside the file) — Verdict: COMPLETE — contents, all 10 units, glossary (printed p. 123) and Appendix 1 (printed p. 128) present. — Structural summary: Continues "Part One: Organisation of the individual". Units: 1 Transport in mammals; 2 Transport in flowering plants; 3 Respiration; 4 Excretion; 5 Homeostasis (internal balance); 6 Coordination and response (1) — the nervous system; 7 Coordination and response (2) — sense organs; 8 Coordination and response (3) — hormones and endocrine glands; 9 Drugs; 10 Biodiversity and conservation of the environment. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 139–141 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Palestine, Iran, Bhutan, Indonesia, South Sudan, Armenia
 | Indonesia's way — Ch.4B: exchange between tubule and blood vessels in urine formation | Book 6 (Biologi untuk SMA/MA Kelas XI, student textbook, Grade 11), printed p. 118 (excretion process section from p. 110) |
 | South Sudan's way — §4.3 — selective reabsorption in the proximal convoluted tubule (all glucose and amino acids reabsorbed in a normal human, plus some water and mineral salts) following glomerular filtration; filtration sited in the cortex | Book 7 (Biology Student's Book 2, student textbook, Secondary 2), §4.3, printed p. 70 |
 | Armenia's way — §43 Urine formation and urination — filtration and reabsorption: primary and final urine (Malpighian body, index). (placement slug: the-nephron-how-urine-is-made) | Book 8 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 158 |
+| Libya's way — Unit 4, 4-2 — Nephron-level urine formation inside the mammal excretion section. (placement slug: the-nephron-how-urine-is-made) | Book 9 (Biology Student Book, Year 2 Secondary, Science stream, student textbook, Grade 11), printed p. 55 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Iran, Bhutan, Indonesia, South Sudan, Armenia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Palestine, Iran, Bhutan, Indonesia, South Sudan, Armenia, Libya).**
 
 Honesty (Indonesia): Book 6 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XI*, Grade 11 (Kelas XI, SMA/MA), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1) — so Indonesia counts toward acceptance. It is COMPLETE: all 8 chapters, glossary, index and bibliography present (312 PDF pages; printed p. = PDF page − 16). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
@@ -45,4 +48,6 @@ Honesty (South Sudan): Book 7 (*Biology Student's Book 2*, Secondary 2) is a stu
 
 Honesty (Armenia): Book 8 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
 
-Searchable tags: biology, ethiopia, grade 10, the, nephron, how, urine, is, made, palestine, iran, bhutan, indonesia, south, sudan, armenia
+Honesty (Libya): Book 9 (*الأحياء كتاب الطالب — Biology Student Book, Year 2 Secondary, Science stream (Grade 11)*, Grade 11) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 9 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, grade 10, the, nephron, how, urine, is, made, palestine, iran, bhutan, indonesia, south, sudan, armenia, libya

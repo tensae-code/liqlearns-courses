@@ -1,6 +1,6 @@
 # Sources — Fertilisation, implantation and pregnancy
 
-countries: Ethiopia, Brazil, Ecuador, Gabon, India, Mongolia, Italy, Malaysia, Bolivia, Iran, Indonesia, Afghanistan, Armenia
+countries: Ethiopia, Brazil, Ecuador, Gabon, India, Mongolia, Italy, Malaysia, Bolivia, Iran, Indonesia, Afghanistan, Armenia, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Brazil, Ecuador, Gabon, India, Mongolia, Italy, Malaysia, B
 
 **Book 16:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
 
+**Book 17:** الأحياء كتاب الطالب — Biology Student Book, Year 3 Secondary, Science stream (Grade 12) — Libya. Grade: grade-12 (third year of secondary, science section) — Kind as verified: student textbook (Arabic), Libyan secondary series, Centre for Educational Curricula and Research, 2019–2020 edition. — Repo path / source: grade-12/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-12-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 27,334,995 bytes (record size_bytes: none) — PDF pages: 135; printed-page offset: printed page number = PDF page number (offset 0) — Verdict: COMPLETE — contents, Parts Two–Four with all 6 units, glossary (printed p. 126) and Appendix 1 (printed p. 130) present. — Structural summary: Part Two: Microorganisms and biotechnology (Unit 1). Part Three: Living things and the environment (Unit 2 Ecology; Unit 3 Effects of human activity on the ecosystem). Part Four: Growth of living things and continuity of life (Unit 4 Reproduction in plants; Unit 5 Sexual reproduction in animals; Unit 6 Inheritance). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Fertilisation and pregnancy | Student Textbook, Grade 11 — Printed p. 197. |
@@ -52,8 +54,9 @@ countries: Ethiopia, Brazil, Ecuador, Gabon, India, Mongolia, Italy, Malaysia, B
 | Afghanistan's way — Ch8, fertilisation and pregnancy (placement slug: fertilisation-implantation-and-pregnancy) | Book 14 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), student textbook, Grade 9), printed p. 94 |
 | Afghanistan's way — Part 2, Ch6, reproduction and embryo development (placement slug: fertilisation-implantation-and-pregnancy) | Book 15 (بیولوژی صنف دوازدهم (Biology, Grade 12 — Dari), student textbook, Grade 12), printed p. 91 |
 | Armenia's way — §47 Fertilisation, pregnancy; changes of the human body through life — fertilisation, the embryo developing in the uterus with the heart starting to beat, the placenta passing both nutrients and harmful factors (microbes, poisons, medicines), and body changes across the lifespan. (placement slug: fertilisation-implantation-and-pregnancy) | Book 16 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 168 |
+| Libya's way — Unit 5, 5-2 (placement slug: fertilisation-implantation-and-pregnancy) | Book 17 (Biology Student Book, Year 3 Secondary, Science stream, student textbook, Grade 12), printed p. 92 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Brazil, Ecuador, India, Mongolia, Italy, Malaysia, Bolivia, Iran, Indonesia, Afghanistan, Armenia) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 13 countries (Ethiopia, Brazil, Ecuador, India, Mongolia, Italy, Malaysia, Bolivia, Iran, Indonesia, Afghanistan, Armenia, Libya) — Gabon's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Indonesia): Book 13 is a student textbook as verified in the placements — *Biologi untuk SMA/MA Kelas XI*, Grade 11 (Kelas XI, SMA/MA), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi, Cetakan pertama 2022, ISBN 978-602-427-893-9 (jil.1) — so Indonesia counts toward acceptance. It is COMPLETE: all 8 chapters, glossary, index and bibliography present (312 PDF pages; printed p. = PDF page − 16). The book was recorded twice in the library records (a TSV release record and a books.json record for the same file); it is one distinct book, taught once and cited once here.
 
@@ -85,4 +88,6 @@ Honesty (Afghanistan): Book 14 (بیولوژی صنف نهم (Biology, Grade 9 �
 
 Honesty (Armenia): Book 16 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
 
-Searchable tags: biology, ethiopia, fertilisation, implantation, and, pregnancy, brazil, ecuador, gabon, india, mongolia, italy, malaysia, bolivia, iran, indonesia, afghanistan, armenia
+Honesty (Libya): Book 17 (*الأحياء كتاب الطالب — Biology Student Book, Year 3 Secondary, Science stream (Grade 12)*, Grade 12) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 17 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, fertilisation, implantation, and, pregnancy, brazil, ecuador, gabon, india, mongolia, italy, malaysia, bolivia, iran, indonesia, afghanistan, armenia, libya

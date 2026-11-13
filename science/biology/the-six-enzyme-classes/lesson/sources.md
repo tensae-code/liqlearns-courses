@@ -1,15 +1,20 @@
 # Sources — The six enzyme classes
 
-countries: Ethiopia
+countries: Ethiopia, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
+
+**Book 2:** الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10) — Libya. Grade: grade-10 (first year of secondary, science general year) — Kind as verified: student textbook (Arabic). Publisher: Centre for Educational Curricula and Research, Libya, 2019–2020 / 1440–1441 H edition printed on title pages. — Repo path / source: grade-10/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-10-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 17,732,421 bytes (record size_bytes: none) — PDF pages: 115; printed-page offset: printed page number = PDF page number (offset 0) — Verdict: COMPLETE — preface, contents, all 7 units, end-of-unit summaries and "thinking corner" pages, bilingual Arabic–English glossary (printed pp. 109–113) and blank notes pages all present. — Structural summary: Organised as "Part One: Organisation of the individual and keeping it safe". Every unit opens with learning objectives and an introduction activity, runs numbered sections with key-word definitions, margin "key ideas" boxes, enrichment "light of knowledge" boxes, national-education and thinking-skills icons, and closes with a summary plus a problem-solving "Thinking Corner". Units: 1 What is biology?; 2 Cells — building units of life; 3 Diffusion and osmosis; 4 Enzymes; 5 Nutrition; 6 Nutrition in mammals; 7 Nutrition in plants. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Classes of enzymes | Student Textbook, Grade 11 — Printed pp. 91–93. |
+| Libya's way — Unit 4, 4-2 Classification of enzymes — Enzyme classes by reaction type. | Book 2 (Biology Student Book, Year 1 Secondary, student textbook, Grade 10), printed p. 43 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Libya).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
-Searchable tags: biology, ethiopia, the, six, enzyme, classes
+Honesty (Libya): Book 2 (*الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10)*, Grade 10) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 2 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, the, six, enzyme, classes, libya

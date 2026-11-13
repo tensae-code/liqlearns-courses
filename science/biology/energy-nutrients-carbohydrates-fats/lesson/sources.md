@@ -1,6 +1,6 @@
 # Sources — Energy nutrients — carbohydrates, fats and oils
 
-countries: Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia
+countries: Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia
 
 **Book 6:** Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria (Ministerio de Educación de Bolivia) — Bolivia. Grade: 8 (Secundaria 2) — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-08-gov-bolivia-biology-geography-student-full-year.pdf — Byte size: 10,263,393 — PDF pages: 84 — Printed-page offset: printed p. = PDF page + 146 (file carries printed pp. 148–230 only) — Verdict: TRUNCATED — the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. Structural summary: In the surviving span: hormones and the endocrine system, fertilisation/implantation and embryonic development, an affective-relationships unit ("biología de las relaciones afectivas" — attachment and the right to a life free of violence), nutrition types and healthy eating built on Bolivia's "arco de la alimentación", eating disorders, the sense organs (eye, skin, ear and hearing loss), a long chemistry-of-matter block (debt), a thermology block opening with hyperthermia/hypothermia (physics debt), solar-system/Moon/eclipses (geography debt), renewable energy, and a closing ecology block on ecosystems and Bolivia's biomes and the extinction emergency. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bolivia-placements.md.
 
+**Book 7:** الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10) — Libya. Grade: grade-10 (first year of secondary, science general year) — Kind as verified: student textbook (Arabic). Publisher: Centre for Educational Curricula and Research, Libya, 2019–2020 / 1440–1441 H edition printed on title pages. — Repo path / source: grade-10/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-10-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 17,732,421 bytes (record size_bytes: none) — PDF pages: 115; printed-page offset: printed page number = PDF page number (offset 0) — Verdict: COMPLETE — preface, contents, all 7 units, end-of-unit summaries and "thinking corner" pages, bilingual Arabic–English glossary (printed pp. 109–113) and blank notes pages all present. — Structural summary: Organised as "Part One: Organisation of the individual and keeping it safe". Every unit opens with learning objectives and an introduction activity, runs numbered sections with key-word definitions, margin "key ideas" boxes, enrichment "light of knowledge" boxes, national-education and thinking-skills icons, and closes with a summary plus a problem-solving "Thinking Corner". Units: 1 What is biology?; 2 Cells — building units of life; 3 Diffusion and osmosis; 4 Enzymes; 5 Nutrition; 6 Nutrition in mammals; 7 Nutrition in plants. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 106–108 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia
 | Uganda's way — Nutrition Lesson 1: the food nutrients — the groups and what each does | Book 4 (Biology Home-Study Learning — Senior Two (NCDC, 2020), student home-study booklet, Grade 9), PDF p. 16 |
 | Nigeria's way — Ch. 6, nutrition in animals: food — the food classes and what each is used for, opening the animal-nutrition chapter (placement slug: energy-nutrients-carbohydrates-fats) | Book 5 (Senior Secondary Biology 1, student textbook, Grade 10), Ch. 6, printed p. 89 |
 | Bolivia's way — Carbohydrates as immediate fuel: 1 g = 4 kcal, energy needs varying by person | Book 6 (Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria, student textbook, Grade 8), printed pp. 165–167 |
+| Libya's way — Unit 5, 5-2 Nutrients in food — Carbohydrates, fats and proteins as food nutrients. (placement slug: energy-nutrients-carbohydrates-fats) | Book 7 (Biology Student Book, Year 1 Secondary, student textbook, Grade 10), printed p. 51 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Sri Lanka, Uganda, Nigeria, Bolivia, Libya).**
 
 Honesty (Bolivia): Book 6 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 8 (Secundaria 2) — so Bolivia counts toward acceptance. It is TRUNCATED: the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. This truncated copy is never counted as a complete book. 84 PDF pages; printed p. = PDF page + 146.
 
@@ -35,4 +38,6 @@ Honesty (Sri Lanka): Book 3 is a student textbook as verified in the placements 
 
 Honesty (Nigeria): Book 5 is a student textbook as verified in the placements — *Senior Secondary Biology 1* (Learn Africa Plc, Third edition 2013; first published 1988; ISBN 978-978-925-119-3), Grade 10 (Senior Secondary School 1, SS1) — so Nigeria counts toward acceptance. It is COMPLETE: the index ends at printed p. 226 and nothing is missing (232 PDF pages; printed p. = PDF page − 6).
 
-Searchable tags: biology, ethiopia, sri lanka, energy, nutrients, carbohydrates, fats, and, oils, uganda, nigeria, bolivia
+Honesty (Libya): Book 7 (*الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10)*, Grade 10) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 7 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, sri lanka, energy, nutrients, carbohydrates, fats, and, oils, uganda, nigeria, bolivia, libya

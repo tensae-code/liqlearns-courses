@@ -1,6 +1,6 @@
 # Sources — Organisation of the Nervous System: Brain and Spinal Cord
 
-countries: Ethiopia, Eritrea, Malaysia, Iran, Bhutan, Afghanistan, Armenia
+countries: Ethiopia, Eritrea, Malaysia, Iran, Bhutan, Afghanistan, Armenia, Libya
 
 **Book 1:** *Biology — Student Textbook — Grade 12*, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Anbessa Dabassa (PhD) and Eba Alemaychu (PhD). Pedagogical Editor: Meskerem Cheru (MSc); Content Editor: Destaw Damtie (PhD); Language Editor: Yenus Nurie (PhD); Illustrator: Nega Tassie (PhD); Designer: Ali Seid (PhD); Evaluators: Berhanu Tesfaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023; developed by Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University; printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, UAE, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN 978-99990-0-011-6. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Eritrea, Malaysia, Iran, Bhutan, Afghanistan, Armenia
 
 **Book 9:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
 
+**Book 10:** الأحياء كراسة النشاط العملي — Biology Practical Activity Workbook, Year 2 Secondary, Science stream (Grade 11) — Libya. Grade: grade-11 — Kind as verified: workbook — practical investigations book (Arabic), 2019–2020 edition. — Repo path / source: grade-11/gov/libya/biology/practical-activity-workbook.pdf — Byte size: 1,254,650 bytes (record size_bytes: none) — PDF pages: 58; printed-page offset: printed page number = PDF page number — Verdict: COMPLETE — biological-drawing notes, all 8 investigation chapters listed in contents (printed pp. 9–55) present, closing general questions on animal cells and nutrition. — Structural summary: Investigation chapters: 1 Transport in mammals; 2 Transport in flowering plants; 3 Respiration; 4 Excretion; 5 Homeostasis; 6 Nervous system; 7 Sense organs; 8 Biodiversity and conservation. Dissection and microscopy carry this book — heart, urinary system, brain, neurone and eye are all examined physically. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Types of the nervous system; the brain and its protection (§5.1.4): | Student Textbook, Grade 12 — Printed pp. 254–261. |
@@ -31,8 +33,9 @@ countries: Ethiopia, Eritrea, Malaysia, Iran, Bhutan, Afghanistan, Armenia
 | Afghanistan's way — Ch6, the nervous system (placement slug: organisation-of-the-nervous-system-brain-and-spinal-cord) | Book 7 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), student textbook, Grade 9), printed p. 57 |
 | Armenia's way — §30 Nervous system and sense organs — stimulus and response; sensory, inter- and motor neurons; the brain across animal groups. (placement slug: organisation-of-the-nervous-system-brain-and-spinal-cord) | Book 8 (Կենսաբանություն 7 (Biology 7), student textbook, Grade 7), printed p. 115 |
 | Armenia's way — §6 Central nervous system: brain and spinal cord — parts of the brain and spinal cord and what each controls, including the hypothalamus. (placement slug: organisation-of-the-nervous-system-brain-and-spinal-cord) | Book 9 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 24 |
+| Libya's way — Investigation 1/6 Examining a section of the brain (placement slug: organisation-of-the-nervous-system-brain-and-spinal-cord) | Book 10 (Biology Practical Activity Workbook, Year 2 Secondary, Science stream, practical investigations workbook, Grade 11), printed p. 44 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Malaysia, Iran, Bhutan, Afghanistan, Armenia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Malaysia, Iran, Bhutan, Afghanistan, Armenia, Libya).**
 
 Honesty (Eritrea): Book 2 is a student textbook as verified in the placements — *Biology for Grade 10 Textbook* (The State of Eritrea, Ministry of Education), Grade 10, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file (203 PDF pages). Page references are PDF pages of the unit openings; printed pagination runs inside the same sequence.
 
@@ -52,4 +55,6 @@ Honesty (Afghanistan): Book 7 (بیولوژی صنف نهم (Biology, Grade 9 �
 
 Honesty (Armenia): Book 8 (Կենսաբանություն 7 (Biology 7), Grade 7) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above. The second Grade 7 student file (armenia-g07-biology-student-a15449.pdf, lib.armedu.am upload of 2023-09-19) is a verified duplicate of the same Antares 2023 edition — taught once, cited inside the same book entry, and given no separate placements. Book 9 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
 
-Searchable tags: biology, eritrea, ethiopia, organisation, the, nervous, system, brain, and, spinal, cord, malaysia, iran, bhutan, afghanistan, armenia
+Honesty (Libya): Book 10 (*الأحياء كراسة النشاط العملي — Biology Practical Activity Workbook, Year 2 Secondary, Science stream (Grade 11)*, Grade 11) is a workbook — practical / laboratory investigations book as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, eritrea, ethiopia, organisation, the, nervous, system, brain, and, spinal, cord, malaysia, iran, bhutan, afghanistan, armenia, libya

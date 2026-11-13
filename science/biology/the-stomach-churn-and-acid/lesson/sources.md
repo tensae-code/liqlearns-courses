@@ -1,6 +1,6 @@
 # Sources — The stomach — churn and acid
 
-countries: Ethiopia, Iran, Afghanistan, Armenia
+countries: Ethiopia, Iran, Afghanistan, Armenia, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Iran, Afghanistan, Armenia
 
 **Book 5:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
 
+**Book 6:** الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10) — Libya. Grade: grade-10 (first year of secondary, science general year) — Kind as verified: student textbook (Arabic). Publisher: Centre for Educational Curricula and Research, Libya, 2019–2020 / 1440–1441 H edition printed on title pages. — Repo path / source: grade-10/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-10-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 17,732,421 bytes (record size_bytes: none) — PDF pages: 115; printed-page offset: printed page number = PDF page number (offset 0) — Verdict: COMPLETE — preface, contents, all 7 units, end-of-unit summaries and "thinking corner" pages, bilingual Arabic–English glossary (printed pp. 109–113) and blank notes pages all present. — Structural summary: Organised as "Part One: Organisation of the individual and keeping it safe". Every unit opens with learning objectives and an introduction activity, runs numbered sections with key-word definitions, margin "key ideas" boxes, enrichment "light of knowledge" boxes, national-education and thinking-skills icons, and closes with a summary plus a problem-solving "Thinking Corner". Units: 1 What is biology?; 2 Cells — building units of life; 3 Diffusion and osmosis; 4 Enzymes; 5 Nutrition; 6 Nutrition in mammals; 7 Nutrition in plants. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 98–101 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Iran, Afghanistan, Armenia
 | Iran's way — Ch. 2 §1: the stomach — printed p. 21 — churning and acid treatment inside the canal sequence | Book 3 (زیست‌شناسی (۱) — Biology (1), student textbook, Grade 10), Ch. 2 §1: the stomach, printed p. 21 |
 | Afghanistan's way — Ch1, digestion in the mouth, oesophagus and stomach (placement slug: the-stomach-churn-and-acid) | Book 4 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), student textbook, Grade 9), printed p. 3 |
 | Armenia's way — §40, stomach part — churning and acid digestion in the stomach stage of the journey. (placement slug: the-stomach-churn-and-acid) | Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 147 |
+| Libya's way — Unit 6, 6-3 Digestion in humans — Human digestion region by region, stomach included. (placement slug: the-stomach-churn-and-acid) | Book 6 (Biology Student Book, Year 1 Secondary, student textbook, Grade 10), printed p. 82 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iran, Afghanistan, Armenia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Iran, Afghanistan, Armenia, Libya).**
 
 Honesty: the pupil-taught parts above stand on the finished Grade 10 student textbook (August 2023, ISBN 978-99990-0-009-3). The teacher-guide rows are evidence only and never count as pupil-taught; the guide is a pre-publication draft whose publication page was never filled in (placeholder date “xxxxx 2022” and placeholder ISBN/printer) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. Student-book errors and quirks the placements flag are taught corrected and named here only: Activity 3.21 is misprinted “Activity 3.216” (printed p. 75); Figure 5.4’s caption is printed twice (printed p. 102); the student book’s §5.2.1 is “Blood Groups” where the guide’s is “Blood donation”; the student book’s Unit 4 is “Cell Reproduction” where the guide’s is “Cell Cycle”.
 
@@ -30,4 +33,6 @@ Honesty (Afghanistan): Book 4 (بیولوژی صنف نهم (Biology, Grade 9 �
 
 Honesty (Armenia): Book 5 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
 
-Searchable tags: biology, ethiopia, grade 10, the, stomach, churn, and, acid, iran, afghanistan, armenia
+Honesty (Libya): Book 6 (*الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10)*, Grade 10) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 6 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, grade 10, the, stomach, churn, and, acid, iran, afghanistan, armenia, libya

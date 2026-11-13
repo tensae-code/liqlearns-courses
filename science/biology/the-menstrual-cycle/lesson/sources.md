@@ -1,6 +1,6 @@
 # Sources — The menstrual cycle — a monthly rhythm
 
-countries: Ethiopia, Egypt, Malaysia, Afghanistan, Armenia
+countries: Ethiopia, Egypt, Malaysia, Afghanistan, Armenia, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Egypt, Malaysia, Afghanistan, Armenia
 
 **Book 7:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
 
+**Book 8:** الأحياء كتاب الطالب — Biology Student Book, Year 3 Secondary, Science stream (Grade 12) — Libya. Grade: grade-12 (third year of secondary, science section) — Kind as verified: student textbook (Arabic), Libyan secondary series, Centre for Educational Curricula and Research, 2019–2020 edition. — Repo path / source: grade-12/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-12-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 27,334,995 bytes (record size_bytes: none) — PDF pages: 135; printed-page offset: printed page number = PDF page number (offset 0) — Verdict: COMPLETE — contents, Parts Two–Four with all 6 units, glossary (printed p. 126) and Appendix 1 (printed p. 130) present. — Structural summary: Part Two: Microorganisms and biotechnology (Unit 1). Part Three: Living things and the environment (Unit 2 Ecology; Unit 3 Effects of human activity on the ecosystem). Part Four: Growth of living things and continuity of life (Unit 4 Reproduction in plants; Unit 5 Sexual reproduction in animals; Unit 6 Inheritance). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 88–90 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Egypt, Malaysia, Afghanistan, Armenia
 | Malaysia's parallel Bahasa Melayu edition — the same content at the same printed page (placement: the-menstrual-cycle) | Book 5 (Biologi Tingkatan 4, student textbook, Grade 10 (Tingkatan 4)), Ch.15, printed p. 293 |
 | Afghanistan's way — Ch8, the menstrual cycle (placement slug: the-menstrual-cycle) | Book 6 (بیولوژی صنف نهم (Biology, Grade 9 — Dari), student textbook, Grade 9), printed p. 94 |
 | Armenia's way — §46, cycle part — the female reproductive (menstrual) cycle phase by phase (ovulation, index pp. 165, 167). (placement slug: the-menstrual-cycle) | Book 7 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 166 |
+| Libya's way — Unit 5, 5-2 (placement slug: the-menstrual-cycle) | Book 8 (Biology Student Book, Year 3 Secondary, Science stream, student textbook, Grade 12), printed p. 90 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Malaysia, Afghanistan, Armenia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Malaysia, Afghanistan, Armenia, Libya).**
 
 Honesty (Egypt): Book 3 is a student textbook as verified in the placements — *BIOLOGY* (General Secondary Certificate, Third Secondary, Term 1; "developed textbook" 2025–2026, Ministry of Education & Technical Education, Arab Republic of Egypt), Grade 12 — so Egypt counts toward acceptance. It is COMPLETE (Term 1 volume): all seven contents chapters present through the Earth-science chapter that closes the book (English edition 184 PDF pages; printed p. = PDF page − 1). It is LINK-ONLY and staged, not in GitHub (in_pushed: false), staged at ~/workspace/phase3-staging/grade-12/gov/egypt/. Its Arabic, English and French editions are language variants of the ONE book, cited inside the book entry above and counted once — no extra counts. Chapter Seven — Earth science (printed pp. 153–183) is DEBT, not placed in Biology: components of planet Earth (crust Sial/Sima, mantle, core) and geological structures (folds, faults; primary structures — cross bedding, ripple marks, graded bedding, mud cracks) — a Geology/Earth-science chapter bound into the biology book.
 
@@ -40,4 +43,6 @@ Honesty (Afghanistan): Book 6 (بیولوژی صنف نهم (Biology, Grade 9 �
 
 Honesty (Armenia): Book 7 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
 
-Searchable tags: biology, ethiopia, the, menstrual, cycle, monthly, rhythm, egypt, malaysia, afghanistan, armenia
+Honesty (Libya): Book 8 (*الأحياء كتاب الطالب — Biology Student Book, Year 3 Secondary, Science stream (Grade 12)*, Grade 12) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 8 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, the, menstrual, cycle, monthly, rhythm, egypt, malaysia, afghanistan, armenia, libya

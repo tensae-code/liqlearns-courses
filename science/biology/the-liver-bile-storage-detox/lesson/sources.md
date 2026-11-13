@@ -1,22 +1,27 @@
 # Sources — The liver — bile, storage, detox
 
-countries: Ethiopia
+countries: Ethiopia, Libya
 
 **Book 1:** Biology, Teacher's Guide, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. PRE-PUBLICATION DRAFT: the publication page is unfinished — “First Published xxxxx 2022”, GEQIP-E, with ISBN, printer and contract details left as placeholders. Those placeholder values are NOT facts and are never cited as a real ISBN or date. 104 printed pp. Page rule: printed page = PDF page − 12. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-teacher-placements.md.
 
 **Book 2:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
+**Book 3:** الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10) — Libya. Grade: grade-10 (first year of secondary, science general year) — Kind as verified: student textbook (Arabic). Publisher: Centre for Educational Curricula and Research, Libya, 2019–2020 / 1440–1441 H edition printed on title pages. — Repo path / source: grade-10/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-10-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 17,732,421 bytes (record size_bytes: none) — PDF pages: 115; printed-page offset: printed page number = PDF page number (offset 0) — Verdict: COMPLETE — preface, contents, all 7 units, end-of-unit summaries and "thinking corner" pages, bilingual Arabic–English glossary (printed pp. 109–113) and blank notes pages all present. — Structural summary: Organised as "Part One: Organisation of the individual and keeping it safe". Every unit opens with learning objectives and an introduction activity, runs numbered sections with key-word definitions, margin "key ideas" boxes, enrichment "light of knowledge" boxes, national-education and thinking-skills icons, and closes with a summary plus a problem-solving "Thinking Corner". Units: 1 What is biology?; 2 Cells — building units of life; 3 Diffusion and osmosis; 4 Enzymes; 5 Nutrition; 6 Nutrition in mammals; 7 Nutrition in plants. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts (teacher guide — evidence) | Book 1 (teacher guide), printed pp. 74, 80 (teacher guide) |
+| Libya's way — Unit 6, 6-5 Assimilation (التمثيل الغذائي) — What absorbed food is used for; liver's role. | Book 3 (Biology Student Book, Year 1 Secondary, student textbook, Grade 10), printed p. 87 |
 
 | Accessory organs (student book) | Book 2 (student textbook), printed pp. 103–105 |
 | Bile emulsifies (student book) | Book 2 (student textbook), printed pp. 103–105 |
 | Pancreatic juice (student book) | Book 2 (student textbook), printed pp. 103–105 |
 | Two blood supplies (student book) | Book 2 (student textbook), printed pp. 103–105 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Libya).**
 
 Honesty: the Grade 10 student placements file landed after this lesson was first built from the teacher guide; the pupil-taught student-book parts have now been added above as the core, and the guide rows stay labelled “(teacher guide — evidence)”. The guide is a pre-publication draft whose publication page was never filled in (placeholder date “xxxxx 2022” and placeholder ISBN/printer) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. Guide errors the placements flag are taught corrected and named here only: in the mitosis feedback two different phases are both lettered “D” (Telophase and Cytokinesis); the guide's §5.2.1 is titled “Blood donation” where the student book's is “Blood Groups”; the guide's Unit 4 is titled “Cell Cycle” where the student book's is “Cell Reproduction”.
 
-Searchable tags: biology, ethiopia, the, liver, bile, storage, detox
+Honesty (Libya): Book 3 (*الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10)*, Grade 10) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 3 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, the, liver, bile, storage, detox, libya

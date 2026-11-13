@@ -1,6 +1,6 @@
 # Sources — Negative and positive feedback
 
-countries: Ethiopia, Dominica, Iran, Bhutan
+countries: Ethiopia, Dominica, Iran, Bhutan, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Dominica, Iran, Bhutan
 
 **Book 5:** BIOLOGY — CLASS 10 (as printed; 2019, Kuensel Corporation; author Jigme Tshering, M.Sc.) — Bhutan. Grade: 10 (grade-10) — Kind: student as verified — Repo path: grade-10/gov/bhutan/biology/full-year.pdf (release mid-size-books-5) — Source URL: https://rec.gov.bt/download/946/science/3766/x-biology-textbook-2019.pdf — Byte size: 8,987,415 (matches books.json record exactly) — PDF pages: 248 (matches record) — Printed-page offset: printed p. = PDF page − 26 (body printed pp. 1–222) — Verdict: COMPLETE — 7 chapters, sample question paper and glossary all present to printed p. 222. Structural summary: Class 10 deepens Class 9 systems to mechanism level: cell types and membrane transport, mitosis/meiosis; photosynthesis split into light/dark reactions with Blackman's limiting-factor law; phloem pressure-flow and three named mineral-uptake mechanisms (ion exchange, mass flow, Donnan equilibrium); human digestion, blood groups/Rhesus and transfusion, kidney and dialysis, cellular respiration through Krebs cycle and electron transport; coordination, reproductive health (contraception, STIs, infertility treatment); micro-organisms, diseases and immunobiology; Mendelian inheritance, DNA structure, Hardy–Weinberg and speciation; ecosystems and a distinctly Bhutanese biodiversity chapter (Bhutan's biodiversity, IUCN, Bhutan Trust Fund for Environment Conservation). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bhutan-placements.md.
 
+**Book 6:** الأحياء كتاب الطالب — Biology Student Book, Year 2 Secondary, Science stream (Grade 11) — Libya. Grade: grade-11 (second year of secondary, science section) — Kind as verified: student textbook (Arabic), same Libyan secondary series and layout as Grade 10, Centre for Educational Curricula and Research. — Repo path / source: grade-11/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-11-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 16,943,504 bytes (record size_bytes: none) — PDF pages: 131; printed-page offset: printed page number = PDF page number (offset 0; contents pp. 9–128 all land inside the file) — Verdict: COMPLETE — contents, all 10 units, glossary (printed p. 123) and Appendix 1 (printed p. 128) present. — Structural summary: Continues "Part One: Organisation of the individual". Units: 1 Transport in mammals; 2 Transport in flowering plants; 3 Respiration; 4 Excretion; 5 Homeostasis (internal balance); 6 Coordination and response (1) — the nervous system; 7 Coordination and response (2) — sense organs; 8 Coordination and response (3) — hormones and endocrine glands; 9 Drugs; 10 Biodiversity and conservation of the environment. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Homeostasis and feedback — the two kinds of feedback | Student Textbook, Grade 11 — printed pp. 64–66 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Dominica, Iran, Bhutan
 | Iran's way — Ch. 4 §2: feedback control of hormones — printed p. 60 | Book 3 (زیست‌شناسی (۲) — Biology (2), student textbook, Grade 11), Ch. 4 §2: feedback control of hormones, printed p. 60 |
 | Bhutan's way — Ch. 9 A b: positive and negative feedback | Book 4 (BIOLOGY — CLASS NINE, student textbook, Grade 9), printed pp. 177–179 |
 | Bhutan's way — Ch. 4.2: hormone regulation by feedback mechanisms | Book 5 (BIOLOGY — CLASS 10, student textbook, Grade 10), printed p. 102 |
+| Libya's way — Unit 8, 8-2 Hormonal and nervous control compared — Feedback control and the nerve/hormone contrast as Libya frames it: a direct side-by-side comparison section. (placement slug: negative-and-positive-feedback) | Book 6 (Biology Student Book, Year 2 Secondary, Science stream, student textbook, Grade 11), printed p. 97 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Dominica, Iran, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Dominica, Iran, Bhutan, Libya).**
 
 Honesty (Dominica): Book 2 is a student textbook as verified in the placements — *Biology for CSEC*, 2nd Edition (Oxford University Press), Grade 11 — so Dominica counts toward acceptance. It is COMPLETE: units A1–C28, three revision sections and the index present (324 PDF pages; printed p. = PDF page − ~5). It is a commercial CSEC textbook adopted for Dominica, an image-only scan read from its full printed contents, so the placements cite the contents' printed pages.
 
@@ -35,4 +38,6 @@ Honesty (Bhutan): Book 4 is a student textbook as verified in the placements —
 
 Honesty (Bhutan): Book 5 is a student textbook as verified in the placements — *BIOLOGY — CLASS 10* (Bhutan, Kuensel Corporation, Thimphu; author Jigme Tshering), Grade 10 — so Bhutan counts toward acceptance. It is COMPLETE: 7 chapters, sample question paper and glossary all present to printed p. 222 (248 PDF pages; printed p. = PDF page − 26). The book was recorded twice in the library records (a TSV release record and a books.json record for the same repo path, byte-identical); it is one distinct book, taught once and cited once here.
 
-Searchable tags: biology, ethiopia, negative, and, positive, feedback, homeostasis, vasodilation, sweating, zoologists, dominica, iran, bhutan
+Honesty (Libya): Book 6 (*الأحياء كتاب الطالب — Biology Student Book, Year 2 Secondary, Science stream (Grade 11)*, Grade 11) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 6 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, negative, and, positive, feedback, homeostasis, vasodilation, sweating, zoologists, dominica, iran, bhutan, libya

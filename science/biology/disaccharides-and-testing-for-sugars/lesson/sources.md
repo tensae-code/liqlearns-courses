@@ -1,6 +1,6 @@
 # Sources — Disaccharides — and testing for sugars
 
-countries: Ethiopia, Eritrea, Yemen
+countries: Ethiopia, Eritrea, Yemen, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -11,6 +11,8 @@ countries: Ethiopia, Eritrea, Yemen
 
 **Book 5:** الأنشطة والتجارب العملية — علم الأحياء وعلم الأرض — للصف الثاني الثانوي (Activities and Practical Experiments, Biology and Earth Science, Grade 11) (as printed) — Yemen. Grade: 11 (grade-11) — Kind: student activities/practical book as verified — Repo path (release asset): mid-size-books-2/grade-11-gov-yemen-biology-student-full-year-activities.pdf — Source: TSV record — Byte size: 8308206 (no size in record) — PDF pages: 67 — Printed-page offset: printed p. = PDF page − 2 (contents printed p. 5; back cover after printed p. 64) — Verdict: COMPLETE — image-scan read on 80 DPI contact sheets (renders deleted after filing); cover, title page (1438H/2017 printing), ministerial foreword, full contents, all 23 numbered activities, mineral-properties appendix tables (printed pp. 63–64) and back cover present. Structural summary: 23 activities keyed to the Grade 11 textbook: cell division under the microscope (2), tissues (6), support and movement (5), leaf/photosynthesis and food tests (3), a miniature aquatic food-web ecosystem and biogeochemical cycles (2), and 5 geology activities (mineral properties; how igneous and sedimentary rocks form; classifying sedimentary and metamorphic rocks), closed by an appendix table of the physical properties of common minerals (specific weight, cleavage, fracture, hardness, lustre, crystal system, chemical composition — galena PbS, cuprite Cu₂O, hematite Fe₂O₃, calcite, halite NaCl, fluorite CaF₂...). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/yemen-placements.md.
 
+**Book 6:** الأحياء كراسة النشاط العملي — Biology Practical Activity Workbook, Year 1 Secondary (Grade 10) — Libya. Grade: grade-10 — Kind as verified: workbook — practical / laboratory investigations book (Arabic), same 2019–2020 edition. — Repo path / source: grade-10/gov/libya/biology/practical-activity-workbook.pdf — Byte size: 1,023,597 bytes (record size_bytes: none) — PDF pages: 68; printed-page offset: investigation sheets carry their own printed numbers matching PDF order (contents lists investigations at printed pp. 9–61; closing record sheets unnumbered) — Verdict: COMPLETE — opens with guidance notes on making biological drawings (draw what you see, label clearly, calculate magnification — worked tomato cross-section example), runs six investigation chapters mirroring student units 2–7, ends with detachable observation/record sheets. — Structural summary: Libya's way here is a fully scripted investigation course: every practical is a numbered "investigation" (استقصاء) with apparatus list, numbered steps, observation tables and questions, several run twice — once by the traditional method and once with data-logging sensors — and each chapter closes with a model practical-exam paper. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 63 |
@@ -18,8 +20,9 @@ countries: Ethiopia, Eritrea, Yemen
 | Eritrea's way — Unit One: hydrolysis of sucrose and lactose; Benedict's-solution practical on milk | Book 3 (Biology for Grade 10 Textbook, student textbook, Grade 10), PDF p. 12 |
 | Yemen's way — Unit 3 Activities 3–5: tests for glucose and starch — fats, protein; then digestion experiments: starch digestion, pepsin's action on egg-white protein, lipase's action (placement slug: testing-food-for-nutrients) | Book 4 (Activities and Practical Experiments, student activities/practical book, Grade 10), Unit 3 Activities 3–5, printed pp. 33–43 |
 | Yemen's way — Activities 14–16: leaf structure study — testing for starch in a potato tuber, testing for proteins (placement slug: testing-food-for-nutrients) | Book 5 (Activities and Practical Experiments, student activities/practical book, Grade 11), Activities 14–16, printed pp. 40–45 |
+| Libya's way — Investigation 1/4 Testing for reducing sugars and starch — Food tests I. (placement slug: disaccharides-and-testing-for-sugars) | Book 6 (Biology Practical Activity Workbook, Year 1 Secondary, practical investigations workbook, Grade 10), printed p. 35 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Yemen).**
+**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Yemen, Libya).**
 
 Honesty (Eritrea): Book 3 is a student textbook as verified in the placements — *Biology for Grade 10 Textbook* (The State of Eritrea, Ministry of Education), Grade 10, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all eight units named in the Introduction are present, running through Unit Eight (Nervous System) exercises at the end of the file (203 PDF pages). Page references are PDF pages of the unit openings; printed pagination runs inside the same sequence.
 
@@ -31,4 +34,6 @@ Honesty (Yemen): Book 5 is a student activities/practical book as verified in th
 
 Placement choice (Yemen): The placements slug 'testing-food-for-nutrients' does not exist in the course; this lesson is the closest existing lesson covering that thing, and the original slug is recorded in the provenance row above.
 
-Searchable tags: biology, eritrea, ethiopia, grade 10, disaccharides, and, testing, for, sugars, yemen
+Honesty (Libya): Book 6 (*الأحياء كراسة النشاط العملي — Biology Practical Activity Workbook, Year 1 Secondary (Grade 10)*, Grade 10) is a workbook — practical / laboratory investigations book as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above.
+
+Searchable tags: biology, eritrea, ethiopia, grade 10, disaccharides, and, testing, for, sugars, yemen, libya

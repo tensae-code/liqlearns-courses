@@ -1,6 +1,6 @@
 # Sources — Deficiency diseases — what happens when a nutrient is missing
 
-countries: Ethiopia, Egypt, Sudan, Uganda, Armenia
+countries: Ethiopia, Egypt, Sudan, Uganda, Armenia, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Egypt, Sudan, Uganda, Armenia
 
 **Book 6:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
 
+**Book 7:** الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10) — Libya. Grade: grade-10 (first year of secondary, science general year) — Kind as verified: student textbook (Arabic). Publisher: Centre for Educational Curricula and Research, Libya, 2019–2020 / 1440–1441 H edition printed on title pages. — Repo path / source: grade-10/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-10-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 17,732,421 bytes (record size_bytes: none) — PDF pages: 115; printed-page offset: printed page number = PDF page number (offset 0) — Verdict: COMPLETE — preface, contents, all 7 units, end-of-unit summaries and "thinking corner" pages, bilingual Arabic–English glossary (printed pp. 109–113) and blank notes pages all present. — Structural summary: Organised as "Part One: Organisation of the individual and keeping it safe". Every unit opens with learning objectives and an introduction activity, runs numbered sections with key-word definitions, margin "key ideas" boxes, enrichment "light of knowledge" boxes, national-education and thinking-skills icons, and closes with a summary plus a problem-solving "Thinking Corner". Units: 1 What is biology?; 2 Cells — building units of life; 3 Diffusion and osmosis; 4 Enzymes; 5 Nutrition; 6 Nutrition in mammals; 7 Nutrition in plants. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 112–115 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Egypt, Sudan, Uganda, Armenia
 | Sudan's way — Unit One objectives: some malnutrition diseases, their symptoms and prevention (placement slug: deficiency-diseases) | Book 4 (علم الأحياء – الصف الثاني الثانوي, student textbook, Grade 11), Unit One objectives, printed p. 2 |
 | Uganda's way — the Nutrition lessons: minerals — their importance in the structure and functioning of the body, with a nutrients/examples/use/sources table | Book 5 (Biology Home-Study Learning — Senior Two (NCDC, 2020), student home-study booklet, Grade 9), PDF pp. 17–18 |
 | Armenia's way — §38, vitamin part — vitamins and what their shortage does, inside the healthy-diet section. (placement slug: deficiency-diseases) | Book 6 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 136 |
+| Libya's way — Unit 5, 5-2 — Vitamins and mineral salts and what their shortage causes. (placement slug: deficiency-diseases) | Book 7 (Biology Student Book, Year 1 Secondary, student textbook, Grade 10), printed p. 60 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Sudan, Uganda, Armenia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Sudan, Uganda, Armenia, Libya).**
 
 Honesty (Uganda): Book 5 is a student home-study booklet as verified in the placements — *Biology Home-Study Learning — Senior Two* (NCDC, 2020), Grade 9 (Senior Two) — so Uganda counts toward acceptance. It is COMPLETE: foreword, acknowledgements, “About this booklet”, all lessons and the NCDC back page present (28 PDF pages; pages cited by PDF/booklet position).
 
@@ -35,4 +38,6 @@ Honesty (Sudan): Book 4 is a student textbook as verified in the placements — 
 
 Honesty (Armenia): Book 6 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
 
-Searchable tags: biology, ethiopia, deficiency, diseases, what, happens, when, nutrient, missing, egypt, sudan, uganda, armenia
+Honesty (Libya): Book 7 (*الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10)*, Grade 10) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 7 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, deficiency, diseases, what, happens, when, nutrient, missing, egypt, sudan, uganda, armenia, libya

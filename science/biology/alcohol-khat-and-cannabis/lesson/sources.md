@@ -1,6 +1,6 @@
 # Sources — Alcohol, khat and cannabis — stimulants and depressants in real life
 
-countries: Ethiopia, Ecuador, Gabon, Bhutan
+countries: Ethiopia, Ecuador, Gabon, Bhutan, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Ecuador, Gabon, Bhutan
 
 **Book 5:** BIOLOGY — CLASS NINE (as printed; Revised Edition 2019, Kuensel Corporation, Thimphu; author Jigme Tshering) — Bhutan. Grade: 9 (grade-09) — Kind: student as verified — Repo path: grade-09/gov/bhutan/biology/full-year.pdf (release mid-size-books-5) — Source URL: https://rec.gov.bt/download/938/science/3806/ix-biology-textbook-2019.pdf — Byte size: 14,590,461 (matches books.json record exactly) — PDF pages: 266 (matches record) — Printed-page offset: printed p. = PDF page − 34 (front matter in roman numerals to xxxiv; body printed pp. 1–232) — Verdict: COMPLETE — Introduction + 10 chapters, model question paper and glossary all present to printed p. 232. Structural summary: Bhutan's BCSE Class 9 book frames biology through Gross National Happiness values and heavy practical/project assessment (project work and practical rubrics fill the front matter). Sequence: what biology is and its pioneers → the cell → green plants (transpiration, photosynthesis, transport, plant hormones) → digestive, circulatory, respiratory, nervous and endocrine systems → variation/genetics/evolution with genetic engineering and cloning → homeostasis and harmful substances → organisms in their environment. Competency-based questions close every sub-topic. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/bhutan-placements.md.
 
+**Book 6:** الأحياء كتاب الطالب — Biology Student Book, Year 2 Secondary, Science stream (Grade 11) — Libya. Grade: grade-11 (second year of secondary, science section) — Kind as verified: student textbook (Arabic), same Libyan secondary series and layout as Grade 10, Centre for Educational Curricula and Research. — Repo path / source: grade-11/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-11-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 16,943,504 bytes (record size_bytes: none) — PDF pages: 131; printed-page offset: printed page number = PDF page number (offset 0; contents pp. 9–128 all land inside the file) — Verdict: COMPLETE — contents, all 10 units, glossary (printed p. 123) and Appendix 1 (printed p. 128) present. — Structural summary: Continues "Part One: Organisation of the individual". Units: 1 Transport in mammals; 2 Transport in flowering plants; 3 Respiration; 4 Excretion; 5 Homeostasis (internal balance); 6 Coordination and response (1) — the nervous system; 7 Coordination and response (2) — sense organs; 8 Coordination and response (3) — hormones and endocrine glands; 9 Drugs; 10 Biodiversity and conservation of the environment. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 121–123 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Ecuador, Gabon, Bhutan
 | Ecuador's way — Sección 6, Tema 2: Salud integral — alcohol and drug consumption as health-damaging causes | Book 3 (Biología — 1ro BGU, student textbook, Grade 11), Sección 6, Tema 2, printed pp. 80–81 |
 | Gabon's way — Lesson 27: Les drogues et leurs dangers (teacher guide — evidence) (placement slug: the-dangers-of-alcohol-and-drugs) | Book 4 (Guide pédagogique Sciences, teacher guide, Grade 5), printed p. 33 |
 | Bhutan's way — Ch. 9 B d: effects of solvents (with alcohol/tobacco from the syllabus outcomes) | Book 5 (BIOLOGY — CLASS NINE, student textbook, Grade 9), printed pp. 191–197 |
+| Libya's way — Unit 9, 9-3 Alcohol — Alcohol's effects (Libya treats alcohol inside a general "Drugs" unit alongside medicines and smoking; no khat/cannabis section in this unit's contents). (placement slug: alcohol-khat-and-cannabis) | Book 6 (Biology Student Book, Year 2 Secondary, Science stream, student textbook, Grade 11), printed p. 103 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Ecuador, Bhutan) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Ethiopia, Ecuador, Bhutan, Libya) — Gabon's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 5; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
@@ -30,4 +33,6 @@ Honesty (Ecuador): Book 3 is a student textbook as verified in the placements �
 
 Honesty (Bhutan): Book 5 is a student textbook as verified in the placements — *BIOLOGY — CLASS NINE* (Bhutan, Kuensel Corporation, Thimphu; author Jigme Tshering), Grade 9 — so Bhutan counts toward acceptance. It is COMPLETE: Introduction + 10 chapters, model question paper and glossary all present to printed p. 232 (266 PDF pages; printed p. = PDF page − 34). The book was recorded twice in the library records (a TSV release record and a books.json record for the same repo path, byte-identical); it is one distinct book, taught once and cited once here.
 
-Searchable tags: biology, ethiopia, alcohol, khat, and, cannabis, stimulants, and, depressants, real, ecuador, gabon, bhutan
+Honesty (Libya): Book 6 (*الأحياء كتاب الطالب — Biology Student Book, Year 2 Secondary, Science stream (Grade 11)*, Grade 11) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 6 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, alcohol, khat, and, cannabis, stimulants, and, depressants, real, ecuador, gabon, bhutan, libya

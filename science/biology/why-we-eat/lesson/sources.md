@@ -1,6 +1,6 @@
 # Sources — Why we eat — energy, building, protection
 
-countries: Ethiopia, Sudan, Gabon
+countries: Ethiopia, Sudan, Gabon, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -12,16 +12,19 @@ countries: Ethiopia, Sudan, Gabon
 
 **Book 15:** Guide pédagogique Sciences — Grade 3 (CE1 level; IPN Gabon, © EDIG/EDICEF 2023; author Mendome Dine Béatrice épse N'No) — Gabon. Grade: 3 — Kind: teacher as verified — Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf — Byte size: 1,385,512 (record gives no size) — PDF pages: 64 — Printed-page offset: none (printed = PDF) — Verdict: COMPLETE — five paliers, printed pp. 3–64, all 15 biology lessons present. Structural summary: Biology at this level is food, the body, plants' needs and health: types of food, balanced meals and rations; animal diets, teeth and food chains; human bones, muscles and joints; what plants need (water and mineral salts, then air and light) and improving harvests; the factors of good health and — very Gabonese — a closing lesson on preventing malaria. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/gabon-placements.md.
 
+**Book 16:** الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10) — Libya. Grade: grade-10 (first year of secondary, science general year) — Kind as verified: student textbook (Arabic). Publisher: Centre for Educational Curricula and Research, Libya, 2019–2020 / 1440–1441 H edition printed on title pages. — Repo path / source: grade-10/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-10-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 17,732,421 bytes (record size_bytes: none) — PDF pages: 115; printed-page offset: printed page number = PDF page number (offset 0) — Verdict: COMPLETE — preface, contents, all 7 units, end-of-unit summaries and "thinking corner" pages, bilingual Arabic–English glossary (printed pp. 109–113) and blank notes pages all present. — Structural summary: Organised as "Part One: Organisation of the individual and keeping it safe". Every unit opens with learning objectives and an introduction activity, runs numbered sections with key-word definitions, margin "key ideas" boxes, enrichment "light of knowledge" boxes, national-education and thinking-skills icons, and closes with a summary plus a problem-solving "Thinking Corner". Units: 1 What is biology?; 2 Cells — building units of life; 3 Diffusion and osmosis; 4 Enzymes; 5 Nutrition; 6 Nutrition in mammals; 7 Nutrition in plants. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 105–106 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 72–92 |
+| Libya's way — Unit 5, 5-1 The need for food — Why organisms need food. (placement slug: why-we-eat) | Book 16 (Biology Student Book, Year 1 Secondary, student textbook, Grade 10), printed p. 50 |
 
 | The Grade 3 wording — why we need food | Ethiopia, *Environmental Science Student Textbook, Grade 3*, printed pp. 15–16 |
 | Sudan's way — Unit One: Nutrition in Living Organisms — concepts of food and nutrition; the food groups and their functions for the body (placement slug: why-we-eat) | Book 14 (علم الأحياء – الصف الثاني الثانوي, student textbook, Grade 11), Unit One, printed pp. 1–51 (objectives p. 2) |
 | Gabon's way — Lesson 8: Les rations alimentaires (teacher guide — evidence) (placement slug: why-we-eat) | Book 15 (Guide pédagogique Sciences, teacher guide, Grade 3), printed p. 12 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Sudan) — Gabon's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 3 countries (Ethiopia, Sudan, Libya) — Gabon's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Gabon): Gabon's evidence here is teacher guides only — the Institut Pédagogique National (IPN) *Guide pédagogique Sciences* (Grade 3; © EDIG/EDICEF) — cited as teacher-guide evidence exactly as the placements file files it: named on the countries line, counted nowhere in the acceptance count. Each guide is COMPLETE as verified in the placements (five paliers, all its biology lessons present). Only the guides' Biologie lessons are placed here; their Sciences physiques, Technologie and TIC lessons are outside Biology and are not placed.
 
@@ -29,4 +32,6 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Honesty (Sudan): Book 14 is a student textbook as verified in the placements — *علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book")*, Grade 11 — so Sudan counts toward acceptance. It is COMPLETE: five units — Nutrition, Transport, Respiration, Excretion, Coordination — running to the end of the file (180 PDF pages; printed p. = PDF page − 6). The Grade 11 file is a scan circulated by a Sudanese study network (its cover carries that network's stamp); the underlying book is the named ministry text, verified on its unit pages, exactly as the placements record it.
 
-Searchable tags: biology, ethiopia, why, eat, energy, building, protection, sudan, gabon
+Honesty (Libya): Book 16 (*الأحياء كتاب الطالب — Biology Student Book, Year 1 Secondary (Grade 10)*, Grade 10) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 16 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, why, eat, energy, building, protection, sudan, gabon, libya

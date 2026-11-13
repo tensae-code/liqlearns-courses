@@ -1,6 +1,6 @@
 # Sources — Monera — the bacteria
 
-countries: Ethiopia, Uganda, Afghanistan, Fiji
+countries: Ethiopia, Uganda, Afghanistan, Fiji, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Uganda, Afghanistan, Fiji
 
 **Book 6:** Biology for All — Year 13 Biology — Fiji. Grade: 13 (Year 13) — Kind: student as verified — Repo path: grade-13/gov/fiji/biology/student/full-year.pdf (grabbed via the TSV release asset grade-13-gov-fiji-biology-student-full-year.pdf, mid-size-books-7) — Source URL (books.json): Google Drive viewer link (view-only; not used — the GitHub copy was read) — Byte size: 19,002,576 (books.json size_bytes: null) — PDF pages: 271 — Printed-page offset: printed p. = PDF page (page footers match PDF pagination in the body, e.g. PDF p. 3 footer "3|Page"; contents lists Strand 1 starting printed p. 8) — Verdict: COMPLETE — First Edition 2018, © Ministry of Education, Fiji, 2018 (Ministry of Education, Heritage & Arts); preface, full contents, all strands, glossary (ch. 4.0, printed p. ~239) and bibliography (5.0) present to the end of the PDF. — Structural summary: The final-year volume inverts the junior order: it opens with advanced genetics and evolution, moves to behaviour/ecology ("Living Together"), then spends half the book on a full diversity survey kingdom by kingdom. Sequence: 1.1 Genetics (gene concept, protein synthesis, variation, types of inheritance, genetic engineering/biotechnology, population genetics — Hardy–Weinberg, natural selection) → 1.2 Evolution (organic evolution and its evidences, human evolution: Ramapithecus, Australopithecus, the hominid line) → Strand 2 Living Together (organisms and environment: biological timing, biological orientation, inter/intraspecific relationships) → 3.1 Sub-cellular life: viruses → 3.2 Diversity of life (cellular organisation and differentiation, Monera incl. cyanobacteria, Protista — algae, slime moulds, protozoans, Fungi and their phyla, Plantae division by division, Animalia phylum by phylum from Cnidaria to Chordata) → 3.3 Environmental issues: man's modification of the biosphere → glossary, bibliography. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/fiji-placements.md.
 
+**Book 7:** الأحياء كتاب الطالب — Biology Student Book, Year 2 Secondary, Science stream (Grade 11) — Libya. Grade: grade-11 (second year of secondary, science section) — Kind as verified: student textbook (Arabic), same Libyan secondary series and layout as Grade 10, Centre for Educational Curricula and Research. — Repo path / source: grade-11/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-11-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 16,943,504 bytes (record size_bytes: none) — PDF pages: 131; printed-page offset: printed page number = PDF page number (offset 0; contents pp. 9–128 all land inside the file) — Verdict: COMPLETE — contents, all 10 units, glossary (printed p. 123) and Appendix 1 (printed p. 128) present. — Structural summary: Continues "Part One: Organisation of the individual". Units: 1 Transport in mammals; 2 Transport in flowering plants; 3 Respiration; 4 Excretion; 5 Homeostasis (internal balance); 6 Coordination and response (1) — the nervous system; 7 Coordination and response (2) — sense organs; 8 Coordination and response (3) — hormones and endocrine glands; 9 Drugs; 10 Biodiversity and conservation of the environment. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 30–31 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Uganda, Afghanistan, Fiji
 | Afghanistan's way — Ch2, bacteria (placement slug: monera-the-bacteria) | Book 4 (بیولوژی صنف هشتم (Biology, Grade 8 — Dari), student textbook, Grade 8), printed p. 13 |
 | Fiji's way — Ch 3.2.1: Monera | Book 5 (Biology for All — Year 11, student textbook, Grade 11), printed p. 27 |
 | Fiji's way — 3.2.2: Kingdom Monera — bacteria | Book 6 (Biology for All — Year 13 Biology, student textbook, Grade 13), printed pp. 134–135 |
+| Libya's way — Unit 10, 10-1 Kingdom of the prokaryotes (placement slug: monera-the-bacteria) | Book 7 (Biology Student Book, Year 2 Secondary, Science stream, student textbook, Grade 11), printed p. 112 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Afghanistan, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Afghanistan, Fiji, Libya).**
 
 Honesty (Uganda): Book 3 is a student textbook as verified in the placements — *Biology Textbook — Senior One (NCDC Prototype)*, Grade 8 (Senior One) — so Uganda counts toward acceptance. It is COMPLETE: preface, acknowledgements, contents, all 5 chapters and the closing chapter summary (printed p. 86) plus the NCDC back page present (96 PDF pages; printed p. = PDF page − 8); it is watermarked “PROTOTYPE” throughout, as recorded. The book was recorded twice in the library records (TSV release row + books.json record for the same book); it is one distinct book, taught once and cited once here.
 
@@ -33,4 +36,6 @@ Honesty (Afghanistan): Book 4 (بیولوژی صنف هشتم (Biology, Grade 8 
 
 Honesty (Fiji): Book 5 (*Biology for All — Year 11*, Grade 11) and Book 6 (*Biology for All — Year 13 Biology*, Grade 13) are student textbooks as verified in the placements — so Fiji counts toward acceptance. They are COMPLETE as stated in the book entries above. Each was recorded twice in the library records (a TSV record and a books.json record for the same book) — verified duplicates, taught once and cited once here.
 
-Searchable tags: biology, ethiopia, monera, the, bacteria, uganda, afghanistan, fiji
+Honesty (Libya): Book 7 (*الأحياء كتاب الطالب — Biology Student Book, Year 2 Secondary, Science stream (Grade 11)*, Grade 11) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 7 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, ethiopia, monera, the, bacteria, uganda, afghanistan, fiji, libya

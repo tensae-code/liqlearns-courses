@@ -1,6 +1,6 @@
 # Sources — Keeping body temperature steady
 
-countries: Ethiopia, Egypt, Eritrea, Bolivia, Bhutan, Armenia
+countries: Ethiopia, Egypt, Eritrea, Bolivia, Bhutan, Armenia, Libya
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Egypt, Eritrea, Bolivia, Bhutan, Armenia
 
 **Book 7:** Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8) — Karapetyan A. F., Hakobyan L. Yu., Sevoyan G. G., Esayan A. H., Astghik Gratun, Yerevan 2024 — Armenia. Grade: 8 (as printed) — Kind: student textbook as verified — a human anatomy, physiology and hygiene course ("Biology. Human") — Repo path: grade-08/gov/armenia/biology/student/armenia-g08-biology-student.pdf (TSV twin: releases/download/mid-size-books-4/grade-08-gov-armenia-biology-student-armenia-g08-biology-student.pdf) — Source URL: lib.armedu.am upload of 2024-09-02 — Byte size: 8,683,925 — PDF pages: 178 — Printed-page offset: printed p. = PDF p. − 1 (one blank front page; contents printed pp. 174–175) — Verdict: COMPLETE — introduction (printed p. 6), all 48 numbered sections in 11 chapters, subject index (printed pp. 172–173), contents and imprint present. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/armenia-placements.md.
 
+**Book 8:** الأحياء كتاب الطالب — Biology Student Book, Year 2 Secondary, Science stream (Grade 11) — Libya. Grade: grade-11 (second year of secondary, science section) — Kind as verified: student textbook (Arabic), same Libyan secondary series and layout as Grade 10, Centre for Educational Curricula and Research. — Repo path / source: grade-11/gov/libya/biology/student-book.pdf (TSV twin: releases/download/mid-size-books-3/grade-11-gov-libya-biology-student-book.pdf — same book, duplicate record, read once) — Byte size: 16,943,504 bytes (record size_bytes: none) — PDF pages: 131; printed-page offset: printed page number = PDF page number (offset 0; contents pp. 9–128 all land inside the file) — Verdict: COMPLETE — contents, all 10 units, glossary (printed p. 123) and Appendix 1 (printed p. 128) present. — Structural summary: Continues "Part One: Organisation of the individual". Units: 1 Transport in mammals; 2 Transport in flowering plants; 3 Respiration; 4 Excretion; 5 Homeostasis (internal balance); 6 Coordination and response (1) — the nervous system; 7 Coordination and response (2) — sense organs; 8 Coordination and response (3) — hormones and endocrine glands; 9 Drugs; 10 Biodiversity and conservation of the environment. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/libya-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Thermoregulation | Student Textbook, Grade 11 — Printed pp. 56–61. |
@@ -25,8 +27,9 @@ countries: Ethiopia, Egypt, Eritrea, Bolivia, Bhutan, Armenia
 | Bolivia's way — Practical opening of the thermology unit: hyperthermia vs hypothermia as abnormal body temperatures (inside a physics unit; the body-temperature content is placed, the heat physics is debt) | Book 5 (Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria, student textbook, Grade 8), printed pp. 204–205 |
 | Bhutan's way — Ch. 9 A c: maintenance of a constant body temperature | Book 6 (BIOLOGY — CLASS NINE, student textbook, Grade 9), printed pp. 179–181 |
 | Armenia's way — §16 Homeostasis: the role of skin in thermoregulation — sweating and skin blood flow holding body temperature steady. (placement slug: keeping-body-temperature-steady) | Book 7 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), student textbook, Grade 8), printed p. 57 |
+| Libya's way — Unit 5, 5-2 — Temperature regulation through the skin. (placement slug: keeping-body-temperature-steady) | Book 8 (Biology Student Book, Year 2 Secondary, Science stream, student textbook, Grade 11), printed p. 66 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Eritrea, Bolivia, Bhutan, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Egypt, Eritrea, Bolivia, Bhutan, Armenia, Libya).**
 
 Honesty (Bolivia): Book 5 is a student textbook as verified in the placements — *Texto de Aprendizaje — Biología-Geografía — Segundo Año de Secundaria* (Ministerio de Educación de Bolivia), Grade 8 (Secundaria 2) — so Bolivia counts toward acceptance. It is TRUNCATED: the secured file contains only printed pp. 148–230; printed pp. 1–147 and any pages after 230 are missing. This truncated copy is never counted as a complete book. 84 PDF pages; printed p. = PDF page + 146.
 
@@ -42,4 +45,6 @@ Honesty (Bhutan): Book 6 is a student textbook as verified in the placements —
 
 Honesty (Armenia): Book 7 (Կենսաբանություն (Մարդ) 8 (Biology: The Human, Grade 8), Grade 8) is a student textbook as verified in the placements — so Armenia counts toward acceptance. It is COMPLETE as stated in the book entry above.
 
-Searchable tags: biology, eritrea, ethiopia, keeping, body, temperature, steady, egypt, bolivia, bhutan, armenia
+Honesty (Libya): Book 8 (*الأحياء كتاب الطالب — Biology Student Book, Year 2 Secondary, Science stream (Grade 11)*, Grade 11) is a student textbook as verified in the placements — so Libya counts toward acceptance. It is COMPLETE as stated in the book entry above. Book 8 was recorded twice in the library records (its repo-path record and its TSV release twin in mid-size-books-3, the same book) — a verified duplicate, taught once and cited once here.
+
+Searchable tags: biology, eritrea, ethiopia, keeping, body, temperature, steady, egypt, bolivia, bhutan, armenia, libya
