@@ -1,6 +1,6 @@
 # Sources — What biology is
 
-countries: Ethiopia, Azerbaijan, Nicaragua
+countries: Ethiopia, Azerbaijan, Nicaragua, Sudan
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Azerbaijan, Nicaragua
 
 **Book 4:** Biología — Undécimo grado (MINED Nicaragua; "Somos vida y energía — Ciencias Físico Naturales-Biología, Undécimo Grado") — Nicaragua. Grade: 11 — Kind: student as verified — Repo path: grade-11/gov/nicaragua/biology/student/full-year.pdf (release mid-size-books-3 and blob) — Source URL: https://www.mined.gob.ni/biblioteca/wp-content/uploads/2025/10/Biologia-11mo-grado-2019-app.pdf — Byte size: 9,243,302 — PDF pages: 163 — Printed-page offset: printed p. = PDF page + 1 (contents printed pp. 13–164). Verdict: COMPLETE — all five units of the contents present, each closing with its Autoevaluación, and the Bibliografía at the end (PDF p. 162; PDF p. 163 blank). Structural summary: Nicaragua writes the whole book in the first person plural of belonging — "Somos biología" (We are biology), "Así estamos formados" (This is how we are made), "Nuestras células realizan funciones". Units: We are biology (biology and our environment, origin of life, evolutionist theories of the 17th century onward, human evolution) → How we are formed (the cell, organelles, cell functions, meiosis and gametogenesis) → Precursor molecules of life (inorganic and organic biomolecules, carbohydrates/lipids/proteins in our diet, DNA as "the molecular language of life") → Biological inheritance (Mendelian genetics, chromosomal theory, mutations) → Ecology and environment (ecosystems, biogeochemical cycles, environment and health). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/nicaragua-placements.md.
 
+**Book 5:** علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book") — Sudan. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-10-gov-sudan-biology-student-full-year.pdf — Byte size: 21,115,344 — PDF pages: 155 — Printed-page offset: printed p. = PDF page − 5 (unit pages carry both paginations). Verdict: COMPLETE — all five units present, Unit Five (Support) running to the end of the file. Structural summary: Introduction to Biology (its branches, and the contributions of earlier Muslim and non-Muslim scholars and of the Renaissance — Sudan names the Islamic-scholar strand explicitly) → Cell Biology → Classification of Living Organisms → Movement in Living Organisms → Support in Living Organisms. The systems year (nutrition/transport/respiration) is deferred to Second Secondary. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 1–2 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 1–13 |
 | Azerbaijan's way — Part I §1: the origin of planet Earth; the concept of life (placement slug: what-biology-is) | Book 3 (Биология 11, student textbook, Grade 11), Part I §1, printed p. 8 |
 | Nicaragua's way — Unidad 1.1: La biología y nuestro entorno — science as systematic knowledge for explaining phenomena; biology's own way of thinking | Book 4 (Biología — Undécimo grado, student textbook, Grade 11), Unidad 1.1, printed pp. 12–13 |
+| Sudan's way — Unit One: An Introduction to Biology — defining biology and its branches by three divisions (classical, by group studied, by subject) and its relations to other sciences (placement slug: what-biology-is) | Book 5 (علم الأحياء – الصف الأول الثانوي, student textbook, Grade 10), Unit One, printed pp. 1–11 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Azerbaijan, Nicaragua).**
+**Acceptance count: taught in 4 countries (Ethiopia, Azerbaijan, Nicaragua, Sudan).**
 
 Honesty (Nicaragua): Book 4 is a student textbook as verified in the placements — *Biología — Undécimo grado* (MINED Nicaragua; "Somos vida y energía — Ciencias Físico Naturales-Biología, Undécimo Grado"), Grade 11 — so Nicaragua counts toward acceptance. It is COMPLETE: all five units of the contents present, each closing with its Autoevaluación, and the Bibliografía at the end; 163 PDF pages, printed p. = PDF page + 1. The same Undécimo-grado text was recorded three times in the library records (two TSV rows — release + blob — and one books.json record); it is one distinct book, taught once and cited once here. Nicaragua's own way runs through the whole book and is content in this lesson: the book is written in the first person plural of belonging — "Somos biología", "Así estamos formados", "Nuestras células realizan funciones".
 
@@ -25,4 +28,6 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Honesty (Azerbaijan): Book 3 is a student textbook as verified in the placements — *Биология 11* (Biology 11), the Russian-sector textbook (Şərq-Qərb, Baku, 2018) — so Azerbaijan counts toward acceptance. It is COMPLETE: seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present; 196 PDF pages, printed p. = PDF page − 2. The scan is image-only: the title page, colophon and the full two-page contents were read from page renders, so the placements cite the contents' printed pages.
 
-Searchable tags: biology, azerbaijan, ethiopia, what, biology, nicaragua
+Honesty (Sudan): Book 5 is a student textbook as verified in the placements — *علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book")*, Grade 10 — so Sudan counts toward acceptance. It is COMPLETE: all five units present, Unit Five (Support) running to the end of the file (155 PDF pages; printed p. = PDF page − 5).
+
+Searchable tags: biology, azerbaijan, ethiopia, what, biology, nicaragua, sudan

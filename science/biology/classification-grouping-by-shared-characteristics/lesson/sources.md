@@ -1,6 +1,6 @@
 # Sources — Classification — grouping by shared characteristics
 
-countries: Ethiopia, Syria, Palestine
+countries: Ethiopia, Syria, Palestine, Sudan
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Syria, Palestine
 
 **Book 4:** العلوم الحياتية — الصف العاشر (Life Sciences, Grade 10; Palestinian Ministry of Education) — Palestine. Grade: 10 — Kind: student as verified — Repo path: grade-10/gov/palestine/life-sciences/full-year.pdf — Byte size: 5,620,184 (record gives no size) — PDF pages: 132 — Printed pages: 126+ (references at printed p. 126); printed-page offset: printed p. = PDF page − 5 approx. (contents at PDF p. 5). Verdict: COMPLETE — four units and the reference list all present. Structural summary: Cell structure and functions (microscopes first, then the genetic material inside the cell — including DNA replication and mutations in Grade 10) → the cell cycle and division (with tumours as a named topic, and crossing over) → human body systems (the four tissues, the reproductive systems with diseases, the urinary system down to the nephron) → classification of living organisms (modern classification, naming, levels, morphological vs genetic classification; the protist and fungi kingdoms, with the positive roles of protists and fungi in daily life). Placements at liqlearns-courses-work/expansion-biology-2026-11-13/palestine-placements.md.
 
+**Book 5:** علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book") — Sudan. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-10-gov-sudan-biology-student-full-year.pdf — Byte size: 21,115,344 — PDF pages: 155 — Printed-page offset: printed p. = PDF page − 5 (unit pages carry both paginations). Verdict: COMPLETE — all five units present, Unit Five (Support) running to the end of the file. Structural summary: Introduction to Biology (its branches, and the contributions of earlier Muslim and non-Muslim scholars and of the Renaissance — Sudan names the Islamic-scholar strand explicitly) → Cell Biology → Classification of Living Organisms → Movement in Living Organisms → Support in Living Organisms. The systems year (nutrition/transport/respiration) is deferred to Second Secondary. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 21–22 |
 | Unit answers, activities feedback and pedagogy (teacher guide — evidence) | Book 2 (teacher guide), printed pp. 14–32 |
 | Syria's way — classification of living things (placement slug: classification-grouping-by-shared-characteristics) | Book 3 (Biology & Earth Science, student textbook, Grade 7), Unit 2, Lesson 4: تصنيف الأحياء (classification of living things) — printed p. 58 |
 | Palestine's way — modern classification of living organisms; the levels of classification (placement slug: classification-grouping-by-shared-characteristics) | Book 4 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 4 Ch. 1 §1: modern classification of living organisms; §3 the levels of classification — printed pp. 98–100 |
+| Sudan's way — Unit Three: Classification of Living Organisms (placement slug: classification-grouping-by-shared-characteristics) | Book 5 (علم الأحياء – الصف الأول الثانوي, student textbook, Grade 10), Unit Three, printed pp. 67–105 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Syria, Palestine).**
+**Acceptance count: taught in 4 countries (Ethiopia, Syria, Palestine, Sudan).**
 
 Honesty (Palestine): Book 4 is a student textbook as verified in the placements — *العلوم الحياتية* (Life Sciences), Grade 10, Palestinian Ministry of Education — so Palestine counts toward acceptance. It is COMPLETE: four units and the reference list all present (132 PDF pages; printed p. = PDF page − 5 approx.; references at printed p. 126). Placements cite the book's own contents (printed pages).
 
@@ -25,4 +28,6 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Honesty (Syria): Book 3 is a student textbook as verified in the placements — علم الأحياء والأرض (Biology & Earth Science), Grade 7, Syria MoE / NCCD, printed 2022 — so Syria counts toward acceptance. It is COMPLETE: five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page (172 printed pp.; printed p. = PDF page). Despite the cover's “and Earth”, the book's own introduction calls it “علم الأحياء والبيئة” (Biology and Environment), and its contents contain NO earth-science unit — all five units are biology and environment, so there is no earth-science debt from this book.
 
-Searchable tags: biology, ethiopia, syria, classification, grouping, shared, characteristics, palestine
+Honesty (Sudan): Book 5 is a student textbook as verified in the placements — *علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book")*, Grade 10 — so Sudan counts toward acceptance. It is COMPLETE: all five units present, Unit Five (Support) running to the end of the file (155 PDF pages; printed p. = PDF page − 5).
+
+Searchable tags: biology, ethiopia, syria, classification, grouping, shared, characteristics, palestine, sudan

@@ -1,6 +1,6 @@
 # Sources — Inside a leaf
 
-countries: Ethiopia, Sri Lanka, Syria
+countries: Ethiopia, Sri Lanka, Syria, Sudan
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Sri Lanka, Syria
 
 **Book 4:** علم الأحياء والأرض — الصف السابع (Biology & Earth Science, Grade 7) — Syrian Arab Republic, Ministry of Education, National Center for Curriculum Development (NCCD), 2022 edition (Syria MoE / NCCD 2021–2022, printed 2022) — Syria. Grade: 7 — Kind: student as verified — Repo path (release full-quality-oversized-books): grade-07-gov-syria-science-student-full-year.pdf — Byte size: 120,700,651 — PDF pages: 172 — Printed pages: 172 (contents الفهرست at printed pp. 3–4); printed p. = PDF page. Verdict: COMPLETE — five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/syria-placements.md.
 
+**Book 5:** علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book") — Sudan. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-11-gov-sudan-biology-student-full-year.pdf — Byte size: 19,051,757 — PDF pages: 180 — Printed-page offset: printed p. = PDF page − 6 (Unit Two opener printed p. 52). Verdict: COMPLETE — five units: Nutrition, Transport, Respiration, Excretion, Coordination, running to the end of the file. Structural summary: A process-physiology year organised by life process across plants and animals together: nutrition (with malnutrition diseases, photosynthesis factor experiments, and leaf cross-sections cut by the students), transport, respiration, excretion, co-ordination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 22–23 |
 | Guide pedagogy for this unit (teacher guide — evidence) | Book 2 (teacher guide), guide printed pp. 16–35 (teacher guide) |
 | Sri Lanka's way — the structure of the leaf (placement slug: leaf-structure-and-function) | Book 3 (Biology 1, student textbook, Grade 10), Ch. 2 §2-1: இலையின் கட்டமைப்பு (the structure of the leaf) — contents, Ch. 2 |
 | Syria's way — the leaves, the vegetative system (placement slug: leaf-structure-and-function) | Book 4 (Biology & Earth Science, student textbook, Grade 7), Lesson 7: المجموع الخضري — الأوراق (the leaves) — printed p. 104 |
+| Sudan's way — Unit One objectives: the internal structure of the plant leaf, and cutting cross-sections of a leaf (placement slug: inside-a-leaf) | Book 5 (علم الأحياء – الصف الثاني الثانوي, student textbook, Grade 11), Unit One objectives, printed p. 2 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Sri Lanka, Syria).**
+**Acceptance count: taught in 4 countries (Ethiopia, Sri Lanka, Syria, Sudan).**
 
 Honesty: the pupil-taught parts above stand on the finished Grade 10 student textbook (August 2023, ISBN 978-99990-0-009-3). The teacher-guide rows are evidence only and never count as pupil-taught; the guide is a pre-publication draft whose publication page was never filled in (placeholder date “xxxxx 2022” and placeholder ISBN/printer) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. Student-book errors and quirks the placements flag are taught corrected and named here only: Activity 3.21 is misprinted “Activity 3.216” (printed p. 75); Figure 5.4’s caption is printed twice (printed p. 102); the student book’s §5.2.1 is “Blood Groups” where the guide’s is “Blood donation”; the student book’s Unit 4 is “Cell Reproduction” where the guide’s is “Cell Cycle”.
 
@@ -25,4 +28,6 @@ Honesty (Sri Lanka): Book 3 is a student textbook as verified in the placements 
 
 Honesty (Syria): Book 4 is a student textbook as verified in the placements — علم الأحياء والأرض (Biology & Earth Science), Grade 7, Syria MoE / NCCD, printed 2022 — so Syria counts toward acceptance. It is COMPLETE: five units, each closing with a unit evaluation (تقويم) and a project (مشروع), all present to the last page (172 printed pp.; printed p. = PDF page). Despite the cover's “and Earth”, the book's own introduction calls it “علم الأحياء والبيئة” (Biology and Environment), and its contents contain NO earth-science unit — all five units are biology and environment, so there is no earth-science debt from this book.
 
-Searchable tags: biology, ethiopia, syria, sri lanka, grade 10, inside, a, leaf
+Honesty (Sudan): Book 5 is a student textbook as verified in the placements — *علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book")*, Grade 11 — so Sudan counts toward acceptance. It is COMPLETE: five units — Nutrition, Transport, Respiration, Excretion, Coordination — running to the end of the file (180 PDF pages; printed p. = PDF page − 6). The Grade 11 file is a scan circulated by a Sudanese study network (its cover carries that network's stamp); the underlying book is the named ministry text, verified on its unit pages, exactly as the placements record it.
+
+Searchable tags: biology, ethiopia, syria, sri lanka, grade 10, inside, a, leaf, sudan

@@ -1,6 +1,6 @@
 # Sources — The endocrine system — glands and hormones
 
-countries: Ethiopia, Egypt, Eritrea
+countries: Ethiopia, Egypt, Eritrea, Sudan
 
 **Book 1:** Biology, Teacher's Guide, Grade 12. Federal Democratic Republic of Ethiopia, Ministry of Education. First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. ISBN: 978-99990-0-015-4. NOTE: unlike the Grade 11 pair, this file carries NO writers/editors list and NO printer line anywhere in its text — the title page is the cover design repeated, and the copyright page gives only publisher, year, thanks and ISBN. No author names are therefore recorded here, because none are printed in the book as held. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g12-teacher-placements.md.
 
@@ -8,13 +8,16 @@ countries: Ethiopia, Egypt, Eritrea
 
 **Book 3:** Biology for Grade 11 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-5), grade-11-gov-eritrea-biology-student-full-year.pdf — Byte size: 10,367,822 — PDF pages: 143 — Printed-page offset: printed p. = PDF page − 6 (Unit Six exercises at printed p. 137). Verdict: COMPLETE — all six units named in the Introduction present, ending with Unit Six (Plant Systems) exercises. Structural summary: Endocrine system → reproductive system → skeletal system → muscular system → homeostasis (temperature, water balance via hypothalamus–pituitary–ADH, rest) → plant systems (growth, meristems, differentiation, determinate/indeterminate growth). Homeostasis is a whole unit here, not a section. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 4:** علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book") — Sudan. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-11-gov-sudan-biology-student-full-year.pdf — Byte size: 19,051,757 — PDF pages: 180 — Printed-page offset: printed p. = PDF page − 6 (Unit Two opener printed p. 52). Verdict: COMPLETE — five units: Nutrition, Transport, Respiration, Excretion, Coordination, running to the end of the file. Structural summary: A process-physiology year organised by life process across plants and animals together: nutrition (with malnutrition diseases, photosynthesis factor experiments, and leaf cross-sections cut by the students), transport, respiration, excretion, co-ordination. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson — Added endocrine detail — goitre in Ethiopia, adrenaline, the pituitary complex and two feedback answers (teacher guide — evidence) | Teacher's Guide, Grade 12 — printed pp. 156–160, 168–169 |
 | Egypt's way — Hormonal Co-ordination in living organisms — the gland-by-gland survey (placement slug: the-endocrine-system-glands-and-hormones) | Book 2 (BIOLOGY, student textbook, Grade 12), Ch. 2, printed pp. 23–37 |
 | Eritrea's way — Unit One: Endocrine System | Book 3 (Biology for Grade 11 Textbook, student textbook, Grade 11), printed pp. 3–26 (PDF pp. 9–32) |
+| Sudan's way — Unit Five: Co-ordination in Living Organisms (nervous and hormonal together) (placement slug: the-endocrine-system-glands-and-hormones) | Book 4 (علم الأحياء – الصف الثاني الثانوي, student textbook, Grade 11), Unit Five, printed pp. 134–173 |
 
-**Acceptance count: taught in 2 countries (Egypt, Eritrea) — Ethiopia's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 3 countries (Egypt, Eritrea, Sudan) — Ethiopia's teacher-guide evidence is named here and counted nowhere.**
 
 Honesty (Eritrea): Book 3 is a student textbook as verified in the placements — *Biology for Grade 11 Textbook* (The State of Eritrea, Ministry of Education), Grade 11, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all six units named in the Introduction are present, ending with Unit Six (Plant Systems) exercises (143 PDF pages). Printed-page offset: printed p. = PDF page − 6; the citations here use the printed pages as the placements file gives them.
 
@@ -24,4 +27,6 @@ Honesty notes: this Teacher's Guide is a finished publication — first publishe
 
 Pairing warning (carried exactly as the placements state it): the Grade 12 student book and Teacher's Guide are EDITION-MATCHED COMPANIONS WITH REAL DIVERGENCES — do not merge blindly. Guide Unit 2 subsections 2.1.1–2.1.5 are student §§2.1–2.5; guide §§4.2–4.5 are student §§4.1.6–4.1.9; guide endocrine §5.3 / homeostasis §5.4 are student §5.2.6 / §5.3; the guide's Unit Three competency list promises cell communication and lipid/carbohydrate structure that appear in NEITHER book's Unit Three.
 
-Searchable tags: biology, eritrea, ethiopia, the, endocrine, system, glands, and, hormones, egypt
+Honesty (Sudan): Book 4 is a student textbook as verified in the placements — *علم الأحياء – الصف الثاني الثانوي (Biology — Second Secondary Year; "Sudan Grade 11 Biology Student Book")*, Grade 11 — so Sudan counts toward acceptance. It is COMPLETE: five units — Nutrition, Transport, Respiration, Excretion, Coordination — running to the end of the file (180 PDF pages; printed p. = PDF page − 6). The Grade 11 file is a scan circulated by a Sudanese study network (its cover carries that network's stamp); the underlying book is the named ministry text, verified on its unit pages, exactly as the placements record it.
+
+Searchable tags: biology, eritrea, ethiopia, the, endocrine, system, glands, and, hormones, egypt, sudan

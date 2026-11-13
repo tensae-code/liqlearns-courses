@@ -1,6 +1,6 @@
 # Sources — From cell to organism — the levels of life
 
-countries: Ethiopia, Syria, Azerbaijan, Palestine, France, Eritrea
+countries: Ethiopia, Syria, Azerbaijan, Palestine, France, Eritrea, Sudan
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Syria, Azerbaijan, Palestine, France, Eritrea
 
 **Book 7:** Biology for Grade 11 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-5), grade-11-gov-eritrea-biology-student-full-year.pdf — Byte size: 10,367,822 — PDF pages: 143 — Printed-page offset: printed p. = PDF page − 6 (Unit Six exercises at printed p. 137). Verdict: COMPLETE — all six units named in the Introduction present, ending with Unit Six (Plant Systems) exercises. Structural summary: Endocrine system → reproductive system → skeletal system → muscular system → homeostasis (temperature, water balance via hypothalamus–pituitary–ADH, rest) → plant systems (growth, meristems, differentiation, determinate/indeterminate growth). Homeostasis is a whole unit here, not a section. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 8:** علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book") — Sudan. Grade: 10 — Kind: student as verified — Source: TSV release URL (mid-size-books), grade-10-gov-sudan-biology-student-full-year.pdf — Byte size: 21,115,344 — PDF pages: 155 — Printed-page offset: printed p. = PDF page − 5 (unit pages carry both paginations). Verdict: COMPLETE — all five units present, Unit Five (Support) running to the end of the file. Structural summary: Introduction to Biology (its branches, and the contributions of earlier Muslim and non-Muslim scholars and of the Renaissance — Sudan names the Islamic-scholar strand explicitly) → Cell Biology → Classification of Living Organisms → Movement in Living Organisms → Support in Living Organisms. The systems year (nutrition/transport/respiration) is deferred to Second Secondary. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 68–70 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Syria, Azerbaijan, Palestine, France, Eritrea
 | Palestine's way — the human tissues — epithelial, connective, muscle, nervous (placement slug: tissues-systems-and-organs) | Book 5 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 3 Ch. 1 §§2–5: the human tissues — epithelial, connective, muscle, nervous — printed pp. 59–66 |
 | France's way — specialised cells, tissues and organs in multicellular organisms (placement slug: from-cell-to-organism) | Book 6 (SVT 2de GT — Manuel Libre de Sciences de la vie et de la Terre, student manual, Grade 10), Thème "L'organisation du vivant" / "L'organisation des organismes pluricellulaires spécialisés" — repository path as cited in the placements, in place of a printed page, as the placements state |
 | Eritrea's way — Unit Six: Plant Systems — growth from meristematic tissues differentiating into permanent tissues; development as growth + differentiation | Book 7 (Biology for Grade 11 Textbook, student textbook, Grade 11), printed pp. 103–137 (PDF p. 110) |
+| Sudan's way — Unit Two objectives: levels of organisation and complexity in living organisms (placement slug: from-cell-to-organism) | Book 8 (علم الأحياء – الصف الأول الثانوي, student textbook, Grade 10), Unit Two objectives, printed p. 13 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Syria, Azerbaijan, Palestine, France, Eritrea).**
+**Acceptance count: taught in 7 countries (Ethiopia, Syria, Azerbaijan, Palestine, France, Eritrea, Sudan).**
 
 Honesty (Eritrea): Book 7 is a student textbook as verified in the placements — *Biology for Grade 11 Textbook* (The State of Eritrea, Ministry of Education), Grade 11, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all six units named in the Introduction are present, ending with Unit Six (Plant Systems) exercises (143 PDF pages). Printed-page offset: printed p. = PDF page − 6; the citations here use the printed pages as the placements file gives them.
 
@@ -41,4 +44,6 @@ Honesty (Syria): Book 3 is a student textbook as verified in the placements — 
 
 Honesty (Azerbaijan): Book 4 is a student textbook as verified in the placements — *Биология 11* (Biology 11), the Russian-sector textbook (Şərq-Qərb, Baku, 2018) — so Azerbaijan counts toward acceptance. It is COMPLETE: seven parts, §§1–48, glossary (p. 188) and literature list (p. 191) all present; 196 PDF pages, printed p. = PDF page − 2. The scan is image-only: the title page, colophon and the full two-page contents were read from page renders, so the placements cite the contents' printed pages.
 
-Searchable tags: biology, eritrea, azerbaijan, ethiopia, syria, from, cell, organism, the, levels, life, palestine, france
+Honesty (Sudan): Book 8 is a student textbook as verified in the placements — *علم الأحياء – الصف الأول الثانوي (Biology — First Secondary Year; "Sudan Grade 10 Biology Student Book")*, Grade 10 — so Sudan counts toward acceptance. It is COMPLETE: all five units present, Unit Five (Support) running to the end of the file (155 PDF pages; printed p. = PDF page − 5).
+
+Searchable tags: biology, eritrea, azerbaijan, ethiopia, syria, from, cell, organism, the, levels, life, palestine, france, sudan

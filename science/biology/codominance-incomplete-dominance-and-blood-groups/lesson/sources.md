@@ -1,20 +1,25 @@
 # Sources — Co-dominance, incomplete dominance and blood groups
 
-countries: Ethiopia
+countries: Ethiopia, Sudan
 
 **Book 1:** Biology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tefaye (MA & MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, with thanks to Hawassa University in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-010-9. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-student-placements.md.
 
 **Book 2:** Biology, Teachers' Guide, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Habtamu Wodaj (PhD), Sutuma Edessa (PhD). Pedagogical Editor: Meskerem Cheru (MSc). Content Editor: Destaw Damtie (PhD). Language Editor: Yenus Nurie (PhD). Illustrator: Nega Tassie (PhD). Designer: Ali Seid (PhD). Evaluators: Berhanu Tesfaye (MA/MEd), Gebrehana Zeleke (MSc), Samuel Desalegn (MSc), Bekele Geleta (MSc). First published August 2023, © 2023 FDRE Ministry of Education, in collaboration with Addis Ababa University, Bahir Dar University and Jimma University. Printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-014-7. Read in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g11-teacher-placements.md.
 
+**Book 3:** علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book") — Sudan. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-12-gov-sudan-biology-student-full-year.pdf — Byte size: 24,677,634 — PDF pages: 252 — Printed-page offset: printed p. = PDF page − 7 (Unit Two opener printed p. 128). Verdict: COMPLETE — three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables. Structural summary: Reproduction taught comparatively — asexual first (its characteristics, BENEFITS and DEFECTS debated as headings), then sexual reproduction group by group (Hydra, tapeworms, insects, frog, flowering plants) before a long human-reproduction span. Genetics goes beyond Mendel to modified ratios, multiple alleles, polygenes and two mechanisms of sex determination. The Ecosystem unit's second part is Sudan-specific resource geography: solar, wind and hydro energy exploitation in Sudan, wild animal resources "especially in Sudan", and soil. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Co-dominance, incomplete dominance and multiple alleles | Student Textbook, Grade 11 — Printed pp. 143–145. |
 | Sub lesson 2 — Added blood-group offspring tables — ABO and Rh (teacher guide — evidence) | Teachers' Guide, Grade 11 — Printed pp. 104–105. |
+| Sudan's way — Unit Two §3: modifications of Mendelian ratios — the 1:3 modification and the 9:3:3:1 modification (placement slug: codominance-incomplete-dominance-and-blood-groups) | Book 3 (علم الأحياء – الصف الثالث الثانوي, student textbook, Grade 12), Unit Two §3, printed pp. 157–168 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Sudan).**
 
 Honesty notes from the placements: this student book's contents page numbers run systematically 6 too high (all citations here use the printed footer numbers); some Unit One running heads wrongly read "UNIT 2: ANIMALS"; §4.2's numbering is out of order in the book (DNA replication before RNA) and §5.2 duplicates a number — the lessons teach the content in its natural order, corrected, and name the slips only here. Recurring typos in the book ("pyramidine" for pyrimidine, "Figure 314" for Figure 3.14) are taught corrected.
 
 Honesty notes: this Teachers' Guide is a finished publication — first published August 2023, © 2023 FDRE Ministry of Education, ISBN 978-99990-0-014-7, printed by GRAVITY GROUP IND LLC, Sharjah, UAE, under Contract no. MOE/GEQIP-E/LICB/G-01/23 — and its imprint is cited here as fact. The guide is teacher evidence only: it adds explanations, worked examples and answer keys to the Grade 11 student book; it is never counted as pupil-taught. Guide-only content (for example bird ZW sex determination, Pavlov's and Skinner's experiments in full, and the Wogesha traditional bone-healer investigation) is labelled (teacher guide — evidence) in the table above. The guide's contents numbering diverges from the student book's; lesson numbering follows the student book.
 
-Searchable tags: biology, ethiopia, dominance, incomplete, dominance, and, blood, groups
+Honesty (Sudan): Book 3 is a student textbook as verified in the placements — *علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book")*, Grade 12 — so Sudan counts toward acceptance. It is COMPLETE: three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables (252 PDF pages; printed p. = PDF page − 7).
+
+Searchable tags: biology, ethiopia, dominance, incomplete, dominance, and, blood, groups, sudan

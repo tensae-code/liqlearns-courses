@@ -1,6 +1,6 @@
 # Sources — The female reproductive system
 
-countries: Ethiopia, Palestine, Egypt, France, Eritrea
+countries: Ethiopia, Palestine, Egypt, France, Eritrea, Sudan
 
 **Book 1:** Biology, Student Textbook, Grade 9 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Zufan Bedewi, Ph.D.; Zelalem G/mariam, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. First published 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-008-6. 164 printed pp. Page rule: printed page = PDF page − 7. Read in full, page by page, from the text extraction in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Palestine, Egypt, France, Eritrea
 
 **Book 7:** Biology for Grade 11 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 11 — Kind: student as verified — Source: TSV release URL (mid-size-books-5), grade-11-gov-eritrea-biology-student-full-year.pdf — Byte size: 10,367,822 — PDF pages: 143 — Printed-page offset: printed p. = PDF page − 6 (Unit Six exercises at printed p. 137). Verdict: COMPLETE — all six units named in the Introduction present, ending with Unit Six (Plant Systems) exercises. Structural summary: Endocrine system → reproductive system → skeletal system → muscular system → homeostasis (temperature, water balance via hypothalamus–pituitary–ADH, rest) → plant systems (growth, meristems, differentiation, determinate/indeterminate growth). Homeostasis is a whole unit here, not a section. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 8:** علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book") — Sudan. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-2), grade-12-gov-sudan-biology-student-full-year.pdf — Byte size: 24,677,634 — PDF pages: 252 — Printed-page offset: printed p. = PDF page − 7 (Unit Two opener printed p. 128). Verdict: COMPLETE — three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables. Structural summary: Reproduction taught comparatively — asexual first (its characteristics, BENEFITS and DEFECTS debated as headings), then sexual reproduction group by group (Hydra, tapeworms, insects, frog, flowering plants) before a long human-reproduction span. Genetics goes beyond Mendel to modified ratios, multiple alleles, polygenes and two mechanisms of sex determination. The Ecosystem unit's second part is Sudan-specific resource geography: solar, wind and hydro energy exploitation in Sudan, wild animal resources "especially in Sudan", and soil. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 86–88 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Palestine, Egypt, France, Eritrea
 | Egypt's way — the human female genital system — ovaries ("the size of a peeled almond"), fallopian tubes with finger-like processes and cilia, uterus, vagina; ~400 ova maturing in a lifetime (placement slug: the-female-reproductive-system) | Book 5 (BIOLOGY, student textbook, Grade 12), Ch. 3, printed pp. 62–63 |
 | France's way — female reproductive apparatus (labelling) (placement slug: the-female-reproductive-system) | Book 6 (SVT 2de GT — Manuel Libre de Sciences de la vie et de la Terre, student manual, Grade 10), Thème 3 "Corps humain et santé" / "Humain, fécondation et puberté" — repository path as cited in the placements, in place of a printed page, as the placements state |
 | Eritrea's way — Unit Two: the female system within the reproduction unit | Book 7 (Biology for Grade 11 Textbook, student textbook, Grade 11), printed pp. 27–52 |
+| Sudan's way — Unit One §2.11: the female system within the human span (placement slug: the-female-reproductive-system) | Book 8 (علم الأحياء – الصف الثالث الثانوي, student textbook, Grade 12), Unit One §2.11, printed pp. 95–127 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Palestine, Egypt, France, Eritrea).**
+**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Egypt, France, Eritrea, Sudan).**
 
 Honesty (Eritrea): Book 7 is a student textbook as verified in the placements — *Biology for Grade 11 Textbook* (The State of Eritrea, Ministry of Education), Grade 11, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all six units named in the Introduction are present, ending with Unit Six (Plant Systems) exercises (143 PDF pages). Printed-page offset: printed p. = PDF page − 6; the citations here use the printed pages as the placements file gives them.
 
@@ -40,4 +43,6 @@ Honesty: the Grade 9 teacher guide paired with the student book is a pre-publica
 
 Fix note (2026-11-12): the Grade 11 depth above (Book 3, printed pp. 188–190) was added to this lesson; the Grade 9 rows are unchanged and remain the lesson's foundation.
 
-Searchable tags: biology, eritrea, ethiopia, the, female, reproductive, system, palestine, egypt, france
+Honesty (Sudan): Book 8 is a student textbook as verified in the placements — *علم الأحياء – الصف الثالث الثانوي (Biology — Third Secondary Year; "Sudan Grade 12 Biology Student Book")*, Grade 12 — so Sudan counts toward acceptance. It is COMPLETE: three units (Reproduction; Genetics; Ecosystem in two parts) present with full contents tables (252 PDF pages; printed p. = PDF page − 7).
+
+Searchable tags: biology, eritrea, ethiopia, the, female, reproductive, system, palestine, egypt, france, sudan
