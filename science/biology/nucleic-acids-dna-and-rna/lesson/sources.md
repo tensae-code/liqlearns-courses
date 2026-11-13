@@ -1,6 +1,6 @@
 # Sources — Nucleic acids — DNA and RNA
 
-countries: Ethiopia, Nicaragua, Palestine, Eritrea
+countries: Ethiopia, Nicaragua, Palestine, Eritrea, Italy
 
 **Book 1:** Biology, Student Textbook, Grade 10 — Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Beyene Dobo, Ph.D.; Girma Tilahun, Ph.D. Editors: Kedir Woliy, Ph.D. (Content Editor); Girma Moti, MA (Curriculum Editor); Temesgen Daniel, Ph.D. (Language Editor). Illustrator: Simachew Ayenew, MSc. Designer: Tesfamichael Getu, Ph.D. Evaluators: Berhanu Tesfaye, MA, MEd; GebreHana Zeleke, MSc. First published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). Printed by GRAVITY GROUP IND LLC, 13th Industrial Area, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. ISBN: 978-99990-0-009-3. 174 printed pp. Page rule: printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 4 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/biology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nicaragua, Palestine, Eritrea
 
 **Book 5:** Biology for Grade 12 Textbook (The State of Eritrea, Ministry of Education) — Eritrea. Grade: 12 — Kind: student as verified — Source: TSV release URL (mid-size-books-6), grade-12-gov-eritrea-biology-student-full-year.pdf — Byte size: 12,793,204 — PDF pages: 144. Verdict: COMPLETE — all three units named in the Introduction present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises. Structural summary: A three-unit capstone: molecular genetics taught at bond level (two hydrogen bonds A–T, three C–G), evolution with Lamarck presented and then criticised point by point, and ecology built on population phases (growth, stability, decline) and their factors. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/eritrea-placements.md.
 
+**Book 6:** La nuova biologia.blu PLUS — Le cellule e i viventi (Sadava, Hillis, Heller, Berenbaum; Zanichelli, 2a edizione) — Italy. Grade: 9 (record grade; primo biennio) — Kind: student as verified — Repo source: release asset grade-09-gov-italy-natural-sciences-student-full-year-sadava-biologia-blu-cellule-viventi.pdf — Byte size: 71,842,160 — PDF pages: 235 — Printed-page offset: the book paginates by chapter codes (A1–A10 with A-page numbers, e.g. lesson pages A34, A62); chapter openers: A1 PDF p. 6, A2 PDF p. 24, A3 PDF p. 38, A4 PDF p. 66, A5 PDF p. 94, A6 PDF p. 112, A7 PDF p. 130, A8 PDF p. 160, A9 PDF p. 180, A10 PDF p. 212 — Verdict: COMPLETE — full ten-chapter volume present, each chapter closing with exercises, interactive checks and an Italian/English chapter summary (Sintesi di capitolo in italiano e in inglese), a bilingual feature of this edition. Structural summary: A1 Biology is the science of life (what living things are; “What are viruses?”; the scientific method; evolution in action) → A2 Chemistry of life (life depends on water; properties of biomolecules) → A3 Biomolecules and energy (carbohydrates, lipids, proteins, nucleic acids — structure and functions; organisms and energy; the origin of biomolecules) → A4 Observing the cell (the cell as elementary unit; prokaryotic vs eukaryotic structure; cytoskeleton, cilia and flagella; extracellular structures; mitochondrial diseases as the health link) → A5 Cell membranes (structure of biological membranes; membrane's role in cell adhesion; membranes regulating exchange in/out) → A6 Metabolism → A7 Cell division and reproduction → A8 Evolution of living beings → A9 Biodiversity: prokaryotes, protists, plants, fungi → A10 Biodiversity: animals. Placements at liqlearns-courses-work/expansion-biology-2026-11-13/italy-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The idea and the key facts | Book 1 (student textbook), printed pp. 72–75 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Nicaragua, Palestine, Eritrea
 | Nicaragua's way — Unidad 3.6: El lenguaje molecular de la vida | Book 3 (Biología — Undécimo grado, student textbook, Grade 11), Unidad 3.6, printed p. 89 |
 | Palestine's way — the nucleic acids; their importance (placement slug: dna-structure-and-function) | Book 4 (العلوم الحياتية — Life Sciences, student textbook, Grade 10), Unit 1 Ch. 3 §3: the nucleic acids; §4 their importance — printed pp. 21–23 |
 | Eritrea's way — Unit One: Nucleic Acids and Genetics as the unit frame | Book 5 (Biology for Grade 12 Textbook, student textbook, Grade 12), PDF pp. 9–66 |
+| Italy's way — A3.4: nucleic acids — structure and functions | Book 6 (La nuova biologia.blu PLUS — Le cellule e i viventi, student textbook, Grade 9), printed p. A48 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nicaragua, Palestine, Eritrea).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nicaragua, Palestine, Eritrea, Italy).**
 
 Honesty (Eritrea): Book 5 is a student textbook as verified in the placements — *Biology for Grade 12 Textbook* (The State of Eritrea, Ministry of Education), Grade 12, English-medium — so Eritrea counts toward acceptance. It is COMPLETE: all three units named in the Introduction are present (Nucleic Acids and Genetics; Evolution; Ecology), ending inside Unit Three's exercises (144 PDF pages). Page references are PDF pages, as the placements file gives them.
 
@@ -30,4 +33,6 @@ Honesty (Nicaragua): Book 3 is a student textbook as verified in the placements 
 
 Honesty: the pupil-taught parts above stand on the finished Grade 10 student textbook (August 2023, ISBN 978-99990-0-009-3). The teacher-guide rows are evidence only and never count as pupil-taught; the guide is a pre-publication draft whose publication page was never filled in (placeholder date “xxxxx 2022” and placeholder ISBN/printer) — that placeholder data is carried above exactly as a draft warning and is never cited as fact. Student-book errors and quirks the placements flag are taught corrected and named here only: Activity 3.21 is misprinted “Activity 3.216” (printed p. 75); Figure 5.4’s caption is printed twice (printed p. 102); the student book’s §5.2.1 is “Blood Groups” where the guide’s is “Blood donation”; the student book’s Unit 4 is “Cell Reproduction” where the guide’s is “Cell Cycle”.
 
-Searchable tags: biology, eritrea, ethiopia, grade 10, nucleic, acids, dna, and, rna, nicaragua, palestine
+Honesty (Italy): Book 6 is a student textbook as verified in the placements — *La nuova biologia.blu PLUS — Le cellule e i viventi* (Sadava, Hillis, Heller, Berenbaum; Zanichelli, 2a edizione), Grade 9 — so Italy counts toward acceptance. It is COMPLETE: the full ten-chapter volume is present (235 PDF pages; the book paginates by chapter codes A1–A10). It is an Italian liceo textbook from a commercial publisher adopted in Italian schools; the record's “gov” filing path is the library's filing, as the placements note.
+
+Searchable tags: biology, eritrea, ethiopia, grade 10, nucleic, acids, dna, and, rna, nicaragua, palestine, italy

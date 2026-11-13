@@ -1059,6 +1059,18 @@ solar-system comparison lessons.
 
 368. **Food security and climate hazards** (`biology/food-security-and-climate-hazards`) — the world population's food supply taught as a biology topic, closing the Grade 9 nutrition sequence, with drought and flood hazards (ган гачиг, үер усны аюул) named as the dangers that cut it (Mongolia, Grade 9 — *Биологи IX (Biology, Grade 9)*, student textbook, Ch. 2 §2.2.4, printed p. 37)
 
+369. **Cytoskeleton, cilia and flagella** (`biology/cytoskeleton-cilia-and-flagella`) — the cytoskeleton inside the cell holds its shape and moves things within it, while cilia beat and flagella whip to move the cell itself — taught as the named lesson “cells move” (Italy, Grade 9 — *La nuova biologia.blu PLUS — Le cellule e i viventi* (Sadava et al., Zanichelli), student textbook, A4.7, printed p. A80)
+
+370. **The biology of cancer** (`biology/the-biology-of-cancer`) — cancer studied as a subject of biology in itself, given a full closing chapter — C12 — after all eleven system chapters of the human-body volume, a closing chapter most school books omit (Italy, Grade 11 — *La nuova biologia.blu PLUS — Il corpo umano* (Sadava et al., Zanichelli), student textbook, C12, PDF p. 267)
+
+371. **Endosymbiosis: the origin of mitochondria and chloroplasts** (`biology/endosymbiosis-origin-of-mitochondria-and-chloroplasts`) — mitochondria and chloroplasts began as free-living bacteria living inside another cell — the endosymbiosis hypothesis (Lynn Margulis, 1967), taught as an “ancient pact” at the close of the cell unit (Italy, Grade 9 — *Campbell — Biologia: concetti e collegamenti PLUS, Primo biennio* (Linx/Pearson Italia), student textbook, Unità 2 closing, printed p. 62)
+
+372. **Programmed cell death and immortal cells** (`biology/programmed-cell-death-and-immortal-cells`) — cells are mortal and much of their death is programmed — apoptosis, the cell dismantling itself on schedule — while immortal cells escape that programme, taught in the “Training for the future” close of the cell-division unit (Italy, Grade 9 — *Campbell — Biologia: concetti e collegamenti PLUS, Primo biennio* (Linx/Pearson Italia), student textbook, Unità 4 closing, printed p. 120)
+
+373. **The genetic basis of cancer** (`biology/the-genetic-basis-of-cancer`) — cancer depends on mutations in the genes that control cell division, with many gene alterations contributing through defective proteins that interfere with signal transduction — the closing run of the molecular-biology-of-the-gene unit (Italy, Grade 11 — *Campbell — Biologia: concetti e collegamenti, Secondo biennio* (Linx/Pearson Italia), student textbook, Unità 1 closing, printed pp. 48–50)
+
+374. **Regulation of gene expression** (`biology/regulation-of-gene-expression`) — which genes a cell expresses, when, and how much is controlled — regulation given a whole unit of its own, straight after the molecular biology of the gene (Italy, Grade 11 — *Campbell — Biologia: concetti e collegamenti, Secondo biennio* (Linx/Pearson Italia), student textbook, Unità 2, PDF p. 46)
+
 ## Unit 18 — Physics
 
 1. **A current makes a magnetic field** (`physics/a-current-makes-a-magnetic-field`) — current creates magnetism — A compass needle turns beside a current-carrying wire: current makes a circular magnetic field (B = μ₀I/2πr for a long straight wire), quantified by …
