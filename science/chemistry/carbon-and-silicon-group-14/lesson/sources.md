@@ -1,0 +1,18 @@
+# Sources — Carbon and silicon — the group-14 pair
+
+countries: Belarus
+
+**Book 1:** *Хімія. 10 клас (пад рэд. І. Я. Шымановіча) [Chemistry, Grade 10, ed. I. Ya. Shymanovich]* (student textbook) — Belarus. Title as printed: ХІМІЯ — Падручнік для 10 класа ўстаноў агульнай сярэдняй адукацыі з беларускай мовай навучання, пад рэдакцыяй І. Я. Шымановіча, Зацверджана Міністэрствам адукацыі Рэспублікі Беларусь, Мінск, «Адукацыя і выхаванне» (authors Shymanovich, Vasileuskaya, Krasitski, Syachko, Khvalyuk; translated from Russian). Grade: 10. Kind as verified: student textbook (matches record). Repo path: grade-10/gov/belarus/chemistry/student/full-year.pdf (release asset grade-10-gov-belarus-chemistry-student-full-year.pdf). Byte size: 11,010,543 (no size in record). PDF pages: 298; printed-page offset: printed p. = PDF p. (printed numerals match PDF pages; §14 at printed 67 = PDF p. 67). Verdict: COMPLETE (56 numbered sections in 8 parts, answers appendix pp. 292–293, contents pp. 294–295 all present). Structure: a general + inorganic year — classes of inorganic substances; basic concepts and laws; atomic structure and the periodic law; bonding; reactions; solutions; nonmetals; metals. Belarus' own way: every part ends in calculation practice and the book closes with worked answers; the "genetic connection" between substance classes (§3) is a framing of its own. Records deduped: 4 records = 2 distinct books (TSV release URL + books.json entry per grade) — this book is cited once here. Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/belarus-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sub lesson 1 — One group, two elements — four bonds apiece | Book 1 (Grade 10), Part VII §46 Carbon and silicon — printed p. 223 — the group-14 pair and their common valence |
+| Sub lesson 2 — Carbon — one element, several substances | Book 1 (Grade 10), Part VII §46 Carbon and silicon — printed p. 223 — elemental carbon and its allotropes |
+| Sub lesson 3 — Silicon — the stone element | Book 1 (Grade 10), Part VII §46 Carbon and silicon — printed p. 223 — elemental silicon, its occurrence and semiconductor character |
+| Do it first; key ideas; Do It Yourself | Book 1 (Grade 10), Part VII §46 Carbon and silicon — printed p. 223 |
+
+**Acceptance count: taught in 1 country (Belarus).**
+
+Placement choice, on the record: this NEW LESSON was built for the Belarus placement "NEW LESSON NEEDED: carbon-and-silicon-group-14 — Part VII §46 Carbon and silicon — printed p. 223 — the group-14 pair taught together; no existing slug covers silicon or elemental carbon as a lesson." — belarus-placements.md. The placements file names this slug, which does not exist in the tree. No existing Chemistry lesson teaches the elements carbon and silicon as its thing — the neighbouring lessons meet carbon inside organic compounds and its oxides, and silicon inside glass and silicates, but no lesson stands the two group-14 elements side by side — so it gets its own lesson. It sits in chemistry/ and is registered in CURRICULUM.md Unit 17 (Chemistry). Belarus' own way — the group-14 pair taught together in one section (§46) — IS part of this lesson's content, carried exactly as the placement describes it. The same book's §47 placement (oxides of carbon and silicon) is stocked into the existing oxides lesson and its §48 placement (carbonic and silicic acids, carbonates and silicates) into the existing glass lesson, so no part of the strand is dropped. The book is a student textbook, so this lesson counts toward acceptance normally.
+
+Searchable tags: chemistry, carbon, silicon, group 14, allotropy, diamond, graphite, semiconductor, Belarus Grade 10
