@@ -1,6 +1,6 @@
 # Sources — Solar eclipses, lunar eclipses and tides
 
-countries: Vietnam, Costa Rica
+countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only)
 
 **Book 1:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
@@ -30,3 +30,17 @@ Searchable tags: solar eclipse, lunar eclipse, umbra, penumbra, tides, spring ti
 **Acceptance count: taught in 2 countries (Vietnam, Costa Rica).**
 
 Searchable tags: costa rica, ciencias, coned, antologías coned, grade 9
+
+## Bahamas growth (2026-11-13, General Science expansion)
+
+**Book (Bahamas — Grades 3–4 curriculum):** *Primary Science Curriculum Guidelines — Grades 3-4* (curriculum guideline) — Bahamas, Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010. Title as printed: "Primary Science Curriculum Guidelines — Grades 3-4" (Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010). Grade: 3–4 (curriculum guideline) · Kind: curriculum (teacher-facing guideline) · Publisher/year: Ministry of Education, The Bahamas, 2010 · PDF pages: 187 (fetched copy 2,186,018 bytes, matches meta record) · Verdict: COMPLETE — read in full (scope & sequence, benchmarks, learner outcomes, Grade 3 and Grade 4 scope of work, process-skills and assessment appendices, references) · Printed page = PDF page − 7. Records: this book is cited once here from its two records (TSV record + books.json record — the same PDF, verified by size and cover, as filed at the head of the placements file). All placements from this book are curriculum evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bahamas-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The movement of ocean water and how it is affected by the moon (tides) (curriculum evidence) (Bahamas, Grade 4) | Bahamas, *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 120 |
+
+**Acceptance count unchanged.** Bahamas is named as curriculum evidence only (its *Primary Science Curriculum Guidelines — Grades 3-4* — Primary Science Curriculum Guidelines, Ministry of Education, The Bahamas, 2010 — curriculum / teacher-facing guidelines, not student books), not added to this count.
+
+Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
+
+Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 4

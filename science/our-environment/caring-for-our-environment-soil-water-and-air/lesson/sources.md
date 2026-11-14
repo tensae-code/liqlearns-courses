@@ -1,6 +1,6 @@
 # Sources — Caring for our environment: soil, water and air
 
-countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria
+countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria, Bahamas (curriculum evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -158,3 +158,17 @@ Searchable tags: uganda, uganda general science, ncdc, primary five, home-study 
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, caring for our environment soil water and air
+
+## Bahamas growth (2026-11-13, General Science expansion)
+
+**Book (Bahamas — Grades 3–4 curriculum):** *Primary Science Curriculum Guidelines — Grades 3-4* (curriculum guideline) — Bahamas, Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010. Title as printed: "Primary Science Curriculum Guidelines — Grades 3-4" (Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010). Grade: 3–4 (curriculum guideline) · Kind: curriculum (teacher-facing guideline) · Publisher/year: Ministry of Education, The Bahamas, 2010 · PDF pages: 187 (fetched copy 2,186,018 bytes, matches meta record) · Verdict: COMPLETE — read in full (scope & sequence, benchmarks, learner outcomes, Grade 3 and Grade 4 scope of work, process-skills and assessment appendices, references) · Printed page = PDF page − 7. Records: this book is cited once here from its two records (TSV record + books.json record — the same PDF, verified by size and cover, as filed at the head of the placements file). All placements from this book are curriculum evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bahamas-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Students as environmental stewards: ways to care for Earth's resources (curriculum evidence) (Bahamas, Grade 3) | Bahamas, *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 84 |
+
+**Acceptance count unchanged.** Bahamas is named as curriculum evidence only (its *Primary Science Curriculum Guidelines — Grades 3-4* — Primary Science Curriculum Guidelines, Ministry of Education, The Bahamas, 2010 — curriculum / teacher-facing guidelines, not student books), not added to this count.
+
+Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
+
+Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 3

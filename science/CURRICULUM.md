@@ -425,6 +425,7 @@ solar-system comparison lessons.
 
 28. **What psychology is** (`the-human-body/what-psychology-is`) — what is psychology? — the study of the mind and of behaviour, opening the Step-up chapter that steps up from the body to the person (Australia, Grade 9 — *Pearson Science 9*, 11.1, printed p. 432)
 29. **The social self** (`the-human-body/the-social-self`) — the self as it exists among other people, formed, shown and changed in our relations with others — the closing section of the Step-up chapter (Australia, Grade 9 — *Pearson Science 9*, 11.3, printed p. 451)
+30. **Human growth and development stages** (`the-human-body/human-growth-and-development-stages`) — the stages of human development — infant, young child, teenager, adult — and the physical changes and abilities at each stage — curriculum evidence only, acceptance 0 (Bahamas, Grade 1 — *Primary Science Curriculum Guidelines — Grades 1-2*, printed p. 66)
 
 ## Unit 4 — Materials
 
@@ -571,6 +572,8 @@ solar-system comparison lessons.
 20. **Life stages of a plant** (`plants/life-stages-of-a-plant`) — the great stages of a plant's life, compared with the stages of a human life — teacher-guide evidence only, acceptance 0 (Djibouti, Grade 3 — *Guide du maître — Sciences Expérimentales, 3ème année*, printed p. 42; PARTIAL — damaged file, as filed)
 21. **Plant adaptations — to where they live** (`plants/plant-adaptations-to-where-they-live`) — plant adaptations for desert, rain forest and swampy conditions, and how adaptations assist survival — curriculum evidence only, acceptance 0 (Barbados, Classes 2–3 — *Primary Science Syllabus, Class One–Four*, printed p. 11)
 22. **Life cycle of a flowering plant** (`plants/life-cycle-of-a-flowering-plant`) — an annual plant's circle on the bean: the seed's embryo, coat and stored food; germination needing warmth, moisture and air; growth, flowering and new seeds (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 39, printed p. 78)
+23. **Seed germination and growth patterns** (`plants/seed-germination-and-growth-patterns`) — germination by experiment (root first, then shoot), the functions of the plant parts found by testing them, growth patterns read off ruler measurements, and the two-seed race: predicting which seed germinates first and comparing growth rates — curriculum evidence only, acceptance 0 (Bahamas, Grade 3 — *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 76; Grade 4 return, printed p. 112)
+24. **Indigenous plants of The Bahamas** (`plants/indigenous-plants-of-the-bahamas`) — identifying and describing the indigenous flowering plants of The Bahamas — plants that belong to the islands by nature, named and described from flower, leaf, stem, fruit and place — the country's own flora as content — curriculum evidence only, acceptance 0 (Bahamas, Grade 4 — *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 112)
 
 ## Unit 9 — Animals
 
@@ -675,6 +678,7 @@ solar-system comparison lessons.
 50. **Communities in fresh and salt water** (`our-environment/communities-in-fresh-and-salt-water`) — fresh waters (water lilies, carp, catfish, pike, herons) against salt waters (algae near the sunlit surface, plankton) (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 49, printed p. 96)
 51. **Communities of plains and mountains** (`our-environment/communities-of-plains-and-mountains`) — the plains (fertile soil, meadows, small mammals, camouflaged partridge) against the mountains (broadleaf forest, conifers, alpine shrubs, edelweiss, wild goats, eagles) (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 51, printed p. 100)
 52. **In defence of our nature — a country project** (`our-environment/in-defence-of-our-nature-a-country-project`) — the project: research a protected territory near home — its species, its rare inhabitants, and why it matters (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 56, printed p. 109)
+53. **Mangroves — four types, and why they matter** (`our-environment/mangroves-four-types-and-why-they-matter`) — the four types of mangroves (red, black, white, buttonwood), the characteristics of each, the organisms found in mangrove ecosystems, and the importance of mangroves to the islands — curriculum evidence only, acceptance 0 (Bahamas, Grade 4 — *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 115)
 
 ## Unit 12 — Family, School and Community
 
@@ -2629,6 +2633,7 @@ solar-system comparison lessons.
 61. **How an atoll and low island form** (`earth-and-space/how-an-atoll-and-low-island-form`) — a ring reef (atoll) in the sea, and piles of coral and shell sand growing on it into narrow, flat islands (Micronesia, Grades 6–8 — *Pacific Low Island Environments*, printed p. 2)
 62. **Rock types — igneous, sedimentary, metamorphic** (`earth-and-space/rock-types-igneous-sedimentary-metamorphic`) — all rocks sorted into three types by how they form: igneous from cooled melted rock, sedimentary from settled layers pressed into rock, metamorphic from existing rock changed by heat and pressure (Costa Rica, Grade 8 — *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 118)
 63. **Earthquakes and the Richter scale** (`earth-and-space/earthquakes-and-the-richter-scale`) — earthquakes (sismos) as phenomena that alter the geosphere, their classification, and the Richter scale that measures an earthquake's magnitude (Costa Rica, Grade 8 — *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 120)
+64. **Rocks and minerals** (`earth-and-space/rocks-and-minerals`) — rocks and minerals compared and told apart (a mineral is one stuff throughout; a rock is one or more minerals joined), rocks and minerals classified by colour, size and shape, and the uses of rocks and minerals — curriculum evidence only, acceptance 0 (Bahamas, Grade 2 — *Primary Science Curriculum Guidelines — Grades 1-2*, printed p. 99)
 
 
 ## Unit 20 — Motion, Force and Energy

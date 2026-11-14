@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — crust, mantle, core
 
-countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica
+countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -35,3 +35,17 @@ Searchable tags: Earth's layers, crust mantle core, boiled egg analogy, continen
 **Acceptance count: taught in 5 countries (Ethiopia, Cuba, Haiti, Italy, Costa Rica).**
 
 Searchable tags: costa rica, ciencias, coned, antologías coned, grade 8
+
+## Bahamas growth (2026-11-13, General Science expansion)
+
+**Book (Bahamas — Grades 3–4 curriculum):** *Primary Science Curriculum Guidelines — Grades 3-4* (curriculum guideline) — Bahamas, Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010. Title as printed: "Primary Science Curriculum Guidelines — Grades 3-4" (Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010). Grade: 3–4 (curriculum guideline) · Kind: curriculum (teacher-facing guideline) · Publisher/year: Ministry of Education, The Bahamas, 2010 · PDF pages: 187 (fetched copy 2,186,018 bytes, matches meta record) · Verdict: COMPLETE — read in full (scope & sequence, benchmarks, learner outcomes, Grade 3 and Grade 4 scope of work, process-skills and assessment appendices, references) · Printed page = PDF page − 7. Records: this book is cited once here from its two records (TSV record + books.json record — the same PDF, verified by size and cover, as filed at the head of the placements file). All placements from this book are curriculum evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bahamas-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The three layers of the Earth (crust, mantle, core) and describing each layer (curriculum evidence) (Bahamas, Grade 4) | Bahamas, *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 118 |
+
+**Acceptance count unchanged.** Bahamas is named as curriculum evidence only (its *Primary Science Curriculum Guidelines — Grades 3-4* — Primary Science Curriculum Guidelines, Ministry of Education, The Bahamas, 2010 — curriculum / teacher-facing guidelines, not student books), not added to this count.
+
+Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
+
+Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 4

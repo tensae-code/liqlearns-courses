@@ -46,3 +46,17 @@ Searchable tags: Sun, photosphere, chromosphere, corona, solar wind, sunspots, p
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, the sun scale layers spots and storms
+
+## Bahamas growth (2026-11-13, General Science expansion)
+
+**Book (Bahamas — Grades 1–2 curriculum):** *Primary Science Curriculum Guidelines — Grades 1-2* (curriculum guideline) — Bahamas, Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010. Title as printed: "Primary Science Curriculum Guidelines — Grades 1-2" (Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010). Grade: 1–2 (curriculum guideline; scope-and-sequence and benchmarks also sketch Grades 1–6) · Kind: curriculum (teacher-facing guideline) · Publisher/year: Ministry of Education, The Bahamas, 2010 · PDF pages: 152 (fetched copy 1,986,174 bytes, matches meta record) · Verdict: COMPLETE — read in full (front matter, scope & sequence, standards/benchmarks, learner outcomes, Grade 1 and Grade 2 scope of work, process-skills appendix, references) · Printed page = PDF page − 7. Records: this book is cited once here from its two records (TSV record + books.json record — the same PDF, verified by size and cover, as filed at the head of the placements file). All placements from this book are curriculum evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bahamas-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The sun and other stars: the sun is the closest star, made of hot gases, gives light and heat (curriculum evidence) (Bahamas, Grade 1) | Bahamas, *Primary Science Curriculum Guidelines — Grades 1-2*, printed p. 85 |
+
+**Acceptance count unchanged.** Bahamas is named as curriculum evidence only (its *Primary Science Curriculum Guidelines — Grades 1-2* — Primary Science Curriculum Guidelines, Ministry of Education, The Bahamas, 2010 — curriculum / teacher-facing guidelines, not student books), not added to this count.
+
+Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
+
+Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 1

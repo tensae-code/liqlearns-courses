@@ -1,6 +1,6 @@
 # Sources — Weather and climate
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only)
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -154,3 +154,20 @@ Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class 
 Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
 
 Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean
+
+## Bahamas growth (2026-11-13, General Science expansion)
+
+**Book (Bahamas — Grades 1–2 curriculum):** *Primary Science Curriculum Guidelines — Grades 1-2* (curriculum guideline) — Bahamas, Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010. Title as printed: "Primary Science Curriculum Guidelines — Grades 1-2" (Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010). Grade: 1–2 (curriculum guideline; scope-and-sequence and benchmarks also sketch Grades 1–6) · Kind: curriculum (teacher-facing guideline) · Publisher/year: Ministry of Education, The Bahamas, 2010 · PDF pages: 152 (fetched copy 1,986,174 bytes, matches meta record) · Verdict: COMPLETE — read in full (front matter, scope & sequence, standards/benchmarks, learner outcomes, Grade 1 and Grade 2 scope of work, process-skills appendix, references) · Printed page = PDF page − 7. Records: this book is cited once here from its two records (TSV record + books.json record — the same PDF, verified by size and cover, as filed at the head of the placements file). All placements from this book are curriculum evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bahamas-placements.md.
+
+**Book (Bahamas — Grades 3–4 curriculum):** *Primary Science Curriculum Guidelines — Grades 3-4* (curriculum guideline) — Bahamas, Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010. Title as printed: "Primary Science Curriculum Guidelines — Grades 3-4" (Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010). Grade: 3–4 (curriculum guideline) · Kind: curriculum (teacher-facing guideline) · Publisher/year: Ministry of Education, The Bahamas, 2010 · PDF pages: 187 (fetched copy 2,186,018 bytes, matches meta record) · Verdict: COMPLETE — read in full (scope & sequence, benchmarks, learner outcomes, Grade 3 and Grade 4 scope of work, process-skills and assessment appendices, references) · Printed page = PDF page − 7. Records: this book is cited once here from its two records (TSV record + books.json record — the same PDF, verified by size and cover, as filed at the head of the placements file). All placements from this book are curriculum evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bahamas-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The four seasons and the weather conditions of each (with the Bahamas' own warm, sunny year as the local contrast — the country's own way) (curriculum evidence) (Bahamas, Grade 1) | Bahamas, *Primary Science Curriculum Guidelines — Grades 1-2*, printed p. 83 |
+| Distinguishing weather from climate (curriculum evidence) (Bahamas, Grade 4) | Bahamas, *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 124 |
+
+**Acceptance count unchanged.** Bahamas is named as curriculum evidence only (its *Primary Science Curriculum Guidelines — Grades 1-2* and *Primary Science Curriculum Guidelines — Grades 3-4* — Primary Science Curriculum Guidelines, Ministry of Education, The Bahamas, 2010 — curriculum / teacher-facing guidelines, not student books), not added to this count.
+
+Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
+
+Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 1, grade 4

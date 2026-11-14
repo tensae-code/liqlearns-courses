@@ -1,6 +1,6 @@
 # Sources — The Solar system — planets and the modern picture of the Universe
 
-countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria
+countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only)
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -106,3 +106,17 @@ Searchable tags: india, ncert, class viii, the-solar-system-planets-and-the-mode
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, the solar system planets and the modern picture of the universe
+
+## Bahamas growth (2026-11-13, General Science expansion)
+
+**Book (Bahamas — Grades 3–4 curriculum):** *Primary Science Curriculum Guidelines — Grades 3-4* (curriculum guideline) — Bahamas, Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010. Title as printed: "Primary Science Curriculum Guidelines — Grades 3-4" (Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010). Grade: 3–4 (curriculum guideline) · Kind: curriculum (teacher-facing guideline) · Publisher/year: Ministry of Education, The Bahamas, 2010 · PDF pages: 187 (fetched copy 2,186,018 bytes, matches meta record) · Verdict: COMPLETE — read in full (scope & sequence, benchmarks, learner outcomes, Grade 3 and Grade 4 scope of work, process-skills and assessment appendices, references) · Printed page = PDF page − 7. Records: this book is cited once here from its two records (TSV record + books.json record — the same PDF, verified by size and cover, as filed at the head of the placements file). All placements from this book are curriculum evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bahamas-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What the solar system is; the order of the eight planets; inner and outer planets classified and distinguished; a scale model of the distances between planets (curriculum evidence) (Bahamas, Grade 4) | Bahamas, *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 127 |
+
+**Acceptance count unchanged.** Bahamas is named as curriculum evidence only (its *Primary Science Curriculum Guidelines — Grades 3-4* — Primary Science Curriculum Guidelines, Ministry of Education, The Bahamas, 2010 — curriculum / teacher-facing guidelines, not student books), not added to this count.
+
+Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
+
+Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 4

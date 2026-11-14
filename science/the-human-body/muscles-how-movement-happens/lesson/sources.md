@@ -1,6 +1,6 @@
 # Sources — Muscles — how movement happens
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria, Bahamas (curriculum evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -58,3 +58,17 @@ Searchable tags: mongolia, muscles how movement happens, khun ba orchin, khun ba
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, muscles how movement happens
+
+## Bahamas growth (2026-11-13, General Science expansion)
+
+**Book (Bahamas — Grades 1–2 curriculum):** *Primary Science Curriculum Guidelines — Grades 1-2* (curriculum guideline) — Bahamas, Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010. Title as printed: "Primary Science Curriculum Guidelines — Grades 1-2" (Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010). Grade: 1–2 (curriculum guideline; scope-and-sequence and benchmarks also sketch Grades 1–6) · Kind: curriculum (teacher-facing guideline) · Publisher/year: Ministry of Education, The Bahamas, 2010 · PDF pages: 152 (fetched copy 1,986,174 bytes, matches meta record) · Verdict: COMPLETE — read in full (front matter, scope & sequence, standards/benchmarks, learner outcomes, Grade 1 and Grade 2 scope of work, process-skills appendix, references) · Printed page = PDF page − 7. Records: this book is cited once here from its two records (TSV record + books.json record — the same PDF, verified by size and cover, as filed at the head of the placements file). All placements from this book are curriculum evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bahamas-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Identifying muscles, how muscles work and how healthy habits affect bones and muscles (curriculum evidence) (Bahamas, Grade 2) | Bahamas, *Primary Science Curriculum Guidelines — Grades 1-2*, printed p. 93 |
+
+**Acceptance count unchanged.** Bahamas is named as curriculum evidence only (its *Primary Science Curriculum Guidelines — Grades 1-2* — Primary Science Curriculum Guidelines, Ministry of Education, The Bahamas, 2010 — curriculum / teacher-facing guidelines, not student books), not added to this count.
+
+Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
+
+Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 2

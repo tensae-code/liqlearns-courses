@@ -1,6 +1,6 @@
 # Sources — Astronomical observation — looking at the sky
 
-countries: Mongolia, Vanuatu (teacher-guide evidence only)
+countries: Mongolia, Vanuatu (teacher-guide evidence only), Bahamas (curriculum evidence only)
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -33,3 +33,17 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — looking at the sky means naming the constellations and Sirius, taught in Bislama in the guide's Term 3 strand — is itself course content, carried exactly as filed. The guide's first-stars lessons are built as their own lesson, `earth-and-space/constellations-and-the-stars-we-navigate-by`.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, constellations, sirius
+
+## Bahamas growth (2026-11-13, General Science expansion)
+
+**Book (Bahamas — Grades 1–2 curriculum):** *Primary Science Curriculum Guidelines — Grades 1-2* (curriculum guideline) — Bahamas, Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010. Title as printed: "Primary Science Curriculum Guidelines — Grades 1-2" (Commonwealth of The Bahamas, Ministry of Education, Department of Education, June 2010). Grade: 1–2 (curriculum guideline; scope-and-sequence and benchmarks also sketch Grades 1–6) · Kind: curriculum (teacher-facing guideline) · Publisher/year: Ministry of Education, The Bahamas, 2010 · PDF pages: 152 (fetched copy 1,986,174 bytes, matches meta record) · Verdict: COMPLETE — read in full (front matter, scope & sequence, standards/benchmarks, learner outcomes, Grade 1 and Grade 2 scope of work, process-skills appendix, references) · Printed page = PDF page − 7. Records: this book is cited once here from its two records (TSV record + books.json record — the same PDF, verified by size and cover, as filed at the head of the placements file). All placements from this book are curriculum evidence only, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bahamas-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Constellations: defining the term and examining common constellations (curriculum evidence) (Bahamas, Grade 2) | Bahamas, *Primary Science Curriculum Guidelines — Grades 1-2*, printed p. 102 |
+
+**Acceptance count unchanged.** Bahamas is named as curriculum evidence only (its *Primary Science Curriculum Guidelines — Grades 1-2* — Primary Science Curriculum Guidelines, Ministry of Education, The Bahamas, 2010 — curriculum / teacher-facing guidelines, not student books), not added to this count.
+
+Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
+
+Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 2
