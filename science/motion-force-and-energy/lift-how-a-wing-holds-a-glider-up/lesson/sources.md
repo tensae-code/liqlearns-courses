@@ -1,6 +1,6 @@
 # Sources — Lift — how a wing's pressure difference holds a glider up
 
-countries: Finland (instructor-pack evidence only), Vietnam
+countries: Finland (instructor-pack evidence only), Vietnam, Moldova
 
 **Book 1:** *Fysiikkaa: Tutkitaan ilmaa ja lämpöä (Physics: Investigating air and heat)* (instructor pack with pupil instruction sheets — recorded student; in substance a teacher/instructor pack) — Finland, Grade 1 (recorded grade; the material itself is an adult-led experiment pack for young children), compiled by Merike Kesler, Kehittämiskeskus Opinkirjo. Repo path: grade-01/gov/finland/physics/student/finland-g01-aoe1072-opinkirjo-teemakokonaisuus-fysiikka-1.pdf. Bytes: 1,120,626 (exact match). PDF pages: 19. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 19 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
@@ -19,3 +19,16 @@ countries: Finland (instructor-pack evidence only), Vietnam
 Placement choice, on the record: this NEW LESSON was built for the Finland placement "Lift — how a wing's pressure difference holds a glider up (glide ratio)" — finland-placements.md, Book 1, Lessons 4–5, PDF pp. 15, 18–19. It sits in motion-force-and-energy/, not physics/, as the second half of the air-forces pair with Air resistance and the parachute, and is registered in CURRICULUM.md Unit 20 (Motion, Force and Energy). The source is an instructor pack (an adult-led experiment pack with pupil sheets), so the lesson rests on instructor-pack evidence only and is counted nowhere.
 
 Searchable tags: lift, wing, pressure difference, glider, glide ratio, paper helicopter, finland
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 3 (Moldova):** *Științe: Manual pentru clasa a 5-a* (Sciences, Grade 5) (student book) — Moldova, Ministry of Education and Research, approved by order no. 1369 of 31.10.2023 (print file: "Stiinte_cl. 5_2023_print_"). Grade 5, student book, in Romanian. Records: TSV release record + books.json `grade-05/gov/moldova/sciences/student/moldova-g05-sciences.pdf` (54,044,589 bytes, 98 pages — both verified exact) — same book, cited once. Verdict: COMPLETE — full text layer, read in full including the complete printed contents (PDF p. 5). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2. Zborul: flight (placement slug: NEW LESSON NEEDED — flight-how-things-fly — stocked into this lesson, motion-force-and-energy/lift-how-a-wing-holds-a-glider-up, which already covers how things fly — lift holding a wing up) (Moldova, Grade 5) | Book 3 (Științe: Manual pentru clasa a 5-a (Sciences, Grade 5), student textbook, Grade 5), printed p. 72 |
+**Acceptance count: taught in 2 countries (Vietnam, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, lift how a wing holds a glider up, stiinte, sciences, grade 5

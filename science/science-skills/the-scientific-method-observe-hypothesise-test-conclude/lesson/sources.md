@@ -1,6 +1,6 @@
 # Sources — The scientific method — observe, hypothesise, test, conclude
 
-countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece
+countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -72,3 +72,16 @@ Searchable tags: uganda, uganda general science, ncdc, senior one, lower seconda
 **Acceptance count: taught in 6 countries (Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Greece).**
 
 Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 3 (Moldova):** *Științe: Manual pentru clasa a 5-a* (Sciences, Grade 5) (student book) — Moldova, Ministry of Education and Research, approved by order no. 1369 of 31.10.2023 (print file: "Stiinte_cl. 5_2023_print_"). Grade 5, student book, in Romanian. Records: TSV release record + books.json `grade-05/gov/moldova/sciences/student/moldova-g05-sciences.pdf` (54,044,589 bytes, 98 pages — both verified exact) — same book, cited once. Verdict: COMPLETE — full text layer, read in full including the complete printed contents (PDF p. 5). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modulul IV Știința pentru natură, 1. Investigarea naturii: investigating nature (Moldova, Grade 5) | Book 3 (Științe: Manual pentru clasa a 5-a (Sciences, Grade 5), student textbook, Grade 5), printed p. 68 |
+**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Greece, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, the scientific method observe hypothesise test conclude, stiinte, sciences, grade 5

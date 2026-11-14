@@ -1,6 +1,6 @@
 # Sources — Changes — useful and harmful changes in daily life
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Mongolia, India, Uganda, Bahamas (curriculum evidence only)
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Mongolia, India, Uganda, Bahamas (curriculum evidence only), Moldova
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -114,3 +114,16 @@ Searchable tags: uganda, uganda general science, ncdc, senior one, lower seconda
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 1, grade 3, grade 4
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 3 (Moldova):** *Științe: Manual pentru clasa a 5-a* (Sciences, Grade 5) (student book) — Moldova, Ministry of Education and Research, approved by order no. 1369 of 31.10.2023 (print file: "Stiinte_cl. 5_2023_print_"). Grade 5, student book, in Romanian. Records: TSV release record + books.json `grade-05/gov/moldova/sciences/student/moldova-g05-sciences.pdf` (54,044,589 bytes, 98 pages — both verified exact) — same book, cited once. Verdict: COMPLETE — full text layer, read in full including the complete printed contents (PDF p. 5). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4. Transformări ale materialelor: transformations of materials (Moldova, Grade 5) | Book 3 (Științe: Manual pentru clasa a 5-a (Sciences, Grade 5), student textbook, Grade 5), printed p. 39 |
+**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, India, Uganda, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, changes useful and harmful, stiinte, sciences, grade 5

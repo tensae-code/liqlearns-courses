@@ -1,6 +1,6 @@
 # Sources — Materials around us — metal, wood and what things are made of
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -100,3 +100,16 @@ Searchable tags: india, ncert, class vi, class vii, materials-around-us-metal-wo
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, materials around us metal wood and what things are made of
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 4 (Moldova):** *Științe: Manual pentru clasa a IV-a* (Sciences, Grade 4) (student book) — Moldova, Zinaida Galben-Panciuc & Svetlana Galben, Editura Prut Internațional, Chișinău; ministry-approved 1 September 2023 (Ordin nr. 1104), under the 2019 curriculum (Ordin nr. 906). (The record's "Ministerul Educației 2019" names the curriculum year; the held edition is the 2023-approved one.) Grade 4, student book, in Romanian. Records: TSV release record + books.json `grade-04/gov/moldova/sciences/student/moldova-g04-sciences.pdf` (143,286,439 bytes, 122 pages per the record) — same book, cited once. Held copy: fetched complete from the record's source portal (eduresurse.gov.md) — 143,286,439 bytes exactly, 122 PDF pages, full text layer; read in full. Because this file is not in GitHub, it was NOT deleted: staged under the 2026-11-13 rule, as filed. PDF pages: 122. Printed pagination runs 3–121 (printed p. = PDF p. − 1). Verdict: COMPLETE — four units, two summative evaluations, and the closing "Învăț cu plăcere la Științe" experiments-and-readings annex, all read. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1. Diversitatea naturii (The diversity of nature): living and non-living bodies, natural materials and processed materials, and what people make from them (placement slug: materials/natural-vs-man-made — stocked into this lesson, materials/materials-around-us-metal-wood-and-what-things-are-made-of, as the closest existing lesson covering this thing) (Moldova, Grade 4) | Book 4 (Științe: Manual pentru clasa a IV-a (Sciences, Grade 4), student textbook, Grade 4), printed p. 9 |
+**Acceptance count: taught in 4 countries (Guyana, India, Bulgaria, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, materials around us metal wood and what things are made of, stiinte, sciences, grade 4

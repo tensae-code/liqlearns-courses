@@ -1,6 +1,6 @@
 # Sources — Map Scale, Key and Symbols
 
-countries: Ethiopia, Serbia, Iceland (teacher-guide evidence only), Mongolia
+countries: Ethiopia, Serbia, Iceland (teacher-guide evidence only), Mongolia, Moldova
 
 **Book 1:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል — Environmental Science Student Textbook, Grade 6* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md
 
@@ -60,3 +60,16 @@ Searchable tags: iceland, halló heimur 3, maps, kinds of maps, mms, teacher aim
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, map scale key and symbols, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 1 (Moldova):** *Științe* (Sciences, Grade 2) (student book) — Moldova, Zinaida Galben-Panciuc, Svetlana Galben, Stela Diaconu, Ion Botgros; Editura Prut Internațional, 2015; ISBN 978-9975-54-213-5 (imprint page). Grade 2, student book, in Romanian. Records: TSV blob record (no books.json twin). Fetched copy: 40,861,528 bytes, 98 PDF pages — the first reader's earlier fetch of the same URL was a truncated 24,730,392-byte copy with a broken cross-reference table; the complete copy was re-fetched and verified by cover, imprint and contents for this filing. Verdict: COMPLETE — read from the book's embedded text layer (diacritics partly corrupted in the layer; every lesson title verified against the lesson pages) with the module structure confirmed on the final recap pages. Page numbers are the PDF pages where each lesson opens (the printed folios follow the same sequence). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| appendix maps: the territorial-administrative map of the Republic of Moldova and the world map closing the book (Moldova, Grade 2) | Book 1 (Științe (Sciences, Grade 2), student textbook, Grade 2), p. 92 |
+**Acceptance count: taught in 4 countries (Ethiopia, Serbia, Mongolia, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, map scale key and symbols, stiinte, sciences, grade 2

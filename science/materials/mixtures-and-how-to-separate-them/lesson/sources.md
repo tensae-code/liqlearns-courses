@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -112,3 +112,16 @@ Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, mixtures and how to separate them
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 3 (Moldova):** *Științe: Manual pentru clasa a 5-a* (Sciences, Grade 5) (student book) — Moldova, Ministry of Education and Research, approved by order no. 1369 of 31.10.2023 (print file: "Stiinte_cl. 5_2023_print_"). Grade 5, student book, in Romanian. Records: TSV release record + books.json `grade-05/gov/moldova/sciences/student/moldova-g05-sciences.pdf` (54,044,589 bytes, 98 pages — both verified exact) — same book, cited once. Verdict: COMPLETE — full text layer, read in full including the complete printed contents (PDF p. 5). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3. Amestecurile. Separarea amestecurilor: mixtures and separating them (Moldova, Grade 5) | Book 3 (Științe: Manual pentru clasa a 5-a (Sciences, Grade 5), student textbook, Grade 5), printed p. 35 |
+**Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Bulgaria, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, mixtures and how to separate them, stiinte, sciences, grade 5

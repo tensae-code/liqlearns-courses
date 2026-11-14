@@ -1,6 +1,6 @@
 # Sources — Relative Location — Where a Place Lies
 
-countries: Ethiopia
+countries: Ethiopia, Moldova
 
 **Book 4:** *አካባቢ ሳይንስ ሁለተኛ ክፍል የመምህር መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 2* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-teacher-placements.md
 
@@ -44,3 +44,16 @@ COMPLETE: the Grade 5 student book's contents promise ends at printed p. 178 (Ch
 TRUNCATED: the Grade 5 teacher guide file holds printed pp. 1–75 (Units 1–3); the contents page promises 5 units running to printed p. 106 — Units 4 and 5 are NOT in the file. Every part from this book is teacher-guide evidence and is never counted as pupil-taught.
 
 Searchable tags: relative location, አንጻራዊ መገኛ, South Gondar, landmarks, relative and absolute location, Grade 4 definitions, Ethiopia neighbours, border lengths, Somalia 1600 km, Djibouti 310 k, Ethiopia neighbours, border lengths, Somalia 1600 km, Djibouti 310 kmk
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 2 (Moldova):** *Științe: Manual pentru clasa a III-a* (Sciences, Grade 3) (student book) — Moldova, Zinaida Galben-Panciuc, Svetlana Galben; Editura Prut Internațional, 2023 (Unisoft); ISBN 978-9975-54-742-0; approved by ministerial order no. 600 of 26.05.2023. Grade 3, student book, in Romanian. Records: TSV release record + books.json `grade-03/gov/moldova/sciences/student/moldova-g03-sciences.pdf` (47,627,192 bytes, 130 pages — both verified exact) — same book, cited once. Verdict: COMPLETE as scoped — image-only book read from 100-DPI renders: cover, imprint and the full printed contents (PDF p. 6) verified, and the module openers read. Placements follow the printed contents, which this series writes as full lesson titles. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lecția 2: Locul Republicii Moldova pe hartă — Moldova's place on the map (Moldova, Grade 3) | Book 2 (Științe: Manual pentru clasa a III-a (Sciences, Grade 3), student textbook, Grade 3), printed p. 92 |
+**Acceptance count: taught in 2 countries (Ethiopia, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, relative location where a place lies, stiinte, sciences, grade 3

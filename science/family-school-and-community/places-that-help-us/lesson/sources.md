@@ -1,6 +1,6 @@
 # Sources — Our Community — Places That Help Us
 
-countries: Ethiopia, Uganda
+countries: Ethiopia, Uganda, Moldova
 
 **Book 1:** *አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል — Environmental Science Teacher's Guide, Grade 1 (student book NOT held; this file is guide-sourced)* (teacher guide) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Guide printed page = PDF page − 8 (printed p.1 = PDF p.9). Read visually, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md
 
@@ -44,3 +44,16 @@ Searchable tags: institutions, health station, bank, police, iddir, court, impor
 Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, closing the primary course with the child health card and keeping goats, sheep and pigs — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, primary five, home-study learning
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 1 (Moldova):** *Științe* (Sciences, Grade 2) (student book) — Moldova, Zinaida Galben-Panciuc, Svetlana Galben, Stela Diaconu, Ion Botgros; Editura Prut Internațional, 2015; ISBN 978-9975-54-213-5 (imprint page). Grade 2, student book, in Romanian. Records: TSV blob record (no books.json twin). Fetched copy: 40,861,528 bytes, 98 PDF pages — the first reader's earlier fetch of the same URL was a truncated 24,730,392-byte copy with a broken cross-reference table; the complete copy was re-fetched and verified by cover, imprint and contents for this filing. Verdict: COMPLETE — read from the book's embedded text layer (diacritics partly corrupted in the layer; every lesson title verified against the lesson pages) with the module structure confirmed on the final recap pages. Page numbers are the PDF pages where each lesson opens (the printed folios follow the same sequence). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4. Mediul social: the social environment, the places beyond home and school (Moldova, Grade 2) | Book 1 (Științe (Sciences, Grade 2), student textbook, Grade 2), p. 23 |
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, places that help us, stiinte, sciences, grade 2

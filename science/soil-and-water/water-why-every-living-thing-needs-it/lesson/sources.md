@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -111,3 +111,16 @@ Searchable tags: india, ncert, class vi, water-why-every-living-thing-needs-it
 Uganda's own way — science kept going through the COVID-19 school closures as printed home-study booklets: short lessons a child works through at home, with home projects (recording the weather morning and evening; using ORS/SSS at home) — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, primary four, home-study learning
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 1 (Moldova):** *Științe* (Sciences, Grade 2) (student book) — Moldova, Zinaida Galben-Panciuc, Svetlana Galben, Stela Diaconu, Ion Botgros; Editura Prut Internațional, 2015; ISBN 978-9975-54-213-5 (imprint page). Grade 2, student book, in Romanian. Records: TSV blob record (no books.json twin). Fetched copy: 40,861,528 bytes, 98 PDF pages — the first reader's earlier fetch of the same URL was a truncated 24,730,392-byte copy with a broken cross-reference table; the complete copy was re-fetched and verified by cover, imprint and contents for this filing. Verdict: COMPLETE — read from the book's embedded text layer (diacritics partly corrupted in the layer; every lesson title verified against the lesson pages) with the module structure confirmed on the final recap pages. Page numbers are the PDF pages where each lesson opens (the printed folios follow the same sequence). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 3. Pământul – casa noastră comună: Earth our common home, with the importance of water (group project lesson) (Moldova, Grade 2) | Book 1 (Științe (Sciences, Grade 2), student textbook, Grade 2), p. 48 |
+**Acceptance count: taught in 7 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, water why every living thing needs it, stiinte, sciences, grade 2

@@ -1,6 +1,6 @@
 # Sources — Skin — the integumentary system
 
-countries: Ethiopia, Barbados (curriculum evidence only)
+countries: Ethiopia, Barbados (curriculum evidence only), Moldova
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -34,3 +34,16 @@ Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class 
 Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
 
 Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 4 (Moldova):** *Științe: Manual pentru clasa a IV-a* (Sciences, Grade 4) (student book) — Moldova, Zinaida Galben-Panciuc & Svetlana Galben, Editura Prut Internațional, Chișinău; ministry-approved 1 September 2023 (Ordin nr. 1104), under the 2019 curriculum (Ordin nr. 906). (The record's "Ministerul Educației 2019" names the curriculum year; the held edition is the 2023-approved one.) Grade 4, student book, in Romanian. Records: TSV release record + books.json `grade-04/gov/moldova/sciences/student/moldova-g04-sciences.pdf` (143,286,439 bytes, 122 pages per the record) — same book, cited once. Held copy: fetched complete from the record's source portal (eduresurse.gov.md) — 143,286,439 bytes exactly, 122 PDF pages, full text layer; read in full. Because this file is not in GitHub, it was NOT deleted: staged under the 2026-11-13 rule, as filed. PDF pages: 122. Printed pagination runs 3–121 (printed p. = PDF p. − 1). Verdict: COMPLETE — four units, two summative evaluations, and the closing "Învăț cu plăcere la Științe" experiments-and-readings annex, all read. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 6. Organul pipăitului (The organ of touch): the skin, its pores and melanin, feeling hard/soft, warm/cold, smooth/rough (Moldova, Grade 4) | Book 4 (Științe: Manual pentru clasa a IV-a (Sciences, Grade 4), student textbook, Grade 4), printed p. 47 |
+**Acceptance count: taught in 2 countries (Ethiopia, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, skin the integumentary system, stiinte, sciences, grade 4

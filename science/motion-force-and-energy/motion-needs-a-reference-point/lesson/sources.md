@@ -74,3 +74,16 @@ countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum
 Placement: Student item 77 — g07-student-placements.md (Unit 7, printed pp. 172–199 of the student book). This lesson rests on the student book only. Cross-reference: the Materials title's Motion, distance and speed lesson treats relative motion at primary (Grade 5) depth; this is a NEW Grade 7-depth lesson in the new Motion, Force and Energy title, not a copy or growth of that file.
 
 Searchable tags: motion reference point reference frame rest grade 7 general science unit 7 ethiopia, iraq, mozambique
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 3 (Moldova):** *Științe: Manual pentru clasa a 5-a* (Sciences, Grade 5) (student book) — Moldova, Ministry of Education and Research, approved by order no. 1369 of 31.10.2023 (print file: "Stiinte_cl. 5_2023_print_"). Grade 5, student book, in Romanian. Records: TSV release record + books.json `grade-05/gov/moldova/sciences/student/moldova-g05-sciences.pdf` (54,044,589 bytes, 98 pages — both verified exact) — same book, cited once. Verdict: COMPLETE — full text layer, read in full including the complete printed contents (PDF p. 5). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modulul III Energia și forțele, 1. Mișcarea și repausul: movement and rest (Moldova, Grade 5) | Book 3 (Științe: Manual pentru clasa a 5-a (Sciences, Grade 5), student textbook, Grade 5), printed p. 48 |
+**Acceptance count unchanged: taught in 14 countries (Ethiopia, Syria, Sudan, Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia).** — Moldova was already a counted country in this lesson via its Physics textbooks, named in the sections above; the General Science *Științe* book(s) above add their provenance here, counted once.
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, motion needs a reference point, stiinte, sciences, grade 5

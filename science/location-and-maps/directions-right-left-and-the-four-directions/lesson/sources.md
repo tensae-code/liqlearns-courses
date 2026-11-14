@@ -1,6 +1,6 @@
 # Sources — Directions — Right, Left and the Four Directions
 
-countries: Ethiopia, Serbia, Mongolia
+countries: Ethiopia, Serbia, Mongolia, Moldova
 
 **Book 2:** *አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 1* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md
 
@@ -64,3 +64,21 @@ Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova sk
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, directions right left and the four directions, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 1 (Moldova):** *Științe* (Sciences, Grade 2) (student book) — Moldova, Zinaida Galben-Panciuc, Svetlana Galben, Stela Diaconu, Ion Botgros; Editura Prut Internațional, 2015; ISBN 978-9975-54-213-5 (imprint page). Grade 2, student book, in Romanian. Records: TSV blob record (no books.json twin). Fetched copy: 40,861,528 bytes, 98 PDF pages — the first reader's earlier fetch of the same URL was a truncated 24,730,392-byte copy with a broken cross-reference table; the complete copy was re-fetched and verified by cover, imprint and contents for this filing. Verdict: COMPLETE — read from the book's embedded text layer (diacritics partly corrupted in the layer; every lesson title verified against the lesson pages) with the module structure confirmed on the final recap pages. Page numbers are the PDF pages where each lesson opens (the printed folios follow the same sequence). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 5. Spațiul: space around us and finding one's way in it (Moldova, Grade 2) | Book 1 (Științe (Sciences, Grade 2), student textbook, Grade 2), p. 52 |
+**Book 2 (Moldova):** *Științe: Manual pentru clasa a III-a* (Sciences, Grade 3) (student book) — Moldova, Zinaida Galben-Panciuc, Svetlana Galben; Editura Prut Internațional, 2023 (Unisoft); ISBN 978-9975-54-742-0; approved by ministerial order no. 600 of 26.05.2023. Grade 3, student book, in Romanian. Records: TSV release record + books.json `grade-03/gov/moldova/sciences/student/moldova-g03-sciences.pdf` (47,627,192 bytes, 130 pages — both verified exact) — same book, cited once. Verdict: COMPLETE as scoped — image-only book read from 100-DPI renders: cover, imprint and the full printed contents (PDF p. 6) verified, and the module openers read. Placements follow the printed contents, which this series writes as full lesson titles. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Modulul 4 Republica Moldova, Lecția 1: Elemente ale orizontului apropiat. Harta — elements of the near horizon, and the map (Moldova, Grade 3) | Book 2 (Științe: Manual pentru clasa a III-a (Sciences, Grade 3), student textbook, Grade 3), printed p. 87 |
+**Acceptance count: taught in 4 countries (Ethiopia, Serbia, Mongolia, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, directions right left and the four directions, stiinte, sciences, grade 2, grade 3

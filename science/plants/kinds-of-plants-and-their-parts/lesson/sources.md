@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only)
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -206,3 +206,21 @@ Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discov
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 2, grade 3
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 1 (Moldova):** *Științe* (Sciences, Grade 2) (student book) — Moldova, Zinaida Galben-Panciuc, Svetlana Galben, Stela Diaconu, Ion Botgros; Editura Prut Internațional, 2015; ISBN 978-9975-54-213-5 (imprint page). Grade 2, student book, in Romanian. Records: TSV blob record (no books.json twin). Fetched copy: 40,861,528 bytes, 98 PDF pages — the first reader's earlier fetch of the same URL was a truncated 24,730,392-byte copy with a broken cross-reference table; the complete copy was re-fetched and verified by cover, imprint and contents for this filing. Verdict: COMPLETE — read from the book's embedded text layer (diacritics partly corrupted in the layer; every lesson title verified against the lesson pages) with the module structure confirmed on the final recap pages. Page numbers are the PDF pages where each lesson opens (the printed folios follow the same sequence). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 7. Părțile plantei: the parts of the plant and the importance of plants (Moldova, Grade 2) | Book 1 (Științe (Sciences, Grade 2), student textbook, Grade 2), p. 31 |
+**Book 4 (Moldova):** *Științe: Manual pentru clasa a IV-a* (Sciences, Grade 4) (student book) — Moldova, Zinaida Galben-Panciuc & Svetlana Galben, Editura Prut Internațional, Chișinău; ministry-approved 1 September 2023 (Ordin nr. 1104), under the 2019 curriculum (Ordin nr. 906). (The record's "Ministerul Educației 2019" names the curriculum year; the held edition is the 2023-approved one.) Grade 4, student book, in Romanian. Records: TSV release record + books.json `grade-04/gov/moldova/sciences/student/moldova-g04-sciences.pdf` (143,286,439 bytes, 122 pages per the record) — same book, cited once. Held copy: fetched complete from the record's source portal (eduresurse.gov.md) — 143,286,439 bytes exactly, 122 PDF pages, full text layer; read in full. Because this file is not in GitHub, it was NOT deleted: staged under the 2026-11-13 rule, as filed. PDF pages: 122. Printed pagination runs 3–121 (printed p. = PDF p. − 1). Verdict: COMPLETE — four units, two summative evaluations, and the closing "Învăț cu plăcere la Științe" experiments-and-readings annex, all read. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Experiment 1: Ascultă un arbore primăvara (Listen to a tree in spring) — a season-long observation of one tree (placement slug: plants/parts-of-a-tree-roots-trunk-branches-and-leaves — stocked into this lesson, plants/kinds-of-plants-and-their-parts, as the closest existing lesson covering this thing) (Moldova, Grade 4) | Book 4 (Științe: Manual pentru clasa a IV-a (Sciences, Grade 4), student textbook, Grade 4), printed p. 105 |
+**Acceptance count: taught in 7 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, kinds of plants and their parts, stiinte, sciences, grade 2, grade 4

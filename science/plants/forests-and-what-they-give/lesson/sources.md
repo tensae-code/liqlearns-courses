@@ -1,6 +1,6 @@
 # Sources — Forests and what they give
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia
+countries: Ethiopia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Moldova
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -148,3 +148,17 @@ Searchable tags: djibouti, sciences expérimentales, vegetation, reboisement, fe
 Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
 
 Searchable tags: micronesia, pcep, irei, prel, pacific islands, forests and what they give
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 2 (Moldova):** *Științe: Manual pentru clasa a III-a* (Sciences, Grade 3) (student book) — Moldova, Zinaida Galben-Panciuc, Svetlana Galben; Editura Prut Internațional, 2023 (Unisoft); ISBN 978-9975-54-742-0; approved by ministerial order no. 600 of 26.05.2023. Grade 3, student book, in Romanian. Records: TSV release record + books.json `grade-03/gov/moldova/sciences/student/moldova-g03-sciences.pdf` (47,627,192 bytes, 130 pages — both verified exact) — same book, cited once. Verdict: COMPLETE as scoped — image-only book read from 100-DPI renders: cover, imprint and the full printed contents (PDF p. 6) verified, and the module openers read. Placements follow the printed contents, which this series writes as full lesson titles. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lecția 2: Taigaua. Pădurile de foioase și mixte — taiga and the deciduous and mixed forests (Moldova, Grade 3) | Book 2 (Științe: Manual pentru clasa a III-a (Sciences, Grade 3), student textbook, Grade 3), printed p. 64 |
+| Lecția 5: Pădurile ecuatoriale. Savana — equatorial forests and savanna (Moldova, Grade 3) | Book 2 (Științe: Manual pentru clasa a III-a (Sciences, Grade 3), student textbook, Grade 3), printed p. 77 |
+**Acceptance count: taught in 7 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Micronesia, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, forests and what they give, stiinte, sciences, grade 3

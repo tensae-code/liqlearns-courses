@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -73,3 +73,16 @@ Searchable tags: uganda, uganda general science, ncdc, senior one, lower seconda
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, air is there air takes up space and can be pushed
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 2 (Moldova):** *Științe: Manual pentru clasa a III-a* (Sciences, Grade 3) (student book) — Moldova, Zinaida Galben-Panciuc, Svetlana Galben; Editura Prut Internațional, 2023 (Unisoft); ISBN 978-9975-54-742-0; approved by ministerial order no. 600 of 26.05.2023. Grade 3, student book, in Romanian. Records: TSV release record + books.json `grade-03/gov/moldova/sciences/student/moldova-g03-sciences.pdf` (47,627,192 bytes, 130 pages — both verified exact) — same book, cited once. Verdict: COMPLETE as scoped — image-only book read from 100-DPI renders: cover, imprint and the full printed contents (PDF p. 6) verified, and the module openers read. Placements follow the printed contents, which this series writes as full lesson titles. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lecția 2: Aerul. Proprietățile aerului — air and its properties (Moldova, Grade 3) | Book 2 (Științe: Manual pentru clasa a III-a (Sciences, Grade 3), student textbook, Grade 3), printed p. 12 |
+**Acceptance count: taught in 4 countries (India, Uganda, Bulgaria, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, air is there air takes up space and can be pushed, stiinte, sciences, grade 3

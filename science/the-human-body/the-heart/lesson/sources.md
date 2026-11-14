@@ -1,6 +1,6 @@
 # Sources — The heart
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -95,3 +95,16 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class vii, the-heart
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 4 (Moldova):** *Științe: Manual pentru clasa a IV-a* (Sciences, Grade 4) (student book) — Moldova, Zinaida Galben-Panciuc & Svetlana Galben, Editura Prut Internațional, Chișinău; ministry-approved 1 September 2023 (Ordin nr. 1104), under the 2019 curriculum (Ordin nr. 906). (The record's "Ministerul Educației 2019" names the curriculum year; the held edition is the 2023-approved one.) Grade 4, student book, in Romanian. Records: TSV release record + books.json `grade-04/gov/moldova/sciences/student/moldova-g04-sciences.pdf` (143,286,439 bytes, 122 pages per the record) — same book, cited once. Held copy: fetched complete from the record's source portal (eduresurse.gov.md) — 143,286,439 bytes exactly, 122 PDF pages, full text layer; read in full. Because this file is not in GitHub, it was NOT deleted: staged under the 2026-11-13 rule, as filed. PDF pages: 122. Printed pagination runs 3–121 (printed p. = PDF p. − 1). Verdict: COMPLETE — four units, two summative evaluations, and the closing "Învăț cu plăcere la Științe" experiments-and-readings annex, all read. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 2. Circulația sângelui (The circulation of the blood): heart, arteries, veins and capillaries; counting the pulse for a minute (placement slug: the-human-body/circulation-blood-vessels-and-the-pulse — stocked into this lesson, the-human-body/the-heart, as the closest existing lesson covering this thing) (Moldova, Grade 4) | Book 4 (Științe: Manual pentru clasa a IV-a (Sciences, Grade 4), student textbook, Grade 4), printed p. 61 |
+**Acceptance count: taught in 4 countries (Ethiopia, Cook Islands, India, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, the heart, stiinte, sciences, grade 4

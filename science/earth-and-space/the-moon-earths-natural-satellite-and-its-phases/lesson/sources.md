@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only)
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -135,3 +135,16 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 2
+
+## Moldova growth (2026-11-13, General Science expansion)
+
+**Book 4 (Moldova):** *Științe: Manual pentru clasa a IV-a* (Sciences, Grade 4) (student book) — Moldova, Zinaida Galben-Panciuc & Svetlana Galben, Editura Prut Internațional, Chișinău; ministry-approved 1 September 2023 (Ordin nr. 1104), under the 2019 curriculum (Ordin nr. 906). (The record's "Ministerul Educației 2019" names the curriculum year; the held edition is the 2023-approved one.) Grade 4, student book, in Romanian. Records: TSV release record + books.json `grade-04/gov/moldova/sciences/student/moldova-g04-sciences.pdf` (143,286,439 bytes, 122 pages per the record) — same book, cited once. Held copy: fetched complete from the record's source portal (eduresurse.gov.md) — 143,286,439 bytes exactly, 122 PDF pages, full text layer; read in full. Because this file is not in GitHub, it was NOT deleted: staged under the 2026-11-13 rule, as filed. PDF pages: 122. Printed pagination runs 3–121 (printed p. = PDF p. − 1). Verdict: COMPLETE — four units, two summative evaluations, and the closing "Învăț cu plăcere la Științe" experiments-and-readings annex, all read. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/moldova-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 4. Luna – satelit natural al Pământului (The Moon — Earth's natural satellite): its reflected light and its phases (Moldova, Grade 4) | Book 4 (Științe: Manual pentru clasa a IV-a (Sciences, Grade 4), student textbook, Grade 4), printed p. 88 |
+**Acceptance count: taught in 8 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana, Mongolia, Bulgaria, Moldova).**
+
+Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: moldova, the moon earths natural satellite and its phases, stiinte, sciences, grade 4

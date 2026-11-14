@@ -680,6 +680,7 @@ solar-system comparison lessons.
 52. **In defence of our nature — a country project** (`our-environment/in-defence-of-our-nature-a-country-project`) — the project: research a protected territory near home — its species, its rare inhabitants, and why it matters (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 56, printed p. 109)
 53. **Mangroves — four types, and why they matter** (`our-environment/mangroves-four-types-and-why-they-matter`) — the four types of mangroves (red, black, white, buttonwood), the characteristics of each, the organisms found in mangrove ecosystems, and the importance of mangroves to the islands — curriculum evidence only, acceptance 0 (Bahamas, Grade 4 — *Primary Science Curriculum Guidelines — Grades 3-4*, printed p. 115)
 
+54. **Living underground — the soil as a home** (`our-environment/living-underground-the-soil-as-a-home`) — the underground living environment: the soil itself as a home for living things, taught as a living environment of its own, between the land-and-air and water environments in the living-environments module (Moldova, Grade 3 — *Științe: Manual pentru clasa a III-a*, Modulul 2, Lecția 4, printed p. 43)
 ## Unit 12 — Family, School and Community
 
 1. **Our School — A Clean School and Safe Latrine Use** (`family-school-and-community/a-clean-school-and-safe-latrine-use`) — keeping the classroom, walls, compound and latrine clean as everyone's shared work — and washing hands after the latrine.
@@ -800,6 +801,7 @@ solar-system comparison lessons.
 
 35. **Dealing with learners' misconceptions in science** (`science-skills/dealing-with-learners-misconceptions-in-science`) — pupils arrive with early and mistaken conceptions; the teacher surfaces the wrong first idea and works on it instead of just correcting it — teacher-guide evidence only, acceptance 0 (Greece, Grade 5 — *«Φυσικά» Ε΄ Δημοτικού teacher guide*, Part I, printed p. 29)
 
+36. **Explorers and inventors — how people discover and create** (`science-skills/explorers-and-inventors-how-people-discover-and-create`) — Man — explorer and inventor: expeditions, explorers, inventors and scientists, from the named explorers to Edison and Liv Arnesen, and modern technologies (Moldova, Grade 4 — *Științe: Manual pentru clasa a IV-a*, Unit 1, Lesson 4, printed p. 19)
 ## Unit 16 — Biology
 
 1. **A balanced diet — every group, in proportion** (`biology/a-balanced-diet`) — a balanced diet contains all nutrient groups in the right proportions for the person eating it.
