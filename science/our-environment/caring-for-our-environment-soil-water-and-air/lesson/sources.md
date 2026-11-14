@@ -1,6 +1,6 @@
 # Sources — Caring for our environment: soil, water and air
 
-countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru
+countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -47,3 +47,17 @@ Searchable tags: canada, canada science first peoples, fnesc, fnsa, first people
 Nauru’s own way — caring summed up through Pacific homes — ecosystems and biodiversity holding each other up — is itself course content, carried exactly as filed.
 
 Searchable tags: nauru, usp reader 4, sustainability threats, pacific homes, endemic loss
+
+## Tuvalu growth (2026-11-13, General Science expansion)
+
+**Book (Tuvalu):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Tuvalu (regional USP reader adopted by Tuvalu). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Tuvalu; cited under Tuvalu as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use. It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/tuvalu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Threats to sustainability summed up: ecosystems and biodiversity hold each other up; endemic loss is forever; human impacts on Pacific homes (Tuvalu, Years 7–8) | Tuvalu, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 19 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Mexico, Australia, Nauru, Tuvalu).**
+
+Tuvalu’s own way — caring summed up through Pacific homes — ecosystems and biodiversity holding each other up — is itself course content, carried exactly as filed.
+
+Searchable tags: tuvalu, usp reader 4, sustainability threats, pacific homes, endemic loss

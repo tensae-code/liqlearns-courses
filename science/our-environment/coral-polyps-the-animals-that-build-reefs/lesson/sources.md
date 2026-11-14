@@ -1,6 +1,6 @@
 # Sources — Coral polyps — the animals that build reefs
 
-countries: Palau (teacher's-edition evidence only), Nauru
+countries: Palau (teacher's-edition evidence only), Nauru, Tuvalu
 
 **Book 1:** *Ridge to Reef Education — Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau* (teacher's edition) — Palau, Palau Conservation Society, final 2016 (revised by Joyce K. Beouch and Juliet Ngotel). Title as printed: Ridge to Reef Education, Teacher's Edition: A 5th Grade Conservation Education Resource Book for Palau. Grade: 5 · Teacher's edition · PDF 103 pages (printed pp. 1–86 plus answer-key inserts) · Verdict: COMPLETE. Scope note, carried as filed: only general/integrated science parts are placed; this is a teacher's edition, and its extra explanations and answer keys are placed as guide evidence where they add content — all placements from this book are teacher's-edition evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/palau-placements.md.
 
@@ -28,3 +28,19 @@ Searchable tags: coral, polyps, reefs, tentacles, atoll, helen reef, palau, ridg
 Nauru’s own way — coral taught as the animal itself — polyps, mouths, stinging tentacles and limestone skeletons — in Nauru’s adopted reader; Nauru’s pupil rows sit beside Palau’s teacher’s-edition rows for the same reefs — is itself course content, carried exactly as filed.
 
 Searchable tags: nauru, usp reader 2, coral polyps, limestone skeleton, stinging tentacles, years 5-6
+
+## Tuvalu growth (2026-11-13, General Science expansion)
+
+**Book (Tuvalu):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Tuvalu (regional USP reader adopted by Tuvalu). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Tuvalu; cited under Tuvalu as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (the Reader 2 download is byte-identical in size to the Nauru/Niue copies — 14,826,178 bytes, as filed in Tuvalu's placements). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/tuvalu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What coral is: colonies of tiny polyp animals secreting limestone skeletons; polyps with mouths and eight stinging tentacles (Tuvalu, Years 5–6) | Tuvalu, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 11 |
+
+**Acceptance count: taught in 2 countries (Nauru, Tuvalu).** — Palau remains teacher’s-edition evidence only, counted nowhere.
+
+Placement choice, on the record: Tuvalu's placement was filed as "NEW LESSON NEEDED — coral-polyps-the-animals-that-build-reefs", but this lesson already exists in the live repo — built for Palau's placement and already stocked for Nauru's identical placement in the same reader (checked at merge time) — so Tuvalu's adoption is stocked into it here, the original filed slug recorded in this note; no new lesson was built. The teaching is stocked once per lesson, every country cited, as instructed for the shared USP readers.
+
+Tuvalu’s own way — coral taught as the animal itself — polyps, mouths, stinging tentacles and limestone skeletons — in Tuvalu’s adopted reader; Tuvalu’s pupil rows sit beside Nauru’s pupil rows and Palau’s teacher’s-edition rows for the same reefs — is itself course content, carried exactly as filed.
+
+Searchable tags: tuvalu, usp reader 2, coral polyps, limestone skeleton, stinging tentacles, years 5-6

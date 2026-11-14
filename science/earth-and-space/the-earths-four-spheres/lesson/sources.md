@@ -1,6 +1,6 @@
 # Sources — The Earth — four spheres, one system
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -42,3 +42,17 @@ Searchable tags: canada, canada science first peoples, fnesc, fnsa, first people
 Nauru’s own way — learning the spheres from the ocean that surrounds Nauru — ocean, Sun and rain first — is itself course content, carried exactly as filed.
 
 Searchable tags: nauru, usp reader 2, living sustainably pacific ocean, five oceans, ocean and climate, years 5-6
+
+## Tuvalu growth (2026-11-13, General Science expansion)
+
+**Book (Tuvalu):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Tuvalu (regional USP reader adopted by Tuvalu). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Tuvalu; cited under Tuvalu as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (the Reader 2 download is byte-identical in size to the Nauru/Niue copies — 14,826,178 bytes, as filed in Tuvalu's placements). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/tuvalu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The ocean covers two-thirds of Earth; the five oceans; ocean and Sun drive climate — ocean absorbs carbon and moves warm and cold water between tropics and poles; most rain is evaporated ocean water (Tuvalu, Years 5–6) | Tuvalu, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 1 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Nauru, Tuvalu).**
+
+Tuvalu’s own way — learning the spheres from the ocean that surrounds Tuvalu — ocean, Sun and rain first — is itself course content, carried exactly as filed.
+
+Searchable tags: tuvalu, usp reader 2, living sustainably pacific ocean, five oceans, ocean and climate, years 5-6

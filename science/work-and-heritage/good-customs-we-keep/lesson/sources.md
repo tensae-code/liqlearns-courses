@@ -1,6 +1,6 @@
 # Sources — Culture — Good Customs We Keep
 
-countries: Ethiopia, Turkey, Nauru
+countries: Ethiopia, Turkey, Nauru, Tuvalu
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -37,3 +37,17 @@ Searchable tags: useful customs, hospitality, ሽምግልና, shimglina, tradit
 Nauru’s own way — conservation taught inside culture — Tonga’s inasi first-yam ceremony — is itself course content, carried exactly as filed.
 
 Searchable tags: nauru, usp reader 4, inasi, first yam ceremony, tonga, conserving plants in culture
+
+## Tuvalu growth (2026-11-13, General Science expansion)
+
+**Book (Tuvalu):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Tuvalu (regional USP reader adopted by Tuvalu). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Tuvalu; cited under Tuvalu as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use. It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/tuvalu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Conserving plants inside culture: Tonga's inasi first-yam ceremony for kings and nobles; traditional growing replenished land and supported plant biodiversity (Tuvalu, Years 7–8) | Tuvalu, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 10 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Nauru, Tuvalu).**
+
+Tuvalu’s own way — conservation taught inside culture — Tonga’s inasi first-yam ceremony — is itself course content, carried exactly as filed.
+
+Searchable tags: tuvalu, usp reader 4, inasi, first yam ceremony, tonga, conserving plants in culture

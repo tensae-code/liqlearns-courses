@@ -1,6 +1,6 @@
 # Sources — Ecosystems — populations, communities and their surroundings
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -89,3 +89,20 @@ Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de o
 Nauru’s own way — ecosystems taught from coral reefs and Pacific land environments — is itself course content, carried exactly as filed.
 
 Searchable tags: nauru, usp readers 2 and 4, ecosystems, coral reef habitat, pacific land
+
+## Tuvalu growth (2026-11-13, General Science expansion)
+
+**Book (Tuvalu):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Tuvalu (regional USP reader adopted by Tuvalu). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Tuvalu; cited under Tuvalu as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (the Reader 2 download is byte-identical in size to the Nauru/Niue copies — 14,826,178 bytes, as filed in Tuvalu's placements). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/tuvalu-placements.md.
+
+**Book (Tuvalu):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Tuvalu (regional USP reader adopted by Tuvalu). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Tuvalu; cited under Tuvalu as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use. It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/tuvalu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Coral reefs as ecosystems and habitat: under 0.2% of the sea floor homes over 25% of sea creatures; fringing reefs, barrier reefs and atolls; ecosystems as communities of living and non-living things (Tuvalu, Years 5–6) | Tuvalu, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 10 |
+| Scientific knowledge of the land: biodiversity and ecosystem defined through Pacific land environments (case studies from Tonga, Tuvalu and Niue) (Tuvalu, Years 7–8) | Tuvalu, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 1 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Australia, Suriname, Nauru, Tuvalu).**
+
+Tuvalu’s own way — ecosystems taught from coral reefs and Pacific land environments, Tuvalu itself among the land case studies — is itself course content, carried exactly as filed.
+
+Searchable tags: tuvalu, usp readers 2 and 4, ecosystems, coral reef habitat, pacific land

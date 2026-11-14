@@ -1,6 +1,6 @@
 # Sources — Local knowledge, local conservation
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -58,3 +58,21 @@ Searchable tags: canada, canada science first peoples, fnesc, fnsa, first people
 Nauru’s own way — Pacific people’s own knowledge — voyaging by stars and birds, fish fences, and caring for home islands — taught as science in its own right — is itself course content, carried exactly as filed.
 
 Searchable tags: nauru, usp readers 2 and 4, pacific voyaging, fish fences, niue reefs, local knowledge
+
+## Tuvalu growth (2026-11-13, General Science expansion)
+
+**Book (Tuvalu):** *Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science)* (student reader) — Tuvalu (regional USP reader adopted by Tuvalu). Title as printed: Primary Reader 2 — Living Sustainably with the Pacific Ocean (Years 5–6, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 5–6, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Tuvalu; cited under Tuvalu as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use (the Reader 2 download is byte-identical in size to the Nauru/Niue copies — 14,826,178 bytes, as filed in Tuvalu's placements). It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/tuvalu-placements.md.
+
+**Book (Tuvalu):** *Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science)* (student reader) — Tuvalu (regional USP reader adopted by Tuvalu). Title as printed: Primary Reader 4 — Living Sustainably with the Land in the Pacific (Years 7–8, Science). Publisher: UNESCO / Japanese Funds-in-Trust with the Institute of Education, University of the South Pacific, 2020. Grade: Years 7–8, Science · Student reader · PDF 24 pages · Verdict: COMPLETE. Regional USP reader adopted by Tuvalu; cited under Tuvalu as its record requires — the Pacific states share the same USP readers and the content is cited once per country of use. It counts in this lesson's acceptance count (a pupil-facing reader, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/tuvalu-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pacific people's own science of the sea: generations of observing weather, currents and creatures; voyaging by stars, winds, clouds, fish and birds; fish fences and stone weirs built on knowledge that fish cannot swim backwards (Tuvalu, Years 5–6) | Tuvalu, *Primary Reader 2 — Living Sustainably with the Pacific Ocean* (USP ESD Reader 2), printed p. 3 |
+| The Pacific Islands are our home — past, present, future: caring for the land for future generations; atolls and volcanic islands differ in climate, soil, plants and animals (Tuvalu, Years 7–8) | Tuvalu, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 9 |
+| Tuvalu's own case study: traditional knowledge of a waterless atoll environment is what lets people keep living sustainably with the land — Tuvalu's own way, printed in its own adopted reader (Tuvalu, Years 7–8) | Tuvalu, *Primary Reader 4 — Living Sustainably with the Land in the Pacific* (USP ESD Reader 4), printed p. 15 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mexico, Nauru, Tuvalu).**
+
+Tuvalu’s own way — Pacific people’s own knowledge — voyaging by stars and birds, fish fences, and caring for home islands — taught as science in its own right, with Tuvalu's own waterless-atoll case study printed in its own adopted reader — is itself course content, carried exactly as filed.
+
+Searchable tags: tuvalu, usp readers 2 and 4, pacific voyaging, fish fences, local knowledge, waterless atoll, tuvalu case study
