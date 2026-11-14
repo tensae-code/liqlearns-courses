@@ -1,6 +1,6 @@
 # Sources — Simplex, half-duplex and full-duplex
 
-countries: Ethiopia, Fiji, Bangladesh, Indonesia
+countries: Ethiopia, Fiji, Bangladesh, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -10,6 +10,10 @@ countries: Ethiopia, Fiji, Bangladesh, Indonesia
 
 **Book 4:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
 
+**Book 5:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 6:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Simplex — the one-way street | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 2, printed pp. 70–71 |
@@ -18,8 +22,11 @@ countries: Ethiopia, Fiji, Bangladesh, Indonesia
 | 4.2 Methods and Modes of Data Transmission | Fiji, *Computer Studies, Year 12*, printed p. 49 |
 | Chapter 2, 2.1.5: Data transmission modes — simplex, half duplex and full duplex | Bangladesh HSC ICT, printed p. 49 |
 | Bab 4 G.1 Mode komunikasi simplex, half duplex, duplex | Indonesia Grade 12 G12 Informatika student, printed p. 113 |
+| 1.4 Data transmission Modes in Computer Networks | South Sudan Grade 10 S2 Student, printed p. 19 |
+| 1.4.1 Half-Duplex Mode (HDX) | South Sudan Grade 10 S2 Student, printed p. 20 |
+| Data transmission modes: full-duplex connection | South Sudan Grade 10 S2 Teacher, printed p. 15 (teacher guide — evidence) |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Fiji, Bangladesh, Indonesia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Fiji, Bangladesh, Indonesia, South Sudan).**
 
 This lesson stands on the student book alone: the teacher guide has no section, period or key for transmission modes anywhere (guide placement item 15) — flagged here as the placements direct. No book error touches the modes themselves.
 
@@ -31,4 +38,8 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
 
-Searchable tags: simplex, half-duplex, full-duplex, transmission modes, one-way street, Grade 10 ICT Ethiopia, fiji, year 12, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 12
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
+
+Searchable tags: simplex, half-duplex, full-duplex, transmission modes, one-way street, Grade 10 ICT Ethiopia, fiji, year 12, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 12, south sudan, grade 10 s2 student, grade 10 s2 teacher

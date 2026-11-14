@@ -1,0 +1,9 @@
+# Sections of a Form or Report in Access — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — The Sections of a Form or Report
+Sub lesson 1 questions from the type files. Pass mark: A form or report in Access is built in horizontal bands called sections — headers, the Detail section that repeats for every record, and footers — and each section has its own job and its own height; The learner opens a form or report in Design view, names each section, and places controls in the section where they belong — titles in headers, record fields in Detail, totals in footers; In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 16 — The Sections of a Form or Report; Because a control only behaves as expected in the right section: a field in Detail repeats per record, a field in a header appears once; The book's own order for the Sections of a Form or Report — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — The Detail section
+Sub lesson 2 questions from the type files. Pass mark: Sections of a Form or Report in Access is learned by doing: the learner opens a form or report in Design view, names each section, and places controls in the section where they belong — titles in headers, record fields in Detail, totals in footers; The learner opens a form or report in Design view, names each section, and places controls in the section where they belong — titles in headers, record fields in Detail, totals in footers; In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 16 — The Detail section; Because a control only behaves as expected in the right section: a field in Detail repeats per record, a field in a header appears once; The book's own order for the Detail section — and how to show it in practice, not only name it.

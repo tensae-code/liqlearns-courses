@@ -1,6 +1,6 @@
 # Sources — Browsers and search engines
 
-countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia, Vietnam
+countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -78,6 +78,10 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba
 
 **Book 39:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 40:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 41:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Browser — exploring, locating, viewing, moving page to page | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.48 |
@@ -124,8 +128,12 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba
 | Bài 3 Thực hành: Khai thác thông tin số (Practical: finding and using digital information well) | Vietnam Grade 8 Tin học 8, printed p. 14 |
 | Bài 7 Thực hành tìm kiếm thông tin trên Internet (Practical: searching for information on the Internet) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 36 |
 | Bài 7 Thực hành tìm kiếm thông tin trên Internet (Practical search — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 36 |
+| 2.2.1 Web browser | South Sudan Grade 9 S1 Student, printed p. 64 |
+| 2.3 Search engines | South Sudan Grade 9 S1 Student, printed p. 65 |
+| 2.3.1 Differences between web browser and search engine (filed as NEW LESSON NEEDED — internet-and-the-web/web-browser-versus-search-engine; stocked in this lesson because the difference between a web browser and a search engine is this lesson's core distinction — the tool that displays pages against the service that finds them) | South Sudan Grade 9 S1 Student, printed p. 67 |
+| 2.3 Getting online, browsers and search engines (teaching notes) | South Sudan Grade 9 S1 Teacher, printed p. 33 (teacher guide — evidence) |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia, Vietnam).**
+**Acceptance count: taught in 21 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Bangladesh, Indonesia, Vietnam, South Sudan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -202,4 +210,8 @@ Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 t
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, rwanda, grade 7 s1 ict student book, laos, grade 7 ict teacher guide, grade 8 ict student, grade 10 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica, bangladesh, grade 6 digital technology, grade 7 digital technology, indonesia, grade 7, grade 10, grade 11, grade 7, vietnam, grade 4 tin học 4, grade 5 tin học 5, grade 6 tin học 6, grade 8 tin học 8, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6, egypt, grade 5, fiji, year 12, bhutan, class iv, class v, libya, grade 9 computer, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, rwanda, grade 7 s1 ict student book, laos, grade 7 ict teacher guide, grade 8 ict student, grade 10 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 7 informatica, bangladesh, grade 6 digital technology, grade 7 digital technology, indonesia, grade 7, grade 10, grade 11, grade 7, vietnam, grade 4 tin học 4, grade 5 tin học 5, grade 6 tin học 6, grade 8 tin học 8, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 9 s1 student, grade 9 s1 teacher

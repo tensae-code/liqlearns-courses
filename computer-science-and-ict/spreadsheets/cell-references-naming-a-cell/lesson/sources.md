@@ -1,6 +1,6 @@
 # Sources — Cell references
 
-countries: Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia
+countries: Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia
 
 **Book 9:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 10:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cell references — column letter and row number (A1, E4); a formula uses the reference instead of the value; changing a referenced value updates every formula using it; a formula cell can be referenced by another formula | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 112 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia
 | Block 2: Excel — the active cell, moving between cells with the arrow keys, cell addresses (e.g. B4) | Jordan Grade 4 G4 Workbook, printed p. 22 |
 | Guide plans for the Excel block (active cell, cell addresses) (teacher guide — evidence) | Jordan Grade 4 G4 Teacher, printed p. 14 (teacher guide — evidence) |
 | Bab 2 B.4 Cell References | Indonesia Grade 7 G7 Informatika student, printed p. 58 |
+| 2.3 Cell References | South Sudan Grade 10 S2 Student, printed p. 46 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, Uzbekistan, Fiji, Jordan, Indonesia, South Sudan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -50,4 +53,6 @@ Jordan's own way (Jordan Grade 4 G4 Teacher): Guide plans mirror the workbook bl
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
 
-Searchable tags: cell reference, A1, E4, column letter, row number, automatic update, Ethiopia Grade 9, afghanistan, mauritania, grade 8, uzbekistan, grade 9, fiji, years 7-8, jordan, grade 4 digital skills workbook, grade 4 digital skills teacher guide, indonesia, grade 7
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+Searchable tags: cell reference, A1, E4, column letter, row number, automatic update, Ethiopia Grade 9, afghanistan, mauritania, grade 8, uzbekistan, grade 9, fiji, years 7-8, jordan, grade 4 digital skills workbook, grade 4 digital skills teacher guide, indonesia, grade 7, south sudan, grade 10 s2 student

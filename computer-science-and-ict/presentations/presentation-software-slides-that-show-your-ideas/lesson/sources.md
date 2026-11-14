@@ -1,6 +1,6 @@
 # Sources — Presentation software — slides that show your ideas
 
-countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, Vietnam
+countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -56,6 +56,12 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lank
 
 **Book 27:** *Tin học 3 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam (Vietnam Education Publishing House); year 2021 (reprint, "Tái bản lần thứ tư"); ISBN 978-604-0-30703-3. Grade 3 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 28:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 29:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
+**Book 30:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Presentation software — displays slides; MS PowerPoint, Google Slides, LibreOffice Impress named | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 121 |
@@ -87,8 +93,11 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lank
 | Assessment criteria for slide presentations (video-slide assessment rubric) | Armenia Grade 5 G5 teacher, printed p. 49 (teacher guide — evidence) |
 | Bab 5 B.4 Aktivitas presentasi sederhana (mading dan presentasi kelas) | Indonesia Grade 7 G7 Informatika student, printed p. 220 |
 | Bài 11 Bài trình chiếu của em (My own presentation: first slides) | Vietnam Grade 3 Tin học 3, printed p. 50 |
+| 1.3 Ms PowerPoint | South Sudan Grade 9 S1 Student, printed p. 36 |
+| Teaching MS PowerPoint | South Sudan Grade 9 S1 Teacher, printed p. 15 (teacher guide — evidence) |
+| 2.4 Benefits of MS PowerPoint | South Sudan Grade 12 S4 Teacher, printed p. 53 (teacher guide — evidence) |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, Vietnam).**
+**Acceptance count: taught in 18 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia, Sri Lanka, Rwanda, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, South Sudan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -142,4 +151,10 @@ Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdek
 
 Vietnam's own way (Grade 3 Tin học 3): Informatics starts in Grade 3 not with the machine but with information in daily life — an alarm clock ringing is "information" that leads to a decision — and only then meets the computer; problem-solving (Chủ đề 6) is taught unplugged as ordering the steps of everyday jobs, with and without conditions, before any code exists.
 
-Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, bhutan, class vii, mongolia, grade 7 it vii, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, bangladesh, grade 7 digital technology, jordan, grade 2 digital skills workbook, armenia, grade 4, grade 5, indonesia, grade 7, vietnam, grade 3 tin học 3
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
+
+Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, bhutan, class vii, mongolia, grade 7 it vii, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict teacher guide, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, bangladesh, grade 7 digital technology, jordan, grade 2 digital skills workbook, armenia, grade 4, grade 5, indonesia, grade 7, vietnam, grade 3 tin học 3, south sudan, grade 9 s1 student, grade 9 s1 teacher, grade 12 s4 teacher

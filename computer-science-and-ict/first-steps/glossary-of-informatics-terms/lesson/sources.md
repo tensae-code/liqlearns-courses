@@ -1,17 +1,29 @@
 # Sources — Glossary of Informatics Terms
 
-countries: Uzbekistan
+countries: Uzbekistan, South Sudan
 
 **Book 1:** *Информатика — учебник для 5 класса средней общеобразовательной школы (Informatika, Grade 5)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: Б. Болтаев, М. Махкамов, А. Азаматов, С. Рахманкулова. 2008. ISBN 978-9943-05-161-4. 73 PDF pages. Verdict: COMPLETE. Scanned image-only; read via title/imprint/cover renders and the book's complete printed contents at reading resolution, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by Muxtor Mahkamov. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
+
+**Book 2:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
+
+**Book 3:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
 | "Глоссарий" (the book's glossary) | Uzbekistan, *Informatika, Grade 5*, printed p. 67 |
+| Remember — Simple Websites glossary: accessibility, address bar, anchor text, ASCII, backlinks, bandwidth, binary, blog, cache, CSS, chat, cookie, domain, email, favicon, fixed width layout, font family, GIF, host/hosting, HTML, HTTP, hyperlink, hypertext, IP address, JavaScript, LAN, landing page, metadata, navigation, plug-in, spam, upload, URL, web page (filed as NEW LESSON NEEDED — internet-and-the-web/website-and-blogging-glossary; stocked in this lesson because a glossary of website and blogging terms belongs with the course's glossary lesson, where the same terms are defined) | South Sudan Grade 11 S3 Student, printed p. 27 |
+| Remember — Social Networks glossary: Company Page, Groups, Network, endorsements, Influencers, LinkedIn Today, Google+ Profile and Page, Share, Comment, Tag, Streams, Circles, Extended Circles, Hangout, Hangout on Air (filed as NEW LESSON NEEDED — computers-in-society/social-network-terms-glossary; stocked in this lesson because a glossary of social-network terms belongs with the course's glossary lesson, where the same terms are defined) | South Sudan Grade 11 S3 Student, printed p. 46 |
+| Remember — Programming glossary: constant, constructor, data type, destructor, dump, enumeration, flowchart, formal argument, goto, heap (filed as NEW LESSON NEEDED — programming/programming-terms-glossary; stocked in this lesson because a glossary of programming terms belongs with the course's glossary lesson, where the same terms are defined) | South Sudan Grade 11 S3 Student, printed p. 86 |
+| Glossary of Terms (Units 1–3) (filed as NEW LESSON NEEDED — first-steps/glossary-of-terms-ict; stocked in this lesson because the course's ICT glossary lesson — the book's closing glossary belongs with it) | South Sudan Grade 12 S4 Student, printed p. 164 |
 
-**Acceptance count: taught in 1 country (Uzbekistan).**
+**Acceptance count: taught in 2 countries (Uzbekistan, South Sudan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Uzbekistan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — first-steps/glossary-of-informatics-terms). It sits in the First Steps title (first-steps/), following the book's own order.
 
 Uzbekistan's own way (Grade 5): informatics opens with a full lesson of safety and hygiene before the machine is even described, and Paint gets five of the seventeen lessons — drawing is the grade-5 child's main creative tool, with keyboard training on a typing trainer in between. The Boltaev-team informatics line runs from keyboard trainers and Paint in Grades 5–6 to a full Pascal course in Grades 8–9; this book is its Russian-language edition.
 
-Searchable tags: glossary, terms, dictionary of the subject, first steps, uzbekistan, grade 5
+South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
+
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: glossary, terms, dictionary of the subject, first steps, uzbekistan, grade 5, south sudan, grade 11 s3 student, grade 12 s4 student

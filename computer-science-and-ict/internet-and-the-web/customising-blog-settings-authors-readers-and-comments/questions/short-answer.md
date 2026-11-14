@@ -1,0 +1,33 @@
+# Customising Blog Settings Authors Readers and Comments — short answer
+
+Answer in a short sentence of your own.
+
+**1. (Sub lesson 1) What is how to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features?**
+**Answer: This part of South Sudan's book teaches How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features — covering: How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.**
+
+**2. (Sub lesson 1) What is the key work in how to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features?**
+**Answer: The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features.**
+
+**3. (Sub lesson 1) Where does South Sudan teach how to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features?**
+**Answer: In Secondary ICT, South Sudan Grade 11 S3 Teacher, printed p. 12 — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features**
+
+**4. (Sub lesson 1) Why does how to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features matter?**
+**Answer: Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — how to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features is part of that chain.**
+
+**5. (Sub lesson 1) What should a learner remember about how to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features?**
+**Answer: The book's own order for how to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features — and how to show it in practice, not only name it**
+
+**6. (Sub lesson 2) What is doing it — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features in practice?**
+**Answer: This part of South Sudan's book teaches Doing it — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features in practice — covering: How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.**
+
+**7. (Sub lesson 2) What is the key work in doing it — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features in practice?**
+**Answer: The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features.**
+
+**8. (Sub lesson 2) Where does South Sudan teach doing it — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features in practice?**
+**Answer: In Secondary ICT, South Sudan Grade 11 S3 Teacher, printed p. 12 — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features**
+
+**9. (Sub lesson 2) Why does doing it — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features in practice matter?**
+**Answer: Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features in practice is part of that chain.**
+
+**10. (Sub lesson 2) What should a learner remember about doing it — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features in practice?**
+**Answer: The book's own order for doing it — How to customize the settings of your blog — adding authors, setting blog readers, adjusting commenting features in practice — and how to show it in practice, not only name it**

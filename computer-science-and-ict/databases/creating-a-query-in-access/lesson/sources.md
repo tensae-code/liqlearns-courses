@@ -1,6 +1,6 @@
 # Sources — Creating a query in Access
 
-countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova
+countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -27,6 +27,10 @@ countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova
 
 **Book 13:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 14:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 15:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a query is an object that gives a custom view of data from one or more tables, a way of searching and compiling exactly the data wanted, built graphically (the book defers SQL); order: open the database, Create menu, Query Design, Show Table — select the table or tables and confirm | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 66–68 |
@@ -47,8 +51,10 @@ countries: Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova
 | Unit 2 Lesson 5: Queries | Sudan, *ICT, Grade 7*, printed p. 39 |
 | Lesson 9 Forms and Queries | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 86 |
 | Activity set 9 Forms & Queries | Egypt, *Activity and Exercises Book — Computer and ICT, Grade 7 Term 1 Workbook*, printed p. 38 |
+| 1.6 Microsoft Access SQL queries | South Sudan Grade 12 S4 Student, printed p. 28 |
+| Teaching database: creating queries and joins (with assessment questions) | South Sudan Grade 12 S4 Teacher, printed p. 19 (teacher guide — evidence) |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova).**
+**Acceptance count: taught in 10 countries (Ethiopia, Belarus, Sudan, Egypt, Fiji, Libya, Mongolia, Laos, Moldova, South Sudan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -76,4 +82,8 @@ Laos's own way (Grade 12 ICT student book): the final year is a modern, applied 
 
 Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
 
-Searchable tags: Access query, Query Design, Show Table, Field row, Datasheet View, custom view, Ethiopia Grade 11, belarus, sudan, grade 7, egypt, grade 7, fiji, years 7-8, libya, grade 10 it student, grade 10 it teacher guide, mongolia, grade 10 it x, laos, grade 11 ict student, grade 12 ict student, moldova, grade 12 informatica
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
+
+Searchable tags: Access query, Query Design, Show Table, Field row, Datasheet View, custom view, Ethiopia Grade 11, belarus, sudan, grade 7, egypt, grade 7, fiji, years 7-8, libya, grade 10 it student, grade 10 it teacher guide, mongolia, grade 10 it x, laos, grade 11 ict student, grade 12 ict student, moldova, grade 12 informatica, south sudan, grade 12 s4 student, grade 12 s4 teacher

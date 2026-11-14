@@ -1,6 +1,6 @@
 # Sources — Adding content to a slide
 
-countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwanda, Moldova, Bangladesh, Vietnam
+countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwanda, Moldova, Bangladesh, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwand
 
 **Book 16:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 17:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Text as default content; content by placeholder icon or the Insert tab | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 127–128 |
@@ -52,8 +54,9 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwand
 | 5.3 Inserarea și editarea casetelor de text | Moldova Grade 7 Informatică, printed p. 97 |
 | Learning Experience 1, Sessions 6 and 8: Creating Contents to Present Information; Presenting in Different Methods Using Same Software | Bangladesh Grade 7 Digital Technology, printed p. 14 |
 | Bài 11 Tạo bài trình chiếu (Creating a presentation in PowerPoint) | Vietnam Grade 7 Tin học 7, printed p. 55 |
+| 1.3.2 Select and move text/objects | South Sudan Grade 9 S1 Student, printed p. 39 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwanda, Moldova, Bangladesh, Vietnam).**
+**Acceptance count: taught in 13 countries (Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba, Bhutan, Libya, Rwanda, Moldova, Bangladesh, Vietnam, South Sudan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -85,4 +88,6 @@ Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues t
 
 Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
 
-Searchable tags: content placeholder, six elements, Table, Chart, SmartArt, Pictures, Online Pictures, Video, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, sudan, grade 6, cuba, grade 6, cuba, grade 8, bhutan, class vii, libya, grade 12 it humanities, rwanda, grade 9 s3 ict learners book, moldova, grade 7 informatica, bangladesh, grade 7 digital technology, vietnam, grade 7 tin học 7
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+Searchable tags: content placeholder, six elements, Table, Chart, SmartArt, Pictures, Online Pictures, Video, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, sudan, grade 6, cuba, grade 6, cuba, grade 8, bhutan, class vii, libya, grade 12 it humanities, rwanda, grade 9 s3 ict learners book, moldova, grade 7 informatica, bangladesh, grade 7 digital technology, vietnam, grade 7 tin học 7, south sudan, grade 9 s1 student

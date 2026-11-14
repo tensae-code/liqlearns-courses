@@ -1,6 +1,6 @@
 # Sources — Antivirus software — scan, detect, remove
 
-countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Indonesia
+countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -31,6 +31,8 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, S
 
 **Book 15:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 16:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What antivirus software is for; the malware list including botnets, rootkits, keyloggers | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed p. 192 |
@@ -49,8 +51,9 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, S
 | Ch.3 §2.2 Preventing and removing viruses | Laos Grade 10 ICT student, printed p. 47 |
 | Ch.6 §III Choosing a computer security system (how viruses get in, symptoms of infection, preventing and removing viruses) | Laos Grade 12 ICT student, printed p. 251 |
 | Bab 4 C. Proteksi terhadap virus dan malware | Indonesia Grade 10 G10 Informatika student, printed p. 215 |
+| 4.4.3 Antivirus | South Sudan Grade 9 S1 Student, printed p. 115 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Indonesia).**
+**Acceptance count: taught in 12 countries (Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Indonesia, South Sudan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -80,4 +83,6 @@ Laos's own way (Grade 12 ICT student book): the final year is a modern, applied 
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high Informatika opens with real data work — multi-variable search, data collection by Python web scraping in Google Colab (pandas/Plotly) — then algorithms chosen for real-life problems, office automation, IT careers/certifications, and information security with classical ciphers.
 
-Searchable tags: antivirus, scan detect remove, botnets, rootkits, keyloggers, malware protection, Grade 10 ICT Ethiopia, afghanistan, mauritania, grade 8, saudi arabia, grade 3, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 10 ict student, grade 12 ict student, indonesia, grade 10
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+Searchable tags: antivirus, scan detect remove, botnets, rootkits, keyloggers, malware protection, Grade 10 ICT Ethiopia, afghanistan, mauritania, grade 8, saudi arabia, grade 3, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 10 ict student, grade 12 ict student, indonesia, grade 10, south sudan, grade 9 s1 student

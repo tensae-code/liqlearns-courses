@@ -1,6 +1,6 @@
 # Sources — Social networks — connecting in virtual communities
 
-countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia, Vietnam
+countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -41,6 +41,14 @@ countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwa
 
 **Book 20:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 21:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 22:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
+**Book 23:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
+
+**Book 24:** *Secondary ICT — Information Communication Technology, Teacher's Guide 3* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete — carried as filed. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a social network is; the named platforms; the warning held for later | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 72 |
@@ -65,8 +73,13 @@ countries: Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwa
 | Bab 5 A. Peran teknologi digital dan informatika pada media sosial: jenis platform, jenis fitur | Indonesia Grade 12 G12 Informatika student, printed p. 142 |
 | Bab 5 Panduan pembelajaran dampak sosial informatika: media sosial | Indonesia Grade 12 G12 Informatika teacher guide, printed p. 213 (teacher guide — evidence) |
 | Bài 4 Mạng xã hội và một số kênh trao đổi thông tin trên Internet (Social networks and other online information-exchange channels) | Vietnam Grade 7 Tin học 7, printed p. 18 |
+| 3.0 Introduction to social media | South Sudan Grade 10 S2 Student, printed p. 111 |
+| 3.1 Common social media sites | South Sudan Grade 10 S2 Student, printed p. 113 |
+| Unit 3 Social Media (teaching introduction) | South Sudan Grade 10 S2 Teacher, printed p. 44 (teacher guide — evidence) |
+| Unit 2 Social Networks / 2.0 Introduction | South Sudan Grade 11 S3 Student, printed p. 33 |
+| Unit 2: Social Networks — specific learning experiences (teaching introduction) | South Sudan Grade 11 S3 Teacher, printed p. 25 (teacher guide — evidence) |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia, Vietnam).**
+**Acceptance count: taught in 14 countries (Ethiopia, Cambodia, Belarus, Cuba, Fiji, Bhutan, Libya, Mongolia, Rwanda, Greece, Bangladesh, Indonesia, Vietnam, South Sudan).**
 
 Belarus's own way (Grade 10): social networks are taught inside one chapter-section with blogs, forums and chats (§ 20) — the virtual-community forms are compared together, not taken one tool at a time.
 
@@ -104,4 +117,12 @@ Indonesia's own way (Indonesia Grade 12 G12 Informatika teacher guide): Panduan 
 
 Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
 
-Searchable tags: social networks, virtual communities, social networking, Facebook, Telegram, Skype, YouTube, Instagram, LinkedIn, Twitter, Ethiopia Grade 8 ICT, cambodia, belarus, cuba, grade 12, fiji, year 12, bhutan, class vii, libya, grade 9 computer, mongolia, grade 8 it viii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 7, grade 8, grade 12, grade 12, vietnam, grade 7 tin học 7
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
+
+South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
+
+South Sudan's own way (Grade 11 S3 Teacher): The guide teaches the same three units through plenaries, discussion and problem-based learning, and adds subject content the student book does not have: a full Blogger classroom-blog editor guide, WordPress.com vs WordPress.org, eight orientations for teaching programming, and a long C/C++ practical guide with worked examples and ten answered practical programs (pay, banknotes, passwords, arrays, quadrants). (teacher guide — evidence)
+
+Searchable tags: social networks, virtual communities, social networking, Facebook, Telegram, Skype, YouTube, Instagram, LinkedIn, Twitter, Ethiopia Grade 8 ICT, cambodia, belarus, cuba, grade 12, fiji, year 12, bhutan, class vii, libya, grade 9 computer, mongolia, grade 8 it viii, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 7, grade 8, grade 12, grade 12, vietnam, grade 7 tin học 7, south sudan, grade 10 s2 student, grade 10 s2 teacher, grade 11 s3 student, grade 11 s3 teacher

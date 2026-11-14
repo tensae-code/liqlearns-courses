@@ -1,6 +1,6 @@
 # Sources — Spreadsheets — data in rows, columns and cells
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan, Armenia, Indonesia, Vietnam
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan, Armenia, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -68,6 +68,12 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 
 **Book 34:** *Tin học 7 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022 (4th reprint); ISBN 978-604-0-30712-5. Grade 7 (student book). 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 35:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 36:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 37:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a spreadsheet organises and calculates data in cells; a data file of rows and columns; sorting, manipulating and arranging data; formulas calculate values in the cells | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 52–53 |
@@ -111,8 +117,11 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 | Bab 2 B.1–B.2 Mengenal perkakas pengolah lembar kerja; worksheet | Indonesia Grade 7 G7 Informatika student, printed p. 48 |
 | Panduan Khusus Bab 2: panduan pembelajaran pengolahan data (filed as spreadsheets/what-a-spreadsheet-is; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 98 (teacher guide — evidence) |
 | Bài 6 Làm quen với phần mềm bảng tính (Getting to know spreadsheet software: the Excel window, cells) | Vietnam Grade 7 Tin học 7, printed p. 28 |
+| 1.2 Ms Excel | South Sudan Grade 9 S1 Student, printed p. 20 |
+| 2.0 Introduction to spreadsheets | South Sudan Grade 10 S2 Student, printed p. 41 |
+| Unit 2 Spreadsheets (teaching introduction) | South Sudan Grade 10 S2 Teacher, printed p. 20 (teacher guide — evidence) |
 
-**Acceptance count: taught in 21 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan, Armenia, Indonesia, Vietnam).**
+**Acceptance count: taught in 22 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Kuwait, Laos, Greece, Jordan, Armenia, Indonesia, Vietnam, South Sudan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -179,4 +188,10 @@ Indonesia's own way (Indonesia Grade 7 G7 Informatika teacher guide): Panduan Um
 
 Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five Excel lessons in a row, in Windows/Excel/PowerPoint named openly) and its computer-science strand is pure algorithms with no code at all — sequential search, binary search and sorting acted out and flowcharted before any language appears.
 
-Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 7 ict teacher guide, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 3 digital skills workbook, grade 3 digital skills teacher guide, grade 5 digital skills workbook, armenia, grade 5, grade 6, indonesia, grade 7, grade 7, vietnam, grade 7 tin học 7
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
+
+Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 9 workbook, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 7 ict teacher guide, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 3 digital skills workbook, grade 3 digital skills teacher guide, grade 5 digital skills workbook, armenia, grade 5, grade 6, indonesia, grade 7, grade 7, vietnam, grade 7 tin học 7, south sudan, grade 9 s1 student, grade 10 s2 student, grade 10 s2 teacher

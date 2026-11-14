@@ -1,6 +1,6 @@
 # Sources — System software and the operating system
 
-countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan, Armenia, Indonesia, Vietnam
+countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan, Armenia, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -97,6 +97,10 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Mace
 
 **Book 49:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 50:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 51:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | System software — controls, integrates, manages; not the user's tasks | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.31–32 |
@@ -154,8 +158,11 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Mace
 | Bab 3 B/F (sistem operasi sebagai perangkat lunak sistem) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 90 |
 | Bài 1 Hệ điều hành (Operating systems: functions, Windows/Linux/macOS history, mobile OS) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 5 |
 | Bài 1 Hệ điều hành (Operating systems — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 5 |
+| 1.0.2 System software | South Sudan Grade 9 S1 Student, printed p. 2 |
+| 3.0.1 Operating system | South Sudan Grade 9 S1 Student, printed p. 80 |
+| Operating system (teaching notes) | South Sudan Grade 9 S1 Teacher, printed p. 43 (teacher guide — evidence) |
 
-**Acceptance count: taught in 26 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan, Armenia, Indonesia, Vietnam).**
+**Acceptance count: taught in 27 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Moldova, Jordan, Armenia, Indonesia, Vietnam, South Sudan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -244,4 +251,8 @@ Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 t
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7, egypt, grade 7, fiji, year 11, bhutan, class iv, class vii, libya, grade 8 computer, mongolia, grade 6 it vi, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict student, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 7 informatica, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 9, grade 10, indonesia, grade 7, grade 10, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7, egypt, grade 7, fiji, year 11, bhutan, class iv, class vii, libya, grade 8 computer, mongolia, grade 6 it vi, grade 11 it xi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 7 ict student, grade 9 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 7 informatica, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 9, grade 10, indonesia, grade 7, grade 10, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 9 s1 student, grade 9 s1 teacher

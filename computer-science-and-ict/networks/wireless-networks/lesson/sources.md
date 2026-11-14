@@ -16,6 +16,8 @@ countries: Ethiopia, Laos, Bangladesh, Jordan, Indonesia
 
 **Book 7:** *Panduan Guru Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-489-4 (jil. 1 PDF). Grade 7 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 8:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | No physical connection of its own | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 48 |
@@ -27,6 +29,7 @@ countries: Ethiopia, Laos, Bangladesh, Jordan, Indonesia
 | Bab 5 C.2–C.4 Koneksi internet, Wireless LAN (Wi-Fi), tethering | Indonesia Grade 7 G7 Informatika student, printed p. 226 |
 | Bab IV C.1 Jaringan nirkabel | Indonesia Grade 9 G9 Informatika student, printed p. 209 |
 | Panduan Khusus Bab 5: panduan pembelajaran konsep internet, WWW, Wi-Fi, tethering dan Bluetooth (filed as networks/connecting-devices-to-the-internet-via-a-wireless-network; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 213 (teacher guide — evidence) |
+| Wireless networks | South Sudan Grade 10 S2 Teacher, printed p. 8 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Laos, Bangladesh, Jordan, Indonesia).**
 
@@ -44,4 +47,6 @@ Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 complete
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika teacher guide): Panduan Umum sets out capaian pembelajaran, pedagogy principles and assessment for Grade 7; each chapter guide presents the essential material, pre-learning assessment, a step-by-step guide to the student book, enrichment/remedial, answer keys and parent interaction. (teacher guide — evidence)
 
-Searchable tags: wireless network, WAP, radio waves, mobility, backbone, Grade 9 ICT Ethiopia, laos, grade 8 ict student, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, indonesia, grade 7, grade 9, grade 7
+South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
+
+Searchable tags: wireless network, WAP, radio waves, mobility, backbone, Grade 9 ICT Ethiopia, laos, grade 8 ict student, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, indonesia, grade 7, grade 9, grade 7, south sudan, grade 10 s2 teacher

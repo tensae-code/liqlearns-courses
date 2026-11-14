@@ -6,10 +6,13 @@ countries: Malaysia, Indonesia
 
 **Book 2:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 3:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | 2.2.3 Mereka Bentuk Pangkalan Data Hubungan | Malaysia Grade 10 SK Tingkatan 4, printed p. 225 |
 | Bab 5 C. Pemodelan data (filed as databases/data-modelling; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 186 |
+| Teaching database project: design a database for a local medical practice (filed as NEW LESSON NEEDED — databases/designing-a-database-for-a-local-medical-practice; stocked in this lesson because designing a database for a real local practice is relational database design applied to a real case — this lesson's subject (teacher guide — evidence)) | South Sudan Grade 12 S4 Teacher, printed p. 13 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Malaysia, Indonesia).**
 
@@ -19,4 +22,6 @@ Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Kompute
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
 
-Searchable tags: relational database design, entities, attributes, keys, databases, malaysia, grade 10 sk tingkatan 4, indonesia, grade 10
+South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
+
+Searchable tags: relational database design, entities, attributes, keys, databases, malaysia, grade 10 sk tingkatan 4, indonesia, grade 10, south sudan, grade 12 s4 teacher

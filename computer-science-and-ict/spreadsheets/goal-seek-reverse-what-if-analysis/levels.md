@@ -1,0 +1,9 @@
+# Goal Seek — Reverse What-If Analysis — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Reverse What-If Analysis (Goal Seek)
+Sub lesson 1 questions from the type files. Pass mark: Goal Seek is reverse what-if analysis: instead of changing an input to see the result, you state the result you want and Excel works backwards to the input that produces it; The learner sets the target cell, the value it must reach, and the input cell Excel may change — then lets Goal Seek find the input value; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 100 — Reverse What-If Analysis (Goal Seek); Because real questions often start from the target — the profit needed, the mark needed — and ask what input would reach it; The book's own order for reverse What-If Analysis (Goal Seek) — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — Reverse What-If Analysis: Goal Seek
+Sub lesson 2 questions from the type files. Pass mark: Goal Seek — Reverse What-If Analysis is learned by doing: the learner sets the target cell, the value it must reach, and the input cell Excel may change — then lets Goal Seek find the input value; The learner sets the target cell, the value it must reach, and the input cell Excel may change — then lets Goal Seek find the input value; In Secondary ICT, South Sudan Grade 10 S2 Teacher, printed p. 38 — Reverse What-If Analysis: Goal Seek; Because real questions often start from the target — the profit needed, the mark needed — and ask what input would reach it; The book's own order for reverse What-If Analysis: Goal Seek — and how to show it in practice, not only name it.

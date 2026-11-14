@@ -1,6 +1,6 @@
 # Sources — Themes and readable slide design
 
-countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait, Laos, Greece, Moldova, Vietnam
+countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait, Laos, Greece, Moldova, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -40,6 +40,10 @@ countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait
 
 **Book 19:** *Chuyên đề học tập Tin học 10 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31090-3. Grade 10 (student book). 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 20:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 21:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Applying a theme — Design tab, thumbnail; scroll bar, down-arrow, Microsoft Office Online | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 125–126 |
@@ -61,8 +65,10 @@ countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait
 | Slide-presentation assessment criteria | Armenia Grade 8 G8 teacher, printed p. 156 (teacher guide — evidence) |
 | Bài 10a Định dạng nâng cao cho trang chiếu (Advanced formatting of slides — track a) | Vietnam Grade 8 Tin học 8, printed p. 46 |
 | Chuyên đề 3, Bài 1 Xây dựng ý tưởng, cấu trúc bài trình chiếu (Building the idea and structure of the presentation) | Vietnam Grade 10 Chuyên đề Tin học 10 Ứng dụng, printed p. 55 |
+| 1.3 Getting started on PowerPoint: choose a theme | South Sudan Grade 9 S1 Student, printed p. 36 |
+| 2.5.4 Applying presentation styles | South Sudan Grade 12 S4 Student, printed p. 81 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait, Laos, Greece, Moldova, Vietnam).**
+**Acceptance count: taught in 14 countries (Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan, Mongolia, Rwanda, Kuwait, Laos, Greece, Moldova, Vietnam, South Sudan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -100,4 +106,8 @@ Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calcula
 
 Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Ứng dụng): the whole Applied study-topics book is one continuous project — each class group role-plays a travel company advertising Vietnamese destinations at a "Ba miền" tourism fair, producing in turn a Word travel handbook, an Excel quotation program, and a PowerPoint media product.
 
-Searchable tags: theme, Design tab, contrast, sans-serif, font sizes, slide design, Ethiopia Grade 9, yemen, grade 11, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, mongolia, grade 8 it viii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, armenia, grade 6, grade 7, grade 8, vietnam, grade 8 tin học 8, grade 10 chuyên đề tin học 10 ứng dụng
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: theme, Design tab, contrast, sans-serif, font sizes, slide design, Ethiopia Grade 9, yemen, grade 11, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii, mongolia, grade 8 it viii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 4 digital explorer term 2, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, armenia, grade 6, grade 7, grade 8, vietnam, grade 8 tin học 8, grade 10 chuyên đề tin học 10 ứng dụng, south sudan, grade 9 s1 student, grade 12 s4 student

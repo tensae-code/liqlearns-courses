@@ -1,0 +1,28 @@
+# Adding Content to a Web Page in Dreamweaver
+
+## Do it first
+
+This part of South Sudan's book teaches Adding Content to Your Page — covering: Adding Content to Your Page. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.
+
+## Sub lesson 1 — Adding Content to Your Page
+
+This part of South Sudan's book teaches **Adding Content to Your Page** — covering: Adding Content to Your Page. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding Content to Your Page. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — adding Content to Your Page is part of that chain..
+
+[Picture — Adding Content to Your Page]
+
+## Sub lesson 2 — Adding Content by Using Dreamweaver
+
+This part of South Sudan's book teaches **Adding Content by Using Dreamweaver** — covering: Adding Content by Using Dreamweaver. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding Content by Using Dreamweaver. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — adding Content by Using Dreamweaver is part of that chain..
+
+[Picture — Adding Content by Using Dreamweaver]
+
+## Say it to your companion
+
+Tell your companion, in your own words: This part of South Sudan's book teaches **Adding Content to Your Page** — covering: Adding Content to Your Page. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding Content to Your Page. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — adding Content to Your Page is part of that chain.. This part of South Sudan's book teaches **Adding Content by Using Dreamweaver** — covering: Adding Content by Using Dreamweaver. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding Content by Using Dreamweaver. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — adding Content by Using Dreamweaver is part of that chain.. Then let your companion ask you one question about it — and answer from the lesson, not from memory of the book's exact words.
+
+## Do It Yourself
+
+1. Show it, don't just say it: This part of South Sudan's book teaches Adding Content to Your Page — covering: Adding Content to Your Page. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. Do this with a real example of your own and write or say how you know it is right.
+2. Show it, don't just say it: The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Adding Content to Your Page. Do this with a real example of your own and write or say how you know it is right.
+3. Show it, don't just say it: In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 131 — Adding Content to Your Page Do this with a real example of your own and write or say how you know it is right.
+4. Show it, don't just say it: Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — adding Content to Your Page is part of that chain. Do this with a real example of your own and write or say how you know it is right.

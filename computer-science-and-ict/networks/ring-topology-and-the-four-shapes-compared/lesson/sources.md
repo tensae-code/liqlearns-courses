@@ -1,6 +1,6 @@
 # Sources — Ring topology — and the four shapes compared
 
-countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, Indonesia
+countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,10 @@ countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, In
 
 **Book 11:** *Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-204-0 (jil. 2 PDF). Grade 11 (student book). 312 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 12:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 13:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Each node, two neighbours, one direction | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 56–57 |
@@ -39,8 +43,11 @@ countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, In
 | Lesson 10 Network topologies (Theme 9) | Armenia Grade 10 G10 student, printed p. 53 |
 | Exemplary thematic planning: Theme 9 Network topologies | Armenia Grade 10 G10 teacher, printed p. 57 (teacher guide — evidence) |
 | Bab V A.1 (topologi ring dan perbandingan topologi) | Indonesia Grade 11 G11 Informatika student, printed p. 210 |
+| 1.3 Network topology | South Sudan Grade 10 S2 Student, printed p. 13 |
+| 1.3.2 RING Topology | South Sudan Grade 10 S2 Student, printed p. 14 |
+| Network topologies, including hybrid topology research | South Sudan Grade 10 S2 Teacher, printed p. 12 (teacher guide — evidence) |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 10 countries (Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, Indonesia, South Sudan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -64,4 +71,8 @@ Armenia's own way (Armenia Grade 10 G10 teacher): Companion to Book 18 in the sa
 
 Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is the advanced year: lateral reading and triangulation for truth-checking, open/trusted/legal data with a real Indonesian deforestation case study, recursion/greedy/dynamic programming, mobile and AI apps in App Inventor, and designing + securing a computer network end to end.
 
-Searchable tags: ring topology, bus, mesh, star, comparison table, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 10, indonesia, grade 11
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
+
+Searchable tags: ring topology, bus, mesh, star, comparison table, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 10, indonesia, grade 11, south sudan, grade 10 s2 student, grade 10 s2 teacher

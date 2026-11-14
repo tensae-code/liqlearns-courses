@@ -1,6 +1,6 @@
 # Sources — The Word window — naming its parts
 
-countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Rwanda, Greece, Moldova, Armenia
+countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Rwanda, Greece, Moldova, Armenia, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -38,6 +38,10 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba
 
 **Book 21:** *Թվային գրագիտություն և համակարգչային գիտություն 5 (Digital Literacy and Computer Science, Grade 5 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN 978-9939-98-078-2 (printed in the ministry-guaranteed printing, file …-a23929; the other printing's imprint leaves the ISBN line blank). Grade 5 (student book). 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The two Grade 5 student files are two printings of the same book (identical §1–§27 contents and pagination, differing only in cover design and imprint); read once and placed once — Book 8 of the placements filing is the parallel printing and is cited nowhere separately.
 
+**Book 22:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 23:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Title bar, tabs, Quick Access Toolbar (Save, Undo, Repeat) | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.38–39 |
@@ -70,8 +74,10 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba
 | Unit 4 Lesson 1: The main interface of MS Word and its components | Sudan, *ICT, Grade 5*, printed p. 37 |
 | Урок 2 "Интерфейс текстового процессора MS Word" | Uzbekistan, *Informatika, Grade 6*, printed p. 9 |
 | Урок 25 "Интерфейс программы MS Word" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 104 |
+| 1.1.2 How to use Ms Word | South Sudan Grade 9 S1 Student, printed p. 6 |
+| 2.3 Uses and features: the menus of MS Word in depth (Home menu and toolbars) | South Sudan Grade 12 S4 Teacher, printed p. 29 (teacher guide — evidence) |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Rwanda, Greece, Moldova, Armenia).**
+**Acceptance count: taught in 15 countries (Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Rwanda, Greece, Moldova, Armenia, South Sudan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -108,4 +114,8 @@ Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Wor
 
 Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different Grade 5 books in the set (this one by Velijanyan & Ayvazyan, Antares); it runs as numbered § lessons mixing information theory, careful judgement of fake vs true information, and a long practical spine — text editor, spreadsheets, algorithms and variables — ending in teamwork principles.
 
-Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10, mauritania, grade 7, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 7, fiji, years 7-8, bhutan, class v, rwanda, grade 7 s1 ict student book, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, armenia, grade 5
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
+
+Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10, mauritania, grade 7, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 7, fiji, years 7-8, bhutan, class v, rwanda, grade 7 s1 ict student book, greece, grade 7 pliroforiki a gymnasiou, moldova, grade 8 informatica, armenia, grade 5, south sudan, grade 9 s1 student, grade 12 s4 teacher

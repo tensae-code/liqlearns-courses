@@ -8,11 +8,14 @@ countries: Ethiopia, Saudi Arabia
 
 **Book 3:** *Al-Hasib wa Tiqniyat al-Ma'lumat, Grade 3 Primary, Term 1 — Continuing Education* (student book, Arabic; title as printed: الحاسب وتقنية المعلومات للصف الثالث ابتدائي — الفصل الدراسي الأول — التعليم المستمر (Computer and Information Technology, Third Primary Grade, First Term — Continuing Education)) — Saudi Arabia, Ministry of Education, Kingdom of Saudi Arabia. Printed edition 1443H/2021 (the record title says 1448H — the file behind the record is the 1443/2021 printed edition; that mismatch is carried as filed). ISBN 978-603-508-924-1. 113 PDF pages (the cataloguing page inside states 114 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md.
 
+**Book 4:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — naming rules, allowed and forbidden characters, valid and invalid examples (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 1 review key, printed p. 19 (teacher guide — evidence) |
 | Worked path/filename table reinforcing the examples (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 1 review key, printed pp. 19–21 (teacher guide — evidence) |
 | Lesson 9: Naming files and folders (the forbidden characters — backslash, slash, colon, asterisk, question mark, quotation mark, angle brackets and vertical bar — reserved names, and the file extension the program adds after the dot) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 55 |
+| 1.3 File Naming & Structure | South Sudan Grade 12 S4 Teacher, printed p. 9 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Saudi Arabia).** The naming rules rest on teacher-guide evidence (Ethiopia) answering the student book's own exercise, as the table states.
 
@@ -20,4 +23,6 @@ This lesson stands on teacher-guide evidence: the student book asks how to name 
 
 Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book for the continuing-education (adult/lifelong learning) track — every one of the 16 lessons opens with "I want to learn" objectives and closes with written exercises, and everything is taught on an older Windows desktop (Start menu, "My Computer", Recycle Bin) with Notepad as the only application, worked through step-by-step practicals in the school lab.
 
-Searchable tags: file naming, valid filename, invalid filename, forbidden characters, assignment.doc, files and folders, grade 10, information technology, ict, ethiopia, saudi arabia, grade 3
+South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
+
+Searchable tags: file naming, valid filename, invalid filename, forbidden characters, assignment.doc, files and folders, grade 10, information technology, ict, ethiopia, saudi arabia, grade 3, south sudan, grade 12 s4 teacher

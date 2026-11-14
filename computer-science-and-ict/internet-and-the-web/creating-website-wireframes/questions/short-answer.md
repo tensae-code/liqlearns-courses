@@ -1,0 +1,33 @@
+# Creating Website Wireframes — short answer
+
+Answer in a short sentence of your own.
+
+**1. (Sub lesson 1) What is creating wireframes?**
+**Answer: This part of South Sudan's book teaches Creating wireframes — covering: Creating wireframes. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.**
+
+**2. (Sub lesson 1) What is the key work in creating wireframes?**
+**Answer: The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Creating wireframes.**
+
+**3. (Sub lesson 1) Where does South Sudan teach creating wireframes?**
+**Answer: In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 116 — Creating wireframes**
+
+**4. (Sub lesson 1) Why does creating wireframes matter?**
+**Answer: Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — creating wireframes is part of that chain.**
+
+**5. (Sub lesson 1) What should a learner remember about creating wireframes?**
+**Answer: The book's own order for creating wireframes — and how to show it in practice, not only name it**
+
+**6. (Sub lesson 2) What is doing it — Creating wireframes in practice?**
+**Answer: This part of South Sudan's book teaches Doing it — Creating wireframes in practice — covering: Creating wireframes. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.**
+
+**7. (Sub lesson 2) What is the key work in doing it — Creating wireframes in practice?**
+**Answer: The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Creating wireframes.**
+
+**8. (Sub lesson 2) Where does South Sudan teach doing it — Creating wireframes in practice?**
+**Answer: In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 116 — Creating wireframes**
+
+**9. (Sub lesson 2) Why does doing it — Creating wireframes in practice matter?**
+**Answer: Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Creating wireframes in practice is part of that chain.**
+
+**10. (Sub lesson 2) What should a learner remember about doing it — Creating wireframes in practice?**
+**Answer: The book's own order for doing it — Creating wireframes in practice — and how to show it in practice, not only name it**

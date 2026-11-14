@@ -1,0 +1,9 @@
+# Social Media versus Traditional Media — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Social media and traditional media
+Sub lesson 1 questions from the type files. Pass mark: Social media and traditional media — newspapers, radio, television — differ in who speaks, how fast, and who answers: traditional media broadcasts from few to many, social media lets everyone publish and reply; The learner compares the two on the book's points — the speaker, the audience, the speed, the cost, the answer-back — and judges real examples against them; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 111 — Social media and traditional media; Because learners live in both media worlds at once, and the difference explains both the power and the dangers of the newer one; The book's own order for social media and traditional media — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — Doing it — Social media and traditional media in practice
+Sub lesson 2 questions from the type files. Pass mark: Social Media versus Traditional Media is learned by doing: the learner compares the two on the book's points — the speaker, the audience, the speed, the cost, the answer-back — and judges real examples against them; The learner compares the two on the book's points — the speaker, the audience, the speed, the cost, the answer-back — and judges real examples against them; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 111 — Social media and traditional media; Because learners live in both media worlds at once, and the difference explains both the power and the dangers of the newer one; The book's own order for doing it — Social media and traditional media in practice — and how to show it in practice, not only name it.

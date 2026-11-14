@@ -1,6 +1,6 @@
 # Sources — Application software — programs for particular jobs
 
-countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece, Armenia, Indonesia
+countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece, Armenia, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -41,6 +41,10 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri La
 
 **Book 24:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 25:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 26:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Application software — made for a particular need; end-user software | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.32–34 |
@@ -80,8 +84,10 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri La
 | Unit 1 Ch.1 Lesson 3 Applications of smart devices | Iraq, *Computer, Grade 11*, printed p. 13 |
 | Unit 2, Topic Computer Aided Programs, Lesson 2: Produce graphical products (CAD software) (filed as multimedia/computer-aided-design-cad; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 12 Computer Technology TG*, printed p. 61 (teacher guide — evidence) |
 | Unit 4 Lesson 1: Application software, general and special | Sudan, *ICT, Grade 6*, printed p. 32 |
+| 1.0.1 Application software | South Sudan Grade 9 S1 Student, printed p. 2 |
+| Unit 1 Application Software: Specific Learning Experiences | South Sudan Grade 9 S1 Teacher, printed p. 1 (teacher guide — evidence) |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece, Armenia, Indonesia).**
+**Acceptance count: taught in 14 countries (Ethiopia, Tanzania, Yemen, Iraq, Sudan, Fiji, Libya, Mongolia, Sri Lanka, Laos, Greece, Armenia, Indonesia, South Sudan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -121,4 +127,8 @@ Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 complete
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high Informatika opens with real data work — multi-variable search, data collection by Python web scraping in Google Colab (pandas/Plotly) — then algorithms chosen for real-life problems, office automation, IT careers/certifications, and information security with classical ciphers.
 
-Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11, papua new guinea, grade 12, morocco, grade 1, sudan, grade 6, cuba, grade 2, fiji, year 11, libya, grade 11 it student term 1, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, armenia, grade 2, indonesia, grade 8, grade 9, grade 10
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+Searchable tags: application software, single program, package, suite, Microsoft Office Suite, LibreOffice, desktop publishing, word processing, spreadsheet, database, graphics, presentation, Word, Excel, Access, AutoCAD, PowerPoint, photo editing, web browser, media player, flight simulator, traffic lights, ATM, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, yemen, grade 10, iraq, grade 11, papua new guinea, grade 12, morocco, grade 1, sudan, grade 6, cuba, grade 2, fiji, year 11, libya, grade 11 it student term 1, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, laos, grade 7 ict student, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, armenia, grade 2, indonesia, grade 8, grade 9, grade 10, south sudan, grade 9 s1 student, grade 9 s1 teacher

@@ -1,0 +1,9 @@
+# Visual Basic for Applications (VBA) — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Visual Basic for Applications (VBA)
+Sub lesson 1 questions from the type files. Pass mark: Visual Basic for Applications — VBA — is the programming language built inside Microsoft Office: it lets a user write small programs, called macros, that make Word, Excel and Access do repeated work automatically; The learner meets VBA where the book places it — inside Excel: how VBA is used, what it is applied to, how code is inserted into a workbook, and how a macro is run; In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 95 — Visual Basic for Applications (VBA); Because Office work is full of repeated steps; a macro records or writes those steps once and repeats them exactly, in a second; The book's own order for visual Basic for Applications (VBA) — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — Inserting VBA code to Excel Workbook
+Sub lesson 2 questions from the type files. Pass mark: Visual Basic for Applications (VBA) is learned by doing: the learner meets VBA where the book places it — inside Excel: how VBA is used, what it is applied to, how code is inserted into a workbook, and how a macro is run; The learner meets VBA where the book places it — inside Excel: how VBA is used, what it is applied to, how code is inserted into a workbook, and how a macro is run; In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 96 — Inserting VBA code to Excel Workbook; Because Office work is full of repeated steps; a macro records or writes those steps once and repeats them exactly, in a second; The book's own order for inserting VBA code to Excel Workbook — and how to show it in practice, not only name it.

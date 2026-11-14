@@ -26,6 +26,8 @@ countries: Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova, Vietnam
 
 **Book 12:** *Tin học 4 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (approved by the National Textbook Appraisal Council, Decision 1908/QĐ-BGDĐT, 11 Jul 2022; 3rd reprint); ISBN 978-604-0-35029-9. Grade 4 (student book). 79 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 13:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — slides and their contents; transitions defined against animations; the setting order in Normal view (Transitions tab, star marker, Effect Options, Duration, Sound, Advance Slide, Ctrl+S, F5, Esc) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 125–126 |
@@ -41,6 +43,7 @@ countries: Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova, Vietnam
 | 5.5 Tranziții și animații | Moldova Grade 7 Informatică, printed p. 103 |
 | Theme 8-3 Multimedia and spreadsheets: creating new works (§3–§4; slide transitions, animation, design, timing; spreadsheet functions and cell addressing) | Armenia Grade 8 G8 teacher, printed p. 11 (teacher guide — evidence) |
 | Bài 9 Hiệu ứng chuyển trang (Slide transition effects) | Vietnam Grade 4 Tin học 4, printed p. 39 |
+| Teaching PowerPoint slide transitions | South Sudan Grade 9 S1 Teacher, printed p. 16 (teacher guide — evidence) |
 
 **Acceptance count: taught in 9 countries (Ethiopia, Iraq, Sudan, Bhutan, Libya, Laos, Greece, Moldova, Vietnam).**
 
@@ -64,4 +67,6 @@ Armenia's own way (Armenia Grade 8 G8 teacher): Matches Book 14 exactly: its map
 
 Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming language first appears (its preface announces it), software legality is taught as a child's rule — only use software when you have permission — and the applied theme offers alternative Bài 12A (multimedia tools) or 12B (typing-trainer software).
 
-Searchable tags: slide transitions, Transitions tab, Effect Options, Duration, Advance Slide, Apply to All, F5, Ethiopia Grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 6, bhutan, class viii, libya, grade 12 it humanities, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, armenia, grade 8, vietnam, grade 4 tin học 4
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+Searchable tags: slide transitions, Transitions tab, Effect Options, Duration, Advance Slide, Apply to All, F5, Ethiopia Grade 10, mauritania, grade 9, iraq, grade 10, sudan, grade 6, bhutan, class viii, libya, grade 12 it humanities, laos, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, moldova, grade 7 informatica, armenia, grade 8, vietnam, grade 4 tin học 4, south sudan, grade 9 s1 teacher

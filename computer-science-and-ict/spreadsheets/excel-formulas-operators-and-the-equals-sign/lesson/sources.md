@@ -1,6 +1,6 @@
 # Sources — Excel formulas — operators and the equals sign
 
-countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam
+countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -42,6 +42,14 @@ countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda
 
 **Book 20:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 21:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 22:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
+**Book 23:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 24:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Spreadsheet software and formulas; the six operators; every formula begins with =; the worked entry =5+3*3/2-4 in A1 | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 109–111 |
@@ -73,8 +81,12 @@ countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda
 | § 14 "Выкарыстанне формул" (using formulas) | Belarus, *Інфарматыка. 10 клас*, § 14, printed p. 92 |
 | Lesson 19 "Formulas" | Afghanistan, *Computer, Grade 12*, printed p. 75 |
 | Урок 20 "Работа с математическими формулами" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 47 |
+| 1.2.1 Excel Formulas and Functions | South Sudan Grade 9 S1 Student, printed p. 22 |
+| Teaching MS Excel: formulas and functions | South Sudan Grade 9 S1 Teacher, printed p. 8 (teacher guide — evidence) |
+| 2.5.1 Formula | South Sudan Grade 10 S2 Student, printed p. 58 |
+| Formula and functions: Formula / Entering Formulas | South Sudan Grade 10 S2 Teacher, printed p. 28 (teacher guide — evidence) |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam).**
+**Acceptance count: taught in 16 countries (Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba, Fiji, Libya, Rwanda, Kuwait, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -117,4 +129,12 @@ Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens 
 
 Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
 
-Searchable tags: Excel formula, operators, equals sign, formula bar, Show Formulas, LibreOffice Calc, Ethiopia Grade 9, belarus, afghanistan, mauritania, grade 8, uzbekistan, grade 9, cuba, grade 8, fiji, years 7-8, libya, grade 8 computer, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 8 digital technology, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, armenia, grade 8, indonesia, grade 8, vietnam, grade 8 tin học 8
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
+
+Searchable tags: Excel formula, operators, equals sign, formula bar, Show Formulas, LibreOffice Calc, Ethiopia Grade 9, belarus, afghanistan, mauritania, grade 8, uzbekistan, grade 9, cuba, grade 8, fiji, years 7-8, libya, grade 8 computer, sri lanka, grade 9 teachers guide, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, kuwait, grade 5 digital explorer term 2, laos, grade 9 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 8 digital technology, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, armenia, grade 8, indonesia, grade 8, vietnam, grade 8 tin học 8, south sudan, grade 9 s1 student, grade 9 s1 teacher, grade 10 s2 student, grade 10 s2 teacher

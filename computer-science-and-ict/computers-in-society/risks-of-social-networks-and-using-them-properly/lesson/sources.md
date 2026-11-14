@@ -22,6 +22,8 @@ countries: Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia, Vietnam
 
 **Book 10:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 11:** *Secondary ICT — Information Communication Technology, Teacher's Guide 3* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete — carried as filed. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight risks, named; the closing question | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 76–77 |
@@ -35,6 +37,7 @@ countries: Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia, Vietnam
 | Bab 5 A.4–A.5 Dampak negatif media sosial dan menggunakan media sosial secara bijak (termasuk FOMO) | Indonesia Grade 12 G12 Informatika student, printed p. 149 |
 | Bài 9 Giao tiếp an toàn trên Internet (Communicating safely on the Internet) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 43 |
 | Bài 9 Giao tiếp an toàn trên Internet (Safe communication — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 43 |
+| Teaching social networks — ground rules on online safety, ethical issues, security and privacy (filed as NEW LESSON NEEDED — safety-security-and-care/online-safety-ethics-security-and-privacy-in-social-networks; stocked in this lesson because ground rules on online safety, ethics, security and privacy in social networks are this lesson's proper-use half (teacher guide — evidence)) | South Sudan Grade 11 S3 Teacher, printed p. 28 (teacher guide — evidence) |
 
 **Acceptance count: taught in 7 countries (Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia, Vietnam).**
 
@@ -56,4 +59,6 @@ Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 t
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: risks of social networks, cyberbullying, inappropriate content, personal information, targeted advertising, misleading content, Ethiopia Grade 8 ICT, cuba, grade 9, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, grade 8 digital technology, indonesia, grade 12, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng
+South Sudan's own way (Grade 11 S3 Teacher): The guide teaches the same three units through plenaries, discussion and problem-based learning, and adds subject content the student book does not have: a full Blogger classroom-blog editor guide, WordPress.com vs WordPress.org, eight orientations for teaching programming, and a long C/C++ practical guide with worked examples and ten answered practical programs (pay, banknotes, passwords, arrays, quadrants). (teacher guide — evidence)
+
+Searchable tags: risks of social networks, cyberbullying, inappropriate content, personal information, targeted advertising, misleading content, Ethiopia Grade 8 ICT, cuba, grade 9, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, grade 8 digital technology, indonesia, grade 12, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 11 s3 teacher

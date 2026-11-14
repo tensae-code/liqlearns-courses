@@ -1,6 +1,6 @@
 # Sources — ICT in daily life — communication
 
-countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba, Bangladesh, Jordan, Indonesia
+countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba, Bangladesh, Jordan, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba, B
 
 **Book 14:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 15:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | From letters to SMS, email and social media | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 6–7 (teacher evidence: guide printed pp. 14–15) |
@@ -47,8 +49,9 @@ countries: Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba, B
 | Chapter 1, 1.1.1: Communication in the global village | Bangladesh HSC ICT, printed p. 2 |
 | Lesson 1: uses of computers in life | Jordan Grade 7 G7T1 Student, printed p. 15 |
 | Bab 5 A.1 Perkembangan teknologi informasi dan komunikasi | Indonesia Grade 7 G7 Informatika student, printed p. 169 |
+| 2.1.1 Use of the internet in daily life | South Sudan Grade 9 S1 Student, printed p. 57 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba, Bangladesh, Jordan, Indonesia).**
+**Acceptance count: taught in 11 countries (Ethiopia, Turkmenistan, Uganda, North Macedonia, Iraq, Sudan, Cuba, Bangladesh, Jordan, Indonesia, South Sudan).**
 
 The student book's printed p. 7 — inside this lesson's page range — carries a garbled sidebar block ending in nonsense characters ("dddddd dsdfffdf"), a typesetting fault; it is not reproduced and nothing here rests on it.
 
@@ -72,4 +75,6 @@ Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject
 
 Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
 
-Searchable tags: ict in daily life — communication, first steps, grade 7, information technology, ict, ethiopia, from letters to sms, email and social media, ict in health, agriculture and transport (teacher guide — evidence), turkmenistan, uganda, north macedonia, grade 10, iraq, grade 8, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 5, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, indonesia, grade 7
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+Searchable tags: ict in daily life — communication, first steps, grade 7, information technology, ict, ethiopia, from letters to sms, email and social media, ict in health, agriculture and transport (teacher guide — evidence), turkmenistan, uganda, north macedonia, grade 10, iraq, grade 8, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 5, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, indonesia, grade 7, south sudan, grade 9 s1 student

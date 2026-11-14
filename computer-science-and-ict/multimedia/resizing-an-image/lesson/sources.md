@@ -1,6 +1,6 @@
 # Sources — Resizing an image
 
-countries: Ethiopia, Bhutan, Rwanda, Greece, Vietnam
+countries: Ethiopia, Bhutan, Rwanda, Greece, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages; printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Bhutan, Rwanda, Greece, Vietnam
 
 **Book 6:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 7:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Resize, step by step — the book's order | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 §4.3, printed pp. 160–161 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Bhutan, Rwanda, Greece, Vietnam
 | Edit image: resize, rotate, magnify/zoom, stretch or skew, changing pixels, colour picker and change colour, brushing tools | Rwanda Grade 9 S3 ICT Student Book, printed p. 234 |
 | Ch.4 Image characteristics: resolution, colour depth, image size | Greece Grade 11 EPAL Basika Themata, printed p. 48 |
 | Bài 9b Thay đổi khung hình, kích thước ảnh §1 (Changing an image's size) | Vietnam Grade 8 Tin học 8, printed p. 62 |
+| 2.6.2 Resize and Reposition Images | South Sudan Grade 12 S4 Student, printed p. 83 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Rwanda, Greece, Vietnam).**
+**Acceptance count: taught in 6 countries (Ethiopia, Bhutan, Rwanda, Greece, Vietnam, South Sudan).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and Ethiopian practicals kept. Procedures are taught exactly as the book teaches them — Photoshop first, with the GIMP alternative where the book notes it.
 
@@ -37,4 +40,6 @@ Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes):
 
 Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
 
-Searchable tags: resizing, scaling, Image Size, print size, poster, Photoshop doing lesson, Ethiopia Grade 9, mauritania, grade 8, bhutan, class vii, rwanda, grade 9 s3 ict learners book, greece, grade 11 epal basika themata, vietnam, grade 8 tin học 8
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: resizing, scaling, Image Size, print size, poster, Photoshop doing lesson, Ethiopia Grade 9, mauritania, grade 8, bhutan, class vii, rwanda, grade 9 s3 ict learners book, greece, grade 11 epal basika themata, vietnam, grade 8 tin học 8, south sudan, grade 12 s4 student

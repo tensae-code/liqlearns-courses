@@ -1,0 +1,9 @@
+# Microsoft Outlook — Getting Started — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Microsoft Outlook
+Sub lesson 1 questions from the type files. Pass mark: Microsoft Outlook is Microsoft's program for electronic mail and personal organisation: one window holds mail, contacts, a calendar of events and meetings, and task lists; The learner opens Outlook, finds its parts — mail, contacts, calendar, tasks — and learns what each part is for before using any of them; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 25 — Microsoft Outlook; Because Outlook gathers the whole working day — messages, people, appointments and jobs — into one program, and the parts only help once the learner knows which is which; The book's own order for microsoft Outlook — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — Teaching Microsoft Outlook: contacts, calendar events, meetings and task lists
+Sub lesson 2 questions from the type files. Pass mark: Microsoft Outlook — Getting Started is learned by doing: the learner opens Outlook, finds its parts — mail, contacts, calendar, tasks — and learns what each part is for before using any of them; The learner opens Outlook, finds its parts — mail, contacts, calendar, tasks — and learns what each part is for before using any of them; In Secondary ICT, South Sudan Grade 10 S2 Teacher, printed p. 18 — Teaching Microsoft Outlook: contacts, calendar events, meetings and task lists; Because Outlook gathers the whole working day — messages, people, appointments and jobs — into one program, and the parts only help once the learner knows which is which; The book's own order for teaching Microsoft Outlook: contacts, calendar events, meetings and task lists — and how to show it in practice, not only name it.

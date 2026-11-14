@@ -1,6 +1,6 @@
 # Sources — Data Entry Forms in Access
 
-countries: Belarus, Sudan, Uzbekistan, Libya, Malaysia, Mongolia, Laos, Moldova
+countries: Belarus, Sudan, Uzbekistan, Libya, Malaysia, Mongolia, Laos, Moldova, South Sudan
 
 **Book 1:** *Інфарматыка — вучэбны дапаможнік для 11 класа агульнаадукацыйных устаноў з беларускай мовай навучання (Інфарматыка. 11 клас)* (student book, Belarusian) — Belarus, Народная асвета, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2010. ISBN 978-985-03-1371-3. 152 PDF pages. Verdict: COMPLETE. Read in full (full text layer). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
@@ -22,6 +22,8 @@ countries: Belarus, Sudan, Uzbekistan, Libya, Malaysia, Mongolia, Laos, Moldova
 
 **Book 10:** *Informatică — Manual pentru clasa a XII-a (Informatică, Grade 12)* (student book, Romanian) — Moldova, Editura Știința; year 2025; ISBN 978-9975-85-492-4. Authors: Anatol Gremalschi, Sergiu Corlat, Andrei Braicov. 202 PDF pages. Verdict: COMPLETE as printed (the closing Extensii chapter only summarises five advanced topics by design; the full texts are downloaded from the CTICE site). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 11:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | § 12 "Стварэнне і запаўненне формы" (creating and filling a form) | Belarus, *Інфарматыка. 11 клас*, § 12, printed p. 121 |
@@ -35,8 +37,12 @@ countries: Belarus, Sudan, Uzbekistan, Libya, Malaysia, Mongolia, Laos, Moldova
 | 4.3 The database input interface (forms; verifying data-entry errors) (filed as NEW LESSON NEEDED — databases/database-input-interface-forms; stocked in this lesson because this lesson teaches Access data-entry forms as its own lesson) | Mongolia Grade 10 IT X, printed p. 126 |
 | Ch.2 §6 Creating and using forms (filed as NEW LESSON NEEDED — databases/creating-and-using-forms-in-access; stocked in this lesson because this lesson teaches creating and using forms in Access — choosing the table, arranging fields, filling and moving through records — the same thing Laos's section teaches) | Laos Grade 11 ICT student, printed p. 75 |
 | 4.13 Formulare (filed as NEW LESSON NEEDED — databases/forms-in-access; stocked in this lesson because this lesson teaches forms in Access — data entry forms over a table — the forms of Moldova's section) | Moldova Grade 12 Informatică, printed p. 167 |
+| 1.2.6 Forms Fundamentals (filed as NEW LESSON NEEDED — databases/forms-in-microsoft-access; stocked in this lesson because this lesson is Access forms — why they exist, creating one, and filling it record by record) | South Sudan Grade 12 S4 Student, printed p. 13 |
+| 1.2.7 Opening a form to view (filed as NEW LESSON NEEDED — databases/opening-and-viewing-a-form-in-access; stocked in this lesson because opening a form to view and moving through its records is this lesson's filling-and-navigation half) | South Sudan Grade 12 S4 Student, printed p. 14 |
+| 1.2.8 Opening a Form for Design (filed as NEW LESSON NEEDED — databases/designing-a-form-in-access; stocked in this lesson because opening a form for design — choosing its table and arranging its fields — is this lesson's creating half) | South Sudan Grade 12 S4 Student, printed p. 14 |
+| 1.2.9 The Form View (filed as NEW LESSON NEEDED — databases/forms-in-microsoft-access; stocked in this lesson because this lesson is Access forms — why they exist, creating one, and filling it record by record) | South Sudan Grade 12 S4 Student, printed p. 15 |
 
-**Acceptance count: taught in 8 countries (Belarus, Sudan, Uzbekistan, Libya, Malaysia, Mongolia, Laos, Moldova).**
+**Acceptance count: taught in 9 countries (Belarus, Sudan, Uzbekistan, Libya, Malaysia, Mongolia, Laos, Moldova, South Sudan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Belarus, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Databases title (databases/), following the book's own order.
 
@@ -61,4 +67,6 @@ Laos's own way (Grade 11 ICT student book): a single-topic year — databases fr
 
 Moldova's own way (Grade 12, Informatică): the final year goes deep in three directions at once — real programming technique (complexity, greedy, sifting, recursion vs iteration), numerical modelling (errors, bisection, chord and rectangle methods), and a full Access databases course — the same Pascal/C++ pair carrying the programming chapters, and a closing Extensii chapter that points to CTICE downloads for five advanced topics.
 
-Searchable tags: access, form, data entry, record, database, belarus, grade 11, sudan, grade 7, uzbekistan, grade 9, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, laos, grade 11 ict student, moldova, grade 12 informatica
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: access, form, data entry, record, database, belarus, grade 11, sudan, grade 7, uzbekistan, grade 9, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, malaysia, grade 10 sk tingkatan 4, mongolia, grade 10 it x, laos, grade 11 ict student, moldova, grade 12 informatica, south sudan, grade 12 s4 student

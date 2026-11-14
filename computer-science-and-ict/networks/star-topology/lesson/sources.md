@@ -1,6 +1,6 @@
 # Sources — Star topology
 
-countries: Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia, Indonesia
+countries: Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia, Indonesia
 
 **Book 9:** *Panduan Guru Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024; ISBN 978-623-388-202-6 (jil. 2 PDF). Grade 11 (teacher guide). 298 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 10:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Every device, its own link to the centre | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 56 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia, Indonesia
 | Bab V A.1 Merancang jaringan komputer: topologi jaringan | Indonesia Grade 11 G11 Informatika student, printed p. 208 |
 | Bab 4 C. Topologi jaringan: bus, ring, star, mesh, hybrid/tree dan perbandingannya | Indonesia Grade 12 G12 Informatika student, printed p. 94 |
 | Bab V Panduan pembelajaran: desain topologi jaringan | Indonesia Grade 11 G11 Informatika teacher guide, printed p. 205 (teacher guide — evidence) |
+| 1.3.3 Star topology | South Sudan Grade 10 S2 Student, printed p. 16 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia, Indonesia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia, Indonesia, South Sudan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -53,4 +56,6 @@ Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (orig
 
 Indonesia's own way (Indonesia Grade 11 G11 Informatika teacher guide): Chapter guides with concept maps, learning schemes, per-activity assessment recaps and answer keys for the five Grade 11 units, from digital information and data analysis to network design and security configuration. (teacher guide — evidence)
 
-Searchable tags: star topology, switch, central controller, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7, indonesia, grade 11, grade 12, grade 11
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+Searchable tags: star topology, switch, central controller, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7, indonesia, grade 11, grade 12, grade 11, south sudan, grade 10 s2 student

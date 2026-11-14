@@ -1,6 +1,6 @@
 # Sources — Designing a website — audience, navigation, consistency, simplicity, accessibility
 
-countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armenia, Vietnam
+countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armenia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -30,6 +30,10 @@ countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armeni
 
 **Book 14:** *Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39253-4. Grade 12 (student book). 160 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 44,643,932 differs from the books.json size_bytes 43,321,265, which appears stale; this copy is the trial print (Bản in thử) carrying a school-site watermark, content complete — carried as filed.
 
+**Book 15:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 16:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What website design is | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 78–79 |
@@ -47,8 +51,10 @@ countries: Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armeni
 | §8 Website design | Armenia Grade 9 G9 student, printed p. 81 |
 | Task analysis and solutions: §8 Website design | Armenia Grade 9 G9 teacher, printed p. 55 (teacher guide — evidence) |
 | Bài 26 Liên kết và thanh điều hướng (Links and the navigation bar) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 144 |
+| Unit 3 / 3.0 Introduction to Web Design | South Sudan Grade 12 S4 Student, printed p. 104 |
+| Unit 3: Website Design | South Sudan Grade 12 S4 Teacher, printed p. 63 (teacher guide — evidence) |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armenia, Vietnam).**
+**Acceptance count: taught in 10 countries (Ethiopia, Belarus, Egypt, Fiji, Malaysia, Moldova, Bangladesh, Armenia, Vietnam, South Sudan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -78,4 +84,8 @@ Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard the
 
 Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year common core (Bài 1–21, shared with the CS book) opens with artificial intelligence and network protocols, then teaches real web design — HTML structure, lists, tables, links, forms, then CSS through selector priority — and closes with ICT careers (repair/maintenance services, IT administration). The Applied-only lessons build a whole website in Google Sites.
 
-Searchable tags: website design, design guidelines, navigation, accessibility, consistency, simplicity, Grade 11 ICT Ethiopia, belarus, papua new guinea, grade 11, egypt, grade 11, grade 5, grade 8, fiji, year 13, malaysia, grade 11 sk tingkatan 5, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
+
+Searchable tags: website design, design guidelines, navigation, accessibility, consistency, simplicity, Grade 11 ICT Ethiopia, belarus, papua new guinea, grade 11, egypt, grade 11, grade 5, grade 8, fiji, year 13, malaysia, grade 11 sk tingkatan 5, moldova, grade 10 informatica, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, south sudan, grade 12 s4 student, grade 12 s4 teacher

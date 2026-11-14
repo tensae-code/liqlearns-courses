@@ -18,6 +18,8 @@ countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh, Indonesia
 
 **Book 8:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
 
+**Book 9:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The card that connects a computer to a network | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 39–40 |
@@ -29,6 +31,7 @@ countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh, Indonesia
 | Theme 7-11 Network equipment (§13) | Armenia Grade 7 G7 teacher, printed p. 47 (teacher guide — evidence) |
 | Bab V A.4 Perangkat jaringan komputer | Indonesia Grade 11 G11 Informatika student, printed p. 247 |
 | Bab 4 F.1 Perangkat keras jaringan: NIC, hub, switch, repeater, bridge, router, access point, modem, wireless LAN card, kabel dan konektor RJ45, tang crimping dan LAN tester | Indonesia Grade 12 G12 Informatika student, printed p. 104 |
+| Network Interface Card and point-to-point connections (exercise answers) | South Sudan Grade 10 S2 Teacher, printed p. 19 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Sri Lanka, Bangladesh, Indonesia).**
 
@@ -48,4 +51,6 @@ Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is th
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
 
-Searchable tags: NIC, network interface card, hardware, cable socket, Grade 9 ICT Ethiopia, mongolia, grade 12 it xii, sri lanka, grade 6 reading book, sri lanka, grade 9 teachers guide, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7, indonesia, grade 11, grade 12
+South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
+
+Searchable tags: NIC, network interface card, hardware, cable socket, Grade 9 ICT Ethiopia, mongolia, grade 12 it xii, sri lanka, grade 6 reading book, sri lanka, grade 9 teachers guide, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7, indonesia, grade 11, grade 12, south sudan, grade 10 s2 teacher

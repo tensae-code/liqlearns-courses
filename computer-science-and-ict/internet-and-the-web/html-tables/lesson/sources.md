@@ -1,6 +1,6 @@
 # Sources — HTML tables
 
-countries: Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, Vietnam
+countries: Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, 
 
 **Book 12:** *Tin học 12 — Định hướng Khoa học máy tính (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39252-7. Grade 12 (student book). 168 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md. The release file's byte size 37,437,290 differs from the books.json size_bytes 35,021,225, which appears stale; this copy is the second reprint — carried as filed.
 
+**Book 13:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a table is for, and its four tags | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed pp. 91–92 |
@@ -41,8 +43,9 @@ countries: Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, 
 | §6 Including text and a table in a webpage | Armenia Grade 9 G9 student, printed p. 57 |
 | Bài 9 Tạo danh sách, bảng §2 (Creating tables) | Vietnam Grade 12 Tin học 12 Tin học ứng dụng, printed p. 52 |
 | Bài 9 Tạo danh sách, bảng §2 (Tables — common core) | Vietnam Grade 12 Tin học 12 Khoa học máy tính, printed p. 52 |
+| 3.10.5 Adding a Table to Your Page | South Sudan Grade 12 S4 Student, printed p. 146 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, Vietnam).**
+**Acceptance count: taught in 10 countries (Ethiopia, Belarus, Iraq, Libya, Kuwait, Bangladesh, Jordan, Armenia, Vietnam, South Sudan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -66,4 +69,6 @@ Vietnam's own way (Grade 12 Tin học 12 Tin học ứng dụng): the final-year
 
 Vietnam's own way (Grade 12 Tin học 12 Khoa học máy tính): Bài 1–21 are the same common core as the Applied orientation book (spot-checked page-identical, e.g. Bài 1); the CS-only lessons go deeper into network devices, transmission media and network design, then introduce machine learning and data science, and end with simulation in problem-solving and education.
 
-Searchable tags: HTML tables, table row header data tags, border attribute, Ethiopian mountains, Grade 11 ICT Ethiopia, belarus, iraq, grade 10, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: HTML tables, table row header data tags, border attribute, Ethiopian mountains, Grade 11 ICT Ethiopia, belarus, iraq, grade 10, libya, grade 11 it student term 2, grade 11 it teacher guide term 2, kuwait, grade 9 digital intelligence term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 9, vietnam, grade 12 tin học 12 tin học ứng dụng, grade 12 tin học 12 khoa học máy tính, south sudan, grade 12 s4 student

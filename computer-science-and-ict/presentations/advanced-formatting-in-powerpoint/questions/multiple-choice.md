@@ -1,0 +1,43 @@
+# Advanced Formatting in PowerPoint — multiple choice
+
+Pick the one right answer.
+
+**1. (Sub lesson 1) What is advanced formatting in MS PowerPoint?**
+a) This part of South Sudan's book teaches Advanced formatting in MS PowerPoint — covering: Advanced formatting in MS PowerPoint. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.  b) The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Advanced formatting in MS PowerPoint.  c) In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 79 — Advanced formatting in MS PowerPoint  d) Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — advanced formatting in MS PowerPoint is part of that chain.
+**Answer: a**
+
+**2. (Sub lesson 1) What is the key work in advanced formatting in MS PowerPoint?**
+a) The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Advanced formatting in MS PowerPoint.  b) In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 79 — Advanced formatting in MS PowerPoint  c) Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — advanced formatting in MS PowerPoint is part of that chain.  d) The book's own order for advanced formatting in MS PowerPoint — and how to show it in practice, not only name it
+**Answer: a**
+
+**3. (Sub lesson 1) Where does South Sudan teach advanced formatting in MS PowerPoint?**
+a) In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 79 — Advanced formatting in MS PowerPoint  b) Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — advanced formatting in MS PowerPoint is part of that chain.  c) The book's own order for advanced formatting in MS PowerPoint — and how to show it in practice, not only name it  d) This part of South Sudan's book teaches Teaching advanced formatting in MS PowerPoint — covering: Teaching advanced formatting in MS PowerPoint. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.
+**Answer: a**
+
+**4. (Sub lesson 1) Why does advanced formatting in MS PowerPoint matter?**
+a) Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — advanced formatting in MS PowerPoint is part of that chain.  b) The book's own order for advanced formatting in MS PowerPoint — and how to show it in practice, not only name it  c) This part of South Sudan's book teaches Teaching advanced formatting in MS PowerPoint — covering: Teaching advanced formatting in MS PowerPoint. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.  d) The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Teaching advanced formatting in MS PowerPoint.
+**Answer: a**
+
+**5. (Sub lesson 1) What should a learner remember about advanced formatting in MS PowerPoint?**
+a) The book's own order for advanced formatting in MS PowerPoint — and how to show it in practice, not only name it  b) This part of South Sudan's book teaches Teaching advanced formatting in MS PowerPoint — covering: Teaching advanced formatting in MS PowerPoint. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.  c) The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Teaching advanced formatting in MS PowerPoint.  d) In Secondary ICT, South Sudan Grade 12 S4 Teacher, printed p. 53 — Teaching advanced formatting in MS PowerPoint
+**Answer: a**
+
+**6. (Sub lesson 2) What is teaching advanced formatting in MS PowerPoint?**
+a) This part of South Sudan's book teaches Teaching advanced formatting in MS PowerPoint — covering: Teaching advanced formatting in MS PowerPoint. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.  b) The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Teaching advanced formatting in MS PowerPoint.  c) In Secondary ICT, South Sudan Grade 12 S4 Teacher, printed p. 53 — Teaching advanced formatting in MS PowerPoint  d) Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — teaching advanced formatting in MS PowerPoint is part of that chain.
+**Answer: a**
+
+**7. (Sub lesson 2) What is the key work in teaching advanced formatting in MS PowerPoint?**
+a) The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Teaching advanced formatting in MS PowerPoint.  b) In Secondary ICT, South Sudan Grade 12 S4 Teacher, printed p. 53 — Teaching advanced formatting in MS PowerPoint  c) Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — teaching advanced formatting in MS PowerPoint is part of that chain.  d) The book's own order for teaching advanced formatting in MS PowerPoint — and how to show it in practice, not only name it
+**Answer: a**
+
+**8. (Sub lesson 2) Where does South Sudan teach teaching advanced formatting in MS PowerPoint?**
+a) In Secondary ICT, South Sudan Grade 12 S4 Teacher, printed p. 53 — Teaching advanced formatting in MS PowerPoint  b) Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — teaching advanced formatting in MS PowerPoint is part of that chain.  c) The book's own order for teaching advanced formatting in MS PowerPoint — and how to show it in practice, not only name it  d) This part of South Sudan's book teaches Advanced formatting in MS PowerPoint — covering: Advanced formatting in MS PowerPoint. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.
+**Answer: a**
+
+**9. (Sub lesson 2) Why does teaching advanced formatting in MS PowerPoint matter?**
+a) Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — teaching advanced formatting in MS PowerPoint is part of that chain.  b) The book's own order for teaching advanced formatting in MS PowerPoint — and how to show it in practice, not only name it  c) This part of South Sudan's book teaches Advanced formatting in MS PowerPoint — covering: Advanced formatting in MS PowerPoint. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.  d) The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Advanced formatting in MS PowerPoint.
+**Answer: a**
+
+**10. (Sub lesson 2) What should a learner remember about teaching advanced formatting in MS PowerPoint?**
+a) The book's own order for teaching advanced formatting in MS PowerPoint — and how to show it in practice, not only name it  b) This part of South Sudan's book teaches Advanced formatting in MS PowerPoint — covering: Advanced formatting in MS PowerPoint. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.  c) The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Advanced formatting in MS PowerPoint.  d) In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 79 — Advanced formatting in MS PowerPoint
+**Answer: a**

@@ -1,6 +1,6 @@
 # Sources — Word processing — writing on a computer
 
-countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda, Greece, Jordan, Armenia, Indonesia
+countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda, Greece, Jordan, Armenia, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -58,6 +58,10 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhut
 
 **Book 31:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 32:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 33:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Word processing — create, edit, format, save; images, tables, charts; advantages over pen and paper | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.35 |
@@ -101,8 +105,11 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhut
 | Урок 1 "Текстовые редакторы" (text editors) | Uzbekistan, *Informatika, Grade 6*, printed p. 5 |
 | Глава V "Технология обработки документов", Урок 24 "Текстовые редакторы и текстовые процессоры" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 100 |
 | Урок 34 "Упражнения для повторения" (review exercises) | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 135 |
+| 1.1 Ms Word | South Sudan Grade 9 S1 Student, printed p. 6 |
+| 1.1.1 What you can use Ms Word for | South Sudan Grade 9 S1 Student, printed p. 6 |
+| 1.1 MS Word (teaching Word, with suggested assessment guidelines) | South Sudan Grade 9 S1 Teacher, printed p. 4 (teacher guide — evidence) |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda, Greece, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 15 countries (Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan, Sri Lanka, Rwanda, Greece, Jordan, Armenia, Indonesia, South Sudan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -157,4 +164,8 @@ Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens 
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high Informatika opens with real data work — multi-variable search, data collection by Python web scraping in Google Colab (pandas/Plotly) — then algorithms chosen for real-life problems, office automation, IT careers/certifications, and information security with classical ciphers.
 
-Searchable tags: word processing, MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer, Google Drive Document, templates, plain text editor, Notepad, Grade 9 ICT Ethiopia, create edit format save, document, Grade 7 ICT Ethiopia, cambodia, azerbaijan, uganda, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 6, grade 8, fiji, year 11, bhutan, class v, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou, jordan, grade 2 digital skills workbook, grade 2 digital skills teacher guide, grade 4 digital skills workbook, grade 4 digital skills teacher guide, grade 5 digital skills workbook, grade 4 digital skills teacher guide links-pass l2, armenia, grade 5, indonesia, grade 7, grade 8, grade 10
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+Searchable tags: word processing, MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer, Google Drive Document, templates, plain text editor, Notepad, Grade 9 ICT Ethiopia, create edit format save, document, Grade 7 ICT Ethiopia, cambodia, azerbaijan, uganda, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 6, grade 8, fiji, year 11, bhutan, class v, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 8 workbook, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide, laos, grade 7 ict teacher guide, greece, grade 7 pliroforiki a gymnasiou, jordan, grade 2 digital skills workbook, grade 2 digital skills teacher guide, grade 4 digital skills workbook, grade 4 digital skills teacher guide, grade 5 digital skills workbook, grade 4 digital skills teacher guide links-pass l2, armenia, grade 5, indonesia, grade 7, grade 8, grade 10, south sudan, grade 9 s1 student, grade 9 s1 teacher

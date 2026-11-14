@@ -34,6 +34,8 @@ countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldov
 
 **Book 16:** *Chuyên đề học tập Tin học 10 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31090-3. Grade 10 (student book). 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 17:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — illustrations and what can be done to them; embedded objects; the insertion route in order; the Green Legacy worked document | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 93–94 |
@@ -54,6 +56,7 @@ countries: Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldov
 | Lesson 4 Inserting pictures and graphic images into a document | Armenia Grade 4 G4 student, printed p. 31 |
 | Bài 6 Định dạng kí tự và bố trí hình ảnh trong văn bản §2 (Arranging pictures inside a text) | Vietnam Grade 5 Tin học 5, printed p. 29 |
 | Chuyên đề 1, Bài 2 Trình bày văn bản với định dạng ảnh nâng cao (Presenting a text with advanced picture formatting) | Vietnam Grade 10 Chuyên đề Tin học 10 Ứng dụng, printed p. 11 |
+| Insert menu features: pictures, shapes, clip art and SmartArt | South Sudan Grade 12 S4 Teacher, printed p. 29 (teacher guide — evidence) |
 
 **Acceptance count: taught in 11 countries (Ethiopia, Iraq, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Moldova, Jordan, Armenia, Vietnam).**
 
@@ -88,4 +91,6 @@ Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into t
 
 Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Ứng dụng): the whole Applied study-topics book is one continuous project — each class group role-plays a travel company advertising Vietnamese destinations at a "Ba miền" tourism fair, producing in turn a Word travel handbook, an Excel quotation program, and a PowerPoint media product.
 
-Searchable tags: Insert Pictures, Illustrations group, embedded object, Screenshot, Screen Clipping, Green Legacy, Haile G/Silase, Ethiopia Grade 10, mauritania, grade 7, iraq, grade 8, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, mongolia, grade 7 it vii, sri lanka, grade 12 science for technology tamil, moldova, grade 8 informatica, jordan, grade 4 digital skills teacher guide, grade 6 digital skills workbook, grade 4 digital skills teacher guide links-pass l2, armenia, grade 4, vietnam, grade 5 tin học 5, grade 10 chuyên đề tin học 10 ứng dụng
+South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
+
+Searchable tags: Insert Pictures, Illustrations group, embedded object, Screenshot, Screen Clipping, Green Legacy, Haile G/Silase, Ethiopia Grade 10, mauritania, grade 7, iraq, grade 8, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, mongolia, grade 7 it vii, sri lanka, grade 12 science for technology tamil, moldova, grade 8 informatica, jordan, grade 4 digital skills teacher guide, grade 6 digital skills workbook, grade 4 digital skills teacher guide links-pass l2, armenia, grade 4, vietnam, grade 5 tin học 5, grade 10 chuyên đề tin học 10 ứng dụng, south sudan, grade 12 s4 teacher

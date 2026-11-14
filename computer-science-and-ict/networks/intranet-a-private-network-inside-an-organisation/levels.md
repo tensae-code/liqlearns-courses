@@ -1,0 +1,9 @@
+# Intranet a Private Network Inside An Organisation — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Intranet
+Sub lesson 1 questions from the type files. Pass mark: An intranet is a private network inside one organisation that uses internet technology — web pages, browsers, file sharing — but is open only to the organisation's own people; The learner identifies what an intranet offers inside a school or office — shared files, internal pages, shared resources — and who may use it; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 21 — Intranet; Because an organisation needs the internet's easy tools without the internet's open door; the intranet is that private version; The book's own order for intranet — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — Intranet and file sharing in an intranet set-up
+Sub lesson 2 questions from the type files. Pass mark: Intranet a Private Network Inside An Organisation is learned by doing: the learner identifies what an intranet offers inside a school or office — shared files, internal pages, shared resources — and who may use it; The learner identifies what an intranet offers inside a school or office — shared files, internal pages, shared resources — and who may use it; In Secondary ICT, South Sudan Grade 10 S2 Teacher, printed p. 17 — Intranet and file sharing in an intranet set-up; Because an organisation needs the internet's easy tools without the internet's open door; the intranet is that private version; The book's own order for intranet and file sharing in an intranet set-up — and how to show it in practice, not only name it.

@@ -1,6 +1,6 @@
 # Sources — From Polya to programs — the algorithm
 
-countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia, Vietnam
+countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -32,6 +32,10 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia, Vietna
 
 **Book 16:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 17:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
+
+**Book 18:** *Secondary ICT — Information Communication Technology, Teacher's Guide 3* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete — carried as filed. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The computing adjustment of Polya's steps | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 220–221 |
@@ -53,8 +57,10 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia, Vietna
 | Unit 2, Topic Computer programs and Coding, Lesson 1: Computer Program Development (filed as programming/steps-to-create-a-computer-program; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 12 Computer Technology TG*, printed p. 64 (teacher guide — evidence) |
 | Unit 3: Steps of building a program — define the problem, then the logical steps (the algorithm, named for al-Khwarizmi) | Sudan, *Computer Science, Grade 11*, printed p. 32 |
 | Unit 1 Lesson 3: Stages of programming (filed as programming/the-stages-of-writing-a-program; stocked into this lesson as the closest existing lesson covering this thing) | Sudan, *ICT, Grade 9*, printed p. 14 |
+| 3.1 Algorithm | South Sudan Grade 11 S3 Student, printed p. 68 |
+| Aspects of programming 2 — Understanding algorithms, with a BASIC times-table program example and algorithm keywords | South Sudan Grade 11 S3 Teacher, printed p. 54 (teacher guide — evidence) |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia, Vietnam).**
+**Acceptance count: taught in 10 countries (Ethiopia, Iraq, Sudan, Cuba, Libya, Kuwait, Greece, Indonesia, Vietnam, South Sudan).**
 
 Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
 
@@ -84,4 +90,8 @@ Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is th
 
 Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
 
-Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 9, grade 11, cuba, grade 9, libya, grade 11 it student term 1, kuwait, grade 5 digital explorer term 1, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, indonesia, grade 11, vietnam, grade 8 tin học 8
+South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
+
+South Sudan's own way (Grade 11 S3 Teacher): The guide teaches the same three units through plenaries, discussion and problem-based learning, and adds subject content the student book does not have: a full Blogger classroom-blog editor guide, WordPress.com vs WordPress.org, eight orientations for teaching programming, and a long C/C++ practical guide with worked examples and ten answered practical programs (pay, banknotes, passwords, arrays, quadrants). (teacher guide — evidence)
+
+Searchable tags: algorithm, Polya, computing steps, unambiguous, finite, Grade 9 ICT Ethiopia Unit 6, mauritania, grade 9, iraq, grade 7, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 9, grade 11, cuba, grade 9, libya, grade 11 it student term 1, kuwait, grade 5 digital explorer term 1, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, indonesia, grade 11, vietnam, grade 8 tin học 8, south sudan, grade 11 s3 student, grade 11 s3 teacher

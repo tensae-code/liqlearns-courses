@@ -1,6 +1,6 @@
 # Sources — Mesh topology
 
-countries: Ethiopia, Laos, Bangladesh, Indonesia
+countries: Ethiopia, Laos, Bangladesh, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Laos, Bangladesh, Indonesia
 
 **Book 4:** *Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-204-0 (jil. 2 PDF). Grade 11 (student book). 312 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 5:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Every node to every other node | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 55 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Laos, Bangladesh, Indonesia
 | Ch.4 §4.5.4 Mesh network | Laos Grade 8 ICT student, printed p. 86 |
 | Chapter 2, 2.5.6: mesh topology | Bangladesh HSC ICT, printed p. 72 |
 | Bab V A.1 (topologi mesh) | Indonesia Grade 11 G11 Informatika student, printed p. 211 |
+| 1.3.4 MESH Topology | South Sudan Grade 10 S2 Student, printed p. 17 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Laos, Bangladesh, Indonesia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Laos, Bangladesh, Indonesia, South Sudan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -28,4 +31,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is the advanced year: lateral reading and triangulation for truth-checking, open/trusted/legal data with a real Indonesian deforestation case study, recursion/greedy/dynamic programming, mobile and AI apps in App Inventor, and designing + securing a computer network end to end.
 
-Searchable tags: mesh topology, complete topology, robust, Grade 9 ICT Ethiopia, laos, grade 8 ict student, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 11
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+Searchable tags: mesh topology, complete topology, robust, Grade 9 ICT Ethiopia, laos, grade 8 ict student, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 11, south sudan, grade 10 s2 student

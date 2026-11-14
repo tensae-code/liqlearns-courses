@@ -1,0 +1,9 @@
+# Mixed Cell References — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Mixed
+Sub lesson 1 questions from the type files. Pass mark: This part of South Sudan's book teaches Mixed — covering: Mixed. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.; The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Mixed.; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 48 — Mixed; Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — mixed is part of that chain.; The book's own order for mixed — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — Doing it — Mixed in practice
+Sub lesson 2 questions from the type files. Pass mark: This part of South Sudan's book teaches Doing it — Mixed in practice — covering: Mixed. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.; The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Mixed.; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 48 — Mixed; Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Mixed in practice is part of that chain.; The book's own order for doing it — Mixed in practice — and how to show it in practice, not only name it.

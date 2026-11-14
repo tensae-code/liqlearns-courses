@@ -1,6 +1,6 @@
 # Sources — Spreadsheet functions — SUM, AVERAGE, MAX, MIN
 
-countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Armenia, Indonesia, Vietnam
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Armenia, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -57,6 +57,12 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan,
 **Book 31:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
 **Book 32:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 35:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 36:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 37:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -116,8 +122,13 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan,
 | § 15 "Выкарыстанне функцый" (using functions) | Belarus, *Інфарматыка. 10 клас*, § 15, printed p. 96 |
 | Unit 2 Ch.2 Lesson 5 AutoSum functions | Iraq, *Computer, Grade 11*, printed p. 67 |
 | Урок 19 "Применение математических формул и функций в MS Excel" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 44 |
+| 1.2.2 Excel Statistical Functions (AVERAGE, MEDIAN, MODE, MIN, MAX, LARGE, SMALL) | South Sudan Grade 9 S1 Student, printed p. 30 |
+| 2.5.4 Functions | South Sudan Grade 10 S2 Student, printed p. 64 |
+| 2.5.5 Function Categories (filed as NEW LESSON NEEDED — spreadsheets/function-categories-in-excel; stocked in this lesson because Excel's function categories are the organisation of this functions lesson — the families the functions belong to) | South Sudan Grade 10 S2 Student, printed p. 64 |
+| 2.5.6 General Mathematical functions | South Sudan Grade 10 S2 Student, printed p. 65 |
+| Functions, Function Categories and General Mathematical functions | South Sudan Grade 10 S2 Teacher, printed p. 29 (teacher guide — evidence) |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Armenia, Indonesia, Vietnam).**
+**Acceptance count: taught in 20 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Armenia, Indonesia, Vietnam, South Sudan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -184,4 +195,10 @@ Vietnam's own way (Grade 7 Tin học 7): Grade 7 is the spreadsheet year (five E
 
 Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Ứng dụng): the whole Applied study-topics book is one continuous project — each class group role-plays a travel company advertising Vietnamese destinations at a "Ba miền" tourism fair, producing in turn a Word travel handbook, an Excel quotation program, and a PowerPoint media product.
 
-Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 10, grade 8, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, armenia, grade 5, grade 6, indonesia, grade 7, grade 10, vietnam, grade 7 tin học 7, grade 10 chuyên đề tin học 10 ứng dụng
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
+
+Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 10, grade 8, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, jordan, grade 4 digital skills teacher guide, grade 4 digital skills teacher guide links-pass l2, armenia, grade 5, grade 6, indonesia, grade 7, grade 10, vietnam, grade 7 tin học 7, grade 10 chuyên đề tin học 10 ứng dụng, south sudan, grade 9 s1 student, grade 10 s2 student, grade 10 s2 teacher

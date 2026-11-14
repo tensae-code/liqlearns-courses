@@ -1,6 +1,6 @@
 # Sources — Using email — inbox, reading, composing, forwarding
 
-countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam
+countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -62,6 +62,10 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhuta
 
 **Book 30:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 31:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 32:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The inbox and the message pane | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 70–71 |
@@ -97,8 +101,10 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhuta
 | Bài 8 Thư điện tử (Email: account, sending, receiving, attaching files) | Vietnam Grade 6 Tin học 6, printed p. 32 |
 | Bài 8 Thực hành nâng cao sử dụng thư điện tử và mạng xã hội (Advanced practical: email and social networks) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 39 |
 | Bài 8 Thực hành nâng cao sử dụng thư điện tử và mạng xã hội (Advanced email/social practical — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 39 |
+| 2.4 Electronic mail (Email) | South Sudan Grade 9 S1 Student, printed p. 68 |
+| Teaching electronic mail (Email) | South Sudan Grade 9 S1 Teacher, printed p. 35 (teacher guide — evidence) |
 
-**Acceptance count: taught in 19 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam).**
+**Acceptance count: taught in 20 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia, Vietnam, South Sudan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -154,4 +160,8 @@ Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 t
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11, egypt, grade 7, fiji, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 7 digital technology, jordan, grade 7 term 1 digital skills, armenia, grade 2, grade 3, grade 7, indonesia, grade 7, grade 7, vietnam, grade 6 tin học 6, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11, egypt, grade 7, fiji, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, sri lanka, grade 12 science for technology tamil, rwanda, grade 7 s1 ict student book, laos, grade 8 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 7 digital technology, jordan, grade 7 term 1 digital skills, armenia, grade 2, grade 3, grade 7, indonesia, grade 7, grade 7, vietnam, grade 6 tin học 6, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 9 s1 student, grade 9 s1 teacher

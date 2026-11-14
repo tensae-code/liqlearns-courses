@@ -1,17 +1,22 @@
 # Sources — Evaluating a Program — Simplicity, Flexibility, Reliability, Speed
 
-countries: Greece
+countries: Greece, South Sudan
 
 **Book 1:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Βιβλίο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon se Programmatistiko Perivallon, Student Book)* (student book, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; approved edition 22-0275 (V2 imprint); ISBN 978-960-06-2446-5, book code 0-22-0275. 282 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
+
+**Book 2:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Ch.14 Criteria for evaluating a program | Greece Grade 12 Anaptyxi Efarmogon, printed p. 243 |
+| 3.0.1 Characteristics of a computer program — consistency, robustness, usability, portability, maintainability, efficiency/performance (filed as NEW LESSON NEEDED — programming/characteristics-of-a-good-computer-program; stocked in this lesson because a good computer program's characteristics — consistency, robustness, usability, portability, maintainability, efficiency — are the qualities this lesson evaluates a program by) | South Sudan Grade 11 S3 Student, printed p. 51 |
 
-**Acceptance count: taught in 1 country (Greece).**
+**Acceptance count: taught in 2 countries (Greece, South Sudan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Greece, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/evaluating-a-program-simplicity-flexibility-reliability-speed). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Greece student book, study guide, supplementary student material, student workbook or student notes (all student-side; there are no teacher guides in this expansion). Book 11 of the placements file (Efarmoges Geopliroforikis sta Technika Erga, G' EPAL) is record-only and out of scope and is cited in no lesson. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam programming book — problem analysis, algorithms, data structures (arrays, stack, queue, lists, trees, graphs; search and sort; recursion), algorithm design methods (divide-and-conquer, dynamic programming, greedy), algorithm performance/complexity/correctness, then programming in Greece's own school pseudocode language ΓΛΩΣΣΑ (selection/repetition commands, one- and multi-dimensional arrays, subprograms with parameters and scope, recursion), object-oriented and event-driven programming, GUI elements, user-interface design, debugging and runtime errors, and program evaluation/documentation/software life cycle.
 
-Searchable tags: evaluation, criteria, simplicity, flexibility, reliability, speed, programming, greece, grade 12 anaptyxi efarmogon
+South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
+
+Searchable tags: evaluation, criteria, simplicity, flexibility, reliability, speed, programming, greece, grade 12 anaptyxi efarmogon, south sudan, grade 11 s3 student

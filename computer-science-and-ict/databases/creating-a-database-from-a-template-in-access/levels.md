@@ -1,0 +1,9 @@
+# Creating a Database from a Template in Access — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Create a database by using a template
+Sub lesson 1 questions from the type files. Pass mark: Access templates are ready-made databases — structure, tables, forms and reports already designed for a common job — from which a new working database can be created in a few steps; The learner starts Access, chooses a template, names the new database, and opens it to find tables and forms already built and ready for data; In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 21 — Create a database by using a template; Because not every database must start from a blank page; a template gives a tested design that the learner can study and adapt; The book's own order for create a database by using a template — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — Doing it — Create a database by using a template in practice
+Sub lesson 2 questions from the type files. Pass mark: Creating a Database from a Template in Access is learned by doing: the learner starts Access, chooses a template, names the new database, and opens it to find tables and forms already built and ready for data; The learner starts Access, chooses a template, names the new database, and opens it to find tables and forms already built and ready for data; In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 21 — Create a database by using a template; Because not every database must start from a blank page; a template gives a tested design that the learner can study and adapt; The book's own order for doing it — Create a database by using a template in practice — and how to show it in practice, not only name it.

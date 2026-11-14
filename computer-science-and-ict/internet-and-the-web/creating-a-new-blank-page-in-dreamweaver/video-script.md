@@ -1,0 +1,8 @@
+# Video script — Creating a New Blank Page in Dreamweaver
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+This part of South Sudan's book teaches **Creating a New Document Using a Blank Page** — covering: Creating a New Document Using a Blank Page. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Creating a New Document Using a Blank Page. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — creating a New Document Using a Blank Page is part of that chain..
+This part of South Sudan's book teaches **Choosing a Blank HTML Page** — covering: Choosing a Blank HTML Page. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Choosing a Blank HTML Page. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — choosing a Blank HTML Page is part of that chain..

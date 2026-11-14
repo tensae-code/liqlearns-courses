@@ -24,6 +24,8 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece, Armenia
 
 **Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն, 5-րդ դասարան, Ուսուցչի ձեռնարկ (Digital Literacy and Computer Science, Grade 5, Teacher's Manual)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2023; ISBN no ISBN printed. Grade 5 (teacher guide). 63 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence) Page numbers are the guide's PDF pagination, which matches its printed folios where the text layer shows them, as filed.
 
+**Book 12:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The comparison — purpose, running time, interaction; Windows vs Word | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.34 |
@@ -37,6 +39,7 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece, Armenia
 | Activité 6 Séance 1: Différencier système d'exploitation, document, site web et logiciel | Switzerland Grade 8 Décodage 7e–8e, printed p. 3 (Activité 6) (teacher guide — evidence) |
 | §17 Types of software | Armenia Grade 5 G5 student (Antares), printed p. 91 |
 | Theme sources: types of computer programs and operating systems (for §17) | Armenia Grade 5 G5 teacher, printed p. 19 (teacher guide — evidence) |
+| Teaching application software (system vs application software) | South Sudan Grade 9 S1 Teacher, printed p. 3 (teacher guide — evidence) |
 
 **Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia, Laos, Greece, Armenia).**
 
@@ -60,4 +63,6 @@ Armenia's own way (Armenia Grade 5 G5 student (Antares)): One of two different G
 
 Armenia's own way (Armenia Grade 5 G5 teacher): The guide adds a strand the student book does not print — touch-typing with ten fingers — plus per-theme outcome/source tables (including the KuMir programming environment for variables), sample lesson plans, and full assessment rubrics for projects and slide presentations. Page numbers below are the guide's PDF pagination, which matches its printed folios where the text layer shows them.
 
-Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class vii, mongolia, grade 8 it viii, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, armenia, grade 5
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class vii, mongolia, grade 8 it viii, laos, grade 7 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, armenia, grade 5, south sudan, grade 9 s1 teacher

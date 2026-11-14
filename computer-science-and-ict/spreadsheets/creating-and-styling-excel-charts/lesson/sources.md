@@ -1,6 +1,6 @@
 # Sources — Creating and styling Excel charts
 
-countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam
+countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -65,6 +65,12 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzb
 
 **Book 32:** *Chuyên đề học tập Tin học 12 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024; ISBN 978-604-0-39255-8. Grade 12 (student book). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 33:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 34:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
+**Book 35:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — charts display data visually; the eight types named; creation in order: select source cells including titles and labels, Insert → Chart, choose type or Recommended Charts, chart appears | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 113–115 |
@@ -107,8 +113,12 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzb
 | Bab II D.3 (visualisasi permasalahan deforestasi) | Indonesia Grade 11 G11 Informatika student, printed p. 72 |
 | Bài 7 Trình bày dữ liệu bằng biểu đồ (Presenting data with charts) | Vietnam Grade 8 Tin học 8, printed p. 32 |
 | Chuyên đề 3, Bài 13 Mô tả thống kê bằng biểu đồ (Describing statistics with charts) | Vietnam Grade 12 Chuyên đề Tin học 12 Ứng dụng, printed p. 76 |
+| 1.2.3 Inserting a pie chart (with bar graph activity on South Sudan data) | South Sudan Grade 9 S1 Student, printed p. 33 |
+| Teaching MS Excel: charts from South Sudan census/disease data (Activities 1.9–1.13) | South Sudan Grade 9 S1 Teacher, printed p. 14 (teacher guide — evidence) |
+| 2.7.1 Creating a chart | South Sudan Grade 10 S2 Student, printed p. 82 |
+| 2.7.2 Adding chart elements (filed as NEW LESSON NEEDED — spreadsheets/adding-chart-elements; stocked in this lesson because adding chart elements — titles, labels and legends — is the styling half of this chart lesson) | South Sudan Grade 10 S2 Student, printed p. 83 |
 
-**Acceptance count: taught in 20 countries (Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam).**
+**Acceptance count: taught in 21 countries (Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia, Rwanda, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -165,4 +175,10 @@ Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calcula
 
 Vietnam's own way (Grade 12 Chuyên đề Tin học 12 Ứng dụng): three workplace crafts — project management in the open-source GanttProject (schedule, people, budget, progress), installing/uninstalling software and an operating system with data protection, and a real statistics course inside the spreadsheet: probability and random sampling, measures of centre and spread, PivotTables, correlation and hypothesis testing.
 
-Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, saudi arabia, grade 8, uzbekistan, grade 9, cuba, grade 6, egypt, grade 10, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, armenia, grade 4, grade 6, grade 7, indonesia, grade 8, grade 9, grade 11, vietnam, grade 8 tin học 8, grade 12 chuyên đề tin học 12 ứng dụng
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, saudi arabia, grade 8, uzbekistan, grade 9, cuba, grade 6, egypt, grade 10, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, sri lanka, grade 9 teachers guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, laos, grade 9 ict student, grade 12 ict student, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, armenia, grade 4, grade 6, grade 7, indonesia, grade 8, grade 9, grade 11, vietnam, grade 8 tin học 8, grade 12 chuyên đề tin học 12 ứng dụng, south sudan, grade 9 s1 student, grade 9 s1 teacher, grade 10 s2 student

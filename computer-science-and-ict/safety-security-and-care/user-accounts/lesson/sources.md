@@ -1,6 +1,6 @@
 # Sources — User accounts — Administrator, Standard, Guest
 
-countries: Ethiopia, Bhutan, Libya, Rwanda
+countries: Ethiopia, Bhutan, Libya, Rwanda, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Bhutan, Libya, Rwanda
 
 **Book 8:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 9:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computer security — definition and three threats; passwords on accounts | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed pp.65–67 |
@@ -31,8 +33,11 @@ countries: Ethiopia, Bhutan, Libya, Rwanda
 | Activité 5 Séance 1: comptes et connexion à un site protégé | Switzerland Grade 6 Décodage 5e–6e, printed p. 4 (Activité 5) (teacher guide — evidence) |
 
 | User accounts at Grade 10 depth — definition as settings and permissions; the powers table; the checking route (growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 192–194 |
+| 4.1.1 The traditional method | South Sudan Grade 9 S1 Student, printed p. 99 |
+| 4.1.3 Configure the new user | South Sudan Grade 9 S1 Student, printed p. 102 |
+| 4.1.4 Add the new user to the Admin Group (filed as NEW LESSON NEEDED — safety-security-and-care/adding-a-user-to-the-administrators-group; stocked in this lesson because user accounts — Administrator, Standard, Guest — are this lesson's subject; adding a user to the Administrators group is what makes an account an administrator) | South Sudan Grade 9 S1 Student, printed p. 102 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Libya, Rwanda).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bhutan, Libya, Rwanda, South Sudan).**
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
@@ -46,4 +51,6 @@ Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 gui
 
 Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unplugged games to real tools while keeping the game frame: the imaginary city “Square CT” teaches classification, decision trees, conditionals, indentation and flowcharts (logigrammes); ScratchJr tells emotion and climate stories; the Swiss Thymio robot is programmed in VPL; data is taught through binary pixel coding and colour coding; and “Enquêtes” (inquiries) teach addition-as-algorithm, debugging, sorting, the Nim winning strategy, Caesar ciphers and sensor experiments. Médias/Usages scenarios cover cyberbullying, screen practices, news and media stereotypes.
 
-Searchable tags: user accounts, administrator, standard account, guest account, computer security, password, Grade 7 ICT Ethiopia, bhutan, class v, libya, grade 12 it humanities, grade 12 it science, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, switzerland, decodage, grades 56
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+Searchable tags: user accounts, administrator, standard account, guest account, computer security, password, Grade 7 ICT Ethiopia, bhutan, class v, libya, grade 12 it humanities, grade 12 it science, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, switzerland, decodage, grades 56, south sudan, grade 9 s1 student

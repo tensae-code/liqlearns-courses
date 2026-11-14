@@ -1,6 +1,6 @@
 # Sources — Flowchart or pseudocode — two notations for one algorithm
 
-countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka, Greece, Jordan, Armenia, Indonesia
+countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka, Greece, Jordan, Armenia, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -36,6 +36,10 @@ countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lank
 
 **Book 18:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
 
+**Book 19:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
+
+**Book 20:** *Secondary ICT — Information Communication Technology, Teacher's Guide 3* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete — carried as filed. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Flowcharts and pseudocode defined and compared; conversion both ways | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 223 |
@@ -58,8 +62,10 @@ countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lank
 | Unit 2, Topic Computer Terminology and Software programming, Lesson 2: Writing Pseudo codes in solving problems (filed as programming/pseudocode-writing-instructions-in-plain-words; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 69 (teacher guide — evidence) |
 | Урок 33 "Способы представления алгоритмов" (ways of representing algorithms) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 70 |
 | Bab 3 Algoritma, 3.1.1 Pseudokod dan Carta Alir Struktur Kawalan Pilihan | Malaysia Grade 7 ASK Tingkatan 1, printed p. 73 |
+| Building a Program — flowchart, Nassi-Schneider charts and pseudocode (within 3.1.4) | South Sudan Grade 11 S3 Student, printed p. 71 |
+| Aspects of programming 4 — Visual representation of concepts and procedures (representations of making a cup of tea) (filed as NEW LESSON NEEDED — programming/visual-representation-of-concepts-and-procedures; stocked in this lesson because representing a procedure visually — as South Sudan's cup-of-tea representations do — is this lesson's flowchart notation (teacher guide — evidence)) | South Sudan Grade 11 S3 Teacher, printed p. 56 (teacher guide — evidence) |
 
-**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka, Greece, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba, Malaysia, Sri Lanka, Greece, Jordan, Armenia, Indonesia, South Sudan).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -92,4 +98,8 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semes
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
 
-Searchable tags: flowchart, pseudocode, notation, algorithm, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, iraq, grade 7, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 9, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, jordan, grade 7 term 2 digital skills, armenia, grade 6, indonesia, grade 9, grade 10, grade 10
+South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
+
+South Sudan's own way (Grade 11 S3 Teacher): The guide teaches the same three units through plenaries, discussion and problem-based learning, and adds subject content the student book does not have: a full Blogger classroom-blog editor guide, WordPress.com vs WordPress.org, eight orientations for teaching programming, and a long C/C++ practical guide with worked examples and ten answered practical programs (pay, banknotes, passwords, arrays, quadrants). (teacher guide — evidence)
+
+Searchable tags: flowchart, pseudocode, notation, algorithm, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, iraq, grade 7, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 9, malaysia, grade 7 ask tingkatan 1, sri lanka, grade 11 tamil, greece, grade 7 pliroforiki a gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi efarmogon aepp glossa, jordan, grade 7 term 2 digital skills, armenia, grade 6, indonesia, grade 9, grade 10, grade 10, south sudan, grade 11 s3 student, grade 11 s3 teacher

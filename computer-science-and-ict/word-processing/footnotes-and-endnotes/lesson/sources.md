@@ -4,9 +4,12 @@ countries: Mongolia
 
 **Book 1:** *Мэдээллийн технологи IX (Information Technology IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2016); ISBN 978-99962-74-38-1. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 2:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | 2.1.3 Inserting footnotes and explanations into a document (footnote vs endnote; automatic numbering) | Mongolia Grade 9 IT IX, printed p. 30 |
+| Footnotes and endnotes (filed as NEW LESSON NEEDED — word-processing/footnotes-and-endnotes-in-word; stocked in this lesson because the same subject under the live slug — footnotes and endnotes in a document) | South Sudan Grade 12 S4 Teacher, printed p. 29 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Mongolia).**
 
@@ -14,4 +17,6 @@ Placement choice: this lesson was built new for the ICT expansion (Mongolia, 202
 
 Mongolia's own way (Grade 9): Grade 9 turns outward to society and real tools — the information society taught through Mongolia's own shift, open-source software through Soyombo Linux (Mongolia's own Linux) and Mongolian OpenOffice, copyright through Mongolia's 2006 copyright law; algorithms are drawn as flowcharts and run in Turtle Art; the long spreadsheet unit grades pupils with nested IFs, builds Fibonacci sequences, grows a 500,000-tögrög bank deposit, and charts the depth and area of Mongolia's great lakes (Khuvsgul, Uvs, Khar-Us); e-services are the real Mongolian ones — the ТҮЦ service kiosk, bookstore.mn and internet banking.
 
-Searchable tags: footnotes, endnotes, automatic numbering, references, word processing, mongolia, grade 9 it ix
+South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
+
+Searchable tags: footnotes, endnotes, automatic numbering, references, word processing, mongolia, grade 9 it ix, south sudan, grade 12 s4 teacher

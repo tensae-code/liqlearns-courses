@@ -1,6 +1,6 @@
 # Sources — Queries across multiple tables
 
-countries: Ethiopia, Kuwait, Bangladesh, Vietnam
+countries: Ethiopia, Kuwait, Bangladesh, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Kuwait, Bangladesh, Vietnam
 
 **Book 6:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 7:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — retrieving across tables: open Query Design; add each table with Show Table and the Add button | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 69–71 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Kuwait, Bangladesh, Vietnam
 | Sub lesson 4 — a SELECT drawing on two linked tables (unlinked results are meaningless); columns qualified as table.column; both tables in FROM; WHERE equates the first table's primary key with the second's foreign key | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 92–94 |
 | Sub lesson 4 — the worked join: COURSE with CourseOffering listing courses offered, then a second criterion Semester = 'I' filtering to first-semester courses | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 92–94 |
 | Sub lesson 4 (teacher guide — evidence) — the six-step Unit 3 project rubric, filed as the project checklist in this lesson's hands-on | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed p. 74 |
+| 1.6.2 Join Types | South Sudan Grade 12 S4 Student, printed p. 30 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Kuwait, Bangladesh, Vietnam).**
+**Acceptance count: taught in 5 countries (Ethiopia, Kuwait, Bangladesh, Vietnam, South Sudan).**
 
 Honesty: all parts are pupil-taught from the student book, in Access 2010 exactly as the book teaches. Unit-level book errors closing this title, named here and in the lessons they touch: the Unit Summary (printed p.71) opens with the stray bullet “what is meant by Emerging Technologies” — a copy-over from Unit 2, not taught in this title; and the guide-side Unit 3 review answer prints “Micrsosoft” — a misprint of Microsoft in the teacher guide, flagged here so the guide is not quoted with it; the lessons teach the correct spelling throughout.
 
@@ -39,4 +42,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: multi-table query, join, drag primary key, Show Table, combined results, above 85, Access, Ethiopia Grade 11, kuwait, grade 11 information technology term 2, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 tin học ứng dụng
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: multi-table query, join, drag primary key, Show Table, combined results, above 85, Access, Ethiopia Grade 11, kuwait, grade 11 information technology term 2, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student

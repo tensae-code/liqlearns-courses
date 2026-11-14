@@ -1,0 +1,9 @@
+# What-If Analysis in Excel — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — What if analysis
+Sub lesson 1 questions from the type files. Pass mark: What-if analysis is Excel's way of asking 'what happens if this number changes?' — you change an input cell and watch every result that depends on it recalculate; The learner builds a small model — inputs, formulas, results — then changes one input at a time and records how the results move, first by hand and then with Excel's what-if tools; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 91 — What if analysis; Because decisions are made on numbers that might change; what-if analysis shows the effect before the decision is taken; The book's own order for what if analysis — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — What-if analysis: Manual what-if analysis and Data Tables
+Sub lesson 2 questions from the type files. Pass mark: What-If Analysis in Excel is learned by doing: the learner builds a small model — inputs, formulas, results — then changes one input at a time and records how the results move, first by hand and then with Excel's what-if tools; The learner builds a small model — inputs, formulas, results — then changes one input at a time and records how the results move, first by hand and then with Excel's what-if tools; In Secondary ICT, South Sudan Grade 10 S2 Teacher, printed p. 36 — What-if analysis: Manual what-if analysis and Data Tables; Because decisions are made on numbers that might change; what-if analysis shows the effect before the decision is taken; The book's own order for what-if analysis: Manual what-if analysis and Data Tables — and how to show it in practice, not only name it.

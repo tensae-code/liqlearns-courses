@@ -1,6 +1,6 @@
 # Sources — Entering and Editing Data in Cells
 
-countries: Belarus, Yemen, Fiji, Laos
+countries: Belarus, Yemen, Fiji, Laos, South Sudan
 
 **Book 1:** *Інфарматыка — вучэбны дапаможнік для 10 класа ўстаноў агульнай сярэдняй адукацыі з беларускай мовай навучання (Інфарматыка. 10 клас)* (student book, Belarusian) — Belarus, Выдавецкі цэнтр БДУ, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2011. ISBN 978-985-476-928-8. 152 PDF pages. Verdict: COMPLETE. Read via page renders (scanned image-only PDF; its text layer carries only the adu.by portal watermark) — title/imprint and the complete contents rendered at high resolution, with chapter-opening spot renders for all six chapters. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
@@ -10,14 +10,23 @@ countries: Belarus, Yemen, Fiji, Laos
 
 **Book 4:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 5:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 6:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | § 11 "Увод і рэдагаванне даных" (entering and editing data) | Belarus, *Інфарматыка. 10 клас*, § 11, printed p. 67 |
 | "Entering and editing data" | Yemen, *Computer, Grade 11*, printed p. 53 |
 | Unit 3.6 Create a spreadsheet (filed as NEW LESSON NEEDED — spreadsheets/creating-a-spreadsheet-entering-and-editing-data; stocked in this lesson because Belarus's lesson teaches entering and editing data in cells directly — the creating work of Fiji's section) | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 91 |
 | Ch.5 §5.4 Selecting cells and entering data (filed as NEW LESSON NEEDED — spreadsheets/entering-data-into-cells; stocked in this lesson because this lesson teaches entering data into cells — select the cell, type, confirm — the same thing Laos's section teaches (the variant name the brief named)) | Laos Grade 9 ICT student, printed p. 55 |
+| 2.4 Entering Data in MS Excel (filed as NEW LESSON NEEDED — spreadsheets/entering-data-in-excel; stocked in this lesson because entering data into Excel cells is this lesson's whole subject) | South Sudan Grade 10 S2 Student, printed p. 50 |
+| 2.4.1 Entering numbers with fractions (filed as NEW LESSON NEEDED — spreadsheets/entering-numbers-with-fractions; stocked in this lesson because entering numbers with fractions is a data-entry behaviour — how Excel recognises a fraction typed into a cell instead of reading it as a date) | South Sudan Grade 10 S2 Student, printed p. 51 |
+| 2.4.2 Entering Numbers as Text (filed as NEW LESSON NEEDED — spreadsheets/entering-numbers-as-text; stocked in this lesson because entering numbers as text is a data-entry behaviour — how Excel treats what is typed into a cell, and how to make it store the digits as text) | South Sudan Grade 10 S2 Student, printed p. 52 |
+| 2.4.3 Entering Date and Time Data (filed as NEW LESSON NEEDED — spreadsheets/entering-date-and-time-data; stocked in this lesson because entering date and time data is data entry into cells — how Excel recognises and stores what is typed) | South Sudan Grade 10 S2 Student, printed p. 53 |
+| Entering data: numbers with fractions, numbers as text, date and time data (filed as NEW LESSON NEEDED — spreadsheets/entering-data-in-excel; stocked in this lesson because entering data into Excel cells is this lesson's whole subject) | South Sudan Grade 10 S2 Teacher, printed p. 26 (teacher guide — evidence) |
 
-**Acceptance count: taught in 4 countries (Belarus, Yemen, Fiji, Laos).**
+**Acceptance count: taught in 5 countries (Belarus, Yemen, Fiji, Laos, South Sudan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -29,4 +38,8 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
 
-Searchable tags: spreadsheet, entering data, editing, formula bar, save workbook, excel, belarus, grade 10, yemen, grade 11, fiji, years 7-8, laos, grade 9 ict student
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
+
+Searchable tags: spreadsheet, entering data, editing, formula bar, save workbook, excel, belarus, grade 10, yemen, grade 11, fiji, years 7-8, laos, grade 9 ict student, south sudan, grade 10 s2 student, grade 10 s2 teacher

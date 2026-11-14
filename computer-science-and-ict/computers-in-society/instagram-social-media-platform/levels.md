@@ -1,0 +1,9 @@
+# Instagram Social Media Platform — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Instagram
+Sub lesson 1 questions from the type files. Pass mark: Instagram is the social media platform built around photographs and short videos: users post images to a profile, follow other accounts, and answer with likes and comments; The learner meets Instagram as South Sudan's book presents it — what it is for, how its profiles and posts work, and where it stands among the common social media sites; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 124 — Instagram; Because each platform has its own culture and risks; knowing Instagram as its own thing — not just 'social media' — is what the book teaches, platform by platform; The book's own order for instagram — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — Doing it — Instagram in practice
+Sub lesson 2 questions from the type files. Pass mark: Instagram Social Media Platform is learned by doing: the learner meets Instagram as South Sudan's book presents it — what it is for, how its profiles and posts work, and where it stands among the common social media sites; The learner meets Instagram as South Sudan's book presents it — what it is for, how its profiles and posts work, and where it stands among the common social media sites; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 124 — Instagram; Because each platform has its own culture and risks; knowing Instagram as its own thing — not just 'social media' — is what the book teaches, platform by platform; The book's own order for doing it — Instagram in practice — and how to show it in practice, not only name it.

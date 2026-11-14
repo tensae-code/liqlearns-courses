@@ -1,6 +1,6 @@
 # Sources — SELECT * — getting a whole table
 
-countries: Ethiopia, Malaysia, Kuwait, Bangladesh, Vietnam
+countries: Ethiopia, Malaysia, Kuwait, Bangladesh, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (AAU, Bahir Dar, Jimma thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Aug 2023, GEQIP-E, no ISBN. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Malaysia, Kuwait, Bangladesh, Vietnam
 
 **Book 7:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 8:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — SELECT * FROM a table retrieves all its records and columns; the asterisk means all columns, the same as listing every field; * recommended when all fields are wanted (worked on COURSE) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 85–86 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Malaysia, Kuwait, Bangladesh, Vietnam
 | Chapter 6, 6.3.1: SELECT | Bangladesh HSC ICT, printed p. 200 |
 | Bài 14 SQL – ngôn ngữ truy vấn có cấu trúc §2 (Querying with SELECT) | Vietnam Grade 11 Tin học 11 Khoa học máy tính, printed p. 69 |
 | Bài 14 SQL §2 (SELECT queries — common core) | Vietnam Grade 11 Tin học 11 Tin học ứng dụng, printed p. 69 |
+| 1.2.4 SELECT Something | South Sudan Grade 12 S4 Student, printed p. 10 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Malaysia, Kuwait, Bangladesh, Vietnam).**
+**Acceptance count: taught in 6 countries (Ethiopia, Malaysia, Kuwait, Bangladesh, Vietnam, South Sudan).**
 
 Honesty: the asterisk teaching is pupil-taught from the student book; the many-column good-practice argument is teacher-guide evidence, labelled as such. No book error touches this lesson. The student book's printed “SELECET” spelling (in its review section) is a print typo — the lesson teaches SELECT, spelled correctly.
 
@@ -41,4 +44,6 @@ Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 t
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: SELECT *, asterisk, whole table, exact field names, DQL, Ethiopia Grade 12, malaysia, grade 11 sk tingkatan 5, kuwait, grade 11 information technology term 1, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: SELECT *, asterisk, whole table, exact field names, DQL, Ethiopia Grade 12, malaysia, grade 11 sk tingkatan 5, kuwait, grade 11 information technology term 1, bangladesh, hsc ict classes xi xii and alim, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student

@@ -1,6 +1,6 @@
 # Sources — Creating a database in Microsoft Access
 
-countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, Vietnam
+countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -28,6 +28,10 @@ countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, V
 
 **Book 13:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 14:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 15:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lessons 1–2 — in Access (Access 2010) a database is the container for objects such as tables, forms, queries and reports; creating one comes first: open MS Access, click Blank database, type the database name in the File Name box (a name that describes the stored data), click Create; a new window opens where objects can be built | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed p. 63 |
@@ -50,8 +54,14 @@ countries: Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, V
 | Урок 11 "Основные элементы программы MS Access и свойства полей данных" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 25 |
 | Урок 12 "Создание базы данных в MS Access" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 28 |
 | 4.1.5 Membina Pangkalan Data (Microsoft Access) | Malaysia Grade 9 ASK Tingkatan 3, printed p. 127 |
+| 1.2 Introduction to Microsoft Access | South Sudan Grade 12 S4 Student, printed p. 7 |
+| 1.2.1 Starting a project (filed as NEW LESSON NEEDED — databases/starting-a-project-in-access; stocked in this lesson because starting in Access — opening the program and choosing Blank database — is this lesson's first sub lesson) | South Sudan Grade 12 S4 Student, printed p. 8 |
+| 1.5 Visually Creating a Microsoft Access Database | South Sudan Grade 12 S4 Student, printed p. 20 |
+| 1.5.2 Create a blank database | South Sudan Grade 12 S4 Student, printed p. 22 |
+| 1.4 MS Access page | South Sudan Grade 12 S4 Teacher, printed p. 12 (teacher guide — evidence) |
+| 1.6 Teaching database: creating a database file and building a report using the wizard | South Sudan Grade 12 S4 Teacher, printed p. 13 (teacher guide — evidence) |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, Vietnam).**
+**Acceptance count: taught in 10 countries (Ethiopia, Sudan, Uzbekistan, Fiji, Libya, Malaysia, Mongolia, Laos, Vietnam, South Sudan).**
 
 Honesty: all parts are pupil-taught from the student book, in Access 2010 exactly as the book teaches; no modernising has been done — the one Tip-style guidance (naming for the next person) is the book's own “describes the stored data” rule in plainer words. No book error touches this page.
 
@@ -80,4 +90,8 @@ Laos's own way (Grade 11 ICT student book): a single-topic year — databases fr
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: Microsoft Access, Access 2010, Blank database, File Name, Create, database objects, Ethiopia Grade 11, sudan, grade 7, uzbekistan, grade 9, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, mongolia, grade 10 it x, laos, grade 11 ict student, vietnam, grade 11 tin học 11 tin học ứng dụng
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
+
+Searchable tags: Microsoft Access, Access 2010, Blank database, File Name, Create, database objects, Ethiopia Grade 11, sudan, grade 7, uzbekistan, grade 9, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, mongolia, grade 10 it x, laos, grade 11 ict student, vietnam, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student, grade 12 s4 teacher

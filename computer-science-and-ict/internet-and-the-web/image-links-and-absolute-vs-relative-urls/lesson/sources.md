@@ -1,6 +1,6 @@
 # Sources — Image links — and absolute vs relative URLs
 
-countries: Ethiopia, Libya, Bangladesh
+countries: Ethiopia, Libya, Bangladesh, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Libya, Bangladesh
 
 **Book 5:** *Թվային գրագիտություն և համակարգչային գիտություն 9, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 9, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2025; ISBN no ISBN printed. Grade 9 (teacher guide). 96 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | An image as the clickable part | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 4, printed p. 89 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Libya, Bangladesh
 | Ch 4, image links | Libya Grade 11 IT student Term 2, printed p. 51 |
 | Chapter 4, 4.2: image links, relative and absolute URLs | Bangladesh HSC ICT, printed p. 131 |
 | Theme 9-5 Links and pictures in HTML (§6–§7) | Armenia Grade 9 G9 teacher, printed p. 19 (teacher guide — evidence) |
+| 3.10.5 Image Links | South Sudan Grade 12 S4 Student, printed p. 146 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Libya, Bangladesh).**
+**Acceptance count: taught in 4 countries (Ethiopia, Libya, Bangladesh, South Sudan).**
 
 Unit 4 figure references and captions repeatedly disagree in the student book (the elements text cites Figure 4.3 where the caption is 4.2; the document-structure text cites Figure 4.2 where the caption is 4.4; the align-attribute text cites Figure 4.4 where the caption is 4.5; the table example text cites Figure 4.5 where the caption is 4.11) and table numbers are reused (two different tables are each numbered 4.4/4.5). This lesson teaches from the pictured content and cites no figure or table number. "statment" is misspelled in review headings throughout the book; the correct spelling is taught. Guide-side faults: the guide prints "HMTL" for HTML in its §4.6 heading and Unit 4 topic lists; the correct HTML is taught. Guide-side: in the guide's Activity 4.9 worked answer the three logo files are first saved with .png names and then referenced in the code with .jpg names — the two halves do not match. This lesson teaches one consistent form (the file name saved and the name referenced are the same) and flags the mismatch here.
 
@@ -31,4 +34,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Armenia's own way (Armenia Grade 9 G9 teacher): Matches Book 16: 10 standard themes (9-1 to 9-10) with outcomes and competencies, a thematic plan, worked analyses and solutions for the student book's tasks (§1–§17, including the HTML/CSS and Python blocks), and assessment criteria for creative thinking, problem solving, independent and project work.
 
-Searchable tags: image links, absolute URL, relative URL, logo links, Grade 11 ICT Ethiopia, libya, grade 11 it student term 2, bangladesh, hsc ict classes xi xii and alim, armenia, grade 9
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: image links, absolute URL, relative URL, logo links, Grade 11 ICT Ethiopia, libya, grade 11 it student term 2, bangladesh, hsc ict classes xi xii and alim, armenia, grade 9, south sudan, grade 12 s4 student

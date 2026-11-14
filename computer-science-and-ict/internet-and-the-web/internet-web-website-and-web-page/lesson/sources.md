@@ -1,6 +1,6 @@
 # Sources — Internet, Web, website and web page
 
-countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Bangladesh, Jordan, Armenia, Vietnam
+countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Bangladesh, Jordan, Armenia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -29,6 +29,10 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fij
 **Book 15:** *المهارات الرقمية — الصف العاشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 10 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-882-6. Grade 10 (student book). 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
 **Book 16:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
+
+**Book 19:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
+
+**Book 20:** *Secondary ICT — Information Communication Technology, Teacher's Guide 3* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete — carried as filed. (teacher guide — evidence)
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -61,8 +65,10 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fij
 | Lesson 22 "The World Wide Web" | Afghanistan, *Computer, Grade 12*, printed p. 87 |
 | Unit 4 Ch.1 Lesson 2 The internet and the World Wide Web | Iraq, *Computer, Grade 8*, printed p. 119 |
 | Unit 3 Lesson 1: The World Wide Web | Sudan, *ICT, Grade 7*, printed p. 54 |
+| Unit 1 Simple Websites / 1.0 Introduction to simple websites | South Sudan Grade 11 S3 Student, printed p. 1 |
+| Unit 1: Simple Websites — specific learning experiences (teaching introduction) | South Sudan Grade 11 S3 Teacher, printed p. 1 (teacher guide — evidence) |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Bangladesh, Jordan, Armenia, Vietnam).**
+**Acceptance count: taught in 14 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan, Bangladesh, Jordan, Armenia, Vietnam, South Sudan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -94,6 +100,10 @@ Vietnam's own way (Grade 4 Tin học 4): Grade 4 is where the visual programming
 
 Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
 
-Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11, mauritania, grade 7, iraq, grade 8, sudan, grade 7, cuba, grade 8, egypt, grade 5, fiji, year 12, bhutan, class iv, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 7, vietnam, grade 4 tin học 4, grade 6 tin học 6
+South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
+
+South Sudan's own way (Grade 11 S3 Teacher): The guide teaches the same three units through plenaries, discussion and problem-based learning, and adds subject content the student book does not have: a full Blogger classroom-blog editor guide, WordPress.com vs WordPress.org, eight orientations for teaching programming, and a long C/C++ practical guide with worked examples and ten answered practical programs (pay, banknotes, passwords, arrays, quadrants). (teacher guide — evidence)
+
+Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11, mauritania, grade 7, iraq, grade 8, sudan, grade 7, cuba, grade 8, egypt, grade 5, fiji, year 12, bhutan, class iv, bangladesh, hsc ict classes xi xii and alim, jordan, grade 10 term 1 digital skills, armenia, grade 7, vietnam, grade 4 tin học 4, grade 6 tin học 6, south sudan, grade 11 s3 student, grade 11 s3 teacher
 
 Growth note (Wave 3, band E4): Sub lessons 1–3 are the original Grade 7/8 lesson, unchanged in content; Sub lesson 4 is the Grade 11 depth added from the Grade 11 book (printed pp. 76–77) — the same Web, with its inventor, place, year and four foundations made explicit. Note the Grade 8 part of this lesson gives the Web's invention as 1991 (Grade 8 book, printed p. 64) while the Grade 11 book gives 1989 at CERN — both are taught as their own books state them, in their own sub lessons, and the Grade 11 date is the one the Grade 11 sub lesson and its questions use. Unit 4 figure references and captions repeatedly disagree in the Grade 11 book and table numbers are reused; this growth cites no figure or table number.

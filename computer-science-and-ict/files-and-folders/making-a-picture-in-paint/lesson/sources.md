@@ -1,6 +1,6 @@
 # Sources — Making a picture in Paint
 
-countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova, Jordan, Armenia, Vietnam
+countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova, Jordan, Armenia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -55,6 +55,10 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbeki
 
 **Book 27:** *Tin học 5 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2024 (approved by the National Textbook Appraisal Council, Decision 1963/QĐ-BGDĐT, 5 Jul 2023; 2nd reprint); ISBN 978-604-0-39221-3. Grade 5 (student book). 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 28:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 29:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating an image file in Paint | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 10 |
@@ -92,8 +96,10 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbeki
 | working with the captured picture in Paint | Jordan Grade 6 G6 Workbook, printed p. 54 |
 | Lesson 4 Programs for creating pictures (Theme 3 With and without a computer) | Armenia Grade 3 G3 student, printed p. 23 |
 | Bài 8A Làm quen với phần mềm đồ họa (Getting to know graphics software — track A) | Vietnam Grade 5 Tin học 5, printed p. 37 |
+| 1.5 Ms Paint | South Sudan Grade 9 S1 Student, printed p. 45 |
+| 1.5 MS Paint (teaching Paint) | South Sudan Grade 9 S1 Teacher, printed p. 22 (teacher guide — evidence) |
 
-**Acceptance count: taught in 15 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova, Jordan, Armenia, Vietnam).**
+**Acceptance count: taught in 16 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia, Rwanda, Moldova, Jordan, Armenia, Vietnam, South Sudan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -146,4 +152,8 @@ Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan,
 
 Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into two alternative tracks — track A makes digital products with graphics software, track B follows tutorial videos to make physical craft products — and its programming theme is taught in a visual block language as pure structures first (sequence, loop, branch), then variables and expressions, ending with turning a written script/storyboard into a program.
 
-Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2, sudan, grade 5, uzbekistan, grade 5, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, mongolia, grade 6 it vi, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, jordan, grade 1 digital skills workbook, grade 1 digital skills teacher guide, grade 5 digital skills workbook, grade 6 digital skills workbook, armenia, grade 3, vietnam, grade 5 tin học 5
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2, sudan, grade 5, uzbekistan, grade 5, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, mongolia, grade 6 it vi, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, moldova, grade 2 educatie digitala, moldova, grade 7 informatica, jordan, grade 1 digital skills workbook, grade 1 digital skills teacher guide, grade 5 digital skills workbook, grade 6 digital skills workbook, armenia, grade 3, vietnam, grade 5 tin học 5, south sudan, grade 9 s1 student, grade 9 s1 teacher

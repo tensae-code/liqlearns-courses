@@ -1,6 +1,6 @@
 # Sources — Inserting a Table of Contents
 
-countries: Mongolia, Indonesia, Vietnam
+countries: Mongolia, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
@@ -12,6 +12,8 @@ countries: Mongolia, Indonesia, Vietnam
 
 **Book 5:** *Chuyên đề học tập Tin học 10 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31090-3. Grade 10 (student book). 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 6:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Lesson 17 Building a summary / table of contents from heading styles (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 29 (teacher guide — evidence) |
@@ -19,8 +21,12 @@ countries: Mongolia, Indonesia, Vietnam
 | Bab 2 C. Fitur lanjut aplikasi perkantoran: heading H1/H2, modify style, daftar isi otomatis (filed as word-processing/styles-and-automatic-table-of-contents; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 62 |
 | Bab 2 (Semester 1) Panduan pembelajaran: fitur lanjut aplikasi office (daftar gambar dan daftar isi otomatis) (filed as word-processing/a-table-of-contents; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK teacher guide, printed p. 68 (teacher guide — evidence) |
 | Chuyên đề 1, Bài 4 Tạo mục lục và xuất bản văn bản (Creating a table of contents and publishing the document) (filed as NEW LESSON NEEDED — word-processing/creating-a-table-of-contents; stocked in this lesson because this lesson teaches creating a table of contents — built from heading styles, then updated as one field) | Vietnam Grade 10 Chuyên đề Tin học 10 Ứng dụng, printed p. 20 |
+| 2.0.1 Creating table of contents (filed as NEW LESSON NEEDED — word-processing/creating-a-table-of-contents-in-word; stocked in this lesson because this lesson builds a table of contents from heading styles — exactly South Sudan's method, built-in heading styles first, then the table) | South Sudan Grade 12 S4 Student, printed p. 45 |
+| 2.0.2 Generating a Table of Contents Using Built-In Header Styles in Word (filed as NEW LESSON NEEDED — word-processing/creating-a-table-of-contents-in-word; stocked in this lesson because this lesson builds a table of contents from heading styles — exactly South Sudan's method, built-in heading styles first, then the table) | South Sudan Grade 12 S4 Student, printed p. 45 |
+| 2.0.3 Creating a Table of Contents from Custom Styles in Word (filed as NEW LESSON NEEDED — word-processing/table-of-contents-from-custom-styles; stocked in this lesson because a table of contents from custom styles is the same styles mechanism this lesson teaches, with the learner's own styles standing in for the built-in ones) | South Sudan Grade 12 S4 Student, printed p. 47 |
+| 2.0.4 Manually Updating the Table of Contents in Word (filed as NEW LESSON NEEDED — word-processing/updating-a-table-of-contents; stocked in this lesson because updating the table is this lesson's Update Table step, used after headings or pages change) | South Sudan Grade 12 S4 Student, printed p. 49 |
 
-**Acceptance count: taught in 3 countries (Mongolia, Indonesia, Vietnam). Mauritania's teacher-guide evidence is named here and counted nowhere.**
+**Acceptance count: taught in 4 countries (Mongolia, Indonesia, Vietnam, South Sudan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Mauritania, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — word-processing/inserting-a-table-of-contents). It sits in the Word Processing title (word-processing/), following the guide's own order. It stands on teacher-guide evidence only: Mauritania is named here and counted nowhere, and the lesson's countries list is empty.
 
@@ -34,4 +40,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK teacher guide): Per-
 
 Vietnam's own way (Grade 10 Chuyên đề Tin học 10 Ứng dụng): the whole Applied study-topics book is one continuous project — each class group role-plays a travel company advertising Vietnamese destinations at a "Ba miền" tourism fair, producing in turn a Word travel handbook, an Excel quotation program, and a PowerPoint media product.
 
-Searchable tags: table of contents, heading styles, references tab, update table, word, word processing, mauritania, grade 7, mongolia, grade 9 it ix, indonesia, grade 10, grade 10, vietnam, grade 10 chuyên đề tin học 10 ứng dụng
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: table of contents, heading styles, references tab, update table, word, word processing, mauritania, grade 7, mongolia, grade 9 it ix, indonesia, grade 10, grade 10, vietnam, grade 10 chuyên đề tin học 10 ứng dụng, south sudan, grade 12 s4 student

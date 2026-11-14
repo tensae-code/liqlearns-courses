@@ -1,6 +1,6 @@
 # Sources — Securing your computer — the checklist
 
-countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece, Bangladesh, Jordan, Indonesia
+countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece, Bangladesh, Jordan, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -42,6 +42,10 @@ countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece, Bang
 
 **Book 20:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
 
+**Book 21:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 22:** *Secondary ICT — Information Communication Technology, Teacher's Guide 1* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (teacher guide). 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The securing steps — software, firewall, updates, attachments, passwords, caution, scans and backups | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 208–209 |
@@ -66,8 +70,10 @@ countries: Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece, Bang
 | The two families; the technical table of seven measures (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 188–189 |
 | Copy protection's components; seven ways to protect programs and data; non-technical prevention keyed (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 5 (Activity 5.7 key), printed pp. 96–97 |
 | Unit 4 Ch.2 Lesson 2 Protection measures against cyber attacks | Iraq, *Computer, Grade 10*, printed p. 134 |
+| 4.4 Security and Privacy settings | South Sudan Grade 9 S1 Student, printed p. 114 |
+| Security and privacy settings | South Sudan Grade 9 S1 Teacher, printed p. 57 (teacher guide — evidence) |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece, Bangladesh, Jordan, Indonesia).**
+**Acceptance count: taught in 12 countries (Ethiopia, Uganda, Iraq, Fiji, Sri Lanka, Rwanda, Kuwait, Greece, Bangladesh, Jordan, Indonesia, South Sudan).**
 
 Book error, taught corrected: the student book numbers two different activities 5.4 in this unit; both are taught in this build, in the book's order, and the duplicate number is flagged here rather than silently renumbered. The teacher guide prints "treats" for threats throughout its Unit 5; the build teaches 'threats'.
 
@@ -103,4 +109,8 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semes
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
 
-Searchable tags: securing, antivirus, firewall, updates, backup, passwords 15 characters, think before you click, Grade 9 ICT Ethiopia Unit 5, uganda, iraq, grade 10, cuba, grade 5, cuba, grade 5, fiji, years 7-8, year 12, sri lanka, grade 7 reading book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 10 information technology term 1, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 9 digital technology, jordan, grade 9 term 2 digital skills, indonesia, grade 9, grade 10, grade 12
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+South Sudan's own way (Grade 9 S1 Teacher): The guide teaches the same four units as the student book through co-operative group investigation, with answer keys and assessment guidelines; distinctive content includes using the internet to promote South Sudanese culture and creating user accounts from the Windows command line (net user). (teacher guide — evidence)
+
+Searchable tags: securing, antivirus, firewall, updates, backup, passwords 15 characters, think before you click, Grade 9 ICT Ethiopia Unit 5, uganda, iraq, grade 10, cuba, grade 5, cuba, grade 5, fiji, years 7-8, year 12, sri lanka, grade 7 reading book, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 10 information technology term 1, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 9 digital technology, jordan, grade 9 term 2 digital skills, indonesia, grade 9, grade 10, grade 12, south sudan, grade 9 s1 student, grade 9 s1 teacher

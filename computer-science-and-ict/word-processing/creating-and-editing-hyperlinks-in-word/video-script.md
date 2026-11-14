@@ -1,0 +1,8 @@
+# Video script — Creating and Editing Hyperlinks in Word
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+This part of South Sudan's book teaches **Create or edit a hyperlink** — covering: Create or edit a hyperlink; Turn off automatic hyperlinks. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Create or edit a hyperlink; Turn off automatic hyperlinks. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — create or edit a hyperlink is part of that chain..
+This part of South Sudan's book teaches **Hyperlink feature and its uses** — covering: Hyperlink feature and its uses. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Hyperlink feature and its uses. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — hyperlink feature and its uses is part of that chain..

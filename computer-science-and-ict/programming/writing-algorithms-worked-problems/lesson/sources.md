@@ -1,6 +1,6 @@
 # Sources — Writing algorithms — worked problems
 
-countries: Ethiopia, Palestine, Sudan, Bhutan, Malaysia, Greece
+countries: Ethiopia, Palestine, Sudan, Bhutan, Malaysia, Greece, South Sudan
 
 **Book 1:** *Information Technology, Teacher's Guide, Grade 10* (teacher guide — evidence) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). Developed with Hawassa University (with Addis Ababa, Bahir Dar and Jimma universities thanked). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 122 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-teacher-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Palestine, Sudan, Bhutan, Malaysia, Greece
 
 **Book 10:** *Ανάπτυξη Εφαρμογών σε Προγραμματιστικό Περιβάλλον — Τετράδιο Μαθητή, Γ΄ Γενικού Λυκείου (Anaptyxi Efarmogon, Student Workbook)* (student workbook, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2016 (2018 reprint filemarks); ISBN 978-960-06-2447-2, book code 0-22-0204. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 11:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Problems 1–5 — the worked algorithm solutions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6 (§6.8 key), printed pp. 117–122 |
@@ -36,8 +38,10 @@ countries: Ethiopia, Palestine, Sudan, Bhutan, Malaysia, Greece
 | 7.6 Writing Algorithm | Bhutan, *Literacy with ICT, Class VI*, printed p. 116 |
 | 1.2.1 Penggunaan Algoritma untuk Menyelesaikan Masalah | Malaysia Grade 10 SK Tingkatan 4, printed p. 22 |
 | Workbook Ch.2 Basic concepts of algorithms (worked examples and activities) | Greece Grade 12 Anaptyxi Workbook, printed p. 15 |
+| 3.1.3 How to write an algorithm — Sum of Two Numbers example | South Sudan Grade 11 S3 Student, printed p. 68 |
+| Algorithm example — a regression subroutine (SUB Regress) (filed as NEW LESSON NEEDED — programming/regression-as-an-algorithm-example; stocked in this lesson because a worked algorithm example — the regression subroutine — belongs with this lesson's worked algorithm problems) | South Sudan Grade 11 S3 Student, printed p. 70 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Palestine, Sudan, Bhutan, Malaysia, Greece).** The worked solutions stand on teacher-guide evidence (the guide's §6.8 key); the problems themselves are the student book's own review set.
+**Acceptance count: taught in 7 countries (Ethiopia, Palestine, Sudan, Bhutan, Malaysia, Greece, South Sudan).** The worked solutions stand on teacher-guide evidence (the guide's §6.8 key); the problems themselves are the student book's own review set.
 
 Book error taught corrected: the teacher guide's §6.8 key defines an algorithm as a sequence of “ambiguous” step-by-step instructions (printed p. 116) — the opposite of both books' wording everywhere else. The lessons teach **unambiguous**, and the prime check and quadratic solutions above follow the key's worked steps with that word corrected.
 
@@ -57,4 +61,6 @@ Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Kompute
 
 Greece's own way (Grade 12, Anaptyxi Efarmogon Student Workbook — Tetradio Mathiti): the workbook is the practical half of AEPP — every main-book chapter 1-10 is reworked as graded examples and activities (medium/advanced marked) drawn from daily life and other subjects, expressed in ΓΛΩΣΣΑ and also in real lab languages (QuickBasic, Turbo Pascal, Visual Basic, Delphi), closing with self-assessment tests and printed answers.
 
-Searchable tags: worked algorithms, triangle area, semi-perimeter, Heron, greatest of three, prime check, discriminant, quadratic formula, teacher guide evidence, Grade 10 ICT Ethiopia, mauritania, grade 9, saudi arabia, grade 4, palestine, sudan, grade 9, grade 11, bhutan, class vi, malaysia, grade 10 sk tingkatan 4, greece, grade 12 anaptyxi workbook glossa
+South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
+
+Searchable tags: worked algorithms, triangle area, semi-perimeter, Heron, greatest of three, prime check, discriminant, quadratic formula, teacher guide evidence, Grade 10 ICT Ethiopia, mauritania, grade 9, saudi arabia, grade 4, palestine, sudan, grade 9, grade 11, bhutan, class vi, malaysia, grade 10 sk tingkatan 4, greece, grade 12 anaptyxi workbook glossa, south sudan, grade 11 s3 student

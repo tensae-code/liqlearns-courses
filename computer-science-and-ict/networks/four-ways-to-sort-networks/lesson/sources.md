@@ -1,6 +1,6 @@
 # Sources — Four ways to sort networks
 
-countries: Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia
+countries: Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -23,6 +23,10 @@ countries: Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia
 
 **Book 11:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
 
+**Book 12:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 13:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four perspectives | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 46 |
@@ -36,8 +40,10 @@ countries: Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia
 | 3.1 Types of networks | Armenia Grade 7 G7 student, printed p. 46 |
 | Theme 7-10 Types and structure of networks (§12) | Armenia Grade 7 G7 teacher, printed p. 44 (teacher guide — evidence) |
 | Bab 4 B. Klasifikasi jaringan komputer (berdasarkan area: LAN, MAN, WAN, internet; kelas IP Address) | Indonesia Grade 12 G12 Informatika student, printed p. 91 |
+| 1.2 Types of computer networks | South Sudan Grade 10 S2 Student, printed p. 7 |
+| Types of computer networks (PAN, LAN, WAN, MAN) | South Sudan Grade 10 S2 Teacher, printed p. 7 (teacher guide — evidence) |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Fiji, Libya, Laos, Greece, Jordan, Armenia, Indonesia, South Sudan).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -61,4 +67,8 @@ Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this g
 
 Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
 
-Searchable tags: classifying networks, medium, size, topology, access, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 7, indonesia, grade 12
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
+
+Searchable tags: classifying networks, medium, size, topology, access, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 7, indonesia, grade 12, south sudan, grade 10 s2 student, grade 10 s2 teacher

@@ -1,0 +1,9 @@
+# File Sharing on An Intranet — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — File sharing in an intranet set up
+Sub lesson 1 questions from the type files. Pass mark: File sharing on an intranet means placing files in shared folders on the organisation's private network so that authorised colleagues can open, copy and work on them from their own computers; The learner sets up sharing in an intranet arrangement: choosing what is shared, placing it where the network can reach it, and opening a shared file from another machine; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 22 — File sharing in an intranet set up; Because work inside an organisation is shared work; the intranet makes one copy of a file serve everyone who is allowed to see it; The book's own order for file sharing in an intranet set up — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — Doing it — File sharing in an intranet set up in practice
+Sub lesson 2 questions from the type files. Pass mark: File Sharing on An Intranet is learned by doing: the learner sets up sharing in an intranet arrangement: choosing what is shared, placing it where the network can reach it, and opening a shared file from another machine; The learner sets up sharing in an intranet arrangement: choosing what is shared, placing it where the network can reach it, and opening a shared file from another machine; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 22 — File sharing in an intranet set up; Because work inside an organisation is shared work; the intranet makes one copy of a file serve everyone who is allowed to see it; The book's own order for doing it — File sharing in an intranet set up in practice — and how to show it in practice, not only name it.

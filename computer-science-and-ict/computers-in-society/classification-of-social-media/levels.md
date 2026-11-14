@@ -1,0 +1,9 @@
+# Classification of Social Media — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Classification of social media
+Sub lesson 1 questions from the type files. Pass mark: Social media can be classified — sorted into kinds by what they mainly do: sharing with friends, publishing media, discussing, reviewing, or connecting for work; The learner takes the common platforms and sorts each into its kind, giving the reason — what the platform is mainly used for decides its class; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 112 — Classification of social media; Because a classification turns a crowd of brand names into a small map a learner can reason about — new platforms can be placed on it as they appear; The book's own order for classification of social media — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — Doing it — Classification of social media in practice
+Sub lesson 2 questions from the type files. Pass mark: Classification of Social Media is learned by doing: the learner takes the common platforms and sorts each into its kind, giving the reason — what the platform is mainly used for decides its class; The learner takes the common platforms and sorts each into its kind, giving the reason — what the platform is mainly used for decides its class; In Secondary ICT, South Sudan Grade 10 S2 Student, printed p. 112 — Classification of social media; Because a classification turns a crowd of brand names into a small map a learner can reason about — new platforms can be placed on it as they appear; The book's own order for doing it — Classification of social media in practice — and how to show it in practice, not only name it.

@@ -1,6 +1,6 @@
 # Sources — Sorting a worksheet
 
-countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia, Vietnam
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -30,6 +30,10 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongo
 
 **Book 14:** *Tin học 8 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023 (3rd reprint); ISBN 978-604-0-35038-1. Grade 8 (student book). 98 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 15:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 16:** *Secondary ICT — Information Communication Technology, Teacher's Guide 2* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (teacher guide). 55 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — sorting defined: alphabetical, numerical, by date, custom list, by cell/font colour or icon; the scope decision — whole sheet (rows move together) vs only a range | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 110–111 |
@@ -49,8 +53,10 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongo
 | Additional tasks with solutions: sorting data in a table, removing duplicates, grouping | Armenia Grade 11 G11 teacher, printed p. 69 (teacher guide — evidence) |
 | Bab 2 D.1 Sort | Indonesia Grade 7 G7 Informatika student, printed p. 76 |
 | Bài 6 Sắp xếp và lọc dữ liệu §1 (Sorting data) | Vietnam Grade 8 Tin học 8, printed p. 27 |
+| 2.9.1 Sorting data | South Sudan Grade 10 S2 Student, printed p. 87 |
+| 2.9 Sorting data | South Sudan Grade 10 S2 Teacher, printed p. 36 (teacher guide — evidence) |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia, Vietnam).**
+**Acceptance count: taught in 12 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia, Vietnam, South Sudan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -75,4 +81,8 @@ Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdek
 
 Vietnam's own way (Grade 8 Tin học 8): Grade 8 opens with a history of calculating tools (abacus, Pascal's Pascaline, computer generations) and its applied theme is a genuine fork — track a does advanced Word/PowerPoint, track b learns photo editing in GIMP; programming is Scratch again, but now with data representation and a named debugging lesson (Gỡ lỗi).
 
-Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, uzbekistan, grade 9, mongolia, grade 9 it ix, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou, armenia, grade 11, indonesia, grade 7, vietnam, grade 8 tin học 8
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+South Sudan's own way (Grade 10 S2 Teacher): The guide mirrors the student book's three units with teaching notes, exercise answers and research tasks (e.g. learners research hybrid topologies themselves); it keeps the same emphasis on resource sharing in an intranet and on Excel as an analysis tool (what-if, Goal Seek, Solver). (teacher guide — evidence)
+
+Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, uzbekistan, grade 9, mongolia, grade 9 it ix, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou, armenia, grade 11, indonesia, grade 7, vietnam, grade 8 tin học 8, south sudan, grade 10 s2 student, grade 10 s2 teacher

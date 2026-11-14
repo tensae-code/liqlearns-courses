@@ -1,6 +1,6 @@
 # Sources — Working with Styles
 
-countries: North Macedonia, Mongolia, Moldova
+countries: North Macedonia, Mongolia, Moldova, South Sudan
 
 **Book 1:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
@@ -8,13 +8,17 @@ countries: North Macedonia, Mongolia, Moldova
 
 **Book 3:** *INFORMATICĂ — Manual pentru clasa a 8-a (Informatică, Grade 8)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-235-7. Authors: Anatol Gremalschi, Iurie Mocanu, Ion Spinei, Ludmila Gremalschi. 144 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 4:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Working with Styles" | North Macedonia, *Informatics, Year 1*, Тема 4 §4.1, printed p. 195 |
 | 2.1.2 Formatting with ready-made styles (applying styles, changing the whole style set — colours, fonts, spacing; table styles) (filed as NEW LESSON NEEDED — word-processing/formatting-with-styles-and-style-sets; stocked in this lesson because this lesson teaches working with styles — applying styles and changing the whole document's look through them, style sets included — as its own lesson) | Mongolia Grade 8 IT VIII, printed p. 27 |
 | 1.12 Stiluri și șabloane (filed as NEW LESSON NEEDED — word-processing/styles-and-templates; stocked in this lesson because this lesson teaches styles — named bundles of formatting applied in one click, the base on which templates are built — the styles half of Moldova's styles-and-templates section) | Moldova Grade 8 Informatică, printed p. 53 |
+| 2.1.2 Creating new styles (filed as NEW LESSON NEEDED — word-processing/creating-new-styles-in-word; stocked in this lesson because its second sub lesson is editing and creating styles — creating a new style from scratch is that work) | South Sudan Grade 12 S4 Student, printed p. 55 |
+| 2.1.3 Creating a new Style from scratch (filed as NEW LESSON NEEDED — word-processing/creating-new-styles-in-word; stocked in this lesson because its second sub lesson is editing and creating styles — creating a new style from scratch is that work) | South Sudan Grade 12 S4 Student, printed p. 59 |
 
-**Acceptance count: taught in 3 countries (North Macedonia, Mongolia, Moldova).**
+**Acceptance count: taught in 4 countries (North Macedonia, Mongolia, Moldova, South Sudan).**
 
 Placement choice: this lesson was built new for the ICT expansion (North Macedonia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — word-processing/working-with-styles). It sits in the Word Processing title (word-processing/), following the book's own order.
 
@@ -24,4 +28,6 @@ Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a fo
 
 Moldova's own way (Grade 8, Informatică): Grade 8 pairs a full office-grade Word course (styles, templates, mail merge, formulas) with algorithmic thinking taught formally — executors, subalgorithms, counted/conditional loops, branching — then implemented instruction by instruction in Pascal, closing with image editing in Paint 3D and GIMP.
 
-Searchable tags: styles, word, formatting, headings, modify style, word processing, north macedonia, grade 10, mongolia, grade 8 it viii, moldova, grade 8 informatica
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: styles, word, formatting, headings, modify style, word processing, north macedonia, grade 10, mongolia, grade 8 it viii, moldova, grade 8 informatica, south sudan, grade 12 s4 student

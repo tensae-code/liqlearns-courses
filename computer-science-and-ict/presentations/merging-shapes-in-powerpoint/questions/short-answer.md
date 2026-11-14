@@ -1,0 +1,33 @@
+# Merging Shapes in PowerPoint — short answer
+
+Answer in a short sentence of your own.
+
+**1. (Sub lesson 1) What is merging shapes in PowerPoint 2013 (practical Q&A)?**
+**Answer: This part of South Sudan's book teaches Merging shapes in PowerPoint 2013 (practical Q&A) — covering: Merging shapes in PowerPoint 2013 (practical Q&A). South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.**
+
+**2. (Sub lesson 1) What is the key work in merging shapes in PowerPoint 2013 (practical Q&A)?**
+**Answer: The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Merging shapes in PowerPoint 2013 (practical Q&A).**
+
+**3. (Sub lesson 1) Where does South Sudan teach merging shapes in PowerPoint 2013 (practical Q&A)?**
+**Answer: In Secondary ICT, South Sudan Grade 12 S4 Teacher, printed p. 55 — Merging shapes in PowerPoint 2013 (practical Q&A)**
+
+**4. (Sub lesson 1) Why does merging shapes in PowerPoint 2013 (practical Q&A) matter?**
+**Answer: Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — merging shapes in PowerPoint 2013 (practical Q&A) is part of that chain.**
+
+**5. (Sub lesson 1) What should a learner remember about merging shapes in PowerPoint 2013 (practical Q&A)?**
+**Answer: The book's own order for merging shapes in PowerPoint 2013 (practical Q&A) — and how to show it in practice, not only name it**
+
+**6. (Sub lesson 2) What is doing it — Merging shapes in PowerPoint 2013 (practical Q&A) in practice?**
+**Answer: This part of South Sudan's book teaches Doing it — Merging shapes in PowerPoint 2013 (practical Q&A) in practice — covering: Merging shapes in PowerPoint 2013 (practical Q&A). South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named.**
+
+**7. (Sub lesson 2) What is the key work in doing it — Merging shapes in PowerPoint 2013 (practical Q&A) in practice?**
+**Answer: The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Merging shapes in PowerPoint 2013 (practical Q&A).**
+
+**8. (Sub lesson 2) Where does South Sudan teach doing it — Merging shapes in PowerPoint 2013 (practical Q&A) in practice?**
+**Answer: In Secondary ICT, South Sudan Grade 12 S4 Teacher, printed p. 55 — Merging shapes in PowerPoint 2013 (practical Q&A)**
+
+**9. (Sub lesson 2) Why does doing it — Merging shapes in PowerPoint 2013 (practical Q&A) in practice matter?**
+**Answer: Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Merging shapes in PowerPoint 2013 (practical Q&A) in practice is part of that chain.**
+
+**10. (Sub lesson 2) What should a learner remember about doing it — Merging shapes in PowerPoint 2013 (practical Q&A) in practice?**
+**Answer: The book's own order for doing it — Merging shapes in PowerPoint 2013 (practical Q&A) in practice — and how to show it in practice, not only name it**

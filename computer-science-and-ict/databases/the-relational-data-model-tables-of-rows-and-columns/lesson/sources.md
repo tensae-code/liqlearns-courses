@@ -1,6 +1,6 @@
 # Sources — The relational data model — tables of rows and columns
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia, Vietnam
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -36,6 +36,10 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 
 **Book 17:** *Tin học 11 — Định hướng Tin học ứng dụng (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2023; ISBN 978-604-0-35059-6. Grade 11 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 18:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+**Book 19:** *Secondary ICT — Information Communication Technology, Teacher's Guide 4* (teacher guide, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (teacher guide). 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the relational model represents data as two-dimensional tables called relations; each row is a record (tuple) holding one unique instance; each column is an attribute (field) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 58–59 |
@@ -59,8 +63,10 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya,
 | "The Table as a Database" | North Macedonia, *Informatics, Year 1*, Тема 5 §5.1, printed p. 219 |
 | Unit 1 Lesson 2: Linked tables — avoiding repeated data | Sudan, *ICT, Grade 7*, printed p. 12 |
 | 9-2 Database [2] | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 115 |
+| 1.1.2 Data organization | South Sudan Grade 12 S4 Student, printed p. 6 |
+| 1.2 Data management, organization & format | South Sudan Grade 12 S4 Teacher, printed p. 7 (teacher guide — evidence) |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia, Vietnam).**
+**Acceptance count: taught in 14 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Egypt, Fiji, Libya, Kuwait, Moldova, Bangladesh, Armenia, Vietnam, South Sudan).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -92,4 +98,8 @@ Vietnam's own way (Grade 11 Tin học 11 Khoa học máy tính): from Grade 11 t
 
 Vietnam's own way (Grade 11 Tin học 11 Tin học ứng dụng): Bài 1–16 are the same common core as the Computer Science orientation book (spot-checked page-identical, e.g. Bài 1); the Applied-only second half is hands-on database administration in Microsoft Access (through backup), then photo editing in GIMP and film-making/animation.
 
-Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10, sudan, grade 7, egypt, grade 10, fiji, year 13, libya, grade 10 it student, grade 10 it teacher guide, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 5, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+South Sudan's own way (Grade 12 S4 Teacher): The guide mirrors the student book's three units with teaching sequences, observation/conversation assessment points and worked projects — designing a database for a local medical practice, asking how books are managed in a school library, and a capstone project to design the school's own website, judged on navigation and usability. (teacher guide — evidence)
+
+Searchable tags: relational data model, relation, record, tuple, attribute, field, join, linking attribute, Country City, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 10, sudan, grade 7, egypt, grade 10, fiji, year 13, libya, grade 10 it student, grade 10 it teacher guide, kuwait, grade 11 information technology term 1, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim, armenia, grade 5, vietnam, grade 11 tin học 11 khoa học máy tính, grade 11 tin học 11 tin học ứng dụng, south sudan, grade 12 s4 student, grade 12 s4 teacher

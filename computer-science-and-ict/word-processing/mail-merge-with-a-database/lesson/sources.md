@@ -1,6 +1,6 @@
 # Sources — Mail Merge with a Database
 
-countries: North Macedonia, Rwanda, Moldova, Indonesia
+countries: North Macedonia, Rwanda, Moldova, Indonesia, South Sudan
 
 **Book 1:** *Информатика за II (втора) година гимназиско образование (Informatics for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-843/1 of 22.07.2026); ISBN 978-608-4777-47-2. 330 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
@@ -14,6 +14,8 @@ countries: North Macedonia, Rwanda, Moldova, Indonesia
 
 **Book 6:** *Panduan Guru Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-495-5 (jil. 1 PDF). Grade 10 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
+**Book 7:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Making Circular Letters (Mail Merge) with a Database" | North Macedonia, *Informatics, Year 2*, Тема 3, printed p. 232 |
@@ -22,8 +24,9 @@ countries: North Macedonia, Rwanda, Moldova, Indonesia
 | 1.13 Corespondența combinată (filed as NEW LESSON NEEDED — word-processing/mail-merge-combined-correspondence; stocked in this lesson because this lesson teaches mail merge — one document poured over a data source's records — the combined correspondence of Moldova's section) | Moldova Grade 8 Informatică, printed p. 58 |
 | Bab 3 B. Otomatisasi dengan perangkat lunak perkantoran: Mail Merge (filed as word-processing/mail-merge-making-many-letters; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika student, printed p. 136 |
 | Panduan Khusus Bab 3: panduan pembelajaran teknologi dan budaya digital (otomatisasi perkantoran dan Mail Merge) (filed as word-processing/mail-merge; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika teacher guide, printed p. 171 (teacher guide — evidence) |
+| 2.5 Mail merging (filed as NEW LESSON NEEDED — word-processing/mail-merge-in-word; stocked in this lesson because mail merge is this lesson's whole subject — one main document merged with a data source, record by record) | South Sudan Grade 12 S4 Student, printed p. 69 |
 
-**Acceptance count: taught in 4 countries (North Macedonia, Rwanda, Moldova, Indonesia).**
+**Acceptance count: taught in 5 countries (North Macedonia, Rwanda, Moldova, Indonesia, South Sudan).**
 
 Placement choice: this lesson was built new for the ICT expansion (North Macedonia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — word-processing/mail-merge-with-a-database). It sits in the Word Processing title (word-processing/), following the book's own order.
 
@@ -39,4 +42,6 @@ Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high In
 
 Indonesia's own way (Indonesia Grade 10 G10 Informatika teacher guide): Chapter guides (Panduan Khusus) for the four revised Grade 10 chapters — data and its validation, algorithms and data structures, digital technology and culture, information security and management — with the same guide structure as the junior guides. (teacher guide — evidence)
 
-Searchable tags: mail merge, database, merge fields, letters, word processing, north macedonia, grade 11, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, moldova, grade 8 informatica, indonesia, grade 10, grade 10
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: mail merge, database, merge fields, letters, word processing, north macedonia, grade 11, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, moldova, grade 8 informatica, indonesia, grade 10, grade 10, south sudan, grade 12 s4 student

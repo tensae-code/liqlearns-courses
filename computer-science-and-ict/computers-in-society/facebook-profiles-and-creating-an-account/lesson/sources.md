@@ -1,6 +1,6 @@
 # Sources — Facebook — profiles and staying connected; creating an account
 
-countries: Ethiopia, Bhutan, Libya
+countries: Ethiopia, Bhutan, Libya, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Bhutan, Libya
 
 **Book 3:** *الحاسوب للصف التاسع من مرحلة التعليم الأساسي (Computer, Grade 9, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 137 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 4:** *Secondary ICT — Information Communication Technology, Student's Book 2* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 10 (student book). 142 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What Facebook is | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 72 |
 | Sub lesson 2 — Creating a Facebook account — the steps in order | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 72 |
 | 5.2 Posting on Social Media (creating a Facebook account, posting text and pictures, choosing who can view) | Bhutan, *Literacy with ICT, Class VII*, printed p. 70 |
 | Unit 3 Ch 2, Facebook | Libya Grade 9 Computer, printed p. 134 |
+| 3.1.1 Facebook | South Sudan Grade 10 S2 Student, printed p. 113 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bhutan, Libya).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Libya, South Sudan).**
 
 The account steps are taught in the student book's exact order, as the placements give them. Nothing in this lesson claims a page the placements do not give.
 
@@ -23,4 +26,6 @@ Bhutan's own way (Class VII, Literacy with ICT student book): Social media is ta
 
 Libya's own way (Grade 9, Computer student book): the whole year is networks and the internet — a full networks unit (types, cables, topology, components), then Internet Explorer and Google search taught as named skills, then email and a closing tour of social sites (Facebook, YouTube, Twitter, Instagram, Yahoo) with practical activities.
 
-Searchable tags: Facebook, profile, Create New Account, Sign Up, Log in, social network, Ethiopia Grade 8 ICT, bhutan, class vii, libya, grade 9 computer
+South Sudan's own way (Grade 10 S2 Student): Year 2 moves from single-computer skills to connected and analytical work — networks taught through intranet file-sharing and a full Microsoft Outlook unit (contacts, calendar, meetings, task lists), then a deep Excel unit that goes well beyond basics into lookup/financial/text functions, inventories, correlation and regression, what-if analysis with Solver, and workbook protection; social media is taught platform by platform with its ethical and legal issues.
+
+Searchable tags: Facebook, profile, Create New Account, Sign Up, Log in, social network, Ethiopia Grade 8 ICT, bhutan, class vii, libya, grade 9 computer, south sudan, grade 10 s2 student

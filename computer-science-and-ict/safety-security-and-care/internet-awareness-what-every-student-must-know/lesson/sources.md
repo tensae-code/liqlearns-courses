@@ -1,6 +1,6 @@
 # Sources — Internet awareness — what every student must know
 
-countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia, Sri Lanka, Laos, Vietnam
+countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia, Sri Lanka, Laos, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -41,6 +41,8 @@ countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Suda
 
 **Book 20:** *Tin học 6 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2021 (5th reprint); ISBN 978-604-0-25148-0. Grade 6 (student book). 78 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 21:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The awareness list — the tool, invalid content, predators, footprints, photos, gaming, downloads, adult help | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed pp. 207–208 |
@@ -64,8 +66,9 @@ countries: Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Suda
 | Parcours: Sécurité en ligne et droit à l'image | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 4 (Parcours) (teacher guide — evidence) |
 | Scénario 6 Parcours du partage: le partage d'images et d'informations sur Internet, le droit à l'image | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 2 (Scénario 6) (teacher guide — evidence) |
 | Bài 9 An toàn thông tin trên Internet (Information safety on the Internet) | Vietnam Grade 6 Tin học 6, printed p. 37 |
+| 2.1.4 Safety rules for using the Internet | South Sudan Grade 9 S1 Student, printed p. 61 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia, Sri Lanka, Laos, Vietnam).**
+**Acceptance count: taught in 14 countries (Ethiopia, Cambodia, Mozambique, Bulgaria, North Macedonia, Iraq, Sudan, Cuba, Fiji, Mongolia, Sri Lanka, Laos, Vietnam, South Sudan).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -99,4 +102,6 @@ Switzerland's own way (Grades 3–4, Décodage 3e–4e): the 3e–4e volume repe
 
 Vietnam's own way (Grade 6 Tin học 6): the first lower-secondary book names its software openly (Google Chrome, MindMaple Lite, Microsoft Word in the how-to-use page) and its three characters each stand for one strand of the subject — digital literacy, ICT, and computer science; information safety gets a full lesson before any applied software work.
 
-Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique, bulgaria, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, iraq, grade 7, sudan, grade 6, grade 7, cuba, grade 9, fiji, years 7-8, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, laos, grade 12 ict student, switzerland, decodage, grades 12, switzerland, decodage, grades 34, vietnam, grade 6 tin học 6
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+Searchable tags: internet awareness, safety, predators, footprints, downloads, Grade 9 ICT Ethiopia Unit 5, cambodia, mozambique, bulgaria, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, iraq, grade 7, sudan, grade 6, grade 7, cuba, grade 9, fiji, years 7-8, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 7 reading book, laos, grade 12 ict student, switzerland, decodage, grades 12, switzerland, decodage, grades 34, vietnam, grade 6 tin học 6, south sudan, grade 9 s1 student

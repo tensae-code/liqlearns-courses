@@ -1,0 +1,9 @@
+# Sizing a Form or Report in Access — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — The Size of a Form or Report
+Sub lesson 1 questions from the type files. Pass mark: The size of a form or report — its width and each section's height — decides how much fits on the screen or page, and Access lets the designer set that size exactly or let the form size itself to its content; The learner measures and sets the width of a form or report, sets the height of its sections, and uses the automatic sizing that fits the form to what it holds; In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 19 — The Size of a Form or Report; Because a form that is too wide scrolls, a section that is too short hides its controls, and printed reports must fit the paper they are printed on; The book's own order for the Size of a Form or Report — and how to show it in practice, not only name it.
+
+## Sub lesson 2 — The Width and Height of a Form or Report
+Sub lesson 2 questions from the type files. Pass mark: Sizing a Form or Report in Access is learned by doing: the learner measures and sets the width of a form or report, sets the height of its sections, and uses the automatic sizing that fits the form to what it holds; The learner measures and sets the width of a form or report, sets the height of its sections, and uses the automatic sizing that fits the form to what it holds; In Secondary ICT, South Sudan Grade 12 S4 Student, printed p. 19 — The Width and Height of a Form or Report; Because a form that is too wide scrolls, a section that is too short hides its controls, and printed reports must fit the paper they are printed on; The book's own order for the Width and Height of a Form or Report — and how to show it in practice, not only name it.

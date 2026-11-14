@@ -1,0 +1,8 @@
+# Video script — Publishing and Sharing a Blog Post
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+This part of South Sudan's book teaches **Share your Post — publishing a post** — covering: Share your Post — publishing a post. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Share your Post — publishing a post. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — share your Post — publishing a post is part of that chain..
+This part of South Sudan's book teaches **Doing it — Share your Post — publishing a post in practice** — covering: Share your Post — publishing a post. South Sudan's Secondary ICT book teaches this as its own named step, in the book's own order, as a practical skill to be shown — not only named. The learner follows the book's own steps for this part, in order, and practises until the steps can be done without the book open. Here the steps are the book's own: Share your Post — publishing a post. Because the Secondary ICT series builds skill on skill: this part is one of the steps its year is made of, and later work in the book stands on it — doing it — Share your Post — publishing a post in practice is part of that chain..

@@ -1,6 +1,6 @@
 # Sources — Accessing a website — address, keyword and ISP
 
-countries: Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan, Armenia, Vietnam
+countries: Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan, Armenia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan, Armenia, Vietnam
 
 **Book 14:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 15:** *Secondary ICT — Information Communication Technology, Student's Book 1* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 9 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | By address and links — the Ministry of Education worked example | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.53 |
@@ -50,8 +52,9 @@ countries: Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan, Armenia, Vietnam
 | The unit review's keyed answers, used as a check on this lesson's Grade 8 items (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 4 answer key, printed p. 40 (guide placement item 16) |
 | Unit 4 Ch.2 Lesson 2 Browsing the internet | Iraq, *Computer, Grade 7*, printed p. 135 |
 | Unit 3 Lesson 2 My Journey in the World of Websites | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 10 |
+| 2.2 Getting online | South Sudan Grade 9 S1 Student, printed p. 63 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan, Armenia, Vietnam).**
+**Acceptance count: taught in 10 countries (Ethiopia, Iraq, Egypt, Bhutan, Libya, Laos, Jordan, Armenia, Vietnam, South Sudan).**
 
 The teacher guide's ISP answers contradict each other within two pages (Ethio-Telecom as the only ISP, then Ethio-Telecom and Safaricom-Ethiopia together) — flagged in the placements. The lesson teaches the student book's own line (Ethio-telecom as Ethiopia's example ISP) and records the guide's contradiction here rather than teaching either keyed answer as settled.
 
@@ -77,4 +80,6 @@ Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Me
 
 Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
 
-Searchable tags: accessing a website, address, keyword search, ISP, Ethio-telecom, Abebe Bikila, official sources, Grade 7 ICT Ethiopia, iraq, grade 7, morocco, grade 2, egypt, grade 5, bhutan, class iv, libya, grade 9 computer, grade 11 it student term 2, laos, grade 12 ict student, jordan, grade 10 term 1 digital skills, armenia, grade 7, vietnam, grade 10 tin học 10
+South Sudan's own way (Grade 9 S1 Student): Opens ICT at secondary level entirely through doing — the whole first year is Microsoft Office application skills (Word, Excel, PowerPoint, Publisher, Paint) taught as step-by-step keyboard/mouse procedures with local data (South Sudan state populations, local disease statistics for charts), then internet use, hands-on troubleshooting, and Windows access control/security settings.
+
+Searchable tags: accessing a website, address, keyword search, ISP, Ethio-telecom, Abebe Bikila, official sources, Grade 7 ICT Ethiopia, iraq, grade 7, morocco, grade 2, egypt, grade 5, bhutan, class iv, libya, grade 9 computer, grade 11 it student term 2, laos, grade 12 ict student, jordan, grade 10 term 1 digital skills, armenia, grade 7, vietnam, grade 10 tin học 10, south sudan, grade 9 s1 student

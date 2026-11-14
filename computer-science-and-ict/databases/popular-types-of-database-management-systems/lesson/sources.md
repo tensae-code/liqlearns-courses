@@ -1,0 +1,17 @@
+# Sources — Popular Types of Database Management Systems
+
+countries: South Sudan
+
+**Book 1:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 1.1.1 Popular Types of Database Management Systems | South Sudan Grade 12 S4 Student, printed p. 5 |
+
+**Acceptance count: taught in 1 country (South Sudan).**
+
+Placement choice: this lesson was built new for the ICT expansion (South Sudan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — databases/popular-types-of-database-management-systems). It sits in the Databases title (databases/), following the book's own order. Provenance scope note: the placements stocked here are from South Sudan's “Secondary ICT” series (English) — the Ministry of General Education and Instruction, Republic of South Sudan, with Longhorn / Mountain Top Publishers, Kenya, 2018, no ISBN printed — one series, Secondary 1–4 (Grades 9–12), student books with matching teacher guides. The S3 student book's body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
+
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: popular types of database management systems, databases, south sudan, grade 12 s4 student

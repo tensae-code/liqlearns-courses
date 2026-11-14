@@ -1,6 +1,6 @@
 # Sources — One-to-one, one-to-many, many-to-many
 
-countries: Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh
+countries: Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -19,6 +19,8 @@ countries: Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh
 
 **Book 9:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 10:** *Secondary ICT — Information Communication Technology, Student's Book 4* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 12 (student book). 188 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — one-to-one: one instance links to exactly one instance on the other side (a country and its capital city) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 56–57 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh
 | Sub lesson 4 — creating relationships graphically: Database Tools tab → Relationships group → Relationships; Show Table pop-up: add tables/queries, Close; drag a field (typically the primary key) onto the common field (the foreign key), Ctrl to drag several fields | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 76–77 |
 | Sub lesson 4 — relationships are one-to-one, one-to-many or many-to-many; the diagram marks the one side “1” and the many side “∞” (Department to Teacher one-to-many); linked tables share a common key item with matching PK/FK data types; no data before relationships are set up | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 3, printed pp. 76–77 |
 | 4.1.4 Kekardinalan antara Entiti dalam Hubungan | Malaysia Grade 9 ASK Tingkatan 3, printed p. 124 |
+| 1.6.1 Database Relations and Normalization: relations | South Sudan Grade 12 S4 Student, printed p. 28 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh).**
+**Acceptance count: taught in 7 countries (Ethiopia, Libya, Malaysia, Kuwait, Laos, Bangladesh, South Sudan).**
 
 Honesty: all parts are pupil-taught from the student book. Book error named: in the student book, the one-to-one relationship text cites Figure 3.8 where the figure's caption is 3.7 — the lesson teaches the relationship from the text and never relies on the figure number, and sources name the mismatch here so no one hunts for a Figure 3.8 that the book captions as 3.7.
 
@@ -55,4 +58,6 @@ Laos's own way (Grade 11 ICT student book): a single-topic year — databases fr
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: one-to-one, one-to-many, many-to-many, relationship types, cardinality, Ethiopia Grade 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, kuwait, grade 11 information technology term 1, grade 11 information technology term 2, laos, grade 11 ict student, bangladesh, hsc ict classes xi xii and alim
+South Sudan's own way (Grade 12 S4 Student): The final year is specialisation: a full databases unit in Microsoft Access with real SQL, forms and reports, normalisation and joins, ending in integrated library management systems; an advanced-formatting unit that goes from Word tables of contents, styles, track changes, templates and mail merge through PowerPoint multimedia to VBA macros in Excel; and a website-design unit built around HTML, CSS and Adobe Dreamweaver with FTP site management.
+
+Searchable tags: one-to-one, one-to-many, many-to-many, relationship types, cardinality, Ethiopia Grade 11, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, kuwait, grade 11 information technology term 1, grade 11 information technology term 2, laos, grade 11 ict student, bangladesh, hsc ict classes xi xii and alim, south sudan, grade 12 s4 student

@@ -1,6 +1,6 @@
 # Sources — Copyright — automatic protection for original works
 
-countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam
+countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangl
 
 **Book 18:** *Tin học 10 (Kết nối tri thức với cuộc sống)* (student book, Vietnamese) — Vietnam, Nhà xuất bản Giáo dục Việt Nam; year 2022; ISBN 978-604-0-31089-7. Grade 10 (student book). 170 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/vietnam-placements.md.
 
+**Book 19:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What copyright protects | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 16 (student placement item 20) |
@@ -59,8 +61,9 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangl
 | Bab 2 (Semester 2) Panduan pembelajaran dampak sosial informatika: sejarah TIK, bagan generasi komputer, HAKI dan profesi informatika (filed as computers-in-society/copyright-and-licenses; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK teacher guide, printed p. 198 (teacher guide — evidence) |
 | Bài 5 Bản quyền nội dung thông tin (Copyright of information content) | Vietnam Grade 5 Tin học 5, printed p. 24 |
 | Bài 11 Ứng xử trên môi trường số §2 (The duty to respect copyright) | Vietnam Grade 10 Tin học 10, printed p. 55 |
+| Legal issues in blogs — Copyright Legal Issues | South Sudan Grade 11 S3 Student, printed p. 22 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam).**
+**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia, Laos, Greece, Bangladesh, Armenia, Indonesia, Vietnam, South Sudan).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -94,4 +97,6 @@ Vietnam's own way (Grade 5 Tin học 5): Grade 5 splits its applied theme into t
 
 Vietnam's own way (Grade 10 Tin học 10): the Grade 10 book is one shared book for both orientations (ICT-coloured and CS-coloured lesson title bands tell each track its own lessons, per its preface); its data strand is unusually deep for school level — binary integers, logic data, sound and image data — and its programming strand is a complete first Python course from variables to functions, scope, error recognition and testing.
 
-Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii, mongolia, grade 9 it ix, laos, grade 12 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, grade 7 digital technology, grade 9 digital technology, armenia, grade 6, grade 7, indonesia, grade 10, grade 10, grade 10, vietnam, grade 5 tin học 5, grade 10 tin học 10
+South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
+
+Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii, mongolia, grade 9 it ix, laos, grade 12 ict student, greece, grade 7 pliroforiki a gymnasiou, bangladesh, grade 6 digital technology, grade 7 digital technology, grade 9 digital technology, armenia, grade 6, grade 7, indonesia, grade 10, grade 10, grade 10, vietnam, grade 5 tin học 5, grade 10 tin học 10, south sudan, grade 11 s3 student

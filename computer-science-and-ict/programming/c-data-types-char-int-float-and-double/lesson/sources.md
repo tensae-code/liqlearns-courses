@@ -1,17 +1,23 @@
 # Sources — C Data Types — char, int, float and double
 
-countries: Bangladesh
+countries: Bangladesh, South Sudan
 
 **Book 1:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
+
+**Book 2:** *Secondary ICT — Information Communication Technology, Student's Book 3* (student book, English) — South Sudan, Ministry of General Education and Instruction, Republic of South Sudan (with Longhorn / Mountain Top Publishers, Kenya); year 2018; no ISBN printed. Grade 11 (student book). 93 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/south-sudan-placements.md. Recovered 2026-11-14 from its recorded source and staged under push-don't-delete; its body text layer is garbled, so it was read from its headings, contents, steps, code and glossary — carried as filed.
 
 | Lesson part | Where it comes from |
 |---|---|
 | Chapter 5, 5.6: data types in C — char, int, float and double — and format specifiers | Bangladesh HSC ICT, printed p. 154 |
+| Data types — Strings (within 3.0.3) (filed as NEW LESSON NEEDED — programming/data-types-strings; stocked in this lesson because South Sudan teaches data types inside C/C++; string and character data is this lesson's char side — characters and the text they build) | South Sudan Grade 11 S3 Student, printed p. 56 |
+| Data types — Numeric, Boolean and Character data (within 3.0.3) (filed as NEW LESSON NEEDED — programming/data-types-numeric-boolean-and-character; stocked in this lesson because numeric and character data types in C — int, float, double, char — are this lesson's whole subject) | South Sudan Grade 11 S3 Student, printed p. 57 |
 
-**Acceptance count: taught in 1 country (Bangladesh).**
+**Acceptance count: taught in 2 countries (Bangladesh, South Sudan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Bangladesh, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/c-data-types-char-int-float-and-double). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every placement stocked here is from a Bangladesh student book (all five distinct books in this expansion are student books, National Curriculum and Textbook Board (NCTB), Bangladesh; no ISBN printed; each read in the English Version with the Bangla Version parallel spot-checked — the English edition is cited, both editions named in the book entries). Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: c data types, char, int, float, double, format specifier, programming, bangladesh, hsc ict
+South Sudan's own way (Grade 11 S3 Student): Year 3 is creation and programming: learners build and run a real personal website/blog end-to-end in WordPress (hosting, domain, themes, posts, legal issues and comment moderation), study social networks platform by platform (LinkedIn, Google+ and the Students Circle Network, with South Sudanese business use), then learn programming through data types, arrays and structures in C/C++ and writing programs in Notepad, closing on ethical conduct and intellectual property.
+
+Searchable tags: c data types, char, int, float, double, format specifier, programming, bangladesh, hsc ict, south sudan, grade 11 s3 student
