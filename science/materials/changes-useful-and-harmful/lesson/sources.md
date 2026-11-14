@@ -1,6 +1,6 @@
 # Sources — Changes — useful and harmful changes in daily life
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Mongolia, India, Uganda, Bahamas (curriculum evidence only), Moldova, Samoa, Egypt, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Syria
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Mongolia, India, Uganda, Bahamas (curriculum evidence only), Moldova, Samoa, Egypt, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Syria, Laos
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -272,3 +272,20 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, changes useful and harmful
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 7):** *ວິທະຍາສາດທໍາມະຊາດ, ຊັ້ນມັດທະຍົມຕອນຕົ້ນ ປີທີ 2 (Natural Sciences, Lower Secondary Year 2)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (legacy-font text layer; read from printed table of contents and rendered chapter pages); PDF metadata "Student cover Natural Sciences M2". PDF pages: 272 (86,392,775 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (12 parts, 56 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 8):** *ວິທະຍາສາດທໍາມະຊາດ, ຊັ້ນມັດທະຍົມຕອນຕົ້ນ ປີທີ 3 (Natural Sciences, Lower Secondary Year 3)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (legacy-font text layer; read from printed table of contents, 3 rendered TOC pages). PDF pages: 258 (102,460,769 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (9 parts, 58 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Part II: physical and chemical changes of matter (Laos, Grade 7) | Laos, *Natural Sciences, Grade 7*, printed p. 37 (Ch. 9) |
+| effects of heat on matter; heat properties of fuels (two chapters) (Laos, Grade 8) | Laos, *Natural Sciences, Grade 8*, printed pp. 123, 125 (Chs. 25–26) |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Mongolia, India, Uganda, Moldova, Samoa, Egypt, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Syria, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, natural sciences grade 7, natural sciences grade 8

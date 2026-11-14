@@ -1,6 +1,6 @@
 # Sources — Animals — invertebrates: insects and earthworms
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Kuwait, Syria
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Kuwait, Syria, Laos
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -332,3 +332,20 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, invertebrates inse
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, invertebrates insects and earthworms
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 3):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Textbook: Science and Environment, Primary Year 3)* (student book) — Laos, Ministry of Education and Sports, Lao PDR, 2021 edition; printed by Siriwatthana Interprint, 182,500 copies (imprint, last page). PDF pages: 127 (21,459,236 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening experiments unit + 29 chapters). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 3):** *ຄູ່ມືຄູ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Teacher Guide: Science and Environment, Primary Year 3)* (teacher guide) — Laos, Ministry of Education and Sports, Lao PDR, 2021 edition. PDF pages: 152 (4,659,104 bytes — exactly the books.json size_bytes; TSV has no G3 guide record; this is the books.json record, cited once). Verdict: COMPLETE (general introduction + guidance for all 29 student chapters). Pages cited are guide PDF pages. Cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| life cycles: the mosquito's life cycle and destroying mosquito breeding places (Laos, Grade 3) | Laos, *Science and Environment, Grade 3*, printed pp. 50–51 (Ch. 12) |
+| guide evidence: teacher's answers and extension on the mosquito life cycle and breeding-site destruction, and the frog life cycle (Ch. 12 guidance) (Laos, Grade 3) | Laos, *Science and Environment, Grade 3 Teacher Guide*, guide pp. 69–72 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Mongolia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Kuwait, Syria, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, science and environment grade 3, science and environment grade 3 teacher guide

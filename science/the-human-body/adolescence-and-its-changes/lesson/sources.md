@@ -1,6 +1,6 @@
 # Sources — Adolescence and its changes
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Guyana, India, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Venezuela (curriculum/proposal evidence only), Bhutan, Dominican Republic, Kuwait
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Guyana, India, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Venezuela (curriculum/proposal evidence only), Bhutan, Dominican Republic, Kuwait, Laos
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -166,3 +166,17 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, adolescence and its changes
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 9):** *ວິທະຍາສາດທໍາມະຊາດ, ຊັ້ນມັດທະຍົມຕອນປາຍ ປີທີ 4 (Natural Sciences, Upper Secondary Year 4)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (legacy-font text layer; read from printed table of contents and rendered opening pages). PDF pages: 288 (9,584,239 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (11 parts, 55 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Part I Ch. 1: growth and changes of the teenage body — girls' and boys' puberty ages and changes (girls menstruate about 12–13, boys change about 13–15, as printed) (Laos, Grade 9) | Laos, *Natural Sciences, Grade 9*, printed pp. 1–7 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Guyana, India, Cuba, Cambodia, Ecuador, Bhutan, Dominican Republic, Kuwait, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, natural sciences grade 9

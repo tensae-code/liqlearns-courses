@@ -1,6 +1,6 @@
 # Sources — Care for Your Book
 
-countries: Ethiopia, Angola
+countries: Ethiopia, Angola, Laos
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -52,3 +52,20 @@ Searchable tags: care for your book, book care, course opening, መጽሐፍን 
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, estudo do meio 1, estudo do meio 2, grade 1, grade 2
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 2):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ, ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Textbook: Science and Environment, Primary Year 2)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (Research Institute for Educational Sciences), 2020 edition, ISBN 978-9932-00-261-0; printed by Siriwatthana Interprint, 188,250 copies; supported by the Australian Government, the EU and the Lao state budget. PDF pages: 130 (65,884,408 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening review unit + 29 chapters). Printed page = PDF page − 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 1):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Textbook: Science and Environment, Primary Year 1)* (student book) — Laos, Ministry of Education and Sports, Lao PDR, 2020 edition (built on the 2016 primary curriculum; original-master support by the Australian Government). PDF pages: 130 (108,940,749 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (30 chapters). Printed page = PDF page − 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| wash hands before holding your book (front-matter care page) (Laos, Grade 2) | Laos, *Science and Environment, Grade 2*, printed p. (front matter) |
+| wrap your book in paper or a plastic sheet (front-matter care page) (Laos, Grade 1) | Laos, *Science and Environment, Grade 1*, printed p. (front matter) |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Angola, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, science and environment grade 1, science and environment grade 2

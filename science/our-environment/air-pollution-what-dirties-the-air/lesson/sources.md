@@ -1,6 +1,6 @@
 # Sources — Air pollution — what dirties the air
 
-countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Afghanistan, Cabo Verde, Angola
+countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Afghanistan, Cabo Verde, Angola, Laos
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -239,3 +239,20 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book (science, health, family, school and the local environment as one subject), and *Ciências da Natureza* (Grades 5–6) carries the same child into nature science — the rows above follow each book's own order — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, ciências da natureza 5, estudo do meio 4, grade 4, grade 5
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 2):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ, ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Textbook: Science and Environment, Primary Year 2)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (Research Institute for Educational Sciences), 2020 edition, ISBN 978-9932-00-261-0; printed by Siriwatthana Interprint, 188,250 copies; supported by the Australian Government, the EU and the Lao state budget. PDF pages: 130 (65,884,408 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening review unit + 29 chapters). Printed page = PDF page − 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 6):** *ວິທະຍາສາດທໍາມະຊາດ, ຊັ້ນມັດທະຍົມຕອນຕົ້ນ ປີທີ 1 (Natural Sciences, Lower Secondary Year 1)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (2012-era edition; the book’s text layer uses a legacy Lao font encoding, so the book was read from its printed table of contents and chapter pages rendered as images). PDF pages: 248 (56,720,810 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (9 parts, 48 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| clean air: what clean air is; its importance for living things; what makes air poisonous and where that comes from; keeping air clean (Laos, Grade 2) | Laos, *Science and Environment, Grade 2*, printed pp. 117–120 (Ch. 29) |
+| protecting the air environment (Laos, Grade 6) | Laos, *Natural Sciences, Grade 6*, printed p. 160 (Ch. 34) |
+
+**Acceptance count: taught in 12 countries (Italy, Uganda, Bulgaria, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Cabo Verde, Angola, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, natural sciences grade 6, science and environment grade 2

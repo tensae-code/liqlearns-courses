@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — Farming: Crops and Animals
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Angola, Dominican Republic
+countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Angola, Dominican Republic, Laos
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -275,3 +275,17 @@ Searchable tags: angola, estudo do meio 3, estudo do meio 4, grade 3, grade 4
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, farming crops and animals
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 2):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ, ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Textbook: Science and Environment, Primary Year 2)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (Research Institute for Educational Sciences), 2020 edition, ISBN 978-9932-00-261-0; printed by Siriwatthana Interprint, 188,250 copies; supported by the Australian Government, the EU and the Lao state budget. PDF pages: 130 (65,884,408 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening review unit + 29 chapters). Printed page = PDF page − 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| planting plants: where rice planting material comes from; plants people grow (banana); preparing before planting; protecting the crop (Laos, Grade 2) | Laos, *Science and Environment, Grade 2*, printed pp. 69–72 (Ch. 17) |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Micronesia, India, Uganda, Pakistan (Punjab, Dominican Republic, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, science and environment grade 2

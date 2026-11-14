@@ -1,6 +1,6 @@
 # Sources — Animals — amphibians and the frog
 
-countries: Ethiopia, Sweden, Albania (teacher-guide evidence only), Bulgaria, Bahamas (curriculum evidence only), Sudan, Bhutan, Kuwait
+countries: Ethiopia, Sweden, Albania (teacher-guide evidence only), Bulgaria, Bahamas (curriculum evidence only), Sudan, Bhutan, Kuwait, Laos
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -112,3 +112,17 @@ Searchable tags: bhutan, bhutan science, science class vi
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, animals amphibians and the frog
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 3):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Textbook: Science and Environment, Primary Year 3)* (student book) — Laos, Ministry of Education and Sports, Lao PDR, 2021 edition; printed by Siriwatthana Interprint, 182,500 copies (imprint, last page). PDF pages: 127 (21,459,236 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening experiments unit + 29 chapters). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| life cycles: the frog's life cycle (Ch. 12) (Laos, Grade 3) | Laos, *Science and Environment, Grade 3*, printed p. 52 (Ch. 12) |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Sweden, Bulgaria, Sudan, Bhutan, Kuwait, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, science and environment grade 3

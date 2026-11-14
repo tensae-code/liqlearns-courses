@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Dominican Republic, China
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Dominican Republic, China, Laos
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -444,3 +444,23 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, cycles the water cycle
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 3):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Textbook: Science and Environment, Primary Year 3)* (student book) — Laos, Ministry of Education and Sports, Lao PDR, 2021 edition; printed by Siriwatthana Interprint, 182,500 copies (imprint, last page). PDF pages: 127 (21,459,236 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening experiments unit + 29 chapters). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 3):** *ຄູ່ມືຄູ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Teacher Guide: Science and Environment, Primary Year 3)* (teacher guide) — Laos, Ministry of Education and Sports, Lao PDR, 2021 edition. PDF pages: 152 (4,659,104 bytes — exactly the books.json size_bytes; TSV has no G3 guide record; this is the books.json record, cited once). Verdict: COMPLETE (general introduction + guidance for all 29 student chapters). Pages cited are guide PDF pages. Cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 8):** *ວິທະຍາສາດທໍາມະຊາດ, ຊັ້ນມັດທະຍົມຕອນຕົ້ນ ປີທີ 3 (Natural Sciences, Lower Secondary Year 3)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (legacy-font text layer; read from printed table of contents, 3 rendered TOC pages). PDF pages: 258 (102,460,769 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (9 parts, 58 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the water cycle: water changing when heated; water vapour changing when cooled; the water cycle in nature (Laos, Grade 3) | Laos, *Science and Environment, Grade 3*, printed pp. 105–108 (Ch. 26) |
+| guide evidence: teacher's explanation sequence for the water-cycle chapter (heating/cooling changes) (Laos, Grade 3) | Laos, *Science and Environment, Grade 3 Teacher Guide*, guide pp. 132–136 |
+| evaporation and boiling (water phase change chapters) (Laos, Grade 8) | Laos, *Natural Sciences, Grade 8*, printed p. 209 (Ch. 46) [filed under phase-change content] |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab, Dominican Republic, China, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, natural sciences grade 8, science and environment grade 3, science and environment grade 3 teacher guide

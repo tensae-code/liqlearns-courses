@@ -1,6 +1,6 @@
 # Sources — Measuring temperature, rain and wind
 
-countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China
+countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China, Laos
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -182,3 +182,23 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, weather-
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, measuring temperature rain and wind
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 3):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Textbook: Science and Environment, Primary Year 3)* (student book) — Laos, Ministry of Education and Sports, Lao PDR, 2021 edition; printed by Siriwatthana Interprint, 182,500 copies (imprint, last page). PDF pages: 127 (21,459,236 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening experiments unit + 29 chapters). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 1):** *ຄູ່ມືຄູ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide: Science and Environment, Primary Year 1)* (teacher guide) — Laos, Ministry of Education and Sports, Lao PDR, 2020 edition (4,323,040 bytes — exactly the books.json size_bytes). PDF pages: 182 (matches books.json record; no TSV record for this guide; cited once). Verdict: COMPLETE (general introduction + guidance for all 30 Grade-1 chapters). Pages cited are guide PDF pages. Cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 7):** *ວິທະຍາສາດທໍາມະຊາດ, ຊັ້ນມັດທະຍົມຕອນຕົ້ນ ປີທີ 2 (Natural Sciences, Lower Secondary Year 2)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (legacy-font text layer; read from printed table of contents and rendered chapter pages); PDF metadata "Student cover Natural Sciences M2". PDF pages: 272 (86,392,775 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (12 parts, 56 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| weather at my school: measuring rainfall amount; a wind-speed measuring instrument (Laos, Grade 3) | Laos, *Science and Environment, Grade 3*, printed pp. 109–112 (Ch. 27) |
+| Ch. 30 extra: rainy and windy weather can be measured with simple equipment; making a weather chart that shows how weather changes (Laos, Grade 1) | Laos, *Science and Environment, Grade 1 Teacher Guide*, guide p. 177 |
+| temperature and humidity of air (Laos, Grade 7) | Laos, *Natural Sciences, Grade 7*, printed p. 229 (Ch. 48) |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Italy, Mongolia, Uganda, Bulgaria, Armenia, Egypt, Ecuador, Venezuela, China, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, natural sciences grade 7, science and environment grade 1 teacher guide, science and environment grade 3

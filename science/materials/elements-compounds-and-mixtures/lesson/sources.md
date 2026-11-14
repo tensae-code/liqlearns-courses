@@ -1,6 +1,6 @@
 # Sources — Elements, compounds and mixtures
 
-countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria
+countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -285,3 +285,17 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, elements compounds
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, elements compounds and mixtures
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 6):** *ວິທະຍາສາດທໍາມະຊາດ, ຊັ້ນມັດທະຍົມຕອນຕົ້ນ ປີທີ 1 (Natural Sciences, Lower Secondary Year 1)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (2012-era edition; the book’s text layer uses a legacy Lao font encoding, so the book was read from its printed table of contents and chapter pages rendered as images). PDF pages: 248 (56,720,810 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (9 parts, 48 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| matter as elements (metals/non-metals) and as mixtures and compounds (two chapters) (Laos, Grade 6) | Laos, *Natural Sciences, Grade 6*, printed pp. 47, 50 (Chs. 11–12) |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Costa Rica, Uganda, Armenia, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, Kuwait, Syria, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, natural sciences grade 6

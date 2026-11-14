@@ -1,0 +1,27 @@
+# Sources — UXO safety — unexploded ordnance
+
+countries: Laos
+
+**Book (Laos — Grade 2):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ, ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Textbook: Science and Environment, Primary Year 2)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (Research Institute for Educational Sciences), 2020 edition, ISBN 978-9932-00-261-0; printed by Siriwatthana Interprint, 188,250 copies; supported by the Australian Government, the EU and the Lao state budget. PDF pages: 130 (65,884,408 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening review unit + 29 chapters). Printed page = PDF page − 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 2):** *ຄູ່ມືຄູ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide: Science and Environment, Primary Year 2)* (teacher guide) — Laos, Ministry of Education and Sports, Lao PDR, 2020 edition; printed by Theppanya Printing, 14,300 copies; same Australian Government / EU support line as the student book. PDF pages: 172 (6,264,875 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (general introduction + lesson-by-lesson teaching guidance for all 29 student chapters). Pages cited are guide PDF pages. Cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 3):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Textbook: Science and Environment, Primary Year 3)* (student book) — Laos, Ministry of Education and Sports, Lao PDR, 2021 edition; printed by Siriwatthana Interprint, 182,500 copies (imprint, last page). PDF pages: 127 (21,459,236 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening experiments unit + 29 chapters). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 1):** *ຄູ່ມືຄູ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide: Science and Environment, Primary Year 1)* (teacher guide) — Laos, Ministry of Education and Sports, Lao PDR, 2020 edition (4,323,040 bytes — exactly the books.json size_bytes). PDF pages: 182 (matches books.json record; no TSV record for this guide; cited once). Verdict: COMPLETE (general introduction + guidance for all 30 Grade-1 chapters). Pages cited are guide PDF pages. Cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| bombs and unexploded ordnance left in Laos: kinds of bombs, causes of injury/death (digging, fires, dismantling, clearing grass), what to do in risky areas (Laos's own way — no existing slug) (Laos, Grade 2) | Laos, *Science and Environment, Grade 2*, printed pp. 9–12 (Ch. 2) |
+| guide evidence: UXO role-play with a box of fruit/bomb pictures and the class song "Bombs are dangerous" (Laos's own way of teaching UXO safety) (Laos, Grade 2) | Laos, *Science and Environment, Grade 2 Teacher Guide*, guide pp. 31–32 |
+| leftover unexploded bombs: shapes and colours of bombs/ordnance; places where they still remain (bursting a flour/rice-filled balloon as a safe simulation) (Laos, Grade 3) | Laos, *Science and Environment, Grade 3*, printed pp. 9–12 (Ch. 2) |
+| Ch. 25 extra: what to do if you see a bomb or a bomb-like thing — the teacher instructs clearly not to touch (guide evidence) (Laos, Grade 1) | Laos, *Science and Environment, Grade 1 Teacher Guide*, guide p. 148 |
+| Do it first; key ideas; Do It Yourself | Laos, as cited in the rows above |
+
+**Acceptance count: taught in 1 country (Laos).**
+
+Placement choice, on the record: this NEW LESSON was built for the Laos placements filed as "NEW LESSON NEEDED — uxo-safety-unexploded-ordnance" — laos-placements.md (4 placements: the Grade 2 student book, the Grade 3 student book, and the Grade 2 and Grade 1 teacher guides as guide evidence). No existing general-science lesson covers unexploded ordnance safety as its own thing (checked the live repo at merge time — the safety lessons teach accidents, chemicals and road safety, and no lesson anywhere in the course treats the bombs left in one country’s ground), so it gets its own lesson. It sits in keeping-healthy/ and is registered in CURRICULUM.md Unit 14 (Keeping Healthy). Laos’s own way of teaching it — the role-play, the class song "Bombs are dangerous", and the balloon simulation — IS part of this lesson’s content, carried exactly as filed.
+
+Laos's own way — its Ministry of Education and Sports Science and Environment books, in Lao, teach this thing at the places and in the order named in the rows above, with Laos's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: laos, lao pdr, uxo, unexploded ordnance, bombs, safety, science and environment

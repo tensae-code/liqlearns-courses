@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -401,3 +401,31 @@ Searchable tags: china, china science, pep, people's education press, what a pla
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, what a plant needs to grow
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 2):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ, ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Textbook: Science and Environment, Primary Year 2)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (Research Institute for Educational Sciences), 2020 edition, ISBN 978-9932-00-261-0; printed by Siriwatthana Interprint, 188,250 copies; supported by the Australian Government, the EU and the Lao state budget. PDF pages: 130 (65,884,408 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening review unit + 29 chapters). Printed page = PDF page − 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 3):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 3 (Textbook: Science and Environment, Primary Year 3)* (student book) — Laos, Ministry of Education and Sports, Lao PDR, 2021 edition; printed by Siriwatthana Interprint, 182,500 copies (imprint, last page). PDF pages: 127 (21,459,236 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening experiments unit + 29 chapters). Printed page = PDF page − 5. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 1):** *ຄູ່ມືຄູ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide: Science and Environment, Primary Year 1)* (teacher guide) — Laos, Ministry of Education and Sports, Lao PDR, 2020 edition (4,323,040 bytes — exactly the books.json size_bytes). PDF pages: 182 (matches books.json record; no TSV record for this guide; cited once). Verdict: COMPLETE (general introduction + guidance for all 30 Grade-1 chapters). Pages cited are guide PDF pages. Cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 1):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Textbook: Science and Environment, Primary Year 1)* (student book) — Laos, Ministry of Education and Sports, Lao PDR, 2020 edition (built on the 2016 primary curriculum; original-master support by the Australian Government). PDF pages: 130 (108,940,749 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (30 chapters). Printed page = PDF page − 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 6):** *ວິທະຍາສາດທໍາມະຊາດ, ຊັ້ນມັດທະຍົມຕອນຕົ້ນ ປີທີ 1 (Natural Sciences, Lower Secondary Year 1)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (2012-era edition; the book’s text layer uses a legacy Lao font encoding, so the book was read from its printed table of contents and chapter pages rendered as images). PDF pages: 248 (56,720,810 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (9 parts, 48 chapters). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| planting material (ແນວພືດ): kinds of propagules; which part of the plant people plant; parts that can be planted; caring for planting material (Laos, Grade 2) | Laos, *Science and Environment, Grade 2*, printed pp. 65–68 (Ch. 16) |
+| germination: how sprouting looks; plant growth steps; a soil experiment (Laos, Grade 3) | Laos, *Science and Environment, Grade 3*, printed pp. 61–64 (Ch. 15) |
+| Ch. 12: caring for plants — fencing around the garden (walk-around demonstration) (Laos, Grade 1) | Laos, *Science and Environment, Grade 1 Teacher Guide*, guide pp. 75–79 |
+| Ch. 15: food for plants — plants potted in a plastic bottle or coconut shell on the classroom veranda; observing roots, stem and leaves of grass (Laos, Grade 1) | Laos, *Science and Environment, Grade 1 Teacher Guide*, guide pp. 90–95 |
+| Ch. 12 caring for plants: what plants need to grow; caring for vegetables and flowers; what happens if plants are not cared for (Laos, Grade 1) | Laos, *Science and Environment, Grade 1*, printed pp. 45–48 |
+| Ch. 15 food for plants: what a tree is made of; what plant food is; plants, animals and people eat alike and differently — a tree cannot move to find food (Laos, Grade 1) | Laos, *Science and Environment, Grade 1*, printed pp. 57–60 |
+| plant growth; plant reproduction; propagation and improving plant varieties (three chapters) (Laos, Grade 6) | Laos, *Natural Sciences, Grade 6*, printed pp. 185, 190, 194 (Chs. 38–40) |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Guyana, Mongolia, Moldova, United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, natural sciences grade 6, science and environment grade 1, science and environment grade 1 teacher guide, science and environment grade 2, science and environment grade 3

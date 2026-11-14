@@ -1,6 +1,6 @@
 # Sources — Density: why things sink or float
 
-countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova, Cambodia (teacher-guide evidence only), Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, China, Syria
+countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova, Cambodia (teacher-guide evidence only), Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, China, Syria, Laos
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -215,3 +215,20 @@ Searchable tags: china, china science, pep, people's education press, density wh
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, density why things sink or float
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 1):** *ຄູ່ມືຄູ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide: Science and Environment, Primary Year 1)* (teacher guide) — Laos, Ministry of Education and Sports, Lao PDR, 2020 edition (4,323,040 bytes — exactly the books.json size_bytes). PDF pages: 182 (matches books.json record; no TSV record for this guide; cited once). Verdict: COMPLETE (general introduction + guidance for all 30 Grade-1 chapters). Pages cited are guide PDF pages. Cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 1):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Textbook: Science and Environment, Primary Year 1)* (student book) — Laos, Ministry of Education and Sports, Lao PDR, 2020 edition (built on the 2016 primary curriculum; original-master support by the Australian Government). PDF pages: 130 (108,940,749 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (30 chapters). Printed page = PDF page − 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 26: sinking and floating of objects — predict then test, tabled (name/picture/prediction/check); moulding clay/plasticine into a boat shape (Laos, Grade 1) | Laos, *Science and Environment, Grade 1 Teacher Guide*, guide pp. 151–157 |
+| Ch. 26 sinking and floating: how objects float on water; predict-and-check table; testing plasticine (ດິນນໍ້າມັນ); the boat-building race game (Laos, Grade 1) | Laos, *Science and Environment, Grade 1*, printed pp. 101–104 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Uganda, Finland, Bulgaria, Moldova, Afghanistan, Sudan, Bhutan, China, Syria, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, science and environment grade 1, science and environment grade 1 teacher guide

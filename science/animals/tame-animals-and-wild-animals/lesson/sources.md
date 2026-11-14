@@ -1,6 +1,6 @@
 # Sources — Tame animals and wild animals
 
-countries: Ethiopia, Sweden, Ecuador, Afghanistan, Mauritania, Angola, Syria
+countries: Ethiopia, Sweden, Ecuador, Afghanistan, Mauritania, Angola, Syria, Laos
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -115,3 +115,25 @@ Searchable tags: angola, estudo do meio 1, grade 1
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, tame animals and wild animals
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 2):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ, ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Textbook: Science and Environment, Primary Year 2)* (student book) — Laos, Ministry of Education and Sports, Lao PDR (Research Institute for Educational Sciences), 2020 edition, ISBN 978-9932-00-261-0; printed by Siriwatthana Interprint, 188,250 copies; supported by the Australian Government, the EU and the Lao state budget. PDF pages: 130 (65,884,408 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (opening review unit + 29 chapters). Printed page = PDF page − 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 1):** *ຄູ່ມືຄູ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Teacher Guide: Science and Environment, Primary Year 1)* (teacher guide) — Laos, Ministry of Education and Sports, Lao PDR, 2020 edition (4,323,040 bytes — exactly the books.json size_bytes). PDF pages: 182 (matches books.json record; no TSV record for this guide; cited once). Verdict: COMPLETE (general introduction + guidance for all 30 Grade-1 chapters). Pages cited are guide PDF pages. Cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+**Book (Laos — Grade 1):** *ແບບຮຽນ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 1 (Textbook: Science and Environment, Primary Year 1)* (student book) — Laos, Ministry of Education and Sports, Lao PDR, 2020 edition (built on the 2016 primary curriculum; original-master support by the Australian Government). PDF pages: 130 (108,940,749 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (30 chapters). Printed page = PDF page − 10. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the environment gives shelter: where animals live, matched with stones/string; animal homes and food types sorted (Laos, Grade 2) | Laos, *Science and Environment, Grade 2*, printed pp. 19–20 (Ch. 4) |
+| Ch. 10: domestic and wild animals — their sounds and movements; animals around the village and how they are cared for; matching a pet to its pen (Laos, Grade 1) | Laos, *Science and Environment, Grade 1 Teacher Guide*, guide pp. 65–70 |
+| Ch. 18: animals' homes — which animals live in water; animals sorted into home groups on the board (Laos, Grade 1) | Laos, *Science and Environment, Grade 1 Teacher Guide*, guide pp. 107–112 |
+| Ch. 10 domestic and wild animals: naming animals (tiger…); sorting pets from wild animals by where they live (Laos, Grade 1) | Laos, *Science and Environment, Grade 1*, printed pp. 37–40 |
+| Ch. 18 animals' homes: animals living on land; animals living in water (Laos, Grade 1) | Laos, *Science and Environment, Grade 1*, printed pp. 69–72 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Sweden, Ecuador, Afghanistan, Mauritania, Angola, Syria, Laos).**
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, science and environment grade 1, science and environment grade 1 teacher guide, science and environment grade 2

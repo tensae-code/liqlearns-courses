@@ -1,6 +1,6 @@
 # Sources — The branches of science
 
-countries: Ethiopia, Costa Rica, Uganda, Armenia (teacher-guide evidence only), Egypt, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Dominican Republic
+countries: Ethiopia, Costa Rica, Uganda, Armenia (teacher-guide evidence only), Egypt, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Dominican Republic, Laos (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -155,3 +155,17 @@ Searchable tags: ipn, mauritania, sciences naturelles, svt, svt 1as
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, the branches of science
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 8):** *ຄູ່ມືຄູ ວິທະຍາສາດທໍາມະຊາດ ປີທີ 3 (Teacher Guide: Natural Sciences, Year 3)* (teacher guide) — Laos, Ministry of Education and Sports, Lao PDR. PDF pages: 194 (95,942,519 bytes — exactly the books.json size_bytes). Verdict: COMPLETE as a guide (mirrors the Grade 8 student book part for part — same 9 parts, same 58 chapters, guide pagination — and adds the general introduction on lower-secondary science teaching aims, hours per level (ມ.1: 132, ມ.2: 132, ມ.3: 165, ມ.4: 165 hours/year) and assessment guidance). Pages cited are guide PDF pages. Cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: the guide's introduction frames lower-secondary science as physics, chemistry, biology and earth science feeding one Natural Sciences subject, with its knowledge/skills/attitude aims (Laos, Grade 8) | Laos, *Natural Sciences, Grade 8 Teacher Guide*, guide pp. 5–8 (introduction) |
+
+**Acceptance count unchanged: taught in 10 countries (Ethiopia, Costa Rica, Uganda, Egypt, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Dominican Republic).** The Laos rows above are teacher-guide evidence only, counted nowhere.
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, natural sciences grade 8 teacher guide

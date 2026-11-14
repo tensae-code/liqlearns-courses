@@ -848,6 +848,8 @@ solar-system comparison lessons.
 
 80. **Extinct and endangered living things** (`our-environment/extinct-and-endangered-living-things`) — kinds gone for ever against kinds still living but few and falling — and how endangered kinds are saved (Kuwait, Grade 4, Term 1 — *Science, Grade 4, Term 1 (Student Book)*, Section 2 printed p. 20; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
 
+81. **Flood danger and protection** (`our-environment/flood-danger-and-protection`) — the dangers of flowing water (washing away houses, flooding roads), the impacts of floods and landslides, preventing floods and landslides where we live, and keeping safe when flooding happens (Laos, Grade 2 — *Science and Environment, Grade 2*, Ch. 25, printed pp. 103–104, and Grade 3 — *Science and Environment, Grade 3*, Ch. 1, printed pp. 5–8; built for the Laos placements, expansion-science-2026-11-13/laos-placements.md)
+
 ## Unit 12 — Family, School and Community
 
 1. **Our School — A Clean School and Safe Latrine Use** (`family-school-and-community/a-clean-school-and-safe-latrine-use`) — keeping the classroom, walls, compound and latrine clean as everyone's shared work — and washing hands after the latrine.
@@ -963,6 +965,12 @@ solar-system comparison lessons.
 47. **Keeping the respiratory system healthy** (`keeping-healthy/keeping-the-respiratory-system-healthy`) — clean air and exercise for the breathing system, against its enemies: smoking, dust, fumes and chest infections (Kuwait, Grade 8, Term 1 — *Science, Grade 8, Term 1 (Student Book)*, printed p. 74; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
 
 48. **Keeping the urinary system healthy** (`keeping-healthy/keeping-the-urinary-system-healthy`) — water through the day, not holding urine, and cleanliness — against infection and stones in the kidneys, bladder and passages (Kuwait, Grade 8, Term 2 — *Science, Grade 8, Term 2 (Student Book)*, printed p. 70; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+49. **UXO safety — unexploded ordnance** (`keeping-healthy/uxo-safety-unexploded-ordnance`) — the bombs and unexploded ordnance left in Laos: their kinds, shapes and colours, the places where they still remain, how people get hurt (digging, fires, dismantling, clearing grass), and what to do in risky areas — never touch a bomb-like thing — taught Laos's own way, with the role-play, the class song "Bombs are dangerous" and the balloon simulation (Laos, Grade 2 — *Science and Environment, Grade 2*, Ch. 2, printed pp. 9–12, and Grade 3 — *Science and Environment, Grade 3*, Ch. 2, printed pp. 9–12, with the Grade 2 and Grade 1 teacher guides as guide evidence; built for the Laos placements, expansion-science-2026-11-13/laos-placements.md)
+
+50. **First aid for snake and animal bites** (`keeping-healthy/first-aid-for-snake-and-animal-bites`) — the first treatment when bitten by a snake, and the first treatment when bitten by a dog or cat, taught as two separate named topics (Laos, Grade 2 — *Science and Environment, Grade 2*, Ch. 3, printed pp. 15–16; built for the Laos placements, expansion-science-2026-11-13/laos-placements.md)
+
+51. **Fire safety and escape** (`keeping-healthy/fire-safety-and-escape`) — putting out burning clothes you are wearing, escaping from a fire place, and the safe place to flee to (Laos, Grade 3 — *Science and Environment, Grade 3*, Ch. 3, printed pp. 13–16; built for the Laos placements, expansion-science-2026-11-13/laos-placements.md)
 
 ## Unit 15 — Science Skills
 

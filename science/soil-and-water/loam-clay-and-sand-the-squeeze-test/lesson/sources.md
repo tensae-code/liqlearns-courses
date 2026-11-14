@@ -1,6 +1,6 @@
 # Sources — Loam, clay and sand — the squeeze test
 
-countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan, China
+countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan, China, Laos (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -74,3 +74,17 @@ Searchable tags: sudan, sudan grade 9, soil-and-water/loam-clay-and-sand-the-squ
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, loam clay and sand the squeeze test
+
+## Laos growth (2026-11-14, General Science expansion)
+
+**Book (Laos — Grade 2):** *ຄູ່ມືຄູ ວິທະຍາສາດ ແລະ ສິ່ງແວດລ້ອມ ຊັ້ນປະຖົມສຶກສາ ປີທີ 2 (Teacher Guide: Science and Environment, Primary Year 2)* (teacher guide) — Laos, Ministry of Education and Sports, Lao PDR, 2020 edition; printed by Theppanya Printing, 14,300 copies; same Australian Government / EU support line as the student book. PDF pages: 172 (6,264,875 bytes — exactly the books.json size_bytes; TSV release copy and books.json record are the same book, cited once). Verdict: COMPLETE (general introduction + lesson-by-lesson teaching guidance for all 29 student chapters). Pages cited are guide PDF pages. Cited as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/laos-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| guide evidence: water percolation experiment through clay, loam (ດິນຜຸຜຸ່ຍ) and sandy soils, results tabled (extra experiment not in the student book) (Laos, Grade 2) | Laos, *Science and Environment, Grade 2 Teacher Guide*, guide pp. 129–130 |
+
+**Acceptance count unchanged: taught in 5 countries (Ethiopia, Uganda, Samoa, Sudan, China).** The Laos rows above are teacher-guide evidence only, counted nowhere.
+
+Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
+
+Searchable tags: laos, lao pdr, science and environment grade 2 teacher guide
