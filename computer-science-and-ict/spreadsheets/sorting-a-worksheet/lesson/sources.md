@@ -1,6 +1,6 @@
 # Sources — Sorting a worksheet
 
-countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongo
 
 **Book 12:** *Թվային գրագիտություն և համակարգչային գիտություն 11: Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 11, Methodological Guide, senior school)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN no ISBN printed. Grade 11 (teacher guide). 92 PDF pages. Verdict: COMPLETE. Read via contents, programme outcomes, thematic planning, sample lesson plans and the additional-tasks section rendered from the PDF (the guide's body text layer extracts as dots; those pages were read from page images). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence) The printed book is 88 pp per its imprint, as filed.
 
+**Book 13:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — sorting defined: alphabetical, numerical, by date, custom list, by cell/font colour or icon; the scope decision — whole sheet (rows move together) vs only a range | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 110–111 |
@@ -43,8 +45,9 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongo
 | Sort | Rwanda Grade 8 S2 ICT Student Book, printed p. 138 |
 | Unit 3 Sorting data | Greece Grade 8 Pliroforiki B, printed p. 35 |
 | Additional tasks with solutions: sorting data in a table, removing duplicates, grouping | Armenia Grade 11 G11 teacher, printed p. 69 (teacher guide — evidence) |
+| Bab 2 D.1 Sort | Indonesia Grade 7 G7 Informatika student, printed p. 76 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece).**
+**Acceptance count: taught in 10 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda, Greece, Indonesia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -65,4 +68,6 @@ Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from b
 
 Armenia's own way (Armenia Grade 11 G11 teacher): Companion to Book 20 in the Zangak guide template: the Grade 11 programme (whose outcomes include program structure — modules, libraries, APIs), thematic planning opening with e-security and online payment systems, sample lesson plans for the functions lesson (10-1) and the program-development-process lesson (17), and additional tasks with solutions, including spreadsheet sorting/duplicates work and two project works — protecting a digital identity with a professional online presence, and the effect of software licences on technological development.
 
-Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, uzbekistan, grade 9, mongolia, grade 9 it ix, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou, armenia, grade 11
+Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
+
+Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, uzbekistan, grade 9, mongolia, grade 9 it ix, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, greece, grade 8 pliroforiki b gymnasiou, armenia, grade 11, indonesia, grade 7

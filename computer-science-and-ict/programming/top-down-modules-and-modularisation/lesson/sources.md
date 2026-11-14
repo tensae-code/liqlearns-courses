@@ -1,6 +1,6 @@
 # Sources — Top-down — modules and modularisation
 
-countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, Armenia
+countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, Armenia, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -23,6 +23,8 @@ countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, A
 
 **Book 11:** *Թվային գրագիտություն և համակարգչային գիտություն 6, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 6, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN no ISBN printed. Grade 6 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 12:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Top-down approach and modularisation defined | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 236-237 |
@@ -37,8 +39,9 @@ countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, A
 | 1.1 Subprograme | Moldova Grade 12 Informatică, printed p. 6 |
 | §21 Generalised procedures | Armenia Grade 6 G6 student, printed p. 126 |
 | Theme 6-12 Generalised procedures | Armenia Grade 6 G6 teacher, printed p. 42 (teacher guide — evidence) |
+| Bab II A.1 Modularisasi program | Indonesia Grade 9 G9 Informatika student, printed p. 43 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, Armenia).**
+**Acceptance count: taught in 9 countries (Ethiopia, North Macedonia, Sudan, Libya, Mongolia, Greece, Moldova, Armenia, Indonesia).**
 
 Book error, taught corrected: the student book's later exercises cross-refer to practical-exercise numbers that do not match the numbers printed on those exercises (the single-wage and ten-labourer flowcharts); each flowchart is taught here under its own printed exercise, and the mismatched cross-references are flagged rather than followed. The teacher guide's Practical Exercise 6.5 answer 1 likewise calls itself an extension of its own question — a self-reference; the exercise it extends is the earlier single-labourer wage exercise.
 
@@ -62,4 +65,6 @@ Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one
 
 Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the student book's 24 §s into 13 standard themes (6-1 to 6-13), each with lesson topic, outcome codes, cross-cutting competencies and practical work; it closes with a thematic plan, a worked sample lesson plan (§3) and slide-presentation assessment rubrics.
 
-Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11, saudi arabia, grade 8, sudan, grade 11, libya, grade 12 it science, mongolia, grade 12 it xii, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 8 informatica, moldova, grade 12 informatica, armenia, grade 6
+Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
+
+Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11, saudi arabia, grade 8, sudan, grade 11, libya, grade 12 it science, mongolia, grade 12 it xii, greece, grade 12 anaptyxi efarmogon aepp glossa, moldova, grade 8 informatica, moldova, grade 12 informatica, armenia, grade 6, indonesia, grade 9

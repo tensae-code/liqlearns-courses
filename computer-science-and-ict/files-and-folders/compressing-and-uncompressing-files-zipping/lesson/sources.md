@@ -1,6 +1,6 @@
 # Sources — Compressing and uncompressing files — zipping
 
-countries: Ethiopia, Belarus, Bhutan, Mongolia, Greece
+countries: Ethiopia, Belarus, Bhutan, Mongolia, Greece, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Belarus, Bhutan, Mongolia, Greece
 
 **Book 6:** *Βασικά Θέματα Πληροφορικής — Β΄ ΕΠΑ.Λ., Τομέας Πληροφορικής, Σημειώσεις Μαθητή (Basika Themata Pliroforikis B' EPAL, Student Notes)* (student notes, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2015 imprint, V3 (2023 filemarks); ISBN 978-960-06-5157-7, book code 0-24-0552. 194 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 7:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — compression defined, gains, the zip route in order | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 23–25 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Belarus, Bhutan, Mongolia, Greece
 | 4.4 Compressing and Decompressing Files and Folders | Bhutan, *Literacy with ICT, Class VII*, printed p. 57 |
 | 1.2.4 Compressing and extracting files (7-Zip: compression level, splitting into volumes, password protection; why big photo/video folders must be zipped before emailing) | Mongolia Grade 8 IT VIII, printed p. 18 |
 | Ch.3 Data compression methods | Greece Grade 11 EPAL Basika Themata, printed p. 31 |
+| Bab 3 C.1 Membuat bookmark dan menyimpan konten | Indonesia Grade 7 G7 Informatika student, printed p. 106 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Bhutan, Mongolia, Greece).**
+**Acceptance count: taught in 6 countries (Ethiopia, Belarus, Bhutan, Mongolia, Greece, Indonesia).**
 
 Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatics as applied mathematics with office tools — a full-year arc from data archiving through Pascal strings and information modelling to Excel and 2010-era Internet communication (NetMeeting, Skype, blogs).
 
@@ -36,4 +39,6 @@ Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a fo
 
 Greece's own way (Grade 11 EPAL, Basika Themata Pliroforikis — student notes): the EPAL (vocational) informatics-sector notes go far deeper into digital technology than the general track — full data representation (number systems and base conversion, character encoding, compression, integer representation and overflow), image/sound/video representation and editing, animation, VR/AR, 3D printing and scanning, then the electronics ladder (Boolean algebra, logic gates, combinational and sequential circuits, adders, flip-flops, counters, A/D and D/A converters, integrated circuits and the CPU), ending with digital-technology applications sector by sector and ICT professions.
 
-Searchable tags: compression, zipping, unzipping, Compressed (zipped) folder, Extract All, WinRAR, WinZip, 7-Zip, Renaissance Dam, files and folders, grade 10, information technology, ict, ethiopia, belarus, bhutan, class vii, mongolia, grade 8 it viii, greece, grade 11 epal basika themata
+Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
+
+Searchable tags: compression, zipping, unzipping, Compressed (zipped) folder, Extract All, WinRAR, WinZip, 7-Zip, Renaissance Dam, files and folders, grade 10, information technology, ict, ethiopia, belarus, bhutan, class vii, mongolia, grade 8 it viii, greece, grade 11 epal basika themata, indonesia, grade 7

@@ -6,10 +6,13 @@ countries: Greece
 
 **Book 2:** *Πληροφορική — Βιβλίο Μαθητή, Συμπληρωματικό Εκπαιδευτικό Υλικό, Γ΄ Γενικού Λυκείου (Pliroforiki, Student Book — Supplementary Educational Material)* (supplementary student material, Greek) — Greece, Ινστιτούτο Τεχνολογίας Υπολογιστών και Εκδόσεων «Διόφαντος» / ΙΕΠ, Ministry of Education; year 2019-2020; ISBN 978-960-06-5997-9, book code 0-22-0279. 146 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/greece-placements.md.
 
+**Book 3:** *Panduan Guru Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025; ISBN 978-634-00-3136-2 (jil. 3 PDF). Grade 9 (teacher guide). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ch.3 Other data structures: lists, trees, graphs | Greece Grade 12 Anaptyxi Efarmogon, printed p. 71 |
 | Unit 1 Other data structures: lists, trees, graphs | Greece Grade 12 Pliroforiki Supplementary, printed p. 37 |
+| Bab I Panduan pembelajaran berpikir komputasional dalam analisis data: struktur data pohon dan graf (filed as programming/trees-and-graphs-as-data-structures; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 9 G9 Informatika teacher guide, printed p. 57 (teacher guide — evidence) |
 
 **Acceptance count: taught in 1 country (Greece).**
 
@@ -19,4 +22,6 @@ Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam
 
 Greece's own way (Grade 12, Pliroforiki Supplementary Material): the official supplementary volume expands exactly five AEPP areas with worked implementations — stack and queue implemented on a one-dimensional array, lists/trees/graphs at abstract level with diagrams, divide-and-conquer through binary search and its variants, the ΕΠΙΛΕΞΕ command, a full object-oriented unit (methodology, class diagrams, abstraction/encapsulation, inheritance, polymorphism), and a debugging unit organised by where logic errors hide (selection, repetition, arrays, subprograms) plus black-box testing; its own mapping table ties every unit back to the main book's chapters.
 
-Searchable tags: data structures, lists, trees, graphs, programming, greece, grade 12 anaptyxi efarmogon supplementary
+Indonesia's own way (Indonesia Grade 9 G9 Informatika teacher guide): Each chapter guide gives learning objectives and indicators, concept maps, per-subchapter learning-experience tables, K3 (occupational safety) notes, and student reflection tables for the four Grade 9 chapters. (teacher guide — evidence)
+
+Searchable tags: data structures, lists, trees, graphs, programming, greece, grade 12 anaptyxi efarmogon supplementary, indonesia, grade 9

@@ -1,6 +1,6 @@
 # Sources — Cloud computing — services over the internet, not on your PC
 
-countries: Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia, Kuwait, Greece, Bangladesh, Jordan
+countries: Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia, Kuwait, Greece, Bangladesh, Jordan, Indonesia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 **Book 2:** *Information Technology, Grade 12 Teacher Guide* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University. Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu, Berhane Woldegabriel Zeweldi, Temesgen Debelo Ayana. Illustrator: Selamneh Belete Tekle. Designer: Dagnachew Melesew Alemayehu. August 2023, ©2023 Ministry of Education, GEQIP-E. ISBN 978-99990-0-047-5. PDF 161 pp. Printed page = PDF page − 5. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-teacher-placements.md.
@@ -31,6 +31,10 @@ countries: Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia, Kuwa
 
 **Book 15:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 11 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-725-6. Grade 11 (student book). 169 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 16:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 17:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cloud computing defined — storing and accessing data and services over the internet, not on your PC; servers, storage, networking, databases on demand; many users from a single data centre; no location limit; everyday examples (Gmail, Maps, Amazon, Netflix, PayPal, Spotify, Adobe Creative Cloud, Kindle) | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 37–38 |
@@ -49,8 +53,10 @@ countries: Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia, Kuwa
 | Ch.13 Introduction to cloud applications | Greece Grade 10 Efarmoges Pliroforikis, printed p. 110 |
 | Chapter 2, 2.5.7: Cloud computing — what it is, and private, public and hybrid clouds | Bangladesh HSC ICT, printed p. 74 |
 | Unit 1 Cloud Computing, Lesson 1: Cloud Computing Systems — concept of cloud computing | Jordan Grade 11 G11T2 Student, printed p. 10 |
+| Bab 3 C.2 Simpan ke penyimpanan awan (cloud), aplikasi penyimpan, screenshot, download | Indonesia Grade 7 G7 Informatika student, printed p. 107 |
+| Bab 1 C.5 Cloud Computing: public/private/hybrid | Indonesia Grade 12 G12 Informatika student, printed p. 18 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia, Kuwait, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 13 countries (Ethiopia, Mozambique, Nepal, Iraq, Sudan, Egypt, Fiji, Mongolia, Kuwait, Greece, Bangladesh, Jordan, Indonesia).**
 
 The student book §1.4 points readers to “Unit 2 Section 2.3” for cloud computing; cloud is §2.2 and §2.3 is fog computing. This lesson follows the book's own Unit 2 order (§2.2 cloud, §2.3 fog) and names the wrong cross-reference here, as the placements flag it.
 
@@ -76,4 +82,8 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 11 G11T2 Student): Cloud services are taught through the two commercial providers students can actually open — Microsoft Azure and Google Cloud — before data security in the cloud; the AI unit goes from expert systems through machine learning and NLP to modelling and simulation.
 
-Searchable tags: cloud computing, data centre, on demand, Gmail, origin of the word cloud, Grade 12 ICT Ethiopia, mozambique, nepal, iraq, grade 11, papua new guinea, grade 11, sudan, grade 6, egypt, grade 7, fiji, year 12, mongolia, grade 12 it xii, kuwait, grade 4 digital explorer term 2, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 2 digital skills
+Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Searchable tags: cloud computing, data centre, on demand, Gmail, origin of the word cloud, Grade 12 ICT Ethiopia, mozambique, nepal, iraq, grade 11, papua new guinea, grade 11, sudan, grade 6, egypt, grade 7, fiji, year 12, mongolia, grade 12 it xii, kuwait, grade 4 digital explorer term 2, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 2 digital skills, indonesia, grade 7, grade 12

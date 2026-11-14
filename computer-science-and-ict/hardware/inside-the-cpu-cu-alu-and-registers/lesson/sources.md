@@ -1,6 +1,6 @@
 # Sources — Inside the CPU — CU, ALU and registers
 
-countries: Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh
+countries: Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -16,6 +16,10 @@ countries: Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh
 
 **Book 7:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 8:** *Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-167-8 (jil. 2 PDF). Grade 8 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. Read from the record's official Kemdikbud source URL (the grab routes failed); the book is already secured in GitHub.
+
+**Book 9:** *Panduan Guru Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024; ISBN 978-623-388-168-5 (jil. 2 PDF). Grade 8 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The control unit | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.2, printed pp. 27–28 |
@@ -27,8 +31,10 @@ countries: Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh
 | Competency 1 teaching notes: input unit, CPU (ALU, memory unit, control unit), output unit (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 8 (teacher guide — evidence) |
 | Ch.1 Registers (filed as hardware/registers-and-buses; stocked into this lesson as the closest existing lesson covering this thing) | Sri Lanka Grade 12 G12 Science for Technology ICT (Tamil), printed p. 19 |
 | Chapter 3, 3.7.9: registers — sets of flip-flops storing data inside the CPU | Bangladesh HSC ICT, printed p. 110 |
+| Bab 5 C. Central Processing Unit | Indonesia Grade 8 G8 Informatika student, printed p. 202 |
+| Bab V Panduan pembelajaran pemanfaatan perangkat digital: komponen sistem komputer, pengalamatan memori, CPU | Indonesia Grade 8 G8 Informatika teacher guide, printed p. 198 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh).**
+**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Mongolia, Sri Lanka, Bangladesh, Indonesia).**
 
 Printed p. 27 of the student book carries a stray character run (a run of the letter k typeset into the text); it is a typesetting fault, carries no meaning, and is not taught. The CPU's figure on the same page repeats the number 'Figure 2.10' already used for the joystick (printed p. 26) — the duplication is the book's, and is flagged in both lessons it touches. Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
@@ -44,4 +50,8 @@ Sri Lanka's own way (Grade 12 Science for Technology, Tamil): the A/L technology
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: CPU, control unit, ALU, registers, bus, arithmetic operations, logical operations, comparisons, Ethiopia Grade 8, iraq, grade 8, mongolia, grade 11 it xi, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, bangladesh, hsc ict classes xi xii and alim
+Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens the four elements: spreadsheet data analysis (lookup, pivot), computational thinking through functions, sets and number systems, and programming that moves from Scratch to Blockly Games, procedural blocks and a physical Ozobot robot.
+
+Indonesia's own way (Indonesia Grade 8 G8 Informatika teacher guide): The teacher guide mirrors the student book chapter by chapter with capaian pembelajaran, prerequisite maps, apersepsi, per-meeting teaching guides, follow-up, assessment rubrics and answer keys — the official way to teach each Grade 8 topic. (teacher guide — evidence)
+
+Searchable tags: CPU, control unit, ALU, registers, bus, arithmetic operations, logical operations, comparisons, Ethiopia Grade 8, iraq, grade 8, mongolia, grade 11 it xi, sri lanka, grade 7 reading book, sri lanka, grade 9 teachers guide, sri lanka, grade 12 science for technology tamil, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 8, grade 8

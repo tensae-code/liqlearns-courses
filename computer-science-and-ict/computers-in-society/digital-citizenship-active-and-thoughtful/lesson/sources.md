@@ -1,6 +1,6 @@
 # Sources — Digital citizenship — active and thoughtful, not just careful
 
-countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos, Moldova, Bangladesh, Jordan
+countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos, Moldova, Bangladesh, Jordan, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -42,6 +42,10 @@ countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, 
 
 **Book 22:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 7 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-721-8. Grade 7 (student book). 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 23:** *Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-167-8 (jil. 2 PDF). Grade 8 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. Read from the record's official Kemdikbud source URL (the grab routes failed); the book is already secured in GitHub.
+
+**Book 24:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Citizenship — the do's | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 22 (student placement item 30) |
@@ -66,8 +70,10 @@ countries: Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, 
 | Introduction: Pourquoi éduquer au numérique? | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 6 (teacher guide — evidence) |
 | Learning Experience 4, Sessions 7-8: action plan against information risks and awareness placards / human chain | Bangladesh Grade 6 Digital Technology, printed p. 50 |
 | Unit 1 Impact of Computing, Lesson 1: Digital Citizenship — its concept and principles; the digital citizen; importance and principles of digital citizenship | Jordan Grade 7 G7T2 Student, printed p. 10 |
+| Bab 4 C. Etika bermedia digital | Indonesia Grade 8 G8 Informatika student, printed p. 172 |
+| Bab IV E.1 Perilaku digital | Indonesia Grade 9 G9 Informatika student, printed p. 226 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos, Moldova, Bangladesh, Jordan).**
+**Acceptance count: taught in 14 countries (Ethiopia, Cambodia, Mozambique, North Macedonia, Egypt, Fiji, Libya, Mongolia, Kuwait, Laos, Moldova, Bangladesh, Jordan, Indonesia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -107,4 +113,8 @@ Bangladesh's own way (Grade 6, Digital Technology): the Competency-based Nationa
 
 Jordan's own way (Jordan Grade 7 G7T2 Student): Citizenship comes before code in Term 2 — digital citizenship, intellectual property with the actual patent-application procedures, data privacy law, and balanced use of communication tools — then a pure algorithms unit with no computer needed (writing conditions, tracking, representation, flowcharts, improving algorithms).
 
-Searchable tags: digital citizenship, digital footprint, community campaign, Ambassador competition, Ethiopia Grade 12 IT, cambodia, mozambique, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, egypt, grade 5, fiji, years 7-8, libya, grade 9 computer, mongolia, grade 10 it x, kuwait, grade 4 digital explorer term 1, grade 5 digital explorer term 1, laos, grade 12 ict student, moldova, grade 7 informatica, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, jordan, grade 7 term 2 digital skills
+Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens the four elements: spreadsheet data analysis (lookup, pivot), computational thinking through functions, sets and number systems, and programming that moves from Scratch to Blockly Games, procedural blocks and a physical Ozobot robot.
+
+Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
+
+Searchable tags: digital citizenship, digital footprint, community campaign, Ambassador competition, Ethiopia Grade 12 IT, cambodia, mozambique, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, mauritania, grade 9, egypt, grade 5, fiji, years 7-8, libya, grade 9 computer, mongolia, grade 10 it x, kuwait, grade 4 digital explorer term 1, grade 5 digital explorer term 1, laos, grade 12 ict student, moldova, grade 7 informatica, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 6 digital technology, jordan, grade 7 term 2 digital skills, indonesia, grade 8, grade 9

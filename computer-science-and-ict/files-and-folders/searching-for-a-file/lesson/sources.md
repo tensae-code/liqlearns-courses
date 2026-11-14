@@ -16,6 +16,8 @@ countries: Ethiopia, Cuba, Sri Lanka
 
 **Book 7:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 8:** *Panduan Guru Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-489-4 (jil. 1 PDF). Grade 7 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Searching for a file | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed pp. 23–24 |
@@ -25,6 +27,7 @@ countries: Ethiopia, Cuba, Sri Lanka
 | Unidad 2 Búsqueda de información, búsqueda automática; guardar/abrir/modificar; archivos y carpetas (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 13 (teacher guide — evidence) |
 | Capítulo 2.4 Buscando información | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 55 |
 | Ch.2 File attributes configuration and searching files | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 14 |
+| Panduan Khusus Bab 5: panduan pembelajaran berkas dan folder (filed as files-and-folders/searching-for-files-and-folders; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 198 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Cuba, Sri Lanka).**
 
@@ -42,4 +45,6 @@ Cuba's own way (Grade 5): Student text mirrors the programme in four chapters; w
 
 Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
 
-Searchable tags: search for a file, Windows key search, Search field, This PC, part of name, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 4, morocco, grade 1, cuba, grade 5, cuba, grade 5, cuba, grade 5, sri lanka, grade 8 reading book
+Indonesia's own way (Indonesia Grade 7 G7 Informatika teacher guide): Panduan Umum sets out capaian pembelajaran, pedagogy principles and assessment for Grade 7; each chapter guide presents the essential material, pre-learning assessment, a step-by-step guide to the student book, enrichment/remedial, answer keys and parent interaction. (teacher guide — evidence)
+
+Searchable tags: search for a file, Windows key search, Search field, This PC, part of name, files and folders, grade 9, information technology, ict, ethiopia, saudi arabia, grade 4, morocco, grade 1, cuba, grade 5, cuba, grade 5, cuba, grade 5, sri lanka, grade 8 reading book, indonesia, grade 7

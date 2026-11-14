@@ -1,6 +1,6 @@
 # Sources — Inside the CPU — ALU, control unit, registers
 
-countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos
+countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos
 
 **Book 7:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 3 (Textbook, ICT, Secondary Year 3)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2012; ISBN: no ISBN printed. 114 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 8:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The ALU — works out and compares | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 21 (teacher evidence: guide printed pp. 31–34) |
@@ -27,8 +29,9 @@ countries: Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos
 | 2.1.1 Computer architecture (the von Neumann model; standard and non-standard architectures; open and closed standards) | Mongolia Grade 12 IT XII, printed p. 44 |
 | Ch.1 Components of the CPU | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 3 |
 | Ch.1 §1.1 The CPU (its components, choosing a CPU, heat) | Laos Grade 8 ICT student, printed p. 1 |
+| Bab 3 D (kerja internal CPU) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 98 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos).**
+**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Bhutan, Mongolia, Sri Lanka, Laos, Indonesia).**
 
 No book error touches this lesson's content.
 
@@ -42,4 +45,6 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Laos's own way (Grade 8 ICT student book): a full PC-technician year in full colour — learners take a computer apart and rebuild it (CPU, RAM, board, cards, drives), install Windows XP and drivers, fix install faults by BIOS beep codes, then finish with networks and the internet.
 
-Searchable tags: inside the cpu — alu, control unit, registers, hardware, grade 7, information technology, ict, ethiopia, the alu — works out and compares, the control unit — directs everything, fiji, year 11, bhutan, class vi, mongolia, grade 12 it xii, sri lanka, grade 7 reading book, laos, grade 8 ict student
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
+
+Searchable tags: inside the cpu — alu, control unit, registers, hardware, grade 7, information technology, ict, ethiopia, the alu — works out and compares, the control unit — directs everything, fiji, year 11, bhutan, class vi, mongolia, grade 12 it xii, sri lanka, grade 7 reading book, laos, grade 8 ict student, indonesia, grade 10

@@ -1,6 +1,6 @@
 # Sources — Passwords — making a strong one
 
-countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan
+countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -29,6 +29,14 @@ countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan
 
 **Book 14:** *المهارات الرقمية — الصف الخامس الأساسي، كتاب الأنشطة (Digital Skills, Grade 5 Basic, Student Activities Book)* (student activity book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-987-8. Grade 5 (student activity book). 147 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed; partner-subject content is not. (The Grade 5 Term 1 teacher-guide record in the library resolves to a Grade 4 teacher-guide file — a second copy/export of Book 22's book, filed record-only in the placements file as its Book 24 and in the links pass as L3, and cited nowhere as a Grade 5 guide; the genuine G5 T1 teacher guide is a library debt.)
 
+**Book 15:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 16:** *Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-167-8 (jil. 2 PDF). Grade 8 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. Read from the record's official Kemdikbud source URL (the grab routes failed); the book is already secured in GitHub.
+
+**Book 17:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 18:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Password defined — verifies identity; first line of defence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.68 |
@@ -46,8 +54,12 @@ countries: Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan
 | Activité 4 Séance 1: Sécurité des accès — pourquoi et comment protéger les accès aux données sur un ordinateur | Switzerland Grade 7 Décodage 7e–8e, printed p. 3 (Activité 4) (teacher guide — evidence) |
 | Lesson 1: using passwords to protect data | Jordan Grade 9 G9T2 Student, printed p. 18 |
 | choosing a password that is easy for you to remember and not recording it anywhere | Jordan Grade 5 G5 Workbook, printed p. 31 |
+| Bab 4 D. Membuat kata sandi yang aman: guna kata sandi, kata sandi kuat dan mudah diingat | Indonesia Grade 7 G7 Informatika student, printed p. 156 |
+| Bab 5 F (praktik: kata sandi dan keamanan akun saat terhubung ke internet) | Indonesia Grade 8 G8 Informatika student, printed p. 219 |
+| Bab IV D.1 Kata sandi yang kuat | Indonesia Grade 9 G9 Informatika student, printed p. 215 |
+| Bab 4 D (kata sandi dalam keamanan informasi) | Indonesia Grade 10 G10 Informatika student, printed p. 226 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan).**
+**Acceptance count: taught in 9 countries (Ethiopia, China, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda, Jordan, Indonesia).**
 
 Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
 
@@ -71,4 +83,12 @@ Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the
 
 Jordan's own way (Jordan Grade 5 G5 Workbook): Grade 5 mixes all four tools (Paint, Word, PowerPoint, Excel) and adds an explicit password lesson — choosing a password you can remember without writing it down.
 
-Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict student book, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 9 term 2 digital skills, grade 5 digital skills workbook
+Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
+
+Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens the four elements: spreadsheet data analysis (lookup, pivot), computational thinking through functions, sets and number systems, and programming that moves from Scratch to Blockly Games, procedural blocks and a physical Ozobot robot.
+
+Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high Informatika opens with real data work — multi-variable search, data collection by Python web scraping in Google Colab (pandas/Plotly) — then algorithms chosen for real-life problems, office automation, IT careers/certifications, and information security with classical ciphers.
+
+Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9, bhutan, class v, sri lanka, grade 6 reading book, sri lanka, grade 12 science for technology tamil, rwanda, grade 8 s2 ict student book, switzerland, decodage, grades 56, switzerland, decodage, grades 78, jordan, grade 9 term 2 digital skills, grade 5 digital skills workbook, indonesia, grade 7, grade 8, grade 9, grade 10

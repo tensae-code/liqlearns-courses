@@ -1,6 +1,6 @@
 # Sources — Ring topology — and the four shapes compared
 
-countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia
+countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia
 
 **Book 10:** *Թվային գրագիտություն և համակարգչային գիտություն, 10-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 10, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN no ISBN printed. Grade 10 (teacher guide). 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 11:** *Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-204-0 (jil. 2 PDF). Grade 11 (student book). 312 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Each node, two neighbours, one direction | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 56–57 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia
 | Unit 2 Lesson plan 2: Computer Network Topologies (teacher guide — evidence) | Jordan Grade 7 G7T1 Teacher, printed p. 87 (teacher guide — evidence) |
 | Lesson 10 Network topologies (Theme 9) | Armenia Grade 10 G10 student, printed p. 53 |
 | Exemplary thematic planning: Theme 9 Network topologies | Armenia Grade 10 G10 teacher, printed p. 57 (teacher guide — evidence) |
+| Bab V A.1 (topologi ring dan perbandingan topologi) | Indonesia Grade 11 G11 Informatika student, printed p. 210 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Fiji, Libya, Laos, Moldova, Bangladesh, Jordan, Armenia, Indonesia).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -59,4 +62,6 @@ Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Step
 
 Armenia's own way (Armenia Grade 10 G10 teacher): Companion to Book 18 in the same Zangak guide template as the Grade 2 guide: subject purpose and programme features, methods, assessment, the Grade 10 standard outcomes for all 24 themes, an exemplary thematic plan, sample lesson plans for the "Types. Composite structures" theme, and additional problems with solutions for Themes 14–15.
 
-Searchable tags: ring topology, bus, mesh, star, comparison table, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 10
+Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is the advanced year: lateral reading and triangulation for truth-checking, open/trusted/legal data with a real Indonesian deforestation case study, recursion/greedy/dynamic programming, mobile and AI apps in App Inventor, and designing + securing a computer network end to end.
+
+Searchable tags: ring topology, bus, mesh, star, comparison table, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, moldova, grade 11 informatica, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, grade 7 term 1 digital skills teacher guide, armenia, grade 10, indonesia, grade 11

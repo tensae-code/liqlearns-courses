@@ -1,6 +1,6 @@
 # Sources — Privacy — your data spread across systems
 
-countries: Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan, Armenia
+countries: Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -31,6 +31,14 @@ countries: Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan
 
 **Book 15:** *Թվային գրագիտություն և համակարգչային գիտություն 6 (Digital Literacy and Computer Science, Grade 6 textbook)* (student book, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN 978-9939-98-214-4. Grade 6 (student book). 162 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 16:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 17:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 18:** *Panduan Guru Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-489-4 (jil. 1 PDF). Grade 7 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
+**Book 19:** *Panduan Guru Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025; ISBN 978-634-00-3136-2 (jil. 3 PDF). Grade 9 (teacher guide). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Data everywhere, behind passwords | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 3 (student placement item 3) |
@@ -49,8 +57,12 @@ countries: Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan
 | Chapter 1, "Different Type of Crimes": big corporations' data misuse (Facebook and Cambridge Analytica) and record fines | Bangladesh HSC ICT, printed p. 34 |
 | Lesson 3: Data Privacy and Protection Methods — data privacy and its importance | Jordan Grade 7 G7T2 Student, printed p. 39 |
 | §2 Protection of personal data | Armenia Grade 6 G6 student, printed p. 9 |
+| Bab 4 C. Memilah informasi privat dan publik: informasi pribadi, hukum privasi, persetujuan | Indonesia Grade 7 G7 Informatika student, printed p. 151 |
+| Bab IV A. Jenis informasi: data pribadi umum dan data pribadi spesifik | Indonesia Grade 9 G9 Informatika student, printed p. 185 |
+| Panduan Khusus Bab 4: panduan pembelajaran privasi data pribadi dan kata sandi (filed as safety-security-and-care/protecting-personal-data; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 160 (teacher guide — evidence) |
+| Bab IV Panduan pembelajaran keamanan digital: data pribadi (filed as safety-security-and-care/types-of-personal-data; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 9 G9 Informatika teacher guide, printed p. 160 (teacher guide — evidence) |
 
-**Acceptance count: taught in 10 countries (Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan, Armenia).**
+**Acceptance count: taught in 11 countries (Ethiopia, China, Egypt, Fiji, Libya, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -80,4 +92,12 @@ Jordan's own way (Jordan Grade 7 G7T2 Student): Citizenship comes before code in
 
 Armenia's own way (Armenia Grade 6 G6 student): Same author pair as Grade 5, one year on: the § sequence moves from society/data-rights into number systems and computing systems, then a long spreadsheet-and-diagrams block, and ends with algorithms in flowcharts and a block-based programming language.
 
-Searchable tags: privacy, personal data, passwords, unauthorised access, employer monitoring, Ethiopia Grade 12 IT, china, egypt, grade 10, fiji, year 12, libya, grade 12 it humanities, grade 12 it science, laos, grade 10 ict student, greece, grade 9 pliroforiki c gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 56, bangladesh, grade 6 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills, armenia, grade 6
+Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
+
+Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
+
+Indonesia's own way (Indonesia Grade 7 G7 Informatika teacher guide): Panduan Umum sets out capaian pembelajaran, pedagogy principles and assessment for Grade 7; each chapter guide presents the essential material, pre-learning assessment, a step-by-step guide to the student book, enrichment/remedial, answer keys and parent interaction. (teacher guide — evidence)
+
+Indonesia's own way (Indonesia Grade 9 G9 Informatika teacher guide): Each chapter guide gives learning objectives and indicators, concept maps, per-subchapter learning-experience tables, K3 (occupational safety) notes, and student reflection tables for the four Grade 9 chapters. (teacher guide — evidence)
+
+Searchable tags: privacy, personal data, passwords, unauthorised access, employer monitoring, Ethiopia Grade 12 IT, china, egypt, grade 10, fiji, year 12, libya, grade 12 it humanities, grade 12 it science, laos, grade 10 ict student, greece, grade 9 pliroforiki c gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 56, bangladesh, grade 6 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills, armenia, grade 6, indonesia, grade 7, grade 9, grade 7, grade 9

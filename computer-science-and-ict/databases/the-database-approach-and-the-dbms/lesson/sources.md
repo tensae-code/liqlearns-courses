@@ -1,6 +1,6 @@
 # Sources — The database approach and the DBMS
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia, Mongolia, Kuwait, Laos, Greece, Moldova, Bangladesh
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia, Mongolia, Kuwait, Laos, Greece, Moldova, Bangladesh, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -53,6 +53,8 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, E
 
 **Book 26:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 27:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the database approach: all logically related data in one shared collection (a database) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 53–55 |
@@ -74,6 +76,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, E
 | Ch.3.2 Databases | Greece Grade 11 Eisagogi Epistimis H/Y, printed p. 85 |
 | 4.4 Sisteme de gestiune a bazelor de date | Moldova Grade 12 Informatică, printed p. 132 |
 | Chapter 6, 6.1: Introduction to database management — data, database and the DBMS | Bangladesh HSC ICT, printed p. 191 |
+| Bab III B.1 (penyajian data terstruktur dan format data) | Indonesia Grade 9 G9 Informatika student, printed p. 130 |
 
 | Sub lesson 4 (teacher guide — evidence) — the database-versus-DBMS distinction: a database is the schema designed with a DBMS to store data; the DBMS is the software tool used to maintain it; tool landscape MySQL, Oracle, MS SQL Server, MariaDB | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 52–54 |
 | Sub lesson 4 (teacher guide — evidence) — the NoSQL challenge: an RDBMS schema is not flexible enough for big data; NoSQL models address it; prerequisite MS Access 2013 or later | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 52–54 |
@@ -91,7 +94,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, E
 | Unit 3, Create a Database for the project | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 61 (PDF page) |
 | Bab 4 Kod Arahan, 4.1.1 Maksud dan Penggunaan Pangkalan Data dan SQL | Malaysia Grade 9 ASK Tingkatan 3, printed p. 114 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia, Mongolia, Kuwait, Laos, Greece, Moldova, Bangladesh).**
+**Acceptance count: taught in 18 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia, Mongolia, Kuwait, Laos, Greece, Moldova, Bangladesh, Indonesia).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -144,4 +147,6 @@ Moldova's own way (Grade 12, Informatică): the final year goes deep in three di
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9, cuba, grade 11, egypt, grade 10, grade 11, grade 7, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, mongolia, grade 10 it x, kuwait, grade 11 information technology term 1, laos, grade 7 ict teacher guide, grade 11 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim
+Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
+
+Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9, cuba, grade 11, egypt, grade 10, grade 11, grade 7, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, mongolia, grade 10 it x, kuwait, grade 11 information technology term 1, laos, grade 7 ict teacher guide, grade 11 ict student, greece, grade 11 eisagogi epistimis hy lykeiou, moldova, grade 12 informatica, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 9

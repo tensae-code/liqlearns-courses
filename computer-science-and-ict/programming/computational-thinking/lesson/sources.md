@@ -1,6 +1,6 @@
 # Sources — Computational thinking
 
-countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan, Armenia
+countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -61,6 +61,26 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka
 
 **Book 31:** *Թվային գրագիտություն և համակարգչային գիտություն, 10-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 10, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN no ISBN printed. Grade 10 (teacher guide). 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 32:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 33:** *Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-167-8 (jil. 2 PDF). Grade 8 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. Read from the record's official Kemdikbud source URL (the grab routes failed); the book is already secured in GitHub.
+
+**Book 34:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 35:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 36:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
+**Book 37:** *Buku Panduan Guru Informatika untuk SMA/MA Kelas XII* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-949-3 (jil. 3). Grade 12 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The guide's own contents page misprints every chapter's running title; the chapters follow the student book's Bab 1–6 in order, confirmed from the chapter body headings. (teacher guide — evidence)
+
+**Book 38:** *Buku Panduan Guru Informatika untuk SMK/MAK Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-447-4 (jil. 1 PDF). Grade 10 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets; the guide covers both semesters of the SMK student books. (teacher guide — evidence)
+
+**Book 39:** *Panduan Guru Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-489-4 (jil. 1 PDF). Grade 7 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
+**Book 40:** *Panduan Guru Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025; ISBN 978-634-00-3136-2 (jil. 3 PDF). Grade 9 (teacher guide). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
+**Book 41:** *Panduan Guru Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024; ISBN 978-623-388-202-6 (jil. 2 PDF). Grade 11 (teacher guide). 298 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computational thinking defined; 21st-century skills set as research; Polya introduced | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 219 |
@@ -95,8 +115,19 @@ countries: Ethiopia, Djibouti, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka
 | Theme 8-9 Decomposing problems and turning them into algorithms (§12) | Armenia Grade 8 G8 teacher, printed p. 23 (teacher guide — evidence) |
 | Lesson 15 Generalisations of problem solutions | Armenia Grade 10 G10 student, printed p. 79 |
 | Additional materials, problems and solutions: Theme 15 Generalisations and patterns | Armenia Grade 10 G10 teacher, printed p. 78 (teacher guide — evidence) |
+| Bab 1 A. Berpikir Komputasional: dekomposisi, pengenalan pola, abstraksi, algoritma | Indonesia Grade 7 G7 Informatika student, printed p. 4 |
+| Bab 1 A.1 Berpikir komputasional dalam kehidupan sehari-hari (algoritma memasak nasi goreng) | Indonesia Grade 7 G7 Informatika student, printed p. 5 |
+| Bab 2 (peta konsep dan refleksi berpikir komputasional) | Indonesia Grade 8 G8 Informatika student, printed p. 57 |
+| Bab I (pengantar berpikir komputasional dalam analisis data: pengumpulan, pembersihan, tabel, grafik, kesimpulan, pengenalan pola) | Indonesia Grade 9 G9 Informatika student, printed p. 1 |
+| Bab 1 G. Prinsip pemikiran komputasional (dengan pseudocode keputusan dan heksadesimal) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 31 |
+| Bab 3 A–B. Berpikir komputasional dan manfaatnya (Jeannette Wing), diterapkan pada rencana pemasaran produk online | Indonesia Grade 12 G12 Informatika student, printed p. 52 |
+| Bab 3 Panduan pembelajaran berpikir komputasional dan algoritma pemrograman (Bahasa C Arduino) | Indonesia Grade 12 G12 Informatika teacher guide, printed p. 93 (teacher guide — evidence) |
+| Bab 1 (Semester 1) Pertemuan ke-3 sampai 5: problem solving dan prinsip berpikir komputasional (dekomposisi, pengenalan pola, abstraksi, desain algoritma) (filed as programming/problem-solving-steps; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK teacher guide, printed p. 51 (teacher guide — evidence) |
+| Panduan Khusus Bab 1: panduan pembelajaran berpikir komputasi untuk penyelesaian masalah (termasuk Scratch) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 57 (teacher guide — evidence) |
+| Bab II Panduan pembelajaran berpikir komputasional dalam algoritma dan pemrograman: modularisasi dan lib | Indonesia Grade 9 G9 Informatika teacher guide, printed p. 95 (teacher guide — evidence) |
+| Bab IV Panduan pembelajaran pengembangan kemampuan berpikir komputasional: aplikasi algoritma, aplikasi mobile dan AI dengan App Inventor | Indonesia Grade 11 G11 Informatika teacher guide, printed p. 163 (teacher guide — evidence) |
 
-**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan, Armenia).**
+**Acceptance count: taught in 12 countries (Ethiopia, North Macedonia, Cuba, Egypt, Malaysia, Sri Lanka, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -156,4 +187,24 @@ Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Step
 
 Armenia's own way (Armenia Grade 10 G10 teacher): Companion to Book 18 in the same Zangak guide template as the Grade 2 guide: subject purpose and programme features, methods, assessment, the Grade 10 standard outcomes for all 24 themes, an exemplary thematic plan, sample lesson plans for the "Types. Composite structures" theme, and additional problems with solutions for Themes 14–15.
 
-Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, laos, grade 12 ict student, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, jordan, grade 12 term 2 digital skills, armenia, grade 2, grade 5, grade 7, grade 8, grade 10
+Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
+
+Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens the four elements: spreadsheet data analysis (lookup, pivot), computational thinking through functions, sets and number systems, and programming that moves from Scratch to Blockly Games, procedural blocks and a physical Ozobot robot.
+
+Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika teacher guide): Panduan Umum explains the SMA informatics curriculum, plugged and unplugged modes, and Fase F learning outcomes; each chapter guide gives strategies, lesson organisation, meaningful-learning design, enrichment/remedial, rubrics and parent interaction. (teacher guide — evidence)
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK teacher guide): Per-meeting teaching guides with activity steps, rubrics and remedial/enrichment for every SMK Grade 10 topic, from logic propositions and number conversion to a full Ubuntu installation demonstration and flowchart activity sets. (teacher guide — evidence)
+
+Indonesia's own way (Indonesia Grade 7 G7 Informatika teacher guide): Panduan Umum sets out capaian pembelajaran, pedagogy principles and assessment for Grade 7; each chapter guide presents the essential material, pre-learning assessment, a step-by-step guide to the student book, enrichment/remedial, answer keys and parent interaction. (teacher guide — evidence)
+
+Indonesia's own way (Indonesia Grade 9 G9 Informatika teacher guide): Each chapter guide gives learning objectives and indicators, concept maps, per-subchapter learning-experience tables, K3 (occupational safety) notes, and student reflection tables for the four Grade 9 chapters. (teacher guide — evidence)
+
+Indonesia's own way (Indonesia Grade 11 G11 Informatika teacher guide): Chapter guides with concept maps, learning schemes, per-activity assessment recaps and answer keys for the five Grade 11 units, from digital information and data analysis to network design and security configuration. (teacher guide — evidence)
+
+Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11, egypt, grade 9, malaysia, grade 7 ask tingkatan 1, malaysia, grade 9 ask tingkatan 3, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, sri lanka, grade 8 reading book, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, laos, grade 12 ict student, greece, grade 12 anaptyxi efarmogon aepp glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, bangladesh, grade 7 digital technology, jordan, grade 12 term 2 digital skills, armenia, grade 2, grade 5, grade 7, grade 8, grade 10, indonesia, grade 7, grade 8, grade 9, grade 10, grade 12, grade 12, grade 10, grade 7, grade 9, grade 11

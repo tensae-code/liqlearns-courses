@@ -1,6 +1,6 @@
 # Sources — The map of cyber-attacks
 
-countries: Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda
+countries: Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -18,6 +18,12 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda
 
 **Book 8:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
 
+**Book 9:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 10:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
+**Book 11:** *Panduan Guru Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025; ISBN 978-634-00-3136-2 (jil. 3 PDF). Grade 9 (teacher guide). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cyber terminology; the eight main kinds listed | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed p. 199 |
@@ -28,8 +34,11 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda
 | Unit 1 Lesson 2 Advanced Cyber Threats | Egypt, *Computer & ICT, Grade 8 Term 1*, printed p. 21 |
 | Importance of computer security; security threats (origins, intended and external classes; viruses, spyware, trojan horse, social engineering, identity theft, sabotage, denial of service) | Rwanda Grade 9 S3 ICT Student Book, printed p. 313 |
 | Security threats (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 167 (teacher guide — evidence) |
+| Bab IV B.1 Jenis serangan siber | Indonesia Grade 9 G9 Informatika student, printed p. 194 |
+| Bab 4 H.3–H.4 Jenis dan metode ancaman cyber: phishing, botnets/zombies, injeksi SQL, DoS, man-in-the-middle, malware, virus, spyware, trojans, adware, ransomware | Indonesia Grade 12 G12 Informatika student, printed p. 121 |
+| Bab IV Panduan pembelajaran: serangan siber dan keamanan jaringan (filed as safety-security-and-care/cyber-attacks; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 9 G9 Informatika teacher guide, printed p. 168 (teacher guide — evidence) |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda).**
+**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda, Indonesia).**
 
 Iraq's own way (Grade 10): the preparatory stage turns practical and examinable — a whole unit on computer maintenance (preventive vs corrective, hardware and software, hard-disk management with defragmentation, ScanDisk, partitions and FAT32 vs NTFS), then PowerPoint and Microsoft Publisher taught tab by tab, looping control structures in Scratch, and a final unit pairing HTML web-page building with information security.
 
@@ -45,4 +54,10 @@ Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3
 
 Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
 
-Searchable tags: cyber-attack, eight kinds, map, Grade 9 ICT Ethiopia Unit 5, iraq, grade 10, sudan, grade 6, cuba, grade 9, egypt, grade 10, grade 8, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide
+Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Indonesia's own way (Indonesia Grade 9 G9 Informatika teacher guide): Each chapter guide gives learning objectives and indicators, concept maps, per-subchapter learning-experience tables, K3 (occupational safety) notes, and student reflection tables for the four Grade 9 chapters. (teacher guide — evidence)
+
+Searchable tags: cyber-attack, eight kinds, map, Grade 9 ICT Ethiopia Unit 5, iraq, grade 10, sudan, grade 6, cuba, grade 9, egypt, grade 10, grade 8, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, indonesia, grade 9, grade 12, grade 9

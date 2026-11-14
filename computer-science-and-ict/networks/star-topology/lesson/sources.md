@@ -1,6 +1,6 @@
 # Sources — Star topology
 
-countries: Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia
+countries: Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,12 @@ countries: Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia
 
 **Book 6:** *Թվային գրագիտություն և համակարգչային գիտություն 7 (Digital Literacy and Computer Science, Grade 7 textbook)* (student book, Armenian) — Armenia, Shant Compu LLC / "System" publishing, Yerevan; year 2025; ISBN 978-9939-9341-1-2. Grade 7 (student book). 154 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 7:** *Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-204-0 (jil. 2 PDF). Grade 11 (student book). 312 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 8:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
+**Book 9:** *Panduan Guru Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024; ISBN 978-623-388-202-6 (jil. 2 PDF). Grade 11 (teacher guide). 298 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Every device, its own link to the centre | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 56 |
@@ -23,8 +29,11 @@ countries: Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia
 | Ch.4 §4.5.2 Star topology | Laos Grade 8 ICT student, printed p. 85 |
 | Chapter 2, 2.5.6: star topology, its advantages and disadvantages | Bangladesh HSC ICT, printed p. 71 |
 | 3.2 Physical and logical structures of networks (topologies) | Armenia Grade 7 G7 student, printed p. 48 |
+| Bab V A.1 Merancang jaringan komputer: topologi jaringan | Indonesia Grade 11 G11 Informatika student, printed p. 208 |
+| Bab 4 C. Topologi jaringan: bus, ring, star, mesh, hybrid/tree dan perbandingannya | Indonesia Grade 12 G12 Informatika student, printed p. 94 |
+| Bab V Panduan pembelajaran: desain topologi jaringan | Indonesia Grade 11 G11 Informatika teacher guide, printed p. 205 (teacher guide — evidence) |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Libya, Laos, Bangladesh, Armenia, Indonesia).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -38,4 +47,10 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Melkonyan, 2025) rebuilds the course around the "virtual world": data and encoding, networks, e-security and e-communication, then a full Python chapter — decisions, lists, loops, functions, objects and classes — taught as making the real world virtual.
 
-Searchable tags: star topology, switch, central controller, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7
+Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is the advanced year: lateral reading and triangulation for truth-checking, open/trusted/legal data with a real Indonesian deforestation case study, recursion/greedy/dynamic programming, mobile and AI apps in App Inventor, and designing + securing a computer network end to end.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Indonesia's own way (Indonesia Grade 11 G11 Informatika teacher guide): Chapter guides with concept maps, learning schemes, per-activity assessment recaps and answer keys for the five Grade 11 units, from digital information and data analysis to network design and security configuration. (teacher guide — evidence)
+
+Searchable tags: star topology, switch, central controller, Grade 9 ICT Ethiopia, fiji, year 12, libya, grade 9 computer, laos, grade 8 ict student, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7, indonesia, grade 11, grade 12, grade 11

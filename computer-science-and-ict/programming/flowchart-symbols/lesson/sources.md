@@ -28,6 +28,8 @@ countries: Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh, Jord
 
 **Book 13:** *Թվային գրագիտություն և համակարգչային գիտություն 6, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 6, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares, Yerevan; year 2024; ISBN no ISBN printed. Grade 6 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 14:** *Buku Panduan Guru Informatika untuk SMK/MAK Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-447-4 (jil. 1 PDF). Grade 10 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets; the guide covers both semesters of the SMK student books. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The seven basic flowchart symbols tabled | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 224 |
@@ -40,6 +42,7 @@ countries: Ethiopia, Sudan, Bhutan, Libya, Mongolia, Sri Lanka, Bangladesh, Jord
 | Chapter 5, 5.4.2: Flowchart — the standard symbols and their meanings | Bangladesh HSC ICT, printed p. 150 |
 | Lesson 2: types of flowcharts | Jordan Grade 7 G7T2 Student, printed p. 122 |
 | Theme 6-11 Block diagrams | Armenia Grade 6 G6 teacher, printed p. 39 (teacher guide — evidence) |
+| Bab 1 (Semester 2) Panduan pembelajaran algoritma dan pemrograman: deklarasi variabel dan aktivitas flowchart kondisi, perulangan, aplikasi diskon, berat badan ideal dan penjualan (filed as programming/flowchart-symbols-and-drawing-algorithm-pictures; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK teacher guide, printed p. 167 (teacher guide — evidence) |
 
 | Flowcharts — why precise representation; the definition; the pictured symbol set (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 210–212 |
 | Unit 3, 3-2: The program flowchart and its standard symbols | Sudan, *Computer Science, Grade 11*, printed p. 26 |
@@ -69,4 +72,6 @@ Jordan's own way (Jordan Grade 7 G7T2 Student): Citizenship comes before code in
 
 Armenia's own way (Armenia Grade 6 G6 teacher): The guide reorganises the student book's 24 §s into 13 standard themes (6-1 to 6-13), each with lesson topic, outcome codes, cross-cutting competencies and practical work; it closes with a thematic plan, a worked sample lesson plan (§3) and slide-presentation assessment rubrics.
 
-Searchable tags: flowchart symbols, terminator, decision diamond, parallelogram, connector, subroutine, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, bhutan, class vii, libya, grade 11 it student term 1, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 11 tamil, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills, armenia, grade 6
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK teacher guide): Per-meeting teaching guides with activity steps, rubrics and remedial/enrichment for every SMK Grade 10 topic, from logic propositions and number conversion to a full Ubuntu installation demonstration and flowchart activity sets. (teacher guide — evidence)
+
+Searchable tags: flowchart symbols, terminator, decision diamond, parallelogram, connector, subroutine, Grade 9 ICT Ethiopia Unit 6, sudan, grade 9, grade 11, bhutan, class vii, libya, grade 11 it student term 1, mongolia, grade 9 it ix, sri lanka, grade 6 reading book, sri lanka, grade 11 tamil, switzerland, decodage, grades 78, bangladesh, hsc ict classes xi xii and alim, jordan, grade 7 term 2 digital skills, armenia, grade 6, indonesia, grade 10

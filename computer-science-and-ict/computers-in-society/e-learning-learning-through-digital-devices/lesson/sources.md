@@ -1,6 +1,6 @@
 # Sources — E-learning — learning through digital devices
 
-countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh, Jordan, Armenia
+countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -42,6 +42,10 @@ countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Banglad
 
 **Book 21:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 22:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
+**Book 23:** *Buku Panduan Guru Informatika untuk SMA/MA Kelas XII* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-949-3 (jil. 3). Grade 12 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The guide's own contents page misprints every chapter's running title; the chapters follow the student book's Bab 1–6 in order, confirmed from the chapter body headings. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — E-learning and its components | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 15–16 (student placement item 12) |
@@ -66,8 +70,10 @@ countries: Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Banglad
 | Lesson plan 2: E-Learning — Tools and Platforms (teacher guide — evidence) | Jordan Grade 9 G9T1 Teacher, printed p. 22 (teacher guide — evidence) |
 | Theme 7-5 Working and communicating with the help of technology (§5) | Armenia Grade 7 G7 teacher, printed p. 28 (teacher guide — evidence) |
 | Lesson 4 Remote work and education (Theme 3 IT and society) | Armenia Grade 10 G10 student, printed p. 21 |
+| Bab 5 B. Peran informatika pada bidang pendidikan: manfaat positif dan dampak negatif | Indonesia Grade 12 G12 Informatika student, printed p. 157 |
+| Bab 5 Panduan pembelajaran: peran informatika pada pendidikan dan ekonomi | Indonesia Grade 12 G12 Informatika teacher guide, printed p. 225 (teacher guide — evidence) |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh, Jordan, Armenia).**
+**Acceptance count: taught in 11 countries (Ethiopia, Cambodia, Mozambique, Sudan, Cuba, Greece, Moldova, Bangladesh, Jordan, Armenia, Indonesia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them. The e-learning figure in the student book is numbered 1.13, straight after Figure 1.10 — Figures 1.11 and 1.12 never appear; the lesson teaches the content, not the numbering.
 
@@ -105,4 +111,8 @@ Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this g
 
 Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
 
-Searchable tags: e-learning, online learning, components of e-learning, benefits drawbacks, commitment, Ethiopia Grade 11 IT, cambodia, mozambique, sudan, grade 6, grade 7, cuba, grade 2, cuba, grade 7, cuba, grade 12, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, grade 9 term 1 digital skills, grade 9 term 1 digital skills teacher guide, armenia, grade 7, grade 10
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika teacher guide): Panduan Umum explains the SMA informatics curriculum, plugged and unplugged modes, and Fase F learning outcomes; each chapter guide gives strategies, lesson organisation, meaningful-learning design, enrichment/remedial, rubrics and parent interaction. (teacher guide — evidence)
+
+Searchable tags: e-learning, online learning, components of e-learning, benefits drawbacks, commitment, Ethiopia Grade 11 IT, cambodia, mozambique, sudan, grade 6, grade 7, cuba, grade 2, cuba, grade 7, cuba, grade 12, greece, grade 7 pliroforiki a gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, moldova, grade 1 educatie digitala, switzerland, decodage, grades 12, switzerland, decodage, grades 34, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, grade 9 term 1 digital skills, grade 9 term 1 digital skills teacher guide, armenia, grade 7, grade 10, indonesia, grade 12, grade 12

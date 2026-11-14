@@ -1,6 +1,6 @@
 # Sources — Hardware and software — the two parts of a computer system
 
-countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan
+countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -20,6 +20,12 @@ countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan
 
 **Book 9:** *المهارات الرقمية — الصف الثاني الأساسي، دليل المعلم (Digital Skills, Grade 2 Basic, Teacher's Guide)* (teacher guide, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025; ISBN 978-9923-41-981-6. Grade 2 (teacher guide). 85 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md. Scope note: only the ICT teaching parts are placed. (teacher guide — evidence)
 
+**Book 10:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 11:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 12:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware and software — the two parts of a computer system | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 11 |
@@ -31,8 +37,11 @@ countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan
 | Ch.1 Importance of software; hardware vs software, user | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 8 |
 | Lesson 3: integration between hardware and software components | Jordan Grade 7 G7T1 Student, printed p. 35 |
 | Guide focus frame: Computing Systems strand — the computer's hardware and software components and the operating system (teacher guide — evidence) | Jordan Grade 2 G2 Teacher, printed p. 6 (teacher guide — evidence) |
+| Bab 5 B.1 Interaksi dengan perkakas: GUI, ikon, aplikasi kalkulator/kalender/file manager | Indonesia Grade 7 G7 Informatika student, printed p. 193 |
+| Bab 3 A (perangkat keras dan perangkat lunak dalam sistem komputer) | Indonesia Grade 10 G10 Informatika student, printed p. 114 |
+| Bab 3 E. Interaksi antara komputer dan pengguna | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 102 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Iraq, Cuba, Fiji, Bhutan, Sri Lanka, Jordan, Indonesia).**
 
 No book error touches this lesson's content.
 
@@ -52,4 +61,10 @@ Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject
 
 Jordan's own way (Jordan Grade 2 G2 Teacher): The guide names the two digital-skills strands behind the Grade 2 blocks — Computing Systems (hardware and software components, the operating system) and Networks & Internet (organising data, security and privacy) — while the classroom products stay PowerPoint cards/presentations and Word writing.
 
-Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7, fiji, year 11, bhutan, class v, sri lanka, grade 6 reading book, jordan, grade 7 term 1 digital skills, grade 2 digital skills teacher guide
+Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high Informatika opens with real data work — multi-variable search, data collection by Python web scraping in Google Colab (pandas/Plotly) — then algorithms chosen for real-life problems, office automation, IT careers/certifications, and information security with classical ciphers.
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
+
+Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7, fiji, year 11, bhutan, class v, sri lanka, grade 6 reading book, jordan, grade 7 term 1 digital skills, grade 2 digital skills teacher guide, indonesia, grade 7, grade 10, grade 10

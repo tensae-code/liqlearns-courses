@@ -1,6 +1,6 @@
 # Sources — Computer hardware — four categories
 
-countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan, Fiji
+countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan, Fiji, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan, Fiji
 
 **Book 7:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 8:** *Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-167-8 (jil. 2 PDF). Grade 8 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. Read from the record's official Kemdikbud source URL (the grab routes failed); the book is already secured in GitHub.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Parts 1–2 — hardware and input devices | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed pp. 19–20 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Uganda, Afghanistan, Saudi Arabia, Uzbekistan, Fiji
 | Lesson 4: The computer's components (hardware in five units — input, memory, processing, storage, output — and software in two kinds) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 24 |
 | Урок 2 "Компьютер. Основные устройства компьютера и их функции" | Uzbekistan, *Informatika, Grade 5*, printed p. 8 |
 | Unit 1.4 Types of computer hardware classified by function | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 11 |
+| Bab 5 A. Komponen sistem komputer | Indonesia Grade 8 G8 Informatika student, printed p. 189 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Saudi Arabia, Uzbekistan, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Saudi Arabia, Uzbekistan, Fiji, Indonesia).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -41,4 +44,6 @@ Uzbekistan's own way (Grade 5): informatics opens with a full lesson of safety a
 
 Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
 
-Searchable tags: hardware, four categories, input devices, processing, storage, output, 0 and 1, Ethiopia Grade 8, uganda, afghanistan, saudi arabia, grade 3, uzbekistan, grade 5, fiji, years 7-8
+Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens the four elements: spreadsheet data analysis (lookup, pivot), computational thinking through functions, sets and number systems, and programming that moves from Scratch to Blockly Games, procedural blocks and a physical Ozobot robot.
+
+Searchable tags: hardware, four categories, input devices, processing, storage, output, 0 and 1, Ethiopia Grade 8, uganda, afghanistan, saudi arabia, grade 3, uzbekistan, grade 5, fiji, years 7-8, indonesia, grade 8

@@ -1,6 +1,6 @@
 # Sources — Arrays — Storing Many Values Under One Name
 
-countries: Iraq, Sudan, Uzbekistan, Sri Lanka
+countries: Iraq, Sudan, Uzbekistan, Sri Lanka, Indonesia
 
 **Book 1:** *الحاسوب Computer — للصف الخامس الإعدادي (Computer, Fifth Preparatory Grade), Grade 11* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
@@ -14,6 +14,12 @@ countries: Iraq, Sudan, Uzbekistan, Sri Lanka
 
 **Book 6:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 7:** *Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-204-0 (jil. 2 PDF). Grade 11 (student book). 312 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 8:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
+**Book 9:** *Panduan Guru Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024; ISBN 978-623-388-202-6 (jil. 2 PDF). Grade 11 (teacher guide). 298 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Ch.1 Lesson 1 Importance of arrays and vectors: what an array is (size/length, one variable holding many values) | Iraq, *Computer, Grade 11*, printed p. 75 |
@@ -24,8 +30,11 @@ countries: Iraq, Sudan, Uzbekistan, Sri Lanka
 | Ch.3 Programming with arrays (filed as NEW LESSON NEEDED; the slug already exists live as this lesson, so it is stocked here as an existing lesson) | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 41 |
 | Competency 3.4: develops programs with array variables (filed as NEW LESSON NEEDED; the slug already exists live as this lesson, so it is stocked here as an existing lesson) (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 58 (teacher guide — evidence) |
 | Ch.1 Arrays in VB (Dim Marks (0 to 9) As Integer; totalling 10 numbers with an array) (filed as NEW LESSON NEEDED; the slug already exists live as this lesson, so it is stocked here as an existing lesson) | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 52 |
+| Bab III C.1 Desain struktur data: larik (array) (filed as programming/arrays; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 11 G11 Informatika student, printed p. 120 |
+| Bab 3 N. Array pada program Arduino (membuat lagu sederhana dengan array nada dan Piezo Speaker di UnoArduSim) (filed as programming/arrays; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 12 G12 Informatika student, printed p. 81 |
+| Bab III Panduan pembelajaran: larik dan string (filed as programming/arrays; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 11 G11 Informatika teacher guide, printed p. 145 (teacher guide — evidence) |
 
-**Acceptance count: taught in 4 countries (Iraq, Sudan, Uzbekistan, Sri Lanka).**
+**Acceptance count: taught in 5 countries (Iraq, Sudan, Uzbekistan, Sri Lanka, Indonesia).**
 
 Placement choice: this lesson was built new for the ICT expansion (Iraq, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/arrays-storing-many-values-under-one-name). It sits in the Programming title (programming/), following the book's own order. The placements file names this slug 3 times (Grade 11, printed p. 75; Grade 11, printed p. 79; Grade 11, printed p. 83); the lesson is built ONCE, with a provenance row per placement.
 
@@ -42,4 +51,10 @@ Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 c
 
 Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
 
-Searchable tags: arrays, vectors, one-dimensional arrays, data structures, programming, iraq, grade 11, sudan, grade 11, uzbekistan, grade 9, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, sri lanka, grade 11 tamil
+Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is the advanced year: lateral reading and triangulation for truth-checking, open/trusted/legal data with a real Indonesian deforestation case study, recursion/greedy/dynamic programming, mobile and AI apps in App Inventor, and designing + securing a computer network end to end.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Indonesia's own way (Indonesia Grade 11 G11 Informatika teacher guide): Chapter guides with concept maps, learning schemes, per-activity assessment recaps and answer keys for the five Grade 11 units, from digital information and data analysis to network design and security configuration. (teacher guide — evidence)
+
+Searchable tags: arrays, vectors, one-dimensional arrays, data structures, programming, iraq, grade 11, sudan, grade 11, uzbekistan, grade 9, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, sri lanka, grade 11 tamil, indonesia, grade 11, grade 12, grade 11

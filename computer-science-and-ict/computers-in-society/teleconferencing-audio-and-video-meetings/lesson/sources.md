@@ -1,6 +1,6 @@
 # Sources — Teleconferencing — audio and video meetings
 
-countries: Ethiopia, Mozambique, Belarus, Egypt, Kuwait
+countries: Ethiopia, Mozambique, Belarus, Egypt, Kuwait, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -16,6 +16,12 @@ countries: Ethiopia, Mozambique, Belarus, Egypt, Kuwait
 
 **Book 7:** *المستكشف الرقمي (Digital Explorer), Grade 4, Term 1* (student book, Arabic) — Kuwait, Ministry of Education, State of Kuwait; year: first edition 2025/2026 (1447H); ISBN: no ISBN printed. 200 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/kuwait-placements.md.
 
+**Book 8:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 9:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
+**Book 10:** *Buku Panduan Guru Informatika untuk SMK/MAK Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-447-4 (jil. 1 PDF). Grade 10 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets; the guide covers both semesters of the SMK student books. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Teleconferencing — audio and video meetings (whole lesson) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 20–22 (student placement item 15) |
@@ -25,8 +31,11 @@ countries: Ethiopia, Mozambique, Belarus, Egypt, Kuwait
 | Lesson 7 Google Meet and manage your project | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 65 |
 | Activity set 7 Google Meet and manage your project | Egypt, *Activity and Exercises Book — Computer and ICT, Grade 7 Term 1 Workbook*, printed p. 31 |
 | MS Teams section, Lesson 4: dealing with the meeting — joining a class meeting and using its chat and tools | Kuwait Grade 4 Digital Explorer T1, printed p. 175 |
+| Bab 2 A. Aplikasi media komunikasi (rapat video: Zoom/Google Meet, panggilan grup, jadwal rapat) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 53 |
+| Bab 1 B (aktivitas menilai kecakapan video conference: Zoom, Meet, Webex, Teams; share screen, whiteboard, chat, recording) | Indonesia Grade 12 G12 Informatika student, printed p. 9 |
+| Bab 2 (Semester 1) Panduan pembelajaran TIK: aplikasi media komunikasi dan mesin pencari informasi digital | Indonesia Grade 10 G10 Informatika SMK teacher guide, printed p. 62 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Belarus, Egypt, Kuwait).**
+**Acceptance count: taught in 6 countries (Ethiopia, Mozambique, Belarus, Egypt, Kuwait, Indonesia).**
 
 Belarus's own way (Grade 10): the communications chapter teaches teleconferencing through the 2010-era NetMeeting program, then Skype, then blogs, forums, chats and social networks — the period tools are the lesson's content, kept as filed.
 
@@ -38,4 +47,10 @@ Egypt's own way (Grade 7, Term 1 workbook): A printed activity booklet is issued
 
 Kuwait's own way (Grade 4 Digital Explorer Term 1): every lesson runs استكشف–تعلم–طبق (explore–learn–apply) around a story with Hamad, an AI robot assistant mascot; digital citizenship is framed as 'with my ethics I am an ambassador of my country'; block coding starts with ScratchJr, and using the national MS Teams platform (moe.edu.kw accounts) is taught as core curriculum in the front 'Digital Classroom' section.
 
-Searchable tags: teleconferencing, audio conferencing, video conferencing, Zoom, Google Meet, Microsoft Teams, Ethiopia Grade 11 IT, mozambique, belarus, egypt, grade 7, kuwait, grade 4 digital explorer term 1
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK teacher guide): Per-meeting teaching guides with activity steps, rubrics and remedial/enrichment for every SMK Grade 10 topic, from logic propositions and number conversion to a full Ubuntu installation demonstration and flowchart activity sets. (teacher guide — evidence)
+
+Searchable tags: teleconferencing, audio conferencing, video conferencing, Zoom, Google Meet, Microsoft Teams, Ethiopia Grade 11 IT, mozambique, belarus, egypt, grade 7, kuwait, grade 4 digital explorer term 1, indonesia, grade 10, grade 12, grade 10

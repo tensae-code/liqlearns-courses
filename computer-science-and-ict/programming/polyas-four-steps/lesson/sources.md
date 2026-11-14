@@ -1,6 +1,6 @@
 # Sources — Polya's four steps
 
-countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan
+countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri La
 
 **Book 13:** *المهارات الرقمية — الصف الثاني عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 12 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (imprint; approved for school year 2025/2026); ISBN 978-9923-41-886-4. Grade 12 (student book). 177 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 14:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Polya's four steps with their contents; the back-and-forth note | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 219–220 |
@@ -43,8 +45,9 @@ countries: Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri La
 | Ch.1 §II.1 Steps in solving a problem with ICT systems | Laos Grade 12 ICT student, printed p. 7 |
 | Learning Experience 1, Sessions 2-8: find a problem, decide as a group, solve it and make a guideline | Bangladesh Grade 6 Digital Technology, printed p. 3 |
 | Lesson 2 Algorithms: problem solving | Jordan Grade 12 G12T1 Student, printed p. 27 |
+| Bab 1 F. Pemecahan masalah (problem solving, Polya, brainstorming) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 20 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan).**
+**Acceptance count: taught in 12 countries (Ethiopia, China, Uzbekistan, Egypt, Libya, Malaysia, Mongolia, Sri Lanka, Laos, Bangladesh, Jordan, Indonesia).**
 
 Book error, taught corrected: the student book's Polya table prints the typo "2tep 2" for Step 2; the lesson teaches Step 2 and flags the misprint here.
 
@@ -71,4 +74,6 @@ Bangladesh's own way (Grade 6, Digital Technology): the Competency-based Nationa
 
 Jordan's own way (Jordan Grade 12 G12T1 Student): Same series design as Term 2; Unit 1 builds programming theory (SDLC, algorithms, Python data structures, recursion, packages) before Unit 2 applies Python to data analysis with charts and hypotheses.
 
-Searchable tags: Polya, four steps, problem solving, How to Solve It, Grade 9 ICT Ethiopia Unit 6, china, papua new guinea, grade 12, uzbekistan, grade 9, egypt, grade 9, libya, grade 11 it student term 1, grade 12 it science, malaysia, grade 10 sk tingkatan 4, mongolia, grade 12 it xii, sri lanka, grade 11 tamil, laos, grade 12 ict student, bangladesh, grade 6 digital technology, jordan, grade 12 term 1 digital skills
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
+
+Searchable tags: Polya, four steps, problem solving, How to Solve It, Grade 9 ICT Ethiopia Unit 6, china, papua new guinea, grade 12, uzbekistan, grade 9, egypt, grade 9, libya, grade 11 it student term 1, grade 12 it science, malaysia, grade 10 sk tingkatan 4, mongolia, grade 12 it xii, sri lanka, grade 11 tamil, laos, grade 12 ict student, bangladesh, grade 6 digital technology, jordan, grade 12 term 1 digital skills, indonesia, grade 10

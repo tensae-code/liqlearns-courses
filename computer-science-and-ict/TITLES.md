@@ -1289,3 +1289,23 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Computers in Society** (ICT expansion, from Armenia): Assessing the Quality of Digital Artefacts · Inclusive Technology — Technology for All Learners · Scientific Methods of Inquiry · Software Licences and Their Effect on Society · The Digital Divide
 
 **New Technologies** (ICT expansion, from Armenia): Virtual Representation of the Real World
+
+**Hardware** (ICT expansion, from Indonesia): Arduino Supporting Components · Digital and Analog Pins — pinMode, Read and Write · Memory Addressing — How Data Sits at Addresses · Single-Board Computers — Raspberry Pi · Single-Board Controllers — Microcontrollers
+
+**Word Processing** (ICT expansion, from Indonesia): Integrating Content Across Office Apps
+
+**Spreadsheets** (ICT expansion, from Indonesia): Conditional Sum and Count — SUMIFS and COUNTIFS · Removing Duplicate Data
+
+**Networks** (ICT expansion, from Indonesia): Configuring Network Devices
+
+**Multimedia** (ICT expansion, from Indonesia): Designing Content with AI · Designing Digital Content — Strategy
+
+**Databases** (ICT expansion, from Indonesia): Collecting Data by Web Scraping with Python · A Data Analysis Project — Indonesian Deforestation · Data Governance and Access Control · Open, Trusted and Legal Data · Searching Data with Many Variables
+
+**Programming** (ICT expansion, from Indonesia): Arduino C Program Structure — setup() and loop() · Blockly Games — Music · Characters and Strings · Constants — TRUE/FALSE, HIGH/LOW, INPUT/OUTPUT · Deductive, Inductive and Abductive Reasoning · Dynamic Programming · From Blocks to Text — Scratch and Blockly to C and Python · Greedy Algorithms · Logical Inference · Making and Using a Library · Numeracy in Programming · Operators — Arithmetic, Comparison, Boolean, Bitwise · Propositions and Logical Connectives · Serial Communication — begin, print, println · Sets and Venn Diagrams in Computing · Simulating Arduino with UnoArduSim · The Stack Data Structure — and Postfix · The Tree Data Structure · Unplugged Programming — Card Games
+
+**Safety, Security and Care** (ICT expansion, from Indonesia): Configuring Network Security
+
+**Computers in Society** (ICT expansion, from Indonesia): Browsing Digital Information Wisely · Checking Whether Information Is Credible · Citing Sources — the International Standard · Creating Content for Social Media · A Cross-Field Computing Project — the Smart Waste Project · Digital Literacy — the Four Pillars · Evaluating Data and Its Sources · Fact, Opinion and Hoax · Healthy Habits and Mental Health Online · Information Technology Laws and Regulations — the UU ITE · IT Careers and Certifications · Lateral Reading — Checking Whether Content Is True · Managing an Informatics Project · Mindfulness in the Digital World · Monitoring and Evaluating a Project · Problems of Bad Data Processing · The Fact-Checking Ecosystem
+
+**New Technologies** (ICT expansion, from Indonesia): Building AI Apps with App Inventor · Programming a Small Robot — Ozobot

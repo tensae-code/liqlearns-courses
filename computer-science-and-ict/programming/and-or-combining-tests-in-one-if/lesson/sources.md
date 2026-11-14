@@ -1,6 +1,6 @@
 # Sources — and / or — combining tests in one if
 
-countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia, Kuwait, Bangladesh, Jordan
+countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia, Kuwait, Bangladesh, Jordan, Indonesia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malay
 
 **Book 14:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 15:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — and — both must be true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 176–178 (student placement item 123) |
@@ -47,8 +49,9 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malay
 | Unit 2, Lesson 4: the logical operations in conditions | Kuwait Grade 10 Information Technology T1, printed p. 93 |
 | Chapter 5, 5.6: logical operators in conditions | Bangladesh HSC ICT, printed p. 166 |
 | Lesson 3: logical operators | Jordan Grade 11 G11T1 Student, printed p. 54 |
+| Bab 3 B.2 Berpikir komputasional untuk aktivitas logika | Indonesia Grade 12 G12 Informatika student, printed p. 61 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia, Kuwait, Bangladesh, Jordan).**
+**Acceptance count: taught in 11 countries (Ethiopia, North Macedonia, Iraq, Egypt, Bhutan, Libya, Malaysia, Kuwait, Bangladesh, Jordan, Indonesia).**
 
 Finland is filed in this lesson as teacher-guide evidence only and does not add to this lesson's acceptance count.
 
@@ -76,4 +79,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
 
-Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11, iraq, grade 8, egypt, grade 12, bhutan, class viii, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, kuwait, grade 10 information technology term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11, iraq, grade 8, egypt, grade 12, bhutan, class viii, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, kuwait, grade 10 information technology term 1, bangladesh, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, indonesia, grade 12

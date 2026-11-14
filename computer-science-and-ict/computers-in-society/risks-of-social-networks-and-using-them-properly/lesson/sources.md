@@ -1,6 +1,6 @@
 # Sources — Risks of social networks — and using them properly
 
-countries: Ethiopia, Cuba, Laos, Greece, Bangladesh
+countries: Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Cuba, Laos, Greece, Bangladesh
 
 **Book 7:** *Digital Technology, Class Eight* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 8 (student book). 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 8:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The eight risks, named; the closing question | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 76–77 |
@@ -26,8 +28,9 @@ countries: Ethiopia, Cuba, Laos, Greece, Bangladesh
 | Ch.15 Advantages and disadvantages of using social networks | Greece Grade 10 Efarmoges Pliroforikis, printed p. 129 |
 | Scénario 3 Séance 3: Chatter, publier, acheter en ligne (prolongement) | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 12 (Scénario 3) (teacher guide — evidence) |
 | Learning Experience 2, Session 4: Social Media Watchdogs | Bangladesh Grade 8 Digital Technology, printed p. 42 |
+| Bab 5 A.4–A.5 Dampak negatif media sosial dan menggunakan media sosial secara bijak (termasuk FOMO) | Indonesia Grade 12 G12 Informatika student, printed p. 149 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Cuba, Laos, Greece, Bangladesh).**
+**Acceptance count: taught in 6 countries (Ethiopia, Cuba, Laos, Greece, Bangladesh, Indonesia).**
 
 Nothing in this lesson claims a page the placements do not give; the one Tip box is LiqLearns' own, marked as such in the lesson and in the table above.
 
@@ -41,4 +44,6 @@ Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodag
 
 Bangladesh's own way (Grade 8, Digital Technology): Grade 8 deepens the same project pattern — a public information-verification campaign, a family phone-safety investigation, a planned civic/e-commerce service, Python with binary logic first, and an online fair for the Asia-Pacific experience. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: risks of social networks, cyberbullying, inappropriate content, personal information, targeted advertising, misleading content, Ethiopia Grade 8 ICT, cuba, grade 9, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, grade 8 digital technology
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Searchable tags: risks of social networks, cyberbullying, inappropriate content, personal information, targeted advertising, misleading content, Ethiopia Grade 8 ICT, cuba, grade 9, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, switzerland, decodage, grades 78, bangladesh, grade 8 digital technology, indonesia, grade 12

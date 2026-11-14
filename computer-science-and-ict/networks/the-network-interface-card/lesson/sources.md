@@ -1,6 +1,6 @@
 # Sources — The network interface card
 
-countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh
+countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh
 
 **Book 6:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 7:** *Informatika untuk SMA/MA Kelas XI (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-204-0 (jil. 2 PDF). Grade 11 (student book). 312 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 8:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The card that connects a computer to a network | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 39–40 |
@@ -23,8 +27,10 @@ countries: Ethiopia, Mongolia, Sri Lanka, Bangladesh
 | Competency 5.1: main components of the school lab network (computers, NIC, switches) (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 72 (teacher guide — evidence) |
 | Chapter 2, 2.5.4: network interface card | Bangladesh HSC ICT, printed p. 68 |
 | Theme 7-11 Network equipment (§13) | Armenia Grade 7 G7 teacher, printed p. 47 (teacher guide — evidence) |
+| Bab V A.4 Perangkat jaringan komputer | Indonesia Grade 11 G11 Informatika student, printed p. 247 |
+| Bab 4 F.1 Perangkat keras jaringan: NIC, hub, switch, repeater, bridge, router, access point, modem, wireless LAN card, kabel dan konektor RJ45, tang crimping dan LAN tester | Indonesia Grade 12 G12 Informatika student, printed p. 104 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Mongolia, Sri Lanka, Bangladesh).**
+**Acceptance count: taught in 5 countries (Ethiopia, Mongolia, Sri Lanka, Bangladesh, Indonesia).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -38,4 +44,8 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
 
-Searchable tags: NIC, network interface card, hardware, cable socket, Grade 9 ICT Ethiopia, mongolia, grade 12 it xii, sri lanka, grade 6 reading book, sri lanka, grade 9 teachers guide, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7
+Indonesia's own way (Indonesia Grade 11 G11 Informatika student): Grade 11 is the advanced year: lateral reading and triangulation for truth-checking, open/trusted/legal data with a real Indonesian deforestation case study, recursion/greedy/dynamic programming, mobile and AI apps in App Inventor, and designing + securing a computer network end to end.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Searchable tags: NIC, network interface card, hardware, cable socket, Grade 9 ICT Ethiopia, mongolia, grade 12 it xii, sri lanka, grade 6 reading book, sri lanka, grade 9 teachers guide, bangladesh, hsc ict classes xi xii and alim, armenia, grade 7, indonesia, grade 11, grade 12

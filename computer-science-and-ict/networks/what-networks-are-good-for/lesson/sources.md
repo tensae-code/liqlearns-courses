@@ -1,6 +1,6 @@
 # Sources — What networks are good for
 
-countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan
+countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan
 
 **Book 10:** *المهارات الرقمية — الصف السابع، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 7 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-655-6. Grade 7 (student book). 135 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 11:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
+**Book 12:** *Panduan Guru Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-495-5 (jil. 1 PDF). Grade 10 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Five families of benefit | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed pp. 61–62 |
@@ -35,8 +39,10 @@ countries: Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan
 | Chapter 2, 2.5.2: Objectives of computer networking — sharing information, software and hardware resources | Bangladesh HSC ICT, printed p. 62 |
 | Chapter 2, 2.5.5: Functions of a network — access control, backup, security and protection from unauthorised access | Bangladesh HSC ICT, printed p. 68 |
 | Lesson 1: advantages of computer networks | Jordan Grade 7 G7T1 Student, printed p. 70 |
+| Bab 4 A. Jaringan komputer dan manfaatnya | Indonesia Grade 12 G12 Informatika student, printed p. 89 |
+| Panduan Khusus Bab 4: panduan pembelajaran keamanan dan manajemen informasi (jaringan komputer) | Indonesia Grade 10 G10 Informatika teacher guide, printed p. 243 (teacher guide — evidence) |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Iraq, Sudan, Libya, Sri Lanka, Greece, Bangladesh, Jordan, Indonesia).**
 
 The Grade 9 teacher guide's closing answer keys (guide placement item 27; Unit 2 keys at guide printed pp. 36–37) were used as the verified-answer check for this lesson's question files.
 
@@ -58,4 +64,8 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 7 G7T1 Student): Grade 7 starts the whole subject from zero — what a computer is and how it works, hardware inside and out, software, operating systems and human-computer interaction — then networks from definition through topologies to secure communication and network performance.
 
-Searchable tags: network advantages, sharing, telecommunication, NAS, print server, e-learning, payroll, Grade 9 ICT Ethiopia, iraq, grade 7, sudan, grade 6, libya, grade 9 computer, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika teacher guide): Chapter guides (Panduan Khusus) for the four revised Grade 10 chapters — data and its validation, algorithms and data structures, digital technology and culture, information security and management — with the same guide structure as the junior guides. (teacher guide — evidence)
+
+Searchable tags: network advantages, sharing, telecommunication, NAS, print server, e-learning, payroll, Grade 9 ICT Ethiopia, iraq, grade 7, sudan, grade 6, libya, grade 9 computer, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, hsc ict classes xi xii and alim, jordan, grade 7 term 1 digital skills, indonesia, grade 12, grade 10

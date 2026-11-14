@@ -1,6 +1,6 @@
 # Sources — Number Systems and Conversions
 
-countries: Montenegro, China, North Macedonia, Egypt, Malaysia
+countries: Montenegro, China, North Macedonia, Egypt, Malaysia, Indonesia
 
 **Book 1:** *Digitalna Elektronika — udžbenik za treći razred elektrotehničke škole* (textbook for the third grade of electrotechnical school; programmes: Elektrotehničar elektronike, Elektrotehničar elektronskih komunikacija, Elektrotehničar računarskih sistema i mreža) (student book) — Montenegro, Zavod za udžbenike i nastavna sredstva, Podgorica. Authors: Ranko Vojinović, Vladica Avramović. Year 2026 (approved by the National Education Council, decision 08/2-119/25-13070/3 of 29.12.2025). ISBN 978-86-303-2578-6. 300 PDF pages. Verdict: COMPLETE — with a scope note: this is a vocational digital-electronics book; its computing-foundation content (number systems and codes, Boolean algebra, logic gates, flip-flops, registers, counters, binary arithmetic, A/D conversion) is placed in this course, and the pure-electronics parts (§2.2 MOS/CMOS transistor realisation, §3.2 multivibrators, and the laboratory practicum with bench instruments, printed pp. 57–95 and 220–283) are electronics, not ICT, and are not placed. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/montenegro-placements.md.
 
@@ -15,6 +15,16 @@ countries: Montenegro, China, North Macedonia, Egypt, Malaysia
 **Book 6:** *Asas Sains Komputer Tingkatan 1* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-14509-0-1. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
 **Book 7:** *Asas Sains Komputer Tingkatan 2* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-967-14509-3-2. 203 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
+
+**Book 8:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 9:** *Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-167-8 (jil. 2 PDF). Grade 8 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. Read from the record's official Kemdikbud source URL (the grab routes failed); the book is already secured in GitHub.
+
+**Book 10:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 11:** *Panduan Guru Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2024; ISBN 978-623-388-168-5 (jil. 2 PDF). Grade 8 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
+**Book 12:** *Buku Panduan Guru Informatika untuk SMK/MAK Kelas X* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-447-4 (jil. 1 PDF). Grade 10 (teacher guide). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets; the guide covers both semesters of the SMK student books. (teacher guide — evidence)
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -31,8 +41,13 @@ countries: Montenegro, China, North Macedonia, Egypt, Malaysia
 | 1.2.2(ii) Penukaran Nombor Perenambelasan kepada Nombor Perpuluhan (filed as first-steps/converting-hexadecimal-to-decimal; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 8 ASK Tingkatan 2, printed p. 22 |
 | 1.2.2(iii) Penukaran Nombor Perenambelasan kepada Nombor Perduaan (filed as first-steps/converting-hexadecimal-to-binary; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 8 ASK Tingkatan 2, printed p. 23 |
 | 1.2.2(iv) Penukaran Nombor Perduaan kepada Nombor Perenambelasan (filed as first-steps/converting-binary-to-hexadecimal; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 8 ASK Tingkatan 2, printed p. 25 |
+| Bab 5 A.5 Kode biner: bilangan biner dan konversi (filed as hardware/binary-numbers-and-binary-code; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 7 G7 Informatika student, printed p. 187 |
+| Bab 2 B. Sistem bilangan: desimal, biner, oktal dan konversi antarbasis (kisah timbangan digital dan tas logam mulia) (filed as hardware/number-systems-decimal-binary-octal-conversion; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 8 G8 Informatika student, printed p. 71 |
+| Bab 1 E. Bilangan desimal, biner, dan heksadesimal (filed as hardware/number-systems-decimal-binary-octal-conversion; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 14 |
+| Bab II Panduan pembelajaran: sistem bilangan (filed as hardware/number-systems-decimal-binary-octal-conversion; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 8 G8 Informatika teacher guide, printed p. 78 (teacher guide — evidence) |
+| Bab 1 (Semester 1) Pertemuan ke-2: konversi antarsistem bilangan desimal, biner, heksadesimal (filed as hardware/number-systems-decimal-binary-octal-conversion; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika SMK teacher guide, printed p. 49 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Montenegro, China, North Macedonia, Egypt, Malaysia).**
+**Acceptance count: taught in 6 countries (Montenegro, China, North Macedonia, Egypt, Malaysia, Indonesia).**
 
 Placement choice: this lesson was built new for the ICT expansion (Montenegro, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. It sits in the Programming title (programming/), alongside the course's other hardware-and-logic lessons, following the book's own order: Montenegro's book teaches this material as one climb from number systems to converters, and the expansion keeps that climb.
 
@@ -54,4 +69,14 @@ Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK
 
 Malaysia's own way (Grade 8, ASK Tingkatan 2): data representation goes well beyond binary — octal and hexadecimal are taught as full conversion systems tied to ASCII and machine language; code work moves from Scratch (Tingkatan 1) to text Python 3.5.2, with data types, constants and operators treated formally before control structures.
 
-Searchable tags: number systems, conversions, binary, decimal, hexadecimal, base, radix, bit, place value, programming, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, china, north macedonia, grade 11, egypt, grade 10, grade 12, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2
+Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
+
+Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens the four elements: spreadsheet data analysis (lookup, pivot), computational thinking through functions, sets and number systems, and programming that moves from Scratch to Blockly Games, procedural blocks and a physical Ozobot robot.
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
+
+Indonesia's own way (Indonesia Grade 8 G8 Informatika teacher guide): The teacher guide mirrors the student book chapter by chapter with capaian pembelajaran, prerequisite maps, apersepsi, per-meeting teaching guides, follow-up, assessment rubrics and answer keys — the official way to teach each Grade 8 topic. (teacher guide — evidence)
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK teacher guide): Per-meeting teaching guides with activity steps, rubrics and remedial/enrichment for every SMK Grade 10 topic, from logic propositions and number conversion to a full Ubuntu installation demonstration and flowchart activity sets. (teacher guide — evidence)
+
+Searchable tags: number systems, conversions, binary, decimal, hexadecimal, base, radix, bit, place value, programming, montenegro, digitalna elektronika, vocational, tvet, electrotechnical school, china, north macedonia, grade 11, egypt, grade 10, grade 12, malaysia, grade 7 ask tingkatan 1, malaysia, grade 8 ask tingkatan 2, indonesia, grade 7, grade 8, grade 10, grade 8, grade 10

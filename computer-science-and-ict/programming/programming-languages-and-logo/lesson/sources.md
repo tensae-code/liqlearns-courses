@@ -1,6 +1,6 @@
 # Sources — Programming languages — and why LOGO
 
-countries: Ethiopia, Libya, Greece
+countries: Ethiopia, Libya, Greece, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -21,6 +21,8 @@ countries: Ethiopia, Libya, Greece
 **Book 11:** *<DÉ>CODAGE — Éducation numérique au Cycle 2 (5e–6e), manuel complet (version intégrale)* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2022; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 5–6 (Cycle 2, 5e–6e). 567 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 **Book 12:** *<DÉ>CODAGE — Éducation numérique pour le Cycle 2 (7e–8e), manuel complet* (teacher guide, French) — Switzerland, DEF-DGEO, canton de Vaud; year 2023; ISBN: no ISBN printed (CC BY NC SA 4.0). Grades 7–8 (Cycle 2, 7e–8e). 527 PDF pages. Verdict: COMPLETE (the Scénario 4 fascicle pages appear twice in the PDF; read and placed once; page numbers are folios within each fascicle, which restarts at p. 1). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/switzerland-placements.md. (teacher guide — evidence)
 
+**Book 13:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Programming languages defined; C++, Python, Java, LOGO named | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 6, printed p.73 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Libya, Greece
 | Introduction §4 Langage | Switzerland Grades 3–4 Décodage 3e–4e, printed p. 11 (teacher guide — evidence) |
 | Introduction §4 Langage (exemples ScratchJr, Scratch, Python) | Switzerland Grades 5–6 Décodage 5e–6e, printed p. 10 (teacher guide — evidence) |
 | Introduction §4 Langage | Switzerland Grades 7–8 Décodage 7e–8e, printed p. 12 (teacher guide — evidence) |
+| Bab 1 D. Pemrograman: bahasa pemrograman (C, C++, Java, Python, PHP), array | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 32 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Libya, Greece).**
+**Acceptance count: taught in 4 countries (Ethiopia, Libya, Greece, Indonesia).**
 
 Unit 6's expansion of LOGO as 'Logic Oriented Graphics Oriented' is the book's own (non-standard) expansion — the placements direct that it is preserved as Ethiopia's wording, and the lesson does so, saying so openly.
 
@@ -61,4 +64,6 @@ Switzerland's own way (Grades 5–6, Décodage 5e–6e): Cycle 2 moves from unpl
 
 Switzerland's own way (Grades 7–8, Décodage 7e–8e): at 7e–8e the Décodage course becomes a real computer-science course under the Plan d'études romand EN 22/23: Thymio VPL missions (including Morse communication and self-driving-car autonomy levels), a full Scratch discovery course (movement, shortening programs, sub-programs as own blocks, remixing), a Scratch video-game project run in “studios” with a cahier des charges, data work (Huffman-style compression via Zip la marmotte, binary/octal/hex/ASCII codings, file sizes), access security (passwords, file encryption, phishing, authentication), home networks at two levels (IP addresses; message routing, packets, TCP and encryption), and inquiries into sorting, sorting networks, Caesar decryption and parity-bit error detection. Médias/Usages covers social networks and digital identity/footprint, information sources, cyberbullying and the environmental cost of digital technology.
 
-Searchable tags: programming language, LOGO, turtle graphics, MSW Logo, Python, Java, Grade 7 ICT Ethiopia, morocco, grade 1, libya, grade 11 it student term 1, laos, grade 7 ict teacher guide, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi workbook glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
+
+Searchable tags: programming language, LOGO, turtle graphics, MSW Logo, Python, Java, Grade 7 ICT Ethiopia, morocco, grade 1, libya, grade 11 it student term 1, laos, grade 7 ict teacher guide, greece, grade 10 efarmoges pliroforikis lykeiou, greece, grade 11 eisagogi epistimis hy lykeiou, greece, grade 12 anaptyxi workbook glossa, switzerland, decodage, grades 12, switzerland, decodage, grades 34, switzerland, decodage, grades 56, switzerland, decodage, grades 78, indonesia, grade 10

@@ -1,17 +1,37 @@
 # Sources — Encryption — the Caesar and Rail Fence Ciphers
 
-countries: Jordan
+countries: Jordan, Indonesia
 
 **Book 1:** *المهارات الرقمية — الصف التاسع، كتاب الطالب — الفصل الدراسي الثاني (Digital Skills, Grade 9 Student Book, Second Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-723-2. Grade 9 (student book). 161 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
+
+**Book 2:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 3:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 4:** *Panduan Guru Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah; year 2025; ISBN 978-634-00-3136-2 (jil. 3 PDF). Grade 9 (teacher guide). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
+**Book 5:** *Panduan Guru Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-495-5 (jil. 1 PDF). Grade 10 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
 
 | Lesson part | Where it comes from |
 |---|---|
 | Lesson 5: Encryption — the concept of encryption, data-encryption methods, the Caesar cipher and the Rail Fence transposition cipher | Jordan Grade 9 G9T2 Student, printed p. 69 |
+| Bab IV D.3 Enkripsi dan dekripsi (filed as safety-security-and-care/encryption-and-decryption; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 9 G9 Informatika student, printed p. 218 |
+| Bab 4 C. Proteksi data di internet: enkripsi dan dekripsi, sandi Vigenere (filed as safety-security-and-care/encryption-and-decryption; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika student, printed p. 204 |
+| Bab IV Panduan pembelajaran: otentikasi dua faktor dan enkripsi data (filed as safety-security-and-care/encryption-and-decryption; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 9 G9 Informatika teacher guide, printed p. 175 (teacher guide — evidence) |
+| Panduan Khusus Bab 4: panduan pembelajaran perlindungan data, enkripsi dan autentikasi (filed as safety-security-and-care/encryption-and-decryption; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika teacher guide, printed p. 270 (teacher guide — evidence) |
 
-**Acceptance count: taught in 1 country (Jordan).**
+**Acceptance count: taught in 2 countries (Jordan, Indonesia).**
 
 Placement choice: this lesson was built new for the ICT expansion (Jordan, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — safety-security-and-care/encryption-caesar-and-rail-fence-ciphers). It sits in the Safety, Security and Care title (safety-security-and-care/), following the book's own order. Near matches checked by content: Symmetric Encryption — One Shared Key works the Caesar shift as its hands-on example of a shared key, and Comparing Cipher Methods compares shift, substitution and transposition methods; Jordan's Grade 9 lesson teaches the concept of encryption and works both the Caesar cipher and the Rail Fence transposition cipher by hand as the encryption lesson itself, so it is built new. Provenance scope note: the placements stocked here are from Jordan's NCCD Digital Skills books (Arabic); student books and early-grades activity workbooks count toward the acceptance count, and any teacher-guide placements among them are stocked as evidence only, marked (teacher guide — evidence) in the provenance rows and counted nowhere. Scope notes as filed are carried: the Grade 1–6 workbooks and guides integrate partner subjects, and only their ICT teaching parts are placed; the Grade 10 Term 2 book survives as a draft-watermarked copy, carried as filed. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
 Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the CIA pillars outwards to encryption taught hands-on with the Caesar and Rail Fence ciphers; robotics is taught in a virtual simulator playground before any physical robot.
 
-Searchable tags: encryption, caesar cipher, rail fence cipher, substitution, transposition, jordan, grade 9
+Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high Informatika opens with real data work — multi-variable search, data collection by Python web scraping in Google Colab (pandas/Plotly) — then algorithms chosen for real-life problems, office automation, IT careers/certifications, and information security with classical ciphers.
+
+Indonesia's own way (Indonesia Grade 9 G9 Informatika teacher guide): Each chapter guide gives learning objectives and indicators, concept maps, per-subchapter learning-experience tables, K3 (occupational safety) notes, and student reflection tables for the four Grade 9 chapters. (teacher guide — evidence)
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika teacher guide): Chapter guides (Panduan Khusus) for the four revised Grade 10 chapters — data and its validation, algorithms and data structures, digital technology and culture, information security and management — with the same guide structure as the junior guides. (teacher guide — evidence)
+
+Searchable tags: encryption, caesar cipher, rail fence cipher, substitution, transposition, jordan, grade 9, indonesia, grade 9, grade 10, grade 9, grade 10

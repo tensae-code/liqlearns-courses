@@ -1,6 +1,6 @@
 # Sources — E-commerce — buying and selling online
 
-countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan
+countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -31,6 +31,8 @@ countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, L
 
 **Book 15:** *المهارات الرقمية — الصف الحادي عشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 11 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2024 (first, experimental edition); ISBN 978-9923-41-659-4. Grade 11 (student book). 196 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 16:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — How a transaction flows | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 16–18 (student placement item 13) |
@@ -49,8 +51,9 @@ countries: Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, L
 | Learning Experience 3, Session 2: Classification of E-commerce | Bangladesh Grade 8 Digital Technology, printed p. 57 |
 | Chapter 1, 1.1.8: Business — e-commerce and how it changed buying and selling | Bangladesh HSC ICT, printed p. 9 |
 | computer applications in e-shopping and e-marketing | Jordan Grade 11 G11T1 Student, printed p. 180 |
+| Bab 5 C. Peran informatika pada bidang ekonomi: manfaat positif dan dampak negatif | Indonesia Grade 12 G12 Informatika student, printed p. 160 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 12 countries (Ethiopia, Mozambique, Nepal, Afghanistan, Sudan, Sri Lanka, Rwanda, Laos, Greece, Bangladesh, Jordan, Indonesia).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -78,4 +81,6 @@ Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT bo
 
 Jordan's own way (Jordan Grade 11 G11T1 Student): Python is taught through IDLE and the command line, with draw.io flowcharts and Google Slides presentations; Unit 2 grounds computing-and-life topics in Jordan itself (green computing in Jordan). End-of-unit projects: a Python number-guessing game and a puzzle game.
 
-Searchable tags: e-commerce, order flow, buyer merchant bank transporter, intermediaries, global reach, Ethiopia Grade 11 IT, mozambique, nepal, afghanistan, sudan, grade 7, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 7 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Searchable tags: e-commerce, order flow, buyer merchant bank transporter, intermediaries, global reach, Ethiopia Grade 11 IT, mozambique, nepal, afghanistan, sudan, grade 7, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 7 digital technology, grade 8 digital technology, hsc ict classes xi xii and alim, jordan, grade 11 term 1 digital skills, indonesia, grade 12

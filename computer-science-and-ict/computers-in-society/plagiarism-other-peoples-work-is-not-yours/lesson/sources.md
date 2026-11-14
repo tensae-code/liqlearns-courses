@@ -1,6 +1,6 @@
 # Sources — Plagiarism — other people's work is not yours
 
-countries: Ethiopia, Bhutan, Bangladesh
+countries: Ethiopia, Bhutan, Bangladesh, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Bhutan, Bangladesh
 
 **Book 4:** *Information and Communication Technology, Classes Eleven-Twelve and Alim* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); First Edition September 2020, Revised Edition October 2024 (textbook for Academic Session 2024–2025); first-edition writers Mo. Tahmid ul Islam Rafi, Tamim Shahriar Subin, Forhad Monjur, Mohammad Nure Alam Siddique, Lutfur Rahman; ISBN: no ISBN printed. Grades 11–12 and Alim (student book) — one shared HSC book behind 8 library records; the Grade 11 and Grade 12 English files are byte-identical. 219 PDF pages (image-only PDF, read page by page from rendered pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 5:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What plagiarism is — and what it costs | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 7 (student placement item 11) |
@@ -18,8 +20,9 @@ countries: Ethiopia, Bhutan, Bangladesh
 | 6.2 Citing Online Sources (why credit matters) | Bhutan, *Literacy with ICT, Class VI*, printed p. 96 |
 | 6.2 Citing Online Sources (how to cite) (filed as NEW LESSON NEEDED — internet-and-the-web/citing-online-sources; stocked in this lesson because this lesson teaches crediting the original author in an in-text citation and a reference list as part of not passing off other people's work) | Bhutan, *Literacy with ICT, Class VI*, printed p. 96 |
 | Chapter 1, 1.4: plagiarism — what it is and why it is illegal | Bangladesh HSC ICT, printed p. 30 |
+| Bab 2 B (pelanggaran HAKI dan plagiarisme) | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 120 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Bhutan, Bangladesh).**
+**Acceptance count: taught in 4 countries (Ethiopia, Bhutan, Bangladesh, Indonesia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
@@ -27,4 +30,6 @@ Bhutan's own way (Class VI, Literacy with ICT student book): School computing ru
 
 Bangladesh's own way (HSC ICT, Classes XI–XII and Alim): one compulsory ICT book for every HSC and Alim student in the country, saturated with Bangladesh itself: Bangabandhu Satellite-1 and its ground stations, bdjobs and chakri.com job portals, Daraz and Bikroy e-commerce, the Walton factory's automated production line, the National ID card used to teach primary keys and its database used to teach RDBMS at work, a full Bangla Unicode table and a worked example of putting Bangla text on a web page with meta charset, the national letter-grade scale (A+ from 80) as the else-if programme, "I Love Bangladesh" as the loop example text, an algorithm for reaching college by bicycle or rickshaw, and the Digital Bangladesh programme — National Data Centre, hi-tech parks, Startup Bangladesh and Bangladesh Bank's QR-based Cashless Bangladesh. C is the HSC programming language, taught with scanf/printf in Code::Blocks.
 
-Searchable tags: plagiarism, acknowledgement, citation, reference list, plagiarism checker, 21st-century skills, Ethiopia Grade 12 IT, bhutan, class vi, bangladesh, hsc ict classes xi xii and alim
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
+
+Searchable tags: plagiarism, acknowledgement, citation, reference list, plagiarism checker, 21st-century skills, Ethiopia Grade 12 IT, bhutan, class vi, bangladesh, hsc ict classes xi xii and alim, indonesia, grade 10

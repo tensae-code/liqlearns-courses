@@ -1,6 +1,6 @@
 # Sources — Big data — too massive for ordinary tools
 
-countries: Ethiopia, China, Egypt, Greece, Jordan, Armenia
+countries: Ethiopia, China, Egypt, Greece, Jordan, Armenia, Indonesia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. PDF 210 pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, China, Egypt, Greece, Jordan, Armenia
 
 **Book 7:** *Թվային գրագիտություն և համակարգչային գիտություն 11 (Digital Literacy and Computer Science, Grade 11 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-283-9 (from the book's printed QR link, zangak.am/9789939992839). Grade 11 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The imprint's “112 pages” figure disagrees with the PDF and with the book's own contents (which runs to p. 124 plus back matter); the PDF pagination is used, as filed.
 
+**Book 8:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Big data defined — too massive and complex for typical software and ordinary database tools; born of the data explosion as computers, the internet and sensors convert the real world into data | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 2, printed pp. 30–31 |
@@ -27,8 +29,9 @@ countries: Ethiopia, China, Egypt, Greece, Jordan, Armenia
 | Introduction §7: l'importance croissante du Big Data | Switzerland Grades 1–2 Décodage 1re–2e, printed p. 13 (teacher guide — evidence) |
 | Lesson 3: Data Visualisation — big data and ways of analysing it | Jordan Grade 10 G10T1 Student, printed p. 50 |
 | Lesson 7 Big data in a table (Theme 7 Complex data, simple presentation) | Armenia Grade 11 G11 student, printed p. 50 |
+| Bab 1 C.3 Big Data | Indonesia Grade 12 G12 Informatika student, printed p. 14 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, China, Egypt, Greece, Jordan, Armenia).**
+**Acceptance count: taught in 7 countries (Ethiopia, China, Egypt, Greece, Jordan, Armenia, Indonesia).**
 
 Egypt's own way (Grade 8, Term 1 student book): Two units — "Artificial Intelligence and Protecting Our Digital Data" and "Website Design and Creation" — ending with pupils creating their own school website with AI help.
 
@@ -40,4 +43,6 @@ Jordan's own way (Jordan Grade 10 G10T1 Student): Grade 10 Term 1 is a data year
 
 Armenia's own way (Armenia Grade 11 G11 student): Grade 11 (Stepanyan et al., Zangak) is the most advanced book in the set: online payment systems, digital biography, software licences, inclusive technology, logic-circuit adders, network performance, big data in tables, 1D/2D arrays, sorting and searching, recursion, OOP classes and inheritance, error types and algorithm speed — most of it beyond the current ICT course's 584 lessons, hence the high NEW share.
 
-Searchable tags: big data, data sources, pipeline, point of sale, data explosion, Grade 12 ICT Ethiopia, china, egypt, grade 8, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, jordan, grade 10 term 1 digital skills, armenia, grade 11
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Searchable tags: big data, data sources, pipeline, point of sale, data explosion, Grade 12 ICT Ethiopia, china, egypt, grade 8, greece, grade 9 pliroforiki c gymnasiou, switzerland, decodage, grades 12, jordan, grade 10 term 1 digital skills, armenia, grade 11, indonesia, grade 12

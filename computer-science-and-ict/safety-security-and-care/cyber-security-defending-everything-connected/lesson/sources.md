@@ -1,6 +1,6 @@
 # Sources — Cyber security — defending everything connected
 
-countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia
+countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -50,6 +50,14 @@ countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda
 
 **Book 24:** *Թվային գրագիտություն և համակարգչային գիտություն, 10-րդ դասարան, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 10, Methodological Guide)* (teacher guide, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN no ISBN printed. Grade 10 (teacher guide). 121 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 25:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 26:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 27:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
+**Book 28:** *Buku Panduan Guru Informatika untuk SMA/MA Kelas XII* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2022; ISBN 978-602-427-949-3 (jil. 3). Grade 12 (teacher guide). 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The guide's own contents page misprints every chapter's running title; the chapters follow the student book's Bab 1–6 in order, confirmed from the chapter body headings. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What cyber security is; its aim and five categories | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 197–198 |
@@ -77,8 +85,12 @@ countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda
 | Theme 8-1 Electronic security (§1; incl. writing e-mail correctly, personal-data protection, communication ethics) | Armenia Grade 8 G8 teacher, printed p. 7 (teacher guide — evidence) |
 | Lesson 2 Protection from cyberattacks | Armenia Grade 10 G10 student, printed p. 8 |
 | Exemplary thematic planning: Themes 1–2 Electronic security (cybercrime, protection from cyberattacks, cyberbullying) | Armenia Grade 10 G10 teacher, printed p. 57 (teacher guide — evidence) |
+| Bab IV (bab keamanan digital secara keseluruhan) | Indonesia Grade 9 G9 Informatika student, printed p. 181 |
+| Bab 4 D. Meningkatkan keamanan informasi | Indonesia Grade 10 G10 Informatika student, printed p. 220 |
+| Bab 4 H. Cyber Securities: manfaat dan cara kerja | Indonesia Grade 12 G12 Informatika student, printed p. 118 |
+| Bab 4 Panduan pembelajaran: cyber security, tata kelola data, konfigurasi keamanan jaringan | Indonesia Grade 12 G12 Informatika teacher guide, printed p. 170 (teacher guide — evidence) |
 
-**Acceptance count: taught in 14 countries (Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia).**
+**Acceptance count: taught in 15 countries (Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia).**
 
 North Macedonia's own way (Year 2): a strikingly current first theme (cybersecurity, cryptography, blockchain, robotics, AI/ML and large language models) precedes deep C++ (data representation, functions, one-dimensional arrays), a full databases theme ending in SQL, multimedia with generative AI for graphics, and HTML web authoring.
 
@@ -124,4 +136,12 @@ Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Step
 
 Armenia's own way (Armenia Grade 10 G10 teacher): Companion to Book 18 in the same Zangak guide template as the Grade 2 guide: subject purpose and programme features, methods, assessment, the Grade 10 standard outcomes for all 24 themes, an exemplary thematic plan, sample lesson plans for the "Types. Composite structures" theme, and additional problems with solutions for Themes 14–15.
 
-Searchable tags: cyber security, cyber-attack, cybercrime, disaster recovery, end-user education, medical records, intellectual property, Grade 10 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, cuba, grade 9, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 10 information technology term 1, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 7 digital technology, grade 9 digital technology, jordan, grade 9 term 2 digital skills, armenia, grade 7, grade 8, grade 10
+Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high Informatika opens with real data work — multi-variable search, data collection by Python web scraping in Google Colab (pandas/Plotly) — then algorithms chosen for real-life problems, office automation, IT careers/certifications, and information security with classical ciphers.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika teacher guide): Panduan Umum explains the SMA informatics curriculum, plugged and unplugged modes, and Fase F learning outcomes; each chapter guide gives strategies, lesson organisation, meaningful-learning design, enrichment/remedial, rubrics and parent interaction. (teacher guide — evidence)
+
+Searchable tags: cyber security, cyber-attack, cybercrime, disaster recovery, end-user education, medical records, intellectual property, Grade 10 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, cuba, grade 9, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, kuwait, grade 10 information technology term 1, laos, grade 12 ict student, greece, grade 10 efarmoges pliroforikis lykeiou, bangladesh, grade 7 digital technology, grade 9 digital technology, jordan, grade 9 term 2 digital skills, armenia, grade 7, grade 8, grade 10, indonesia, grade 9, grade 10, grade 12, grade 12

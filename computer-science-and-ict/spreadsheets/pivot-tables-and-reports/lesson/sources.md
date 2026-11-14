@@ -1,6 +1,6 @@
 # Sources — Pivot Tables and Reports
 
-countries: North Macedonia, Laos, Jordan
+countries: North Macedonia, Laos, Jordan, Indonesia
 
 **Book 1:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
@@ -8,13 +8,16 @@ countries: North Macedonia, Laos, Jordan
 
 **Book 3:** *المهارات الرقمية — الصف العاشر، كتاب الطالب — الفصل الدراسي الأول (Digital Skills, Grade 10 Student Book, First Semester)* (student book, Arabic) — Jordan, National Center for Curriculum Development (NCCD); year 2025 (first, experimental edition); ISBN 978-9923-41-882-6. Grade 10 (student book). 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/jordan-placements.md.
 
+**Book 4:** *Informatika untuk SMP/MTs Kelas VIII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2024; ISBN 978-623-388-167-8 (jil. 2 PDF). Grade 8 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. Read from the record's official Kemdikbud source URL (the grab routes failed); the book is already secured in GitHub.
+
 | Lesson part | Where it comes from |
 |---|---|
 | "Creating Reports — Pivot Tables" | North Macedonia, *Informatics, Year 1*, Тема 5 §5.6, printed p. 253 |
 | Ch.3 §III PivotTable: summarising Access data in Excel (what a Pivot Table is; building the summary) (filed as NEW LESSON NEEDED — spreadsheets/pivottables-summarising-data; stocked in this lesson because this lesson teaches PivotTables — summarising a list by grouping and totalling it in a pivot report — the same thing Laos's PivotTable section teaches, under the variant name) | Laos Grade 12 ICT student, printed p. 164 |
 | Lesson 4: Pivot Tables in Excel (filed as NEW LESSON NEEDED — spreadsheets/pivot-tables-in-excel; stocked in this lesson because this lesson teaches pivot tables — grouping and totalling a list by dragging fields into rows, columns and values, and reshaping the report — the Pivot Tables of Jordan's Grade 10 Excel lesson) | Jordan Grade 10 G10T1 Student, printed p. 86 |
+| Bab 1 C. Peringkasan data: PivotTable satu dan dua dimensi dengan filter (filed as spreadsheets/pivot-tables-one-and-two-dimensions; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 8 G8 Informatika student, printed p. 40 |
 
-**Acceptance count: taught in 3 countries (North Macedonia, Laos, Jordan).**
+**Acceptance count: taught in 4 countries (North Macedonia, Laos, Jordan, Indonesia).**
 
 Placement choice: this lesson was built new for the ICT expansion (North Macedonia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — spreadsheets/pivot-tables-and-reports). It sits in the Spreadsheets title (spreadsheets/), following the book's own order.
 
@@ -24,4 +27,6 @@ Laos's own way (Grade 12 ICT student book): the final year is a modern, applied 
 
 Jordan's own way (Jordan Grade 10 G10T1 Student): Grade 10 Term 1 is a data year: data and binary representation first, then big data and visualisation, then a long practical Excel lesson (text functions, AVERAGEIF/SUMIF, VLOOKUP, Pivot Tables, FORECAST and the Analysis ToolPak); the second unit builds web pages in HTML topic by topic.
 
-Searchable tags: pivot table, reports, summarise, grouping, refresh, spreadsheets, north macedonia, grade 10, laos, grade 12 ict student, jordan, grade 10 term 1 digital skills
+Indonesia's own way (Indonesia Grade 8 G8 Informatika student): Grade 8 deepens the four elements: spreadsheet data analysis (lookup, pivot), computational thinking through functions, sets and number systems, and programming that moves from Scratch to Blockly Games, procedural blocks and a physical Ozobot robot.
+
+Searchable tags: pivot table, reports, summarise, grouping, refresh, spreadsheets, north macedonia, grade 10, laos, grade 12 ict student, jordan, grade 10 term 1 digital skills, indonesia, grade 8

@@ -1,6 +1,6 @@
 # Sources - Python and IDLE - where Python code is written
 
-countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan
+countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan
 
 **Book 8:** *Թվային գրագիտություն և համակարգչային գիտություն 7, Մեթոդական ուղեցույց (Digital Literacy and Computer Science, Grade 7, Methodological Guide)* (teacher guide, Armenian) — Armenia, Antares (logo on cover); year not printed on the cover/title pages; ISBN no ISBN printed. Grade 7 (teacher guide). 217 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. (teacher guide — evidence)
 
+**Book 9:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 10:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - Python (popular high-level language; much easier to learn; chosen for teaching beginners) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 134-135 |
@@ -28,8 +32,10 @@ countries: Ethiopia, Egypt, Greece, Bangladesh, Jordan
 | Lesson 2: Basics of Python Programming — installing/setting up Python | Jordan Grade 11 G11T1 Student, printed p. 20 |
 | Lesson plan 2: Basics of Python Programming (teacher guide — evidence) | Jordan Grade 11 G11T1 Teacher, printed p. 20 (teacher guide — evidence) |
 | Theme 7-13 Basics of a programming language (§15, Python) | Armenia Grade 7 G7 teacher, printed p. 53 (teacher guide — evidence) |
+| Bab 1 B. Program Hello World Python di Google Colab | Indonesia Grade 10 G10 Informatika student, printed p. 10 |
+| Bab 1 D. Berkenalan dengan Python | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 55 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Egypt, Greece, Bangladesh, Jordan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Egypt, Greece, Bangladesh, Jordan, Indonesia).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -45,4 +51,8 @@ Jordan's own way (Jordan Grade 11 G11T1 Teacher): The guide teaches every lesson
 
 Armenia's own way (Armenia Grade 7 G7 teacher): SERIES MISMATCH NOTED — this guide (Velijanyan & Aslanyan) is the teacher guide for the OTHER Grade 7 series, whose student book (§1 Electronic security … §23 Computer hardware maintenance, Python-based) is NOT among the records; it does not match the Topchyan & Melkonyan Grade 7 student book filed as Book 12. The guide is complete in itself: 20 themes, a thematic plan, the student book's questions/tasks with answers for §1–§23, worked Python solutions, and assessment rubrics.
 
-Searchable tags: Python, IDLE, interactive interpreter, text editor, Grade 11 ICT Ethiopia, Unit 6 programming, egypt, grade 7, greece, grade 9 pliroforiki c gymnasiou, bangladesh, grade 9 digital technology, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7
+Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high Informatika opens with real data work — multi-variable search, data collection by Python web scraping in Google Colab (pandas/Plotly) — then algorithms chosen for real-life problems, office automation, IT careers/certifications, and information security with classical ciphers.
+
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
+
+Searchable tags: Python, IDLE, interactive interpreter, text editor, Grade 11 ICT Ethiopia, Unit 6 programming, egypt, grade 7, greece, grade 9 pliroforiki c gymnasiou, bangladesh, grade 9 digital technology, jordan, grade 11 term 1 digital skills, grade 11 term 1 digital skills teacher guide, armenia, grade 7, indonesia, grade 10, grade 10

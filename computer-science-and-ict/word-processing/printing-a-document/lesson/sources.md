@@ -16,6 +16,8 @@ countries: Sudan, Uzbekistan, Cuba, Sri Lanka, Rwanda, Laos
 
 **Book 7:** *ແບບຮຽນ ເຕັກໂນໂລຊີຂໍ້ມູນຂ່າວສານ ແລະ ການສື່ສານ (ICT) — ຊັ້ນມັດທະຍົມສຶກສາ ປີທີ 4 (Textbook, ICT, Secondary Year 4)* (student book, Lao) — Laos, Ministry of Education and Sports, Research Institute of Educational Sciences; year 2013; ISBN: no ISBN printed. 104 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/laos-placements.md.
 
+**Book 8:** *Panduan Guru Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (teacher guide, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-489-4 (jil. 1 PDF). Grade 7 (teacher guide). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Lesson 19 Printing (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 33 (teacher guide — evidence) |
@@ -26,6 +28,7 @@ countries: Sudan, Uzbekistan, Cuba, Sri Lanka, Rwanda, Laos
 | Organise, print and view shortcuts (print preview and settings; Read Mode, Print Layout and Web Layout views) (filed as NEW LESSON NEEDED — word-processing/printing-and-document-views; stocked in this lesson as the closest existing lesson covering this thing) | Rwanda Grade 9 S3 ICT Student Book, printed p. 63 |
 | Ch.3 §3.4 Checking the document before printing (Print Preview) (filed as NEW LESSON NEEDED — word-processing/print-preview; stocked in this lesson because this lesson teaches Print Preview as the first act of printing — the preview shows the document exactly as it will come out, page by page — the same check Laos's section teaches) | Laos Grade 9 ICT student, printed p. 38 |
 | Ch.3 §3.5 Printing a document | Laos Grade 9 ICT student, printed p. 39 |
+| Panduan Khusus Bab 5: panduan pembelajaran pengolah kata (filed as word-processing/printer-friendly-documents-print-settings; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 7 G7 Informatika teacher guide, printed p. 205 (teacher guide — evidence) |
 
 **Acceptance count: taught in 6 countries (Sudan, Uzbekistan, Cuba, Sri Lanka, Rwanda, Laos).**
 
@@ -48,4 +51,6 @@ Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3
 
 Laos's own way (Grade 9 ICT student book): the first fully practical year — a screenshot-led Windows XP, Word and Excel course where every numbered topic is a click-by-click procedure (the Excel half even teaches the Chart Wizard and worksheet Page Setup with its Orientation/Paper Size/Page Numbering table in English). Windows XP-era office teaching runs through the middle years.
 
-Searchable tags: printing, print preview, print queue, copies, page range, word, word processing, mauritania, grade 7, sudan, grade 5, uzbekistan, grade 6, cuba, grade 7, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, laos, grade 9 ict student
+Indonesia's own way (Indonesia Grade 7 G7 Informatika teacher guide): Panduan Umum sets out capaian pembelajaran, pedagogy principles and assessment for Grade 7; each chapter guide presents the essential material, pre-learning assessment, a step-by-step guide to the student book, enrichment/remedial, answer keys and parent interaction. (teacher guide — evidence)
+
+Searchable tags: printing, print preview, print queue, copies, page range, word, word processing, mauritania, grade 7, sudan, grade 5, uzbekistan, grade 6, cuba, grade 7, sri lanka, grade 12 science for technology tamil, rwanda, grade 9 s3 ict learners book, laos, grade 9 ict student, indonesia, grade 7

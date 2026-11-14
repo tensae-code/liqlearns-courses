@@ -1,6 +1,6 @@
 # Sources — Backup and recovery — copies that protect your data
 
-countries: Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova
+countries: Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova
 
 **Book 10:** *INFORMATICĂ — Manual pentru clasa a 7-a (Informatică, Grade 7)* (student book, Romanian) — Moldova, Editura Știința; year 2020; ISBN 978-9975-85-248-7. Authors: Anatol Gremalschi, Grigore Vasilache, Ludmila Gremalschi. 152 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/moldova-placements.md.
 
+**Book 11:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — backup and recovery defined, what a backup copies, separate system or medium, the four dangers, restoring | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 20, 22 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova
 | 8.1 Data Backup | Bhutan, *Literacy with ICT, Class VII*, printed p. 112 |
 | Backup and restore practical: set up Windows backup, restore your files with File History | Rwanda Grade 9 S3 ICT Student Book, printed p. 324 |
 | 3.9 Gestiunea datelor (backup copies of a disk) | Moldova Grade 7 Informatică, printed p. 66 |
+| Bab 2 D.4 Share and Protect lembar kerja | Indonesia Grade 7 G7 Informatika student, printed p. 86 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova).**
+**Acceptance count: taught in 8 countries (Ethiopia, Tanzania, Sudan, Egypt, Bhutan, Rwanda, Moldova, Indonesia).**
 
 The backup introduction on the student book's printed p. 20 numbers its first practical steps 4 and 5; those steps belong to the next lesson (Backing up files in Windows), where they are taught in their true order from 1 and the misnumbering is flagged in full. This lesson's pages carry no other error.
 
@@ -53,4 +56,6 @@ Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3
 
 Moldova's own way (Grade 7, Informatică): lower-secondary Informatica is a real textbook discipline, not computer-skills practice — number systems, text/image/sound encoding and data types in Pascal sit alongside GUI literacy, and two full chapters are given to behaviour, law and information culture in virtual spaces.
 
-Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania, papua new guinea, grade 10, sudan, grade 11, cuba, grade 5, egypt, grade 5, bhutan, class vii, rwanda, grade 9 s3 ict learners book, moldova, grade 7 informatica
+Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
+
+Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania, papua new guinea, grade 10, sudan, grade 11, cuba, grade 5, egypt, grade 5, bhutan, class vii, rwanda, grade 9 s3 ict learners book, moldova, grade 7 informatica, indonesia, grade 7

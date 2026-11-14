@@ -1,6 +1,6 @@
 # Sources — Project: set up a small peer-to-peer network
 
-countries: Ethiopia, Greece, Bangladesh
+countries: Ethiopia, Greece, Bangladesh, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Greece, Bangladesh
 
 **Book 5:** *Digital Technology, Class Nine* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 9 (student book). 190 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md. (The Grade 10 records in the library are this same Class 9 book filed under a Class 9-10 label — a duplicate, record-only in the placements file as its Book 4, cited nowhere as a Grade 10 book.)
 
+**Book 6:** *Informatika untuk SMK/MAK Kelas X Semester 1* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan & Direktorat Sekolah Menengah Kejuruan); year 2022; ISBN 978-623-388-010-7 (PDF). Grade 10 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Steps 1–2 — Connect the hardware; set up sharing | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 2, teacher guide printed pp. 27–28 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Greece, Bangladesh
 | Lesson 27 Using a simple local network (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 104 (teacher guide — evidence) |
 | Unit 2 Connecting a computer to a local network (filed as NEW LESSON NEEDED — networks/connecting-a-computer-to-a-local-network; stocked in this lesson because this project lesson teaches connecting computers to a local network for real — cabling machines to a hub/switch, setting sharing and discovery, and testing from every computer — the connection Greece's section describes) | Greece Grade 8 Pliroforiki B, printed p. 25 |
 | Learning Experience 5, Sessions 6-7: Let Us Make a Network; Sharing File | Bangladesh Grade 9 Digital Technology, printed p. 163 |
+| Bab 4 C. Mengoperasikan perangkat jaringan (praktik) | Indonesia Grade 10 G10 Informatika SMK Sem1, printed p. 142 |
 
-**Acceptance count: taught in 2 countries (Greece, Bangladesh).**
+**Acceptance count: taught in 3 countries (Greece, Bangladesh, Indonesia).**
 
 This lesson stands on teacher-guide evidence only: the student book teaches peer-to-peer as a kind of network (printed p. 58, built as its own lesson in this title), while this five-step build is the guide's additional activity (guide placement item 9). It is labelled teacher evidence throughout, and its acceptance count below says so plainly.
 
@@ -33,4 +36,6 @@ Greece's own way (Grade 8, Pliroforiki B' Gymnasiou, 2024): Grade 8 moves from b
 
 Bangladesh's own way (Grade 9, Digital Technology): Grade 9 turns practical — a full Python course (Thonny IDE) inside the book, website building with WordPress and Google services for a citizen-service site, and hands-on networking between two school computers. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: peer-to-peer project, Homegroup, UTP, file sharing, firewall, teacher guide evidence, Grade 9 ICT Ethiopia, mauritania, grade 9, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem1): The SMK Semester 1 book teaches the same Informatika elements with a logic-first opening (propositions and inference), applied office integration, hands-on network-device configuration, and an OS-installation practical.
+
+Searchable tags: peer-to-peer project, Homegroup, UTP, file sharing, firewall, teacher guide evidence, Grade 9 ICT Ethiopia, mauritania, grade 9, greece, grade 8 pliroforiki b gymnasiou, bangladesh, grade 9 digital technology, indonesia, grade 10

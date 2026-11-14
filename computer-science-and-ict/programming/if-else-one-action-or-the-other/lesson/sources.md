@@ -1,6 +1,6 @@
 # Sources — if…else — one action or the other
 
-countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh, Jordan, Armenia
+countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh, Jordan, Armenia, Indonesia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -42,6 +42,8 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mo
 
 **Book 21:** *Թվային գրագիտություն և համակարգչային գիտություն 12 (Digital Literacy and Computer Science, Grade 12 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-289-1. Grade 12 (student book). 88 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 22:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Two roads — if runs on true, else runs on false | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 170–171 (student placement item 120) |
@@ -69,8 +71,9 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mo
 | Lesson 2: conditional statements in algorithms | Jordan Grade 12 G12T1 Student, printed p. 32 |
 | 6.5 Virtual decisions | Armenia Grade 7 G7 student, printed p. 103 |
 | Lesson 4 Linear and branching algorithms | Armenia Grade 12 G12 student, printed p. 25 |
+| Bab 3 L. Percabangan pada program Arduino: if, if..else | Indonesia Grade 12 G12 Informatika student, printed p. 78 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh, Jordan, Armenia).**
+**Acceptance count: taught in 15 countries (Ethiopia, Finland, North Macedonia, Iraq, Uzbekistan, Fiji, Libya, Mongolia, Sri Lanka, Kuwait, Moldova, Bangladesh, Jordan, Armenia, Indonesia).**
 
 BOOK ERROR flagged: the student book's if…else example on printed p. 171 carries a printed Word cross-reference failure — the words 'error: reference source not found' appear where a figure reference belongs. The lesson teaches the if…else content itself, which is complete and correct; the broken reference is named here, not reproduced as teaching. All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -111,4 +114,6 @@ Armenia's own way (Armenia Grade 7 G7 student): A new author team (Topchyan & Me
 
 Armenia's own way (Armenia Grade 12 G12 student): The final school year (Stepanyan, Torosyan, Amirkhanyan, Matinyan) is a single-subject book: programming in JavaScript with HTML — built-in functions, variables, data types, branching and cyclic algorithms, arrays, objects — closing with software testing (concepts, stages, levels, methods and types) and a reference section on JavaScript array methods.
 
-Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5, uzbekistan, grade 9, fiji, year 12, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil, kuwait, grade 5 digital explorer term 2, grade 12 information technology term 1, moldova, grade 8 informatica, bangladesh, grade 9 digital technology, jordan, grade 12 term 1 digital skills, armenia, grade 7, grade 12
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Searchable tags: if else, even odd, remainder, modulo, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, iraq, grade 8, morocco, grade 5, uzbekistan, grade 9, fiji, year 12, libya, grade 11 it student term 1, grade 11 it teacher guide term 1, mongolia, grade 9 it ix, grade 8 it viii, sri lanka, grade 9 reading book, sri lanka, grade 11 tamil, kuwait, grade 5 digital explorer term 2, grade 12 information technology term 1, moldova, grade 8 informatica, bangladesh, grade 9 digital technology, jordan, grade 12 term 1 digital skills, armenia, grade 7, grade 12, indonesia, grade 12

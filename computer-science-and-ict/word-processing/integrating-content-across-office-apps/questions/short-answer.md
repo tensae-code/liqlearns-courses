@@ -1,0 +1,33 @@
+# Integrating Content Across Office Apps — short answer
+
+Answer in a short sentence of your own.
+
+**1. (Sub lesson 1) What is integration across office apps?**
+**Answer: Joining content between the word processor, spreadsheet and presentation so one body of work lives in several documents**
+
+**2. (Sub lesson 1) Where does real work's content start?**
+**Answer: Figures in the spreadsheet, writing in the word processor, the talk in the presentation**
+
+**3. (Sub lesson 1) What is the point of computing once?**
+**Answer: The numbers are computed once and shown everywhere**
+
+**4. (Sub lesson 1) What is paste, as a joining?**
+**Answer: A copy carried across — simple, and dead: it never learns the original changed**
+
+**5. (Sub lesson 1) What is embedding?**
+**Answer: A working object of the other app placed inside the document — still editable as its own kind**
+
+**6. (Sub lesson 2) What is linking?**
+**Answer: Showing the original through a window — the document displays the source's current values**
+
+**7. (Sub lesson 2) What is linking's price?**
+**Answer: The link breaks when files move**
+
+**8. (Sub lesson 2) One correction in a linked sheet does what?**
+**Answer: Heals every document that links it**
+
+**9. (Sub lesson 2) Which joining suits a monthly report, and which a final one?**
+**Answer: Monthly links its figures; a final report may freeze (paste or embed) them**
+
+**10. (Sub lesson 2) Where does Indonesia teach this?**
+**Answer: Grade 9 Bab III B.3 and Grade 10 SMK Bab 2 D — integration of office application content**

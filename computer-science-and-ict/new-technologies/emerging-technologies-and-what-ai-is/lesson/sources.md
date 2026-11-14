@@ -1,6 +1,6 @@
 # Sources — Emerging technologies — and what AI is
 
-countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia
+countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -37,6 +37,8 @@ countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos
 
 **Book 19:** *Թվային գրագիտություն և համակարգչային գիտություն 10 (Digital Literacy and Computer Science, Grade 10 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-193-1 (from the book's printed QR link, zangak.am/9789939991931). Grade 10 (student book). 176 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 20:** *Informatika untuk SMP/MTs Kelas IX (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan Dasar dan Menengah (Pusat Perbukuan); year 2025; ISBN 978-634-00-3299-4 (jil. 3 PDF). Grade 9 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What an emerging technology is; what AI is — reasoning and generalisation; the 1950s coinage; computing power and data; uses in business, medicine, entertainment | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 2, printed pp. 28–29 |
@@ -58,8 +60,9 @@ countries: Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos
 | Unit 2 Artificial Intelligence — unit introduction | Jordan Grade 12 G12T2 Student, printed p. 74 |
 | Unit 2 Artificial Intelligence, Lesson 1: Introduction to Artificial Intelligence | Jordan Grade 9 G9T2 Student, printed p. 98 |
 | Lesson 8 Technology in the future (Theme 7) | Armenia Grade 10 G10 student, printed p. 45 |
+| Bab III C.2 Perancangan konten digital menggunakan kecerdasan artifisial | Indonesia Grade 9 G9 Informatika student, printed p. 174 |
 
-**Acceptance count: taught in 12 countries (Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia).**
+**Acceptance count: taught in 13 countries (Ethiopia, Germany, Nepal, China, North Macedonia, Egypt, Kuwait, Laos, Greece, Bangladesh, Jordan, Armenia, Indonesia).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -94,4 +97,6 @@ Jordan's own way (Jordan Grade 9 G9T2 Student): Cyber security is built from the
 
 Armenia's own way (Armenia Grade 10 G10 student): The senior-school series (Stepanyan, Torosyan, Martirosyan, Amirkhanyan, Matinyan) is built on four ideas around digital tools and collaboration; Grades 10–12 switch the programming language to C++ and go deep: Boolean logic, translators, types, code quality, debugging, procedures, recursion, divide-and-conquer, testing, development stages, AI and data.
 
-Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 7, grade 8, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, grade 9 term 2 digital skills, armenia, grade 10
+Indonesia's own way (Indonesia Grade 9 G9 Informatika student): Grade 9 completes junior-high Informatika with tree/graph data structures, a full data-analysis workflow, modular programming and the block-to-text transition (Scratch/Blockly toward C and Python), productivity content design with AI, and a full digital-security chapter.
+
+Searchable tags: emerging technologies, artificial intelligence, AI, reasoning, generalisation, brain drain, Grade 11 ICT Ethiopia, germany, nepal, china, north macedonia, grade 10, papua new guinea, grade 10, egypt, grade 7, grade 8, kuwait, grade 4 digital explorer term 2, grade 10 information technology term 2, grade 5 digital explorer term 1, laos, grade 10 ict student, greece, grade 8 pliroforiki b gymnasiou, greece, grade 11 eisagogi epistimis hy lykeiou, bangladesh, hsc ict classes xi xii and alim, jordan, grade 12 term 2 digital skills, grade 9 term 2 digital skills, armenia, grade 10, indonesia, grade 9

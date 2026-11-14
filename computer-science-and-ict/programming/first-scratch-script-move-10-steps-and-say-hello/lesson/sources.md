@@ -1,6 +1,6 @@
 # Sources — First Scratch script — move 10 steps and say hello
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt, Bhutan, Rwanda, Jordan, Armenia
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt, Bhutan, Rwanda, Jordan, Armenia, Indonesia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt, Bhutan, R
 
 **Book 14:** *Թվային գրագիտություն և համակարգչային գիտություն 3 (Digital Literacy and Computer Science, Grade 3 textbook, basic school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2024; ISBN 978-9939-99-125-2. Grade 3 (student book). 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md.
 
+**Book 15:** *Informatika untuk SMP/MTs Kelas VII (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-118-483-2 (jil. 1 PDF). Grade 7 (student book). 280 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The first script built in the book's order — Events, then Motion | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 231–232 |
@@ -47,8 +49,9 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt, Bhutan, R
 | Scratch practicals: combo blocks, variables switch on/off | Rwanda Grade 7 S1 ICT Student Book, printed p. 217 |
 | Unit 2 Algorithms & Programming, Lesson 1: Introduction to Scratch — using Scratch | Jordan Grade 8 G8T1 Student, printed p. 98 |
 | Lesson 12 Your first program in the Scratch environment (Theme 9 Pictures by means of the computer) | Armenia Grade 3 G3 student, printed p. 75 |
+| Bab 1 B.1 Membuat Drumset dengan Scratch (praktik) | Indonesia Grade 7 G7 Informatika student, printed p. 18 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt, Bhutan, Rwanda, Jordan, Armenia).**
+**Acceptance count: taught in 12 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt, Bhutan, Rwanda, Jordan, Armenia, Indonesia).**
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
@@ -70,4 +73,6 @@ Jordan's own way (Jordan Grade 8 G8T1 Student): Grade 8 Term 1 is a maintenance 
 
 Armenia's own way (Armenia Grade 3 G3 student): Grade 3 (Stepanyan, Amirkhanyan, Matinyan) keeps the Hayk-and-Arpi story frame and QR-linked media: device safety, technology around us, picture and text editors, e-mail with attachments, input/output devices, keyboard keys, data collection with programs, then a Scratch strand — environment, first program, pictures, repeated actions, and game scores as a first step into variables.
 
-Searchable tags: Scratch, first script, when flag clicked, move 10 steps, Looks, doing lesson, Grade 9 ICT Ethiopia Unit 6, djibouti, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, morocco, grade 4, sudan, grade 9, egypt, grade 7, bhutan, class iv, rwanda, grade 7 s1 ict student book, jordan, grade 8 term 1 digital skills, armenia, grade 3
+Indonesia's own way (Indonesia Grade 7 G7 Informatika student): Kurikulum Merdeka Informatika built on four elements (Berpikir Komputasional, Literasi Digital, Analisis Data, Algoritma dan Pemrograman), mixing plugged and unplugged activities with coded activity IDs (e.g. VII-BK, VII-LD) and QR-linked resources; Grade 7 covers only BK + Literasi Digital + data handling.
+
+Searchable tags: Scratch, first script, when flag clicked, move 10 steps, Looks, doing lesson, Grade 9 ICT Ethiopia Unit 6, djibouti, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, morocco, grade 4, sudan, grade 9, egypt, grade 7, bhutan, class iv, rwanda, grade 7 s1 ict student book, jordan, grade 8 term 1 digital skills, armenia, grade 3, indonesia, grade 7

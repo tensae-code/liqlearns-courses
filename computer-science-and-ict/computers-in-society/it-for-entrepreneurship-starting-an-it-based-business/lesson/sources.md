@@ -1,6 +1,6 @@
 # Sources — IT for entrepreneurship — starting an IT-based business
 
-countries: Ethiopia, Cambodia, Sri Lanka, Bangladesh
+countries: Ethiopia, Cambodia, Sri Lanka, Bangladesh, Indonesia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Cambodia, Sri Lanka, Bangladesh
 
 **Book 6:** *Digital Technology, Class Seven* (student book, English Version; Bangla Version parallel spot-checked — cited from the English edition, both editions named here) — Bangladesh, National Curriculum and Textbook Board (NCTB); year 2024 (Academic Year 2024); ISBN: no ISBN printed. Grade 7 (student book). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bangladesh-placements.md.
 
+**Book 7:** *Informatika untuk SMK/MAK Kelas X Semester 2* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2023; ISBN 978-623-194-545-7 (jil. 2 PDF). Grade 10 (student book). 232 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Entrepreneurship and the IT-enabled business | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 22–24 (student placement item 16) |
@@ -23,8 +25,9 @@ countries: Ethiopia, Cambodia, Sri Lanka, Bangladesh
 | Ch.6 Computer-related job opportunities | Sri Lanka Grade 9 G9 ICT Textbook, printed p. 82 |
 | Competency 6.2: career opportunities in computing and their job roles (teacher guide — evidence) | Sri Lanka Grade 9 G9 ICT Teacher Guide (NIE 2018), printed p. 83 (teacher guide — evidence) |
 | Learning Experience 2, Session 5: making intellectual property suitable for commercial use / commercialising IP | Bangladesh Grade 7 Digital Technology, printed p. 34 |
+| Bab 2 C (peran informatika dalam wirausaha) | Indonesia Grade 10 G10 Informatika SMK Sem2, printed p. 135 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Sri Lanka, Bangladesh).**
+**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Sri Lanka, Bangladesh, Indonesia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them. Guide-side error touching this unit: \u00a71.4 IT for Entrepreneurship is missing from the teacher guide's own contents list although the unit teaches it (learning outcomes and Activity 1.12, guide printed p. 20). The entrepreneurship evidence in this set is filed in the entrepreneurship lesson, where this note belongs. The entrepreneurship evidence from the guide is filed in Sub lesson 2 of this lesson, as the placement directs.
 
@@ -34,4 +37,6 @@ Sri Lanka's own way (Grade 9 Teachers' Guide): a competency-based NIE guide (6 c
 
 Bangladesh's own way (Grade 7, Digital Technology): the Grade 7 book continues the Learning-Experience project format — intellectual property, virtual identity, cybercrime, robotics-through-pseudocode and e-services are each learned by doing a class project with the recurring robot character Nano. The NCTB Digital Technology line runs in parallel English and Bangla editions; placements are cited from the English Version with the Bangla Version parallel spot-checked.
 
-Searchable tags: entrepreneurship, entrepreneur, IT-enabled business, RIDE, Samrawit Fikru, youth employment, Ethiopia Grade 11 IT, cambodia, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, bangladesh, grade 7 digital technology
+Indonesia's own way (Indonesia Grade 10 G10 Informatika SMK Sem2): Semester 2 turns to algorithms in depth, the social side of informatics (history of IT, intellectual property, professions), and a full informatics project-management chapter — plan, monitor, evaluate.
+
+Searchable tags: entrepreneurship, entrepreneur, IT-enabled business, RIDE, Samrawit Fikru, youth employment, Ethiopia Grade 11 IT, cambodia, sri lanka, grade 9 reading book, sri lanka, grade 9 teachers guide, bangladesh, grade 7 digital technology, indonesia, grade 10

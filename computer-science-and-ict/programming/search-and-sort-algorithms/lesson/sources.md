@@ -1,6 +1,6 @@
 # Sources — Search and Sort Algorithms
 
-countries: Malaysia, Greece, Armenia
+countries: Malaysia, Greece, Armenia, Indonesia
 
 **Book 1:** *Asas Sains Komputer Tingkatan 3* (student book, Bahasa Melayu) — Malaysia, Pan Asia Publications Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-466-319-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
@@ -8,13 +8,20 @@ countries: Malaysia, Greece, Armenia
 
 **Book 3:** *Թվային գրագիտություն և համակարգչային գիտություն 11 (Digital Literacy and Computer Science, Grade 11 textbook, senior school)* (student book, Armenian) — Armenia, Zangak, Yerevan; year 2025; ISBN 978-9939-99-283-9 (from the book's printed QR link, zangak.am/9789939992839). Grade 11 (student book). 128 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/armenia-placements.md. The imprint's “112 pages” figure disagrees with the PDF and with the book's own contents (which runs to p. 124 plus back matter); the PDF pagination is used, as filed.
 
+**Book 4:** *Informatika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi; year 2023; ISBN 978-623-118-493-1 (jil. 1 PDF). Grade 10 (student book). 272 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md.
+
+**Book 5:** *Informatika untuk SMA/MA Kelas XII* (student book, Indonesian) — Indonesia, Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Pusat Perbukuan); year 2022; ISBN 978-602-427-948-6 (jil. 3). Grade 12 (student book). 248 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/indonesia-placements.md. The PDF is image-only with no text layer, so it was read as 100-DPI 4-up contact sheets.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Bab 3 Algoritma, 3.1.1 Ciri-ciri Search dan Sort | Malaysia Grade 9 ASK Tingkatan 3, printed p. 62 |
 | Ch.3 Search / sorting (filed as NEW LESSON NEEDED — programming/searching-sequential-and-sorting-bubble-sort; stocked in this lesson because this lesson teaches searching and sorting together as families — search (one by one from the start, or by halving) and sort (comparing and swapping neighbours, bubble among them) — the search-and-sort ground Greece's section works, with sequential search and bubble sort then taught in depth in their own lessons) | Greece Grade 12 Anaptyxi Efarmogon, printed p. 63 |
 | Lesson 9 Sorting and searching algorithms (Theme 9) (filed as programming/sorting-and-searching-algorithms; stocked into this lesson as the closest existing lesson covering this thing) | Armenia Grade 11 G11 student, printed p. 69 |
+| Bab 2 C. Memilih algoritma untuk masalah nyata: pencarian (searching) (filed as programming/searching-algorithms; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika student, printed p. 80 |
+| Bab 2 C. Memilih algoritma untuk masalah nyata: pengurutan (sorting) (filed as programming/sorting-algorithms; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 10 G10 Informatika student, printed p. 84 |
+| Bab 3 B.1 Berpikir komputasional untuk aktivitas aturan mencari kata (search, simbol ? dan *) (filed as programming/searching-algorithms; stocked into this lesson as the closest existing lesson covering this thing) | Indonesia Grade 12 G12 Informatika student, printed p. 59 |
 
-**Acceptance count: taught in 3 countries (Malaysia, Greece, Armenia).**
+**Acceptance count: taught in 4 countries (Malaysia, Greece, Armenia, Indonesia).**
 
 Placement choice: this lesson was built new for the ICT expansion (Malaysia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and the live lesson content was checked for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/search-and-sort-algorithms). It sits in the Programming title (programming/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Malaysia student book. Duplicate catalogue records of the same book (10 records / 5 distinct books in this expansion) are cited once. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -24,4 +31,8 @@ Greece's own way (Grade 12, Anaptyxi Efarmogon — AEPP): Greece's national-exam
 
 Armenia's own way (Armenia Grade 11 G11 student): Grade 11 (Stepanyan et al., Zangak) is the most advanced book in the set: online payment systems, digital biography, software licences, inclusive technology, logic-circuit adders, network performance, big data in tables, 1D/2D arrays, sorting and searching, recursion, OOP classes and inheritance, error types and algorithm speed — most of it beyond the current ICT course's 584 lessons, hence the high NEW share.
 
-Searchable tags: search algorithms, sort algorithms, characteristics, programming, malaysia, grade 9 ask tingkatan 3, greece, grade 12 anaptyxi efarmogon aepp glossa, armenia, grade 11
+Indonesia's own way (Indonesia Grade 10 G10 Informatika student): Senior-high Informatika opens with real data work — multi-variable search, data collection by Python web scraping in Google Colab (pandas/Plotly) — then algorithms chosen for real-life problems, office automation, IT careers/certifications, and information security with classical ciphers.
+
+Indonesia's own way (Indonesia Grade 12 G12 Informatika student): Grade 12 (original Kurikulum Merdeka edition) is built around making things: single-board computers/controllers and a full Arduino C course (IDE, UnoArduSim simulator, sensors, S.O.S. LED and melody projects), then networks with cyber security and data governance, social impact with the UU ITE law, and a cross-field group project (smart trash bin / waste-bank apps) with journals, reports and peer assessment.
+
+Searchable tags: search algorithms, sort algorithms, characteristics, programming, malaysia, grade 9 ask tingkatan 3, greece, grade 12 anaptyxi efarmogon aepp glossa, armenia, grade 11, indonesia, grade 10, grade 12
