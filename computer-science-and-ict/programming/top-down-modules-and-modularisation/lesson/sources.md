@@ -6,11 +6,14 @@ countries: Ethiopia, North Macedonia
 
 **Book 2:** *Информатика за II (втора) година гимназиско образование (Informatics for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-843/1 of 22.07.2026); ISBN 978-608-4777-47-2. 330 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 3:** *Al-Maharat al-Raqamiyya (Digital Skills), Second Intermediate (= Grade 8), Term 3* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الثاني المتوسط — الفصل الدراسي الثالث — دليل المعلم (Digital Skills, Second Intermediate Grade, Third Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2022), for the Ministry of Education. Edition 1444H/2022. ISBN 978-603-511-376-2. 92 PDF pages (the cataloguing page inside states 90 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Top-down approach and modularisation defined | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 236-237 |
 | The ten-labourer wage worked example — CalculateWage and the main loop | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 236-237 |
 | "Modular Programming and the Divide and Conquer Concept" | North Macedonia, *Informatics, Year 2*, Тема 2, printed p. 83 |
+| Unit 3, Lesson 2: Modular programming (what it is and why it matters; the modules are called functions in other languages) (teacher guide — evidence) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 8 Term 3*, printed p. 72 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, North Macedonia).**
 
@@ -18,4 +21,6 @@ Book error, taught corrected: the student book's later exercises cross-refer to 
 
 North Macedonia's own way (Year 2): a strikingly current first theme (cybersecurity, cryptography, blockchain, robotics, AI/ML and large language models) precedes deep C++ (data representation, functions, one-dimensional arrays), a full databases theme ending in SQL, multimedia with generative AI for graphics, and HTML web authoring.
 
-Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11
+Saudi Arabia's own way (Grade 8, Digital Skills): the Binary Logic series is taught in fixed periods (33 periods this term) with the student book mirrored by this guide — unit/lesson description, learning outcomes, "important points", lesson steps, worked answers and group unit projects, with all practice files delivered through the national Ain enrichment platform (ien.edu.sa). The term is three applied units: video production in Shotcut, charts in Excel, and programming a virtual robot in VEXcode VR where pupils read their own blocks as Python. (teacher guide — evidence)
+
+Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11, saudi arabia, grade 8

@@ -12,6 +12,8 @@ countries: Ethiopia, Djibouti, Nepal
 
 **Book 5:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Al-Maharat al-Raqamiyya (Digital Skills), Second Intermediate (= Grade 8), Term 3* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الثاني المتوسط — الفصل الدراسي الثالث — دليل المعلم (Digital Skills, Second Intermediate Grade, Third Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2022), for the Ministry of Education. Edition 1444H/2022. ISBN 978-603-511-376-2. 92 PDF pages (the cataloguing page inside states 90 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pixels — the smallest element of an image | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 §4.1, printed pp. 145–146 |
@@ -20,6 +22,7 @@ countries: Ethiopia, Djibouti, Nepal
 | Chapitre 8 — L'utilisation de l'image — using images (teacher guide — evidence) | Djibouti, *Guide manuel Informatique, Grade 6*, printed p. 66 (teacher guide — evidence) |
 | Unit 3 §3.2, Graphics | Nepal, *Computer Science, Class 10*, printed p. 84 |
 | Unit 1 Lesson 02 Introduction to digital images (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 10 (teacher guide — evidence) |
+| Unit 1, Lesson 1: Vector and raster graphics, pixels and megapixels (a 50 MP vs 12 MP camera), common image formats (teacher guide — evidence) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 8 Term 3*, printed p. 13 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Nepal).**
 
@@ -27,4 +30,6 @@ Nothing in this lesson claims a page the placements do not give; the lesson's co
 
 Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
 
-Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8
+Saudi Arabia's own way (Grade 8, Digital Skills): the Binary Logic series is taught in fixed periods (33 periods this term) with the student book mirrored by this guide — unit/lesson description, learning outcomes, "important points", lesson steps, worked answers and group unit projects, with all practice files delivered through the national Ain enrichment platform (ien.edu.sa). The term is three applied units: video production in Shotcut, charts in Excel, and programming a virtual robot in VEXcode VR where pupils read their own blocks as Python. (teacher guide — evidence)
+
+Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8

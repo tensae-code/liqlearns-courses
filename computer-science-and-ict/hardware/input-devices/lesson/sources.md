@@ -10,12 +10,15 @@ countries: Ethiopia, Tanzania, Yemen, North Macedonia
 
 **Book 4:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 5:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Input devices — putting data in | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 16 |
 | Computer hardware: input devices | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 39 |
 | "The input unit" | Yemen, *Computer, Grade 10*, printed p. 26 |
 | "Input and Output Devices: Classification and Comparison" | North Macedonia, *Informatics, Year 1*, Тема 1 §1.4, printed p. 21 |
+| Unit 1, Lesson 1: Input peripherals and what each is for (keyboard for letters/numbers, scanner for bringing a picture in, microphone for sound) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 23 (teacher guide — evidence) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Tanzania, Yemen, North Macedonia).**
 
@@ -25,4 +28,6 @@ No book error touches this lesson's content.
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10
+Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
+
+Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10, saudi arabia, grade 4

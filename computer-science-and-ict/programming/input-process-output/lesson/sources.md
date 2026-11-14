@@ -1,6 +1,6 @@
 # Sources — Input, process, output
 
-countries: Ethiopia, North Macedonia
+countries: Ethiopia, North Macedonia, Saudi Arabia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -10,19 +10,24 @@ countries: Ethiopia, North Macedonia
 
 **Book 4:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 5:** *Al-Hasib wa Tiqniyat al-Ma'lumat, Grade 3 Primary, Term 1 — Continuing Education* (student book, Arabic; title as printed: الحاسب وتقنية المعلومات للصف الثالث ابتدائي — الفصل الدراسي الأول — التعليم المستمر (Computer and Information Technology, Third Primary Grade, First Term — Continuing Education)) — Saudi Arabia, Ministry of Education, Kingdom of Saudi Arabia. Printed edition 1443H/2021 (the record title says 1448H — the file behind the record is the 1443/2021 printed edition; that mismatch is carried as filed). ISBN 978-603-508-924-1. 113 PDF pages (the cataloguing page inside states 114 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The input–process–output model; its sources of input and forms of output | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 222 |
 | The model mapped onto the average example | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 222 |
+| Lesson 4: The working cycle — input units, processing, output units | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 23 |
 
 | Solving problems with a computer — the seven steps; A + B = C; the everyday-algorithm activity (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 204–205 |
 | The five problem-solving steps; the input–process–output skeleton; the 15-period budget (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6, printed pp. 103–104, 107 |
 | "Entering Data" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.18, printed p. 149 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, North Macedonia).**
+**Acceptance count: taught in 3 countries (Ethiopia, North Macedonia, Saudi Arabia).**
 
 Book errors taught corrected, flagged here as this growth teaches the unit's opening outcomes: the Grade 10 student book's Unit 6 outcomes header spells the unit “FUNDAMENTALS OF PROGRAMING” with one M (a misprint) — the lessons use the correct spelling, Fundamentals of Programming. In the teacher guide, the §6.8 answer key defines an algorithm as a sequence of “ambiguous” step-by-step instructions — the opposite of both books' wording everywhere else (unambiguous); the worked-problems lesson teaches the corrected word and flags the slip there too. The guide's keys for every unit's objective items (Unit 5 printed p. 101; Unit 6 printed p. 116) were used as the verified answer source for this build's Grade 10 question files.
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: input process output, IPO model, CPU, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10
+Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book for the continuing-education (adult/lifelong learning) track — every one of the 16 lessons opens with "I want to learn" objectives and closes with written exercises, and everything is taught on an older Windows desktop (Start menu, "My Computer", Recycle Bin) with Notepad as the only application, worked through step-by-step practicals in the school lab.
+
+Searchable tags: input process output, IPO model, CPU, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, saudi arabia, grade 3

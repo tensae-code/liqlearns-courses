@@ -1,6 +1,6 @@
 # Sources — From data to information
 
-countries: Ethiopia, Turkmenistan, Tanzania, Eritrea
+countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea
 
 **Book 5:** *Information and Communications Technology for Grade 8 — Textbook* (student book) — Eritrea, Ministry of Education, State of Eritrea (Curriculum Planning and Development Division), 2015. ISBN 99948-1-750-7. 93 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/eritrea-placements.md.
 
+**Book 6:** *Al-Hasib wa Tiqniyat al-Ma'lumat, Grade 3 Primary, Term 1 — Continuing Education* (student book, Arabic; title as printed: الحاسب وتقنية المعلومات للصف الثالث ابتدائي — الفصل الدراسي الأول — التعليم المستمر (Computer and Information Technology, Third Primary Grade, First Term — Continuing Education)) — Saudi Arabia, Ministry of Education, Kingdom of Saudi Arabia. Printed edition 1443H/2021 (the record title says 1448H — the file behind the record is the 1443/2021 printed edition; that mismatch is carried as filed). ISBN 978-603-508-924-1. 113 PDF pages (the cataloguing page inside states 114 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Processed data | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 3–4 |
@@ -20,9 +22,12 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea
 | Chapter III Information around us: The concept of information | Turkmenistan, *Basics of Informatics, Grade 1*, printed p. 26 |
 | Data versus information (concept section) | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 5 |
 | Unit 1 §1.4 — Data and Information | Eritrea, *ICT for Grade 8*, Unit 1 §1.4, printed p. 9 |
+| Lesson 4: How the computer works (data in, processing, information out — the juice-making comparison) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 22 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea).**
+**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia).**
 
 No book error touches this lesson's content.
 
-Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea
+Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book for the continuing-education (adult/lifelong learning) track — every one of the 16 lessons opens with "I want to learn" objectives and closes with written exercises, and everything is taught on an older Windows desktop (Start menu, "My Computer", Recycle Bin) with Notepad as the only application, worked through step-by-step practicals in the school lab.
+
+Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea, saudi arabia, grade 3

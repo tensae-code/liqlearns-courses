@@ -1,6 +1,6 @@
 # Sources — What a computer is — input, process, store, output
 
-countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen
+countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen
 
 **Book 6:** *INFORMATIQUE — GUIDE DU PROFESSEUR 1AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2025; no ISBN printed. 68 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-07/gov/mauritania/guide-inf-1as.pdf (byte size 3,704,543 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
+**Book 7:** *Al-Hasib wa Tiqniyat al-Ma'lumat, Grade 3 Primary, Term 1 — Continuing Education* (student book, Arabic; title as printed: الحاسب وتقنية المعلومات للصف الثالث ابتدائي — الفصل الدراسي الأول — التعليم المستمر (Computer and Information Technology, Third Primary Grade, First Term — Continuing Education)) — Saudi Arabia, Ministry of Education, Kingdom of Saudi Arabia. Printed edition 1443H/2021 (the record title says 1448H — the file behind the record is the 1443/2021 printed edition; that mismatch is carried as filed). ISBN 978-603-508-924-1. 113 PDF pages (the cataloguing page inside states 114 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a computer is | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 10 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen
 | Unit 1 "The computer, its importance and its development", "What is a computer" | Yemen, *Computer, Grade 10*, printed p. 8 |
 | Unit 1 activity | Yemen, *Computer, Grade 10*, printed p. 16 |
 | Lesson 01 The computer, the central unit and the mouse (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 4 (teacher guide — evidence) |
+| Lesson 1: Introduction to the computer (what a computer is; its characteristics — storing/retrieving data, processing, programmability; the mobile phone as a small computer) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 5 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen).**
+**Acceptance count: taught in 6 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -35,4 +38,6 @@ No book error touches this lesson's content.
 
 Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
 
-Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7
+Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book for the continuing-education (adult/lifelong learning) track — every one of the 16 lessons opens with "I want to learn" objectives and closes with written exercises, and everything is taught on an older Windows desktop (Start menu, "My Computer", Recycle Bin) with Notepad as the only application, worked through step-by-step practicals in the school lab.
+
+Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3

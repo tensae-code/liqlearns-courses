@@ -1,6 +1,6 @@
 # Sources — Copying a file
 
-countries: Ethiopia, Uganda, Afghanistan, Yemen
+countries: Ethiopia, Uganda, Afghanistan, Yemen, Saudi Arabia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Uganda, Afghanistan, Yemen
 
 **Book 6:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 7:** *Al-Hasib wa Tiqniyat al-Ma'lumat, Grade 3 Primary, Term 1 — Continuing Education* (student book, Arabic; title as printed: الحاسب وتقنية المعلومات للصف الثالث ابتدائي — الفصل الدراسي الأول — التعليم المستمر (Computer and Information Technology, Third Primary Grade, First Term — Continuing Education)) — Saudi Arabia, Ministry of Education, Kingdom of Saudi Arabia. Printed edition 1443H/2021 (the record title says 1448H — the file behind the record is the 1443/2021 printed edition; that mismatch is carried as filed). ISBN 978-603-508-924-1. 113 PDF pages (the cataloguing page inside states 114 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Copying a file | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2.4, printed pp. 12–13 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Uganda, Afghanistan, Yemen
 | Managing files and folders (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 25 (teacher guide — evidence) |
 | Lesson 8 "Working with files in Windows Explorer" | Afghanistan, *Computer, Grade 12*, printed p. 29 |
 | "Working with files and folders" | Yemen, *Computer, Grade 10*, printed p. 59 |
+| Lesson 10: Working with files and folders — copying (Copy/Paste through the Clipboard) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 60 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Afghanistan, Yemen).**
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Afghanistan, Yemen, Saudi Arabia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -31,4 +34,6 @@ Afghanistan's own way (Grade 12): the final year turns outward — computers in 
 
 Book error, taught corrected: the student book's Practical Exercise 1.5 sends pupils to "section 1.2.8" for copying — but §1.2.8 is the moving section. Copying is §1.2.4, and this lesson teaches the copying steps under copying, here, exactly as placed. Teacher-guide slip in the keyed run, taught corrected: the guide prints "Choose past" for Choose paste (printed p. 6). Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
-Searchable tags: copy file, Ctrl+C, Paste, select multiple files, Ctrl Shift drag box, - Copy, section 1.2.4, files and folders, grade 9, information technology, ict, ethiopia, uganda, afghanistan, yemen, grade 10
+Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book for the continuing-education (adult/lifelong learning) track — every one of the 16 lessons opens with "I want to learn" objectives and closes with written exercises, and everything is taught on an older Windows desktop (Start menu, "My Computer", Recycle Bin) with Notepad as the only application, worked through step-by-step practicals in the school lab.
+
+Searchable tags: copy file, Ctrl+C, Paste, select multiple files, Ctrl Shift drag box, - Copy, section 1.2.4, files and folders, grade 9, information technology, ict, ethiopia, uganda, afghanistan, yemen, grade 10, saudi arabia, grade 3

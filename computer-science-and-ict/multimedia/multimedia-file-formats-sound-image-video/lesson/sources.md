@@ -6,13 +6,18 @@ countries: Ethiopia, Nepal
 
 **Book 2:** *Computer Science, Class 10* (student book) — Nepal, Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur. First Edition 2082 B.S. (2025 AD). No ISBN printed (blank on the imprint page). 257 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/nepal-placements.md.
 
+**Book 3:** *Al-Maharat al-Raqamiyya (Digital Skills), Second Intermediate (= Grade 8), Term 3* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الثاني المتوسط — الفصل الدراسي الثالث — دليل المعلم (Digital Skills, Second Intermediate Grade, Third Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2022), for the Ministry of Education. Edition 1444H/2022. ISBN 978-603-511-376-2. 92 PDF pages (the cataloguing page inside states 90 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a file format is; The three shelves | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 148–149 |
 | Unit 3 §3.3, Audio | Nepal, *Computer Science, Class 10*, printed p. 102 |
+| Unit 1, Lesson 1: Multimedia (kinds of media and their file formats; common video codecs and their uses; compressed and uncompressed audio files, sample rate and bit rate) (teacher guide — evidence) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 8 Term 3*, printed p. 11 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Nepal).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed.
 
-Searchable tags: file formats, WAV, MIDI, WMA, TIFF, JPEG, GIF, PNG, BMP, AVI, MPEG, Ethiopia Grade 10, nepal
+Saudi Arabia's own way (Grade 8, Digital Skills): the Binary Logic series is taught in fixed periods (33 periods this term) with the student book mirrored by this guide — unit/lesson description, learning outcomes, "important points", lesson steps, worked answers and group unit projects, with all practice files delivered through the national Ain enrichment platform (ien.edu.sa). The term is three applied units: video production in Shotcut, charts in Excel, and programming a virtual robot in VEXcode VR where pupils read their own blocks as Python. (teacher guide — evidence)
+
+Searchable tags: file formats, WAV, MIDI, WMA, TIFF, JPEG, GIF, PNG, BMP, AVI, MPEG, Ethiopia Grade 10, nepal, saudi arabia, grade 8

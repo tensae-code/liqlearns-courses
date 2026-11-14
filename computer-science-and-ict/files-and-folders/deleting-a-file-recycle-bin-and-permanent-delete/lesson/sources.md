@@ -1,6 +1,6 @@
 # Sources — Deleting a file — Recycle Bin and permanent delete
 
-countries: Ethiopia, Uganda
+countries: Ethiopia, Uganda, Saudi Arabia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Uganda
 
 **Book 6:** *Information Communication Technology Teacher's Guide — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (teacher guide) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 66 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
 
+**Book 7:** *Al-Hasib wa Tiqniyat al-Ma'lumat, Grade 3 Primary, Term 1 — Continuing Education* (student book, Arabic; title as printed: الحاسب وتقنية المعلومات للصف الثالث ابتدائي — الفصل الدراسي الأول — التعليم المستمر (Computer and Information Technology, Third Primary Grade, First Term — Continuing Education)) — Saudi Arabia, Ministry of Education, Kingdom of Saudi Arabia. Printed edition 1443H/2021 (the record title says 1448H — the file behind the record is the 1443/2021 printed edition; that mismatch is carried as filed). ISBN 978-603-508-924-1. 113 PDF pages (the cataloguing page inside states 114 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Deleting — three ways | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed pp. 21–23 |
@@ -24,11 +26,14 @@ countries: Ethiopia, Uganda
 | Verified answers (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 1 review key, printed pp. 18–21 (teacher guide — evidence) |
 | Managing the Recycle Bin | Uganda, *ICT Textbook Senior One*, printed p. 15 |
 | The Recycle Bin (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 29 (teacher guide — evidence) |
+| Lesson 10: Deleting to the Recycle Bin, restoring from it, deleting permanently and emptying the Recycle Bin | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 64 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Uganda).**
+**Acceptance count: taught in 3 countries (Ethiopia, Uganda, Saudi Arabia).**
 
 Teacher-guide slip, taught corrected: in the guide's keyed Practical Exercise 1.5 the duplicated file is set up in folder Test2, but its delete steps tell the pupil to highlight the copy in Test1 (printed p. 7). The lesson teaches the sequence in the folder the copy actually stands in. Guide confirmation used in the question files: an ordinary delete can be restored from the Recycle Bin, and copying-and-pasting is not moving (guide Unit 1 answer keys, printed pp. 17–19) (teacher guide — evidence). Question answers were checked against the teacher guide's Unit 1 answer keys (printed pp. 17–19) (teacher guide — evidence).
 
 Grade 10 growth (2026-11-12, Wave 3 band D1): grown, not duplicated, as Sub lessons 3–4. Book slip flagged: the student book prints 'flowing conditions' for following conditions on printed p. 27, inside this lesson's restoring span; the lesson teaches the corrected wording and names the slip here.
 
-Searchable tags: delete file, Recycle Bin, restore, Shift+Delete permanent delete, Delete key, caution local disk, files and folders, grade 9, information technology, ict, ethiopia, uganda
+Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book for the continuing-education (adult/lifelong learning) track — every one of the 16 lessons opens with "I want to learn" objectives and closes with written exercises, and everything is taught on an older Windows desktop (Start menu, "My Computer", Recycle Bin) with Notepad as the only application, worked through step-by-step practicals in the school lab.
+
+Searchable tags: delete file, Recycle Bin, restore, Shift+Delete permanent delete, Delete key, caution local disk, files and folders, grade 9, information technology, ict, ethiopia, uganda, saudi arabia, grade 3

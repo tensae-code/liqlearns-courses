@@ -10,12 +10,15 @@ countries: Ethiopia, Cambodia, North Macedonia
 
 **Book 4:** *Информатика за I (прва) година гимназиско образование (Informatics for the First Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-420/3 of 07.04.2026); ISBN 978-608-4777-46-5. 263 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 5:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — hierarchical tree, root directory, subdirectory, parent and child, related files together | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 9–10 |
 | Pathname definition key (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Activity 1.4 key, printed pp. 7–8 (teacher guide — evidence) |
 | Chapter 1 Lesson 2 Session 3, File Systems and File Management | Cambodia, *ICT, Grade 10*, printed p. 27 |
 | "Using Folders and Files in a Hierarchical Structure" | North Macedonia, *Informatics, Year 1*, Тема 1 §1.8, printed p. 40 |
+| Unit 1, Lesson 2: Main folders and subfolders (building folder trees — "Continents of the World", "Animals" with Birds/Fish/Mammals inside Documents) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 29 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Cambodia, North Macedonia).**
 
@@ -23,4 +26,6 @@ No book error touches this lesson's pages. The teacher guide's Activity 1.4 key 
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
-Searchable tags: directory structure, root directory, subdirectory, parent folder, child folder, hierarchy, files and folders, grade 10, information technology, ict, ethiopia, cambodia, north macedonia, grade 10
+Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
+
+Searchable tags: directory structure, root directory, subdirectory, parent folder, child folder, hierarchy, files and folders, grade 10, information technology, ict, ethiopia, cambodia, north macedonia, grade 10, saudi arabia, grade 4

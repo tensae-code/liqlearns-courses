@@ -867,3 +867,25 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Safety, Security and Care** (ICT expansion, from Mauritania — teacher-guide evidence): Reliable Sources and Dangers of the Web
 
 **Programming** (ICT expansion, from Mauritania — teacher-guide evidence): Testing an Algorithm · Reading an Algorithm and Saying What It Does
+
+**Computers in Society** (ICT expansion, from Saudi Arabia): Computers in Everyday Life — Education, Health, Banks and Services
+
+**Hardware** (ICT expansion, from Saudi Arabia): The Connection Ports on a Computer
+
+**Software** (ICT expansion, from Saudi Arabia): The Desktop, Taskbar and Start Menu · The Parts of a Window
+
+**Software** (ICT expansion, from Saudi Arabia — teacher-guide evidence, PARTIAL): Changing the Desktop Background, Sounds and Volume
+
+**Multimedia** (ICT expansion, from Saudi Arabia — teacher-guide evidence): Compressing a Video File — and What It Costs in Quality · Importing Photos and Videos from a Camera or Phone to the Computer · Making a Film on the Shotcut Timeline · Editing Pictures with Filters — White Balance, Colour Grading and Sepia · Adding Sound to a Video and Exporting the Film · Project — Produce a Short Film in a Group
+
+**Multimedia** (ICT expansion, from Saudi Arabia — teacher-guide evidence, PARTIAL): Adding a Sound to a Scratch Script
+
+**Spreadsheets** (ICT expansion, from Saudi Arabia — teacher-guide evidence): Sparklines — a Tiny Chart Inside One Cell · Conditional Formatting — Colouring Cells by Their Values · Quick Analysis and Recommended Charts in Excel · Resizing a Chart and Adding Another Data Series · SmartArt Graphics in a Worksheet · Project — a Worksheet That Presents Data with Charts
+
+**Programming** (ICT expansion, from Saudi Arabia — teacher-guide evidence): Controlling a Virtual Robot's Movement with Variables · Arithmetic Operations and Assigning Results to Variables · Four Loop Kinds — Repeat, Repeat Until, Forever and While · Reading Your Blocks as Python in the Code Viewer · My Blocks — Making Your Own Block · Adding a Number Input Parameter to Your Own Block · Project — Program a Flower Garden with My Blocks
+
+**Programming** (ICT expansion, from Saudi Arabia — teacher-guide evidence, PARTIAL): Changing the Stage Backdrop in Scratch · Naming and Saving a Scratch Project · Block Categories and Snapping Blocks Together · Turning a Sprite by Degrees
+
+**Files and Folders** (ICT expansion, from Saudi Arabia — teacher-guide evidence, PARTIAL): Project — Class Folders and a Paint Drawing of a Computer Part
+
+**Word Processing** (ICT expansion, from Saudi Arabia — teacher-guide evidence, PARTIAL): Switching the Keyboard Language — Arabic and English · Deleting with Backspace and Delete — Before and After the Caret · Selecting Text and Moving Through It with Arrow Keys · Capital Letters — Shift and Caps Lock — and Typing the Hamza · Highlighting Text, Finding a Word, Undo and Zoom · Shading a Paragraph and Putting a Border Around It · Project — Write and Format an Article About Our City

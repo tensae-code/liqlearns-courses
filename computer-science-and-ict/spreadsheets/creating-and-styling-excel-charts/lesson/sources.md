@@ -20,6 +20,8 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia
 
 **Book 9:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
+**Book 10:** *Al-Maharat al-Raqamiyya (Digital Skills), Second Intermediate (= Grade 8), Term 3* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الثاني المتوسط — الفصل الدراسي الثالث — دليل المعلم (Digital Skills, Second Intermediate Grade, Third Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2022), for the Ministry of Education. Edition 1444H/2022. ISBN 978-603-511-376-2. 92 PDF pages (the cataloguing page inside states 90 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — charts display data visually; the eight types named; creation in order: select source cells including titles and labels, Insert → Chart, choose type or Recommended Charts, chart appears | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 113–115 |
@@ -34,6 +36,7 @@ countries: Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia
 | "Charts" | Yemen, *Computer, Grade 11*, printed p. 70 |
 | "Advanced Work with Charts" | North Macedonia, *Informatics, Year 1*, Тема 5 §5.3, printed p. 238 |
 | Unit 3 Lesson 19 Graphical representation of data (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 47 (teacher guide — evidence) |
+| Unit 2, Lesson 1: Advanced charts (what a chart is; column/bar, line, pie and scatter charts and their uses; creating and formatting a chart in Excel, chart title and layout, shape fill and styles, WordArt styles, reversing the axis) (teacher guide — evidence) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 8 Term 3*, printed p. 42 (teacher guide — evidence) |
 
 **Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Nepal, China, Belarus, Yemen, North Macedonia).**
 
@@ -45,4 +48,6 @@ North Macedonia's own way (Year 1): five themes move from modern digital technol
 
 Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
 
-Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8
+Saudi Arabia's own way (Grade 8, Digital Skills): the Binary Logic series is taught in fixed periods (33 periods this term) with the student book mirrored by this guide — unit/lesson description, learning outcomes, "important points", lesson steps, worked answers and group unit projects, with all practice files delivered through the national Ain enrichment platform (ien.edu.sa). The term is three applied units: video production in Shotcut, charts in Excel, and programming a virtual robot in VEXcode VR where pupils read their own blocks as Python. (teacher guide — evidence)
+
+Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, saudi arabia, grade 8
