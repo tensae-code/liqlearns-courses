@@ -811,3 +811,17 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Multimedia** (ICT expansion, from Belarus): Preparing Images for the Web
 
 **Databases** (ICT expansion, from Belarus): Data Entry Forms in Access · Reports from a Database in Access
+
+**Software** (ICT expansion, from Afghanistan): Getting Started with Windows XP · Working with the Start Menu · Adding a Keyboard Language · Keyboard Settings and Layouts · Adjusting Sound and Multimedia Settings · The Control Panel and Its Settings · Using the Help Command
+
+**Word Processing** (ICT expansion, from Afghanistan): Writing in WordPad · The Word Toolbars · The File Menu — New, Open, Save, Print · Finding Text with Search in Word · The Edit Menu · The Insert Menu · Borders and Shading for Text
+
+**Spreadsheets** (ICT expansion, from Afghanistan): Workbook Sheets and the Sheet Tab Bar
+
+**Presentations** (ICT expansion, from Afghanistan): Speaker Notes Under the Slide
+
+**Internet and the Web** (ICT expansion, from Afghanistan): How to Get Connected to the Internet · Attaching Files to an Email
+
+**Safety, Security and Care** (ICT expansion, from Afghanistan): Exercises to Relieve Computer Strain
+
+**Computers in Society** (ICT expansion, from Afghanistan): Computers in Shops and Supermarkets · Interactive Programs — a Dialogue with the Computer · Computers in Military Systems

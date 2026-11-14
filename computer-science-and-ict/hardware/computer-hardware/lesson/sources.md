@@ -1,6 +1,6 @@
 # Sources — Computer hardware — the part you can touch
 
-countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda
+countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Moza
 
 **Book 8:** *Information Communication Technology Textbook — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (student book) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 52 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
 
+**Book 9:** *کمپیوتر — صنف دهم (Computer, Grade 10)* (student book, Dari) — Afghanistan, Ministry of Education (وزارت معارف), Kabul. 1398 HS (2019–20). No ISBN printed. 118 PDF pages. Verdict: COMPLETE. Covers verified visually; contents pages read from page renders (the Dari text layer garbles the contents font); body spot-read from renders and the partial text layer. Recovered from GitHub release mid-size-books-7 (already secured in GitHub); downloaded byte size matches the release asset exactly (16,594,289 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/afghanistan-placements.md.
+
+**Book 10:** *کمپیوتر — صنف یازدهم (Computer, Grade 11)* (student book, Dari) — Afghanistan, Ministry of Education (وزارت معارف), Kabul. 1398 HS (2019–20). No ISBN printed. 126 PDF pages. Verdict: COMPLETE. Covers verified visually; contents pages read from page renders (the Dari text layer garbles the contents font); body spot-read from renders and the partial text layer. Recovered from GitHub release mid-size-books-7 (already secured in GitHub); downloaded byte size matches the release asset exactly (13,035,291 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware — the part you can touch | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 15–16 |
@@ -29,9 +33,15 @@ countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Moza
 | Unit 4 Kompüter, Lesson 17 "Kompüter və onun hissələri" (The computer and its parts) | Azerbaijan, *İnformatika 2*, printed p. 44 |
 | Lição 5, Conceito de Dispositivos Computacionais | Mozambique, *Módulo de TIC, PESD I*, printed p. 33 |
 | Chapter 2 Computer Hardware and System Start up: parts of a computer, categories of hardware | Uganda, *ICT Textbook Senior One*, printed p. 9 |
+| Lesson 5 "Computer hardware" | Afghanistan, *Computer, Grade 10*, printed p. 17 |
+| Lesson 5 "The components that make up a personal computer (PC)" | Afghanistan, *Computer, Grade 11*, printed p. 21 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda).**
+**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan).**
+
+Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
+
+Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
 No book error touches this lesson's content.
 
-Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda
+Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan

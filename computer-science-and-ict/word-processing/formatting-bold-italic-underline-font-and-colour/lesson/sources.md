@@ -1,6 +1,6 @@
 # Sources — Formatting — bold, italic, underline, font and colour
 
-countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda
+countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -16,6 +16,10 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda
 
 **Book 7:** *Information Communication Technology Teacher's Guide — Senior One* (NCDC Prototype, Lower Secondary Curriculum) (teacher guide) — Uganda, National Curriculum Development Centre (NCDC), Kampala, 2020 (prototype). Grade 8 (Senior One). No ISBN printed. 66 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uganda-placements.md.
 
+**Book 8:** *کمپیوتر — صنف دهم (Computer, Grade 10)* (student book, Dari) — Afghanistan, Ministry of Education (وزارت معارف), Kabul. 1398 HS (2019–20). No ISBN printed. 118 PDF pages. Verdict: COMPLETE. Covers verified visually; contents pages read from page renders (the Dari text layer garbles the contents font); body spot-read from renders and the partial text layer. Recovered from GitHub release mid-size-books-7 (already secured in GitHub); downloaded byte size matches the release asset exactly (16,594,289 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/afghanistan-placements.md.
+
+**Book 9:** *کمپیوتر — صنف یازدهم (Computer, Grade 11)* (student book, Dari) — Afghanistan, Ministry of Education (وزارت معارف), Kabul. 1398 HS (2019–20). No ISBN printed. 126 PDF pages. Verdict: COMPLETE. Covers verified visually; contents pages read from page renders (the Dari text layer garbles the contents font); body spot-read from renders and the partial text layer. Recovered from GitHub release mid-size-books-7 (already secured in GitHub); downloaded byte size matches the release asset exactly (13,035,291 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/afghanistan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — bold (darker and heavier, designed heavier), italic (slopes evenly to the right), underline (a line under the words) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 50–51 |
@@ -28,9 +32,15 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda
 | Lesson 22 "Mətnin formatlanması" (Formatting text) | Azerbaijan, *İnformatika 2*, printed p. 55 |
 | Character formatting; bolding, italicizing and underlining; line spacing | Uganda, *ICT Textbook Senior One*, printed p. 26 |
 | Character formatting and changing the font (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 42 (teacher guide — evidence) |
+| Lesson 26 "The Format menu" | Afghanistan, *Computer, Grade 10*, printed p. 89 |
+| Chapter 5, Lesson 13 "Using the Format menu in the Word program" | Afghanistan, *Computer, Grade 11*, printed p. 56 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda).**
+**Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan).**
+
+Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
+
+Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
 The model paragraph in Sub lesson 3 is teacher-guide evidence, filed as the activity's model text: its facts (including its counts of 53 international destinations, 157 weekly international departures from Addis Ababa and 410 weekly international departures worldwide, as printed in the guide) are the guide's 2022-era figures, taught as the model for the writing activity — not as a current-facts source. The lesson's paragraph uses the model's founding and operating facts, which the guide prints alongside those figures.
 
-Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda
+Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda, afghanistan

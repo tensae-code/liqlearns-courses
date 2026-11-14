@@ -1,10 +1,12 @@
 # Sources — The Word window — naming its parts
 
-countries: Ethiopia, Cambodia
+countries: Ethiopia, Cambodia, Afghanistan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
 **Book 4:** *Information and Communication Technology, Grade 10* (student book, Khmer; Khmer title បច្ចេកវិទ្យាព័ត៌មាន និងសារគមនាគមន៍ ថ្នាក់ទី ១០) — Cambodia, Ministry of Education, Youth and Sport (MoEYS), approved by proclamation dated 31 July 2023; first printing 2023, 10,000 copies, under the China-aid ICT-for-education project (editors in chief Huang Ronghuai, Wu Zhenfeng); no ISBN printed. 200 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cambodia-placements.md.
+
+**Book 5:** *کمپیوتر — صنف دهم (Computer, Grade 10)* (student book, Dari) — Afghanistan, Ministry of Education (وزارت معارف), Kabul. 1398 HS (2019–20). No ISBN printed. 118 PDF pages. Verdict: COMPLETE. Covers verified visually; contents pages read from page renders (the Dari text layer garbles the contents font); body spot-read from renders and the partial text layer. Recovered from GitHub release mid-size-books-7 (already secured in GitHub); downloaded byte size matches the release asset exactly (16,594,289 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/afghanistan-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,7 +21,10 @@ countries: Ethiopia, Cambodia
 
 | Sub lesson 4 — the Word window in ten elements: Title Bar (document name, program name, Minimize/Restore/Close), Quick Access Toolbar (Save, Undo, Redo by default; pull-down adds more), File Tab (New, Open, Save As, Print, Close), Ribbon (compresses on smaller monitors), Edit Window, Scroll Bar, Status Bar, Zoom Slide Control, Insertion Point/Cursor, I-beam Pointer | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 75-76 |
 | Unit 3 answer key used as the verified-answer check for this lesson's Grade 9 questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3 answers, printed pp. 56-58 |
+| Lesson 15 "The important parts of the Word window" | Afghanistan, *Computer, Grade 10*, printed p. 53 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Cambodia).**
+**Acceptance count: taught in 3 countries (Ethiopia, Cambodia, Afghanistan).**
 
-Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia
+Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
+
+Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan
