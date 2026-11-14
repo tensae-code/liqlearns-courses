@@ -423,6 +423,9 @@ solar-system comparison lessons.
 26. **The skeleton — frame, joints and fractures** (`the-human-body/the-skeleton-frame-joints-and-fractures`) — the skeleton is one frame in two parts — axial (centre) and appendicular (limbs) — joined by joints with ligaments and cartilage; bones break in named ways and mend (Grade 8 General Science)
 27. **Reproduction, puberty and staying safe** (`the-human-body/reproduction-puberty-and-staying-safe`) — puberty brings primary and secondary characteristics (girls about 11–13, boys about 14–16 as printed); the male and female organs do the work of reproduction, and staying safe is part of the teaching (Grade 8 General Science)
 
+28. **What psychology is** (`the-human-body/what-psychology-is`) — what is psychology? — the study of the mind and of behaviour, opening the Step-up chapter that steps up from the body to the person (Australia, Grade 9 — *Pearson Science 9*, 11.1, printed p. 432)
+29. **The social self** (`the-human-body/the-social-self`) — the self as it exists among other people, formed, shown and changed in our relations with others — the closing section of the Step-up chapter (Australia, Grade 9 — *Pearson Science 9*, 11.3, printed p. 451)
+
 ## Unit 4 — Materials
 
 1. **Chemical change: burning and gas-making** (`materials/chemical-change-burning-and-gas-making`) — a chemical change makes a new body — proved by the book's Experiment 2 (paper burned to ash) and Experiment 3 (lemon and yeast filling a balloon wi…
@@ -502,6 +505,9 @@ solar-system comparison lessons.
 12. **Refraction — why the spoon looks broken** (`light/refraction-why-the-spoon-looks-broken`) — when light crosses obliquely into a different transparent medium its direction changes at the boundary — bending towards the normal going in, away coming out (Grade 8 General Science)
 13. **Dispersion — splitting and remixing white light** (`light/dispersion-splitting-and-remixing-white-light`) — white light is a mixture of seven colours — violet, indigo, blue, green, yellow, orange, red — split by a prism because each colour bends differently, and remixed by Newton's disc (Grade 8 General Science)
 14. **Diffraction gratings — grooved surfaces splitting light by wavelength** (`light/diffraction-gratings-grooved-surfaces-splitting-light-by-wavelength`) — a surface of fine, even grooves — a CD is one — returns a copy of the wave from every groove, and each wavelength reinforces at its own angle, fanning white light into a spectrum ordered purely by wavelength (Finland, Grade 7 pupil practical — Oppilastyö: Valon aaltoluonne)
+
+15. **Waves and how they carry energy** (`light/waves-and-how-they-carry-energy`) — a wave is a travelling disturbance, and what travels in it is energy, not the material — Australia's step back: waves named after meeting heat, sound and light (Australia, Grade 9 — *Pearson Science 9*, 5.1, printed p. 179)
+16. **Low- and high-frequency radiation around us** (`light/low-and-high-frequency-radiation-around-us`) — radiation sorted by frequency alone into its two families: low-frequency radiation, the long gentle waves of signals and warmth, and high-frequency radiation, the short waves that carry more energy (Australia, Grade 9 — *Pearson Science 9*, 5.3–5.4, printed p. 198)
 
 ## Unit 6 — Weather and Seasons
 
@@ -670,6 +676,8 @@ solar-system comparison lessons.
 21. **Staying safe online** (`keeping-healthy/staying-safe-online`) — my online safety (Çevrim İçi Güvenliğim): not sharing personal information, strong passwords kept secret, chatting only with people you know, and what counts as violating someone's personal space online (Turkey, Grade 2 — *Hayat Bilgisi 2. Sınıf, 1. Kitap (Life Studies, Grade 2, Book 1)*, printed p. 54)
 22. **Health and wellbeing — what it means** (`keeping-healthy/health-and-wellbeing-what-it-means`) — Oraanga e Pitoenua: health and wellbeing — what it means, how opinions about it differ, and asking the community about it (Cook Islands, Grade 8 — *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition*, printed p. 10)
 23. **My first 1000 days** (`keeping-healthy/my-first-1000-days`) — Toku Tai Tauatinianga Ra Mua: how the first 1000 days shape later health, told through Professor Barker's discovery — the Hertfordshire birth records, the surprise finding, and the questions scientists still work on (Cook Islands, Grade 8 — *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition*, printed p. 60)
+
+24. **Environmental diseases and where they come from** (`keeping-healthy/environmental-diseases-and-where-they-come-from`) — diseases whose cause lies in the surroundings themselves — the air, the water, the substances and conditions people live among — sorted from infectious diseases by where they come from (Australia, Grade 9 — *Pearson Science 9*, 8.3, printed p. 328)
 
 ## Unit 15 — Science Skills
 
@@ -2521,6 +2529,9 @@ solar-system comparison lessons.
 46. **Weathering, erosion and landforms** (`earth-and-space/weathering-erosion-and-landforms`) — the distribution and shaping of relief: internal factors that generate relief, continental and ocean relief forms, and external factors that model relief (Mexico, Grade 7 — *Ética, naturaleza y sociedades, Primer grado de secundaria*, printed pp. 54–61)
 47. **Earthquakes and living with seismic risk** (`earth-and-space/earthquakes-and-living-with-seismic-risk`) — earthquakes in Mexico: tectonic plate activity; the 19 September 1985 and 2017 earthquakes; and the Colegio Rébsamen tragedy as a safety lesson — seismic risk taught through Mexico's own earthquakes (Mexico, Grade 7 — *Ética, naturaleza y sociedades, Primer grado de secundaria*, printed pp. 136–150)
 48. **Geological time and dating the Earth** (`earth-and-space/geological-time-and-dating-the-earth`) — human fossil remains in Mexican territory: the evidence; the "Man of Tepexpan" controversy; and Naia, a woman of Mexican prehistory (Mexico, Grade 7 — *Ética, naturaleza y sociedades, Primer grado de secundaria*, printed pp. 284–291)
+
+49. **Moving continents and continental drift** (`earth-and-space/moving-continents-and-continental-drift`) — the continents move: continental drift, their slow travel from earlier positions, taught as the observation before the plate mechanism (Australia, Grade 9 — *Pearson Science 9*, 10.1, printed p. 392)
+50. **Volcanoes and earthquakes** (`earth-and-space/volcanoes-and-earthquakes`) — the two sudden surface events of the Earth's slow movement below: volcanoes, where melted rock erupts, and earthquakes, where stuck ground lets go (Australia, Grade 9 — *Pearson Science 9*, 10.3, printed p. 414)
 
 ## Unit 20 — Motion, Force and Energy
 

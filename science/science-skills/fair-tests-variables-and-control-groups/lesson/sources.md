@@ -1,6 +1,6 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only)
+countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -16,12 +16,15 @@ countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, 
 
 **Book 7:** *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition* (student book) — Cook Islands, Jacquie Bay and Delaney Yaqona; © University of Auckland, Cook Islands Ministry of Health and Cook Islands Ministry of Education, 2015; published for the Liggins Institute by Read Pacific Publishing Ltd, Auckland; ISBN 978-0-9941267-7-1. As printed: *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition, Student Book, Cook Islands Edition*. Filed as Grade 8, student book, in Cook Islands Māori and English. Record: TSV release record (EPUB asset). Fetched copy: 59,156,535 bytes, EPUB with 102 pages (printed pp. i–96). Verdict: COMPLETE — read in full from the EPUB's text (every page's content checked against the printed contents and unit map). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cook-islands-placements.md.
 
+**Book 8:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The three variables | Ethiopia, *General Science Student Textbook, Grade 8*, printed pp. 6–8 |
 | Sub lesson 2 — One change, and the control group | Ethiopia, *General Science Student Textbook, Grade 8*, printed pp. 8–9, 12–14 |
 | Ch. 3 Acquiring Experimental Skills — practical assessment criteria M/M, P/D, A/I | Barbados, *Physics for CSEC Examinations, 3rd Edition*, Ch. 3 Acquiring Experimental Skills, printed p. 26 |
 | Bab 3 Dinamika (Indonesia, Grade 11 teacher guide — evidence) | Indonesia, *Buku Panduan Guru Fisika untuk SMA/MA Kelas XI*, Bab 3 Dinamika — printed p. 81 — the ΣF vs a investigation is run as a controlled fair test |
+| Planning investigations (1.1) — planning an investigation before carrying it out, Australia's Grade 9 opening skill (Australia, Grade 9) | Australia, *Pearson Science 9*, 1.1 Planning investigations — printed p. 2 |
 
 | Ch 2: the scientific method inside the measurements chapter (Uganda, Senior One) | Uganda, *Physics Textbook — Senior One (NCDC Prototype)*, Ch 2 Measurements in Physics — printed p. 28 |
 | Working like a Scientist 3: planning and designing fair tests to solve problems (curriculum-guide evidence) (Jamaica, Grade 9) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Working like a Scientist 3 — printed p. 163 |
@@ -29,7 +32,7 @@ countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, 
 
 | Step 3, Decide on Variables, and Step 5, Collect Your Data: planning fair data collection for the class health study (Cook Islands, Grade 8) | Cook Islands, *Ko Au e Toku Aorangi: Kai No te Oraanga Meitaki — Me, Myself, My Environment: Nutrition*, printed p. 18 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Barbados, Uganda, Cook Islands).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
+**Acceptance count: taught in 5 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia).** Indonesia is named as teacher-guide evidence only (*Buku Panduan Guru Fisika untuk SMA/MA Kelas XI* — teacher guide), not added to this count.
 
 Timor-Leste is named as teacher-guide evidence only (*Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* — teacher guide), not added to this count.
 
@@ -39,4 +42,4 @@ Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-sy
 
 Student placement: Grade 8 student item 4 (Unit 1 §1.3, printed pp. 12–14), with the variable definitions it stands on at printed pp. 6–8 inside student item 2's section — both ranges are the student book's own Unit 1, cited as printed. The fertiliser-and-bean framing is the student book's own fair-test activity. No book errors inside this item were flagged by the placements.
 
-Searchable tags: fair test, independent variable, dependent variable, controlled variables, control group, constants, Grade 8 Unit 1, uganda, jamaica, jamaica nsc integrated science, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun, cook islands, cook islands grade 8, ko au e toku aorangi
+Searchable tags: fair test, independent variable, dependent variable, controlled variables, control group, constants, Grade 8 Unit 1, uganda, jamaica, jamaica nsc integrated science, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun, cook islands, cook islands grade 8, ko au e toku aorangi, australia, pearson science 9

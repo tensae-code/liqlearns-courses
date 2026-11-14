@@ -1,6 +1,6 @@
 # Sources — Doing science honestly — ethics and Ethiopian scientists
 
-countries: Ethiopia, Laos (teacher-guide evidence only)
+countries: Ethiopia, Laos (teacher-guide evidence only), Australia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Laos (teacher-guide evidence only)
 
 **Book 6:** *ຄູ່ມືຄູ ຟີຊິກສາດ ຊັ້ນມັດທະຍົມສຶກສາປີທີ 7 (Teacher's Guide, Physics, Secondary Year 7)* (teacher guide — evidence) — Laos, MoES/RIES, 2016 (cover read from the secured file itself; same cover art as the student book). Grade: 12 · Teacher guide · Record: 3,199,016 bytes, 257 pages · Repo path: grade-12/gov/laos/physics/teacher/laos-g12-physics-teacher.pdf · Route used (retry): pusher-token GitHub Contents API raw download — byte size EXACT match to the record (3,199,016 bytes), pdfinfo 257 pages. Offset: guide printed pagination (general introduction p. 1; lessons pp. 10–242; answers section p. 247, running to the file's end at 257). Verdict: COMPLETE — cover, full TOC (the same 10 parts / 30 lessons as the student book, in the guide's own pagination) and the general introduction read; the guide's content overview names the year's strands in English inside the Lao text (Doppler effect, scattering of light, Quantum Mechanics). Cited as teacher-guide evidence only, not added to the acceptance count. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/laos-placements.md.
 
+**Book 7:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The five disciplines | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 9–10 |
@@ -22,8 +24,11 @@ countries: Ethiopia, Laos (teacher-guide evidence only)
 | Sub lesson 3 — Grade 8 growth — investigations on people and animals | Ethiopia, *General Science Student Textbook, Grade 8*, printed pp. 8–9 |
 | General introduction — the guide's stated route to knowledge: observation, survey, experiment, discussion, demonstration and gathering data from other sources (teacher guide — evidence) (Laos, Grade 11) | Laos, *ຄູ່ມືຄູ ຟີຊິກສາດ ມ.6 (Physics Grade 11 Teacher Guide)*, General introduction — general introduction |
 | General introduction, teaching-methods section — the guide's stated routes to knowledge (observation, experiment, discussion, demonstration), as in the ມ.6 guide (teacher guide — evidence) (Laos, Grade 12) | Laos, *ຄູ່ມືຄູ ຟີຊິກສາດ ມ.7 (Physics Grade 12 Teacher Guide)*, General introduction, teaching-methods section — guide printed pp. 1–5 |
+| The ethics of investigation inside 1.2 — animal and human ethics in experiments (Australia, Grade 9) — placement filed as NEW LESSON NEEDED — science-skills/doing-science-honestly-and-ethically; stocked into this lesson, which already covers the ethics of investigation, original slug recorded here | Australia, *Pearson Science 9*, 1.2 Risks, working safely and ethics (the ethics-of-investigation strand) — printed p. 9 |
 
-**Acceptance count: taught in 1 country (Ethiopia).** Laos is named as teacher-guide evidence only (*ຄູ່ມືຄູ ຟີຊິກສາດ ມ.6 (Physics Grade 11 Teacher Guide)* and *ຄູ່ມືຄູ ຟີຊິກສາດ ມ.7 (Physics Grade 12 Teacher Guide)* — teacher guides), not added to this count.
+**Acceptance count: taught in 2 countries (Ethiopia, Australia).** Laos is named as teacher-guide evidence only (*ຄູ່ມືຄູ ຟີຊິກສາດ ມ.6 (Physics Grade 11 Teacher Guide)* and *ຄູ່ມືຄູ ຟີຊິກສາດ ມ.7 (Physics Grade 12 Teacher Guide)* — teacher guides), not added to this count.
+
+Australia placement note: the Australia placement was filed as "NEW LESSON NEEDED — science-skills/doing-science-honestly-and-ethically" (australia-placements.md, printed p. 9). It is stocked into this existing lesson instead of a new one, because this lesson already covers the ethics of investigation — honesty in science, research ethics, and investigations on people and animals — as its own thing; the original proposed slug is recorded in the provenance row above.
 
 Pairing note (carried exactly): the Grade 7 teacher guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.) — same syllabus and unit order, but its activity/exercise numbering differs. Guide material is filed as syllabus-level teacher evidence, never as a page-key to the student book.
 
@@ -31,4 +36,4 @@ Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-sy
 
 Growth (2026-11-12, Band GS-H): Grade 8 student item 5 (ethics of investigation, printed pp. 8–9 — end of §1.1; the page range was corrected on the completed re-read, the ethics passage itself sitting at pp. 8–9) grows this lesson at greater depth as Sub lesson 3 — the same ethics, raised from the Grade 7 five disciplines to subject work: honesty, transparency, objectivity, safety, no harm, and mice as model animals. The earlier Grade 7 parts above are unchanged. No Grade 8 guide material is used in this lesson.
 
-Searchable tags: scientific ethics, honesty, credit, unbiased, transparency, objectivity, safety, no harm, model animals mice, Kitaw Ejigu, Sossina Haile, Gebisa Ejeta, Rediet Abebe, Aklilu Lemma, Alemtsehay Mekonnen, Ethiopian scientists, Grade 7 Unit 1, Grade 8 Unit 1, laos
+Searchable tags: scientific ethics, honesty, credit, unbiased, transparency, objectivity, safety, no harm, model animals mice, Kitaw Ejigu, Sossina Haile, Gebisa Ejeta, Rediet Abebe, Aklilu Lemma, Alemtsehay Mekonnen, Ethiopian scientists, Grade 7 Unit 1, Grade 8 Unit 1, laos, australia, pearson science 9

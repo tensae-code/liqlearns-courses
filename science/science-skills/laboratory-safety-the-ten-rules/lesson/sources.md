@@ -1,6 +1,6 @@
 # Sources — Laboratory safety — the ten rules
 
-countries: Ethiopia, Moldova, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only)
+countries: Ethiopia, Moldova, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -10,15 +10,18 @@ countries: Ethiopia, Moldova, Jamaica (curriculum-guide evidence only), Trinidad
 **Book 3:** *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* (curriculum guide) — Jamaica, Ministry of Education, Youth and Information, Jamaica, 2018 (record dated Jan 2020). Title as printed: National Standards Curriculum Guide, Grades 7–9, Integrated Science. Publisher: Ministry of Education, Youth and Information, Jamaica, 2018. Grades: 7–9 · Kind as verified: curriculum guide (national standards curriculum guide — cited as the guide evidence it is, outside the acceptance count) · Repo path: grade-07/gov/jamaica/curriculum/grades-7-9-integrated-science.pdf · Byte size: 6,142,276 (on-disk staging copy, matching the books.json size_bytes) · PDF pages: 283 · Verdict: COMPLETE. Records: 2 (TSV release record + books.json record) = 1 distinct book — both records are the same file, cited ONCE here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jamaica-placements.md.
 **Book 4:** *Secondary School Curriculum — Integrated Science, Forms One–Three* (curriculum guide) — Trinidad and Tobago, Ministry of Education, Curriculum Development Division, published 2014, Rudranath Capildeo Learning Resource Centre, Couva. Title as printed: *Secondary School Curriculum — Integrated Science, Forms One–Three*. Grades: Forms 1–3 (filed as Grade 8 / Forms 1–3) · Kind as verified: curriculum / teacher guide (NCSE Integrated Science Curriculum Guide — cited as the guide evidence it is, outside the acceptance count) · Repo path: grade-08/gov/trinidad-tobago/integrated-science/teacher/forms-1-3-curriculum-guide.pdf · Byte size: 1,804,607 · PDF pages: 118 · Verdict: COMPLETE — full text layer; read in full (framework, learning outcomes and the Form 1–3 content scopes, printed pp. 38–108; printed contents on PDF p. 3; topic framework on printed p. 33). Records: 1 = 1 distinct book — cited ONCE here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/trinidad-and-tobago-placements.md.
 
+**Book 5:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The ten rules (incl. the floor-plan task and the three accident roots) | Ethiopia, *General Science Student Textbook, Grade 7*, printed pp. 20–21 |
 | Front matter: conduct and safety norms for work in the physics laboratory — Moldova puts the lab rules inside the pupil's own book (Moldova, Grade 6) | Moldova, *Fizică: Manual pentru clasa a 6-a (Physics: Textbook for Grade 6)*, Front matter: conduct and safety norms for work in the physics laboratory — Moldova puts the lab rules inside the pupil's own book — printed p. 4 |
 | Safety practices in scientific work (curriculum-guide evidence) (Jamaica, Grade 7) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Working like a Scientist — printed p. 4 |
+| Risks, working safely and ethics (1.2) — the risks in practical work, and working safely (Australia, Grade 9) | Australia, *Pearson Science 9*, 1.2 Risks, working safely and ethics — printed p. 9 |
 
 | Safety in Science — the guide's own safety topic, before any practical work (curriculum-guide evidence) (Trinidad and Tobago, Form 1) | Trinidad and Tobago, *Secondary School Curriculum — Integrated Science, Forms One–Three*, Safety in Science (framework, printed p. 33; Form 1 content from printed p. 38) — printed p. 33 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Moldova).**
+**Acceptance count: taught in 3 countries (Ethiopia, Moldova, Australia).**
 
 Trinidad and Tobago is named as curriculum-guide evidence only (*Secondary School Curriculum — Integrated Science, Forms One–Three* — curriculum guide), not added to this count.
 
@@ -26,4 +29,4 @@ Jamaica is named as curriculum-guide evidence only (*National Standards Curricul
 
 Pairing note (carried exactly): the Grade 7 teacher guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.) — same syllabus and unit order, but its activity/exercise numbering differs. Guide material is filed as syllabus-level teacher evidence, never as a page-key to the student book.
 
-Searchable tags: laboratory safety, ten rules, hazardous poisonous flammable explosive, acid rule, eye splash, accident report, Grade 7 Unit 1, jamaica, jamaica nsc integrated science, trinidad and tobago, trinidad and tobago ncse integrated science
+Searchable tags: laboratory safety, ten rules, hazardous poisonous flammable explosive, acid rule, eye splash, accident report, Grade 7 Unit 1, jamaica, jamaica nsc integrated science, trinidad and tobago, trinidad and tobago ncse integrated science, australia, pearson science 9

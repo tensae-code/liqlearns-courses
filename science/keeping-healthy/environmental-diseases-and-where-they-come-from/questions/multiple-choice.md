@@ -1,0 +1,23 @@
+# Environmental diseases and where they come from — multiple choice
+
+Pick the one right answer.
+
+**1.** (Sub lesson 1) This sub lesson is mainly about…
+a) Environmental diseases — sickness from our surroundings  b) A topic from a different lesson  c) Nothing in this lesson  d) Only the questions page
+**Answer: a) Environmental diseases — sickness from our surroundings**
+
+**2.** (Sub lesson 2) This sub lesson is mainly about…
+a) Where they come from — the surroundings as the source  b) A topic from a different lesson  c) Nothing in this lesson  d) Only the questions page
+**Answer: a) Where they come from — the surroundings as the source**
+
+**3.** (Sub lesson 3) This sub lesson is mainly about…
+a) Why the sorting decides the answer  b) A topic from a different lesson  c) Nothing in this lesson  d) Only the questions page
+**Answer: a) Why the sorting decides the answer**
+
+**4.** (Whole lesson) This lesson teaches one thing: environmental diseases and where they come from. That is…
+a) True, in the sub lessons' own order  b) False  c) Only in the video  d) Not in the book cited
+**Answer: a) True, in the sub lessons' own order**
+
+**5.** (Whole lesson) The book behind this lesson is…
+a) *Pearson Science 9* (Australia, Grade 9)  b) A book from another country  c) No book — it is uncited  d) A teacher guide only
+**Answer: a) *Pearson Science 9* (Australia, Grade 9)**

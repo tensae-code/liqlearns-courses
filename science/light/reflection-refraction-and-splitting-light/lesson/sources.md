@@ -1,6 +1,6 @@
 # Sources — Reflection, refraction and splitting light
 
-countries: Ethiopia, Iran, China, Cuba
+countries: Ethiopia, Iran, China, Cuba, Australia
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -14,6 +14,8 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 
 **Book 16:** *Física — noveno grado* (student textbook) — Cuba, © 2025, Ministerio de Educación, Cuba; Editorial Pueblo y Educación; ISBN 978-959-13-5080-0 (digital). Third Perfeccionamiento series. NOTE: this 2025 student book is two programme-generations ahead of the 2011–2012 Grade 9 programme in this set. Grade: 9 · Kind: student · Repo path: grade-09/gov/cuba/fisica/student/full-year.pdf (release asset grade-09-gov-cuba-fisica-student-full-year.pdf, mid-size-books-5) · Byte size: 39,537,276 (release asset, verified) · PDF pages: 442 · Offset: printed p. = PDF p. − 12 (printed 419 = PDF 431). Verdict: COMPLETE — 4 chapters plus a laboratory-equipment annex (printed pp. 419–428). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/cuba-placements.md (Book 9).
 
+**Book 17:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Reflection and its two laws | Ethiopia, *Grade 6 Student Textbook*, printed pp. 80–81 |
@@ -22,9 +24,10 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book carries the
 | §3-7–3-8, Wave reflection; Wave refraction (Iran, Grade 12) | Iran, *Physics (3), Grade 12* (Iran — Experimental book code 112244 cited; Mathematical book code 112209 carries the same content at shifted pagination; counted once), §3-7–3-8 — printed pp. 76, 81 |
 | Ch.4 §1 Refraction of light (China, Senior Physics, Selective Compulsory Book 1) | China, *Senior Physics, Selective Compulsory Book 1*, Ch.4 §1 Refraction of light — printed p. 85 — refractive index measured in an experiment |
 | Ch. 4 §4.5: regularities in reflection and refraction — printed pp. 329–334 (Cuba, Grade 9) | Cuba, *Física — noveno grado (Grade 9 student book, 2025)*, Ch. 4 §4.5: regularities in reflection and refraction — printed pp. 329–334 |
+| Light (4.3) — reflection, refraction and splitting light, Australia's Grade 9 treatment (Australia, Grade 9) | Australia, *Pearson Science 9*, 4.3 Light — printed p. 149 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iran, China, Cuba).**
+**Acceptance count: taught in 5 countries (Ethiopia, Iran, China, Cuba, Australia).**
 
 The Grade 6 student book is COMPLETE (printed pp. 1–177). The GIF for the coin activity reuses the rising-water motion; the coin itself is carried by the picture and the activity — noted here so the GIF is not over-claimed.
 
-Searchable tags: reflection እርፍ ጨረር ጽብርቅ ጨረር normal angle of incidence, refraction coin pencil, dispersion prism rainbow Newton disc seven colours, iran
+Searchable tags: reflection እርፍ ጨረር ጽብርቅ ጨረር normal angle of incidence, refraction coin pencil, dispersion prism rainbow Newton disc seven colours, iran, australia, pearson science 9

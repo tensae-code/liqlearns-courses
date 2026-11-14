@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only)
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -12,6 +12,8 @@ countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Ti
 
 **Book 5:** *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* (teacher guide) — Timor-Leste, Ministério da Educação, República Democrática de Timor-Leste. Title as printed: *Livru Planu Lisaun Klase 3 Períodu 2* — the Class 3 lesson-plan book for Period 2; lesson plans in Tetum with Portuguese technical terms. Grade: 3 · Teacher guide · Record: TSV release record · Fetched copy: 15,881,272 bytes, 829 PDF pages, full text layer; read in full. Verdict: COMPLETE for the Period 2 science component (Siénsia Naturál, printed pp. 512–623; lessons 31–60 — all three unit summaries and all 30 lesson plans read); the book is the whole-subject lesson-plan volume for Period 2 (literacy, mathematics, natural science, social science, arts, health, physical education), and only its Natural Science component is placed here; the Period 1 science units appear in the book only as rows of the year-plan table on printed p. 512 — they belong to the Period 1 volume, which is not held, and are not placed. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/timor-leste-placements.md.
 
+**Book 6:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Kuwait, *Physics, Grade 11, Term 1 — applications workbook*, front matter "Skills that must be acquired during practical study" — printed p. 8 |
@@ -22,10 +24,11 @@ countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Ti
 | Activity 6 — making observations, counting and comparing: counting the fish again when the number changes, more or fewer than last time (Finland) | Finland, *Luova LUMA -hankkeen aktiviteettipankki*, activity 6 — LUMA Activities, p. 11 |
 | Working like a Scientist 2: representing data in pie charts, classifying variables, analysing and interpreting data, annotated drawings (curriculum-guide evidence) (Jamaica, Grade 8) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Working like a Scientist 2 — printed p. 82 |
 | The book's own lesson rhythm as Turkey's way in — every topic runs Hatırlayalım (remember) → Keşfedelim (explore) → Bilgi Yolculuğumuz (our knowledge journey) → Uygulayalım (let us apply) → Neler Öğrendik? (what did we learn?) (Turkey, Grade 2) | Turkey, *Hayat Bilgisi 2. Sınıf, 1. Kitap (Life Studies, Grade 2, Book 1)*, "Kitabımızı Tanıyalım" (getting to know our book) — printed p. 8 |
+| Conducting investigations (1.3) — carrying out an investigation (Australia, Grade 9) | Australia, *Pearson Science 9*, 1.3 Conducting investigations — printed p. 17 |
 
 | Drawing the direction of a force, and the unit's closing small test that reviews the whole investigation cycle (teacher guide — evidence) (Timor-Leste, Grade 3) | Timor-Leste, *Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* (teacher guide — evidence), Unit: Dudu no dada / Push and pull, unit summary — printed p. 555 |
 
-**Acceptance count: taught in 3 countries (Kuwait, Finland, Turkey).**
+**Acceptance count: taught in 4 countries (Kuwait, Finland, Turkey, Australia).**
 
 Timor-Leste is named as teacher-guide evidence only (*Ciências Naturais, Grade 3 Teacher Guide: Unit Lesson Plans, Period 2* — teacher guide), not added to this count.
 
@@ -33,4 +36,4 @@ Jamaica is named as curriculum-guide evidence only (*National Standards Curricul
 
 Placement choice, on the record: this NEW LESSON was built for the Kuwait placement “Skills of practical study — observe, predict, hypothesise, record, conclude” — kuwait-placements.md, Kuwait, Grade 11, Term 1 applications workbook, front matter — printed p. 8. It sits in science-skills/ and is registered in CURRICULUM.md Unit 15 (Science Skills).
 
-Searchable tags: practical skills, observe, predict, hypothesis, fair test, recording, conclusion, laboratory, kuwait, grade 11, finland, luova luma, counting the fish, more or fewer, jamaica, jamaica nsc integrated science, turkey, hayat bilgisi, life studies grade 2, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun
+Searchable tags: practical skills, observe, predict, hypothesis, fair test, recording, conclusion, laboratory, kuwait, grade 11, finland, luova luma, counting the fish, more or fewer, jamaica, jamaica nsc integrated science, turkey, hayat bilgisi, life studies grade 2, timor-leste, timor-leste grade 3 teacher guide, livru planu lisaun, australia, pearson science 9
