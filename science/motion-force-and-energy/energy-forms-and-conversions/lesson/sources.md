@@ -1,6 +1,6 @@
 # Sources — Energy — forms and conversions
 
-countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka, Rwanda
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -675,3 +675,30 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, energy
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, energy forms and conversions
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 6 pupil's book):** *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6* (student book) — Rwanda. Authors: Joseph Mwesigye, Caritas Kanizio, Millicent Omusikoyo. Publisher: Longhorn Publishers (Rwanda) Ltd for REB. Title as printed: Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6. PDF 344 pages, 60,423,726 bytes. Verdict: COMPLETE (Units 1–16, printed pp. 1–321, plus glossary). Records: TSV release record and books.json record grade-06/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P6. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what energy is and its forms (14.1) (Rwanda, Primary 6) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 267 |
+| energy transformation/conversion (14.2) (Rwanda, Primary 6) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 273 |
+| importance of energy (14.3) (Rwanda, Primary 6) (placement filed as NEW LESSON NEEDED — why-energy-matters; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 279 |
+
+**Book (Rwanda — Primary 6 teacher's guide):** *Science and Elementary Technology for Rwanda Schools, Teacher's Guide Primary 6* (teacher's guide) — Rwanda. Authors: Joseph Mwesigye, Caritas Kanizio, Millicent Omusikoyo. Publisher: Longhorn Publishers (Rwanda) Ltd for REB. Title as printed: Science and Elementary Technology for Rwanda Schools, Teacher's Guide Primary 6. PDF 397 pages, 10,299,204 bytes. Verdict: COMPLETE (Part 1 introduction and lesson-plan guidance, printed pp. 1–37; Part 2 unit sections, Units 1–16, printed pp. 38–391; bibliography p. 392). Short name: RW P6 TG. All rows from this book are guide evidence, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| teacher background and answers for Unit 14 Energy Management, guide evidence (Rwanda, Primary 6) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Teacher's Guide Primary 6*, printed p. 311 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 37 countries (Ethiopia, Argentina, Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda).**
+
+Placement choice, on the record: the Rwanda placement(s) filed as "NEW LESSON NEEDED — why-energy-matters" were stocked into this lesson, `motion-force-and-energy/energy-forms-and-conversions`, because the live lesson already covers that thing as its own part (checked against the live repo at merge time); the original slug is recorded in each row above, and no separate lesson was built for it.
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, motion-force-and-energy, energy-forms-and-conversions

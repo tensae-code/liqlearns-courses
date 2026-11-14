@@ -1,6 +1,6 @@
 # Sources — Air pollution — what dirties the air
 
-countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Afghanistan, Cabo Verde, Angola, Laos, Eritrea
+countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Afghanistan, Cabo Verde, Angola, Laos, Eritrea, Rwanda
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -270,3 +270,27 @@ Searchable tags: laos, lao pdr, natural sciences grade 6, science and environmen
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, air pollution what dirties the air
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 6 pupil's book):** *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6* (student book) — Rwanda. Authors: Joseph Mwesigye, Caritas Kanizio, Millicent Omusikoyo. Publisher: Longhorn Publishers (Rwanda) Ltd for REB. Title as printed: Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6. PDF 344 pages, 60,423,726 bytes. Verdict: COMPLETE (Units 1–16, printed pp. 1–321, plus glossary). Records: TSV release record and books.json record grade-06/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P6. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sources of common air pollutants (7.2) (Rwanda, Primary 6) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 170 |
+| advocating against air pollution (7.4) (Rwanda, Primary 6) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 173 |
+
+**Book (Rwanda — Primary 6 teacher's guide):** *Science and Elementary Technology for Rwanda Schools, Teacher's Guide Primary 6* (teacher's guide) — Rwanda. Authors: Joseph Mwesigye, Caritas Kanizio, Millicent Omusikoyo. Publisher: Longhorn Publishers (Rwanda) Ltd for REB. Title as printed: Science and Elementary Technology for Rwanda Schools, Teacher's Guide Primary 6. PDF 397 pages, 10,299,204 bytes. Verdict: COMPLETE (Part 1 introduction and lesson-plan guidance, printed pp. 1–37; Part 2 unit sections, Units 1–16, printed pp. 38–391; bibliography p. 392). Short name: RW P6 TG. All rows from this book are guide evidence, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| teacher background and answers for Unit 7 Air Pollution, guide evidence (Rwanda, Primary 6) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Teacher's Guide Primary 6*, printed p. 164 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 14 countries (Italy, Uganda, Bulgaria, Pakistan (Punjab, Eritrea, Rwanda).**
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, our-environment, air-pollution-what-dirties-the-air

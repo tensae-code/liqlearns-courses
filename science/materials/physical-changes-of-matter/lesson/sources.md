@@ -1,6 +1,6 @@
 # Sources — Physical changes of matter
 
-countries: Cambodia, Seychelles, Kuwait, Syria
+countries: Cambodia, Seychelles, Kuwait, Syria, Rwanda
 
 **Book (Cambodia — Grade 6, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៦* (Science, Grade 6) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004324). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៦ (Science, Grade 6). PDF 129 pages, 53,050,077 bytes (matches record). Verdict: COMPLETE (Chapters 1–6, 17 lessons, printed pp. 1–128). Read note, carried as filed: this PDF is image-only (no usable text layer); read from rendered contents and lesson pages; printed page numbers are the book's own printed pages as listed in its contents page. Twin record: TSV release record and books.json record grade-06/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
 
@@ -74,3 +74,23 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — changi
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, physical changes of matter
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 6 pupil's book):** *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6* (student book) — Rwanda. Authors: Joseph Mwesigye, Caritas Kanizio, Millicent Omusikoyo. Publisher: Longhorn Publishers (Rwanda) Ltd for REB. Title as printed: Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6. PDF 344 pages, 60,423,726 bytes. Verdict: COMPLETE (Units 1–16, printed pp. 1–321, plus glossary). Records: TSV release record and books.json record grade-06/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P6. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| change of state in water (16.3) (Rwanda, Primary 6) (placement filed as NEW LESSON NEEDED — physical-changes-of-matter; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 312 |
+| transformation of states of matter (16.5) (Rwanda, Primary 6) (placement filed as NEW LESSON NEEDED — physical-changes-of-matter; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 316 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 5 countries (Cambodia, Seychelles, Kuwait, Syria, Rwanda).**
+
+Placement choice, on the record: the Rwanda placement(s) filed as "NEW LESSON NEEDED — physical-changes-of-matter" were stocked into this lesson, `materials/physical-changes-of-matter`, because the live lesson already covers that thing as its own part (checked against the live repo at merge time); the original slug is recorded in each row above, and no separate lesson was built for it.
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, materials, physical-changes-of-matter

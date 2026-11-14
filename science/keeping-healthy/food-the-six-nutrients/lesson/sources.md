@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -377,3 +377,20 @@ The teacher-guide rows above are guide evidence, carried as filed; the count ris
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, food the six nutrients
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 5 pupil's book):** *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5* (student book) — Rwanda. Authors: David Kamoce, Daniel Arapai, Rosalia Wacuka (title page). Publisher: Spotlight Publishers (EA) Ltd for REB. Title as printed: Science and Elementary Technology for Rwandan Schools, Pupil's Book 5. PDF 228 pages, 60,161,568 bytes. Verdict: COMPLETE (Units 1–16, printed pp. 1–222, plus glossary). Records: TSV release record and books.json record grade-05/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P5. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| nutrition deficiency diseases: what happens when a nutrient is missing (12.6) (Rwanda, Primary 5) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5*, printed p. 163 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Cook Islands, Suriname, India, Uganda, Bulgaria, Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda).**
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, keeping-healthy, food-the-six-nutrients

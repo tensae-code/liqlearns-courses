@@ -1,6 +1,6 @@
 # Sources — Soil — types, formation and loss
 
-countries: Ethiopia, Iceland (teacher-guide evidence only), Egypt, Sudan, Mauritania, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Iceland (teacher-guide evidence only), Egypt, Sudan, Mauritania, Laos, Eritrea, Sri Lanka, Rwanda
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -115,3 +115,32 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, soil t
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, soil types formation and loss
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 2 pupil's book):** *Science and Elementary Technology, Primary Two, Pupil's Book* (student book) — Rwanda, Rwanda Education Board (REB), copyright 2020. Title as printed: Science and Elementary Technology, Primary Two, Pupil's Book. PDF 110 pages, 38,476,680 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–104). Records: TSV release record and books.json record grade-02/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P2E. The Kinyarwanda parallel edition of this book (placements Book 2: *Ubumenyi n'Ikoranabuhanga Riciriritse — Igitabo cy'umunyeshuri, Umwaka wa kabiri*, REB, 2019, PDF 104 pages, COMPLETE) carries the same contents lesson for lesson in a second language and is placed once under this English edition, as filed — no separate placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| things that destroy soil (5.3) (Rwanda, Primary 2) | Rwanda, *Science and Elementary Technology, Primary Two, Pupil's Book*, printed p. 63 |
+| effects of water on soil (5.4) (Rwanda, Primary 2) | Rwanda, *Science and Elementary Technology, Primary Two, Pupil's Book*, printed p. 65 |
+
+**Book (Rwanda — Primary 4 pupil's book):** *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4* (student book) — Rwanda, Rwanda Education Board, 2019. Title as printed: Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4 (REB's combined SET & ICT P4 book). PDF 294 pages, 77,723,526 bytes. Verdict: COMPLETE (Units 1–14, printed pp. 1–289). Records: TSV release record and books.json record grade-04/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P4. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| soil erosion: what it is (8.6) (Rwanda, Primary 4) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 171 |
+| agents of soil erosion (8.7) (Rwanda, Primary 4) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 171 |
+| causes of soil erosion (8.8) (Rwanda, Primary 4) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 173 |
+| types of soil erosion (8.9) (Rwanda, Primary 4) (placement filed as NEW LESSON NEEDED — kinds-of-soil-erosion; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 174 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Egypt, Sudan, Mauritania, Laos, Eritrea, Sri Lanka, Rwanda).**
+
+Placement choice, on the record: the Rwanda placement(s) filed as "NEW LESSON NEEDED — kinds-of-soil-erosion" were stocked into this lesson, `soil-and-water/soil-types-formation-and-loss`, because the live lesson already covers that thing as its own part (checked against the live repo at merge time); the original slug is recorded in each row above, and no separate lesson was built for it.
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, soil-and-water, soil-types-formation-and-loss

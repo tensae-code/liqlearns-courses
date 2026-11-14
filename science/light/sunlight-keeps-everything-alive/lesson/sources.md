@@ -1,6 +1,6 @@
 # Sources — Sunlight keeps everything alive, and what light is used for
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea
+countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -110,3 +110,20 @@ Searchable tags: laos, lao pdr, science and environment grade 2
 Eritrea's own way — its Ministry of Education Science books (Grades 1–4 in Tigrinya, Grades 6–8 in English) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Eritrea's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: eritrea, eritrea science, ministry of education eritrea, sunlight keeps everything alive
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 2 pupil's book):** *Science and Elementary Technology, Primary Two, Pupil's Book* (student book) — Rwanda, Rwanda Education Board (REB), copyright 2020. Title as printed: Science and Elementary Technology, Primary Two, Pupil's Book. PDF 110 pages, 38,476,680 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–104). Records: TSV release record and books.json record grade-02/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P2E. The Kinyarwanda parallel edition of this book (placements Book 2: *Ubumenyi n'Ikoranabuhanga Riciriritse — Igitabo cy'umunyeshuri, Umwaka wa kabiri*, REB, 2019, PDF 104 pages, COMPLETE) carries the same contents lesson for lesson in a second language and is placed once under this English edition, as filed — no separate placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| importance of light to living things (7.4) (Rwanda, Primary 2) | Rwanda, *Science and Elementary Technology, Primary Two, Pupil's Book*, printed p. 82 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda).**
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, light, sunlight-keeps-everything-alive

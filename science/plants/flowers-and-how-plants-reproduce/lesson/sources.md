@@ -1,6 +1,6 @@
 # Sources — Flowers — and how plants reproduce
 
-countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Armenia, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Mauritania, Angola, Syria
+countries: Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Armenia, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Mauritania, Angola, Syria, Rwanda
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -192,3 +192,32 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — flower
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, flowers and how plants reproduce
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 6 pupil's book):** *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6* (student book) — Rwanda. Authors: Joseph Mwesigye, Caritas Kanizio, Millicent Omusikoyo. Publisher: Longhorn Publishers (Rwanda) Ltd for REB. Title as printed: Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6. PDF 344 pages, 60,423,726 bytes. Verdict: COMPLETE (Units 1–16, printed pp. 1–321, plus glossary). Records: TSV release record and books.json record grade-06/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P6. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what plant reproduction is (9.1) (Rwanda, Primary 6) (placement filed as NEW LESSON NEEDED — how-plants-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 196 |
+| parts of a complete flower (9.2) (Rwanda, Primary 6) (placement filed as NEW LESSON NEEDED — parts-of-a-flower; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 197 |
+| sexual reproduction in flowering plants, step by step (9.3) (Rwanda, Primary 6) (placement filed as NEW LESSON NEEDED — how-plants-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 200 |
+| asexual reproduction methods (9.4) (Rwanda, Primary 6) (placement filed as NEW LESSON NEEDED — how-plants-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 205 |
+| why plants reproduce (9.5) (Rwanda, Primary 6) (placement filed as NEW LESSON NEEDED — how-plants-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 208 |
+
+**Book (Rwanda — Primary 6 teacher's guide):** *Science and Elementary Technology for Rwanda Schools, Teacher's Guide Primary 6* (teacher's guide) — Rwanda. Authors: Joseph Mwesigye, Caritas Kanizio, Millicent Omusikoyo. Publisher: Longhorn Publishers (Rwanda) Ltd for REB. Title as printed: Science and Elementary Technology for Rwanda Schools, Teacher's Guide Primary 6. PDF 397 pages, 10,299,204 bytes. Verdict: COMPLETE (Part 1 introduction and lesson-plan guidance, printed pp. 1–37; Part 2 unit sections, Units 1–16, printed pp. 38–391; bibliography p. 392). Short name: RW P6 TG. All rows from this book are guide evidence, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| teacher background and answers for Unit 9 Plant Reproduction, guide evidence (Rwanda, Primary 6) (placement filed as NEW LESSON NEEDED — how-plants-reproduce; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Teacher's Guide Primary 6*, printed p. 197 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 10 countries (Guyana, India, Bulgaria, Armenia, Cambodia, Seychelles, Mauritania, Angola, Syria, Rwanda).**
+
+Placement choice, on the record: the Rwanda placement(s) filed as "NEW LESSON NEEDED — how-plants-reproduce"; "NEW LESSON NEEDED — parts-of-a-flower" were stocked into this lesson, `plants/flowers-and-how-plants-reproduce`, because the live lesson already covers that thing as its own part (checked against the live repo at merge time); the original slug is recorded in each row above, and no separate lesson was built for it.
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, plants, flowers-and-how-plants-reproduce

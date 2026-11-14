@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -337,3 +337,35 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, accide
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, accidents and staying safe
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 4 pupil's book):** *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4* (student book) — Rwanda, Rwanda Education Board, 2019. Title as printed: Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4 (REB's combined SET & ICT P4 book). PDF 294 pages, 77,723,526 bytes. Verdict: COMPLETE (Units 1–14, printed pp. 1–289). Records: TSV release record and books.json record grade-04/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P4. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| dangers of misuse of agricultural tools (1.5) (Rwanda, Primary 4) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 8 |
+| precautions while using agricultural tools (1.6) (Rwanda, Primary 4) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 9 |
+
+**Book (Rwanda — Primary 5 pupil's book):** *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5* (student book) — Rwanda. Authors: David Kamoce, Daniel Arapai, Rosalia Wacuka (title page). Publisher: Spotlight Publishers (EA) Ltd for REB. Title as printed: Science and Elementary Technology for Rwandan Schools, Pupil's Book 5. PDF 228 pages, 60,161,568 bytes. Verdict: COMPLETE (Units 1–16, printed pp. 1–222, plus glossary). Records: TSV release record and books.json record grade-05/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P5. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| dangers of carpentry tools and health and safety measures (1.3) (Rwanda, Primary 5) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5*, printed p. 11 |
+| dangers of masonry tools (2.3) (Rwanda, Primary 5) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5*, printed p. 22 |
+
+**Book (Rwanda — Primary 6 pupil's book):** *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6* (student book) — Rwanda. Authors: Joseph Mwesigye, Caritas Kanizio, Millicent Omusikoyo. Publisher: Longhorn Publishers (Rwanda) Ltd for REB. Title as printed: Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6. PDF 344 pages, 60,423,726 bytes. Verdict: COMPLETE (Units 1–16, printed pp. 1–321, plus glossary). Records: TSV release record and books.json record grade-06/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P6. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| dangers when using simple machines (2.3) (Rwanda, Primary 6) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 29 |
+| safety in using simple machines (2.4) (Rwanda, Primary 6) | Rwanda, *Science and Elementary Technology for Rwanda Schools, Pupil's Book Primary 6*, printed p. 31 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 14 countries (Turkey, Suriname, Uganda, Bulgaria, Cuba, Afghanistan, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda).**
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, keeping-healthy, accidents-and-staying-safe

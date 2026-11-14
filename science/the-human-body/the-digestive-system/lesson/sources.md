@@ -1,6 +1,6 @@
 # Sources — The digestive system
 
-countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -473,3 +473,31 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, the di
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, the digestive system
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 5 pupil's book):** *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5* (student book) — Rwanda. Authors: David Kamoce, Daniel Arapai, Rosalia Wacuka (title page). Publisher: Spotlight Publishers (EA) Ltd for REB. Title as printed: Science and Elementary Technology for Rwandan Schools, Pupil's Book 5. PDF 228 pages, 60,161,568 bytes. Verdict: COMPLETE (Units 1–16, printed pp. 1–222, plus glossary). Records: TSV release record and books.json record grade-05/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P5. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| functions of the digestive system (12.1) (Rwanda, Primary 5) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5*, printed p. 152 |
+| parts of the digestive system and their functions (12.2) (Rwanda, Primary 5) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5*, printed p. 153 |
+| stages of digestion (12.3) (Rwanda, Primary 5) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5*, printed p. 154 |
+| hygiene of digestion (12.4) (Rwanda, Primary 5) (placement filed as NEW LESSON NEEDED — keeping-the-digestive-system-healthy; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5*, printed p. 156 |
+
+**Book (Rwanda — Primary 5 teacher's guide):** *Science and Elementary Technology for Rwandan Schools, Teacher's Guide 5* (teacher's guide) — Rwanda. Authors: David Kamoce, Daniel Arapai, Rosalia Wacuka. Publisher: Spotlight Publishers (EA) Ltd for REB. Title as printed: Science and Elementary Technology for Rwandan Schools, Teacher's Guide 5. PDF 240 pages, 1,969,120 bytes. Verdict: COMPLETE — guide to the Primary 5 pupil's book, same 16 units, each with periods, key competency, lesson plans and answers. Short name: RW P5 TG. All rows from this book are guide evidence, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lesson plans and answers for Unit 12 Digestion, guide evidence (Rwanda, Primary 5) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Teacher's Guide 5*, printed p. 152 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Guyana, India, Uganda, Bulgaria, Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda).**
+
+Placement choice, on the record: the Rwanda placement(s) filed as "NEW LESSON NEEDED — keeping-the-digestive-system-healthy" were stocked into this lesson, `the-human-body/the-digestive-system`, because the live lesson already covers that thing as its own part (checked against the live repo at merge time); the original slug is recorded in each row above, and no separate lesson was built for it.
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, the-human-body, the-digestive-system

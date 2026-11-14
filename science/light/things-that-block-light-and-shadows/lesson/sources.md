@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Angola, Bhutan, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Angola, Bhutan, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -330,3 +330,20 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, things
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, things that block light and shadows
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 2 pupil's book):** *Science and Elementary Technology, Primary Two, Pupil's Book* (student book) — Rwanda, Rwanda Education Board (REB), copyright 2020. Title as printed: Science and Elementary Technology, Primary Two, Pupil's Book. PDF 110 pages, 38,476,680 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–104). Records: TSV release record and books.json record grade-02/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P2E. The Kinyarwanda parallel edition of this book (placements Book 2: *Ubumenyi n'Ikoranabuhanga Riciriritse — Igitabo cy'umunyeshuri, Umwaka wa kabiri*, REB, 2019, PDF 104 pages, COMPLETE) carries the same contents lesson for lesson in a second language and is placed once under this English edition, as filed — no separate placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the relationship between light and shadow (7.3) (Rwanda, Primary 2) | Rwanda, *Science and Elementary Technology, Primary Two, Pupil's Book*, printed p. 80 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Mongolia, India, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda).**
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, light, things-that-block-light-and-shadows

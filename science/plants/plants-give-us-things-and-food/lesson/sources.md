@@ -1,6 +1,6 @@
 # Sources — Plants give us things and food
 
-countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos
+countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -274,3 +274,32 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, plants
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 1, science and environment grade 1 teacher guide
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 2 pupil's book):** *Science and Elementary Technology, Primary Two, Pupil's Book* (student book) — Rwanda, Rwanda Education Board (REB), copyright 2020. Title as printed: Science and Elementary Technology, Primary Two, Pupil's Book. PDF 110 pages, 38,476,680 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–104). Records: TSV release record and books.json record grade-02/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P2E. The Kinyarwanda parallel edition of this book (placements Book 2: *Ubumenyi n'Ikoranabuhanga Riciriritse — Igitabo cy'umunyeshuri, Umwaka wa kabiri*, REB, 2019, PDF 104 pages, COMPLETE) carries the same contents lesson for lesson in a second language and is placed once under this English edition, as filed — no separate placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| groups and importance of plants (6.2) (Rwanda, Primary 2) | Rwanda, *Science and Elementary Technology, Primary Two, Pupil's Book*, printed p. 71 |
+
+**Book (Rwanda — Primary 5 pupil's book):** *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5* (student book) — Rwanda. Authors: David Kamoce, Daniel Arapai, Rosalia Wacuka (title page). Publisher: Spotlight Publishers (EA) Ltd for REB. Title as printed: Science and Elementary Technology for Rwandan Schools, Pupil's Book 5. PDF 228 pages, 60,161,568 bytes. Verdict: COMPLETE (Units 1–16, printed pp. 1–222, plus glossary). Records: TSV release record and books.json record grade-05/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P5. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| importance of plants (11.1) (Rwanda, Primary 5) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book 5*, printed p. 135 |
+
+**Book (Rwanda — Primary 5 teacher's guide):** *Science and Elementary Technology for Rwandan Schools, Teacher's Guide 5* (teacher's guide) — Rwanda. Authors: David Kamoce, Daniel Arapai, Rosalia Wacuka. Publisher: Spotlight Publishers (EA) Ltd for REB. Title as printed: Science and Elementary Technology for Rwandan Schools, Teacher's Guide 5. PDF 240 pages, 1,969,120 bytes. Verdict: COMPLETE — guide to the Primary 5 pupil's book, same 16 units, each with periods, key competency, lesson plans and answers. Short name: RW P5 TG. All rows from this book are guide evidence, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| lesson plans and answers for Unit 11 Plants and Environment, guide evidence (Rwanda, Primary 5) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Teacher's Guide 5*, printed p. 141 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Mexico, Sweden, Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda).**
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, plants, plants-give-us-things-and-food

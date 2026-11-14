@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -259,3 +259,42 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, air is
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, air is there air takes up space and can be pushed
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 2 pupil's book):** *Science and Elementary Technology, Primary Two, Pupil's Book* (student book) — Rwanda, Rwanda Education Board (REB), copyright 2020. Title as printed: Science and Elementary Technology, Primary Two, Pupil's Book. PDF 110 pages, 38,476,680 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–104). Records: TSV release record and books.json record grade-02/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P2E. The Kinyarwanda parallel edition of this book (placements Book 2: *Ubumenyi n'Ikoranabuhanga Riciriritse — Igitabo cy'umunyeshuri, Umwaka wa kabiri*, REB, 2019, PDF 104 pages, COMPLETE) carries the same contents lesson for lesson in a second language and is placed once under this English edition, as filed — no separate placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| characteristics of air (4.1) (Rwanda, Primary 2) | Rwanda, *Science and Elementary Technology, Primary Two, Pupil's Book*, printed p. 42 |
+| importance of air (4.2) (Rwanda, Primary 2) (placement filed as NEW LESSON NEEDED — why-air-matters; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology, Primary Two, Pupil's Book*, printed p. 45 |
+
+**Book (Rwanda — Primary 4 pupil's book):** *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4* (student book) — Rwanda, Rwanda Education Board, 2019. Title as printed: Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4 (REB's combined SET & ICT P4 book). PDF 294 pages, 77,723,526 bytes. Verdict: COMPLETE (Units 1–14, printed pp. 1–289). Records: TSV release record and books.json record grade-04/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P4. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| main properties of air (7.1) (Rwanda, Primary 4) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 138 |
+| uses of air and wind (7.7) (Rwanda, Primary 4) (placement filed as NEW LESSON NEEDED — why-air-matters; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 150 |
+
+**Book (Rwanda — Primary 4 teacher's guide):** *Science and Elementary Technology, Primary 4, Teacher's Guide* (teacher's guide) — Rwanda, Rwanda Education Board, 2019. Title as printed: Science and Elementary Technology, Primary 4, Teacher's Guide (incl. ICT units). PDF 228 pages, 6,242,926 bytes. Verdict: COMPLETE (contents runs Units 1–14, printed pp. 1–186, followed by assessment/appendix material) — guide to the Primary 4 pupil's book, same 14 units, each with lesson partitions, methodology, additional content for the teacher, answers and assessment. Short name: RW P4 TG. All rows from this book are guide evidence for the pupil book's units, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| additional teacher content and answers for Unit 7 Air, Wind and Sound, guide evidence (Rwanda, Primary 4) | Rwanda, *Science and Elementary Technology, Primary 4, Teacher's Guide*, printed pp. 76–96 |
+
+**Book (Rwanda — Primary 2 teacher's guide (Kinyarwanda)):** *Ubumenyi n'Ikoranabuhanga Riciriritse — Inyoborabarezi, Umwaka wa kabiri* (teacher guide, Kinyarwanda medium) — Rwanda, Rwanda Education Board (REB), copyright 2019. Title as printed: Ubumenyi n'Ikoranabuhanga Riciriritse, Umwaka wa kabiri w'amashuri abanza, Inyoborabarezi (Teacher Guide). PDF 93 pages, 963,085 bytes. Verdict: COMPLETE — the Kinyarwanda guide to the Primary 2 pupil's book, same 8 units. Short name: RW P2K TG. All rows from this book are guide evidence; the pupil content itself is placed once under the pupil's books, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| teacher guidance and answers for Unit 4 Air and Wind, guide evidence (Rwanda, Primary 2) | Rwanda, *Ubumenyi n'Ikoranabuhanga Riciriritse — Inyoborabarezi, Umwaka wa kabiri (SET P2 Teacher Guide, Kinyarwanda medium)*, printed p. 24 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 13 countries (India, Uganda, Bulgaria, Moldova, Cuba, Sudan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda).**
+
+Placement choice, on the record: the Rwanda placement(s) filed as "NEW LESSON NEEDED — why-air-matters" were stocked into this lesson, `materials/air-is-there-air-takes-up-space-and-can-be-pushed`, because the live lesson already covers that thing as its own part (checked against the live repo at merge time); the original slug is recorded in each row above, and no separate lesson was built for it.
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, materials, air-is-there-air-takes-up-space-and-can-be-pushed

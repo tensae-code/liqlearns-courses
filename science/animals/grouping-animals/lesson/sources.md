@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Rwanda
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -438,3 +438,32 @@ Searchable tags: laos, lao pdr, science and environment grade 2, science and env
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, grouping animals
+
+
+## Rwanda growth (2026-11-14, General Science expansion)
+
+**Book (Rwanda — Primary 4 pupil's book):** *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4* (student book) — Rwanda, Rwanda Education Board, 2019. Title as printed: Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4 (REB's combined SET & ICT P4 book). PDF 294 pages, 77,723,526 bytes. Verdict: COMPLETE (Units 1–14, printed pp. 1–289). Records: TSV release record and books.json record grade-04/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P4. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| classifying animals by the backbone: vertebrates and invertebrates (9.1) (Rwanda, Primary 4) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 179 |
+| classifying animals by respiration mode (9.2) (Rwanda, Primary 4) (placement filed as NEW LESSON NEEDED — grouping-animals-by-how-they-live; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 193 |
+| classifying animals by locomotion mode (9.3) (Rwanda, Primary 4) (placement filed as NEW LESSON NEEDED — grouping-animals-by-how-they-live; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 195 |
+| classifying animals by feeding mode (9.4) (Rwanda, Primary 4) (placement filed as NEW LESSON NEEDED — grouping-animals-by-how-they-live; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 198 |
+| classifying animals by reproductive mode (9.5) (Rwanda, Primary 4) (placement filed as NEW LESSON NEEDED — grouping-animals-by-how-they-live; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) | Rwanda, *Science and Elementary Technology for Rwandan Schools, Pupil's Book Primary 4*, printed p. 200 |
+
+**Book (Rwanda — Primary 4 teacher's guide):** *Science and Elementary Technology, Primary 4, Teacher's Guide* (teacher's guide) — Rwanda, Rwanda Education Board, 2019. Title as printed: Science and Elementary Technology, Primary 4, Teacher's Guide (incl. ICT units). PDF 228 pages, 6,242,926 bytes. Verdict: COMPLETE (contents runs Units 1–14, printed pp. 1–186, followed by assessment/appendix material) — guide to the Primary 4 pupil's book, same 14 units, each with lesson partitions, methodology, additional content for the teacher, answers and assessment. Short name: RW P4 TG. All rows from this book are guide evidence for the pupil book's units, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| additional teacher content and answers for Unit 9 Animals, guide evidence (Rwanda, Primary 4) | Rwanda, *Science and Elementary Technology, Primary 4, Teacher's Guide*, printed pp. 106–122 |
+
+| Do it first; key ideas; Do It Yourself | Rwanda, as cited in the rows above |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Rwanda).**
+
+Placement choice, on the record: the Rwanda placement(s) filed as "NEW LESSON NEEDED — grouping-animals-by-how-they-live" were stocked into this lesson, `animals/grouping-animals`, because the live lesson already covers that thing as its own part (checked against the live repo at merge time); the original slug is recorded in each row above, and no separate lesson was built for it.
+
+Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
+
+Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, animals, grouping-animals
