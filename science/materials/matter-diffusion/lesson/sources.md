@@ -1,6 +1,6 @@
 # Sources — Matter — diffusion
 
-countries: Ethiopia, Uzbekistan, Armenia, Kazakhstan, Uganda, Samoa, Syria, Bangladesh
+countries: Ethiopia, Uzbekistan, Armenia, Kazakhstan, Uganda, Samoa, Syria, Bangladesh, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
@@ -114,3 +114,17 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, matter
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, materials matter-diffusion
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 9, Part 2):** *العلوم للصف التاسع من مرحلة التعليم الأساسي، الجزء الثاني (Science for Grade 9 of Basic Education, Part 2)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-09/gov/yemen/science/student/part-2.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across many captures, 2017–2024); staged under the 2026-11-13 rule. PDF pages: 156. Verdict: COMPLETE (runs to printed p. 151, the Unit 16 assessment, then the “book finished” page and back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Spreading through liquids: a drop of coloured solution, blue vitriol in laundry water and pomegranate syrup in a glass all spread by themselves from where they are strong to where they are weak — the movement that carries dissolved salts through a plant (Unit 11, Lesson 7) (Yemen, Grade 9 Part 2) | Yemen, *Science, Grade 9, Part 2*, printed p. 72 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Uzbekistan, Armenia, Kazakhstan, Uganda, Samoa, Syria, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, materials matter-diffusion

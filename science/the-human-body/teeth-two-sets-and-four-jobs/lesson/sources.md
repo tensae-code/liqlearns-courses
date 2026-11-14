@@ -1,6 +1,6 @@
 # Sources — Teeth: two sets, four jobs
 
-countries: Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Venezuela, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Venezuela, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -256,3 +256,17 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, the-
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, the-human-body teeth-two-sets-and-four-jobs
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 1):** *العلوم (Science), Grade 4, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-04/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 138. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Our teeth (Yemen, Grade 4 Part 1) | Yemen, *Science, Grade 4, Part 1*, printed p. 41 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Venezuela, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, North Macedonia, Indonesia, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body teeth-two-sets-and-four-jobs

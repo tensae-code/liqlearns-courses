@@ -1,6 +1,6 @@
 # Sources — Inheritance — genes and traits
 
-countries: India, Kuwait, Eritrea, Sri Lanka (teacher-guide evidence only)
+countries: India, Kuwait, Eritrea, Sri Lanka (teacher-guide evidence only), Yemen
 
 **Book (India — Class X):** *Science, Textbook for Class X* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class X. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 290 pages, 74,897,177 bytes. Verdict: COMPLETE (16 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
 
@@ -73,3 +73,17 @@ Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW L
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, inheritance genes and traits
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 9, Part 2):** *العلوم للصف التاسع من مرحلة التعليم الأساسي، الجزء الثاني (Science for Grade 9 of Basic Education, Part 2)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-09/gov/yemen/science/student/part-2.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across many captures, 2017–2024); staged under the 2026-11-13 rule. PDF pages: 156. Verdict: COMPLETE (runs to printed p. 151, the Unit 16 assessment, then the “book finished” page and back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What heredity is: identical twins from one egg against ordinary siblings; Mendel's pea experiments of 1866 — dominant and recessive traits appearing in set ratios — and the carriers found since: paired chromosomes, the gene as a stretch of DNA, 46 chromosomes in human cells, 23 from each parent (Unit 16, Heredity in Living Things, Lesson 1) (placement filed as NEW LESSON NEEDED — heredity-how-traits-pass-from-parents-to-children; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Yemen, Grade 9 Part 2) | Yemen, *Science, Grade 9, Part 2*, printed p. 137 |
+
+**Acceptance count: taught in 4 countries (India, Kuwait, Eritrea, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, animals inheritance-genes-and-traits

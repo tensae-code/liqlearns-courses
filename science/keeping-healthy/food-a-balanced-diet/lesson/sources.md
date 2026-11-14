@@ -1,6 +1,6 @@
 # Sources — Food — a balanced diet
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Cambodia, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Cambodia, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -511,3 +511,20 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, keep
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, keeping-healthy food-a-balanced-diet
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 3, Part 1):** *العلوم (Science), Grade 3, Part 1* (student book) — Yemen, Ministry of Education and Scientific Research (E-learning-moe.edu.ye), 1448H / 2027 edition notice in front matter. Records: TSV release copy (`grade-03-gov-yemen-science-student-part-1.pdf`) and books.json `grade-03/gov/yemen/science/student/part-1.pdf` — same book, cited once; release copy read. PDF pages: 162 (this copy runs to printed p. 157 and beyond the fifth unit's assessment; treated as COMPLETE for Part 1 as recorded). Verdict: COMPLETE. The PDFs carry a fragmented font layer, so contents pages and unit openers were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 8, Part 1):** *العلوم (Science), Grade 8, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-08/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 55 (per grab record, as filed). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| My balanced meal (Yemen, Grade 3 Part 1) | Yemen, *Science, Grade 3, Part 1*, printed p. 17 |
+| Balanced food (Unit 8, What You Eat and Your Body's Health) (Yemen, Grade 8 Part 1) | Yemen, *Science, Grade 8, Part 1*, printed p. 148 |
+
+**Acceptance count: taught in 27 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, keeping-healthy food-a-balanced-diet

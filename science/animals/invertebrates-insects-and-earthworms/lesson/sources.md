@@ -1,6 +1,6 @@
 # Sources — Animals — invertebrates: insects and earthworms
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Kuwait, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Kuwait, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -411,3 +411,18 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, animals invertebrates-insects-and-earthworms
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 6, Part 1):** *العلوم (Science), Grade 6, Part 1* (student book) — Yemen, Ministry of Education (yaman.e-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-06/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 57 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Invertebrate animals are varied (Unit 5) (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 103 |
+| Insects are important invertebrates (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 109 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Mongolia, Uganda, Bulgaria, Pakistan (Punjab, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, animals invertebrates-insects-and-earthworms

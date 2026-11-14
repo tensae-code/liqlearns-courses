@@ -1,6 +1,6 @@
 # Sources — Cycles of matter — carbon, nitrogen, water
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania, Dominican Republic, Kuwait, Syria, Bangladesh, Fiji
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania, Dominican Republic, Kuwait, Syria, Bangladesh, Fiji, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -230,3 +230,19 @@ Searchable tags: bangladesh, bangladesh science, nctb, our-environment cycles-of
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, our-environment cycles-of-matter-carbon-nitrogen-water
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 8, Part 2):** *العلوم (Science), Grade 8, Part 2* (student book; units numbered 11–16, continuing Part 1) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-08/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 114. Verdict: COMPLETE (contents and unit openers read from page renders; the PDF text layer is empty). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Matter has a cycle in nature (Unit 15, The Natural Cycle of Some Components of the Atmosphere, Lesson 1) (Yemen, Grade 8 Part 2) | Yemen, *Science, Grade 8, Part 2*, printed p. 81 |
+| The oxygen cycle in the atmosphere (Unit 15, Lesson 2) (Yemen, Grade 8 Part 2) | Yemen, *Science, Grade 8, Part 2*, printed p. 84 |
+| The nitrogen cycle in the environment (Unit 15, Lesson 3) (Yemen, Grade 8 Part 2) | Yemen, *Science, Grade 8, Part 2*, printed p. 88 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Bulgaria, United States, Pakistan (Punjab, Bangladesh, Fiji, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, our-environment cycles-of-matter-carbon-nitrogen-water

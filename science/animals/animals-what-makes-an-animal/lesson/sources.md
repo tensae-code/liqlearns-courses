@@ -1,6 +1,6 @@
 # Sources — Animals — what makes an animal
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -276,3 +276,21 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, animals animals-what-makes-an-animal
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 2, Part 1):** *العلوم (Science), Grade 2, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-02/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 114. Verdict: COMPLETE (no Part 2 for Grade 2 is in the target set). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 7, Part 1):** *العلوم للصف السابع من مرحلة التعليم الأساسي، الجزء الأول (Science for Grade 7 of Basic Education, Part 1)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-07/gov/yemen/science/student/part-1.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across 2021–2024, so the same ministry file); staged under the 2026-11-13 rule. PDF pages: 179. Verdict: COMPLETE (runs to printed p. 175, “Part One is finished”, and the back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animals have characteristics (Unit 3, Animals Around Us) (Yemen, Grade 2 Part 1) | Yemen, *Science, Grade 2, Part 1*, printed p. 47 |
+| Animal body coverings (Yemen, Grade 2 Part 1) | Yemen, *Science, Grade 2, Part 1*, printed p. 59 |
+| Adapted to desert life: the prickly pear's water-storing flat stem and spines, the acacia's deep roots, and the camel — fat hump, broad soft feet, split upper lip, hair-lined ears (Unit 7, Lesson 2) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 124 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Guyana, Egypt, Seychelles, Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, North Macedonia, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, animals animals-what-makes-an-animal

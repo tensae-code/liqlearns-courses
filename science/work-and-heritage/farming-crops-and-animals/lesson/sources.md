@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — Farming: Crops and Animals
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Angola, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh
+countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Angola, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Yemen
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -414,3 +414,17 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, work
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, work-and-heritage farming-crops-and-animals
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 1):** *العلوم (Science), Grade 4, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-04/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 138. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Farming tools and machines (Yemen, Grade 4 Part 1) | Yemen, *Science, Grade 4, Part 1*, printed p. 128 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Micronesia, India, Uganda, Pakistan (Punjab, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, work-and-heritage farming-crops-and-animals

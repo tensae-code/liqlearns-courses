@@ -1,6 +1,6 @@
 # Sources — The heart
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji, Yemen
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -419,3 +419,21 @@ Searchable tags: bangladesh, bangladesh science, nctb, the-human-body the-heart
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, the-human-body the-heart
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 6, Part 1):** *العلوم (Science), Grade 6, Part 1* (student book) — Yemen, Ministry of Education (yaman.e-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-06/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 57 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 8, Part 1):** *العلوم (Science), Grade 8, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-08/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 55 (per grab record, as filed). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Components of our circulatory system (Unit 1) (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 8 |
+| Blood circulation in our bodies (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 17 |
+| Our circulatory system (Unit 6) (Yemen, Grade 8 Part 1) | Yemen, *Science, Grade 8, Part 1*, printed p. 122 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Cook Islands, India, Moldova, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body the-heart

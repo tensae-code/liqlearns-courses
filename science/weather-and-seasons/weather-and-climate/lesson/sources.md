@@ -1,6 +1,6 @@
 # Sources — Weather and climate
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Egypt, Ecuador, Afghanistan, Cabo Verde, Dominican Republic, Kuwait, China, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Italy, Albania (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Egypt, Ecuador, Afghanistan, Cabo Verde, Dominican Republic, Kuwait, China, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -476,3 +476,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, weather-and-seasons weath
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, weather-and-seasons weather-and-climate
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 5, Part 2):** *العلوم (Science), Grade 5, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 153 as checked against the student book itself by the finisher reader (the placements section header's “55 pages” came from the grab record and is wrong); the book contains Units 7–12, running to printed p. 147. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The effect of weather in our life (Yemen, Grade 5 Part 2) | Yemen, *Science, Grade 5, Part 2*, printed p. 88 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Mexico, Italy, Micronesia, United States, Pakistan (Punjab, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, weather-and-seasons weather-and-climate

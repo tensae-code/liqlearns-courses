@@ -1,6 +1,6 @@
 # Sources — Skin — the integumentary system
 
-countries: Ethiopia, Barbados (curriculum evidence only), Moldova, Seychelles, Cabo Verde, Sudan, Mauritania, Angola, Syria, Laos, Eritrea, Sri Lanka, Bangladesh
+countries: Ethiopia, Barbados (curriculum evidence only), Moldova, Seychelles, Cabo Verde, Sudan, Mauritania, Angola, Syria, Laos, Eritrea, Sri Lanka, Bangladesh, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -183,3 +183,21 @@ Searchable tags: sri lanka, sri lanka science, skin the integumentary system
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, the-human-body skin-the-integumentary-system
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 1):** *العلوم (Science), Grade 4, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-04/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 138. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 9, Part 1):** *العلوم للصف التاسع الأساسي (Science for Grade 9 Basic), Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-09/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 170. Verdict: COMPLETE (contents and unit openers read from page renders; the PDF text layer is fragmented). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Our skin: its structure and importance (Unit 3) (Yemen, Grade 4 Part 1) | Yemen, *Science, Grade 4, Part 1*, printed p. 63 |
+| Our skin has important benefits (Yemen, Grade 4 Part 1) | Yemen, *Science, Grade 4, Part 1*, printed p. 66 |
+| Excretion through the skin (Unit 6, Lesson 4) (Yemen, Grade 9 Part 1) | Yemen, *Science, Grade 9, Part 1*, printed p. 119 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Moldova, Seychelles, Cabo Verde, Sudan, Mauritania, Angola, Syria, Laos, Eritrea, Sri Lanka, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body skin-the-integumentary-system

@@ -1,6 +1,6 @@
 # Sources — Matter — the particle theory
 
-countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Bhutan, Kuwait, Syria, Sri Lanka, Indonesia, Bangladesh, Fiji
+countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Bhutan, Kuwait, Syria, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
@@ -400,3 +400,20 @@ Searchable tags: bangladesh, bangladesh science, nctb, materials matter-the-part
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, materials matter-the-particle-theory
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 6, Part 2):** *العلوم (Science), Grade 6, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-06/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 131 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 7, Part 1):** *العلوم للصف السابع من مرحلة التعليم الأساسي، الجزء الأول (Science for Grade 7 of Basic Education, Part 1)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-07/gov/yemen/science/student/part-1.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across 2021–2024, so the same ministry file); staged under the 2026-11-13 rule. PDF pages: 179. Verdict: COMPLETE (runs to printed p. 175, “Part One is finished”, and the back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Composition of matter (Unit 7, Matter) (Yemen, Grade 6 Part 2) | Yemen, *Science, Grade 6, Part 2*, printed p. 8 |
+| The three states compared in one table: spacing between particles, strength of the pull between them and freedom of movement (Unit 2, Lesson 3) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 29 |
+
+**Acceptance count: taught in 30 countries (Ethiopia, Barbados, Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab, Bangladesh, Fiji, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, materials matter-the-particle-theory

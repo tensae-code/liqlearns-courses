@@ -1,6 +1,6 @@
 # Sources — Food — how food gets spoiled
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Sri Lanka
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Yemen
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -289,3 +289,17 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, food h
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, food how food gets spoiled
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 5, Part 1):** *العلوم (Science), Grade 5, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 120 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Health of our digestive system (Yemen, Grade 5 Part 1) | Yemen, *Science, Grade 5, Part 1*, printed p. 20 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Pakistan (Punjab, Eritrea, Sri Lanka, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, keeping-healthy food-how-food-gets-spoiled

@@ -1,6 +1,6 @@
 # Sources — Living and non-living things
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only), Guyana, Bahamas (curriculum evidence only), Cambodia (guide evidence only), Seychelles, Ecuador, Bhutan, Kuwait, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only), Guyana, Bahamas (curriculum evidence only), Cambodia (guide evidence only), Seychelles, Ecuador, Bhutan, Kuwait, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -246,3 +246,17 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, scie
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, science-skills living-and-non-living-things
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 1, Part 1):** *العلوم (Science), Grade 1, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-01/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 98. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Living beings and non-living things (Unit 4) (Yemen, Grade 1 Part 1) | Yemen, *Science, Grade 1, Part 1*, printed p. 86 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Guyana, Seychelles, Ecuador, Bhutan, Kuwait, China, Syria, Eritrea, North Macedonia, Indonesia, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, science-skills living-and-non-living-things

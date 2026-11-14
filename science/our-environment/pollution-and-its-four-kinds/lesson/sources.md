@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -406,3 +406,20 @@ Searchable tags: bangladesh, bangladesh science, nctb, our-environment pollution
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, our-environment pollution-and-its-four-kinds
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 9, Part 2):** *العلوم للصف التاسع من مرحلة التعليم الأساسي، الجزء الثاني (Science for Grade 9 of Basic Education, Part 2)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-09/gov/yemen/science/student/part-2.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across many captures, 2017–2024); staged under the 2026-11-13 rule. PDF pages: 156. Verdict: COMPLETE (runs to printed p. 151, the Unit 16 assessment, then the “book finished” page and back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The harms of polluted air (Unit 7, Lesson 4) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 45 |
+| Pollution from the chemical industries: a class visit to a petrochemical plant scores its products and benefits against the wastes it pours into air, soil and water, and proposes how the damage can be cut (Unit 9, Lesson 6) (Yemen, Grade 9 Part 2) | Yemen, *Science, Grade 9, Part 2*, printed p. 27 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Mexico, India, Pakistan (Punjab, Bangladesh, Fiji, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, our-environment pollution-and-its-four-kinds

@@ -1,6 +1,6 @@
 # Sources — Seasons and climate zones of our country
 
-countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy, Mongolia, Costa Rica, Moldova, Cuba, Samoa, Cambodia, Dominican Republic, North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy, Mongolia, Costa Rica, Moldova, Cuba, Samoa, Cambodia, Dominican Republic, North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -215,3 +215,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, weather-and-seasons seaso
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, weather-and-seasons seasons-and-climate-zones-of-our-country
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 2, Part 1):** *العلوم (Science), Grade 2, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-02/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 114. Verdict: COMPLETE (no Part 2 for Grade 2 is in the target set). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Four seasons in the year (Yemen, Grade 2 Part 1) | Yemen, *Science, Grade 2, Part 1*, printed p. 105 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Mexico, Italy, Mongolia, Costa Rica, Moldova, Cuba, Samoa, Cambodia, Dominican Republic, North Macedonia, Indonesia, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, weather-and-seasons seasons-and-climate-zones-of-our-country

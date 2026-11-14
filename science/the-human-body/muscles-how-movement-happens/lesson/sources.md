@@ -1,6 +1,6 @@
 # Sources — Muscles — how movement happens
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Sri Lanka, Rwanda, North Macedonia
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Sri Lanka, Rwanda, North Macedonia, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -316,3 +316,27 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, the-human-body muscles-how-movement-happens
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 1):** *العلوم (Science), Grade 4, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-04/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 138. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 5, Part 2):** *العلوم (Science), Grade 5, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 153 as checked against the student book itself by the finisher reader (the placements section header's “55 pages” came from the grab record and is wrong); the book contains Units 7–12, running to printed p. 147. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 5 Teacher Guide):** *دليل المعلم لتدريس كتاب العلوم (Teacher's Guide for Teaching the Science Book), Grade 5, full year* (teacher guide) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/teacher/full-year.pdf` is the same book — cited once. PDF pages: 115. Verdict: COMPLETE (contents and lesson backgrounds read from page renders). The guide covers all twelve units of the Grade 5 year; its rows below are its added scientific background, objectives and worked answers for the student lessons, plus Units 11–12 — all guide evidence, as filed. Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 7, Part 1):** *العلوم للصف السابع من مرحلة التعليم الأساسي، الجزء الأول (Science for Grade 7 of Basic Education, Part 1)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-07/gov/yemen/science/student/part-1.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across 2021–2024, so the same ministry file); staged under the 2026-11-13 rule. PDF pages: 179. Verdict: COMPLETE (runs to printed p. 175, “Part One is finished”, and the back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Our muscles cover our bones; muscles have important jobs (Yemen, Grade 4 Part 1) | Yemen, *Science, Grade 4, Part 1*, printed p. 47 |
+| Levers in the bodies of humans and animals (Yemen, Grade 5 Part 2) | Yemen, *Science, Grade 5, Part 2*, printed p. 63 |
+| Guide treatment of levers in the bodies of humans and animals (Unit 9, Lesson 4) (Yemen, Grade 5 Teacher Guide) (guide evidence) | Yemen, *Teacher's Guide for Teaching the Science Book, Grade 5*, printed p. 79 |
+| Tissues for movement: skeletal, smooth and cardiac muscle fibres compared under the microscope, and where each kind works (Unit 8, Lesson 3) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 153 |
+| Caring for bones and muscles: the exercise habits that keep them safe and the foods that grow them (protein, cheese, eggs) (Unit 9, Lesson 1) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 161 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Mongolia, Bulgaria, Moldova, Cuba, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Sri Lanka, Rwanda, North Macedonia, Yemen).** The Grade 5 teacher-guide rows above are guide evidence only, outside this count.
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body muscles-how-movement-happens

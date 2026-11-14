@@ -1,6 +1,6 @@
 # Sources — What controls a place's climate
 
-countries: Ethiopia, Italy, Iceland (teacher-guide evidence only), Micronesia, Mongolia, United States, Cuba, Egypt, Afghanistan, Dominican Republic, North Macedonia, Bangladesh
+countries: Ethiopia, Italy, Iceland (teacher-guide evidence only), Micronesia, Mongolia, United States, Cuba, Egypt, Afghanistan, Dominican Republic, North Macedonia, Bangladesh, Yemen
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -170,3 +170,17 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, weather-and-seasons what-controls-a-places-climate
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 5, Part 2):** *العلوم (Science), Grade 5, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 153 as checked against the student book itself by the finisher reader (the placements section header's “55 pages” came from the grab record and is wrong); the book contains Units 7–12, running to printed p. 147. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What the weather is affected by (Yemen, Grade 5 Part 2) | Yemen, *Science, Grade 5, Part 2*, printed p. 74 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Italy, Micronesia, Mongolia, United States, Cuba, Egypt, Afghanistan, Dominican Republic, North Macedonia, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, weather-and-seasons what-controls-a-places-climate

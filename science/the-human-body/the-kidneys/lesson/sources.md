@@ -1,6 +1,6 @@
 # Sources — The kidneys
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Bangladesh
+countries: Ethiopia, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Bangladesh, Yemen
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -283,3 +283,21 @@ Searchable tags: sri lanka, sri lanka science, the kidneys
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, the-human-body the-kidneys
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 6, Part 1):** *العلوم (Science), Grade 6, Part 1* (student book) — Yemen, Ministry of Education (yaman.e-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-06/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 57 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 9, Part 1):** *العلوم للصف التاسع الأساسي (Science for Grade 9 Basic), Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-09/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 170. Verdict: COMPLETE (contents and unit openers read from page renders; the PDF text layer is fragmented). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Our urinary system and the excretion process (Unit 3) (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 61 |
+| Excretion in our urinary system; health of the urinary system (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 65 |
+| Excretion in humans: the urinary system at work (Unit 6, Excretion in Living Organisms, Lesson 3) (Yemen, Grade 9 Part 1) | Yemen, *Science, Grade 9, Part 1*, printed p. 115 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Sri Lanka, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body the-kidneys

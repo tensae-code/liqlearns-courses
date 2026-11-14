@@ -1,6 +1,6 @@
 # Sources — Caring so they last: looking after natural resources
 
-countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, United States, Pakistan (Punjab), Egypt, Cambodia, Ecuador, Afghanistan, Sudan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh
+countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, United States, Pakistan (Punjab), Egypt, Cambodia, Ecuador, Afghanistan, Sudan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -311,3 +311,20 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, natu
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, natural-resources caring-so-they-last
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 5 Teacher Guide):** *دليل المعلم لتدريس كتاب العلوم (Teacher's Guide for Teaching the Science Book), Grade 5, full year* (teacher guide) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/teacher/full-year.pdf` is the same book — cited once. PDF pages: 115. Verdict: COMPLETE (contents and lesson backgrounds read from page renders). The guide covers all twelve units of the Grade 5 year; its rows below are its added scientific background, objectives and worked answers for the student lessons, plus Units 11–12 — all guide evidence, as filed. Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 9, Part 2):** *العلوم للصف التاسع من مرحلة التعليم الأساسي، الجزء الثاني (Science for Grade 9 of Basic Education, Part 2)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-09/gov/yemen/science/student/part-2.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across many captures, 2017–2024); staged under the 2026-11-13 rule. PDF pages: 156. Verdict: COMPLETE (runs to printed p. 151, the Unit 16 assessment, then the “book finished” page and back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mining and the environment (Unit 11, Lesson 3) (Yemen, Grade 5 Teacher Guide) (guide evidence) | Yemen, *Teacher's Guide for Teaching the Science Book, Grade 5*, printed p. 95 |
+| Growing the living wealth and keeping it: widening the farmed land and reclaiming more, dams and terraces against sand creep and water shortage, planting date palms sucker by sucker, improving cattle breeds and crops by cross-breeding, and modern beehives that out-produce the hollow-log hive several times over (Unit 14, Lesson 1) (Yemen, Grade 9 Part 2) | Yemen, *Science, Grade 9, Part 2*, printed p. 114 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, United States, Pakistan (Punjab, Bangladesh, Yemen).** The Grade 5 teacher-guide rows above are guide evidence only, outside this count.
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, natural-resources caring-so-they-last

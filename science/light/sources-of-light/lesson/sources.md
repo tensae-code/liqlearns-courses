@@ -1,6 +1,6 @@
 # Sources — Sources of light: lamps people make and light from nature
 
-countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Ecuador, Slovenia, Morocco (teacher-guide evidence only), Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Albania (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -369,3 +369,17 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, ligh
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, light sources-of-light
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sources of light (Unit 9, Light, Lesson 1) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 80 |
+
+**Acceptance count: taught in 25 countries (Ethiopia, Ecuador, Slovenia, Bulgaria, Belarus, Uzbekistan, Moldova, Mauritania, Serbia, Guyana, United States, Pakistan (Punjab), Afghanistan, Cabo Verde, Angola, Bhutan, Kuwait, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, light sources-of-light

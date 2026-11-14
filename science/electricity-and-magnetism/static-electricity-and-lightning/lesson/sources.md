@@ -1,6 +1,6 @@
 # Sources — Static electricity and lightning
 
-countries: Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka
+countries: Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka, Yemen
 
 **Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
 
@@ -108,3 +108,20 @@ Placement choice, on the record: the Sri Lanka placement(s) above filed as NEW L
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, static electricity and lightning
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 5, Part 2):** *العلوم (Science), Grade 5, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 153 as checked against the student book itself by the finisher reader (the placements section header's “55 pages” came from the grab record and is wrong); the book contains Units 7–12, running to printed p. 147. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 5 Teacher Guide):** *دليل المعلم لتدريس كتاب العلوم (Teacher's Guide for Teaching the Science Book), Grade 5, full year* (teacher guide) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/teacher/full-year.pdf` is the same book — cited once. PDF pages: 115. Verdict: COMPLETE (contents and lesson backgrounds read from page renders). The guide covers all twelve units of the Grade 5 year; its rows below are its added scientific background, objectives and worked answers for the student lessons, plus Units 11–12 — all guide evidence, as filed. Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Charging bodies by rubbing; charged bodies attract and repel; transfer of electric charge (Unit 8, Static Electricity) (placement filed as NEW LESSON NEEDED — static-electricity-charging-by-rubbing; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Yemen, Grade 5 Part 2) | Yemen, *Science, Grade 5, Part 2*, printed p. 29 |
+| Guide treatment of charging bodies, kinds of electric charge and charge transfer (Unit 8) (placement filed as NEW LESSON NEEDED — static-electricity-charging-by-rubbing; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Yemen, Grade 5 Teacher Guide) (guide evidence) | Yemen, *Teacher's Guide for Teaching the Science Book, Grade 5*, printed p. 67 |
+
+**Acceptance count: taught in 7 countries (Pakistan (Punjab), Afghanistan, Sudan, Bhutan, Syria, Sri Lanka, Yemen).** The Grade 5 teacher-guide rows above are guide evidence only, outside this count.
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, electricity-and-magnetism static-electricity-and-lightning

@@ -1,6 +1,6 @@
 # Sources — Today's weather
 
-countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji
+countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Cambodia, Ecuador, Mauritania, Kuwait, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Yemen
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -392,3 +392,20 @@ Searchable tags: bangladesh, bangladesh science, nctb, weather-and-seasons today
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, weather-and-seasons todays-weather
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 2, Part 1):** *العلوم (Science), Grade 2, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-02/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 114. Verdict: COMPLETE (no Part 2 for Grade 2 is in the target set). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 5, Part 2):** *العلوم (Science), Grade 5, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 153 as checked against the student book itself by the finisher reader (the placements section header's “55 pages” came from the grab record and is wrong); the book contains Units 7–12, running to printed p. 147. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The state of the weather around us (Unit 6, Weather and the Four Seasons) (Yemen, Grade 2 Part 1) | Yemen, *Science, Grade 2, Part 1*, printed p. 99 |
+| Talking about the weather (Unit 10, Weather in Our Life) (Yemen, Grade 5 Part 2) | Yemen, *Science, Grade 5, Part 2*, printed p. 69 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Finland, Italy, Guyana, India, Uganda, United States, Pakistan (Punjab, Eritrea, Sri Lanka, Bangladesh, Fiji, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, weather-and-seasons todays-weather

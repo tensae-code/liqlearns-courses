@@ -1,6 +1,6 @@
 # Sources — What soil is and what is in it
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Bulgaria, Moldova, Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Bulgaria, Moldova, Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Yemen
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -521,3 +521,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, soil-and-water what-soil-
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, soil-and-water what-soil-is-and-what-is-in-it
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 3, Part 1):** *العلوم (Science), Grade 3, Part 1* (student book) — Yemen, Ministry of Education and Scientific Research (E-learning-moe.edu.ye), 1448H / 2027 edition notice in front matter. Records: TSV release copy (`grade-03-gov-yemen-science-student-part-1.pdf`) and books.json `grade-03/gov/yemen/science/student/part-1.pdf` — same book, cited once; release copy read. PDF pages: 162 (this copy runs to printed p. 157 and beyond the fifth unit's assessment; treated as COMPLETE for Part 1 as recorded). Verdict: COMPLETE. The PDFs carry a fragmented font layer, so contents pages and unit openers were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The soil of my land is varied (Yemen, Grade 3 Part 1) | Yemen, *Science, Grade 3, Part 1*, printed p. 152 |
+
+**Acceptance count: taught in 29 countries (Ethiopia, Mexico, Suriname, Italy, Nauru, Tuvalu, Niue, Micronesia, India, Bulgaria, Moldova, Cuba, Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, soil-and-water what-soil-is-and-what-is-in-it

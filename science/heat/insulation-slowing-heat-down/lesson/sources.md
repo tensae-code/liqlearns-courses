@@ -1,6 +1,6 @@
 # Sources — Insulation — slowing heat down
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhutan, Libya, Greece, Kazakhstan, Serbia, Djibouti (teacher-guide evidence only), United States, Seychelles, Kuwait, China
+countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhutan, Libya, Greece, Kazakhstan, Serbia, Djibouti (teacher-guide evidence only), United States, Seychelles, Kuwait, China, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -139,3 +139,20 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, insulation slowing
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, insulation slowing heat down
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 3, Part 1):** *العلوم (Science), Grade 3, Part 1* (student book) — Yemen, Ministry of Education and Scientific Research (E-learning-moe.edu.ye), 1448H / 2027 edition notice in front matter. Records: TSV release copy (`grade-03-gov-yemen-science-student-part-1.pdf`) and books.json `grade-03/gov/yemen/science/student/part-1.pdf` — same book, cited once; release copy read. PDF pages: 162 (this copy runs to printed p. 157 and beyond the fifth unit's assessment; treated as COMPLETE for Part 1 as recorded). Verdict: COMPLETE. The PDFs carry a fragmented font layer, so contents pages and unit openers were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 5, Part 2):** *العلوم (Science), Grade 5, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 153 as checked against the student book itself by the finisher reader (the placements section header's “55 pages” came from the grab record and is wrong); the book contains Units 7–12, running to printed p. 147. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Benefits of heat in our life (Yemen, Grade 3 Part 1) | Yemen, *Science, Grade 3, Part 1*, printed p. 122 |
+| Uses of heat (Yemen, Grade 5 Part 2) | Yemen, *Science, Grade 5, Part 2*, printed p. 20 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Syria, Uganda, Bhutan, Libya, Greece, Kazakhstan, Serbia, United States, Kuwait, China, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, heat insulation-slowing-heat-down

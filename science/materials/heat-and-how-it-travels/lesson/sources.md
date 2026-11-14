@@ -1,6 +1,6 @@
 # Sources — Heat and how it travels
 
-countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh
+countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -289,3 +289,26 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, materials heat-and-how-it-travels
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 3, Part 1):** *العلوم (Science), Grade 3, Part 1* (student book) — Yemen, Ministry of Education and Scientific Research (E-learning-moe.edu.ye), 1448H / 2027 edition notice in front matter. Records: TSV release copy (`grade-03-gov-yemen-science-student-part-1.pdf`) and books.json `grade-03/gov/yemen/science/student/part-1.pdf` — same book, cited once; release copy read. PDF pages: 162 (this copy runs to printed p. 157 and beyond the fifth unit's assessment; treated as COMPLETE for Part 1 as recorded). Verdict: COMPLETE. The PDFs carry a fragmented font layer, so contents pages and unit openers were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 5, Part 2):** *العلوم (Science), Grade 5, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 153 as checked against the student book itself by the finisher reader (the placements section header's “55 pages” came from the grab record and is wrong); the book contains Units 7–12, running to printed p. 147. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 6, Part 2):** *العلوم (Science), Grade 6, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-06/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 131 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sources of heat in our life (Unit 4, Thermal Energy) (Yemen, Grade 3 Part 1) | Yemen, *Science, Grade 3, Part 1*, printed p. 109 |
+| Sources of heat are many (Unit 8, Heat: Measuring It and Its Effect, Lesson 1) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 49 |
+| Heat transfers in many ways (Unit 7, Heat: Its Transfer and Uses) (Yemen, Grade 5 Part 2) | Yemen, *Science, Grade 5, Part 2*, printed p. 8 |
+| Effect of heat on materials (Yemen, Grade 6 Part 2) | Yemen, *Science, Grade 6, Part 2*, printed p. 19 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Australia, India, United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Angola, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, materials heat-and-how-it-travels

@@ -1,6 +1,6 @@
 # Sources — Light — how seeing works
 
-countries: Ethiopia, Morocco (teacher-guide evidence only), Mongolia, Moldova, United States, Cuba, Egypt, Seychelles, Bhutan, Kuwait, Syria, Laos, Sri Lanka, Indonesia, Bangladesh
+countries: Ethiopia, Morocco (teacher-guide evidence only), Mongolia, Moldova, United States, Cuba, Egypt, Seychelles, Bhutan, Kuwait, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -215,3 +215,17 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, ligh
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, light light-how-seeing-works
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 8, Part 2):** *العلوم (Science), Grade 8, Part 2* (student book; units numbered 11–16, continuing Part 1) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-08/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 114. Verdict: COMPLETE (contents and unit openers read from page renders; the PDF text layer is empty). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How does the eye see things? (Unit 13, Lesson 3) (Yemen, Grade 8 Part 2) | Yemen, *Science, Grade 8, Part 2*, printed p. 53 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Mongolia, Moldova, United States, Cuba, Egypt, Seychelles, Bhutan, Kuwait, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, light light-how-seeing-works

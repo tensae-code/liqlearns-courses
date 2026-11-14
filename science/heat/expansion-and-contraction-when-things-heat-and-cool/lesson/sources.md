@@ -1,6 +1,6 @@
 # Sources — Expansion and contraction — when things heat and cool
 
-countries: Seychelles, Kuwait, China
+countries: Seychelles, Kuwait, China, Yemen
 
 **Book (Seychelles — Unit 10: Heat and Molecules (P8)):** *Seychelles Integrated Science — Heat and Molecules*, Unit 10 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-10-heat-and-molecules.pdf` — same book, cited once. Size verified 12,540,761 bytes = record size_bytes; PDF 58 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–9 and both Summaries present, with the pupil booklet). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
 
@@ -48,3 +48,20 @@ Placement choice, on the record: the China placement(s) above filed as NEW LESSO
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, expansion and contraction when things heat and cool
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 7, Part 1):** *العلوم للصف السابع من مرحلة التعليم الأساسي، الجزء الأول (Science for Grade 7 of Basic Education, Part 1)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-07/gov/yemen/science/student/part-1.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across 2021–2024, so the same ministry file); staged under the 2026-11-13 rule. PDF pages: 179. Verdict: COMPLETE (runs to printed p. 175, “Part One is finished”, and the back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Materials expand with heat and contract with cold (Unit 8, Lesson 4) (placement filed as NEW LESSON NEEDED — thermal-expansion-and-contraction; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 69 |
+| Heat lengthens and swells bodies: expansion of solids, liquids and gases measured with a pyrometer and flask experiments, water the exception near 4 degrees; sagging wires in summer, bursting tyres and the gaps left in bridges and rails (Unit 5, Lesson 3) (placement filed as NEW LESSON NEEDED — thermal-expansion-and-contraction; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 96 |
+
+**Acceptance count: taught in 4 countries (Seychelles, Kuwait, China, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, heat expansion-and-contraction-when-things-heat-and-cool

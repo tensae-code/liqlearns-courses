@@ -1,6 +1,6 @@
 # Sources — Air pollution — what dirties the air
 
-countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Afghanistan, Cabo Verde, Angola, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Fiji (teacher-guide evidence only)
+countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Afghanistan, Cabo Verde, Angola, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -361,3 +361,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, our-environment air-pollu
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, our-environment air-pollution-what-dirties-the-air
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Air pollution (Unit 7, Lesson 3) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 41 |
+
+**Acceptance count: taught in 17 countries (Italy, Uganda, Bulgaria, Pakistan (Punjab, Eritrea, Rwanda, Indonesia, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, our-environment air-pollution-what-dirties-the-air

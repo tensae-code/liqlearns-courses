@@ -1,6 +1,6 @@
 # Sources — Treating water to make it safe — filtering and settling
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only)
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -291,3 +291,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, soil-and-water treating-w
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, soil-and-water treating-water-to-make-it-safe-filtering-and-settling
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 7, Part 1):** *العلوم للصف السابع من مرحلة التعليم الأساسي، الجزء الأول (Science for Grade 7 of Basic Education, Part 1)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-07/gov/yemen/science/student/part-1.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across 2021–2024, so the same ministry file); staged under the 2026-11-13 rule. PDF pages: 179. Verdict: COMPLETE (runs to printed p. 175, “Part One is finished”, and the back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Purifying drinking water as an application: the home filter-and-ultraviolet unit, and the city treatment plant stage by stage (screening, chlorination, alum flocculation, settling, filtration), with a visit report on the Aden desalination plant (Unit 3, Lesson 3) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 55 |
+
+**Acceptance count: taught in 14 countries (India, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, soil-and-water treating-water-to-make-it-safe-filtering-and-settling

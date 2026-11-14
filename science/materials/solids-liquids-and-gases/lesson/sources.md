@@ -1,6 +1,6 @@
 # Sources — Solids, liquids and gases
 
-countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji
+countries: Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Cuba, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -812,3 +812,31 @@ Searchable tags: bangladesh, bangladesh science, nctb, materials solids-liquids-
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, materials solids-liquids-and-gases
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 1, Part 2):** *العلوم (Science), Grade 1, Part 2* (student book) — Yemen, Ministry of Education (yaman.e-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-01/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 106. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 3, Part 1):** *العلوم (Science), Grade 3, Part 1* (student book) — Yemen, Ministry of Education and Scientific Research (E-learning-moe.edu.ye), 1448H / 2027 edition notice in front matter. Records: TSV release copy (`grade-03-gov-yemen-science-student-part-1.pdf`) and books.json `grade-03/gov/yemen/science/student/part-1.pdf` — same book, cited once; release copy read. PDF pages: 162 (this copy runs to printed p. 157 and beyond the fifth unit's assessment; treated as COMPLETE for Part 1 as recorded). Verdict: COMPLETE. The PDFs carry a fragmented font layer, so contents pages and unit openers were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 7, Part 1):** *العلوم للصف السابع من مرحلة التعليم الأساسي، الجزء الأول (Science for Grade 7 of Basic Education, Part 1)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-07/gov/yemen/science/student/part-1.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across 2021–2024, so the same ministry file); staged under the 2026-11-13 rule. PDF pages: 179. Verdict: COMPLETE (runs to printed p. 175, “Part One is finished”, and the back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Knowing matter and its states (Unit 7, Materials Around Us) (Yemen, Grade 1 Part 2) | Yemen, *Science, Grade 1, Part 2*, printed p. 54 |
+| Solid materials in our life (Yemen, Grade 1 Part 2) | Yemen, *Science, Grade 1, Part 2*, printed p. 58 |
+| Liquid materials in our life (Yemen, Grade 1 Part 2) | Yemen, *Science, Grade 1, Part 2*, printed p. 61 |
+| Gaseous materials in our life (Yemen, Grade 1 Part 2) | Yemen, *Science, Grade 1, Part 2*, printed p. 66 |
+| States of matter change (Yemen, Grade 3 Part 1) | Yemen, *Science, Grade 3, Part 1*, printed p. 78 |
+| Heat changes the state of matter (Unit 8, Lesson 3) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 62 |
+| The solid state: fixed shape and volume, and crystalline against non-crystalline solids told apart by how their particles are arranged (Unit 2, Materials Around Us, Lesson 1) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 22 |
+| The liquid state: fixed volume but the shape of the vessel, and flowing; why water and alcohol mixed give less than the sum of their volumes (Unit 2, Lesson 2) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 25 |
+| The gaseous state: no fixed shape or volume, spreads to fill the vessel and presses on its walls, found through a balloon and perfume spreading across a room (Unit 2, Lesson 3) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 28 |
+
+**Acceptance count: taught in 41 countries (Ethiopia, Slovenia, Iraq, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, Mauritania, Nauru, Tuvalu, Niue, Serbia, Mongolia, Costa Rica, India, Uganda, Bulgaria, United States, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, materials solids-liquids-and-gases

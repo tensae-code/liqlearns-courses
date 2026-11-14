@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh
+countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -310,3 +310,27 @@ Searchable tags: zimbabwe, plusone, science and technology, heritage-based curri
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, natural-resources minerals-from-the-ground
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 3, Part 1):** *العلوم (Science), Grade 3, Part 1* (student book) — Yemen, Ministry of Education and Scientific Research (E-learning-moe.edu.ye), 1448H / 2027 edition notice in front matter. Records: TSV release copy (`grade-03-gov-yemen-science-student-part-1.pdf`) and books.json `grade-03/gov/yemen/science/student/part-1.pdf` — same book, cited once; release copy read. PDF pages: 162 (this copy runs to printed p. 157 and beyond the fifth unit's assessment; treated as COMPLETE for Part 1 as recorded). Verdict: COMPLETE. The PDFs carry a fragmented font layer, so contents pages and unit openers were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 5, Part 2):** *العلوم (Science), Grade 5, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 153 as checked against the student book itself by the finisher reader (the placements section header's “55 pages” came from the grab record and is wrong); the book contains Units 7–12, running to printed p. 147. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 5 Teacher Guide):** *دليل المعلم لتدريس كتاب العلوم (Teacher's Guide for Teaching the Science Book), Grade 5, full year* (teacher guide) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/teacher/full-year.pdf` is the same book — cited once. PDF pages: 115. Verdict: COMPLETE (contents and lesson backgrounds read from page renders). The guide covers all twelve units of the Grade 5 year; its rows below are its added scientific background, objectives and worked answers for the student lessons, plus Units 11–12 — all guide evidence, as filed. Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The rocks of my country are varied (Yemen, Grade 3 Part 1) | Yemen, *Science, Grade 3, Part 1*, printed p. 145 |
+| The varied rocks of the Earth's crust (Unit 11, Lesson 2) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 140 |
+| Minerals in our life: iron goes into heavy machines, cars, ploughs and the carpenter's tools because it is strong and does not break easily; aluminium, light and rust-free, builds aircraft bodies and the cooking pots used at home (Unit 11, Minerals Are Our Country's Wealth, Lesson 3) (Yemen, Grade 5 Part 2) | Yemen, *Science, Grade 5, Part 2*, printed p. 104 |
+| Minerals are varied materials (Unit 11, Minerals Are Our Country's Wealth, Lesson 1) (Yemen, Grade 5 Teacher Guide) (guide evidence) | Yemen, *Teacher's Guide for Teaching the Science Book, Grade 5*, printed p. 91 |
+| Important minerals in Yemen — the country's own mineral wealth (Unit 11, Lesson 2) (Yemen, Grade 5 Teacher Guide) (guide evidence) | Yemen, *Teacher's Guide for Teaching the Science Book, Grade 5*, printed p. 94 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Italy, Costa Rica, Greece, United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Angola, China, Laos, Eritrea, Bangladesh, Yemen).** The Grade 5 teacher-guide rows above are guide evidence only, outside this count.
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, natural-resources minerals-from-the-ground

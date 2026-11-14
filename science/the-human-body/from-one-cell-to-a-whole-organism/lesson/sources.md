@@ -1,6 +1,6 @@
 # Sources — Cells — from one cell to a whole organism
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Cuba, Samoa, Egypt, Seychelles, Venezuela (curriculum/proposal evidence only), Angola, Dominican Republic, Kuwait
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Cuba, Samoa, Egypt, Seychelles, Venezuela (curriculum/proposal evidence only), Angola, Dominican Republic, Kuwait, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -159,3 +159,17 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, from one cell to a whole organism
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 1):** *العلوم (Science), Grade 4, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-04/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 138. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| From the cell to the organ/system (Yemen, Grade 4 Part 1) | Yemen, *Science, Grade 4, Part 1*, printed p. 17 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Cuba, Samoa, Egypt, Angola, Dominican Republic, Kuwait, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body from-one-cell-to-a-whole-organism

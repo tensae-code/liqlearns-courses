@@ -1,6 +1,6 @@
 # Sources — How electricity is generated — power stations from source to grid
 
-countries: Argentina, Gabon (teacher-guide evidence only), Uzbekistan, Mozambique, Pakistan (Punjab), Sudan, Angola, Bhutan, Laos, Rwanda, North Macedonia, Indonesia
+countries: Argentina, Gabon (teacher-guide evidence only), Uzbekistan, Mozambique, Pakistan (Punjab), Sudan, Angola, Bhutan, Laos, Rwanda, North Macedonia, Indonesia, Yemen
 
 **Book 1:** *La energía: cambios y movimientos* (student booklet) — Argentina, Física, Serie Cuadernos para el aula, Núcleos de Aprendizajes Prioritarios (NAP), Ministerio de Educación, Ciencia y Tecnología de la Nación, 1a ed., Buenos Aires, 2007. ISBN 978-950-00-0667-5. Title as printed: La energía: cambios y movimientos. Grade 7. The cover banner reads "ESTUDIANTES" — this is the students' edition (the series has a separate teacher-orientation version). PDF 28 pp., each page a two-page landscape spread = 56 printed pp., matching the imprint's "56 p.". Offset: printed pp. 10–11 = PDF p. 6, so printed p. N sits on PDF spread p. (N+2)/2; chapters are cited by printed page. COMPLETE. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/argentina-placements.md.
 
@@ -163,3 +163,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, motion-force-and-energy how-electricity-is-generated-power-stations-to-the-grid
 
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 6, Part 2):** *العلوم (Science), Grade 6, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-06/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 131 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sources of electric current (Yemen, Grade 6 Part 2) | Yemen, *Science, Grade 6, Part 2*, printed p. 142 |
+
+**Acceptance count: taught in 12 countries (Argentina, Uzbekistan, Mozambique, Pakistan (Punjab), Sudan, Angola, Bhutan, Laos, Rwanda, North Macedonia, Indonesia, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, motion-force-and-energy how-electricity-is-generated-power-stations-to-the-grid

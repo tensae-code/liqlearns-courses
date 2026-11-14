@@ -1,6 +1,6 @@
 # Sources — The daily motion of the Sun, Moon and stars
 
-countries: Mongolia, Vietnam, Albania (teacher-guide evidence only), United States, China, Laos, Sri Lanka, Bangladesh
+countries: Mongolia, Vietnam, Albania (teacher-guide evidence only), United States, China, Laos, Sri Lanka, Bangladesh, Yemen
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -122,3 +122,17 @@ Searchable tags: sri lanka, sri lanka science, the daily motion of the sun moon 
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space the-daily-motion-of-the-sun-moon-and-stars
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 1, Part 2):** *العلوم (Science), Grade 1, Part 2* (student book) — Yemen, Ministry of Education (yaman.e-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-01/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 106. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What we see in the sky by day (Unit 9) (Yemen, Grade 1 Part 2) | Yemen, *Science, Grade 1, Part 2*, printed p. 93 |
+
+**Acceptance count: taught in 8 countries (Mongolia, Vietnam, United States, China, Laos, Sri Lanka, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, earth-and-space the-daily-motion-of-the-sun-moon-and-stars

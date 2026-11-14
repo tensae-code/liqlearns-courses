@@ -1,6 +1,6 @@
 # Sources — Plants and wild animals as resources
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Angola, Syria
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Angola, Syria, Yemen
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -69,3 +69,18 @@ Searchable tags: angola, estudo do meio 3, estudo do meio 4, grade 3, grade 4
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, plants and wild animals as resources
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 9, Part 2):** *العلوم للصف التاسع من مرحلة التعليم الأساسي، الجزء الثاني (Science for Grade 9 of Basic Education, Part 2)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-09/gov/yemen/science/student/part-2.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across many captures, 2017–2024); staged under the 2026-11-13 rule. PDF pages: 156. Verdict: COMPLETE (runs to printed p. 151, the Unit 16 assessment, then the “book finished” page and back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The living wealth of the environment: everything living in nature that people lean on for food, clothing, furniture and medicine — crops and orchards on one side, herds and flocks on the other (Unit 14, Humans Invest the Resources of the Living Environment, Lesson 1) (Yemen, Grade 9 Part 2) | Yemen, *Science, Grade 9, Part 2*, printed p. 108 |
+| Industries built on the living wealth: every part of the palm put to work (fruit, stones, fibre, fronds, trunk), date syrup, pure honey and royal jelly, and cheese made from milk by curdling — acid curdling against rennet curdling, step by step (Unit 14, Lesson 2) (Yemen, Grade 9 Part 2) | Yemen, *Science, Grade 9, Part 2*, printed p. 117 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Angola, Syria, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, natural-resources plants-and-wild-animals-as-resources

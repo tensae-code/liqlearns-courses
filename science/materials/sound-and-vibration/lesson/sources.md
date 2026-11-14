@@ -1,6 +1,6 @@
 # Sources — Sound and vibration
 
-countries: Ethiopia, Uzbekistan, Armenia, North Macedonia
+countries: Ethiopia, Uzbekistan, Armenia, North Macedonia, Yemen
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -53,3 +53,17 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, materials sound-and-vibration
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How sounds are produced (Unit 10, Lesson 2) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 110 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Uzbekistan, Armenia, North Macedonia, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, materials sound-and-vibration

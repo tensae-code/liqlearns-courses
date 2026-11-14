@@ -1,6 +1,6 @@
 # Sources — The Solar system — planets and the modern picture of the Universe
 
-countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa (curriculum evidence only), Egypt, Cambodia, Ecuador, Afghanistan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji
+countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa (curriculum evidence only), Egypt, Cambodia, Ecuador, Afghanistan, Venezuela, Angola, Bhutan, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -492,3 +492,20 @@ Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space the-solar
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space the-solar-system-planets-and-the-modern-picture-of-the-universe
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 5 Teacher Guide):** *دليل المعلم لتدريس كتاب العلوم (Teacher's Guide for Teaching the Science Book), Grade 5, full year* (teacher guide) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/teacher/full-year.pdf` is the same book — cited once. PDF pages: 115. Verdict: COMPLETE (contents and lesson backgrounds read from page renders). The guide covers all twelve units of the Grade 5 year; its rows below are its added scientific background, objectives and worked answers for the student lessons, plus Units 11–12 — all guide evidence, as filed. Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 7, Part 2):** *العلوم (Science), Grade 7, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-07/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 95 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Planets revolve around the sun (Unit 12, Lesson 2) (Yemen, Grade 5 Teacher Guide) (guide evidence) | Yemen, *Teacher's Guide for Teaching the Science Book, Grade 5*, printed p. 103 |
+| Stars, planets and satellites (Unit 12, Bodies in Space) (Yemen, Grade 7 Part 2) | Yemen, *Science, Grade 7, Part 2*, printed p. 48 |
+
+**Acceptance count: taught in 28 countries (Uzbekistan, Haiti, Guyana, Costa Rica, India, Bulgaria, Moldova, Pakistan (Punjab, Bangladesh, Fiji, Yemen).** The Grade 5 teacher-guide rows above are guide evidence only, outside this count.
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, earth-and-space the-solar-system-planets-and-the-modern-picture-of-the-universe

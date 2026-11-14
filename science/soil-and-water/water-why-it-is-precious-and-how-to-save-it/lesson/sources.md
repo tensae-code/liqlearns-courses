@@ -1,6 +1,6 @@
 # Sources — Water — why it is precious and how to save it
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -392,3 +392,20 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, soil
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, soil-and-water water-why-it-is-precious-and-how-to-save-it
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 5, Part 1):** *العلوم (Science), Grade 5, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 120 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 5 Teacher Guide):** *دليل المعلم لتدريس كتاب العلوم (Teacher's Guide for Teaching the Science Book), Grade 5, full year* (teacher guide) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/teacher/full-year.pdf` is the same book — cited once. PDF pages: 115. Verdict: COMPLETE (contents and lesson backgrounds read from page renders). The guide covers all twelve units of the Grade 5 year; its rows below are its added scientific background, objectives and worked answers for the student lessons, plus Units 11–12 — all guide evidence, as filed. Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| I keep water (conserving it) (Yemen, Grade 5 Part 1) | Yemen, *Science, Grade 5, Part 1*, printed p. 121 |
+| Guide treatment of keeping water: sources and preserving water (Unit 6, Lessons 2–3) (Yemen, Grade 5 Teacher Guide) (guide evidence) | Yemen, *Teacher's Guide for Teaching the Science Book, Grade 5*, printed p. 53 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Yemen).** The Grade 5 teacher-guide rows above are guide evidence only, outside this count.
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, soil-and-water water-why-it-is-precious-and-how-to-save-it

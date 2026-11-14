@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -624,3 +624,28 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, the-
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, the-human-body parts-of-the-body-and-the-five-senses
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 1, Part 1):** *العلوم (Science), Grade 1, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-01/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 98. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 7, Part 1):** *العلوم للصف السابع من مرحلة التعليم الأساسي، الجزء الأول (Science for Grade 7 of Basic Education, Part 1)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-07/gov/yemen/science/student/part-1.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across 2021–2024, so the same ministry file); staged under the 2026-11-13 rule. PDF pages: 179. Verdict: COMPLETE (runs to printed p. 175, “Part One is finished”, and the back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Our Bodies unit: my body, my head, my trunk, my limbs (Unit 1) (Yemen, Grade 1 Part 1) | Yemen, *Science, Grade 1, Part 1*, printed p. 7 |
+| Our Senses unit, one lesson per sense: seeing with the eye (Yemen, Grade 1 Part 1) | Yemen, *Science, Grade 1, Part 1*, printed p. 31 |
+| Hearing with the ear (Yemen, Grade 1 Part 1) | Yemen, *Science, Grade 1, Part 1*, printed p. 39 |
+| Smelling with the nose (Yemen, Grade 1 Part 1) | Yemen, *Science, Grade 1, Part 1*, printed p. 45 |
+| Tasting with the tongue (Yemen, Grade 1 Part 1) | Yemen, *Science, Grade 1, Part 1*, printed p. 50 |
+| Touching with the skin (Yemen, Grade 1 Part 1) | Yemen, *Science, Grade 1, Part 1*, printed p. 54 |
+| How we perceive materials: the senses as the first measuring tools (Unit 6, Lesson 2) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 13 |
+| Sensing what is around us: the reflex action traced from a hot cup through skin, spinal cord and muscle; the five sense organs — the eye, the ear with its three little bones and cochlea, the nose, the tongue's taste areas and the skin's receptors — and how to care for them (Unit 9, Lesson 2) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 164 |
+
+**Acceptance count: taught in 28 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body parts-of-the-body-and-the-five-senses

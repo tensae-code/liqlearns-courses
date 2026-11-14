@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh
+countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -337,3 +337,24 @@ Searchable tags: sri lanka, sri lanka science, the brain
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, the-human-body the-brain
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 2, Part 1):** *العلوم (Science), Grade 2, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-02/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 114. Verdict: COMPLETE (no Part 2 for Grade 2 is in the target set). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 6, Part 1):** *العلوم (Science), Grade 6, Part 1* (student book) — Yemen, Ministry of Education (yaman.e-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-06/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 57 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 7, Part 1):** *العلوم للصف السابع من مرحلة التعليم الأساسي، الجزء الأول (Science for Grade 7 of Basic Education, Part 1)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-07/gov/yemen/science/student/part-1.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across 2021–2024, so the same ministry file); staged under the 2026-11-13 rule. PDF pages: 179. Verdict: COMPLETE (runs to printed p. 175, “Part One is finished”, and the back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The mouth and the brain in my head (Unit 1, Our Bodies) (Yemen, Grade 2 Part 1) | Yemen, *Science, Grade 2, Part 1*, printed p. 8 |
+| Components of our nervous system (Unit 2) (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 39 |
+| Functions of our nervous system (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 45 |
+| The nerve cell and nervous tissue: cell body, branching dendrites and the long axon; nervous tissue builds the brain, spinal cord and nerves and runs the body's processes (Unit 8, Lesson 3) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 154 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Australia, Guyana, India, Moldova, Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body the-brain

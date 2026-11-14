@@ -1,6 +1,6 @@
 # Sources — Cycles — the carbon cycle
 
-countries: Ethiopia, United States, Samoa, Sudan
+countries: Ethiopia, United States, Samoa, Sudan, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -46,3 +46,17 @@ Searchable tags: samoa, samoa mesc, our environment cycles the carbon cycle
 
 **Acceptance count: taught in 4 countries (Ethiopia, United States, Samoa, Sudan).**
 Searchable tags: sudan, sudan grade 8, our-environment/cycles-the-carbon-cycle
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 6, Part 2):** *العلوم (Science), Grade 6, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-06/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 131 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Carbon dioxide: its presence and properties; oxygen and carbon dioxide in our life (Yemen, Grade 6 Part 2) | Yemen, *Science, Grade 6, Part 2*, printed p. 37 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, United States, Samoa, Sudan, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, our-environment cycles-the-carbon-cycle

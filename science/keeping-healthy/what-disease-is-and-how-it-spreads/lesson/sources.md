@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, Syria, Laos, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -544,3 +544,31 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, keep
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, keeping-healthy what-disease-is-and-how-it-spreads
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 6, Part 1):** *العلوم (Science), Grade 6, Part 1* (student book) — Yemen, Ministry of Education (yaman.e-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-06/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 57 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 7, Part 2):** *العلوم (Science), Grade 7, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-07/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 95 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 8, Part 1):** *العلوم (Science), Grade 8, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-08/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 55 (per grab record, as filed). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 9, Part 1):** *العلوم للصف التاسع الأساسي (Science for Grade 9 Basic), Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-09/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 170. Verdict: COMPLETE (contents and unit openers read from page renders; the PDF text layer is fragmented). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Worms harm our health (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 82 |
+| Diseases caused by microscopic beings (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 88 |
+| Harms of insects (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 117 |
+| Some viral diseases (Yemen, Grade 7 Part 2) | Yemen, *Science, Grade 7, Part 2*, printed p. 90 |
+| Some bacteria cause us diseases; some bacterial diseases (Yemen, Grade 7 Part 2) | Yemen, *Science, Grade 7, Part 2*, printed p. 94 |
+| Diseases that strike our circulatory system (Yemen, Grade 8 Part 1) | Yemen, *Science, Grade 8, Part 1*, printed p. 127 |
+| Diseases that strike the respiratory system (Yemen, Grade 8 Part 1) | Yemen, *Science, Grade 8, Part 1*, printed p. 173 |
+| Diseases that strike the urinary system (Unit 8, Lesson 1) (Yemen, Grade 9 Part 1) | Yemen, *Science, Grade 9, Part 1*, printed p. 145 |
+| Diseases that strike the reproductive system (Unit 8, Lesson 2) (Yemen, Grade 9 Part 1) | Yemen, *Science, Grade 9, Part 1*, printed p. 151 |
+
+**Acceptance count: taught in 28 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, keeping-healthy what-disease-is-and-how-it-spreads

@@ -1,6 +1,6 @@
 # Sources — Animals — fish
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, Kuwait, Eritrea, Sri Lanka, North Macedonia, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, Kuwait, Eritrea, Sri Lanka, North Macedonia, Fiji (teacher-guide evidence only), Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -228,3 +228,17 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, animals animals-fish
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 7, Part 1):** *العلوم للصف السابع من مرحلة التعليم الأساسي، الجزء الأول (Science for Grade 7 of Basic Education, Part 1)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-07/gov/yemen/science/student/part-1.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across 2021–2024, so the same ministry file); staged under the 2026-11-13 rule. PDF pages: 179. Verdict: COMPLETE (runs to printed p. 175, “Part One is finished”, and the back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Adapted to life in water: the fish's streamlined body, fins, gills and swim bladder, and water plants with thin ribbon leaves and weak or missing roots (Unit 7, Lesson 3) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 130 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Sudan, Bhutan, Kuwait, Eritrea, Sri Lanka, North Macedonia, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, animals animals-fish

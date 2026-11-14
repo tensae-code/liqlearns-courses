@@ -1,6 +1,6 @@
 # Sources — Exploring space — how technology extends what we know
 
-countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji
+countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen
 
 **Book 1:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -180,3 +180,20 @@ Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space exploring
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, earth-and-space exploring-space-how-technology-extends-what-we-know
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 5 Teacher Guide):** *دليل المعلم لتدريس كتاب العلوم (Teacher's Guide for Teaching the Science Book), Grade 5, full year* (teacher guide) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/teacher/full-year.pdf` is the same book — cited once. PDF pages: 115. Verdict: COMPLETE (contents and lesson backgrounds read from page renders). The guide covers all twelve units of the Grade 5 year; its rows below are its added scientific background, objectives and worked answers for the student lessons, plus Units 11–12 — all guide evidence, as filed. Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 9, Part 1):** *العلوم للصف التاسع الأساسي (Science for Grade 9 Basic), Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-09/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 170. Verdict: COMPLETE (contents and unit openers read from page renders; the PDF text layer is fragmented). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Space exploration (Unit 12, Lesson 4) (Yemen, Grade 5 Teacher Guide) (guide evidence) | Yemen, *Teacher's Guide for Teaching the Science Book, Grade 5*, printed p. 107 |
+| Space exploration: how humans venture into space (Unit 4, Lesson 2) (Yemen, Grade 9 Part 1) | Yemen, *Science, Grade 9, Part 1*, printed p. 73 |
+
+**Acceptance count: taught in 13 countries (Bhutan, Moldova, Pakistan (Punjab, Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh, Fiji, Yemen).** The Grade 5 teacher-guide rows above are guide evidence only, outside this count.
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, earth-and-space exploring-space-how-technology-extends-what-we-know

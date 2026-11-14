@@ -1,6 +1,6 @@
 # Sources — The universe as a whole — galaxies, size and history of everything
 
-countries: Slovenia, Bhutan, Moldova, Armenia, Dominican Republic, North Macedonia, Bangladesh
+countries: Slovenia, Bhutan, Moldova, Armenia, Dominican Republic, North Macedonia, Bangladesh, Yemen
 
 **Book 1:** *FIZIKA 8 — i-učbenik za fiziko v 8. razredu osnovne šole (interactive textbook for Physics in Grade 8 of primary school)* (student textbook — interactive i-učbenik package) — Slovenia, Zavod RS za šolstvo (National Education Institute of Slovenia), Ljubljana, 2014. Authors: Lidija Grubelnik, Dejan Zupan, Marko Gosak, Rene Markovič, Boštjan Ketiš, Robert Repnik & Maja Jug; editor Dr Vladimir Grubelnik. ISBN 978-961-03-0144-8; approved by the Expert Council for General Education, 27.3.2014. Grade: 8 · Student (interactive textbook) · Repo path: grade-08/gov/slovenia/fizika-8-iucbenik.zip (release copy: releases/download/full-quality-oversized-books/grade-08-gov-slovenia-fizika-8-iucbenik.zip) · Bytes: 272,960,630 (ZIP) · Pages: no PDF — printed pagination runs from p. 1 (Raziskovalno delo) to p. 251+ (Plavanje v vodi in zraku) in the package's own index (Kazalo strani); each unit is also located by its content-folder number in the package. Verdict: COMPLETE read of the package's lesson structure — every unit's index page and the full printed contents read (447 HTML files). Library debt, on the record: the secured holding is an offline interactive package — a Server2Go/FirefoxPortable shell around the book's HTML lesson pages — not a book file, so it cannot be opened as a book without the bundled runtime. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/slovenia-placements.md.
 
@@ -105,3 +105,17 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space the-universe-as-a-whole-galaxies-size-and-history-of-everything
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 9, Part 1):** *العلوم للصف التاسع الأساسي (Science for Grade 9 Basic), Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-09/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 170. Verdict: COMPLETE (contents and unit openers read from page renders; the PDF text layer is fragmented). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The universe (Unit 4, Man and Cosmic Space, Lesson 1) (Yemen, Grade 9 Part 1) | Yemen, *Science, Grade 9, Part 1*, printed p. 70 |
+
+**Acceptance count: taught in 8 countries (Slovenia, Bhutan, Moldova, Armenia, Dominican Republic, North Macedonia, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, earth-and-space the-universe-as-a-whole-galaxies-size-and-history-of-everything

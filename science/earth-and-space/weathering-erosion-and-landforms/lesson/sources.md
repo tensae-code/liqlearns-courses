@@ -1,6 +1,6 @@
 # Sources — Weathering, erosion and landforms
 
-countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba, Egypt, Kuwait, China, North Macedonia, Indonesia, Bangladesh
+countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba, Egypt, Kuwait, China, North Macedonia, Indonesia, Bangladesh, Yemen
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -163,3 +163,18 @@ Placement choice, on the record: the Bangladesh placement(s) above filed as NEW 
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space weathering-erosion-and-landforms
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How mountains and plains are formed (Unit 11, Lesson 3) (placement filed as NEW LESSON NEEDED — how-mountains-and-plains-form; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 145 |
+| Factors that change the shape of the Earth's surface (Unit 11, Lesson 4) (placement filed as NEW LESSON NEEDED — weathering-and-erosion-shaping-the-land; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 150 |
+
+**Acceptance count: taught in 11 countries (Mexico, Italy, Costa Rica, Cuba, Egypt, Kuwait, China, North Macedonia, Indonesia, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, earth-and-space weathering-erosion-and-landforms

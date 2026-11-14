@@ -1,6 +1,6 @@
 # Sources — Inside the Earth — crust, mantle, core
 
-countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia, Bangladesh
+countries: Ethiopia, Cuba, Haiti, Italy, Costa Rica, Bahamas (curriculum evidence only), United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -293,3 +293,20 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, eart
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space inside-the-earth-crust-mantle-core
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 3, Part 1):** *العلوم (Science), Grade 3, Part 1* (student book) — Yemen, Ministry of Education and Scientific Research (E-learning-moe.edu.ye), 1448H / 2027 edition notice in front matter. Records: TSV release copy (`grade-03-gov-yemen-science-student-part-1.pdf`) and books.json `grade-03/gov/yemen/science/student/part-1.pdf` — same book, cited once; release copy read. PDF pages: 162 (this copy runs to printed p. 157 and beyond the fifth unit's assessment; treated as COMPLETE for Part 1 as recorded). Verdict: COMPLETE. The PDFs carry a fragmented font layer, so contents pages and unit openers were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Features of Earth's surface (Unit 5, Our Earth's Surface Is Varied) (Yemen, Grade 3 Part 1) | Yemen, *Science, Grade 3, Part 1*, printed p. 138 |
+| Parts of the Earth (Unit 11, The Earth, Lesson 1) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 135 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Cuba, Haiti, Italy, Costa Rica, United States, Armenia, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Mauritania, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Indonesia, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, earth-and-space inside-the-earth-crust-mantle-core

@@ -1,6 +1,6 @@
 # Sources — Reflection — laws, mirror images and the periscope
 
-countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only), Guyana, Mongolia, India, Egypt, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia
+countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only), Guyana, Mongolia, India, Egypt, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Yemen
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -306,3 +306,20 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, ligh
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, light reflection-laws-mirror-images-and-the-periscope
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 8, Part 2):** *العلوم (Science), Grade 8, Part 2* (student book; units numbered 11–16, continuing Part 1) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-08/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 114. Verdict: COMPLETE (contents and unit openers read from page renders; the PDF text layer is empty). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Mirrors reflect light, and the many uses of mirrors (Unit 9, Lessons 3–4) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 87 |
+| Light reflects; reflection in a plane mirror (Unit 12, Reflection of Light, Lessons 1–2) (Yemen, Grade 8 Part 2) | Yemen, *Science, Grade 8, Part 2*, printed p. 20 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Barbados, Fiji, United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Guyana, Mongolia, India, Egypt, Sudan, Bhutan, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, light reflection-laws-mirror-images-and-the-periscope

@@ -1,6 +1,6 @@
 # Sources — First aid at home
 
-countries: Gabon (teacher-guide evidence only), Eritrea, Bangladesh
+countries: Gabon (teacher-guide evidence only), Eritrea, Bangladesh, Yemen
 
 **Book 1:** *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 5e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2024. PDF 60 pages (1,435,808 bytes). Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 48 lessons; 10 ICT and 5 craft/technology lessons not placed per the placements file's scope note; one further Technology lesson, signal transmission, also not placed). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md.
 
@@ -49,3 +49,17 @@ Placement choice, on the record: the Bangladesh placement(s) above filed as NEW 
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, keeping-healthy first-aid-at-home
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 7, Part 2):** *العلوم (Science), Grade 7, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-07/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 95 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How I aid an injured person; aiding simple fractures; the first-aid box (Unit 15, First Aid) (placement filed as NEW LESSON NEEDED — first-aid-basics-helping-an-injured-person; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here) (Yemen, Grade 7 Part 2) | Yemen, *Science, Grade 7, Part 2*, printed p. 104 |
+
+**Acceptance count: taught in 3 countries (Eritrea, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, keeping-healthy first-aid-at-home

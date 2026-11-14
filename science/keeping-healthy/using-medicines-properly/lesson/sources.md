@@ -1,6 +1,6 @@
 # Sources — Using medicines properly
 
-countries: Ethiopia, Samoa
+countries: Ethiopia, Samoa, Yemen
 
 **Book 9:** *Grade 4 Environmental Science Teacher Guide — Oromia Education Bureau edition* (የአካባቢ ሳይንስ የመምህራን መምሪያ አራተኛ ክፍል) (teacher's guide) — Ethiopia, Oromia Education Bureau, © 2014 E.C. (2022), prepared with Asella Teachers' Training College. COMPLETE: printed pp. 1–95 (all 5 units + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -25,3 +25,17 @@ Searchable tags: medicines, proper use, dose, health worker, መድሃንቶች�
 **Acceptance count: taught in 1 country (Samoa).** The lesson's earlier evidence-only sources remain evidence only, counted nowhere.
 
 Searchable tags: samoa, samoa mesc, keeping healthy using medicines properly
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 8, Part 1):** *العلوم (Science), Grade 8, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-08/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 55 (per grab record, as filed). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Random use of medicines and pesticides (Yemen, Grade 8 Part 1) | Yemen, *Science, Grade 8, Part 1*, printed p. 159 |
+
+**Acceptance count: taught in 2 countries (Samoa, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, keeping-healthy using-medicines-properly

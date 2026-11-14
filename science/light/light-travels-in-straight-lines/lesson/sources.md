@@ -324,3 +324,17 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, ligh
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, light light-travels-in-straight-lines
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Light rays travel in straight paths (Unit 9, Lesson 2) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 83 |
+
+**Acceptance count unchanged: taught in 31 countries (Ethiopia, Slovenia, Fiji, Kenya, Iraq, Cambodia, Egypt, Bulgaria, Yemen, Afghanistan, Belarus, Uzbekistan, North Macedonia, Laos, Moldova, South Sudan, Mozambique, Cuba, Mauritania, Greece, Armenia, Kazakhstan, Mongolia, Pakistan (Punjab, Sudan, Bhutan, China, Eritrea, Sri Lanka, Rwanda, Indonesia).** Yemen was already counted in this lesson from its split-subject-wave books; the rows above add its Grades 1–9 general-science books.
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, light light-travels-in-straight-lines

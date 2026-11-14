@@ -1,6 +1,6 @@
 # Sources — Food — what food is
 
-countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Indonesia
+countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Indonesia, Yemen
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -312,3 +312,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, keeping-healthy food-what-food-is
 
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 3, Part 1):** *العلوم (Science), Grade 3, Part 1* (student book) — Yemen, Ministry of Education and Scientific Research (E-learning-moe.edu.ye), 1448H / 2027 edition notice in front matter. Records: TSV release copy (`grade-03-gov-yemen-science-student-part-1.pdf`) and books.json `grade-03/gov/yemen/science/student/part-1.pdf` — same book, cited once; release copy read. PDF pages: 162 (this copy runs to printed p. 157 and beyond the fifth unit's assessment; treated as COMPLETE for Part 1 as recorded). Verdict: COMPLETE. The PDFs carry a fragmented font layer, so contents pages and unit openers were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| My varied food: kinds and sources of food and their benefits (Unit 1, My Health and Safety) (Yemen, Grade 3 Part 1) | Yemen, *Science, Grade 3, Part 1*, printed p. 7 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Cook Islands, India, Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Indonesia, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, keeping-healthy food-what-food-is

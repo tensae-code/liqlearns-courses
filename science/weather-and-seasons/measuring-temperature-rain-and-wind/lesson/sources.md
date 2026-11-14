@@ -1,6 +1,6 @@
 # Sources — Measuring temperature, rain and wind
 
-countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Italy, Vanuatu (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -300,3 +300,20 @@ Searchable tags: bangladesh, bangladesh science, nctb, weather-and-seasons measu
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, weather-and-seasons measuring-temperature-rain-and-wind
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 5, Part 2):** *العلوم (Science), Grade 5, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 153 as checked against the student book itself by the finisher reader (the placements section header's “55 pages” came from the grab record and is wrong); the book contains Units 7–12, running to printed p. 147. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 5 Teacher Guide):** *دليل المعلم لتدريس كتاب العلوم (Teacher's Guide for Teaching the Science Book), Grade 5, full year* (teacher guide) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/teacher/full-year.pdf` is the same book — cited once. PDF pages: 115. Verdict: COMPLETE (contents and lesson backgrounds read from page renders). The guide covers all twelve units of the Grade 5 year; its rows below are its added scientific background, objectives and worked answers for the student lessons, plus Units 11–12 — all guide evidence, as filed. Teacher/guide evidence only: cited as the evidence it is, outside the acceptance count, as filed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Weather measuring tools (Yemen, Grade 5 Part 2) | Yemen, *Science, Grade 5, Part 2*, printed p. 79 |
+| Guide treatment of weather measuring tools (Unit 10, Lesson 3) (Yemen, Grade 5 Teacher Guide) (guide evidence) | Yemen, *Teacher's Guide for Teaching the Science Book, Grade 5*, printed p. 87 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Italy, Mongolia, Uganda, Bulgaria, Armenia, Egypt, Seychelles, Ecuador, Venezuela, China, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen).** The Grade 5 teacher-guide rows above are guide evidence only, outside this count.
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, weather-and-seasons measuring-temperature-rain-and-wind

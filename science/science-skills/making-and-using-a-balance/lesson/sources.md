@@ -1,6 +1,6 @@
 # Sources — Measuring: making and using a balance
 
-countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia (teacher-guide evidence only)
+countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia (teacher-guide evidence only), Yemen
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -158,3 +158,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, science-skills making-and-using-a-balance
 
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Measuring tools are more precise than the senses for measuring properties (Unit 6, Lesson 5) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 25 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Finland, Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, science-skills making-and-using-a-balance

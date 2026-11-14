@@ -1,6 +1,6 @@
 # Sources — Ones that come back and ones that finish
 
-countries: Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Angola, Kuwait, China, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji
+countries: Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Seychelles, Ecuador, Angola, Kuwait, China, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji, Yemen
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -353,3 +353,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, natural-resources ones-th
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, natural-resources ones-that-come-back-and-ones-that-finish
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 9, Part 2):** *العلوم للصف التاسع من مرحلة التعليم الأساسي، الجزء الثاني (Science for Grade 9 of Basic Education, Part 2)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-09/gov/yemen/science/student/part-2.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across many captures, 2017–2024); staged under the 2026-11-13 rule. PDF pages: 156. Verdict: COMPLETE (runs to printed p. 151, the Unit 16 assessment, then the “book finished” page and back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Petroleum: a buried wealth that does not come back — formed from sea creatures and plants, drawn up from wells on land and under the sea, and split in the refinery tower into gas, gasoline, kerosene, diesel, oils and asphalt, each by its boiling point (Unit 9, Lesson 5) (Yemen, Grade 9 Part 2) | Yemen, *Science, Grade 9, Part 2*, printed p. 23 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Bulgaria, Greece, United States, Pakistan (Punjab, Bangladesh, Fiji, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, natural-resources ones-that-come-back-and-ones-that-finish

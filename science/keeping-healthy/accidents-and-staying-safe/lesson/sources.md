@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -466,3 +466,24 @@ Searchable tags: bangladesh, bangladesh science, nctb, keeping-healthy accidents
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, keeping-healthy accidents-and-staying-safe
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 3, Part 1):** *العلوم (Science), Grade 3, Part 1* (student book) — Yemen, Ministry of Education and Scientific Research (E-learning-moe.edu.ye), 1448H / 2027 edition notice in front matter. Records: TSV release copy (`grade-03-gov-yemen-science-student-part-1.pdf`) and books.json `grade-03/gov/yemen/science/student/part-1.pdf` — same book, cited once; release copy read. PDF pages: 162 (this copy runs to printed p. 157 and beyond the fifth unit's assessment; treated as COMPLETE for Part 1 as recorded). Verdict: COMPLETE. The PDFs carry a fragmented font layer, so contents pages and unit openers were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 7, Part 2):** *العلوم (Science), Grade 7, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-07/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 95 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 8, Part 2):** *العلوم (Science), Grade 8, Part 2* (student book; units numbered 11–16, continuing Part 1) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-08/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 114. Verdict: COMPLETE (contents and unit openers read from page renders; the PDF text layer is empty). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| I avoid the dangers of heat (Yemen, Grade 3 Part 1) | Yemen, *Science, Grade 3, Part 1*, printed p. 127 |
+| First aid for simple fractures as part of Unit 15 (Yemen, Grade 7 Part 2) | Yemen, *Science, Grade 7, Part 2*, printed p. 110 |
+| Accidents around us (Unit 16, Accidents and First Aid, Lesson 1) (Yemen, Grade 8 Part 2) | Yemen, *Science, Grade 8, Part 2*, printed p. 93 |
+| When an accident happens: first aid and protection from accidents (Unit 16, Lessons 2–3) (Yemen, Grade 8 Part 2) | Yemen, *Science, Grade 8, Part 2*, printed p. 98 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Turkey, Suriname, Uganda, Bulgaria, Cuba, Seychelles, Ecuador, Afghanistan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, keeping-healthy accidents-and-staying-safe

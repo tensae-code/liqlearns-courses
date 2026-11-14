@@ -1,6 +1,6 @@
 # Sources — Measuring: temperature, thermometers and the Celsius scale
 
-countries: Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji
+countries: Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Venezuela, Mauritania, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -310,3 +310,20 @@ Searchable tags: bangladesh, bangladesh science, nctb, science-skills temperatur
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, science-skills temperature-thermometers-and-the-celsius-scale
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 4, Part 2):** *العلوم (Science), Grade 4, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-04/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 162. Verdict: COMPLETE (contents and unit openers read from page renders). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 7, Part 1):** *العلوم للصف السابع من مرحلة التعليم الأساسي، الجزء الأول (Science for Grade 7 of Basic Education, Part 1)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-07/gov/yemen/science/student/part-1.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across 2021–2024, so the same ministry file); staged under the 2026-11-13 rule. PDF pages: 179. Verdict: COMPLETE (runs to printed p. 175, “Part One is finished”, and the back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Measuring the temperature of materials (Unit 8, Lesson 2) (Yemen, Grade 4 Part 2) | Yemen, *Science, Grade 4, Part 2*, printed p. 56 |
+| I measure the temperature and judge the quantity of heat: maximum and minimum thermometers for the weather, the Celsius thermometer from 0 to 100 degrees; the quantity of heat in a body depends on its mass, its rise in temperature and its material — checked against the heat values printed on food packets (Unit 5, Lesson 2) (Yemen, Grade 7 Part 1) | Yemen, *Science, Grade 7, Part 1*, printed p. 91 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab, Bangladesh, Fiji, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, science-skills temperature-thermometers-and-the-celsius-scale

@@ -618,3 +618,20 @@ Searchable tags: bangladesh, bangladesh science, nctb, motion-force-and-energy e
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, motion-force-and-energy energy-sources-and-using-energy-wisely
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 6, Part 2):** *العلوم (Science), Grade 6, Part 2* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy (full-quality-oversized-books) read; books.json `grade-06/gov/yemen/science/student/part-2.pdf` is the same book — cited once. PDF pages: 131 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 9, Part 2):** *العلوم للصف التاسع من مرحلة التعليم الأساسي، الجزء الثاني (Science for Grade 9 of Basic Education, Part 2)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-09/gov/yemen/science/student/part-2.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across many captures, 2017–2024); staged under the 2026-11-13 rule. PDF pages: 156. Verdict: COMPLETE (runs to printed p. 151, the Unit 16 assessment, then the “book finished” page and back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Energy has many sources; uses of energy (Yemen, Grade 6 Part 2) | Yemen, *Science, Grade 6, Part 2*, printed p. 71 |
+| Solar energy, the source behind the rest: born in hydrogen fusion at the Sun's heart, travelling as waves at the speed of light; the spectrum from radio waves to gamma rays, the visible part we see and the heat part we only feel (Unit 13, Solar Energy and Its Use, Lesson 1) (Yemen, Grade 9 Part 2) | Yemen, *Science, Grade 9, Part 2*, printed p. 95 |
+
+**Acceptance count unchanged: taught in 36 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab, Bangladesh).** Yemen was already counted in this lesson from its split-subject-wave books; the rows above add its Grades 1–9 general-science books.
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, motion-force-and-energy energy-sources-and-using-energy-wisely

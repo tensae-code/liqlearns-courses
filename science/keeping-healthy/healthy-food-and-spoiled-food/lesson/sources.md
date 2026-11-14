@@ -1,6 +1,6 @@
 # Sources — Healthy food and spoiled food
 
-countries: Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh
+countries: Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen
 
 **Book 4:** *Grade 2 Environmental Science Teacher Guide* (አካባቢ ሳይንስ ሁለተኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED scan: the file holds printed pp. 1–61 (Units 1–3); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-teacher-placements.md.
 
@@ -182,3 +182,17 @@ Searchable tags: zimbabwe, plusone, science and technology, heritage-based curri
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, keeping-healthy healthy-food-and-spoiled-food
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 1, Part 1):** *العلوم (Science), Grade 1, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-01/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 98. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cleanliness of my food and my drink (Yemen, Grade 1 Part 1) | Yemen, *Science, Grade 1, Part 1*, printed p. 71 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, keeping-healthy healthy-food-and-spoiled-food

@@ -1,6 +1,6 @@
 # Sources — Keeping our bodies clean
 
-countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia (guide evidence only), Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia (guide evidence only), Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -605,3 +605,31 @@ Searchable tags: bangladesh, bangladesh science, nctb, keeping-healthy keeping-o
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, keeping-healthy keeping-our-bodies-clean
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 1, Part 1):** *العلوم (Science), Grade 1, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-01/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 98. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 3, Part 1):** *العلوم (Science), Grade 3, Part 1* (student book) — Yemen, Ministry of Education and Scientific Research (E-learning-moe.edu.ye), 1448H / 2027 edition notice in front matter. Records: TSV release copy (`grade-03-gov-yemen-science-student-part-1.pdf`) and books.json `grade-03/gov/yemen/science/student/part-1.pdf` — same book, cited once; release copy read. PDF pages: 162 (this copy runs to printed p. 157 and beyond the fifth unit's assessment; treated as COMPLETE for Part 1 as recorded). Verdict: COMPLETE. The PDFs carry a fragmented font layer, so contents pages and unit openers were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 4, Part 1):** *العلوم (Science), Grade 4, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-04/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 138. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 5, Part 1):** *العلوم (Science), Grade 5, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-05/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 120 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 6, Part 1):** *العلوم (Science), Grade 6, Part 1* (student book) — Yemen, Ministry of Education (yaman.e-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-06/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 57 (per grab record). Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Cleanliness of my body and my clothes (Unit 3, My Health and Safety) (Yemen, Grade 1 Part 1) | Yemen, *Science, Grade 1, Part 1*, printed p. 67 |
+| I keep my health and safety (Unit 1 closing lesson) (Yemen, Grade 3 Part 1) | Yemen, *Science, Grade 3, Part 1*, printed p. 36 |
+| Keeping our bones and muscles healthy (Yemen, Grade 4 Part 1) | Yemen, *Science, Grade 4, Part 1*, printed p. 55 |
+| Keeping our skin safe (Yemen, Grade 4 Part 1) | Yemen, *Science, Grade 4, Part 1*, printed p. 69 |
+| Health of our respiratory system (Yemen, Grade 5 Part 1) | Yemen, *Science, Grade 5, Part 1*, printed p. 38 |
+| Health of our circulatory system (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 27 |
+| We protect our nervous system and care for it (Yemen, Grade 6 Part 1) | Yemen, *Science, Grade 6, Part 1*, printed p. 51 |
+
+**Acceptance count: taught in 25 countries (Ethiopia, Turkey, Guyana, Uganda, Bulgaria, Pakistan (Punjab, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, keeping-healthy keeping-our-bodies-clean

@@ -1,6 +1,6 @@
 # Sources — Materials and their properties — hard, strong, flexible
 
-countries: Gabon (teacher-guide evidence only), Finland, Albania (teacher-guide evidence only), Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Cambodia, Ecuador, Sudan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only)
+countries: Gabon (teacher-guide evidence only), Finland, Albania (teacher-guide evidence only), Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Cambodia, Ecuador, Sudan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -358,3 +358,23 @@ Searchable tags: bangladesh, bangladesh science, nctb, materials materials-and-t
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, materials materials-and-their-properties-hard-strong-flexible
+
+## Yemen growth (2026-11-14, General Science expansion)
+
+**Book (Yemen — Grade 2, Part 1):** *العلوم (Science), Grade 2, Part 1* (student book) — Yemen, Ministry of Education (E-learning-moe.edu.ye). Records: TSV release copy read; books.json `grade-02/gov/yemen/science/student/part-1.pdf` is the same book — cited once. PDF pages: 114. Verdict: COMPLETE (no Part 2 for Grade 2 is in the target set). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 3, Part 1):** *العلوم (Science), Grade 3, Part 1* (student book) — Yemen, Ministry of Education and Scientific Research (E-learning-moe.edu.ye), 1448H / 2027 edition notice in front matter. Records: TSV release copy (`grade-03-gov-yemen-science-student-part-1.pdf`) and books.json `grade-03/gov/yemen/science/student/part-1.pdf` — same book, cited once; release copy read. PDF pages: 162 (this copy runs to printed p. 157 and beyond the fifth unit's assessment; treated as COMPLETE for Part 1 as recorded). Verdict: COMPLETE. The PDFs carry a fragmented font layer, so contents pages and unit openers were read from page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+**Book (Yemen — Grade 9, Part 2):** *العلوم للصف التاسع من مرحلة التعليم الأساسي، الجزء الثاني (Science for Grade 9 of Basic Education, Part 2)* (student book) — Yemen, Ministry of Education, Curriculum Sector / General Administration of Curricula; printing rights reserved to the Ministry, 1438H / 2017 (cover); no ISBN printed. Records: books.json `grade-09/gov/yemen/science/student/part-2.pdf` only (no TSV twin). The repo-tree path returns 404 and the ministry source_url now returns the site's HTML not-found page, so the book was read from the Wayback Machine's July 2024 capture of that same ministry URL (capture digest identical across many captures, 2017–2024); staged under the 2026-11-13 rule. PDF pages: 156. Verdict: COMPLETE (runs to printed p. 151, the Unit 16 assessment, then the “book finished” page and back cover). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/yemen-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Matter has properties (Yemen, Grade 2 Part 1) | Yemen, *Science, Grade 2, Part 1*, printed p. 75 |
+| Matter has varied properties (Unit 3) (Yemen, Grade 3 Part 1) | Yemen, *Science, Grade 3, Part 1*, printed p. 70 |
+| How solid bodies behave: elasticity (sponge and rubber spring back), toughness under a hanging load (threads of cotton, nylon, rubber and copper raced to breaking), malleability and ductility (metals beaten into sheets and drawn into wires — one gram of gold into 60 metres), rigidity, and hardness found by scratching (diamond the hardest) (Unit 11, Properties of Bodies, Lesson 1) (Yemen, Grade 9 Part 2) | Yemen, *Science, Grade 9, Part 2*, printed p. 41 |
+
+**Acceptance count: taught in 20 countries (Finland, Costa Rica, India, Bulgaria, Moldova, United States, Pakistan (Punjab, Bangladesh, Yemen).**
+
+Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: yemen, yemen science, ministry of education yemen, materials materials-and-their-properties-hard-strong-flexible
