@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only)
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -112,3 +112,17 @@ Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher gu
 Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
 
 Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 5 (Mongolia):** *Хүн ба байгаль V* / Man and Nature 5 (student book) — Mongolia. As printed: *Хүн ба байгаль V*, textbook for Grade 5 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, B. Bayarchimeg, M. Ganbat, S. Gendenjamts, J. Delgeön, U. Myagmarjav and M. Enkhbayar; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 5, student book, in Mongolian. No ISBN is printed on the title page. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 42,449,298 bytes, 88 PDF pages, image-only; verified by title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Усны дусал хаанаас үүссэн бэ? / Where did the water droplet come from?, with Байгаль дахь ус хэрхэн хувирдаг вэ? / How water transforms in nature (Ch. 3) (Mongolia, Grade 5) | Book 5 (Хүн ба байгаль V (Man and Nature 5), student textbook, Grade 5), printed p. 34 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia).**
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, cycles the water cycle, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5

@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only)
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -79,3 +79,17 @@ Searchable tags: iceland, halló heimur 3, líf á landi, vegetable growing, min
 Honesty: the Djibouti Grade 3 guide file is PARTIAL — DAMAGED (broken page tree); only the first 44 of a reported 80 pages are readable — a clean copy is library debt, as filed. The Grade 4 guide is COMPLETE.
 
 Searchable tags: djibouti, sciences expérimentales, cripen, germination, water without light, soil, teacher guide, grade 3, grade 4
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 5 (Mongolia):** *Хүн ба байгаль V* / Man and Nature 5 (student book) — Mongolia. As printed: *Хүн ба байгаль V*, textbook for Grade 5 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, B. Bayarchimeg, M. Ganbat, S. Gendenjamts, J. Delgeön, U. Myagmarjav and M. Enkhbayar; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 5, student book, in Mongolian. No ISBN is printed on the title page. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 42,449,298 bytes, 88 PDF pages, image-only; verified by title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Үр соёолох гэж юу вэ? / What is seed germination?, with Ургамлын өсөлтөд юу нөлөөлөх вэ? / What influences a plant's growth? (Ch. 7) (placement slug: science-skills/experiment-3-germinating-seeds-and-what-they-need — stocked into this lesson, plants/what-a-plant-needs-to-grow, as the closest existing lesson: the course's seed-germination experiment lesson) (Mongolia, Grade 5) | Book 5 (Хүн ба байгаль V (Man and Nature 5), student textbook, Grade 5), printed p. 64 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Guyana, Mongolia).**
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, what a plant needs to grow, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5

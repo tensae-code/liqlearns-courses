@@ -1,6 +1,6 @@
 # Sources — My Neighbours and My First Sketch Map
 
-countries: Ethiopia (teacher-guide evidence only), Serbia
+countries: Ethiopia (teacher-guide evidence only), Serbia, Mongolia
 
 **Book 2:** *አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 1* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md
 
@@ -28,3 +28,20 @@ Searchable tags: neighbours, sketch map, ንድፍ ካርታ, ndif karta
 Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Mongolia):** *Хүн ба орчин I* / Man and Environment 1 (student book) — Mongolia. As printed: *Хүн ба орчин I*, textbook for Grade 1 of general-education schools, Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020 (bibliographic record 2014); ISBN 978-99973-69-43-7. Grade 1, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 28,338,837 bytes, 70 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+**Book 2 (Mongolia):** *Хүн ба орчин II* / Man and Environment 2 (student book) — Mongolia. As printed: *Хүн ба орчин II*, textbook for Grade 2, Ministry of Education, Culture, Science and Sports, Ulaanbaatar (bibliographic record 2014, 76 pp.); ISBN 978-99973-69-45-1. Grade 2, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 39,538,141 bytes, 76 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Орон нутаг ба хүмүүс / My local area and its people (Unit 1.4) (Mongolia, Grade 1) | Book 1 (Хүн ба орчин I (Man and Environment 1), student textbook, Grade 1), printed p. 42 |
+| Орон нутаг ба хүмүүс / local area and people, and Орон нутаг ба байгаль / local area and nature (Unit: Observe and study surroundings) (Mongolia, Grade 2) | Book 2 (Хүн ба орчин II (Man and Environment 2), student textbook, Grade 2), printed p. 34 |
+
+**Acceptance count: taught in 2 countries (Serbia, Mongolia).**
+
+Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, my neighbours and my first sketch map, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 1, grade 2

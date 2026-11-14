@@ -1,6 +1,6 @@
 # Sources — Absolute Location — A Place's Exact Position
 
-countries: Ethiopia
+countries: Ethiopia, Mongolia
 
 **Book 6:** *አካባቢ ሳይንስ የመምህር መምሪያ ሦስተኛ ክፍል — Environmental Science Teacher Guide, Grade 3* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau (year not legible in the read; not claimed). Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-teacher-placements.md
 
@@ -37,3 +37,17 @@ COMPLETE: the Grade 5 student book's contents promise ends at printed p. 178 (Ch
 COMPLETE: the Grade 6 student book's contents promise ends at printed p. 177 (Chapter 6) and the file's last printed page is 177.
 
 Searchable tags: absolute location, ፍፁማዊ መገኛ, latitude and longitude, South Gondar, degrees and minutes, Lake Tana coordinates, Amhara Region coordinates, Ethiopia absolute location, Moyale, Akobo, Ogaden, East Africa extent, Ras Kasa, Ethiopia absolute location, Moyale, Akobo, Ogaden, East Africa extent, Ras Kasara
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 5 (Mongolia):** *Хүн ба байгаль V* / Man and Nature 5 (student book) — Mongolia. As printed: *Хүн ба байгаль V*, textbook for Grade 5 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, B. Bayarchimeg, M. Ganbat, S. Gendenjamts, J. Delgeön, U. Myagmarjav and M. Enkhbayar; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 5, student book, in Mongolian. No ISBN is printed on the title page. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 42,449,298 bytes, 88 PDF pages, image-only; verified by title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Голдож, зэрэгд гэж юу вэ? / What are latitude and longitude?, with Ямар улс орон дэлхийн аль хагас бөмбөрцөгт оршиж байна вэ? / In which hemisphere is a country? and Юмсын байрлалыг тоогоор илэрхийлэх аргыг мэдъе / Expressing position in numbers (Ch. 2) (placement slug: location-and-maps/latitude-and-longitude-finding-any-place-on-earth — stocked into this lesson, location-and-maps/absolute-location-a-places-exact-position, as the closest existing lesson: it states a place's exact position latitude first, then longitude) (Mongolia, Grade 5) | Book 5 (Хүн ба байгаль V (Man and Nature 5), student textbook, Grade 5), printed p. 22 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Mongolia).**
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, absolute location a places exact position, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5

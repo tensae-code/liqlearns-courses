@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -62,3 +62,17 @@ Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
 **Acceptance count: taught in 2 countries (Ethiopia, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 6
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 5 (Mongolia):** *Хүн ба байгаль V* / Man and Nature 5 (student book) — Mongolia. As printed: *Хүн ба байгаль V*, textbook for Grade 5 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, B. Bayarchimeg, M. Ganbat, S. Gendenjamts, J. Delgeön, U. Myagmarjav and M. Enkhbayar; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 5, student book, in Mongolian. No ISBN is printed on the title page. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 42,449,298 bytes, 88 PDF pages, image-only; verified by title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Хүнд ачаа өргөх арга олцгооё / Finding a way to lift a heavy load, with Хөшүүргийн тэнцвэрийн зүй тогтол / The lever's balance rule and Хөшүүргийн хэрэглээ / Uses of the lever (Ch. 6 The lever, a simple mechanism) (Mongolia, Grade 5) | Book 5 (Хүн ба байгаль V (Man and Nature 5), student textbook, Grade 5), printed p. 52 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Guyana, Mongolia).**
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, simple machines, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5

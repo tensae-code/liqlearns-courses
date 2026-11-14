@@ -1,6 +1,6 @@
 # Sources — The skeleton — frame, joints and fractures
 
-countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only)
+countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only), Mongolia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -45,3 +45,17 @@ Searchable tags: guyana, science around us, ministry of education guyana, grade 
 Honesty: the Djibouti Grade 3 guide file is PARTIAL — DAMAGED (broken page tree); only the first 44 of a reported 80 pages yield text or render, and everything after the plant-life lessons (guide sequence 70) has never been read — a clean copy is library debt, as filed.
 
 Searchable tags: djibouti, sciences expérimentales, cripen, guide du maître, skeleton, articulations, teacher guide, grade 3, partial damaged
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 4 (Mongolia):** *Хүн ба байгаль IV* / Man and Nature 4 (student book) — Mongolia. As printed: *Хүн ба байгаль IV*, textbook for Grade 4 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, M. Ganbat, J. Delgeön, D. Oyunchimeg and Ts. Pagmasüren; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 4, student book, in Mongolian. No ISBN is printed on the title or imprint pages checked. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 35,897,023 bytes, 75 PDF pages, image-only; verified by cover, title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Бидний араг яс / Our skeleton (Ch. 1 Growth and movement) (Mongolia, Grade 4) | Book 4 (Хүн ба байгаль IV (Man and Nature 4), student textbook, Grade 4), printed p. 6 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Guyana, Mongolia).**
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, the skeleton frame joints and fractures, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4

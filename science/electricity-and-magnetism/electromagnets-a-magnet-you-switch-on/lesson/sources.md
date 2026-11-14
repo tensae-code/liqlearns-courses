@@ -1,6 +1,6 @@
 # Sources — Electromagnets — a magnet you switch on
 
-countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan
+countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan, Mongolia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -68,3 +68,17 @@ countries: Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova
 Summary-claim guard: the Unit 7 summary (printed pp. 228–230) states things no section teaches — including direction claims around electron current — and none of that un-taught summary material is carried into this lesson; the lesson teaches only §7.5.3's own content, as the placements direct.
 
 Searchable tags: electromagnet, current makes magnetism, coil, iron core, compass needle, switchable magnet, Ethiopia Grade 8 General Science Unit 7, north macedonia, mozambique
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 4 (Mongolia):** *Хүн ба байгаль IV* / Man and Nature 4 (student book) — Mongolia. As printed: *Хүн ба байгаль IV*, textbook for Grade 4 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, M. Ganbat, J. Delgeön, D. Oyunchimeg and Ts. Pagmasüren; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 4, student book, in Mongolian. No ISBN is printed on the title or imprint pages checked. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 35,897,023 bytes, 75 PDF pages, image-only; verified by cover, title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Хадаасг соронзтой болгоё / Let's make a nail magnetic (Ch. 3) (Mongolia, Grade 4) | Book 4 (Хүн ба байгаль IV (Man and Nature 4), student textbook, Grade 4), printed p. 31 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Slovenia, Afghanistan, Uzbekistan, North Macedonia, Moldova, Mozambique, China, Greece, Armenia, Kazakhstan, Mongolia).**
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, electromagnets a magnet you switch on, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4

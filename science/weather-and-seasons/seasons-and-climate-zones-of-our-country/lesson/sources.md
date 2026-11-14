@@ -1,6 +1,6 @@
 # Sources — Seasons and climate zones of our country
 
-countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy
+countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy, Mongolia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -58,3 +58,17 @@ Searchable tags: zambia, zambia teacher module, curriculum development centre za
 **Acceptance count: taught in 3 countries (Ethiopia, Mexico, Italy).**
 
 Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto, grade 9
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Mongolia):** *Хүн ба орчин I* / Man and Environment 1 (student book) — Mongolia. As printed: *Хүн ба орчин I*, textbook for Grade 1 of general-education schools, Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020 (bibliographic record 2014); ISBN 978-99973-69-43-7. Grade 1, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 28,338,837 bytes, 70 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Жилийн дөрвөн улирал / The four seasons of the year (Unit 1.5) (Mongolia, Grade 1) | Book 1 (Хүн ба орчин I (Man and Environment 1), student textbook, Grade 1), printed p. 59 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mexico, Italy, Mongolia).**
+
+Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, seasons and climate zones of our country, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 1

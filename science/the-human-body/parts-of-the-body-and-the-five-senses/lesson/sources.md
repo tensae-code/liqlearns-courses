@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only)
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -104,3 +104,23 @@ Searchable tags: guyana, science around us, ministry of education guyana, grade 
 Honesty: the Djibouti Grade 3 guide file is PARTIAL — DAMAGED (broken page tree); only the first 44 of a reported 80 pages are readable — a clean copy is library debt, as filed.
 
 Searchable tags: djibouti, sciences expérimentales, cripen, parts of the body, teacher guide, grade 3, partial damaged
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Mongolia):** *Хүн ба орчин I* / Man and Environment 1 (student book) — Mongolia. As printed: *Хүн ба орчин I*, textbook for Grade 1 of general-education schools, Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020 (bibliographic record 2014); ISBN 978-99973-69-43-7. Grade 1, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 28,338,837 bytes, 70 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+**Book 2 (Mongolia):** *Хүн ба орчин II* / Man and Environment 2 (student book) — Mongolia. As printed: *Хүн ба орчин II*, textbook for Grade 2, Ministry of Education, Culture, Science and Sports, Ulaanbaatar (bibliographic record 2014, 76 pp.); ISBN 978-99973-69-45-1. Grade 2, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 39,538,141 bytes, 76 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+**Book 3 (Mongolia):** *Хүн ба орчин III* / Man and Environment 3 (student book) — Mongolia. As printed: *Хүн ба орчин III*, textbook for Grade 3, Ministry of Education, Culture, Science and Sports, Ulaanbaatar (bibliographic record 2014); ISBN 978-99973-69-47-5. Grade 3, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 36,401,878 bytes, 75 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Миний бие / My body: knowing the body and the senses through matching games (smell, sight, hearing, taste, touch) (Mongolia, Grade 1) | Book 1 (Хүн ба орчин I (Man and Environment 1), student textbook, Grade 1), printed p. 6 |
+| Бидний бие / Our body, and Миний хичээлийн хэрэглэл / my school things (Unit: Know myself) (Mongolia, Grade 2) | Book 2 (Хүн ба орчин II (Man and Environment 2), student textbook, Grade 2), printed p. 6 |
+| Миний бие / My body, now a long opening unit running to the school-things section (Grade 3 depth of the same frame) (Mongolia, Grade 3) | Book 3 (Хүн ба орчин III (Man and Environment 3), student textbook, Grade 3), printed p. 6 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Suriname, Guyana, Mongolia).**
+
+Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, parts of the body and the five senses, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 1, grade 2, grade 3

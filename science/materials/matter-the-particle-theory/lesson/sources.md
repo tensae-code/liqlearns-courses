@@ -1,6 +1,6 @@
 # Sources — Matter — the particle theory
 
-countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan
+countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
@@ -131,3 +131,17 @@ PAIRING WARNING: this guide is an Addis Ababa bureau book (2023), NOT edition-ma
 Pairing warning carried: the Grade 7 teacher guide is an Addis Ababa bureau book (2023), not edition-matched to the Amhara student book (© 2015 E.C.); guide rows are syllabus-level teacher evidence only. The student book's six postulates and the guide's six agree in substance (the guide orders movement second); the lesson teaches the student book's set, with Democritus filed as guide evidence.
 
 Searchable tags: matter, particle theory, postulates, Democritus, dilution, Experiment 2.1, permanganate, uganda, kenya, north macedonia, laos, south sudan
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 4 (Mongolia):** *Хүн ба байгаль IV* / Man and Nature 4 (student book) — Mongolia. As printed: *Хүн ба байгаль IV*, textbook for Grade 4 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, M. Ganbat, J. Delgeön, D. Oyunchimeg and Ts. Pagmasüren; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 4, student book, in Mongolian. No ISBN is printed on the title or imprint pages checked. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 35,897,023 bytes, 75 PDF pages, image-only; verified by cover, title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Хатуу, шингэн, хийн шинж яагаад ялгаатай вэ? / Why do their properties differ?, with Усан дахь жижиг хэсгийг хэрхэн дүрслэх вэ? / How to model the tiny particles in water? (Ch. 5) (Mongolia, Grade 4) | Book 4 (Хүн ба байгаль IV (Man and Nature 4), student textbook, Grade 4), printed p. 46 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Barbados, Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia).**
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, matter the particle theory, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4

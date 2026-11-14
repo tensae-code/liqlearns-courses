@@ -1,6 +1,6 @@
 # Sources — Dissolving — when solids disappear into liquids
 
-countries: Serbia, Albania (teacher-guide evidence only)
+countries: Serbia, Albania (teacher-guide evidence only), Mongolia
 
 **Book 1:** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
 
@@ -30,3 +30,17 @@ Searchable tags: dissolving, solvent, solute, solution, sugar, stirring, warm wa
 **Acceptance count unchanged: taught in 1 country (Serbia).**
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, dissolving, tretja e lendeve ne uje, dissolving in water
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 4 (Mongolia):** *Хүн ба байгаль IV* / Man and Nature 4 (student book) — Mongolia. As printed: *Хүн ба байгаль IV*, textbook for Grade 4 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, M. Ganbat, J. Delgeön, D. Oyunchimeg and Ts. Pagmasüren; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 4, student book, in Mongolian. No ISBN is printed on the title or imprint pages checked. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 35,897,023 bytes, 75 PDF pages, image-only; verified by cover, title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Аль нь усанд уусах вэ? / Which ones dissolve in water? (Ch. 5) (placement slug: materials/dissolving-and-solutions — stocked into this lesson, materials/dissolving-when-solids-disappear-into-liquids, as the closest existing lesson) (Mongolia, Grade 4) | Book 4 (Хүн ба байгаль IV (Man and Nature 4), student textbook, Grade 4), printed p. 48 |
+
+**Acceptance count: taught in 2 countries (Serbia, Mongolia).**
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, dissolving when solids disappear into liquids, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4

@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only)
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -101,3 +101,20 @@ Searchable tags: zambia, zambia teacher module, curriculum development centre za
 Albania's own way in the Grade 5 guide — the year is organised in learning situations (situata të të nxënit) under the themes Cycles, Energy and Systems, each taught through brainstorm / KWL (Di–Dua të di–Mësova) / cluster methods with portfolio assessment — a distinct inquiry-first Albanian delivery of the same science — is itself course content, carried exactly as filed.
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, shadows, half-shadows, hijet, gjysme hija, measuring shadows
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 2 (Mongolia):** *Хүн ба орчин II* / Man and Environment 2 (student book) — Mongolia. As printed: *Хүн ба орчин II*, textbook for Grade 2, Ministry of Education, Culture, Science and Sports, Ulaanbaatar (bibliographic record 2014, 76 pp.); ISBN 978-99973-69-45-1. Grade 2, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 39,538,141 bytes, 76 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+**Book 4 (Mongolia):** *Хүн ба байгаль IV* / Man and Nature 4 (student book) — Mongolia. As printed: *Хүн ба байгаль IV*, textbook for Grade 4 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, M. Ganbat, J. Delgeön, D. Oyunchimeg and Ts. Pagmasüren; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 4, student book, in Mongolian. No ISBN is printed on the title or imprint pages checked. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 35,897,023 bytes, 75 PDF pages, image-only; verified by cover, title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Гэрэл ба сүүдэр / Light and shadow (Mongolia, Grade 2) | Book 2 (Хүн ба орчин II (Man and Environment 2), student textbook, Grade 2), printed p. 50 |
+| Бүх биет сүүдэр үүсгэх үү? / Do all bodies cast shadows? (Ch. 2 Properties of light) (Mongolia, Grade 4) | Book 4 (Хүн ба байгаль IV (Man and Nature 4), student textbook, Grade 4), printed p. 15 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Mongolia).**
+
+Mongolia's own way — the *Хүн ба орчин* (Man and Environment, Grades 1–3) five-unit frame deepening year by year, then the *Хүн ба байгаль* (Man and Nature, Grades 4–5) named investigation chapters — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, things that block light and shadows, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 2, grade 4

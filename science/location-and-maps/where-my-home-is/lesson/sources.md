@@ -1,6 +1,6 @@
 # Sources — Where My Home Is
 
-countries: Ethiopia
+countries: Ethiopia, Mongolia
 
 **Book 1:** *አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል — Environmental Science Teacher's Guide, Grade 1 (student book NOT held; this file is guide-sourced)* (teacher guide) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Guide printed page = PDF page − 8 (printed p.1 = PDF p.9). Read visually, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md
 
@@ -18,3 +18,17 @@ TRUNCATED/CORRUPT: the held file is the teacher's guide, not the student textboo
 TRUNCATED: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 (printed pp. 55–81+) are missing. Every part from this book is teacher-guide evidence.
 
 Searchable tags: where my home is, relative location, school, woreda, kebele
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 3 (Mongolia):** *Хүн ба орчин III* / Man and Environment 3 (student book) — Mongolia. As printed: *Хүн ба орчин III*, textbook for Grade 3, Ministry of Education, Culture, Science and Sports, Ulaanbaatar (bibliographic record 2014); ISBN 978-99973-69-47-5. Grade 3, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 36,401,878 bytes, 75 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Эх орон / Homeland (Unit 3.5 Let us study our homeland and the world) (Mongolia, Grade 3) | Book 3 (Хүн ба орчин III (Man and Environment 3), student textbook, Grade 3), printed p. 62 |
+
+**Acceptance count: taught in 1 country (Mongolia).** — Mongolia's student book is this lesson's first counted country; the earlier rows remain evidence only, counted nowhere.
+
+Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, where my home is, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 3

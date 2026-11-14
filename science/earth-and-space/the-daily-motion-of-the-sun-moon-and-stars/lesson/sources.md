@@ -33,3 +33,17 @@ Searchable tags: daily motion, sunrise, sunset, earth rotation, moon, star trail
 **Acceptance count unchanged: taught in 2 countries (Mongolia, Vietnam).**
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, moving shadow, daily motion, levizja e hijes
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 5 (Mongolia):** *Хүн ба байгаль V* / Man and Nature 5 (student book) — Mongolia. As printed: *Хүн ба байгаль V*, textbook for Grade 5 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, B. Bayarchimeg, M. Ganbat, S. Gendenjamts, J. Delgeön, U. Myagmarjav and M. Enkhbayar; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 5, student book, in Mongolian. No ISBN is printed on the title page. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 42,449,298 bytes, 88 PDF pages, image-only; verified by title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Биеийн сүүдрээр нарны байрлалыг тодорхойлцгооё / Finding the Sun's position by our own shadow (Ch. 1 Studying the universe) (placement slug: light/shadows-length-and-the-position-of-the-sun — stocked into this lesson, earth-and-space/the-daily-motion-of-the-sun-moon-and-stars, as the closest existing lesson: its opening activity reads the Sun's daily arc from a stick's shadow) (Mongolia, Grade 5) | Book 5 (Хүн ба байгаль V (Man and Nature 5), student textbook, Grade 5), printed p. 6 |
+
+**Acceptance count unchanged: taught in 2 countries (Mongolia, Vietnam).** Mongolia was already a counted country in this lesson (Physics expansion, *Физик VII*); this General Science student book adds its provenance here, counted once.
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, the daily motion of the sun moon and stars, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5

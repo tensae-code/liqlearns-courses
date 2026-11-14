@@ -1,6 +1,6 @@
 # Sources — Changes — useful and harmful changes in daily life
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only)
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Mongolia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -51,3 +51,17 @@ Searchable tags: vanuatu, saens tija gaed, bislama, year 3, materials change pro
 **Acceptance count unchanged: taught in 1 country (Ethiopia).**
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, changing materials, ndryshimi i materialeve
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 5 (Mongolia):** *Хүн ба байгаль V* / Man and Nature 5 (student book) — Mongolia. As printed: *Хүн ба байгаль V*, textbook for Grade 5 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, B. Bayarchimeg, M. Ganbat, S. Gendenjamts, J. Delgeön, U. Myagmarjav and M. Enkhbayar; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 5, student book, in Mongolian. No ISBN is printed on the title page. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 42,449,298 bytes, 88 PDF pages, image-only; verified by title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Эргэх өөрчлөлт мөн үү? / Is it a reversible change?, with Эргэх ба үл эргэх өөрчлөлт ямар ялгаатай вэ? / How reversible and irreversible changes differ (Ch. 4 Reversible and irreversible changes) (placement slug: materials/reversible-and-chemical-changes-to-materials — stocked into this lesson, materials/changes-useful-and-harmful, as the closest existing lesson: it sorts changes into physical and chemical — the reversible/irreversible split) (Mongolia, Grade 5) | Book 5 (Хүн ба байгаль V (Man and Nature 5), student textbook, Grade 5), printed p. 37 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Mongolia).**
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, changes useful and harmful, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5

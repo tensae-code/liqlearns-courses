@@ -1,6 +1,6 @@
 # Sources — Family — Who Is in a Family and What Each One Does
 
-countries: Ethiopia, Turkey, Micronesia
+countries: Ethiopia, Turkey, Micronesia, Mongolia
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -34,3 +34,20 @@ Searchable tags: family, family members, roles, father mother children, turkey, 
 Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
 
 Searchable tags: micronesia, pcep, irei, prel, pacific islands, family who is in a family
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Mongolia):** *Хүн ба орчин I* / Man and Environment 1 (student book) — Mongolia. As printed: *Хүн ба орчин I*, textbook for Grade 1 of general-education schools, Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020 (bibliographic record 2014); ISBN 978-99973-69-43-7. Grade 1, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 28,338,837 bytes, 70 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+**Book 2 (Mongolia):** *Хүн ба орчин II* / Man and Environment 2 (student book) — Mongolia. As printed: *Хүн ба орчин II*, textbook for Grade 2, Ministry of Education, Culture, Science and Sports, Ulaanbaatar (bibliographic record 2014, 76 pp.); ISBN 978-99973-69-45-1. Grade 2, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 39,538,141 bytes, 76 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Манай гэрийнхэн / Our family (Unit 1.2 Communicate and cooperate) (Mongolia, Grade 1) | Book 1 (Хүн ба орчин I (Man and Environment 1), student textbook, Grade 1), printed p. 24 |
+| Манай гэрийнхэн / Our family and Миний гэр орон / my home (Unit: Communicate and cooperate) (Mongolia, Grade 2) | Book 2 (Хүн ба орчин II (Man and Environment 2), student textbook, Grade 2), printed p. 12 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Micronesia, Mongolia).**
+
+Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, family who is in a family, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 1, grade 2

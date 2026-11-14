@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -90,3 +90,20 @@ Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher gu
 **Acceptance count: taught in 5 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 6
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 2 (Mongolia):** *Хүн ба орчин II* / Man and Environment 2 (student book) — Mongolia. As printed: *Хүн ба орчин II*, textbook for Grade 2, Ministry of Education, Culture, Science and Sports, Ulaanbaatar (bibliographic record 2014, 76 pp.); ISBN 978-99973-69-45-1. Grade 2, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 39,538,141 bytes, 76 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+**Book 5 (Mongolia):** *Хүн ба байгаль V* / Man and Nature 5 (student book) — Mongolia. As printed: *Хүн ба байгаль V*, textbook for Grade 5 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, B. Bayarchimeg, M. Ganbat, S. Gendenjamts, J. Delgeön, U. Myagmarjav and M. Enkhbayar; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 5, student book, in Mongolian. No ISBN is printed on the title page. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 42,449,298 bytes, 88 PDF pages, image-only; verified by title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Сар ба улирал / The Moon and the seasons, after Өдөр ба шөнө / day and night (Mongolia, Grade 2) | Book 2 (Хүн ба орчин II (Man and Environment 2), student textbook, Grade 2), printed p. 60 |
+| Сарны байрлалыг тодорхойлцгооё / Finding the Moon's position, with Сарны хэлбэрийг ажиглая / Observing the Moon's shape and Сар яагаад гэрэлтэж харагддаг вэ? / Why does the Moon shine? (Ch. 1) (Mongolia, Grade 5) | Book 5 (Хүн ба байгаль V (Man and Nature 5), student textbook, Grade 5), printed p. 11 |
+
+**Acceptance count: taught in 6 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana, Mongolia).**
+
+Mongolia's own way — the *Хүн ба орчин* (Man and Environment, Grades 1–3) five-unit frame deepening year by year, then the *Хүн ба байгаль* (Man and Nature, Grades 4–5) named investigation chapters — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, the moon earths natural satellite and its phases, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 2, grade 5

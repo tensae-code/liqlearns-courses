@@ -1,6 +1,6 @@
 # Sources — Earth — the planet suited for life
 
-countries: Ethiopia
+countries: Ethiopia, Mongolia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -20,3 +20,17 @@ GUIDE KEY ERRORS, corrected before use: the guide's Exercises 6.2/6.4 answer key
 This lesson stands on TEACHER-GUIDE EVIDENCE ONLY: the student book sets this material only as review question 12 (printed p. 177 of the student book), not as a taught section — hence acceptance count 0.
 
 Searchable tags: Earth suited for life, nine factors, ozone layer, Jupiter neighbour, liquid water, teacher evidence, Ethiopia Grade 8 General Science Unit 6
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 3 (Mongolia):** *Хүн ба орчин III* / Man and Environment 3 (student book) — Mongolia. As printed: *Хүн ба орчин III*, textbook for Grade 3, Ministry of Education, Culture, Science and Sports, Ulaanbaatar (bibliographic record 2014); ISBN 978-99973-69-47-5. Grade 3, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 36,401,878 bytes, 75 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Эх дэлхий / Mother Earth: the Earth as home (Unit 3.5 closing) (Mongolia, Grade 3) | Book 3 (Хүн ба орчин III (Man and Environment 3), student textbook, Grade 3), printed p. 67 |
+
+**Acceptance count: taught in 1 country (Mongolia).** — Mongolia's student book is this lesson's first counted country; the earlier rows remain evidence only, counted nowhere.
+
+Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, earth the planet suited for life, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 3

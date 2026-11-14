@@ -1,6 +1,6 @@
 # Sources — Heat — radiation and the black/white test
 
-countries: Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya, South Sudan, Mauritania, Greece, Armenia
+countries: Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya, South Sudan, Mauritania, Greece, Armenia, Mongolia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -65,3 +65,17 @@ Iran is counted ONCE for this lesson: the Mathematical Sciences book contains th
 Book error taught corrected: Activity 7.22's results table heads its second column “silver cloth” while its own procedure says white cloth (printed p. 207) — the lesson follows the procedure (white cloth) throughout, and the heading error is flagged here, never reproduced. Guide evidence filed as labelled teacher evidence only. PAIRING WARNING: the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
 Searchable tags: radiation, electromagnetic waves, vacuum, absorption, black heats faster, white reflects, fair test graph, Ethiopia Grade 8 General Science Unit 7, uganda, kenya, iran, laos, libya, south sudan
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 4 (Mongolia):** *Хүн ба байгаль IV* / Man and Nature 4 (student book) — Mongolia. As printed: *Хүн ба байгаль IV*, textbook for Grade 4 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, M. Ganbat, J. Delgeön, D. Oyunchimeg and Ts. Pagmasüren; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 4, student book, in Mongolian. No ISBN is printed on the title or imprint pages checked. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 35,897,023 bytes, 75 PDF pages, image-only; verified by cover, title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Гэрлийн дулааны үйлчлэлийг судалъя / Investigating the warming action of light (Ch. 2) (placement slug: energy/heat-and-keeping-warm — stocked into this lesson, heat/heat-radiation-and-the-black-white-test, as the closest existing lesson: light's warming is heat carried by radiation) (Mongolia, Grade 4) | Book 4 (Хүн ба байгаль IV (Man and Nature 4), student textbook, Grade 4), printed p. 20 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, Libya, South Sudan, Mauritania, Greece, Armenia, Mongolia).**
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, heat radiation and the black white test, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4

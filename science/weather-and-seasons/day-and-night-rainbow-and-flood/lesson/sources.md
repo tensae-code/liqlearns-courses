@@ -1,6 +1,6 @@
 # Sources — Day and night, rainbow and flood
 
-countries: Ethiopia
+countries: Ethiopia, Mongolia
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -16,3 +16,17 @@ Honesty: this teacher's guide scan is TRUNCATED — printed pp. 1–54 (Units 1�
 This lesson rests ONLY on the Grade 1 teacher guide (printed pp. 37–42, inside §3.1's span — in hand in the truncated scan; Units 4–5 are missing). Its acceptance count is therefore 0 countries, as its sources line states. The Grade 1 student file's Chapter 3 introduction (guide printed p. 27, Amhara guide) names the weather competencies but its §3.1 content is NOT HELD, so nothing is built from it.
 
 Searchable tags: day and night, natural events, rainbow, ቀስተ ደመና, flood, ጎርፍ
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 1 (Mongolia):** *Хүн ба орчин I* / Man and Environment 1 (student book) — Mongolia. As printed: *Хүн ба орчин I*, textbook for Grade 1 of general-education schools, Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020 (bibliographic record 2014); ISBN 978-99973-69-43-7. Grade 1, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 28,338,837 bytes, 70 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Өдөр ба шөнө / Day and night (Unit 1.5 Observe natural phenomena) (Mongolia, Grade 1) | Book 1 (Хүн ба орчин I (Man and Environment 1), student textbook, Grade 1), printed p. 54 |
+
+**Acceptance count: taught in 1 country (Mongolia).** — Mongolia's student book is this lesson's first counted country; the earlier rows remain evidence only, counted nowhere.
+
+Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, day and night rainbow and flood, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 1

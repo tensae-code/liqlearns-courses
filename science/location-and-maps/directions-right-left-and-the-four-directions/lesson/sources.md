@@ -1,6 +1,6 @@
 # Sources — Directions — Right, Left and the Four Directions
 
-countries: Ethiopia, Serbia
+countries: Ethiopia, Serbia, Mongolia
 
 **Book 2:** *አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 1* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md
 
@@ -50,3 +50,17 @@ Searchable tags: directions, east west north south, right and left, sunrise, sun
 Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 5 (Mongolia):** *Хүн ба байгаль V* / Man and Nature 5 (student book) — Mongolia. As printed: *Хүн ба байгаль V*, textbook for Grade 5 of general-education schools, by D. Altantsetseg, E. Batchuluun, G. Bayarmaa, B. Bayarchimeg, M. Ganbat, S. Gendenjamts, J. Delgeön, U. Myagmarjav and M. Enkhbayar; Ministry of Education, Culture, Science and Sports, Ulaanbaatar, 7th printing 2020. Grade 5, student book, in Mongolian. No ISBN is printed on the title page. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 42,449,298 bytes, 88 PDF pages, image-only; verified by title page and contents. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Баруун-зүүн, хойд-өмнө / West–east, north–south (Ch. 2) (placement slug: location-and-maps/compass-directions-and-the-points-of-the-compass — stocked into this lesson, location-and-maps/directions-right-left-and-the-four-directions, as the closest existing lesson) (Mongolia, Grade 5) | Book 5 (Хүн ба байгаль V (Man and Nature 5), student textbook, Grade 5), printed p. 24 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Serbia, Mongolia).**
+
+Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, directions right left and the four directions, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5

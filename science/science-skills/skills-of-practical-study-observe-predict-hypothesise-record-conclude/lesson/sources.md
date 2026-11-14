@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only)
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -80,3 +80,17 @@ Searchable tags: iceland, líf á landi, field trips, observing nature, mind map
 Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
 
 Searchable tags: micronesia, pcep, irei, prel, pacific islands, skills of practical study observe predict hypothesise record conclude
+
+## Mongolia growth (2026-11-13, General Science expansion)
+
+**Book 3 (Mongolia):** *Хүн ба орчин III* / Man and Environment 3 (student book) — Mongolia. As printed: *Хүн ба орчин III*, textbook for Grade 3, Ministry of Education, Culture, Science and Sports, Ulaanbaatar (bibliographic record 2014); ISBN 978-99973-69-47-5. Grade 3, student book, in Mongolian. Records: TSV release record + books.json twin — same book, cited once. Fetched copy: 36,401,878 bytes, 75 PDF pages. Verdict: COMPLETE as scoped. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mongolia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the series' own way, printed in every book's foreword: the four-step learning frame — observe and ask questions, plan and record the study, do the exercises and experiments, present and explain your results (Mongolia, Grade 3) | Book 3 (Хүн ба орчин III (Man and Environment 3), student textbook, Grade 3), printed p. 4 |
+
+**Acceptance count: taught in 5 countries (Kuwait, Finland, Turkey, Australia, Mongolia).**
+
+Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
+
+Searchable tags: mongolia, skills of practical study observe predict hypothesise record conclude, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 3
