@@ -1,12 +1,14 @@
 # Sources — Formatting cells — alignment, borders, fill and number formats
 
-countries: Ethiopia, Eritrea
+countries: Ethiopia, Eritrea, Belarus
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
 **Book 2:** *Information Technology, Teacher's Guide, Grade 10* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). Developed with Hawassa University (with Addis Ababa, Bahir Dar and Jimma universities thanked). First Published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 122 printed pp (body). Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-teacher-placements.md.
 
 **Book 3:** *Information and Communications Technology for Grade 8 — Textbook* (student book) — Eritrea, Ministry of Education, State of Eritrea (Curriculum Planning and Development Division), 2015. ISBN 99948-1-750-7. 93 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/eritrea-placements.md.
+
+**Book 4:** *Інфарматыка — вучэбны дапаможнік для 10 класа ўстаноў агульнай сярэдняй адукацыі з беларускай мовай навучання (Інфарматыка. 10 клас)* (student book, Belarusian) — Belarus, Выдавецкі цэнтр БДУ, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2011. ISBN 978-985-476-928-8. 152 PDF pages. Verdict: COMPLETE. Read via page renders (scanned image-only PDF; its text layer carries only the adu.by portal watermark) — title/imprint and the complete contents rendered at high resolution, with chapter-opening spot renders for all six chapters. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -15,9 +17,10 @@ countries: Ethiopia, Eritrea
 | Unit 3's chained practicals — the chain ends with the data formatted (teacher guide — evidence) (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed pp. 52–59 |
 | Unit 3 review answers keyed — used as the verified-answer check for this lesson's questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed pp. 62 |
 | Unit 5 §5.6 — Formatting Cells | Eritrea, *ICT for Grade 8*, Unit 5 §5.6, printed p. 72 |
+| § 13 "Фарматаванне электроннай табліцы" (formatting the spreadsheet) | Belarus, *Інфарматыка. 10 клас*, § 13, printed p. 82 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Eritrea).**
+**Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Belarus).**
 
+Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatics as applied mathematics with office tools — a full-year arc from data archiving through Pascal strings and information modelling to Excel and 2010-era Internet communication (NetMeeting, Skype, blogs).
 
-
-Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea
+Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea, belarus

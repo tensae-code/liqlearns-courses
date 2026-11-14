@@ -1,10 +1,12 @@
 # Sources — Excel formulas — operators and the equals sign
 
-countries: Ethiopia
+countries: Ethiopia, Belarus
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
 **Book 2:** *Information Technology, Teacher's Guide, Grade 9* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 113 printed pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-teacher-placements.md.
+
+**Book 3:** *Інфарматыка — вучэбны дапаможнік для 10 класа ўстаноў агульнай сярэдняй адукацыі з беларускай мовай навучання (Інфарматыка. 10 клас)* (student book, Belarusian) — Belarus, Выдавецкі цэнтр БДУ, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2011. ISBN 978-985-476-928-8. 152 PDF pages. Verdict: COMPLETE. Read via page renders (scanned image-only PDF; its text layer carries only the adu.by portal watermark) — title/imprint and the complete contents rendered at high resolution, with chapter-opening spot renders for all six chapters. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -19,9 +21,12 @@ countries: Ethiopia
 | The order of operations (Grade 10 growth) — a spreadsheet calculates numerical data (Excel); a formula is entered into a cell, stored inside it, only its result displayed, the formula seen in the formula bar; simple formula = one operator, complex = several | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 102–103 |
 | The order of operations (Grade 10 growth) — evaluation order: parentheses first, then exponentials, then multiplication and division (whichever comes first), then addition and subtraction (whichever comes first) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed p. 103 |
 | Unit 3 review answers keyed, used as the verified-answer check for the Grade 10 growth questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed p. 62 |
+| § 14 "Выкарыстанне формул" (using formulas) | Belarus, *Інфарматыка. 10 клас*, § 14, printed p. 92 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Belarus).**
+
+Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatics as applied mathematics with office tools — a full-year arc from data archiving through Pascal strings and information modelling to Excel and 2010-era Internet communication (NetMeeting, Skype, blogs).
 
 Book errors taught corrected: the spreadsheet section's figure references drift from their captions (the text cites figures one or two numbers higher than the captions in this part of Unit 3); this lesson teaches from the pictured content and cites no figure number. The teacher guide calls LibreOffice's spreadsheet "LibreOffice Excel" (printed pp. 49–50) — it is Calc; the lesson teaches Calc and flags the slip where it arises.
 
-Searchable tags: Excel formula, operators, equals sign, formula bar, Show Formulas, LibreOffice Calc, Ethiopia Grade 9
+Searchable tags: Excel formula, operators, equals sign, formula bar, Show Formulas, LibreOffice Calc, Ethiopia Grade 9, belarus

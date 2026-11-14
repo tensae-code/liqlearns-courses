@@ -797,3 +797,17 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Programming** (ICT expansion, from China): Building a Simple Email Client · Building a Network Chat System in Python · Digitisation and Why It Matters · How Data Is Encoded — Text, Sound and Images · Data Compression — Making Files Smaller · Solving Problems with Analytic Algorithms · Solving Problems by Enumeration · The General Process of Data Processing · Collecting Data — Sensors, Crawlers and Surveys · Cleaning and Organising Data · Data Analysis with Python Tools · Calling AI Platform Tools from Python
 
 **Safety, Security and Care** (ICT expansion, from China): Encryption and RSA Public-Key Cryptography
+
+**Hardware** (ICT expansion, from Belarus): Using Digital Devices with a Computer
+
+**Programming** (ICT expansion, from Belarus): Character Data in PascalABC · String Data in PascalABC · String Procedures and Functions · Practical Tasks with Characters and Strings · Information Models — Describing the World · Structuring Information with Models · Computer Modelling and Simulation · Drawing Geometric Figures in PascalABC · Working with Raster Images in PascalABC · Plotting Graphs and Diagrams in PascalABC · Programming Tasks from School Subjects
+
+**Spreadsheets** (ICT expansion, from Belarus): Types of Data — Text, Numbers, Formulas · Entering and Editing Data in Cells · Working with Cell Ranges · Spreadsheet Tasks from Other Subjects
+
+**Computers in Society** (ICT expansion, from Belarus): Talking with Skype · Blogs, Forums and Chats
+
+**Internet and the Web** (ICT expansion, from Belarus): Making a Web Page in Word · Saving a Presentation as a Web Page · Building a Site in FrontPage · Site Fragments for Different Subject Areas
+
+**Multimedia** (ICT expansion, from Belarus): Preparing Images for the Web
+
+**Databases** (ICT expansion, from Belarus): Data Entry Forms in Access · Reports from a Database in Access

@@ -1,12 +1,14 @@
 # Sources — Spreadsheet functions — SUM, AVERAGE, MAX, MIN
 
-countries: Ethiopia, Eritrea
+countries: Ethiopia, Eritrea, Belarus
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
 **Book 2:** *Information Technology, Teacher's Guide, Grade 8* (teacher guide) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 61 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-teacher-placements.md.
 
 **Book 5:** *Information and Communications Technology for Grade 8 — Textbook* (student book) — Eritrea, Ministry of Education, State of Eritrea (Curriculum Planning and Development Division), 2015. ISBN 99948-1-750-7. 93 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/eritrea-placements.md.
+
+**Book 6:** *Інфарматыка — вучэбны дапаможнік для 10 класа ўстаноў агульнай сярэдняй адукацыі з беларускай мовай навучання (Інфарматыка. 10 клас)* (student book, Belarusian) — Belarus, Выдавецкі цэнтр БДУ, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2011. ISBN 978-985-476-928-8. 152 PDF pages. Verdict: COMPLETE. Read via page renders (scanned image-only PDF; its text layer carries only the adu.by portal watermark) — title/imprint and the complete contents rendered at high resolution, with chapter-opening spot renders for all six chapters. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -29,11 +31,14 @@ countries: Ethiopia, Eritrea
 | Sub lesson 4 — Excel's nine powerful features, keyed beyond the student text: header and footer; find and replace; password protection; filtering (AutoFilter, Advanced Filter); sorting; built-in formulae; chart creation (pivot table reports); automatic recalculation; formula auditing — precedents and dependents traced with blue arrows (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 3 review key, printed pp. 63–64 |
 | Sub lesson 3 — Unit 3 review answers keyed, used as the verified-answer check for the Grade 10 growth questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, printed p. 62 |
 | Unit 5 §5.9 — Formulas and Functions | Eritrea, *ICT for Grade 8*, Unit 5 §5.9, printed p. 79 |
+| § 15 "Выкарыстанне функцый" (using functions) | Belarus, *Інфарматыка. 10 клас*, § 15, printed p. 96 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Eritrea).**
+**Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Belarus).**
+
+Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatics as applied mathematics with office tools — a full-year arc from data archiving through Pascal strings and information modelling to Excel and 2010-era Internet communication (NetMeeting, Skype, blogs).
 
 Teacher-guide fault noted for the Grade 10 growth: the guide's Unit 3 Practical Exercises 3.2 and 3.3 carry the same description twice, Exercise 3.6's tip points to page-number/header help, and Exercises 3.7–3.9 repeat one data-entry tip regardless of topic — the guide was used here only for its keyed answers and chained-practical pacing, never for those exercise descriptions. Three of Sub lesson 4's nine features — formula auditing, password protection and find and replace — appear nowhere in the student book; they stand on teacher-guide evidence alone (Grade 10 Teacher Guide, printed pp. 63–64), labelled in the sources table.
 
 The Grade 8 teacher guide's Unit 3 answer key (printed pp. 32–33) was used as a verified-answer check for this lesson's questions; its two demonstration tasks are filed in this lesson — the sum-and-average demonstration in Sub lesson 2 and the Do It Yourself block.
 
-Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea
+Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus

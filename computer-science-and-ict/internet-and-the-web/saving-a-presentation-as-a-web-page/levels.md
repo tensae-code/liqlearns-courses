@@ -1,0 +1,9 @@
+# Saving a Presentation as a Web Page — sub lessons and depth
+
+This file is the lesson's depth record, expressed as its SUB LESSONS. Practice is tied to the learner's skill number. The questions live in the type files; this file is the by-sub-lesson view.
+
+## Sub lesson 1 — Publishing slides as pages
+Sub lesson 1 questions from the type files. Pass mark: Publication — turning a presentation into pages anyone can view.; It must speak for itself, with the explanation written on or under it.
+
+## Sub lesson 2 — What carries over, what does not
+Sub lesson 2 questions from the type files. Pass mark: Only a browser — no presentation program and no presenter.; So anyone with the link can view the talk, without the program or the room.

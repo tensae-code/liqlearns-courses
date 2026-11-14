@@ -1,6 +1,6 @@
 # Sources — Creating and styling Excel charts
 
-countries: Ethiopia, Eritrea, Nepal, China
+countries: Ethiopia, Eritrea, Nepal, China, Belarus
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Eritrea, Nepal, China
 
 **Book 5:** *信息技术 必修1 — 数据与计算 / Information Technology, Compulsory 1: Data and Computation* (student book, Chinese) — China, 人民教育出版社 (People's Education Press) with 中国地图出版社 (China Map Press), Beijing. Editors-in-chief: 祝智庭, 樊磊. 2019. ISBN not visible on the pages read. 160 PDF pages. Verdict: COMPLETE. Read in full. Record note: the library record labels this book "Grade 11 (PEP)", but the file is the Compulsory-1 volume, the first of the two compulsory volumes; the placements cite it as "China Grade 11 record IT Compulsory 1" — it is not a Grade 11 book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/china-placements.md.
 
+**Book 6:** *Інфарматыка — вучэбны дапаможнік для 10 класа ўстаноў агульнай сярэдняй адукацыі з беларускай мовай навучання (Інфарматыка. 10 клас)* (student book, Belarusian) — Belarus, Выдавецкі цэнтр БДУ, Мінск. Authors: Г. А. Забароўскі, А. Я. Пупцаў. 2011. ISBN 978-985-476-928-8. 152 PDF pages. Verdict: COMPLETE. Read via page renders (scanned image-only PDF; its text layer carries only the adu.by portal watermark) — title/imprint and the complete contents rendered at high resolution, with chapter-opening spot renders for all six chapters. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/belarus-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — charts display data visually; the eight types named; creation in order: select source cells including titles and labels, Insert → Chart, choose type or Recommended Charts, chart appears | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 113–115 |
@@ -22,9 +24,10 @@ countries: Ethiopia, Eritrea, Nepal, China
 | Unit 5 §5.10 — Charts | Eritrea, *ICT for Grade 8*, Unit 5 §5.10, printed p. 83 |
 | Unit 4 §4.7, Introduction to Data Visualization | Nepal, *Computer Science, Class 10*, printed p. 205 |
 | 数据可视化 (Data Visualisation) | China, *IT Compulsory 1 (Grade 11 record)*, Chapter 3 §3.3.2, printed p. 113 |
+| § 16 "Пабудова дыяграм" (building diagrams/charts) | Belarus, *Інфарматыка. 10 клас*, § 16, printed p. 103 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Nepal, China).**
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Nepal, China, Belarus).**
 
+Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatics as applied mathematics with office tools — a full-year arc from data archiving through Pascal strings and information modelling to Excel and 2010-era Internet communication (NetMeeting, Skype, blogs).
 
-
-Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china
+Searchable tags: Excel charts, pie column line bar, Recommended Charts, Add Chart Element, Quick Layout, Chart Styles, Student Grade Record, Ethiopia Grade 10, eritrea, nepal, china, belarus
