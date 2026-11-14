@@ -1,6 +1,6 @@
 # Sources — Seasons and the Sun's path — the ecliptic
 
-countries: Palestine, China, Indonesia, Fiji, Saudi Arabia, Morocco (teacher-guide evidence only), South Sudan
+countries: Palestine, China, Indonesia, Fiji, Saudi Arabia, Morocco (teacher-guide evidence only), South Sudan, Nepal
 
 **Book 1:** *الفيزياء للصف العاشر (Physics for Grade 10)* (student textbook) — Palestine, Ministry of Education, State of Palestine. Title as printed: Physics for Grade 10, Ministry of Education, State of Palestine — ministerial decision page: adopted for teaching in Palestine's schools from school year 2017/2018; ministerial curriculum committee named at the end of the book (incl. Dr Sabri Saidam, Dr Shahnaz Al-Far). Grade 10 · Student book (Arabic medium) · Repo path: grade-10/gov/palestine/physics/full-year.pdf. Byte size: 2,226,145 (no size in record). PDF pages: 160. Offset: printed p. N ≈ PDF p. N+5 (Unit 1 opens printed p. 2 = PDF p. 7; Ch. 1 printed p. 4 per the contents page). Verdict: COMPLETE — full text read (Arabic text layer throughout; extraction is RTL-garbled in places but every chapter, activity and question set is legible); contents page + unit/chapter sequence prove identity; book closes with the project chapter and the curriculum committee page. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/palestine-placements.md.
 
@@ -118,3 +118,23 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 **Acceptance count: taught in 6 countries — South Sudan added.** South Sudan counts through its Primary pupil's books above; its Teacher's Guides in this section are guide evidence only, counted nowhere beyond that one count.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 6, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 6" (Science and Technology, Grade 6) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2078; authors Chintamani Panthi and Gopichandra Paudel (named in the preface); written for the Basic Education Curriculum, Grades 6–8, under the National Curriculum Framework 2076 PDF pages: 235 (the last PDF page is blank); printed pages 228. Printed page = PDF page − 6 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 228, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the changing seasons: the four seasons of the northern hemisphere with their dates, and Nepal's own six seasons of two months each — Basanta, Grishma, Barsha, Sharad, Hemanta and Shishir (the country's own way) | Nepal, *Science and Technology Grade 6*, printed pp. 217–218 |
+
+**Book (Nepal — Grade 6, teacher's guide):** Title as printed: "Shikshak Nirdeshika, Vigyan tatha Pravidhi, Kaksha 6" (Teacher's Guide, Science and Technology, Grade 6); the cover is marked a draft copy for feedback (Pristhaposhanka lagi Masauda Prati) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2080; writing and editing team named in the preface: Janakraj Pant, Mina Shrestha, Ishwarkumar Ghimire, Yuvraj Adhikari and Khilanarayan Shrestha; the printer line on the publisher page is blank and no ISBN is printed in the front matter PDF pages: 240; printed pages 236. Printed page = PDF page − 4 Verdict: COMPLETE — the guide to the Grade 6 student book filed above (record np08), read in full: all eleven units, ending with the appendix on facilitating learners with disabilities (13 types; teaching method rather than science content, so it is recorded here but not placed). Placements below are marked teacher-guide evidence: the explanations, comparisons, experiment protocols and answers the guide adds beyond the student book Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the seasons taught by collage: the Earth's axis drawn tilted at 66.5° to the plane of its orbit (as the guide states it), the Earth pasted at the four season positions round the Sun, and the season table opened with spring from 21 March (7 Chaitra), when sunlight falls straight on the equator and day and night are equal (teacher-guide evidence) | Nepal, *Science and Technology Grade 6 Teacher's Guide*, printed pp. 230–231 |
+
+**Acceptance count: taught in 7 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, earth-and-space/seasons-and-the-suns-path-the-ecliptic

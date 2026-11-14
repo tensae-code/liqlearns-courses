@@ -1,6 +1,6 @@
 # Sources — Measuring: units of mass, length and time
 
-countries: Ethiopia, Afghanistan, Costa Rica, Uganda, Seychelles, Cabo Verde, Sudan, Venezuela, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Saudi Arabia, Vietnam, Iraq
+countries: Ethiopia, Afghanistan, Costa Rica, Uganda, Seychelles, Cabo Verde, Sudan, Venezuela, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Saudi Arabia, Vietnam, Iraq, Nepal
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -235,3 +235,29 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, scien
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, science-skills units-of-mass-length-and-time
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 9 (2017), student book):** Title as printed: "Science, Grade 9" (cover title page: "Science Grade - 9") Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; revised edition 2017; price Rs. 96; ISBN line blank in the PDF PDF pages: 287; printed pages 283. PDF page = printed page + 4 Verdict: COMPLETE — read in full via text layer to Unit 24 (The Earth in the Universe) and the final exercises. This is the OLDER Grade 9 edition; the revised-2082 Nepali Grade 9 book (record np12) is a different, newer book and is filed separately below It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| measurement: the seven fundamental units and the derived units (area, volume, density, velocity, acceleration, force, pressure) | Nepal, *Science Grade 9 (2017)*, printed p. 1 |
+
+**Book (Nepal — Grade 6, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 6" (Science and Technology, Grade 6) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2078; authors Chintamani Panthi and Gopichandra Paudel (named in the preface); written for the Basic Education Curriculum, Grades 6–8, under the National Curriculum Framework 2076 PDF pages: 235 (the last PDF page is blank); printed pages 228. Printed page = PDF page − 6 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 228, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| physical quantities and their units: length, mass, time, temperature, area and volume, the instruments that measure them and converting between units | Nepal, *Science and Technology Grade 6*, printed pp. 11–17 |
+
+**Book (Nepal — Grade 6, teacher's guide):** Title as printed: "Shikshak Nirdeshika, Vigyan tatha Pravidhi, Kaksha 6" (Teacher's Guide, Science and Technology, Grade 6); the cover is marked a draft copy for feedback (Pristhaposhanka lagi Masauda Prati) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2080; writing and editing team named in the preface: Janakraj Pant, Mina Shrestha, Ishwarkumar Ghimire, Yuvraj Adhikari and Khilanarayan Shrestha; the printer line on the publisher page is blank and no ISBN is printed in the front matter PDF pages: 240; printed pages 236. Printed page = PDF page − 4 Verdict: COMPLETE — the guide to the Grade 6 student book filed above (record np08), read in full: all eleven units, ending with the appendix on facilitating learners with disabilities (13 types; teaching method rather than science content, so it is recorded here but not placed). Placements below are marked teacher-guide evidence: the explanations, comparisons, experiment protocols and answers the guide adds beyond the student book Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the guide's fixed definitions: length is the distance between two points; mass is the total quantity of matter in a thing (SI unit the kilogram, measured on a beam balance); time is the interval between two events (SI unit the second, with sub-units down to the microsecond); temperature by thermometer; area of regular and irregular shapes; volume by measuring cylinder and by length × width × height (teacher-guide evidence) | Nepal, *Science and Technology Grade 6 Teacher's Guide*, printed pp. 13–24 |
+
+**Acceptance count: taught in 17 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, science-skills/units-of-mass-length-and-time

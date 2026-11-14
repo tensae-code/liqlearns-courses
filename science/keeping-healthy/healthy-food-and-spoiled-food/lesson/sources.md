@@ -1,6 +1,6 @@
 # Sources — Healthy food and spoiled food
 
-countries: Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Vietnam, Malaysia, South Sudan, Iraq, El Salvador
+countries: Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh, Yemen, Vietnam, Malaysia, South Sudan, Iraq, El Salvador, Nepal
 
 **Book 4:** *Grade 2 Environmental Science Teacher Guide* (አካባቢ ሳይንስ ሁለተኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED scan: the file holds printed pp. 1–61 (Units 1–3); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-teacher-placements.md.
 
@@ -296,3 +296,23 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, keeping-healthy/healthy-food-and-spoiled-food
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 3, student book):** Title as printed: "MY SCIENCE, HEALTH and PHYSICAL EDUCATION, BOOK 3" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2049 BS, piloting edition 2062 BS, revised edition 2064 BS, English version 2066/2067 BS; no ISBN printed in the pages extracted PDF pages: 128; printed pages 124. Science section printed pp. 1–58, Health pp. 60–92, Physical Education pp. 94–123. The contents page lists Lesson 13 (Cloud and Rain) at p. 45 and Lesson 14 (The Earth) at p. 44 — the book's own contents ordering fault, named here; citations below follow the contents as printed Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| safe food | Nepal, *My Science, Health and PE Grade 3*, printed p. 74 |
+
+**Book (Nepal — Grade 2, teacher's guide):** Title as printed: शिक्षक निर्देशिका, मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, कक्षा २ (Shikshak Nirdeshika, Mero Vigyan, Swasthya tatha Sharirik Shiksha, Kaksha 2 — Teacher's Guide, My Science, Health and Physical Education, Grade 2) Grade 2, teacher's guide. Government of Nepal, Ministry of Education and Sports, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2064; printed by Bhaktapur Press Pvt. Ltd., Gathaghar, Bhaktapur (named on the back cover; the publisher page's printer line is blank); no ISBN printed. The guide is built on the Primary Education Curriculum 2062 revision of the Grade 2 textbook; its science writers and health/PE writers are named in the preface PDF pages: 163 (a scan); printed pages 1–150, cited from the guide's own contents and folios. Science printed pp. 1–44, Health pp. 45–104, Physical Education pp. 105–150 Verdict: COMPLETE — all 20 Science lessons, all 6 Health units and the Physical Education units read from page renders (the PDF is image-only). All placements below are teacher-guide evidence: the explanations, comparisons and teacher boxes the guide adds around the Grade 2 student book filed above Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| safe and fresh food, from two short case stories: Rama ate stale and rotted food, sometimes ate uncovered food and even food the flies had sat on, and used dirty water to wash vegetables and fruit, and so her stomach kept aching and she kept getting loose motions; Shyam never ate stale or rotted food — he always ate well-covered food the flies had not sat on — and stayed healthy; the discussion adds: food being clean alone is not enough — the water the food is washed in and cooked in must be clean, the cooking vessels must be clean, and the person cooking must be clean too; various diseases can be transmitted from dirty food, and disease can also be transmitted from milk that has not been properly boiled (guide evidence) | Nepal, *My Science, Health and PE Grade 2 Teacher's Guide*, printed p. 73 |
+
+**Acceptance count: taught in 15 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, keeping-healthy/healthy-food-and-spoiled-food

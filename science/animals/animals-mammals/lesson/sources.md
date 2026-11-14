@@ -1,6 +1,6 @@
 # Sources — Animals — mammals
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Micronesia, India, Bulgaria, Bahamas (curriculum evidence only), Egypt, Sudan, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador, Colombia
+countries: Ethiopia, Canada (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Guyana, Iceland (teacher-guide evidence only), Micronesia, India, Bulgaria, Bahamas (curriculum evidence only), Egypt, Sudan, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, South Sudan, Iraq, El Salvador, Colombia, Nepal
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -497,3 +497,17 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/an
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, animals/animals-mammals
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 6, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 6" (Science and Technology, Grade 6) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2078; authors Chintamani Panthi and Gopichandra Paudel (named in the preface); written for the Basic Education Curriculum, Grades 6–8, under the National Curriculum Framework 2076 PDF pages: 235 (the last PDF page is blank); printed pages 228. Printed page = PDF page − 6 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 228, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mammals among the vertebrate classes | Nepal, *Science and Technology Grade 6*, printed pp. 71–76 |
+
+**Acceptance count: taught in 31 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, animals/animals-mammals

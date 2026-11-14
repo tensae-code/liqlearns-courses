@@ -1,6 +1,6 @@
 # Sources — Cells — inside a cell: organelles and their jobs
 
-countries: Ethiopia, Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), India, Cuba, Samoa, Egypt, Ecuador, Cabo Verde, Venezuela, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka (teacher-guide evidence only), Yemen, Nicaragua, El Salvador, Colombia
+countries: Ethiopia, Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), India, Cuba, Samoa, Egypt, Ecuador, Cabo Verde, Venezuela, Dominican Republic, Kuwait, Laos, Eritrea, Sri Lanka (teacher-guide evidence only), Yemen, Nicaragua, El Salvador, Colombia, Nepal
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -336,3 +336,29 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, the-human-
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/inside-a-cell-organelles-and-their-jobs
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 5 book held under the Grade 4 record, student book):** Title as printed: "My Science, Health and Physical Education, Grade 5" — the record this file was secured under is "My Science, Health and Physical Education Grade 4 (English Version)". MISMATCH: the PDF in the textbooks repo for the Grade 4 record is a Grade 5 book (cover, publisher page and the footer "Science, Health and Physical Education 5" all say Grade 5). The book was read and placed as the printed Grade 5 book; the Grade 4 English student book itself is a library debt (see the group log) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; ISBN 978-9937-8247-3-6 as printed; first edition 2052 BS, reprint 2075 BS; price Rs. 83 PDF pages: 161; printed pages 155. Science section printed pp. 1–80, Health pp. 81–125, Physical Education pp. 126–155 Verdict: COMPLETE as the Grade 5 book — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only); the Grade 4 record / Grade 5 print mismatch is carried exactly as filed in the header above. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the cell, the smallest unit of living things | Nepal, *My Science, Health and PE Grade 5 (Grade 4 record)*, printed p. 8 |
+
+**Book (Nepal — Grade 8, student book):** Title as printed: "Science and Technology, Grade 8" Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2023; no ISBN printed in the pages extracted PDF pages: 253; the printed book's contents run to printed p. 302 and beyond. PDF page = printed page + 4. The PDF is an OCR-scanned copy (text layer carries OCR errors, e.g. "loadstone" for lodestone); readings were checked against the page images' headings Verdict: TRUNCATED — the PDF ends at printed p. 249, at the end of Unit 8 (Electricity and Magnetism). Units 9 (Matter, printed p. 250), 10 (Materials Used in Daily Life, printed p. 277) and 11 (The Earth and Universe, printed p. 302) are MISSING from the repo file. Units 1–8 were read in full; the missing units are a library debt (see the group log) It counts in the acceptance count (student book, not evidence-only); the held file is TRUNCATED as named in the verdict above — Units 9–11 are missing from the repo file and are a library debt, and no placement stocked in this merge comes from the missing units. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| parts of a cell: covering, cytoplasm, organelles and nucleus, and the comparison of plant and animal cells | Nepal, *Science and Technology Grade 8*, printed p. 58 |
+
+**Book (Nepal — Grade 7, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 7" (Science and Technology, Grade 7) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2079, revised edition BS 2082; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; writing team named in the preface: Jayprakash Shrivastav, Subas Kharal, Shivraj Paudel, Dambaruprasad Pokharel, Kiran Sharma and Khilanarayan Shrestha; price line blank in the PDF PDF pages: 261 (the last PDF page is blank); printed pages 256. Printed page = PDF page − 4 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 256, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the cell, life's structural and working unit, seen through the microscope in cheek cells and onion skin; plant cell against animal cell, and the parts and their jobs: the cellulose cell wall (plants only), the semi-permeable cell membrane, cytoplasm, mitochondria the powerhouse, plastids (chloroplast, chromoplast, leucoplast), the vacuole, the centrosome (animals only), endoplasmic reticulum, lysosome, ribosome making protein, Golgi body, and the nucleus that controls the cell | Nepal, *Science and Technology Grade 7*, printed pp. 75–80 |
+
+**Acceptance count: taught in 17 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, the-human-body/inside-a-cell-organelles-and-their-jobs

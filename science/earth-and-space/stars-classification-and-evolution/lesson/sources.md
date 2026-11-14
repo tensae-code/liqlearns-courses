@@ -1,6 +1,6 @@
 # Sources — Stars — classification and evolution
 
-countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia, Dominican Republic, Kuwait, Bangladesh, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Colombia
+countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia, Dominican Republic, Kuwait, Bangladesh, Saudi Arabia, Nicaragua, Malaysia, El Salvador, Colombia, Nepal
 
 **Book 1:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -211,3 +211,19 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/stars-classification-and-evolution
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 9 (revised 2082), student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 9" (Science and Technology, Grade 9) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2079, revised edition BS 2082; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; preface writing and revision team: Chintamani Panthi, Khilkumar Pradhan, Janakraj Pant, Hariprasad Regmi, Kesharbahadur Khulal, Jayaprakashlal Shrivastav and Khilanarayan Shrestha; Director General Yuvraj Paudel named; price line blank in the PDF PDF pages: 307 (the last PDF page is blank); printed pages 302. Printed page = PDF page − 4 Verdict: COMPLETE — read in full from Unit 1 (Scientific Study) to the Unit 19 (Substances Used in Agriculture) exercises ending at printed p. 302, matching the book's own table of contents of 19 units. This is a different, newer book from the older Grade 9 English Version filed earlier (record np11, revised 2017) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Sun as a star: its data as printed (mass, distance, core and surface temperatures, power), hydrogen isotopes, and thermonuclear fusion in three steps joining four hydrogen nuclei into helium, needing plentiful hydrogen, high temperature and high pressure; Einstein's E = mc² worked with 0.1 g of matter | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed pp. 144–145 |
+| the life of a star: born in a nebula of hydrogen and helium as gravity gathers gas and dust into a protostar until fusion lights at about ten million degrees; ageing through hydrogen, helium and carbon burning as colour changes with temperature (blue hottest to red coolest, as printed); the envelope swelling into a red giant or supergiant, and nova and supernova explosions scattering the material of new nebulae | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed pp. 194–197 |
+| how stars end, by their starting mass: a white dwarf cooling to a black dwarf near the Sun's mass; a neutron star or pulsar at 1.4–5 times the Sun's mass; and a black hole above that, whose gravity will not let even light escape | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed p. 198 |
+
+**Acceptance count: taught in 15 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, earth-and-space/stars-classification-and-evolution

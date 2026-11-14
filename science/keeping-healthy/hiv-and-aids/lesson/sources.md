@@ -1,6 +1,6 @@
 # Sources — HIV and AIDS: how it spreads and how it does not
 
-countries: Ethiopia, Guyana, Gabon (teacher-guide evidence only), Samoa, Afghanistan, Angola, Dominican Republic, Syria, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Nicaragua, Colombia
+countries: Ethiopia, Guyana, Gabon (teacher-guide evidence only), Samoa, Afghanistan, Angola, Dominican Republic, Syria, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Nicaragua, Colombia, Nepal
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -248,3 +248,17 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, keeping-healthy/hiv-and-aids
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 5 book held under the Grade 4 record, student book):** Title as printed: "My Science, Health and Physical Education, Grade 5" — the record this file was secured under is "My Science, Health and Physical Education Grade 4 (English Version)". MISMATCH: the PDF in the textbooks repo for the Grade 4 record is a Grade 5 book (cover, publisher page and the footer "Science, Health and Physical Education 5" all say Grade 5). The book was read and placed as the printed Grade 5 book; the Grade 4 English student book itself is a library debt (see the group log) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; ISBN 978-9937-8247-3-6 as printed; first edition 2052 BS, reprint 2075 BS; price Rs. 83 PDF pages: 161; printed pages 155. Science section printed pp. 1–80, Health pp. 81–125, Physical Education pp. 126–155 Verdict: COMPLETE as the Grade 5 book — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only); the Grade 4 record / Grade 5 print mismatch is carried exactly as filed in the header above. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| HIV and AIDS | Nepal, *My Science, Health and PE Grade 5 (Grade 4 record)*, printed p. 107 |
+
+**Acceptance count: taught in 12 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, keeping-healthy/hiv-and-aids

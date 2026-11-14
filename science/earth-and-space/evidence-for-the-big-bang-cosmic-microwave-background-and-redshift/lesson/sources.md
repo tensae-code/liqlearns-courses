@@ -1,6 +1,6 @@
 # Sources — Evidence for the Big Bang — cosmic microwave background and redshift
 
-countries: Bhutan, North Macedonia, Armenia, Ecuador, Fiji, Nicaragua, El Salvador, Colombia
+countries: Bhutan, North Macedonia, Armenia, Ecuador, Fiji, Nicaragua, El Salvador, Colombia, Nepal (teacher-guide evidence only)
 
 **Book 1:** *Physics Textbook, Class X* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2015, Reprint 2018. Grade: 10 · Student book · Repo path: grade-10/gov/bhutan/physics/full-year.pdf (source: REC Bhutan, x-physics-textbook-2019.pdf). Byte size: 5,022,766 (exact match). PDF pages: 193 (record: 193). Offset: printed p. = PDF p. − 25 (printed p. 1 is PDF p. 26); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 193 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -116,3 +116,17 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/evidence-for-the-big-bang-cosmic-microwave-background-and-redshift
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 10, teacher's guide):** Title as printed: शिक्षक निर्देशिका, विज्ञान तथा प्रविधि, कक्षा १० (Shikshak Nirdeshika, Vigyan tatha Prabidhi, Kaksha 10 — Teacher's Guide, Science and Technology, Grade 10); title page marked परीक्षणका लागि (for testing) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2081; printer line blank; no ISBN printed in the front matter. Writing/editing team named in the preface: Rabina Maharjan, Keshar Bahadur Khulal, Kabin Lama, Yuvraj Adhikari, Lavdev Bhatta; CDC Director General Baikunthaprasad Aryal named; the guide is built on the Basic Education Curriculum 2078 for Grades 9–10 PDF pages: 565 (final page blank); printed folios run to 553. Printed page = PDF page − 10 throughout (Unit 1 starts on printed p. 1) Verdict: COMPLETE as to all 19 teaching units, read in full page by page — with one named absence: the front matter points teachers to an Appendix 1 schedule for facilitating learners with disabilities, but no appendix pages are present in this PDF; the book ends with the Unit 19 test and the CDC back page. All placements below are teacher-guide evidence: the explanations, protocols, worked answers and extra facts the guide adds around the Grade 10 course (the matching student book in hand is the older BS 2074 edition, filed separately above) Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the origin of the universe by the Big Bang theory (guide evidence), with two named misconceptions corrected: the Big Bang was not the explosion of a single point, and dark matter is not a dark black-coloured substance | Nepal, *Shikshak Nirdeshika Vigyan Grade 10 (guide)*, printed p. 390 |
+
+**Acceptance count: taught in 8 countries (unchanged — Nepal's rows in this lesson are teacher-guide evidence only, counted nowhere).**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, earth-and-space/evidence-for-the-big-bang-cosmic-microwave-background-and-redshift

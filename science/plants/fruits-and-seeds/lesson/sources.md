@@ -1,6 +1,6 @@
 # Sources — Fruits and seeds
 
-countries: Albania (teacher-guide evidence only), Mongolia, Seychelles, Afghanistan, Syria
+countries: Albania (teacher-guide evidence only), Mongolia, Seychelles, Afghanistan, Syria, Nepal
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 5* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2019; ISBN 978-9928-08-396-8. Title as printed: Libër mësuesi — Dituri natyre 5 (author Laureta Shkoza; textbook translated/adapted by Prof. Dr. Ethem Ruka). Grade 5, TEACHER guide — yearly plan, worked learning situations with answers, and term tests; all placements from it are guide evidence. PDF: 73 pages, 2,560,136 bytes (verified: byte size and 73 pages match the books.json record exactly; title page matches the record title). Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -70,3 +70,19 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — the-fr
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, fruits and seeds
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 7, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 7" (Science and Technology, Grade 7) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2079, revised edition BS 2082; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; writing team named in the preface: Jayprakash Shrivastav, Subas Kharal, Shivraj Paudel, Dambaruprasad Pokharel, Kiran Sharma and Khilanarayan Shrestha; price line blank in the PDF PDF pages: 261 (the last PDF page is blank); printed pages 256. Printed page = PDF page − 4 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 256, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fruit and seed: the pericarp's three layers (exocarp, mesocarp, endocarp) guarding the seed; inside the seed — seed coat, embryo with radicle and plumule, endosperm and the seed leaves; one seed leaf and a big endosperm in maize against two seed leaves in gram; and germination, the radicle becoming the root and the plumule the shoot | Nepal, *Science and Technology Grade 7*, printed pp. 59–60 |
+
+Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED — fruit-seeds-and-germination — are stocked into this lesson (`plants/fruits-and-seeds`), the existing lesson that already covers that thing; the original slug is recorded here so the filing is not lost.
+
+**Acceptance count: taught in 5 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, plants/fruits-and-seeds

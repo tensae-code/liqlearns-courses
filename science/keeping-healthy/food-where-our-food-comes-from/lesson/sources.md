@@ -1,6 +1,6 @@
 # Sources — Food — where our food comes from
 
-countries: Ethiopia, Afghanistan, Mauritania, Angola, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Nicaragua, Morocco (teacher-guide evidence only), South Sudan (teacher-guide evidence only), El Salvador, Colombia
+countries: Ethiopia, Afghanistan, Mauritania, Angola, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Nicaragua, Morocco (teacher-guide evidence only), South Sudan (teacher-guide evidence only), El Salvador, Colombia, Nepal
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -283,3 +283,41 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, keeping-he
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, keeping-healthy/food-where-our-food-comes-from
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 1, student book):** Title as printed: "My Science, Health and Physical Education, Grade 1" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2049 BS, reprint 2075 BS; price Rs. 46. The ISBN line as extracted from the PDF is garbled ("978-999-33-712-9-737-8247-3-6") and is not trusted — named here as a printing/extraction fault, not cited as an ISBN PDF pages: 87; printed pages 84. Science section printed pp. 2–50, Health pp. 52–64, Physical Education pp. 66–82 Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food items eaten raw | Nepal, *My Science, Health and PE Grade 1*, printed p. 58 |
+
+**Book (Nepal — Grade 2, student book):** Title as printed: "My Science, Health and Physical Education, Grade 2" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; ISBN 978-9937-717-8-6 as extracted (the digit string is printed in the PDF's publisher page in a mixed form and is cited here as extracted); first edition 2051 BS, revised edition 2075 BS; price Rs. 44 PDF pages: 83; printed pages 80. Science section printed pp. 2–40, Health pp. 42–58, Physical Education pp. 60–78 Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food from plants and animals | Nepal, *My Science, Health and PE Grade 2*, printed p. 18 |
+
+**Book (Nepal — Grade 3, student book):** Title as printed: "MY SCIENCE, HEALTH and PHYSICAL EDUCATION, BOOK 3" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2049 BS, piloting edition 2062 BS, revised edition 2064 BS, English version 2066/2067 BS; no ISBN printed in the pages extracted PDF pages: 128; printed pages 124. Science section printed pp. 1–58, Health pp. 60–92, Physical Education pp. 94–123. The contents page lists Lesson 13 (Cloud and Rain) at p. 45 and Lesson 14 (The Earth) at p. 44 — the book's own contents ordering fault, named here; citations below follow the contents as printed Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sources of food | Nepal, *My Science, Health and PE Grade 3*, printed p. 71 |
+
+**Book (Nepal — Grade 4, teacher's guide):** Title as printed: शिक्षक निर्देशिका, मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, कक्षा ४ (Shikshak Nirdeshika, Mero Vigyan, Swasthya tatha Sharirik Shiksha, Kaksha 4 — Teacher's Guide, My Science, Health and Physical Education, Grade 4). The cover itself (PDF p. 2) carries only "मेरो विज्ञान, कक्षा ४" (My Science, Grade 4); that it is the teacher's guide is proven by the publisher page (PDF p. 3), whose copyright notice speaks of "यस शिक्षक निर्देशिका" (this teacher's guide), and by the running footer "मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, शिक्षक निर्देशिका, कक्षा –४" from PDF p. 6 onward. This is the guide to the Grade 4 student book; the Grade 4 student book in hand is the mismatched Grade 5 print filed above, so the guide's own lesson text is the Grade 4 evidence here Grade 4, teacher's guide. Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2067; printer line blank; no ISBN printed PDF pages: 103; printed = PDF − 5 (contents anchors and footers agree); Science printed pp. 3–41, Health pp. 45–67, Physical Education pp. 69–98 Verdict: COMPLETE — all 18 Science lessons, all 7 Health units and the Physical Education units read. All placements below are teacher-guide evidence: the explanations, comparisons, demonstrations and teacher boxes the guide adds around the student book's lessons Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the main food of a place follows what grows there (the country's own way): wheat in the Terai, maize and millet in the hills, buckwheat in the Himalaya (guide evidence) | Nepal, *My Science, Health and PE Grade 4 Teacher's Guide*, printed p. 52 |
+
+**Book (Nepal — Grade 2, teacher's guide):** Title as printed: शिक्षक निर्देशिका, मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, कक्षा २ (Shikshak Nirdeshika, Mero Vigyan, Swasthya tatha Sharirik Shiksha, Kaksha 2 — Teacher's Guide, My Science, Health and Physical Education, Grade 2) Grade 2, teacher's guide. Government of Nepal, Ministry of Education and Sports, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2064; printed by Bhaktapur Press Pvt. Ltd., Gathaghar, Bhaktapur (named on the back cover; the publisher page's printer line is blank); no ISBN printed. The guide is built on the Primary Education Curriculum 2062 revision of the Grade 2 textbook; its science writers and health/PE writers are named in the preface PDF pages: 163 (a scan); printed pages 1–150, cited from the guide's own contents and folios. Science printed pp. 1–44, Health pp. 45–104, Physical Education pp. 105–150 Verdict: COMPLETE — all 20 Science lessons, all 6 Health units and the Physical Education units read from page renders (the PDF is image-only). All placements below are teacher-guide evidence: the explanations, comparisons and teacher boxes the guide adds around the Grade 2 student book filed above Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the food we get from plants and from animals; teacher note: people, and all other creatures too, get their food from plants, but green plants make their own food themselves (guide evidence) | Nepal, *My Science, Health and PE Grade 2 Teacher's Guide*, printed p. 20 |
+
+**Acceptance count: taught in 12 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, keeping-healthy/food-where-our-food-comes-from

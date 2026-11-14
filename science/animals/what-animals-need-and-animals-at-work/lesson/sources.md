@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Iraq, Colombia
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, South Sudan, Iraq, Colombia, Nepal
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -506,3 +506,35 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, animals/what-animals-need-and-animals-at-work
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 1, student book):** Title as printed: "My Science, Health and Physical Education, Grade 1" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2049 BS, reprint 2075 BS; price Rs. 46. The ISBN line as extracted from the PDF is garbled ("978-999-33-712-9-737-8247-3-6") and is not trusted — named here as a printing/extraction fault, not cited as an ISBN PDF pages: 87; printed pages 84. Science section printed pp. 2–50, Health pp. 52–64, Physical Education pp. 66–82 Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what animals eat | Nepal, *My Science, Health and PE Grade 1*, printed p. 4 |
+
+**Book (Nepal — Grade 2, student book):** Title as printed: "My Science, Health and Physical Education, Grade 2" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; ISBN 978-9937-717-8-6 as extracted (the digit string is printed in the PDF's publisher page in a mixed form and is cited here as extracted); first edition 2051 BS, revised edition 2075 BS; price Rs. 44 PDF pages: 83; printed pages 80. Science section printed pp. 2–40, Health pp. 42–58, Physical Education pp. 60–78 Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food and feeding habits of animals | Nepal, *My Science, Health and PE Grade 2*, printed p. 10 |
+
+**Book (Nepal — Grade 3, student book):** Title as printed: "MY SCIENCE, HEALTH and PHYSICAL EDUCATION, BOOK 3" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2049 BS, piloting edition 2062 BS, revised edition 2064 BS, English version 2066/2067 BS; no ISBN printed in the pages extracted PDF pages: 128; printed pages 124. Science section printed pp. 1–58, Health pp. 60–92, Physical Education pp. 94–123. The contents page lists Lesson 13 (Cloud and Rain) at p. 45 and Lesson 14 (The Earth) at p. 44 — the book's own contents ordering fault, named here; citations below follow the contents as printed Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food of animals and their eating habits | Nepal, *My Science, Health and PE Grade 3*, printed p. 12 |
+
+**Book (Nepal — Grade 2, teacher's guide):** Title as printed: शिक्षक निर्देशिका, मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, कक्षा २ (Shikshak Nirdeshika, Mero Vigyan, Swasthya tatha Sharirik Shiksha, Kaksha 2 — Teacher's Guide, My Science, Health and Physical Education, Grade 2) Grade 2, teacher's guide. Government of Nepal, Ministry of Education and Sports, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2064; printed by Bhaktapur Press Pvt. Ltd., Gathaghar, Bhaktapur (named on the back cover; the publisher page's printer line is blank); no ISBN printed. The guide is built on the Primary Education Curriculum 2062 revision of the Grade 2 textbook; its science writers and health/PE writers are named in the preface PDF pages: 163 (a scan); printed pages 1–150, cited from the guide's own contents and folios. Science printed pp. 1–44, Health pp. 45–104, Physical Education pp. 105–150 Verdict: COMPLETE — all 20 Science lessons, all 6 Health units and the Physical Education units read from page renders (the PDF is image-only). All placements below are teacher-guide evidence: the explanations, comparisons and teacher boxes the guide adds around the Grade 2 student book filed above Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| animals' food and the ways they eat: animals eat by chewing, by licking, by sucking, by swallowing whole and by pecking, and their food is grass, blood, flower nectar and meat; teacher box: grazing animals with strong teeth (cow, buffalo, horse) cut grass, straw and leaves, chew and eat them; wild animals like the tiger, bear and lion tear flesh with long, sharp teeth; frogs, lizards and snakes swallow small animals whole without chewing; birds peck up parts of plants and insects; the butterfly and the bee suck flowers' nectar through a tube (proboscis); the mosquito sucks other animals' blood through the needle-like tube in its mouth; and the young of people, dogs, cats, cows, elephants, whales, dolphins and bats live by sucking their mother's milk (guide evidence) | Nepal, *My Science, Health and PE Grade 2 Teacher's Guide*, printed p. 12 |
+
+**Acceptance count: taught in 26 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, animals/what-animals-need-and-animals-at-work

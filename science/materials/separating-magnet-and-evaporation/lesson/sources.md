@@ -1,6 +1,6 @@
 # Sources — Separating mixtures — magnet and evaporation
 
-countries: Ethiopia, Costa Rica, Sudan, Venezuela, Angola, Bhutan, China, Laos, North Macedonia, Saudi Arabia, Vietnam, Iraq
+countries: Ethiopia, Costa Rica, Sudan, Venezuela, Angola, Bhutan, China, Laos, North Macedonia, Saudi Arabia, Vietnam, Iraq, Nepal
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -173,3 +173,17 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, mater
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, materials separating-magnet-and-evaporation
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 6, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 6" (Science and Technology, Grade 6) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2078; authors Chintamani Panthi and Gopichandra Paudel (named in the preface); written for the Basic Education Curriculum, Grades 6–8, under the National Curriculum Framework 2076 PDF pages: 235 (the last PDF page is blank); printed pages 228. Printed page = PDF page − 6 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 228, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| separating a mixture by evaporation | Nepal, *Science and Technology Grade 6*, printed p. 174 |
+
+**Acceptance count: taught in 13 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, materials/separating-magnet-and-evaporation

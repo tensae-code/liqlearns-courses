@@ -1,6 +1,6 @@
 # Sources — Cells — shape, size and function
 
-countries: Ethiopia, India, Ecuador, Mauritania, Angola, Dominican Republic, Eritrea, Yemen, Nicaragua, Colombia
+countries: Ethiopia, India, Ecuador, Mauritania, Angola, Dominican Republic, Eritrea, Yemen, Nicaragua, Colombia, Nepal
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -173,3 +173,17 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, the-human-body/cell-shape-size-and-function
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 8, student book):** Title as printed: "Science and Technology, Grade 8" Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2023; no ISBN printed in the pages extracted PDF pages: 253; the printed book's contents run to printed p. 302 and beyond. PDF page = printed page + 4. The PDF is an OCR-scanned copy (text layer carries OCR errors, e.g. "loadstone" for lodestone); readings were checked against the page images' headings Verdict: TRUNCATED — the PDF ends at printed p. 249, at the end of Unit 8 (Electricity and Magnetism). Units 9 (Matter, printed p. 250), 10 (Materials Used in Daily Life, printed p. 277) and 11 (The Earth and Universe, printed p. 302) are MISSING from the repo file. Units 1–8 were read in full; the missing units are a library debt (see the group log) It counts in the acceptance count (student book, not evidence-only); the held file is TRUNCATED as named in the verdict above — Units 9–11 are missing from the repo file and are a library debt, and no placement stocked in this merge comes from the missing units. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| cell shape and size | Nepal, *Science and Technology Grade 8*, printed p. 55 |
+
+**Acceptance count: taught in 11 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, the-human-body/cell-shape-size-and-function

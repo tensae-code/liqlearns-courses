@@ -1,6 +1,6 @@
 # Sources — Energy sources around us
 
-countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia
+countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -414,3 +414,40 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, natural-re
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, natural-resources/energy-sources-around-us
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 3, student book):** Title as printed: "MY SCIENCE, HEALTH and PHYSICAL EDUCATION, BOOK 3" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2049 BS, piloting edition 2062 BS, revised edition 2064 BS, English version 2066/2067 BS; no ISBN printed in the pages extracted PDF pages: 128; printed pages 124. Science section printed pp. 1–58, Health pp. 60–92, Physical Education pp. 94–123. The contents page lists Lesson 13 (Cloud and Rain) at p. 45 and Lesson 14 (The Earth) at p. 44 — the book's own contents ordering fault, named here; citations below follow the contents as printed Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| uses of wind and water | Nepal, *My Science, Health and PE Grade 3*, printed p. 38 |
+
+**Book (Nepal — Grade 7, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 7" (Science and Technology, Grade 7) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2079, revised edition BS 2082; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; writing team named in the preface: Jayprakash Shrivastav, Subas Kharal, Shivraj Paudel, Dambaruprasad Pokharel, Kiran Sharma and Khilanarayan Shrestha; price line blank in the PDF PDF pages: 261 (the last PDF page is blank); printed pages 256. Printed page = PDF page − 4 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 256, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fossil fuels: how forests and sea creatures buried under great heat and pressure over millions of years became coal and mineral oil; fossil fuels' advantages (easy to get, easy to carry, used everywhere, giving much heat) and disadvantages (the store runs out, and burning pollutes) | Nepal, *Science and Technology Grade 7*, printed p. 130 |
+
+**Book (Nepal — Grade 9 (revised 2082), student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 9" (Science and Technology, Grade 9) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2079, revised edition BS 2082; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; preface writing and revision team: Chintamani Panthi, Khilkumar Pradhan, Janakraj Pant, Hariprasad Regmi, Kesharbahadur Khulal, Jayaprakashlal Shrivastav and Khilanarayan Shrestha; Director General Yuvraj Paudel named; price line blank in the PDF PDF pages: 307 (the last PDF page is blank); printed pages 302. Printed page = PDF page − 4 Verdict: COMPLETE — read in full from Unit 1 (Scientific Study) to the Unit 19 (Substances Used in Agriculture) exercises ending at printed p. 302, matching the book's own table of contents of 19 units. This is a different, newer book from the older Grade 9 English Version filed earlier (record np11, revised 2017) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| energy sources around us in Nepal (dung cakes, firewood, LPG, petroleum, briquettes pictured), and renewable sources set against non-renewable ones with examples of each | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed pp. 141–143 |
+| alternative energy in Nepal: the Alternative Energy Promotion Centre (AEPC, established 3 November 1996); government biogas promotion since BS 2030 with subsidies; urban biogas from municipal waste and the Sukrauli, Nawalparasi plant as Nepal's first large compressed-natural-gas plant; wind turbines at Hariharpurgadhi, Sindhuli, Mustang's high wind potential, and storm damage as the risk | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed pp. 154–155 |
+
+**Book (Nepal — Grade 10, student book):** Title as printed: "Vigyan, Kaksha 10" (Science, Grade 10) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; authors Kishor Nepal, Khilkumar Pradhan and Mahendra Basnet; first edition BS 2074; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; ISBN 978-9937-601-34-4 (verified from the publisher page); price line blank in the PDF PDF pages: 276; printed pages 269. Printed page = PDF page − 7 Verdict: COMPLETE — read in full from Unit 1 (Force) to the Unit 23 (The Universe) exercises ending at printed p. 269, matching the book's own table of contents of 23 units It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Sun as the ultimate source of nearly all our energy, its data given as printed; about 1.4 kilowatts of solar energy reaching each square metre at the Earth as printed | Nepal, *Science Grade 10*, printed pp. 35–36 |
+| fossil fuels: coal, with Nepal's own case — low-grade coal deposits in Dang district and no anthracite found in Nepal as printed | Nepal, *Science Grade 10*, printed p. 37 |
+| mineral oil and its refining: petrol, diesel, kerosene, LPG and tar drawn off from crude oil | Nepal, *Science Grade 10*, printed p. 38 |
+| alternative sources: bio-fuel and biomass with biogas plants backed by the government, and nuclear energy from fusion and fission with E = mc² | Nepal, *Science Grade 10*, printed pp. 40–41 |
+| tidal energy, stated not to be possible in Nepal, wind energy in the Himalaya and high hills, geothermal energy, and solar energy | Nepal, *Science Grade 10*, printed pp. 41–42 |
+
+**Acceptance count: taught in 21 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, natural-resources/energy-sources-around-us

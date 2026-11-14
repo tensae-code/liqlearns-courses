@@ -1,6 +1,6 @@
 # Sources — Kingdoms — the five kingdoms of living things
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Cuba, Angola, Kuwait, Indonesia, Yemen, Nicaragua, El Salvador, Colombia
+countries: Ethiopia, Canada (teacher-guide evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Cuba, Angola, Kuwait, Indonesia, Yemen, Nicaragua, El Salvador, Colombia, Nepal
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -214,3 +214,25 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/th
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, animals/the-five-kingdoms-of-living-things
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 8, student book):** Title as printed: "Science and Technology, Grade 8" Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2023; no ISBN printed in the pages extracted PDF pages: 253; the printed book's contents run to printed p. 302 and beyond. PDF page = printed page + 4. The PDF is an OCR-scanned copy (text layer carries OCR errors, e.g. "loadstone" for lodestone); readings were checked against the page images' headings Verdict: TRUNCATED — the PDF ends at printed p. 249, at the end of Unit 8 (Electricity and Magnetism). Units 9 (Matter, printed p. 250), 10 (Materials Used in Daily Life, printed p. 277) and 11 (The Earth and Universe, printed p. 302) are MISSING from the repo file. Units 1–8 were read in full; the missing units are a library debt (see the group log) It counts in the acceptance count (student book, not evidence-only); the held file is TRUNCATED as named in the verdict above — Units 9–11 are missing from the repo file and are a library debt, and no placement stocked in this merge comes from the missing units. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the five kingdoms themselves | Nepal, *Science and Technology Grade 8*, printed p. 75 |
+
+**Book (Nepal — Grade 9 (revised 2082), student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 9" (Science and Technology, Grade 9) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2079, revised edition BS 2082; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; preface writing and revision team: Chintamani Panthi, Khilkumar Pradhan, Janakraj Pant, Hariprasad Regmi, Kesharbahadur Khulal, Jayaprakashlal Shrivastav and Khilanarayan Shrestha; Director General Yuvraj Paudel named; price line blank in the PDF PDF pages: 307 (the last PDF page is blank); printed pages 302. Printed page = PDF page − 4 Verdict: COMPLETE — read in full from Unit 1 (Scientific Study) to the Unit 19 (Substances Used in Agriculture) exercises ending at printed p. 302, matching the book's own table of contents of 19 units. This is a different, newer book from the older Grade 9 English Version filed earlier (record np11, revised 2017) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the four weaknesses of the two-kingdom system, and Whittaker's five-kingdom system (1969) built on cell type, body organisation, cell wall, way of feeding and ecological role | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed p. 21 |
+| Monera: prokaryotic cells with no definite nucleus; archaebacteria of hot, salty and marshy places, eubacteria with peptidoglycan walls (Rhizobium, Clostridium), and the cyanobacteria or blue-green algae (Nostoc, Anabaena, Spirulina) | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed p. 22 |
+| Protista: unicellular eukaryotes moving by pseudopodia, cilia or flagella (amoeba, euglena, paramecium), sorted into animal-like, plant-like and fungus-like protists | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed p. 23 |
+
+**Acceptance count: taught in 14 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, animals/the-five-kingdoms-of-living-things

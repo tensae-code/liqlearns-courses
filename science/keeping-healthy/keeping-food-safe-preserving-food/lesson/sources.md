@@ -1,6 +1,6 @@
 # Sources — Keeping food safe — preserving food
 
-countries: Angola, Zimbabwe (teacher-guide evidence only), Bangladesh, Malaysia, South Sudan
+countries: Angola, Zimbabwe (teacher-guide evidence only), Bangladesh, Malaysia, South Sudan, Nepal (teacher-guide evidence only)
 
 **Book 2 (Angola):** *Estudo do Meio — Manual do Aluno, 2ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 2.ª Classe (content: Linda Chingolo Lussoke, Maria Milagre de Lurdes Freitas, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe). Grade: 2, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-307-3. PDF pages: 81 (cover/title page matches the record title). Verdict: COMPLETE. Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
 
@@ -99,3 +99,20 @@ Teacher's guide — evidence only: cited as the evidence it is, outside the acce
 Placement choice, on the record: the South Sudan placements filed these as "NEW LESSON NEEDED — food-preservation-methods" — south-sudan-placements.md. Checked against the live repo at merge time, this existing lesson already covers that thing as its own lesson, so South Sudan stocks into it here, with the original slug recorded in this note, instead of a duplicate lesson being built.
 
 South Sudan's own way — its Ministry of General Education and Instruction Primary Science books (©2018, effect from 4th February 2019) teaching this thing in the unit order and at the places named in the rows above, with South Sudan's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 10, teacher's guide):** Title as printed: शिक्षक निर्देशिका, विज्ञान तथा प्रविधि, कक्षा १० (Shikshak Nirdeshika, Vigyan tatha Prabidhi, Kaksha 10 — Teacher's Guide, Science and Technology, Grade 10); title page marked परीक्षणका लागि (for testing) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2081; printer line blank; no ISBN printed in the front matter. Writing/editing team named in the preface: Rabina Maharjan, Keshar Bahadur Khulal, Kabin Lama, Yuvraj Adhikari, Lavdev Bhatta; CDC Director General Baikunthaprasad Aryal named; the guide is built on the Basic Education Curriculum 2078 for Grades 9–10 PDF pages: 565 (final page blank); printed folios run to 553. Printed page = PDF page − 10 throughout (Unit 1 starts on printed p. 1) Verdict: COMPLETE as to all 19 teaching units, read in full page by page — with one named absence: the front matter points teachers to an Appendix 1 schedule for facilitating learners with disabilities, but no appendix pages are present in this PDF; the book ends with the Unit 19 test and the CDC back page. All placements below are teacher-guide evidence: the explanations, protocols, worked answers and extra facts the guide adds around the Grade 10 course (the matching student book in hand is the older BS 2074 edition, filed separately above) Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| natural, first-class food preservatives (guide evidence): sun-drying vegetables and pulses so the water leaves and they keep; salt, oil, sugar, wood smoke, spices, vinegar and honey — the grandmother's cucumber pickle in the guide's opening play, and the radish pickle that moulded because the oil was forgotten; small changes in their amounts do no harm | Nepal, *Shikshak Nirdeshika Vigyan Grade 10 (guide)*, printed p. 544 |
+| chemical, second-class food preservatives and their rules (guide evidence): sodium and potassium nitrate, benzoic acid and its salts, and sulphur dioxide; they must be used only in the fixed amounts, and two or more of them must never be used together; preservatives work as antimicrobials or antioxidants, with sorbic and benzoic acids as antimicrobial examples and ascorbic and citric acids as antioxidant examples | Nepal, *Shikshak Nirdeshika Vigyan Grade 10 (guide)*, printed p. 545 |
+
+Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED — keeping-food-safe-with-preservatives — are stocked into this lesson (`keeping-healthy/keeping-food-safe-preserving-food`), the existing lesson that already covers that thing; the original slug is recorded here so the filing is not lost.
+
+**Acceptance count: taught in 4 countries (unchanged — Nepal's rows in this lesson are teacher-guide evidence only, counted nowhere).**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, keeping-healthy/keeping-food-safe-preserving-food

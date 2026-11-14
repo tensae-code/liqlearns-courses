@@ -1,6 +1,6 @@
 # Sources — Day and night, rainbow and flood
 
-countries: Ethiopia, Mongolia, Sri Lanka, Indonesia, Vietnam
+countries: Ethiopia, Mongolia, Sri Lanka, Indonesia, Vietnam, Nepal (teacher-guide evidence only)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -75,3 +75,17 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, weather-and-seasons day-and-night-rainbow-and-flood
 
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 2, teacher's guide):** Title as printed: शिक्षक निर्देशिका, मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, कक्षा २ (Shikshak Nirdeshika, Mero Vigyan, Swasthya tatha Sharirik Shiksha, Kaksha 2 — Teacher's Guide, My Science, Health and Physical Education, Grade 2) Grade 2, teacher's guide. Government of Nepal, Ministry of Education and Sports, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2064; printed by Bhaktapur Press Pvt. Ltd., Gathaghar, Bhaktapur (named on the back cover; the publisher page's printer line is blank); no ISBN printed. The guide is built on the Primary Education Curriculum 2062 revision of the Grade 2 textbook; its science writers and health/PE writers are named in the preface PDF pages: 163 (a scan); printed pages 1–150, cited from the guide's own contents and folios. Science printed pp. 1–44, Health pp. 45–104, Physical Education pp. 105–150 Verdict: COMPLETE — all 20 Science lessons, all 6 Health units and the Physical Education units read from page renders (the PDF is image-only). All placements below are teacher-guide evidence: the explanations, comparisons and teacher boxes the guide adds around the Grade 2 student book filed above Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| day and night on Earth, found by experiment with a torchlight, a ball (globe) and a candle; teacher box: the Earth keeps turning continually on its axis — the axis is an imaginary straight line in the Earth's middle round which the Earth revolves; one full turn round its axis (rotation, parikrama as printed) takes the Earth about 24 hours; because the Earth turns on its axis, day and night happen — in the turning, the part of the Earth turned towards the Sun is lit and has day, and the opposite part is unlit and has night (guide evidence) | Nepal, *My Science, Health and PE Grade 2 Teacher's Guide*, printed p. 41 |
+| different colours are present in the Sun's light, separated and seen three ways: through a glass paperweight lying on white paper in sunshine; with a mirror stood in a bowl of water so the reflected light falls on a screen; and in soap bubbles blown in sunshine; teacher box: there are rays of seven colours in the Sun's light, and the speeds of the differently coloured rays are also different, so when these rays go from one medium into another they bend (are refracted) at different rates; the seven colours in the light, in order: violet, blue (nir), green, yellow, orange and red (six names as printed) (guide evidence) | Nepal, *My Science, Health and PE Grade 2 Teacher's Guide*, printed p. 43 |
+
+**Acceptance count: taught in 4 countries (unchanged — Nepal's rows in this lesson are teacher-guide evidence only, counted nowhere).**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, weather-and-seasons/day-and-night-rainbow-and-flood

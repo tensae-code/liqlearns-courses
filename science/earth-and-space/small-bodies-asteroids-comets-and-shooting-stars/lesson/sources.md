@@ -1,6 +1,6 @@
 # Sources — Small bodies — asteroids, comets, and shooting stars that land
 
-countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, North Macedonia, Indonesia, Fiji, Saudi Arabia, Nicaragua, Malaysia, Iraq, El Salvador
+countries: Ethiopia, Bhutan, Uzbekistan, Cuba, Armenia, Pakistan (Punjab), Samoa, Cambodia, Cabo Verde (teacher-guide evidence only), Dominican Republic, Kuwait, North Macedonia, Indonesia, Fiji, Saudi Arabia, Nicaragua, Malaysia, Iraq, El Salvador, Nepal
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -282,3 +282,25 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-space/small-bodies-asteroids-comets-and-shooting-stars
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 6, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 6" (Science and Technology, Grade 6) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2078; authors Chintamani Panthi and Gopichandra Paudel (named in the preface); written for the Basic Education Curriculum, Grades 6–8, under the National Curriculum Framework 2076 PDF pages: 235 (the last PDF page is blank); printed pages 228. Printed page = PDF page − 6 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 228, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| meteors and meteorites: small bodies that burn up as shooting stars in the atmosphere, and the few big enough to reach the ground | Nepal, *Science and Technology Grade 6*, printed p. 224 |
+| comets: broom-shaped balls of gas and ice circling the Sun, whose tails always point away from the Sun | Nepal, *Science and Technology Grade 6*, printed p. 224 |
+
+**Book (Nepal — Grade 10, student book):** Title as printed: "Vigyan, Kaksha 10" (Science, Grade 10) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; authors Kishor Nepal, Khilkumar Pradhan and Mahendra Basnet; first edition BS 2074; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; ISBN 978-9937-601-34-4 (verified from the publisher page); price line blank in the PDF PDF pages: 276; printed pages 269. Printed page = PDF page − 7 Verdict: COMPLETE — read in full from Unit 1 (Force) to the Unit 23 (The Universe) exercises ending at printed p. 269, matching the book's own table of contents of 23 units It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| comets: broom-shaped balls of frozen gas, ice and dust in long orbits, with a nucleus, a coma and a tail that the solar wind blows away from the Sun, seen only when they come near it; the book's table of famous comets — Halley's, first seen in 240 BC as printed and returning every 76 years, Tempel–Tuttle at 33 years, Encke at 3.3 years, and Shoemaker–Levy, which crashed into Jupiter in 1994 as printed | Nepal, *Science Grade 10*, printed pp. 260–261 |
+| meteors and meteorites: the streak of a shooting star as a small body burns in the atmosphere's friction, a very bright one a fireball; the pieces that survive to the ground as meteorites — stony, iron and stony-iron — and the craters they dig; the Arizona crater of about 50,000 years ago as printed, about 1,265 metres wide as printed, and Namibia's Hoba, the largest known meteorite at about 60 metric tons as printed | Nepal, *Science Grade 10*, printed pp. 261–262 |
+
+**Acceptance count: taught in 19 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, earth-and-space/small-bodies-asteroids-comets-and-shooting-stars

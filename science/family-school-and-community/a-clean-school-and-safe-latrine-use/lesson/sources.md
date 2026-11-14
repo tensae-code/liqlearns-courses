@@ -1,6 +1,6 @@
 # Sources — Our School — A Clean School and Safe Latrine Use
 
-countries: Ethiopia, Cambodia (guide evidence only), Angola, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Yemen, Nicaragua, South Sudan, Colombia
+countries: Ethiopia, Cambodia (guide evidence only), Angola, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), Yemen, Nicaragua, South Sudan, Colombia, Nepal
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -220,3 +220,17 @@ South Sudan's own way — its Ministry of General Education and Instruction Prim
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, family-school-and-community/a-clean-school-and-safe-latrine-use
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 2, student book):** Title as printed: "My Science, Health and Physical Education, Grade 2" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; ISBN 978-9937-717-8-6 as extracted (the digit string is printed in the PDF's publisher page in a mixed form and is cited here as extracted); first edition 2051 BS, revised edition 2075 BS; price Rs. 44 PDF pages: 83; printed pages 80. Science section printed pp. 2–40, Health pp. 42–58, Physical Education pp. 60–78 Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| keeping the school clean | Nepal, *My Science, Health and PE Grade 2*, printed p. 48 |
+
+**Acceptance count: taught in 9 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, family-school-and-community/a-clean-school-and-safe-latrine-use

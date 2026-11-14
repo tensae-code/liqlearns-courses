@@ -1,6 +1,6 @@
 # Sources — Life cycles of plants and animals
 
-countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria, Sri Lanka, Indonesia, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), El Salvador
+countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria, Sri Lanka, Indonesia, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Nepal
 
 **Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
 
@@ -354,3 +354,19 @@ Placement choice, on the record: the El Salvador placement(s) above filed as NEW
 El Salvador's own way — its MINED *Ciencia y Tecnología* books (the current MINEDUCYT generation for Grades 3–10, the older *Ciencia, Salud y Medio Ambiente* generation for Grades 1–2) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with El Salvador's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, animals/life-cycles-of-plants-and-animals
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 5 book held under the Grade 4 record, student book):** Title as printed: "My Science, Health and Physical Education, Grade 5" — the record this file was secured under is "My Science, Health and Physical Education Grade 4 (English Version)". MISMATCH: the PDF in the textbooks repo for the Grade 4 record is a Grade 5 book (cover, publisher page and the footer "Science, Health and Physical Education 5" all say Grade 5). The book was read and placed as the printed Grade 5 book; the Grade 4 English student book itself is a library debt (see the group log) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; ISBN 978-9937-8247-3-6 as printed; first edition 2052 BS, reprint 2075 BS; price Rs. 83 PDF pages: 161; printed pages 155. Science section printed pp. 1–80, Health pp. 81–125, Physical Education pp. 126–155 Verdict: COMPLETE as the Grade 5 book — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only); the Grade 4 record / Grade 5 print mismatch is carried exactly as filed in the header above. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| life cycle of a butterfly | Nepal, *My Science, Health and PE Grade 5 (Grade 4 record)*, printed p. 11 |
+
+Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED — life-cycle-of-a-butterfly — are stocked into this lesson (`animals/life-cycles-of-plants-and-animals`), the existing lesson that already covers that thing; the original slug is recorded here so the filing is not lost.
+
+**Acceptance count: taught in 15 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, animals/life-cycles-of-plants-and-animals

@@ -1,6 +1,6 @@
 # Sources — Evolution and natural selection
 
-countries: Gabon (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait
+countries: Gabon (teacher-guide evidence only), Venezuela, Dominican Republic, Kuwait, Nepal
 
 **Book 1:** *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 5e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2024. PDF 60 pages (1,435,808 bytes). Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 48 lessons; 10 ICT and 5 craft/technology lessons not placed per the placements file's scope note; one further Technology lesson, signal transmission, also not placed). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md.
 
@@ -57,3 +57,28 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, evolution and natural selection
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 9 (revised 2082), student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 9" (Science and Technology, Grade 9) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2079, revised edition BS 2082; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; preface writing and revision team: Chintamani Panthi, Khilkumar Pradhan, Janakraj Pant, Hariprasad Regmi, Kesharbahadur Khulal, Jayaprakashlal Shrivastav and Khilanarayan Shrestha; Director General Yuvraj Paudel named; price line blank in the PDF PDF pages: 307 (the last PDF page is blank); printed pages 302. Printed page = PDF page − 4 Verdict: COMPLETE — read in full from Unit 1 (Scientific Study) to the Unit 19 (Substances Used in Agriculture) exercises ending at printed p. 302, matching the book's own table of contents of 19 units. This is a different, newer book from the older Grade 9 English Version filed earlier (record np11, revised 2017) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| evolution: living things changing from simple to complex over long ages as the environment changes; the book's sequence from viruses and bacteria through invertebrates, fish, amphibians and reptiles to mammals, and algae to flowering plants | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed p. 36 |
+| Lamarck's theory (1809): direct effect of the environment, use and disuse, and inheritance of acquired characters, with the giraffe's neck — and the questions it left unanswered; Darwin's natural selection (Origin of Species, 1859): enormous fertility, the struggle for existence, variation and heredity, natural selection and the origin of new species, with the criticisms listed | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed pp. 44–46 |
+
+**Book (Nepal — Grade 10, teacher's guide):** Title as printed: शिक्षक निर्देशिका, विज्ञान तथा प्रविधि, कक्षा १० (Shikshak Nirdeshika, Vigyan tatha Prabidhi, Kaksha 10 — Teacher's Guide, Science and Technology, Grade 10); title page marked परीक्षणका लागि (for testing) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2081; printer line blank; no ISBN printed in the front matter. Writing/editing team named in the preface: Rabina Maharjan, Keshar Bahadur Khulal, Kabin Lama, Yuvraj Adhikari, Lavdev Bhatta; CDC Director General Baikunthaprasad Aryal named; the guide is built on the Basic Education Curriculum 2078 for Grades 9–10 PDF pages: 565 (final page blank); printed folios run to 553. Printed page = PDF page − 10 throughout (Unit 1 starts on printed p. 1) Verdict: COMPLETE as to all 19 teaching units, read in full page by page — with one named absence: the front matter points teachers to an Appendix 1 schedule for facilitating learners with disabilities, but no appendix pages are present in this PDF; the book ends with the Unit 19 test and the CDC back page. All placements below are teacher-guide evidence: the explanations, protocols, worked answers and extra facts the guide adds around the Grade 10 course (the matching student book in hand is the older BS 2074 edition, filed separately above) Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| classification and evolution taught as one idea (guide evidence; lesson first proposed in the Grade 9 Nepali student book above): grouping by similarity IS classification, and evolution is change from simple to complex forms from one common ancestor; the guide's own timeline runs from bacteria 3.8 billion years ago through algae, sea invertebrates and the first reptiles to Ramapithecus, Australopithecus, Homo habilis, Homo erectus, Neanderthal, Cro-Magnon and Homo sapiens sapiens 10,000 years ago (all dates as printed) | Nepal, *Shikshak Nirdeshika Vigyan Grade 10 (guide)*, printed p. 52 |
+
+Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED — evolution-life-changing-over-long-ages — are stocked into this lesson (`animals/evolution-and-natural-selection`), the existing lesson that already covers that thing; the original slug is recorded here so the filing is not lost.
+
+Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED — lamarck-and-darwin-two-theories-of-evolution — are stocked into this lesson (`animals/evolution-and-natural-selection`), the existing lesson that already covers that thing; the original slug is recorded here so the filing is not lost.
+
+**Acceptance count: taught in 4 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, animals/evolution-and-natural-selection

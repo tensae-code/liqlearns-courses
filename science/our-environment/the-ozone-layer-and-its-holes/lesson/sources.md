@@ -1,6 +1,6 @@
 # Sources — The ozone layer and its holes
 
-countries: North Macedonia, Bangladesh, Saudi Arabia, Vietnam
+countries: North Macedonia, Bangladesh, Saudi Arabia, Vietnam, Nepal
 
 **Book (North Macedonia — Science, Grade 6, student book):** Title as printed: Природни науки 6 — учебник за шесто одделение (Natural Sciences 6 — textbook for Grade 6). Authors: Icko Gjorgoski, Metodija Najdoski, Boce Mitrevski. Publisher: Ministry of Education and Science of the Republic of North Macedonia, Skopje, 2023 (approval decision 26-2186/1 of 15.09.2023; print run 13,438). No ISBN is printed in the book's imprint pages. PDF 194 pages; printed page numbers match PDF pages. Verdict: COMPLETE. Source note: the ministry link in the record no longer serves the file (the portal returns an error page). Read from the ministry file preserved in the Wayback Machine — byte-identical to the books.json record (93,278,910 bytes, 194 pages). 124 of its pages carry a custom-font text layer without a character map; those pages were recovered in full by OCR and the whole book was read. Because this copy came from an external link and the book is not in GitHub, the PDF is staged, not deleted: ~/workspace/phase3-staging/grade-06/gov/north-macedonia/science/student/full-year.pdf, with a books.json record added in the shape of its neighbours. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/north-macedonia-placements.md.
 
@@ -64,3 +64,18 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, our-environment the-ozone-layer-and-its-holes
 
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 10, student book):** Title as printed: "Vigyan, Kaksha 10" (Science, Grade 10) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; authors Kishor Nepal, Khilkumar Pradhan and Mahendra Basnet; first edition BS 2074; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; ISBN 978-9937-601-34-4 (verified from the publisher page); price line blank in the PDF PDF pages: 276; printed pages 269. Printed page = PDF page − 7 Verdict: COMPLETE — read in full from Unit 1 (Force) to the Unit 23 (The Universe) exercises ending at printed p. 269, matching the book's own table of contents of 23 units It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the thinning of the ozone layer: CFCs the chief destroyer, with methyl chloroform, carbon tetrachloride, methyl bromide and nitrogen oxides; CFCs invented by Thomas Midgley Jr. in 1928 and used as refrigerants since 1955 as printed, breaking apart in sunlight to free chlorine, one atom of which can destroy over 100,000 ozone molecules as printed; the thinning found over Antarctica in the mid-1980s as printed; the harms — cataracts, skin cancer, weakened immunity and failing reproduction in people, stunted plants and falling farm yields, rising temperature and flooding; and the protection — fewer CFC appliances in favour of HCFCs, less nitrogen fertiliser, electric vehicles | Nepal, *Science Grade 10*, printed pp. 248–250 |
+
+Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED — the-ozone-layer-and-the-cfc-danger — are stocked into this lesson (`our-environment/the-ozone-layer-and-its-holes`), the existing lesson that already covers that thing; the original slug is recorded here so the filing is not lost.
+
+**Acceptance count: taught in 5 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, our-environment/the-ozone-layer-and-its-holes

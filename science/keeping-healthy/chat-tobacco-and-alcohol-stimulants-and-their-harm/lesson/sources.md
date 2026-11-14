@@ -1,6 +1,6 @@
 # Sources — Chat, tobacco and alcohol: stimulants and their harm
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Gabon (teacher-guide evidence only), Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Sri Lanka, Indonesia, Yemen, Vietnam, Malaysia, South Sudan, Iraq, Colombia
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Gabon (teacher-guide evidence only), Egypt, Cambodia, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Sri Lanka, Indonesia, Yemen, Vietnam, Malaysia, South Sudan, Iraq, Colombia, Nepal
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -313,3 +313,30 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, keeping-healthy/chat-tobacco-and-alcohol-stimulants-and-their-harm
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 3, student book):** Title as printed: "MY SCIENCE, HEALTH and PHYSICAL EDUCATION, BOOK 3" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2049 BS, piloting edition 2062 BS, revised edition 2064 BS, English version 2066/2067 BS; no ISBN printed in the pages extracted PDF pages: 128; printed pages 124. Science section printed pp. 1–58, Health pp. 60–92, Physical Education pp. 94–123. The contents page lists Lesson 13 (Cloud and Rain) at p. 45 and Lesson 14 (The Earth) at p. 44 — the book's own contents ordering fault, named here; citations below follow the contents as printed Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| smoking and its harm | Nepal, *My Science, Health and PE Grade 3*, printed p. 91 |
+
+**Book (Nepal — Grade 5 book held under the Grade 4 record, student book):** Title as printed: "My Science, Health and Physical Education, Grade 5" — the record this file was secured under is "My Science, Health and Physical Education Grade 4 (English Version)". MISMATCH: the PDF in the textbooks repo for the Grade 4 record is a Grade 5 book (cover, publisher page and the footer "Science, Health and Physical Education 5" all say Grade 5). The book was read and placed as the printed Grade 5 book; the Grade 4 English student book itself is a library debt (see the group log) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; ISBN 978-9937-8247-3-6 as printed; first edition 2052 BS, reprint 2075 BS; price Rs. 83 PDF pages: 161; printed pages 155. Science section printed pp. 1–80, Health pp. 81–125, Physical Education pp. 126–155 Verdict: COMPLETE as the Grade 5 book — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only); the Grade 4 record / Grade 5 print mismatch is carried exactly as filed in the header above. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| smoking | Nepal, *My Science, Health and PE Grade 5 (Grade 4 record)*, printed p. 119 |
+| drinking and drugs | Nepal, *My Science, Health and PE Grade 5 (Grade 4 record)*, printed p. 122 |
+
+**Book (Nepal — Grade 4, teacher's guide):** Title as printed: शिक्षक निर्देशिका, मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, कक्षा ४ (Shikshak Nirdeshika, Mero Vigyan, Swasthya tatha Sharirik Shiksha, Kaksha 4 — Teacher's Guide, My Science, Health and Physical Education, Grade 4). The cover itself (PDF p. 2) carries only "मेरो विज्ञान, कक्षा ४" (My Science, Grade 4); that it is the teacher's guide is proven by the publisher page (PDF p. 3), whose copyright notice speaks of "यस शिक्षक निर्देशिका" (this teacher's guide), and by the running footer "मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, शिक्षक निर्देशिका, कक्षा –४" from PDF p. 6 onward. This is the guide to the Grade 4 student book; the Grade 4 student book in hand is the mismatched Grade 5 print filed above, so the guide's own lesson text is the Grade 4 evidence here Grade 4, teacher's guide. Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2067; printer line blank; no ISBN printed PDF pages: 103; printed = PDF − 5 (contents anchors and footers agree); Science printed pp. 3–41, Health pp. 45–67, Physical Education pp. 69–98 Verdict: COMPLETE — all 18 Science lessons, all 7 Health units and the Physical Education units read. All placements below are teacher-guide evidence: the explanations, comparisons, demonstrations and teacher boxes the guide adds around the student book's lessons Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| smoking, drinking and drugs: the substances named (cigarettes, tobacco, cigars, beer, spirits; ganja, charas, cocaine and heroin as drugs); their harmful chemicals and effects — teacher box: loss of social standing, harm to nerves and blood vessels, and reduced fertility, even barrenness (guide evidence) | Nepal, *My Science, Health and PE Grade 4 Teacher's Guide*, printed p. 64 |
+
+**Acceptance count: taught in 14 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, keeping-healthy/chat-tobacco-and-alcohol-stimulants-and-their-harm

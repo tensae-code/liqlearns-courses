@@ -1,6 +1,6 @@
 # Sources — The Earth — rotation, revolution, day-night and seasons
 
-countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia
+countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), South Sudan, Iraq, El Salvador, Colombia, Nepal
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -697,3 +697,29 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/rotation-revolution-day-night-and-seasons
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 2, student book):** Title as printed: "My Science, Health and Physical Education, Grade 2" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; ISBN 978-9937-717-8-6 as extracted (the digit string is printed in the PDF's publisher page in a mixed form and is cited here as extracted); first edition 2051 BS, revised edition 2075 BS; price Rs. 44 PDF pages: 83; printed pages 80. Science section printed pp. 2–40, Health pp. 42–58, Physical Education pp. 60–78 Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| day and night | Nepal, *My Science, Health and PE Grade 2*, printed p. 38 |
+
+**Book (Nepal — Grade 6, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 6" (Science and Technology, Grade 6) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2078; authors Chintamani Panthi and Gopichandra Paudel (named in the preface); written for the Basic Education Curriculum, Grades 6–8, under the National Curriculum Framework 2076 PDF pages: 235 (the last PDF page is blank); printed pages 228. Printed page = PDF page − 6 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 228, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Earth's axis and its orbit: spinning on its axis in about 24 hours and travelling round the Sun in about 365 days, with the axis tilted 23.5° so day and night are not equal everywhere | Nepal, *Science and Technology Grade 6*, printed pp. 215–216 |
+
+**Book (Nepal — Grade 6, teacher's guide):** Title as printed: "Shikshak Nirdeshika, Vigyan tatha Pravidhi, Kaksha 6" (Teacher's Guide, Science and Technology, Grade 6); the cover is marked a draft copy for feedback (Pristhaposhanka lagi Masauda Prati) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2080; writing and editing team named in the preface: Janakraj Pant, Mina Shrestha, Ishwarkumar Ghimire, Yuvraj Adhikari and Khilanarayan Shrestha; the printer line on the publisher page is blank and no ISBN is printed in the front matter PDF pages: 240; printed pages 236. Printed page = PDF page − 4 Verdict: COMPLETE — the guide to the Grade 6 student book filed above (record np08), read in full: all eleven units, ending with the appendix on facilitating learners with disabilities (13 types; teaching method rather than science content, so it is recorded here but not placed). Placements below are marked teacher-guide evidence: the explanations, comparisons, experiment protocols and answers the guide adds beyond the student book Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| day and night demonstrated in a darkened room: a candle lit before a globe, the globe turned slowly, the lit half in day and the dark half in night, the Earth turning west to east on its axis (teacher-guide evidence) | Nepal, *Science and Technology Grade 6 Teacher's Guide*, printed pp. 228–229 |
+
+**Acceptance count: taught in 36 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, earth-and-space/rotation-revolution-day-night-and-seasons

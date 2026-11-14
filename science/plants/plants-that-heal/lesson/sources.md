@@ -1,6 +1,6 @@
 # Sources — Plants that heal
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Ecuador, Dominican Republic, Laos, Yemen, Nicaragua, Iraq, Colombia
+countries: Ethiopia, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Ecuador, Dominican Republic, Laos, Yemen, Nicaragua, Iraq, Colombia, Nepal (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -164,3 +164,18 @@ Searchable tags: iraq, iraq science, ministry of education iraq, primary science
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, plants/plants-that-heal
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 10, teacher's guide):** Title as printed: शिक्षक निर्देशिका, विज्ञान तथा प्रविधि, कक्षा १० (Shikshak Nirdeshika, Vigyan tatha Prabidhi, Kaksha 10 — Teacher's Guide, Science and Technology, Grade 10); title page marked परीक्षणका लागि (for testing) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2081; printer line blank; no ISBN printed in the front matter. Writing/editing team named in the preface: Rabina Maharjan, Keshar Bahadur Khulal, Kabin Lama, Yuvraj Adhikari, Lavdev Bhatta; CDC Director General Baikunthaprasad Aryal named; the guide is built on the Basic Education Curriculum 2078 for Grades 9–10 PDF pages: 565 (final page blank); printed folios run to 553. Printed page = PDF page − 10 throughout (Unit 1 starts on printed p. 1) Verdict: COMPLETE as to all 19 teaching units, read in full page by page — with one named absence: the front matter points teachers to an Appendix 1 schedule for facilitating learners with disabilities, but no appendix pages are present in this PDF; the book ends with the Unit 19 test and the CDC back page. All placements below are teacher-guide evidence: the explanations, protocols, worked answers and extra facts the guide adds around the Grade 10 course (the matching student book in hand is the older BS 2074 edition, filed separately above) Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Nepal's traditional medicinal herbs in depth (guide evidence): tulsi (Ocimum sanctum, to 1,600 m, all parts used), neem (blood purification, lowering bad cholesterol and high blood pressure), gurjo (immunity and lowering blood sugar), ghodtapre (memory and repair of nerves and brain cells), turmeric, asuro, bojo, yarsagumba (3,000–5,000 m), titepati and ghiukumari (aloe vera) — each with where it grows and what it is used for | Nepal, *Shikshak Nirdeshika Vigyan Grade 10 (guide)*, printed p. 226 |
+| the guide's extra herb table (guide evidence): chutro, tantelo, tejpat, simal, bel, rajbriksha, amala, timur, chiraito, jatamansi and padamchal, each placed by its altitude band — jatamansi at 3,200–5,300 m, padamchal at 3,200–4,200 m, timur at 1,100–2,500 m, as printed — with its uses | Nepal, *Shikshak Nirdeshika Vigyan Grade 10 (guide)*, printed p. 230 |
+
+**Acceptance count: taught in 8 countries (unchanged — Nepal's rows in this lesson are teacher-guide evidence only, counted nowhere).**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, plants/plants-that-heal

@@ -1,6 +1,6 @@
 # Sources — Sunlight keeps everything alive, and what light is used for
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Colombia
+countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -206,3 +206,23 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, light/sunl
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, light/sunlight-keeps-everything-alive
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 1, student book):** Title as printed: "My Science, Health and Physical Education, Grade 1" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2049 BS, reprint 2075 BS; price Rs. 46. The ISBN line as extracted from the PDF is garbled ("978-999-33-712-9-737-8247-3-6") and is not trusted — named here as a printing/extraction fault, not cited as an ISBN PDF pages: 87; printed pages 84. Science section printed pp. 2–50, Health pp. 52–64, Physical Education pp. 66–82 Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Sun | Nepal, *My Science, Health and PE Grade 1*, printed p. 42 |
+
+**Book (Nepal — Grade 1, teacher's guide):** Title as printed: शिक्षक निर्देशिका, मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, कक्षा १ (Shikshak Nirdeshika, Mero Vigyan, Swasthya tatha Sharirik Shiksha, Kaksha 1 — Teacher's Guide, My Science, Health and Physical Education, Grade 1) Grade 1, teacher's guide. Government of Nepal, Ministry of Education and Sports, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2064; printed by Bhaktapur Press Pvt. Ltd., Gathaghar, Bhaktapur (named on the back cover; the publisher page's printer line is blank); no ISBN printed. The guide is built on the Primary Education Curriculum 2064 revision of the Grade 1 textbook PDF pages: 120 (a scan; a few front-matter pages are scanned twice); printed pages 1–108, cited from the guide's own contents and folios. Science printed pp. 1–45, Health pp. 46–72, Physical Education pp. 73–108 Verdict: COMPLETE — all 41 lessons read from page renders (the PDF is image-only). All placements below are teacher-guide evidence: the explanations, comparisons, experiments and teacher notes the guide adds around the Grade 1 student book filed above Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Sun as the main source of heat and light: warmth in the cold season, clothes and grain dried by its heat, work that needs light; seedlings sprouted in a dark place and a light place compared; teacher note: the Sun is the heat-and-light source for all the planets of the solar system — without light eyes could not see, and without heat no living thing could have arisen (guide evidence) | Nepal, *My Science, Health and PE Grade 1 Teacher's Guide*, printed p. 36 |
+
+**Acceptance count: taught in 13 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, light/sunlight-keeps-everything-alive

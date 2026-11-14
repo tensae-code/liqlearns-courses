@@ -1,6 +1,6 @@
 # Sources — Properties that identify a thing
 
-countries: Ethiopia, Costa Rica, Bahamas (curriculum evidence only), United States, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Eritrea, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, El Salvador, Colombia
+countries: Ethiopia, Costa Rica, Bahamas (curriculum evidence only), United States, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola, Eritrea, North Macedonia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, El Salvador, Colombia, Nepal (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -256,3 +256,17 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, materials/
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, materials/properties-that-identify-a-thing
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 2, teacher's guide):** Title as printed: शिक्षक निर्देशिका, मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, कक्षा २ (Shikshak Nirdeshika, Mero Vigyan, Swasthya tatha Sharirik Shiksha, Kaksha 2 — Teacher's Guide, My Science, Health and Physical Education, Grade 2) Grade 2, teacher's guide. Government of Nepal, Ministry of Education and Sports, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2064; printed by Bhaktapur Press Pvt. Ltd., Gathaghar, Bhaktapur (named on the back cover; the publisher page's printer line is blank); no ISBN printed. The guide is built on the Primary Education Curriculum 2062 revision of the Grade 2 textbook; its science writers and health/PE writers are named in the preface PDF pages: 163 (a scan); printed pages 1–150, cited from the guide's own contents and folios. Science printed pp. 1–44, Health pp. 45–104, Physical Education pp. 105–150 Verdict: COMPLETE — all 20 Science lessons, all 6 Health units and the Physical Education units read from page renders (the PDF is image-only). All placements below are teacher-guide evidence: the explanations, comparisons and teacher boxes the guide adds around the Grade 2 student book filed above Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| things of different colours, tastes and smells told apart by those properties: some things look exactly alike yet differ in taste and smell, so to identify a thing fully one must use the other sense organs as well as the eye — the eyes see the colour, the nose tells the smell and the tongue the taste; teacher box: if kinds of smell cannot be told apart, at least a pleasant (liked) smell is called a fragrance and an unpleasant (disliked) smell a stink — the smell from clean, fresh fruit is a fragrance, from a rotten thing a stink (guide evidence) | Nepal, *My Science, Health and PE Grade 2 Teacher's Guide*, printed p. 27 |
+
+**Acceptance count: taught in 12 countries (unchanged — Nepal's rows in this lesson are teacher-guide evidence only, counted nowhere).**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, materials/properties-that-identify-a-thing

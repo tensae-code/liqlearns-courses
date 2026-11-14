@@ -1,6 +1,6 @@
 # Sources — The Moon — Earth's natural satellite and its phases
 
-countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, China, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia
+countries: Gabon (teacher-guide evidence only), Palestine, Armenia, Kazakhstan, Suriname, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Dominican Republic, China, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only), Iraq, El Salvador, Colombia, Nepal
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -686,3 +686,35 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/the-moon-earths-natural-satellite-and-its-phases
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 9 (2017), student book):** Title as printed: "Science, Grade 9" (cover title page: "Science Grade - 9") Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; revised edition 2017; price Rs. 96; ISBN line blank in the PDF PDF pages: 287; printed pages 283. PDF page = printed page + 4 Verdict: COMPLETE — read in full via text layer to Unit 24 (The Earth in the Universe) and the final exercises. This is the OLDER Grade 9 edition; the revised-2082 Nepali Grade 9 book (record np12) is a different, newer book and is filed separately below It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Moon's synodic month, and the phases of the Moon | Nepal, *Science Grade 9 (2017)*, printed p. 275 |
+
+**Book (Nepal — Grade 6, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 6" (Science and Technology, Grade 6) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2078; authors Chintamani Panthi and Gopichandra Paudel (named in the preface); written for the Basic Education Curriculum, Grades 6–8, under the National Curriculum Framework 2076 PDF pages: 235 (the last PDF page is blank); printed pages 228. Printed page = PDF page − 6 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 228, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| satellites, natural and artificial: the Moon, Earth's only natural satellite; and why the Sun and Moon look the same size in the sky although the Sun is about 110 times wider than the Earth and some 150 million km away | Nepal, *Science and Technology Grade 6*, printed pp. 223–224 |
+
+**Book (Nepal — Grade 7, student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 7" (Science and Technology, Grade 7) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2079, revised edition BS 2082; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; writing team named in the preface: Jayprakash Shrivastav, Subas Kharal, Shivraj Paudel, Dambaruprasad Pokharel, Kiran Sharma and Khilanarayan Shrestha; price line blank in the PDF PDF pages: 261 (the last PDF page is blank); printed pages 256. Printed page = PDF page − 4 Verdict: COMPLETE — read in full from Unit 1 (Scientific Learning) to the Unit 11 (Earth and Space) exercises ending at printed p. 256, matching the book's own table of contents It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Moon: Earth's only natural satellite and nearest body in the sky, 384,400 km away and 3,476 km across, with hills and plains but no water, air or life; its changing lit shapes, the phases — waxing crescent, waxing gibbous, full moon (Sun, Earth, Moon in line), waning gibbous, waning crescent, new moon | Nepal, *Science and Technology Grade 7*, printed pp. 243–244 |
+
+**Book (Nepal — Grade 10, student book):** Title as printed: "Vigyan, Kaksha 10" (Science, Grade 10) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; authors Kishor Nepal, Khilkumar Pradhan and Mahendra Basnet; first edition BS 2074; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; ISBN 978-9937-601-34-4 (verified from the publisher page); price line blank in the PDF PDF pages: 276; printed pages 269. Printed page = PDF page − 7 Verdict: COMPLETE — read in full from Unit 1 (Force) to the Unit 23 (The Universe) exercises ending at printed p. 269, matching the book's own table of contents of 23 units It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Moon, Earth's only natural satellite: about 384,400 km away and 3,476 km across as printed, with no atmosphere and gravity one-sixth of Earth's; its sidereal month of 27 days 7 hours 43 minutes as printed against its synodic month, full moon to full moon, of 29 days 12 hours 44 minutes as printed | Nepal, *Science Grade 10*, printed p. 265 |
+
+**Acceptance count: taught in 36 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, earth-and-space/the-moon-earths-natural-satellite-and-its-phases

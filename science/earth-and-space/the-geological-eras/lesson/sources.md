@@ -1,6 +1,6 @@
 # Sources — The geological eras
 
-countries: Italy, Mauritania, Nicaragua
+countries: Italy, Mauritania, Nicaragua, Nepal
 
 **Book 1:** *Il globo terrestre e la sua evoluzione, Edizione blu* (student book) — Italy. Title as printed: Il globo terrestre e la sua evoluzione, Edizione blu. Authors: Elvidio Lupia Palmieri, Maurizio Parotto. Publisher: Zanichelli, 2016. Grade: 9, student book · PDF pages: 288 · Verdict: PARTIAL — the secured PDF holds only Units 5–9 of the book (printed pp. 182–462, plus glossary and index); Units 1–4 (printed pp. 1–181) are missing from the file. Placed here is everything the secured file actually contains. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/italy-placements.md.
 
@@ -49,3 +49,19 @@ Placement choice, on the record: the Nicaragua placement(s) above filed as NEW L
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, earth-and-space the-geological-eras
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 10, student book):** Title as printed: "Vigyan, Kaksha 10" (Science, Grade 10) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; authors Kishor Nepal, Khilkumar Pradhan and Mahendra Basnet; first edition BS 2074; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; ISBN 978-9937-601-34-4 (verified from the publisher page); price line blank in the PDF PDF pages: 276; printed pages 269. Printed page = PDF page − 7 Verdict: COMPLETE — read in full from Unit 1 (Force) to the Unit 23 (The Universe) exercises ending at printed p. 269, matching the book's own table of contents of 23 units It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the geological time scale: Earth's whole history divided into eons, eras, periods and epochs; the four eras and their life — the Precambrian (bacteria about 3.9 billion years ago and algae about 3.2 billion as printed; gneiss and granite formed), the Palaeozoic (sea life, first land plants, fish, winged insects, amphibians and the first reptiles), the Mesozoic, the age of reptiles (dinosaurs rising, ruling and vanishing; birds, turtles, conifers and flowering plants), and the Cenozoic, the age of mammals (elephants, whales, grazing animals, Stone Age humans and modern humans) — the summary table credited to the ICS Geological Time Scale, 2012, as printed | Nepal, *Science Grade 10*, printed pp. 231–233 |
+
+Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED — geological-time-and-the-four-eras — are stocked into this lesson (`earth-and-space/the-geological-eras`), the existing lesson that already covers that thing; the original slug is recorded here so the filing is not lost.
+
+**Acceptance count: taught in 4 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, earth-and-space/the-geological-eras

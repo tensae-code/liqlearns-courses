@@ -1,6 +1,6 @@
 # Sources — Treating water to make it safe — filtering and settling
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Vietnam, Malaysia, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), India, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Cabo Verde, Mauritania, Bhutan, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Vietnam, Malaysia, Morocco (teacher-guide evidence only), South Sudan, El Salvador, Colombia, Nepal
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -440,3 +440,23 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, soil-and-w
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, soil-and-water/treating-water-to-make-it-safe-filtering-and-settling
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 2, student book):** Title as printed: "My Science, Health and Physical Education, Grade 2" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; ISBN 978-9937-717-8-6 as extracted (the digit string is printed in the PDF's publisher page in a mixed form and is cited here as extracted); first edition 2051 BS, revised edition 2075 BS; price Rs. 44 PDF pages: 83; printed pages 80. Science section printed pp. 2–40, Health pp. 42–58, Physical Education pp. 60–78 Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| drinking water: water that is safe to drink | Nepal, *My Science, Health and PE Grade 2*, printed p. 52 |
+
+**Book (Nepal — Grade 9 (2017), student book):** Title as printed: "Science, Grade 9" (cover title page: "Science Grade - 9") Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; revised edition 2017; price Rs. 96; ISBN line blank in the PDF PDF pages: 287; printed pages 283. PDF page = printed page + 4 Verdict: COMPLETE — read in full via text layer to Unit 24 (The Earth in the Universe) and the final exercises. This is the OLDER Grade 9 edition; the revised-2082 Nepali Grade 9 book (record np12) is a different, newer book and is filed separately below It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| water: its sources (97% ocean) and properties; hard and soft water, and removing hardness by boiling, Clark's method, washing soda and zeolite | Nepal, *Science Grade 9 (2017)*, printed p. 153 |
+
+**Acceptance count: taught in 20 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, soil-and-water/treating-water-to-make-it-safe-filtering-and-settling

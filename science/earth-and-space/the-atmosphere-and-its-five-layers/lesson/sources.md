@@ -1,6 +1,6 @@
 # Sources — The Earth — the atmosphere and its five layers
 
-countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Armenia, Egypt, Cambodia, Ecuador, Sudan, Angola, Kuwait, Syria, Laos, Eritrea, North Macedonia, Fiji, Saudi Arabia, Nicaragua, Morocco (teacher-guide evidence only), El Salvador, Colombia
+countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Armenia, Egypt, Cambodia, Ecuador, Sudan, Angola, Kuwait, Syria, Laos, Eritrea, North Macedonia, Fiji, Saudi Arabia, Nicaragua, Morocco (teacher-guide evidence only), El Salvador, Colombia, Nepal
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -384,3 +384,18 @@ Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, earth-and-
 Colombia's own way — its Ministerio de Educación Nacional *Ciencias Naturales* books (the Escuela Nueva cartillas for Grades 1–5, the Secundaria Activa modules and the Postprimaria Rural guides for Grades 6–9) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Colombia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: colombia, colombia science, ciencias naturales, ministerio de educación nacional colombia, earth-and-space/the-atmosphere-and-its-five-layers
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 10, student book):** Title as printed: "Vigyan, Kaksha 10" (Science, Grade 10) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; authors Kishor Nepal, Khilkumar Pradhan and Mahendra Basnet; first edition BS 2074; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; ISBN 978-9937-601-34-4 (verified from the publisher page); price line blank in the PDF PDF pages: 276; printed pages 269. Printed page = PDF page − 7 Verdict: COMPLETE — read in full from Unit 1 (Force) to the Unit 23 (The Universe) exercises ending at printed p. 269, matching the book's own table of contents of 23 units It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the atmosphere: the thick blanket of air around the Earth, held by gravity, a mixture of nitrogen, oxygen, carbon dioxide, water vapour and dust; its five layers as the book gives them — the troposphere to about 16 km, cooling about 6.5 °C per kilometre and capped by the tropopause; the stratosphere to 50 km, warming with height, holding the ozone layer at 20–30 km that drinks in about 99 percent of ultraviolet radiation as printed; the mesosphere to 80 km, the coldest layer; the thermosphere to 720 km, where gases ionise into the ionosphere; and the exosphere above it, whose particles escape Earth's gravity | Nepal, *Science Grade 10*, printed pp. 246–247 |
+| the ozone layer: ozone built when sunlight splits oxygen molecules and the freed atoms join other oxygen molecules, gathered in the stratosphere at about 25–40 km as printed; it absorbs about 99 percent of the Sun's ultraviolet radiation, so it is called the protective layer, and it steadies the Earth's weather and temperature | Nepal, *Science Grade 10*, printed p. 247 |
+
+**Acceptance count: taught in 21 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, earth-and-space/the-atmosphere-and-its-five-layers

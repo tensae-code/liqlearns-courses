@@ -1,6 +1,6 @@
 # Sources — Expansion and contraction — when things heat and cool
 
-countries: Seychelles, Kuwait, China, Yemen, Iraq
+countries: Seychelles, Kuwait, China, Yemen, Iraq, Nepal (teacher-guide evidence only)
 
 **Book (Seychelles — Unit 10: Heat and Molecules (P8)):** *Seychelles Integrated Science — Heat and Molecules*, Unit 10 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-10-heat-and-molecules.pdf` — same book, cited once. Size verified 12,540,761 bytes = record size_bytes; PDF 58 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–9 and both Summaries present, with the pupil booklet). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
 
@@ -88,3 +88,19 @@ Placement choice, on the record: the Iraq placement(s) above filed as NEW LESSON
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, heat expansion-and-contraction-when-things-heat-and-cool
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 4, teacher's guide):** Title as printed: शिक्षक निर्देशिका, मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, कक्षा ४ (Shikshak Nirdeshika, Mero Vigyan, Swasthya tatha Sharirik Shiksha, Kaksha 4 — Teacher's Guide, My Science, Health and Physical Education, Grade 4). The cover itself (PDF p. 2) carries only "मेरो विज्ञान, कक्षा ४" (My Science, Grade 4); that it is the teacher's guide is proven by the publisher page (PDF p. 3), whose copyright notice speaks of "यस शिक्षक निर्देशिका" (this teacher's guide), and by the running footer "मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, शिक्षक निर्देशिका, कक्षा –४" from PDF p. 6 onward. This is the guide to the Grade 4 student book; the Grade 4 student book in hand is the mismatched Grade 5 print filed above, so the guide's own lesson text is the Grade 4 evidence here Grade 4, teacher's guide. Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2067; printer line blank; no ISBN printed PDF pages: 103; printed = PDF − 5 (contents anchors and footers agree); Science printed pp. 3–41, Health pp. 45–67, Physical Education pp. 69–98 Verdict: COMPLETE — all 18 Science lessons, all 7 Health units and the Physical Education units read. All placements below are teacher-guide evidence: the explanations, comparisons, demonstrations and teacher boxes the guide adds around the student book's lessons Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| heat expands all three states: a heated copper wire lengthens, coloured water rises in a glass tube, air in a hot-water-warmed bottle blows up a balloon; heat also changes temperature and state, melting ice and wax (guide evidence) | Nepal, *My Science, Health and PE Grade 4 Teacher's Guide*, printed p. 28 |
+
+Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED — heat-makes-solids-liquids-and-gases-expand — are stocked into this lesson (`heat/expansion-and-contraction-when-things-heat-and-cool`), the existing lesson that already covers that thing; the original slug is recorded here so the filing is not lost.
+
+**Acceptance count: taught in 5 countries (unchanged — Nepal's rows in this lesson are teacher-guide evidence only, counted nowhere).**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, heat/expansion-and-contraction-when-things-heat-and-cool

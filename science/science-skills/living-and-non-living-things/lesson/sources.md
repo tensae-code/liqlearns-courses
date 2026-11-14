@@ -1,6 +1,6 @@
 # Sources — Living and non-living things
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only), Guyana, Bahamas (curriculum evidence only), Cambodia (guide evidence only), Seychelles, Ecuador, Bhutan, Kuwait, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Morocco (teacher-guide evidence only), Iraq
+countries: Ethiopia, Zambia (teacher-module evidence only), Ghana (curriculum evidence only), Guyana, Bahamas (curriculum evidence only), Cambodia (guide evidence only), Seychelles, Ecuador, Bhutan, Kuwait, China, Syria, Eritrea, North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Morocco (teacher-guide evidence only), Iraq, Nepal
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -312,3 +312,29 @@ Searchable tags: morocco, morocco science, al moufid, explora, dalil, science-sk
 Iraq's own way — its Ministry of Education *Science* books for Grades 1–6 (the Primary Science Book Series, in Arabic — pupil's books with their companion activity books) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Iraq's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: iraq, iraq science, ministry of education iraq, primary science book series, science-skills living-and-non-living-things
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 1, student book):** Title as printed: "My Science, Health and Physical Education, Grade 1" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2049 BS, reprint 2075 BS; price Rs. 46. The ISBN line as extracted from the PDF is garbled ("978-999-33-712-9-737-8247-3-6") and is not trusted — named here as a printing/extraction fault, not cited as an ISBN PDF pages: 87; printed pages 84. Science section printed pp. 2–50, Health pp. 52–64, Physical Education pp. 66–82 Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| non-living things | Nepal, *My Science, Health and PE Grade 1*, printed p. 12 |
+
+**Book (Nepal — Grade 3, student book):** Title as printed: "MY SCIENCE, HEALTH and PHYSICAL EDUCATION, BOOK 3" Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2049 BS, piloting edition 2062 BS, revised edition 2064 BS, English version 2066/2067 BS; no ISBN printed in the pages extracted PDF pages: 128; printed pages 124. Science section printed pp. 1–58, Health pp. 60–92, Physical Education pp. 94–123. The contents page lists Lesson 13 (Cloud and Rain) at p. 45 and Lesson 14 (The Earth) at p. 44 — the book's own contents ordering fault, named here; citations below follow the contents as printed Verdict: COMPLETE — read in full via text layer to the final lesson It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the difference between living and non-living things | Nepal, *My Science, Health and PE Grade 3*, printed p. 6 |
+
+**Book (Nepal — Grade 1, teacher's guide):** Title as printed: शिक्षक निर्देशिका, मेरो विज्ञान, स्वास्थ्य तथा शारीरिक शिक्षा, कक्षा १ (Shikshak Nirdeshika, Mero Vigyan, Swasthya tatha Sharirik Shiksha, Kaksha 1 — Teacher's Guide, My Science, Health and Physical Education, Grade 1) Grade 1, teacher's guide. Government of Nepal, Ministry of Education and Sports, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2064; printed by Bhaktapur Press Pvt. Ltd., Gathaghar, Bhaktapur (named on the back cover; the publisher page's printer line is blank); no ISBN printed. The guide is built on the Primary Education Curriculum 2064 revision of the Grade 1 textbook PDF pages: 120 (a scan; a few front-matter pages are scanned twice); printed pages 1–108, cited from the guide's own contents and folios. Science printed pp. 1–45, Health pp. 46–72, Physical Education pp. 73–108 Verdict: COMPLETE — all 41 lessons read from page renders (the PDF is image-only). All placements below are teacher-guide evidence: the explanations, comparisons, experiments and teacher notes the guide adds around the Grade 1 student book filed above Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| non-living things show none of the marks of life; the guide's test case: is a chair alive? It does not move by itself, does not grow bigger or smaller, and needs no food (guide evidence) | Nepal, *My Science, Health and PE Grade 1 Teacher's Guide*, printed p. 11 |
+
+**Acceptance count: taught in 15 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, science-skills/living-and-non-living-things

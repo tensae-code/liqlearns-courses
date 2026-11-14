@@ -1,0 +1,20 @@
+# Sources — How a digital message travels
+
+countries: Nepal (teacher-guide evidence only)
+
+**Book (Nepal — Grade 10, teacher's guide):** Title as printed: शिक्षक निर्देशिका, विज्ञान तथा प्रविधि, कक्षा १० (Shikshak Nirdeshika, Vigyan tatha Prabidhi, Kaksha 10 — Teacher's Guide, Science and Technology, Grade 10); title page marked परीक्षणका लागि (for testing) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2081; printer line blank; no ISBN printed in the front matter. Writing/editing team named in the preface: Rabina Maharjan, Keshar Bahadur Khulal, Kabin Lama, Yuvraj Adhikari, Lavdev Bhatta; CDC Director General Baikunthaprasad Aryal named; the guide is built on the Basic Education Curriculum 2078 for Grades 9–10 PDF pages: 565 (final page blank); printed folios run to 553. Printed page = PDF page − 10 throughout (Unit 1 starts on printed p. 1) Verdict: COMPLETE as to all 19 teaching units, read in full page by page — with one named absence: the front matter points teachers to an Appendix 1 schedule for facilitating learners with disabilities, but no appendix pages are present in this PDF; the book ends with the Unit 19 test and the CDC back page. All placements below are teacher-guide evidence: the explanations, protocols, worked answers and extra facts the guide adds around the Grade 10 course (the matching student book in hand is the older BS 2074 edition, filed separately above) Cited in every lesson it stocks as teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the parts of a digital communication system in order (guide evidence): source, input transducer, encoder, modulator, channel, demodulator, decoder, output transducer and output signal, taught by role-play with nine learners as the nine parts and by following a text from one mobile to another through the telecom towers; analogue against digital communication compared — coding possible only in digital, digital needing more bandwidth but suffering far less from outside disturbance | Nepal, *Shikshak Nirdeshika Vigyan Grade 10 (guide)*, printed p. 408 |
+| baseband and broadband transmission, and why digital wins (guide evidence): baseband sends the digital signal unchanged over a low-pass channel for short distances (the LAN); broadband converts it to analogue form for long distances and is high-speed internet; digital transmission's advantages listed — little outside mixing, reliable and cheap circuits, almost no overlap or cross-talk, privacy by encoding and compression, few errors; the teacher box adds bandwidth measured in bits, megabits and gigabits per second for digital and in hertz for analogue, wired channels (twisted pair, coaxial, optical fibre) against wireless, and the radio frequency bands from medium frequency to extremely high frequency with their uses | Nepal, *Shikshak Nirdeshika Vigyan Grade 10 (guide)*, printed p. 412 |
+
+| Do it first; key ideas; Do It Yourself | Nepal, as cited in the rows above |
+
+**Acceptance count: taught in 0 countries — this lesson stands on teacher-guide evidence only (Nepal), counted nowhere.**
+
+Placement choice, on the record: this NEW LESSON was built for the Nepal placement(s) "NEW LESSON NEEDED — how-a-digital-message-travels" — nepal-placements.md (2 placement(s)). No existing general-science lesson covers this thing as its own lesson (checked the live repo at merge time), so it gets its own lesson, under the placement's own slug. It sits in science-skills/ and is registered in CURRICULUM.md Unit 15 (Science Skills).
+
+Nepal's own way — its Curriculum Development Centre books teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: how a digital message travels, nepal, curriculum development centre

@@ -1,6 +1,6 @@
 # Sources — Artificial satellites
 
-countries: Sri Lanka, Malaysia
+countries: Sri Lanka, Malaysia, Nepal
 
 **Book (Sri Lanka — Grade 8 Science Part 2 (English medium)):** Title as printed: Science Part – II, Grade 8. Publisher: Educational Publications Department, Sri Lanka. First print 2016, fourth print 2019. ISBN 978-955-25-0133-3. PDF 152 pages, 19,865,511 bytes. Verdict: COMPLETE for Part 2 (Chapters 9–15, printed pp. 1–141, pagination restarting at 1). Twin records: TSV blob record and books.json record grade-08/gov/sri-lanka/science/textbook/part-2.pdf are the same book; cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sri-lanka-placements.md.
 
@@ -38,3 +38,29 @@ Searchable tags: sri lanka, sri lanka science, artificial satellites
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space artificial-satellites
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 9 (revised 2082), student book):** Title as printed: "Vigyan tatha Pravidhi, Kaksha 9" (Science and Technology, Grade 9) Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition BS 2079, revised edition BS 2082; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; preface writing and revision team: Chintamani Panthi, Khilkumar Pradhan, Janakraj Pant, Hariprasad Regmi, Kesharbahadur Khulal, Jayaprakashlal Shrivastav and Khilanarayan Shrestha; Director General Yuvraj Paudel named; price line blank in the PDF PDF pages: 307 (the last PDF page is blank); printed pages 302. Printed page = PDF page − 4 Verdict: COMPLETE — read in full from Unit 1 (Scientific Study) to the Unit 19 (Substances Used in Agriculture) exercises ending at printed p. 302, matching the book's own table of contents of 19 units. This is a different, newer book from the older Grade 9 English Version filed earlier (record np11, revised 2017) It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| artificial satellites: launched by rocket to a set height and speed across the pull of gravity, needing no fuel to keep orbiting where there is no air friction, but solar power for their computers; Sputnik-1 (USSR, 4 October 1957) the first; uplink and downlink signals carried by microwave through the satellite | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed p. 209 |
+| the three orbits: low Earth orbit (180–2,000 km; Earth observation; the space station at about 408 km circling in about 90 minutes), medium Earth orbit (navigation satellites at about 20,200 km, 24 of them networked for GPS), and the geostationary orbit (35,786 km, one circuit in 23 h 56 min 4 s — the same as Earth's spin, so the satellite hangs over one place; television, telephone and internet relay) (same proposed lesson) | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed p. 210 |
+| NepaliSat-1, Nepal's first satellite (the country's own case): built with NAST funding by Aabhas Maskey and Hariram Shrestha at Kyushu Institute of Technology, Japan; a 1.33 kg cube nanosatellite launched from Virginia, USA, on 18 April 2019 and released from the space station on 17 June 2019 into a roughly 400 km orbit, circling in about 90 minutes and passing over Nepal for 6–10 minutes, to photograph Nepal's terrain, forests, glaciers, mountains and roads | Nepal, *Science and Technology Grade 9 (Nepali, revised 2082)*, printed p. 211 |
+
+**Book (Nepal — Grade 10, student book):** Title as printed: "Vigyan, Kaksha 10" (Science, Grade 10) Publisher: Government of Nepal, Ministry of Education, Curriculum Development Centre, Sanothimi, Bhaktapur; authors Kishor Nepal, Khilkumar Pradhan and Mahendra Basnet; first edition BS 2074; printed by Janak Shiksha Samagri Kendra Ltd., Sanothimi, Bhaktapur; ISBN 978-9937-601-34-4 (verified from the publisher page); price line blank in the PDF PDF pages: 276; printed pages 269. Printed page = PDF page − 7 Verdict: COMPLETE — read in full from Unit 1 (Force) to the Unit 23 (The Universe) exercises ending at printed p. 269, matching the book's own table of contents of 23 units It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| satellites, natural and artificial: a planet's moons against the machines people launch by rocket into a geostationary orbit about 35,800 km up as printed, powered by solar batteries; 173 moons counted across the planets as printed, Jupiter's 67 and Saturn's 62 among them; and why artificial satellites are sent up — to learn more of the heavenly bodies, to run experiments impossible on Earth and forecast the weather, to watch an enemy and search for life in space, and towards moon laboratories and spaceships (same proposed lesson as in the Science and Technology Grade 9 section) | Nepal, *Science Grade 10*, printed pp. 265–266 |
+
+Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED — artificial-satellites-and-their-orbits — are stocked into this lesson (`earth-and-space/artificial-satellites`), the existing lesson that already covers that thing; the original slug is recorded here so the filing is not lost.
+
+Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED — nepals-first-satellite-nepali-sat-1 — are stocked into this lesson (`earth-and-space/artificial-satellites`), the existing lesson that already covers that thing; the original slug is recorded here so the filing is not lost.
+
+**Acceptance count: taught in 3 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, earth-and-space/artificial-satellites

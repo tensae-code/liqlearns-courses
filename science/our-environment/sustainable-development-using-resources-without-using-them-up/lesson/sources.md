@@ -1,6 +1,6 @@
 # Sources — Sustainable development — using resources without using them up
 
-countries: El Salvador
+countries: El Salvador, Nepal
 
 **Book (El Salvador — Grade 7, student book):** Title as printed: Ciencia y Tecnología 7, Libro de Texto. Publisher: Ministerio de Educación, Ciencia y Tecnología (MINEDUCYT), El Salvador (Minister Karla Edith Trigueros Capitán). PDF 227 pages, 202,647,141 bytes — matches the books.json size_bytes exactly (download log in scratch). Printed page = PDF page − 1 (Unit 1 opens printed p. 9). Verdict: COMPLETE (printed pp. 9–225, Units 1–6 plus summaries). Twin records: TSV release record (full-quality-oversized-books) and books.json record grade-07/gov/el-salvador/science-and-technology/student/full-year.pdf are the same book; cited once here. Read from the retained full-text extraction (PDF deleted by the fetch chain after extraction). Scope note: Unit 1 (inorganic compounds) is the Chemistry wave's strand and Unit 2 (genetics and evolution) is the Biology wave's strand; they receive chapter-level lines plus placements only where a general-science target slug exists. Units 3–6 are placed in full. It counts in the acceptance count (student book/workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/el-salvador-placements.md.
 
@@ -16,3 +16,19 @@ countries: El Salvador
 Placement choice, on the record: this NEW LESSON was built for the El Salvador placement(s) "NEW LESSON NEEDED — sustainable-development-using-resources-without-using-them-up" — el-salvador-placements.md (2 placement bullet(s)). No existing general-science lesson covers this thing as its own lesson (checked the live repo at merge time), so it gets its own lesson. It sits in our-environment/ and is registered in CURRICULUM.md Unit 11 (Our Environment). El Salvador's own way — teaching this from its own MINED *Ciencia y Tecnología* books, in the order and with the examples named in the rows above — IS part of this lesson's content, carried exactly as filed.
 
 Searchable tags: el salvador, mined, mineducyt, ciencia y tecnologia, our-environment/sustainable-development-using-resources-without-using-them-up
+
+## Nepal growth (2026-11-14, General Science expansion)
+
+**Book (Nepal — Grade 8, student book):** Title as printed: "Science and Technology, Grade 8" Publisher: Government of Nepal, Ministry of Education, Science and Technology, Curriculum Development Centre, Sanothimi, Bhaktapur; first edition 2023; no ISBN printed in the pages extracted PDF pages: 253; the printed book's contents run to printed p. 302 and beyond. PDF page = printed page + 4. The PDF is an OCR-scanned copy (text layer carries OCR errors, e.g. "loadstone" for lodestone); readings were checked against the page images' headings Verdict: TRUNCATED — the PDF ends at printed p. 249, at the end of Unit 8 (Electricity and Magnetism). Units 9 (Matter, printed p. 250), 10 (Materials Used in Daily Life, printed p. 277) and 11 (The Earth and Universe, printed p. 302) are MISSING from the repo file. Units 1–8 were read in full; the missing units are a library debt (see the group log) It counts in the acceptance count (student book, not evidence-only); the held file is TRUNCATED as named in the verdict above — Units 9–11 are missing from the repo file and are a library debt, and no placement stocked in this merge comes from the missing units. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/nepal-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sustainable development: balancing environment, society and development work, with Nepal's own programmes | Nepal, *Science and Technology Grade 8*, printed p. 101 |
+
+Placement choice, on the record: the placement(s) filed as NEW LESSON NEEDED — sustainable-development — are stocked into this lesson (`our-environment/sustainable-development-using-resources-without-using-them-up`), the existing lesson that already covers that thing; the original slug is recorded here so the filing is not lost.
+
+**Acceptance count: taught in 2 countries.**
+
+Nepal's own way — its Curriculum Development Centre *Science / Science and Technology* and *My Science, Health and Physical Education* books (the Grade 1–5 books joining science, health and physical education in one volume, the Grade 4 record holding a Grade 5 print, the Grade 8 file truncated at Unit 8, and the teacher guides carrying the explanations, protocols and answers around the student books) teach this thing at the places and in the order named in the rows above, with Nepal's own examples, measures, laws and cases where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: nepal, curriculum development centre, our-environment/sustainable-development-using-resources-without-using-them-up
