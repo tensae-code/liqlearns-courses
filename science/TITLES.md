@@ -69,7 +69,13 @@ The titles, in ladder order:
    basins in economic development) — 14 lessons in
    CURRICULUM.md Unit 7.
 8. **Plants** — kinds and parts, what a plant needs to grow, what
-   plants give, plants that heal, plants and the soil.
+   plants give, plants that heal, plants and the soil. The
+   General Science expansion (2026-11-13) adds Guatemala's
+   lesson — how plants sense and respond (plants perceiving
+   their surroundings, environmental changes showing in the
+   plant through its perception of the cycles of time —
+   teacher-guide evidence only, acceptance 0) — 9 lessons in
+   CURRICULUM.md Unit 8.
 9. **Animals** — tame and wild, grouping animals by young, food,
    movement, home and body; what animals need and give; care.
 10. **Natural Resources** — water, soil, air and minerals around
@@ -96,7 +102,14 @@ The titles, in ladder order:
     ocean, ocean shapes Earth, ocean drives weather and climate,
     ocean made Earth habitable, ocean diversity, ocean–human
     interconnection, ocean unexplored — teacher-guide evidence
-    only, acceptance 0) — 29 lessons
+    only, acceptance 0) — and Guatemala's three lessons —
+    habitats, where a living thing lives (what a habitat is,
+    inside "Our surroundings, a space for life"), endangered
+    species of Guatemala (the country's own species in danger
+    of extinction, set as a complementary activity) and biomes
+    of the world (a biome is the type of vegetation of a
+    region) — all teacher-guide evidence only, acceptance 0 —
+    32 lessons
     in CURRICULUM.md Unit 11.
 12. **Family, School and Community** — who is in a family, the
     people of a school, the people of a community and their work.

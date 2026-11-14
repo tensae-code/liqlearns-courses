@@ -1,6 +1,6 @@
 # Sources — Soil fertility, erosion, and why soil matters
 
-countries: Ethiopia, Mexico, Suriname
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -48,3 +48,19 @@ Searchable tags: fertility, erosion, parent rock, chemical content, food chain, 
 Suriname's own way — Suriname judges soil by planting — a good soil is a soil good to plant in, *Goede bodems om te planten* — is itself course content, carried exactly as filed.
 
 Searchable tags: suriname, goede bodems om te planten, good soils for planting, natuuronderwijs
+
+## Guatemala growth (2026-11-13, General Science expansion)
+
+**Book (Guatemala, Grade 9 guide):** *Ciencias Naturales III — Guía de orientaciones metodológicas para docentes, Tercero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales III, Guía de orientaciones metodológicas para docentes. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Tercero Básico (Grade 9) · Teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers) · PDF 89 pages (fetched from the textbooks repo release; 89 pp by its text extraction) · Verdict: COMPLETE (4 learning experiences). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Soil care: avoiding or stopping erosion, progressively improving fertility and productivity (guide evidence) (Guatemala, Grade 9) | Guatemala, *Ciencias Naturales III* (teacher guide — evidence), printed p. 60 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Mexico, Suriname).**
+
+Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales* methodological orientations guides for Ciclo Básico, MINEDUC — teacher guides), not added to this count.
+
+Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
+
+Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, soil care, erosion, fertility, productivity

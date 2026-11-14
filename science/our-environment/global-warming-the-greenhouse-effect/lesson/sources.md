@@ -1,6 +1,6 @@
 # Sources — Global warming — the greenhouse effect
 
-countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only)
+countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -51,3 +51,19 @@ Canada is named as teacher-guide evidence only (its two *Science First Peoples* 
 Canada's own way — every unit built twice over: the BC curriculum science and the First Peoples knowledge of the same topic side by side (Traditional Ecological Knowledge, First Peoples Principles of Learning, learning embedded in story, memory and place) — “two ways of knowing” as the organising method of the whole guide — is itself course content, carried exactly as filed. The Secondary guide carries the same way into senior secondary: Indigenous Knowledge / Indigenous Science and two-eyed seeing as its foundations.
 
 Searchable tags: canada, canada science first peoples, fnesc, fnsa, first peoples, indigenous knowledge, traditional ecological knowledge
+
+## Guatemala growth (2026-11-13, General Science expansion)
+
+**Book (Guatemala, Grade 9 guide):** *Ciencias Naturales III — Guía de orientaciones metodológicas para docentes, Tercero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales III, Guía de orientaciones metodológicas para docentes. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Tercero Básico (Grade 9) · Teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers) · PDF 89 pages (fetched from the textbooks repo release; 89 pp by its text extraction) · Verdict: COMPLETE (4 learning experiences). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Learning Experience 4 "The human being, transformer of his environment": global warming and the greenhouse effect (guide evidence) (Guatemala, Grade 9) | Guatemala, *Ciencias Naturales III* (teacher guide — evidence), printed p. 72 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Uganda, North Macedonia).**
+
+Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales* methodological orientations guides for Ciclo Básico, MINEDUC — teacher guides), not added to this count.
+
+Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
+
+Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, global warming, greenhouse effect, calentamiento global

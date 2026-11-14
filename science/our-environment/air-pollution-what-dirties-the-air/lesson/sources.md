@@ -1,6 +1,6 @@
 # Sources — Air pollution — what dirties the air
 
-countries: Gabon (teacher-guide evidence only)
+countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only)
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -16,3 +16,19 @@ countries: Gabon (teacher-guide evidence only)
 Placement choice, on the record: this NEW LESSON was built for the Gabon placement "Air pollution — what dirties the air" — gabon-placements.md, Book 1, Palier 2: La pollution de l'air, printed p. 24 — a topic no existing slug covers at this primary depth. It sits in our-environment/ and is registered in CURRICULUM.md Unit 11 (Our Environment). The source is an integrated Sciences TEACHER GUIDE (Super Efficace, EDIG/EDICEF), so the lesson rests on teacher-guide evidence only and is counted nowhere. Only the guide's Sciences physiques thread is placed; its biology/technology/TIC lessons are not physics placements and are excluded by scope.
 
 Searchable tags: air pollution, smoke, fumes, dust, clean air, trees, gabon, grade 3
+
+## Guatemala growth (2026-11-13, General Science expansion)
+
+**Book (Guatemala, Grade 9 guide):** *Ciencias Naturales III — Guía de orientaciones metodológicas para docentes, Tercero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales III, Guía de orientaciones metodológicas para docentes. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Tercero Básico (Grade 9) · Teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers) · PDF 89 pages (fetched from the textbooks repo release; 89 pp by its text extraction) · Verdict: COMPLETE (4 learning experiences). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Air contamination and educating people to recycle and reuse (guide evidence) (Guatemala, Grade 9) | Guatemala, *Ciencias Naturales III* (teacher guide — evidence), printed p. 62 |
+
+**Acceptance count unchanged: taught in 0 countries — this lesson stands on teacher-guide evidence only (Gabon, Guatemala), named here, counted nowhere.**
+
+Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales* methodological orientations guides for Ciclo Básico, MINEDUC — teacher guides), not added to this count.
+
+Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
+
+Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, air pollution, air contamination, recycle reuse

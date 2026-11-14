@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -40,3 +40,19 @@ Searchable tags: water cycle, evaporation, transpiration, condensation, precipit
 Suriname's own way — Suriname starts the water cycle from water vapour — *Waterdamp en waterkringloop* names the vapour before the cycle — is itself course content, carried exactly as filed.
 
 Searchable tags: suriname, waterdamp, waterkringloop, water vapour, water cycle, natuuronderwijs
+
+## Guatemala growth (2026-11-13, General Science expansion)
+
+**Book (Guatemala, Grade 8 guide):** *Ciencias Naturales II — Guía de orientaciones metodológicas para docentes, Segundo Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales II, Guía de orientaciones metodológicas para docentes. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Segundo Básico (Grade 8) · Teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers) · PDF 88 pages (fetched copy 12,509,916 bytes) · Verdict: COMPLETE (4 learning experiences). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Precipitation: rain, snow and hail, and the formation of low-pressure areas (guide evidence) (Guatemala, Grade 8) | Guatemala, *Ciencias Naturales II* (teacher guide — evidence), printed p. 72 |
+
+**Acceptance count unchanged: taught in 5 countries (Ethiopia, Cuba, Finland, Mexico, Suriname).**
+
+Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales* methodological orientations guides for Ciclo Básico, MINEDUC — teacher guides), not added to this count.
+
+Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
+
+Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, water cycle, precipitation, rain snow hail, low pressure

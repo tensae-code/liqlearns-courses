@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only)
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -36,3 +36,19 @@ Searchable tags: nutrients, carbohydrates, protein, fats, minerals, vitamins, wa
 Suriname's own way — Suriname sorts food by the job it does in the body — fuel and building material in one lesson, protective substances in the next — is itself course content, carried exactly as filed.
 
 Searchable tags: suriname, brandstof en bouwstof, beschermende stof, fuel building protective food, natuuronderwijs
+
+## Guatemala growth (2026-11-13, General Science expansion)
+
+**Book (Guatemala, Grade 9 guide):** *Ciencias Naturales III — Guía de orientaciones metodológicas para docentes, Tercero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales III, Guía de orientaciones metodológicas para docentes. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Tercero Básico (Grade 9) · Teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers) · PDF 89 pages (fetched from the textbooks repo release; 89 pp by its text extraction) · Verdict: COMPLETE (4 learning experiences). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Competency 1: relating nutrition, physical exercise and the prevention and treatment of diseases (guide evidence) (Guatemala, Grade 9) | Guatemala, *Ciencias Naturales III* (teacher guide — evidence), printed p. 14 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Cook Islands, Suriname).**
+
+Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales* methodological orientations guides for Ciclo Básico, MINEDUC — teacher guides), not added to this count.
+
+Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
+
+Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, nutrition, nutrients, exercise, disease prevention

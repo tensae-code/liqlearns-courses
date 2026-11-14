@@ -1,6 +1,6 @@
 # Sources — Cells — inside a cell: organelles and their jobs
 
-countries: Ethiopia
+countries: Ethiopia, Guatemala (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -20,3 +20,19 @@ Pairing warning (carried exactly): this Grade 7 Teacher Guide is an Addis Ababa 
 Cross-reference: Biology's *Inside a cell — organelles* and *Plant cell or animal cell* cover this ground at secondary depth; this Grade 7 lesson is a new first-depth build.
 
 Searchable tags: cell organelles, nucleus, mitochondria, chloroplast, cell wall, vacuole, Golgi, ribosome, Ethiopia, Grade 7
+
+## Guatemala growth (2026-11-13, General Science expansion)
+
+**Book (Guatemala, Grade 8 guide):** *Ciencias Naturales II — Guía de orientaciones metodológicas para docentes, Segundo Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales II, Guía de orientaciones metodológicas para docentes. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Segundo Básico (Grade 8) · Teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers) · PDF 88 pages (fetched copy 12,509,916 bytes) · Verdict: COMPLETE (4 learning experiences). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Learning Experience 3 "Our environment, a space of harmony": tissues in multicellular organisms — groups of cells carrying out a function (guide evidence) (Guatemala, Grade 8) | Guatemala, *Ciencias Naturales II* (teacher guide — evidence), printed p. 56 |
+
+**Acceptance count unchanged: taught in 1 country (Ethiopia).**
+
+Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales* methodological orientations guides for Ciclo Básico, MINEDUC — teacher guides), not added to this count.
+
+Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
+
+Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, cells, tissues, multicellular organisms

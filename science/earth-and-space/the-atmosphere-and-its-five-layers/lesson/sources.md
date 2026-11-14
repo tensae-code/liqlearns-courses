@@ -1,6 +1,6 @@
 # Sources — The Earth — the atmosphere and its five layers
 
-countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba
+countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only)
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -27,3 +27,22 @@ Guide figure, flagged exactly as the brief directs: the guide prints argon as **
 Note on the layer count: the guide names the five layers with the exosphere given in the five-layer exercise key; the lesson teaches the five-layer stack as the guide's exercise key fixes it.
 
 Searchable tags: atmosphere layers, troposphere, stratosphere, mesosphere, thermosphere, exosphere, tropopause, stratopause, mesopause, composition of air, Ethiopia Grade 7 General Science Unit 6 teacher evidence, iraq
+
+## Guatemala growth (2026-11-13, General Science expansion)
+
+**Book (Guatemala, Grade 8 guide):** *Ciencias Naturales II — Guía de orientaciones metodológicas para docentes, Segundo Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales II, Guía de orientaciones metodológicas para docentes. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Segundo Básico (Grade 8) · Teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers) · PDF 88 pages (fetched copy 12,509,916 bytes) · Verdict: COMPLETE (4 learning experiences). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
+
+**Book (Guatemala, Grade 9 guide):** *Ciencias Naturales III — Guía de orientaciones metodológicas para docentes, Tercero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales III, Guía de orientaciones metodológicas para docentes. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Tercero Básico (Grade 9) · Teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers) · PDF 89 pages (fetched from the textbooks repo release; 89 pp by its text extraction) · Verdict: COMPLETE (4 learning experiences). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Altitude: the higher a place, the colder it is; distance to the sea and other climate factors (guide evidence) (Guatemala, Grade 8) | Guatemala, *Ciencias Naturales II* (teacher guide — evidence), printed p. 74 |
+| The thinning of the ozone layer: a consequence of chlorofluorocarbons (guide evidence) (Guatemala, Grade 9) | Guatemala, *Ciencias Naturales III* (teacher guide — evidence), printed p. 58 |
+
+**Acceptance count unchanged: taught in 2 countries (Iraq, Cuba).**
+
+Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales* methodological orientations guides for Ciclo Básico, MINEDUC — teacher guides), not added to this count.
+
+Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
+
+Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, atmosphere, altitude and cold, ozone layer, chlorofluorocarbons

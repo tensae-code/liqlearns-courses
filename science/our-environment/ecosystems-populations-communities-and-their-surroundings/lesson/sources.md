@@ -1,6 +1,6 @@
 # Sources — Ecosystems — populations, communities and their surroundings
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only)
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -52,3 +52,23 @@ Canada is named as teacher-guide evidence only (its two *Science First Peoples* 
 Canada's own way — the Secondary guide's foundations: Indigenous Knowledge / Indigenous Science, two-eyed seeing, involving local First Nations communities, land-based activities and narratives in the science classroom — is itself course content, carried exactly as filed.
 
 Searchable tags: canada, canada science first peoples, fnesc, fnsa, first peoples, indigenous knowledge, traditional ecological knowledge
+
+## Guatemala growth (2026-11-13, General Science expansion)
+
+**Book (Guatemala, Grade 7 guide):** *Ciencias Naturales I — Guía de orientaciones metodológicas para docentes, Primero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales I, Guía de orientaciones metodológicas, Para docentes de primero básico. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Primero Básico (Grade 7) · Teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers) · PDF 88 pages (fetched copy 12,813,442 bytes) · Verdict: COMPLETE (4 learning experiences). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
+
+**Book (Guatemala, Grade 8 guide):** *Ciencias Naturales II — Guía de orientaciones metodológicas para docentes, Segundo Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales II, Guía de orientaciones metodológicas para docentes. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Segundo Básico (Grade 8) · Teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers) · PDF 88 pages (fetched copy 12,509,916 bytes) · Verdict: COMPLETE (4 learning experiences). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Learning Experience 1 "Valuing the environment as a principle of health": healthy environment vs contaminated environment (guide evidence) (Guatemala, Grade 7) | Guatemala, *Ciencias Naturales I* (teacher guide — evidence), printed p. 15 |
+| Learning Experience 3 "Our environment, a diverse space": diversity of ecosystems and types of habitat (guide evidence) (Guatemala, Grade 7) | Guatemala, *Ciencias Naturales I* (teacher guide — evidence), printed p. 60 |
+| Aquatic ecosystems: seas (salt water masses) and estuaries (salt and fresh water together) (guide evidence) (Guatemala, Grade 8) | Guatemala, *Ciencias Naturales II* (teacher guide — evidence), printed p. 58 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Australia, Suriname).**
+
+Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales* methodological orientations guides for Ciclo Básico, MINEDUC — teacher guides), not added to this count.
+
+Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
+
+Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, ecosystems, aquatic ecosystems, seas estuaries, habitat diversity

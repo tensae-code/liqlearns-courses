@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only)
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only)
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -27,3 +27,20 @@ The Grade 5 student book is COMPLETE (printed pp. 1–178). The teacher-guide ro
 The Grade 5 teacher guide scan is TRUNCATED: printed pp. 1–75 (Units 1–3) are held; Units 4–5 (printed pp. 76–106) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Searchable tags: pollution water soil air noise, environmental problems Ethiopia, erosion deforestation biodiversity loss, mexico, etica naturaleza y sociedades, trinidad and tobago, trinidad and tobago ncse integrated science
+
+## Guatemala growth (2026-11-13, General Science expansion)
+
+**Book (Guatemala, Grade 7 guide):** *Ciencias Naturales I — Guía de orientaciones metodológicas para docentes, Primero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales I, Guía de orientaciones metodológicas, Para docentes de primero básico. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Primero Básico (Grade 7) · Teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers) · PDF 88 pages (fetched copy 12,813,442 bytes) · Verdict: COMPLETE (4 learning experiences). All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How contamination of water, air and soil affects biodiversity (guide evidence) (Guatemala, Grade 7) | Guatemala, *Ciencias Naturales I* (teacher guide — evidence), printed p. 62 |
+| Learning Experience 4 "Relating healthily to the environment": contamination of water, soil and air; importance of the environment (guide evidence) (Guatemala, Grade 7) | Guatemala, *Ciencias Naturales I* (teacher guide — evidence), printed p. 71 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Mexico).**
+
+Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales* methodological orientations guides for Ciclo Básico, MINEDUC — teacher guides), not added to this count.
+
+Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
+
+Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, pollution, contamination water air soil, biodiversity
