@@ -1,6 +1,6 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), China
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -139,3 +139,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 6 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia, Samoa).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, science-skills fair-tests-variables-and-control-groups
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, second volume (student book)):** Title as printed: 义务教育教科书·科学·三年级下册 (Compulsory Education Textbook, Science, Grade 3, Vol. 2). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙, 1st edition September 2019, ISBN 978-7-107-34065-9, price 7.25 yuan. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 64 pages, 7,825,632 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units, 19 lessons, printed pp. 2–62 through the final unit review). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how watering affects balsam growth: a fair test with control groups (no water vs one cup a day vs one cup in seven days) (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 17 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia, Samoa, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, fair tests variables and control groups

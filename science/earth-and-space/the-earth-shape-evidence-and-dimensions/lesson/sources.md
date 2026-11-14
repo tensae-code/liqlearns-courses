@@ -1,6 +1,6 @@
 # Sources — The Earth — shape, evidence and dimensions
 
-countries: Ethiopia, Cuba, Albania (teacher-guide evidence only), Mongolia, Bulgaria, Moldova, Armenia, Samoa, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Bhutan
+countries: Ethiopia, Cuba, Albania (teacher-guide evidence only), Mongolia, Bulgaria, Moldova, Armenia, Samoa, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Bhutan, China
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -187,3 +187,17 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class iv
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 4, second volume (student book)):** Title as printed: 义务教育教科书·科学·四年级下册. Publisher: People's Education Press (PEP/人教版） line. PDF 66 pages, 28,177,987 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units through making a sundial). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| knowing the shape of the Earth (China Science G4下) | China, *科学四年级下册 (Science, Grade 4, second volume)*, printed p. 39 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Cuba, Mongolia, Bulgaria, Moldova, Armenia, Samoa, Cambodia, Afghanistan, Bhutan, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, the earth shape evidence and dimensions

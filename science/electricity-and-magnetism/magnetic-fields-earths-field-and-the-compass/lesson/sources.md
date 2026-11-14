@@ -1,6 +1,6 @@
 # Sources — Magnetic fields — field lines, Earth's field and the compass
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Djibouti (teacher-guide evidence only), Mongolia, Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Bhutan
+countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Djibouti (teacher-guide evidence only), Mongolia, Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Bhutan, China
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -156,3 +156,26 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class vi
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 1, second volume (student textbook) — RECORD MISMATCH NAMED, carried as filed):** MISMATCH: this is the file behind the TSV record titled "科学 Science — Grade 01 (PEP 人教版）". Its cover and imprint show it is not a full-year Grade 1 book: it is the Grade 1 SECOND volume （一年级下册） textbook. Title as printed: 义务教育教科书·科学·一年级下册. Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), 1st edition October 2017, ISBN 978-7-107-32315-7. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 48 pages, 5,930,661 bytes. Verdict: COMPLETE for the second volume (12 lessons, printed pp. 1–46 plus covers); the Grade 1 first volume is not in this record. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+**Book (China — Science Student Activity Manual, Grade 1, second volume (workbook) — RECORD MISMATCH NAMED, carried as filed):** MISMATCH: this is the file behind the TSV record titled "科学 Science — Grade 02 (PEP 人教版）". It is not a Grade 2 book at all: its cover reads 科学·学生活动手册·一年级下册 — the activity manual (workbook) for the same Grade 1 second volume as the textbook above. Publisher: People's Education Press with Hubei Education Press, November 2017, ISBN 978-7-107-32322-5. Image-only PDF, read page by page from contact sheets. PDF 17 pages, 1,465,177 bytes. Verdict: COMPLETE (record sheets for all 12 lessons, printed pp. 1–15). Placements are the workbook's record-sheet evidence for the textbook's lessons, as filed; the country counts in this lesson through the Grade 1 student textbook stocked alongside it. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 10, knowing the compass: its parts, and the needle is a small magnet (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 38 |
+| how to use a compass: hold flat, turn the dial until the needle matches north (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 39 |
+| the compass is a great invention of ancient China: water-float and thread-hanging compasses (China's own way) (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 40 |
+| Lesson 11, making a compass: magnetising a needle (20 strokes one way), float and hanging designs (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 41 |
+| Lesson 12, showing and improving our compasses: adding a direction dial, a wind shield, a sealed cover (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 44 |
+| compass parts record; what the little needle is made of (workbook evidence) (China Science G1下 Manual) | China, *科学学生活动手册一年级下册 (Science Student Activity Manual, Grade 1, second volume) — workbook*, printed p. 10 |
+| my compass design drawing and materials list (workbook evidence) (China Science G1下 Manual) | China, *科学学生活动手册一年级下册 (Science Student Activity Manual, Grade 1, second volume) — workbook*, printed p. 11 |
+| improving my compass: fault checklist (unstable needle, no dial, wobbly stand, water spills) and improvement plan (workbook evidence) (China Science G1下 Manual) | China, *科学学生活动手册一年级下册 (Science Student Activity Manual, Grade 1, second volume) — workbook*, printed p. 12 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Kenya, India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Mongolia, Pakistan (Punjab), Armenia, Bhutan, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, magnetic fields earths field and the compass

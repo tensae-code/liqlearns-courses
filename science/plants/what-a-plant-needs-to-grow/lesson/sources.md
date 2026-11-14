@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -357,3 +357,20 @@ Searchable tags: bhutan, bhutan science, science class iv
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, what a plant needs to grow
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 6, first volume (student book)):** Title as printed: 义务教育教科书·科学·六年级上册. Publisher: People's Education Press / Hubei Education Press line. PDF 70 pages, 18,150,549 bytes (matches size_bytes exactly). Verdict: COMPLETE (five units through building a "plant factory"). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+**Book (China — Science, Grade 3, second volume (student book)):** Title as printed: 义务教育教科书·科学·三年级下册 (Compulsory Education Textbook, Science, Grade 3, Vol. 2). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙, 1st edition September 2019, ISBN 978-7-107-34065-9, price 7.25 yuan. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 64 pages, 7,825,632 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units, 19 lessons, printed pp. 2–62 through the final unit review). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| entering the plant factory: what plants need, supplied by machines (China Science G6上) | China, *科学六年级上册 (Science, Grade 6, first volume)*, printed p. 59 |
+| caring for balsam: transplanting seedlings into clay, loam and sandy soils and comparing growth; sensible fertilising and a sunny place (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 17 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Guyana, Mongolia, Moldova, United States, Armenia, Samoa, Egypt, Cambodia, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, what a plant needs to grow

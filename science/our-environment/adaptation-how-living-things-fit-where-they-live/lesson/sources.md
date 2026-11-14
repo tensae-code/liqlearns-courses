@@ -1,6 +1,6 @@
 # Sources — Adaptation — how living things fit where they live
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Greece, United States, Cuba, Sudan, Kuwait
+countries: Djibouti (teacher-guide evidence only), Mongolia, Greece, United States, Cuba, Sudan, Kuwait, China
 
 **Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -121,3 +121,23 @@ Searchable tags: sudan, sudan grade 4, our-environment/adaptation-how-living-thi
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, adaptation how living things fit where they live
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 4, second volume (student book)):** Title as printed: 义务教育教科书·科学·四年级下册. Publisher: People's Education Press (PEP/人教版） line. PDF 66 pages, 28,177,987 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units through making a sundial). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+**Book (China — Science, Grade 6, second volume (student book)):** Title as printed: 义务教育教科书·科学·六年级下册. Publisher: People's Education Press / Hubei Education Press line. PDF 62 pages, 16,275,262 bytes (matches size_bytes exactly). Verdict: COMPLETE (four units through a simulated Mars mission). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| plants in different environments and how they fit them (China Science G4下) (placement filed as NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) | China, *科学四年级下册 (Science, Grade 4, second volume)*, printed p. 31 |
+| animals in different environments and how they fit them (China Science G4下) (placement filed as NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) | China, *科学四年级下册 (Science, Grade 4, second volume)*, printed p. 34 |
+| how animals adapt to their environment (China Science G6下) (placement filed as NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) | China, *科学六年级下册 (Science, Grade 6, second volume)*, printed p. 6 |
+
+**Acceptance count: taught in 7 countries (Mongolia, Greece, United States, Cuba, Sudan, Kuwait, China).**
+
+Placement choice, on the record: the China placement(s) above filed as NEW LESSON NEEDED — "adaptation-how-living-things-fit-where-they-live" — china-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, adaptation how living things fit where they live

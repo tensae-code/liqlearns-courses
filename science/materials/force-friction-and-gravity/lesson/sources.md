@@ -1,6 +1,6 @@
 # Sources — Force, friction and gravity
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan, China
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -193,3 +193,19 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, material
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class v
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, second volume (student book)):** Title as printed: 义务教育教科书·科学·三年级下册 (Compulsory Education Textbook, Science, Grade 3, Vol. 2). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙, 1st edition September 2019, ISBN 978-7-107-34065-9, price 7.25 yuan. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 64 pages, 7,825,632 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units, 19 lessons, printed pp. 2–62 through the final unit review). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the rubber grip on a pen: pushing a pen with and without its grip; the force that resists sliding between two touching surfaces is friction (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 40 |
+| what friction depends on: pulling light and heavy loads with a spring meter over smooth and rough surfaces — the pressing weight and the roughness of the surfaces (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 41 |
+| friction in production and life: increasing it (boot and tyre treads, bottle-cap ridges) and decreasing it (oiling a lock, roller skates) (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 42 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Serbia, India, United States, Pakistan (Punjab, Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, force friction and gravity

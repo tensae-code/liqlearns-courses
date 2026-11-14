@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -286,3 +286,18 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, food the six nutrients
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, first volume (student book)):** Title as printed: 义务教育教科书·科学·三年级上册 (Compulsory Education Textbook, Science, Grade 3, Vol. 1). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙； 2022 printing, price 4.35 yuan. PDF 66 pages, 29,614,440 bytes (matches size_bytes exactly). Verdict: COMPLETE (five units, unit reviews, back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the nutrients in food (sugars, fats, proteins, vitamins, water, minerals) and testing foods for fat (paper press), starch (iodine) and burning (China Science G3上) | China, *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 6 |
+| sorting everyday foods by their main nutrient; what each nutrient does for the body (China Science G3上) | China, *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 8 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Cook Islands, Suriname, India, Uganda, Bulgaria, Samoa, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, food the six nutrients

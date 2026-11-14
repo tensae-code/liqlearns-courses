@@ -1,6 +1,6 @@
 # Sources — How animals reproduce
 
-countries: Cambodia, Mauritania, Kuwait
+countries: Cambodia, Mauritania, Kuwait, China
 
 **Book (Cambodia — Grade 5, student book):** *វិទ្យាសាស្ត្រ ថ្នាក់ទី៥* (Science, Grade 5) (student book) — Cambodia, Ministry of Education, Youth and Sport (MoEYS) (Sala 00004331). Title as printed: វិទ្យាសាស្ត្រ ថ្នាក់ទី៥ (Science, Grade 5). PDF 129 pages, 25,871,709 bytes (matches record). Verdict: COMPLETE (Chapters 1–5, printed pp. 1–128). Twin record: TSV release record and books.json record grade-05/gov/cambodia/science/student/full-year.pdf, on_disk — same book, cited once here. Read note, carried as filed: the Grade 4–9 student PDFs carry a broken custom-font text layer, so they were read from rendered pages (contents pages and lesson openers read visually at 150 DPI, page by page through the whole book's structure); printed page numbers are the book's own printed pages as listed in its contents page. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cambodia-placements.md.
 
@@ -46,3 +46,19 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 4af, svt
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, how animals reproduce
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 4, first volume (student book)):** Title as printed: 义务教育教科书·科学·四年级上册. Publisher: People's Education Press (PEP/人教版） line. PDF 66 pages, 26,842,814 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units through making musical instruments). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how animals reproduce (China Science G4上) (placement filed as NEW LESSON NEEDED — how-animals-reproduce; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) | China, *科学四年级上册 (Science, Grade 4, first volume)*, printed p. 14 |
+
+**Acceptance count: taught in 4 countries (Cambodia, Mauritania, Kuwait, China).**
+
+Placement choice, on the record: the China placement(s) above filed as NEW LESSON NEEDED — "how-animals-reproduce" — china-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, how animals reproduce

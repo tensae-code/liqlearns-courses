@@ -444,6 +444,8 @@ solar-system comparison lessons.
 
 40. **Cell division** (`the-human-body/cell-division`) — how one cell copies its hereditary material and divides into two — growth, repair and the doorway to reproduction (the Biology mitosis lesson is its secondary-depth twin) (Kuwait, Grade 9, Term 1 — *Science, Grade 9, Term 1 (Student Book)*, printed p. 30; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
 
+41. **Stimulus and response — how the body reacts** (`the-human-body/stimulus-and-response-how-the-body-reacts`) — a stimulus is a change the body can sense, a response is the body's reaction to it — sense, then answer, one event in two halves (China, Grade 5 (Hebei) — *科学五年级上册 (Science, Grade 5, first volume) — Hebei edition*, printed p. 15; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
 ## Unit 4 — Materials
 
 1. **Chemical change: burning and gas-making** (`materials/chemical-change-burning-and-gas-making`) — a chemical change makes a new body — proved by the book's Experiment 2 (paper burned to ash) and Experiment 3 (lemon and yeast filling a balloon wi…
@@ -538,6 +540,20 @@ solar-system comparison lessons.
 
 80. **Mass — how much matter is in a thing** (`materials/mass-how-much-matter-is-in-a-thing`) — mass is the amount of matter in a body, measured in grams and kilograms with a balance — not size, and not weight (Kuwait, Grade 2, Term 2 — *Science, Grade 2, Term 2 (Student Book)*, printed p. 18; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
 
+81. **Traditional Chinese joinery — mortise and tenon** (`materials/traditional-chinese-joinery-mortise-and-tenon`) — a wooden tongue (tenon) fitting a wooden hole (mortise), joining by fit alone with no nails — the joinery of old Chinese buildings and bridges, China's own craft way (China, Grade 3 — *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 58; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
+82. **Strong shapes — triangles, arches and columns** (`materials/strong-shapes-triangles-arches-and-columns`) — a triangle holds its shape while a square frame racks; a wide base stands steadier; a column carries weight down; an arch carries its load along its curve into its feet (China, Grade 3 — *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 55; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
+83. **Design and build a model building** (`materials/design-and-build-a-model-building`) — designing and building a model building (a strong bridge, a tall steady tower), showing it, testing it and improving it — closing with Lu Ban, the master carpenter who invented the saw and the plane (China, Grade 3 — *科学三年级上册 (Science, Grade 3, first volume)*, printed pp. 59, 61; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
+84. **Inventing a labour-saving device** (`materials/inventing-a-labour-saving-device`) — designing and making a device that does a job with less effort, joining the simple machines, then testing it and improving it (China, Grade 5 — *科学五年级下册 (Science, Grade 5, second volume)*, printed pp. 57, 60; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
+85. **Air has mass** (`materials/air-has-mass`) — air proved to have mass by weighing: the ball balanced heavier once inflated, soybeans added against it, more air reading as more mass on the scale — with Galileo's sealed bottle as the book's enrichment (China, Grade 3 — *科学三年级下册 (Science, Grade 3, second volume)*, printed pp. 30, 31; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
+86. **Springs and elastic force** (`materials/springs-and-elastic-force`) — the spring in a ballpoint pen, stretched and pressed, always pulling back to its first shape; hung weights lengthen it step for step — elasticity, the property the spring force meter is built on (China, Grade 3 — *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 37; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
+87. **Design and build a powered toy car** (`materials/design-and-build-a-powered-toy-car`) — studying propeller, motor and sail toy cars, choosing a power strong enough to run at least 1 metre, building the car, then testing its distance and time and improving weak power (a thicker rubber band, a bigger balloon) (China, Grade 3 — *科学三年级下册 (Science, Grade 3, second volume)*, printed pp. 57, 59; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
 ## Unit 5 — Light
 
 1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
@@ -585,6 +601,10 @@ solar-system comparison lessons.
 
 
 15. **Climate and daily life in Cambodia** (`weather-and-seasons/climate-and-daily-life-in-cambodia`) — how Cambodia's climate affects people's activities — work follows the water and the heat — taught straight after the book's seasons-and-climate-in-Cambodia lesson, its seasons learned from its own weather; Cambodia's own way (Cambodia, Grade 7 — *វិទ្យាសាស្ត្រ ថ្នាក់ទី៧ (Science, Grade 7)*, Earth Ch. 2, Lesson 4, printed p. 280; built for the Cambodia placements, expansion-science-2026-11-13/cambodia-placements.md)
+
+16. **Weather disasters and staying safe** (`weather-and-seasons/weather-disasters-and-staying-safe`) — meteorological disasters and what they bring; staying safe begins with knowing each disaster's signs and harms (China, Grade 4 — *科学四年级下册 (Science, Grade 4, second volume)*, printed p. 11; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
+17. **Fog, clouds, dew and frost — water in the air** (`weather-and-seasons/fog-clouds-dew-and-frost-water-in-the-air`) — fog and clouds as cooled vapour turned to droplets (one thing in two places), and dew and frost as the vapour settled on night-cooled ground, liquid and frozen (China, Grade 6 — *科学六年级上册 (Science, Grade 6, first volume)*, printed pp. 30, 33; built for the China placements, expansion-science-2026-11-13/china-placements.md)
 
 ## Unit 7 — Soil and Water
 
@@ -655,6 +675,10 @@ solar-system comparison lessons.
 
 31. **The vascular system in plants** (`plants/the-vascular-system-in-plants`) — the plant's pipes: xylem carrying water up from the roots, phloem carrying food from the leaves to every part (Kuwait, Grade 7, Term 2 — *Science, Grade 7, Term 2 (Student Book)*, printed p. 31; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
 
+32. **How water moves through a plant** (`plants/how-water-moves-through-a-plant`) — water's journey through a plant: in through the roots, up along the stem, out through the leaves into the air — the plant a through-road from soil to sky, proved with coloured water (China, Grade 3 — *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 20; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
+33. **The plant factory — growing plants indoors** (`plants/the-plant-factory-growing-plants-indoors`) — plants grown indoors with every need supplied by machines — light from lamps, water and food measured in — and the learner's own plant factory designed and built (China, Grade 6 — *科学六年级上册 (Science, Grade 6, first volume)*, printed p. 62; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
 ## Unit 9 — Animals
 
 1. **Grouping animals: by young, by movement, by food and by body** (`animals/grouping-animals`) — animals sort into groups: egg-layers against milk-givers; by movement (flying, crawling, walking) and home (land, water, both); by food (meat-eater…
@@ -708,6 +732,8 @@ solar-system comparison lessons.
 43. **Reproduction in living organisms** (`animals/reproduction-in-living-organisms`) — how every living thing makes more of its own kind — parents and offspring — so life continues (Kuwait, Grade 6, Term 1 — *Science, Grade 6, Term 1 (Student Book)*, printed p. 154; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
 
 44. **Types of reproduction — asexual and sexual** (`animals/types-of-reproduction-asexual-and-sexual`) — one parent making copies against two parents whose cells join, making offspring that differ — the test is how many parents (Kuwait, Grade 6, Term 1 — *Science, Grade 6, Term 1 (Student Book)*, printed p. 159; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
+
+45. **The life cycle of a silkworm** (`animals/the-life-cycle-of-a-silkworm`) — the whole life of a silkworm: eggs hatching, the larva growing through its moults, the pupa in its silk cocoon, and the moth laying the eggs that begin again — China's own sericulture way (China, Grade 4 — *科学四年级下册 (Science, Grade 4, second volume)*, printed pp. 15, 20, 24; built for the China placements, expansion-science-2026-11-13/china-placements.md)
 
 ## Unit 10 — Natural Resources
 
@@ -2865,6 +2891,10 @@ solar-system comparison lessons.
 
 86. **Landforms and geological features of our island** (`earth-and-space/landforms-and-geological-features-of-our-island`) — the geological characteristics of the island of Hispaniola, above all its mountain systems, read as the landforms of the learner's own island (Dominican Republic, Grade 5 — *Ciencias de la Naturaleza 5*, printed p. 36; built for the Dominican Republic placements, expansion-science-2026-11-13/dominican-republic-placements.md)
 
+87. **Identifying rocks by colour, grain and hardness** (`earth-and-space/identifying-rocks-by-colour-grain-and-hardness`) — collected rocks identified by colour, grain, texture and hardness (the scratch test) against the book's set of five: granite, sandstone, shale, limestone and marble (China, Grade 3 — *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 10; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
+88. **Make and launch a model rocket** (`earth-and-space/make-and-launch-a-model-rocket`) — making a model rocket part by part (nose, body, fins) and launching it: the flight as the test of the build, closing the space unit (China, Grade 6 — *科学六年级下册 (Science, Grade 6, second volume)*, printed p. 53; built for the China placements, expansion-science-2026-11-13/china-placements.md)
+
 ## Unit 20 — Motion, Force and Energy
 
 1. **Motion — motion needs a reference point** (`motion-force-and-energy/motion-needs-a-reference-point`) — motion is a change of position against a chosen reference point or frame — the same body can be moving and at rest at once, depending on the frame chosen (Grade 7 General Science)
@@ -2944,3 +2974,4 @@ solar-system comparison lessons.
 
 17. **Materials that conduct electricity** (`electricity-and-magnetism/materials-that-conduct-electricity`) — metals conduct and rubber, plastic, wood and glass insulate — tested with a gap circuit and a lamp, and why every wire needs both kinds (Kuwait, Grade 3, Term 2 — *Science, Grade 3, Term 2 (Student Book)*, printed p. 25; built for the Kuwait placements, expansion-science-2026-11-13/kuwait-placements.md)
 
+18. **Finding circuit faults with a tester** (`electricity-and-magnetism/finding-circuit-faults-with-a-tester`) — why the torch will not light: guessing the fault part by part, building a simple circuit tester, and cornering the break in the loop (China, Grade 3 — *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 33; built for the China placements, expansion-science-2026-11-13/china-placements.md)

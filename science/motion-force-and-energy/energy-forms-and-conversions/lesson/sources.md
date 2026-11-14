@@ -578,3 +578,19 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, energy forms and conversions
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 5, second volume (student book)):** Title as printed: 义务教育教科书·科学·五年级下册. Publisher: People's Education Press / Hubei Education Press line. PDF 66 pages, 17,847,409 bytes (matches size_bytes exactly). Verdict: COMPLETE (five units through making a labour-saving device). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| energy conversion in a lamp (China Science G5下) | China, *科学五年级下册 (Science, Grade 5, second volume)*, printed p. 12 |
+| energy conversion in a doorbell (electric bell) (China Science G5下) | China, *科学五年级下册 (Science, Grade 5, second volume)*, printed p. 15 |
+| energy conversion and energy transfer (China Science G5下) | China, *科学五年级下册 (Science, Grade 5, second volume)*, printed p. 23 |
+
+**Acceptance count unchanged: taught in 32 countries (Ethiopia, Argentina, Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab, Dominican Republic, Kuwait).** China was already counted in this lesson through its Physics textbooks (named in the sections above); the General Science rows above add provenance for the same country, counted once.
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, energy forms and conversions

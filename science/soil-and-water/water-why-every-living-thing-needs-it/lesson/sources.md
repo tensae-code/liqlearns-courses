@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, China
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -286,3 +286,17 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 3af, svt
 Angola's own way — *Ciências da Natureza* (Grades 5–6) is Angola's nature-science book: the same child who met the world whole in *Estudo do Meio* now meets air, water, soil, energy and the body as nature science, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, ciências da natureza 5, grade 5
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 4, first volume (student book)):** Title as printed: 义务教育教科书·科学·四年级上册. Publisher: People's Education Press (PEP/人教版） line. PDF 66 pages, 26,842,814 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units through making musical instruments). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the distribution of water on Earth (China Science G4上) | China, *科学四年级上册 (Science, Grade 4, first volume)*, printed p. 34 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Ecuador, Sudan, Venezuela, Mauritania, Angola, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, water why every living thing needs it

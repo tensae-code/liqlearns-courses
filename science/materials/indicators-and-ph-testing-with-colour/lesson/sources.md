@@ -1,6 +1,6 @@
 # Sources — Indicators and pH — testing with colour
 
-countries: Ethiopia, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan
+countries: Ethiopia, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, China
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed. PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -52,3 +52,20 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class vi
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 5, first volume (student book) — Hebei edition):** Title as printed: 义务教育教科书·科学·五年级（上册）. Publisher: 河北人民出版社 (Hebei People's Publishing House, Shijiazhuang), chief editor 胡军， 1st edition July 2021, ISBN 978-7-202-15485-4. NOTE: this volume is the Hebei （冀人版） edition, exactly as the record's source_url says — not the PEP edition of the other volumes. PDF 86 pages, 19,308,098 bytes (matches size_bytes exactly). Verdict: COMPLETE (25 lessons in six units). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+**Book (China — Science, Grade 6, first volume (student book)):** Title as printed: 义务教育教科书·科学·六年级上册. Publisher: People's Education Press / Hubei Education Press line. PDF 70 pages, 18,150,549 bytes (matches size_bytes exactly). Verdict: COMPLETE (five units through building a "plant factory"). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the colour-change game: substances that change colour (indicators) (China Science G5上 (Hebei)) | China, *科学五年级上册 (Science, Grade 5, first volume) — Hebei edition*, printed p. 8 |
+| colour changes: testing with indicator colours (China Science G6上) | China, *科学六年级上册 (Science, Grade 6, first volume)*, printed p. 10 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Seychelles, Bhutan, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, indicators and ph testing with colour

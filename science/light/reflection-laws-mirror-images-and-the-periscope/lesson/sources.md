@@ -1,6 +1,6 @@
 # Sources — Reflection — laws, mirror images and the periscope
 
-countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only), Guyana, Mongolia, India, Egypt, Sudan, Bhutan
+countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only), Guyana, Mongolia, India, Egypt, Sudan, Bhutan, China
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -177,3 +177,17 @@ Searchable tags: sudan, sudan grade 6, light/reflection-laws-mirror-images-and-t
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class v, science class vi
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 5, first volume (student book) — Hebei edition):** Title as printed: 义务教育教科书·科学·五年级（上册）. Publisher: 河北人民出版社 (Hebei People's Publishing House, Shijiazhuang), chief editor 胡军， 1st edition July 2021, ISBN 978-7-202-15485-4. NOTE: this volume is the Hebei （冀人版） edition, exactly as the record's source_url says — not the PEP edition of the other volumes. PDF 86 pages, 19,308,098 bytes (matches size_bytes exactly). Verdict: COMPLETE (25 lessons in six units). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the reflection of light (China Science G5上 (Hebei)) | China, *科学五年级上册 (Science, Grade 5, first volume) — Hebei edition*, printed p. 52 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Barbados, Fiji, United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Guyana, Mongolia, India, Egypt, Sudan, Bhutan, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, reflection laws mirror images and the periscope

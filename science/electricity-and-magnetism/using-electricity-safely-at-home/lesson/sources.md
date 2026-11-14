@@ -1,6 +1,6 @@
 # Sources — Using electricity safely at home
 
-countries: Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Samoa
+countries: Djibouti (teacher-guide evidence only), Gabon (teacher-guide evidence only), Samoa, China
 
 **Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -48,3 +48,20 @@ Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with
 Placement choice, on the record: this placement was filed as "electricity-and-magnetism/electric-circuits-and-safety-with-mains-electricity" — samoa-placements.md, printed pp. 67–83 — and is stocked here because the existing lesson on using electricity safely at home teaches safety with mains electricity as its own thing. The original slug is recorded here.
 
 Searchable tags: samoa, samoa mesc, electricity and magnetism using electricity safely at home
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, first volume (student book)):** Title as printed: 义务教育教科书·科学·三年级上册 (Compulsory Education Textbook, Science, Grade 3, Vol. 1). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙； 2022 printing, price 4.35 yuan. PDF 66 pages, 29,614,440 bytes (matches size_bytes exactly). Verdict: COMPLETE (five units, unit reviews, back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| electricity in our lives and safe use at home: the danger pictures and the safety signs (China Science G3上) (placement filed as NEW LESSON NEEDED — using-electricity-safely-at-home; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) | China, *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 36 |
+| lightning: what it is, its harm, and how to stay safe in a thunderstorm (China Science G3上) (placement filed as NEW LESSON NEEDED — using-electricity-safely-at-home; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) | China, *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 38 |
+
+**Acceptance count: taught in 2 countries (Samoa, China).**
+
+Placement choice, on the record: the China placement(s) above filed as NEW LESSON NEEDED — "using-electricity-safely-at-home" — china-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, using electricity safely at home

@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, China
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -199,3 +199,19 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 3af, sn 5af, svt
 Angola's own way — *Ciências da Natureza* (Grades 5–6) is Angola's nature-science book: the same child who met the world whole in *Estudo do Meio* now meets air, water, soil, energy and the body as nature science, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, ciências da natureza 5, grade 5
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, second volume (student book)):** Title as printed: 义务教育教科书·科学·三年级下册 (Compulsory Education Textbook, Science, Grade 3, Vol. 2). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙, 1st edition September 2019, ISBN 978-7-107-34065-9, price 7.25 yuan. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 64 pages, 7,825,632 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units, 19 lessons, printed pp. 2–62 through the final unit review). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| proving air is everywhere: catching air in a bag, and the windmill, paper plane and kite as signs of invisible air (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 27 |
+| air takes up space: a paper wad wedged in a cup stays dry when the cup is pushed straight down into water (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 32 |
+| air occupying space in daily life: tyres, lifebuoys, inflatable castles and beach balls, and the hovercraft (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 34 |
+
+**Acceptance count: taught in 9 countries (India, Uganda, Bulgaria, Moldova, Cuba, Sudan, Mauritania, Angola, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, air is there air takes up space and can be pushed

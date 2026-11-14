@@ -1,6 +1,6 @@
 # Sources — Electricity and magnets
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, China
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -41,3 +41,17 @@ Searchable tags: djibouti, sciences expérimentales, conductors, insulators, tea
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, electricity and magnets, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, first volume (student book)):** Title as printed: 义务教育教科书·科学·三年级上册 (Compulsory Education Textbook, Science, Grade 3, Vol. 1). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙； 2022 printing, price 4.35 yuan. PDF 66 pages, 29,614,440 bytes (matches size_bytes exactly). Verdict: COMPLETE (five units, unit reviews, back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| which materials conduct: conductors and insulators tested in a circuit (China Science G3上) | China, *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 31 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Mongolia, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, electricity and magnets

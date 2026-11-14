@@ -1,6 +1,6 @@
 # Sources — My Neighbours and My First Sketch Map
 
-countries: Ethiopia (teacher-guide evidence only), Serbia, Mongolia
+countries: Ethiopia (teacher-guide evidence only), Serbia, Mongolia, China
 
 **Book 2:** *አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 1* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md
 
@@ -45,3 +45,21 @@ Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova sk
 Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, my neighbours and my first sketch map, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 1, grade 2
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 1, second volume (student textbook) — RECORD MISMATCH NAMED, carried as filed):** MISMATCH: this is the file behind the TSV record titled "科学 Science — Grade 01 (PEP 人教版）". Its cover and imprint show it is not a full-year Grade 1 book: it is the Grade 1 SECOND volume （一年级下册） textbook. Title as printed: 义务教育教科书·科学·一年级下册. Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), 1st edition October 2017, ISBN 978-7-107-32315-7. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 48 pages, 5,930,661 bytes. Verdict: COMPLETE for the second volume (12 lessons, printed pp. 1–46 plus covers); the Grade 1 first volume is not in this record. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+**Book (China — Science Student Activity Manual, Grade 1, second volume (workbook) — RECORD MISMATCH NAMED, carried as filed):** MISMATCH: this is the file behind the TSV record titled "科学 Science — Grade 02 (PEP 人教版）". It is not a Grade 2 book at all: its cover reads 科学·学生活动手册·一年级下册 — the activity manual (workbook) for the same Grade 1 second volume as the textbook above. Publisher: People's Education Press with Hubei Education Press, November 2017, ISBN 978-7-107-32322-5. Image-only PDF, read page by page from contact sheets. PDF 17 pages, 1,465,177 bytes. Verdict: COMPLETE (record sheets for all 12 lessons, printed pp. 1–15). Placements are the workbook's record-sheet evidence for the textbook's lessons, as filed; the country counts in this lesson through the Grade 1 student textbook stocked alongside it. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 6, the campus treasure hunt: following written directions to find a place (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 21 |
+| describing positions and directions on a park map (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 24 |
+| treasure-hunt record sheet: start, direction, route, where the treasure was (workbook evidence) (China Science G1下 Manual) | China, *科学学生活动手册一年级下册 (Science Student Activity Manual, Grade 1, second volume) — workbook*, printed p. 6 |
+
+**Acceptance count: taught in 3 countries (Serbia, Mongolia, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, my neighbours and my first sketch map

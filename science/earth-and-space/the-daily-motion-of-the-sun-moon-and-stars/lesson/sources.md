@@ -1,6 +1,6 @@
 # Sources — The daily motion of the Sun, Moon and stars
 
-countries: Mongolia, Vietnam, Albania (teacher-guide evidence only), United States
+countries: Mongolia, Vietnam, Albania (teacher-guide evidence only), United States, China
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -59,3 +59,17 @@ Searchable tags: mongolia, the daily motion of the sun moon and stars, khun ba o
 **Acceptance count: taught in 3 countries (Mongolia, Vietnam, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, the daily motion of the sun moon and stars
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 1, second volume (student textbook) — RECORD MISMATCH NAMED, carried as filed):** MISMATCH: this is the file behind the TSV record titled "科学 Science — Grade 01 (PEP 人教版）". Its cover and imprint show it is not a full-year Grade 1 book: it is the Grade 1 SECOND volume （一年级下册） textbook. Title as printed: 义务教育教科书·科学·一年级下册. Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), 1st edition October 2017, ISBN 978-7-107-32315-7. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 48 pages, 5,930,661 bytes. Verdict: COMPLETE for the second volume (12 lessons, printed pp. 1–46 plus covers); the Grade 1 first volume is not in this record. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Sun rises in the east and sets in the west; facing the morning Sun and the evening Sun (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 18 |
+
+**Acceptance count: taught in 4 countries (Mongolia, Vietnam, United States, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, the daily motion of the sun moon and stars

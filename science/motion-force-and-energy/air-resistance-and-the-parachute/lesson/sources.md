@@ -1,6 +1,6 @@
 # Sources — Air resistance and the parachute
 
-countries: Finland (instructor-pack evidence only), Vietnam, Armenia, Barbados (curriculum evidence only), Seychelles, Ecuador, Dominican Republic, Kuwait
+countries: Finland (instructor-pack evidence only), Vietnam, Armenia, Barbados (curriculum evidence only), Seychelles, Ecuador, Dominican Republic, Kuwait, China
 
 **Book 1:** *Fysiikkaa: Tutkitaan ilmaa ja lämpöä (Physics: Investigating air and heat)* (instructor pack with pupil instruction sheets — recorded student; in substance a teacher/instructor pack) — Finland, Grade 1 (recorded grade; the material itself is an adult-led experiment pack for young children), compiled by Merike Kesler, Kehittämiskeskus Opinkirjo. Repo path: grade-01/gov/finland/physics/student/finland-g01-aoe1072-opinkirjo-teemakokonaisuus-fysiikka-1.pdf. Bytes: 1,120,626 (exact match). PDF pages: 19. Printed pagination: none — page references are PDF pages. Verdict: COMPLETE read (full text layer, all 19 pages) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/finland-placements.md.
 
@@ -88,3 +88,17 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, air resistance and the parachute
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, second volume (student book)):** Title as printed: 义务教育教科书·科学·三年级下册 (Compulsory Education Textbook, Science, Grade 3, Vol. 2). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙, 1st edition September 2019, ISBN 978-7-107-34065-9, price 7.25 yuan. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 64 pages, 7,825,632 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units, 19 lessons, printed pp. 2–62 through the final unit review). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| making a small parachute and testing what makes it fall slower: canopy size and cord length (air resistance) (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 28 |
+
+**Acceptance count: taught in 6 countries (Vietnam, Armenia, Seychelles, Dominican Republic, Kuwait, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, air resistance and the parachute

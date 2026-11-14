@@ -1,6 +1,6 @@
 # Sources — Expansion and contraction — when things heat and cool
 
-countries: Seychelles, Kuwait
+countries: Seychelles, Kuwait, China
 
 **Book (Seychelles — Unit 10: Heat and Molecules (P8)):** *Seychelles Integrated Science — Heat and Molecules*, Unit 10 (student booklet + teaching notes combined, ERIC scan) — Seychelles, Science Section, National Institute of Pedagogy, Ministry of Education and Information, 1983. Grade: P8 (Grade 8). Records: TSV release record and books.json `grade-08/gov/seychelles/integrated-science/student/unit-10-heat-and-molecules.pdf` — same book, cited once. Size verified 12,540,761 bytes = record size_bytes; PDF 58 pages = record pages. Verdict: COMPLETE (teaching notes contents and lessons for Topics 1–9 and both Summaries present, with the pupil booklet). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/seychelles-placements.md.
 
@@ -30,3 +30,21 @@ Searchable tags: expansion, contraction, heating, cooling, thermometer, seychell
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, expansion and contraction when things heat and cool
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 4, first volume (student book)):** Title as printed: 义务教育教科书·科学·四年级上册. Publisher: People's Education Press (PEP/人教版） line. PDF 66 pages, 26,842,814 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units through making musical instruments). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what happens to water when it is heated and cooled (China Science G4上) (placement slug: thermal-expansion-of-water-solids-and-air — filed as NEW LESSON NEEDED; stocked into this lesson, heat/expansion-and-contraction-when-things-heat-and-cool, as the closest existing lesson covering that thing) | China, *科学四年级上册 (Science, Grade 4, first volume)*, printed p. 23 |
+| do solids also expand with heat and shrink with cold? (China Science G4上) (placement slug: thermal-expansion-of-water-solids-and-air — filed as NEW LESSON NEEDED; stocked into this lesson, heat/expansion-and-contraction-when-things-heat-and-cool, as the closest existing lesson covering that thing) | China, *科学四年级上册 (Science, Grade 4, first volume)*, printed p. 26 |
+| the thermal expansion and contraction of air (China Science G4上) (placement slug: thermal-expansion-of-water-solids-and-air — filed as NEW LESSON NEEDED; stocked into this lesson, heat/expansion-and-contraction-when-things-heat-and-cool, as the closest existing lesson covering that thing) | China, *科学四年级上册 (Science, Grade 4, first volume)*, printed p. 29 |
+
+**Acceptance count: taught in 3 countries (Seychelles, Kuwait, China).**
+
+Placement choice, on the record: the China placement(s) above filed as NEW LESSON NEEDED — "thermal-expansion-of-water-solids-and-air" — china-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, expansion and contraction when things heat and cool

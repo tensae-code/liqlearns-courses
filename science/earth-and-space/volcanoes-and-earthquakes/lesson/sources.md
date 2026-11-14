@@ -1,6 +1,6 @@
 # Sources — Volcanoes and earthquakes
 
-countries: Australia, Gabon (teacher-guide evidence only), Cambodia, Cabo Verde (teacher-guide evidence only), Mauritania, Kuwait
+countries: Australia, Gabon (teacher-guide evidence only), Cambodia, Cabo Verde (teacher-guide evidence only), Mauritania, Kuwait, China
 
 **Book 1:** *Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book* (student book) — Australia, Pearson Australia, first published 2016, © Pearson Australia 2017. Title as printed: Pearson Science 9, 2nd Edition (Australian Curriculum), Student Book. Grade: 9, student book · PDF pages: 485 (verified: byte size 91,801,564; cover and contents pages match the record title; the PDF runs past the printed index into the publisher's eBook end-matter) · Verdict: COMPLETE. Scope note, carried as filed: this book's Chapter 2 (Materials) and Chapter 3 (Reaction types) are Chemistry chapters, Chapter 6 (Electricity) is a Physics chapter and Chapter 7 (Body coordination) is a Biology chapter — record-only under the wave scope rule, covered by the earlier split-subject waves; only the general-science chapters are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/australia-placements.md.
 
@@ -102,3 +102,22 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 5as-d, sn 5as-m, svt
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, volcanoes and earthquakes
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 5, first volume (student book) — Hebei edition):** Title as printed: 义务教育教科书·科学·五年级（上册）. Publisher: 河北人民出版社 (Hebei People's Publishing House, Shijiazhuang), chief editor 胡军， 1st edition July 2021, ISBN 978-7-202-15485-4. NOTE: this volume is the Hebei （冀人版） edition, exactly as the record's source_url says — not the PEP edition of the other volumes. PDF 86 pages, 19,308,098 bytes (matches size_bytes exactly). Verdict: COMPLETE (25 lessons in six units). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+**Book (China — Science, Grade 6, second volume (student book)):** Title as printed: 义务教育教科书·科学·六年级下册. Publisher: People's Education Press / Hubei Education Press line. PDF 62 pages, 16,275,262 bytes (matches size_bytes exactly). Verdict: COMPLETE (four units through a simulated Mars mission). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| volcanoes (China Science G5上 (Hebei)) (placement slug: volcanoes-and-how-they-erupt — filed as NEW LESSON NEEDED; stocked into this lesson, earth-and-space/volcanoes-and-earthquakes, as the closest existing lesson covering that thing) | China, *科学五年级上册 (Science, Grade 5, first volume) — Hebei edition*, printed p. 41 |
+| volcanic eruptions (China Science G6下) (placement slug: volcanoes-and-how-they-erupt — filed as NEW LESSON NEEDED; stocked into this lesson, earth-and-space/volcanoes-and-earthquakes, as the closest existing lesson covering that thing) | China, *科学六年级下册 (Science, Grade 6, second volume)*, printed p. 26 |
+
+**Acceptance count: taught in 5 countries (Australia, Cambodia, Mauritania, Kuwait, China).**
+
+Placement choice, on the record: the China placement(s) above filed as NEW LESSON NEEDED — "volcanoes-and-how-they-erupt" — china-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, volcanoes and earthquakes

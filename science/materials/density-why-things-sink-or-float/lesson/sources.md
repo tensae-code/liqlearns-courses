@@ -1,6 +1,6 @@
 # Sources — Density: why things sink or float
 
-countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova, Cambodia (teacher-guide evidence only), Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan
+countries: Ethiopia, Uganda, Finland, Timor-Leste (teacher-guide evidence only), Zambia (teacher-module evidence only), Barbados (curriculum evidence only), Bulgaria, Moldova, Cambodia (teacher-guide evidence only), Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan, China
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -180,3 +180,18 @@ Searchable tags: sudan, sudan grade 7, materials/density-why-things-sink-or-floa
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class iv, science class v, science class vi
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, second volume (student book)):** Title as printed: 义务教育教科书·科学·三年级下册 (Compulsory Education Textbook, Science, Grade 3, Vol. 2). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙, 1st edition September 2019, ISBN 978-7-107-34065-9, price 7.25 yuan. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 64 pages, 7,825,632 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units, 19 lessons, printed pp. 2–62 through the final unit review). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| modelling clay in water: predicting and testing which objects sink or float, then what decides it — same material in different sizes or shapes, same size with different mass, same mass with different size (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 43 |
+| buoyancy: pressing a floating object down and feeling the water's upward push; sunken objects feel buoyancy too (spring-meter test), and making a sunk egg float in another liquid (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 45 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Finland, Bulgaria, Moldova, Afghanistan, Sudan, Bhutan, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, density why things sink or float

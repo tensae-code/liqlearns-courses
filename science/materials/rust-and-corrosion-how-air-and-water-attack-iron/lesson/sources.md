@@ -1,6 +1,6 @@
 # Sources — Rust and corrosion — how air and water attack iron
 
-countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba
+countries: Gabon (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Uganda, Cuba, China
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 4e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024. Title as printed: Super Efficace — Sciences, Guide pédagogique, 4e année, © EDIG/EDICEF 2024. Grade 4. Teacher guide. Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Byte size: 1,366,088 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–15, 16–27, 28–39, 40–50, 51–60). Verdict: COMPLETE — full text read (32,604 words); sommaire and palier statements prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -59,3 +59,20 @@ Searchable tags: uganda, uganda general science, ncdc, senior one, lower seconda
 **Acceptance count: taught in 2 countries (Uganda, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, rust and corrosion how air and water attack iron
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 5, first volume (student book) — Hebei edition):** Title as printed: 义务教育教科书·科学·五年级（上册）. Publisher: 河北人民出版社 (Hebei People's Publishing House, Shijiazhuang), chief editor 胡军， 1st edition July 2021, ISBN 978-7-202-15485-4. NOTE: this volume is the Hebei （冀人版） edition, exactly as the record's source_url says — not the PEP edition of the other volumes. PDF 86 pages, 19,308,098 bytes (matches size_bytes exactly). Verdict: COMPLETE (25 lessons in six units). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+**Book (China — Science, Grade 6, first volume (student book)):** Title as printed: 义务教育教科书·科学·六年级上册. Publisher: People's Education Press / Hubei Education Press line. PDF 70 pages, 18,150,549 bytes (matches size_bytes exactly). Verdict: COMPLETE (five units through building a "plant factory"). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| rusting and how to prevent rust (China Science G5上 (Hebei)) | China, *科学五年级上册 (Science, Grade 5, first volume) — Hebei edition*, printed p. 11 |
+| rusting and preventing rust (China Science G6上) | China, *科学六年级上册 (Science, Grade 6, first volume)*, printed p. 3 |
+
+**Acceptance count: taught in 3 countries (Uganda, Cuba, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, rust and corrosion how air and water attack iron

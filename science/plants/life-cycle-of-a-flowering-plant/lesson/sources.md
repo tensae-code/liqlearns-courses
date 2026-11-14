@@ -1,6 +1,6 @@
 # Sources — Life cycle of a flowering plant
 
-countries: Bulgaria, Armenia, Cambodia
+countries: Bulgaria, Armenia, Cambodia, China
 
 **Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
 
@@ -48,3 +48,19 @@ Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED 
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 4, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, life cycle of a flowering plant
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, second volume (student book)):** Title as printed: 义务教育教科书·科学·三年级下册 (Compulsory Education Textbook, Science, Grade 3, Vol. 2). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙, 1st edition September 2019, ISBN 978-7-107-34065-9, price 7.25 yuan. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 64 pages, 7,825,632 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units, 19 lessons, printed pp. 2–62 through the final unit review). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the life of a balsam plant: seed, seedling, mature plant, flowering, fruiting and death as one life cycle, and how the sunflower's and carrot's life cycles compare (China Science G3下) (placement slug: the-life-cycle-of-a-flowering-plant — filed as NEW LESSON NEEDED; stocked into this lesson, plants/life-cycle-of-a-flowering-plant, as the closest existing lesson covering that thing) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 23 |
+
+**Acceptance count: taught in 4 countries (Bulgaria, Armenia, Cambodia, China).**
+
+Placement choice, on the record: the China placement(s) above filed as NEW LESSON NEEDED — "the-life-cycle-of-a-flowering-plant" — china-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, life cycle of a flowering plant

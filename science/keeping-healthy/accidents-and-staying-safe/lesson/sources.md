@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -249,3 +249,20 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 5af, svt
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, estudo do meio 1, estudo do meio 3, grade 1, grade 3
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 5, first volume (student book) — Hebei edition):** Title as printed: 义务教育教科书·科学·五年级（上册）. Publisher: 河北人民出版社 (Hebei People's Publishing House, Shijiazhuang), chief editor 胡军， 1st edition July 2021, ISBN 978-7-202-15485-4. NOTE: this volume is the Hebei （冀人版） edition, exactly as the record's source_url says — not the PEP edition of the other volumes. PDF 86 pages, 19,308,098 bytes (matches size_bytes exactly). Verdict: COMPLETE (25 lessons in six units). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+**Book (China — Science, Grade 5, second volume (student book)):** Title as printed: 义务教育教科书·科学·五年级下册. Publisher: People's Education Press / Hubei Education Press line. PDF 66 pages, 17,847,409 bytes (matches size_bytes exactly). Verdict: COMPLETE (five units through making a labour-saving device). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| preventing burns and scalds at home, and first aid for a burn (China Science G5上 (Hebei)) | China, *科学五年级上册 (Science, Grade 5, first volume) — Hebei edition*, printed p. 7 |
+| protecting our bodies (China Science G5下) | China, *科学五年级下册 (Science, Grade 5, second volume)*, printed p. 36 |
+
+**Acceptance count: taught in 10 countries (Turkey, Suriname, Uganda, Bulgaria, Cuba, Afghanistan, Angola, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, accidents and staying safe

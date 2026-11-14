@@ -1,6 +1,6 @@
 # Sources — Separating mixtures — magnet and evaporation
 
-countries: Ethiopia, Costa Rica, Sudan, Venezuela, Angola, Bhutan
+countries: Ethiopia, Costa Rica, Sudan, Venezuela, Angola, Bhutan, China
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -81,3 +81,19 @@ Searchable tags: angola, ciências da natureza 5, grade 5
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class v, science class vi
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, first volume (student book)):** Title as printed: 义务教育教科书·科学·三年级上册 (Compulsory Education Textbook, Science, Grade 3, Vol. 1). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙； 2022 printing, price 4.35 yuan. PDF 66 pages, 29,614,440 bytes (matches size_bytes exactly). Verdict: COMPLETE (five units, unit reviews, back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| getting the salt back: evaporating salt water until crystals appear (China Science G3上) | China, *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 19 |
+| where table salt comes from: sea salt, lake salt and rock salt in China (the book's own way) (China Science G3上) | China, *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 21 |
+| pulling iron filings out of salt with a magnet (China Science G3上) | China, *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 22 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Costa Rica, Sudan, Venezuela, Angola, Bhutan, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, separating magnet and evaporation

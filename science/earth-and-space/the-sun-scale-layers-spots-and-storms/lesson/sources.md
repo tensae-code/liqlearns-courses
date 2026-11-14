@@ -1,6 +1,6 @@
 # Sources — The Sun — its scale, layers, spots and storms
 
-countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic
+countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic, China
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -189,3 +189,17 @@ Searchable tags: bhutan, bhutan science, science class vii
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, the sun scale layers spots and storms
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 4, second volume (student book)):** Title as printed: 义务教育教科书·科学·四年级下册. Publisher: People's Education Press (PEP/人教版） line. PDF 66 pages, 28,177,987 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units through making a sundial). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Sun (with the Moon) as our two sky lights (China Science G4下) | China, *科学四年级下册 (Science, Grade 4, second volume)*, printed p. 42 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Slovenia, Bulgaria, Cuba, Armenia, Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela, Bhutan, Dominican Republic, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, the sun scale layers spots and storms

@@ -1,6 +1,6 @@
 # Sources — Looking after our animals
 
-countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola
+countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola, China
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -167,3 +167,17 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 4af, svt
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, estudo do meio 3, grade 3
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 4, second volume (student book)):** Title as printed: 义务教育教科书·科学·四年级下册. Publisher: People's Education Press (PEP/人教版） line. PDF 66 pages, 28,177,987 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units through making a sundial). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how to raise silkworms: food, cleanliness and care (China Science G4下) | China, *科学四年级下册 (Science, Grade 4, second volume)*, printed p. 17 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Suriname, Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, looking after our animals

@@ -1,6 +1,6 @@
 # Sources — Weathering, erosion and landforms
 
-countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba, Egypt, Kuwait
+countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba, Egypt, Kuwait, China
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -94,3 +94,19 @@ Searchable tags: egypt, earth-and-space weathering-erosion-and-landforms
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, weathering erosion and landforms
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 6, second volume (student book)):** Title as printed: 义务教育教科书·科学·六年级下册. Publisher: People's Education Press / Hubei Education Press line. PDF 62 pages, 16,275,262 bytes (matches size_bytes exactly). Verdict: COMPLETE (four units through a simulated Mars mission). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the power of running water on the land surface (China Science G6下) (placement slug: weathering-and-erosion-agents-that-shape-the-land — filed as NEW LESSON NEEDED; stocked into this lesson, earth-and-space/weathering-erosion-and-landforms, as the closest existing lesson covering that thing) | China, *科学六年级下册 (Science, Grade 6, second volume)*, printed p. 15 |
+
+**Acceptance count: taught in 7 countries (Mexico, Italy, Costa Rica, Cuba, Egypt, Kuwait, China).**
+
+Placement choice, on the record: the China placement(s) above filed as NEW LESSON NEEDED — "weathering-and-erosion-agents-that-shape-the-land" — china-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, weathering erosion and landforms

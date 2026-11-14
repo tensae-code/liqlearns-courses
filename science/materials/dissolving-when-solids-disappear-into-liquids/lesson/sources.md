@@ -1,6 +1,6 @@
 # Sources — Dissolving — when solids disappear into liquids
 
-countries: Serbia, Albania (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Cuba, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Kuwait
+countries: Serbia, Albania (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Cuba, Seychelles, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Kuwait, China
 
 **Book 1:** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
 
@@ -134,3 +134,20 @@ Searchable tags: sudan, sudan grade 6, materials/dissolving-when-solids-disappea
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, dissolving when solids disappear into liquids
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, first volume (student book)):** Title as printed: 义务教育教科书·科学·三年级上册 (Compulsory Education Textbook, Science, Grade 3, Vol. 1). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙； 2022 printing, price 4.35 yuan. PDF 66 pages, 29,614,440 bytes (matches size_bytes exactly). Verdict: COMPLETE (five units, unit reviews, back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how much salt (then sugar) dissolves in 50 ml of water, spoon by spoon, until no more dissolves (China Science G3上) (placement slug: dissolving-and-solutions-soluble-or-not — filed as NEW LESSON NEEDED; stocked into this lesson, materials/dissolving-when-solids-disappear-into-liquids, as the closest existing lesson covering that thing) | China, *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 16 |
+| speeding up dissolving: crushing, heating and stirring compared (China Science G3上) (placement slug: dissolving-and-solutions-soluble-or-not — filed as NEW LESSON NEEDED; stocked into this lesson, materials/dissolving-when-solids-disappear-into-liquids, as the closest existing lesson covering that thing) | China, *科学三年级上册 (Science, Grade 3, first volume)*, printed p. 18 |
+
+**Acceptance count: taught in 7 countries (Serbia, Mongolia, Cuba, Afghanistan, Sudan, Kuwait, China).**
+
+Placement choice, on the record: the China placement(s) above filed as NEW LESSON NEEDED — "dissolving-and-solutions-soluble-or-not" — china-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, dissolving when solids disappear into liquids

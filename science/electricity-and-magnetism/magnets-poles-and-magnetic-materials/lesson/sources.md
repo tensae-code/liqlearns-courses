@@ -330,3 +330,27 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Kuwait's own way — its Ministry of Education *Science* (العلوم) books, in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own unit order (life sciences, the human body, then matter and energy in the primary years; branch-built units with the 5E learning cycle and STEAM inquiry projects in the intermediate years) — is itself course content, carried exactly as filed.
 
 Searchable tags: kuwait, aloom, ministry of education kuwait, magnets poles and magnetic materials
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 1, second volume (student textbook) — RECORD MISMATCH NAMED, carried as filed):** MISMATCH: this is the file behind the TSV record titled "科学 Science — Grade 01 (PEP 人教版）". Its cover and imprint show it is not a full-year Grade 1 book: it is the Grade 1 SECOND volume （一年级下册） textbook. Title as printed: 义务教育教科书·科学·一年级下册. Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), 1st edition October 2017, ISBN 978-7-107-32315-7. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 48 pages, 5,930,661 bytes. Verdict: COMPLETE for the second volume (12 lessons, printed pp. 1–46 plus covers); the Grade 1 first volume is not in this record. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+**Book (China — Science Student Activity Manual, Grade 1, second volume (workbook) — RECORD MISMATCH NAMED, carried as filed):** MISMATCH: this is the file behind the TSV record titled "科学 Science — Grade 02 (PEP 人教版）". It is not a Grade 2 book at all: its cover reads 科学·学生活动手册·一年级下册 — the activity manual (workbook) for the same Grade 1 second volume as the textbook above. Publisher: People's Education Press with Hubei Education Press, November 2017, ISBN 978-7-107-32322-5. Image-only PDF, read page by page from contact sheets. PDF 17 pages, 1,465,177 bytes. Verdict: COMPLETE (record sheets for all 12 lessons, printed pp. 1–15). Placements are the workbook's record-sheet evidence for the textbook's lessons, as filed; the country counts in this lesson through the Grade 1 student textbook stocked alongside it. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 7, knowing magnets: magnet shapes, and testing which objects a magnet attracts (iron things) (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 27 |
+| magnets act across a small distance, and magnets in daily life (bag clasps, pencil cases, fishing toy) (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 29 |
+| Lesson 8, the poles of a magnet: the ends attract most strongly (paperclip test) (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 30 |
+| a hung bar magnet settles pointing north–south (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 32 |
+| Lesson 9, how poles act on each other: like poles repel, unlike poles attract (bar, horseshoe and ring magnets) (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 33 |
+| making a magnet "little train" that couples carriages pole to pole (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 35 |
+| magnet test record: predict then test which objects are attracted (workbook evidence) (China Science G1下 Manual) | China, *科学学生活动手册一年级下册 (Science Student Activity Manual, Grade 1, second volume) — workbook*, printed p. 7 |
+| pole-strength record at five points of a bar magnet, and the hung magnet's direction over three trials (workbook evidence) (China Science G1下 Manual) | China, *科学学生活动手册一年级下册 (Science Student Activity Manual, Grade 1, second volume) — workbook*, printed p. 8 |
+| pole-interaction record for four pairings of two bar magnets (workbook evidence) (China Science G1下 Manual) | China, *科学学生活动手册一年级下册 (Science Student Activity Manual, Grade 1, second volume) — workbook*, printed p. 9 |
+
+**Acceptance count unchanged: taught in 25 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Bulgaria, United States, Samoa, Egypt, Cabo Verde, Sudan, Bhutan, Dominican Republic).** China was already counted in this lesson through its Physics textbooks (named in the sections above); the General Science rows above add provenance for the same country, counted once.
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, magnets poles and magnetic materials

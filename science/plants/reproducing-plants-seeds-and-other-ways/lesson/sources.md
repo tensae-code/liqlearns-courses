@@ -1,6 +1,6 @@
 # Sources — Reproducing plants — seeds and other ways
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Gabon (teacher-guide evidence only), Seychelles, Dominican Republic
+countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Gabon (teacher-guide evidence only), Seychelles, Dominican Republic, China
 
 **Book (Djibouti — Grade 3 guide):** *Guide du maître — Sciences Expérimentales, 3ème année* (teacher guide) — Djibouti, CRIPEN — Centre de Recherche, d'Information et de Production de l'Éducation Nationale, Ministère de l'Éducation Nationale. Title as printed: Guide du Maître — Sciences Expérimentales, 3e année (Découverte du Monde), CRIPEN. Grade 3, TEACHER guide. PDF as secured: 1,469,198 bytes; pdfinfo reports 80 pages but the file is DAMAGED (broken page tree, "Kid object wrong type" errors) and only the first 44 pages yield text or render — Verdict: PARTIAL. Read and placed: front matter, the CB1 competency statement, and Modules 1–3 as far as the plant-life lessons (guide sequence 70). Missing: everything after that point in the guide. Page numbers cited are PDF pages (the guide's printed folios are only partly legible in the damaged copy). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -84,3 +84,24 @@ Searchable tags: gabon, super efficace, gabon grade 4, reproducing plants seeds 
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, reproducing plants seeds and other ways
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 4, first volume (student book)):** Title as printed: 义务教育教科书·科学·四年级上册. Publisher: People's Education Press (PEP/人教版） line. PDF 66 pages, 26,842,814 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units through making musical instruments). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+**Book (China — Science, Grade 3, second volume (student book)):** Title as printed: 义务教育教科书·科学·三年级下册 (Compulsory Education Textbook, Science, Grade 3, Vol. 2). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙, 1st edition September 2019, ISBN 978-7-107-34065-9, price 7.25 yuan. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 64 pages, 7,825,632 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units, 19 lessons, printed pp. 2–62 through the final unit review). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| reproducing plants from seeds (China Science G4上) (placement filed as NEW LESSON NEEDED — reproducing-plants-seeds-and-other-ways; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) | China, *科学四年级上册 (Science, Grade 4, first volume)*, printed p. 16 |
+| reproducing plants without seeds (cuttings and other vegetative ways) (China Science G4上) (placement filed as NEW LESSON NEEDED — reproducing-plants-seeds-and-other-ways; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) | China, *科学四年级上册 (Science, Grade 4, first volume)*, printed p. 19 |
+| sowing balsam (touch-me-not): observing the seeds' shape, size and colour, then sowing them in a pot (China Science G3下) (placement filed as NEW LESSON NEEDED — reproducing-plants-seeds-and-other-ways; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 14 |
+| germination: counting days to sprouting, the seedling, germination rate from the class record sheet, and keeping a planting diary (China Science G3下) (placement filed as NEW LESSON NEEDED — reproducing-plants-seeds-and-other-ways; this lesson already exists under that slug from an earlier country's expansion merge, so the placement stocks into it) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 15 |
+
+**Acceptance count: taught in 3 countries (Dominican Republic added, China).**
+
+Placement choice, on the record: the China placement(s) above filed as NEW LESSON NEEDED — "reproducing-plants-seeds-and-other-ways" — china-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, reproducing plants seeds and other ways

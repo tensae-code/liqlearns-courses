@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola
+countries: Ethiopia, Italy, Costa Rica, Greece, Bahamas (curriculum evidence only), United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Venezuela (curriculum/proposal evidence only), Mauritania, Angola, China
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -233,3 +233,17 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 5as-d, svt
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book (science, health, family, school and the local environment as one subject), and *Ciências da Natureza* (Grades 5–6) carries the same child into nature science — the rows above follow each book's own order — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, ciências da natureza 5, estudo do meio 3, grade 3, grade 5
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, second volume (student book)):** Title as printed: 义务教育教科书·科学·三年级下册 (Compulsory Education Textbook, Science, Grade 3, Vol. 2). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙, 1st edition September 2019, ISBN 978-7-107-34065-9, price 7.25 yuan. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 64 pages, 7,825,632 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units, 19 lessons, printed pp. 2–62 through the final unit review). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| rocks are made of minerals: ores we take metals and non-metals from (hematite for iron, chalcopyrite for copper), and rocks in daily life (building, roads, sculpture) (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 11 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Italy, Costa Rica, Greece, United States, Armenia, Cuba, Egypt, Cambodia, Afghanistan, Sudan, Angola, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, minerals from the ground

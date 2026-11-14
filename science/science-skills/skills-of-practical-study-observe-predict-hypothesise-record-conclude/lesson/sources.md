@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania (teacher-guide evidence only), Bhutan, China
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -340,3 +340,17 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 5af guide, svt, svt 1a
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class iv, science class v, science class vi, science class vii, science class viii
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 1, second volume (student textbook) — RECORD MISMATCH NAMED, carried as filed):** MISMATCH: this is the file behind the TSV record titled "科学 Science — Grade 01 (PEP 人教版）". Its cover and imprint show it is not a full-year Grade 1 book: it is the Grade 1 SECOND volume （一年级下册） textbook. Title as printed: 义务教育教科书·科学·一年级下册. Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), 1st edition October 2017, ISBN 978-7-107-32315-7. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 48 pages, 5,930,661 bytes. Verdict: COMPLETE for the second volume (12 lessons, printed pp. 1–46 plus covers); the Grade 1 first volume is not in this record. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| presenting the plant you observed to the class (China Science G1下 Textbook) | China, *科学一年级下册 (Science, Grade 1, second volume) — student textbook*, printed p. 10 |
+
+**Acceptance count: taught in 16 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia, Samoa, Venezuela, Bhutan, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, skills of practical study observe predict hypothesise record conclude

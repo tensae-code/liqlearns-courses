@@ -1,6 +1,6 @@
 # Sources — Musical sounds, instruments and room acoustics
 
-countries: Uzbekistan, Venezuela, Bhutan
+countries: Uzbekistan, Venezuela, Bhutan, China
 
 **Book 1:** *ФИЗИКА 6 (Fizika 6)* (student textbook) — Uzbekistan, N. Sh. Turdiev; recommended by the Ministry of Public Education of Uzbekistan; Izdatelsko-poligraficheskiy tvorcheskiy dom imeni Chulpana, Tashkent 2009; ISBN 978-9943-05-282-6 (imprint: 160 printed pp., print run 32,765). Grade: 6 · Student book (Russian-medium edition) · Repo path: grade-06/gov/uzbekistan/physics/full-year.pdf. Byte size: 53,761,071. PDF pages: 161. Offset: printed p. N = PDF p. N+1. Verdict: COMPLETE — read page by page in full from page images (41 sheets); contents (printed pp. 156–157) confirm all 57 temas present; back cover seen. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -43,3 +43,17 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, sound mu
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class v
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 4, first volume (student book)):** Title as printed: 义务教育教科书·科学·四年级上册. Publisher: People's Education Press (PEP/人教版） line. PDF 66 pages, 26,842,814 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units through making musical instruments). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| knowing and designing musical instruments (China Science G4上) | China, *科学四年级上册 (Science, Grade 4, first volume)*, printed p. 56 |
+
+**Acceptance count: taught in 4 countries (Uzbekistan, Venezuela, Bhutan, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, musical sounds instruments and room acoustics

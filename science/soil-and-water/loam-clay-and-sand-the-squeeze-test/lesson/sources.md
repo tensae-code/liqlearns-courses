@@ -1,6 +1,6 @@
 # Sources — Loam, clay and sand — the squeeze test
 
-countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan
+countries: Ethiopia, Uganda, Samoa, Seychelles, Sudan, China
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -58,3 +58,19 @@ Searchable tags: samoa, samoa mesc, soil and water loam clay and sand the squeez
 
 **Acceptance count: taught in 4 countries (Ethiopia, Uganda, Samoa, Sudan).**
 Searchable tags: sudan, sudan grade 9, soil-and-water/loam-clay-and-sand-the-squeeze-test
+
+## China growth (2026-11-14, General Science expansion)
+
+**Book (China — Science, Grade 3, second volume (student book)):** Title as printed: 义务教育教科书·科学·三年级下册 (Compulsory Education Textbook, Science, Grade 3, Vol. 2). Publisher: 人民教育出版社 (People's Education Press) with 湖北教育出版社 (Hubei Education Press), chief editors 金准智 / 郑长龙, 1st edition September 2019, ISBN 978-7-107-34065-9, price 7.25 yuan. Image-only PDF (no text layer), read page by page from 100-DPI contact sheets. PDF 64 pages, 7,825,632 bytes (matches size_bytes exactly). Verdict: COMPLETE (six units, 19 lessons, printed pp. 2–62 through the final unit review). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/china-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| comparing different soils: collecting soils and comparing colour, grain size and smell (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 6 |
+| settling in water, the squeeze-and-roll stickiness test, and pouring the same water through each soil (permeability): the three soil types, sandy soil, clay soil and loam (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 7 |
+| which soil suits which plant: loose sandy soil for watermelon and peanut, sticky water-holding clay for rice and reed, loam for most plants (China Science G3下) | China, *科学三年级下册 (Science, Grade 3, second volume)*, printed p. 8 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Samoa, Sudan, China).**
+
+China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: china, china science, pep, people's education press, loam clay and sand the squeeze test
