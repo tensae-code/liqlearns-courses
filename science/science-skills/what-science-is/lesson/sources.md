@@ -1,6 +1,6 @@
 # Sources — What science is — evidence, inference and tentative knowledge
 
-countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States
+countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States, Armenia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -80,3 +80,35 @@ Searchable tags: moldova, what science is, stiinte, sciences, grade 2
 **Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Uganda, Moldova, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, what science is
+
+## Armenia growth (2026-11-14, General Science expansion)
+
+**Book (Armenia — Grade 6, TEACHER guide — all placements from this book are guide evidence, outside the acceptance count):** Title as printed: ԲՆՈՒԹՅՈՒՆ – 6 — ԴԱՍԱԳՐՔԻ ՄԵԹՈԴԱԿԱՆ ՈՒՂԵՑՈՒՅՑ (Nature 6 — Methodological Guide to the Textbook); authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: TEACHER guide — all placements below are guide evidence) Publisher: Yerevan, 2024 (guide to the Astghik Gratun textbook; no ISBN printed) PDF pages: 95 (verified: byte size 1,228,936 and 95 pages; title page matches the record title) Verdict: COMPLETE Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the integrated-subject method: «Բնություն» is not a mechanical union of separate sciences — its object is the whole of nature in its large structural units, and the teacher must not split it back into narrow subjects (teacher guide — evidence) (Armenia, Grade 6) | Armenia, *Բնություն – 6, Մեթոդական ուղեցույց (Nature 6 methodological guide)*, printed p. 5 |
+
+**Book (Armenia — Grade 10, TEACHER guide — all placements from this book are guide evidence, outside the acceptance count):** Title as printed: ԲՆԱԳԻՏՈՒԹՅՈՒՆ – 10 — ՄԵԹՈԴԱԿԱՆ ՈՒՂԵՑՈՒՅՑ (Natural Science 10 — Methodological Guide); authors Sargis Galoyan, Gagik Melikyan Grade: 10 (student/teacher: TEACHER guide — all placements below are guide evidence; the guide gives the full content and outcomes of every section of the G10 student book) Publisher: Edit Print (Էդիթ Պրինտ), Yerevan, 2023; ISBN 978-9939-969-16-9; approved by the RA Ministry of Education, Science, Culture and Sport PDF pages: 125 (printed 124 pages; verified: byte size 526,416 and 125 pages; title page matches the record title) Verdict: COMPLETE Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Section 1 Natural science — methods of studying nature: natural science as a complex of natural sciences; methods of scientific cognition, experimental and theoretical; modelling (teacher guide — evidence) (Armenia, Grade 10) | Armenia, *Բնագիտություն – 10, Մեթոդական ուղեցույց (Natural Science 10 methodological guide)*, printed p. 24 |
+
+**Book (Armenia — Grade 5, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ — Դասագիրք 5-րդ դասարանի համար (Nature — Textbook for Grade 5); authors E. Ghazaryan, G. Melikyan, G. Khanagoyan, L. Hakobyan Grade: 5 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2023; ISBN 978-9939-74-136-9 PDF pages: 136 (byte size 23,460,476; image-only PDF read from 100-DPI contact sheets; cover and imprint page visually verified against the record title; full contents at printed pp. 131–133 confirm all 60 paragraphs in 8 themes. The contents misprints two page numbers in Theme 3 — §17 stands at printed p. 34 and §18 at p. 36, verified on the pages themselves) Verdict: COMPLETE Note on scope: in Grade 5 the integrated course front-loads the physical-science strands (bodies and substances, particles, changes of state, motion and forces, energy, sound and light) — Themes 2–7 — before the plant theme; the G6 book (Book 1 above) then gives electricity its Physics theme and the Earth/life themes their full treatment. Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Theme 1 §1: Nature, natural phenomena — living and non-living nature and the changes called phenomena, including dangerous ones (flood, eruption, landslide, earthquake) (Armenia, Grade 5) | Armenia, *Բնություն 5 (Nature 5)*, printed p. 5 |
+
+**Book (Armenia — Grade 10, student book):** Title as printed: ԲՆԱԳԻՏՈՒԹՅՈՒՆ 10 (Natural Science 10); authors Sargis Galoyan, Gagik Melikyan, Hayk Harutyunyan, Karine Avetisyan, Tigran Tangamyan Grade: 10 (student/teacher: STUDENT book) Publisher: Edit Print (Էդիթ Պրինտ), Yerevan, 2023; ISBN 978-9939-969-17-6; recommended by the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 17,643,974; image-only PDF read from 100-DPI contact sheets; cover and title page visually verified against the record title; full contents at printed pp. 173–175 confirm all nine sections, matching the teacher guide's content section by section) Verdict: COMPLETE Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Section 1 Natural science — methods of studying nature: §1.1 natural science as a complex of natural sciences; §1.2 science and the features of scientific knowledge (Armenia, Grade 10) | Armenia, *Բնագիտություն 10 (Natural Science 10)*, printed p. 4 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Uganda, Moldova, United States, Armenia).** The Armenian teacher-guide rows above are guide evidence only, counted nowhere; Armenia counts here through its student book(s).
+
+Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
+
+Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 10, grade 5, grade 6, astghik gratun, edit print

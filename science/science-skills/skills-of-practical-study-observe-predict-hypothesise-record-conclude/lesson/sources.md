@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -192,3 +192,24 @@ Searchable tags: moldova, skills of practical study observe predict hypothesise 
 **Acceptance count: taught in 10 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, skills of practical study observe predict hypothesise record conclude
+
+## Armenia growth (2026-11-14, General Science expansion)
+
+**Book (Armenia — Grade 6, TEACHER guide — all placements from this book are guide evidence, outside the acceptance count):** Title as printed: ԲՆՈՒԹՅՈՒՆ – 6 — ԴԱՍԱԳՐՔԻ ՄԵԹՈԴԱԿԱՆ ՈՒՂԵՑՈՒՅՑ (Nature 6 — Methodological Guide to the Textbook); authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: TEACHER guide — all placements below are guide evidence) Publisher: Yerevan, 2024 (guide to the Astghik Gratun textbook; no ISBN printed) PDF pages: 95 (verified: byte size 1,228,936 and 95 pages; title page matches the record title) Verdict: COMPLETE Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Grade 6 end-of-year outcomes across all eight themes and the standards pupils must reach: measuring, calculating approximately and exactly, working safely with devices and materials (teacher guide — evidence) (Armenia, Grade 6) | Armenia, *Բնություն – 6, Մեթոդական ուղեցույց (Nature 6 methodological guide)*, printed pp. 6–9 |
+
+**Book (Armenia — Grade 5, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ — Դասագիրք 5-րդ դասարանի համար (Nature — Textbook for Grade 5); authors E. Ghazaryan, G. Melikyan, G. Khanagoyan, L. Hakobyan Grade: 5 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2023; ISBN 978-9939-74-136-9 PDF pages: 136 (byte size 23,460,476; image-only PDF read from 100-DPI contact sheets; cover and imprint page visually verified against the record title; full contents at printed pp. 131–133 confirm all 60 paragraphs in 8 themes. The contents misprints two page numbers in Theme 3 — §17 stands at printed p. 34 and §18 at p. 36, verified on the pages themselves) Verdict: COMPLETE Note on scope: in Grade 5 the integrated course front-loads the physical-science strands (bodies and substances, particles, changes of state, motion and forces, energy, sound and light) — Themes 2–7 — before the plant theme; the G6 book (Book 1 above) then gives electricity its Physics theme and the Earth/life themes their full treatment. Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §3: instruments and devices for studying nature (ruler, tape measure, stopwatch, thermometer, measuring glass; telescope and microscope) and the scale division value (Armenia, Grade 5) | Armenia, *Բնություն 5 (Nature 5)*, printed p. 9 |
+| §§4–5 Practical works 1–2: determining the volume of one drop of water and of the classroom; measuring the volume of a liquid (Armenia, Grade 5) | Armenia, *Բնություն 5 (Nature 5)*, printed p. 11 |
+
+**Acceptance count: taught in 11 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia).** The Armenian teacher-guide rows above are guide evidence only, counted nowhere; Armenia counts here through its student book(s).
+
+Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
+
+Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5, grade 6, astghik gratun, edit print

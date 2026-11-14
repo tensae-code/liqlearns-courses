@@ -1,6 +1,6 @@
 # Sources — Matter — the particle theory
 
-countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab)
+countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
@@ -185,3 +185,17 @@ Searchable tags: united states, utah, seed standards, utah oer, matter the parti
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, matter-the-particle-theory
+
+## Armenia growth (2026-11-14, General Science expansion)
+
+**Book (Armenia — Grade 5, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ — Դասագիրք 5-րդ դասարանի համար (Nature — Textbook for Grade 5); authors E. Ghazaryan, G. Melikyan, G. Khanagoyan, L. Hakobyan Grade: 5 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2023; ISBN 978-9939-74-136-9 PDF pages: 136 (byte size 23,460,476; image-only PDF read from 100-DPI contact sheets; cover and imprint page visually verified against the record title; full contents at printed pp. 131–133 confirm all 60 paragraphs in 8 themes. The contents misprints two page numbers in Theme 3 — §17 stands at printed p. 34 and §18 at p. 36, verified on the pages themselves) Verdict: COMPLETE Note on scope: in Grade 5 the integrated course front-loads the physical-science strands (bodies and substances, particles, changes of state, motion and forces, energy, sound and light) — Themes 2–7 — before the plant theme; the G6 book (Book 1 above) then gives electricity its Physics theme and the Earth/life themes their full treatment. Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Theme 3 The Particulate Structure of Matter (§§14–18: atoms and molecules; matter in solid, liquid and gaseous states; molecular motion; chemical elements and symbols; simple and complex substances) — a Chemistry-wave chapter, named here as already covered by the earlier Chemistry wave; its items are not placed (Armenia, Grade 5) | Armenia, *Բնություն 5 (Nature 5)*, printed p. 28 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Barbados, Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia).**
+
+Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
+
+Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5, astghik gratun, edit print

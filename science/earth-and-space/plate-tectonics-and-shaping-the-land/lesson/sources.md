@@ -1,6 +1,6 @@
 # Sources — Plate tectonics and shaping the land
 
-countries: Canada (teacher-guide evidence only)
+countries: Canada (teacher-guide evidence only), Armenia
 
 **Book 1:** *Science First Peoples: Teacher Resource Guide, Grades 5 to 9* (teacher guide) — Canada, First Nations Education Steering Committee (FNESC) and First Nations Schools Association (FNSA), © 2016 (no ISBN printed). Title as printed: Science First Peoples — Teacher Resource Guide, Grades 5 to 9. Grade: 5–9 (student/teacher: TEACHER resource guide — all placements from this book are guide evidence). PDF pages: 231 (verified: byte size 3,028,842 and 231 pages; cover/title page matches the record title). Verdict: COMPLETE. Records: Canada's set holds 3 records for 2 distinct books — this guide is cited once here. All placements from this book are teacher-guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/canada-placements.md.
 
@@ -17,3 +17,18 @@ countries: Canada (teacher-guide evidence only)
 Placement choice, on the record: this NEW LESSON was built for the two Canada placements "NEW LESSON NEEDED — earth-and-space/plate-tectonics-and-shaping-the-land" — canada-placements.md, Book 1 Unit 6 (printed p. 141) and Book 2 Unit 4 (printed p. 115) (two placements, one lesson). No existing general-science lesson covers this thing as its own lesson (checked the live repo at merge time: `earth-and-space/plate-tectonics` covers the plates and their movements only, `earth-and-space/weathering-erosion-and-landforms` covers relief factors only, and `earth-and-space/volcanoes-and-earthquakes` covers the two sudden events only — none holds the two guides' combined unit: a plate-built land, its hazards and preparedness, and landscapes shaped by millennia of First Peoples land management), so it gets its own lesson, under the placements' own slug. It sits in earth-and-space/ and is registered in CURRICULUM.md Unit 19 (Earth and Space). Canada's own way — every unit built twice over, the BC curriculum science and the First Peoples knowledge of the same topic side by side — IS part of this lesson's content, carried exactly as the placements describe it. Honesty: both sources are TEACHER GUIDES, not student textbooks — they are cited as teacher-guide evidence only, outside the acceptance count, as filed.
 
 Searchable tags: plate tectonics, shaping the land, juan de fuca, subduction, clam gardens, shell middens, landscape burning, earthquakes, tsunamis, canada, science first peoples, fnesc
+
+## Armenia growth (2026-11-14, General Science expansion)
+
+**Book (Armenia — Grade 6, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ (Nature) — textbook for Grade 6 of general school; authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2024; ISBN 978-9939-74-171-0; printed on the order of the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 247,728,579 for the full-quality release copy; imprint page verified against the record title; the text layer uses a legacy font encoding, decoded for the headings and contents) Verdict: COMPLETE Armenia's own way: «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides). Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §13: movements of the Earth's crust — earthquakes and volcanoes (horst, graben, epicentre) — filed as NEW LESSON NEEDED — earth-and-space/plate-tectonics-and-shaping-the-land; stocked into this existing lesson, which already covers the thing, and the original slug is recorded here (Armenia, Grade 6) | Armenia, *Բնություն 6 (Nature 6)*, printed p. 41 |
+| §15: internal and external forces that change the Earth's surface — filed as NEW LESSON NEEDED — earth-and-space/plate-tectonics-and-shaping-the-land; stocked into this existing lesson, which already covers the thing, and the original slug is recorded here (Armenia, Grade 6) | Armenia, *Բնություն 6 (Nature 6)*, printed p. 50 |
+
+**Acceptance count: taught in 1 country (Armenia).**
+
+Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
+
+Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print

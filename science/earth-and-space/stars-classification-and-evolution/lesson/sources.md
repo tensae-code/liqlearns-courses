@@ -1,6 +1,6 @@
 # Sources — Stars — classification and evolution
 
-countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab)
+countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia
 
 **Book 1:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -44,3 +44,23 @@ Searchable tags: bulgaria, grade 10, stars, spectral classification, hertzsprung
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, stars-classification-and-evolution
+
+## Armenia growth (2026-11-14, General Science expansion)
+
+**Book (Armenia — Grade 10, TEACHER guide — all placements from this book are guide evidence, outside the acceptance count):** Title as printed: ԲՆԱԳԻՏՈՒԹՅՈՒՆ – 10 — ՄԵԹՈԴԱԿԱՆ ՈՒՂԵՑՈՒՅՑ (Natural Science 10 — Methodological Guide); authors Sargis Galoyan, Gagik Melikyan Grade: 10 (student/teacher: TEACHER guide — all placements below are guide evidence; the guide gives the full content and outcomes of every section of the G10 student book) Publisher: Edit Print (Էդիթ Պրինտ), Yerevan, 2023; ISBN 978-9939-969-16-9; approved by the RA Ministry of Education, Science, Culture and Sport PDF pages: 125 (printed 124 pages; verified: byte size 526,416 and 125 pages; title page matches the record title) Verdict: COMPLETE Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Section 4 outcomes: the star's structure and classification of stars; what galaxies are and their structure (teacher guide — evidence) (Armenia, Grade 10) | Armenia, *Բնագիտություն – 10, Մեթոդական ուղեցույց (Natural Science 10 methodological guide)*, printed p. 30 |
+
+**Book (Armenia — Grade 10, student book):** Title as printed: ԲՆԱԳԻՏՈՒԹՅՈՒՆ 10 (Natural Science 10); authors Sargis Galoyan, Gagik Melikyan, Hayk Harutyunyan, Karine Avetisyan, Tigran Tangamyan Grade: 10 (student/teacher: STUDENT book) Publisher: Edit Print (Էդիթ Պրինտ), Yerevan, 2023; ISBN 978-9939-969-17-6; recommended by the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 17,643,974; image-only PDF read from 100-DPI contact sheets; cover and title page visually verified against the record title; full contents at printed pp. 173–175 confirm all nine sections, matching the teacher guide's content section by section) Verdict: COMPLETE Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §4.3: stars and their classification (Armenia, Grade 10) | Armenia, *Բնագիտություն 10 (Natural Science 10)*, printed p. 89 |
+
+**Acceptance count: taught in 6 countries (Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia).** The Armenian teacher-guide rows above are guide evidence only, counted nowhere; Armenia counts here through its student book(s).
+
+Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
+
+Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 10, astghik gratun, edit print

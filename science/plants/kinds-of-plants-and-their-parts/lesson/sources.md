@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab)
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -253,3 +253,17 @@ Searchable tags: gabon, super efficace, gabon grade 4, kinds of plants and their
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, kinds-of-plants-and-their-parts
+
+## Armenia growth (2026-11-14, General Science expansion)
+
+**Book (Armenia — Grade 5, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ — Դասագիրք 5-րդ դասարանի համար (Nature — Textbook for Grade 5); authors E. Ghazaryan, G. Melikyan, G. Khanagoyan, L. Hakobyan Grade: 5 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2023; ISBN 978-9939-74-136-9 PDF pages: 136 (byte size 23,460,476; image-only PDF read from 100-DPI contact sheets; cover and imprint page visually verified against the record title; full contents at printed pp. 131–133 confirm all 60 paragraphs in 8 themes. The contents misprints two page numbers in Theme 3 — §17 stands at printed p. 34 and §18 at p. 36, verified on the pages themselves) Verdict: COMPLETE Note on scope: in Grade 5 the integrated course front-loads the physical-science strands (bodies and substances, particles, changes of state, motion and forces, energy, sound and light) — Themes 2–7 — before the plant theme; the G6 book (Book 1 above) then gives electricity its Physics theme and the Earth/life themes their full treatment. Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Theme 8 §48: parts of a plant and what each part does (the leaf as the plant's kitchen, making food by photosynthesis) (Armenia, Grade 5) | Armenia, *Բնություն 5 (Nature 5)*, printed p. 102 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova, Pakistan (Punjab), Armenia).**
+
+Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
+
+Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5, astghik gratun, edit print

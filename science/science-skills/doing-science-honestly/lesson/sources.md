@@ -1,6 +1,6 @@
 # Sources — Doing science honestly — ethics and Ethiopian scientists
 
-countries: Ethiopia, Laos (teacher-guide evidence only), Australia, Costa Rica
+countries: Ethiopia, Laos (teacher-guide evidence only), Australia, Costa Rica, Armenia (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -49,3 +49,17 @@ Searchable tags: scientific ethics, honesty, credit, unbiased, transparency, obj
 **Acceptance count: taught in 3 countries (Ethiopia, Australia, Costa Rica).**
 
 Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7
+
+## Armenia growth (2026-11-14, General Science expansion)
+
+**Book (Armenia — Grade 6, TEACHER guide — all placements from this book are guide evidence, outside the acceptance count):** Title as printed: ԲՆՈՒԹՅՈՒՆ – 6 — ԴԱՍԱԳՐՔԻ ՄԵԹՈԴԱԿԱՆ ՈՒՂԵՑՈՒՅՑ (Nature 6 — Methodological Guide to the Textbook); authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: TEACHER guide — all placements below are guide evidence) Publisher: Yerevan, 2024 (guide to the Astghik Gratun textbook; no ISBN printed) PDF pages: 95 (verified: byte size 1,228,936 and 95 pages; title page matches the record title) Verdict: COMPLETE Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| evaluating and defending one's own viewpoint with evidence; finding and citing information from different sources (teacher guide — evidence) (Armenia, Grade 6) | Armenia, *Բնություն – 6, Մեթոդական ուղեցույց (Nature 6 methodological guide)*, printed p. 5 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Australia, Costa Rica).** Armenia is named as teacher-guide evidence only (its Armenian Nature / Natural Science methodological guides), not added to this count.
+
+Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
+
+Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print

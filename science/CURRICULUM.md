@@ -530,6 +530,10 @@ solar-system comparison lessons.
 
 10. **Preparing for a weather forecast** (`weather-and-seasons/preparing-for-a-weather-forecast`) — using a forecast to decide how to prepare — clothing, items to carry, and readiness for severe weather such as floods, storms and extreme heat (United States, Kindergarten — *Kindergarten — for Utah SEEd Standards, Revised 2025*, K.1.2, printed p. 23)
 11. **Designing solutions to weather hazards** (`weather-and-seasons/designing-solutions-to-weather-hazards`) — designing, testing and optimising a solution that reduces the effects of a weather-related hazard — flood barriers and similar (United States, Grade 3 — *3rd Grade Science for Utah SEEd Standards, Revised 2025*, 3.1.3, printed p. 28)
+12. **Air pressure and what it does** (`weather-and-seasons/air-pressure-and-what-it-does`) — the air presses in all directions — atmospheric pressure, its consequences, and the experiments that prove it exists (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §§27–28, printed pp. 98, 101)
+13. **Winds and their kinds** (`weather-and-seasons/winds-and-their-kinds`) — wind is air on the move, and winds come in kinds, told apart by direction, steadiness and strength (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §29, printed p. 103)
+
+
 ## Unit 7 — Soil and Water
 
 1. **Drought: what it is and how we hold it back** (`soil-and-water/drought-what-it-is-and-how-we-hold-it-back`) — drought is when rain fails for a long time and water sources dry up — caused chiefly by an irregular climate, and also following deforestation — an…
@@ -549,6 +553,8 @@ solar-system comparison lessons.
 15. **Rivers and lakes — where water gathers and flows** (`soil-and-water/rivers-and-lakes-where-water-gathers-and-flows`) — surface waters: the parts of a river — source, course, bed, mouth and banks — lowland and mountain rivers, and lakes and ponds (Serbia, Grade 3 — *Природа и друштво 3*, printed p. 6)
 16. **Frost heave and þúfur mounds** (`soil-and-water/frost-heave-and-thufur-mounds`) — þúfur, the heath's little mounds, are frost-made: moist soil put in a freezer expands and lifts as it freezes, and that same lifting, winter after winter, raises the mounds — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed p. 41)
 17. **Community water supply and rural aqueducts** (`soil-and-water/community-water-supply-and-rural-aqueducts`) — rural aqueducts that supply community drinking water, administered in Costa Rica by the community's own water association, an ASADA, under official rules — the country's own way (Costa Rica, Grade 7 — *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 113)
+18. **Swamps and glaciers** (`soil-and-water/swamps-and-glaciers`) — the land's two slow water stores — the swamp, water standing in the land, and the glacier, water held frozen as ice — and the significance of each (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §22, printed p. 77)
+19. **Groundwater and springs** (`soil-and-water/groundwater-and-springs`) — rain soaks in and collects as groundwater, the land's hidden store, which comes out as springs and rises under pressure as artesian water (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §23, printed p. 82)
 
 
 ## Unit 8 — Plants
@@ -691,6 +697,9 @@ solar-system comparison lessons.
 54. **Living underground — the soil as a home** (`our-environment/living-underground-the-soil-as-a-home`) — the underground living environment: the soil itself as a home for living things, taught as a living environment of its own, between the land-and-air and water environments in the living-environments module (Moldova, Grade 3 — *Științe: Manual pentru clasa a III-a*, Modulul 2, Lecția 4, printed p. 43)
 
 55. **Natural hazards — monitoring, prediction and protection** (`our-environment/natural-hazards-monitoring-prediction-and-protection`) — using data to monitor and predict natural hazards and to protect communities — tsunami warning systems and similar (United States, Grade 8 — *8th Grade — for Utah SEEd Standards, Revised 2025*, 8.4.5, printed p. 187)
+56. **Natural zones of the Earth** (`our-environment/natural-zones-of-the-earth`) — the Earth's living cover changes in ordered belts — natural zones, each with its own climate, soil, plants and animals (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §40, printed p. 135)
+
+
 ## Unit 12 — Family, School and Community
 
 1. **Our School — A Clean School and Safe Latrine Use** (`family-school-and-community/a-clean-school-and-safe-latrine-use`) — keeping the classroom, walls, compound and latrine clean as everyone's shared work — and washing hands after the latrine.
@@ -816,6 +825,10 @@ solar-system comparison lessons.
 
 37. **Engineering design process** (`science-skills/engineering-design-process`) — the engineering design process — define a problem by its criteria and constraints, generate ideas, sketch and model, then test and modify each version until it is optimised (United States, Kindergarten and Grades 1–5 and 7 — *Utah SEEd Standards* books, printed pp. 10, 65 (KG); 134 (G1); 35 (G2); 85 (G3); 98 (G4); 44 (G5); 67 (G7))
 38. **Everyday technology — design and first aid** (`science-skills/everyday-technology-design-and-first-aid`) — technology in everyday life as one design-and-make strand: paper folding/cutting/pasting, paper bags and cards, clay models of solids, hammer/wheels/gears from clay, first-aid box contents, digital thermometer and blood-pressure checks, phones/tablets as tools (Pakistan (Punjab), Grade 4 — *General Science 4*, Ch. 10, printed p. 112); designing a solar oven (Grade 6 — *General Science 6*, printed p. 126); drip and sprinkler irrigation compared, with the build-a-sprinkler activity (Grade 7 — *General Science 7*, §11.1, printed p. 131); making bioplastic from milk and vinegar and assembling a concave-mirror solar cooker (Grade 8 — *General Science 8*, printed p. 137)
+39. **Order and chaos — entropy and self-organisation** (`science-skills/order-and-chaos-entropy-and-self-organisation`) — reversible against irreversible processes; entropy, the measure of disorder; and self-organisation — order building itself in open systems with energy flowing through (Armenia, Grade 10 — *Բնագիտություն 10 (Natural Science 10)*, Section 7, printed pp. 134, 141)
+40. **Modelling in science** (`science-skills/modelling-in-science`) — a model keeps the likeness of the real thing in the features that matter, and modelling is one of science's methods of cognition (Armenia, Grade 10 — *Բնագիտություն 10 (Natural Science 10)*, §1.6, printed p. 24)
+
+
 ## Unit 16 — Biology
 
 1. **A balanced diet — every group, in proportion** (`biology/a-balanced-diet`) — a balanced diet contains all nutrient groups in the right proportions for the person eating it.
@@ -2660,6 +2673,10 @@ solar-system comparison lessons.
 71. **Plate tectonics and its patterns** (`earth-and-space/plate-tectonics-and-its-patterns`) — analysing data on the patterns linking plate tectonics to volcanoes, earthquakes, mountains and seafloor features (United States, Grade 7 — *7th Grade — for Utah SEEd Standards, Revised 2025*, 7.2.5, printed p. 87)
 72. **The geologic time scale** (`earth-and-space/the-geologic-time-scale`) — arguing from rock strata and fossil evidence how the geologic time scale shows Earth's age and history (United States, Grade 7 — *7th Grade — for Utah SEEd Standards, Revised 2025*, 7.2.6, printed p. 98)
 73. **Weightlessness and floating in orbit** (`earth-and-space/weightlessness-and-floating-in-orbit`) — weightlessness, with the falling-bottle activities: when bottle and water fall together nothing pushes back, so weight is not felt — and orbit is that fall kept going around the Earth (Pakistan (Punjab), Grade 7 — *General Science 7*, §12.3, printed p. 142)
+74. **Rhythms in nature** (`earth-and-space/rhythms-in-nature`) — nature keeps time in rhythms — daily, yearly, century and multi-century changes that come back in order, together nature's calendar (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §9, printed p. 27)
+75. **The Earth's own history — how our planet changed** (`earth-and-space/the-earths-own-history-how-our-planet-changed`) — the Earth itself has a history — formed with the Solar System, it then evolved, and its evolution closes the origin story (Armenia, Grade 10 — *Բնագիտություն 10 (Natural Science 10)*, §9.4, printed p. 167)
+
+
 ## Unit 20 — Motion, Force and Energy
 
 1. **Motion — motion needs a reference point** (`motion-force-and-energy/motion-needs-a-reference-point`) — motion is a change of position against a chosen reference point or frame — the same body can be moving and at rest at once, depending on the frame chosen (Grade 7 General Science)

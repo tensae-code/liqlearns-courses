@@ -194,3 +194,23 @@ Searchable tags: united states, utah, seed standards, utah oer, the moon earths 
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, the-moon-earths-natural-satellite-and-its-phases
+
+## Armenia growth (2026-11-14, General Science expansion)
+
+**Book (Armenia — Grade 6, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ (Nature) — textbook for Grade 6 of general school; authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2024; ISBN 978-9939-74-171-0; printed on the order of the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 247,728,579 for the full-quality release copy; imprint page verified against the record title; the text layer uses a legacy font encoding, decoded for the headings and contents) Verdict: COMPLETE Armenia's own way: «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides). Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §54: the Moon as the Earth's satellite (Armenia, Grade 6) | Armenia, *Բնություն 6 (Nature 6)*, printed p. 168 |
+
+**Book (Armenia — Grade 5, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ — Դասագիրք 5-րդ դասարանի համար (Nature — Textbook for Grade 5); authors E. Ghazaryan, G. Melikyan, G. Khanagoyan, L. Hakobyan Grade: 5 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2023; ISBN 978-9939-74-136-9 PDF pages: 136 (byte size 23,460,476; image-only PDF read from 100-DPI contact sheets; cover and imprint page visually verified against the record title; full contents at printed pp. 131–133 confirm all 60 paragraphs in 8 themes. The contents misprints two page numbers in Theme 3 — §17 stands at printed p. 34 and §18 at p. 36, verified on the pages themselves) Verdict: COMPLETE Note on scope: in Grade 5 the integrated course front-loads the physical-science strands (bodies and substances, particles, changes of state, motion and forces, energy, sound and light) — Themes 2–7 — before the plant theme; the G6 book (Book 1 above) then gives electricity its Physics theme and the Earth/life themes their full treatment. Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| §44 Practical work 13: building a model of a solar eclipse and a lunar eclipse (Armenia, Grade 5) | Armenia, *Բնություն 5 (Nature 5)*, printed p. 94 |
+
+**Acceptance count unchanged: taught in 10 countries (Palestine, Armenia, Kazakhstan, Suriname, Guyana, Mongolia, Bulgaria, Moldova, United States, Pakistan (Punjab)).** Armenia was already counted in this lesson from its Physics-expansion books; the General Science rows above add provenance for the same country, counted once.
+
+Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
+
+Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5, grade 6, astghik gratun, edit print
