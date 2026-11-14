@@ -1,6 +1,6 @@
 # Sources — SmartArt, pictures and video on slides
 
-countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya
+countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya
 
 **Book 8:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
 
+**Book 9:** *Мэдээллийн технологи VII (Information Technology VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-24-4. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | SmartArt — relationships, organisation charts, timelines; SmartArt Tools | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 130–132 |
@@ -29,8 +31,9 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan, Libya
 | Unit 4.4 Use graphics, sounds and movies in slides | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 132 |
 | 2.2 Adding Audio and Video | Bhutan, *Literacy with ICT, Class VIII*, printed p. 16 |
 | Ch 5, adding multimedia to a presentation slide | Libya Grade 12 IT Humanities, printed p. 69 |
+| 2.3.3 Objects of many kinds in a presentation (inserting pictures, SmartArt diagrams, tables and charts) | Mongolia Grade 7 IT VII, printed p. 54 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya).**
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Libya, Mongolia).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -46,4 +49,6 @@ Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary
 
 Libya's own way (Grade 12 Humanities, Information Technology student book): the Humanities final year pairs the social/legal side of ICT (data security, e-government, computer law and software licences) with a long multimedia-and-PowerPoint practical; the closing projects are Libyan — a deck about Libyan dishes and a deck about Libya's archaeological cities and landmarks.
 
-Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8, bhutan, class viii, libya, grade 12 it humanities
+Mongolia's own way (Grade 7): the whole applications half is one long project — research and produce a printed booklet "Усаа хайрлая" (Cherish the Water) in Word, a Paint.NET layered picture, and a class PowerPoint; image work uses the free Paint.NET (downloaded from getpaint.net) rather than MS Paint; the e-communication chapter teaches Yahoo mail and Yahoo Messenger, Mongolian history of the örtöö relay post and the @ sign, and makes correct Latin transliteration of Mongolian Cyrillic (standard MNS 5217:2003) an ethics topic in its own right.
+
+Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8, bhutan, class viii, libya, grade 12 it humanities, mongolia, grade 7 it vii

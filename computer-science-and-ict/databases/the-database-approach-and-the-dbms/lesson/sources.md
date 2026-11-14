@@ -1,6 +1,6 @@
 # Sources — The database approach and the DBMS
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -40,6 +40,8 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, E
 
 **Book 19:** *Asas Sains Komputer Tingkatan 3* (student book, Bahasa Melayu) — Malaysia, Pan Asia Publications Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2018; ISBN 978-967-466-319-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 20:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the database approach: all logically related data in one shared collection (a database) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 53–55 |
@@ -54,6 +56,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, E
 | Ch 1, database concepts: introduction, characteristics of databases, DBMS architecture and classifications | Libya Grade 10 IT student, printed p. 9 |
 | Ch 1, uses of a database | Libya Grade 10 IT student, printed p. 18 |
 | Guide Ch 1, database concepts (topics, objectives, activities, answers) (teacher guide — evidence) | Libya Grade 10 IT teacher guide, printed p. 9 (teacher guide — evidence) |
+| 4.1 Basics of databases (field, record, index, primary key; the DBMS; query and report) | Mongolia Grade 10 IT X, printed p. 112 |
 
 | Sub lesson 4 (teacher guide — evidence) — the database-versus-DBMS distinction: a database is the schema designed with a DBMS to store data; the DBMS is the software tool used to maintain it; tool landscape MySQL, Oracle, MS SQL Server, MariaDB | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 52–54 |
 | Sub lesson 4 (teacher guide — evidence) — the NoSQL challenge: an RDBMS schema is not flexible enough for big data; NoSQL models address it; prerequisite MS Access 2013 or later | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 52–54 |
@@ -71,7 +74,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, E
 | Unit 3, Create a Database for the project | Egypt, *ICT — The Web Site Design Project, Grade 11 Term 1*, printed p. 61 (PDF page) |
 | Bab 4 Kod Arahan, 4.1.1 Maksud dan Penggunaan Pangkalan Data dan SQL | Malaysia Grade 9 ASK Tingkatan 3, printed p. 114 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia).**
+**Acceptance count: taught in 12 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Libya, Malaysia, Mongolia).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -110,4 +113,6 @@ Libya's own way (Grade 10, Information Technology teacher guide): the guide walk
 
 Malaysia's own way (Grade 9, ASK Tingkatan 3): Tingkatan 3 is unusually advanced for Grade 9 — a full cryptography unit (ciphers taught, compared and chosen), search and sort algorithms in pseudocode/flowchart, and a full databases-and-SQL unit built in Microsoft Access (entities, keys, cardinality, forms, SQL with Boolean expressions, reports) before returning to Python functions and procedures.
 
-Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9, cuba, grade 11, egypt, grade 10, grade 11, grade 7, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3
+Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
+
+Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9, cuba, grade 11, egypt, grade 10, grade 11, grade 7, fiji, years 7-8, year 11, year 13, libya, grade 10 it student, grade 10 it teacher guide, malaysia, grade 9 ask tingkatan 3, mongolia, grade 10 it x

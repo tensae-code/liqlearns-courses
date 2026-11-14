@@ -1,6 +1,6 @@
 # Sources — System software and the operating system
 
-countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya
+countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -54,6 +54,9 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, 
 
 **Book 26:** *الحاسوب للصف الثامن من مرحلة التعليم الأساسي (Computer, Grade 8, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 27:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+**Book 28:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | System software — controls, integrates, manages; not the user's tasks | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.31–32 |
@@ -85,8 +88,10 @@ countries: Ethiopia, Djibouti, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, 
 | 3.1 Operating System — Windows, Linux, Mac OS | Bhutan, *Literacy with ICT, Class IV*, printed p. 20 |
 | 1.2 Operating System (OS) | Bhutan, *Literacy with ICT, Class VII*, printed p. 3 |
 | Unit 1 Ch 1.3, operating systems and the functions of an operating system | Libya Grade 8 Computer, printed p. 36 |
+| 1.2.3 The operating system working environment (desktop, Start menu, shutting down) | Mongolia Grade 6 IT VI, printed p. 18 |
+| 1.2.1 The operating system program (kernel and shell, command-line and graphical interfaces, DOS, Windows, Mac OS, UNIX, Linux) | Mongolia Grade 11 IT XI, printed p. 44 |
 
-**Acceptance count: taught in 16 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya).**
+**Acceptance count: taught in 17 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Afghanistan, Yemen, North Macedonia, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -129,4 +134,8 @@ Bhutan's own way (Class VII, Literacy with ICT student book): Social media is ta
 
 Libya's own way (Grade 8, Computer student book): a three-unit arc — computer history/generations and number systems first, then a whole practical unit built around the scanner (scan, save, copy, delete, scan via Paint), then Microsoft Excel 2007 taught step by step with screenshots. The basic-education line is الحاسوب (Computer) in Grades 8–9.
 
-Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7, egypt, grade 7, fiji, year 11, bhutan, class iv, class vii, libya, grade 8 computer
+Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
+
+Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
+
+Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea, cambodia, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 6, uzbekistan, grade 5, grade 8, cuba, grade 7, egypt, grade 7, fiji, year 11, bhutan, class iv, class vii, libya, grade 8 computer, mongolia, grade 6 it vi, grade 11 it xi

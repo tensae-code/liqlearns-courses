@@ -1,6 +1,6 @@
 # Sources — Keyboard and mouse
 
-countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan
+countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan
 
 **Book 10:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 11:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The keyboard | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 17 |
@@ -35,8 +37,9 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan
 | Unidad 1 Interactuar con ratón, teclado y pantalla táctil (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 12 (teacher guide — evidence) |
 | Unit 1.7 Mouse techniques | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 24 |
 | 1.3 Keyboard and Mouse (incl. wireless) | Bhutan, *Literacy with ICT, Class IV*, printed p. 5 |
+| 1.2.2 Input devices: working with the keyboard and the mouse | Mongolia Grade 6 IT VI, printed p. 17 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia).**
 
 No book error touches this lesson's content.
 
@@ -54,4 +57,6 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
 
-Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv
+Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
+
+Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, mongolia, grade 6 it vi

@@ -1079,3 +1079,29 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Safety, Security and Care** (ICT expansion, from Malaysia): Choosing the Best Cipher Method · Ciphers in Problem Solving · Comparing Cipher Methods
 
 **Computers in Society** (ICT expansion, from Malaysia): Cyber Laws Across Countries · Evaluating Interactive Products · Human-Computer Interaction · Interaction Design Process · Prototyping Screen Designs · Quantitative Evaluation of Screen Design
+
+**First Steps** (ICT expansion, from Mongolia): Building a Mathematical Model · Coding Information — Codes All Around Us · Forms of Representing Information · How Package Information Is Processed, Step by Step · Information Models — and How to Build One · Models — Material and Informational · Objects and Their Properties · Package Information — Many Kinds in One Whole · Processing Information · Stages of Building a Model · The Information Model of an Object · The Value of Information — Timely, Complete and True
+
+**Hardware** (ICT expansion, from Mongolia): Computer Ports and Expansion Interfaces · How the Computer Represents Information in Binary
+
+**Software** (ICT expansion, from Mongolia): Free and Open-Source Software · Integrating Information — Import and OLE Linking and Embedding · Multitasking — Running Several Programs at Once
+
+**Word Processing** (ICT expansion, from Mongolia): Editing Pictures and Shapes in a Document · Footnotes and Endnotes · Inserting Objects — WordArt, Text Boxes, Charts, SmartArt and Drop Caps · Inserting Symbols and Equations · Making a Document Cover Page · Printing a Document and Booklets · Project — Making a Small Book in Word · Text as Characters, Words, Sentences and Paragraphs · Touch Typing — Correct Finger Placement on the Mongolian Keyboard
+
+**Spreadsheets** (ICT expansion, from Mongolia): Modelling with Quantities in a Spreadsheet · Solving Linear Equations by Tabulation · Solving Problems with Number Sequences
+
+**Presentations** (ICT expansion, from Mongolia): Planning and Preparing a Presentation
+
+**Internet and the Web** (ICT expansion, from Mongolia): Electronic Communication and Its Technologies · Internet Services — Everyday Uses · Online Chat — Text, Voice and Video Calls · Planning and Designing a Website
+
+**Networks** (ICT expansion, from Mongolia): Mobile Communication Technology · Sharing Folders on a Local Network
+
+**Multimedia** (ICT expansion, from Mongolia): Applying Effects to Pictures and Text in Paint.NET · Audio Information — Sampling and Sound File Formats · Composing a Picture from Several Images · Drawing and Editing on Layers in Paint.NET · Editing Photos in Paint.NET — Red Eye and Brightness · Editing a Video in Movie Maker · Editing an Image in Paint — Crop, Resize, Rotate and Zoom · Image Effects and Plug-Ins · Making a Photo Collage with Layers and Transparency · Multimedia Programming — Sound, Image and Animation in Code · Paint Drawing Tools — Lines, Curves, Shapes and Fill · Video Information — Frame Size, Rate and File Size · Video-Editing Software · Working with Layers in Paint.NET
+
+**Programming** (ICT expansion, from Mongolia): Building a User Interface · CSS — Styling a Web Page · Drawing Shapes with the Graphics Window · Expressions and Arithmetic in Small Basic · Getting Started with Small Basic · HTML Frames · Loops and Graphics — Patterns and Randomness · Quantities in an Algorithm — Name, Value and Type · Quantities, Data and Variables · Searching an Array · Solving an Informatics Problem — Steps and Flowcharts · Sorting an Array · Strings — Working with Text Values · The Graphics Window — Coordinates and Properties · The Math Object — Functions and Properties · Turtle Graphics in Small Basic
+
+**Safety, Security and Care** (ICT expansion, from Mongolia): Ethics of Electronic Communication
+
+**Computers in Society** (ICT expansion, from Mongolia): Electronic Services — E-Government, E-Learning and E-Banking · ICT in Daily Life and at Work · Measuring a Country's ICT Development · Mongolia's ICT Development · Why Organisations Build Information Systems
+
+**New Technologies** (ICT expansion, from Mongolia): Biotechnology and Information Technology · Electronics — Development and Use · Nanotechnology — What It Is · The Fourth Industrial Revolution · Ubiquitous Computing — Computers Everywhere

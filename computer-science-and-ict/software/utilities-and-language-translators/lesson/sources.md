@@ -1,6 +1,6 @@
 # Sources — Utilities and language translators
 
-countries: Ethiopia, Tanzania, Fiji, Bhutan
+countries: Ethiopia, Tanzania, Fiji, Bhutan, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Tanzania, Fiji, Bhutan
 
 **Book 9:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 10:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Utility programs — analyse, configure, improve, maintain; backup, recovery, virus protection | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.32 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Tanzania, Fiji, Bhutan
 | 4.6 Utility programs for troubleshooting | Fiji, *Computer Education, Year 13*, printed p. 88 |
 | 1.3 Utility Software | Bhutan, *Literacy with ICT, Class VII*, printed p. 8 |
 | 1.5 Language Translators | Bhutan, *Literacy with ICT, Class VII*, printed p. 18 |
+| 1.2.2 Utility programs (disk check, undelete, backup, antivirus, compression, drivers, defragmenting and Disk CleanUp) | Mongolia Grade 11 IT XI, printed p. 47 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Tanzania, Fiji, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Tanzania, Fiji, Bhutan, Mongolia).**
 
 Book error taught corrected: in the student book's §3.2 (printed p. 42) all three named utility families are lettered "A." instead of A/B/C. The lesson teaches the families by their names, in the book's order, without the book's letters — the families themselves are exactly as the book lists them. Sub lesson 4's explanations are teacher-guide evidence: the student book lists the utilities by name, and the guide's keyed answer to Activity 3.1 explains each one; the explanations are filed here as the guide gives them.
 
@@ -49,4 +52,6 @@ Fiji's own way (Year 13 Computer Education student book): The senior book is bui
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
-Searchable tags: utility software, backup, data recovery, virus protection, language translator, compiler, system utilities, storage management utilities, file management utilities, anti-virus, Avast, disk formatter, partition editor, data compression, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, papua new guinea, grade 9, fiji, year 11, year 13, bhutan, class vii
+Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
+
+Searchable tags: utility software, backup, data recovery, virus protection, language translator, compiler, system utilities, storage management utilities, file management utilities, anti-virus, Avast, disk formatter, partition editor, data compression, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, papua new guinea, grade 9, fiji, year 11, year 13, bhutan, class vii, mongolia, grade 11 it xi

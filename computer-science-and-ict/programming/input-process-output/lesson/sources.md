@@ -1,6 +1,6 @@
 # Sources — Input, process, output
 
-countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan
+countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan
 
 **Book 10:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 11:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The input–process–output model; its sources of input and forms of output | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 222 |
@@ -29,6 +31,7 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan
 | Lesson 4: The working cycle — input units, processing, output units | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 23 |
 | 1.1 Components and their functions: input, processor, output, storage | Fiji, *Computer Education, Year 11*, printed p. 8 |
 | 1.2 Information Processing by a Computer (IPO model) | Bhutan, *Literacy with ICT, Class V*, printed p. 6 |
+| 3.1.1 The system and the "Input–Process–Output" model (open and closed systems; the information life cycle — collect, organise and check, store, process, analyse, transmit, present; Mongolia's labour-force survey worked through every stage) | Mongolia Grade 12 IT XII, printed p. 73 |
 
 | Solving problems with a computer — the seven steps; A + B = C; the everyday-algorithm activity (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 204–205 |
 | The five problem-solving steps; the input–process–output skeleton; the 15-period budget (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6, printed pp. 103–104, 107 |
@@ -37,7 +40,7 @@ countries: Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan
 | Strand 5 Unit 1 Computer Architecture, Topic Computer System, Lesson 1: Information Processing Cycle (filed as first-steps/the-information-processing-cycle-cake; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 46 (teacher guide — evidence, PARTIAL) |
 | Unit 4, 4-6: Input and output in BASIC — INPUT, PRINT and LPRINT, READ and DATA | Sudan, *Computer Science, Grade 11*, printed p. 41 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan).**
+**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Saudi Arabia, Iraq, Sudan, Fiji, Bhutan, Mongolia).**
 
 Book errors taught corrected, flagged here as this growth teaches the unit's opening outcomes: the Grade 10 student book's Unit 6 outcomes header spells the unit “FUNDAMENTALS OF PROGRAMING” with one M (a misprint) — the lessons use the correct spelling, Fundamentals of Programming. In the teacher guide, the §6.8 answer key defines an algorithm as a sequence of “ambiguous” step-by-step instructions — the opposite of both books' wording everywhere else (unambiguous); the worked-problems lesson teaches the corrected word and flags the slip there too. The guide's keys for every unit's objective items (Unit 5 printed p. 101; Unit 6 printed p. 116) were used as the verified answer source for this build's Grade 10 question files.
 
@@ -55,4 +58,6 @@ Fiji's own way (Year 11 Computer Education student book): The first locally writ
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
-Searchable tags: input process output, IPO model, CPU, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 11, fiji, year 11, bhutan, class v
+Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
+
+Searchable tags: input process output, IPO model, CPU, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 9, sudan, grade 11, fiji, year 11, bhutan, class v, mongolia, grade 12 it xii

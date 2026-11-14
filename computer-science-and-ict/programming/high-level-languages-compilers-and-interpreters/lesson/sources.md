@@ -1,6 +1,6 @@
 # Sources - High-level languages - compilers and interpreters
 
-countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia
+countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Mala
 
 **Book 13:** *Sains Komputer Tingkatan 5* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2017; ISBN 978-983-47-2375-0. 372 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 14:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - High-level languages (close to human language; concentrate on the problem; C, C++, Java, C#, Python, Perl, Ruby) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 133-134 |
@@ -44,8 +46,9 @@ countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Mala
 | 6.1 Common Programming Languages (low/high level, generations) | Fiji, *Computer Education, Year 13*, printed p. 127 |
 | Ch 3, programming languages | Libya Grade 11 IT student Term 1, printed p. 25 |
 | 1.2 Penterjemahan Pelbagai Aras Bahasa Pengaturcaraan | Malaysia Grade 11 SK Tingkatan 5, printed p. 33 |
+| Translators inside 1.2.2 (assembler, compiler, interpreter; machine code and object programs) | Mongolia Grade 11 IT XI, printed p. 51 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia).**
+**Acceptance count: taught in 9 countries (Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba, Fiji, Libya, Malaysia, Mongolia).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -72,4 +75,6 @@ Libya's own way (Grade 11 Term 1, Information Technology student book): a progra
 
 Malaysia's own way (Grade 11, SK Tingkatan 5): the final-year elective is exam-level computer science — computer architecture (fetch-decode-execute, Von Neumann, pipelining) and logic gates with Boolean expressions, a 57-page advanced SQL chapter that starts from ERD and normalisation, and a full web-programming chapter pair: client-side JavaScript (including sorting/searching, standard library, arrays) and server-side PHP working with text files, validation, queries, sign-up/login, ending in an interactive website build.
 
-Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 6, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 11 sk tingkatan 5
+Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
+
+Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 6, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 11 sk tingkatan 5, mongolia, grade 11 it xi

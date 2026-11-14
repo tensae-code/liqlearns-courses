@@ -1,6 +1,6 @@
 # Sources — Making a picture in Paint
 
-countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya
+countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbeki
 
 **Book 16:** *الحاسوب للصف الثامن من مرحلة التعليم الأساسي (Computer, Grade 8, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 17:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Creating an image file in Paint | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed p. 10 |
@@ -55,8 +57,9 @@ countries: Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbeki
 | Unidad 3 Elaboración de dibujos de la vida escolar (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 15 (teacher guide — evidence) |
 | 3.2 Drawing with Mouse (Paint) | Bhutan, *Literacy with ICT, Class IV*, printed p. 22 |
 | Unit 2 Ch 2.2, scanning images with the Paint program | Libya Grade 8 Computer, printed p. 60 |
+| 2.2.1 The image-processing program (MS Paint and its tools) | Mongolia Grade 6 IT VI, printed p. 37 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya).**
+**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Azerbaijan, Afghanistan, Yemen, Sudan, Uzbekistan, Bhutan, Libya, Mongolia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -87,4 +90,6 @@ Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "L
 
 Libya's own way (Grade 8, Computer student book): a three-unit arc — computer history/generations and number systems first, then a whole practical unit built around the scanner (scan, save, copy, delete, scan via Paint), then Microsoft Excel 2007 taught step by step with screenshots. The basic-education line is الحاسوب (Computer) in Grades 8–9.
 
-Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2, sudan, grade 5, uzbekistan, grade 5, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer
+Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
+
+Searchable tags: Paint, image file, Paint 3D, GIMP, Photoshop, draw, files and folders, grade 9, information technology, ict, ethiopia, turkmenistan, azerbaijan, afghanistan, yemen, grade 10, mauritania, grade 8, saudi arabia, grade 4, morocco, grade 2, sudan, grade 5, uzbekistan, grade 5, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5, bhutan, class iv, libya, grade 8 computer, mongolia, grade 6 it vi

@@ -1,6 +1,6 @@
 # Sources — Copyright — automatic protection for original works
 
-countries: Ethiopia, Mozambique, Bulgaria, Bhutan
+countries: Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan
 
 **Book 4:** *Literacy with ICT — A Textbook for Class 8* (title page: Class VIII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-443-3. 132 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 5:** *Мэдээллийн технологи IX (Information Technology IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2016); ISBN 978-99962-74-38-1. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What copyright protects | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed p. 16 (student placement item 20) |
@@ -17,11 +19,14 @@ countries: Ethiopia, Mozambique, Bulgaria, Bhutan
 | Lição 7, Software e Direitos do Autor | Mozambique, *Módulo de TIC, PESD I*, printed p. 45 |
 | Урок 5, copyright part (free programs such as Scratch; the Copyright Act; copying as a rights violation) | Bulgaria, *Computer Modelling, Grade 4*, printed p. 10 |
 | 5.2 Copyright | Bhutan, *Literacy with ICT, Class VIII*, printed p. 66 |
+| 2.4.1 The Internet and copyright (Mongolia's 2006 copyright law; which works are protected and which are not; always naming your source) | Mongolia Grade 9 IT IX, printed p. 63 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Bulgaria, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Bulgaria, Bhutan, Mongolia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
 Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary/middle year is project-led — a full Audacity audio unit (record, edit, mix, share), information ethics taught through Copyright, Creative Commons and software piracy, and Scratch taught to game level with lists, custom blocks (functions) and logical operators.
 
-Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii
+Mongolia's own way (Grade 9): Grade 9 turns outward to society and real tools — the information society taught through Mongolia's own shift, open-source software through Soyombo Linux (Mongolia's own Linux) and Mongolian OpenOffice, copyright through Mongolia's 2006 copyright law; algorithms are drawn as flowcharts and run in Turtle Art; the long spreadsheet unit grades pupils with nested IFs, builds Fibonacci sequences, grows a 500,000-tögrög bank deposit, and charts the depth and area of Mongolia's great lakes (Khuvsgul, Uvs, Khar-Us); e-services are the real Mongolian ones — the ТҮЦ service kiosk, bookstore.mn and internet banking.
+
+Searchable tags: copyright, original works, authorship, automatic protection, registration, Ethiopia Grade 12 IT, mozambique, bulgaria, bhutan, class viii, mongolia, grade 9 it ix

@@ -1,6 +1,6 @@
 # Sources — Digital collaboration — working together through technology
 
-countries: Ethiopia, Djibouti, Cambodia, Egypt
+countries: Ethiopia, Djibouti, Cambodia, Egypt, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 12* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education / Hawassa University (with Addis Ababa University, Bahir Dar University and Jimma University thanked for development). Writers: Teshome Alemu Wedajo (MSc), Wendwesen Endale Workneh (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN printed. 210 PDF pages, 200 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-12 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Djibouti, Cambodia, Egypt
 
 **Book 5:** *Information and Communication Technology — Fifth grade primary, Second Term 2025/2026* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 44 PDF pages. Verdict: COMPLETE (Term 2 book: Units 3-4). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 6:** *Мэдээллийн технологи VIII (Information Technology VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-29-9. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What digital collaboration is | Ethiopia, *Information Technology, Student Textbook, Grade 12*, Unit 1, printed pp. 18–19 (student placement item 25) |
@@ -19,11 +21,14 @@ countries: Ethiopia, Djibouti, Cambodia, Egypt
 | Chapitre 5 Leçon 4 — La communication et la diffusion des informations sur le web (TP) — communicating and sharing information on the web, practical work (teacher guide — evidence) | Djibouti, *Guide manuel Informatique, Grade 6*, printed p. 59 (teacher guide — evidence) |
 | Chapter 3 Lesson 3 Session 3, Collaboration on the Internet | Cambodia, *ICT, Grade 10*, printed p. 153 |
 | Unit 3 Lesson 6 The Art of Communication and Collaboration in the Digital World | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 22 |
+| 2.5.1 Owning information together (sharing and improving work with classmates by email; Wikipedia as shared knowledge; checking information is true and complete before passing it on) | Mongolia Grade 8 IT VIII, printed p. 65 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Cambodia, Egypt).**
+**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Egypt, Mongolia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book numbers "Brainstorming 1.7" twice (for §1.4, printed p. 18, and again for §1.5, printed p. 22); the teacher guide's §1.2 competency reads "Define Intellectual property (IR)" for IP, and the guide's Discussion strategy is copy-pasted as discussing "Digital Identity Management issues" in §§1.2, 1.4 and 1.5 whatever the section. The lessons teach the topics, not the copy faults. Where the guide's keyed answers correct or extend the student text, they are filed as labelled teacher evidence and say so in the table above.
 
 Egypt's own way (Grade 5, Term 2 student book (Arabic)): Primary ICT is organised as themed units — "The Digital Citizen in the Internet World" then "My Digital Project" — with every lesson phrased as a journey or a how-to question.
 
-Searchable tags: digital collaboration, shared documents, real-time collaboration, way of working, Ethiopia Grade 12 IT, djibouti, cambodia, egypt, grade 5
+Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a folded leaflet on Ulaanbaatar's air pollution (Word templates, styles, WordArt, charts and SmartArt) that then becomes a PowerPoint presentation with its own master slide and hyperlink buttons, and a Paint.NET collage of the five-snout livestock (таван хошуу мал) in a steppe landscape. Models are taught on Mongolian material (the livestock, Rutherford's atom, a virus-growth formula); spreadsheets open with the chessboard-and-wheat legend and count Mongolia's real 2014 livestock by aimag; social networks are taught on Facebook and Twitter ("жиргээ") with Mongolian examples.
+
+Searchable tags: digital collaboration, shared documents, real-time collaboration, way of working, Ethiopia Grade 12 IT, djibouti, cambodia, egypt, grade 5, mongolia, grade 8 it viii

@@ -1,6 +1,6 @@
 # Sources — From data to information
 
-countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji
+countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan,
 
 **Book 11:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 12:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Processed data | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 3–4 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan,
 | Unit 1, 1-1: Data and data processing — data, information and knowledge from processing | Sudan, *Computer Science, Grade 11*, printed p. 1 |
 | Capítulo 5.3 Procesamiento de información digital | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 109 |
 | 1.1 Data (raw facts) processed into information | Fiji, *Computer Education, Year 11*, printed p. 7 |
+| 1.1.1 What is information? | Mongolia Grade 6 IT VI, printed p. 5 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji).**
+**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Tanzania, Eritrea, Saudi Arabia, Iraq, Sudan, Cuba, Fiji, Mongolia).**
 
 No book error touches this lesson's content.
 
@@ -55,4 +58,6 @@ Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year
 
 Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
 
-Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea, saudi arabia, grade 3, iraq, grade 7, sudan, grade 5, grade 11, cuba, grade 6, fiji, year 11
+Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
+
+Searchable tags: from data to information, first steps, grade 7, information technology, ict, ethiopia, processed data, titling data yourself, turkmenistan, tanzania, eritrea, saudi arabia, grade 3, iraq, grade 7, sudan, grade 5, grade 11, cuba, grade 6, fiji, year 11, mongolia, grade 6 it vi

@@ -1,17 +1,20 @@
 # Sources — Software Licences — Commercial, Free, Open-Source and Shareware
 
-countries: Libya
+countries: Libya, Mongolia
 
 **Book 1:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
 
 **Book 2:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم العلمي (Information Technology, third year of secondary = Grade 12, Science section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 124 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages plus body spot-checks; printed p. = PDF p.
 
+**Book 3:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ch 3, software licences and the types of software licence (commercial, free, open-source, trial) | Libya Grade 12 IT Humanities, printed p. 38 |
 | Ch 3, software licences and the types of software licence | Libya Grade 12 IT Science, printed p. 38 |
+| 1.2.3 Software copyright and licences (commercial, shareware, freeware and open-source licences; CD keys, dongles, digital watermarks and signatures; a MobiCom terms example) (filed as NEW LESSON NEEDED — software/software-licences-commercial-shareware-freeware-and-open-source; stocked in this lesson because this lesson teaches the same licence set — commercial, free, open-source and shareware — as its own lesson) | Mongolia Grade 10 IT X, printed p. 34 |
 
-**Acceptance count: taught in 1 country (Libya).**
+**Acceptance count: taught in 2 countries (Libya, Mongolia).**
 
 Placement choice: this lesson was built new for the ICT expansion (Libya, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — software/software-licences-commercial-free-open-source-and-shareware). It sits in the Software title (software/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Libya student book; teacher-guide placements are cited as (teacher guide — evidence) and counted nowhere on their own — each new lesson here also carries student-book placements, so Libya is counted once. Duplicate catalogue records of the same book (5 of the 15 records duplicate books) are cited once: 10 distinct books in this expansion. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -19,4 +22,6 @@ Libya's own way (Grade 12 Humanities, Information Technology student book): the 
 
 Libya's own way (Grade 12 Science, Information Technology student book): the Science section shares the Humanities book's first three chapters (security, e-government, computer law) word-for-structure, then diverges into a full second Visual Basic course — the VB environment and form controls, arrays, subroutines and built-in functions, and the remaining toolbox controls. Visual Basic is the Grade 12 programming language in both sections.
 
-Searchable tags: software licences, commercial, free software, open source, shareware, trial, software, libya, grade 12 it
+Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
+
+Searchable tags: software licences, commercial, free software, open source, shareware, trial, software, libya, grade 12 it, mongolia, grade 10 it x

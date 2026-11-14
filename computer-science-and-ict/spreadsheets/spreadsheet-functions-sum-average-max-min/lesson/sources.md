@@ -1,6 +1,6 @@
 # Sources — Spreadsheet functions — SUM, AVERAGE, MAX, MIN
 
-countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -30,6 +30,9 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan,
 
 **Book 17:** *الحاسوب للصف الثامن من مرحلة التعليم الأساسي (Computer, Grade 8, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 18:** *Мэдээллийн технологи IX (Information Technology IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2016); ISBN 978-99962-74-38-1. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+**Book 19:** *Мэдээллийн технологи VIII (Information Technology VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-29-9. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — functions are predefined formulas: =, function name, opening parenthesis, arguments separated by commas, closing parenthesis; named: sum, average, maximum, minimum | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed p. 55 |
@@ -47,6 +50,8 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan,
 | Unit 4 Lesson 1 Practical Application: Analysing Data from an Excel File | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 46 |
 | Unit 3.9 Use functions to make calculations | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 98 |
 | Unit 3 Ch 3.3, using formulas automatically; adding a cell comment | Libya Grade 8 Computer, printed p. 97 |
+| 2.3.2 Calculating with data entered in cells (formulas and operators; nested IF for grade levels; SUM, AVERAGE, COUNTIF, POWER, SQRT; Paste Special) | Mongolia Grade 9 IT IX, printed p. 46 |
+| 2.4.3 Calculation technology in the spreadsheet (formulas; SUM, MAX, MIN, AVERAGE over Mongolia's 2014 livestock counts by aimag; FREQUENCY; cell comments; text wrapping and alignment) | Mongolia Grade 8 IT VIII, printed p. 60 |
 
 **Book 3:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -66,7 +71,7 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan,
 | Unit 2 Ch.2 Lesson 5 AutoSum functions | Iraq, *Computer, Grade 11*, printed p. 67 |
 | Урок 19 "Применение математических формул и функций в MS Excel" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 44 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya).**
+**Acceptance count: taught in 12 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -97,4 +102,8 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Libya's own way (Grade 8, Computer student book): a three-unit arc — computer history/generations and number systems first, then a whole practical unit built around the scanner (scan, save, copy, delete, scan via Paint), then Microsoft Excel 2007 taught step by step with screenshots. The basic-education line is الحاسوب (Computer) in Grades 8–9.
 
-Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 10, grade 8, fiji, years 7-8, libya, grade 8 computer
+Mongolia's own way (Grade 9): Grade 9 turns outward to society and real tools — the information society taught through Mongolia's own shift, open-source software through Soyombo Linux (Mongolia's own Linux) and Mongolian OpenOffice, copyright through Mongolia's 2006 copyright law; algorithms are drawn as flowcharts and run in Turtle Art; the long spreadsheet unit grades pupils with nested IFs, builds Fibonacci sequences, grows a 500,000-tögrög bank deposit, and charts the depth and area of Mongolia's great lakes (Khuvsgul, Uvs, Khar-Us); e-services are the real Mongolian ones — the ТҮЦ service kiosk, bookstore.mn and internet banking.
+
+Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a folded leaflet on Ulaanbaatar's air pollution (Word templates, styles, WordArt, charts and SmartArt) that then becomes a PowerPoint presentation with its own master slide and hyperlink buttons, and a Paint.NET collage of the five-snout livestock (таван хошуу мал) in a steppe landscape. Models are taught on Mongolian material (the livestock, Rutherford's atom, a virus-growth formula); spreadsheets open with the chessboard-and-wheat legend and count Mongolia's real 2014 livestock by aimag; social networks are taught on Facebook and Twitter ("жиргээ") with Mongolian examples.
+
+Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 10, grade 8, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii

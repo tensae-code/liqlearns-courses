@@ -1,6 +1,6 @@
 # Sources — Using email — inbox, reading, composing, forwarding
 
-countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya
+countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhuta
 
 **Book 13:** *الحاسوب للصف التاسع من مرحلة التعليم الأساسي (Computer, Grade 9, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 137 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 14:** *Мэдээллийн технологи VII (Information Technology VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-24-4. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The inbox and the message pane | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 70–71 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhuta
 | 1.3 Communication: email (web-based vs client-based; header, message, signature; Outlook, Thunderbird, Apple Mail) | Fiji, *Computer Studies, Year 12*, printed p. 11 |
 | 4.3 Email Basics (inbox, send, reply) | Bhutan, *Literacy with ICT, Class VI*, printed p. 71 |
 | Unit 3 Ch 1, email: what it is and how messaging by email works | Libya Grade 9 Computer, printed p. 113 |
+| 2.4.3 E-mail and its use (opening a Yahoo mail account; composing with To/Cc/Bcc; reply and forward) | Mongolia Grade 7 IT VII, printed p. 65 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya).**
+**Acceptance count: taught in 10 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq, Egypt, Fiji, Bhutan, Libya, Mongolia).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -69,4 +72,6 @@ Bhutan's own way (Class VI, Literacy with ICT student book): School computing ru
 
 Libya's own way (Grade 9, Computer student book): the whole year is networks and the internet — a full networks unit (types, cables, topology, components), then Internet Explorer and Google search taught as named skills, then email and a closing tour of social sites (Facebook, YouTube, Twitter, Instagram, Yahoo) with practical activities.
 
-Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11, egypt, grade 7, fiji, year 12, bhutan, class vi, libya, grade 9 computer
+Mongolia's own way (Grade 7): the whole applications half is one long project — research and produce a printed booklet "Усаа хайрлая" (Cherish the Water) in Word, a Paint.NET layered picture, and a class PowerPoint; image work uses the free Paint.NET (downloaded from getpaint.net) rather than MS Paint; the e-communication chapter teaches Yahoo mail and Yahoo Messenger, Mongolian history of the örtöö relay post and the @ sign, and makes correct Latin transliteration of Mongolian Cyrillic (standard MNS 5217:2003) an ethics topic in its own right.
+
+Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11, egypt, grade 7, fiji, year 12, bhutan, class vi, libya, grade 9 computer, mongolia, grade 7 it vii

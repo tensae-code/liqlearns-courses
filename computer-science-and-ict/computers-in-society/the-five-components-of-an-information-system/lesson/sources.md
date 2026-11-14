@@ -1,6 +1,6 @@
 # Sources — The five components of an information system
 
-countries: Ethiopia, China, Fiji
+countries: Ethiopia, China, Fiji, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, China, Fiji
 
 **Book 5:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 6:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The five components | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 7–9 (student placement item 8) |
@@ -19,8 +21,9 @@ countries: Ethiopia, China, Fiji
 | Key Elements of an Information System | China, *IT Compulsory 2*, Chapter 2 §2.1.3, printed p. 37 |
 | Lesson 08 Components of an information system (people, data, processes, technologies, with Mauritanian examples) (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 14 (teacher guide — evidence) |
 | 1.1 Parts of an information system compared | Fiji, *Computer Education, Year 13*, printed p. 2 |
+| 3.1.3 Components of an information system (people — end users and IS specialists from systems analyst to network administrator; hardware; software; data resources — database, knowledge base, data warehouse; policy and procedures; worked through a school library) | Mongolia Grade 12 IT XII, printed p. 84 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, China, Fiji).**
+**Acceptance count: taught in 4 countries (Ethiopia, China, Fiji, Mongolia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them.
 
@@ -28,4 +31,6 @@ Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS 
 
 Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
 
-Searchable tags: five components, hardware software data people procedure, school information system, ratios, absenteeism, Ethiopia Grade 11 IT, china, mauritania, grade 7, fiji, year 13
+Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
+
+Searchable tags: five components, hardware software data people procedure, school information system, ratios, absenteeism, Ethiopia Grade 11 IT, china, mauritania, grade 7, fiji, year 13, mongolia, grade 12 it xii

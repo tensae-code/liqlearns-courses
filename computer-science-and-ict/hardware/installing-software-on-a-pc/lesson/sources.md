@@ -1,6 +1,6 @@
 # Sources — Installing software on a PC
 
-countries: Ethiopia, Mozambique, Egypt, Fiji
+countries: Ethiopia, Mozambique, Egypt, Fiji, Mongolia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN. PDF 210 pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Mozambique, Egypt, Fiji
 
 **Book 7:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 8:** *Мэдээллийн технологи VIII (Information Technology VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-29-9. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trusted sources first | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed pp. 137–138 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Mozambique, Egypt, Fiji
 | Lesson 4 Installation and removal of software and digital peripherals (from CD/DVD, downloaded file, compressed file) | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 27 |
 | Activity set 4 Installation and removal of software and digital peripherals | Egypt, *Activity and Exercises Book — Computer and ICT, Grade 7 Term 1 Workbook*, printed p. 13 |
 | 4.4 Installing Hardware and Software Components | Fiji, *Computer Education, Year 13*, printed p. 64 |
+| 1.2.3 Installing a program anew (installing a printer driver and programs from disc or download, step by step) | Mongolia Grade 8 IT VIII, printed p. 16 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Egypt, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Egypt, Fiji, Mongolia).**
 
 Teacher-guide material is labelled (teacher guide — evidence) where it appears and never counts as pupil-taught. The student book uses the number "Activity 5.2" twice in this unit (for the uninstalling activity and again for the software-troubleshooting activity); the lesson teaches the procedures themselves, not the activity numbers.
 
@@ -41,4 +44,6 @@ Egypt's own way (Grade 7, Term 1 workbook): A printed activity booklet is issued
 
 Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
 
-Searchable tags: installing software, seven steps, AutoPlay, User Account Control, serial number, trusted sources, Grade 12 ICT Ethiopia, mozambique, papua new guinea, grade 10, egypt, grade 7, fiji, year 13
+Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a folded leaflet on Ulaanbaatar's air pollution (Word templates, styles, WordArt, charts and SmartArt) that then becomes a PowerPoint presentation with its own master slide and hyperlink buttons, and a Paint.NET collage of the five-snout livestock (таван хошуу мал) in a steppe landscape. Models are taught on Mongolian material (the livestock, Rutherford's atom, a virus-growth formula); spreadsheets open with the chessboard-and-wheat legend and count Mongolia's real 2014 livestock by aimag; social networks are taught on Facebook and Twitter ("жиргээ") with Mongolian examples.
+
+Searchable tags: installing software, seven steps, AutoPlay, User Account Control, serial number, trusted sources, Grade 12 ICT Ethiopia, mozambique, papua new guinea, grade 10, egypt, grade 7, fiji, year 13, mongolia, grade 8 it viii

@@ -1,6 +1,6 @@
 # Sources — Storage devices — keeping data
 
-countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan
+countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,9 @@ countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan
 
 **Book 8:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 9:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+**Book 10:** *Мэдээллийн технологи VII (Information Technology VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-24-4. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Storage devices — keeping data | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 23 |
@@ -28,8 +31,10 @@ countries: Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan
 | Unidad 1.2 Distintos dispositivos de almacenamiento (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 11 (teacher guide — evidence) |
 | Unit 1.6 Types of storage media and their features (CD, USB, floppy) | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 20 |
 | 1.1 External storage devices: external hard disk and flash/thumb drive | Bhutan, *Literacy with ICT, Class V*, printed p. 4 |
+| 1.1.2 Storage devices (RAM, ROM, cache; capacity units; magnetic disk tracks/sectors and access time; HDD and SSD; optical discs; memory cards and flash) | Mongolia Grade 11 IT XI, printed p. 14 |
+| 1.2.3 Information storage devices (RAM, hard disk, CD/DVD/Blu-ray, flash disk, memory cards compared) | Mongolia Grade 7 IT VII, printed p. 21 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Tanzania, Saudi Arabia, Iraq, Fiji, Bhutan, Mongolia).**
 
 No book error touches this lesson's content.
 
@@ -45,4 +50,8 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
-Searchable tags: storage devices — keeping data, hardware, grade 7, information technology, ict, ethiopia, tanzania, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 8, cuba, grade 2, fiji, years 7-8, bhutan, class v
+Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
+
+Mongolia's own way (Grade 7): the whole applications half is one long project — research and produce a printed booklet "Усаа хайрлая" (Cherish the Water) in Word, a Paint.NET layered picture, and a class PowerPoint; image work uses the free Paint.NET (downloaded from getpaint.net) rather than MS Paint; the e-communication chapter teaches Yahoo mail and Yahoo Messenger, Mongolian history of the örtöö relay post and the @ sign, and makes correct Latin transliteration of Mongolian Cyrillic (standard MNS 5217:2003) an ethics topic in its own right.
+
+Searchable tags: storage devices — keeping data, hardware, grade 7, information technology, ict, ethiopia, tanzania, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 8, cuba, grade 2, fiji, years 7-8, bhutan, class v, mongolia, grade 11 it xi, grade 7 it vii

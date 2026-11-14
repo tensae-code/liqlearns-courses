@@ -1,6 +1,6 @@
 # Sources — The internet — a network of networks
 
-countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya
+countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -54,6 +54,8 @@ countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China,
 
 **Book 26:** *تقنية المعلومات — دليل المعلم، للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الثاني (Information Technology teacher guide, Grade 11, both sections, Term 2)* (teacher guide, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 39 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. (teacher guide — evidence)
 
+**Book 27:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The internet — a network of networks; private, public, government; sharing globally | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.47 |
@@ -72,6 +74,7 @@ countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China,
 | Unit 2 Ch 1, who runs or owns the Internet; means and requirements of connecting | Libya Grade 9 Computer, printed p. 69 |
 | Ch 1, introduction to website development: history of the Internet and the services it offers (WWW, email, chat rooms, newsgroups, file transfer) | Libya Grade 11 IT student Term 2, printed p. 9 |
 | Guide Ch 1, introduction to website development (outcomes, summary, lesson steps, answers) (teacher guide — evidence) | Libya Grade 11 IT teacher guide Term 2, printed p. 7 (teacher guide — evidence) |
+| 2.3.1 The Internet and why it is needed (networks, history, Internet use in Mongolia) | Mongolia Grade 6 IT VI, printed p. 47 |
 
 | Sub lesson 2 — Internet services — WWW, email, Telnet, FTP (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 64 |
 | Sub lesson 2 — a modem joins a computer to the internet (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4 text, printed p. 64, and glossary, printed pp. 104–107 (wording corrected — see the honesty note below) |
@@ -89,7 +92,7 @@ countries: Ethiopia, Djibouti, Turkmenistan, Cambodia, Mozambique, Nepal, China,
 | 5-3 Internet and Communication | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 50 |
 | Unit 3 Lesson 3 Internet Services | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 13 |
 
-**Acceptance count: taught in 17 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya).**
+**Acceptance count: taught in 18 countries (Ethiopia, Turkmenistan, Cambodia, Mozambique, Nepal, China, Afghanistan, Yemen, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan, Libya, Mongolia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -128,4 +131,6 @@ Libya's own way (Grade 11 Term 2, Information Technology student book): Term 2 i
 
 Libya's own way (Grade 11 Term 2, Information Technology teacher guide): each web chapter is taught as target outcomes + a chapter summary + scripted lesson steps (an introduction and set activities — e.g. pupils role-play the devices of a network) + answers to the chapter questions. The guide is printed for both the Science and Humanities sections. (teacher guide — evidence)
 
-Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan, yemen, grade 11, north macedonia, grade 10, iraq, grade 7, sudan, grade 7, uzbekistan, grade 9, cuba, grade 7, cuba, grade 12, egypt, grade 10, grade 5, fiji, year 12, bhutan, class iv, class vi, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2
+Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
+
+Searchable tags: internet, network of networks, computer network, global, Grade 7 ICT Ethiopia, djibouti, turkmenistan, cambodia, mozambique, nepal, china, afghanistan, yemen, grade 11, north macedonia, grade 10, iraq, grade 7, sudan, grade 7, uzbekistan, grade 9, cuba, grade 7, cuba, grade 12, egypt, grade 10, grade 5, fiji, year 12, bhutan, class iv, class vi, libya, grade 9 computer, grade 11 it student term 2, grade 11 it teacher guide term 2, mongolia, grade 6 it vi

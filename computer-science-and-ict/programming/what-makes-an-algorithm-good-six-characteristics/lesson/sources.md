@@ -1,6 +1,6 @@
 # Sources — What makes an algorithm good — six characteristics
 
-countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia
+countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -12,6 +12,9 @@ countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia
 
 **Book 5:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 6:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+**Book 7:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The six characteristics | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 207–209 |
@@ -20,8 +23,10 @@ countries: Ethiopia, China, Sudan, Uzbekistan, Malaysia
 | Unit 3 Lesson 1: Algorithms | Sudan, *ICT, Grade 9*, printed p. 33 |
 | Урок 32 "Основные свойства алгоритма" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 67 |
 | 1.1.2 Ciri-ciri Penyelesaian Masalah Berkesan (filed as programming/characteristics-of-an-effective-solution; stocked into this lesson as the closest existing lesson covering this thing) | Malaysia Grade 10 SK Tingkatan 4, printed p. 10 |
+| 3.1 The informatics problem and the qualities of an algorithm (discreteness, effectiveness, generality, determinacy, clarity) | Mongolia Grade 11 IT XI, printed p. 94 |
+| 4.2 Algorithms and the Small Basic language (a recap through a worked program: the sum of an arithmetic progression, with a step-by-step trace table) | Mongolia Grade 12 IT XII, printed p. 115 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, China, Sudan, Uzbekistan, Malaysia).**
+**Acceptance count: taught in 6 countries (Ethiopia, China, Sudan, Uzbekistan, Malaysia, Mongolia).**
 
 Book error taught corrected: the student book prints “fineness” for this characteristic (printed p. 210, in the worked-algorithms summary of the same list) — the word meant is **finiteness**, and the lesson teaches finiteness. The unit's outcomes header also spells the unit “FUNDAMENTALS OF PROGRAMING” with one M (a misprint); the lessons use the correct spelling, Fundamentals of Programming.
 
@@ -32,4 +37,8 @@ Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, A
 
 Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
 
-Searchable tags: algorithm characteristics, unambiguous, finiteness, feasible, language-independent, algorithm advantages disadvantages, Grade 10 ICT Ethiopia, china, sudan, grade 9, uzbekistan, grade 9, malaysia, grade 10 sk tingkatan 4
+Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
+
+Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
+
+Searchable tags: algorithm characteristics, unambiguous, finiteness, feasible, language-independent, algorithm advantages disadvantages, Grade 10 ICT Ethiopia, china, sudan, grade 9, uzbekistan, grade 9, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi, grade 12 it xii

@@ -1,6 +1,6 @@
 # Sources — Protocols — the rules devices share
 
-countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya
+countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya
 
 **Book 8:** *تقنية المعلومات للسنة الثانية بمرحلة التعليم الثانوي «للقسمين العلمي والأدبي» — الفصل الدراسي الثاني (Information Technology, Grade 11, for the Science and Humanities sections, Term 2)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 76 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. The printed cover says the book is for both the Science and Humanities sections, although the record labels it Humanities only — cited as printed.
 
+**Book 9:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Shared rules for talking machines | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 2, printed p. 43 |
@@ -30,8 +32,9 @@ countries: Ethiopia, Germany, Sudan, Egypt, Fiji, Libya
 | 8-3 Communication Protocol | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 101 |
 | 4.5 Fundamentals of Network Communication | Fiji, *Computer Education, Year 13*, printed p. 83 |
 | Ch 1, Internet architecture: the Internet, TCP, HTTP and FTP protocols | Libya Grade 11 IT student Term 2, printed p. 13 |
+| 2.2.2 Computer network software II: protocols (TCP/IP and how packets are routed, like letters through the post; HTTP, FTP, SMTP, POP3, NNTP) | Mongolia Grade 12 IT XII, printed p. 64 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Germany, Sudan, Egypt, Fiji, Libya).**
+**Acceptance count: taught in 7 countries (Ethiopia, Germany, Sudan, Egypt, Fiji, Libya, Mongolia).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -48,4 +51,6 @@ Fiji's own way (Year 13 Computer Education student book): The senior book is bui
 
 Libya's own way (Grade 11 Term 2, Information Technology student book): Term 2 is web authoring from first principles — internet architecture and protocols, then hand-written HTML (structure, text formatting, links, lists, tables), then publishing a site properly (domain, hosting, FTP) and three full website projects. The book is printed for BOTH the Science and Humanities sections, although the records label it Humanities only — cited as printed.
 
-Searchable tags: protocol, IP, Internet Protocol, rules, Safaricom Ethiopia, Grade 9 ICT Ethiopia, germany, papua new guinea, grade 9, sudan, grade 6, egypt, grade 10, fiji, year 13, libya, grade 11 it student term 2
+Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
+
+Searchable tags: protocol, IP, Internet Protocol, rules, Safaricom Ethiopia, Grade 9 ICT Ethiopia, germany, papua new guinea, grade 9, sudan, grade 6, egypt, grade 10, fiji, year 13, libya, grade 11 it student term 2, mongolia, grade 12 it xii

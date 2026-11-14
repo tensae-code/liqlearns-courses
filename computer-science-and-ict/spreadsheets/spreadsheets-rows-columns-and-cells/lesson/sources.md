@@ -1,6 +1,6 @@
 # Sources — Spreadsheets — data in rows, columns and cells
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -30,6 +30,9 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 
 **Book 14:** *الحاسوب للصف الثامن من مرحلة التعليم الأساسي (Computer, Grade 8, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 15:** *Мэдээллийн технологи IX (Information Technology IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2016); ISBN 978-99962-74-38-1. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+**Book 16:** *Мэдээллийн технологи VIII (Information Technology VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-29-9. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — a spreadsheet organises and calculates data in cells; a data file of rows and columns; sorting, manipulating and arranging data; formulas calculate values in the cells | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 52–53 |
@@ -53,8 +56,10 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cub
 | 2.2.2 Spreadsheet | Fiji, *Computer Education, Year 11*, printed p. 51 |
 | Unit 3 Ch 3.1, Microsoft Excel: running the program and its window/interface | Libya Grade 8 Computer, printed p. 65 |
 | Unit 3 Ch 3.2, the workbook: new, save, close, open an old workbook, setting up a worksheet | Libya Grade 8 Computer, printed p. 75 |
+| 2.3.1 Creating a table that holds given information (the spreadsheet window; data types: text, number, percent, currency, date) | Mongolia Grade 9 IT IX, printed p. 45 |
+| 2.4.1 Basic concepts of spreadsheet technology (the Excel window, cells and addresses, ranges; the chessboard wheat grains doubling across 64 cells) | Mongolia Grade 8 IT VIII, printed p. 55 |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya).**
+**Acceptance count: taught in 12 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Yemen, Iraq, Uzbekistan, Cuba, Egypt, Fiji, Libya, Mongolia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -81,4 +86,8 @@ Fiji's own way (Year 11 Computer Education student book): The first locally writ
 
 Libya's own way (Grade 8, Computer student book): a three-unit arc — computer history/generations and number systems first, then a whole practical unit built around the scanner (scan, save, copy, delete, scan via Paint), then Microsoft Excel 2007 taught step by step with screenshots. The basic-education line is الحاسوب (Computer) in Grades 8–9.
 
-Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer
+Mongolia's own way (Grade 9): Grade 9 turns outward to society and real tools — the information society taught through Mongolia's own shift, open-source software through Soyombo Linux (Mongolia's own Linux) and Mongolian OpenOffice, copyright through Mongolia's 2006 copyright law; algorithms are drawn as flowcharts and run in Turtle Art; the long spreadsheet unit grades pupils with nested IFs, builds Fibonacci sequences, grows a 500,000-tögrög bank deposit, and charts the depth and area of Mongolia's great lakes (Khuvsgul, Uvs, Khar-Us); e-services are the real Mongolian ones — the ТҮЦ service kiosk, bookstore.mn and internet banking.
+
+Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a folded leaflet on Ulaanbaatar's air pollution (Word templates, styles, WordArt, charts and SmartArt) that then becomes a PowerPoint presentation with its own master slide and hyperlink buttons, and a Paint.NET collage of the five-snout livestock (таван хошуу мал) in a steppe landscape. Models are taught on Mongolian material (the livestock, Rutherford's atom, a virus-growth formula); spreadsheets open with the chessboard-and-wheat legend and count Mongolia's real 2014 livestock by aimag; social networks are taught on Facebook and Twitter ("жиргээ") with Mongolian examples.
+
+Searchable tags: spreadsheet, rows, columns, cells, formulas, tables, data, Ethiopia Grade 8, eritrea, belarus, afghanistan, yemen, grade 11, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, libya, grade 8 computer, mongolia, grade 9 it ix, grade 8 it viii

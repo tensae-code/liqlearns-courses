@@ -1,6 +1,6 @@
 # Sources — Presentation software — slides that show your ideas
 
-countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan
+countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan
 
 **Book 12:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 13:** *Мэдээллийн технологи VII (Information Technology VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-24-4. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Presentation software — displays slides; MS PowerPoint, Google Slides, LibreOffice Impress named | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 121 |
@@ -41,8 +43,9 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan
 | Unit 4.2 Reasons for using presentation software | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 113 |
 | 2.2.4 Presentation Graphics | Fiji, *Computer Education, Year 11*, printed p. 53 |
 | 7.1 Introduction to Presentation and 7.2 Features of Presentation Software | Bhutan, *Literacy with ICT, Class VII*, printed p. 98 |
+| 2.3.1 Presentation structure and features (MS PowerPoint; a presentation as slides made of objects) | Mongolia Grade 7 IT VII, printed p. 50 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan, Mongolia).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -66,4 +69,6 @@ Fiji's own way (Year 11 Computer Education student book): The first locally writ
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
-Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, bhutan, class vii
+Mongolia's own way (Grade 7): the whole applications half is one long project — research and produce a printed booklet "Усаа хайрлая" (Cherish the Water) in Word, a Paint.NET layered picture, and a class PowerPoint; image work uses the free Paint.NET (downloaded from getpaint.net) rather than MS Paint; the e-communication chapter teaches Yahoo mail and Yahoo Messenger, Mongolian history of the örtöö relay post and the @ sign, and makes correct Latin transliteration of Mongolian Cyrillic (standard MNS 5217:2003) an ethics topic in its own right.
+
+Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, bhutan, class vii, mongolia, grade 7 it vii

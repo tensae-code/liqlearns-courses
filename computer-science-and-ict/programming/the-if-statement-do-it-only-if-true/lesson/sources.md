@@ -1,6 +1,6 @@
 # Sources — The if statement — do it only if it's true
 
-countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia
+countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malay
 
 **Book 13:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 14:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The gate — the indented block runs only when the test is true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 168–169 (student placement item 119) |
@@ -45,8 +47,9 @@ countries: Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malay
 | Unit 4 Lesson 2, the if statement | Egypt, *Computer and ICT, Grade 8 Term 2 (Arabic)*, printed p. 52 |
 | 3.2.1(ii) Struktur Kawalan Pilihan | Malaysia Grade 8 ASK Tingkatan 2, printed p. 127 |
 | 1.4.1 Struktur Kawalan Pilihan (Java) | Malaysia Grade 10 SK Tingkatan 4, printed p. 76 |
+| 3.4 Branching (If–Then–Else–ElseIf–EndIf, comparison and logical operators) | Mongolia Grade 11 IT XI, printed p. 111 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Finland, Palestine, Iraq, Sudan, Egypt, Malaysia, Mongolia).**
 
 No book error touches this lesson. Teacher-guide evidence (item 35, in part) is filed in Sub lesson 2: the keyed predictions — age 0 gives no output, age under 18 gives the child output (guide printed pp. 122–128). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -68,4 +71,6 @@ Malaysia's own way (Grade 8, ASK Tingkatan 2): data representation goes well bey
 
 Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
 
-Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8, sudan, grade 11, egypt, grade 8, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4
+Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
+
+Searchable tags: if statement, condition, colon, indented block, Grade 12 ICT Ethiopia, Unit 6 programming, turkmenistan, finland, mauritania, grade 9, palestine, iraq, grade 8, sudan, grade 11, egypt, grade 8, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi

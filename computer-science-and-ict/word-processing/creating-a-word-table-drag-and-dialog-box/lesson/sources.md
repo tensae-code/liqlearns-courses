@@ -1,6 +1,6 @@
 # Sources — Creating a Word table — drag and dialog box
 
-countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan
+countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan,
 
 **Book 13:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 14:** *Мэдээллийн технологи VII (Information Technology VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-24-4. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — what a table is; the drag route (5×2, saved as Table 1); blank lines between tables | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 82–83 |
@@ -46,8 +48,9 @@ countries: Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan,
 | Урок 12 "Работа с таблицами в документе" | Uzbekistan, *Informatika, Grade 6*, printed p. 46 |
 | Урок 31 "Работа с таблицами в документах" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 124 |
 | 2.2 Tables | Bhutan, *Literacy with ICT, Class VI*, printed p. 20 |
+| 2.1.5 Inserting a table into a document (rows, columns and cells; merging and splitting cells; borders and shading) | Mongolia Grade 7 IT VII, printed p. 30 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Eritrea, Cambodia, Uganda, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Bhutan, Mongolia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -66,4 +69,6 @@ Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, codi
 
 Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
 
-Searchable tags: Word table, Insert Table, drag grid, columns rows cells, AutoFit, Table 1, Table 2, Ethiopia Grade 10, eritrea, cambodia, uganda, afghanistan, yemen, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, bhutan, class vi
+Mongolia's own way (Grade 7): the whole applications half is one long project — research and produce a printed booklet "Усаа хайрлая" (Cherish the Water) in Word, a Paint.NET layered picture, and a class PowerPoint; image work uses the free Paint.NET (downloaded from getpaint.net) rather than MS Paint; the e-communication chapter teaches Yahoo mail and Yahoo Messenger, Mongolian history of the örtöö relay post and the @ sign, and makes correct Latin transliteration of Mongolian Cyrillic (standard MNS 5217:2003) an ethics topic in its own right.
+
+Searchable tags: Word table, Insert Table, drag grid, columns rows cells, AutoFit, Table 1, Table 2, Ethiopia Grade 10, eritrea, cambodia, uganda, afghanistan, yemen, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, bhutan, class vi, mongolia, grade 7 it vii

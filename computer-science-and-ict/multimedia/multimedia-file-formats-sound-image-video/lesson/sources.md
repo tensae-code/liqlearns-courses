@@ -1,6 +1,6 @@
 # Sources — Multimedia file formats — sound, image, video
 
-countries: Ethiopia, Nepal, Egypt, Libya
+countries: Ethiopia, Nepal, Egypt, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Nepal, Egypt, Libya
 
 **Book 5:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
 
+**Book 6:** *Мэдээллийн технологи VIII (Information Technology VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-29-9. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a file format is; The three shelves | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 148–149 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Nepal, Egypt, Libya
 | Unit 1, Lesson 1: Multimedia (kinds of media and their file formats; common video codecs and their uses; compressed and uncompressed audio files, sample rate and bit rate) (teacher guide — evidence) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 8 Term 3*, printed p. 11 (teacher guide — evidence) |
 | 6-7 Digitalization of Sound | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 69 |
 | Ch 4, types of multimedia file | Libya Grade 12 IT Humanities, printed p. 50 |
+| 2.2.3 The types of image (image file formats PSD, PDN, BMP, PDF, GIF, JPEG, PNG, TIFF, EPS and what each is for; raster and vector extensions) | Mongolia Grade 8 IT VIII, printed p. 43 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, Egypt, Libya).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Egypt, Libya, Mongolia).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed.
 
@@ -30,4 +33,6 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Libya's own way (Grade 12 Humanities, Information Technology student book): the Humanities final year pairs the social/legal side of ICT (data security, e-government, computer law and software licences) with a long multimedia-and-PowerPoint practical; the closing projects are Libyan — a deck about Libyan dishes and a deck about Libya's archaeological cities and landmarks.
 
-Searchable tags: file formats, WAV, MIDI, WMA, TIFF, JPEG, GIF, PNG, BMP, AVI, MPEG, Ethiopia Grade 10, nepal, saudi arabia, grade 8, egypt, grade 10, libya, grade 12 it humanities
+Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a folded leaflet on Ulaanbaatar's air pollution (Word templates, styles, WordArt, charts and SmartArt) that then becomes a PowerPoint presentation with its own master slide and hyperlink buttons, and a Paint.NET collage of the five-snout livestock (таван хошуу мал) in a steppe landscape. Models are taught on Mongolian material (the livestock, Rutherford's atom, a virus-growth formula); spreadsheets open with the chessboard-and-wheat legend and count Mongolia's real 2014 livestock by aimag; social networks are taught on Facebook and Twitter ("жиргээ") with Mongolian examples.
+
+Searchable tags: file formats, WAV, MIDI, WMA, TIFF, JPEG, GIF, PNG, BMP, AVI, MPEG, Ethiopia Grade 10, nepal, saudi arabia, grade 8, egypt, grade 10, libya, grade 12 it humanities, mongolia, grade 8 it viii

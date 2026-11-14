@@ -1,0 +1,8 @@
+# Video script — Why Organisations Build Information Systems
+
+The super-simple voice, for the video that rides on top of the lesson (lesson-plan.md, add-on list). Made later, when videos are made; the script is the slot's written form until then.
+
+---
+
+A system's need is first felt **inside**: the records outgrow the ledger, the queues outgrow the clerks, errors multiply where hands copy hands, and decisions wait on information that arrives too late to be one of the valuable kinds. The book's examples are the pupil's own world scaled: the **school** whose pupil records and timetables strain paper; the **bank** whose accounts multiply beyond any book; the **sales** firm whose stock and orders must be known at once, not at month's end. Internal need speaks in pain: the present way costs more — in time, error and blindness — than the system that would replace it.
+The second pressure blows from **outside**: **social drivers** — citizens and customers who now expect electronic service as the norm, as the e-services lessons showed; and **technological drivers** — new capabilities (networks, databases, the phone in every pocket) that make the previously impossible system merely overdue, while rivals and partner organisations adopt it and set the standard the organisation is judged by. The book's largest examples are the state's: **citizen registration** and **university-entrance-exam registration** — systems no single office chose, which the society's scale made compulsory. Mongolia's rule for reading any system follows: ask whose pain built it — inside, outside, or the honest usual answer, both at once.

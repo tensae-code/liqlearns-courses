@@ -1,6 +1,6 @@
 # Sources — Units of data storage — bit, byte, KB, MB, GB, TB
 
-countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia
+countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia
 
 **Book 8:** *Asas Sains Komputer Tingkatan 1* (student book, Bahasa Melayu) — Malaysia, Percetakan Rina Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-967-14509-0-1. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 9:** *Мэдээллийн технологи VII (Information Technology VII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-24-4. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Units of data storage — bit, byte, KB, MB, GB, TB | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 27 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia
 | 6-2 Binary and Amount of Information (bit, byte) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 55 |
 | 1.1 Bits, bytes and storage units (KB, MB, GB, TB) | Bhutan, *Literacy with ICT, Class VIII*, printed p. 2 |
 | 2.2.6 Penukaran Saiz Data dari Bit ke Bait, Kilobait, Megabait, Gigabait dan Terabait | Malaysia Grade 7 ASK Tingkatan 1, printed p. 60 |
+| 1.1.6 Units for measuring information (bit, byte, kilobyte, megabyte, gigabyte, terabyte; working out the size of a text) | Mongolia Grade 7 IT VII, printed p. 13 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan, Malaysia, Mongolia).**
 
 No book error touches this lesson's content.
 
@@ -44,4 +47,6 @@ Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary
 
 Malaysia's own way (Grade 7, ASK Tingkatan 1): the KSSM Asas Sains Komputer (ASK — Foundations of Computer Science) course is built on the four computational-thinking techniques (decomposition, pattern recognition, abstraction, generalisation) introduced through a local food example (making popia basah); programming is done in Scratch 2.0, then learners build a real interactive website in HTML in the same year; every chapter ends with a mind map, self-check list and self-practice.
 
-Searchable tags: units of data storage — bit, byte, kb, mb, gb, tb, hardware, grade 7, information technology, ict, ethiopia, uganda, uzbekistan, grade 8, cuba, grade 7, egypt, grade 10, bhutan, class viii, malaysia, grade 7 ask tingkatan 1
+Mongolia's own way (Grade 7): the whole applications half is one long project — research and produce a printed booklet "Усаа хайрлая" (Cherish the Water) in Word, a Paint.NET layered picture, and a class PowerPoint; image work uses the free Paint.NET (downloaded from getpaint.net) rather than MS Paint; the e-communication chapter teaches Yahoo mail and Yahoo Messenger, Mongolian history of the örtöö relay post and the @ sign, and makes correct Latin transliteration of Mongolian Cyrillic (standard MNS 5217:2003) an ethics topic in its own right.
+
+Searchable tags: units of data storage — bit, byte, kb, mb, gb, tb, hardware, grade 7, information technology, ict, ethiopia, uganda, uzbekistan, grade 8, cuba, grade 7, egypt, grade 10, bhutan, class viii, malaysia, grade 7 ask tingkatan 1, mongolia, grade 7 it vii

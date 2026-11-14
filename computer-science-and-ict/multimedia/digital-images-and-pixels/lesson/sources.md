@@ -1,6 +1,6 @@
 # Sources — Digital images — made of pixels
 
-countries: Ethiopia, Djibouti, Nepal, Uzbekistan, Egypt
+countries: Ethiopia, Djibouti, Nepal, Uzbekistan, Egypt, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages; printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Djibouti, Nepal, Uzbekistan, Egypt
 
 **Book 11:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 12:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Pixels — the smallest element of an image | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 §4.1, printed pp. 145–146 |
@@ -39,8 +41,9 @@ countries: Ethiopia, Djibouti, Nepal, Uzbekistan, Egypt
 | Unidad 3.7 Crear dibujos con brocha, línea, rectángulo, elipse y bote de pintura (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 17 (teacher programme — evidence) |
 | Unidad 3 Creación de dibujos: brocha, línea, rectángulo, elipse, bote de pintura (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 16 (teacher guide — evidence) |
 | 6-8 Digitization of Images | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 73 |
+| 3.2 Processing picture information (image formats; resolution and file-size calculations; an MS Publisher CD/DVD cover project) | Mongolia Grade 10 IT X, printed p. 83 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, Uzbekistan, Egypt).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Uzbekistan, Egypt, Mongolia).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and Ethiopian practicals kept. Procedures are taught exactly as the book teaches them — Photoshop first, with the GIMP alternative where the book notes it.
 
@@ -59,4 +62,6 @@ Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-un
 
 Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
 
-Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10
+Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
+
+Searchable tags: digital image, pixel, bits, binary, digitise, RGB, red green blue, logo, logotype, tagline, Ethiopia Grade 9, djibouti, nepal, mauritania, grade 8, saudi arabia, grade 8, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 5, cuba, grade 5, egypt, grade 10, mongolia, grade 10 it x

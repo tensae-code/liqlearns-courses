@@ -1,6 +1,6 @@
 # Sources — Aligning text — left, right, centre, justified
 
-countries: Ethiopia, Uganda
+countries: Ethiopia, Uganda, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Uganda
 
 **Book 6:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 2e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 40 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the same front matter and annual-plan structure as the Grade 1 guide (6 units × 5 séances; the 5th séance of each unit is evaluation and is not placed); the visual-programming/Scratch introduction at printed pp. 7–10 is identical to the Grade 1 guide and is not re-placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 7:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Text alignment — the four kinds, changed by cursor-in-paragraph plus one button: Left (Ctrl+L, even at left, jagged right, the commonest), Right (Ctrl+R, mirror), Centre (Ctrl+E, equal spaces, for titles and headings), Justified (both margins, spaces between words adjusted); practicals re-align the Grand Ethiopian Renaissance Dam document each way | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 85-86 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Uganda
 | Lesson 15 Text formatting / alignment (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 27 (teacher guide — evidence) |
 | Unit 2, Lesson 4: Formatting the paragraph — alignment (right, left, centre, justify; which alignment suits English text, a title, or a table) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 64 (teacher guide — evidence) |
 | U.D.4 Séance 4 Changer la couleur de police et aligner le texte (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 30 (teacher guide — evidence) |
+| 2.1.4 Aligning text information (paragraph alignment left/centre/right/justified) | Mongolia Grade 6 IT VI, printed p. 32 |
 
-**Acceptance count: taught in 1 country (Ethiopia).**
+**Acceptance count: taught in 2 countries (Ethiopia, Mongolia).**
 
 Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
 
@@ -31,4 +34,6 @@ Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills cou
 
 Morocco's own way (Grade 2): Grade 2 goes online before it goes deep on the machine — browser and search first, then saving what the web gives (page, image, video), then creating in Paint and WordPad, with removable-disk file handling taught as a whole unit of its own. (teacher guide — evidence)
 
-Searchable tags: alignment, left align, right align, centre, justified, Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J, Grade 9 ICT Ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 4, morocco, grade 2
+Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
+
+Searchable tags: alignment, left align, right align, centre, justified, Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J, Grade 9 ICT Ethiopia, uganda, mauritania, grade 7, saudi arabia, grade 4, morocco, grade 2, mongolia, grade 6 it vi

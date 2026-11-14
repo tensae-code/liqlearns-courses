@@ -1,6 +1,6 @@
 # Sources — An information system at work — HRIS
 
-countries: Ethiopia, China, Sudan, Fiji
+countries: Ethiopia, China, Sudan, Fiji, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, China, Sudan, Fiji
 
 **Book 4:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 5:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What an HRIS stores | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 9–11 (student placement item 9) |
@@ -17,8 +19,9 @@ countries: Ethiopia, China, Sudan, Fiji
 | Common Types and Functions of Information Systems | China, *IT Compulsory 2*, Chapter 2 §2.1.4, printed p. 41 |
 | Unit 2, 2-4: Worked example — a complete information system for a spare-parts factory (customer, sales, stock and back-order files, system diagrams, weekly and monthly processing) | Sudan, *Computer Science, Grade 11*, printed p. 13 |
 | 1.6 Other Information Systems | Fiji, *Computer Education, Year 13*, printed p. 12 |
+| 3.2 Applications of information systems (what an organisation gains; Mongolia's unified state registration system; the chapter's team study of the ebarimt VAT-receipt system, ebarimt.mn) | Mongolia Grade 12 IT XII, printed p. 94 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, China, Sudan, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, China, Sudan, Fiji, Mongolia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them.
 
@@ -26,4 +29,6 @@ Sudan's own way (Grade 11): a university-style secondary text (single named auth
 
 Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
 
-Searchable tags: HRIS, human resource information system, recruitment, time and attendance, performance management, strategic assets, Ethiopia Grade 11 IT, china, sudan, grade 11, fiji, year 13
+Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
+
+Searchable tags: HRIS, human resource information system, recruitment, time and attendance, performance management, strategic assets, Ethiopia Grade 11 IT, china, sudan, grade 11, fiji, year 13, mongolia, grade 12 it xii

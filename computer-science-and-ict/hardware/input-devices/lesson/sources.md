@@ -1,6 +1,6 @@
 # Sources — Input devices — putting data in
 
-countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan
+countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan
 
 **Book 9:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 10:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Input devices — putting data in | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 16 |
@@ -31,8 +33,9 @@ countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan
 | U.D.1 Séance 2 Les périphériques d'entrée et de sortie (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 13 (teacher guide — evidence) |
 | 1.2.1 Input Devices (keyboard, mouse, scanners, readers, light pen, stylus, cameras, microphones) | Fiji, *Computer Education, Year 11*, printed p. 9 |
 | 1.1 Peripheral input devices: scanner, webcam, microphone | Bhutan, *Literacy with ICT, Class V*, printed p. 2 |
+| 1.1.3 Input and output devices (output side: hardware/output-devices) (keyboard and mouse types, scanner and OCR, barcode/QR/OMR and magnetic-card readers, microphone and speech recognition, monitors CRT/LCD/LED/OLED, printers, projectors, speakers) | Mongolia Grade 11 IT XI, printed p. 23 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Tanzania, Yemen, North Macedonia, Iraq, Fiji, Bhutan, Mongolia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -50,4 +53,6 @@ Fiji's own way (Year 11 Computer Education student book): The first locally writ
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
-Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v
+Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
+
+Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v, mongolia, grade 11 it xi

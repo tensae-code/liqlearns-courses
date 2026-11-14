@@ -1,6 +1,6 @@
 # Sources — Formatting — bold, italic, underline, font and colour
 
-countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan
+countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -42,6 +42,8 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, 
 
 **Book 20:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 21:** *Мэдээллийн технологи VI (Information Technology VI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture and Science of Mongolia (Боловсрол, соёл, шинжлэх ухааны яам), Ulaanbaatar; year 2015; ISBN 978-99962-74-19-0. 59 PDF pages (printed book 56 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — bold (darker and heavier, designed heavier), italic (slopes evenly to the right), underline (a line under the words) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 50–51 |
@@ -70,8 +72,9 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, 
 | Unidad 3.5 Menú Archivo, barra estándar, edición y formato (fuente, negrita, cursiva, subrayado, alineación) (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 21 (teacher guide — evidence) |
 | Unit 2.3 Use the formatting toolbar | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 57 |
 | 2.5 Formatting in MS Word | Bhutan, *Literacy with ICT, Class V*, printed p. 17 |
+| 2.1.3 Formatting text information (selecting text; font, size, style, colour; cut/copy/paste) | Mongolia Grade 6 IT VI, printed p. 30 |
 
-**Acceptance count: taught in 13 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan).**
+**Acceptance count: taught in 14 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Fiji, Bhutan, Mongolia).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -102,4 +105,6 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
-Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, grade 4, iraq, grade 8, morocco, grade 2, sudan, grade 5, uzbekistan, grade 6, cuba, grade 2, fiji, years 7-8, bhutan, class v
+Mongolia's own way (Grade 6): ICT is built on Mongolian examples throughout — information and objects taught through the Mazaalai (Gobi bear), the ger (with a paper origami model), Mongolian pattern (khee) motifs and the national flag; touch typing is taught on the Mongolian Cyrillic keyboard layout with local tutor programs (MonTT, Fast type); web work uses Mongolian sites (surguuli.edu.mn, kids.gogo.mn, tsag-agaar.mn).
+
+Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, grade 4, iraq, grade 8, morocco, grade 2, sudan, grade 5, uzbekistan, grade 6, cuba, grade 2, fiji, years 7-8, bhutan, class v, mongolia, grade 6 it vi

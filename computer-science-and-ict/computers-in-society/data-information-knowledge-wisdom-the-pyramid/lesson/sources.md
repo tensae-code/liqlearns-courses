@@ -1,6 +1,6 @@
 # Sources — Data, information, knowledge, wisdom — the pyramid
 
-countries: Ethiopia, Egypt, Fiji
+countries: Ethiopia, Egypt, Fiji, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE. 170 PDF pages, 162 printed pp. Printed page = PDF page \u2212 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Egypt, Fiji
 
 **Book 4:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 5:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The pyramid — four layers, rising value | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 1, printed pp. 5–6 (student placement item 6) |
 | Sub lesson 2 — Five-row comparison table (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 11*, printed p. 4 (teacher placement item 3) |
 | 1-1 Information and Media (data, information, knowledge) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 4 |
 | 3.1 Data, information and the processing chain | Fiji, *Computer Education, Year 11*, printed p. 61 |
+| 2.1.1 Data, information, knowledge (the DIK pyramid) | Mongolia Grade 10 IT X, printed p. 46 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Egypt, Fiji).**
+**Acceptance count: taught in 4 countries (Ethiopia, Egypt, Fiji, Mongolia).**
 
 Book errors touching Unit 1, taught corrected and named here: the student book's figure numbering jumps from Figure 1.10 (e-banking) to Figure 1.13 (e-learning) — Figures 1.11 and 1.12 never appear; printed p. 19 prints \u201cFigureure 1.17\u201d for Figure 1.17; and \u201cstatment\u201d is misspelled in review headings throughout the book. The lessons teach from the pictured content and the correct spellings, and name the errors here rather than copying them.
 
@@ -25,4 +28,6 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
 
-Searchable tags: DIKW pyramid, data information knowledge wisdom, comparison table, value rising, Ethiopia Grade 11 IT, egypt, grade 10, fiji, year 11
+Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
+
+Searchable tags: DIKW pyramid, data information knowledge wisdom, comparison table, value rising, Ethiopia Grade 11 IT, egypt, grade 10, fiji, year 11, mongolia, grade 10 it x

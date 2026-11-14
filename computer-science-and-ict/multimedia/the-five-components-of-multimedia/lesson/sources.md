@@ -1,6 +1,6 @@
 # Sources — The five components of multimedia
 
-countries: Ethiopia, Nepal, Bhutan, Libya
+countries: Ethiopia, Nepal, Bhutan, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Nepal, Bhutan, Libya
 
 **Book 4:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
 
+**Book 5:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Text and graphics; Audio and video; Animation | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 144–146 |
 | Unit 3 §3.1, Text (multimedia elements open the unit) | Nepal, *Computer Science, Class 10*, printed p. 83 |
 | 6.1 Multimedia elements | Bhutan, *Literacy with ICT, Class VII*, printed p. 80 |
 | Ch 4, the elements of multimedia: text, still pictures and graphics, moving pictures, sound, video | Libya Grade 12 IT Humanities, printed p. 47 |
+| 3.1 Elements of multimedia technology (text, picture, animation and its history — thaumatrope to Toy Story — sound, video) | Mongolia Grade 10 IT X, printed p. 78 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Nepal, Bhutan, Libya).**
+**Acceptance count: taught in 5 countries (Ethiopia, Nepal, Bhutan, Libya, Mongolia).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own step orders, examples and practicals kept exactly as printed.
 
@@ -25,4 +28,6 @@ Bhutan's own way (Class VII, Literacy with ICT student book): Social media is ta
 
 Libya's own way (Grade 12 Humanities, Information Technology student book): the Humanities final year pairs the social/legal side of ICT (data security, e-government, computer law and software licences) with a long multimedia-and-PowerPoint practical; the closing projects are Libyan — a deck about Libyan dishes and a deck about Libya's archaeological cities and landmarks.
 
-Searchable tags: multimedia components, text, graphics, hypermedia, audio, MIDI, video, animation, Ethiopia Grade 10, nepal, bhutan, class vii, libya, grade 12 it humanities
+Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
+
+Searchable tags: multimedia components, text, graphics, hypermedia, audio, MIDI, video, animation, Ethiopia Grade 10, nepal, bhutan, class vii, libya, grade 12 it humanities, mongolia, grade 10 it x

@@ -1,6 +1,6 @@
 # Sources — System or application? Telling software apart
 
-countries: Ethiopia, Afghanistan, Fiji, Bhutan
+countries: Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan
 
 **Book 5:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 6:** *Мэдээллийн технологи VIII (Information Technology VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-29-9. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The comparison — purpose, running time, interaction; Windows vs Word | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.34 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Afghanistan, Fiji, Bhutan
 | Lesson 6 "Classification of software" | Afghanistan, *Computer, Grade 11*, printed p. 26 |
 | Unit 1.5 System software vs application software | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 11 |
 | 1.1 Types of Software | Bhutan, *Literacy with ICT, Class VII*, printed p. 2 |
+| 1.2.1 The classification of software (system and application software; how the operating system works; drivers) | Mongolia Grade 8 IT VIII, printed p. 13 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Fiji, Bhutan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Fiji, Bhutan, Mongolia).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -30,4 +33,6 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
 
-Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class vii
+Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a folded leaflet on Ulaanbaatar's air pollution (Word templates, styles, WordArt, charts and SmartArt) that then becomes a PowerPoint presentation with its own master slide and hyperlink buttons, and a Paint.NET collage of the five-snout livestock (таван хошуу мал) in a steppe landscape. Models are taught on Mongolian material (the livestock, Rutherford's atom, a virus-growth formula); spreadsheets open with the chessboard-and-wheat legend and count Mongolia's real 2014 livestock by aimag; social networks are taught on Facebook and Twitter ("жиргээ") with Mongolian examples.
+
+Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class vii, mongolia, grade 8 it viii

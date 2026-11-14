@@ -1,6 +1,6 @@
 # Sources — Top-down — modules and modularisation
 
-countries: Ethiopia, North Macedonia, Sudan, Libya
+countries: Ethiopia, North Macedonia, Sudan, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, North Macedonia, Sudan, Libya
 
 **Book 5:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم العلمي (Information Technology, third year of secondary = Grade 12, Science section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 124 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages plus body spot-checks; printed p. = PDF p.
 
+**Book 6:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Top-down approach and modularisation defined | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 236-237 |
@@ -20,8 +22,9 @@ countries: Ethiopia, North Macedonia, Sudan, Libya
 | Unit 3, Lesson 2: Modular programming (what it is and why it matters; the modules are called functions in other languages) (teacher guide — evidence) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 8 Term 3*, printed p. 72 (teacher guide — evidence) |
 | Unit 4, 4-14: Subroutines (procedures) in BASIC — GOSUB and RETURN | Sudan, *Computer Science, Grade 11*, printed p. 61 |
 | Ch 6, sub-programs and functions: subroutines | Libya Grade 12 IT Science, printed p. 91 |
+| 4.3 Subprograms (Sub…EndSub; passing values in and out through variables, and the side-effect trap; a prime-number subprogram; a digit-counting subprogram; drawing the alkhan khee meander k times with a Turtle subprogram) | Mongolia Grade 12 IT XII, printed p. 118 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, North Macedonia, Sudan, Libya).**
+**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Sudan, Libya, Mongolia).**
 
 Book error, taught corrected: the student book's later exercises cross-refer to practical-exercise numbers that do not match the numbers printed on those exercises (the single-wage and ten-labourer flowcharts); each flowchart is taught here under its own printed exercise, and the mismatched cross-references are flagged rather than followed. The teacher guide's Practical Exercise 6.5 answer 1 likewise calls itself an extension of its own question — a self-reference; the exercise it extends is the earlier single-labourer wage exercise.
 
@@ -33,4 +36,6 @@ Sudan's own way (Grade 11): a university-style secondary text (single named auth
 
 Libya's own way (Grade 12 Science, Information Technology student book): the Science section shares the Humanities book's first three chapters (security, e-government, computer law) word-for-structure, then diverges into a full second Visual Basic course — the VB environment and form controls, arrays, subroutines and built-in functions, and the remaining toolbox controls. Visual Basic is the Grade 12 programming language in both sections.
 
-Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11, saudi arabia, grade 8, sudan, grade 11, libya, grade 12 it science
+Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
+
+Searchable tags: top-down, modules, modularisation, subroutine, CalculateWage, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 11, saudi arabia, grade 8, sudan, grade 11, libya, grade 12 it science, mongolia, grade 12 it xii

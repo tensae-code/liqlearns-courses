@@ -1,6 +1,6 @@
 # Sources — Sequence, selection, repetition
 
-countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia
+countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -28,6 +28,8 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sud
 
 **Book 13:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 14:** *Мэдээллийн технологи VIII (Information Technology VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-29-9. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The three kinds of flow, with the umbrella, promotion and 100-numbers examples | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 226–227 |
@@ -44,8 +46,9 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sud
 | Ch 2, the decision operation for branching in a flowchart | Libya Grade 11 IT student Term 1, printed p. 17 |
 | 3.2.1(i) Struktur Kawalan Jujukan | Malaysia Grade 8 ASK Tingkatan 2, printed p. 122 |
 | 1.2.2 Struktur Kawalan dalam Pengaturcaraan | Malaysia Grade 10 SK Tingkatan 4, printed p. 27 |
+| 1.3.1 The linear sequence of actions (algorithms in words and as Turtle Art blocks; an algorithm for the area of a fenced plot) | Mongolia Grade 8 IT VIII, printed p. 21 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia).**
+**Acceptance count: taught in 10 countries (Ethiopia, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba, Libya, Malaysia, Mongolia).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -68,4 +71,6 @@ Malaysia's own way (Grade 8, ASK Tingkatan 2): data representation goes well bey
 
 Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
 
-Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine, sudan, grade 11, uzbekistan, grade 9, cuba, grade 9, cuba, grade 11, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4
+Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a folded leaflet on Ulaanbaatar's air pollution (Word templates, styles, WordArt, charts and SmartArt) that then becomes a PowerPoint presentation with its own master slide and hyperlink buttons, and a Paint.NET collage of the five-snout livestock (таван хошуу мал) in a steppe landscape. Models are taught on Mongolian material (the livestock, Rutherford's atom, a virus-growth formula); spreadsheets open with the chessboard-and-wheat legend and count Mongolia's real 2014 livestock by aimag; social networks are taught on Facebook and Twitter ("жиргээ") with Mongolian examples.
+
+Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine, sudan, grade 11, uzbekistan, grade 9, cuba, grade 9, cuba, grade 11, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 8 it viii

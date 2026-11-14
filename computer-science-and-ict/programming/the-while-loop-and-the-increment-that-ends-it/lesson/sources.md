@@ -1,6 +1,6 @@
 # Sources — The while loop — and the increment that ends it
 
-countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia
+countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia
 
 **Book 8:** *Sains Komputer Tingkatan 4* (student book, Bahasa Melayu) — Malaysia, Oxford Fajar Sdn. Bhd. for Kementerian Pendidikan Malaysia; year 2016; ISBN 978-983-47-2013-1. 355 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/malaysia-placements.md.
 
+**Book 9:** *Мэдээллийн технологи XI (Information Technology XI)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia (Боловсрол, Соёл, Шинжлэх Ухаан, Спортын Яам), Ulaanbaatar; year 2019 (2nd edition); ISBN 978-99978-61-84-9. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, in place from phase3-staging (the record size_bytes 85,065,156 does not match the file on disk, 76,263,379 bytes — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The while shape — test first, every time | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 184–185 (student placement item 128) |
@@ -30,8 +32,9 @@ countries: Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia
 | Ch 7, the DO..WHILE repetition statement | Libya Grade 11 IT student Term 1, printed p. 103 |
 | 3.2.1(iv) Struktur Kawalan Ulangan | Malaysia Grade 8 ASK Tingkatan 2, printed p. 143 |
 | 1.4.4 Struktur Kawalan Ulangan (Java) | Malaysia Grade 10 SK Tingkatan 4, printed p. 102 |
+| 3.5.2 The conditional loop (While–EndWhile; digit-sum problems with Math.Remainder and Math.Floor) | Mongolia Grade 11 IT XI, printed p. 121 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia).**
+**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Uzbekistan, Fiji, Libya, Malaysia, Mongolia).**
 
 No book error touches this lesson. Teacher-guide evidence (item 36, in part) is filed in Sub lesson 2: the keyed point that the while-loop activity and the for-loop activity solve the same problem with the same output — two roads to one output (guide printed pp. 134–139). All code in this lesson was run in Python 3 and its output matches the lesson text. The teacher guide's answer keys were used as the verified answer source for this lesson's questions (guide item 40).
 
@@ -48,4 +51,6 @@ Malaysia's own way (Grade 8, ASK Tingkatan 2): data representation goes well bey
 
 Malaysia's own way (Grade 10, SK Tingkatan 4): the upper-secondary Sains Komputer (SK — Computer Science) elective switches language to Java (NetBeans) and is organised as three big project-style chapters — Programming, Relational Databases (Access, ERD, normalisation to 3NF, macros/switchboard, a full SDLC database project), and Human-Computer Interaction with screen-design prototyping and quantitative evaluation (prototypes built in Java NetBeans).
 
-Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4
+Mongolia's own way (Grade 11): a deep, engineering-style systems book (CPU registers, disk access-time calculations) that turns practical fast — pupils price up a computer from Mongolian web shops (pc-mall.mn, bsb.mn, itzone.mn); the web chapter builds a real "Our School" site and an "Animals of the Mongolian Red Book" page; programming is Microsoft Small Basic, and its loops-and-graphics work draws Mongolian ornament — the alkhan khee meander, the khaan buguivch knot and the ulzii endless knot — with code; the book closes by comparing every Small Basic construct with Python and C side by side.
+
+Searchable tags: while loop, increment, condition, infinite loop, Grade 12 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, uzbekistan, grade 9, fiji, year 13, libya, grade 11 it student term 1, malaysia, grade 8 ask tingkatan 2, malaysia, grade 10 sk tingkatan 4, mongolia, grade 11 it xi

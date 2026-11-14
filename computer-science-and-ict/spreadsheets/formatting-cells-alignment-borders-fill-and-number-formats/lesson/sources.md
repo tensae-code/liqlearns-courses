@@ -1,6 +1,6 @@
 # Sources — Formatting cells — alignment, borders, fill and number formats
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya
 
 **Book 9:** *الحاسوب للصف الثامن من مرحلة التعليم الأساسي (Computer, Grade 8, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 10:** *Мэдээллийн технологи VIII (Information Technology VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-29-9. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — alignment: three horizontal and three vertical, on the Home tab; text bottom-left, numbers bottom-right by nature; Borders dropdown and Draw Borders tools; Fill Color paints the background | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 119–121 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya
 | Unit 2 Ch.2 Lesson 1 Formatting data and its types (number formats) | Iraq, *Computer, Grade 11*, printed p. 43 |
 | Unit 3.10 Format numbers | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 101 |
 | Unit 3 Ch 3.4, merging cells, adding colours, number formats, cell borders, changing cell width and height | Libya Grade 8 Computer, printed p. 112 |
+| 2.4.2 Formatting the spreadsheet and its data (borders, merging cells; relative and fixed $ addresses; a body-mass-index table for the family) | Mongolia Grade 8 IT VIII, printed p. 59 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya).**
+**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Iraq, Fiji, Libya, Mongolia).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -48,4 +51,6 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Libya's own way (Grade 8, Computer student book): a three-unit arc — computer history/generations and number systems first, then a whole practical unit built around the scanner (scan, save, copy, delete, scan via Paint), then Microsoft Excel 2007 taught step by step with screenshots. The basic-education line is الحاسوب (Computer) in Grades 8–9.
 
-Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea, belarus, afghanistan, mauritania, grade 8, iraq, grade 11, fiji, years 7-8, libya, grade 8 computer
+Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a folded leaflet on Ulaanbaatar's air pollution (Word templates, styles, WordArt, charts and SmartArt) that then becomes a PowerPoint presentation with its own master slide and hyperlink buttons, and a Paint.NET collage of the five-snout livestock (таван хошуу мал) in a steppe landscape. Models are taught on Mongolian material (the livestock, Rutherford's atom, a virus-growth formula); spreadsheets open with the chessboard-and-wheat legend and count Mongolia's real 2014 livestock by aimag; social networks are taught on Facebook and Twitter ("жиргээ") with Mongolian examples.
+
+Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea, belarus, afghanistan, mauritania, grade 8, iraq, grade 11, fiji, years 7-8, libya, grade 8 computer, mongolia, grade 8 it viii
