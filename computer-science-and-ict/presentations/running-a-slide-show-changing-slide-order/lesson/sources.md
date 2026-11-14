@@ -1,6 +1,6 @@
 # Sources — Running a slide show; changing slide order
 
-countries: Ethiopia, Afghanistan, Yemen, Iraq, Cuba
+countries: Ethiopia, Afghanistan, Yemen, Iraq, Cuba, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Cuba
 
 **Book 7:** *Informática, octavo grado* (student book, Spanish; title as printed: Informática, octavo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4766-4 (print) / 978-959-13-4767-1 (digital). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 8:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Slide Show tab — from beginning, from current slide; Set Up Slide Show; rehearsing timings | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 133–134 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Cuba
 | Lesson 07 Moving and reordering slides (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 35 (teacher guide — evidence) |
 | Unit 2 Ch.1 Lesson 4 The Slide Show tab | Iraq, *Computer, Grade 10*, printed p. 52 |
 | Capítulo 1.5 Almacenamiento y distribución de presentaciones | Cuba, *Informática, Grade 8*, printed p. 51 |
+| 7.5 Running a Presentation and 7.6 Organizing Slides | Bhutan, *Literacy with ICT, Class VII*, printed p. 105 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Yemen, Iraq, Cuba).**
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Yemen, Iraq, Cuba, Bhutan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -40,4 +43,6 @@ Iraq's own way (Grade 10): the preparatory stage turns practical and examinable 
 
 Cuba's own way (Grade 8): Taught entirely in free software — LibreOffice Impress for presentations and LibreOffice Calc for spreadsheets; web work means designing and editing HTML pages with a plain text editor, and Scratch continues with arithmetic and logic operator blocks.
 
-Searchable tags: Slide Show tab, Set Up Slide Show, rehearse timings, reordering slides, Slide Sorter drag, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, cuba, grade 8
+Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
+
+Searchable tags: Slide Show tab, Set Up Slide Show, rehearse timings, reordering slides, Slide Sorter drag, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, cuba, grade 8, bhutan, class vii

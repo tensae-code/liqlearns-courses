@@ -1,6 +1,6 @@
 # Sources — Opening a word processor
 
-countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq
+countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq
 
 **Book 12:** *Programa — Mi Mundo Digital III, quinto grado* (teacher programme, Spanish; title as printed: Programa — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4592-9 (print) / 978-959-13-4596-7 (digital). 27 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher programme — evidence)
 
+**Book 13:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Opening Word, route 1 — Start → All Programs → Microsoft Office → Word 2016 | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.36–37 |
@@ -34,8 +36,9 @@ countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq
 | Unit 2 Ch.1 Lesson 1 How to open Microsoft Word | Iraq, *Computer, Grade 8*, printed p. 32 |
 | Unidad 3.2 Localización y ejecución del procesador de texto (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 20 (teacher guide — evidence) |
 | Unidad 2.2 Localización y ejecución del procesador de texto (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 13 (teacher programme — evidence) |
+| 2.2 Introduction to MS Word | Bhutan, *Literacy with ICT, Class V*, printed p. 14 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Afghanistan, Yemen, Iraq).**
+**Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Afghanistan, Yemen, Iraq, Bhutan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -60,4 +63,6 @@ Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficad
 
 Cuba's own way (Grade 5): The Grade 5 programme is built around extracting information from Cuban educational software, encyclopedias and EcuRed into word-processor documents, then Scratch — drawing/animation first (Unit 3), control/movement/appearance blocks in Unit 4. (teacher programme — evidence)
 
-Searchable tags: opening Word, Word 2016 or later, Start tile, Blank document, Start search, Grade 9 ICT Ethiopia, Microsoft Word 2016, Start menu, All Programs, Microsoft Office, search, desktop shortcut, creating a document, default name, DOCUMENT1, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, eritrea, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 4, iraq, grade 8, cuba, grade 2, cuba, grade 5
+Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
+
+Searchable tags: opening Word, Word 2016 or later, Start tile, Blank document, Start search, Grade 9 ICT Ethiopia, Microsoft Word 2016, Start menu, All Programs, Microsoft Office, search, desktop shortcut, creating a document, default name, DOCUMENT1, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, eritrea, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 4, iraq, grade 8, cuba, grade 2, cuba, grade 5, bhutan, class v

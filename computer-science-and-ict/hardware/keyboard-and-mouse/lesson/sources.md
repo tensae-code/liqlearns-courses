@@ -1,6 +1,6 @@
 # Sources — Keyboard and mouse
 
-countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji
+countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji
 
 **Book 9:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 10:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The keyboard | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 17 |
@@ -32,8 +34,9 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji
 | Unidad 1.4 Interacción con ratón, teclado y pantalla táctil (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 11 (teacher programme — evidence) |
 | Unidad 1 Interactuar con ratón, teclado y pantalla táctil (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 12 (teacher guide — evidence) |
 | Unit 1.7 Mouse techniques | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 24 |
+| 1.3 Keyboard and Mouse (incl. wireless) | Bhutan, *Literacy with ICT, Class IV*, printed p. 5 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan).**
 
 No book error touches this lesson's content.
 
@@ -49,4 +52,6 @@ Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-un
 
 Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
 
-Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8
+Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
+
+Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv

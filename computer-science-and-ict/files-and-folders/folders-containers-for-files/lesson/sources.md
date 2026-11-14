@@ -1,6 +1,6 @@
 # Sources — Folders — containers for files
 
-countries: Ethiopia, Djibouti, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba
+countries: Ethiopia, Djibouti, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Djibouti, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba
 
 **Book 12:** *Informática, séptimo grado* (student book, Spanish; title as printed: Informática, séptimo grado) — Cuba, Editorial Pueblo y Educación. 2023. ISBN 978-959-13-3796-2 (print) / 978-959-13-4108-2 (digital). 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 13:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Folders and subfolders; file vs folder | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.1, printed pp. 2–3 |
@@ -40,8 +42,9 @@ countries: Ethiopia, Djibouti, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba
 | Unidad 3.8 Organización de la información: archivos y carpetas (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 21 (teacher guide — evidence) |
 | Capítulo 1.5 Operaciones con archivos y carpetas | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 27 |
 | Capítulo 2.2 Archivos y carpetas | Cuba, *Informática, Grade 7*, printed p. 86 |
+| 1.2 File Management (organising files in folders) | Bhutan, *Literacy with ICT, Class VI*, printed p. 8 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba).**
+**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -62,4 +65,6 @@ Cuba's own way (Grade 5): Student text mirrors the programme in four chapters; w
 
 Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietary Windows with Cuba's free operating system Nova; programming continues the primary Scratch line, here centred on the Scratch pen tool for drawing geometric figures and the linear function; word-processor work ends by exporting documents to HTML for the web.
 
-Searchable tags: folder, directory, subfolder, container, manila dossier, file vs folder, edir, ekub, files and folders, grade 9, information technology, ict, ethiopia, djibouti, eritrea, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 7
+Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
+
+Searchable tags: folder, directory, subfolder, container, manila dossier, file vs folder, edir, ekub, files and folders, grade 9, information technology, ict, ethiopia, djibouti, eritrea, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 7, bhutan, class vi

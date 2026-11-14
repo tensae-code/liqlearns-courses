@@ -1,6 +1,6 @@
 # Sources — Project: a Scratch game and an Ethiopian story
 
-countries: Ethiopia, Finland, Palestine, Sudan, Cuba
+countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Finland, Palestine, Sudan, Cuba
 
 **Book 10:** *Mi Mundo Digital III, sexto grado* (student book, Spanish; title as printed: Mi Mundo Digital III, sexto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5176-0 (print) / 978-959-13-5190-6 (digital). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 11:** *Literacy with ICT — A Textbook for Class 8* (title page: Class VIII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-443-3. 132 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The game project — models named; actors, actions, stages | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 238-239 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Finland, Palestine, Sudan, Cuba
 | Unit 3 Lesson 30: The target game (a hunting game: the rifle drawn in the painter from four rectangles, a bullet sprite, a parrot target gliding to random positions, a start-arrow sprite that broadcasts "begin"; a hit adds a point, a shot past the bird takes one away; five hits move to a faster level) | Palestine, *Programming, Grade 9*, printed p. 95 |
 | Unit 4 Lesson 6: Designing a project in Scratch | Sudan, *ICT, Grade 9*, printed p. 85 |
 | Capítulo 3.4 Trabajos integradores en Scratch | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 70 |
+| 8 End of the Year Activity, Task 2: Scratch game with variables, events, functions, logical operators, score and tries/time limit | Bhutan, *Literacy with ICT, Class VIII*, printed p. 106 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Finland, Palestine, Sudan, Cuba).**
+**Acceptance count: taught in 6 countries (Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -53,4 +56,6 @@ Sudan's own way (Grade 9): the whole Grade 9 book is programming — concepts an
 
 Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year — digital presentations, Scratch animation with event/control blocks, and spreadsheets with formulas and charts — closing with a TIC chapter on searching and processing digital information; computer generations are taught inside Chapter 1.
 
-Searchable tags: Scratch project, game design, Catch, storytelling, Ethiopia, broadcast, Grade 9 ICT Ethiopia Unit 6, finland, saudi arabia, grade 4, palestine, sudan, grade 9, cuba, grade 6
+Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary/middle year is project-led — a full Audacity audio unit (record, edit, mix, share), information ethics taught through Copyright, Creative Commons and software piracy, and Scratch taught to game level with lists, custom blocks (functions) and logical operators.
+
+Searchable tags: Scratch project, game design, Catch, storytelling, Ethiopia, broadcast, Grade 9 ICT Ethiopia Unit 6, finland, saudi arabia, grade 4, palestine, sudan, grade 9, cuba, grade 6, bhutan, class viii

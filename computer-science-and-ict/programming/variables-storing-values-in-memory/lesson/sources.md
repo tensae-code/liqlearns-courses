@@ -1,6 +1,6 @@
 # Sources - Variables - storing values in memory
 
-countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji
+countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -34,6 +34,8 @@ countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, 
 
 **Book 16:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 17:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - What a variable is (memory location for storing data; user data and intermediate results) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 139-140 |
@@ -56,8 +58,9 @@ countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, 
 | Lesson 7 Variables in Python | Egypt, *Computer & ICT, Grade 7 Term 2*, printed p. 69 |
 | 5.6 Introduction to Variables and Data Types | Fiji, *Computer Studies, Year 12*, printed p. 93 |
 | 6.2 Variables in C++ (declaration, cin/cout programs) | Fiji, *Computer Education, Year 13*, printed p. 133 |
+| 9.2 Variable (Scratch variable blocks, creating variables) | Bhutan, *Literacy with ICT, Class VII*, printed p. 121 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji).**
+**Acceptance count: taught in 11 countries (Ethiopia, Bulgaria, China, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba, Egypt, Fiji, Bhutan).**
 
 No book error touches this lesson. The teacher guide's worked model solutions for this section (guide item 25) are filed above as verified expected outputs (teacher guide - evidence); they confirm the practice answers but are not counted as pupil-taught content. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -86,4 +89,6 @@ Fiji's own way (Year 12 Computer Studies student book): Written locally by the s
 
 Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
 
-Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8, iraq, grade 7, morocco, grade 6, sudan, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, egypt, grade 7, fiji, year 12, year 13
+Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
+
+Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8, iraq, grade 7, morocco, grade 6, sudan, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9, egypt, grade 7, fiji, year 12, year 13, bhutan, class vii

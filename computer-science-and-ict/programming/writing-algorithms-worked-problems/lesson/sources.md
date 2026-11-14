@@ -1,6 +1,6 @@
 # Sources — Writing algorithms — worked problems
 
-countries: Ethiopia, Palestine, Sudan
+countries: Ethiopia, Palestine, Sudan, Bhutan
 
 **Book 1:** *Information Technology, Teacher's Guide, Grade 10* (teacher guide — evidence) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (MSc). Developed with Hawassa University (with Addis Ababa, Bahir Dar and Jimma universities thanked). First published 2022, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN or price printed (both blank on the cover). 122 printed pp. Printed page = PDF page − 9. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-teacher-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Palestine, Sudan
 
 **Book 7:** *تكنولوجيا المعلومات والاتصالات — المرحلة المتوسطة، الصف الثالث (Information and Communication Technology, Intermediate Stage, Third Year), Grade 9* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. First edition (year not legible on the cover page). No ISBN printed. 92 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 10,225,235 matches the staging record exactly); the PDF's text layer is glyph-garbled, so the book was read visually from 55-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 8:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Problems 1–5 — the worked algorithm solutions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6 (§6.8 key), printed pp. 117–122 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Palestine, Sudan
 | Lesson 8: I avoid danger and reach the house (plan the route on graph paper, solve in at most nine commands) | Palestine, *Programming, Grade 5*, printed p. 28 |
 | Unit 3: Desk-checking a program by hand on sample sales data before running it | Sudan, *Computer Science, Grade 11*, printed p. 33 |
 | Unit 3 Lesson 4: Operations on algorithms | Sudan, *ICT, Grade 9*, printed p. 48 |
+| 7.6 Writing Algorithm | Bhutan, *Literacy with ICT, Class VI*, printed p. 116 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Palestine, Sudan).** The worked solutions stand on teacher-guide evidence (the guide's §6.8 key); the problems themselves are the student book's own review set.
+**Acceptance count: taught in 4 countries (Ethiopia, Palestine, Sudan, Bhutan).** The worked solutions stand on teacher-guide evidence (the guide's §6.8 key); the problems themselves are the student book's own review set.
 
 Book error taught corrected: the teacher guide's §6.8 key defines an algorithm as a sequence of “ambiguous” step-by-step instructions (printed p. 116) — the opposite of both books' wording everywhere else. The lessons teach **unambiguous**, and the prime check and quadratic solutions above follow the key's worked steps with that word corrected.
 
@@ -42,4 +45,6 @@ Sudan's own way (Grade 11): a university-style secondary text (single named auth
 
 Sudan's own way (Grade 9): the whole Grade 9 book is programming — concepts and Pascal-style examples first, then algorithms and flowcharts, then a full Scratch course ending in a designed project. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
 
-Searchable tags: worked algorithms, triangle area, semi-perimeter, Heron, greatest of three, prime check, discriminant, quadratic formula, teacher guide evidence, Grade 10 ICT Ethiopia, mauritania, grade 9, saudi arabia, grade 4, palestine, sudan, grade 9, grade 11
+Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
+
+Searchable tags: worked algorithms, triangle area, semi-perimeter, Heron, greatest of three, prime check, discriminant, quadratic formula, teacher guide evidence, Grade 10 ICT Ethiopia, mauritania, grade 9, saudi arabia, grade 4, palestine, sudan, grade 9, grade 11, bhutan, class vi

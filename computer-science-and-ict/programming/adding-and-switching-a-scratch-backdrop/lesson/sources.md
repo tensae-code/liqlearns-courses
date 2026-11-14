@@ -1,6 +1,6 @@
 # Sources — Adding and Switching a Scratch Backdrop
 
-countries: Finland
+countries: Finland, Bhutan
 
 **Book 1:** *Ensiaskeleet ohjelmointiin — Oppilaan kirja, Versio 2.0* (student book, Finnish) — Finland, Suomen Koodikoulu Oy, 2022. ISBN 978-952-7403-28-0. Grades 3–6. 73 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/finland-placements.md.
 
@@ -8,14 +8,17 @@ countries: Finland
 
 **Book 3:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 4e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 37 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — a second full Scratch year, one level deeper: sprite movement, sprite appearance, controlling sound, events, and two animation projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 4:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Part 1: Adding a backdrop to the stage from the backdrop library | Finland, *Ensiaskeleet ohjelmointiin Student*, printed p. 24 |
 | Adding and switching a backdrop | Finland, *Ensiaskeleet ohjelmointiin Student*, printed p. 24 |
 | U.D.3 Séance 2 Ajouter des arrière-plans (filed as programming/adding-a-backdrop-from-the-library-or-your-computer; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 3 (ma-g3)*, printed p. 23 (teacher guide — evidence) |
 | U.D.2 Séance 3 Basculer d'un arrière-plan à l'autre (filed as programming/switching-the-backdrop-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 4 (ma-g4)*, printed p. 19 (teacher guide — evidence) |
+| 6.5 Steps to Change Backdrops (filed as NEW LESSON NEEDED — programming/changing-a-scratch-backdrop; stocked in this lesson because this lesson teaches adding and switching a backdrop, the stage's picture) | Bhutan, *Literacy with ICT, Class IV*, printed p. 51 |
 
-**Acceptance count: taught in 1 country (Finland).**
+**Acceptance count: taught in 2 countries (Finland, Bhutan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Finland, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked first. The placements file named this slug directly (NEW LESSON NEEDED — programming/adding-and-switching-a-scratch-backdrop). It sits in the Programming title (programming/). It is one whole lesson with no sub lessons — a short, single-skill lesson.
 
@@ -25,4 +28,6 @@ Morocco's own way (Grade 3): a full primary year given to one tool — Scratch �
 
 Morocco's own way (Grade 4): Grade 4 stays inside Scratch but moves from the interface to behaviour — motion, looks, sound control and event handling taught block-family by block-family, then combined in two animated scenes (a city tour; an aquarium). (teacher guide — evidence)
 
-Searchable tags: backdrop, stage, backdrop library, switching backdrops, scratch, programming, finland, morocco, grade 3, morocco, grade 4
+Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
+
+Searchable tags: backdrop, stage, backdrop library, switching backdrops, scratch, programming, finland, morocco, grade 3, morocco, grade 4, bhutan, class iv

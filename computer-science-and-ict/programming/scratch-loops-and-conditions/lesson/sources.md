@@ -1,6 +1,6 @@
 # Sources — Scratch loops and conditions
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -38,6 +38,12 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba
 
 **Book 18:** *Informática, octavo grado* (student book, Spanish; title as printed: Informática, octavo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4766-4 (print) / 978-959-13-4767-1 (digital). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 19:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
+**Book 20:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
+**Book 21:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The graduated exercise set — modify, Move 100 and the edge, the if…else comparison | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 232–233 |
@@ -65,8 +71,11 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba
 | Capítulo 4.3 Bloque de control | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 104 |
 | Capítulo 3.3 Empleo de los bloques de Eventos y de Control (Scratch) | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 69 |
 | Capítulo 4.1 Sistematización del trabajo con Scratch | Cuba, *Informática, Grade 8*, printed p. 112 |
+| 6.2 Control and Decision Making | Bhutan, *Literacy with ICT, Class V*, printed p. 78 |
+| 7.1 More Control Blocks | Bhutan, *Literacy with ICT, Class VI*, printed p. 104 |
+| 9.5 Nested Loop Condition | Bhutan, *Literacy with ICT, Class VII*, printed p. 127 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba).**
+**Acceptance count: taught in 8 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Bhutan).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite'. A second GIF for this lesson, showing Solution A's edge bounce, is filed as GIF 20956 — see the add-on list in lesson-plan.md.
 
@@ -96,4 +105,10 @@ Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year
 
 Cuba's own way (Grade 8): Taught entirely in free software — LibreOffice Impress for presentations and LibreOffice Calc for spreadsheets; web work means designing and editing HTML pages with a plain text editor, and Scratch continues with arithmetic and logic operator blocks.
 
-Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, cuba, grade 8
+Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
+
+Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
+
+Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
+
+Searchable tags: Scratch, if else, forever, repeat, repeat until, edge, loops, doing lesson, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, palestine, iraq, grade 8, grade 10, morocco, grade 5, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, cuba, grade 8, bhutan, class v, class vi, class vii

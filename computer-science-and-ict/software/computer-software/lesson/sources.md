@@ -1,6 +1,6 @@
 # Sources — Computer software — instructions that make hardware work
 
-countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt
+countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbeki
 
 **Book 9:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 10:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What software is — instructions; hardware can do nothing without it; interdependence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.31 |
@@ -33,8 +35,9 @@ countries: Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbeki
 | Unit 4 Lesson 1: Types of software — what software and a programmer are | Sudan, *ICT, Grade 6*, printed p. 32 |
 | Глава IV "Операционная система", Урок 17 "Программное обеспечение компьютера" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 74 |
 | 7-2 Computer Software | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 89 |
+| 3.1 Programs and software defined | Bhutan, *Literacy with ICT, Class IV*, printed p. 20 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt).**
+**Acceptance count: taught in 9 countries (Ethiopia, Mozambique, Afghanistan, Yemen, Saudi Arabia, Sudan, Uzbekistan, Egypt, Bhutan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -51,4 +54,6 @@ Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, codi
 
 Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
 
-Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, sudan, grade 6, uzbekistan, grade 8, egypt, grade 10
+Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
+
+Searchable tags: software, instructions, programs, system software, application software, interdependent, Grade 7 ICT Ethiopia, mozambique, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, sudan, grade 6, uzbekistan, grade 8, egypt, grade 10, bhutan, class iv

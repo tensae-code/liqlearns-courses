@@ -1,6 +1,6 @@
 # Sources — Output devices — getting results out
 
-countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji
+countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji
 
 **Book 8:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 9:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Output devices — getting results out | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 21–23 (teacher evidence: guide printed pp. 31–34) |
@@ -29,8 +31,9 @@ countries: Ethiopia, Tanzania, Yemen, Iraq, Fiji
 | U.D.1 Séance 2 Les périphériques d'entrée et de sortie (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 13 (teacher guide — evidence) |
 | U.D.2 Séance 1 Les haut-parleurs (connecting headphones/speakers, playing an audio file) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 17 (teacher guide — evidence) |
 | 1.2.2 Output Devices | Fiji, *Computer Education, Year 11*, printed p. 14 |
+| 1.1 Peripheral output devices: printer types, speakers, projector | Bhutan, *Literacy with ICT, Class V*, printed p. 3 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Tanzania, Yemen, Iraq, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Tanzania, Yemen, Iraq, Fiji, Bhutan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -44,4 +47,6 @@ Morocco's own way (Grade 1): ICT from age 6 built entirely on handling real hard
 
 Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
 
-Searchable tags: output devices — getting results out, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11
+Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
+
+Searchable tags: output devices — getting results out, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, saudi arabia, grade 4, iraq, grade 7, morocco, grade 1, fiji, year 11, bhutan, class v

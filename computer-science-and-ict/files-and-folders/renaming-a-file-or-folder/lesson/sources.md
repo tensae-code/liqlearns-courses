@@ -1,6 +1,6 @@
 # Sources — Renaming a file or folder
 
-countries: Ethiopia, Afghanistan, Saudi Arabia, Sudan
+countries: Ethiopia, Afghanistan, Saudi Arabia, Sudan, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Sudan
 
 **Book 5:** *تكنولوجيا المعلومات والاتصالات — الصف الخامس، المرحلة الابتدائية (Information and Communication Technology, Fifth Grade, Primary Stage), Grade 5* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 58 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 6:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Renaming a file or folder — four methods | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed pp. 13–14 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Sudan
 | U.D.4 Séance 2 renaming folders and files (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 28 (teacher guide — evidence) |
 | U.D.5 Séance 3 Renommer les fichiers on the local disk (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 34 (teacher guide — evidence) |
 | Unit 2 Lesson 3: Renaming a file or folder | Sudan, *ICT, Grade 5*, printed p. 18 |
+| 3.2 Managing Files and Folders (renaming/deleting) | Bhutan, *Literacy with ICT, Class V*, printed p. 36 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Saudi Arabia, Sudan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Saudi Arabia, Sudan, Bhutan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -33,4 +36,6 @@ Morocco's own way (Grade 1): ICT from age 6 built entirely on handling real hard
 
 Sudan's own way (Grade 5): a short, highly practical Arabic primary series that revises the previous grade first, then works entirely inside Windows and its built-in apps (Calculator, Paint) before reaching Word — every lesson ends with hands-on activities and each unit with an assessment.
 
-Searchable tags: rename file, rename folder, F2, right-click Rename, slow second click, administrator rights, files and folders, grade 9, information technology, ict, ethiopia, afghanistan, saudi arabia, grade 3, morocco, grade 1, sudan, grade 5
+Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
+
+Searchable tags: rename file, rename folder, F2, right-click Rename, slow second click, administrator rights, files and folders, grade 9, information technology, ict, ethiopia, afghanistan, saudi arabia, grade 3, morocco, grade 1, sudan, grade 5, bhutan, class v

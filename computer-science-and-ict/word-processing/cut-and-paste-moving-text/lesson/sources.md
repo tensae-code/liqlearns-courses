@@ -1,6 +1,6 @@
 # Sources — Cut and paste — moving text
 
-countries: Ethiopia, Eritrea, Uzbekistan
+countries: Ethiopia, Eritrea, Uzbekistan, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Eritrea, Uzbekistan
 
 **Book 4:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 5:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — cut: select the text; right-click Cut, or Cut in the Clipboard group of the Home tab; the text waits on the clipboard | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 48–49 |
@@ -18,12 +20,15 @@ countries: Ethiopia, Eritrea, Uzbekistan
 | Урок 6 "Редактирование документа" (editing a document) | Uzbekistan, *Informatika, Grade 6*, printed p. 29 |
 | Урок 28 "Редактирование документов" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 116 |
 | Урок 29 "Упражнения на редактирование текста" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 120 |
+| 2.6 Editing Texts (cut and move text) | Bhutan, *Literacy with ICT, Class V*, printed p. 23 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Eritrea, Uzbekistan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Uzbekistan, Bhutan).**
 
 
 Uzbekistan's own way (Grade 6): the whole of grade 6 is one application taught to mastery — MS Word from its interface to formulas and print — on the principle that one tool learned deeply beats many tools skimmed.
 
 Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
 
-Searchable tags: cut and paste, clipboard, moving text, Home tab, Clipboard group, Addis Ababa, Ethiopia Grade 8, eritrea, uzbekistan, grade 6, grade 8
+Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
+
+Searchable tags: cut and paste, clipboard, moving text, Home tab, Clipboard group, Addis Ababa, Ethiopia Grade 8, eritrea, uzbekistan, grade 6, grade 8, bhutan, class v

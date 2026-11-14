@@ -1,6 +1,6 @@
 # Sources — Adding a header and footer
 
-countries: Ethiopia, Sudan
+countries: Ethiopia, Sudan, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -10,17 +10,22 @@ countries: Ethiopia, Sudan
 
 **Book 4:** *تكنولوجيا المعلومات والاتصالات — الصف الخامس، المرحلة الابتدائية (Information and Communication Technology, Fifth Grade, Primary Stage), Grade 5* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda. Year 2021, first edition. No ISBN printed. 58 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 5:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Headers and footers: a header at the top of every page, a footer at the bottom; they carry page numbers, dates, the author's name and footnotes, repeating on each page, keeping long documents organised and readable; the worked example — double-click the top margin, type the paper's title and date, Close Header and Footer (or Esc), the header on all pages | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 103-105 |
 | Unit 3 answer key used as the verified-answer check for this lesson's questions (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3 answers, printed pp. 56-58 |
 | Lesson 18 Headers and footers (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 31 (teacher guide — evidence) |
 | Unit 4 Lesson 5: Header and footer of the page | Sudan, *ICT, Grade 5*, printed p. 49 |
+| 2.3 Header and Footer | Bhutan, *Literacy with ICT, Class VI*, printed p. 27 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Sudan).**
+**Acceptance count: taught in 3 countries (Ethiopia, Sudan, Bhutan).**
 
 Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
 
 Sudan's own way (Grade 5): a short, highly practical Arabic primary series that revises the previous grade first, then works entirely inside Windows and its built-in apps (Calculator, Paint) before reaching Word — every lesson ends with hands-on activities and each unit with an assessment.
 
-Searchable tags: header, footer, top margin, Close Header and Footer, repeating text, Grade 9 ICT Ethiopia, mauritania, grade 7, sudan, grade 5
+Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
+
+Searchable tags: header, footer, top margin, Close Header and Footer, repeating text, Grade 9 ICT Ethiopia, mauritania, grade 7, sudan, grade 5, bhutan, class vi

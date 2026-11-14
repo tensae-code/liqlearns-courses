@@ -1,6 +1,6 @@
 # Sources — Adding Sounds to a Scratch Project
 
-countries: Palestine
+countries: Palestine, Bhutan
 
 **Book 1:** *Programming (البرمجة), Grade 6* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "6" on cover) — Palestine, State of Palestine, Ministry of Education / Palestinian Curriculum Centre. Year 2019 (trial edition, 1440H/2019; adopted from 2019/20). No ISBN printed. 88 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
@@ -12,6 +12,10 @@ countries: Palestine
 
 **Book 5:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 4e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 37 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — a second full Scratch year, one level deeper: sprite movement, sprite appearance, controlling sound, events, and two animation projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
 
+**Book 6:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
+**Book 7:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 3 Lesson 10: Sounds (play-sound blocks for each sprite, comparing play-until-done variants, overlapping sounds) | Palestine, *Programming, Grade 6*, printed p. 53 |
@@ -19,8 +23,10 @@ countries: Palestine
 | Unit 2 Lesson 1: Sprite sounds (three sources: the sound library of about 240 sounds, external recordings, recording your own voice; play-sound and play-until-done) | Palestine, *Programming, Grade 8*, printed p. 30 |
 | U.D.4 Séance 1 Importer du son (1) (filed as programming/choosing-and-playing-a-sound-from-the-scratch-library; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 3 (ma-g3)*, printed p. 27 (teacher guide — evidence) |
 | U.D.3 Séance 1 Jouer un son (filed as programming/playing-a-sound-with-a-sprite-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 4 (ma-g4)*, printed p. 22 (teacher guide — evidence) |
+| 7.2 Sound Blocks (filed as NEW LESSON NEEDED — programming/scratch-sound-blocks; stocked in this lesson because this lesson teaches Scratch's sound blocks — play-sound and play-sound until done — and where a sprite's sounds come from) | Bhutan, *Literacy with ICT, Class IV*, printed p. 59 |
+| 5.2 Sound (filed as NEW LESSON NEEDED — programming/scratch-sound-blocks; stocked in this lesson because this lesson teaches Scratch's sound blocks — play-sound and play-sound until done — and where a sprite's sounds come from) | Bhutan, *Literacy with ICT, Class V*, printed p. 65 |
 
-**Acceptance count: taught in 1 country (Palestine).**
+**Acceptance count: taught in 2 countries (Palestine, Bhutan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Palestine, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/adding-sounds-to-a-scratch-project). It sits in the Programming title (programming/), following the book's own order.
 
@@ -34,4 +40,8 @@ Morocco's own way (Grade 3): a full primary year given to one tool — Scratch �
 
 Morocco's own way (Grade 4): Grade 4 stays inside Scratch but moves from the interface to behaviour — motion, looks, sound control and event handling taught block-family by block-family, then combined in two animated scenes (a city tour; an aquarium). (teacher guide — evidence)
 
-Searchable tags: sounds, play sound, play until done, sound library, recording, scratch, palestine, grade 6, grade 7, grade 8, morocco, grade 3, morocco, grade 4
+Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
+
+Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
+
+Searchable tags: sounds, play sound, play until done, sound library, recording, scratch, palestine, grade 6, grade 7, grade 8, morocco, grade 3, morocco, grade 4, bhutan, class iv, class v

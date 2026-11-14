@@ -1,6 +1,6 @@
 # Sources — Passwords — making a strong one
 
-countries: Ethiopia, China, Sudan, Cuba
+countries: Ethiopia, China, Sudan, Cuba, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, China, Sudan, Cuba
 
 **Book 6:** *Informática, noveno grado* (student book, Spanish; title as printed: Informática, noveno grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5166-1 (print) / 978-959-13-5180-7 (digital). 58 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 7:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Password defined — verifies identity; first line of defence | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.68 |
@@ -23,8 +25,9 @@ countries: Ethiopia, China, Sudan, Cuba
 | Unit 2 Lesson 3: How we protect information — strong secret passwords and the firewall | Sudan, *ICT, Grade 6*, printed p. 15 |
 | Unit 1, 1-7: Protecting files — secret passwords and guarding against viruses and environmental damage | Sudan, *Computer Science, Grade 11*, printed p. 6 |
 | Capítulo 3.3 Contraseñas y autenticación multifactor | Cuba, *Informática, Grade 9*, printed p. 50 |
+| 3.3 Choosing and keeping a password | Bhutan, *Literacy with ICT, Class V*, printed p. 39 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, China, Sudan, Cuba).**
+**Acceptance count: taught in 5 countries (Ethiopia, China, Sudan, Cuba, Bhutan).**
 
 Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
 
@@ -32,4 +35,6 @@ Sudan's own way (Grade 11): a university-style secondary text (single named auth
 
 Cuba's own way (Grade 9): Grade 9 is the formal programming-foundations year — algorithms, data, variables, counters/accumulators, flowcharts and pseudocode, taught language-independently — paired with a full cybersecurity chapter (passwords/MFA, safe internet, safe social networks).
 
-Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9
+Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
+
+Searchable tags: password, strong password, authentication, security, 8 characters, Grade 7 ICT Ethiopia, china, sudan, grade 6, grade 11, cuba, grade 9, bhutan, class v

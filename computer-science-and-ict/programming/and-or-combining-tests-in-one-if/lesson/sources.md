@@ -1,6 +1,6 @@
 # Sources — and / or — combining tests in one if
 
-countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt
+countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt, Bhutan
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt
 
 **Book 7:** *Information and Communication Technology — The Programming Projects, Third Secondary, Unit Two 2025-2026* (student book, English; inner title page: "Second Term – Student Book") — Egypt, Egypt Ministry of Education, General Directory for Developing Curriculums / Centre for Curriculum Development, 2025-2026. No ISBN printed. 87 PDF pages. Verdict: PARTIAL — the English file contains only Unit Two (logic-gates simulation project). The Arabic file behind the paired record is not a parallel edition: it contains Unit One (number-systems conversion project) and is filed separately as Book 11; together the two files make the complete Programming Projects book. Record mismatch: the record and its source folder say Term 1, the book's inner title page says Second Term — carried exactly as filed. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 8:** *Literacy with ICT — A Textbook for Class 8* (title page: Class VIII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-443-3. 132 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — and — both must be true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 176–178 (student placement item 123) |
@@ -26,8 +28,9 @@ countries: Ethiopia, Finland, North Macedonia, Iraq, Egypt
 | "Combining Conditions and Loops" | North Macedonia, *Informatics, Year 2*, Тема 2, printed p. 73 |
 | Unit 3 Ch.1 Lesson 3 Logical expressions | Iraq, *Computer, Grade 8*, printed p. 85 |
 | First Subject, AND/OR logic in decisions | Egypt, *ICT — Programming Projects, Unit Two: Logic Gates Simulation, Grade 12 (English file)*, printed p. 10 |
+| 6.3 Logical Operator Blocks | Bhutan, *Literacy with ICT, Class VIII*, printed p. 81 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, North Macedonia, Iraq, Egypt).**
+**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Iraq, Egypt, Bhutan).**
 
 Finland is filed in this lesson as teacher-guide evidence only and does not add to this lesson's acceptance count.
 
@@ -41,4 +44,6 @@ Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware
 
 Egypt's own way (Grade 12 Programming Projects student book, Unit Two (English file) — PARTIAL): Each logic gate is taught three times — the gate and its truth table, a simulation project in VB.NET, and the same project in PHP (PHP versions marked enrichment) — closing by using gates to model life decisions. Books 10 and 11 are the two halves of ONE Grade 12 Programming Projects book (Book 10 = Unit Two only, PARTIAL alone; Book 11 = Unit One only, PARTIAL alone / COMPLETE as a pair); the records listed them as parallel editions and say Term 1, but Book 10's inner title page says Second Term.
 
-Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11, iraq, grade 8, egypt, grade 12
+Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary/middle year is project-led — a full Audacity audio unit (record, edit, mix, share), information ethics taught through Copyright, Creative Commons and software piracy, and Scratch taught to game level with lists, custom blocks (functions) and logical operators.
+
+Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11, iraq, grade 8, egypt, grade 12, bhutan, class viii

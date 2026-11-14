@@ -1,6 +1,6 @@
 # Sources — Utilities and language translators
 
-countries: Ethiopia, Tanzania, Fiji
+countries: Ethiopia, Tanzania, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Tanzania, Fiji
 
 **Book 8:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 9:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Utility programs — analyse, configure, improve, maintain; backup, recovery, virus protection | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.32 |
@@ -32,8 +34,10 @@ countries: Ethiopia, Tanzania, Fiji
 | Strand 5 Unit 2, Topic Software Programming, Lesson 2: Types of Programming software and applications (filed as software/programming-software; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 72 (teacher guide — evidence, PARTIAL) |
 | 2.1.2 Utilities | Fiji, *Computer Education, Year 11*, printed p. 46 |
 | 4.6 Utility programs for troubleshooting | Fiji, *Computer Education, Year 13*, printed p. 88 |
+| 1.3 Utility Software | Bhutan, *Literacy with ICT, Class VII*, printed p. 8 |
+| 1.5 Language Translators | Bhutan, *Literacy with ICT, Class VII*, printed p. 18 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Tanzania, Fiji).**
+**Acceptance count: taught in 4 countries (Ethiopia, Tanzania, Fiji, Bhutan).**
 
 Book error taught corrected: in the student book's §3.2 (printed p. 42) all three named utility families are lettered "A." instead of A/B/C. The lesson teaches the families by their names, in the book's order, without the book's letters — the families themselves are exactly as the book lists them. Sub lesson 4's explanations are teacher-guide evidence: the student book lists the utilities by name, and the guide's keyed answer to Activity 3.1 explains each one; the explanations are filed here as the guide gives them.
 
@@ -43,4 +47,6 @@ Fiji's own way (Year 11 Computer Education student book): The first locally writ
 
 Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
 
-Searchable tags: utility software, backup, data recovery, virus protection, language translator, compiler, system utilities, storage management utilities, file management utilities, anti-virus, Avast, disk formatter, partition editor, data compression, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, papua new guinea, grade 9, fiji, year 11, year 13
+Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
+
+Searchable tags: utility software, backup, data recovery, virus protection, language translator, compiler, system utilities, storage management utilities, file management utilities, anti-virus, Avast, disk formatter, partition editor, data compression, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, tanzania, papua new guinea, grade 9, fiji, year 11, year 13, bhutan, class vii

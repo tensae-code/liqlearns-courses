@@ -1,6 +1,6 @@
 # Sources — Accessing a website — address, keyword and ISP
 
-countries: Ethiopia, Iraq, Egypt
+countries: Ethiopia, Iraq, Egypt, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Iraq, Egypt
 
 **Book 7:** *Information and Communication Technology — Fifth grade primary, Second Term 2025/2026* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 44 PDF pages. Verdict: COMPLETE (Term 2 book: Units 3-4). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 8:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | By address and links — the Ministry of Education worked example | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.53 |
@@ -23,6 +25,7 @@ countries: Ethiopia, Iraq, Egypt
 | Bikila task judged on finding, half-page report, keywords listed; official sources named against fake news (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 4, printed p.58 |
 | ISP answers in the guide contradict (only Ethio-Telecom; then Ethio-Telecom and Safaricom-Ethiopia) (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 4, printed pp.59, 61 |
 | U.D.1 Séance 1 navigating to a website (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 12 (teacher guide — evidence) |
+| 5.1 Address bar, hyperlinks, homepage and browsing | Bhutan, *Literacy with ICT, Class IV*, printed p. 39 |
 
 | Sub lesson 3 — Searching the internet — keywords and results (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 66–67 |
 | How the unit is evidenced — pupils assessed while they actually search by keyword (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 4, printed pp. 35–39 (guide placement item 15) |
@@ -30,7 +33,7 @@ countries: Ethiopia, Iraq, Egypt
 | Unit 4 Ch.2 Lesson 2 Browsing the internet | Iraq, *Computer, Grade 7*, printed p. 135 |
 | Unit 3 Lesson 2 My Journey in the World of Websites | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 10 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iraq, Egypt).**
+**Acceptance count: taught in 4 countries (Ethiopia, Iraq, Egypt, Bhutan).**
 
 The teacher guide's ISP answers contradict each other within two pages (Ethio-Telecom as the only ISP, then Ethio-Telecom and Safaricom-Ethiopia together) — flagged in the placements. The lesson teaches the student book's own line (Ethio-telecom as Ethiopia's example ISP) and records the guide's contradiction here rather than teaching either keyed answer as settled.
 
@@ -42,4 +45,6 @@ Morocco's own way (Grade 2): Grade 2 goes online before it goes deep on the mach
 
 Egypt's own way (Grade 5, Term 2 student book (Arabic)): Primary ICT is organised as themed units — "The Digital Citizen in the Internet World" then "My Digital Project" — with every lesson phrased as a journey or a how-to question.
 
-Searchable tags: accessing a website, address, keyword search, ISP, Ethio-telecom, Abebe Bikila, official sources, Grade 7 ICT Ethiopia, iraq, grade 7, morocco, grade 2, egypt, grade 5
+Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
+
+Searchable tags: accessing a website, address, keyword search, ISP, Ethio-telecom, Abebe Bikila, official sources, Grade 7 ICT Ethiopia, iraq, grade 7, morocco, grade 2, egypt, grade 5, bhutan, class iv

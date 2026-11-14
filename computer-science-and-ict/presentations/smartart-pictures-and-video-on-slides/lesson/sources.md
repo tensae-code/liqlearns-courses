@@ -1,6 +1,6 @@
 # Sources — SmartArt, pictures and video on slides
 
-countries: Ethiopia, Afghanistan, Fiji
+countries: Ethiopia, Afghanistan, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Afghanistan, Fiji
 
 **Book 6:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 7:** *Literacy with ICT — A Textbook for Class 8* (title page: Class VIII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-443-3. 132 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | SmartArt — relationships, organisation charts, timelines; SmartArt Tools | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 130–132 |
@@ -23,8 +25,9 @@ countries: Ethiopia, Afghanistan, Fiji
 | Lesson 11 "Inserting sound in a slide" | Afghanistan, *Computer, Grade 12*, printed p. 43 |
 | Lesson 06 Inserting images and graphic objects (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 30 (teacher guide — evidence) |
 | Unit 4.4 Use graphics, sounds and movies in slides | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 132 |
+| 2.2 Adding Audio and Video | Bhutan, *Literacy with ICT, Class VIII*, printed p. 16 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Afghanistan, Fiji).**
+**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Fiji, Bhutan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -36,4 +39,6 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
 
-Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8
+Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary/middle year is project-led — a full Audacity audio unit (record, edit, mix, share), information ethics taught through Copyright, Creative Commons and software piracy, and Scratch taught to game level with lists, custom blocks (functions) and logical operators.
+
+Searchable tags: SmartArt, organisation chart, timeline, Notes section, Online Pictures, embedded video, linked video, Ethiopia Grade 9, afghanistan, mauritania, grade 9, fiji, years 7-8, bhutan, class viii

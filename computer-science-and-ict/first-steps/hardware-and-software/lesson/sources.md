@@ -1,6 +1,6 @@
 # Sources — Hardware and software — the two parts of a computer system
 
-countries: Ethiopia, Iraq, Cuba, Fiji
+countries: Ethiopia, Iraq, Cuba, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Iraq, Cuba, Fiji
 
 **Book 5:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 6:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware and software — the two parts of a computer system | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 11 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Iraq, Cuba, Fiji
 | Strand 5 Unit 1, Topic Computer System, Lesson 2: Computer Hardware and Software (filed as hardware/hardware-and-software; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 46 (teacher guide — evidence, PARTIAL) |
 | Capítulo 1.2 Hardware y Software de un sistema informático | Cuba, *Informática, Grade 7*, printed p. 25 |
 | 1.1 A computer system is hardware plus software | Fiji, *Computer Education, Year 11*, printed p. 7 |
+| 1.1 Computer Hardware (hardware and software together) | Bhutan, *Literacy with ICT, Class V*, printed p. 2 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iraq, Cuba, Fiji).**
+**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Cuba, Fiji, Bhutan).**
 
 No book error touches this lesson's content.
 
@@ -32,4 +35,6 @@ Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietar
 
 Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
 
-Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7, fiji, year 11
+Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
+
+Searchable tags: hardware and software — the two parts of a computer system, first steps, grade 7, information technology, ict, ethiopia, iraq, grade 7, papua new guinea, grade 9, cuba, grade 7, fiji, year 11, bhutan, class v

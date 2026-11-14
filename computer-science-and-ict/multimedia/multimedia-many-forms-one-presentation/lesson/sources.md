@@ -1,6 +1,6 @@
 # Sources — Multimedia — many forms, one presentation
 
-countries: Ethiopia, Djibouti, Yemen, North Macedonia, Cuba, Fiji
+countries: Ethiopia, Djibouti, Yemen, North Macedonia, Cuba, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages; printed page = PDF page − 7 for the body. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, Djibouti, Yemen, North Macedonia, Cuba, Fiji
 
 **Book 8:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 9:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Many forms, one presentation | Ethiopia, *Information Technology*, Student textbook, Grade 9, Unit 4 introduction and §4.2, printed pp. 144, 147 |
@@ -27,6 +29,7 @@ countries: Ethiopia, Djibouti, Yemen, North Macedonia, Cuba, Fiji
 | "The concept of multimedia" | Yemen, *Computer, Grade 11*, printed p. 10 |
 | Capítulo 3.2 Multimedia con un procesador de textos | Cuba, *Informática, Grade 7*, printed p. 126 |
 | Unit 4.1 Identify types of multimedia | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 113 |
+| 6.1 Multimedia and Its Elements | Bhutan, *Literacy with ICT, Class VII*, printed p. 80 |
 
 | Going deeper — why the combination matters (Grade 10) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4 overview and opening, printed pp. 139–140 |
 | The unit ahead (Grade 10) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 4, printed pp. 139–181 |
@@ -34,7 +37,7 @@ countries: Ethiopia, Djibouti, Yemen, North Macedonia, Cuba, Fiji
 | Strand 4, Topic Authoring Software / Multimedia, Lessons 1-3: Introduction to Multimedia Authoring Software; Categories of Authoring Software; Features of Multimedia Authoring Software (yearly overview) (filed as multimedia/multimedia-and-its-many-forms; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 123 (teacher guide — evidence, PARTIAL) |
 | Unit 2, Topic Multimedia and Graphics, Lesson 1: Introduction to Multimedia (multimedia in business, hospitals and more) (filed as multimedia/multimedia-and-its-many-forms; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 74 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Yemen, North Macedonia, Cuba, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Yemen, North Macedonia, Cuba, Fiji, Bhutan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -52,4 +55,6 @@ Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietar
 
 Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
 
-Searchable tags: multimedia, text, audio, image, animation, video, interactive presentation, mass medium, Ethiopia Grade 9, djibouti, yemen, grade 11, north macedonia, grade 11, papua new guinea, grade 9, papua new guinea, grade 11, cuba, grade 7, fiji, years 7-8
+Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
+
+Searchable tags: multimedia, text, audio, image, animation, video, interactive presentation, mass medium, Ethiopia Grade 9, djibouti, yemen, grade 11, north macedonia, grade 11, papua new guinea, grade 9, papua new guinea, grade 11, cuba, grade 7, fiji, years 7-8, bhutan, class vii

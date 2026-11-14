@@ -1,6 +1,6 @@
 # Sources — The parts of a web address
 
-countries: Ethiopia, Germany, China, Sudan, Fiji
+countries: Ethiopia, Germany, China, Sudan, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -12,6 +12,10 @@ countries: Ethiopia, Germany, China, Sudan, Fiji
 
 **Book 5:** *Computer Studies — A textbook for Year 12* (cover title; title page: *Computer Education, Year 12*) (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2015 (copyright 28 November 2014). No ISBN printed. 145 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 6:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
+**Book 7:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Four parts of an address — protocol, www, domain name, extension; the google example | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.52 |
@@ -20,8 +24,10 @@ countries: Ethiopia, Germany, China, Sudan, Fiji
 | Domain Names | China, *IT Compulsory 2*, Chapter 3 §3.2.6, printed p. 83 |
 | Unit 3 Lesson 3: Internet addresses and domains — DNS and the URL | Sudan, *ICT, Grade 7*, printed p. 59 |
 | 1.1 Parts of a URL (http, www, domain name, .fj country code) | Fiji, *Computer Studies, Year 12*, printed p. 8 |
+| 5.1 Uniform Resource Locator (URL) | Bhutan, *Literacy with ICT, Class IV*, printed p. 41 |
+| 3.4 Web Address | Bhutan, *Literacy with ICT, Class VI*, printed p. 54 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Germany, China, Sudan, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Germany, China, Sudan, Fiji, Bhutan).**
 
 Germany's book is held only as a PARTIAL copy (see the book entry above); this placement rests on the book's verified complete contents and sampled pages, and Germany is counted from that partially-held copy.
 
@@ -30,4 +36,8 @@ Sudan's own way (Grade 7): the middle-stage book spends half its length on one d
 
 Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
 
-Searchable tags: web address, URL, protocol, http, domain name, domain extension, .gov .et .edu .org .net, Grade 7 ICT Ethiopia, germany, china, sudan, grade 7, fiji, year 12
+Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
+
+Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
+
+Searchable tags: web address, URL, protocol, http, domain name, domain extension, .gov .et .edu .org .net, Grade 7 ICT Ethiopia, germany, china, sudan, grade 7, fiji, year 12, bhutan, class iv, class vi

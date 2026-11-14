@@ -1,6 +1,6 @@
 # Sources — Backup and recovery — copies that protect your data
 
-countries: Ethiopia, Tanzania, Sudan, Egypt
+countries: Ethiopia, Tanzania, Sudan, Egypt, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 234 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Tanzania, Sudan, Egypt
 
 **Book 7:** *Information and Communication Technology — Fifth grade primary, Second Term 2025/2026* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 44 PDF pages. Verdict: COMPLETE (Term 2 book: Units 3-4). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 8:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — backup and recovery defined, what a backup copies, separate system or medium, the four dangers, restoring | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 20, 22 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Tanzania, Sudan, Egypt
 | Unit 1, 1-7: Security of files in automated systems — backup copies | Sudan, *Computer Science, Grade 11*, printed p. 6 |
 | Unidad 2.8 Conservación en dispositivos de almacenamiento externos (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 14 (teacher programme — evidence) |
 | Unit 4 Lesson 1, recovering and protecting files | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 26 |
+| 8.1 Data Backup | Bhutan, *Literacy with ICT, Class VII*, printed p. 112 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Tanzania, Sudan, Egypt).**
+**Acceptance count: taught in 5 countries (Ethiopia, Tanzania, Sudan, Egypt, Bhutan).**
 
 The backup introduction on the student book's printed p. 20 numbers its first practical steps 4 and 5; those steps belong to the next lesson (Backing up files in Windows), where they are taught in their true order from 1 and the misnumbering is flagged in full. This lesson's pages carry no other error.
 
@@ -38,4 +41,6 @@ Cuba's own way (Grade 5): The Grade 5 programme is built around extracting infor
 
 Egypt's own way (Grade 5, Term 2 student book (Arabic)): Primary ICT is organised as themed units — "The Digital Citizen in the Internet World" then "My Digital Project" — with every lesson phrased as a journey or a how-to question.
 
-Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania, papua new guinea, grade 10, sudan, grade 11, cuba, grade 5, egypt, grade 5
+Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
+
+Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania, papua new guinea, grade 10, sudan, grade 11, cuba, grade 5, egypt, grade 5, bhutan, class vii

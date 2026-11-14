@@ -1,6 +1,6 @@
 # Sources — Computer hardware — the part you can touch
 
-countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji
+countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -48,6 +48,8 @@ countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Moza
 
 **Book 23:** *Computer Education — Year 13* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Heritage and Arts, Republic of Fiji, Suva; 2015 (12 December 2015; for the Year 13 syllabus trialled in 2016). No ISBN printed. 153 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 24:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Hardware — the part you can touch | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed pp. 15–16 |
@@ -76,8 +78,9 @@ countries: Ethiopia, Djibouti, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Moza
 | 7-1 Computer Configuration (five components: control, arithmetic, memory, input, output) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 85 |
 | 1.2.3 System Unit (cabinet/chassis and what is inside) | Fiji, *Computer Education, Year 11*, printed p. 18 |
 | 4.3 Hardware Components | Fiji, *Computer Education, Year 13*, printed p. 62 |
+| 1.3 Parts of Computer | Bhutan, *Literacy with ICT, Class IV*, printed p. 4 |
 
-**Acceptance count: taught in 14 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji).**
+**Acceptance count: taught in 15 countries (Ethiopia, Turkmenistan, Eritrea, Cambodia, Azerbaijan, Mozambique, Uganda, Afghanistan, Yemen, North Macedonia, Uzbekistan, Cuba, Egypt, Fiji, Bhutan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -112,4 +115,6 @@ Fiji's own way (Year 11 Computer Education student book): The first locally writ
 
 Fiji's own way (Year 13 Computer Education student book): The senior book is built around a Fijian case organisation (Viti Group of Companies, a Fiji furniture manufacturer) for information systems; it teaches the full systems life cycle phase by phase, web design with real HTML and CSS, and text programming in C++ with worked programs (pay calculation, grade from mark, triangle and circle areas) using Fijian student names.
 
-Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 4, papua new guinea, grade 9, papua new guinea, grade 11, papua new guinea, grade 12, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, egypt, grade 10, fiji, year 11, year 13
+Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
+
+Searchable tags: computer hardware — the part you can touch, hardware, grade 7, information technology, ict, ethiopia, hardware — the part you can touch, the four families, djibouti, turkmenistan, eritrea, cambodia, azerbaijan, mozambique, uganda, afghanistan, yemen, grade 10, north macedonia, grade 10, mauritania, grade 7, saudi arabia, grade 4, papua new guinea, grade 9, papua new guinea, grade 11, papua new guinea, grade 12, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, egypt, grade 10, fiji, year 11, year 13, bhutan, class iv

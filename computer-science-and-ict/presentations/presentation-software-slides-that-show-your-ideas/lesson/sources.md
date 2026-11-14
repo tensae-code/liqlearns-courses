@@ -1,6 +1,6 @@
 # Sources — Presentation software — slides that show your ideas
 
-countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji
+countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji
 
 **Book 11:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 12:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Presentation software — displays slides; MS PowerPoint, Google Slides, LibreOffice Impress named | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 121 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji
 | Unit 4 Lesson 3 How Do We Design a Presentation That Attracts Others? | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 32 |
 | Unit 4.2 Reasons for using presentation software | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 113 |
 | 2.2.4 Presentation Graphics | Fiji, *Computer Education, Year 11*, printed p. 53 |
+| 7.1 Introduction to Presentation and 7.2 Features of Presentation Software | Bhutan, *Literacy with ICT, Class VII*, printed p. 98 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji).**
+**Acceptance count: taught in 7 countries (Ethiopia, Yemen, Sudan, Cuba, Egypt, Fiji, Bhutan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -61,4 +64,6 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
 
-Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11
+Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
+
+Searchable tags: presentation software, slides, PowerPoint, Google Slides, LibreOffice Impress, Ethiopia Grade 9, yemen, grade 11, mauritania, grade 9, papua new guinea, grade 9, sudan, grade 6, cuba, grade 6, cuba, grade 8, egypt, grade 5, fiji, years 7-8, year 11, bhutan, class vii

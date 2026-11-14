@@ -1027,3 +1027,23 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Computers in Society** (ICT expansion, from Fiji): Unethical Use of Information and Technology · Using Technology Ethically · Computers Helping Learners with Disabilities · Information Processing and Decision Making · Cyber Culture · Careers in Computing · The Five Functions of an Organisation · Management Levels in an Organisation · How Information Flows in an Organisation · Levels of Computer-Based Information Systems
 
 **New Technologies** (ICT expansion, from Fiji): Artificial Intelligence and Virtual Reality — First Look · Switching to the Cloud for Data Management
+
+**Hardware** (ICT expansion, from Bhutan): Inside the System Unit — Motherboard and Power Supply
+
+**Software** (ICT expansion, from Bhutan): Firmware — Software Built into a Device
+
+**Files and Folders** (ICT expansion, from Bhutan): Opening a File You Saved Earlier · Backing Up with Google Drive — and Downloading Again
+
+**Word Processing** (ICT expansion, from Bhutan): Typing in Dzongkha — Keyboard Software and Fonts · Protecting a Word Document with a Password · Track Changes — Reviewing a Document Together · End-of-Year Project — Food Chain Document
+
+**Presentations** (ICT expansion, from Bhutan): Printing a Presentation · Saving a Presentation in Other Formats
+
+**Internet and the Web** (ICT expansion, from Bhutan): Chatting and Sharing Files on a LAN Messenger · Search Strategy — Planning a Good Search · Bookmarking a Webpage for Later · Browser History — Finding Pages You Visited · Introduction to Email · Email Etiquette
+
+**Multimedia** (ICT expansion, from Bhutan): Applying Adjustments and Effects to an Image · Digital Audio — What Recorded Sound Is · Meeting Audacity and Its Window · Editing Audio in Audacity · Applying Audio Effects in Audacity · Mixing Audio Tracks in Audacity · Sharing Your Audio Online
+
+**Programming** (ICT expansion, from Bhutan): Playing the Computer's Built-in Games · Changing and Deleting a Scratch Sprite · End-of-Year Project — Picnic Story and Animation · End-of-Year Project — Flower Animation and Dzongkha Story · String Functions in Scratch · Mathematical Functions in Scratch
+
+**Safety, Security and Care** (ICT expansion, from Bhutan): Good Backup Practice · Preventing Malware Infection
+
+**Computers in Society** (ICT expansion, from Bhutan): Creative Commons Licences · Software Piracy · Risks and Consequences of Using Pirated Software

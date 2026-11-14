@@ -1,6 +1,6 @@
 # Sources — Antivirus software — scan, detect, remove
 
-countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq
+countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq
 
 **Book 5:** *الحاسوب — الرابع الإعدادي (Computer, Fourth Preparatory Grade), Grade 10* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), third edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 6:** *Literacy with ICT — A Textbook for Class 8* (title page: Class VIII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-443-3. 132 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What antivirus software is for; the malware list including botnets, rootkits, keyloggers | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed p. 192 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq
 | Unit 4 Lesson 27 Security and managing downloaded files (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 66 (teacher guide — evidence) |
 | Lesson 6: Viruses (harmful programs that damage the computer and spy on files; protection programs that scan files, incoming media and websites) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 38 |
 | Unit 1 Ch.2 Lesson 1 Preventive maintenance of computer software | Iraq, *Computer, Grade 10*, printed p. 17 |
+| 4.4 Antivirus | Bhutan, *Literacy with ICT, Class VIII*, printed p. 58 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Saudi Arabia, Iraq).**
+**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -31,4 +34,6 @@ Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book fo
 
 Iraq's own way (Grade 10): the preparatory stage turns practical and examinable — a whole unit on computer maintenance (preventive vs corrective, hardware and software, hard-disk management with defragmentation, ScanDisk, partitions and FAT32 vs NTFS), then PowerPoint and Microsoft Publisher taught tab by tab, looping control structures in Scratch, and a final unit pairing HTML web-page building with information security.
 
-Searchable tags: antivirus, scan detect remove, botnets, rootkits, keyloggers, malware protection, Grade 10 ICT Ethiopia, afghanistan, mauritania, grade 8, saudi arabia, grade 3, iraq, grade 10
+Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary/middle year is project-led — a full Audacity audio unit (record, edit, mix, share), information ethics taught through Copyright, Creative Commons and software piracy, and Scratch taught to game level with lists, custom blocks (functions) and logical operators.
+
+Searchable tags: antivirus, scan detect remove, botnets, rootkits, keyloggers, malware protection, Grade 10 ICT Ethiopia, afghanistan, mauritania, grade 8, saudi arabia, grade 3, iraq, grade 10, bhutan, class viii

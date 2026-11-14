@@ -1,6 +1,6 @@
 # Sources — Computer ergonomics — sitting without harming your body
 
-countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji
+countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji
 
 **Book 10:** *Computer Education — Year 11* (student book, English) — Fiji, Technology and Employment Skills Training (TEST), Ministry of Education, Fiji, Suva; 2014 (copyright 28 November 2013). No ISBN printed. 82 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 11:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
+**Book 12:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What ergonomics is; hours at computers without knowing the consequences | Ethiopia, *Information Technology*, Student textbook, Grade 8, Unit 5 §5.1, printed pp. 81–82 |
@@ -37,8 +41,10 @@ countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji
 | Unidad 1 Orientaciones: postura correcta al usar la computadora (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 13 (teacher guide — evidence) |
 | Unit 9.1 Adopt proper health and safety when using the computer | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 220 |
 | 1.4 Ergonomics | Fiji, *Computer Education, Year 11*, printed p. 36 |
+| 2.1 Right Body Postures | Bhutan, *Literacy with ICT, Class IV*, printed p. 12 |
+| 5.2 Preventing Computer-Related Health Issues | Bhutan, *Literacy with ICT, Class VI*, printed p. 88 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji).**
+**Acceptance count: taught in 6 countries (Ethiopia, Mozambique, Afghanistan, Uzbekistan, Fiji, Bhutan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -57,4 +63,8 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
 
-Searchable tags: computer ergonomics, sitting posture, backache, overuse injury, elbow wrist hand, numbness, Grade 8 ICT Ethiopia, mozambique, afghanistan, papua new guinea, grade 9, uzbekistan, grade 5, grade 8, cuba, grade 2, fiji, years 7-8, year 11
+Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
+
+Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
+
+Searchable tags: computer ergonomics, sitting posture, backache, overuse injury, elbow wrist hand, numbness, Grade 8 ICT Ethiopia, mozambique, afghanistan, papua new guinea, grade 9, uzbekistan, grade 5, grade 8, cuba, grade 2, fiji, years 7-8, year 11, bhutan, class iv, class vi

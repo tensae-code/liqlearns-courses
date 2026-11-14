@@ -1,6 +1,6 @@
 # Sources — Scratch — stage, sprite, palette, script
 
-countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -38,6 +38,8 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt
 
 **Book 18:** *Computer & Information and Communication Technology — First grade preparatory, Second Term 2025-2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 76 PDF pages (English edition). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 19:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Scratch introduced — free, from scratch.mit.edu; stories, animations, games | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 230–231 |
@@ -65,8 +67,10 @@ countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt
 | Capítulo 4.1 Ingredientes básicos de un proyecto de Scratch | Cuba, *Informática, Grade 7*, printed p. 136 |
 | Lesson 4, the Scratch stage, sprites and script area | Egypt, *Computer & ICT, Grade 7 Term 2*, printed p. 37 |
 | Lesson 5 Sprites Area in Scratch | Egypt, *Computer & ICT, Grade 7 Term 2*, printed p. 50 |
+| 6.2 What is Scratch? (filed as NEW LESSON NEEDED — programming/what-scratch-is; stocked in this lesson because this lesson opens with what Scratch is — a block-based visual programming language for stories, animations and games — before naming the stage, sprite, palette and script area) | Bhutan, *Literacy with ICT, Class IV*, printed p. 47 |
+| 6.3 Scratch Window | Bhutan, *Literacy with ICT, Class IV*, printed p. 48 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt).**
+**Acceptance count: taught in 9 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Cuba, Egypt, Bhutan).**
 
 Book error note: the teacher guide prints "sprint" for sprite throughout its Unit 6 Scratch answers; the build teaches 'sprite', as the student book prints it.
 
@@ -98,4 +102,6 @@ Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietar
 
 Egypt's own way (Grade 7, Term 2 student book): Term 2 pivots from applications to computing itself — AI, sensors and robots, then a Scratch-to-Python bridge in the same term.
 
-Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 7, egypt, grade 7
+Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
+
+Searchable tags: Scratch, stage, sprite, palette, script area, Grade 9 ICT Ethiopia Unit 6, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, papua new guinea, grade 10, morocco, grade 1, morocco, grade 3, sudan, grade 9, cuba, grade 5, cuba, grade 5, cuba, grade 7, egypt, grade 7, bhutan, class iv

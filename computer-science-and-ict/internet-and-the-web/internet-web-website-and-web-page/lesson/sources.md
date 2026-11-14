@@ -1,6 +1,6 @@
 # Sources — Internet, Web, website and web page
 
-countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji
+countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fij
 
 **Book 11:** *Information and Communication Technology — Fifth grade primary, Second Term 2025/2026* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 44 PDF pages. Verdict: COMPLETE (Term 2 book: Units 3-4). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 13:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Internet vs Web — network vs means of access | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed pp.47–48 |
@@ -30,6 +32,7 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fij
 | Lesson 26 Web pages and websites (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 43 (teacher guide — evidence) |
 | Capítulo 3.1 La web como servicio fundamental de internet | Cuba, *Informática, Grade 8*, printed p. 85 |
 | 1.1 The Internet and WWW (telling them apart) | Fiji, *Computer Studies, Year 12*, printed p. 7 |
+| 5.1 Web page, website and World Wide Web | Bhutan, *Literacy with ICT, Class IV*, printed p. 38 |
 
 | Sub lesson 3 — The Web in depth — server, hyperlink, URL (Grade 8 depth) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 64 |
 | "The Concept of a Web Page" | North Macedonia, *Informatics, Year 2*, Тема 5, printed p. 281 |
@@ -44,7 +47,7 @@ countries: Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fij
 | Unit 4 Ch.1 Lesson 2 The internet and the World Wide Web | Iraq, *Computer, Grade 8*, printed p. 119 |
 | Unit 3 Lesson 1: The World Wide Web | Sudan, *ICT, Grade 7*, printed p. 54 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji).**
+**Acceptance count: taught in 9 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Cuba, Egypt, Fiji, Bhutan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -64,6 +67,8 @@ Egypt's own way (Grade 5, Term 2 student book (Arabic)): Primary ICT is organise
 
 Fiji's own way (Year 12 Computer Studies student book): Written locally by the same TEST/USP panel for the trialled Year 12 syllabus; the Internet chapter is grounded in Fiji (fiji.gov.fj URL anatomy with the .fj country code, and Fiji ISPs Connect Fiji, Unwired Fiji, Vodafone, Digicel and Kidanet by Fintel), programming is a full Visual Basic course with hands-on examples, and data management is taught as a move to cloud storage (Google Drive, Dropbox, SpiderOak).
 
-Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11, mauritania, grade 7, iraq, grade 8, sudan, grade 7, cuba, grade 8, egypt, grade 5, fiji, year 12
+Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
+
+Searchable tags: internet vs Web, World Wide Web, website, web page, home page, Grade 7 ICT Ethiopia, afghanistan, north macedonia, grade 11, mauritania, grade 7, iraq, grade 8, sudan, grade 7, cuba, grade 8, egypt, grade 5, fiji, year 12, bhutan, class iv
 
 Growth note (Wave 3, band E4): Sub lessons 1–3 are the original Grade 7/8 lesson, unchanged in content; Sub lesson 4 is the Grade 11 depth added from the Grade 11 book (printed pp. 76–77) — the same Web, with its inventor, place, year and four foundations made explicit. Note the Grade 8 part of this lesson gives the Web's invention as 1991 (Grade 8 book, printed p. 64) while the Grade 11 book gives 1989 at CERN — both are taught as their own books state them, in their own sub lessons, and the Grade 11 date is the one the Grade 11 sub lesson and its questions use. Unit 4 figure references and captions repeatedly disagree in the Grade 11 book and table numbers are reused; this growth cites no figure or table number.

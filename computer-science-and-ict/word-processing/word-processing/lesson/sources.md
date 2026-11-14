@@ -1,6 +1,6 @@
 # Sources — Word processing — writing on a computer
 
-countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji
+countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji
 
 **Book 10:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 12:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Word processing — create, edit, format, save; images, tables, charts; advantages over pen and paper | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.35 |
@@ -26,6 +28,7 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji
 | Unit 5 training (document files) | Yemen, *Computer, Grade 10*, printed p. 93 |
 | Unit 5 activity | Yemen, *Computer, Grade 10*, printed p. 114 |
 | 2.2.1 Word Processing | Fiji, *Computer Education, Year 11*, printed p. 50 |
+| 2.1 Introduction to Word Processor | Bhutan, *Literacy with ICT, Class V*, printed p. 12 |
 
 **Book 2:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -41,7 +44,7 @@ countries: Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji
 | Глава V "Технология обработки документов", Урок 24 "Текстовые редакторы и текстовые процессоры" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 100 |
 | Урок 34 "Упражнения для повторения" (review exercises) | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 135 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji).**
+**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, Azerbaijan, Uganda, Yemen, Uzbekistan, Fiji, Bhutan).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -54,4 +57,6 @@ Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, codi
 
 Fiji's own way (Year 11 Computer Education student book): The first locally written text of its kind (the book's Preface): written by a panel of Computer Studies officers and University of the South Pacific lecturers for the new Year 11 Computer Education syllabus trialled in 2014; each chapter uses "Discovery Learning" prompts, and the database chapter is a full Access 2007 practical building a Student database in a "Lab Chapter 3" folder.
 
-Searchable tags: word processing, MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer, Google Drive Document, templates, plain text editor, Notepad, Grade 9 ICT Ethiopia, create edit format save, document, Grade 7 ICT Ethiopia, cambodia, azerbaijan, uganda, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 6, grade 8, fiji, year 11
+Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
+
+Searchable tags: word processing, MS Word, WordPerfect, OpenOffice Writer, LibreOffice Writer, Google Drive Document, templates, plain text editor, Notepad, Grade 9 ICT Ethiopia, create edit format save, document, Grade 7 ICT Ethiopia, cambodia, azerbaijan, uganda, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 6, grade 8, fiji, year 11, bhutan, class v

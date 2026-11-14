@@ -1,6 +1,6 @@
 # Sources — Caring for a computer — safety before cleaning
 
-countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan
+countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -18,6 +18,8 @@ countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan
 
 **Book 8:** *تكنولوجيا المعلومات والاتصالات 4 — المرحلة الإبتدائية (Information and Communication Technology 4, Primary Stage), Grade 4* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. Year not printed on cover. No ISBN printed. 68 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 24,181,685 matches the staging record exactly); read in full from the text layer. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 9:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Harms of wrong use to user and device | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.58 |
@@ -29,11 +31,14 @@ countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan
 | Handling and maintaining ICT tools (teacher guide — evidence) | Uganda, *ICT Teacher's Guide Senior One*, printed p. 7 (teacher guide — evidence) |
 | Lesson 5: A safe environment for the computer (heat and sunlight, liquids, dust and food, the cooling fan, a steady voltage regulator) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 32 |
 | Unit 4: Safety in Using the Computer | Sudan, *ICT, Grade 4*, printed p. 18 |
+| 2.2 Computer Care | Bhutan, *Literacy with ICT, Class IV*, printed p. 15 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan, Bhutan).**
 
 Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book for the continuing-education (adult/lifelong learning) track — every one of the 16 lessons opens with "I want to learn" objectives and closes with written exercises, and everything is taught on an older Windows desktop (Start menu, "My Computer", Recycle Bin) with Notepad as the only application, worked through step-by-step practicals in the school lab.
 
 Sudan's own way (Grade 4): a gentle first ICT book in six short units that ends not with applications but with the keyboard and mouse themselves — hand skills before software. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
 
-Searchable tags: computer care, safety, unplug, high voltage, cleaning precautions, Grade 7 ICT Ethiopia, tanzania, eritrea, mozambique, uganda, saudi arabia, grade 3, sudan, grade 4
+Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
+
+Searchable tags: computer care, safety, unplug, high voltage, cleaning precautions, Grade 7 ICT Ethiopia, tanzania, eritrea, mozambique, uganda, saudi arabia, grade 3, sudan, grade 4, bhutan, class iv

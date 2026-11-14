@@ -1,6 +1,6 @@
 # Sources — The parts of an email address
 
-countries: Ethiopia, Afghanistan, Egypt
+countries: Ethiopia, Afghanistan, Egypt, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Afghanistan, Egypt
 
 **Book 5:** *Computer & Information and Communication Technology — First grade preparatory, First Term 2025-2026* (student book, English; parallel Arabic and French editions) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 107 PDF pages (English edition). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 6:** *Literacy with ICT — A Textbook for Class VI* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0 as printed (note: the same ISBN is printed in the Class IV book — the duplication is carried exactly as printed, never "corrected"). 151 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The standard format — username@domainname; the abdisa.aga@gmail.com split | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed p. 69 |
@@ -20,8 +22,9 @@ countries: Ethiopia, Afghanistan, Egypt
 | Unit 5 Lesson 29 Introduction to electronic mail (theory) (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 72 (teacher guide — evidence) |
 | Lesson 29 Introduction to email (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 112 (teacher guide — evidence) |
 | Lesson 5 Email (components of an email) | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 42 |
+| 4.3 Email Basics (the email address) | Bhutan, *Literacy with ICT, Class VI*, printed p. 71 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Afghanistan, Egypt).**
+**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Egypt, Bhutan).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -33,4 +36,6 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Egypt's own way (Grade 7, Term 1 student book): One chapter ("Digital Programs and Applications") of 10 self-assessed lessons, each opening with "I can…" objectives and closing with Learn-by-doing; national platforms are the examples throughout — Digital Egypt platform, InstaPay, IDSC — and a separate Arabic activity booklet mirrors every lesson.
 
-Searchable tags: email address, username, domain name, @ symbol, abdisa.aga@gmail.com, Ethiopia Grade 8 ICT, afghanistan, mauritania, grade 8, mauritania, grade 9, egypt, grade 7
+Bhutan's own way (Class VI, Literacy with ICT student book): School computing runs on Google's G Suite for Education — email is Gmail on the school account, collaboration is Google Classroom, and the end-of-year food-chain project is agreed in Classroom, built in Word, password-protected, cited, filed in folders and reported to the teacher by email.
+
+Searchable tags: email address, username, domain name, @ symbol, abdisa.aga@gmail.com, Ethiopia Grade 8 ICT, afghanistan, mauritania, grade 8, mauritania, grade 9, egypt, grade 7, bhutan, class vi

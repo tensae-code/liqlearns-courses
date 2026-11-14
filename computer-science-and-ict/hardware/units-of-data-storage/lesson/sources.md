@@ -1,6 +1,6 @@
 # Sources — Units of data storage — bit, byte, KB, MB, GB, TB
 
-countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt
+countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt
 
 **Book 6:** *Programming and Artificial Intelligence — An Introduction to Information and Communication Technology, For First Year of Secondary School 2025–2026* (student book, English; parallel Arabic edition) — Egypt, Egypt Ministry of Education and Technical Education, 2025–2026. No ISBN printed. 202 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 7:** *Literacy with ICT — A Textbook for Class 8* (title page: Class VIII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-443-3. 132 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Units of data storage — bit, byte, KB, MB, GB, TB | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 27 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Uganda, Uzbekistan, Cuba, Egypt
 | Урок 10 "Объем информации и скорость передачи информации" (amount of information and transfer speed) | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 46 |
 | Capítulo 2.3 Medidas de almacenamiento digital de la información | Cuba, *Informática, Grade 7*, printed p. 96 |
 | 6-2 Binary and Amount of Information (bit, byte) | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 55 |
+| 1.1 Bits, bytes and storage units (KB, MB, GB, TB) | Bhutan, *Literacy with ICT, Class VIII*, printed p. 2 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Uzbekistan, Cuba, Egypt).**
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Uzbekistan, Cuba, Egypt, Bhutan).**
 
 No book error touches this lesson's content.
 
@@ -34,4 +37,6 @@ Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietar
 
 Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence student book): A full Japanese-style "Information Study" course adopted for Egypt's new secondary track: 13 chapters running from information theory, ethics and security through number systems, data analysis (frequency, variance, correlation, regression in spreadsheets), simulation and queues, Python, and a final AI-programming project chapter building web pages, a quiz app and a block-breaker game with generative AI.
 
-Searchable tags: units of data storage — bit, byte, kb, mb, gb, tb, hardware, grade 7, information technology, ict, ethiopia, uganda, uzbekistan, grade 8, cuba, grade 7, egypt, grade 10
+Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary/middle year is project-led — a full Audacity audio unit (record, edit, mix, share), information ethics taught through Copyright, Creative Commons and software piracy, and Scratch taught to game level with lists, custom blocks (functions) and logical operators.
+
+Searchable tags: units of data storage — bit, byte, kb, mb, gb, tb, hardware, grade 7, information technology, ict, ethiopia, uganda, uzbekistan, grade 8, cuba, grade 7, egypt, grade 10, bhutan, class viii

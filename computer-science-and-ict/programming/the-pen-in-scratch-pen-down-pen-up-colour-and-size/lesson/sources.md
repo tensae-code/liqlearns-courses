@@ -1,6 +1,6 @@
 # Sources — The Pen in Scratch — Pen Down, Pen Up, Colour and Size
 
-countries: Palestine, Cuba
+countries: Palestine, Cuba, Bhutan
 
 **Book 1:** *Programming (البرمجة), Grade 6* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "6" on cover) — Palestine, State of Palestine, Ministry of Education / Palestinian Curriculum Centre. Year 2019 (trial edition, 1440H/2019; adopted from 2019/20). No ISBN printed. 88 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
@@ -14,6 +14,8 @@ countries: Palestine, Cuba
 
 **Book 6:** *Informática, séptimo grado* (student book, Spanish; title as printed: Informática, séptimo grado) — Cuba, Editorial Pueblo y Educación. 2023. ISBN 978-959-13-3796-2 (print) / 978-959-13-4108-2 (digital). 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 7:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unit 1 Lesson 3: The pen (pen down/up, clear, changing pen colour across 200+ shades and pen size) | Palestine, *Programming, Grade 6*, printed p. 18 |
@@ -26,8 +28,9 @@ countries: Palestine, Cuba
 | U.D.3 Séance 3 L'extension « Stylo » (3) (filed as programming/changing-the-pens-colour-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 24 (teacher guide — evidence) |
 | U.D.3 Séance 4 L'extension « Stylo » (4) (filed as programming/changing-the-pens-size-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 25 (teacher guide — evidence) |
 | Capítulo 4.2 Herramienta lápiz Scratch (trazado de figuras geométricas) — filed as programming/scratch-pen-tool-drawing-with-the-pencil; stocked here, in the lesson covering this topic | Cuba, *Informática, Grade 7*, printed p. 151 |
+| 6.1 Pen (pen down/up, colour, size, clear, stamp) (filed as NEW LESSON NEEDED — programming/scratch-pen-blocks-drawing-as-the-sprite-moves; stocked in this lesson because this lesson teaches the pen in Scratch — pen down, pen up, colour, size, clear and stamp work) | Bhutan, *Literacy with ICT, Class V*, printed p. 76 |
 
-**Acceptance count: taught in 2 countries (Palestine, Cuba).**
+**Acceptance count: taught in 3 countries (Palestine, Cuba, Bhutan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Palestine, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/the-pen-in-scratch-pen-down-pen-up-colour-and-size). It sits in the Programming title (programming/), following the book's own order.
 
@@ -43,4 +46,6 @@ Morocco's own way (Grade 6): primary ICT ends by making things with code — a w
 
 Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietary Windows with Cuba's free operating system Nova; programming continues the primary Scratch line, here centred on the Scratch pen tool for drawing geometric figures and the linear function; word-processor work ends by exporting documents to HTML for the web.
 
-Searchable tags: pen, pen down, pen up, clear, pen colour, pen size, ornaments, free writing, scratch, palestine, grade 6, grade 7, grade 8, grade 9, morocco, grade 6, cuba, grade 7
+Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
+
+Searchable tags: pen, pen down, pen up, clear, pen colour, pen size, ornaments, free writing, scratch, palestine, grade 6, grade 7, grade 8, grade 9, morocco, grade 6, cuba, grade 7, bhutan, class v

@@ -1,6 +1,6 @@
 # Sources — System or application? Telling software apart
 
-countries: Ethiopia, Afghanistan, Fiji
+countries: Ethiopia, Afghanistan, Fiji, Bhutan
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Afghanistan, Fiji
 
 **Book 4:** *Computer Education Textbook for Primary School Years 7-8* (student book, English) — Fiji, Fiji Ministry of Education (source: education.gov.fj via the record's source_url; no imprint page in the PDF as received — the PDF contains no cover, title page, contents or imprint). Year not printed in the PDF as received; no ISBN printed in the PDF as received. 229 PDF pages. Verdict: PARTIAL — front matter missing: the PDF begins at Unit 1 (printed p. 1) with no cover, title page, contents or imprint; all 9 units are present through printed p. 229. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/fiji-placements.md.
 
+**Book 5:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The comparison — purpose, running time, interaction; Windows vs Word | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed p.34 |
 | Unit 3 keys used as answer source, excluding flagged items (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher Guide, Grade 7*, Unit 3, printed pp.45–48 |
 | Lesson 6 "Classification of software" | Afghanistan, *Computer, Grade 11*, printed p. 26 |
 | Unit 1.5 System software vs application software | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 11 |
+| 1.1 Types of Software | Bhutan, *Literacy with ICT, Class VII*, printed p. 2 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Afghanistan, Fiji).**
+**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Fiji, Bhutan).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -25,4 +28,6 @@ The teacher guide's discussion key for this contrast repeats 'system software' o
 
 Fiji's own way (Years 7–8 Computer Education student book): A practical, exercise-driven primary book built around a class "students folder" of set files (work is saved as U<unit>-Ex<n>-<FirstName>); local Fijian names and schools throughout (e.g. Babasiga Secondary School), Internet searching is practised on the "Map of Fiji" with kids' search engines, and a full unit covers computers in Fijian society including Braille keyboards for blind learners. PARTIAL: the PDF as received has no cover, title page, contents or imprint — the PARTIAL label travels with every citation of this book.
 
-Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8
+Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
+
+Searchable tags: system software vs application software, comparison, Windows, Word, background, Grade 7 ICT Ethiopia, afghanistan, fiji, years 7-8, bhutan, class vii

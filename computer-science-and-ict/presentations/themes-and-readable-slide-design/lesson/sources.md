@@ -1,6 +1,6 @@
 # Sources — Themes and readable slide design
 
-countries: Ethiopia, Yemen, Iraq, Sudan, Egypt
+countries: Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Yemen, Iraq, Sudan, Egypt
 
 **Book 6:** *Information and Communication Technology — Fifth grade primary, Second Term 2025/2026* (student book, Arabic) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 44 PDF pages. Verdict: COMPLETE (Term 2 book: Units 3-4). Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 7:** *Literacy with ICT — A Textbook for Class 7* (title page: Class VII) (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019. ISBN 978-99936-0-442-6. 164 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Applying a theme — Design tab, thumbnail; scroll bar, down-arrow, Microsoft Office Online | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 125–126 |
@@ -22,8 +24,9 @@ countries: Ethiopia, Yemen, Iraq, Sudan, Egypt
 | Unit 2 Ch.1 Lesson 3 The Design tab: themes | Iraq, *Computer, Grade 10*, printed p. 48 |
 | Unit 3 Lesson 3: Adding movements and effects — changing the design shape | Sudan, *ICT, Grade 6*, printed p. 28 |
 | Unit 4 Lesson 3, readable, attractive slide design | Egypt, *ICT, Grade 5 Term 2 (Arabic)*, printed p. 32 |
+| 7.8 Designing a Good Presentation | Bhutan, *Literacy with ICT, Class VII*, printed p. 107 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Yemen, Iraq, Sudan, Egypt).**
+**Acceptance count: taught in 6 countries (Ethiopia, Yemen, Iraq, Sudan, Egypt, Bhutan).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -35,4 +38,6 @@ Sudan's own way (Grade 6): the final primary book is built around real Sudanese 
 
 Egypt's own way (Grade 5, Term 2 student book (Arabic)): Primary ICT is organised as themed units — "The Digital Citizen in the Internet World" then "My Digital Project" — with every lesson phrased as a journey or a how-to question.
 
-Searchable tags: theme, Design tab, contrast, sans-serif, font sizes, slide design, Ethiopia Grade 9, yemen, grade 11, iraq, grade 10, sudan, grade 6, egypt, grade 5
+Bhutan's own way (Class VII, Literacy with ICT student book): Social media is taught hands-on — learners create a Facebook account, post with audience settings, and follow netiquette and an Acceptable Use Policy; backup is taught to Google Drive, and the end-of-year experience is shared on Facebook.
+
+Searchable tags: theme, Design tab, contrast, sans-serif, font sizes, slide design, Ethiopia Grade 9, yemen, grade 11, iraq, grade 10, sudan, grade 6, egypt, grade 5, bhutan, class vii

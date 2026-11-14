@@ -1,6 +1,6 @@
 # Sources — Scratch Looks Blocks — Show, Hide and Say
 
-countries: Cuba
+countries: Cuba, Bhutan
 
 **Book 1:** *Programa — Mi Mundo Digital III, quinto grado* (teacher programme, Spanish; title as printed: Programa — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4592-9 (print) / 978-959-13-4596-7 (digital). 27 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher programme — evidence)
 
@@ -10,14 +10,17 @@ countries: Cuba
 
 **Book 4:** *Mi Mundo Digital III, sexto grado* (student book, Spanish; title as printed: Mi Mundo Digital III, sexto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5176-0 (print) / 978-959-13-5190-6 (digital). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 5:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Unidad 4.4 Bloques de apariencia: mostrar y esconder (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 20 (teacher programme — evidence) |
 | Unidad 4 Bloques de apariencia (decir, pensar, mostrar, esconder, disfraz, fondo, tamaño) (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 18 (teacher guide — evidence) |
 | Capítulo 4.2 Bloque de apariencia | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 102 |
 | Capítulo 3.2 Empleo del bloque Apariencia (Scratch) | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 66 |
+| 5.3 Looks (filed as NEW LESSON NEEDED — programming/scratch-looks-blocks-costumes-and-speech; stocked in this lesson because this lesson teaches Scratch's looks family — say, think, show, hide, costume, backdrop and size) | Bhutan, *Literacy with ICT, Class V*, printed p. 69 |
 
-**Acceptance count: taught in 1 country (Cuba).**
+**Acceptance count: taught in 2 countries (Cuba, Bhutan).**
 
 Placement choice: this lesson was built new for the ICT expansion (Cuba, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/scratch-looks-blocks-show-hide-and-say). It sits in the Programming title (programming/), following the book's own order. The teacher-side books above are cited as evidence alongside; Cuba counts once, from the student book(s).
 
@@ -29,4 +32,6 @@ Cuba's own way (Grade 5): Student text mirrors the programme in four chapters; w
 
 Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year — digital presentations, Scratch animation with event/control blocks, and spreadsheets with formulas and charts — closing with a TIC chapter on searching and processing digital information; computer generations are taught inside Chapter 1.
 
-Searchable tags: scratch, looks blocks, say, think, show, hide, costume, programming, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6
+Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
+
+Searchable tags: scratch, looks blocks, say, think, show, hide, costume, programming, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, bhutan, class v
