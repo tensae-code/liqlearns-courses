@@ -1,6 +1,6 @@
 # Sources — Food — where our food comes from
 
-countries: Ethiopia, Afghanistan, Mauritania, Angola, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Nicaragua
+countries: Ethiopia, Afghanistan, Mauritania, Angola, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji (teacher-guide evidence only), Nicaragua, Morocco (teacher-guide evidence only)
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -210,3 +210,23 @@ Searchable tags: fiji, fiji science, ministry of education fiji, keeping-healthy
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, keeping-healthy food-where-our-food-comes-from
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 3, Moufid 3):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 3ème année de l'enseignement primaire. PDF 97 pages, 3,366,348 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; unit start pages from the guide's own contents: U1 p. 8, U2 p. 20, U3 p. 33, U4 p. 48, U5 p. 61, U6 p. 74; the contents page mislabels the annual répartition "Deuxième Année" — the répartition itself and the cover are for the third year). Twin records: TSV blob record and books.json record grade-03/gov/morocco/science/teacher/moufid-eveil-3.pdf are the same book; cited once here. All placements are guide evidence; pages cited are the unit's fiche-block pages from the contents. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 1, Explora 1):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CP (1ère année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 33,580,565 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (how-to-use page, diagnostic evaluation, Units 1–6 × 4 lessons × fiche + key, a STEM project and a unit evaluation per unit, semester review, contents on the last page). Twin records: TSV blob record and books.json record grade-01/gov/morocco/science/teacher/explora-1-cp.pdf are the same book; cited once here. All placements are guide evidence; printed folio equals the PDF page in this series. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 3, Explora 3):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CE2 (3ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 35,993,529 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-03/gov/morocco/science/teacher/explora-3-ce2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the origin of our foods (guide evidence) (Morocco, Grade 3) | Morocco, *Moufid 3*, printed p. 61 (Unité 5, Séance 1) |
+| I need to eat and drink: classing foods by origin, animal, vegetable, mineral (guide evidence) (Morocco, Grade 1) | Morocco, *Explora 1*, printed p. 24 |
+| the origin of foods: animal, vegetable, mineral (guide evidence) (Morocco, Grade 3) | Morocco, *Explora 3*, printed p. 4 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, keeping-healthy food-where-our-food-comes-from

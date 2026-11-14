@@ -764,6 +764,8 @@ solar-system comparison lessons.
 
 41. **Plant survival — special parts and dispersal** (`plants/plant-survival-special-parts-and-dispersal`) — thorns, stinging hairs, poison and thick bark against enemies, waxy and needle leaves against climate, and seeds dispersed by water, animals, explosion and wind (Malaysia, Grade 5 — *Sains Tahun 5*, printed p. 94; built for the Malaysia placements, expansion-science-2026-11-13/malaysia-placements.md)
 
+42. **How plants change with the seasons** (`plants/how-plants-change-with-the-seasons`) — how plants change through the seasons, taught in two parts: watching plants through the turning year, then putting the changes in order — teacher-guide evidence only, acceptance 0 (Morocco, Grade 1 — *Guide Moufid en Éveil Scientifique 1 — CP*, printed pp. 51–52; built for the Morocco placements, expansion-science-2026-11-13/morocco-placements.md)
+
 ## Unit 9 — Animals
 
 1. **Grouping animals: by young, by movement, by food and by body** (`animals/grouping-animals`) — animals sort into groups: egg-layers against milk-givers; by movement (flying, crawling, walking) and home (land, water, both); by food (meat-eater…

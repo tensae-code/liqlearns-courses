@@ -1,6 +1,6 @@
 # Sources — Time measurement and the calendar
 
-countries: Uzbekistan, Kazakhstan, Albania (teacher-guide evidence only), Afghanistan, Dominican Republic, Malaysia
+countries: Uzbekistan, Kazakhstan, Albania (teacher-guide evidence only), Afghanistan, Dominican Republic, Malaysia, Morocco (teacher-guide evidence only)
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -107,3 +107,19 @@ Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro ab
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, earth-and-space time-measurement-and-the-calendar
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 2, Moufid 2):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 2ème année de l'enseignement primaire. PDF 89 pages, 2,745,509 bytes (matches books.json). Verdict: COMPLETE (Chapters 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-02/gov/morocco/science/teacher/moufid-eveil-2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the days of the week (guide evidence) (Morocco, Grade 2) | Morocco, *Moufid 2*, printed p. 80 |
+| the months of the year and their order (guide evidence) (Morocco, Grade 2) | Morocco, *Moufid 2*, printed p. 81 |
+| building a perpetual calendar (technological project, guide evidence) (Morocco, Grade 2) | Morocco, *Moufid 2*, printed p. 82 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, earth-and-space time-measurement-and-the-calendar

@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam, Nicaragua
+countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -403,3 +403,30 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-h
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, the-human-body the-brain
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 6, Moufid 6):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 6ème année de l'enseignement primaire. PDF 99 pages, 2,283,982 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/moufid-eveil-6.pdf are the same book; cited once here. All placements are guide evidence. Unit-level page citations are the pages where each unit's fiche block begins in the guide. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 6, Nachat Ilmi 6):** Title as printed (Arabic): Dalil al-Ustadh for the full school year, Al Moufid fi an-Nachat al-Ilmi, sixth year of primary education — the Arabic Al Moufid teacher guide for the same programme as the French Moufid 6 above. PDF 229 pages, 4,980,436 bytes (matches books.json). Verdict: COMPLETE (contents lists the year's six units at printed pp. 61, 85, 112, 139, 171, 196). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/full-year.pdf are the same book; cited once here. All placements are guide evidence from the Arabic guide; pages cited are the unit's opening printed page, with one fiche verified inside Unit 6 at PDF p. 200. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 6, Explora 6):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, 6e année, Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 37,474,530 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/explora-6.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the constituents of the nervous system (guide evidence) (Morocco, Grade 6) — placement filed as the-human-body/the-brain-command-centre-and-memory | Morocco, *Moufid 6*, printed p. 23 |
+| conscious sensitivity (guide evidence) (Morocco, Grade 6) — placement filed as the-human-body/the-brain-command-centre-and-memory | Morocco, *Moufid 6*, printed p. 23 |
+| reflex movements (guide evidence) (Morocco, Grade 6) — placement filed as the-human-body/the-brain-command-centre-and-memory | Morocco, *Moufid 6*, printed p. 22 |
+| protecting the nervous system (guide evidence) (Morocco, Grade 6) — placement filed as the-human-body/the-brain-command-centre-and-memory | Morocco, *Moufid 6*, printed p. 22 |
+| Unit 2: human health and interaction with the environment — nervous system, sensitivity, movement, nutrition (guide evidence, Arabic guide) (Morocco, Grade 6) — placement filed as the-human-body/the-brain-command-centre-and-memory | Morocco, *Nachat Ilmi 6*, printed p. 85 |
+| the components of the nervous system: brain, spinal cord and nerves (guide evidence) (Morocco, Grade 6) — placement filed as the-human-body/the-brain-command-centre-and-memory | Morocco, *Explora 6*, printed p. 14 |
+| conscious sensitivity: the five senses, each message travelling organ, nerve, brain (guide evidence) (Morocco, Grade 6) — placement filed as the-human-body/the-brain-command-centre-and-memory | Morocco, *Explora 6*, printed p. 16 |
+| motricity: voluntary movements and reflex movements (guide evidence) (Morocco, Grade 6) — placement filed as the-human-body/the-brain-command-centre-and-memory | Morocco, *Explora 6*, printed p. 18 |
+| hygiene and health: protecting my nervous system from tobacco, drugs, lack of sleep and screens (guide evidence) (Morocco, Grade 6) — placement filed as the-human-body/the-brain-command-centre-and-memory | Morocco, *Explora 6*, printed p. 20 |
+| STEM project: my reaction and reflex test (guide evidence) (Morocco, Grade 6) — placement filed as the-human-body/the-brain-command-centre-and-memory | Morocco, *Explora 6*, printed p. 22 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, the-human-body the-brain

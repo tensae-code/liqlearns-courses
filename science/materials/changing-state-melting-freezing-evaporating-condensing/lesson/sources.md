@@ -1,6 +1,6 @@
 # Sources — Changing state — melting, freezing, evaporating, condensing
 
-countries: Vietnam
+countries: Vietnam, Morocco (teacher-guide evidence only)
 
 **Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
 
@@ -25,3 +25,26 @@ Placement choice, on the record: this NEW LESSON was built for the Vietnam place
 Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, materials changing-state-melting-freezing-evaporating-condensing
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 4, Moufid 4):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 4ème année de l'enseignement primaire. PDF 92 pages, 1,515,588 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-04/gov/morocco/science/teacher/moufid-eveil-4.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 4, Explora 4):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CM1 (4ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 37,103,450 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (same layout as the CP guide: Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-04/gov/morocco/science/teacher/explora-4-cm1.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 5, Moufid 5):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 5ème année de l'enseignement primaire. PDF 103 pages, 2,199,261 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-05/gov/morocco/science/teacher/moufid-eveil-5.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 6, Moufid 6):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 6ème année de l'enseignement primaire. PDF 99 pages, 2,283,982 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/moufid-eveil-6.pdf are the same book; cited once here. All placements are guide evidence. Unit-level page citations are the pages where each unit's fiche block begins in the guide. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| changes of state of matter (guide evidence) (Morocco, Grade 4) — placement filed as NEW LESSON NEEDED — changes-of-state | Morocco, *Moufid 4*, printed p. 21 |
+| the changes of state of matter: melting, evaporation, condensation, solidification, matter never disappears (guide evidence) (Morocco, Grade 4) — placement filed as NEW LESSON NEEDED — changes-of-state | Morocco, *Explora 4*, printed p. 16 |
+| evaporation and condensation (guide evidence) (Morocco, Grade 5) — placement filed as NEW LESSON NEEDED — changes-of-state | Morocco, *Moufid 5*, printed p. 37 |
+| melting and solidification of water (guide evidence) (Morocco, Grade 6) — placement filed as NEW LESSON NEEDED — changes-of-state | Morocco, *Moufid 6*, printed p. 8 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials changing-state-melting-freezing-evaporating-condensing

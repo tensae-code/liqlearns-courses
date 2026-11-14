@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Malaysia, Morocco (teacher-guide evidence only)
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -577,3 +577,17 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, keeping-healthy food-the-six-nutrients
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 3, Moufid 3):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 3ème année de l'enseignement primaire. PDF 97 pages, 3,366,348 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; unit start pages from the guide's own contents: U1 p. 8, U2 p. 20, U3 p. 33, U4 p. 48, U5 p. 61, U6 p. 74; the contents page mislabels the annual répartition "Deuxième Année" — the répartition itself and the cover are for the third year). Twin records: TSV blob record and books.json record grade-03/gov/morocco/science/teacher/moufid-eveil-3.pdf are the same book; cited once here. All placements are guide evidence; pages cited are the unit's fiche-block pages from the contents. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what foods bring to my body (guide evidence) (Morocco, Grade 3) | Morocco, *Moufid 3*, printed p. 61 (Unité 5, Séance 3) |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, keeping-healthy food-the-six-nutrients

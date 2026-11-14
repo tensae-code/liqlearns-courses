@@ -1,6 +1,6 @@
 # Sources — Living things — what makes something alive
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -612,3 +612,20 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, anima
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, animals living-things-what-makes-something-alive
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 3, Moufid 3):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 3ème année de l'enseignement primaire. PDF 97 pages, 3,366,348 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; unit start pages from the guide's own contents: U1 p. 8, U2 p. 20, U3 p. 33, U4 p. 48, U5 p. 61, U6 p. 74; the contents page mislabels the annual répartition "Deuxième Année" — the répartition itself and the cover are for the third year). Twin records: TSV blob record and books.json record grade-03/gov/morocco/science/teacher/moufid-eveil-3.pdf are the same book; cited once here. All placements are guide evidence; pages cited are the unit's fiche-block pages from the contents. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 3, Explora 3):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CE2 (3ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 35,993,529 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-03/gov/morocco/science/teacher/explora-3-ce2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| telling living from non-living (guide evidence) (Morocco, Grade 3) | Morocco, *Moufid 3*, printed p. 8 (Unité 1, Séance 1) |
+| living or not living, how to know: the four criteria (guide evidence) (Morocco, Grade 3) | Morocco, *Explora 3*, printed p. 24 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, animals living-things-what-makes-something-alive

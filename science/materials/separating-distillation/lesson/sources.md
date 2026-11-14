@@ -1,6 +1,6 @@
 # Sources — Separating mixtures — distillation
 
-countries: Ethiopia, Seychelles, Sudan, Bhutan
+countries: Ethiopia, Seychelles, Sudan, Bhutan, Morocco (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -46,3 +46,20 @@ Searchable tags: sudan, sudan grade 6, materials/separating-distillation
 Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: bhutan, bhutan science, science class vi
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 4, Explora 4):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CM1 (4ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 37,103,450 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (same layout as the CP guide: Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-04/gov/morocco/science/teacher/explora-4-cm1.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 5, Explora 5):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CM2 (5ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 36,924,478 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-05/gov/morocco/science/teacher/explora-5-cm2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| STEM project: a solar distiller, recovering pure water from salt water (guide evidence) (Morocco, Grade 4) — placement filed as materials/separating-distillation-and-separating-funnels | Morocco, *Explora 4*, printed p. 22 |
+| STEM project: my mini solar desalinator (guide evidence) (Morocco, Grade 5) — placement filed as materials/separating-distillation-and-separating-funnels | Morocco, *Explora 5*, printed p. 62 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials separating-distillation

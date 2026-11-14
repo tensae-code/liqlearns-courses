@@ -1,6 +1,6 @@
 # Sources — Electricity and magnets
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, China, Saudi Arabia, Vietnam
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, China, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only)
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -85,3 +85,25 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, materials electricity-and-magnets
 
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 4, Moufid 4):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 4ème année de l'enseignement primaire. PDF 92 pages, 1,515,588 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-04/gov/morocco/science/teacher/moufid-eveil-4.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 4, Explora 4):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CM1 (4ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 37,103,450 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (same layout as the CP guide: Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-04/gov/morocco/science/teacher/explora-4-cm1.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 2, Nachat Ilmi 2):** Title as printed (Arabic): Dalil al-Ustadh, Al Moufid fi an-Nachat al-Ilmi, second year of primary education — the Arabic Al Moufid teacher guide for "scientific awakening", same programme as the French Moufid 2 above. PDF 263 pages, 31,085,325 bytes (matches books.json; the books.json tree route returned 404, so the file was fetched via the TSV release URL and its byte size and cover confirm it is the same book). Verdict: COMPLETE (about 46 PDF pages of pedagogical front matter — programme, competencies, annual distribution — then unit fiches for all six units of the year, in the same order as the French guide). Twin records: TSV release record and books.json record grade-02/gov/morocco/science/teacher/nachat-ilmi-2.pdf; both records are the same book, cited once here. All placements are guide evidence from the Arabic guide; pages cited are PDF pages of the fiche block. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 2, Explora 2):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CE1 (2ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 34,366,132 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-02/gov/morocco/science/teacher/explora-2-ce1.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| telling conductors from insulators (guide evidence) (Morocco, Grade 4) | Morocco, *Moufid 4*, printed p. 54 |
+| conductors, insulators and electrical faults: testing materials in a circuit (guide evidence) (Morocco, Grade 4) | Morocco, *Explora 4*, printed p. 38 |
+| Unit 6 continuation: first electricity items (guide evidence, Arabic guide) (Morocco, Grade 2) | Morocco, *Nachat Ilmi 2*, PDF p. 240 |
+| conductors or insulators (guide evidence) (Morocco, Grade 2) | Morocco, *Explora 2*, printed p. 58 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials electricity-and-magnets

@@ -1,6 +1,6 @@
 # Sources — Hearing — the path from vibration to brain
 
-countries: Ethiopia, Australia, Moldova, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Kuwait, Syria, Eritrea, Sri Lanka, North Macedonia, Indonesia, Yemen, Saudi Arabia, Vietnam, Nicaragua
+countries: Ethiopia, Australia, Moldova, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Kuwait, Syria, Eritrea, Sri Lanka, North Macedonia, Indonesia, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -226,3 +226,17 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, sound
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, sound hearing-the-path-from-vibration-to-brain
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 2, Moufid 2):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 2ème année de l'enseignement primaire. PDF 89 pages, 2,745,509 bytes (matches books.json). Verdict: COMPLETE (Chapters 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-02/gov/morocco/science/teacher/moufid-eveil-2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| protecting my hearing (guide evidence) (Morocco, Grade 2) | Morocco, *Moufid 2*, printed p. 39 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, sound hearing-the-path-from-vibration-to-brain

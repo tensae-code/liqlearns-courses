@@ -1,6 +1,6 @@
 # Sources — Sunlight keeps everything alive, and what light is used for
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam
+countries: Ethiopia, Albania (teacher-guide evidence only), Greece, Cuba, Egypt, Ecuador, Laos, Eritrea, Rwanda, Bangladesh, Vietnam, Morocco (teacher-guide evidence only)
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -156,3 +156,25 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, light sunlight-keeps-everything-alive
 
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 3, Moufid 3):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 3ème année de l'enseignement primaire. PDF 97 pages, 3,366,348 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; unit start pages from the guide's own contents: U1 p. 8, U2 p. 20, U3 p. 33, U4 p. 48, U5 p. 61, U6 p. 74; the contents page mislabels the annual répartition "Deuxième Année" — the répartition itself and the cover are for the third year). Twin records: TSV blob record and books.json record grade-03/gov/morocco/science/teacher/moufid-eveil-3.pdf are the same book; cited once here. All placements are guide evidence; pages cited are the unit's fiche-block pages from the contents. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 5, Moufid 5):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 5ème année de l'enseignement primaire. PDF 103 pages, 2,199,261 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-05/gov/morocco/science/teacher/moufid-eveil-5.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 5, Explora 5):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CM2 (5ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 36,924,478 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-05/gov/morocco/science/teacher/explora-5-cm2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 6, Explora 6):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, 6e année, Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 37,474,530 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/explora-6.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| why the Sun is necessary to the solar system (guide evidence) (Morocco, Grade 3) | Morocco, *Moufid 3*, printed p. 74 (Unité 6, Séance 6) |
+| the Sun around us (guide evidence) (Morocco, Grade 5) | Morocco, *Moufid 5*, printed p. 82 |
+| the Sun, source of life and energy (guide evidence) (Morocco, Grade 5) | Morocco, *Explora 5*, printed p. 60 |
+| STEM project: my solar oven, cooking with the Sun alone (guide evidence) (Morocco, Grade 6) | Morocco, *Explora 6*, printed p. 62 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, light sunlight-keeps-everything-alive

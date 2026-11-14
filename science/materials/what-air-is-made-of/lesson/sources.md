@@ -1,6 +1,6 @@
 # Sources — What air is made of
 
-countries: Angola, China, Eritrea, Sri Lanka, Rwanda, Vietnam
+countries: Angola, China, Eritrea, Sri Lanka, Rwanda, Vietnam, Morocco (teacher-guide evidence only)
 
 **Book 5 (Angola):** *Ciências da Natureza — Manual do Aluno, 5ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 5.ª classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 5, student book. Publisher: Texto Editores, Lda. for the Ministério da Educação, 2021, 2nd edition; ISBN 978-989-8884-83-1. PDF pages: 104 (cover/title page matches the record title). Verdict: COMPLETE. Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
 
@@ -101,3 +101,22 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, materials what-air-is-made-of
 
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 6, Moufid 6):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 6ème année de l'enseignement primaire. PDF 99 pages, 2,283,982 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/moufid-eveil-6.pdf are the same book; cited once here. All placements are guide evidence. Unit-level page citations are the pages where each unit's fiche block begins in the guide. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 5, Explora 5):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CM2 (5ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 36,924,478 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-05/gov/morocco/science/teacher/explora-5-cm2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 6, Explora 6):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, 6e année, Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 37,474,530 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/explora-6.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the constituents of air (guide evidence) (Morocco, Grade 6) — placement filed as NEW LESSON NEEDED — what-air-is-made-of | Morocco, *Moufid 6*, printed p. 8 |
+| the atmosphere, the air around Earth: 78 percent nitrogen, 21 percent oxygen, and pollution factors (guide evidence) (Morocco, Grade 5) — placement filed as NEW LESSON NEEDED — what-air-is-made-of | Morocco, *Explora 5*, printed p. 58 |
+| air: its composition and properties, a mixture that has mass, takes volume, can be compressed and expands with heat (guide evidence) (Morocco, Grade 6) — placement filed as NEW LESSON NEEDED — what-air-is-made-of | Morocco, *Explora 6*, printed p. 4 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials what-air-is-made-of

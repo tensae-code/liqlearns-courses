@@ -1,6 +1,6 @@
 # Sources — How electricity is generated — power stations from source to grid
 
-countries: Argentina, Gabon (teacher-guide evidence only), Uzbekistan, Mozambique, Pakistan (Punjab), Sudan, Angola, Bhutan, Laos, Rwanda, North Macedonia, Indonesia, Yemen, Saudi Arabia, Vietnam, Nicaragua
+countries: Argentina, Gabon (teacher-guide evidence only), Uzbekistan, Mozambique, Pakistan (Punjab), Sudan, Angola, Bhutan, Laos, Rwanda, North Macedonia, Indonesia, Yemen, Saudi Arabia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only)
 
 **Book 1:** *La energía: cambios y movimientos* (student booklet) — Argentina, Física, Serie Cuadernos para el aula, Núcleos de Aprendizajes Prioritarios (NAP), Ministerio de Educación, Ciencia y Tecnología de la Nación, 1a ed., Buenos Aires, 2007. ISBN 978-950-00-0667-5. Title as printed: La energía: cambios y movimientos. Grade 7. The cover banner reads "ESTUDIANTES" — this is the students' edition (the series has a separate teacher-orientation version). PDF 28 pp., each page a two-page landscape spread = 56 printed pp., matching the imprint's "56 p.". Offset: printed pp. 10–11 = PDF p. 6, so printed p. N sits on PDF spread p. (N+2)/2; chapters are cited by printed page. COMPLETE. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/argentina-placements.md.
 
@@ -218,3 +218,26 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, motio
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, motion-force-and-energy how-electricity-is-generated-power-stations-to-the-grid
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 6, Moufid 6):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 6ème année de l'enseignement primaire. PDF 99 pages, 2,283,982 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/moufid-eveil-6.pdf are the same book; cited once here. All placements are guide evidence. Unit-level page citations are the pages where each unit's fiche block begins in the guide. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 6, Nachat Ilmi 6):** Title as printed (Arabic): Dalil al-Ustadh for the full school year, Al Moufid fi an-Nachat al-Ilmi, sixth year of primary education — the Arabic Al Moufid teacher guide for the same programme as the French Moufid 6 above. PDF 229 pages, 4,980,436 bytes (matches books.json). Verdict: COMPLETE (contents lists the year's six units at printed pp. 61, 85, 112, 139, 171, 196). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/full-year.pdf are the same book; cited once here. All placements are guide evidence from the Arabic guide; pages cited are the unit's opening printed page, with one fiche verified inside Unit 6 at PDF p. 200. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 6, Explora 6):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, 6e année, Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 37,474,530 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/explora-6.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| producing electricity from steam (guide evidence) (Morocco, Grade 6) — placement filed as electricity-and-magnetism/how-electricity-is-generated-and-carried-to-homes | Morocco, *Moufid 6*, printed p. 54 |
+| electricity in a thermal power station (guide evidence) (Morocco, Grade 6) — placement filed as electricity-and-magnetism/how-electricity-is-generated-and-carried-to-homes | Morocco, *Moufid 6*, printed p. 53 |
+| electricity in a hydroelectric station (guide evidence) (Morocco, Grade 6) — placement filed as electricity-and-magnetism/how-electricity-is-generated-and-carried-to-homes | Morocco, *Moufid 6*, printed p. 53 |
+| electricity with a wind turbine (guide evidence) (Morocco, Grade 6) — placement filed as electricity-and-magnetism/how-electricity-is-generated-and-carried-to-homes | Morocco, *Moufid 6*, printed p. 53 |
+| Unit 4: forms of energy and their transfer, forces and movement — making electricity, levers (guide evidence, Arabic guide) (Morocco, Grade 6) — placement filed as electricity-and-magnetism/how-electricity-is-generated-and-carried-to-homes | Morocco, *Nachat Ilmi 6*, printed p. 139 |
+| the power stations: producing electricity by water, steam and wind (guide evidence) (Morocco, Grade 6) — placement filed as electricity-and-magnetism/how-electricity-is-generated-and-carried-to-homes | Morocco, *Explora 6*, printed p. 44 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, motion-force-and-energy how-electricity-is-generated-power-stations-to-the-grid

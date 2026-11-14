@@ -1,6 +1,6 @@
 # Sources — Food — what food is
 
-countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Indonesia, Yemen, Nicaragua, Malaysia
+countries: Ethiopia, Cook Islands, Canada (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Zimbabwe (teacher-guide evidence only), Indonesia, Yemen, Nicaragua, Malaysia, Morocco (teacher-guide evidence only)
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -359,3 +359,18 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, keeping-healthy food-what-food-is
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 1, Moufid 1):** Title as printed: AL MOFID en EVEIL des SCIENCES, Guide de l'enseignant(e), 1ère année du cycle primaire (authors M. Boulanouar, A. Aboufadl, L. Soullame). Conforme au nouveau programme révisé du Ministère de l'Éducation Nationale et de la Formation Professionnelle. PDF 83 pages, 1,819,774 bytes (matches books.json). Verdict: COMPLETE (diagnostic, Chapters 1–6 of ten séances each, final evaluation; the annual répartition at printed pp. 4–5 lists every séance with its page). Twin records: TSV blob record and books.json record grade-01/gov/morocco/science/teacher/moufid-eveil-cp.pdf are the same book; cited once here. All placements are guide evidence (the guide carries the pupil book's séances with method, knowledge complements and answers). All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| which foods to eat to stay healthy (guide evidence) (Morocco, Grade 1) | Morocco, *Moufid 1*, printed p. 26 |
+| what a baby eats to grow (guide evidence) (Morocco, Grade 1) | Morocco, *Moufid 1*, printed p. 32 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, keeping-healthy food-what-food-is

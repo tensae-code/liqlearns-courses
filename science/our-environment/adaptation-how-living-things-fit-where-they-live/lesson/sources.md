@@ -1,6 +1,6 @@
 # Sources — Adaptation — how living things fit where they live
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Greece, United States, Cuba, Sudan, Kuwait, China, Syria, North Macedonia, Bangladesh
+countries: Djibouti (teacher-guide evidence only), Mongolia, Greece, United States, Cuba, Sudan, Kuwait, China, Syria, North Macedonia, Bangladesh, Morocco (teacher-guide evidence only)
 
 **Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -219,3 +219,17 @@ Placement choice, on the record: the Bangladesh placement(s) above filed as NEW 
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, our-environment adaptation-how-living-things-fit-where-they-live
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 4, Explora 4):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CM1 (4ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 37,103,450 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (same layout as the CP guide: Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-04/gov/morocco/science/teacher/explora-4-cm1.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| adaptation strategies: migration and hibernation as two opposite answers to winter (guide evidence) (Morocco, Grade 4) — placement filed as NEW LESSON NEEDED — how-living-things-adapt-to-their-milieu | Morocco, *Explora 4*, printed p. 26 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, our-environment adaptation-how-living-things-fit-where-they-live

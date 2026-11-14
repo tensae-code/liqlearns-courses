@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba, Cambodia (guide evidence only), Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, China, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Malaysia, Morocco (teacher-guide evidence only)
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -391,3 +391,23 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, mater
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, materials air-is-there-air-takes-up-space-and-can-be-pushed
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 2, Moufid 2):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 2ème année de l'enseignement primaire. PDF 89 pages, 2,745,509 bytes (matches books.json). Verdict: COMPLETE (Chapters 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-02/gov/morocco/science/teacher/moufid-eveil-2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 3, Moufid 3):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 3ème année de l'enseignement primaire. PDF 97 pages, 3,366,348 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; unit start pages from the guide's own contents: U1 p. 8, U2 p. 20, U3 p. 33, U4 p. 48, U5 p. 61, U6 p. 74; the contents page mislabels the annual répartition "Deuxième Année" — the répartition itself and the cover are for the third year). Twin records: TSV blob record and books.json record grade-03/gov/morocco/science/teacher/moufid-eveil-3.pdf are the same book; cited once here. All placements are guide evidence; pages cited are the unit's fiche-block pages from the contents. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 6, Moufid 6):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 6ème année de l'enseignement primaire. PDF 99 pages, 2,283,982 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/moufid-eveil-6.pdf are the same book; cited once here. All placements are guide evidence. Unit-level page citations are the pages where each unit's fiche block begins in the guide. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| showing that air is everywhere around us (guide evidence) (Morocco, Grade 2) | Morocco, *Moufid 2*, printed p. 78 |
+| the properties of air (guide evidence) (Morocco, Grade 3) | Morocco, *Moufid 3*, printed p. 20 (Unité 2, Séance 1) |
+| air has a mass (guide evidence) (Morocco, Grade 6) | Morocco, *Moufid 6*, printed p. 8 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, materials air-is-there-air-takes-up-space-and-can-be-pushed

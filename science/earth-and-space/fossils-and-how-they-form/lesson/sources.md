@@ -1,6 +1,6 @@
 # Sources — Fossils and how they form
 
-countries: Haiti, Cabo Verde (teacher-guide evidence only), Dominican Republic, Bangladesh
+countries: Haiti, Cabo Verde (teacher-guide evidence only), Dominican Republic, Bangladesh, Morocco (teacher-guide evidence only)
 
 **Book 1:** *Géologie — La formation des roches sédimentaires (8e, séquence)* (teaching sequence) — Haiti, Canoprof/Nectar sequence, Creative Commons. PDF 14 pages. Verdict: COMPLETE. Earth-science content of the SVT strand — placed here. Page numbers are the document's own printed pages. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/haiti-placements.md.
 
@@ -65,3 +65,17 @@ Placement choice, on the record: the Bangladesh placement(s) above filed as NEW 
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space fossils-and-how-they-form
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 4, Moufid 4):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 4ème année de l'enseignement primaire. PDF 92 pages, 1,515,588 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-04/gov/morocco/science/teacher/moufid-eveil-4.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fossils and their interest (guide evidence) (Morocco, Grade 4) — placement filed as NEW LESSON NEEDED — fossils-and-what-they-tell | Morocco, *Moufid 4*, printed p. 77 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, earth-and-space fossils-and-how-they-form

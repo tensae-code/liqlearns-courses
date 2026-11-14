@@ -1,6 +1,6 @@
 # Sources — Magnetic fields — field lines, Earth's field and the compass
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Djibouti (teacher-guide evidence only), Mongolia, Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Bhutan, China, Syria, Sri Lanka, Rwanda, North Macedonia, Indonesia, Vietnam, Nicaragua
+countries: Ethiopia, Gabon (teacher-guide evidence only), Bahamas (curriculum evidence only), Kenya, Cambodia (private-booklet evidence only), India, South Sudan, Mozambique, Mauritania, Italy, Serbia, Djibouti (teacher-guide evidence only), Mongolia, Pakistan (Punjab), Armenia, Cabo Verde (teacher-guide evidence only), Bhutan, China, Syria, Sri Lanka, Rwanda, North Macedonia, Indonesia, Vietnam, Nicaragua, Morocco (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -288,3 +288,17 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, elect
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, electricity-and-magnetism magnetic-fields-earths-field-and-the-compass
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 5, Moufid 5):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 5ème année de l'enseignement primaire. PDF 103 pages, 2,199,261 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-05/gov/morocco/science/teacher/moufid-eveil-5.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the magnetic field created by an electric current (guide evidence) (Morocco, Grade 5) — placement filed as electricity-and-magnetism/magnetic-fields-and-field-lines | Morocco, *Moufid 5*, printed p. 68 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, electricity-and-magnetism magnetic-fields-earths-field-and-the-compass

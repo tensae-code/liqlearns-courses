@@ -1,6 +1,6 @@
 # Sources — Seasons and climate zones of our country
 
-countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy, Mongolia, Costa Rica, Moldova, Cuba, Samoa, Cambodia, Dominican Republic, North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam
+countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy, Mongolia, Costa Rica, Moldova, Cuba, Samoa, Cambodia, Dominican Republic, North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -277,3 +277,16 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, weather-and-seasons seasons-and-climate-zones-of-our-country
 
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 1, Explora 1):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CP (1ère année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 33,580,565 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (how-to-use page, diagnostic evaluation, Units 1–6 × 4 lessons × fiche + key, a STEM project and a unit evaluation per unit, semester review, contents on the last page). Twin records: TSV blob record and books.json record grade-01/gov/morocco/science/teacher/explora-1-cp.pdf are the same book; cited once here. All placements are guide evidence; printed folio equals the PDF page in this series. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the four seasons and their characteristics (guide evidence) (Morocco, Grade 1) — placement filed as weather-and-seasons/seasons-and-climate-zones-and-storms | Morocco, *Explora 1*, printed p. 40 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, weather-and-seasons seasons-and-climate-zones-of-our-country

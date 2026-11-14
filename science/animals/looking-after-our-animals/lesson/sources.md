@@ -1,6 +1,6 @@
 # Sources — Looking after our animals
 
-countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola, China, Laos, Eritrea, North Macedonia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Nicaragua
+countries: Ethiopia, Suriname, Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, Cambodia, Ecuador, Cabo Verde, Mauritania, Angola, China, Laos, Eritrea, North Macedonia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Nicaragua, Morocco (teacher-guide evidence only)
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -328,3 +328,23 @@ Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, anima
 Nicaragua's own way — its MINED *Ciencias Naturales* books (the grade textbooks and the Módulos Autoformativos for rural distance secondary) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Nicaragua's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicaragua, animals looking-after-our-animals
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 4, Moufid 4):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 4ème année de l'enseignement primaire. PDF 92 pages, 1,515,588 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-04/gov/morocco/science/teacher/moufid-eveil-4.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 1, Explora 1):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CP (1ère année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 33,580,565 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (how-to-use page, diagnostic evaluation, Units 1–6 × 4 lessons × fiche + key, a STEM project and a unit evaluation per unit, semester review, contents on the last page). Twin records: TSV blob record and books.json record grade-01/gov/morocco/science/teacher/explora-1-cp.pdf are the same book; cited once here. All placements are guide evidence; printed folio equals the PDF page in this series. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 4, Explora 4):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CM1 (4ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 37,103,450 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (same layout as the CP guide: Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-04/gov/morocco/science/teacher/explora-4-cm1.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how parents protect their young (guide evidence) (Morocco, Grade 4) | Morocco, *Moufid 4*, printed p. 37 |
+| STEM project: making a bird feeder for the school garden (guide evidence) (Morocco, Grade 1) | Morocco, *Explora 1*, printed p. 52 |
+| survival strategies of animals: many eggs and no care, or few young and long care (guide evidence) (Morocco, Grade 4) | Morocco, *Explora 4*, printed p. 46 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, animals looking-after-our-animals

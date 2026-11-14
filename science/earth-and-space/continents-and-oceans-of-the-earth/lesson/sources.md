@@ -1,6 +1,6 @@
 # Sources — Continents and oceans of the Earth
 
-countries: Cuba, North Macedonia, Vietnam
+countries: Cuba, North Macedonia, Vietnam, Morocco (teacher-guide evidence only)
 
 **Book (Cuba — Grade 6 student book):** *Ciencias Naturales, Sexto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Sexto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 5th reprint 2015 of the 2nd edition 2002 (© 1990), ISBN 978-959-13-0971-6. PDF 178 pages, 6,997,105 bytes. Verdict: COMPLETE (five chapters, conclusions and vocabulary to printed p. 167). Printed page = PDF page − 10 approx. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
 
@@ -50,3 +50,23 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, earth-and-space continents-and-oceans-of-the-earth
 
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 6, Moufid 6):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 6ème année de l'enseignement primaire. PDF 99 pages, 2,283,982 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/moufid-eveil-6.pdf are the same book; cited once here. All placements are guide evidence. Unit-level page citations are the pages where each unit's fiche block begins in the guide. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 6, Nachat Ilmi 6):** Title as printed (Arabic): Dalil al-Ustadh for the full school year, Al Moufid fi an-Nachat al-Ilmi, sixth year of primary education — the Arabic Al Moufid teacher guide for the same programme as the French Moufid 6 above. PDF 229 pages, 4,980,436 bytes (matches books.json). Verdict: COMPLETE (contents lists the year's six units at printed pp. 61, 85, 112, 139, 171, 196). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/full-year.pdf are the same book; cited once here. All placements are guide evidence from the Arabic guide; pages cited are the unit's opening printed page, with one fiche verified inside Unit 6 at PDF p. 200. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 6, Explora 6):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, 6e année, Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 37,474,530 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-06/gov/morocco/science/teacher/explora-6.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| seas, oceans and the expanses of water (guide evidence) (Morocco, Grade 6) — placement filed as NEW LESSON NEEDED — seas-oceans-and-water-bodies | Morocco, *Moufid 6*, printed p. 81 |
+| the importance of seas and oceans for life on Earth (guide evidence) (Morocco, Grade 6) — placement filed as NEW LESSON NEEDED — seas-oceans-and-water-bodies | Morocco, *Moufid 6*, printed p. 81 |
+| Unit 6: seas, oceans and water bodies (guide evidence, Arabic guide; fiche verified at PDF p. 200) (Morocco, Grade 6) — placement filed as NEW LESSON NEEDED — seas-oceans-and-water-bodies | Morocco, *Nachat Ilmi 6*, printed p. 196 |
+| seas and oceans, sources of life: the four kinds of water expanses, oceans producing oxygen (guide evidence) (Morocco, Grade 6) — placement filed as NEW LESSON NEEDED — seas-oceans-and-water-bodies | Morocco, *Explora 6*, printed p. 54 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, earth-and-space continents-and-oceans-of-the-earth

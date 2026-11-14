@@ -1,6 +1,6 @@
 # Sources — Water — why it is precious and how to save it
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam, Morocco (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -437,3 +437,25 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, soil-and-water water-why-it-is-precious-and-how-to-save-it
 
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 1, Moufid 1):** Title as printed: AL MOFID en EVEIL des SCIENCES, Guide de l'enseignant(e), 1ère année du cycle primaire (authors M. Boulanouar, A. Aboufadl, L. Soullame). Conforme au nouveau programme révisé du Ministère de l'Éducation Nationale et de la Formation Professionnelle. PDF 83 pages, 1,819,774 bytes (matches books.json). Verdict: COMPLETE (diagnostic, Chapters 1–6 of ten séances each, final evaluation; the annual répartition at printed pp. 4–5 lists every séance with its page). Twin records: TSV blob record and books.json record grade-01/gov/morocco/science/teacher/moufid-eveil-cp.pdf are the same book; cited once here. All placements are guide evidence (the guide carries the pupil book's séances with method, knowledge complements and answers). All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 1, Explora 1):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CP (1ère année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 33,580,565 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (how-to-use page, diagnostic evaluation, Units 1–6 × 4 lessons × fiche + key, a STEM project and a unit evaluation per unit, semester review, contents on the last page). Twin records: TSV blob record and books.json record grade-01/gov/morocco/science/teacher/explora-1-cp.pdf are the same book; cited once here. All placements are guide evidence; printed folio equals the PDF page in this series. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 5, Moufid 5):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 5ème année de l'enseignement primaire. PDF 103 pages, 2,199,261 bytes (matches books.json). Verdict: COMPLETE (Units 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-05/gov/morocco/science/teacher/moufid-eveil-5.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 5, Explora 5):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CM2 (5ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 36,924,478 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-05/gov/morocco/science/teacher/explora-5-cm2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what to do to preserve water (guide evidence) (Morocco, Grade 1) | Morocco, *Moufid 1*, printed p. 48 |
+| water in my life: daily uses and not wasting it (guide evidence) (Morocco, Grade 1) | Morocco, *Explora 1*, printed p. 36 |
+| fresh-water resources and their uses (guide evidence) (Morocco, Grade 5) | Morocco, *Moufid 5*, printed p. 83 |
+| fresh water: its sources and uses on a Moroccan hydrographic map (guide evidence) (Morocco, Grade 5) | Morocco, *Explora 5*, printed p. 54 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, soil-and-water water-why-it-is-precious-and-how-to-save-it

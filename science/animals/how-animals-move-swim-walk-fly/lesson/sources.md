@@ -1,6 +1,6 @@
 # Sources — How animals move — swim, walk, fly
 
-countries: Sudan, Mauritania, Kuwait, Syria
+countries: Sudan, Mauritania, Kuwait, Syria, Morocco (teacher-guide evidence only)
 
 **Book (Sudan — Grade 4):** Title as printed: العلوم الطبيعية ٤ (Natural Sciences 4), primary stage. Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda (المركز القومي للمناهج والبحث التربوي – بخت الرضا). No ISBN on the pages read. Student book, Arabic. Source: external link — staged under the 2026-11-13 rule Record: links-wave download from the record's Google Drive link; 23,042,366 bytes, PDF 97 pages (= the books.json record's 97 pages). Staged at phase3-staging/grade-04/gov/sudan/science/student/full-year.pdf (books.json record updated with size/pages). Verdict: COMPLETE (contents PDF pp. 4–5, eight units, through printed p. 90). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
 
@@ -59,3 +59,24 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — how-an
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, how animals move swim walk fly
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 1, Moufid 1):** Title as printed: AL MOFID en EVEIL des SCIENCES, Guide de l'enseignant(e), 1ère année du cycle primaire (authors M. Boulanouar, A. Aboufadl, L. Soullame). Conforme au nouveau programme révisé du Ministère de l'Éducation Nationale et de la Formation Professionnelle. PDF 83 pages, 1,819,774 bytes (matches books.json). Verdict: COMPLETE (diagnostic, Chapters 1–6 of ten séances each, final evaluation; the annual répartition at printed pp. 4–5 lists every séance with its page). Twin records: TSV blob record and books.json record grade-01/gov/morocco/science/teacher/moufid-eveil-cp.pdf are the same book; cited once here. All placements are guide evidence (the guide carries the pupil book's séances with method, knowledge complements and answers). All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 2, Moufid 2):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 2ème année de l'enseignement primaire. PDF 89 pages, 2,745,509 bytes (matches books.json). Verdict: COMPLETE (Chapters 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-02/gov/morocco/science/teacher/moufid-eveil-2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 2, Explora 2):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CE1 (2ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 34,366,132 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-02/gov/morocco/science/teacher/explora-2-ce1.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how animals move to live (guide evidence) (Morocco, Grade 1) — placement filed as NEW LESSON NEEDED — how-animals-move | Morocco, *Moufid 1*, printed p. 62 |
+| how animals move to live (guide evidence) (Morocco, Grade 2) — placement filed as NEW LESSON NEEDED — how-animals-move | Morocco, *Moufid 2*, printed p. 67 |
+| which organs for moving in water and in air (guide evidence) (Morocco, Grade 2) — placement filed as NEW LESSON NEEDED — how-animals-move | Morocco, *Moufid 2*, printed p. 68 |
+| how do animals move: each mode of moving with its organ (guide evidence) (Morocco, Grade 2) — placement filed as NEW LESSON NEEDED — how-animals-move | Morocco, *Explora 2*, printed p. 46 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, animals how-animals-move-swim-walk-fly

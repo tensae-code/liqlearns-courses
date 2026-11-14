@@ -1,6 +1,6 @@
 # Sources — Teeth: two sets, four jobs
 
-countries: Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Venezuela, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Vietnam
+countries: Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Venezuela, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Vietnam, Morocco (teacher-guide evidence only)
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -285,3 +285,26 @@ Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting
 
 Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-human-body teeth-two-sets-and-four-jobs
 
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 1, Moufid 1):** Title as printed: AL MOFID en EVEIL des SCIENCES, Guide de l'enseignant(e), 1ère année du cycle primaire (authors M. Boulanouar, A. Aboufadl, L. Soullame). Conforme au nouveau programme révisé du Ministère de l'Éducation Nationale et de la Formation Professionnelle. PDF 83 pages, 1,819,774 bytes (matches books.json). Verdict: COMPLETE (diagnostic, Chapters 1–6 of ten séances each, final evaluation; the annual répartition at printed pp. 4–5 lists every séance with its page). Twin records: TSV blob record and books.json record grade-01/gov/morocco/science/teacher/moufid-eveil-cp.pdf are the same book; cited once here. All placements are guide evidence (the guide carries the pupil book's séances with method, knowledge complements and answers). All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 2, Moufid 2):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 2ème année de l'enseignement primaire. PDF 89 pages, 2,745,509 bytes (matches books.json). Verdict: COMPLETE (Chapters 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-02/gov/morocco/science/teacher/moufid-eveil-2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 2, Explora 2):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CE1 (2ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 34,366,132 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-02/gov/morocco/science/teacher/explora-2-ce1.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what happens to my teeth: milk teeth fall and are replaced (guide evidence) (Morocco, Grade 1) | Morocco, *Moufid 1*, printed p. 33 |
+| are my teeth all identical (guide evidence) (Morocco, Grade 2) | Morocco, *Moufid 2*, printed p. 24 |
+| what my teeth are for (guide evidence) (Morocco, Grade 2) | Morocco, *Moufid 2*, printed p. 25 |
+| why and how to take care of my teeth (guide evidence) (Morocco, Grade 2) | Morocco, *Moufid 2*, printed p. 26 |
+| building a model denture (technological project, guide evidence) (Morocco, Grade 2) | Morocco, *Moufid 2*, printed p. 28 |
+| my teeth, tools for eating: incisors, canines, molars and their jobs (guide evidence) (Morocco, Grade 2) | Morocco, *Explora 2*, printed p. 16 |
+| STEM project: modelling the three kinds of teeth in salt dough (guide evidence) (Morocco, Grade 2) | Morocco, *Explora 2*, printed p. 22 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, the-human-body teeth-two-sets-and-four-jobs

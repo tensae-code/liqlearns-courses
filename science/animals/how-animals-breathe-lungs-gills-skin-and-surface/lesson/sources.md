@@ -1,6 +1,6 @@
 # Sources — How animals breathe — lungs, gills, skin and surface
 
-countries: Bulgaria, Mauritania, Kuwait, North Macedonia, Nicaragua, Malaysia
+countries: Bulgaria, Mauritania, Kuwait, North Macedonia, Nicaragua, Malaysia, Morocco (teacher-guide evidence only)
 
 **Book 4 (Bulgaria):** *Човекът и природата за 4. клас* (Man and Nature, Grade 4) (student book) — Bulgaria, authors Todorka Stefanova, Margarita Ninova, Silvestra Dimitrova, Zhivka Marina, Gergana Ananieva. Title as printed: ЧОВЕКЪТ И ПРИРОДАТА за четвърти клас (Man and Nature for Fourth Grade). Publisher: Bit i Tekhnika (Бит и техника), Varna, first edition 2019; ISBN 978-619-7523-38-6. PDF pages: 132 (printed 128 pages + covers); byte size 26,279,199. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bulgaria-placements.md.
 
@@ -92,3 +92,23 @@ Searchable tags: nicaragua, nicaragua science, ciencias naturales, mined nicarag
 Malaysia's own way — its Kementerian Pendidikan Malaysia (Ministry of Education) *Sains* books — the KSSR primary *Sains Tahun* books (Dewan Bahasa dan Pustaka) and the KSSM secondary *Sains* books, each Malay original cited once together with its DLP English parallel edition — teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Malaysia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: malaysia, malaysia science, sains, kssr, kssm, animals how-animals-breathe-lungs-gills-skin-and-surface
+
+## Morocco growth (2026-11-14, General Science expansion)
+
+**Book (Morocco — Grade 2, Moufid 2):** Title as printed: AL MOFID en Éveil Scientifique, Guide de l'enseignant, 2ème année de l'enseignement primaire. PDF 89 pages, 2,745,509 bytes (matches books.json). Verdict: COMPLETE (Chapters 1–6 of ten séances each; annual répartition at printed pp. 3–4). Twin records: TSV blob record and books.json record grade-02/gov/morocco/science/teacher/moufid-eveil-2.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 2, Nachat Ilmi 2):** Title as printed (Arabic): Dalil al-Ustadh, Al Moufid fi an-Nachat al-Ilmi, second year of primary education — the Arabic Al Moufid teacher guide for "scientific awakening", same programme as the French Moufid 2 above. PDF 263 pages, 31,085,325 bytes (matches books.json; the books.json tree route returned 404, so the file was fetched via the TSV release URL and its byte size and cover confirm it is the same book). Verdict: COMPLETE (about 46 PDF pages of pedagogical front matter — programme, competencies, annual distribution — then unit fiches for all six units of the year, in the same order as the French guide). Twin records: TSV release record and books.json record grade-02/gov/morocco/science/teacher/nachat-ilmi-2.pdf; both records are the same book, cited once here. All placements are guide evidence from the Arabic guide; pages cited are PDF pages of the fiche block. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+**Book (Morocco — Grade 2, Explora 2):** Title as printed: EXPLORA, Sciences & Technologie, Guide de l'enseignant(e) — Fiches et corrigés des activités, CE1 (2ème année), Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme. PDF 64 pages, 34,366,132 bytes (matches books.json). Image-only PDF — read visually from rendered pages page by page. Verdict: COMPLETE (Units 1–6 × 4 lessons, STEM project and evaluation per unit, contents on the last page). Twin records: TSV blob record and books.json record grade-02/gov/morocco/science/teacher/explora-2-ce1.pdf are the same book; cited once here. All placements are guide evidence. All placements from this book are guide evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/morocco-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how animals breathe (guide evidence) (Morocco, Grade 2) — placement filed as NEW LESSON NEEDED — how-animals-breathe | Morocco, *Moufid 2*, printed p. 69 |
+| Unit 5: how animals breathe (guide evidence, Arabic guide) (Morocco, Grade 2) — placement filed as NEW LESSON NEEDED — how-animals-breathe | Morocco, *Nachat Ilmi 2*, PDF p. 201 |
+| animals breathe too: lungs, gills, and through the skin (guide evidence) (Morocco, Grade 2) — placement filed as NEW LESSON NEEDED — how-animals-breathe | Morocco, *Explora 2*, printed p. 48 |
+
+**Acceptance count unchanged:** Morocco is named as teacher-guide evidence only (the Al Moufid, Explora and Dalil Al Moufid teacher guides named above), not added to this count.
+
+Morocco's own way — its Al Moufid guides (Dar Attakafa, written to the revised Moroccan primary programme of the Ministry of National Education), its Explora guides (Dar Attakafa, Édition Diffusion, adapted to the Moroccan programme) and its Arabic Dalil Al Moufid guides for the same programme teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Morocco's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: morocco, morocco science, al moufid, explora, dalil, animals how-animals-breathe-lungs-gills-skin-and-surface
