@@ -1,6 +1,6 @@
 # Sources — Energy — forms and conversions
 
-countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana
+countries: Ethiopia, Argentina, Bolivia (teacher-compendium evidence only), Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Haiti (programme evidence only), Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab), Kazakhstan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -185,3 +185,15 @@ Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
 **Acceptance count: taught in 18 countries (Ethiopia, Argentina, Syria, Sudan, Fiji, United States, Cambodia, North Macedonia, Vietnam, Libya, South Sudan, Mozambique, China, Mauritania, Greece, Pakistan (Punjab, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 1, grade 6
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 5 guide):** *Guide — Sciences Expérimentales, 5ème année* (teacher guide) — Djibouti, CRIPEN. Title as printed: Guide, Sciences Expérimentales, 5ème année, CRIPEN. Grade 5, TEACHER guide. PDF 76 pages, 1,995,280 bytes. Verdict: COMPLETE (four modules, 19 lessons). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Module 4, Leçon 4: what energy is and where it comes from; renewable energy (solar panels) (teacher guide — evidence) (Djibouti, Grade 5) | Djibouti, *Sciences Expérimentales G5 Guide*, printed p. 68 |
+
+**Acceptance count unchanged: taught in 18 countries.** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: djibouti, sciences expérimentales, cripen, energy, renewable, solar panels, teacher guide, grade 5

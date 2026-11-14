@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only)
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only)
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -52,3 +52,16 @@ Guatemala is named as teacher-guide evidence only (its three *Ciencias Naturales
 Guatemala's own way — each guide is organised as four "Experiencias de aprendizaje" (learning experiences) that weave the science content together with the knowledge of Guatemala's Maya, Garífuna, Xinka and Ladino peoples — that intercultural way of teaching is itself course content, carried exactly as filed.
 
 Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de orientaciones metodologicas, nutrition, nutrients, exercise, disease prevention
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Leçon 2: what the foods we eat bring to the body (teacher guide — evidence) (Djibouti, Grade 4) | Djibouti, *Sciences Expérimentales G4 Guide*, printed p. 13 |
+| Leçon 3: what the water in foods is for, in the body (teacher guide — evidence) (Djibouti, Grade 4) | Djibouti, *Sciences Expérimentales G4 Guide*, printed p. 16 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Cook Islands, Suriname).** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: djibouti, sciences expérimentales, nutrients, water in foods, teacher guide, grade 4

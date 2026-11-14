@@ -1,6 +1,6 @@
 # Sources — Air pollution — what dirties the air
 
-countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy
+countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only)
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -42,3 +42,15 @@ Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de o
 **Acceptance count: taught in 1 country (Italy).** Gabon and Guatemala are named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto, grade 9
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 5 guide):** *Guide — Sciences Expérimentales, 5ème année* (teacher guide) — Djibouti, CRIPEN. Title as printed: Guide, Sciences Expérimentales, 5ème année, CRIPEN. Grade 5, TEACHER guide. PDF 76 pages, 1,995,280 bytes. Verdict: COMPLETE (four modules, 19 lessons). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Module 3, Leçon 4: consequences of pollution for health and the environment (teacher guide — evidence) (Djibouti, Grade 5) | Djibouti, *Sciences Expérimentales G5 Guide*, printed p. 49 |
+
+**Acceptance count unchanged: taught in 1 country (Italy).** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: djibouti, sciences expérimentales, cripen, pollution consequences, health, teacher guide, grade 5

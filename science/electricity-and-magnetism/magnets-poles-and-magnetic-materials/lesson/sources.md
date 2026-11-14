@@ -1,6 +1,6 @@
 # Sources — Magnets — poles attract and repel; what is magnetic
 
-countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana
+countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -94,3 +94,16 @@ Searchable tags: magnets, poles, attract repel, magnetic materials, iron nickel 
 **Acceptance count: taught in 15 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 6
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Leçon 22: what is a magnet? It attracts only iron-containing metal (teacher guide — evidence) (Djibouti, Grade 4) | Djibouti, *Sciences Expérimentales G4 Guide*, printed p. 78 |
+| Leçon 23: the role of a magnet and its different sides (teacher guide — evidence) (Djibouti, Grade 4) | Djibouti, *Sciences Expérimentales G4 Guide*, printed p. 79 |
+
+**Acceptance count unchanged: taught in 15 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana).** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: djibouti, sciences expérimentales, magnet, iron, teacher guide, grade 4

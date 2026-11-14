@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only)
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only)
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -19,3 +19,15 @@ countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide eviden
 Placement choice, on the record: this NEW LESSON was built for the Gabon placement "Air is there — air takes up space and can be pushed" — gabon-placements.md, Book 1, Palier 2: La présence et l'usage de l'air; les propriétés de l'air, printed p. 17 — a topic no existing slug covers at this primary depth. It sits in materials/ and is registered in CURRICULUM.md Unit 4 (Materials). The source is an integrated Sciences TEACHER GUIDE (Super Efficace, EDIG/EDICEF), so the lesson rests on teacher-guide evidence only and is counted nowhere. Only the guide's Sciences physiques thread is placed; its biology/technology/TIC lessons are not physics placements and are excluded by scope.
 
 Searchable tags: air, properties of air, air takes up space, air pressure, wind, gabon, grade 3, jamaica, jamaica nsc integrated science
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 5 guide):** *Guide — Sciences Expérimentales, 5ème année* (teacher guide) — Djibouti, CRIPEN. Title as printed: Guide, Sciences Expérimentales, 5ème année, CRIPEN. Grade 5, TEACHER guide. PDF 76 pages, 1,995,280 bytes. Verdict: COMPLETE (four modules, 19 lessons). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Module 4, Leçon 1: what is air? Invisible, gaseous, it is matter (teacher guide — evidence) (Djibouti, Grade 5) | Djibouti, *Sciences Expérimentales G5 Guide*, printed p. 55 |
+
+**Acceptance count unchanged: taught in 0 countries — this lesson stands on guide evidence only (Gabon — teacher guide; Jamaica — curriculum guide; Djibouti — teacher guide), named here, counted nowhere.** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: djibouti, sciences expérimentales, cripen, air is matter, teacher guide, grade 5

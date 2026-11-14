@@ -1,6 +1,6 @@
 # Sources — Forests and what they give
 
-countries: Ethiopia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only)
+countries: Ethiopia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -111,3 +111,17 @@ Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova sk
 **Acceptance count unchanged: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia).** Iceland is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: iceland, líf á landi, skógur, forest, woods, teacher guide, grade 5
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Leçon 18: protecting and caring for vegetation in town and countryside — fences, no waste-water watering, reboisement (teacher guide — evidence) (Djibouti, Grade 4) | Djibouti, *Sciences Expérimentales G4 Guide*, printed p. 65 |
+
+**Acceptance count unchanged: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia).** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Carried as filed: the guide's own title line for Leçon 18 repeats "classer les aliments" in error; the content is protecting and caring for vegetation, as the placement records.
+
+Searchable tags: djibouti, sciences expérimentales, vegetation, reboisement, fences, teacher guide, grade 4

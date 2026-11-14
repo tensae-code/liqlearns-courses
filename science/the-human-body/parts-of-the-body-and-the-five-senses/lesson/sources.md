@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only)
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -90,3 +90,17 @@ Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
 **Acceptance count: taught in 3 countries (Ethiopia, Suriname, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 1
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 3 guide):** *Guide du maître — Sciences Expérimentales, 3ème année* (teacher guide) — Djibouti, CRIPEN — Centre de Recherche, d'Information et de Production de l'Éducation Nationale, Ministère de l'Éducation Nationale. Title as printed: Guide du Maître — Sciences Expérimentales, 3e année (Découverte du Monde), CRIPEN. Grade 3, TEACHER guide. PDF as secured: 1,469,198 bytes; pdfinfo reports 80 pages but the file is DAMAGED (broken page tree, "Kid object wrong type" errors) and only the first 44 pages yield text or render — Verdict: PARTIAL. Read and placed: front matter, the CB1 competency statement, and Modules 1–3 as far as the plant-life lessons (guide sequence 70). Missing: everything after that point in the guide. Page numbers cited are PDF pages (the guide's printed folios are only partly legible in the damaged copy). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Module 1: situate and name the parts of the human body, on oneself or a picture (teacher guide — evidence) (Djibouti, Grade 3) | Djibouti, *Sciences Expérimentales G3 Guide*, printed p. 11 |
+
+**Acceptance count unchanged: taught in 3 countries (Ethiopia, Suriname, Guyana).** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Honesty: the Djibouti Grade 3 guide file is PARTIAL — DAMAGED (broken page tree); only the first 44 of a reported 80 pages are readable — a clean copy is library debt, as filed.
+
+Searchable tags: djibouti, sciences expérimentales, cripen, parts of the body, teacher guide, grade 3, partial damaged

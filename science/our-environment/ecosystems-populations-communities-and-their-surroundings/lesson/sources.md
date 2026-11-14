@@ -1,6 +1,6 @@
 # Sources — Ecosystems — populations, communities and their surroundings
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only)
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -185,3 +185,17 @@ Searchable tags: guyana, science around us, ministry of education guyana, grade 
 **Acceptance count unchanged: taught in 8 countries (Ethiopia, Australia, Suriname, Nauru, Tuvalu, Niue, Serbia, Guyana).** Iceland is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: iceland, halló heimur 3, ecosystems, plants, mms, teacher aims sheet, grade 3
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Leçon 7: the living environments (milieux de vie) of animals (teacher guide — evidence) (Djibouti, Grade 4) | Djibouti, *Sciences Expérimentales G4 Guide*, printed p. 30 |
+| Leçon 8: characteristics of a terrestrial environment (teacher guide — evidence) (Djibouti, Grade 4) | Djibouti, *Sciences Expérimentales G4 Guide*, printed p. 33 |
+| Leçon 9: the factors that determine aquatic environments (teacher guide — evidence) (Djibouti, Grade 4) | Djibouti, *Sciences Expérimentales G4 Guide*, printed p. 36 |
+
+**Acceptance count unchanged: taught in 8 countries (Ethiopia, Australia, Suriname, Nauru, Tuvalu, Niue, Serbia, Guyana).** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: djibouti, sciences expérimentales, milieux de vie, terrestrial environment, aquatic environment, teacher guide, grade 4

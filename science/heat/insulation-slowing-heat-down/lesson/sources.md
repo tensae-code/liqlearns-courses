@@ -1,6 +1,6 @@
 # Sources — Insulation — slowing heat down
 
-countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhutan, Libya, Greece, Kazakhstan, Serbia
+countries: Ethiopia, Finland (instructor-pack evidence only), Syria, Uganda, Bhutan, Libya, Greece, Kazakhstan, Serbia, Djibouti (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -78,3 +78,15 @@ Searchable tags: insulation, insulator both directions, ice cubes blanket, house
 Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 5 guide):** *Guide — Sciences Expérimentales, 5ème année* (teacher guide) — Djibouti, CRIPEN. Title as printed: Guide, Sciences Expérimentales, 5ème année, CRIPEN. Grade 5, TEACHER guide. PDF 76 pages, 1,995,280 bytes. Verdict: COMPLETE (four modules, 19 lessons). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Module 4, Leçon 3: what keeps hot hot and cold cold (insulation) (teacher guide — evidence) (Djibouti, Grade 5) | Djibouti, *Sciences Expérimentales G5 Guide*, printed p. 61 |
+
+**Acceptance count unchanged: taught in 8 countries (Ethiopia, Syria, Uganda, Bhutan, Libya, Greece, Kazakhstan, Serbia).** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: djibouti, sciences expérimentales, cripen, insulation, teacher guide, grade 5

@@ -1,6 +1,6 @@
 # Sources — The digestive system
 
-countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only)
+countries: Ethiopia, Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only)
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -58,3 +58,17 @@ Searchable tags: guyana, science around us, ministry of education guyana, grade 
 **Acceptance count unchanged: taught in 2 countries (Ethiopia, Guyana).** Iceland is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: iceland, halló heimur 3, digestive system, mms, teacher aims sheet, grade 3
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 5 guide):** *Guide — Sciences Expérimentales, 5ème année* (teacher guide) — Djibouti, CRIPEN. Title as printed: Guide, Sciences Expérimentales, 5ème année, CRIPEN. Grade 5, TEACHER guide. PDF 76 pages, 1,995,280 bytes. Verdict: COMPLETE (four modules, 19 lessons). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Module 1, Leçon 1: how eating lets us grow: the path of food from mouth to anus (teacher guide — evidence) (Djibouti, Grade 5) | Djibouti, *Sciences Expérimentales G5 Guide*, printed p. 2 |
+| Module 1, Leçon 2: how foods are transformed in the digestive system (chewing, saliva, juices) (teacher guide — evidence) (Djibouti, Grade 5) | Djibouti, *Sciences Expérimentales G5 Guide*, printed p. 5 |
+| Module 1, Leçon 3: what becomes of transformed foods: nutrients pass into the blood (absorption) (teacher guide — evidence) (Djibouti, Grade 5) | Djibouti, *Sciences Expérimentales G5 Guide*, printed p. 9 |
+
+**Acceptance count unchanged: taught in 2 countries (Ethiopia, Guyana).** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Searchable tags: djibouti, sciences expérimentales, cripen, digestive system, absorption, teacher guide, grade 5

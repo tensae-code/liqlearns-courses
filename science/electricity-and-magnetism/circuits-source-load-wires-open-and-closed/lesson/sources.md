@@ -123,3 +123,17 @@ Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
 **Acceptance count: taught in 9 countries (Ethiopia, Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 6
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Leçon 19: lighting and switching off a lamp: a simple circuit with a switch (teacher guide — evidence) (Djibouti, Grade 4) | Djibouti, *Sciences Expérimentales G4 Guide*, printed p. 70 |
+
+**Acceptance count unchanged: taught in 9 countries (Ethiopia, Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana).** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Note: Djibouti was already named in this lesson's countries line as teacher-guide evidence only for a DIFFERENT book — the *Guide de l'enseignant Physique-Chimie 6ème* (Physics expansion wave) — so the countries line is unchanged by this growth; this row adds the Grade 4 Sciences Expérimentales guide's simple-circuit lesson as further Djibouti guide evidence.
+
+Searchable tags: djibouti, sciences expérimentales, simple circuit, switch, lamp, teacher guide, grade 4

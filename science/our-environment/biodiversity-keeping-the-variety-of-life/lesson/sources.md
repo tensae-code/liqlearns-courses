@@ -1,6 +1,6 @@
 # Sources — Biodiversity — keeping the variety of life
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only)
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -91,3 +91,17 @@ Searchable tags: niue, usp readers 2 and 4, biodiversity, reef fish, endemic spe
 **Acceptance count unchanged: taught in 5 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue).** Iceland is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: iceland, líf á landi, brekkubobbi, grassland snail, habitat protection, biodiversity, teacher guide, grade 5
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 5 guide):** *Guide — Sciences Expérimentales, 5ème année* (teacher guide) — Djibouti, CRIPEN. Title as printed: Guide, Sciences Expérimentales, 5ème année, CRIPEN. Grade 5, TEACHER guide. PDF 76 pages, 1,995,280 bytes. Verdict: COMPLETE (four modules, 19 lessons). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Module 3, Leçon 2: protecting biodiversity, with Djibouti's own Somali francolin, found only in Djibouti (teacher guide — evidence) (Djibouti, Grade 5) | Djibouti, *Sciences Expérimentales G5 Guide*, printed p. 43 |
+
+**Acceptance count unchanged: taught in 5 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue).** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Djibouti's own way — biodiversity taught through its own endemic bird, the Somali francolin, found only in Djibouti — is itself course content, carried exactly as filed.
+
+Searchable tags: djibouti, sciences expérimentales, cripen, biodiversity, somali francolin, teacher guide, grade 5

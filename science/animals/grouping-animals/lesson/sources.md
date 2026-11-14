@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only)
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -119,3 +119,17 @@ Placement choice, on the record: the Guyana placement was filed for `animals/ani
 **Acceptance count: taught in 6 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 1
+
+## Djibouti growth (2026-11-13, General Science expansion)
+
+**Book (Djibouti — Grade 3 guide):** *Guide du maître — Sciences Expérimentales, 3ème année* (teacher guide) — Djibouti, CRIPEN — Centre de Recherche, d'Information et de Production de l'Éducation Nationale, Ministère de l'Éducation Nationale. Title as printed: Guide du Maître — Sciences Expérimentales, 3e année (Découverte du Monde), CRIPEN. Grade 3, TEACHER guide. PDF as secured: 1,469,198 bytes; pdfinfo reports 80 pages but the file is DAMAGED (broken page tree, "Kid object wrong type" errors) and only the first 44 pages yield text or render — Verdict: PARTIAL. Read and placed: front matter, the CB1 competency statement, and Modules 1–3 as far as the plant-life lessons (guide sequence 70). Missing: everything after that point in the guide. Page numbers cited are PDF pages (the guide's printed folios are only partly legible in the damaged copy). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Module 2: classify animals by how they are born; match animals to their young (teacher guide — evidence) (Djibouti, Grade 3) | Djibouti, *Sciences Expérimentales G3 Guide*, printed p. 23 |
+
+**Acceptance count unchanged: taught in 6 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana).** Djibouti is named as teacher-guide evidence only, not added to this count.
+
+Honesty: the Djibouti Grade 3 guide file is PARTIAL — DAMAGED (broken page tree); only the first 44 of a reported 80 pages are readable — a clean copy is library debt, as filed.
+
+Searchable tags: djibouti, sciences expérimentales, cripen, grouping animals, how animals are born, teacher guide, grade 3, partial damaged
