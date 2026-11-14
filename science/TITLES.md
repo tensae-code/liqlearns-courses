@@ -55,6 +55,11 @@ The titles, in ladder order:
     us, and what is made from them.
 11. **Our Environment** — caring for soil, water and air; waste
     and what to do with it; the resources people make and share.
+    The General Science expansion (2026-11-13) adds Jamaica's
+    lesson — climate change impacts and adaptation in the
+    Caribbean (how climate change affects island life, and how
+    learners can minimise its impact — curriculum-guide evidence
+    only, acceptance 0) — 24 lessons in CURRICULUM.md Unit 11.
 12. **Family, School and Community** — who is in a family, the
     people of a school, the people of a community and their work.
 13. **Work and Heritage** — farming and making things, markets,

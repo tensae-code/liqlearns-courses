@@ -1,6 +1,6 @@
 # Sources — The scientific method — observe, hypothesise, test, conclude
 
-countries: Ethiopia, Cambodia, North Macedonia, Peru
+countries: Ethiopia, Cambodia, North Macedonia, Peru, Jamaica (curriculum-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Cambodia, North Macedonia, Peru
 
 **Book 4:** *Cuadernillo de fichas — Ciencia y Tecnología, Primaria 1* (workbook) — Peru, Ministerio de Educación, Perú (production marks dated 2016). As printed: *Cuadernillo de fichas — Ciencia y Tecnología, Primaria 1*. Grade 1, workbook (fichas). Records: TSV blob record + books.json `grade-01/gov/peru/science/workbook/full-year.pdf` — the same book, cited once. Fetched copy: 18,486,216 bytes, 7 PDF pages, full text layer. Verdict: PARTIAL — the held PDF is a single ficha (Ficha 4, *Las enfermedades y su cuidado*, printed pp. 21–27), not the whole workbook. Only that ficha was read and placed; the rest of the workbook is not held. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/peru-placements.md.
 
+
+**Book 5:** *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* (curriculum guide) — Jamaica, Ministry of Education, Youth and Information, Jamaica, 2018 (record dated Jan 2020). Title as printed: National Standards Curriculum Guide, Grades 7–9, Integrated Science. Publisher: Ministry of Education, Youth and Information, Jamaica, 2018. Grades: 7–9 · Kind as verified: curriculum guide (national standards curriculum guide — cited as the guide evidence it is, outside the acceptance count) · Repo path: grade-07/gov/jamaica/curriculum/grades-7-9-integrated-science.pdf · Byte size: 6,142,276 (on-disk staging copy, matching the books.json size_bytes) · PDF pages: 283 · Verdict: COMPLETE. Records: 2 (TSV release record + books.json record) = 1 distinct book — both records are the same file, cited ONCE here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jamaica-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Observe and ask | Ethiopia, *General Science Student Textbook, Grade 8*, printed pp. 1–3 |
@@ -18,8 +20,11 @@ countries: Ethiopia, Cambodia, North Macedonia, Peru
 | Opening part: the experimental method as five named steps, worked through pictured examples (Cambodia, Grade 10) | Cambodia, *រូបវិទ្យា ថ្នាក់ទី១០ (Physics, Grade 10)*, Opening part — printed pp. 2–4 |
 | Theme 1 §1.1: the scientific method — question, observation and data, hypothesis, experiment design, analysis, conclusion; physics as an experimental science (North Macedonia, Grade 7) | North Macedonia, *Физика за VII одделение во основно образование (Physics for Grade 7 in primary education)*, Theme 1 §1.1: the scientific method — question, observation and data, hypothesis, experiment design, analysis, conclusion; physics as an experimental science — printed pp. 9–10 |
 | Peru's Grade 1 way in — the ficha's own inquiry shape: observe the situation, ask the question, give possible answers, plan how to find out (search, draw, experiment) | Peru, *Cuadernillo de fichas — Ciencia y Tecnología, Primaria 1*, Ficha 4, *Las enfermedades y su cuidado*, printed p. 21 |
+| Working like a Scientist: methods of scientific investigation, science and technology, Jamaican scientists (curriculum-guide evidence) (Jamaica, Grade 7) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Working like a Scientist — printed p. 4 |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Cambodia, North Macedonia, Peru).**
+
+Jamaica is named as curriculum-guide evidence only (*National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* — curriculum guide), not added to this count.
 
 Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-syllabus book (implemented from 2014 E.C.; no bureau/publisher/year printed on it), NOT edition-matched to the Amhara student book (© 2015 E.C.) — it teaches a §1.1 measurement section the student book lacks; guide material is syllabus-level teacher evidence only, never a page-key to the student book.
 
@@ -27,4 +32,4 @@ Student placement: Grade 8 student item 2 (Unit 1, printed pp. 1–9). The stude
 
 Honesty: the Peru workbook is PARTIAL — the held PDF is a single ficha (Ficha 4, printed pp. 21–27) only, not the whole workbook; the rest of the workbook is not held. Only that ficha is placed here. Peru's own way — inquiry beginning inside a health ficha, at Grade 1 — is itself course content, carried in the row above.
 
-Searchable tags: scientific method, observation qualitative quantitative, hypothesis, law vs theory, conservation of mass, Grade 8 Unit 1, cambodia, north macedonia, peru, grade 1 inquiry
+Searchable tags: scientific method, observation qualitative quantitative, hypothesis, law vs theory, conservation of mass, Grade 8 Unit 1, cambodia, north macedonia, peru, grade 1 inquiry, jamaica, jamaica nsc integrated science

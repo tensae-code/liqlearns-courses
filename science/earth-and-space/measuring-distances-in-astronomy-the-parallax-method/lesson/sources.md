@@ -1,6 +1,6 @@
 # Sources — Measuring distances in astronomy — the parallax method
 
-countries: Kazakhstan
+countries: Kazakhstan, Jamaica (curriculum-guide evidence only)
 
 **Book 1:** **Title as printed:** ФИЗИКА 9 [Physics 9] — Н. А. Закирова, Р. Р. Аширов — Nur-Sultan: Arman-PV, 2019, ISBN 978-601-318-208-7 · **Grade:** Grade 9 · **Type:** student textbook (Kazakh edition) · **Repo path:** grade-09-gov-kazakhstan-fizika-student-405.pdf (mid-size-books-5) · **Bytes:** 9,164,630 (verified exact against the release-asset index and the okulyk.kz original) · **PDF pages:** 272 (imprint 272 pp.) · **Offset:** printed page = PDF page (0 offset; contents at the back, printed pp. 270–271) · **Verdict:** COMPLETE (born-digital; read from the full text layer, contents recovered in full — the contents spread's hyphenated text layer was reassembled line by line) Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kazakhstan-placements.md (record 405).
 
@@ -18,6 +18,8 @@ countries: Kazakhstan
 
 **Book 8:** **Title as printed:** Physics, Grade 9 — Tom Tierney (special advisor: Pat Doyle; Zakhidam Julay, Aizat Aimakhanova) — Express Publishing, first published 2018, printed in Kazakhstan, ISBN 978-1-4715-7521-1 · **Grade:** Grade 9 · **Type:** student textbook (English edition, written for the Kazakhstani Grade 9 programme; the secured file is the publisher's print-proof PDF with crop marks and the expresspublishing.kz watermark) · **Repo path:** grade-09-gov-kazakhstan-fizika-student-477.pdf (mid-size-books-5) · **Bytes:** 29,871,754 (verified exact against the release-asset index and the okulyk.kz original) · **PDF pages:** 194 · **Offset:** printed page = PDF page − 1 (the contents, printed p. 3, stands on PDF p. 4; bullets below cite printed pages) · **Verdict:** COMPLETE (the whole book read from the renders — contents, every module's headed topic blocks, and the glossary to printed p. 187; the file's last pages are blank proof leaves and the back cover) Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kazakhstan-placements.md (record 477).
 
+
+**Book 9:** *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* (curriculum guide) — Jamaica, Ministry of Education, Youth and Information, Jamaica, 2018 (record dated Jan 2020). Title as printed: National Standards Curriculum Guide, Grades 7–9, Integrated Science. Publisher: Ministry of Education, Youth and Information, Jamaica, 2018. Grades: 7–9 · Kind as verified: curriculum guide (national standards curriculum guide — cited as the guide evidence it is, outside the acceptance count) · Repo path: grade-07/gov/jamaica/curriculum/grades-7-9-integrated-science.pdf · Byte size: 6,142,276 (on-disk staging copy, matching the books.json size_bytes) · PDF pages: 283 · Verdict: COMPLETE. Records: 2 (TSV release record + books.json record) = 1 distinct book — both records are the same file, cited ONCE here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/jamaica-placements.md.
 | Lesson part | Where it comes from |
 |---|---|
 | §12 Determining distances in astronomy by the parallax method | Kazakhstan, *Zakirova & Ashirov (Arman-PV), Kazakh edition, 2019*, §12 Determining distances in astronomy by the parallax method — printed p. 75 — Annual parallax turns an angle into light-years (Kazakh edition, 2019) |
@@ -28,9 +30,12 @@ countries: Kazakhstan
 | §14 Determining the distance to bodies of the Solar system by the parallax method | Kazakhstan, *Kazakhbaeva, Nasokhova & Bekbasar (Mektep), Kazakh edition, 2019*, §14 Determining the distance to bodies of the Solar system by the parallax method — printed p. 68 — Parallax measures the neighbourhood (Kazakh edition, Mektep, 2019) |
 | §12 The parallax method of determining distances in astronomy | Kazakhstan, *Zakirova & Ashirov (Arman-PV), Uyghur edition, 2019*, §12 The parallax method of determining distances in astronomy — printed p. 75 — Parallax (Uyghur edition, 2019) |
 | Module 3: The parallax method | Kazakhstan, *Tierney (Express Publishing), English edition, 2018*, Module 3: The parallax method — printed p. 49 — Parsecs from a six-month baseline (English edition, Express Publishing, 2018) |
+| The light-year as a unit of astronomical distance, in the Space Science unit (curriculum-guide evidence) (Jamaica, Grade 8) | Jamaica, *National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science*, Space Science — printed p. 141 |
 
 **Acceptance count: taught in 1 country (Kazakhstan).**
 
+Jamaica is named as curriculum-guide evidence only (*National Standards Curriculum Guide: Science, Grades 7–9 — Integrated Science* — curriculum guide), not added to this count.
+
 Placement choice, on the record: this NEW LESSON was built for the Kazakhstan placement(s) tagged "NEW LESSON NEEDED" in kazakhstan-placements.md that name this topic. No existing lesson in the course taught this as its own topic when the Kazakhstan set was merged, so it is built new here in the standard shape, rather than force-fitted into a neighbour.
 
-Searchable tags: parallax, astronomical distances, parsec, triangulation, kazakhstan, grade 9
+Searchable tags: parallax, astronomical distances, parsec, triangulation, kazakhstan, grade 9, jamaica, jamaica nsc integrated science
