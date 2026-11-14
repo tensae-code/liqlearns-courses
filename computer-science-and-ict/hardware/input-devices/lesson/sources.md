@@ -1,6 +1,6 @@
 # Sources — Input devices — putting data in
 
-countries: Ethiopia, Tanzania, Yemen, North Macedonia
+countries: Ethiopia, Tanzania, Yemen, North Macedonia, Iraq
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Tanzania, Yemen, North Macedonia
 
 **Book 5:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 6:** *الحاسوب Computer — الصف الأول المتوسط (Computer, First Intermediate Grade), Grade 7* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2024 (1445H), fourth edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. The book appears twice in the records (a TSV release record, read here, and a books.json record whose tree path returns 404); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Input devices — putting data in | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 16 |
@@ -19,8 +21,9 @@ countries: Ethiopia, Tanzania, Yemen, North Macedonia
 | "The input unit" | Yemen, *Computer, Grade 10*, printed p. 26 |
 | "Input and Output Devices: Classification and Comparison" | North Macedonia, *Informatics, Year 1*, Тема 1 §1.4, printed p. 21 |
 | Unit 1, Lesson 1: Input peripherals and what each is for (keyboard for letters/numbers, scanner for bringing a picture in, microphone for sound) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 23 (teacher guide — evidence) |
+| Unit 1 Ch.1 Lesson 2 Input units | Iraq, *Computer, Grade 7*, printed p. 11 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Tanzania, Yemen, North Macedonia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Tanzania, Yemen, North Macedonia, Iraq).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -30,4 +33,6 @@ North Macedonia's own way (Year 1): five themes move from modern digital technol
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
-Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10, saudi arabia, grade 4
+Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — computer fundamentals, computer software (here: the operating system plus an unusually deep treatment of Windows right-click shortcut menus), algorithms and programming principles (ending in Scratch), and information technology and the internet — every lesson built on the Iraqi five-step learning cycle with opening activity, main idea, learning outcomes, vocabulary and lesson review.
+
+Searchable tags: input devices — putting data in, hardware, grade 7, information technology, ict, ethiopia, tanzania, yemen, grade 10, north macedonia, grade 10, saudi arabia, grade 4, iraq, grade 7

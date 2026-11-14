@@ -1,6 +1,6 @@
 # Sources — The Paragraph group — a map of its buttons
 
-countries: Ethiopia, Afghanistan, Yemen
+countries: Ethiopia, Afghanistan, Yemen, Iraq
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Afghanistan, Yemen
 
 **Book 4:** *الحاسوب — للصف الأول من المرحلة الثانوية (Computer, Grade 10)* (student book, Arabic; title as printed: الحاسوب — للصف الأول من المرحلة الثانوية (Computer — for the first year of secondary school)) — Yemen, Ministry of Education (وزارة التربية والتعليم), Republic of Yemen — Curricula and Guidance sector. Lead author Dr. Saeed Abdullah Mohammed Al-Dabai, with a named authoring team. 1438 AH – 2017. No ISBN printed. 121 PDF pages. Verdict: COMPLETE. The PDF's Arabic text layer is glyph-encoded, so verification and the contents read were done from page renders (cover/title page and both contents pages, plus unit openers); printed page numbers below are the book's own contents-page numbers. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/yemen-placements.md.
 
+**Book 5:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The Paragraph group tabled letter by letter — Bullets, Numbering, Multilevel List, the four alignments with shortcuts (Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J), Decrease/Increase Indent, Sort, Show/Hide (Ctrl+*), Line and Paragraph Spacing, Shading, Border | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 77-79 |
@@ -17,11 +19,14 @@ countries: Ethiopia, Afghanistan, Yemen
 | Lesson 27 "Paragraph" | Afghanistan, *Computer, Grade 10*, printed p. 93 |
 | "Formatting paragraphs" | Yemen, *Computer, Grade 10*, printed p. 98 |
 | Unit 5 training (paragraphs) | Yemen, *Computer, Grade 10*, printed p. 99 |
+| Unit 2 Ch.2 Lesson 1 The Home tab: the paragraph group | Iraq, *Computer, Grade 8*, printed p. 46 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Afghanistan, Yemen).**
+**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Yemen, Iraq).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
 Afghanistan's own way (Grade 10): a Windows XP-era office apprenticeship — one full chapter per application, taught menu by menu (File, Edit, Insert, Format), with the Dari keyboard language added as its own lesson; networks arrive only in the final chapter.
 
-Searchable tags: Paragraph group, Home tab, bullets, numbering, multilevel list, alignment shortcuts, sort, show hide, shading, border, Grade 9 ICT Ethiopia, afghanistan, yemen, grade 10
+Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware unit becomes “the computer platform” and opens with choosing a computer's specifications before buying; Word is taught tab by tab (Home, Insert, Design, Layout); the algorithms unit advances to selection statements and logic truth tables, still landing in Scratch; the internet unit ends with writing a report from web research.
+
+Searchable tags: Paragraph group, Home tab, bullets, numbering, multilevel list, alignment shortcuts, sort, show hide, shading, border, Grade 9 ICT Ethiopia, afghanistan, yemen, grade 10, iraq, grade 8

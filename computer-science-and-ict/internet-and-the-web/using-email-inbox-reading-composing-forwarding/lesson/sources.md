@@ -1,6 +1,6 @@
 # Sources — Using email — inbox, reading, composing, forwarding
 
-countries: Ethiopia, Cambodia, Mozambique, Afghanistan
+countries: Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan
 
 **Book 7:** *Guide du Professeur d'Informatique 3AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; grabbed via grab.py tree route from grade-09/gov/mauritania/guide-inf-3as.pdf (1,259,609 bytes). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
+**Book 8:** *الحاسوب Computer — للصف الخامس الإعدادي (Computer, Fifth Preparatory Grade), Grade 11* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The inbox and the message pane | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 70–71 |
@@ -28,8 +30,9 @@ countries: Ethiopia, Cambodia, Mozambique, Afghanistan
 | Unit 5 Lesson 31 Sending and receiving an email (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 76 (teacher guide — evidence) |
 | Lesson 30 Writing and sending an email (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 115 (teacher guide — evidence) |
 | Lesson 32 Receiving and managing emails (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 121 (teacher guide — evidence) |
+| Unit 4 Ch.1 Lesson 2 Email | Iraq, *Computer, Grade 11*, printed p. 119 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Cambodia, Mozambique, Afghanistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Cambodia, Mozambique, Afghanistan, Iraq).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -39,4 +42,6 @@ Mauritania's own way (Grade 8): The second year is organised as five applied uni
 
 Mauritania's own way (Grade 9): The final secondary year is five practical blocks in 30-minute fiches — a full PowerPoint sequence, internet ethics, a first formal algorithms unit (variables, conditions, loops, writing and testing algorithms, no named programming language), simple networks, and email with attachments — each block closed by evaluation fiches.
 
-Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9
+Iraq's own way (Grade 11): the final preparatory year is the most forward-looking of the series — smart devices and the Internet of Things (with a lesson on choosing a computer or smartphone by its specifications), a full Excel unit ending in AutoSum, one- and two-dimensional arrays with nested loops (the series' first data structures), and electronic services: e-government, email and cloud computing with its applications.
+
+Searchable tags: inbox, message pane, compose pane, forward, attachments, email, Ethiopia Grade 8 ICT, cambodia, mozambique, afghanistan, mauritania, grade 8, mauritania, grade 9, iraq, grade 11

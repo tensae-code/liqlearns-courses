@@ -1,6 +1,6 @@
 # Sources - Variables - storing values in memory
 
-countries: Ethiopia, Bulgaria, China, North Macedonia
+countries: Ethiopia, Bulgaria, China, North Macedonia, Iraq
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Bulgaria, China, North Macedonia
 
 **Book 7:** *Al-Maharat al-Raqamiyya (Digital Skills), Second Intermediate (= Grade 8), Term 3* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الثاني المتوسط — الفصل الدراسي الثالث — دليل المعلم (Digital Skills, Second Intermediate Grade, Third Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2022), for the Ministry of Education. Edition 1444H/2022. ISBN 978-603-511-376-2. 92 PDF pages (the cataloguing page inside states 90 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
 
+**Book 8:** *الحاسوب Computer — الصف الأول المتوسط (Computer, First Intermediate Grade), Grade 7* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2024 (1445H), fourth edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. The book appears twice in the records (a TSV release record, read here, and a books.json record whose tree path returns 404); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - What a variable is (memory location for storing data; user data and intermediate results) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 139-140 |
@@ -27,8 +29,9 @@ countries: Ethiopia, Bulgaria, China, North Macedonia
 | "Variables and Constants; Types of Variables; Assigning a Value" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.13–3.15, printed p. 132 |
 | Lesson 14 Introduction to the notion of variables (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 63 (teacher guide — evidence) |
 | Unit 3, Lesson 1: Robot control (what a variable is; numeric and text variables; the rules for naming a variable; creating, renaming and deleting numeric variables in VEXcode VR) (teacher guide — evidence) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 8 Term 3*, printed p. 60 (teacher guide — evidence) |
+| Unit 3 Ch.1 Lesson 2 Constants and variables | Iraq, *Computer, Grade 7*, printed p. 90 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Bulgaria, China, North Macedonia).**
+**Acceptance count: taught in 5 countries (Ethiopia, Bulgaria, China, North Macedonia, Iraq).**
 
 No book error touches this lesson. The teacher guide's worked model solutions for this section (guide item 25) are filed above as verified expected outputs (teacher guide - evidence); they confirm the practice answers but are not counted as pupil-taught content. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -38,4 +41,6 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Saudi Arabia's own way (Grade 8, Digital Skills): the Binary Logic series is taught in fixed periods (33 periods this term) with the student book mirrored by this guide — unit/lesson description, learning outcomes, "important points", lesson steps, worked answers and group unit projects, with all practice files delivered through the national Ain enrichment platform (ien.edu.sa). The term is three applied units: video production in Shotcut, charts in Excel, and programming a virtual robot in VEXcode VR where pupils read their own blocks as Python. (teacher guide — evidence)
 
-Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8
+Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — computer fundamentals, computer software (here: the operating system plus an unusually deep treatment of Windows right-click shortcut menus), algorithms and programming principles (ending in Scratch), and information technology and the internet — every lesson built on the Iraqi five-step learning cycle with opening activity, main idea, learning outcomes, vocabulary and lesson review.
+
+Searchable tags: variables, assignment operator, memory location, reassignment, Grade 11 ICT Ethiopia, Unit 6 programming, bulgaria, china, north macedonia, grade 10, mauritania, grade 9, saudi arabia, grade 8, iraq, grade 7

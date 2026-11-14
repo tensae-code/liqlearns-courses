@@ -893,3 +893,21 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Files and Folders** (ICT expansion, from Palestine): Saving, Opening and Naming a Scratch Project File · Finding and Saving Pictures from the Internet
 
 **Programming** (ICT expansion, from Palestine): Downloading Minecraft Hour of Code to Work Offline · A Block Is a Command — and Blocks in Order Make a Program · Repeat Blocks — Looping a Set Number of Times · Nested Loops — a Repeat Inside a Repeat · An Algorithm Is a Plan of Steps — Named for al-Khwarizmi · Project — Invent Your Own Minecraft Coding Puzzles · What a Programming Language Is — Orders the Computer Understands · Installing the Scratch Offline Editor · The Pen in Scratch — Pen Down, Pen Up, Colour and Size · Choosing and Switching Backgrounds in Scratch · Costumes — Changing How a Sprite Looks in Scratch · Events in Scratch — When a Key Is Pressed or a Sprite Clicked · Adding Sounds to a Scratch Project · Making Sprites Talk — Say Blocks and Dialogue in Scratch · Wait Blocks — Pausing Between Steps in Scratch · Each Sprite Has Its Own Scripts in Scratch · Coordinates on the Scratch Stage — Go To, Glide and Speed · Composing Music with Note Blocks in Scratch · Drawing Your Own Sprite in the Scratch Paint Editor · Operators in Scratch — Arithmetic, Comparison and Text · Variables in Scratch — Creating, Setting, Changing and Asking · Sensing Touching in Scratch — When Sprites Meet · Recording and Editing Sounds in Scratch · Putting Arabic Text into Scratch Through a Picture · A Photo Editor in Scratch — Graphic Effects and Slider Variables · Showing Values on the Stage — Reporter Blocks and Monitors · Putting a Video into Scratch by Converting It to GIF · A Scrolling News Ticker in Scratch · A Secret PIN Lock — Checking a Password in Scratch · Lists in Scratch — Storing Many Values in Order · A Bank Account Program — Deposits, Withdrawals and a Statement List · Signing Up and Logging In — Names and Passwords in Lists · Programming Number Sequences — Arithmetic, Geometric and Fibonacci · Exporting a Sprite with Its Scripts to Use in Another Project · Making Your Own Blocks in Scratch · An Alarm Clock in Scratch — Using the Current Time · Moving a Sprite with the Camera — Video Sensing in Scratch · Scrolling Backgrounds That Wrap Around in Scratch · Clones — Making Copies of a Sprite While a Program Runs · Building a Calculator with Button Sprites in Scratch · Simulating an Elevator in Scratch — Floors, Doors and Direction · Counting How Many Times a Letter Appears in a Text
+
+**First Steps** (ICT expansion, from Iraq): Representing Information in a Computer · Binary Numbers — the Language of Computers
+
+**Hardware** (ICT expansion, from Iraq): The Computer Platform — Choosing Specifications · Choosing a Computer or Smartphone — Specifications
+
+**Software** (ICT expansion, from Iraq): Working in Windows — the Operating System · Right-Click Shortcut Menus · Operating Systems for Smart Devices
+
+**Word Processing** (ICT expansion, from Iraq): The Design Tab — Themes and Document Formatting · The Layout Tab — Margins and Page Setup
+
+**Spreadsheets** (ICT expansion, from Iraq): The Excel Window and Ribbon · Inserting Objects — Pictures and Shapes in Excel
+
+**Presentations** (ICT expansion, from Iraq): Microsoft Publisher — Making Posters and Cards
+
+**Internet and the Web** (ICT expansion, from Iraq): Writing a Report from Web Research
+
+**Programming** (ICT expansion, from Iraq): The Assignment Statement · Mathematical Operations and Operators · Arithmetic Expressions and Operator Precedence · Logical Expressions and Truth Tables · Nested Selection Statements · Arrays — Storing Many Values Under One Name · Two-Dimensional Arrays — Tables of Values · Nested Loops — Working Through a 2D Array
+
+**New Technologies** (ICT expansion, from Iraq): Smart Devices — What Makes a Device Smart

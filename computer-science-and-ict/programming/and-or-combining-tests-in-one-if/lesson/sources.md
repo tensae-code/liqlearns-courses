@@ -1,6 +1,6 @@
 # Sources — and / or — combining tests in one if
 
-countries: Ethiopia, Finland, North Macedonia
+countries: Ethiopia, Finland, North Macedonia, Iraq
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked), writers Teshome Alemu Wedajo, Wendwesen Endale Workneh, August 2023, GEQIP-E, no ISBN, 210 PDF pp. Printed page = PDF page − 7. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -12,6 +12,8 @@ countries: Ethiopia, Finland, North Macedonia
 
 **Book 5:** *Информатика за II (втора) година гимназиско образование (Informatics for the Second Year of Gymnasium Education)* (student book, Macedonian) — North Macedonia, ДПТУ „Студентски сервис“ ДОО, Skopje; author Todor Dimov; year 2026 (approved by National Textbook Commission decision 26-843/1 of 22.07.2026); ISBN 978-608-4777-47-2. 330 PDF pages. Verdict: COMPLETE. Read in full (text layer) in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/north-macedonia-placements.md.
 
+**Book 6:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — and — both must be true | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 6, printed pp. 176–178 (student placement item 123) |
@@ -20,8 +22,9 @@ countries: Ethiopia, Finland, North Macedonia
 | Teacher extension: the logical operators AND, OR and NOT in conditions (taught by the teacher beyond the student book) (teacher guide — evidence) | Finland, *Ensiaskeleet ohjelmointiin Teacher Guide*, teacher notes to student printed p. 44 |
 | "Comparison Operations; Logical Expressions" | North Macedonia, *Informatics, Year 1*, Тема 3 §3.19–3.20, printed p. 152 |
 | "Combining Conditions and Loops" | North Macedonia, *Informatics, Year 2*, Тема 2, printed p. 73 |
+| Unit 3 Ch.1 Lesson 3 Logical expressions | Iraq, *Computer, Grade 8*, printed p. 85 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, North Macedonia).**
+**Acceptance count: taught in 3 countries (Ethiopia, North Macedonia, Iraq).**
 
 Finland is filed in this lesson as teacher-guide evidence only and does not add to this lesson's acceptance count.
 
@@ -31,4 +34,6 @@ North Macedonia's own way (Year 1): five themes move from modern digital technol
 
 North Macedonia's own way (Year 2): a strikingly current first theme (cybersecurity, cryptography, blockchain, robotics, AI/ML and large language models) precedes deep C++ (data representation, functions, one-dimensional arrays), a full databases theme ending in SQL, multimedia with generative AI for graphics, and HTML web authoring.
 
-Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11
+Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware unit becomes “the computer platform” and opens with choosing a computer's specifications before buying; Word is taught tab by tab (Home, Insert, Design, Layout); the algorithms unit advances to selection statements and logic truth tables, still landing in Scratch; the internet unit ends with writing a report from web research.
+
+Searchable tags: and, or, logical operators, truth table, combining conditions, Grade 12 ICT Ethiopia, Unit 6 programming, finland, north macedonia, grade 10, grade 11, iraq, grade 8

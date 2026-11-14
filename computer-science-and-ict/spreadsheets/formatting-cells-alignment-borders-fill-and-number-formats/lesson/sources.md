@@ -1,6 +1,6 @@
 # Sources — Formatting cells — alignment, borders, fill and number formats
 
-countries: Ethiopia, Eritrea, Belarus, Afghanistan
+countries: Ethiopia, Eritrea, Belarus, Afghanistan, Iraq
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan
 
 **Book 6:** *Guide du Professeur d'Informatique 2AS* (teacher guide, French) — Mauritania, République Islamique de Mauritanie, Ministère de l'Éducation et de la Réforme du Système d'Enseignement, Institut Pédagogique National (IPN); year 2026; no ISBN printed. 87 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave; read in place at phase3-staging/grade-08/gov/mauritania/guide-inf-2as.pdf (byte size 1,693,767 matches the books.json record exactly). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mauritania-placements.md. (teacher guide — evidence)
 
+**Book 7:** *الحاسوب Computer — للصف الخامس الإعدادي (Computer, Fifth Preparatory Grade), Grade 11* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — alignment: three horizontal and three vertical, on the Home tab; text bottom-left, numbers bottom-right by nature; Borders dropdown and Draw Borders tools; Fill Color paints the background | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 119–121 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Eritrea, Belarus, Afghanistan
 | § 13 "Фарматаванне электроннай табліцы" (formatting the spreadsheet) | Belarus, *Інфарматыка. 10 клас*, § 13, printed p. 82 |
 | Lesson 18 "Formatting the cells of the worksheet" | Afghanistan, *Computer, Grade 12*, printed p. 69 |
 | Unit 3 Lesson 18 Page layout and advanced formatting (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 45 (teacher guide — evidence) |
+| Unit 2 Ch.2 Lesson 1 Formatting data and its types (number formats) | Iraq, *Computer, Grade 11*, printed p. 43 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Eritrea, Belarus, Afghanistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Belarus, Afghanistan, Iraq).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -33,4 +36,6 @@ Belarus's own way (Grade 10): the Zabaroŭski–Pupcaŭ course treats informatic
 
 Mauritania's own way (Grade 8): The second year is organised as five applied units of 35 thirty-minute fiches — image processing first (Paint/GIMP/Photoshop, bitmap vs vector), then internet ethics, a full Excel data-processing unit ending in a practical project, web source-checking and responsible downloading, and finally email — each unit closed by evaluation and support fiches with full answer keys at the end.
 
-Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea, belarus, afghanistan, mauritania, grade 8
+Iraq's own way (Grade 11): the final preparatory year is the most forward-looking of the series — smart devices and the Internet of Things (with a lesson on choosing a computer or smartphone by its specifications), a full Excel unit ending in AutoSum, one- and two-dimensional arrays with nested loops (the series' first data structures), and electronic services: e-government, email and cloud computing with its applications.
+
+Searchable tags: alignment, borders, Draw Borders, Fill Color, Cell Styles, number format, percentage currency, Ethiopia Grade 10, eritrea, belarus, afghanistan, mauritania, grade 8, iraq, grade 11
