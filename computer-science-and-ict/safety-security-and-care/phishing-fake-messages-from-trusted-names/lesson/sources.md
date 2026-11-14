@@ -10,12 +10,15 @@ countries: Ethiopia, Libya
 
 **Book 4:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم العلمي (Information Technology, third year of secondary = Grade 12, Science section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 124 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages plus body spot-checks; printed p. = PDF p.
 
+**Book 5:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-597-4. 192 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Phishing defined; aims — steal data, install malware; recognition as the defence | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed p. 201 |
 | Unit 5 Lesson 32 Security and good practice in email (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 78 (teacher guide — evidence) |
 | Ch 1, electronic phishing (within computer crimes) | Libya Grade 12 IT Humanities, printed p. 11 |
 | Ch 1, electronic phishing (within computer crimes) | Libya Grade 12 IT Science, printed p. 11 |
+| Additional content: mobile banking disadvantages and smishing (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 40 (teacher guide — evidence) |
 
 **Acceptance count: taught in 2 countries (Ethiopia, Libya).**
 
@@ -25,4 +28,6 @@ Libya's own way (Grade 12 Humanities, Information Technology student book): the 
 
 Libya's own way (Grade 12 Science, Information Technology student book): the Science section shares the Humanities book's first three chapters (security, e-government, computer law) word-for-structure, then diverges into a full second Visual Basic course — the VB environment and form controls, arrays, subroutines and built-in functions, and the remaining toolbox controls. Visual Basic is the Grade 12 programming language in both sections.
 
-Searchable tags: phishing, fraudulent email, reputable source, login information, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 8, libya, grade 12 it humanities, grade 12 it science
+Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT in finance (including Rwandan mobile banking risks and biometrics), spreadsheets in depth, a second ArcGIS unit, and Scratch game design with sprite interaction tables and score/level rules. (teacher guide — evidence)
+
+Searchable tags: phishing, fraudulent email, reputable source, login information, Grade 9 ICT Ethiopia Unit 5, mauritania, grade 8, libya, grade 12 it humanities, grade 12 it science, rwanda, grade 8 s2 ict teacher guide

@@ -1,6 +1,6 @@
 # Sources — Project: a Scratch game and an Ethiopian story
 
-countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka
+countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -26,6 +26,14 @@ countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka
 
 **Book 12:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 13:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-597-4. 192 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
+**Book 14:** *Information and Communication Technology (ICT) for Rwanda Schools — Learner's Book, Senior Three* (student book, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-421-6. 368 PDF pages. Verdict: COMPLETE — the full book was recovered intact via the Git Blob API after repeated truncated transfers and read in full from the staged copy. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
+**Book 15:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
+**Book 16:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The game project — models named; actors, actions, stages | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 238-239 |
@@ -42,8 +50,14 @@ countries: Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka
 | Capítulo 3.4 Trabajos integradores en Scratch | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 70 |
 | 8 End of the Year Activity, Task 2: Scratch game with variables, events, functions, logical operators, score and tries/time limit | Bhutan, *Literacy with ICT, Class VIII*, printed p. 106 |
 | Ch.4 Applications for mobile and smart devices | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 52 |
+| Unit 9 Game Programming: game concepts, sprites, costumes, score counter and level rules (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 149 (teacher guide — evidence) |
+| Unit 10: platform game programming (concepts of platform, interacting with platform sprites, role of platforms in Scratch) | Rwanda Grade 9 S3 ICT Student Book, printed p. 331 |
+| Creating a platform sprite (Hard Journey: paint the terrain backdrop, design the player sprite, edit/copy/duplicate and flip costumes) | Rwanda Grade 9 S3 ICT Student Book, printed p. 333 |
+| Add a level of a game (switch backdrop at the edge, red sends the player back, pink finish, winning costume with sound and message; Jump variable and gravity) | Rwanda Grade 9 S3 ICT Student Book, printed p. 342 |
+| Unit 10: platform game programming — concepts, creating a platform sprite, add a level (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 191 (teacher guide — evidence) |
+| Unit 9 Game Programming (Scratch): game concepts, sprites, backgrounds | Rwanda Grade 8 S2 ICT Student Book, printed p. 257 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka).**
+**Acceptance count: taught in 8 countries (Ethiopia, Finland, Palestine, Sudan, Cuba, Bhutan, Sri Lanka, Rwanda).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -63,4 +77,12 @@ Bhutan's own way (Class VIII, Literacy with ICT student book): The final primary
 
 Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
 
-Searchable tags: Scratch project, game design, Catch, storytelling, Ethiopia, broadcast, Grade 9 ICT Ethiopia Unit 6, finland, saudi arabia, grade 4, palestine, sudan, grade 9, cuba, grade 6, bhutan, class viii, sri lanka, grade 8 reading book
+Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT in finance (including Rwandan mobile banking risks and biometrics), spreadsheets in depth, a second ArcGIS unit, and Scratch game design with sprite interaction tables and score/level rules. (teacher guide — evidence)
+
+Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3 guide taught as long screenshot-by-screenshot practicals rooted in Rwandan school life (a GS Bumbogo parents'-meeting mail merge, an administration map of Rwanda built in ArcGIS, an environmental-protection presentation, 'Rwanda Nziza' hyperlink decks), closing with a complete Scratch platform game, Hard Journey.
+
+Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
+
+Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
+
+Searchable tags: Scratch project, game design, Catch, storytelling, Ethiopia, broadcast, Grade 9 ICT Ethiopia Unit 6, finland, saudi arabia, grade 4, palestine, sudan, grade 9, cuba, grade 6, bhutan, class viii, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book

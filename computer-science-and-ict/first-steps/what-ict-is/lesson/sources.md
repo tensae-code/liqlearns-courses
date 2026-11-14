@@ -1,6 +1,6 @@
 # Sources — What ICT is
 
-countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba
+countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba, Rwanda
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -30,6 +30,10 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yem
 
 **Book 14:** *Informática, séptimo grado* (student book, Spanish; title as printed: Informática, séptimo grado) — Cuba, Editorial Pueblo y Educación. 2023. ISBN 978-959-13-3796-2 (print) / 978-959-13-4108-2 (digital). 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
+**Book 15:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
+**Book 16:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-478-6. 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The road map of this course, and its brainstorm-first rhythm | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 1–2 (placement item 1: printed pp. II, 1 and unit openings throughout; item 2: printed p. 2) |
@@ -48,8 +52,10 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yem
 | Unidad 4.2 Las TIC en el mundo contemporáneo (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 26 (teacher guide — evidence) |
 | Capítulo 5.1 Las TIC: herramientas y dispositivos | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 95 |
 | Capítulo 1.1 Las TIC en el mundo contemporáneo (incl. reseña histórica de los medios de cómputo) | Cuba, *Informática, Grade 7*, printed p. 1 |
+| Definition of ICT | Rwanda Grade 7 S1 ICT Student Book, printed p. 8 |
+| Unit 1 guide: ICT foundation, content map and key competency (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 1 (teacher guide — evidence) |
 
-**Acceptance count: taught in 11 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba).**
+**Acceptance count: taught in 12 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba, Rwanda).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -65,4 +71,8 @@ Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year
 
 Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietary Windows with Cuba's free operating system Nova; programming continues the primary Scratch line, here centred on the Scratch pen tool for drawing geometric figures and the linear function; word-processor work ends by exporting documents to HTML for the web.
 
-Searchable tags: what ict is, first steps, grade 7, information technology, ict, ethiopia, the road map of this course, and its brainstorm-first rhythm, what ict is, tanzania, eritrea, cambodia, mozambique, uganda, china, yemen, grade 11, iraq, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 6, cuba, grade 7
+Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
+
+Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student units with content maps, additional teacher content per unit, SEN/multi-ability support, sample lesson plans (Appendix 1) and a glossary (Appendix 2); assessment is framed by Rwanda's competence-based curriculum. (teacher guide — evidence)
+
+Searchable tags: what ict is, first steps, grade 7, information technology, ict, ethiopia, the road map of this course, and its brainstorm-first rhythm, what ict is, tanzania, eritrea, cambodia, mozambique, uganda, china, yemen, grade 11, iraq, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 6, cuba, grade 7, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide

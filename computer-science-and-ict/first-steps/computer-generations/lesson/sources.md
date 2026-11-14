@@ -1,6 +1,6 @@
 # Sources — Computer generations — five periods of change
 
-countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia
+countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia, Rwanda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mong
 
 **Book 11:** *Мэдээллийн технологи XII (Information Technology XII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-88-7. Authors: Д.Цэдэвсүрэн, С.Уянга, Л.Мөнхтуяа, Э.Оюунбилэг, Б.Золзаяа. No PDF of this book is held — the books.json record is not on disk and not pushed, and every securing route failed; read in full instead from a public FlipHTML5 copy of the same edition (fliphtml5.com/nhpep/qwmp), whose text layer covers every page (148 printed pages); cover and title/imprint pages verified from the flipbook's first pages against the record title. Verdict: COMPLETE (read in full via the flipbook copy; no library PDF held — a library debt, carried exactly as filed in the placements file, not a merge problem). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 12:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a generation is | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.1, printed p. 2 |
@@ -39,8 +41,10 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mong
 | 4-1 Development of Information Technology | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 42 |
 | Unit 1 Ch 1.1, historical introduction to the appearance and spread of computers | Libya Grade 8 Computer, printed p. 11 |
 | 2.1.2 Computer history and classification (Babbage's Analytical Engine and Ada Lovelace, MARK1, ENIAC, UNIVAC, Altair 8800, Apple II, IBM PC; the four generations — valves, transistors, integrated circuits, microprocessors; personal, workstation, mainframe and supercomputers compared) | Mongolia Grade 12 IT XII, printed p. 45 |
+| History (evolution) of computers | Rwanda Grade 7 S1 ICT Student Book, printed p. 55 |
+| Generations of computers | Rwanda Grade 7 S1 ICT Student Book, printed p. 57 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia).**
+**Acceptance count: taught in 9 countries (Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan, Egypt, Libya, Mongolia, Rwanda).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -61,4 +65,6 @@ Libya's own way (Grade 8, Computer student book): a three-unit arc — computer 
 
 Mongolia's own way (Grade 12): the final book measures everything against Mongolia itself — the ITU index and Mongolia's slipping rank in it, 36,760 km of fibre to 299 soums, the Mongolsat-1 satellite, IoT chips on livestock, telemedicine at the State Central Hospital, the ХУР state data-exchange and ТҮЦ service machines, nano-products from horse bone and ger covers — and its chapter projects are real Mongolian systems: a school ICT-development survey, a study of the ebarimt VAT-receipt system, and a Small Basic "Bouncing Ball" game; programming examples draw the alkhan khee meander with a Turtle subprogram.
 
-Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8, cuba, grade 2, egypt, grade 10, libya, grade 8 computer, mongolia, grade 12 it xii
+Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
+
+Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8, cuba, grade 2, egypt, grade 10, libya, grade 8 computer, mongolia, grade 12 it xii, rwanda, grade 7 s1 ict student book

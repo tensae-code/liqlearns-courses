@@ -30,6 +30,8 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lan
 
 **Book 14:** *Information & Communication Technology — Reading Book, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0114-2. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 15:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-478-6. 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The keyboard | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 2, printed p. 17 |
@@ -47,6 +49,7 @@ countries: Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lan
 | Ch.4 Using the mouse and keyboard: parts, types, functions, correct use | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 43 |
 | Workbook Ch.4 Activities 4.1-4.8: mouse/keyboard and application-software practical exercises | Sri Lanka Grade 6 G6 ICT Workbook, printed p. 28 |
 | Ch.4 Keyboard: learn about it and use it correctly | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 38 |
+| Additional content: types of keyboard (QWERTY, AZERTY) (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 21 (teacher guide — evidence) |
 
 **Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Azerbaijan, Sudan, Fiji, Bhutan, Mongolia, Sri Lanka).**
 
@@ -74,4 +77,6 @@ Sri Lanka's own way (Grade 6 Workbook): a companion workbook whose numbered acti
 
 Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-kitchen/chef analogy; programme development (decomposition, flowcharts, variables, bugs) precedes presentation software; HTML page-building is already in Grade 7.
 
-Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book
+Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student units with content maps, additional teacher content per unit, SEN/multi-ability support, sample lesson plans (Appendix 1) and a glossary (Appendix 2); assessment is framed by Rwanda's competence-based curriculum. (teacher guide — evidence)
+
+Searchable tags: keyboard and mouse, hardware, grade 7, information technology, ict, ethiopia, the keyboard, the mouse, eritrea, azerbaijan, mauritania, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, fiji, years 7-8, bhutan, class iv, mongolia, grade 6 it vi, sri lanka, grade 6 reading book, sri lanka, grade 6 workbook, sri lanka, grade 7 reading book, rwanda, grade 7 s1 ict teacher guide

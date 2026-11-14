@@ -1,6 +1,6 @@
 # Sources — Antivirus software — scan, detect, remove
 
-countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka
+countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, S
 
 **Book 10:** *தகவல் தொடர்பாடல் தொழில்நுட்பம் (Information and Communication Technology), Grade 11* (student book, Tamil) — Sri Lanka, Educational Publications Department; year 2010 (second print, first 2009); no ISBN printed. 268 PDF pages. Verdict: COMPLETE (image-only scan read via 100-DPI 4-up contact sheets; the TSV release record and the books.json record are the same book, cited once). Read in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 11:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-597-4. 192 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
+**Book 12:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What antivirus software is for; the malware list including botnets, rootkits, keyloggers | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed p. 192 |
@@ -35,8 +39,10 @@ countries: Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, S
 | Ch 1, ways of protecting against viruses | Libya Grade 12 IT Science, printed p. 16 |
 | 1.2.4 Protecting computer information: the virus (what viruses do, choosing and updating antivirus programs) | Mongolia Grade 7 IT VII, printed p. 22 |
 | Ch.6 Removing viruses with antivirus programs (Norton, McAfee, Sophos, Panda, AVG, Kaspersky, Avira, Avast); protection: firewall, backups, updates, admin/user accounts, original software | Sri Lanka Grade 11 G11 ICT Textbook (Tamil), printed p. 246 |
+| Measures to prevent harmful programs: antivirus, scanning, backup and restore (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 24 (teacher guide — evidence) |
+| Measures to prevent harmful programs | Rwanda Grade 8 S2 ICT Student Book, printed p. 15 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 9 countries (Ethiopia, Afghanistan, Saudi Arabia, Iraq, Bhutan, Libya, Mongolia, Sri Lanka, Rwanda).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -56,4 +62,8 @@ Mongolia's own way (Grade 7): the whole applications half is one long project �
 
 Sri Lanka's own way (Grade 11, Tamil): a full Visual Basic 6.0 programming course inside the O/L book (IDE, controls, data types, Select Case, arrays), an SDLC chapter, Photoshop-based multimedia, hand-coded HTML with Sri Lankan examples (the Sinharaja rainforest page, ucsc.cmb.ac.lk addresses, sltnet.lk domains), and sector chapters (agriculture, industry, government, commerce) before malware and health.
 
-Searchable tags: antivirus, scan detect remove, botnets, rootkits, keyloggers, malware protection, Grade 10 ICT Ethiopia, afghanistan, mauritania, grade 8, saudi arabia, grade 3, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 7 it vii, sri lanka, grade 11 tamil
+Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT in finance (including Rwandan mobile banking risks and biometrics), spreadsheets in depth, a second ArcGIS unit, and Scratch game design with sprite interaction tables and score/level rules. (teacher guide — evidence)
+
+Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
+
+Searchable tags: antivirus, scan detect remove, botnets, rootkits, keyloggers, malware protection, Grade 10 ICT Ethiopia, afghanistan, mauritania, grade 8, saudi arabia, grade 3, iraq, grade 10, bhutan, class viii, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 7 it vii, sri lanka, grade 11 tamil, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book

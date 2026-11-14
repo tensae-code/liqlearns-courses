@@ -1,6 +1,6 @@
 # Sources — The Word window — naming its parts
 
-countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan
+countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Rwanda
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -30,6 +30,8 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba
 
 **Book 17:** *Literacy with ICT — A Textbook for Class 5* (title page: Class V) (student book, English, with Dzongkha typing chapter) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-429-7. 110 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 18:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Title bar, tabs, Quick Access Toolbar (Save, Undo, Repeat) | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.38–39 |
@@ -44,6 +46,7 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba
 | Capítulo 3.1 Interfaz de un procesador de textos | Cuba, *Informática, Grade 7*, printed p. 113 |
 | Unit 2.1 MS Word 2007 menu and toolbar functions | Fiji, *Computer Education, Years 7–8* (PARTIAL — front matter missing), printed p. 43 |
 | 2.3 Features of MS Word Window | Bhutan, *Literacy with ICT, Class V*, printed p. 14 |
+| Word processing environment | Rwanda Grade 7 S1 ICT Student Book, printed p. 103 |
 
 **Book 2:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page - 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -59,7 +62,7 @@ countries: Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba
 | Урок 2 "Интерфейс текстового процессора MS Word" | Uzbekistan, *Informatika, Grade 6*, printed p. 9 |
 | Урок 25 "Интерфейс программы MS Word" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 104 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Cambodia, Afghanistan, Yemen, Iraq, Sudan, Uzbekistan, Cuba, Fiji, Bhutan, Rwanda).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -88,4 +91,6 @@ Fiji's own way (Years 7–8 Computer Education student book): A practical, exerc
 
 Bhutan's own way (Class V, Literacy with ICT student book): Word is taught together with typing in Dzongkha, the national language (Dzongkha keyboard software and fonts); communication is taught on the school LAN with Qualia LAN Messenger (chat, file sharing and broadcast with no Internet connection), and the end-of-year folder is sent to the teacher as a LAN-messenger attachment.
 
-Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10, mauritania, grade 7, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 7, fiji, years 7-8, bhutan, class v
+Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
+
+Searchable tags: Word window, ten elements, Quick Access Toolbar, pull-down, Edit Window, Zoom Slide Control, insertion point, I-beam pointer, Grade 9 ICT Ethiopia, title bar, ribbon, Quick Access Toolbar, rulers, status bar, view buttons, File tab, Grade 7 ICT Ethiopia, cambodia, afghanistan, yemen, grade 10, mauritania, grade 7, iraq, grade 8, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 7, fiji, years 7-8, bhutan, class v, rwanda, grade 7 s1 ict student book

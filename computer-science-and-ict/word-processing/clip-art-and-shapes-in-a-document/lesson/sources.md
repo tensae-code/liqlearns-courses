@@ -1,6 +1,6 @@
 # Sources — Clip art and shapes in a document
 
-countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka
+countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -24,6 +24,14 @@ countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka
 
 **Book 11:** *Information and Communication Technology — Reading Book, Grade 8* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0142-5. 100 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 12:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-597-4. 192 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
+**Book 13:** *Information and Communication Technology (ICT) for Rwanda Schools — Learner's Book, Senior Three* (student book, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-421-6. 368 PDF pages. Verdict: COMPLETE — the full book was recovered intact via the Git Blob API after repeated truncated transfers and read in full from the staged copy. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
+**Book 14:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
+**Book 15:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — clip art defined; Insert → Clip Art, search a category, double-click; Insert Online Pictures filtered to clip art | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 95–97 |
@@ -43,8 +51,12 @@ countries: Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka
 | 2.5 Inserting Clip Art | Bhutan, *Literacy with ICT, Class VI*, printed p. 36 |
 | 2.7 Inserting Shapes | Bhutan, *Literacy with ICT, Class VI*, printed p. 38 |
 | Ch.3 Pictures, tables, shapes, text boxes, Clip Art and Word Art | Sri Lanka Grade 8 G8 ICT Textbook, printed p. 36 |
+| Unit 3 Objects in a Document: text boxes, shapes, pictures and WordArt (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 54 (teacher guide — evidence) |
+| Add objects from file; add objects (Microsoft Excel Worksheet as an object in a document) | Rwanda Grade 9 S3 ICT Student Book, printed p. 84 |
+| Formatting an object and chart; add objects from file (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 43 (teacher guide — evidence) |
+| Unit 3 Objects in a Document: text boxes, shapes, pictures and WordArt | Rwanda Grade 8 S2 ICT Student Book, printed p. 43 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka).**
+**Acceptance count: taught in 9 countries (Ethiopia, Uganda, Yemen, Sudan, Uzbekistan, Cuba, Bhutan, Sri Lanka, Rwanda).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -63,4 +75,12 @@ Bhutan's own way (Class VI, Literacy with ICT student book): School computing ru
 
 Sri Lanka's own way (Grade 8 Reading Book): number systems and binary conversion open Grade 8; "physical computing" is logic gates taught through water-valve and street-lamp analogies; Scratch selection structures and mobile/smart-device apps sit in the Programming chapter.
 
-Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, sri lanka, grade 8 reading book
+Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT in finance (including Rwandan mobile banking risks and biometrics), spreadsheets in depth, a second ArcGIS unit, and Scratch game design with sprite interaction tables and score/level rules. (teacher guide — evidence)
+
+Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3 guide taught as long screenshot-by-screenshot practicals rooted in Rwandan school life (a GS Bumbogo parents'-meeting mail merge, an administration map of Rwanda built in ArcGIS, an environmental-protection presentation, 'Rwanda Nziza' hyperlink decks), closing with a complete Scratch platform game, Hard Journey.
+
+Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
+
+Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
+
+Searchable tags: clip art, Insert Online Pictures, shapes, Shift perfect shape, Lock Drawing Mode, Eagle practical, Ethiopia Grade 10, uganda, yemen, sudan, grade 5, uzbekistan, grade 6, grade 8, cuba, grade 5, bhutan, class vi, sri lanka, grade 8 reading book, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide, rwanda, grade 8 s2 ict student book

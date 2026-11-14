@@ -1,6 +1,6 @@
 # Sources — Installing software on a PC
 
-countries: Ethiopia, Mozambique, Egypt, Fiji, Mongolia
+countries: Ethiopia, Mozambique, Egypt, Fiji, Mongolia, Rwanda
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN. PDF 210 pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Mozambique, Egypt, Fiji, Mongolia
 
 **Book 8:** *Мэдээллийн технологи VIII (Information Technology VIII)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2015); ISBN 978-99962-74-29-9. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 9:** *Information and Communication Technology (ICT) for Rwanda Schools — Learner's Book, Senior Three* (student book, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-421-6. 368 PDF pages. Verdict: COMPLETE — the full book was recovered intact via the Git Blob API after repeated truncated transfers and read in full from the staged copy. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
+**Book 10:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Trusted sources first | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed pp. 137–138 |
@@ -31,8 +35,12 @@ countries: Ethiopia, Mozambique, Egypt, Fiji, Mongolia
 | Activity set 4 Installation and removal of software and digital peripherals | Egypt, *Activity and Exercises Book — Computer and ICT, Grade 7 Term 1 Workbook*, printed p. 13 |
 | 4.4 Installing Hardware and Software Components | Fiji, *Computer Education, Year 13*, printed p. 64 |
 | 1.2.3 Installing a program anew (installing a printer driver and programs from disc or download, step by step) | Mongolia Grade 8 IT VIII, printed p. 16 |
+| Download software: downloading installation files (Chrome download walkthrough) | Rwanda Grade 9 S3 ICT Student Book, printed p. 6 |
+| Installation of software and system requirements; installing an operating system (disk partitioning, FAT32/NTFS file systems, Windows 10 fresh install) | Rwanda Grade 9 S3 ICT Student Book, printed p. 10 |
+| Installing application software: MS Office 2016 and Skype, product keys and activation | Rwanda Grade 9 S3 ICT Student Book, printed p. 18 |
+| Downloading software and installation of software (application and utility) (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 1 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Mozambique, Egypt, Fiji, Mongolia).**
+**Acceptance count: taught in 6 countries (Ethiopia, Mozambique, Egypt, Fiji, Mongolia, Rwanda).**
 
 Teacher-guide material is labelled (teacher guide — evidence) where it appears and never counts as pupil-taught. The student book uses the number "Activity 5.2" twice in this unit (for the uninstalling activity and again for the software-troubleshooting activity); the lesson teaches the procedures themselves, not the activity numbers.
 
@@ -46,4 +54,8 @@ Fiji's own way (Year 13 Computer Education student book): The senior book is bui
 
 Mongolia's own way (Grade 8): Grade 8 is built around two long projects — a folded leaflet on Ulaanbaatar's air pollution (Word templates, styles, WordArt, charts and SmartArt) that then becomes a PowerPoint presentation with its own master slide and hyperlink buttons, and a Paint.NET collage of the five-snout livestock (таван хошуу мал) in a steppe landscape. Models are taught on Mongolian material (the livestock, Rutherford's atom, a virus-growth formula); spreadsheets open with the chessboard-and-wheat legend and count Mongolia's real 2014 livestock by aimag; social networks are taught on Facebook and Twitter ("жиргээ") with Mongolian examples.
 
-Searchable tags: installing software, seven steps, AutoPlay, User Account Control, serial number, trusted sources, Grade 12 ICT Ethiopia, mozambique, papua new guinea, grade 10, egypt, grade 7, fiji, year 13, mongolia, grade 8 it viii
+Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3 guide taught as long screenshot-by-screenshot practicals rooted in Rwandan school life (a GS Bumbogo parents'-meeting mail merge, an administration map of Rwanda built in ArcGIS, an environmental-protection presentation, 'Rwanda Nziza' hyperlink decks), closing with a complete Scratch platform game, Hard Journey.
+
+Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
+
+Searchable tags: installing software, seven steps, AutoPlay, User Account Control, serial number, trusted sources, Grade 12 ICT Ethiopia, mozambique, papua new guinea, grade 10, egypt, grade 7, fiji, year 13, mongolia, grade 8 it viii, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide

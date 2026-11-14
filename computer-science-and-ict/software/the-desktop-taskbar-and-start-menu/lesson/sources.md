@@ -1,6 +1,6 @@
 # Sources — The Desktop, Taskbar and Start Menu
 
-countries: Saudi Arabia, Cuba, Bhutan
+countries: Saudi Arabia, Cuba, Bhutan, Rwanda
 
 **Book 1:** *Al-Hasib wa Tiqniyat al-Ma'lumat, Grade 3 Primary, Term 1 — Continuing Education* (student book, Arabic; title as printed: الحاسب وتقنية المعلومات للصف الثالث ابتدائي — الفصل الدراسي الأول — التعليم المستمر (Computer and Information Technology, Third Primary Grade, First Term — Continuing Education)) — Saudi Arabia, Ministry of Education, Kingdom of Saudi Arabia. Printed edition 1443H/2021 (the record title says 1448H — the file behind the record is the 1443/2021 printed edition; that mismatch is carried as filed). ISBN 978-603-508-924-1. 113 PDF pages (the cataloguing page inside states 114 printed pages). Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md.
 **Book 2:** *Al-Maharat al-Raqamiyya (Digital Skills), Grade 4 Primary, Term 1* (teacher guide, Arabic; title as printed: المهارات الرقمية — الصف الرابع الابتدائي — الفصل الدراسي الأول — دليل المعلم (Digital Skills, Fourth Primary Grade, First Term, Teacher's Guide)) — Saudi Arabia, Tatweer Company for Educational Services / Binary Logic SA (© Binary Logic SA 2023), for the Ministry of Education. Edition 1445H/2023. ISBN 978-603-511-484-4. 90 PDF pages. Verdict: PARTIAL — this file holds Term 1 only (guide printed pp. 1–92 of the 292-page full guide); the record's "full-year" filename is wrong as filed; Terms 2–3 are missing. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/saudi-arabia-placements.md. (teacher guide — evidence)
@@ -17,6 +17,10 @@ countries: Saudi Arabia, Cuba, Bhutan
 
 **Book 8:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 9:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
+**Book 10:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-478-6. 208 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Lesson 7: The Windows desktop (icons, the taskbar — Start button, clock, date, language, open programs — and the Start menu) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 44 |
@@ -30,8 +34,10 @@ countries: Saudi Arabia, Cuba, Bhutan
 | Capítulo 1.3 Personalización del escritorio — filed as software/desktop-taskbar-and-start-menu-elements; stocked here, in the lesson covering this topic | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 11 |
 | Capítulo 1.3 Elementos del sistema operativo — filed as software/desktop-taskbar-and-start-menu-elements; stocked here, in the lesson covering this topic | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 20 |
 | 3.1 Parts of the Windows desktop and the Documents folder (filed as NEW LESSON NEEDED — software/windows-desktop-taskbar-icons-and-system-tray; stocked in this lesson because this lesson teaches the desktop, its icons, the taskbar and the Start menu as one combined topic) | Bhutan, *Literacy with ICT, Class IV*, printed p. 20 |
+| Desktop: explore and customise the start menu, recycle bin (filed as NEW LESSON NEEDED — first-steps/the-desktop-start-menu-and-taskbar; stocked in this lesson as the closest existing lesson covering this thing) | Rwanda Grade 7 S1 ICT Student Book, printed p. 70 |
+| Unit 3 guide: computer navigation (filed as NEW LESSON NEEDED — first-steps/the-desktop-start-menu-and-taskbar; stocked in this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Rwanda Grade 7 S1 ICT Teacher Guide, printed p. 40 (teacher guide — evidence) |
 
-**Acceptance count: taught in 3 countries (Saudi Arabia, Cuba, Bhutan).**
+**Acceptance count: taught in 4 countries (Saudi Arabia, Cuba, Bhutan, Rwanda).**
 
 Placement choice: this lesson was built new for the ICT expansion (Saudi Arabia, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — software/the-desktop-taskbar-and-start-menu). It sits in the Software title (software/), following the book's own order. The Grade 4 guide's placement for the same topic was filed as software/the-desktop-icons-taskbar-and-start-menu (NEW LESSON NEEDED); it is stocked here, in the lesson built under the student book's slug, with its original slug recorded in its provenance row, as guide evidence. The Grade 4 guide citation is PARTIAL — Term 1 only.
 
@@ -51,4 +57,8 @@ Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year
 
 Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
 
-Searchable tags: desktop, taskbar, start menu, start button, icons, clock, windows search, calculator, software, saudi arabia, grade 3, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, bhutan, class iv
+Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
+
+Rwanda's own way (S1 ICT Teacher Guide, KLB): the guide mirrors the student units with content maps, additional teacher content per unit, SEN/multi-ability support, sample lesson plans (Appendix 1) and a glossary (Appendix 2); assessment is framed by Rwanda's competence-based curriculum. (teacher guide — evidence)
+
+Searchable tags: desktop, taskbar, start menu, start button, icons, clock, windows search, calculator, software, saudi arabia, grade 3, grade 4, cuba, grade 2, cuba, grade 5, cuba, grade 5, cuba, grade 5, cuba, grade 6, bhutan, class iv, rwanda, grade 7 s1 ict student book, rwanda, grade 7 s1 ict teacher guide

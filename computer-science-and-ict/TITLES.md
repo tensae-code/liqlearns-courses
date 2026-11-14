@@ -1113,3 +1113,17 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Computers in Society** (ICT expansion, from Sri Lanka): Buying a Computer and After-Sales Service
 
 **New Technologies** (ICT expansion, from Sri Lanka): Microcontrollers and Sensors — micro:bit and Arduino
+
+**Computers in Society** (ICT expansion, from Rwanda): ICT Use in Rwanda · Mobile Banking · Mobile Phones in Schools · Computers in Manufacturing — CAD and CIM · Biometrics in Banking
+
+**Networks** (ICT expansion, from Rwanda): Virtual Private Networks — VPN
+
+**New Technologies** (ICT expansion, from Rwanda): GIS and ArcGIS — Components · GIS Concepts and Vector Data · The ArcMap Interface · ArcMap Navigation and Query Tools · GIS Software Architecture
+
+**Software** (ICT expansion, from Rwanda): Software Add-ons and Browser Extensions
+
+**Safety, Security and Care** (ICT expansion, from Rwanda): Protecting Files — Read-Only, Hidden, Encrypted · Fire Extinguisher Types and Colour Codes
+
+**Multimedia** (ICT expansion, from Rwanda): Vector Graphics Editing in Illustrator · Working with Layers in Paint and Paint 3D · Creating Digital Media — Capture and GIMP · Creating a Video with PowerPoint and Movie Maker
+
+**Word Processing** (ICT expansion, from Rwanda): Table of Contents and Lists of Tables and Figures

@@ -1,6 +1,6 @@
 # Sources — Data — raw facts with no meaning yet
 
-countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya
+countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya
 
 **Book 7:** *الحاسوب للصف الثامن من مرحلة التعليم الأساسي (Computer, Grade 8, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 8:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Data — raw facts with no meaning yet | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 3 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya
 | Unit 1 Ch.2 Lesson 1 Data and information | Iraq, *Computer, Grade 7*, printed p. 22 |
 | Capítulo 2.2 Datos | Cuba, *Informática, Grade 9*, printed p. 12 |
 | Unit 1 Ch 1.2, data representation | Libya Grade 8 Computer, printed p. 28 |
+| Definition of Data / Types of data | Rwanda Grade 7 S1 ICT Student Book, printed p. 1 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya).**
+**Acceptance count: taught in 8 countries (Ethiopia, Tanzania, China, Yemen, Iraq, Cuba, Libya, Rwanda).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -38,4 +41,6 @@ Cuba's own way (Grade 9): Grade 9 is the formal programming-foundations year —
 
 Libya's own way (Grade 8, Computer student book): a three-unit arc — computer history/generations and number systems first, then a whole practical unit built around the scanner (scan, save, copy, delete, scan via Paint), then Microsoft Excel 2007 taught step by step with screenshots. The basic-education line is الحاسوب (Computer) in Grades 8–9.
 
-Searchable tags: data — raw facts with no meaning yet, first steps, grade 7, information technology, ict, ethiopia, tanzania, china, yemen, grade 11, iraq, grade 7, cuba, grade 9, libya, grade 8 computer
+Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
+
+Searchable tags: data — raw facts with no meaning yet, first steps, grade 7, information technology, ict, ethiopia, tanzania, china, yemen, grade 11, iraq, grade 7, cuba, grade 9, libya, grade 8 computer, rwanda, grade 7 s1 ict student book

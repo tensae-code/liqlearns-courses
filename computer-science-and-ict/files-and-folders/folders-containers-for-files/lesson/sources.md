@@ -1,6 +1,6 @@
 # Sources — Folders — containers for files
 
-countries: Ethiopia, Djibouti, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka
+countries: Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Rwanda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pages. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -32,6 +32,8 @@ countries: Ethiopia, Djibouti, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, B
 
 **Book 15:** *Information & Communication Technology — Reading Book, Grade 6* (student book, English) — Sri Lanka, Educational Publications Department; year 2019 (second print, first 2018); ISBN 978-955-25-0088-6. 108 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 16:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Folders and subfolders; file vs folder | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.1, printed pp. 2–3 |
@@ -49,8 +51,9 @@ countries: Ethiopia, Djibouti, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, B
 | 1.2 File Management (organising files in folders) | Bhutan, *Literacy with ICT, Class VI*, printed p. 8 |
 | 1.2.1 The file management system (Windows Explorer: creating, copying, moving, renaming and deleting files and folders; the Recycle Bin) | Mongolia Grade 7 IT VII, printed p. 17 |
 | Ch.3 File folders; create, save, open and edit a file | Sri Lanka Grade 6 G6 ICT Textbook, printed p. 34 |
+| Files and folders | Rwanda Grade 7 S1 ICT Student Book, printed p. 85 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka).**
+**Acceptance count: taught in 10 countries (Ethiopia, Eritrea, Yemen, Saudi Arabia, Uzbekistan, Cuba, Bhutan, Mongolia, Sri Lanka, Rwanda).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -77,4 +80,6 @@ Mongolia's own way (Grade 7): the whole applications half is one long project �
 
 Sri Lanka's own way (Grade 6 Reading Book): a story/dialogue-led "Reading Book" with a talking computer character; every chapter cross-refers to numbered Workbook activities; local sectors (school office, ATM, ICU, factories, agriculture) and the 3R e-waste method are taught from Grade 6.
 
-Searchable tags: folder, directory, subfolder, container, manila dossier, file vs folder, edir, ekub, files and folders, grade 9, information technology, ict, ethiopia, djibouti, eritrea, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 7, bhutan, class vi, mongolia, grade 7 it vii, sri lanka, grade 6 reading book
+Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
+
+Searchable tags: folder, directory, subfolder, container, manila dossier, file vs folder, edir, ekub, files and folders, grade 9, information technology, ict, ethiopia, djibouti, eritrea, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, morocco, grade 1, uzbekistan, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 7, bhutan, class vi, mongolia, grade 7 it vii, sri lanka, grade 6 reading book, rwanda, grade 7 s1 ict student book

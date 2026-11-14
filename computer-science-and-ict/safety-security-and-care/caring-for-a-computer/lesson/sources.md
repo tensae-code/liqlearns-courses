@@ -1,6 +1,6 @@
 # Sources — Caring for a computer — safety before cleaning
 
-countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka
+countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Rwanda
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan,
 
 **Book 11:** *Information and Communication Technology — Workbook, Grade 7* (student book, English) — Sri Lanka, Educational Publications Department; year 2019; ISBN 978-955-25-0116-6. 72 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sri-lanka-placements.md.
 
+**Book 12:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Harms of wrong use to user and device | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 5, printed p.58 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan,
 | 2.2 Computer Care | Bhutan, *Literacy with ICT, Class IV*, printed p. 15 |
 | Ch.3 Security of computer system: protect the system and hardware (clean, dry, no food, air-conditioning) | Sri Lanka Grade 7 G7 ICT Textbook, printed p. 21 |
 | Workbook Ch.3 Security of the Computer System exercises | Sri Lanka Grade 7 G7 ICT Workbook, printed p. 12 |
+| Maintaining your computer | Rwanda Grade 7 S1 ICT Student Book, printed p. 99 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka).**
+**Acceptance count: taught in 10 countries (Ethiopia, Tanzania, Eritrea, Mozambique, Uganda, Saudi Arabia, Sudan, Bhutan, Sri Lanka, Rwanda).**
 
 Saudi Arabia's own way (Grade 3, continuing education): a workbook-style book for the continuing-education (adult/lifelong learning) track — every one of the 16 lessons opens with "I want to learn" objectives and closes with written exercises, and everything is taught on an older Windows desktop (Start menu, "My Computer", Recycle Bin) with Notepad as the only application, worked through step-by-step practicals in the school lab.
 
@@ -51,4 +54,6 @@ Sri Lanka's own way (Grade 7 Reading Book): the CPU is taught through a hotel-ki
 
 Sri Lanka's own way (Grade 7 Workbook): a companion workbook mirroring the Reading Book chapter-for-chapter (CPU, OS, security, word processing, program development, presentations, internet).
 
-Searchable tags: computer care, safety, unplug, high voltage, cleaning precautions, Grade 7 ICT Ethiopia, tanzania, eritrea, mozambique, uganda, saudi arabia, grade 3, sudan, grade 4, bhutan, class iv, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook
+Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
+
+Searchable tags: computer care, safety, unplug, high voltage, cleaning precautions, Grade 7 ICT Ethiopia, tanzania, eritrea, mozambique, uganda, saudi arabia, grade 3, sudan, grade 4, bhutan, class iv, sri lanka, grade 7 reading book, sri lanka, grade 7 workbook, rwanda, grade 7 s1 ict student book

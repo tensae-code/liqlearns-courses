@@ -1,6 +1,6 @@
 # Sources — Software Licences — Commercial, Free, Open-Source and Shareware
 
-countries: Libya, Mongolia
+countries: Libya, Mongolia, Rwanda
 
 **Book 1:** *تقنية المعلومات للسنة الثالثة بمرحلة التعليم الثانوي — القسم الأدبي (Information Technology, third year of secondary = Grade 12, Humanities section)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 112 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md. Image-only PDF — read from rendered contents pages at 200 DPI plus body spot-checks; printed p. = PDF p.
 
@@ -8,13 +8,19 @@ countries: Libya, Mongolia
 
 **Book 3:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 4:** *Information and Communication Technology (ICT) for Rwanda Schools — Learner's Book, Senior Three* (student book, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-421-6. 368 PDF pages. Verdict: COMPLETE — the full book was recovered intact via the Git Blob API after repeated truncated transfers and read in full from the staged copy. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
+**Book 5:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Ch 3, software licences and the types of software licence (commercial, free, open-source, trial) | Libya Grade 12 IT Humanities, printed p. 38 |
 | Ch 3, software licences and the types of software licence | Libya Grade 12 IT Science, printed p. 38 |
 | 1.2.3 Software copyright and licences (commercial, shareware, freeware and open-source licences; CD keys, dongles, digital watermarks and signatures; a MobiCom terms example) (filed as NEW LESSON NEEDED — software/software-licences-commercial-shareware-freeware-and-open-source; stocked in this lesson because this lesson teaches the same licence set — commercial, free, open-source and shareware — as its own lesson) | Mongolia Grade 10 IT X, printed p. 34 |
+| Types of license for software: open source (GPL) and proprietary (filed as NEW LESSON NEEDED — software/software-licensing-types; stocked in this lesson as the closest existing lesson covering this thing) | Rwanda Grade 9 S3 ICT Student Book, printed p. 5 |
+| Types of licence for software (filed as NEW LESSON NEEDED — software/software-licensing-types; stocked in this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 5 (teacher guide — evidence) |
 
-**Acceptance count: taught in 2 countries (Libya, Mongolia).**
+**Acceptance count: taught in 3 countries (Libya, Mongolia, Rwanda).**
 
 Placement choice: this lesson was built new for the ICT expansion (Libya, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — software/software-licences-commercial-free-open-source-and-shareware). It sits in the Software title (software/), following the book's own order. Provenance scope note: every counted placement stocked here is from a Libya student book; teacher-guide placements are cited as (teacher guide — evidence) and counted nowhere on their own — each new lesson here also carries student-book placements, so Libya is counted once. Duplicate catalogue records of the same book (5 of the 15 records duplicate books) are cited once: 10 distinct books in this expansion. Media slots in lesson/lesson.md are described slots only ([Picture — …]); no picture numbers are invented.
 
@@ -24,4 +30,8 @@ Libya's own way (Grade 12 Science, Information Technology student book): the Sci
 
 Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
 
-Searchable tags: software licences, commercial, free software, open source, shareware, trial, software, libya, grade 12 it, mongolia, grade 10 it x
+Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3 guide taught as long screenshot-by-screenshot practicals rooted in Rwandan school life (a GS Bumbogo parents'-meeting mail merge, an administration map of Rwanda built in ArcGIS, an environmental-protection presentation, 'Rwanda Nziza' hyperlink decks), closing with a complete Scratch platform game, Hard Journey.
+
+Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
+
+Searchable tags: software licences, commercial, free software, open source, shareware, trial, software, libya, grade 12 it, mongolia, grade 10 it x, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide

@@ -1,6 +1,6 @@
 # Sources — Creating an email account — Gmail sign-up
 
-countries: Ethiopia, Iraq, Bhutan, Libya
+countries: Ethiopia, Iraq, Bhutan, Libya, Rwanda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Iraq, Bhutan, Libya
 
 **Book 7:** *الحاسوب للصف التاسع من مرحلة التعليم الأساسي (Computer, Grade 9, basic education)* (student book, Arabic) — Libya, Libya Ministry of Education, Centre for Educational Curricula and Research (مركز المناهج التعليمية والبحوث التربوية). Year 2019-2020 (1440-1441 AH); no ISBN printed. 137 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/libya-placements.md.
 
+**Book 8:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What email is, and who offers accounts; Steps 1–12 in order; the basic information needed | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 4, printed pp. 67–69 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Iraq, Bhutan, Libya
 | 4.2 Login to Email (signing in to Gmail with the G Suite for Education account) | Bhutan, *Literacy with ICT, Class VI*, printed p. 67 |
 | 4.5 Creating Email Account | Bhutan, *Literacy with ICT, Class VII*, printed p. 61 |
 | Unit 3 Ch 1, entering Gmail and the contents of the email screen; advantages and disadvantages of email | Libya Grade 9 Computer, printed p. 123 |
+| Creating an email account | Rwanda Grade 7 S1 ICT Student Book, printed p. 197 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Iraq, Bhutan, Libya).**
+**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Bhutan, Libya, Rwanda).**
 
 The twelve steps are taught in the student book's exact order, unmerged and unreordered, as the placements give them. Nothing in this lesson claims a page the placements do not give.
 
@@ -40,4 +43,6 @@ Bhutan's own way (Class VII, Literacy with ICT student book): Social media is ta
 
 Libya's own way (Grade 9, Computer student book): the whole year is networks and the internet — a full networks unit (types, cables, topology, components), then Internet Explorer and Google search taught as named skills, then email and a closing tour of social sites (Facebook, YouTube, Twitter, Instagram, Yahoo) with practical activities.
 
-Searchable tags: Gmail, creating an email account, sign up, username, password, verification code, Ethiopia Grade 8 ICT, mauritania, grade 8, iraq, grade 11, bhutan, class vi, class vii, libya, grade 9 computer
+Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
+
+Searchable tags: Gmail, creating an email account, sign up, username, password, verification code, Ethiopia Grade 8 ICT, mauritania, grade 8, iraq, grade 11, bhutan, class vi, class vii, libya, grade 9 computer, rwanda, grade 7 s1 ict student book

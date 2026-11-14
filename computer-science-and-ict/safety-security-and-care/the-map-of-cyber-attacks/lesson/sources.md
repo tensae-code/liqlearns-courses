@@ -1,6 +1,6 @@
 # Sources — The map of cyber-attacks
 
-countries: Ethiopia, Iraq, Sudan, Cuba, Egypt
+countries: Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,6 +14,10 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Egypt
 
 **Book 6:** *Computer & Information and Communication Technology — Second Grade Preparatory, First Term 2025/2026* (student book, English; parallel Arabic and French editions) — Egypt, Egypt Ministry of Education and Technical Education, 2025/2026. No ISBN printed. 86 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 7:** *Information and Communication Technology (ICT) for Rwanda Schools — Learner's Book, Senior Three* (student book, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-421-6. 368 PDF pages. Verdict: COMPLETE — the full book was recovered intact via the Git Blob API after repeated truncated transfers and read in full from the staged copy. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
+**Book 8:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Cyber terminology; the eight main kinds listed | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 5, printed p. 199 |
@@ -22,8 +26,10 @@ countries: Ethiopia, Iraq, Sudan, Cuba, Egypt
 | Capítulo 3.2 Tendencias en ciberseguridad: nuevas amenazas y tecnologías emergentes | Cuba, *Informática, Grade 9*, printed p. 48 |
 | 3-2 Threats and Countermeasures in Information Security [2] | Egypt, *Programming and Artificial Intelligence, Grade 10 Term 1*, printed p. 28 |
 | Unit 1 Lesson 2 Advanced Cyber Threats | Egypt, *Computer & ICT, Grade 8 Term 1*, printed p. 21 |
+| Importance of computer security; security threats (origins, intended and external classes; viruses, spyware, trojan horse, social engineering, identity theft, sabotage, denial of service) | Rwanda Grade 9 S3 ICT Student Book, printed p. 313 |
+| Security threats (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 167 (teacher guide — evidence) |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Iraq, Sudan, Cuba, Egypt).**
+**Acceptance count: taught in 6 countries (Ethiopia, Iraq, Sudan, Cuba, Egypt, Rwanda).**
 
 Iraq's own way (Grade 10): the preparatory stage turns practical and examinable — a whole unit on computer maintenance (preventive vs corrective, hardware and software, hard-disk management with defragmentation, ScanDisk, partitions and FAT32 vs NTFS), then PowerPoint and Microsoft Publisher taught tab by tab, looping control structures in Scratch, and a final unit pairing HTML web-page building with information security.
 
@@ -35,4 +41,8 @@ Egypt's own way (Grade 10, Term 1 Programming and Artificial Intelligence studen
 
 Egypt's own way (Grade 8, Term 1 student book): Two units — "Artificial Intelligence and Protecting Our Digital Data" and "Website Design and Creation" — ending with pupils creating their own school website with AI help.
 
-Searchable tags: cyber-attack, eight kinds, map, Grade 9 ICT Ethiopia Unit 5, iraq, grade 10, sudan, grade 6, cuba, grade 9, egypt, grade 10, grade 8
+Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3 guide taught as long screenshot-by-screenshot practicals rooted in Rwandan school life (a GS Bumbogo parents'-meeting mail merge, an administration map of Rwanda built in ArcGIS, an environmental-protection presentation, 'Rwanda Nziza' hyperlink decks), closing with a complete Scratch platform game, Hard Journey.
+
+Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
+
+Searchable tags: cyber-attack, eight kinds, map, Grade 9 ICT Ethiopia Unit 5, iraq, grade 10, sudan, grade 6, cuba, grade 9, egypt, grade 10, grade 8, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide

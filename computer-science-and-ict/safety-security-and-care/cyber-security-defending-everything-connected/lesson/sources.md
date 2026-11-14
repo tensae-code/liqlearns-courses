@@ -1,6 +1,6 @@
 # Sources — Cyber security — defending everything connected
 
-countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia
+countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -22,6 +22,10 @@ countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia
 
 **Book 10:** *Мэдээллийн технологи X (Information Technology X)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (2nd edition; bibliographic entry УБ.2018); ISBN 978-99978-61-82-5. 151 PDF pages (printed book 148 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page, from the release mid-size-books-8 asset (the books.json record's size_bytes does not match the secured asset — see the placements file's log debt). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 11:** *Information and Communication Technology (ICT) for Rwanda Schools — Learner's Book, Senior Three* (student book, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-421-6. 368 PDF pages. Verdict: COMPLETE — the full book was recovered intact via the Git Blob API after repeated truncated transfers and read in full from the staged copy. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
+**Book 12:** *Information and Communication Technology (ICT) for Rwanda Schools — Teacher's Guide, Senior Three* (teacher guide, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-422-3. 244 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What cyber security is; its aim and five categories | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 5, printed pp. 197–198 |
@@ -35,8 +39,10 @@ countries: Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia
 | Ch 1, the security of data and information: computer crimes (indecent information, computer-time theft, electronic defamation) | Libya Grade 12 IT Humanities, printed p. 9 |
 | Ch 1, the security of data and information: computer crimes (indecent information, computer-time theft, electronic defamation, information piracy) | Libya Grade 12 IT Science, printed p. 9 |
 | 1.1.3 Information security and protection (the CIA triad, threats, protection methods) | Mongolia Grade 10 IT X, printed p. 17 |
+| Unit 9: network security (introduction; definitions — security, threat, authentication, authorisation, encryption and decryption, firewall) | Rwanda Grade 9 S3 ICT Student Book, printed p. 309 |
+| Unit 9: network security — terms and importance of computer security (teacher guide — evidence) | Rwanda Grade 9 S3 ICT Teacher Guide, printed p. 167 (teacher guide — evidence) |
 
-**Acceptance count: taught in 7 countries (Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia).**
+**Acceptance count: taught in 8 countries (Ethiopia, North Macedonia, Iraq, Cuba, Egypt, Libya, Mongolia, Rwanda).**
 
 North Macedonia's own way (Year 2): a strikingly current first theme (cybersecurity, cryptography, blockchain, robotics, AI/ML and large language models) precedes deep C++ (data representation, functions, one-dimensional arrays), a full databases theme ending in SQL, multimedia with generative AI for graphics, and HTML web authoring.
 
@@ -54,4 +60,8 @@ Libya's own way (Grade 12 Science, Information Technology student book): the Sci
 
 Mongolia's own way (Grade 10): Grade 10 is the "citizen" book — ICT ethics, law and intellectual property first, taught with Mongolian digital content as the examples (the Nogun comic, the Chinggis Khaan animation, GoGo Kids, Maamuu and YoLo; the CRC's black-list.mn), then a distinctive "package information" chapter — collecting, storing, merging and presenting information as one whole, worked through a 24-slide presentation on the sights of Bayankhongor aimag — multimedia production with free tools (Pencil2D, Pivot Animator, Unfreez, Audacity), and a full MS Access database chapter built around a Mongolian phone-book database and the state's unified registration system.
 
-Searchable tags: cyber security, cyber-attack, cybercrime, disaster recovery, end-user education, medical records, intellectual property, Grade 10 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, cuba, grade 9, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x
+Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3 guide taught as long screenshot-by-screenshot practicals rooted in Rwandan school life (a GS Bumbogo parents'-meeting mail merge, an administration map of Rwanda built in ArcGIS, an environmental-protection presentation, 'Rwanda Nziza' hyperlink decks), closing with a complete Scratch platform game, Hard Journey.
+
+Rwanda's own way (S3 ICT Teacher Guide, Fountain): the S3 guide (a different publisher from the KLB S1/S2 set) organises the year into four study areas — application software, GIS/spreadsheets/presentations, graphics and multimedia, networks and programming — ending in platform game programming in Scratch. (teacher guide — evidence)
+
+Searchable tags: cyber security, cyber-attack, cybercrime, disaster recovery, end-user education, medical records, intellectual property, Grade 10 ICT Ethiopia, north macedonia, grade 11, iraq, grade 10, cuba, grade 9, egypt, grade 10, grade 9, libya, grade 12 it humanities, grade 12 it science, mongolia, grade 10 it x, rwanda, grade 9 s3 ict learners book, rwanda, grade 9 s3 ict teacher guide

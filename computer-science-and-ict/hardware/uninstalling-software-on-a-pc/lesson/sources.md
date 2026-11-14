@@ -1,6 +1,6 @@
 # Sources — Uninstalling software on a PC
 
-countries: Ethiopia, Afghanistan, Egypt
+countries: Ethiopia, Afghanistan, Egypt, Rwanda
 
 **Book 1:** *Information Technology, Grade 12 Student Textbook* (student textbook) — Ethiopia, Ministry of Education / Hawassa University (Addis Ababa University, Bahir Dar University and Jimma University thanked). Writers: Teshome Alemu Wedajo, Wendwesen Endale Workneh. August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). No ISBN. PDF 210 pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g12-student-placements.md.
 
@@ -10,6 +10,8 @@ countries: Ethiopia, Afghanistan, Egypt
 
 **Book 4:** *Computer & Information and Communication Technology — First grade preparatory, First Term 2025-2026* (student book, English; parallel Arabic and French editions) — Egypt, Egypt Ministry of Education and Technical Education, 2025-2026. No ISBN printed. 107 PDF pages (English edition). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/egypt-placements.md.
 
+**Book 5:** *Information and Communication Technology (ICT) for Rwanda Schools — Learner's Book, Senior Three* (student book, English) — Rwanda, Fountain Publishers Rwanda Ltd, Kigali (author Isaac K. Kiwanuka); year 2017; ISBN 978-9970-19-421-6. 368 PDF pages. Verdict: COMPLETE — the full book was recovered intact via the Git Blob API after repeated truncated transfers and read in full from the staged copy. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Why uninstall — and whose machine it is | Ethiopia, *Information Technology, Grade 12 Student Textbook*, Unit 5, printed p. 140 |
@@ -17,8 +19,9 @@ countries: Ethiopia, Afghanistan, Egypt
 | Approval rule and layout warning (teacher guide — evidence) | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 5, printed pp. 100–101 |
 | Lesson 10 "Changing or removing programs" | Afghanistan, *Computer, Grade 11*, printed p. 43 |
 | Lesson 4, uninstall via own uninstaller / Control Panel | Egypt, *Computer & ICT, Grade 7 Term 1*, printed p. 29 |
+| Uninstall application software (Control Panel, Programs and Features) | Rwanda Grade 9 S3 ICT Student Book, printed p. 25 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Afghanistan, Egypt).**
+**Acceptance count: taught in 4 countries (Ethiopia, Afghanistan, Egypt, Rwanda).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -26,4 +29,6 @@ Teacher-guide material is labelled (teacher guide — evidence) where it appears
 
 Egypt's own way (Grade 7, Term 1 student book): One chapter ("Digital Programs and Applications") of 10 self-assessed lessons, each opening with "I can…" objectives and closing with Learn-by-doing; national platforms are the examples throughout — Digital Egypt platform, InstaPay, IDSC — and a separate Arabic activity booklet mirrors every lesson.
 
-Searchable tags: uninstalling software, Control Panel, Programs and Features, Uninstall/Change, Grade 12 ICT Ethiopia, afghanistan, egypt, grade 7
+Rwanda's own way (S3 ICT Learner's Book, Fountain): the same ten units as the S3 guide taught as long screenshot-by-screenshot practicals rooted in Rwandan school life (a GS Bumbogo parents'-meeting mail merge, an administration map of Rwanda built in ArcGIS, an environmental-protection presentation, 'Rwanda Nziza' hyperlink decks), closing with a complete Scratch platform game, Hard Journey.
+
+Searchable tags: uninstalling software, Control Panel, Programs and Features, Uninstall/Change, Grade 12 ICT Ethiopia, afghanistan, egypt, grade 7, rwanda, grade 9 s3 ict learners book

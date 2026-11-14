@@ -1,6 +1,6 @@
 # Sources — First Scratch script — move 10 steps and say hello
 
-countries: Ethiopia, Djibouti, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt, Bhutan
+countries: Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt, Bhutan, Rwanda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -24,6 +24,8 @@ countries: Ethiopia, Djibouti, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt,
 
 **Book 11:** *Literacy with ICT — A Textbook for Class IV* (student book, English) — Bhutan, Royal Education Council (REC), Royal Government of Bhutan, Paro; reprint 2019 (copyright 2016). ISBN 978-99936-0-428-0. 90 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/bhutan-placements.md.
 
+**Book 12:** *Information and Communication Technology for Rwandan Schools — Secondary 1, Students' Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2016; ISBN 978-9966-10-505-9. 264 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The first script built in the book's order — Events, then Motion | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 231–232 |
@@ -38,8 +40,9 @@ countries: Ethiopia, Djibouti, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt,
 | Unit 4 Lesson 1: Introduction to the Scratch language | Sudan, *ICT, Grade 9*, printed p. 56 |
 | Lesson 4 Scratch | Egypt, *Computer & ICT, Grade 7 Term 2*, printed p. 37 |
 | 6.6 Applying Basic Motions to the Sprite (move and turn blocks) | Bhutan, *Literacy with ICT, Class IV*, printed p. 52 |
+| Scratch practicals: combo blocks, variables switch on/off | Rwanda Grade 7 S1 ICT Student Book, printed p. 217 |
 
-**Acceptance count: taught in 8 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt, Bhutan).**
+**Acceptance count: taught in 9 countries (Ethiopia, Finland, Bulgaria, Palestine, Iraq, Sudan, Egypt, Bhutan, Rwanda).**
 
 Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills course (Binary Logic) is built as three units per term with the same guide pattern as the intermediate books (outcomes, important points, steps, answers, unit project, "Test Yourself"), files on the Ain platform, and a strong Arabic/English bilingual-typing strand — pupils switch the keyboard between Arabic and English with Alt+Shift and learn text direction, hamza and Arabic punctuation on the keyboard alongside Word skills; Scratch is introduced in Term 1 through algorithms from daily life. This citation is PARTIAL — Term 1 only. (teacher guide — evidence)
 
@@ -55,4 +58,6 @@ Egypt's own way (Grade 7, Term 2 student book): Term 2 pivots from applications 
 
 Bhutan's own way (Class IV, Literacy with ICT student book): Competency-based "Literacy with ICT" (not procedure drill): every chapter opens with learning objectives, mixes off-machine "Try This" with "Try This On Machine", and closes with Now You Know / Check Your Progress / Explore Further; content is localised (Bhutanese names, kuenselonline, education.gov.bt, Bhutan's 1999 Internet start) and one class per week across the year.
 
-Searchable tags: Scratch, first script, when flag clicked, move 10 steps, Looks, doing lesson, Grade 9 ICT Ethiopia Unit 6, djibouti, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, morocco, grade 4, sudan, grade 9, egypt, grade 7, bhutan, class iv
+Rwanda's own way (S1 ICT Student Book, KLB): competency-based units each opening with a Key Unit Competency and keywords; a full GIS/ArcGIS unit and a Scratch music-making unit sit inside the first secondary year, and ICT use is grounded in Rwandan daily life.
+
+Searchable tags: Scratch, first script, when flag clicked, move 10 steps, Looks, doing lesson, Grade 9 ICT Ethiopia Unit 6, djibouti, finland, bulgaria, saudi arabia, grade 4, palestine, iraq, grade 7, morocco, grade 4, sudan, grade 9, egypt, grade 7, bhutan, class iv, rwanda, grade 7 s1 ict student book

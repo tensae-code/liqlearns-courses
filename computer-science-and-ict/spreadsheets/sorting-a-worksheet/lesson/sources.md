@@ -1,6 +1,6 @@
 # Sources — Sorting a worksheet
 
-countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongo
 
 **Book 8:** *Мэдээллийн технологи IX (Information Technology IX)* (student book, Mongolian) — Mongolia, Ministry of Education, Culture, Science and Sports of Mongolia, Ulaanbaatar; year 2019 (3rd edition; bibliographic entry УБ.2016); ISBN 978-99962-74-38-1. 75 PDF pages (printed book 72 pages). Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave — image-only scan, read page by page. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/mongolia-placements.md.
 
+**Book 9:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Teacher's Guide* (teacher guide, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-597-4. 192 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md. (teacher guide — evidence)
+
+**Book 10:** *Information and Communication Technology for Rwandan Schools — Secondary 2, Student's Book* (student book, English) — Rwanda, Kenya Literature Bureau, Nairobi; year 2017; ISBN 978-9966-10-596-7. 320 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/rwanda-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — sorting defined: alphabetical, numerical, by date, custom list, by cell/font colour or icon; the scope decision — whole sheet (rows move together) vs only a range | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 110–111 |
@@ -31,8 +35,10 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongo
 | "Sorting" | North Macedonia, *Informatics, Year 1*, Тема 5 §5.4, printed p. 244 |
 | Урок 25 "Сортировка данных" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 54 |
 | 2.3.3 Sorting, searching and filtering data by a property | Mongolia Grade 9 IT IX, printed p. 50 |
+| Sort data: custom sort ascending and descending (teacher guide — evidence) | Rwanda Grade 8 S2 ICT Teacher Guide, printed p. 90 (teacher guide — evidence) |
+| Sort | Rwanda Grade 8 S2 ICT Student Book, printed p. 138 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia).**
+**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Uzbekistan, Mongolia, Rwanda).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -45,4 +51,8 @@ Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, A
 
 Mongolia's own way (Grade 9): Grade 9 turns outward to society and real tools — the information society taught through Mongolia's own shift, open-source software through Soyombo Linux (Mongolia's own Linux) and Mongolian OpenOffice, copyright through Mongolia's 2006 copyright law; algorithms are drawn as flowcharts and run in Turtle Art; the long spreadsheet unit grades pupils with nested IFs, builds Fibonacci sequences, grows a 500,000-tögrög bank deposit, and charts the depth and area of Mongolia's great lakes (Khuvsgul, Uvs, Khar-Us); e-services are the real Mongolian ones — the ТҮЦ service kiosk, bookstore.mn and internet banking.
 
-Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, uzbekistan, grade 9, mongolia, grade 9 it ix
+Rwanda's own way (S2 ICT Teacher Guide, KLB): S2 moves to data protection, ICT in finance (including Rwandan mobile banking risks and biometrics), spreadsheets in depth, a second ArcGIS unit, and Scratch game design with sprite interaction tables and score/level rules. (teacher guide — evidence)
+
+Rwanda's own way (S2 ICT Student Book, KLB): the student companion to the S2 guide — the same nine units, taught through Rwandan financial life (mobile banking, ATMs, stock exchange) and Scratch game projects (Helicopter Game, Moving Eyes Game).
+
+Searchable tags: sorting, Ascending A to Z, Descending Z to A, Data tab, sort range, whole sheet, Ethiopia Grade 10, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, uzbekistan, grade 9, mongolia, grade 9 it ix, rwanda, grade 8 s2 ict teacher guide, rwanda, grade 8 s2 ict student book
