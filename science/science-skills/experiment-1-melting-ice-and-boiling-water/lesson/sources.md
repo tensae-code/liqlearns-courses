@@ -1,6 +1,6 @@
 # Sources — Experiment 1: melting ice and boiling water
 
-countries: Ethiopia, Serbia, Mongolia, Bulgaria, Pakistan (Punjab), Armenia
+countries: Ethiopia, Serbia, Mongolia, Bulgaria, Pakistan (Punjab), Armenia, Samoa
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -84,3 +84,15 @@ Searchable tags: pakistan, punjab, general science, experiment-1-melting-ice-and
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5, astghik gratun, edit print
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 11, Book 1):** *Science — Year 11, Book 1* (student book) — Samoa. Identity as printed: Science, Year 11 Book One; Government of Samoa, Department of Education; © Government of Samoa, Department of Education, 2003; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; ISBN 982-517-040-9. Student book. PDF pages: 121; bytes 6,993,318. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Key Vocabulary printed pp. 119–120 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| comparing rainwater and seawater fairly: which boils first and at what temperature, which freezes first and at what temperature (equal volumes, same heat, temperature recorded every 30 seconds and graphed), and how much heat water and air can store (Part C heat-capacity comparison) (Samoa, Samoa Y11 Science Book 1) | Samoa, *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 95–97. The same unit's beach field investigation (designing a method to measure water temperature at different depths, testing pH, recording organisms on a many–some–few scale, describing and timing the wave action) is filed under the landscape field trip above |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Pakistan (Punjab, Samoa).**
+
+Searchable tags: samoa, samoa mesc, science skills experiment 1 melting ice and boiling water

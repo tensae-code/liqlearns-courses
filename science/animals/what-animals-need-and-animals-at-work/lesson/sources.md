@@ -1,6 +1,6 @@
 # Sources — What animals need, and animals at work for people
 
-countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States
+countries: Ethiopia, Cook Islands, Guyana, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Samoa
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -95,3 +95,15 @@ Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 5, what anima
 **Acceptance count: taught in 5 countries (Ethiopia, Cook Islands, Guyana, Moldova, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, what animals need and animals at work
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 3):** *Science — Year 10, Book 3* (student textbook) — Samoa. Identity as printed: Science Year 10 Book 3, © Samoa Department of Education 2002 (NZAID-supported). Student textbook. PDF pages: 104; bytes 3,611,513. Verdict: COMPLETE (Unit 1 Revision p.5 through Glossary p.101 and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| adaptations and life histories of different plants and animals, Samoan examples (uu crab reproduction) (Samoa, Samoa Y10 Science Book 3) | Samoa, *Science — Year 10, Book 3 (MESC Samoa)*, printed pp. 18-31 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Cook Islands, Guyana, Moldova, United States, Samoa).**
+
+Searchable tags: samoa, samoa mesc, animals what animals need and animals at work

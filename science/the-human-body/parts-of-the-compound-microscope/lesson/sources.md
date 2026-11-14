@@ -1,6 +1,6 @@
 # Sources — The microscope — parts and what each does
 
-countries: Ethiopia
+countries: Ethiopia, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -19,3 +19,18 @@ Pairing warning (carried exactly): this Grade 7 Teacher Guide is an Addis Ababa 
 Cross-reference: Biology's *Parts of the light microscope* covers the same instrument at secondary depth; this Grade 7 lesson is a new first-depth build.
 
 Searchable tags: microscope parts, eyepiece, objective, nosepiece, stage, condenser, diaphragm, mirror, Ethiopia, Grade 7
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 1):** *Science Year 9 Book 1* (student book) — Samoa. Identity as printed: Science, Year 9 Book One; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-006-9. Student book. PDF pages: 81; bytes 2,888,578. Verdict: COMPLETE (Contents through Glossary printed pp. 77–80 and back cover all present). Records: the TSV record "Science Year 9 Book 1" and the books.json record "Science Year 9 Student Book 1" are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2 Organisms and Cells (printed pp. 15–31): pure Biology — already covered by the Biology wave; items not placed here. The unit's microscope-skill items are placed separately below. (Samoa, Samoa Y9 Science Book 1) | Samoa, *Science Year 9 Book 1*, printed pp. 15–31 |
+| parts of the light microscope and what each part does (eyepiece lens, nosepiece, objective lenses, stage, mirror/light source, arm, coarse and fine focus knobs) (Samoa, Samoa Y9 Science Book 1) | Samoa, *Science Year 9 Book 1*, printed pp. 18–19 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Searchable tags: samoa, samoa mesc, the human body parts of the compound microscope

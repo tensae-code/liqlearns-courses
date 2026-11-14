@@ -1,6 +1,6 @@
 # Sources — Force, friction and gravity
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -106,3 +106,15 @@ Searchable tags: united states, utah, seed standards, utah oer, force friction a
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, force-friction-and-gravity
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| gravity as a force pulling objects together; mass decides the strength; weight is the force of gravity on an object, 10 Newtons per kilogram on Earth; measuring weight with a force meter (zero adjustment, spring, pointer, hook) (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 24-25 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Serbia, India, United States, Pakistan (Punjab, Samoa).**
+
+Searchable tags: samoa, samoa mesc, materials force friction and gravity

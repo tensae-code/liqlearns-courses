@@ -1,6 +1,6 @@
 # Sources — Cells — from one cell to a whole organism
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Cuba
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Cuba, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -54,3 +54,23 @@ Searchable tags: uganda, uganda general science, ncdc, senior one, lower seconda
 **Acceptance count: taught in 2 countries (Ethiopia, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, from one cell to a whole organism
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 12):** *Science — Year 12* (student textbook) — Samoa. Identity as printed: Science Year 12, © Ministry of Education, Sports and Culture, Samoa, 2004 (NZAID-supported). Student textbook. PDF pages: 137; bytes 10,135,603. Verdict: PARTIAL — the file contains Units 1–19 and the opening of Unit 20 (Resistance, Power and Energy); Units 21–24 (Speed and Acceleration; Force, Mass and Momentum; Energy, Work and Power; Waves), the Answers and the Glossary listed in the contents are missing — cited as the partial book it is, never counted complete. Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 10, Book 1):** *Science — Year 10, Book 1* (student book) — Samoa. Identity as printed: Science, Year 10 Book One; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-007-7. Student book. PDF pages: 95; bytes 3,352,342. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed pp. 91–94 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 11, Book 1):** *Science — Year 11, Book 1* (student book) — Samoa. Identity as printed: Science, Year 11 Book One; Government of Samoa, Department of Education; © Government of Samoa, Department of Education, 2003; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; ISBN 982-517-040-9. Student book. PDF pages: 121; bytes 6,993,318. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Key Vocabulary printed pp. 119–120 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4 Chromosomes, Genes and DNA — pure Biology, already covered by the Biology wave; items not placed (Samoa, Samoa Y12 Science) | Samoa, *Science — Year 12 (MESC Samoa)*, printed pp. 20-27 |
+| Unit 4 Variation (printed pp. 44–53): pure Biology — already covered by the Biology wave; items not placed here. Its data-handling items are placed separately below. (Samoa, Samoa Y10 Science Book 1) | Samoa, *Science — Year 10, Book 1 (MESC Samoa)*, printed pp. 44–53 |
+| Unit 5 Genetics (printed pp. 53–65): pure Biology — already covered by the Biology wave; items not placed here. (Samoa, Samoa Y11 Science Book 1) | Samoa, *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 53–65 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Cuba, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Searchable tags: samoa, samoa mesc, the human body from one cell to a whole organism

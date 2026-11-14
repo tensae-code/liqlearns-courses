@@ -1,6 +1,6 @@
 # Sources — Biodiversity — keeping the variety of life
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Bulgaria, Moldova, United States, Pakistan (Punjab), Armenia, Cuba
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Bulgaria, Moldova, United States, Pakistan (Punjab), Armenia, Cuba, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -215,3 +215,17 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 **Acceptance count: taught in 12 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia, Bulgaria, Moldova, United States, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, biodiversity keeping the variety of life
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1: native plants and animals of Samoa (vivao and moso'oi trees of the Savai'i cloud forests, laumei sami, pea vao) vs introduced ones people brought (niu, fa'i, pulu on managed land); finding out when and why an organism was introduced and its effect on native organisms (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 5-6 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia, Bulgaria, Moldova, United States, Pakistan (Punjab, Cuba, Samoa).**
+
+Placement choice, on the record: this placement was filed as "our-environment/caring-for-and-keeping-native-animals-and-plants" — samoa-placements.md, printed pp. 5-6 — and is stocked here because the existing lesson on biodiversity — keeping the variety of life — covers native plants and animals, introduced ones and what they do to the natives. The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, our environment biodiversity keeping the variety of life

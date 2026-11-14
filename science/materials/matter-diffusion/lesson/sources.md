@@ -1,6 +1,6 @@
 # Sources — Matter — diffusion
 
-countries: Ethiopia, Uzbekistan, Armenia, Kazakhstan, Uganda
+countries: Ethiopia, Uzbekistan, Armenia, Kazakhstan, Uganda, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
@@ -74,3 +74,15 @@ Searchable tags: diffusion, concentration, perfume, ink, particles spreading
 Uganda's own way — one prototype General Science book for the whole of Senior One under the Lower Secondary Curriculum: it opens with what science is and how to work safely, measures the world, then moves through matter and temperature to the diversity of living things, and closes with elements, air, burning and rusting — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 1):** *Science — Year 10, Book 1* (student book) — Samoa. Identity as printed: Science, Year 10 Book One; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-007-7. Student book. PDF pages: 95; bytes 3,352,342. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed pp. 91–94 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3 diffusion and osmosis: particles in gases and liquids always moving; diffusion from high to low concentration, faster in hot water (jelly-crystal investigation); osmosis as water moving through a semi-permeable membrane, taught with a marble-and-card model of the membrane and a potato-cube osmosis investigation in sugar solutions of different strengths (Samoa, Samoa Y10 Science Book 1) | Samoa, *Science — Year 10, Book 1 (MESC Samoa)*, printed pp. 27–32 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Uzbekistan, Armenia, Kazakhstan, Uganda, Samoa).**
+
+Searchable tags: samoa, samoa mesc, materials matter diffusion

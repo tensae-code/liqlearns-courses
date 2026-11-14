@@ -1,6 +1,6 @@
 # Sources — Ecosystems — populations, communities and their surroundings
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -364,3 +364,21 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 **Acceptance count: taught in 16 countries (Ethiopia, Australia, Suriname, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, India, Bulgaria, Greece, United States, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, ecosystems populations communities and their surroundings
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 3):** *Science — Year 10, Book 3* (student textbook) — Samoa. Identity as printed: Science Year 10 Book 3, © Samoa Department of Education 2002 (NZAID-supported). Student textbook. PDF pages: 104; bytes 3,611,513. Verdict: COMPLETE (Unit 1 Revision p.5 through Glossary p.101 and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 12):** *Science — Year 12* (student textbook) — Samoa. Identity as printed: Science Year 12, © Ministry of Education, Sports and Culture, Samoa, 2004 (NZAID-supported). Student textbook. PDF pages: 137; bytes 10,135,603. Verdict: PARTIAL — the file contains Units 1–19 and the opening of Unit 20 (Resistance, Power and Energy); Units 21–24 (Speed and Acceleration; Force, Mass and Momentum; Energy, Work and Power; Waves), the Answers and the Glossary listed in the contents are missing — cited as the partial book it is, never counted complete. Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| adaptations and environment: habitat as the place where an organism lives, each habitat with its own conditions (Samoa, Samoa Y10 Science Book 3) | Samoa, *Science — Year 10, Book 3 (MESC Samoa)*, printed pp. 18-23 |
+| Unit 11 Ecosystems: structure, energy flow and Samoan ecosystems (Samoa, Samoa Y12 Science) | Samoa, *Science — Year 12 (MESC Samoa)*, printed pp. 68-74 |
+| the environment as biotic plus abiotic parts; abiotic factors (light, temperature, humidity, oxygen, wind, wave action, soil and water pH, rainfall, salinity) and biotic factors (predators, parasites, food supply, human influence, competition); the environmental needs of yams (1100 mm rain, dry season, no waterlogged soil, NPK fertiliser) (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 11-12 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Australia, Suriname, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, India, Bulgaria, Greece, United States, Pakistan (Punjab, Cuba, Samoa).**
+
+Searchable tags: samoa, samoa mesc, our environment ecosystems populations communities and their surroundings

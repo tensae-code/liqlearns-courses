@@ -1,6 +1,6 @@
 # Sources — Food — how food gets spoiled
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Pakistan (Punjab), Samoa
 
 **Book 1:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -75,3 +75,15 @@ Searchable tags: costa rica, ciencias, coned, antologías coned, grade 9
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, food-how-food-gets-spoiled
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 1):** *Science — Year 10, Book 1* (student book) — Samoa. Identity as printed: Science, Year 10 Book One; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-007-7. Student book. PDF pages: 95; bytes 3,352,342. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed pp. 91–94 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food poisoning and food preservation: Salmonella, Clostridium botulinum, Staphylococcus aureus and Campylobacter (sources and symptoms); preventing food poisoning (hand and kitchen hygiene, thorough cooking, safe storage, fridge below 4°C, bacterial activity at different temperatures); preserving food by pickling, curing, smoking, chemical preservatives, irradiation, vacuum packing and cooking/chilling (Samoa, Samoa Y10 Science Book 1) | Samoa, *Science — Year 10, Book 1 (MESC Samoa)*, printed pp. 62–66 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Pakistan (Punjab, Samoa).**
+
+Searchable tags: samoa, samoa mesc, keeping healthy food how food gets spoiled

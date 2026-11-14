@@ -1,6 +1,6 @@
 # Sources — Air pollution — what dirties the air
 
-countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia
+countries: Gabon (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Samoa
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -143,3 +143,15 @@ Searchable tags: pakistan, punjab, general science, air-pollution-what-dirties-t
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 11, Book 2):** *Science — Year 11, Book 2* (student book) — Samoa. Identity as printed: Science, Year 11 Book Two; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2003; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-049-2. Student book. PDF pages: 119; bytes 3,978,553. Verdict: COMPLETE (Unit 1 Revision printed p. 7 through Key Vocabulary printed pp. 119–120 and back cover all present). Note: the scan repeats printed pp. 27–28 once; no content is missing. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the chemicals from car and bus engines as a source of air pollution in cities (long-term exposure raising the risk of cancer and cardiovascular disease, short-term exposure bringing bronchitis, asthma and other respiratory illnesses), investigated Samoa's way: each group writes a questionnaire and surveys people in Samoa about the increased use of motor vehicles and the effects of petrol and exhaust fumes on people and the environment (Samoa, Samoa Y11 Science Book 2) | Samoa, *Science — Year 11, Book 2 (MESC Samoa)*, printed pp. 56–57 |
+
+**Acceptance count: taught in 6 countries (Italy, Uganda, Bulgaria, Pakistan (Punjab, Samoa).**
+
+Searchable tags: samoa, samoa mesc, our environment air pollution what dirties the air

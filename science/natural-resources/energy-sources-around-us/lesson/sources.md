@@ -1,6 +1,6 @@
 # Sources — Energy sources around us
 
-countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only)
+countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -94,3 +94,15 @@ Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discov
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 3
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 12):** *Science — Year 12* (student textbook) — Samoa. Identity as printed: Science Year 12, © Ministry of Education, Sports and Culture, Samoa, 2004 (NZAID-supported). Student textbook. PDF pages: 137; bytes 10,135,603. Verdict: PARTIAL — the file contains Units 1–19 and the opening of Unit 20 (Resistance, Power and Energy); Units 21–24 (Speed and Acceleration; Force, Mass and Momentum; Energy, Work and Power; Waves), the Answers and the Glossary listed in the contents are missing — cited as the partial book it is, never counted complete. Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 10 Fossil Fuels: formation, extraction and use of coal, oil and gas (Samoa, Samoa Y12 Science) | Samoa, *Science — Year 12 (MESC Samoa)*, printed pp. 63-67 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Suriname, Costa Rica, Greece, Samoa).**
+
+Searchable tags: samoa, samoa mesc, natural resources energy sources around us

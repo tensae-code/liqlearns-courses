@@ -1,6 +1,6 @@
 # Sources — The human reproductive system
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Cuba, Samoa
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -89,3 +89,20 @@ Searchable tags: gabon, super efficace, gabon grade 5, the human reproductive sy
 **Acceptance count: taught in 5 countries (Ethiopia, Guyana, Mongolia, India, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, the human reproductive system
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 12):** *Science — Year 12* (student textbook) — Samoa. Identity as printed: Science Year 12, © Ministry of Education, Sports and Culture, Samoa, 2004 (NZAID-supported). Student textbook. PDF pages: 137; bytes 10,135,603. Verdict: PARTIAL — the file contains Units 1–19 and the opening of Unit 20 (Resistance, Power and Energy); Units 21–24 (Speed and Acceleration; Force, Mass and Momentum; Energy, Work and Power; Waves), the Answers and the Glossary listed in the contents are missing — cited as the partial book it is, never counted complete. Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 11, Book 1):** *Science — Year 11, Book 1* (student book) — Samoa. Identity as printed: Science, Year 11 Book One; Government of Samoa, Department of Education; © Government of Samoa, Department of Education, 2003; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; ISBN 982-517-040-9. Student book. PDF pages: 121; bytes 6,993,318. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Key Vocabulary printed pp. 119–120 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 5 Applied Genetics — pure Biology, already covered by the Biology wave; items not placed (Samoa, Samoa Y12 Science) | Samoa, *Science — Year 12 (MESC Samoa)*, printed pp. 28-34 |
+| Unit 3 Reproductive System (printed pp. 25–40): pure Biology — already covered by the Biology wave; items not placed here. (Samoa, Samoa Y11 Science Book 1) | Samoa, *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 25–40 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Guyana, Mongolia, India, Cuba, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Searchable tags: samoa, samoa mesc, the human body the human reproductive system

@@ -1,6 +1,6 @@
 # Sources — Food chains, food webs and energy pyramids
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -230,3 +230,18 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 **Acceptance count: taught in 9 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, food chains food webs and energy pyramids
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 12):** *Science — Year 12* (student textbook) — Samoa. Identity as printed: Science Year 12, © Ministry of Education, Sports and Culture, Samoa, 2004 (NZAID-supported). Student textbook. PDF pages: 137; bytes 10,135,603. Verdict: PARTIAL — the file contains Units 1–19 and the opening of Unit 20 (Resistance, Power and Energy); Units 21–24 (Speed and Acceleration; Force, Mass and Momentum; Energy, Work and Power; Waves), the Answers and the Glossary listed in the contents are missing — cited as the partial book it is, never counted complete. Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food chains and webs within Unit 11 Ecosystems (Samoa, Samoa Y12 Science) | Samoa, *Science — Year 12 (MESC Samoa)*, printed pp. 68-74 |
+| producers (green plants with chlorophyll making food by photosynthesis) and consumers (herbivores, carnivores, predators, scavengers, omnivores); a Samoa sea food web (phytoplankton → zooplankton → faisua → shark; algae → sumu → filoa → shark) and single chains drawn from it (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 9-10 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States, Pakistan (Punjab, Cuba, Samoa).**
+
+Searchable tags: samoa, samoa mesc, our environment food chains food webs and energy pyramids

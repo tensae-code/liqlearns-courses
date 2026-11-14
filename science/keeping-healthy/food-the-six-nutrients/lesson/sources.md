@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only)
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -137,3 +137,15 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 3
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 1):** *Science Year 9 Book 1* (student book) — Samoa. Identity as printed: Science, Year 9 Book One; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-006-9. Student book. PDF pages: 81; bytes 2,888,578. Verdict: COMPLETE (Contents through Glossary printed pp. 77–80 and back cover all present). Records: the TSV record "Science Year 9 Book 1" and the books.json record "Science Year 9 Student Book 1" are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3 Food: the six nutrients (protein, carbohydrates, fats, vitamins, minerals, water) sorted into Samoa's three food groups — energy foods (fats/oils, carbohydrates; taro and banana as local energy foods), body-building/repair foods (proteins), protective foods (vitamins, minerals, water); balanced meals and staying healthy (Samoa, Samoa Y9 Science Book 1) | Samoa, *Science Year 9 Book 1*, printed pp. 32–34, 42–43 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Cook Islands, Suriname, India, Uganda, Bulgaria, Samoa).**
+
+Searchable tags: samoa, samoa mesc, keeping healthy food the six nutrients

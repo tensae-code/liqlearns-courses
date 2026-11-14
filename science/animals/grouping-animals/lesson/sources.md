@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab)
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -184,3 +184,15 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, grouping-animals
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| vertebrates (fish, birds, mammals, reptiles, amphibians — Samoa has many fish and birds, few mammals and reptiles, no amphibians but frogs and toads) and invertebrates, all named in Samoan (aveau moana starfish, fe'e octopus, satula sea urchin, mata poto cone shell, amu'amu staghorn coral, ula sami spiny lobster, mogamoga cockroach, atualoa centipede) (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 7-8 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Pakistan (Punjab, Samoa).**
+
+Searchable tags: samoa, samoa mesc, animals grouping animals

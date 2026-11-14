@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab)
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -113,3 +113,18 @@ Searchable tags: gabon, super efficace, gabon grade 4, pollution and its four ki
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, pollution-and-its-four-kinds
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 11, Book 1):** *Science — Year 11, Book 1* (student book) — Samoa. Identity as printed: Science, Year 11 Book One; Government of Samoa, Department of Education; © Government of Samoa, Department of Education, 2003; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; ISBN 982-517-040-9. Student book. PDF pages: 121; bytes 6,993,318. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Key Vocabulary printed pp. 119–120 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 11, Book 2):** *Science — Year 11, Book 2* (student book) — Samoa. Identity as printed: Science, Year 11 Book Two; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2003; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-049-2. Student book. PDF pages: 119; bytes 3,978,553. Verdict: COMPLETE (Unit 1 Revision printed p. 7 through Key Vocabulary printed pp. 119–120 and back cover all present). Note: the scan repeats printed pp. 27–28 once; no content is missing. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| using bacteria to remove oil: bacteria that live on beaches feed on spilt oil and break it down into harmless chemicals such as carbon dioxide; spraying the beach with fertiliser feeds the bacteria so they clear the oil up to five times faster (Samoa, Samoa Y11 Science Book 1) | Samoa, *Science — Year 11, Book 1 (MESC Samoa)*, printed p. 67 |
+| researching the positive and negative effects of a group of substances on people and the environment (fertilisers, CFCs, fuels, household cleaners, plastics, detergents), with a poster promoting the proper use of one substance and explaining how to minimise the negative effects shown on it (Samoa, Samoa Y11 Science Book 2) | Samoa, *Science — Year 11, Book 2 (MESC Samoa)*, printed p. 58 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Mexico, India, Pakistan (Punjab, Samoa).**
+
+Searchable tags: samoa, samoa mesc, our environment pollution and its four kinds

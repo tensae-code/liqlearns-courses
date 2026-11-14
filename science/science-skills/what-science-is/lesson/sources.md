@@ -1,6 +1,6 @@
 # Sources — What science is — evidence, inference and tentative knowledge
 
-countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States, Armenia
+countries: Ethiopia, Afghanistan, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Uganda, Moldova, United States, Armenia, Samoa (curriculum evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -112,3 +112,15 @@ Searchable tags: united states, utah, seed standards, utah oer, what science is
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 10, grade 5, grade 6, astghik gratun, edit print
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Primary Curriculum Statement, Years 1–8):** *Science — Primary Curriculum Statement, Years 1–8* (curriculum document) — Samoa. Identity as printed: SCIENCE: PRIMARY SCHOOL CURRICULUM, Ministry of Education, Sports and Culture, Samoa — primary science curriculum statement for Years 1–8 (bilingual Samoan context). Curriculum document, not a student textbook; the placements below are curriculum evidence for Samoa's own way of organising science. PDF pages: 78; bytes 1,948,442. Verdict: COMPLETE (Introduction through achievement objectives by year level to p.78 present). Cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Strand 1 Nature of Science: learning about science and doing science; how scientists change ideas with new evidence; participating and contributing on socio-scientific issues (curriculum evidence) (Samoa, Samoa Primary Science Curriculum) | Samoa, *Science — Primary Curriculum Statement, Years 1–8 (MESC Samoa)*, printed pp. 25-28 (curriculum — evidence) |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Uganda, Moldova, United States, Armenia) — unchanged.** Samoa is named as curriculum evidence only (Primary Curriculum Statement, Years 1–8), not added to this count.
+
+Searchable tags: samoa, samoa mesc, science skills what science is

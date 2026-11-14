@@ -1,6 +1,6 @@
 # Sources — Local knowledge, local conservation
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Micronesia, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -127,3 +127,15 @@ Searchable tags: iceland, líf á landi, þjórsárver, pink-footed goose, ramsa
 Micronesia's own way — teaching the island environment from Micronesia's own high and low Pacific islands, in the PCEP readers made for Pacific island children — is itself course content, carried exactly as filed.
 
 Searchable tags: micronesia, pcep, irei, prel, pacific islands, local knowledge local conservation
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 11, Book 1):** *Science — Year 11, Book 1* (student book) — Samoa. Identity as printed: Science, Year 11 Book One; Government of Samoa, Department of Education; © Government of Samoa, Department of Education, 2003; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; ISBN 982-517-040-9. Student book. PDF pages: 121; bytes 6,993,318. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Key Vocabulary printed pp. 119–120 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the local environmental issue project: choose an issue (introduced plants, solid waste management, sewage treatment, dogs, human population numbers, soil loss), survey the opinions of at least ten people, research what is causing it and what is being done, and present it as a pamphlet or poster saying what should be done and how people can change what they do to use the local environment responsibly (Samoa, Samoa Y11 Science Book 1) | Samoa, *Science — Year 11, Book 1 (MESC Samoa)*, printed p. 106 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia, Samoa).**
+
+Searchable tags: samoa, samoa mesc, our environment local knowledge local conservation

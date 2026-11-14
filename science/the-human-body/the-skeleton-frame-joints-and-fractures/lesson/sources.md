@@ -1,6 +1,6 @@
 # Sources — The skeleton — frame, joints and fractures
 
-countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cuba
+countries: Ethiopia, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cuba, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -156,3 +156,17 @@ Searchable tags: pakistan, punjab, general science, the-skeleton-frame-joints-an
 **Acceptance count: taught in 8 countries (Ethiopia, Guyana, Mongolia, India, Bulgaria, Moldova, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, the skeleton frame joints and fractures
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 1):** *Science — Year 10, Book 1* (student book) — Samoa. Identity as printed: Science, Year 10 Book One; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-007-7. Student book. PDF pages: 95; bytes 3,352,342. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed pp. 91–94 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7 Skeleto-muscular System (printed pp. 76–90): pure Biology — already covered by the Biology wave; items not placed here. Its student-planned investigation is placed separately below. (Samoa, Samoa Y10 Science Book 1) | Samoa, *Science — Year 10, Book 1 (MESC Samoa)*, printed pp. 76–90 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Guyana, Mongolia, India, Bulgaria, Moldova, Pakistan (Punjab, Cuba, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Searchable tags: samoa, samoa mesc, the human body the skeleton frame joints and fractures

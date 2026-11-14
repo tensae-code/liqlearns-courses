@@ -1,6 +1,6 @@
 # Sources — Cycles — the carbon cycle
 
-countries: Ethiopia, United States
+countries: Ethiopia, United States, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -25,3 +25,15 @@ Searchable tags: carbon cycle, carbon dioxide, photosynthesis uptake, respiratio
 **Acceptance count: taught in 2 countries (Ethiopia, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, cycles the carbon cycle
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 11, Book 1):** *Science — Year 11, Book 1* (student book) — Samoa. Identity as printed: Science, Year 11 Book One; Government of Samoa, Department of Education; © Government of Samoa, Department of Education, 2003; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; ISBN 982-517-040-9. Student book. PDF pages: 121; bytes 6,993,318. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Key Vocabulary printed pp. 119–120 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 7: the carbon cycle diagram and account — carbon dioxide in the air taken in by photosynthesis, passed to animals by feeding, returned by respiration and by decomposition in the soil, carbon stored as coal and oil and released again by burning (Samoa, Samoa Y11 Science Book 1) | Samoa, *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 75–77 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, United States, Samoa).**
+
+Searchable tags: samoa, samoa mesc, our environment cycles the carbon cycle

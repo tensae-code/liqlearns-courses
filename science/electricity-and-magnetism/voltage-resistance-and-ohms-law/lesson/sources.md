@@ -1,6 +1,6 @@
 # Sources — Voltage, resistance and Ohm's law — V = IR
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Fiji, Morocco (teacher-guide evidence only), Afghanistan, Uzbekistan, Mozambique, China
+countries: Ethiopia, Bahamas (curriculum evidence only), Fiji, Morocco (teacher-guide evidence only), Afghanistan, Uzbekistan, Mozambique, China, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -48,3 +48,18 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Fiji, Morocco (teacher-
 Printed figures taught as printed: the wall outlet is given as 120 V in the student book (printed p. 215–217) and is taught as the book's figure, flagged here as the book's printed value.
 
 Searchable tags: voltage, resistance, Ohms law, V=IR, ampere, volt, ohm, Ethiopia Grade 8 General Science Unit 7, mozambique
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 12):** *Science — Year 12* (student textbook) — Samoa. Identity as printed: Science Year 12, © Ministry of Education, Sports and Culture, Samoa, 2004 (NZAID-supported). Student textbook. PDF pages: 137; bytes 10,135,603. Verdict: PARTIAL — the file contains Units 1–19 and the opening of Unit 20 (Resistance, Power and Energy); Units 21–24 (Speed and Acceleration; Force, Mass and Momentum; Energy, Work and Power; Waves), the Answers and the Glossary listed in the contents are missing — cited as the partial book it is, never counted complete. Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 19 Current and Voltage (branch currents and resistance, solar cells) — pure Physics, already covered by the Physics wave; items not placed (Samoa, Samoa Y12 Science) | Samoa, *Science — Year 12 (MESC Samoa)*, printed pp. 130-136 |
+| Unit 20 Resistance, Power and Energy — opening only, unit cut off by end of file; pure Physics, covered by the Physics wave (Samoa, Samoa Y12 Science) | Samoa, *Science — Year 12 (MESC Samoa)*, printed p. 137 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Fiji, Afghanistan, Uzbekistan, Mozambique, China, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Searchable tags: samoa, samoa mesc, electricity and magnetism voltage resistance and ohms law

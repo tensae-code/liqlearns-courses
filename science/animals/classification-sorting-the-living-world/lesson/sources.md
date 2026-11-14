@@ -1,6 +1,6 @@
 # Sources — Classification — sorting the living world
 
-countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab)
+countries: Ethiopia, Suriname, Sweden (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -91,3 +91,17 @@ Searchable tags: moldova, classification sorting the living world, stiinte, scie
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, classification-sorting-the-living-world
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| using a dichotomous rock key (acid fizz test, grains visible or not, scratch test, holes, layers) to name rock samples (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 17-18 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Suriname, Uganda, Moldova, Pakistan (Punjab, Samoa).**
+
+Placement choice, on the record: this placement was filed as "science-skills/keys-and-classification" — samoa-placements.md, printed pp. 17-18 — and is stocked here because the existing lesson on classification — sorting the living world — teaches classification and its keys as the course's classification home; this placement's dichotomous key is a classification key applied to rocks. The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, animals classification sorting the living world

@@ -1,6 +1,6 @@
 # Sources — The scientific method — observe, hypothesise, test, conclude
 
-countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only)
+countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece, Moldova, Armenia, Cuba (teacher-guide evidence only), Samoa (curriculum evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -117,3 +117,15 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 1
 **Acceptance count unchanged: taught in 8 countries (Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Greece, Moldova, Armenia).** Cuba is named as teacher-guide evidence only only (*Orientaciones Metodológicas, Ciencias Naturales, quinto grado*), not added to this count.
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, the scientific method observe hypothesise test conclude
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Primary Curriculum Statement, Years 1–8):** *Science — Primary Curriculum Statement, Years 1–8* (curriculum document) — Samoa. Identity as printed: SCIENCE: PRIMARY SCHOOL CURRICULUM, Ministry of Education, Sports and Culture, Samoa — primary science curriculum statement for Years 1–8 (bilingual Samoan context). Curriculum document, not a student textbook; the placements below are curriculum evidence for Samoa's own way of organising science. PDF pages: 78; bytes 1,948,442. Verdict: COMPLETE (Introduction through achievement objectives by year level to p.78 present). Cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Strand 1: instruments and tools give more information than unaided senses; investigations guided by current knowledge (curriculum evidence) (Samoa, Samoa Primary Science Curriculum) | Samoa, *Science — Primary Curriculum Statement, Years 1–8 (MESC Samoa)*, printed p. 28 (curriculum — evidence) |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Greece, Moldova, Armenia) — unchanged.** Samoa is named as curriculum evidence only (Primary Curriculum Statement, Years 1–8), not added to this count.
+
+Searchable tags: samoa, samoa mesc, science skills the scientific method observe hypothesise test conclude

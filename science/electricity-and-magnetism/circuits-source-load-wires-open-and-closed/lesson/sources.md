@@ -1,6 +1,6 @@
 # Sources — Circuits — source, load, wires, and open vs closed
 
-countries: Ethiopia, Samoa (curriculum evidence only), Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia
+countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -223,3 +223,20 @@ Searchable tags: pakistan, punjab, general science, circuits-source-load-wires-o
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 12):** *Science — Year 12* (student textbook) — Samoa. Identity as printed: Science Year 12, © Ministry of Education, Sports and Culture, Samoa, 2004 (NZAID-supported). Student textbook. PDF pages: 137; bytes 10,135,603. Verdict: PARTIAL — the file contains Units 1–19 and the opening of Unit 20 (Resistance, Power and Energy); Units 21–24 (Speed and Acceleration; Force, Mass and Momentum; Energy, Work and Power; Waves), the Answers and the Glossary listed in the contents are missing — cited as the partial book it is, never counted complete. Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 11, Book 2):** *Science — Year 11, Book 2* (student book) — Samoa. Identity as printed: Science, Year 11 Book Two; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2003; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-049-2. Student book. PDF pages: 119; bytes 3,978,553. Verdict: COMPLETE (Unit 1 Revision printed p. 7 through Key Vocabulary printed pp. 119–120 and back cover all present). Note: the scan repeats printed pp. 27–28 once; no content is missing. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 18 Current, Circuits and Components — pure Physics, already covered by the Physics wave; items not placed (Samoa, Samoa Y12 Science) | Samoa, *Science — Year 12 (MESC Samoa)*, printed pp. 123-129 |
+| Unit 6 Electricity (printed pp. 101–118): pure Physics — already covered by the Physics wave; items not placed here. (Samoa, Samoa Y11 Science Book 2) | Samoa, *Science — Year 11, Book 2 (MESC Samoa)*, printed pp. 101–118 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Pakistan (Punjab, Samoa).** Samoa was previously named in this lesson as curriculum evidence only (the Physics Years 12–13 Student Learning Guide); the Samoa student textbooks stocked above now count it, so Samoa moves into the acceptance count.
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Searchable tags: samoa, samoa mesc, electricity and magnetism circuits source load wires open and closed

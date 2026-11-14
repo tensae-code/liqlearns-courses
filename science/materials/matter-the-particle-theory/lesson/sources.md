@@ -1,6 +1,6 @@
 # Sources — Matter — the particle theory
 
-countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia
+countries: Ethiopia, Barbados, Nigeria (teacher-guide evidence only), Morocco (teacher-guide evidence only), Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab), Armenia, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
@@ -199,3 +199,19 @@ Searchable tags: pakistan, punjab, general science, matter-the-particle-theory
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5, astghik gratun, edit print
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 2):** *Science Year 9 Book 2* (student book) — Samoa. Identity as printed: Science, Year 9 Book Two; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted with minor amendments 2006; ISBN 982-517-014-X. Student book. PDF pages: 60; bytes 2,365,392. Verdict: COMPLETE (Contents through Glossary printed pp. 59–60 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 Structure of Materials (printed pp. 5–17): pure Chemistry — already covered by the Chemistry wave; items not placed here. (Samoa, Samoa Y9 Science Book 2) | Samoa, *Science Year 9 Book 2*, printed pp. 5–17 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Barbados, Uganda, Kenya, Bulgaria, Belarus, Uzbekistan, India, North Macedonia, Laos, Moldova, South Sudan, Cuba, Kazakhstan, Mongolia, United States, Pakistan (Punjab, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Placement choice, on the record: this placement was filed as "materials/particle-theory-why-solids-liquids-and-gases-act-as-they-do" — samoa-placements.md, printed pp. 5–17 — and is stocked here because the existing lesson on matter — the particle theory — teaches why solids, liquids and gases act as they do as its own thing. The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, materials matter the particle theory

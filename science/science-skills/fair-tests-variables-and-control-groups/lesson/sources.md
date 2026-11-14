@@ -1,6 +1,6 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only)
+countries: Ethiopia, Barbados, Indonesia (teacher-guide evidence only), Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -100,3 +100,20 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 **Acceptance count unchanged: taught in 5 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia).** Cuba is named as teacher-guide evidence only only (*Orientaciones Metodológicas, Ciencias Naturales, quinto grado*), not added to this count.
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, fair tests variables and control groups
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 1):** *Science Year 9 Book 1* (student book) — Samoa. Identity as printed: Science, Year 9 Book One; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-006-9. Student book. PDF pages: 81; bytes 2,888,578. Verdict: COMPLETE (Contents through Glossary printed pp. 77–80 and back cover all present). Records: the TSV record "Science Year 9 Book 1" and the books.json record "Science Year 9 Student Book 1" are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 10, Book 1):** *Science — Year 10, Book 1* (student book) — Samoa. Identity as printed: Science, Year 10 Book One; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-007-7. Student book. PDF pages: 95; bytes 3,352,342. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed pp. 91–94 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| planning an investigation, Samoa's worked example on exercise and pulse rate: name the investigation, state the aim, say what variable will be changed and how, which variables stay the same, what will be measured, and repeat each test three times for reliable results (Samoa, Samoa Y9 Science Book 1) | Samoa, *Science Year 9 Book 1*, printed p. 55 |
+| planning an investigation with Samoa's seven planning questions (name the investigation, state the aim, say what variable will be changed and how, which variables stay the same, what will be measured, how results are made reliable by repeating), worked through a germination investigation with student-chosen topics (temperature, water, light, soaking) (Samoa, Samoa Y10 Science Book 1) | Samoa, *Science — Year 10, Book 1 (MESC Samoa)*, printed pp. 24–25 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia, Samoa).**
+
+Placement choice, on the record: this placement was filed as "science-skills/designing-a-fair-test" — samoa-placements.md, printed p. 55 — and is stocked here because the existing lesson on fair tests, variables and control groups teaches designing a fair test as its own thing. The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, science skills fair tests variables and control groups

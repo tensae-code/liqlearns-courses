@@ -1,6 +1,6 @@
 # Sources — Measuring the too-big and the too-small
 
-countries: Ethiopia (teacher-guide evidence only), Slovenia, Bhutan
+countries: Ethiopia (teacher-guide evidence only), Slovenia, Bhutan, Samoa
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -22,3 +22,17 @@ PAIRING WARNING, carried exactly: this Grade 7 teacher guide is an Addis Ababa b
 This lesson is short and guide-only, as the placements direct: the guide's Unit 6 outcomes add a measurement strand absent from the student book's Earth unit. The two cases the guide names — the Earth itself (too big) and continental drift (too small/slow) — are the lesson's two worked cases; the Earth figures used for the scaling check (12,756.4 km diameter, 40,075 km circumference) are the student book's Table 6.1 figures, cited here so the worked example can be checked, not as a page-key.
 
 Searchable tags: indirect measurement, measuring the Earth, globe and string, continental drift centimetres per year, estimation, Ethiopia Grade 7 General Science Unit 6 teacher evidence
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3 Earth's Patterns: sizes and distances — sun 1,400,000 km across, Earth 12,756 km, moon 3,476 km; Earth–moon 384,000 km, Earth–sun 150,000,000 km; a 1-billionth scale model (1.4 m sun, 13 mm Earth 150 m away, 3 mm moon 38 cm from Earth) and why models are used (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 23-24 |
+
+**Acceptance count: taught in 3 countries (Slovenia, Bhutan, Samoa).**
+
+Placement choice, on the record: this placement was filed as "earth-and-space/the-sun-earth-and-moon-sizes-and-distances-measured" — samoa-placements.md, printed pp. 23-24 — and is stocked here because the existing lesson on measuring the too-big and the too-small teaches measuring the Earth's size through a scale model and its proportions — the same scale-model method this placement uses for the Sun, Earth and Moon. The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, earth and space measuring the too big and the too small

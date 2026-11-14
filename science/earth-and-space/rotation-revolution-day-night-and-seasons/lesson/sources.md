@@ -1,6 +1,6 @@
 # Sources — The Earth — rotation, revolution, day-night and seasons
 
-countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia
+countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -236,3 +236,20 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 **Acceptance count unchanged: taught in 13 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Mongolia, Costa Rica, Bulgaria, Moldova, United States, Pakistan (Punjab).** Cuba is already counted in this lesson through the Cuba books stocked by the earlier Physics expansion; the Ciencias Naturales rows above add these books' provenance, counted once.
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, rotation revolution day night and seasons
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| day and night from the Earth spinning: modelling with your own body as the Earth turning past a lamp-sun, and with a cut-out person taped over Samoa on a globe (sunrise, morning, evening, day on the opposite side of Earth from Samoa) (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 26-28 |
+| the Earth orbits the sun once in 365 and a quarter days, tilted at 23.5 degrees the same way all year; the tilt plus the orbit makes the seasons; sun directly over the equator in March and September (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 29-32 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Mongolia, Costa Rica, Bulgaria, Moldova, United States, Pakistan (Punjab, Samoa).**
+
+Placement choice, on the record: this placement was filed as "earth-and-space/day-and-night-earths-spin" — samoa-placements.md, printed pp. 26-28 — and is stocked here because the existing lesson on rotation, revolution, day-night and seasons teaches day and night from the Earth's spin as its first sub lesson. The original slug is recorded here.
+
+Placement choice, on the record: this placement was filed as "earth-and-space/earths-orbit-and-the-seasons-it-makes" — samoa-placements.md, printed pp. 29-32 — and is stocked here because the existing lesson on rotation, revolution, day-night and seasons teaches the orbit, the fixed 23.5° tilt and the seasons they make as its second sub lesson. The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, earth and space rotation revolution day night and seasons

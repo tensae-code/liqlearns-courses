@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -275,3 +275,18 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 **Acceptance count: taught in 13 countries (Ethiopia, Australia, Italy, Nauru, Tuvalu, Niue, Micronesia, Uganda, Moldova, United States, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, how living things affect each other
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 3):** *Science — Year 10, Book 3* (student textbook) — Samoa. Identity as printed: Science Year 10 Book 3, © Samoa Department of Education 2002 (NZAID-supported). Student textbook. PDF pages: 104; bytes 3,611,513. Verdict: COMPLETE (Unit 1 Revision p.5 through Glossary p.101 and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 11, Book 1):** *Science — Year 11, Book 1* (student book) — Samoa. Identity as printed: Science, Year 11 Book One; Government of Samoa, Department of Education; © Government of Samoa, Department of Education, 2003; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; ISBN 982-517-040-9. Student book. PDF pages: 121; bytes 6,993,318. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Key Vocabulary printed pp. 119–120 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| unit summary: habitat and environment matter to living things; adaptations help organisms live in their habitat (Samoa, Samoa Y10 Science Book 3) | Samoa, *Science — Year 10, Book 3 (MESC Samoa)*, printed p. 32 |
+| inter-relationships in a community: organisms using other organisms as food, competing with their own kind for food, space and water, and the adaptations that help them survive (Samoa, Samoa Y11 Science Book 1) | Samoa, *Science — Year 11, Book 1 (MESC Samoa)*, printed p. 105 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Australia, Italy, Nauru, Tuvalu, Niue, Micronesia, Uganda, Moldova, United States, Pakistan (Punjab, Cuba, Samoa).**
+
+Searchable tags: samoa, samoa mesc, our environment how living things affect each other

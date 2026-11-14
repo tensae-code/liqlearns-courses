@@ -1,6 +1,6 @@
 # Sources — Sound — vibration, volume and pitch
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, Barbados (curriculum evidence only), India, Pakistan (Punjab)
+countries: Ethiopia, Zambia (teacher-module evidence only), Finland, Papua New Guinea (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Bahamas (curriculum evidence only), Fiji, United States, Cambodia (private-booklet evidence only), Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, Barbados (curriculum evidence only), India, Pakistan (Punjab), Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -180,3 +180,15 @@ Searchable tags: united states, utah, seed standards, utah oer, sound vibration 
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, sound-vibration-volume-and-pitch
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 3):** *Science — Year 10, Book 3* (student textbook) — Samoa. Identity as printed: Science Year 10 Book 3, © Samoa Department of Education 2002 (NZAID-supported). Student textbook. PDF pages: 104; bytes 3,611,513. Verdict: COMPLETE (Unit 1 Revision p.5 through Glossary p.101 and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sound waves activity within Heat Energy unit appendices (Samoa, Samoa Y10 Science Book 3) | Samoa, *Science — Year 10, Book 3 (MESC Samoa)*, printed p. 56 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Finland, Fiji, United States, Uzbekistan, North Macedonia, Moldova, Vietnam, Cuba, Kazakhstan, Australia, Serbia, Guyana, India, Pakistan (Punjab, Samoa).**
+
+Searchable tags: samoa, samoa mesc, sound sound vibration volume and pitch

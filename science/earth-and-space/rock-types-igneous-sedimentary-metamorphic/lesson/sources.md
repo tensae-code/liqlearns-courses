@@ -1,6 +1,6 @@
 # Sources — Rock types — igneous, sedimentary, metamorphic
 
-countries: Costa Rica, Cuba
+countries: Costa Rica, Cuba, Samoa
 
 **Book (Costa Rica — Grade 8):** *Ciencias, Octavo, Código 80008, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED, © 2018. Title as printed: Ciencias, Octavo, Código 80008, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED, © 2018. PDF 132 pages, 1,731,133 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (units through the geosphere, bibliography on printed p. 132). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
 
@@ -30,3 +30,17 @@ Placement choice, on the record: the Cuba placement(s) above were filed as "NEW 
 **Acceptance count: taught in 2 countries (Costa Rica, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, rock types igneous sedimentary metamorphic
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2 Rocks: igneous rock — Samoa is made of it; Saleaula lava flows on Savai'i, igneous volcanic rock (basalt, small crystals, cools quickly on the surface; pumice full of gas holes) and igneous plutonic rock (granite, large crystals, cools slowly underground); sedimentary rock from layers of broken rock, mud, sand and shells (limestone, sandstone, mudstone); metamorphic rock changed by heat and pressure (marble, slate, schist) (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 15-16 |
+
+**Acceptance count: taught in 3 countries (Costa Rica, Cuba, Samoa).**
+
+Placement choice, on the record: this placement was filed as "rocks-and-earth/rocks-the-three-kinds-and-the-rock-cycle" — samoa-placements.md, printed pp. 15-16 — and is stocked here because there is no rocks-and-earth title in the course; the existing Earth and Space lesson on the three rock types — igneous, sedimentary, metamorphic — teaches the three kinds as its own thing (the cycle itself is stocked into the rock-cycle lesson from the placement filed for it). The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, earth and space rock types igneous sedimentary metamorphic

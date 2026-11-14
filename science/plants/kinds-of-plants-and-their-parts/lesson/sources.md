@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -279,3 +279,20 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5
 **Acceptance count: taught in 10 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, kinds of plants and their parts
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 1):** *Science Year 9 Book 1* (student book) — Samoa. Identity as printed: Science, Year 9 Book One; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-006-9. Student book. PDF pages: 81; bytes 2,888,578. Verdict: COMPLETE (Contents through Glossary printed pp. 77–80 and back cover all present). Records: the TSV record "Science Year 9 Book 1" and the books.json record "Science Year 9 Student Book 1" are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 10, Book 1):** *Science — Year 10, Book 1* (student book) — Samoa. Identity as printed: Science, Year 10 Book One; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-007-7. Student book. PDF pages: 95; bytes 3,352,342. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed pp. 91–94 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 Plants (printed pp. 5–14): pure Biology — already covered by the Biology wave; items not placed here. (Samoa, Samoa Y9 Science Book 1) | Samoa, *Science Year 9 Book 1*, printed pp. 5–14 |
+| Unit 2 Plant Growth and Reproduction (printed pp. 15–26): pure Biology — already covered by the Biology wave; items not placed here. Its investigation-planning item is placed separately below. (Samoa, Samoa Y10 Science Book 1) | Samoa, *Science — Year 10, Book 1 (MESC Samoa)*, printed pp. 15–26 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova, Pakistan (Punjab, Cuba, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Searchable tags: samoa, samoa mesc, plants kinds of plants and their parts

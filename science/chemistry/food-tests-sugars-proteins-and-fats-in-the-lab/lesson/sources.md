@@ -1,6 +1,6 @@
 # Sources — Food tests — sugars, proteins and fats in the lab
 
-countries: Yemen (teacher evidence only)
+countries: Yemen (teacher evidence only), Samoa
 
 **Book 1 (teacher evidence only):** *دليل المعلم لتدريس كتاب الكيمياء للصف الثالث الثانوي (Teacher's Guide for Teaching the Chemistry Book, Third Secondary Year)* (TEACHER guide) — Yemen. Title as printed: دليل المعلم لتدريس كتاب الكيمياء للصف الثالث الثانوي. Publisher: Republic of Yemen, Ministry of Education, Curricula and Guidance Sector, General Administration for Curricula; second edition 1433 AH / 2012 CE; approved by the Higher Curricula Committee (meeting 41, 1/9/2002) for the school year 2003/2004. Lead author: Prof. Dawood Abdulmalik al-Hadaabi. Grade: 12 · Kind: teacher guide — the official teacher's guide to the Grade 12 student textbook (Book 4 of the Yemen set), same nine units, same order. Repo path: release `mid-size-books-3`, asset `grade-12-gov-yemen-chemistry-teacher-full-year.pdf`. Byte size: 7,400,903 · PDF pages: 90 · Printed-page offset: printed page = PDF page − 1 (folios run 3–87; one preface pair is transposed in the scan; PDF p. 90 is the back cover). Verdict: COMPLETE — read in full as rendered page images. EVIDENCE ONLY: this teacher guide is cited as teacher evidence only and is NOT counted toward this lesson's acceptance count; placements from it are only the guide's added content (background, activities and evaluation answers that do not merely repeat the student book). Placements at liqlearns-courses-work/expansion-chemistry-2026-11-12/yemen-placements.md.
 
@@ -11,3 +11,17 @@ countries: Yemen (teacher evidence only)
 **Acceptance count: taught in 0 countries — teacher-guide evidence only (Yemen), counted nowhere.**
 
 Searchable tags: chemistry, Yemen, Food tests — sugars, proteins and fats in the lab
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 1):** *Science Year 9 Book 1* (student book) — Samoa. Identity as printed: Science, Year 9 Book One; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-006-9. Student book. PDF pages: 81; bytes 2,888,578. Verdict: COMPLETE (Contents through Glossary printed pp. 77–80 and back cover all present). Records: the TSV record "Science Year 9 Book 1" and the books.json record "Science Year 9 Student Book 1" are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| testing foods: iodine test for starch, Benedict's solution heated in a water bath for glucose (green/yellow/orange scale), brown-paper grease-spot test for fats and oils, nitric-acid test for protein, each run predict-first against water/starch/glucose controls (Samoa, Samoa Y9 Science Book 1) | Samoa, *Science Year 9 Book 1*, printed pp. 35–41 |
+
+**Acceptance count: taught in 1 country (Samoa).** The lesson's earlier evidence-only sources remain evidence only, counted nowhere.
+
+Placement choice, on the record: this placement was filed as "keeping-healthy/food-tests-iodine-benedicts-biuret-and-the-grease-spot" — samoa-placements.md, printed pp. 35–41 — and is stocked here because the existing Chemistry-folder lesson on food tests for sugars, proteins and fats in the lab teaches the Benedict's, protein and grease-spot bench tests as its own thing — the placement's slug genuinely lives at that depth there. The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, chemistry food tests sugars proteins and fats in the lab

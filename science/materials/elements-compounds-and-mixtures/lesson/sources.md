@@ -1,6 +1,6 @@
 # Sources — Elements, compounds and mixtures
 
-countries: Ethiopia, Costa Rica, Uganda, Armenia
+countries: Ethiopia, Costa Rica, Uganda, Armenia, Samoa
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -85,3 +85,25 @@ Searchable tags: uganda, uganda general science, ncdc, senior one, lower seconda
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 10, grade 5, astghik gratun, edit print
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 12):** *Science — Year 12* (student textbook) — Samoa. Identity as printed: Science Year 12, © Ministry of Education, Sports and Culture, Samoa, 2004 (NZAID-supported). Student textbook. PDF pages: 137; bytes 10,135,603. Verdict: PARTIAL — the file contains Units 1–19 and the opening of Unit 20 (Resistance, Power and Energy); Units 21–24 (Speed and Acceleration; Force, Mass and Momentum; Energy, Work and Power; Waves), the Answers and the Glossary listed in the contents are missing — cited as the partial book it is, never counted complete. Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 10, Book 2):** *Science — Year 10, Book 2* (student book) — Samoa. Identity as printed: Science, Year 10 Book Two; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted with minor amendments 2006; ISBN 982-517-015-8. Student book. PDF pages: 71; bytes 2,319,269. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed p. 70 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 11, Book 2):** *Science — Year 11, Book 2* (student book) — Samoa. Identity as printed: Science, Year 11 Book Two; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2003; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-049-2. Student book. PDF pages: 119; bytes 3,978,553. Verdict: COMPLETE (Unit 1 Revision printed p. 7 through Key Vocabulary printed pp. 119–120 and back cover all present). Note: the scan repeats printed pp. 27–28 once; no content is missing. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 14 Atom Arrangements — pure Chemistry, already covered by the Chemistry wave; items not placed (Samoa, Samoa Y12 Science) | Samoa, *Science — Year 12 (MESC Samoa)*, printed pp. 89-97 |
+| Unit 1 Revision (printed pp. 5–14): revision of the Year 9 materials work only (particle pictures of solids, liquids and gases; changes of state; elements, compounds and mixtures and separating them; physical and chemical properties and changes, gas tests, word equations; metals and non-metals; safe use of materials and reading instruction labels) — no new teaching items; the underlying items were placed from the Year 9 books. (Samoa, Samoa Y10 Science Book 2) | Samoa, *Science — Year 10, Book 2 (MESC Samoa)*, printed pp. 5–14 |
+| Unit 1 Revision (printed pp. 7–14): revision of the Year 10 work only (heat transfer and sound, speed and pressure, uses of materials, atoms and gases, acids and bases, chemical reactions and equations) — no new teaching items; the underlying items were placed from the Year 10 books. (Samoa, Samoa Y11 Science Book 2) | Samoa, *Science — Year 11, Book 2 (MESC Samoa)*, printed pp. 7–14 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Costa Rica, Uganda, Armenia, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+The revision-unit row is carried exactly as filed — revision only, no new teaching items; the underlying items were placed from the earlier Samoa books.
+
+Searchable tags: samoa, samoa mesc, materials elements compounds and mixtures

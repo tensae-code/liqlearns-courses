@@ -1,6 +1,6 @@
 # Sources — Chemical change: burning and gas-making
 
-countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda
+countries: Ethiopia, Serbia, Djibouti (teacher-guide evidence only), Costa Rica, Uganda, Samoa
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -89,3 +89,17 @@ Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7
 Uganda's own way — one prototype General Science book for the whole of Senior One under the Lower Secondary Curriculum: it opens with what science is and how to work safely, measures the world, then moves through matter and temperature to the diversity of living things, and closes with elements, air, burning and rusting — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 2):** *Science Year 9 Book 2* (student book) — Samoa. Identity as printed: Science, Year 9 Book Two; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted with minor amendments 2006; ISBN 982-517-014-X. Student book. PDF pages: 60; bytes 2,365,392. Verdict: COMPLETE (Contents through Glossary printed pp. 59–60 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2 Ways Materials Change (printed pp. 18–35): pure Chemistry — already covered by the Chemistry wave; items not placed here. Its locally-made-materials item is placed separately below. (Samoa, Samoa Y9 Science Book 2) | Samoa, *Science Year 9 Book 2*, printed pp. 18–35 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Serbia, Costa Rica, Uganda, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Searchable tags: samoa, samoa mesc, materials chemical change burning and gas making

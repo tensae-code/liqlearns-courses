@@ -1,6 +1,6 @@
 # Sources — How materials behave: stretchy, breakable, shapable
 
-countries: Ethiopia, North Macedonia, Mauritania, United States
+countries: Ethiopia, North Macedonia, Mauritania, United States, Samoa
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -37,3 +37,15 @@ Searchable tags: materials, breakable, stretchy, elasticity, ductility, malleabi
 **Acceptance count: taught in 4 countries (Ethiopia, North Macedonia, Mauritania, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, how materials behave
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 2):** *Science — Year 10, Book 2* (student book) — Samoa. Identity as printed: Science, Year 10 Book Two; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted with minor amendments 2006; ISBN 982-517-015-8. Student book. PDF pages: 71; bytes 2,319,269. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed p. 70 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 4 Uses of Materials: a material is chosen for a job because of its physical and chemical properties (the listed physical properties — melting and boiling points, colour, density, lustre, strength, texture, flexibility, malleability, conduction, transparency — and chemical properties as how it reacts); worked as group poster investigations into the materials of kirikiti (cricket) equipment, a fale, a bus, fishing equipment, a church and a sleeping place, and why the metals used for cooking pots suit cooking (Samoa, Samoa Y10 Science Book 2) | Samoa, *Science — Year 10, Book 2 (MESC Samoa)*, printed pp. 47–49 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Mauritania, United States, Samoa).**
+
+Searchable tags: samoa, samoa mesc, materials how materials behave

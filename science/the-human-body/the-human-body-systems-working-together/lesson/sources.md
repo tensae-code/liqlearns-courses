@@ -1,6 +1,6 @@
 # Sources — The human body — systems working together
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Costa Rica, India, Uganda, Bulgaria, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -172,3 +172,33 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 **Acceptance count: taught in 8 countries (Ethiopia, Guyana, Costa Rica, India, Uganda, Bulgaria, Armenia, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, the human body systems working together
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 12):** *Science — Year 12* (student textbook) — Samoa. Identity as printed: Science Year 12, © Ministry of Education, Sports and Culture, Samoa, 2004 (NZAID-supported). Student textbook. PDF pages: 137; bytes 10,135,603. Verdict: PARTIAL — the file contains Units 1–19 and the opening of Unit 20 (Resistance, Power and Energy); Units 21–24 (Speed and Acceleration; Force, Mass and Momentum; Energy, Work and Power; Waves), the Answers and the Glossary listed in the contents are missing — cited as the partial book it is, never counted complete. Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 9, Book 1):** *Science Year 9 Book 1* (student book) — Samoa. Identity as printed: Science, Year 9 Book One; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-006-9. Student book. PDF pages: 81; bytes 2,888,578. Verdict: COMPLETE (Contents through Glossary printed pp. 77–80 and back cover all present). Records: the TSV record "Science Year 9 Book 1" and the books.json record "Science Year 9 Student Book 1" are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 10, Book 1):** *Science — Year 10, Book 1* (student book) — Samoa. Identity as printed: Science, Year 10 Book One; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-007-7. Student book. PDF pages: 95; bytes 3,352,342. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed pp. 91–94 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 11, Book 1):** *Science — Year 11, Book 1* (student book) — Samoa. Identity as printed: Science, Year 11 Book One; Government of Samoa, Department of Education; © Government of Samoa, Department of Education, 2003; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; ISBN 982-517-040-9. Student book. PDF pages: 121; bytes 6,993,318. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Key Vocabulary printed pp. 119–120 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 2 Maintaining the Body — pure Biology, already covered by the Biology wave; items not placed (Samoa, Samoa Y12 Science) | Samoa, *Science — Year 12 (MESC Samoa)*, printed pp. 10-14 |
+| Unit 4 Human Circulation (printed pp. 44–57): pure Biology — already covered by the Biology wave; items not placed here. Its investigation-planning item is placed separately below. (Samoa, Samoa Y9 Science Book 1) | Samoa, *Science Year 9 Book 1*, printed pp. 44–57 |
+| Unit 5 Human Respiration System (printed pp. 58–64): pure Biology — already covered by the Biology wave; items not placed here. (Samoa, Samoa Y9 Science Book 1) | Samoa, *Science Year 9 Book 1*, printed pp. 58–64 |
+| Unit 1 Revision (printed pp. 5–14): revision of Year 9 Biology only (plants and photosynthesis, organisms and cells, food and food tests, human circulation, human respiration, micro-organisms) — no new teaching items; the underlying items were placed from the Year 9 books. (Samoa, Samoa Y10 Science Book 1) | Samoa, *Science — Year 10, Book 1 (MESC Samoa)*, printed pp. 5–14 |
+| Unit 1 Revision (printed pp. 5–17): revision of the Year 10 Book 1 work only (plants, cell processes, variation, pathogens, digestive system, skeleto-muscular system, adaptations and environment, and the Changing Earth summary of soil and plate movements) — no new teaching items; the underlying items were placed from the Year 10 books. (Samoa, Samoa Y11 Science Book 1) | Samoa, *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 5–17 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Guyana, Costa Rica, India, Uganda, Bulgaria, Armenia, Cuba, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+The revision-unit row is carried exactly as filed — revision only, no new teaching items; the underlying items were placed from the earlier Samoa books.
+
+Placement choice, on the record: this placement was filed as "the-human-body/internal-organs-of-the-human-body" — samoa-placements.md, printed pp. 44–57 — and is stocked here because the existing lesson on the human body systems working together covers the body's internal systems and organs as its own thing; the two units filed under the original slug are the circulation and respiration systems, stocked by the Biology wave in their own lessons. The original slug is recorded here.
+
+Placement choice, on the record: this placement was filed as "the-human-body/internal-organs-of-the-human-body" — samoa-placements.md, printed pp. 58–64 — and is stocked here because the existing lesson on the human body systems working together covers the body's internal systems and organs as its own thing; the two units filed under the original slug are the circulation and respiration systems, stocked by the Biology wave in their own lessons. The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, the human body the human body systems working together

@@ -1,6 +1,6 @@
 # Sources — What waste is and its three kinds
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Suriname, Costa Rica, Barbados (curriculum evidence only), Pakistan (Punjab)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Suriname, Costa Rica, Barbados (curriculum evidence only), Pakistan (Punjab), Samoa
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -99,3 +99,15 @@ Searchable tags: barbados, barbados primary science syllabus, class one-four, cu
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, what-waste-is-and-its-three-kinds
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 11, Book 2):** *Science — Year 11, Book 2* (student book) — Samoa. Identity as printed: Science, Year 11 Book Two; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2003; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-049-2. Student book. PDF pages: 119; bytes 3,978,553. Verdict: COMPLETE (Unit 1 Revision printed p. 7 through Key Vocabulary printed pp. 119–120 and back cover all present). Note: the scan repeats printed pp. 27–28 once; no content is missing. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| waste management investigation: find out about waste management in the local area (what materials are becoming wastes, where they come from, why they are wastes, what effect the waste has on people and the environment, what system is in place to deal with it, whether it is effective and what long-term problems it has), then make a poster or pamphlet explaining how to use a local waste management system or why people should use one (Samoa, Samoa Y11 Science Book 2) | Samoa, *Science — Year 11, Book 2 (MESC Samoa)*, printed pp. 57–58 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Suriname, Costa Rica, Pakistan (Punjab, Samoa).**
+
+Searchable tags: samoa, samoa mesc, our environment what waste is and its three kinds

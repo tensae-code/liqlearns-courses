@@ -1,6 +1,6 @@
 # Sources — Force — what force is and what it does
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only), United States, Pakistan (Punjab)
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Palestine, Slovenia, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Ghana (curriculum evidence only), Guyana, Barbados (curriculum evidence only), India, Bulgaria, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -257,3 +257,20 @@ Searchable tags: united states, utah, seed standards, utah oer, force what force
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, force-what-force-is-and-what-it-does
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Primary Curriculum Statement, Years 1–8):** *Science — Primary Curriculum Statement, Years 1–8* (curriculum document) — Samoa. Identity as printed: SCIENCE: PRIMARY SCHOOL CURRICULUM, Ministry of Education, Sports and Culture, Samoa — primary science curriculum statement for Years 1–8 (bilingual Samoan context). Curriculum document, not a student textbook; the placements below are curriculum evidence for Samoa's own way of organising science. PDF pages: 78; bytes 1,948,442. Verdict: COMPLETE (Introduction through achievement objectives by year level to p.78 present). Cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Strand 5 The World of Physical Phenomena: forces and motion, forces of nature, using energy — light, sound, heat, electricity in everyday life (curriculum evidence) (Samoa, Samoa Primary Science Curriculum) | Samoa, *Science — Primary Curriculum Statement, Years 1–8 (MESC Samoa)*, printed pp. 39-42 (curriculum — evidence) |
+| Unit 6 Forces and Motion (printed pp. 84–94): pure Physics — already covered by the Physics wave; items not placed here. (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 84–94 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Palestine, Slovenia, Iraq, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Serbia, Guyana, India, Bulgaria, United States, Pakistan (Punjab, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Searchable tags: samoa, samoa mesc, motion force and energy force what force is and what it does

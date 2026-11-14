@@ -1,6 +1,6 @@
 # Sources — Global warming — the greenhouse effect
 
-countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab)
+countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -210,3 +210,15 @@ Searchable tags: united states, utah, seed standards, utah oer, global warming t
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, global-warming-the-greenhouse-effect
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 11, Book 1):** *Science — Year 11, Book 1* (student book) — Samoa. Identity as printed: Science, Year 11 Book One; Government of Samoa, Department of Education; © Government of Samoa, Department of Education, 2003; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; ISBN 982-517-040-9. Student book. PDF pages: 121; bytes 6,993,318. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Key Vocabulary printed pp. 119–120 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the greenhouse effect explained with a radiation diagram; the greenhouse gases (water vapour, carbon dioxide, methane, nitrous oxide, ozone, and the industrial HFCs, PFCs and SF6) and where each comes from; global warming's effects on Samoa, what class members can do in Samoa to reduce it, and carbon credits; backed by Appendix I, a fuller global-warming and greenhouse-effect reading (Samoa, Samoa Y11 Science Book 1) | Samoa, *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 78–79, 113 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Uganda, North Macedonia, Italy, Nauru, Tuvalu, Niue, Costa Rica, Moldova, United States, Pakistan (Punjab, Samoa).**
+
+Searchable tags: samoa, samoa mesc, our environment global warming the greenhouse effect

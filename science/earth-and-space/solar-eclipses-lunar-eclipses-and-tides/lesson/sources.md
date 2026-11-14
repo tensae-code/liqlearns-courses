@@ -1,6 +1,6 @@
 # Sources — Solar eclipses, lunar eclipses and tides
 
-countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba
+countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa
 
 **Book 1:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
@@ -88,3 +88,20 @@ Searchable tags: pakistan, punjab, general science, solar-eclipses-lunar-eclipse
 **Acceptance count: taught in 5 countries (Vietnam, Costa Rica, United States, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, solar eclipses lunar eclipses and tides
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| tides caused by the gravity of the moon (and sun) on the oceans: two high tides a day, high tide on the side facing the moon and the opposite side; spring tides when sun and moon line up, neap tides at right angles; reading a Samoa tide table (times of high and low tide through a week) and the Auckland tide timetables printed at the back of the book (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 41-44 |
+| eclipses when sun, moon and Earth line up: lunar eclipse as the full moon moves into Earth's shadow (moon turns dark red), solar eclipse as a new moon casts its shadow on Earth (total eclipse lasts minutes, sky darkens, stars visible); full and partial shadows (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 44-46 |
+
+**Acceptance count: taught in 6 countries (Vietnam, Costa Rica, United States, Pakistan (Punjab, Cuba, Samoa).**
+
+Placement choice, on the record: this placement was filed as "earth-and-space/tides-spring-neap-and-the-high-sea" — samoa-placements.md, printed pp. 41-44 — and is stocked here because the existing lesson on solar eclipses, lunar eclipses and tides teaches tides — spring, neap and the twice-daily high sea — as its own thing. The original slug is recorded here.
+
+Placement choice, on the record: this placement was filed as "earth-and-space/eclipses-lunar-and-solar" — samoa-placements.md, printed pp. 44-46 — and is stocked here because the existing lesson on solar eclipses, lunar eclipses and tides teaches both eclipses as its own thing. The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, earth and space solar eclipses lunar eclipses and tides

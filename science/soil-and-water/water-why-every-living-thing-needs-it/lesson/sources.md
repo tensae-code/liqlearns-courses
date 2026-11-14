@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -140,3 +140,15 @@ Searchable tags: moldova, water why every living thing needs it, stiinte, scienc
 **Acceptance count: taught in 8 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, water why every living thing needs it
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 2):** *Science — Year 10, Book 2* (student book) — Samoa. Identity as printed: Science, Year 10 Book Two; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted with minor amendments 2006; ISBN 982-517-015-8. Student book. PDF pages: 71; bytes 2,319,269. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed p. 70 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the properties of water matched to the ways people use it: liquid at room temperature so it washes and spreads; dissolves many materials so it washes dirt and soap away and dissolves koko/kofe and sugar; evaporates at air temperature so washed clothes dry; freezes at 0°C for keeping food and drinks cold and treating sports injuries; boils at 100°C; does not burn so it puts out fires; reacts with some metals, and water and air rust iron, which is why roofing iron is coated with zinc (Samoa, Samoa Y10 Science Book 2) | Samoa, *Science — Year 10, Book 2 (MESC Samoa)*, printed pp. 49–51 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba, Samoa).**
+
+Searchable tags: samoa, samoa mesc, soil and water water why every living thing needs it

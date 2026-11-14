@@ -1,6 +1,6 @@
 # Sources — Cells — photosynthesis and its partnership with respiration
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -107,3 +107,20 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 **Acceptance count: taught in 5 countries (Ethiopia, Guyana, India, Bulgaria, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, photosynthesis and its partnership with respiration
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 1):** *Science — Year 10, Book 1* (student book) — Samoa. Identity as printed: Science, Year 10 Book One; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-007-7. Student book. PDF pages: 95; bytes 3,352,342. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed pp. 91–94 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 11, Book 1):** *Science — Year 11, Book 1* (student book) — Samoa. Identity as printed: Science, Year 11 Book One; Government of Samoa, Department of Education; © Government of Samoa, Department of Education, 2003; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; ISBN 982-517-040-9. Student book. PDF pages: 121; bytes 6,993,318. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Key Vocabulary printed pp. 119–120 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 3 Cell Processes, remainder (printed pp. 33–43): photosynthesis (word equation; investigations showing carbon dioxide, light and chlorophyll are needed, tested with the iodine starch test), respiration and mitosis — pure Biology — already covered by the Biology wave; items not placed here. (Samoa, Samoa Y10 Science Book 1) | Samoa, *Science — Year 10, Book 1 (MESC Samoa)*, printed pp. 33–43 |
+| Unit 7 remainder (printed pp. 79–88): respiration and photosynthesis in the leaf and stem (lenticels, stomata, rates of photosynthesis against light colour, brightness and temperature, leaf-disc and pondweed investigations) — pure Biology — already covered by the Biology wave; items not placed here. (Samoa, Samoa Y11 Science Book 1) | Samoa, *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 79–88 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Guyana, India, Bulgaria, United States, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Searchable tags: samoa, samoa mesc, the human body photosynthesis and its partnership with respiration

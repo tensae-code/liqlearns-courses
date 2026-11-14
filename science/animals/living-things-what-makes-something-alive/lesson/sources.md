@@ -1,6 +1,6 @@
 # Sources — Living things — what makes something alive
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -202,3 +202,15 @@ Searchable tags: pakistan, punjab, general science, living-things-what-makes-som
 **Acceptance count: taught in 8 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, living things what makes something alive
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Primary Curriculum Statement, Years 1–8):** *Science — Primary Curriculum Statement, Years 1–8* (curriculum document) — Samoa. Identity as printed: SCIENCE: PRIMARY SCHOOL CURRICULUM, Ministry of Education, Sports and Culture, Samoa — primary science curriculum statement for Years 1–8 (bilingual Samoan context). Curriculum document, not a student textbook; the placements below are curriculum evidence for Samoa's own way of organising science. PDF pages: 78; bytes 1,948,442. Verdict: COMPLETE (Introduction through achievement objectives by year level to p.78 present). Cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Strand 2 The World of Life: life processes, diversity of living things, ecology and the environment as Samoa's organising scheme (curriculum evidence) (Samoa, Samoa Primary Science Curriculum) | Samoa, *Science — Primary Curriculum Statement, Years 1–8 (MESC Samoa)*, printed pp. 29-31 (curriculum — evidence) |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab, Cuba) — unchanged.** Samoa is named as curriculum evidence only (Primary Curriculum Statement, Years 1–8), not added to this count.
+
+Searchable tags: samoa, samoa mesc, animals living things what makes something alive

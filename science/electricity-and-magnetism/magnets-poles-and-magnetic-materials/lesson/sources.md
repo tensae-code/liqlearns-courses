@@ -1,6 +1,6 @@
 # Sources — Magnets — poles attract and repel; what is magnetic
 
-countries: Ethiopia, Samoa (curriculum evidence only), Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), United States
+countries: Ethiopia, Samoa, Gabon (teacher-guide evidence only), Barbados, Slovenia, Fiji, Kenya, Cambodia (private-booklet evidence only), Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Djibouti (teacher-guide evidence only), Mongolia, India, Bulgaria, Bahamas (curriculum evidence only), United States
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -208,3 +208,17 @@ Searchable tags: gabon, super efficace, gabon grade 5, magnets poles and magneti
 **Acceptance count: taught in 19 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Bulgaria, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, magnets poles and magnetic materials
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 3):** *Science — Year 10, Book 3* (student textbook) — Samoa. Identity as printed: Science Year 10 Book 3, © Samoa Department of Education 2002 (NZAID-supported). Student textbook. PDF pages: 104; bytes 3,611,513. Verdict: COMPLETE (Unit 1 Revision p.5 through Glossary p.101 and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 1 Revision: electricity and magnets revision exercises from Books 1–2 — revision only, no new teaching items (Samoa, Samoa Y10 Science Book 3) | Samoa, *Science — Year 10, Book 3 (MESC Samoa)*, printed pp. 5-17 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Bulgaria, United States, Samoa).** Samoa was previously named in this lesson as curriculum evidence only (the Physics Years 12–13 Student Learning Guide); the Samoa student textbooks stocked above now count it, so Samoa moves into the acceptance count.
+
+The revision-unit row is carried exactly as filed — revision only, no new teaching items; the underlying items were placed from the earlier Samoa books.
+
+Searchable tags: samoa, samoa mesc, electricity and magnetism magnets poles and magnetic materials

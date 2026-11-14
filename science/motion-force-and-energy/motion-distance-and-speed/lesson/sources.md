@@ -1,6 +1,6 @@
 # Sources — Motion — distance and speed
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Djibouti (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Slovenia, Sudan, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Moldova, Kazakhstan, India, United States
+countries: Ethiopia, Zambia (teacher-module evidence only), Djibouti (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Slovenia, Sudan, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Moldova, Kazakhstan, India, United States, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -111,3 +111,17 @@ Searchable tags: india, ncert, class vii, motion-distance-and-speed
 **Acceptance count: taught in 10 countries (Ethiopia, Slovenia, Sudan, Iraq, Bhutan, Uzbekistan, Moldova, Kazakhstan, India, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, motion distance and speed
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 3):** *Science — Year 10, Book 3* (student textbook) — Samoa. Identity as printed: Science Year 10 Book 3, © Samoa Department of Education 2002 (NZAID-supported). Student textbook. PDF pages: 104; bytes 3,611,513. Verdict: COMPLETE (Unit 1 Revision p.5 through Glossary p.101 and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 6 Speeding Objects and Pressure (speed-time graphs, pressure) — pure Physics, already covered by the Physics wave; items not placed (Samoa, Samoa Y10 Science Book 3) | Samoa, *Science — Year 10, Book 3 (MESC Samoa)*, printed pp. 63-80 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Slovenia, Sudan, Iraq, Bhutan, Uzbekistan, Moldova, Kazakhstan, India, United States, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Searchable tags: samoa, samoa mesc, motion force and energy motion distance and speed

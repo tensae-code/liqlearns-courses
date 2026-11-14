@@ -495,6 +495,8 @@ solar-system comparison lessons.
 
 64. **Building new objects from a small set of pieces** (`materials/building-new-objects-from-a-small-set-of-pieces`) — modelling how an object made of a small set of pieces can be disassembled and reshaped into a new object with a different function (United States, Grade 2 — *2nd Grade — for Utah SEEd Standards, Revised 2025*, 2.3.3, printed p. 98)
 65. **Water expands when it freezes** (`materials/water-expands-when-it-freezes`) — water breaks the usual rule: as it freezes it expands, taking more room as ice than it did as water — its dilatation — so ice floats and a full closed bottle can crack (Cuba, Grade 5 — *Ciencias Naturales, Quinto grado*, printed p. 100)
+66. **Water droplets — adhesion and cohesion** (`materials/water-droplets-adhesion-and-cohesion`) — why a water drop is round on one surface and flat on another: cohesion, water holding to itself, against adhesion, water holding to the surface — drops on foil and on a coin, drops joining, the detergent test, and glass plates stuck together by a water film (Samoa, Year 10 — *Science — Year 10, Book 2 (MESC Samoa)*, printed pp. 51–52)
+
 ## Unit 5 — Light
 
 1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
@@ -557,7 +559,7 @@ solar-system comparison lessons.
 17. **Community water supply and rural aqueducts** (`soil-and-water/community-water-supply-and-rural-aqueducts`) — rural aqueducts that supply community drinking water, administered in Costa Rica by the community's own water association, an ASADA, under official rules — the country's own way (Costa Rica, Grade 7 — *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 113)
 18. **Swamps and glaciers** (`soil-and-water/swamps-and-glaciers`) — the land's two slow water stores — the swamp, water standing in the land, and the glacier, water held frozen as ice — and the significance of each (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §22, printed p. 77)
 19. **Groundwater and springs** (`soil-and-water/groundwater-and-springs`) — rain soaks in and collects as groundwater, the land's hidden store, which comes out as springs and rises under pressure as artesian water (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §23, printed p. 82)
-
+20. **The saltiness and temperature of the sea** (`soil-and-water/the-saltiness-and-temperature-of-the-sea`) — salinity: the ocean as 96.5% water and 3.5% dissolved solids, in parts per thousand, changed by rainfall and evaporation; and ocean temperature: 26–28°C around Samoa, sunlight to about 60 metres, mixing and evaporation (Samoa, Year 11 — *Science — Year 11, Book 1 (MESC Samoa)*, printed p. 114, with the lagoon graph printed p. 94)
 
 ## Unit 8 — Plants
 
@@ -623,6 +625,8 @@ solar-system comparison lessons.
 32. **How parents help their young survive** (`animals/how-parents-help-their-young-survive`) — offspring signals (crying, chirping) and parent responses (feeding, comforting, protecting) — survival behaviour in two halves (United States, Grade 1 — *1st Grade — for Utah SEEd Standards, Revised 2025*, 1.2.4, printed p. 93)
 33. **How the environment can change traits** (`animals/how-the-environment-can-change-traits`) — the environment can affect the traits of living things — the explanation built from evidence, not guessed (United States, Grade 3 — *3rd Grade Science for Utah SEEd Standards, Revised 2025*, 3.2.3, printed p. 62)
 34. **Copying nature to solve problems — biomimicry** (`animals/copying-nature-to-solve-problems-biomimicry`) — designing a solution to a human problem by mimicking how plants and animals use their external parts to survive and grow (United States, Grade 2 — *2nd Grade — for Utah SEEd Standards, Revised 2025*, 2.2.4, printed p. 68)
+35. **Making food and drink with micro-organisms — fermentation** (`animals/making-food-and-drink-with-micro-organisms-fermentation`) — yoghurt making in full: lactic-acid bacteria turn lactose into lactic acid; heating, pasteurising, homogenising, inoculating with the starter, incubating at about 43°C, coagulation — and yeast in beer making (with the Vailima factory visit) and bread making (Samoa, Year 11 — *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 69–73)
+
 ## Unit 10 — Natural Resources
 
 1. **Caring so they last: looking after natural resources** (`natural-resources/caring-so-they-last`) — the harms of loss — soil washed away, fertility and yields falling, wild animals fleeing and vanishing, climate disturbed — and the care that answe…
@@ -700,7 +704,9 @@ solar-system comparison lessons.
 
 55. **Natural hazards — monitoring, prediction and protection** (`our-environment/natural-hazards-monitoring-prediction-and-protection`) — using data to monitor and predict natural hazards and to protect communities — tsunami warning systems and similar (United States, Grade 8 — *8th Grade — for Utah SEEd Standards, Revised 2025*, 8.4.5, printed p. 187)
 56. **Natural zones of the Earth** (`our-environment/natural-zones-of-the-earth`) — the Earth's living cover changes in ordered belts — natural zones, each with its own climate, soil, plants and animals (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §40, printed p. 135)
-
+57. **Ocean currents and upwelling** (`our-environment/ocean-currents-and-upwelling`) — the ocean environment around Samoa: the southeast trade winds driving currents, warm surface water over cold deep water with the thermocline between, and upwelling bringing deep water up (Samoa, Year 10 — *Science — Year 10, Book 3 (MESC Samoa)*, printed pp. 27–31)
+58. **Coral reefs — what they give and why they are being lost** (`our-environment/coral-reefs-what-they-give-and-why-they-are-being-lost`) — what oceans, lagoons and reefs give the Samoan way of life, and the Global Coral Reef Monitoring Network 2000 report: 27% of the world's reefs effectively lost, the 1998 bleaching, sediment and nutrient pollution, over-exploitation, mining and reclamation — and Pacific reefs in reasonably good health under traditional management and marine protected areas, carried as a summary of the report (Samoa, Year 11 — *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 93–94, 98)
+59. **Patterns in a community — zonation, layers and succession** (`our-environment/patterns-in-a-community-zonation-layers-and-succession`) — zonation (the bands around the Aleipata blowholes and up a volcanic island from coastal marsh to cloud forest), stratification (the forest's layers, each with its own light, wind and shelter) and succession (plants colonising the Saleaula lava fields until the first plants die out), investigated by rope transects and profile diagrams (Samoa, Year 11 — *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 99–105)
 
 ## Unit 12 — Family, School and Community
 
@@ -748,6 +754,7 @@ solar-system comparison lessons.
 23. **Aquaculture — fish farming** (`work-and-heritage/aquaculture-fish-farming`) — aquaculture defined: the fish reared, how fish farms are created, and its advantages and disadvantages — curriculum evidence only, acceptance 0 (Barbados, Class 4 — *Primary Science Syllabus, Class One–Four*, printed p. 19)
 24. **Rabbit keeping** (`work-and-heritage/rabbit-keeping`) — rabbit keeping whole: breeds and uses of rabbits, building a hutch, and care, parasites and diseases of rabbits — Uganda's own primary agriculture-science way (Uganda, Primary Four — *Home-Study Learning, Primary Four, Science*, printed pp. 35–38)
 25. **Keeping goats, sheep and pigs** (`work-and-heritage/keeping-goats-sheep-and-pigs`) — keeping goats, sheep and pigs: exotic vs local breeds; diseases, signs and control (pneumonia, heartwater, African swine fever); care of the animals (Uganda, Primary Five — *Home-Study Learning, Primary Five, Science*, printed pp. 40–45)
+26. **Making materials locally — siapo and paper** (`work-and-heritage/making-materials-locally-siapo-and-paper`) — the materials Samoa makes locally: siapo (tapa cloth), coconut cream, ice cream, bread, rope, beer, kofe powder and hand-made paper from plant pulp — tracing each making's steps and naming the physical and chemical changes used at each step (Samoa, Year 9 — *Science Year 9 Book 2*, printed pp. 32–34)
 
 ## Unit 14 — Keeping Healthy
 
@@ -2681,7 +2688,7 @@ solar-system comparison lessons.
 75. **The Earth's own history — how our planet changed** (`earth-and-space/the-earths-own-history-how-our-planet-changed`) — the Earth itself has a history — formed with the Solar System, it then evolved, and its evolution closes the origin story (Armenia, Grade 10 — *Բնագիտություն 10 (Natural Science 10)*, §9.4, printed p. 167)
 76. **Movements of sea water — waves, currents and tides** (`earth-and-space/movements-of-sea-water-waves-currents-and-tides`) — sea water is never still: it moves in waves on its surface, in currents through its body, and in tides rising and falling at the shore (Cuba, Grade 5 — *Ciencias Naturales, Quinto grado*, printed p. 106)
 77. **Continents and oceans of the Earth** (`earth-and-space/continents-and-oceans-of-the-earth`) — the Earth's surface sorted into its great lands — the continents — and its great waters — the oceans — with islands and seas between them (Cuba, Grade 6 — *Ciencias Naturales, Sexto grado*, printed pp. 27, 28, 34)
-
+78. **Landscape features — and how they formed** (`earth-and-space/landscape-features-and-how-they-formed`) — mapping Samoa's special landscape features (waterfalls, cliffs, caves, lava flows, the chain of volcanoes, blowholes, Sliding Rock, bays, lakes, pools, rivers), its special environments and its people-made features, then a field trip hunting evidence of how the landscape formed and is changing — volcanic ash and lava, water erosion, plants splitting rock, wind-bent trees, and people's changes for better and worse (Samoa, Year 11 — *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 89–92)
 
 ## Unit 20 — Motion, Force and Energy
 

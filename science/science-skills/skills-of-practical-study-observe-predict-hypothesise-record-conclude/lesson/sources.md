@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only)
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -225,3 +225,18 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5
 **Acceptance count unchanged: taught in 11 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia).** Cuba is named as teacher-guide evidence only only (*Orientaciones Metodológicas, Ciencias Naturales, quinto grado*), not added to this count.
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, skills of practical study observe predict hypothesise record conclude
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Primary Curriculum Statement, Years 1–8):** *Science — Primary Curriculum Statement, Years 1–8* (curriculum document) — Samoa. Identity as printed: SCIENCE: PRIMARY SCHOOL CURRICULUM, Ministry of Education, Sports and Culture, Samoa — primary science curriculum statement for Years 1–8 (bilingual Samoan context). Curriculum document, not a student textbook; the placements below are curriculum evidence for Samoa's own way of organising science. PDF pages: 78; bytes 1,948,442. Verdict: COMPLETE (Introduction through achievement objectives by year level to p.78 present). Cited as curriculum evidence only, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 10, Book 1):** *Science — Year 10, Book 1* (student book) — Samoa. Identity as printed: Science, Year 10 Book One; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-007-7. Student book. PDF pages: 95; bytes 3,352,342. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed pp. 91–94 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| achievement objectives and learning outcomes by year level, Years 1–8, all five strands (curriculum evidence) (Samoa, Samoa Primary Science Curriculum) | Samoa, *Science — Primary Curriculum Statement, Years 1–8 (MESC Samoa)*, printed pp. 43-78 (curriculum — evidence) |
+| showing patterns in variation data: frequency tables with tally marks, choosing data classes wide enough to spread the data but narrow enough to show the pattern, collecting at least thirty samples, and frequency histograms and bar graphs (newborn-pig weights, class heights, foot lengths) (Samoa, Samoa Y10 Science Book 1) | Samoa, *Science — Year 10, Book 1 (MESC Samoa)*, printed pp. 45–50 |
+
+**Acceptance count: taught in 12 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia, Samoa).**
+
+Searchable tags: samoa, samoa mesc, science skills skills of practical study observe predict hypothesise record conclude

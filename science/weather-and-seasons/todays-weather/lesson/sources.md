@@ -1,6 +1,6 @@
 # Sources — Today's weather
 
-countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba
+countries: Ethiopia, Finland, Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Guyana, Barbados (curriculum evidence only), India, Uganda, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -194,3 +194,15 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6
 **Acceptance count: taught in 10 countries (Ethiopia, Finland, Italy, Guyana, India, Uganda, United States, Pakistan (Punjab, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, todays weather
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| tropical cyclones: amongst the most powerful weather systems, 80–100 a year over tropical oceans; predicting cyclones — interviewing elders about traditional village methods of predicting when and where cyclones occur, and research on how equipment and models detect and predict them (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed pp. 32-33 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Finland, Italy, Guyana, India, Uganda, United States, Pakistan (Punjab, Cuba, Samoa).**
+
+Searchable tags: samoa, samoa mesc, weather and seasons todays weather

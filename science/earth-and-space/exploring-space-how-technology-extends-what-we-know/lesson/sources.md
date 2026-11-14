@@ -1,6 +1,6 @@
 # Sources — Exploring space — how technology extends what we know
 
-countries: Bhutan, Moldova, Pakistan (Punjab)
+countries: Bhutan, Moldova, Pakistan (Punjab), Samoa
 
 **Book 1:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -47,3 +47,18 @@ Searchable tags: moldova, exploring space how technology extends what we know, s
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, exploring-space-how-technology-extends-what-we-know
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 12):** *Science — Year 12* (student textbook) — Samoa. Identity as printed: Science Year 12, © Ministry of Education, Sports and Culture, Samoa, 2004 (NZAID-supported). Student textbook. PDF pages: 137; bytes 10,135,603. Verdict: PARTIAL — the file contains Units 1–19 and the opening of Unit 20 (Resistance, Power and Energy); Units 21–24 (Speed and Acceleration; Force, Mass and Momentum; Energy, Work and Power; Waves), the Answers and the Glossary listed in the contents are missing — cited as the partial book it is, never counted complete. Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 11, Book 1):** *Science — Year 11, Book 1* (student book) — Samoa. Identity as printed: Science, Year 11 Book One; Government of Samoa, Department of Education; © Government of Samoa, Department of Education, 2003; designed, edited and typeset by Egan-Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; ISBN 982-517-040-9. Student book. PDF pages: 121; bytes 6,993,318. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Key Vocabulary printed pp. 119–120 and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 12 Exploring Space: telescopes, rockets, satellites and space probes (Samoa, Samoa Y12 Science) | Samoa, *Science — Year 12 (MESC Samoa)*, printed pp. 75-81 |
+| Unit 10 Space Exploration and Appendix III (printed pp. 107–118): from ancient astronomers and Galileo's telescope to modern observatory telescopes; Sputnik 1 and Explorer 1; rockets that escape Earth's gravity to reach the Moon and planets, automated spacecraft orbiting and landing on Mars and Venus and flying past the outer planets; the difficulties of space research (vast distances and travel times, harsh environments, spacesuits carrying their own oxygen) and the effect of weightlessness on astronauts, with NASA's KC-135 'Vomit Comet' training; Appendix III's history of rockets (liquid fuel, V-2, Saturn, Skylab, the Space Shuttle and Challenger), the early astronauts, how spacecraft are powered, steered by star-sensors and thrusters, and how spacesuits are built (Samoa, Samoa Y11 Science Book 1) | Samoa, *Science — Year 11, Book 1 (MESC Samoa)*, printed pp. 107–118 |
+
+**Acceptance count: taught in 4 countries (Bhutan, Moldova, Pakistan (Punjab, Samoa).**
+
+Searchable tags: samoa, samoa mesc, earth and space exploring space how technology extends what we know

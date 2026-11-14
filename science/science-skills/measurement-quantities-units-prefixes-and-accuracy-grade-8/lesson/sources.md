@@ -1,6 +1,6 @@
 # Sources — Measurement — quantities, units, prefixes, accuracy and precision (Grade 8)
 
-countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Costa Rica, India
+countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Costa Rica, India, Samoa
 
 **Book 1:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp. Printed page = PDF page (1:1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
 
@@ -55,3 +55,17 @@ Searchable tags: costa rica, ciencias, coned, antologías coned, grade 8
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class vi, measurement-quantities-units-prefixes-and-accuracy-grade-8
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 3):** *Science Year 9 Book 3* (student book) — Samoa. Identity as printed: Science, Year 9 Book Three; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, Ministry of Education, Sports and Culture, 2002; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-027-1. Student book. PDF pages: 100; bytes 3,719,140. Verdict: COMPLETE (Contents through Glossary printed pp. 95–96, Auckland tide timetables printed pp. 97–99, and back cover all present). Records: the TSV record and the books.json record are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| measuring the abiotic environment of a local community with thermometers, light meters and pH paper/Universal Indicator, plus Samoa Meteorological Service automatic weather station data (Aopo, Asau, Cape Tapaga, Faleolo, Lata, Tuitootoa) (Samoa, Samoa Y9 Science Book 3) | Samoa, *Science Year 9 Book 3*, printed p. 12 |
+
+**Acceptance count: taught in 3 countries (Costa Rica, India, Samoa).**
+
+Placement choice, on the record: this placement was filed as "science-skills/measuring-length-area-volume-mass-temperature-and-time" — samoa-placements.md, printed p. 12 — and is stocked here because the existing measurement lesson teaches the quantities length, mass, time and temperature as fundamentals and area and volume as derived — the six quantities this placement's slug names. The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, science skills measurement quantities units prefixes and accuracy grade 8

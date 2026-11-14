@@ -1,6 +1,6 @@
 # Sources — Heat — conduction, conductors and insulators
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Morocco (teacher-guide evidence only), United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Vanuatu (teacher-guide evidence only), Serbia, Bulgaria, Cuba
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Papua New Guinea (teacher-guide evidence only), Bahamas (curriculum evidence only), Sri Lanka, Syria, Morocco (teacher-guide evidence only), United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Vanuatu (teacher-guide evidence only), Serbia, Bulgaria, Cuba, Samoa
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -199,3 +199,15 @@ Searchable tags: gabon, super efficace, gabon grade 3, heat conduction conductor
 **Acceptance count: taught in 24 countries (Ethiopia, Argentina, Sri Lanka, Syria, United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Serbia, Bulgaria, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, heat conduction conductors and insulators
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 10, Book 3):** *Science — Year 10, Book 3* (student textbook) — Samoa. Identity as printed: Science Year 10 Book 3, © Samoa Department of Education 2002 (NZAID-supported). Student textbook. PDF pages: 104; bytes 3,611,513. Verdict: COMPLETE (Unit 1 Revision p.5 through Glossary p.101 and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| heat energy: conduction passes heat particle to particle through solids (Samoa, Samoa Y10 Science Book 3) | Samoa, *Science — Year 10, Book 3 (MESC Samoa)*, printed pp. 47-55 |
+
+**Acceptance count: taught in 25 countries (Ethiopia, Argentina, Sri Lanka, Syria, United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Serbia, Bulgaria, Cuba, Samoa).**
+
+Searchable tags: samoa, samoa mesc, heat heat conduction conductors and insulators

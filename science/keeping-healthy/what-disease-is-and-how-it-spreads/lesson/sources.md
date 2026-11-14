@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab)
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -226,3 +226,22 @@ Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 4, what disea
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, what-disease-is-and-how-it-spreads
+
+## Samoa growth (2026-11-14, General Science expansion)
+
+**Book (Samoa — Year 9, Book 1):** *Science Year 9 Book 1* (student book) — Samoa. Identity as printed: Science, Year 9 Book One; Government of Sāmoa, Ministry of Education, Sports and Culture; © Government of Sāmoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-006-9. Student book. PDF pages: 81; bytes 2,888,578. Verdict: COMPLETE (Contents through Glossary printed pp. 77–80 and back cover all present). Records: the TSV record "Science Year 9 Book 1" and the books.json record "Science Year 9 Student Book 1" are the same book, cited once. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+**Book (Samoa — Year 10, Book 1):** *Science — Year 10, Book 1* (student book) — Samoa. Identity as printed: Science, Year 10 Book One; Government of Samoa, Ministry of Education, Sports and Culture; © Government of Samoa, MESC, 2001; produced by Egan Reid Ltd, Auckland (Samoa Secondary Education Curriculum and Resources Project), funded by NZAID; reprinted 2004 and 2006; ISBN 982-517-007-7. Student book. PDF pages: 95; bytes 3,352,342. Verdict: COMPLETE (Unit 1 Revision printed p. 5 through Glossary printed pp. 91–94 and back cover all present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/samoa-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Unit 6 Micro-Organisms (printed pp. 65–76): pure Biology — already covered by the Biology wave; items not placed here. (Samoa, Samoa Y9 Science Book 1) | Samoa, *Science Year 9 Book 1*, printed pp. 65–76 |
+| Unit 5 Pathogens: infectious diseases and pathogens as parasites on a host; the body's defences (skin, tears, mucus and hairs, stomach acid, sweat); the inflammatory response and phagocytes; antibodies and natural, passive and active immunity, including vaccination (Samoa, Samoa Y10 Science Book 1) | Samoa, *Science — Year 10, Book 1 (MESC Samoa)*, printed pp. 54–58 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab, Samoa).**
+
+Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
+
+Placement choice, on the record: this placement was filed as "keeping-healthy/what-disease-is" — samoa-placements.md, printed pp. 65–76 — and is stocked here because the existing lesson on what disease is and how it spreads covers this thing. The original slug is recorded here.
+
+Searchable tags: samoa, samoa mesc, keeping healthy what disease is and how it spreads
