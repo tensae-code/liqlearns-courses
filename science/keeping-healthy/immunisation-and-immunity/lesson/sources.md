@@ -1,6 +1,6 @@
 # Sources — Immunisation and immunity
 
-countries: Uganda, Bulgaria
+countries: Uganda, Bulgaria, Gabon (teacher-guide evidence only)
 
 **Book 1:** *Home-Study Learning, Primary Five, Science* (student booklet) — Uganda, National Curriculum Development Centre / Ministry of Education and Sports, 2020 (COVID-19 home-study booklet). Title as printed: Home-Study Learning, Primary Five, Science. PDF 60 pages. Verdict: COMPLETE. Printed page = PDF page − 6 in this booklet. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/uganda-placements.md.
 
@@ -30,3 +30,21 @@ Searchable tags: immunisation, immunity, vaccine, measles, cholera, child health
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, immunisation and immunity
+
+
+## Gabon growth (2026-11-13, General Science expansion)
+
+**Book (Gabon, Grade 4):** *Super Efficace Sciences expérimentales et technologie, 4e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 4e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2024. PDF 60 pages (1,366,088 bytes). Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 48 lessons; 7 ICT and 3 craft/technology lessons not placed per the placements file’s scope note). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md. All placements from this guide are guide evidence — the guide carries the lesson content, activities and answers for the pupil manual — cited as teacher-guide evidence only, outside the acceptance count.
+
+**Book (Gabon, Grade 5):** *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 5e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2024. PDF 60 pages (1,435,808 bytes). Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 48 lessons; 10 ICT and 5 craft/technology lessons not placed per the placements file’s scope note; one further Technology lesson, signal transmission, also not placed). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md. All placements from this guide are guide evidence — the guide carries the lesson content, activities and answers for the pupil manual — cited as teacher-guide evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| vaccination (guide evidence) (Gabon, Grade 4) — filed as keeping-healthy/vaccination-how-vaccines-protect; stocked into this closest existing lesson covering that thing | Gabon, *Super Efficace Sciences expérimentales et technologie, 4e année — Guide pédagogique*, printed p. 23 |
+| the immune system and the body's defence mechanisms (guide evidence) (Gabon, Grade 5) — filed as NEW LESSON NEEDED — the-immune-system-and-how-the-body-defends-itself; stocked into this existing lesson, which already covers that thing, instead of building a duplicate | Gabon, *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique*, printed p. 3 |
+
+**Acceptance count unchanged: taught in 2 countries (Uganda, Bulgaria).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences expérimentales et technologie, Guides pédagogiques — teacher guides), not added to this count.
+
+Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
+
+Searchable tags: gabon, super efficace, gabon grade 4, gabon grade 5, immunisation and immunity

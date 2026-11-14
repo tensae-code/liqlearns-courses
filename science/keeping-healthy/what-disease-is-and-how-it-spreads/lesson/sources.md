@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only)
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only)
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -191,3 +191,21 @@ Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discov
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 1
+
+
+## Gabon growth (2026-11-13, General Science expansion)
+
+**Book (Gabon, Grade 3):** *Super Efficace Sciences expérimentales et technologie, 3e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 3e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2023. PDF 64 pages (1,385,512 bytes). Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 41 lessons; 8 ICT and 3 craft/technology lessons not placed per the placements file’s scope note). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md. All placements from this guide are guide evidence — the guide carries the lesson content, activities and answers for the pupil manual — cited as teacher-guide evidence only, outside the acceptance count.
+
+**Book (Gabon, Grade 4):** *Super Efficace Sciences expérimentales et technologie, 4e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 4e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2024. PDF 60 pages (1,366,088 bytes). Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 48 lessons; 7 ICT and 3 craft/technology lessons not placed per the placements file’s scope note). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md. All placements from this guide are guide evidence — the guide carries the lesson content, activities and answers for the pupil manual — cited as teacher-guide evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| preventing malaria (guide evidence) (Gabon, Grade 3) — filed as keeping-healthy/malaria; stocked into this closest existing lesson covering that thing | Gabon, *Super Efficace Sciences expérimentales et technologie, 3e année — Guide pédagogique*, printed p. 61 |
+| tuberculosis (guide evidence) (Gabon, Grade 4) — filed as keeping-healthy/tuberculosis-the-cough-that-will-not-go-away; stocked into this closest existing lesson covering that thing | Gabon, *Super Efficace Sciences expérimentales et technologie, 4e année — Guide pédagogique*, printed p. 26 |
+
+**Acceptance count unchanged: taught in 10 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences expérimentales et technologie, Guides pédagogiques — teacher guides), not added to this count.
+
+Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
+
+Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 4, what disease is and how it spreads

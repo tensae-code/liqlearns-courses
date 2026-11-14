@@ -1,6 +1,6 @@
 # Sources — The Sun — its scale, layers, spots and storms
 
-countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia
+countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -60,3 +60,18 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 1
+
+
+## Gabon growth (2026-11-13, General Science expansion)
+
+**Book (Gabon, Grade 4):** *Super Efficace Sciences expérimentales et technologie, 4e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 4e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2024. PDF 60 pages (1,366,088 bytes). Repo path: grade-04/gov/gabon/sciences/teacher/gabon-g04-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 48 lessons; 7 ICT and 3 craft/technology lessons not placed per the placements file’s scope note). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md. All placements from this guide are guide evidence — the guide carries the lesson content, activities and answers for the pupil manual — cited as teacher-guide evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Sun and its importance (guide evidence) (Gabon, Grade 4) — filed as earth-and-space/the-suns-energy-light-heat-and-motion; stocked into this closest existing lesson covering that thing | Gabon, *Super Efficace Sciences expérimentales et technologie, 4e année — Guide pédagogique*, printed p. 41 |
+
+**Acceptance count unchanged: taught in 5 countries (Ethiopia, Slovenia, Bulgaria, Cuba, Armenia).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences expérimentales et technologie, Guides pédagogiques — teacher guides), not added to this count.
+
+Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
+
+Searchable tags: gabon, super efficace, gabon grade 4, the sun scale layers spots and storms

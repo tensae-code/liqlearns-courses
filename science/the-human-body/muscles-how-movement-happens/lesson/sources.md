@@ -1,6 +1,6 @@
 # Sources — Muscles — how movement happens
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Mongolia, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -85,3 +85,18 @@ Searchable tags: bahamas, primary science curriculum guidelines, ministry of edu
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, muscles how movement happens, stiinte, sciences, grade 4
+
+
+## Gabon growth (2026-11-13, General Science expansion)
+
+**Book (Gabon, Grade 3):** *Super Efficace Sciences expérimentales et technologie, 3e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 3e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2023. PDF 64 pages (1,385,512 bytes). Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 41 lessons; 8 ICT and 3 craft/technology lessons not placed per the placements file’s scope note). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md. All placements from this guide are guide evidence — the guide carries the lesson content, activities and answers for the pupil manual — cited as teacher-guide evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the muscles of the human body (guide evidence) (Gabon, Grade 3) — filed as the-human-body/muscles-the-engines-that-move-us; stocked into this closest existing lesson covering that thing | Gabon, *Super Efficace Sciences expérimentales et technologie, 3e année — Guide pédagogique*, printed p. 34 |
+
+**Acceptance count unchanged: taught in 4 countries (Ethiopia, Mongolia, Bulgaria, Moldova).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences expérimentales et technologie, Guides pédagogiques — teacher guides), not added to this count.
+
+Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
+
+Searchable tags: gabon, super efficace, gabon grade 3, muscles how movement happens

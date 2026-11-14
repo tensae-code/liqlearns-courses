@@ -25,3 +25,20 @@ countries: Argentina, Gabon (teacher-guide evidence only), Uzbekistan, Mozambiqu
 Placement: NEW LESSON built for the Argentina placement "How electricity is generated — power stations from energy source to grid" — argentina-placements.md, Ch. 5 closing, printed p. 53, supported by the Ch. 5 sources teaching (printed p. 47) and the Ch. 3 generators section (printed p. 37). This lesson rests on the student booklet only.
 
 Searchable tags: electricity generation power station turbine generator grid transformer hydro wind steam argentina grade 7 NAP, mozambique
+
+
+## Gabon growth (2026-11-13, General Science expansion)
+
+**Book (Gabon, Grade 3):** *Super Efficace Sciences expérimentales et technologie, 3e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 3e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2023. PDF 64 pages (1,385,512 bytes). Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 41 lessons; 8 ICT and 3 craft/technology lessons not placed per the placements file’s scope note). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md. All placements from this guide are guide evidence — the guide carries the lesson content, activities and answers for the pupil manual — cited as teacher-guide evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the production and transport of electricity (guide evidence) (Gabon, Grade 3) — filed as electricity-and-magnetism/electricity-from-power-station-to-home; stocked into this closest existing lesson covering that thing | Gabon, *Super Efficace Sciences expérimentales et technologie, 3e année — Guide pédagogique*, printed p. 36 |
+
+**Acceptance count unchanged: taught in 3 countries (Argentina, Uzbekistan, Mozambique).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences expérimentales et technologie, Guides pédagogiques — teacher guides), not added to this count.
+
+Gabon already stands in this lesson's countries line as teacher-guide evidence only, from the earlier split-subject waves, which placed these guides at palier level; the rows above stock this wave's own lesson-level placements, each at its own printed page, as filed.
+
+Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
+
+Searchable tags: gabon, super efficace, gabon grade 3, how electricity is generated power stations to the grid

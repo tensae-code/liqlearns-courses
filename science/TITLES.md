@@ -99,7 +99,7 @@ The titles, in ladder order:
    snails and slugs in the grassland (the brekkubobbi, how it
    may have reached Iceland with birds or people, and the
    measure-a-snail's-speed activity — teacher-guide evidence
-   only, acceptance 0) — plus Djibouti's lesson — animal teeth — and what they eat (do all animals have the same teeth? — teeth fit the food; teacher-guide evidence only, acceptance 0, the Grade 3 guide PARTIAL as filed) — plus Barbados's lesson — camouflage — how animals hide (camouflage defined, taught through insect examples, and why it matters — curriculum evidence only, acceptance 0) — plus India's lesson — inheritance — genes and traits (inherited against acquired traits, Mendel's tall × short pea crosses and dominant/recessive forms, and evolution as inherited variation kept by selection) — plus Bulgaria's four lessons — herbivores, carnivores and omnivores (animals grouped by food, inside the food-chain lesson), adaptations for life in water and on land (fins, shells, tentacles, webbed feet — and the dolphin is not a fish — against land fittings for movement, feeding, winter and defence), how animals breathe — lungs, gills, skin and surface (oxygen taken in to release energy from food; plants breathe too) and camouflage and warning colours (the mantis hidden in green and the squirrel's seasonal coat against the wasp's warning stripes and the salamander's signal spots) — 29 lessons in
+   only, acceptance 0) — plus Djibouti's lesson — animal teeth — and what they eat (do all animals have the same teeth? — teeth fit the food; teacher-guide evidence only, acceptance 0, the Grade 3 guide PARTIAL as filed) — plus Barbados's lesson — camouflage — how animals hide (camouflage defined, taught through insect examples, and why it matters — curriculum evidence only, acceptance 0) — plus India's lesson — inheritance — genes and traits (inherited against acquired traits, Mendel's tall × short pea crosses and dominant/recessive forms, and evolution as inherited variation kept by selection) — plus Bulgaria's four lessons — herbivores, carnivores and omnivores (animals grouped by food, inside the food-chain lesson), adaptations for life in water and on land (fins, shells, tentacles, webbed feet — and the dolphin is not a fish — against land fittings for movement, feeding, winter and defence), how animals breathe — lungs, gills, skin and surface (oxygen taken in to release energy from food; plants breathe too) and camouflage and warning colours (the mantis hidden in green and the squirrel's seasonal coat against the wasp's warning stripes and the salamander's signal spots) — plus Gabon's lesson — evolution and natural selection (the diversity and evolution of living things taught off a timeline: life appearing on Earth 3.8 billion years ago, and natural selection keeping the differences that fit — teacher-guide evidence only, acceptance 0) — 30 lessons in
    CURRICULUM.md Unit 9.
 10. **Natural Resources** — water, soil, air and minerals around
     us, and what is made from them. The General Science
@@ -206,7 +206,10 @@ The titles, in ladder order:
     immunisation and immunity (how vaccines make the body
     resistant and cut child deaths; measles and the immunisation
     table; cholera prevention; the child health card) —
-    28 lessons in CURRICULUM.md Unit 14.
+    plus Gabon's lesson — first aid at home (the first-aid
+    gestures: stop, look, and call for help first, then comfort,
+    clean water, pressure and rest — teacher-guide evidence
+    only, acceptance 0) — 29 lessons in CURRICULUM.md Unit 14.
 15. **Science Skills** — making instruments, running experiments,
     thinking and debating like a scientist. The General Science
     expansion (2026-11-13) adds the Cook Islands' lesson —

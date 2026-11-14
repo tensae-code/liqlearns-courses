@@ -606,6 +606,7 @@ solar-system comparison lessons.
 27. **Adaptations for life in water and on land** (`animals/adaptations-for-life-in-water-and-on-land`) — water fittings (fins, shells, tentacles, webbed feet; the dolphin is not a fish) and land fittings for movement, feeding, winter and defence (Bulgaria, Grade 3 — *Човекът и природата за 3. клас*, Lessons 18–19, printed pp. 42, 44)
 28. **How animals breathe — lungs, gills, skin and surface** (`animals/how-animals-breathe-lungs-gills-skin-and-surface`) — breathing as a life process: oxygen taken in to release energy from food, by lungs, gills, skin or the whole surface; plants breathe too (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 36, printed p. 72)
 29. **Camouflage and warning colours** (`animals/camouflage-and-warning-colours`) — protective colouring both ways: the mantis hidden in green and the squirrel's seasonal coat against the wasp's warning stripes and the salamander's signal spots (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 52, printed p. 103)
+30. **Evolution and natural selection** (`animals/evolution-and-natural-selection`) — the diversity and evolution of living things, taught off a timeline: life appearing on Earth 3.8 billion years ago, living things changing generation after generation, and natural selection keeping the differences that fit — teacher-guide evidence only, acceptance 0 (Gabon, Grade 5 — *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique*, printed p. 48)
 
 ## Unit 10 — Natural Resources
 
@@ -760,6 +761,7 @@ solar-system comparison lessons.
 26. **Fireworks safety** (`keeping-healthy/fireworks-safety`) — learning how to handle fireworks — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.5 aims, printed p. 1)
 27. **Diarrhoea and worm infestations** (`keeping-healthy/diarrhoea-and-worm-infestations`) — diarrhoea diseases: causes (contaminated water and food), using ORS/SSS at home with amounts by age — and worm infestations: threadworm and other worms, how they enter, signs (Uganda, Primary Four — *Home-Study Learning, Primary Four, Science*, printed pp. 23–27)
 28. **Immunisation and immunity** (`keeping-healthy/immunisation-and-immunity`) — immunity and immunisation: how vaccines make the body resistant and cut child deaths; childhood immunisable diseases (measles — virus, sores, rash; vaccine by injection in the left upper arm — and the immunisation table); cholera prevention (boiled water, covering food); the child health card (Uganda, Primary Five — *Home-Study Learning, Primary Five, Science*, printed pp. 1–8)
+29. **First aid at home** (`keeping-healthy/first-aid-at-home`) — the first-aid gestures: the first help given in the first minutes after a hurt — stop, look, and call for help first, then comfort, clean water for small cuts and burns, pressure on bleeding, and rest — teacher-guide evidence only, acceptance 0 (Gabon, Grade 5 — *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique*, printed p. 28)
 
 
 ## Unit 15 — Science Skills

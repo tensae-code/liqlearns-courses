@@ -86,3 +86,24 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, air is there air takes up space and can be pushed, stiinte, sciences, grade 3
+
+
+## Gabon growth (2026-11-13, General Science expansion)
+
+**Book (Gabon, Grade 3):** *Super Efficace Sciences expérimentales et technologie, 3e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 3e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2023. PDF 64 pages (1,385,512 bytes). Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 41 lessons; 8 ICT and 3 craft/technology lessons not placed per the placements file’s scope note). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md. All placements from this guide are guide evidence — the guide carries the lesson content, activities and answers for the pupil manual — cited as teacher-guide evidence only, outside the acceptance count.
+
+**Book (Gabon, Grade 5):** *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique* (teacher guide) — Gabon. Title as printed: Sciences, 5e Année (Super Efficace). Publisher: EDIG/EDICEF, © 2024. PDF 60 pages (1,435,808 bytes). Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Verdict: COMPLETE (5 paliers, 48 lessons; 10 ICT and 5 craft/technology lessons not placed per the placements file’s scope note; one further Technology lesson, signal transmission, also not placed). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/gabon-placements.md. All placements from this guide are guide evidence — the guide carries the lesson content, activities and answers for the pupil manual — cited as teacher-guide evidence only, outside the acceptance count.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the presence and uses of air (guide evidence) (Gabon, Grade 3) | Gabon, *Super Efficace Sciences expérimentales et technologie, 3e année — Guide pédagogique*, printed p. 18 |
+| properties of air (guide evidence) (Gabon, Grade 3) — filed as NEW LESSON NEEDED — properties-of-air; stocked into this existing lesson, which already covers that thing, instead of building a duplicate | Gabon, *Super Efficace Sciences expérimentales et technologie, 3e année — Guide pédagogique*, printed p. 22 |
+| air (guide evidence) (Gabon, Grade 5) | Gabon, *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique*, printed p. 15 |
+
+**Acceptance count unchanged: taught in 4 countries (India, Uganda, Bulgaria, Moldova).** Gabon is named as teacher-guide evidence only (Super Efficace — Sciences expérimentales et technologie, Guides pédagogiques — teacher guides), not added to this count.
+
+Gabon already stands in this lesson's countries line as teacher-guide evidence only, from the earlier split-subject waves, which placed these guides at palier level; the rows above stock this wave's own lesson-level placements, each at its own printed page, as filed.
+
+Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
+
+Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 5, air is there air takes up space and can be pushed
