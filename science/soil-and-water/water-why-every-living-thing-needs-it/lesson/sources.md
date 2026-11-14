@@ -1,6 +1,6 @@
 # Sources — Water: why every living thing needs it
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Mexico, Vanuatu (teacher-guide evidence only), Guyana, Micronesia, Barbados (curriculum evidence only), India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -468,3 +468,22 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, soil-and-water water-why-every-living-thing-needs-it
 
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 3):** *Elementary Science, Class Three (Experimental edition)* (student book) / Bangla: *Prathomik Biggan, Tritiya Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition October 2023 (for academic year 2024); free distribution under PEDP-4. PDF pages: English 150, Bangla 138 (language twins — parallel editions of the same book: content placed once, both records named here); printed pages 143 (English). Verdict: COMPLETE — read to the final glossary page ending "The end". It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 5):** *Elementary Science, Class Five* (student book) / Bangla: *Prathomik Biggan, Pancham Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2024); free distribution under PEDP-4; no ISBN printed. PDF pages: English 115, Bangla 116 (language twins verified by byte size, page count and identical cover art); printed pages 109 + glossary; image-only PDFs — English edition read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary pages and back cover. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 7 Exercise Book):** *Science Exercise Book, Class Seven (Experimental Version)* (student book; English record only — no Bangla Exercise Book record exists for Class 7 in the targets, a library gap as filed) — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Seven from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: 172; printed pages 164 (PDF page = printed page + 8). Verdict: COMPLETE — read in full via text layer to the final unit (Adverse Nature). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uses of water and why every living thing needs it (Bangladesh, Grade 3) | Bangladesh, *Elementary Science Class 3*, printed p. 83 |
+| Water for plants and animals: natural sources (rain, river, sea) and man-made sources (pond, well, tubewell); plants are about 90% water and the human body 60–70% (Bangladesh, Grade 5) | Bangladesh, *Elementary Science Class 5*, printed p. 15 |
+| Friendship with Water: Bangladesh's rivers and streams, the people's deep relationship with rivers in folk song and story, and the biodiversity that revolves around the river (Bangladesh, Grade 7) | Bangladesh, *Science Exercise Book Class 7*, printed p. 99 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Mexico, Guyana, Micronesia, India, Uganda, Moldova, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela, Mauritania, Angola, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, soil-and-water water-why-every-living-thing-needs-it

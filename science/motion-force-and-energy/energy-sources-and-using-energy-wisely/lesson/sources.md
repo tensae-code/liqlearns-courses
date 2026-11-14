@@ -1,6 +1,6 @@
 # Sources — Energy — sources, and using energy wisely
 
-countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Egypt, Ecuador, Afghanistan, Venezuela, Angola, Syria, Laos, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia
+countries: Ethiopia, Argentina, Gabon (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab), Armenia, Vanuatu (teacher-guide evidence only), Ghana (curriculum evidence only), Costa Rica, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Egypt, Ecuador, Afghanistan, Venezuela, Angola, Syria, Laos, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -570,3 +570,19 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, motion-force-and-energy energy-sources-and-using-energy-wisely
 
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 3):** *Elementary Science, Class Three (Experimental edition)* (student book) / Bangla: *Prathomik Biggan, Tritiya Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition October 2023 (for academic year 2024); free distribution under PEDP-4. PDF pages: English 150, Bangla 138 (language twins — parallel editions of the same book: content placed once, both records named here); printed pages 143 (English). Verdict: COMPLETE — read to the final glossary page ending "The end". It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 5):** *Elementary Science, Class Five* (student book) / Bangla: *Prathomik Biggan, Pancham Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2024); free distribution under PEDP-4; no ISBN printed. PDF pages: English 115, Bangla 116 (language twins verified by byte size, page count and identical cover art); printed pages 109 + glossary; image-only PDFs — English edition read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary pages and back cover. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Uses of energy and preventing waste (lights left on, needless horn) (Bangladesh, Grade 3) | Bangladesh, *Elementary Science Class 3*, printed p. 62 |
+| Proper use and saving of energy: most energy comes from non-renewable oil, coal and gas that cannot be replaced; saving habits at home (lights off, fridge door shut, curtains open for sunlight, walking and cycling) (Bangladesh, Grade 5) | Bangladesh, *Elementary Science Class 5*, printed p. 37 |
+
+**Acceptance count: taught in 36 countries (Ethiopia, Argentina, Slovenia, Sudan, Fiji, Iraq, Kuwait, Yemen, Belarus, Bhutan, North Macedonia, Moldova, Vietnam, Libya, South Sudan, Mozambique, China, Cuba, Jordan, Mauritania, Greece, Pakistan (Punjab, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, motion-force-and-energy energy-sources-and-using-energy-wisely

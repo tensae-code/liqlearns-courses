@@ -1,6 +1,6 @@
 # Sources — The Earth — rotation, revolution, day-night and seasons
 
-countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia
+countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Samoa, Egypt, Cambodia, Ecuador, Afghanistan, Bhutan, Dominican Republic, China, Laos, Sri Lanka, North Macedonia, Indonesia, Bangladesh
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -435,3 +435,20 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space rotation-revolution-day-night-and-seasons
 
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 5):** *Elementary Science, Class Five* (student book) / Bangla: *Prathomik Biggan, Pancham Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2024); free distribution under PEDP-4; no ISBN printed. PDF pages: English 115, Bangla 116 (language twins verified by byte size, page count and identical cover art); printed pages 109 + glossary; image-only PDFs — English edition read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary pages and back cover. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 6 Investigative Study):** *Science Investigative Study, Class Six (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Shashtho Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Six from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 160, Bangla 160; printed pages 152 (PDF page = printed page + 8 in the English edition). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 14); Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Day and night caused by rotation, modelled with a globe, a sticker on Bangladesh and a torch for the Sun; sunrise and sunset as the Sun's apparent east-to-west journey (Bangladesh, Grade 5) | Bangladesh, *Elementary Science Class 5*, printed p. 55 |
+| Seasons caused by the tilted axis in orbit: a hemisphere tilted toward the Sun gets direct sunlight, longer days and summer; tilted away, slanting sunlight, shorter days and winter; day length measured on the tilted globe with a tape (Bangladesh, Grade 5) | Bangladesh, *Elementary Science Class 5*, printed p. 57 |
+| Rotation of Sun, Earth and Moon and their relative positions: changes of day-night and seasons, diurnal and annual motion (Bangladesh, Grade 6) | Bangladesh, *Science Investigative Study Class 6*, printed p. 129 |
+
+**Acceptance count: taught in 26 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Mongolia, Costa Rica, Bulgaria, Moldova, United States, Pakistan (Punjab, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space rotation-revolution-day-night-and-seasons

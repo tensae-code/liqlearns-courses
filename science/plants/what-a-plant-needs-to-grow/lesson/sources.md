@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -510,3 +510,19 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, plants what-a-plant-needs-to-grow
 
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 4):** *Elementary Science, Class Four* (student book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2025); free distribution under PEDP-4; no ISBN printed. PDF pages: 117 (printed pages 111 + glossary); image-only PDF — read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary page (printed p. 111) marked "End". The Bangla twin record (bd02) is UNREAD and record-only as filed: its repo file could not be opened (damaged downloads), and its content is fully covered by this English twin. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 7 Exercise Book):** *Science Exercise Book, Class Seven (Experimental Version)* (student book; English record only — no Bangla Exercise Book record exists for Class 7 in the targets, a library gap as filed) — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Seven from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: 172; printed pages 164 (PDF page = printed page + 8). Verdict: COMPLETE — read in full via text layer to the final unit (Adverse Nature). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What plants need to make food: sunlight, water and carbon dioxide (Bangladesh, Grade 4) | Bangladesh, *Elementary Science Class 4*, printed p. 4 |
+| Call of Crops: going to the crops to watch how they grow, evolve, adapt and survive (Bangladesh, Grade 7) | Bangladesh, *Science Exercise Book Class 7*, printed p. 5 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Guyana, Mongolia, Moldova, United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Sudan, Venezuela, Mauritania, Angola, Bhutan, Dominican Republic, China, Syria, Laos, Eritrea, Sri Lanka, North Macedonia, Indonesia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, plants what-a-plant-needs-to-grow

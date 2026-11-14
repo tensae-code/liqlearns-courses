@@ -1,6 +1,6 @@
 # Sources — Exploring space — how technology extends what we know
 
-countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia
+countries: Bhutan, Moldova, Pakistan (Punjab), Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh
 
 **Book 1:** *Physics, Class Nine* (student textbook) — Bhutan, Kinley Gyaltshen & Sumitra Subba; Kuensel Corporation Limited, Thimphu; Edition 2014, Reprint 2019; ISBN 978-99936-53-25-7. Grade: 9 · Student book · Repo path: grade-09/gov/bhutan/physics/full-year.pdf (release copy: releases/download/mid-size-books-3/grade-09-gov-bhutan-physics-full-year.pdf). Byte size: 6,011,247 (exact match). PDF pages: 227 (record: 227). Offset: printed p. = PDF p. − 27 (printed p. 1 is PDF p. 28); front matter in roman numerals. Verdict: COMPLETE — full text layer, all 227 pages; contents and every chapter opener read, interiors sampled throughout. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bhutan-placements.md.
 
@@ -153,3 +153,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, earth-and-space exploring-space-how-technology-extends-what-we-know
 
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 7 Investigative Study):** *Science Investigative Study, Class Seven (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Saptam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Seven from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 180, Bangla 180; printed pages 172 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 17); Bangla twin verified by page count and identical cover/imprint (its downloaded byte size differed between grabs, as filed — the file opened complete at 180 pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Images from the past: seeing distant objects as they were when their light left them (Bangladesh, Grade 7) | Bangladesh, *Science Investigative Study Class 7*, printed p. 171 |
+
+**Acceptance count: taught in 11 countries (Bhutan, Moldova, Pakistan (Punjab, Samoa, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, Indonesia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space exploring-space-how-technology-extends-what-we-know

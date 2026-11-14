@@ -1,6 +1,6 @@
 # Sources — Energy resources — environmental degradation and its effects
 
-countries: Ethiopia, Mexico, Armenia, Syria, Indonesia
+countries: Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. PDF 236 pp. Printed page = PDF page − 15. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -63,3 +63,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, our-environment energy-resources-environmental-degradation-and-its-effects
 
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 8 Investigative Study):** *Investigative Science Study, Class Eight (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Ashtam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Eight from academic year 2024; first published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 204, Bangla 204; printed pages 196 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 16, Natural Resources of Bangladesh); Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The impact on the environment of extracting natural resources, and precautions in using natural resources (Bangladesh, Grade 8) | Bangladesh, *Science Investigative Study Class 8*, printed p. 192 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Mexico, Armenia, Syria, Indonesia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, our-environment energy-resources-environmental-degradation-and-its-effects

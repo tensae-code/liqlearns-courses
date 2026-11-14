@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -280,3 +280,18 @@ Searchable tags: sri lanka, sri lanka science, mixtures and how to separate them
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, materials mixtures-and-how-to-separate-them
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 7 Investigative Study):** *Science Investigative Study, Class Seven (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Saptam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Seven from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 180, Bangla 180; printed pages 172 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 17); Bangla twin verified by page count and identical cover/imprint (its downloaded byte size differed between grabs, as filed — the file opened complete at 180 pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Solutions, solvent and solute; aqueous, waterless, liquid-gas and solid-solid solutions (Bangladesh, Grade 7) | Bangladesh, *Science Investigative Study Class 7*, printed p. 104 |
+| Colloids and suspensions (Bangladesh, Grade 7) | Bangladesh, *Science Investigative Study Class 7*, printed p. 112 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Costa Rica, Bulgaria, Moldova, Ecuador, Afghanistan, Sudan, Venezuela, Bhutan, Kuwait, Laos, Sri Lanka, North Macedonia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, materials mixtures-and-how-to-separate-them

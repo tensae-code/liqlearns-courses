@@ -1,6 +1,6 @@
 # Sources — Describing things: matter and its properties
 
-countries: Ethiopia, Sudan, Trinidad and Tobago (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Egypt, Ecuador, Bhutan, Dominican Republic, Syria, Laos, Eritrea, Indonesia
+countries: Ethiopia, Sudan, Trinidad and Tobago (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Egypt, Ecuador, Bhutan, Dominican Republic, Syria, Laos, Eritrea, Indonesia, Bangladesh
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -292,3 +292,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, materials describing-things
 
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 6 Exercise Book):** *Science Exercise Book, Class Six (Experimental Version)* (student book) / Bangla twin: *Biggan Onushiloni Boi, Shashtho Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Six from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 160, Bangla 160; printed pages 152 (PDF page = printed page + 8). This is the activity companion to the Investigative Study book: the same year's work as hands-on sessions. Verdict: COMPLETE — English edition read in full via text layer to the final unit; Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Laboratory in the Kitchen!: the kitchen run as a science laboratory, sorting and testing the materials cooking needs (the book's own way of teaching materials through cooking) (Bangladesh, Grade 6) | Bangladesh, *Science Exercise Book Class 6*, printed p. 56 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Sudan, Guyana, India, Bulgaria, Moldova, Pakistan (Punjab, Eritrea, Indonesia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, materials describing-things

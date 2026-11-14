@@ -1,6 +1,6 @@
 # Sources — Making toys and objects from local materials
 
-countries: Rwanda
+countries: Rwanda, Bangladesh
 
 **Book 1:** *Science and Elementary Technology, Primary Two, Pupil's Book* (student book) — Rwanda, Rwanda Education Board (REB), copyright 2020. Title as printed: Science and Elementary Technology, Primary Two, Pupil's Book. PDF 110 pages, 38,476,680 bytes. Verdict: COMPLETE (Units 1–8, printed pp. 1–104). Records: TSV release record and books.json record grade-02/gov/rwanda/science-and-elementary-technology/student/full-year.pdf — the same book, cited once here. Short name: RW P2E. The Kinyarwanda parallel edition of this book (placements Book 2: *Ubumenyi n'Ikoranabuhanga Riciriritse — Igitabo cy'umunyeshuri, Umwaka wa kabiri*, REB, 2019, PDF 104 pages, COMPLETE) carries the same contents lesson for lesson in a second language and is placed once under this English edition, as filed — no separate placements. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/rwanda-placements.md.
 
@@ -67,3 +67,19 @@ countries: Rwanda
 Placement choice, on the record: this NEW LESSON was built for the Rwanda placement(s) "NEW LESSON NEEDED — making-toys-and-objects-from-local-materials" (23 placements, Rwanda SET books as cited above). No existing general-science lesson covers this thing as its own lesson (checked against the live repo at merge time) — the nearest lessons teach neighbouring things, named in the merge log — so it gets its own lesson. It sits in work-and-heritage/ and is registered in CURRICULUM.md Unit 13. Rwanda's own way — Science and Elementary Technology (SET) as one integrated subject, teaching this thing in the order named in the rows above — IS part of this lesson's content, carried exactly as the placements describe it.
 
 Searchable tags: making toys and objects from local materials, rwanda, rwanda education board, reb, science and elementary technology
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 7 Exercise Book):** *Science Exercise Book, Class Seven (Experimental Version)* (student book; English record only — no Bangla Exercise Book record exists for Class 7 in the targets, a library gap as filed) — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Seven from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: 172; printed pages 164 (PDF page = printed page + 8). Verdict: COMPLETE — read in full via text layer to the final unit (Adverse Nature). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A Variety of Toys Fair!: designing and making new toys from materials available or thrown away around you — placement filed as NEW LESSON NEEDED — making-toys-from-thrown-away-materials; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (Bangladesh, Grade 7) | Bangladesh, *Science Exercise Book Class 7*, printed p. 61 |
+
+**Acceptance count: taught in 2 countries (Rwanda, Bangladesh).**
+
+Placement choice, on the record: the Bangladesh placement(s) above filed as NEW LESSON NEEDED — making-toys-from-thrown-away-materials — bangladesh-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, work-and-heritage making-toys-and-objects-from-local-materials

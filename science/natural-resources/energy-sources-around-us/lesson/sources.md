@@ -1,6 +1,6 @@
 # Sources — Energy sources around us
 
-countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only)
+countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -248,3 +248,20 @@ Searchable tags: syria, syria science, ministry of education syria, nccd, energy
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 4):** *Elementary Science, Class Four* (student book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2025); free distribution under PEDP-4; no ISBN printed. PDF pages: 117 (printed pages 111 + glossary); image-only PDF — read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary page (printed p. 111) marked "End". The Bangla twin record (bd02) is UNREAD and record-only as filed: its repo file could not be opened (damaged downloads), and its content is fully covered by this English twin. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 5):** *Elementary Science, Class Five* (student book) / Bangla: *Prathomik Biggan, Pancham Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2024); free distribution under PEDP-4; no ISBN printed. PDF pages: English 115, Bangla 116 (language twins verified by byte size, page count and identical cover art); printed pages 109 + glossary; image-only PDFs — English edition read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary pages and back cover. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Energy from natural resources: solar panels turning sunlight into electricity, wind turbines, water current, and fossil fuels (oil, coal, natural gas) (Bangladesh, Grade 4) | Bangladesh, *Elementary Science Class 4*, printed p. 51 |
+| Sources of energy (coal, oil, food, wind, water current, battery, generator) and the Sun named as the main source of all energy (Bangladesh, Grade 5) | Bangladesh, *Elementary Science Class 5*, printed p. 31 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Suriname, Costa Rica, Greece, Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, natural-resources energy-sources-around-us

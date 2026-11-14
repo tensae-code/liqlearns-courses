@@ -1,6 +1,6 @@
 # Sources — Musical instruments as physics
 
-countries: Nigeria (teacher-guide evidence only), Barbados (curriculum evidence only), China, Sri Lanka
+countries: Nigeria (teacher-guide evidence only), Barbados (curriculum evidence only), China, Sri Lanka, Bangladesh
 
 **Book 1:** *Excellence in Physics for Senior Secondary — Teacher's Guide Book 2* (teacher's guide — a TEACHER'S GUIDE written to the Nigerian Educational Research and Development Council (NERDC) curriculum, NOT a student book, cited as it is) — Nigeria, Cambridge University Press. Title as printed: Excellence in Physics for Senior Secondary Schools — Teacher's Guide Book 2. Grade: SS2 (Grade 11) · Teacher's guide · Repo path: grade-11/approved-private/nigeria/physics-teacher-guide-cambridge.pdf (Contents API route) · Byte size: 2,350,466 (Contents API meta = downloaded) · PDF pages: 80 · Offset: guide printed p. 1 ≈ PDF p. 11. Verdict: COMPLETE as published — Introduction and scheme of work, then Themes 1, 2, 3, 5 and 6; Theme 4 is expressly not included per the NERDC curriculum for this book. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/nigeria-placements.md.
 
@@ -63,3 +63,17 @@ Searchable tags: china, china science, pep, people's education press, musical in
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, musical instruments as physics
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 8 Exercise Book):** *Exercise Science Book, Class Eight (Experimental Version)* (student book) / Bangla twin: *Biggan Onushiloni Boi, Ashtam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Eight from academic year 2024; published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 176, Bangla 176; the introduction is paginated i–v, then printed pages run 1–168 (PDF page = printed page + 12 in the English edition, as filed so the citations can be checked). Verdict: COMPLETE — English edition read in full via text layer to the final unit (Food Adulteration!); Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Music Festival: learning the world of waves through singing and sound, and designing and building the class's chosen musical instrument together (Bangladesh, Grade 8) | Bangladesh, *Science Exercise Book Class 8*, printed p. 105 |
+
+**Acceptance count: taught in 3 countries (China, Sri Lanka, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, sound musical-instruments-as-physics

@@ -1,6 +1,6 @@
 # Sources — Longitude Lines and the Greenwich Meridian
 
-countries: Ethiopia, Cuba, North Macedonia
+countries: Ethiopia, Cuba, North Macedonia, Bangladesh
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -45,3 +45,17 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, longitu
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, location-and-maps longitude-lines-and-the-greenwich-meridian
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 8 Investigative Study):** *Investigative Science Study, Class Eight (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Ashtam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Eight from academic year 2024; first published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 204, Bangla 204; printed pages 196 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 16, Natural Resources of Bangladesh); Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Longitude, the Prime Meridian and the International Date Line, and local time (Bangladesh, Grade 8) | Bangladesh, *Science Investigative Study Class 8*, printed p. 133 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Cuba, North Macedonia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, location-and-maps longitude-lines-and-the-greenwich-meridian

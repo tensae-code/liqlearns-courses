@@ -1,6 +1,6 @@
 # Sources — Separating mixtures — settling, pouring off and filtering
 
-countries: Ethiopia, Costa Rica, Seychelles, Ecuador, Sudan, Bhutan, China, North Macedonia
+countries: Ethiopia, Costa Rica, Seychelles, Ecuador, Sudan, Bhutan, China, North Macedonia, Bangladesh
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -103,3 +103,17 @@ Searchable tags: china, china science, pep, people's education press, separating
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, materials separating-settling-pouring-and-filtering
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 7 Investigative Study):** *Science Investigative Study, Class Seven (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Saptam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Seven from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 180, Bangla 180; printed pages 172 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 17); Bangla twin verified by page count and identical cover/imprint (its downloaded byte size differed between grabs, as filed — the file opened complete at 180 pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Different methods of separating the components of a mixture (Bangladesh, Grade 7) | Bangladesh, *Science Investigative Study Class 7*, printed p. 115 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Costa Rica, Seychelles, Ecuador, Sudan, Bhutan, China, North Macedonia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, materials separating-settling-pouring-and-filtering

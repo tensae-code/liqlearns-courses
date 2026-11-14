@@ -1,6 +1,6 @@
 # Sources — Rock types — igneous, sedimentary, metamorphic
 
-countries: Costa Rica, Cuba, Samoa, Cambodia, Sudan, Dominican Republic, Kuwait, China, North Macedonia
+countries: Costa Rica, Cuba, Samoa, Cambodia, Sudan, Dominican Republic, Kuwait, China, North Macedonia, Bangladesh
 
 **Book (Costa Rica — Grade 8):** *Ciencias, Octavo, Código 80008, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED, © 2018. Title as printed: Ciencias, Octavo, Código 80008, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED, © 2018. PDF 132 pages, 1,731,133 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (units through the geosphere, bibliography on printed p. 132). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
 
@@ -137,3 +137,19 @@ Placement choice, on the record: the North Macedonia placement(s) above filed as
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, earth-and-space rock-types-igneous-sedimentary-metamorphic
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 7 Investigative Study):** *Science Investigative Study, Class Seven (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Saptam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Seven from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 180, Bangla 180; printed pages 172 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 17); Bangla twin verified by page count and identical cover/imprint (its downloaded byte size differed between grabs, as filed — the file opened complete at 180 pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sedimentary, igneous and metamorphic rocks: structure, uses, and identifying rock types by physical and chemical properties — placement filed as NEW LESSON NEEDED — rocks-igneous-sedimentary-and-metamorphic; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (Bangladesh, Grade 7) | Bangladesh, *Science Investigative Study Class 7*, printed p. 157 |
+
+**Acceptance count: taught in 10 countries (Costa Rica, Cuba, Samoa, Cambodia, Sudan, Dominican Republic, Kuwait, China, North Macedonia, Bangladesh).**
+
+Placement choice, on the record: the Bangladesh placement(s) above filed as NEW LESSON NEEDED — rocks-igneous-sedimentary-and-metamorphic — bangladesh-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space rock-types-igneous-sedimentary-metamorphic

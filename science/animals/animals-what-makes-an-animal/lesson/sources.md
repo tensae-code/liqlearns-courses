@@ -1,6 +1,6 @@
 # Sources — Animals — what makes an animal
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -258,3 +258,21 @@ Searchable tags: zimbabwe, plusone, science and technology, heritage-based curri
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, animals animals-what-makes-an-animal
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 3):** *Elementary Science, Class Three (Experimental edition)* (student book) / Bangla: *Prathomik Biggan, Tritiya Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition October 2023 (for academic year 2024); free distribution under PEDP-4. PDF pages: English 150, Bangla 138 (language twins — parallel editions of the same book: content placed once, both records named here); printed pages 143 (English). Verdict: COMPLETE — read to the final glossary page ending "The end". It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 4):** *Elementary Science, Class Four* (student book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2025); free distribution under PEDP-4; no ISBN printed. PDF pages: 117 (printed pages 111 + glossary); image-only PDF — read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary page (printed p. 111) marked "End". The Bangla twin record (bd02) is UNREAD and record-only as filed: its repo file could not be opened (damaged downloads), and its content is fully covered by this English twin. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Common body parts of animals, observed, drawn and compared (Bangladesh, Grade 3) | Bangladesh, *Elementary Science Class 3*, printed p. 11 |
+| What each animal body part does (Bangladesh, Grade 3) | Bangladesh, *Elementary Science Class 3*, printed p. 13 |
+| Differences between plants and animals: making food, body parts, movement (Bangladesh, Grade 4) | Bangladesh, *Elementary Science Class 4*, printed p. 11 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Guyana, Egypt, Seychelles, Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, North Macedonia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, animals animals-what-makes-an-animal

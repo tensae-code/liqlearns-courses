@@ -1,6 +1,6 @@
 # Sources — Healthy food and spoiled food
 
-countries: Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka, Zimbabwe (teacher-guide evidence only)
+countries: Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka, Zimbabwe (teacher-guide evidence only), Bangladesh
 
 **Book 4:** *Grade 2 Environmental Science Teacher Guide* (አካባቢ ሳይንስ ሁለተኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2014 E.C. TRUNCATED scan: the file holds printed pp. 1–61 (Units 1–3); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-teacher-placements.md.
 
@@ -163,3 +163,22 @@ Searchable tags: sri lanka, sri lanka science, healthy food and spoiled food
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 3):** *Elementary Science, Class Three (Experimental edition)* (student book) / Bangla: *Prathomik Biggan, Tritiya Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition October 2023 (for academic year 2024); free distribution under PEDP-4. PDF pages: English 150, Bangla 138 (language twins — parallel editions of the same book: content placed once, both records named here); printed pages 143 (English). Verdict: COMPLETE — read to the final glossary page ending "The end". It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 5):** *Elementary Science, Class Five* (student book) / Bangla: *Prathomik Biggan, Pancham Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2024); free distribution under PEDP-4; no ISBN printed. PDF pages: English 115, Bangla 116 (language twins verified by byte size, page count and identical cover art); printed pages 109 + glossary; image-only PDFs — English edition read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary pages and back cover. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Healthy vs harmful foods: fried, oily and packaged foods (Bangladesh, Grade 3) | Bangladesh, *Elementary Science Class 3*, printed p. 33 |
+| Healthy drinks (fruit juice, coconut water) vs bottled drinks and roadside sugarcane juice; water-borne disease warning (Bangladesh, Grade 3) | Bangladesh, *Elementary Science Class 3*, printed p. 35 |
+| Safe food: food free of poisonous chemicals and microbes; nutritious food that is not safe makes the body weak and brings infectious disease (Bangladesh, Grade 5) | Bangladesh, *Elementary Science Class 5*, printed p. 42 |
+| Foods to limit: sweets, cakes, ice cream and soft drinks carrying artificial colours and harmful chemicals added by dishonest dealers; junk food (burgers, pizza, chips, fried chicken) heavy in sugar, salt and fat, leading to deficiency and obesity (Bangladesh, Grade 5) | Bangladesh, *Elementary Science Class 5*, printed p. 44 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Turkey, Uganda, Cambodia, Mauritania, Angola, Sri Lanka, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, keeping-healthy healthy-food-and-spoiled-food

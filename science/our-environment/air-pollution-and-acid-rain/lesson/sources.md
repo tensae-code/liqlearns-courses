@@ -1,6 +1,6 @@
 # Sources — Air pollution and acid rain
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Pakistan (Punjab), Samoa, Cambodia, Rwanda, North Macedonia, Indonesia
+countries: Ethiopia, Nauru, Tuvalu, Niue, Pakistan (Punjab), Samoa, Cambodia, Rwanda, North Macedonia, Indonesia, Bangladesh
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -145,3 +145,19 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, our-environment air-pollution-and-acid-rain
 
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 6 Investigative Study):** *Science Investigative Study, Class Six (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Shashtho Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Six from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 160, Bangla 160; printed pages 152 (PDF page = printed page + 8 in the English edition). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 14); Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 9 Exercise Book):** *Exercise Science Book, Class Nine (Experimental Version)* (student book, Grades 9–10 shared) / Bangla twin: *Biggan Onushiloni Boi, Nabam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Nine from academic year 2024; published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 104, Bangla 104; the introduction is paginated i–iv, then printed pages run 1–96 (PDF page = printed page + 10 in the English edition, as filed so the citations can be checked). Duplicate records: the Grade 10 records are byte-identical to these Grade 9 records (Exercise Bangla 4,959,905 bytes both; Exercise English 3,917,137 both) — same book, cited once here. Verdict: COMPLETE — English edition read in full via text layer to the final unit (Universe from a Dot). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Acid rain, its causes and harms (Bangladesh, Grade 6) | Bangladesh, *Science Investigative Study Class 6*, printed p. 72 |
+| Air Pollution: drawing the improvement plan as a diagram or flow chart and defending it before invited guests (Bangladesh, Grade 9) | Bangladesh, *Science Exercise Book Class 9*, printed p. 30 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Nauru, Tuvalu, Niue, Pakistan (Punjab, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, our-environment air-pollution-and-acid-rain

@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka
+countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -323,3 +323,17 @@ Searchable tags: laos, lao pdr, natural sciences grade 8
 Sri Lanka's own way — its books teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Sri Lanka's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: sri lanka, sri lanka science, the brain
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 9 Investigative Study):** *Investigative Science Study, Class Nine (Experimental Version)* (student book, Grades 9–10 shared) / Bangla twin: *Biggan Onusandhani Path, Nabam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Nine from academic year 2024; first published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 244, Bangla 244; printed pages 236 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 14). DUPLICATE RECORDS, as filed: the Grade 10 records are byte-identical to these Grade 9 records (Investigative Bangla 16,278,290 bytes both; Investigative English 14,954,084 both) — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The nervous system (Bangladesh, Grade 9) | Bangladesh, *Science Investigative Study Class 9*, printed p. 155 |
+
+**Acceptance count: taught in 22 countries (Ethiopia, Australia, Guyana, India, Moldova, Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, the-human-body the-brain

@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — Farming: Crops and Animals
 
-countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Angola, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia
+countries: Ethiopia, Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Iceland (teacher-guide evidence only), Micronesia, Barbados (curriculum evidence only), India, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Angola, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -398,3 +398,19 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, work-and-heritage farming-crops-and-animals
 
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 3):** *Elementary Science, Class Three (Experimental edition)* (student book) / Bangla: *Prathomik Biggan, Tritiya Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition October 2023 (for academic year 2024); free distribution under PEDP-4. PDF pages: English 150, Bangla 138 (language twins — parallel editions of the same book: content placed once, both records named here); printed pages 143 (English). Verdict: COMPLETE — read to the final glossary page ending "The end". It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 9 Exercise Book):** *Exercise Science Book, Class Nine (Experimental Version)* (student book, Grades 9–10 shared) / Bangla twin: *Biggan Onushiloni Boi, Nabam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Nine from academic year 2024; published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 104, Bangla 104; the introduction is paginated i–iv, then printed pages run 1–96 (PDF page = printed page + 10 in the English edition, as filed so the citations can be checked). Duplicate records: the Grade 10 records are byte-identical to these Grade 9 records (Exercise Bangla 4,959,905 bytes both; Exercise English 3,917,137 both) — same book, cited once here. Verdict: COMPLETE — English edition read in full via text layer to the final unit (Universe from a Dot). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Matching crops to the soil they grow well in (paddy, jute, watermelon and others, Bangladesh's own crop set) (Bangladesh, Grade 3) | Bangladesh, *Elementary Science Class 3*, printed p. 99 |
+| Agriculture and Environment: Haripada Kapali of Jhenaidah, the farmer whose own observation of his IRRI paddy field became science (Bangladesh's own story of a farmer-scientist) (Bangladesh, Grade 9) | Bangladesh, *Science Exercise Book Class 9*, printed p. 80 |
+
+**Acceptance count: taught in 18 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Micronesia, India, Uganda, Pakistan (Punjab, Dominican Republic, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, work-and-heritage farming-crops-and-animals

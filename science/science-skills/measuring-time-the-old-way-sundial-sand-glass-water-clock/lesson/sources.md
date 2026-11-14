@@ -1,6 +1,6 @@
 # Sources — Measuring time the old way — sundial, sand-glass, water clock
 
-countries: Ethiopia, Zambia (teacher-module evidence only), China
+countries: Ethiopia, Zambia (teacher-module evidence only), China, Bangladesh
 
 **Book 1:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp. Printed page = PDF page (1:1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
 
@@ -46,3 +46,17 @@ Searchable tags: zambia, zambia teacher module, curriculum development centre za
 China's own way — its 科学 (Science) textbooks teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with China's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: china, china science, pep, people's education press, measuring time the old way sundial sand glass water clock
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 8 Exercise Book):** *Exercise Science Book, Class Eight (Experimental Version)* (student book) / Bangla twin: *Biggan Onushiloni Boi, Ashtam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Eight from academic year 2024; published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 176, Bangla 176; the introduction is paginated i–v, then printed pages run 1–168 (PDF page = printed page + 12 in the English edition, as filed so the citations can be checked). Verdict: COMPLETE — English edition read in full via text layer to the final unit (Food Adulteration!); Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sundial: how people measured time before clocks, from the courses of the Sun, Moon and stars, and making a sundial (Bangladesh, Grade 8) | Bangladesh, *Science Exercise Book Class 8*, printed p. 20 |
+
+**Acceptance count: taught in 2 countries (China, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, science-skills measuring-time-the-old-way-sundial-sand-glass-water-clock

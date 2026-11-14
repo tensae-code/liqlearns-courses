@@ -1,6 +1,6 @@
 # Sources — Solar eclipses, lunar eclipses and tides
 
-countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Sudan, Bhutan, Dominican Republic, Syria, Eritrea, North Macedonia
+countries: Vietnam, Costa Rica, Bahamas (curriculum evidence only), United States, Pakistan (Punjab), Cuba, Samoa, Cambodia, Ecuador, Sudan, Bhutan, Dominican Republic, Syria, Eritrea, North Macedonia, Bangladesh
 
 **Book 1:** *Chuyên đề học tập Vật lí 10 (Physics 10 Study Topics) — Kết nối tri thức với cuộc sống (Connecting Knowledge with Life)* (student study-topics book — the elective in-depth companion to the main book) — Vietnam. Title as printed: Chuyên đề học tập VẬT LÍ 10 — Kết nối tri thức với cuộc sống. Grade 10 · Student study-topics book · 4th reprint · Authors: Vũ Văn Hùng (editor-in-chief), Nguyễn Quang Báu (editor) et al. · NXB Giáo dục Việt Nam (Vietnam Education Publishing House). Repo path: grade-10/gov/vietnam/physics/student/study-topics.pdf · Release: mid-size-books-2 (asset grade-10-gov-vietnam-physics-student-study-topics.pdf). Byte size: 18,708,177 (matches record). PDF pages: 82 (record 82). Offset: printed p. = PDF p. − 1. Verdict: COMPLETE (cover/title/TOC verified; Topic 1 opener read). Image-only PDF (no text layer); read visually from rendered page sheets. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/vietnam-placements.md.
 
@@ -221,3 +221,22 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, solar 
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, earth-and-space solar-eclipses-lunar-eclipses-and-tides
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 6 Investigative Study):** *Science Investigative Study, Class Six (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Shashtho Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Six from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 160, Bangla 160; printed pages 152 (PDF page = printed page + 8 in the English edition). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 14); Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 8 Investigative Study):** *Investigative Science Study, Class Eight (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Ashtam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Eight from academic year 2024; first published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 204, Bangla 204; printed pages 196 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 16, Natural Resources of Bangladesh); Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The Moon's effect on the Earth; relative positions of Sun, Earth and Moon (Bangladesh, Grade 6) | Bangladesh, *Science Investigative Study Class 6*, printed p. 137 |
+| Penumbra and umbra; partial, total and annular solar eclipses (Bangladesh, Grade 8) | Bangladesh, *Science Investigative Study Class 8*, printed p. 79 |
+| Momentary effects of an eclipse on the environment: animals, birds and temperature (Bangladesh, Grade 8) | Bangladesh, *Science Investigative Study Class 8*, printed p. 83 |
+| Total and partial lunar eclipses, and the red moon (Bangladesh, Grade 8) | Bangladesh, *Science Investigative Study Class 8*, printed p. 86 |
+
+**Acceptance count: taught in 15 countries (Vietnam, Costa Rica, United States, Pakistan (Punjab, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space solar-eclipses-lunar-eclipses-and-tides

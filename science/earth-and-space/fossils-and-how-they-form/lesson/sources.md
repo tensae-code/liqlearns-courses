@@ -1,6 +1,6 @@
 # Sources — Fossils and how they form
 
-countries: Haiti, Cabo Verde (teacher-guide evidence only), Dominican Republic
+countries: Haiti, Cabo Verde (teacher-guide evidence only), Dominican Republic, Bangladesh
 
 **Book 1:** *Géologie — La formation des roches sédimentaires (8e, séquence)* (teaching sequence) — Haiti, Canoprof/Nectar sequence, Creative Commons. PDF 14 pages. Verdict: COMPLETE. Earth-science content of the SVT strand — placed here. Page numbers are the document's own printed pages. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/haiti-placements.md.
 
@@ -46,3 +46,22 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 Dominican Republic's own way — its *Libro Abierto* Ciencias de la Naturaleza books (MINERD, Serie 1 Proyecto Libro Abierto) teach this thing at the places and in the order named in the rows above, with the country's own examples where the rows name them (Hispaniola, the island's coasts and its tropical climate among them) — is itself course content, carried exactly as filed.
 
 Searchable tags: dominican republic, ciencias de la naturaleza, minerd, libro abierto, fossils and how they form
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 7 Exercise Book):** *Science Exercise Book, Class Seven (Experimental Version)* (student book; English record only — no Bangla Exercise Book record exists for Class 7 in the targets, a library gap as filed) — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Seven from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: 172; printed pages 164 (PDF page = printed page + 8). Verdict: COMPLETE — read in full via text layer to the final unit (Adverse Nature). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+**Book (Bangladesh — Class 9 Investigative Study):** *Investigative Science Study, Class Nine (Experimental Version)* (student book, Grades 9–10 shared) / Bangla twin: *Biggan Onusandhani Path, Nabam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Nine from academic year 2024; first published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 244, Bangla 244; printed pages 236 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 14). DUPLICATE RECORDS, as filed: the Grade 10 records are byte-identical to these Grade 9 records (Investigative Bangla 16,278,290 bytes both; Investigative English 14,954,084 both) — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| In Search of Dinosaur Fossils!: everything known about dinosaurs comes from fossilised bones found in rock layers — placement filed as NEW LESSON NEEDED — fossils-and-what-they-tell-us; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (Bangladesh, Grade 7) | Bangladesh, *Science Exercise Book Class 7*, printed p. 129 |
+| Fossils: definition, types and importance — placement filed as NEW LESSON NEEDED — fossils-and-what-they-tell-us; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (Bangladesh, Grade 9) | Bangladesh, *Science Investigative Study Class 9*, printed p. 212 |
+
+**Acceptance count: taught in 3 countries (Haiti, Dominican Republic, Bangladesh).**
+
+Placement choice, on the record: the Bangladesh placement(s) above filed as NEW LESSON NEEDED — fossils-and-what-they-tell-us — bangladesh-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space fossils-and-how-they-form

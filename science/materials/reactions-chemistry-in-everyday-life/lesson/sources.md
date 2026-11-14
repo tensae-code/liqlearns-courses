@@ -1,6 +1,6 @@
 # Sources — Reactions — chemistry in everyday life
 
-countries: Ethiopia, Seychelles, Sudan
+countries: Ethiopia, Seychelles, Sudan, Bangladesh
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -37,3 +37,18 @@ Searchable tags: reactions — chemistry in everyday life, grade 7 general scien
 
 **Acceptance count: taught in 3 countries (Ethiopia, Seychelles, Sudan).**
 Searchable tags: sudan, sudan grade 6, materials/reactions-chemistry-in-everyday-life
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 8 Investigative Study):** *Investigative Science Study, Class Eight (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Ashtam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Eight from academic year 2024; first published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 204, Bangla 204; printed pages 196 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 16, Natural Resources of Bangladesh); Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Household chemistry: table salt, baking powder and vinegar (Bangladesh, Grade 8) | Bangladesh, *Science Investigative Study Class 8*, printed p. 164 |
+| Chemistry in agriculture and industry, in processing and preserving agricultural and food products, and industrial waste (Bangladesh, Grade 8) | Bangladesh, *Science Investigative Study Class 8*, printed p. 171 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Seychelles, Sudan, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, materials reactions-chemistry-in-everyday-life

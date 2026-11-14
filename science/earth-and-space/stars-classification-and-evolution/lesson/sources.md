@@ -1,6 +1,6 @@
 # Sources — Stars — classification and evolution
 
-countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia, Dominican Republic, Kuwait
+countries: Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab), Armenia, Dominican Republic, Kuwait, Bangladesh
 
 **Book 1:** *Физика и астрономия за 10. клас (Педагог 6, 2024)* (student textbook) — Bulgaria, Benova E., Gradinarova M., Balabanov N., Velchev N.; Pedagog 6, 2024. Grade 10 · Student book · Repo: release `full-quality-oversized-books`, asset `grade-10-gov-bulgaria-physics-and-astronomy-fizika-10-klas-pedagog6-2024.pdf` — 153,659,709 bytes (matched) · PDF pages: 258 · Printed page = PDF page (entry-test folios 7–8 verified) · Verdict: COMPLETE (practical activities to printed p. 250, glossary p. 252, answers p. 256). Read from rendered pages (image-only PDF) in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/bulgaria-placements.md.
 
@@ -115,3 +115,17 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, stars classificati
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, earth-and-space stars-classification-and-evolution
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 7 Investigative Study):** *Science Investigative Study, Class Seven (Experimental Version)* (student book) / Bangla twin: *Biggan Onusandhani Path, Saptam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Seven from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 180, Bangla 180; printed pages 172 (PDF page = printed page + 8). Verdict: COMPLETE — English edition read in full via text layer to the final chapter (Ch. 17); Bangla twin verified by page count and identical cover/imprint (its downloaded byte size differed between grabs, as filed — the file opened complete at 180 pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Birth and death of stars (Bangladesh, Grade 7) | Bangladesh, *Science Investigative Study Class 7*, printed p. 168 |
+
+**Acceptance count: taught in 9 countries (Bulgaria, Yemen, Bhutan, North Macedonia, Pakistan (Punjab, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space stars-classification-and-evolution

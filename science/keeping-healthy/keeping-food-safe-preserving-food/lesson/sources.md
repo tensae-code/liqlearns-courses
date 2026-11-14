@@ -1,6 +1,6 @@
 # Sources — Keeping food safe — preserving food
 
-countries: Angola, Zimbabwe (teacher-guide evidence only)
+countries: Angola, Zimbabwe (teacher-guide evidence only), Bangladesh
 
 **Book 2 (Angola):** *Estudo do Meio — Manual do Aluno, 2ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 2.ª Classe (content: Linda Chingolo Lussoke, Maria Milagre de Lurdes Freitas, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe). Grade: 2, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-307-3. PDF pages: 81 (cover/title page matches the record title). Verdict: COMPLETE. Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
 
@@ -34,3 +34,19 @@ Searchable tags: preserving food, food conservation, drying, salting, smoking, a
 Zimbabwe's own way — Science and Technology as one integrated Heritage-Based Curriculum subject, teaching this thing in the unit order and at the places named in the rows above, with Zimbabwe's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: zimbabwe, plusone, science and technology, heritage-based curriculum, secondary book press
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 5):** *Elementary Science, Class Five* (student book) / Bangla: *Prathomik Biggan, Pancham Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2024); free distribution under PEDP-4; no ISBN printed. PDF pages: English 115, Bangla 116 (language twins verified by byte size, page count and identical cover art); printed pages 109 + glossary; image-only PDFs — English edition read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary pages and back cover. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Food preservation: drying crops in the sun, refrigerator and cold storage, jam, jelly and pickles sealed in airtight jars, fish kept by salt or ice, fruits in sugar, vinegar or oil; preservation stops the microorganisms that spoil food and makes seasonal food last all year — placement filed as NEW LESSON NEEDED — preserving-food; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here (Bangladesh, Grade 5) | Bangladesh, *Elementary Science Class 5*, printed p. 43 |
+
+**Acceptance count: taught in 2 countries (Angola, Bangladesh).**
+
+Placement choice, on the record: the Bangladesh placement(s) above filed as NEW LESSON NEEDED — preserving-food — bangladesh-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, keeping-healthy keeping-food-safe-preserving-food

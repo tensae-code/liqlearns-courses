@@ -1,6 +1,6 @@
 # Sources — Reproduction, puberty and staying safe
 
-countries: Ethiopia, Suriname, Bulgaria, Cuba, Cambodia, Venezuela, Angola, Dominican Republic, Kuwait, Eritrea, Rwanda
+countries: Ethiopia, Suriname, Bulgaria, Cuba, Cambodia, Venezuela, Angola, Dominican Republic, Kuwait, Eritrea, Rwanda, Bangladesh
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -170,3 +170,17 @@ Searchable tags: eritrea, eritrea science, ministry of education eritrea, reprod
 Rwanda's own way — its Science and Elementary Technology (SET) books teach science and elementary technology as one integrated subject, opening with the tools and materials of home, school and farm and climbing through air, soil, plants, animals, the body, light, heat and electricity — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: rwanda, rwanda education board, reb, science and elementary technology, set, the-human-body, reproduction-puberty-and-staying-safe
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 5):** *Elementary Science, Class Five* (student book) / Bangla: *Prathomik Biggan, Pancham Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2024); free distribution under PEDP-4; no ISBN printed. PDF pages: English 115, Bangla 116 (language twins verified by byte size, page count and identical cover art); printed pages 109 + glossary; image-only PDFs — English edition read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary pages and back cover. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Puberty: the change from child to teenager (about ages 8–13 in girls, 9–15 in boys); physical changes in boys and girls, emotional changes and anxiety about the changing body; hygiene, nutritious food, and talking to parents, teachers or elder siblings (Bangladesh, Grade 5) | Bangladesh, *Elementary Science Class 5*, printed p. 50 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Suriname, Bulgaria, Cuba, Cambodia, Venezuela, Angola, Dominican Republic, Kuwait, Eritrea, Rwanda, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, the-human-body reproduction-puberty-and-staying-safe

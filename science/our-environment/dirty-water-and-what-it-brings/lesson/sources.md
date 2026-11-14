@@ -1,6 +1,6 @@
 # Sources — Dirty water and what it brings
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Dominican Republic, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Bangladesh
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -303,3 +303,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, our-environment dirty-water-and-what-it-brings
 
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 5):** *Elementary Science, Class Five* (student book) / Bangla: *Prathomik Biggan, Pancham Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2024); free distribution under PEDP-4; no ISBN printed. PDF pages: English 115, Bangla 116 (language twins verified by byte size, page count and identical cover art); printed pages 109 + glossary; image-only PDFs — English edition read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary pages and back cover. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Water pollution: causes (farm insecticide, factory waste water, household trash, bathing cattle and washing clothes in ponds), effects (dead aquatic animals, waterborne disease), and prevention (Bangladesh, Grade 5) | Bangladesh, *Elementary Science Class 5*, printed p. 21 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Costa Rica, Pakistan (Punjab, Eritrea, Rwanda, Indonesia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, our-environment dirty-water-and-what-it-brings

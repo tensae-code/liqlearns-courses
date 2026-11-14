@@ -1,6 +1,6 @@
 # Sources — Seasons and climate zones of our country
 
-countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy, Mongolia, Costa Rica, Moldova, Cuba, Samoa, Cambodia, Dominican Republic, North Macedonia, Indonesia
+countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy, Mongolia, Costa Rica, Moldova, Cuba, Samoa, Cambodia, Dominican Republic, North Macedonia, Indonesia, Bangladesh
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -188,3 +188,16 @@ Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendik
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, weather-and-seasons seasons-and-climate-zones-of-our-country
 
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 4):** *Elementary Science, Class Four* (student book) — Bangladesh, National Curriculum and Textbook Board (NCTB), 69-70 Motijheel Commercial Area, Dhaka-1000; first edition August 2012, revised edition August 2015, reprint 2023 (for academic year 2025); free distribution under PEDP-4; no ISBN printed. PDF pages: 117 (printed pages 111 + glossary); image-only PDF — read page by page from 150 DPI renders. Verdict: COMPLETE — read to the final glossary page (printed p. 111) marked "End". The Bangla twin record (bd02) is UNREAD and record-only as filed: its repo file could not be opened (damaged downloads), and its content is fully covered by this English twin. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The six seasons of Bangladesh named by Bangla months (Baishakh-Joystha summer, Ashar-Shrabon rainy season, and so on) against the four seasons elsewhere — the country's own way (Bangladesh, Grade 4) | Bangladesh, *Elementary Science Class 4*, printed p. 77 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Mexico, Italy, Mongolia, Costa Rica, Moldova, Cuba, Samoa, Cambodia, Dominican Republic, North Macedonia, Indonesia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, weather-and-seasons seasons-and-climate-zones-of-our-country

@@ -1,6 +1,6 @@
 # Sources — Animals — birds
 
-countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Bulgaria, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, North Macedonia
+countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Bulgaria, Cabo Verde (teacher-guide evidence only), Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, North Macedonia, Bangladesh
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -209,3 +209,17 @@ Searchable tags: sri lanka, sri lanka science, animals birds
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, animals animals-birds
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 8 Exercise Book):** *Exercise Science Book, Class Eight (Experimental Version)* (student book) / Bangla twin: *Biggan Onushiloni Boi, Ashtam Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Eight from academic year 2024; published December 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 176, Bangla 176; the introduction is paginated i–v, then printed pages run 1–168 (PDF page = printed page + 12 in the English edition, as filed so the citations can be checked). Verdict: COMPLETE — English edition read in full via text layer to the final unit (Food Adulteration!); Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| In Search of Migratory Birds: animals as world explorers, the birds that travel long distances between homes (Bangladesh, Grade 8) | Bangladesh, *Science Exercise Book Class 8*, printed p. 1 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Sweden, Bulgaria, Sudan, Mauritania, Angola, Bhutan, Dominican Republic, Kuwait, China, Eritrea, Sri Lanka, North Macedonia, Bangladesh).**
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, animals animals-birds

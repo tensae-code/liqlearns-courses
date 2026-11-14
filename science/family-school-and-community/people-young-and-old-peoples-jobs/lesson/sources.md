@@ -1,6 +1,6 @@
 # Sources — Our Community — People Young and Old; People's Jobs
 
-countries: Ethiopia, Serbia, Angola
+countries: Ethiopia, Serbia, Angola, Bangladesh
 
 **Book 3:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል — Environmental Science Student Textbook, Grade 2* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md
 
@@ -44,3 +44,19 @@ Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova sk
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, estudo do meio 2, grade 2
+
+## Bangladesh growth (2026-11-14, General Science expansion)
+
+**Book (Bangladesh — Class 6 Exercise Book):** *Science Exercise Book, Class Six (Experimental Version)* (student book) / Bangla twin: *Biggan Onushiloni Boi, Shashtho Shreni* — Bangladesh, National Curriculum and Textbook Board (NCTB); developed under the National Curriculum 2022 for Class Six from academic year 2023; first published December 2022, reprint 2023; free distribution by the Government of Bangladesh; no ISBN printed. PDF pages: English 160, Bangla 160; printed pages 152 (PDF page = printed page + 8). This is the activity companion to the Investigative Study book: the same year's work as hands-on sessions. Verdict: COMPLETE — English edition read in full via text layer to the final unit; Bangla twin verified by page count and identical cover/imprint. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bangladesh-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Jack of Many Trades: visiting workers of many professions, watching how skilfully they work and the tools they use — placement filed under the slug work-and-heritage/people-young-and-old-peoples-jobs; stocked into this lesson as the closest existing lesson covering that thing, and the original slug is recorded here (Bangladesh, Grade 6) | Bangladesh, *Science Exercise Book Class 6*, printed p. 98 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Serbia, Angola, Bangladesh).**
+
+Placement choice, on the record: the Bangladesh placement(s) above filed under the slug work-and-heritage/people-young-and-old-peoples-jobs — bangladesh-placements.md — do not exist at that path in the live repo; they are stocked into this lesson as the closest existing lesson covering that thing, and the original slug is recorded in each row above.
+
+Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: bangladesh, bangladesh science, nctb, family-school-and-community people-young-and-old-peoples-jobs
