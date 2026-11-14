@@ -723,3 +723,7 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Hardware** (ICT expansion, from Montenegro): Boolean Algebra and Logic Operations · Boolean Laws and De Morgan's Theorems · Minimising Switching Functions — Karnaugh Maps · Logic Gates — NOT, AND, OR, NAND, NOR, XOR · Flip-Flops — RS, JK, D and T · Encoders and Decoders · Multiplexers and Demultiplexers · Registers — Stationary and Shift · Counters — Series, Parallel and Ring · Adders and Subtractors — Arithmetic Circuits · DA and AD Converters
 
 **Multimedia** (ICT expansion, from Montenegro): Digitising an Analogue Signal
+
+**First Steps** (ICT expansion, from Djibouti): Typing on the AZERTY Keyboard
+
+**New Technologies** (ICT expansion, from Djibouti): First Steps in Educational Robotics
