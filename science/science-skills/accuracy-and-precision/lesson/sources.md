@@ -1,6 +1,6 @@
 # Sources — Measurement — accuracy and precision
 
-countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Seychelles
+countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Seychelles, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -58,3 +58,17 @@ Searchable tags: accuracy, precision, true value, boiling water 100 degrees, sys
 Uganda's own way — one prototype General Science book for the whole of Senior One under the Lower Secondary Curriculum: it opens with what science is and how to work safely, measures the world, then moves through matter and temperature to the diversity of living things, and closes with elements, air, burning and rusting — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 5):** *Ciencias Naturales 5to grado — La Ciencia en Tus Manos (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA CIENCIA EN TUS MANOS, 5to grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-312-8. PDF 67 pages (2-up spreads), 6,354,543 bytes; printed pp. 7–129. Verdict: COMPLETE (all eight parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-05/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| precision as a named goal of measurement (Venezuela, Grade 5) | Venezuela, *Ciencia G5*, printed pp. 109–118 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, science-skills accuracy-and-precision

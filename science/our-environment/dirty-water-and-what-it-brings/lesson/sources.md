@@ -1,6 +1,6 @@
 # Sources — Dirty water and what it brings
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Costa Rica, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -134,3 +134,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 6 countries (Ethiopia, Costa Rica, Pakistan (Punjab, Cuba, Cambodia, Afghanistan).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, our-environment dirty-water-and-what-it-brings
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 8):** *Ciencias Naturales 2do año (Grade 8) — El Porvenir de la Vida (Colección Bicentenario)* (student) — Venezuela. Title as printed: EL PORVENIR DE LA VIDA, 2do año, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-318-0. PDF 131 pages (2-up spreads), 13,674,557 bytes; printed pp. 6–255. Verdict: COMPLETE (11 programmatic readings + complementary readings + Fuentes present). Twin records: TSV release record (mid-size-books) and books.json record grade-08/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| dirty water and disease inside the water-and-health reading (Venezuela, Grade 8) | Venezuela, *Porvenir G8*, printed pp. 171–181 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Costa Rica, Pakistan (Punjab, Cuba, Cambodia, Afghanistan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment dirty-water-and-what-it-brings

@@ -1,6 +1,6 @@
 # Sources — Living things — what makes something alive
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Cuba, Samoa (curriculum evidence only), Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -316,3 +316,17 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 12 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Egypt, Ecuador, Afghanistan, Sudan).**
 Searchable tags: sudan, sudan grade 3, animals/living-things-what-makes-something-alive
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 1):** *Ciencias Naturales 1er grado — Ciencias para Explorar, Crear e Inventar (Colección Bicentenario)* (student) — Venezuela. Title as printed: Ciencias para Explorar, Crear e Inventar, 1er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN 978-980-218-296-1. PDF 59 pages (2-up spreads), 5,392,059 bytes; printed pp. 9–112. Verdict: COMPLETE (all six parts + Lecturas + Fuentes consultadas present). Twin records: TSV blob record grade-01/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| diversity of living beings grouped as animals, plants, fungi and microscopic organisms only visible with instruments (Venezuela, Grade 1) | Venezuela, *Explorar G1*, printed p. 11 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece, Moldova, Pakistan (Punjab), Cuba, Egypt, Ecuador, Afghanistan, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, animals living-things-what-makes-something-alive

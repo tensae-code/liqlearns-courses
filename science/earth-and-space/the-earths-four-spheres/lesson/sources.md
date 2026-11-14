@@ -1,6 +1,6 @@
 # Sources — The Earth — four spheres, one system
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Bahamas (curriculum evidence only), United States, Cuba, Egypt, Ecuador, Sudan
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Bahamas (curriculum evidence only), United States, Cuba, Egypt, Ecuador, Sudan, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -153,3 +153,23 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 
 **Acceptance count: taught in 9 countries (Ethiopia, Nauru, Tuvalu, Niue, United States, Cuba, Egypt, Ecuador, Sudan).**
 Searchable tags: sudan, sudan grade 9, earth-and-space/the-earths-four-spheres
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 3):** *Ciencias Naturales 3er grado — La Tierra: Nuestro Hogar (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA TIERRA: NUESTRO HOGAR, 3er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014 (same Bicentenario co-edition as the series). ISBN 978-980-218-301-2. PDF 75 pages (2-up spreads), 6,743,613 bytes; printed pp. 9–143. Verdict: COMPLETE (all seven parts + ¡Vamos a leer! + Fuentes consultadas present). Twin records: TSV blob record grade-03/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 5):** *Ciencias Naturales 5to grado — La Ciencia en Tus Manos (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA CIENCIA EN TUS MANOS, 5to grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-312-8. PDF 67 pages (2-up spreads), 6,354,543 bytes; printed pp. 7–129. Verdict: COMPLETE (all eight parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-05/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 8):** *Ciencias Naturales 2do año (Grade 8) — El Porvenir de la Vida (Colección Bicentenario)* (student) — Venezuela. Title as printed: EL PORVENIR DE LA VIDA, 2do año, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-318-0. PDF 131 pages (2-up spreads), 13,674,557 bytes; printed pp. 6–255. Verdict: COMPLETE (11 programmatic readings + complementary readings + Fuentes present). Twin records: TSV release record (mid-size-books) and books.json record grade-08/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Earth is our home: atmosphere and the conditions that make Earth habitable (Venezuela, Grade 3) | Venezuela, *Tierra G3*, printed pp. 107–118 |
+| the great systems of the Earth: interacting Earth systems (Venezuela, Grade 5) | Venezuela, *Ciencia G5*, printed pp. 39–50 |
+| ecology II: the biosphere, the global ecosystem (Venezuela, Grade 8) | Venezuela, *Porvenir G8*, printed pp. 116–137 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Nauru, Tuvalu, Niue, United States, Cuba, Egypt, Ecuador, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, earth-and-space the-earths-four-spheres

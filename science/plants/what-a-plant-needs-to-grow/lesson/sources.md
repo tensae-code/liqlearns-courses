@@ -1,6 +1,6 @@
 # Sources — What a plant needs to grow
 
-countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan
+countries: Ethiopia, Albania (teacher-guide evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Armenia, Samoa, Egypt, Cambodia, Seychelles, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -277,3 +277,17 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 10 countries (Ethiopia, Guyana, Mongolia, Moldova, United States, Armenia, Samoa, Egypt, Cambodia, Sudan).**
 Searchable tags: sudan, sudan grade 6, plants/what-a-plant-needs-to-grow
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 1):** *Ciencias Naturales 1er grado — Ciencias para Explorar, Crear e Inventar (Colección Bicentenario)* (student) — Venezuela. Title as printed: Ciencias para Explorar, Crear e Inventar, 1er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN 978-980-218-296-1. PDF 59 pages (2-up spreads), 5,392,059 bytes; printed pp. 9–112. Verdict: COMPLETE (all six parts + Lecturas + Fuentes consultadas present). Twin records: TSV blob record grade-01/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| building a bean-seed germinator (cotton, water, light by a window), daily observation table over 5 days, then planting out (Venezuela, Grade 1) | Venezuela, *Explorar G1*, printed pp. 21–22 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Guyana, Mongolia, Moldova, United States, Armenia, Samoa, Egypt, Cambodia, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, plants what-a-plant-needs-to-grow

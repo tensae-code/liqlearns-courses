@@ -1,6 +1,6 @@
 # Sources — Soil fertility, erosion, and why soil matters
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles, Venezuela
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -199,3 +199,17 @@ Searchable tags: gabon, super efficace, gabon grade 4, soil fertility erosion an
 **Acceptance count: taught in 10 countries (Ethiopia, Mexico, Suriname, Nauru, Tuvalu, Niue, Serbia, Uganda, Bulgaria, Cuba).**
 
 Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, soil fertility erosion and why soil matters
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 7):** *Ciencias Naturales 1er año (Grade 7) — Alimentando con Ciencias (Colección Bicentenario)* (student) — Venezuela. Title as printed: ALIMENTANDO CON CIENCIAS, 1er año, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 3rd edition April 2014, Bicentenario co-edition. ISBN 978-980-218-317-3. PDF 131 pages (2-up spreads), 34,603,008 bytes; printed pp. 6–252. Verdict: COMPLETE (12 programmatic readings + complementary readings present, closing with the Vandana Shiva text). Twin records: TSV release record (mid-size-books) and books.json record grade-07/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. Structure note: an integrated book organised around the agro-food system; readings 1–2 (plant/animal nutrition) and 9–10 (movement/interactions) are single-discipline in content and were line-noted per the scope rule, not item-placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| food security also depends on the soil: soil care for food production (Venezuela, Grade 7) | Venezuela, *Alimentando G7*, printed pp. 114–133 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Mexico, Suriname, Nauru, Tuvalu, Niue, Serbia, Uganda, Bulgaria, Cuba, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, soil-and-water soil-fertility-erosion-and-why-soil-matters

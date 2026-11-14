@@ -1,6 +1,6 @@
 # Sources — Water — why it is precious and how to save it
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Seychelles, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -203,3 +203,18 @@ Searchable tags: egypt, soil-and-water water-why-it-is-precious-and-how-to-save-
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 9, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, water why it is precious and how to save it
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 1):** *Ciencias Naturales 1er grado — Ciencias para Explorar, Crear e Inventar (Colección Bicentenario)* (student) — Venezuela. Title as printed: Ciencias para Explorar, Crear e Inventar, 1er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN 978-980-218-296-1. PDF 59 pages (2-up spreads), 5,392,059 bytes; printed pp. 9–112. Verdict: COMPLETE (all six parts + Lecturas + Fuentes consultadas present). Twin records: TSV blob record grade-01/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| domestic, agricultural and industrial uses of water distinguished; responsible use (Venezuela, Grade 1) | Venezuela, *Explorar G1*, printed pp. 44–46 |
+| saving water: closing taps, using only needed water, telling an adult about waste (Venezuela, Grade 1) | Venezuela, *Explorar G1*, printed p. 57 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, Costa Rica, India, Moldova, Cuba, Egypt, Cambodia, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, soil-and-water water-why-it-is-precious-and-how-to-save-it

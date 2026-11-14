@@ -1,6 +1,6 @@
 # Sources — Food — the six nutrients
 
-countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Cook Islands, Suriname, Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Uganda, Bulgaria, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela
 
 **Book 1:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -185,3 +185,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 8 countries (Ethiopia, Cook Islands, Suriname, India, Uganda, Bulgaria, Samoa, Ecuador).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, keeping-healthy food-the-six-nutrients
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 3):** *Ciencias Naturales 3er grado — La Tierra: Nuestro Hogar (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA TIERRA: NUESTRO HOGAR, 3er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014 (same Bicentenario co-edition as the series). ISBN 978-980-218-301-2. PDF 75 pages (2-up spreads), 6,743,613 bytes; printed pp. 9–143. Verdict: COMPLETE (all seven parts + ¡Vamos a leer! + Fuentes consultadas present). Twin records: TSV blob record grade-03/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| nutrition and life: nutrients in food (proteins, fats, carbohydrates, vitamins) and what each does (Venezuela, Grade 3) | Venezuela, *Tierra G3*, printed pp. 25–32 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Cook Islands, Suriname, India, Uganda, Bulgaria, Samoa, Ecuador, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, keeping-healthy food-the-six-nutrients

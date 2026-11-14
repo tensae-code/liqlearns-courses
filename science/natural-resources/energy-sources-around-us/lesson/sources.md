@@ -1,6 +1,6 @@
 # Sources — Energy sources around us
 
-countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador
+countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -132,3 +132,20 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 6 countries (Ethiopia, Suriname, Costa Rica, Greece, Samoa, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, energy-sources-around-us
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 1):** *Ciencias Naturales 1er grado — Ciencias para Explorar, Crear e Inventar (Colección Bicentenario)* (student) — Venezuela. Title as printed: Ciencias para Explorar, Crear e Inventar, 1er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN 978-980-218-296-1. PDF 59 pages (2-up spreads), 5,392,059 bytes; printed pp. 9–112. Verdict: COMPLETE (all six parts + Lecturas + Fuentes consultadas present). Twin records: TSV blob record grade-01/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 2):** *Ciencias Naturales 2do grado — Comunidad con Ciencia (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): COMUNIDAD CON CIENCIA, 2do grado, Ciencias Naturales, Colección Bicentenario. Record title gives "Comunidad Con Conciencia" — cover wording differs; filed under the printed cover title. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 book — publisher misprint as printed); Depósito Legal lf51620113722473. PDF 83 pages (2-up spreads), 6,723,623 bytes; printed pp. 9–159. Verdict: COMPLETE (all eight parts + Lecturas complementarias + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-02/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the water mill as energy from moving water; vehicles need fuel (Venezuela, Grade 1) | Venezuela, *Explorar G1*, printed pp. 81–84 |
+| solar energy: sunlight used by living beings; solar panels producing electricity, being installed in Venezuela (Venezuela, Grade 2) | Venezuela, *Comunidad G2*, printed pp. 120–121 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Suriname, Costa Rica, Greece, Samoa, Ecuador, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, natural-resources energy-sources-around-us

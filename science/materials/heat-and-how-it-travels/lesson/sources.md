@@ -1,6 +1,6 @@
 # Sources — Heat and how it travels
 
-countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan
+countries: Ethiopia, Australia, India, Gabon (teacher-guide evidence only), United States, Cuba, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -146,3 +146,17 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 
 **Acceptance count: taught in 9 countries (Ethiopia, Australia, India, United States, Cuba, Egypt, Cambodia, Ecuador, Sudan).**
 Searchable tags: sudan, sudan grade 4, grade 7, materials/heat-and-how-it-travels
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 5):** *Ciencias Naturales 5to grado — La Ciencia en Tus Manos (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA CIENCIA EN TUS MANOS, 5to grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-312-8. PDF 67 pages (2-up spreads), 6,354,543 bytes; printed pp. 7–129. Verdict: COMPLETE (all eight parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-05/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| shaking the small world: heat and temperature, thermometers (Venezuela, Grade 5) [filed as heat/heat-and-how-it-travels; stocked into this lesson, where the slug lives in the live repo] | Venezuela, *Ciencia G5*, printed pp. 81–90 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Australia, India, United States, Cuba, Egypt, Cambodia, Ecuador, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, materials heat-and-how-it-travels

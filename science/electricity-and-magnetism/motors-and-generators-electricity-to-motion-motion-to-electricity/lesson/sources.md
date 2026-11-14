@@ -1,6 +1,6 @@
 # Sources — Motors and generators — electricity to motion, motion to electricity
 
-countries: Ethiopia, Argentina, Afghanistan, Bhutan, Moldova, China, Mauritania, Kazakhstan
+countries: Ethiopia, Argentina, Afghanistan, Bhutan, Moldova, China, Mauritania, Kazakhstan, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -46,3 +46,17 @@ countries: Ethiopia, Argentina, Afghanistan, Bhutan, Moldova, China, Mauritania,
 Assessment warning carried exactly as the placements direct: the student book's Unit 7 review questions (printed pp. 232–233) are a copy-paste of Unit 6's questions — the size-ordering question, the ‘biggest object’ question and the Earth–Sun movement item reappear there as Unit 7 items — so NOTHING from that review is carried into this lesson's questions or into any Unit 7 lesson's assessment; every question in this build is written from the Unit 7 sections themselves. Two summary claims no section teaches (electron-current direction; force on a current-carrying wire in an external field, printed pp. 228–230) are likewise NOT taught as Unit 7 content anywhere in this build.
 
 Searchable tags: electric motor, generator, turbine, AC, DC, alternating current, direct current, Ethiopia Grade 8 General Science Unit 7
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 6):** *Ciencias Naturales 6to grado — Con Ciencia para el Porvenir (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): CON CIENCIA PARA EL PORVENIR, 6to grado, Ciencias Naturales, Colección Bicentenario (record title gives "Conciencia Para El Porvenir"). Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 and Grade 2 books — series misprint as printed). PDF 75 pages (2-up spreads), 7,004,039 bytes; printed pp. 9–143. Verdict: COMPLETE (all nine parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-06/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| generators and motors as electromagnetism applied in society (Venezuela, Grade 6) | Venezuela, *Porvenir G6*, printed pp. 97–104 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Argentina, Afghanistan, Bhutan, Moldova, China, Mauritania, Kazakhstan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, electricity-and-magnetism motors-and-generators-electricity-to-motion-motion-to-electricity

@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only)
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only), Samoa, Cambodia (guide evidence only), Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -283,3 +283,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 13 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia, Samoa).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, science-skills skills-of-practical-study-observe-predict-hypothesise-record-conclude
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 4):** *Ciencias Naturales 4to grado — El Pequeño Gran Mundo de las Ciencias Naturales (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): EL PEQUEÑO GRAN MUNDO DE LAS CIENCIAS NATURALES, 4to grado, Ciencias Naturales, Colección Bicentenario (record shortens it to "El Pequeño Gran Mundo"). Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-311-1. PDF 67 pages (2-up spreads), 7,053,718 bytes; printed pp. 9–127. Verdict: COMPLETE (all six parts + Fuentes consultadas present). Twin records: TSV blob record grade-04/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| precise observation and recording of the environment as a science skill (Venezuela, Grade 4) | Venezuela, *Pequeño G4*, printed pp. 105–116 |
+
+**Acceptance count: taught in 14 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia, Samoa, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, science-skills skills-of-practical-study-observe-predict-hypothesise-record-conclude

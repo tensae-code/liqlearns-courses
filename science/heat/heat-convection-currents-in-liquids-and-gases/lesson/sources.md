@@ -1,6 +1,6 @@
 # Sources — Heat — convection currents in liquids and gases
 
-countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece, Armenia, Serbia, Cuba, Samoa, Egypt, Seychelles
+countries: Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece, Armenia, Serbia, Cuba, Samoa, Egypt, Seychelles, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -125,3 +125,17 @@ Searchable tags: samoa, samoa mesc, heat heat convection currents in liquids and
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, heat heat-convection-currents-in-liquids-and-gases
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 1):** *Ciencias Naturales 1er grado — Ciencias para Explorar, Crear e Inventar (Colección Bicentenario)* (student) — Venezuela. Title as printed: Ciencias para Explorar, Crear e Inventar, 1er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN 978-980-218-296-1. PDF 59 pages (2-up spreads), 5,392,059 bytes; printed pp. 9–112. Verdict: COMPLETE (all six parts + Lecturas + Fuentes consultadas present). Twin records: TSV blob record grade-01/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| making steam: heating water in a lidded pot, missing water went as vapour; hot-water burn safety with an adult (Venezuela, Grade 1) | Venezuela, *Explorar G1*, printed p. 33 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Fiji, Uganda, Kenya, Afghanistan, Belarus, Iran, Laos, South Sudan, Mauritania, Greece, Armenia, Serbia, Cuba, Samoa, Egypt, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, heat heat-convection-currents-in-liquids-and-gases

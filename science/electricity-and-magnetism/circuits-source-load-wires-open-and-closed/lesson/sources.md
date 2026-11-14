@@ -1,6 +1,6 @@
 # Sources — Circuits — source, load, wires, and open vs closed
 
-countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Egypt, Cambodia, Afghanistan, Sudan
+countries: Ethiopia, Samoa, Djibouti (teacher-guide evidence only), Haiti (programme evidence only), Morocco (teacher-guide evidence only), Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Vanuatu (teacher-guide evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, India, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Egypt, Cambodia, Afghanistan, Sudan, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -302,3 +302,20 @@ Searchable tags: afghanistan, afghanistan science health and environment, dari, 
 
 **Acceptance count: taught in 18 countries (Ethiopia, Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Pakistan (Punjab, Samoa, Egypt, Cambodia, Afghanistan, Sudan).**
 Searchable tags: sudan, sudan grade 3, grade 5, electricity-and-magnetism/circuits-source-load-wires-open-and-closed
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 2):** *Ciencias Naturales 2do grado — Comunidad con Ciencia (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): COMUNIDAD CON CIENCIA, 2do grado, Ciencias Naturales, Colección Bicentenario. Record title gives "Comunidad Con Conciencia" — cover wording differs; filed under the printed cover title. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 book — publisher misprint as printed); Depósito Legal lf51620113722473. PDF 83 pages (2-up spreads), 6,723,623 bytes; printed pp. 9–159. Verdict: COMPLETE (all eight parts + Lecturas complementarias + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-02/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 9):** *Ciencias Naturales 3er año (Grade 9) — Ciencias para Vivir en Comunidad, Tomo II (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): CIENCIAS PARA VIIVIR EN COMUNIDAD [sic], Tomo II, Ciencias Naturales, 3er año, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 3rd edition April 2014, Bicentenario co-edition. ISBN as printed: 978-980-218-317-3 (same number printed in the 1er año book — series misprint as printed); Depósito Legal If5162012370749 (also the 1er año book's deposit number as printed). PDF 131 pages (2-up spreads), 94,320,398 bytes — matches the books.json size_bytes exactly; printed pp. 6–256. Verdict: COMPLETE for Tomo II (readings 14–25 + closing sections present). Twin records: TSV release record (mid-size-books-8, grade-09…tomo-2.pdf) and books.json record grade-09/gov/venezuela/natural-sciences/student/tomo-2.pdf (in_pushed=false) are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| home appliances convert electrical energy into useful forms (light bulb's function when there is no sunlight) (Venezuela, Grade 2) | Venezuela, *Comunidad G2*, printed pp. 113–116 |
+| reading 23: electric current in the community — electricity read through its community use (the book's integrated way) (Venezuela, Grade 9) | Venezuela, *Comunidad II G9*, printed pp. 186–205 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Kenya, Kuwait, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Pakistan (Punjab, Samoa, Egypt, Cambodia, Afghanistan, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, electricity-and-magnetism circuits-source-load-wires-open-and-closed

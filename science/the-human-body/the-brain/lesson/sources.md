@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde
+countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -179,3 +179,17 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 11 countries (Ethiopia, Australia, Guyana, India, Moldova, Armenia, Cuba, Samoa, Egypt, Afghanistan, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, the-human-body the-brain
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 6):** *Ciencias Naturales 6to grado — Con Ciencia para el Porvenir (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): CON CIENCIA PARA EL PORVENIR, 6to grado, Ciencias Naturales, Colección Bicentenario (record title gives "Conciencia Para El Porvenir"). Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 and Grade 2 books — series misprint as printed). PDF 75 pages (2-up spreads), 7,004,039 bytes; printed pp. 9–143. Verdict: COMPLETE (all nine parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-06/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the human nervous system: brain and nerves coordinating the body (Venezuela, Grade 6) | Venezuela, *Porvenir G6*, printed pp. 37–46 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Australia, Guyana, India, Moldova, Armenia, Cuba, Samoa, Egypt, Afghanistan, Cabo Verde, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, the-human-body the-brain

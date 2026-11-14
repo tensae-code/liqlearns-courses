@@ -1,6 +1,6 @@
 # Sources — Dispersion — splitting and remixing white light
 
-countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Finland, Barbados, Haiti (programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab), Armenia, Kazakhstan, Australia, Moldova, Cabo Verde (teacher-guide evidence only), Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -174,3 +174,17 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count unchanged: taught in 20 countries (Ethiopia, Finland, Barbados, Syria, Sudan, Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab).** Sudan is already counted in this lesson through its earlier books stocked by the earlier waves; the Sudan rows above add these books' provenance, counted once.
 Searchable tags: sudan, sudan grade 6, light/dispersion-splitting-and-remixing-white-light
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 2):** *Ciencias Naturales 2do grado — Comunidad con Ciencia (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): COMUNIDAD CON CIENCIA, 2do grado, Ciencias Naturales, Colección Bicentenario. Record title gives "Comunidad Con Conciencia" — cover wording differs; filed under the printed cover title. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 book — publisher misprint as printed); Depósito Legal lf51620113722473. PDF 83 pages (2-up spreads), 6,723,623 bytes; printed pp. 9–159. Verdict: COMPLETE (all eight parts + Lecturas complementarias + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-02/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| filtering light: experimenting with light and colour filters (Venezuela, Grade 2) | Venezuela, *Comunidad G2*, printed pp. 142–144 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Finland, Barbados, Syria, Sudan, Bulgaria, Afghanistan, Bhutan, Uzbekistan, India, North Macedonia, South Sudan, Cuba, Mauritania, Greece, Pakistan (Punjab, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, light dispersion-splitting-and-remixing-white-light

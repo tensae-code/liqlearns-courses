@@ -1,6 +1,6 @@
 # Sources — Global warming — the greenhouse effect
 
-countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador, Cabo Verde (teacher-guide evidence only)
+countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela (curriculum/proposal evidence only)
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -294,3 +294,17 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 15 countries (Ethiopia, Uganda, North Macedonia, Italy, Nauru, Tuvalu, Niue, Costa Rica, Moldova, United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, our-environment global-warming-the-greenhouse-effect
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Propuestas 2025, teacher / curriculum proposal, all levels):** *Ciencias Naturales — Propuestas de contenidos para la enseñanza y aprendizajes esperados* (teacher / curriculum proposal) — Venezuela, Septiembre 2025. Title as printed: Ciencias Naturales — Propuestas de contenidos para la enseñanza y aprendizajes esperados en el Área de las Ciencias Naturales, Biología, Química, Física y Ciencias de la Tierra, para los Niveles de Educación Inicial, Primaria, Media y sus Modalidades (Documento para la consulta), Septiembre 2025. No publisher/ISBN printed. PDF 56 pages, 2,267,224 bytes. Verdict: COMPLETE. Twin records: the same file is filed under nursery, kg1, kg2 and grade-01…grade-12 folders (15 records — the 15 grade-folder copies are one identical file, 2,267,224 bytes, sha256 5b137fe9…, 56 PDF pages, verified by hash on nursery + grades 5–12 copies and by size on all copies fetched); cited once here. Note: this is a content/expected-learning list, not a textbook; placements from it are its integrated (Initial + Primary) content lines, as guide evidence — TEACHER/CURRICULUM-PROPOSAL evidence only, outside the acceptance count. Its Media (Grades 7–12) lists are split by discipline and were line-noted, not item-placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Primary: climate change effects, water conservation, environmental problems and their consequences (Venezuela, Initial + Primary) (curriculum/proposal — evidence) | Venezuela, *Propuestas 2025*, printed pp. 21–26 |
+
+**Acceptance count unchanged: taught in 15 countries (Ethiopia, Uganda, North Macedonia, Italy, Nauru, Tuvalu, Niue, Costa Rica, Moldova, United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador).** Venezuela is named as curriculum/proposal evidence only (its *Propuestas 2025* proposal document), not added to this count.
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment global-warming-the-greenhouse-effect

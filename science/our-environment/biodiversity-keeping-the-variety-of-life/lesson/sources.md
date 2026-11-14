@@ -1,6 +1,6 @@
 # Sources — Biodiversity — keeping the variety of life
 
-countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Bulgaria, Moldova, United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Ecuador, Sudan
+countries: Ethiopia, Mexico, Palau (teacher's-edition evidence only), Nauru, Tuvalu, Niue, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Bulgaria, Moldova, United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Ecuador, Sudan, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -277,3 +277,23 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 
 **Acceptance count: taught in 15 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia, Bulgaria, Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Ecuador, Sudan).**
 Searchable tags: sudan, sudan grade 12, grade 8, our-environment/biodiversity-keeping-the-variety-of-life
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 3):** *Ciencias Naturales 3er grado — La Tierra: Nuestro Hogar (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA TIERRA: NUESTRO HOGAR, 3er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014 (same Bicentenario co-edition as the series). ISBN 978-980-218-301-2. PDF 75 pages (2-up spreads), 6,743,613 bytes; printed pp. 9–143. Verdict: COMPLETE (all seven parts + ¡Vamos a leer! + Fuentes consultadas present). Twin records: TSV blob record grade-03/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 6):** *Ciencias Naturales 6to grado — Con Ciencia para el Porvenir (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): CON CIENCIA PARA EL PORVENIR, 6to grado, Ciencias Naturales, Colección Bicentenario (record title gives "Conciencia Para El Porvenir"). Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 and Grade 2 books — series misprint as printed). PDF 75 pages (2-up spreads), 7,004,039 bytes; printed pp. 9–143. Verdict: COMPLETE (all nine parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-06/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 7):** *Ciencias Naturales 1er año (Grade 7) — Alimentando con Ciencias (Colección Bicentenario)* (student) — Venezuela. Title as printed: ALIMENTANDO CON CIENCIAS, 1er año, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 3rd edition April 2014, Bicentenario co-edition. ISBN 978-980-218-317-3. PDF 131 pages (2-up spreads), 34,603,008 bytes; printed pp. 6–252. Verdict: COMPLETE (12 programmatic readings + complementary readings present, closing with the Vandana Shiva text). Twin records: TSV release record (mid-size-books) and books.json record grade-07/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. Structure note: an integrated book organised around the agro-food system; readings 1–2 (plant/animal nutrition) and 9–10 (movement/interactions) are single-discipline in content and were line-noted per the scope rule, not item-placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the diversity of living beings and the environment: biodiversity named and valued in the local environment (Venezuela, Grade 3) | Venezuela, *Tierra G3*, printed pp. 9–16 |
+| the origin and evolution of biodiversity (Venezuela, Grade 6) | Venezuela, *Porvenir G6*, printed pp. 9–16 |
+| biodiversity and our food: biological diversity defined (Convention wording) and why food depends on it (Venezuela, Grade 7) | Venezuela, *Alimentando G7*, printed pp. 68–76 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Mexico, Nauru, Tuvalu, Niue, Micronesia, Bulgaria, Moldova, United States, Pakistan (Punjab), Cuba, Samoa, Ecuador, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment biodiversity-keeping-the-variety-of-life

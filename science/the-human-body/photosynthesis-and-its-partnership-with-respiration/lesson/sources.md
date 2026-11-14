@@ -1,6 +1,6 @@
 # Sources — Cells — photosynthesis and its partnership with respiration
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States, Samoa, Egypt, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), India, Bulgaria, United States, Samoa, Egypt, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -192,3 +192,20 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 9 countries (Ethiopia, Guyana, India, Bulgaria, United States, Samoa, Egypt, Ecuador, Sudan).**
 Searchable tags: sudan, sudan grade 4, the-human-body/photosynthesis-and-its-partnership-with-respiration
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 4):** *Ciencias Naturales 4to grado — El Pequeño Gran Mundo de las Ciencias Naturales (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): EL PEQUEÑO GRAN MUNDO DE LAS CIENCIAS NATURALES, 4to grado, Ciencias Naturales, Colección Bicentenario (record shortens it to "El Pequeño Gran Mundo"). Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-311-1. PDF 67 pages (2-up spreads), 7,053,718 bytes; printed pp. 9–127. Verdict: COMPLETE (all six parts + Fuentes consultadas present). Twin records: TSV blob record grade-04/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 5):** *Ciencias Naturales 5to grado — La Ciencia en Tus Manos (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA CIENCIA EN TUS MANOS, 5to grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-312-8. PDF 67 pages (2-up spreads), 6,354,543 bytes; printed pp. 7–129. Verdict: COMPLETE (all eight parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-05/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| nutrition functions in living beings: photosynthesis in plants (Venezuela, Grade 4) | Venezuela, *Pequeño G4*, printed pp. 27–38 |
+| the cell factory at work: photosynthesis named inside the cell story (Venezuela, Grade 5) | Venezuela, *Ciencia G5*, printed pp. 15–18 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Guyana, India, Bulgaria, United States, Samoa, Egypt, Ecuador, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, the-human-body photosynthesis-and-its-partnership-with-respiration

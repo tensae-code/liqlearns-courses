@@ -1,6 +1,6 @@
 # Sources — Energy in food — calories and joules
 
-countries: Costa Rica, Greece
+countries: Costa Rica, Greece, Venezuela
 
 **Book (Costa Rica — Grade 8):** *Ciencias, Octavo, Código 80008, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED, © 2018. Title as printed: Ciencias, Octavo, Código 80008, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED, © 2018. PDF 132 pages, 1,731,133 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (units through the geosphere, bibliography on printed p. 132). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
 
@@ -35,3 +35,17 @@ Placement choice, on the record: the three Greece placements were filed as "NEW 
 **Acceptance count: taught in 2 countries (Costa Rica, Greece).**
 
 Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 3):** *Ciencias Naturales 3er grado — La Tierra: Nuestro Hogar (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA TIERRA: NUESTRO HOGAR, 3er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014 (same Bicentenario co-edition as the series). ISBN 978-980-218-301-2. PDF 75 pages (2-up spreads), 6,743,613 bytes; printed pp. 9–143. Verdict: COMPLETE (all seven parts + ¡Vamos a leer! + Fuentes consultadas present). Twin records: TSV blob record grade-03/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the energy of foods: calories as the measure of food energy and energy needs by activity (Venezuela, Grade 3) [filed as NEW LESSON NEEDED — energy-in-food-calories; stocked into this existing lesson, which already covers this thing] | Venezuela, *Tierra G3*, printed pp. 37–44 |
+
+**Acceptance count: taught in 3 countries (Costa Rica, Greece, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, motion-force-and-energy energy-in-food-calories-and-joules

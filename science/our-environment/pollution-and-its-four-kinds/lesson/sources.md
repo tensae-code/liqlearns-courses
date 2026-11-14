@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -197,3 +197,20 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 8 countries (Ethiopia, Mexico, India, Pakistan (Punjab), Samoa, Cambodia, Ecuador, Sudan).**
 Searchable tags: sudan, sudan grade 12, grade 7, our-environment/pollution-and-its-four-kinds
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Propuestas 2025, teacher / curriculum proposal, all levels):** *Ciencias Naturales — Propuestas de contenidos para la enseñanza y aprendizajes esperados* (teacher / curriculum proposal) — Venezuela, Septiembre 2025. Title as printed: Ciencias Naturales — Propuestas de contenidos para la enseñanza y aprendizajes esperados en el Área de las Ciencias Naturales, Biología, Química, Física y Ciencias de la Tierra, para los Niveles de Educación Inicial, Primaria, Media y sus Modalidades (Documento para la consulta), Septiembre 2025. No publisher/ISBN printed. PDF 56 pages, 2,267,224 bytes. Verdict: COMPLETE. Twin records: the same file is filed under nursery, kg1, kg2 and grade-01…grade-12 folders (15 records — the 15 grade-folder copies are one identical file, 2,267,224 bytes, sha256 5b137fe9…, 56 PDF pages, verified by hash on nursery + grades 5–12 copies and by size on all copies fetched); cited once here. Note: this is a content/expected-learning list, not a textbook; placements from it are its integrated (Initial + Primary) content lines, as guide evidence — TEACHER/CURRICULUM-PROPOSAL evidence only, outside the acceptance count. Its Media (Grades 7–12) lists are split by discipline and were line-noted, not item-placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 7):** *Ciencias Naturales 1er año (Grade 7) — Alimentando con Ciencias (Colección Bicentenario)* (student) — Venezuela. Title as printed: ALIMENTANDO CON CIENCIAS, 1er año, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 3rd edition April 2014, Bicentenario co-edition. ISBN 978-980-218-317-3. PDF 131 pages (2-up spreads), 34,603,008 bytes; printed pp. 6–252. Verdict: COMPLETE (12 programmatic readings + complementary readings present, closing with the Vandana Shiva text). Twin records: TSV release record (mid-size-books) and books.json record grade-07/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. Structure note: an integrated book organised around the agro-food system; readings 1–2 (plant/animal nutrition) and 9–10 (movement/interactions) are single-discipline in content and were line-noted per the scope rule, not item-placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Preescolar: recognising some agents that pollute the environment; caring for the environment at home, school and community (Venezuela, Initial + Primary) (curriculum/proposal — evidence) | Venezuela, *Propuestas 2025*, printed p. 11 |
+| the environment, its importance and its main problems (Venezuela, Grade 7) | Venezuela, *Alimentando G7*, printed pp. 82–95 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Mexico, India, Pakistan (Punjab), Samoa, Cambodia, Ecuador, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment pollution-and-its-four-kinds

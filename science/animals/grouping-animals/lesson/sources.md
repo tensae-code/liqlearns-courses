@@ -1,6 +1,6 @@
 # Sources — Grouping animals: by young, by movement, by food and by body
 
-countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan
+countries: Ethiopia, Sweden, Nauru, Tuvalu, Niue, Albania (teacher-guide evidence only), Guyana, Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Seychelles, Ecuador, Sudan, Venezuela
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -272,3 +272,20 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 
 **Acceptance count: taught in 12 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador, Sudan).**
 Searchable tags: sudan, sudan grade 3, grade 4, grade 5, animals/grouping-animals
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Propuestas 2025, teacher / curriculum proposal, all levels):** *Ciencias Naturales — Propuestas de contenidos para la enseñanza y aprendizajes esperados* (teacher / curriculum proposal) — Venezuela, Septiembre 2025. Title as printed: Ciencias Naturales — Propuestas de contenidos para la enseñanza y aprendizajes esperados en el Área de las Ciencias Naturales, Biología, Química, Física y Ciencias de la Tierra, para los Niveles de Educación Inicial, Primaria, Media y sus Modalidades (Documento para la consulta), Septiembre 2025. No publisher/ISBN printed. PDF 56 pages, 2,267,224 bytes. Verdict: COMPLETE. Twin records: the same file is filed under nursery, kg1, kg2 and grade-01…grade-12 folders (15 records — the 15 grade-folder copies are one identical file, 2,267,224 bytes, sha256 5b137fe9…, 56 PDF pages, verified by hash on nursery + grades 5–12 copies and by size on all copies fetched); cited once here. Note: this is a content/expected-learning list, not a textbook; placements from it are its integrated (Initial + Primary) content lines, as guide evidence — TEACHER/CURRICULUM-PROPOSAL evidence only, outside the acceptance count. Its Media (Grades 7–12) lists are split by discipline and were line-noted, not item-placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 1):** *Ciencias Naturales 1er grado — Ciencias para Explorar, Crear e Inventar (Colección Bicentenario)* (student) — Venezuela. Title as printed: Ciencias para Explorar, Crear e Inventar, 1er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN 978-980-218-296-1. PDF 59 pages (2-up spreads), 5,392,059 bytes; printed pp. 9–112. Verdict: COMPLETE (all six parts + Lecturas + Fuentes consultadas present). Twin records: TSV blob record grade-01/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Primary G1: classifying local plants (trees, shrubs, herbs) and animals (vertebrates/invertebrates; mammals, birds, reptiles, amphibians, fish); domestic and wild animals (Venezuela, Initial + Primary) (curriculum/proposal — evidence) | Venezuela, *Propuestas 2025*, printed p. 16 |
+| recognising local animals; the turpial as national bird (Venezuela's own way) (Venezuela, Grade 1) | Venezuela, *Explorar G1*, printed p. 15 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Guyana, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, animals grouping-animals

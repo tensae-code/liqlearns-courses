@@ -1,6 +1,6 @@
 # Sources — Reproduction, puberty and staying safe
 
-countries: Ethiopia, Suriname, Bulgaria, Cuba, Cambodia
+countries: Ethiopia, Suriname, Bulgaria, Cuba, Cambodia, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -73,3 +73,17 @@ Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, reprodu
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 6, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, reproduction puberty and staying safe
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 5):** *Ciencias Naturales 5to grado — La Ciencia en Tus Manos (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA CIENCIA EN TUS MANOS, 5to grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-312-8. PDF 67 pages (2-up spreads), 6,354,543 bytes; printed pp. 7–129. Verdict: COMPLETE (all eight parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-05/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| responsible sexuality: puberty, pregnancy and caring for oneself and others (Venezuela, Grade 5) | Venezuela, *Ciencia G5*, printed pp. 29–38 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Suriname, Bulgaria, Cuba, Cambodia, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, the-human-body reproduction-puberty-and-staying-safe

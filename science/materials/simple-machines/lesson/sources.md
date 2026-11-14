@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -197,3 +197,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 7 countries (Ethiopia, Guyana, Mongolia, Pakistan (Punjab), Cambodia, Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, materials simple-machines
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 8):** *Ciencias Naturales 2do año (Grade 8) — El Porvenir de la Vida (Colección Bicentenario)* (student) — Venezuela. Title as printed: EL PORVENIR DE LA VIDA, 2do año, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-318-0. PDF 131 pages (2-up spreads), 13,674,557 bytes; printed pp. 6–255. Verdict: COMPLETE (11 programmatic readings + complementary readings + Fuentes present). Twin records: TSV release record (mid-size-books) and books.json record grade-08/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mechanical models of the human body: levers and joints read as machines (the book's integrated way) (Venezuela, Grade 8) | Venezuela, *Porvenir G8*, printed pp. 198–215 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Guyana, Mongolia, Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, materials simple-machines

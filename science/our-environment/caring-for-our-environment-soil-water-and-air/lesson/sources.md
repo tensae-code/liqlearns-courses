@@ -1,6 +1,6 @@
 # Sources — Caring for our environment: soil, water and air
 
-countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Armenia, Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan
+countries: Ethiopia, Mexico, Australia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, Pakistan (Punjab), Armenia, Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -337,3 +337,20 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 19 countries (Ethiopia, Mexico, Australia, Nauru, Tuvalu, Niue, Serbia, Micronesia, Uganda, Bulgaria, Moldova, Pakistan (Punjab), Cuba, Egypt, Ecuador, Afghanistan, Cabo Verde, Sudan).**
 Searchable tags: sudan, sudan grade 4, our-environment/caring-for-our-environment-soil-water-and-air
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 2):** *Ciencias Naturales 2do grado — Comunidad con Ciencia (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): COMUNIDAD CON CIENCIA, 2do grado, Ciencias Naturales, Colección Bicentenario. Record title gives "Comunidad Con Conciencia" — cover wording differs; filed under the printed cover title. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 book — publisher misprint as printed); Depósito Legal lf51620113722473. PDF 83 pages (2-up spreads), 6,723,623 bytes; printed pp. 9–159. Verdict: COMPLETE (all eight parts + Lecturas complementarias + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-02/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 3):** *Ciencias Naturales 3er grado — La Tierra: Nuestro Hogar (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA TIERRA: NUESTRO HOGAR, 3er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014 (same Bicentenario co-edition as the series). ISBN 978-980-218-301-2. PDF 75 pages (2-up spreads), 6,743,613 bytes; printed pp. 9–143. Verdict: COMPLETE (all seven parts + ¡Vamos a leer! + Fuentes consultadas present). Twin records: TSV blob record grade-03/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| a healthy environment: caring for, maintaining and enjoying it; what we do to the environment affects every component (Venezuela, Grade 2) | Venezuela, *Comunidad G2*, printed pp. 27–36 |
+| caring for our home planet: responsible use of air, water and soil (Venezuela, Grade 3) | Venezuela, *Tierra G3*, printed pp. 119–126 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Mexico, Australia, Nauru, Tuvalu, Niue, Serbia, Micronesia, Uganda, Bulgaria, Moldova, Pakistan (Punjab), Cuba, Egypt, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment caring-for-our-environment-soil-water-and-air

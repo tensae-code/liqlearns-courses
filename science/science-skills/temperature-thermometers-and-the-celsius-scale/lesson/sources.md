@@ -1,6 +1,6 @@
 # Sources — Measuring: temperature, thermometers and the Celsius scale
 
-countries: Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan
+countries: Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Seychelles, Ecuador, Afghanistan, Venezuela
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -136,3 +136,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 9 countries (Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, science-skills temperature-thermometers-and-the-celsius-scale
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 5):** *Ciencias Naturales 5to grado — La Ciencia en Tus Manos (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA CIENCIA EN TUS MANOS, 5to grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-312-8. PDF 67 pages (2-up spreads), 6,354,543 bytes; printed pp. 7–129. Verdict: COMPLETE (all eight parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-05/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| temperature measured with thermometers inside the heat part (Venezuela, Grade 5) | Venezuela, *Ciencia G5*, printed pp. 91–94 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Serbia, Costa Rica, Uganda, Pakistan (Punjab), Cuba, Egypt, Ecuador, Afghanistan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, science-skills temperature-thermometers-and-the-celsius-scale

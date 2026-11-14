@@ -1,6 +1,6 @@
 # Sources — Inside the atom — protons, neutrons, electrons
 
-countries: Ethiopia, Haiti (programme evidence only), Uzbekistan, North Macedonia, Moldova, Pakistan (Punjab), Samoa, Sudan
+countries: Ethiopia, Haiti (programme evidence only), Uzbekistan, North Macedonia, Moldova, Pakistan (Punjab), Samoa, Sudan, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 **Book 2:** *General Science Teacher Guide, Grade 8* (teacher guide — evidence) — Ethiopia, Federal Ministry of Education new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C.; no bureau, publisher or publication year is printed anywhere in the file. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. PDF 141 pp. Printed page = PDF page (1:1). COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
@@ -74,3 +74,17 @@ Searchable tags: samoa, samoa mesc, materials inside the atom protons neutrons e
 
 **Acceptance count: taught in 7 countries (Ethiopia, Uzbekistan, North Macedonia, Moldova, Pakistan (Punjab, Samoa, Sudan).**
 Searchable tags: sudan, sudan grade 7, materials/inside-the-atom-protons-neutrons-electrons
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 4):** *Ciencias Naturales 4to grado — El Pequeño Gran Mundo de las Ciencias Naturales (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): EL PEQUEÑO GRAN MUNDO DE LAS CIENCIAS NATURALES, 4to grado, Ciencias Naturales, Colección Bicentenario (record shortens it to "El Pequeño Gran Mundo"). Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-311-1. PDF 67 pages (2-up spreads), 7,053,718 bytes; printed pp. 9–127. Verdict: COMPLETE (all six parts + Fuentes consultadas present). Twin records: TSV blob record grade-04/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the small world: atoms and molecules, elements and substances (Venezuela, Grade 4) | Venezuela, *Pequeño G4*, printed pp. 71–82 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Uzbekistan, North Macedonia, Moldova, Pakistan (Punjab, Samoa, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, materials inside-the-atom-protons-neutrons-electrons

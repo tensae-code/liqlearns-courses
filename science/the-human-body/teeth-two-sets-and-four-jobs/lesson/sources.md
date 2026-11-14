@@ -1,6 +1,6 @@
 # Sources — Teeth: two sets, four jobs
 
-countries: Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles
+countries: Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Seychelles, Venezuela
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -66,3 +66,17 @@ Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika,
 Pakistan (Punjab)'s own way — the Punjab Single National Curriculum *General Science* series teaches each thing inside its own chapter and unit order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: pakistan, punjab, general science, teeth-two-sets-and-four-jobs
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 2):** *Ciencias Naturales 2do grado — Comunidad con Ciencia (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): COMUNIDAD CON CIENCIA, 2do grado, Ciencias Naturales, Colección Bicentenario. Record title gives "Comunidad Con Conciencia" — cover wording differs; filed under the printed cover title. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 book — publisher misprint as printed); Depósito Legal lf51620113722473. PDF 83 pages (2-up spreads), 6,723,623 bytes; printed pp. 9–159. Verdict: COMPLETE (all eight parts + Lecturas complementarias + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-02/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| brushing technique (lower teeth up, upper teeth down, molars in circles, tongue last) protects teeth from caries and gums (Venezuela, Grade 2) | Venezuela, *Comunidad G2*, printed p. 39 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Uganda, Bulgaria, Pakistan (Punjab), Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, the-human-body teeth-two-sets-and-four-jobs

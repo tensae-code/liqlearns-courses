@@ -1,6 +1,6 @@
 # Sources — Caring for our surroundings, and reusing what we throw away
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela
 
 **Book 2:** *Grade 1 Environmental Science Teacher Guide* (አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ) (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3 complete); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md.
 
@@ -303,3 +303,17 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 10 countries (Nauru, Tuvalu, Niue, Serbia, Guyana, Mongolia, India, Moldova, Sudan).**
 Searchable tags: sudan, sudan grade 7, our-environment/caring-for-our-surroundings-and-reusing
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 10):** *Ciencias Naturales 4to año (Grade 10) — Energía para la Vida, Tomo II (Colección Bicentenario)* (student) — Venezuela. Title as printed: ENERGÍA PARA LA VIDA, Tomo II, Ciencias Naturales, 4to año, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014, Bicentenario co-edition. ISBN as printed: 978-980-218-312-8 (same number printed in the 5to grado book — series misprint as printed); Depósito Legal If5162011370294-5. PDF 147 pages, 73,195,633 bytes — matches the books.json size_bytes and pages exactly; printed pp. 6–282. Verdict: COMPLETE for Tomo II (readings 16–29 + closing section present). Twin records: TSV release record (mid-size-books-8, grade-10…tomo-2.pdf) and books.json record grade-10/gov/venezuela/natural-sciences/student/tomo-2.pdf (in_pushed=false) are the same book; cited once here. Scope verdict: Tomo II is single-discipline throughout (Biology readings 16–19, Chemistry readings 20–24, Physics readings 25–29); per the scope rule its readings were line-noted, not item-placed, with one integrated subtopic placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| 'Reciclemos materiales' subtopic inside reading 23: recycling materials as applied matter study (Venezuela, Grade 10) | Venezuela, *Energía II G10*, printed pp. 158–163 |
+
+**Acceptance count: taught in 11 countries (Nauru, Tuvalu, Niue, Serbia, Guyana, Mongolia, India, Moldova, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment caring-for-our-surroundings-and-reusing

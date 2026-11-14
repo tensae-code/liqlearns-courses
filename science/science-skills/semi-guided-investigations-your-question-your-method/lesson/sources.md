@@ -1,6 +1,6 @@
 # Sources — Semi-guided investigations — your question, your method
 
-countries: Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia, Samoa, Seychelles
+countries: Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia, Samoa, Seychelles, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -86,3 +86,17 @@ Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5
 **Acceptance count: taught in 8 countries (Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia, Samoa).**
 
 Searchable tags: samoa, samoa mesc, science skills semi guided investigations your question your method
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 6):** *Ciencias Naturales 6to grado — Con Ciencia para el Porvenir (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): CON CIENCIA PARA EL PORVENIR, 6to grado, Ciencias Naturales, Colección Bicentenario (record title gives "Conciencia Para El Porvenir"). Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 and Grade 2 books — series misprint as printed). PDF 75 pages (2-up spreads), 7,004,039 bytes; printed pp. 9–143. Verdict: COMPLETE (all nine parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-06/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| investigating and experimenting with science: designing own investigations (Venezuela, Grade 6) | Venezuela, *Porvenir G6*, printed pp. 105–122 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Slovenia, Bhutan, Moldova, Cook Islands, Bulgaria, Armenia, Samoa, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, science-skills semi-guided-investigations-your-question-your-method

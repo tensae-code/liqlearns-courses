@@ -1,6 +1,6 @@
 # Sources — The Sun — its scale, layers, spots and storms
 
-countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde
+countries: Ethiopia, Finland (teacher-training evidence only), Bahamas (curriculum evidence only), Slovenia, Bulgaria, Cuba, Armenia, Gabon (teacher-guide evidence only), Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -147,3 +147,17 @@ Cabo Verde's own way — its Ciências Integradas student manuals mix science wi
 **Acceptance count: taught in 9 countries (Ethiopia, Slovenia, Bulgaria, Cuba, Armenia, Cambodia, Ecuador, Afghanistan, Cabo Verde).**
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, earth-and-space the-sun-scale-layers-spots-and-storms
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 1):** *Ciencias Naturales 1er grado — Ciencias para Explorar, Crear e Inventar (Colección Bicentenario)* (student) — Venezuela. Title as printed: Ciencias para Explorar, Crear e Inventar, 1er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN 978-980-218-296-1. PDF 59 pages (2-up spreads), 5,392,059 bytes; printed pp. 9–112. Verdict: COMPLETE (all six parts + Lecturas + Fuentes consultadas present). Twin records: TSV blob record grade-01/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Sun: what happens during the day, midday, dusk and night (Venezuela, Grade 1) | Venezuela, *Explorar G1*, printed pp. 91–94 |
+
+**Acceptance count: taught in 10 countries (Ethiopia, Slovenia, Bulgaria, Cuba, Armenia, Cambodia, Ecuador, Afghanistan, Cabo Verde, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, earth-and-space the-sun-scale-layers-spots-and-storms

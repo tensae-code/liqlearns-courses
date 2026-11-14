@@ -1,6 +1,6 @@
 # Sources — Motions of the Earth, Moon and Sun
 
-countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador
+countries: Mongolia, Haiti, Albania (teacher-guide evidence only), Costa Rica, Gabon (teacher-guide evidence only), Cuba, Egypt, Cambodia, Ecuador, Venezuela
 
 **Book 1:** *Физик VII* (student textbook) — Mongolia. Title as printed: ФИЗИК VII — Ерөнхий боловсролын 12 жилийн сургуулийн 7 дугаар ангийн сурах бичиг (Grade 7 textbook of the 12-year general education school); authors M. Ganbat, B. Burmaa, Ts. Amartaivan et al.; Ministry of Education, Culture, Science and Sports approval; 2nd edition (Хоёр дахь хэвлэл) Grade: Grade 7 · student · recorded size 16,057,825 bytes — **download matched EXACTLY; pdfinfo 142 pages**. Route used: https://econtent.edu.mn/content/7rangi/fizik/fizik-291.pdf (beside the recorded flipbook page https://econtent.edu.mn/pages/more.php?id=291, whose viewer config lists the same 142 page images). Verdict: COMPLETE (full text read; contents at PDF p. 5, body sampled throughout). Phantom-push debt, on the record: this book is recorded as pushed in books.json/push-state with the exact byte size above, but no file exists in the GitHub textbooks repo — it was read from the ministry source econtent.edu.mn at that exact recorded byte size, and the repo copy still needs re-securing from that source. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/mongolia-placements.md.
 
@@ -118,3 +118,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 7 countries (Mongolia, Haiti, Costa Rica, Cuba, Egypt, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, motions-of-the-earth-moon-and-sun
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 2):** *Ciencias Naturales 2do grado — Comunidad con Ciencia (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): COMUNIDAD CON CIENCIA, 2do grado, Ciencias Naturales, Colección Bicentenario. Record title gives "Comunidad Con Conciencia" — cover wording differs; filed under the printed cover title. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 book — publisher misprint as printed); Depósito Legal lf51620113722473. PDF 83 pages (2-up spreads), 6,723,623 bytes; printed pp. 9–159. Verdict: COMPLETE (all eight parts + Lecturas complementarias + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-02/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Earth moves around the Sun in an elliptical orbit (seen with telescopes), taking 365 days, nearer/farther at times (Venezuela, Grade 2) | Venezuela, *Comunidad G2*, printed pp. 134–135 |
+
+**Acceptance count: taught in 8 countries (Mongolia, Haiti, Costa Rica, Cuba, Egypt, Cambodia, Ecuador, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, earth-and-space motions-of-the-earth-moon-and-sun

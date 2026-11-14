@@ -1,6 +1,6 @@
 # Sources — Adolescence and its changes
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Guyana, India, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Guyana, India, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Venezuela (curriculum/proposal evidence only)
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -106,3 +106,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 6 countries (Ethiopia, Guyana, India, Cuba, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, adolescence-and-its-changes
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Propuestas 2025, teacher / curriculum proposal, all levels):** *Ciencias Naturales — Propuestas de contenidos para la enseñanza y aprendizajes esperados* (teacher / curriculum proposal) — Venezuela, Septiembre 2025. Title as printed: Ciencias Naturales — Propuestas de contenidos para la enseñanza y aprendizajes esperados en el Área de las Ciencias Naturales, Biología, Química, Física y Ciencias de la Tierra, para los Niveles de Educación Inicial, Primaria, Media y sus Modalidades (Documento para la consulta), Septiembre 2025. No publisher/ISBN printed. PDF 56 pages, 2,267,224 bytes. Verdict: COMPLETE. Twin records: the same file is filed under nursery, kg1, kg2 and grade-01…grade-12 folders (15 records — the 15 grade-folder copies are one identical file, 2,267,224 bytes, sha256 5b137fe9…, 56 PDF pages, verified by hash on nursery + grades 5–12 copies and by size on all copies fetched); cited once here. Note: this is a content/expected-learning list, not a textbook; placements from it are its integrated (Initial + Primary) content lines, as guide evidence — TEACHER/CURRICULUM-PROPOSAL evidence only, outside the acceptance count. Its Media (Grades 7–12) lists are split by discipline and were line-noted, not item-placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Upper Primary: human characteristics, puberty changes, sexuality and life, human reproduction, healthy relationships (Venezuela, Initial + Primary) (curriculum/proposal — evidence) | Venezuela, *Propuestas 2025*, printed pp. 24–27 |
+
+**Acceptance count unchanged: taught in 6 countries (Ethiopia, Guyana, India, Cuba, Cambodia, Ecuador).** Venezuela is named as curriculum/proposal evidence only (its *Propuestas 2025* proposal document), not added to this count.
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, the-human-body adolescence-and-its-changes

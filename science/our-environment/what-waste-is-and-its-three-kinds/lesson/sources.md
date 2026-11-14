@@ -1,6 +1,6 @@
 # Sources — What waste is and its three kinds
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Suriname, Costa Rica, Barbados (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Palau (teacher's-edition evidence only), Zambia (teacher-module evidence only), Suriname, Costa Rica, Barbados (curriculum evidence only), Pakistan (Punjab), Samoa, Egypt, Cambodia, Venezuela
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -140,3 +140,17 @@ Searchable tags: egypt, our-environment what-waste-is-and-its-three-kinds
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 9, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, what waste is and its three kinds
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 2):** *Ciencias Naturales 2do grado — Comunidad con Ciencia (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): COMUNIDAD CON CIENCIA, 2do grado, Ciencias Naturales, Colección Bicentenario. Record title gives "Comunidad Con Conciencia" — cover wording differs; filed under the printed cover title. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 book — publisher misprint as printed); Depósito Legal lf51620113722473. PDF 83 pages (2-up spreads), 6,723,623 bytes; printed pp. 9–159. Verdict: COMPLETE (all eight parts + Lecturas complementarias + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-02/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| putting waste in the right containers; reusing bottles, newspapers and containers (Venezuela, Grade 2) | Venezuela, *Comunidad G2*, printed pp. 30–33 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Suriname, Costa Rica, Pakistan (Punjab, Samoa, Egypt, Cambodia, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment what-waste-is-and-its-three-kinds

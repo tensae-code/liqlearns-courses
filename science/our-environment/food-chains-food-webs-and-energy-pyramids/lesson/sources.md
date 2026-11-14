@@ -1,6 +1,6 @@
 # Sources — Food chains, food webs and energy pyramids
 
-countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde, Sudan
+countries: Ethiopia, Trinidad and Tobago (curriculum-guide evidence only), Canada (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Serbia, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Cambodia, Seychelles, Ecuador, Cabo Verde, Sudan, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -343,3 +343,20 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 15 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States, Pakistan (Punjab), Cuba, Samoa, Egypt, Cambodia, Ecuador, Cabo Verde, Sudan).**
 Searchable tags: sudan, sudan grade 6, grade 7, our-environment/food-chains-food-webs-and-energy-pyramids
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 6):** *Ciencias Naturales 6to grado — Con Ciencia para el Porvenir (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): CON CIENCIA PARA EL PORVENIR, 6to grado, Ciencias Naturales, Colección Bicentenario (record title gives "Conciencia Para El Porvenir"). Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 and Grade 2 books — series misprint as printed). PDF 75 pages (2-up spreads), 7,004,039 bytes; printed pp. 9–143. Verdict: COMPLETE (all nine parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-06/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 7):** *Ciencias Naturales 1er año (Grade 7) — Alimentando con Ciencias (Colección Bicentenario)* (student) — Venezuela. Title as printed: ALIMENTANDO CON CIENCIAS, 1er año, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 3rd edition April 2014, Bicentenario co-edition. ISBN 978-980-218-317-3. PDF 131 pages (2-up spreads), 34,603,008 bytes; printed pp. 6–252. Verdict: COMPLETE (12 programmatic readings + complementary readings present, closing with the Vandana Shiva text). Twin records: TSV release record (mid-size-books) and books.json record grade-07/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. Structure note: an integrated book organised around the agro-food system; readings 1–2 (plant/animal nutrition) and 9–10 (movement/interactions) are single-discipline in content and were line-noted per the scope rule, not item-placed. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| trophic chains: who eats whom and energy passing along the chain (Venezuela, Grade 6) | Venezuela, *Porvenir G6*, printed pp. 23–36 |
+| trophic chains and food security: chains in Venezuelan production, who produces/consumes, access to food (Venezuela, Grade 7) | Venezuela, *Alimentando G7*, printed pp. 46–60 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Serbia, Mongolia, Bulgaria, Greece, United States, Pakistan (Punjab), Cuba, Samoa, Egypt, Cambodia, Ecuador, Cabo Verde, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment food-chains-food-webs-and-energy-pyramids

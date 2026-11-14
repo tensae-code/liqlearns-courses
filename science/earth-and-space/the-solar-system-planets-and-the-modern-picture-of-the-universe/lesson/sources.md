@@ -1,6 +1,6 @@
 # Sources — The Solar system — planets and the modern picture of the Universe
 
-countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa (curriculum evidence only), Egypt, Cambodia, Ecuador, Afghanistan
+countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa (curriculum evidence only), Egypt, Cambodia, Ecuador, Afghanistan, Venezuela
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -272,3 +272,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 14 countries (Uzbekistan, Haiti, Guyana, Costa Rica, India, Bulgaria, Moldova, Pakistan (Punjab), Cuba, Egypt, Cambodia, Ecuador, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 5, earth-and-space the-solar-system-planets-and-the-modern-picture-of-the-universe
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 2):** *Ciencias Naturales 2do grado — Comunidad con Ciencia (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): COMUNIDAD CON CIENCIA, 2do grado, Ciencias Naturales, Colección Bicentenario. Record title gives "Comunidad Con Conciencia" — cover wording differs; filed under the printed cover title. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 book — publisher misprint as printed); Depósito Legal lf51620113722473. PDF 83 pages (2-up spreads), 6,723,623 bytes; printed pp. 9–159. Verdict: COMPLETE (all eight parts + Lecturas complementarias + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-02/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| solar system: Sun and eight planets in order, asteroids, comets, dwarf planets; Pluto reclassified by the IAU on 24 Aug 2006 (Venezuela, Grade 2) | Venezuela, *Comunidad G2*, printed pp. 136–140 |
+
+**Acceptance count: taught in 15 countries (Uzbekistan, Haiti, Guyana, Costa Rica, India, Bulgaria, Moldova, Pakistan (Punjab), Cuba, Egypt, Cambodia, Ecuador, Afghanistan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, earth-and-space the-solar-system-planets-and-the-modern-picture-of-the-universe

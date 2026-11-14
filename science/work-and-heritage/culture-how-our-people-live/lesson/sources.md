@@ -1,6 +1,6 @@
 # Sources — Culture — How Our People Live
 
-countries: Ethiopia
+countries: Ethiopia, Venezuela
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -31,3 +31,17 @@ COMPLETE: both Grade 4 regional teacher guides are complete in hand (SNNP printe
 COMPLETE: the Grade 5 student book's contents promise ends at printed p. 178 (Chapter 6 review) and the file's last printed page is 178. Book misprint, noted and not taught: the running heads inside Chapter 6 are misprinted "ምዕራፍ 5" (Chapter 5) although the chapter itself is Chapter 6.
 
 Searchable tags: culture, way of life, our town, market reading, tuba culture, Amhara Region peoples, languages of the region, material culture, spiritual culture, enguruguro, fukera, shelel, material culture, spiritual culture, enguruguro, fukera, shelelal
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 1):** *Ciencias Naturales 1er grado — Ciencias para Explorar, Crear e Inventar (Colección Bicentenario)* (student) — Venezuela. Title as printed: Ciencias para Explorar, Crear e Inventar, 1er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN 978-980-218-296-1. PDF 59 pages (2-up spreads), 5,392,059 bytes; printed pp. 9–112. Verdict: COMPLETE (all six parts + Lecturas + Fuentes consultadas present). Twin records: TSV blob record grade-01/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Venezuela's own way: the Warao people's moriche palm as 'tree of life' — food, baskets, bridges, hammocks, yuruma flour, fishing harpoons, houses (Venezuela, Grade 1) | Venezuela, *Explorar G1*, printed p. 19 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, work-and-heritage culture-how-our-people-live

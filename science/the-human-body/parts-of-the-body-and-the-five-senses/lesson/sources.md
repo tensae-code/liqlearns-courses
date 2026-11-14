@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -320,3 +320,21 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 14 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan).**
 Searchable tags: sudan, sudan grade 3, the-human-body/parts-of-the-body-and-the-five-senses
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Propuestas 2025, teacher / curriculum proposal, all levels):** *Ciencias Naturales — Propuestas de contenidos para la enseñanza y aprendizajes esperados* (teacher / curriculum proposal) — Venezuela, Septiembre 2025. Title as printed: Ciencias Naturales — Propuestas de contenidos para la enseñanza y aprendizajes esperados en el Área de las Ciencias Naturales, Biología, Química, Física y Ciencias de la Tierra, para los Niveles de Educación Inicial, Primaria, Media y sus Modalidades (Documento para la consulta), Septiembre 2025. No publisher/ISBN printed. PDF 56 pages, 2,267,224 bytes. Verdict: COMPLETE. Twin records: the same file is filed under nursery, kg1, kg2 and grade-01…grade-12 folders (15 records — the 15 grade-folder copies are one identical file, 2,267,224 bytes, sha256 5b137fe9…, 56 PDF pages, verified by hash on nursery + grades 5–12 copies and by size on all copies fetched); cited once here. Note: this is a content/expected-learning list, not a textbook; placements from it are its integrated (Initial + Primary) content lines, as guide evidence — TEACHER/CURRICULUM-PROPOSAL evidence only, outside the acceptance count. Its Media (Grades 7–12) lists are split by discipline and were line-noted, not item-placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 1):** *Ciencias Naturales 1er grado — Ciencias para Explorar, Crear e Inventar (Colección Bicentenario)* (student) — Venezuela. Title as printed: Ciencias para Explorar, Crear e Inventar, 1er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN 978-980-218-296-1. PDF 59 pages (2-up spreads), 5,392,059 bytes; printed pp. 9–112. Verdict: COMPLETE (all six parts + Lecturas + Fuentes consultadas present). Twin records: TSV blob record grade-01/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Maternal: naming body parts in self and others, their functions and basic physiological needs (Venezuela, Initial + Primary) (curriculum/proposal — evidence) | Venezuela, *Propuestas 2025*, printed p. 9 |
+| Primary G1: body parts, exercise and physical activity, care and respect for one's own body, risk situations (Venezuela, Initial + Primary) (curriculum/proposal — evidence) | Venezuela, *Propuestas 2025*, printed p. 14 (Primer Grado, Salud Integral) |
+| knowing your own body in the mirror: head (eyes, nose, mouth, ears), trunk (chest, abdomen, back), upper/lower limbs (Venezuela, Grade 1) | Venezuela, *Explorar G1*, printed pp. 11–12 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, the-human-body parts-of-the-body-and-the-five-senses

@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -399,3 +399,20 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 16 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova, Pakistan (Punjab), Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Sudan).**
 Searchable tags: sudan, sudan grade 3, grade 4, grade 6, plants/kinds-of-plants-and-their-parts
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 1):** *Ciencias Naturales 1er grado — Ciencias para Explorar, Crear e Inventar (Colección Bicentenario)* (student) — Venezuela. Title as printed: Ciencias para Explorar, Crear e Inventar, 1er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, República Bolivariana de Venezuela, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN 978-980-218-296-1. PDF 59 pages (2-up spreads), 5,392,059 bytes; printed pp. 9–112. Verdict: COMPLETE (all six parts + Lecturas + Fuentes consultadas present). Twin records: TSV blob record grade-01/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+**Book (Venezuela — Grade 2):** *Ciencias Naturales 2do grado — Comunidad con Ciencia (Colección Bicentenario)* (student) — Venezuela. Title as printed (cover): COMUNIDAD CON CIENCIA, 2do grado, Ciencias Naturales, Colección Bicentenario. Record title gives "Comunidad Con Conciencia" — cover wording differs; filed under the printed cover title. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014; co-edition Ministerio del Poder Popular para la Cultura / Fundación Editorial El perro y la rana / Editorial Escuela. ISBN as printed: 978-980-218-296-1 (same number printed in the Grade 1 book — publisher misprint as printed); Depósito Legal lf51620113722473. PDF 83 pages (2-up spreads), 6,723,623 bytes; printed pp. 9–159. Verdict: COMPLETE (all eight parts + Lecturas complementarias + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-02/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| plants are living beings of varied shapes/sizes/colours needing sunlight and water; parts of a tree (leaves, flowers, fruits, stem) and their functions (Venezuela, Grade 1) | Venezuela, *Explorar G1*, printed pp. 19–20 |
+| plants and animals in the environment: recognising and caring for the living beings around the community (Venezuela, Grade 2) | Venezuela, *Comunidad G2*, printed pp. 25–36 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova, Pakistan (Punjab), Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, plants kinds-of-plants-and-their-parts

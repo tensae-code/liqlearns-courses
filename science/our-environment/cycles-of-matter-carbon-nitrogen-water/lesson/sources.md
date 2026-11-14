@@ -1,6 +1,6 @@
 # Sources — Cycles of matter — carbon, nitrogen, water
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -123,3 +123,17 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 
 **Acceptance count: taught in 7 countries (Ethiopia, Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan).**
 Searchable tags: sudan, sudan grade 8, our-environment/cycles-of-matter-carbon-nitrogen-water
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 5):** *Ciencias Naturales 5to grado — La Ciencia en Tus Manos (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA CIENCIA EN TUS MANOS, 5to grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, Bicentenario co-edition. ISBN 978-980-218-312-8. PDF 67 pages (2-up spreads), 6,354,543 bytes; printed pp. 7–129. Verdict: COMPLETE (all eight parts + Fuentes consultadas present). Twin records: TSV release record (mid-size-books) and books.json record grade-05/gov/venezuela/natural-sciences/student/full-year.pdf are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| matter moving between Earth's systems in cycles (Venezuela, Grade 5) | Venezuela, *Ciencia G5*, printed pp. 51–62 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment cycles-of-matter-carbon-nitrogen-water

@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica, Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia (teacher-guide evidence only), Seychelles, Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -384,3 +384,17 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 19 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Afghanistan, Sudan).**
 Searchable tags: sudan, sudan grade 5, grade 8, our-environment/cycles-the-water-cycle
+
+## Venezuela growth (2026-11-14, General Science expansion)
+
+**Book (Venezuela — Grade 3):** *Ciencias Naturales 3er grado — La Tierra: Nuestro Hogar (Colección Bicentenario)* (student) — Venezuela. Title as printed: LA TIERRA: NUESTRO HOGAR, 3er grado, Ciencias Naturales, Colección Bicentenario. Publisher: Ministerio del Poder Popular para la Educación, 4th edition April 2014 (same Bicentenario co-edition as the series). ISBN 978-980-218-301-2. PDF 75 pages (2-up spreads), 6,743,613 bytes; printed pp. 9–143. Verdict: COMPLETE (all seven parts + ¡Vamos a leer! + Fuentes consultadas present). Twin records: TSV blob record grade-03/gov/venezuela/natural-sciences/student/full-year.pdf and books.json record with the same file path are the same book; cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/venezuela-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| water moving in nature: evaporation and condensation in everyday scenes (Venezuela, Grade 3) | Venezuela, *Tierra G3*, printed pp. 59–68 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab), Egypt, Afghanistan, Sudan, Venezuela).**
+
+Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
+
+Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, our-environment cycles-the-water-cycle
