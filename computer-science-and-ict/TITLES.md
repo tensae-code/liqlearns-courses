@@ -747,3 +747,9 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Software** (ICT expansion, from Eritrea): The Start Menu and Its Options
 
 **Spreadsheets** (ICT expansion, from Eritrea): Worksheet Tabs — Adding, Renaming and Moving · Inserting and Deleting Cells, Rows and Columns
+
+**Software** (ICT expansion, from Cambodia): The Desktop and Windows of an Operating System
+
+**First Steps** (ICT expansion, from Cambodia): Codes and Media — How Information Is Represented
+
+**Word Processing** (ICT expansion, from Cambodia): Typing Khmer Script · Writing Personal and Official Letters · Writing a Business Letter
