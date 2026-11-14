@@ -1,6 +1,6 @@
 # Sources — How living things affect each other
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Micronesia, Uganda, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Armenia, Cuba
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -263,3 +263,15 @@ Searchable tags: pakistan, punjab, general science, how-living-things-affect-eac
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+## Cuba growth (2026-11-14, General Science expansion)
+
+**Book (Cuba — Grade 6 student book):** *Ciencias Naturales, Sexto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Sexto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 5th reprint 2015 of the 2nd edition 2002 (© 1990), ISBN 978-959-13-0971-6. PDF 178 pages, 6,997,105 bytes. Verdict: COMPLETE (five chapters, conclusions and vocabulary to printed p. 167). Printed page = PDF page − 10 approx. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| relations between the natural components in the Americas (Cuba's own continental way) (Cuba, Grade 6) | Cuba, *Ciencias Naturales, Sexto grado*, printed p. 40 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Australia, Italy, Nauru, Tuvalu, Niue, Micronesia, Uganda, Moldova, United States, Pakistan (Punjab, Cuba).**
+
+Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, how living things affect each other

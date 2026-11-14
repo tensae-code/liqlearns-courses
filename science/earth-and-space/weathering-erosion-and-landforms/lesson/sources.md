@@ -1,6 +1,6 @@
 # Sources — Weathering, erosion and landforms
 
-countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only)
+countries: Mexico, Italy, Costa Rica, Bahamas (curriculum evidence only), Cuba
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -50,3 +50,17 @@ Searchable tags: costa rica, ciencias, coned, antologías coned, grade 8
 Bahamas's own way — its Primary Science Curriculum Guidelines set out, grade by grade, what is taught and in what order for the islands' own schools (Bahamian settings carried in the rows above, from salt ponds and the seashore to pine forests, coral reefs and mangroves, and the Bahamas' own warm, sunny year against the four seasons) — is itself course content, carried exactly as filed.
 
 Searchable tags: bahamas, primary science curriculum guidelines, ministry of education bahamas, curriculum evidence, grade 4
+
+## Cuba growth (2026-11-14, General Science expansion)
+
+**Book (Cuba — Grade 5 student book):** *Ciencias Naturales, Quinto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Quinto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 2nd edition 2016 (© 1989), ISBN 978-959-13-2442-9. PDF 185 pages, 9,022,650 bytes. Verdict: COMPLETE (six chapters, vocabulary ends printed p. 172). Printed page = PDF page − 9. Records: 3 records (the TSV blob copy, the books.json record and the TSV "2nd route" release copy) = 1 distinct book — the blob and release copies are byte-identical (9,022,650 bytes, 185 pages, identical text), cited ONCE here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| mountains arise and change shape; how the relief changes (placement slug: weathering-and-erosion-agents-that-shape-the-land — filed as NEW LESSON NEEDED; stocked into this lesson, earth-and-space/weathering-erosion-and-landforms, as the closest existing lesson covering that thing) (Cuba, Grade 5) | Cuba, *Ciencias Naturales, Quinto grado*, printed p. 127 |
+
+Placement choice, on the record: the Cuba placement(s) above were filed as "NEW LESSON NEEDED — weathering-and-erosion-agents-that-shape-the-land" — cuba-placements.md. Checked live at merge time: this lesson already covers that thing as its own lesson — weathering, erosion and landforms — the relief generated from inside and modelled from outside (the same call Costa Rica's merge made for its own placement filed under this slug) — so the placement stocks into it and the original slug is recorded in each row above; no second lesson is built.
+
+**Acceptance count: taught in 4 countries (Mexico, Italy, Costa Rica, Cuba).**
+
+Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, weathering erosion and landforms

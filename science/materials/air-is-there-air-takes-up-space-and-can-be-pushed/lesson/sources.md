@@ -1,6 +1,6 @@
 # Sources — Air is there — air takes up space and can be pushed
 
-countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova
+countries: Gabon (teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Djibouti (teacher-guide evidence only), India, Uganda, Bulgaria, Moldova, Cuba
 
 **Book 1:** *Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année* (teacher guide) — Gabon, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Title as printed: Super Efficace — Sciences (Biologie/Sciences physiques/Technologie/TIC), Guide pédagogique, 3e année, © EDIG/EDICEF 2023 (couverture Anne-Danielle Naname). Grade 3. Teacher guide. Repo path: grade-03/gov/gabon/sciences/teacher/gabon-g03-sciences-teacher.pdf. Byte size: 1,385,512 (no size in record). PDF pages: 64. Offset: printed pp. 3–64 (sommaire: paliers at pp. 3–16, 17–29, 30–42, 43–53, 54–64). Verdict: COMPLETE — full text read (36,970 words); sommaire and palier competence statements prove identity and scope. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -107,3 +107,18 @@ Gabon already stands in this lesson's countries line as teacher-guide evidence o
 Gabon's own way — the Super Efficace guides organise each primary year in 5 paliers that mix Biology, Physical Sciences, ICT (TIC) and Technology lessons, and teach each thing inside that mix — is itself course content, carried exactly as filed.
 
 Searchable tags: gabon, super efficace, gabon grade 3, gabon grade 5, air is there air takes up space and can be pushed
+
+## Cuba growth (2026-11-14, General Science expansion)
+
+**Book (Cuba — Grade 5 student book):** *Ciencias Naturales, Quinto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Quinto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 2nd edition 2016 (© 1989), ISBN 978-959-13-2442-9. PDF 185 pages, 9,022,650 bytes. Verdict: COMPLETE (six chapters, vocabulary ends printed p. 172). Printed page = PDF page − 9. Records: 3 records (the TSV blob copy, the books.json record and the TSV "2nd route" release copy) = 1 distinct book — the blob and release copies are byte-identical (9,022,650 bytes, 185 pages, identical text), cited ONCE here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+**Book (Cuba — Grade 5 teacher guide):** *Orientaciones Metodológicas, Ciencias Naturales, quinto grado* (teacher guide) — Cuba. Title as printed: Orientaciones Metodológicas, Ciencias Naturales, quinto grado. Publisher: Ministerio de Educación / Editorial Pueblo y Educación, Cuba (Tercer Perfeccionamiento materials), digital edition. PDF 325 pages, 1,439,744 bytes. Verdict: COMPLETE (general considerations, methodological conception, practical activities, three teaching units and annexes). The guide serves the reformed programme whose units are: 1. El movimiento y la energía en la naturaleza; 2. El aire y el agua en la naturaleza; 3. Relaciones de los seres vivos en la naturaleza. Records: the TSV record and the books.json record give the same repo path (grade-05/gov/cuba/ciencias-naturales/teacher/full-year.pdf) = 1 distinct book, cited ONCE here. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| our invisible friend: air is there and takes up space (Cuba, Grade 5) | Cuba, *Ciencias Naturales, Quinto grado*, printed p. 62 |
+| Unit 2 teaching guidance: air in nature, its presence and properties (guide evidence) (Cuba, Grade 5) | Cuba, *Orientaciones Metodológicas, Ciencias Naturales, quinto grado*, Unidad 2 |
+
+**Acceptance count: taught in 5 countries (India, Uganda, Bulgaria, Moldova, Cuba).**
+
+Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, air is there air takes up space and can be pushed

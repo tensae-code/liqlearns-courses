@@ -1,6 +1,6 @@
 # Sources — Landforms — hills, plains and valleys
 
-countries: Serbia, Bahamas (curriculum evidence only), Armenia
+countries: Serbia, Bahamas (curriculum evidence only), Armenia, Cuba
 
 **Book 1:** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
 
@@ -47,3 +47,20 @@ Placement choice, on the record: the placement filed as NEW LESSON NEEDED — ea
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+## Cuba growth (2026-11-14, General Science expansion)
+
+**Book (Cuba — Grade 5 student book):** *Ciencias Naturales, Quinto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Quinto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 2nd edition 2016 (© 1989), ISBN 978-959-13-2442-9. PDF 185 pages, 9,022,650 bytes. Verdict: COMPLETE (six chapters, vocabulary ends printed p. 172). Printed page = PDF page − 9. Records: 3 records (the TSV blob copy, the books.json record and the TSV "2nd route" release copy) = 1 distinct book — the blob and release copies are byte-identical (9,022,650 bytes, 185 pages, identical text), cited ONCE here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+**Book (Cuba — Grade 6 student book):** *Ciencias Naturales, Sexto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Sexto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 5th reprint 2015 of the 2nd edition 2002 (© 1990), ISBN 978-959-13-0971-6. PDF 178 pages, 6,997,105 bytes. Verdict: COMPLETE (five chapters, conclusions and vocabulary to printed p. 167). Printed page = PDF page − 10 approx. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the relief of the land (placement slug: landforms-and-relief-mountains-plains-and-valleys — filed as NEW LESSON NEEDED; stocked into this lesson, earth-and-space/landforms-hills-plains-and-valleys, as the closest existing lesson covering that thing) (Cuba, Grade 5) | Cuba, *Ciencias Naturales, Quinto grado*, printed p. 124 |
+| relief: continental relief and submarine relief (placement slug: landforms-and-relief-mountains-plains-and-valleys — filed as NEW LESSON NEEDED; stocked into this lesson, earth-and-space/landforms-hills-plains-and-valleys, as the closest existing lesson covering that thing) (Cuba, Grade 6) | Cuba, *Ciencias Naturales, Sexto grado*, printed p. 30 |
+
+Placement choice, on the record: the Cuba placement(s) above were filed as "NEW LESSON NEEDED — landforms-and-relief-mountains-plains-and-valleys" — cuba-placements.md. Checked live at merge time: this lesson already covers that thing as its own lesson — the relief of a region — what relief is, its rises (hillocks, hills, mountains) and its hollows and flat lands (plains, valleys) — so the placement stocks into it and the original slug is recorded in each row above; no second lesson is built.
+
+**Acceptance count: taught in 3 countries (Serbia, Armenia, Cuba).**
+
+Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, landforms hills plains and valleys

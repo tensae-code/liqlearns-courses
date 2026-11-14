@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Moldova, United States, Armenia, Cuba (teacher-guide evidence only)
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -213,3 +213,15 @@ Searchable tags: united states, utah, seed standards, utah oer, skills of practi
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 5, grade 6, astghik gratun, edit print
+
+## Cuba growth (2026-11-14, General Science expansion)
+
+**Book (Cuba — Grade 5 teacher guide):** *Orientaciones Metodológicas, Ciencias Naturales, quinto grado* (teacher guide) — Cuba. Title as printed: Orientaciones Metodológicas, Ciencias Naturales, quinto grado. Publisher: Ministerio de Educación / Editorial Pueblo y Educación, Cuba (Tercer Perfeccionamiento materials), digital edition. PDF 325 pages, 1,439,744 bytes. Verdict: COMPLETE (general considerations, methodological conception, practical activities, three teaching units and annexes). The guide serves the reformed programme whose units are: 1. El movimiento y la energía en la naturaleza; 2. El aire y el agua en la naturaleza; 3. Relaciones de los seres vivos en la naturaleza. Records: the TSV record and the books.json record give the same repo path (grade-05/gov/cuba/ciencias-naturales/teacher/full-year.pdf) = 1 distinct book, cited ONCE here. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| annex: didactic reflections on forming scientific concepts (guide evidence) (Cuba, Grade 5) | Cuba, *Orientaciones Metodológicas, Ciencias Naturales, quinto grado*, printed p. 267 |
+
+**Acceptance count unchanged: taught in 11 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece, Moldova, United States, Armenia).** Cuba is named as teacher-guide evidence only only (*Orientaciones Metodológicas, Ciencias Naturales, quinto grado*), not added to this count.
+
+Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, skills of practical study observe predict hypothesise record conclude

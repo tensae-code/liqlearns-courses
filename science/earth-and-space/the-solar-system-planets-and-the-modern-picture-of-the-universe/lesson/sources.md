@@ -1,6 +1,6 @@
 # Sources — The Solar system — planets and the modern picture of the Universe
 
-countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia
+countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -187,3 +187,15 @@ Searchable tags: pakistan, punjab, general science, the-solar-system-planets-and
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+## Cuba growth (2026-11-14, General Science expansion)
+
+**Book (Cuba — Grade 5 student book):** *Ciencias Naturales, Quinto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Quinto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 2nd edition 2016 (© 1989), ISBN 978-959-13-2442-9. PDF 185 pages, 9,022,650 bytes. Verdict: COMPLETE (six chapters, vocabulary ends printed p. 172). Printed page = PDF page − 9. Records: 3 records (the TSV blob copy, the books.json record and the TSV "2nd route" release copy) = 1 distinct book — the blob and release copies are byte-identical (9,022,650 bytes, 185 pages, identical text), cited ONCE here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the Solar System, a great family of bodies (Cuba, Grade 5) | Cuba, *Ciencias Naturales, Quinto grado*, printed p. 4 |
+
+**Acceptance count: taught in 10 countries (Uzbekistan, Haiti, Guyana, Costa Rica, India, Bulgaria, Moldova, Pakistan (Punjab, Cuba).**
+
+Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, the solar system planets and the modern picture of the universe

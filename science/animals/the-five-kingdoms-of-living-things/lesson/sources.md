@@ -1,6 +1,6 @@
 # Sources — Kingdoms — the five kingdoms of living things
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia
+countries: Ethiopia, Canada (teacher-guide evidence only), Uganda, Bulgaria, Pakistan (Punjab), Armenia, Cuba
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -94,3 +94,15 @@ Searchable tags: pakistan, punjab, general science, the-five-kingdoms-of-living-
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 10, astghik gratun, edit print
+
+## Cuba growth (2026-11-14, General Science expansion)
+
+**Book (Cuba — Grade 6 student book):** *Ciencias Naturales, Sexto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Sexto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 5th reprint 2015 of the 2nd edition 2002 (© 1990), ISBN 978-959-13-0971-6. PDF 178 pages, 6,997,105 bytes. Verdict: COMPLETE (five chapters, conclusions and vocabulary to printed p. 167). Printed page = PDF page − 10 approx. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| unicellular organisms, plants, animals and fungi (Cuba, Grade 6) | Cuba, *Ciencias Naturales, Sexto grado*, printed p. 83 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Bulgaria, Pakistan (Punjab, Cuba).**
+
+Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, the five kingdoms of living things

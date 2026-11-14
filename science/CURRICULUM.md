@@ -494,6 +494,7 @@ solar-system comparison lessons.
 63. **Colloids and the Tyndall effect** (`materials/colloids-and-the-tyndall-effect`) — a colloid is a mixture whose tiny particles are spread through another substance and never settle out; the Tyndall effect — a light beam's path made visible as the colloid's particles scatter it — is the test that tells a colloid from a true solution (Costa Rica, Grade 7 — *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 92)
 
 64. **Building new objects from a small set of pieces** (`materials/building-new-objects-from-a-small-set-of-pieces`) — modelling how an object made of a small set of pieces can be disassembled and reshaped into a new object with a different function (United States, Grade 2 — *2nd Grade — for Utah SEEd Standards, Revised 2025*, 2.3.3, printed p. 98)
+65. **Water expands when it freezes** (`materials/water-expands-when-it-freezes`) — water breaks the usual rule: as it freezes it expands, taking more room as ice than it did as water — its dilatation — so ice floats and a full closed bottle can crack (Cuba, Grade 5 — *Ciencias Naturales, Quinto grado*, printed p. 100)
 ## Unit 5 — Light
 
 1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
@@ -532,6 +533,7 @@ solar-system comparison lessons.
 11. **Designing solutions to weather hazards** (`weather-and-seasons/designing-solutions-to-weather-hazards`) — designing, testing and optimising a solution that reduces the effects of a weather-related hazard — flood barriers and similar (United States, Grade 3 — *3rd Grade Science for Utah SEEd Standards, Revised 2025*, 3.1.3, printed p. 28)
 12. **Air pressure and what it does** (`weather-and-seasons/air-pressure-and-what-it-does`) — the air presses in all directions — atmospheric pressure, its consequences, and the experiments that prove it exists (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §§27–28, printed pp. 98, 101)
 13. **Winds and their kinds** (`weather-and-seasons/winds-and-their-kinds`) — wind is air on the move, and winds come in kinds, told apart by direction, steadiness and strength (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §29, printed p. 103)
+14. **How winds form** (`weather-and-seasons/how-winds-form`) — winds form where the Sun heats neighbouring places unequally: warm air rises, cooler air moves in underneath, and those movements join into the circulation of the winds (Cuba, Grade 5 — *Ciencias Naturales, Quinto grado*, printed pp. 69, 73)
 
 
 ## Unit 7 — Soil and Water
@@ -780,6 +782,8 @@ solar-system comparison lessons.
 27. **Diarrhoea and worm infestations** (`keeping-healthy/diarrhoea-and-worm-infestations`) — diarrhoea diseases: causes (contaminated water and food), using ORS/SSS at home with amounts by age — and worm infestations: threadworm and other worms, how they enter, signs (Uganda, Primary Four — *Home-Study Learning, Primary Four, Science*, printed pp. 23–27)
 28. **Immunisation and immunity** (`keeping-healthy/immunisation-and-immunity`) — immunity and immunisation: how vaccines make the body resistant and cut child deaths; childhood immunisable diseases (measles — virus, sores, rash; vaccine by injection in the left upper arm — and the immunisation table); cholera prevention (boiled water, covering food); the child health card (Uganda, Primary Five — *Home-Study Learning, Primary Five, Science*, printed pp. 1–8)
 29. **First aid at home** (`keeping-healthy/first-aid-at-home`) — the first-aid gestures: the first help given in the first minutes after a hurt — stop, look, and call for help first, then comfort, clean water for small cuts and burns, pressure on bleeding, and rest — teacher-guide evidence only, acceptance 0 (Gabon, Grade 5 — *Super Efficace Sciences expérimentales et technologie, 5e année — Guide pédagogique*, printed p. 28)
+30. **Blood and blood donation** (`keeping-healthy/blood-and-blood-donation`) — blood is the body's carrier, carrying substances around the body, and donating part of it is an act that keeps other people alive — the importance of blood donations, Cuba's own way (Cuba, Grade 6 — *Ciencias Naturales, Sexto grado*, printed p. 142)
+31. **Public health care in our country** (`keeping-healthy/public-health-care-in-our-country`) — in our country the people's health is cared for: health care as a shared public task for the whole people, closing the Grade 6 human-body unit (Cuba, Grade 6 — *Ciencias Naturales, Sexto grado*, printed p. 162)
 
 
 ## Unit 15 — Science Skills
@@ -2675,6 +2679,8 @@ solar-system comparison lessons.
 73. **Weightlessness and floating in orbit** (`earth-and-space/weightlessness-and-floating-in-orbit`) — weightlessness, with the falling-bottle activities: when bottle and water fall together nothing pushes back, so weight is not felt — and orbit is that fall kept going around the Earth (Pakistan (Punjab), Grade 7 — *General Science 7*, §12.3, printed p. 142)
 74. **Rhythms in nature** (`earth-and-space/rhythms-in-nature`) — nature keeps time in rhythms — daily, yearly, century and multi-century changes that come back in order, together nature's calendar (Armenia, Grade 6 — *Բնություն 6 (Nature 6)*, §9, printed p. 27)
 75. **The Earth's own history — how our planet changed** (`earth-and-space/the-earths-own-history-how-our-planet-changed`) — the Earth itself has a history — formed with the Solar System, it then evolved, and its evolution closes the origin story (Armenia, Grade 10 — *Բնագիտություն 10 (Natural Science 10)*, §9.4, printed p. 167)
+76. **Movements of sea water — waves, currents and tides** (`earth-and-space/movements-of-sea-water-waves-currents-and-tides`) — sea water is never still: it moves in waves on its surface, in currents through its body, and in tides rising and falling at the shore (Cuba, Grade 5 — *Ciencias Naturales, Quinto grado*, printed p. 106)
+77. **Continents and oceans of the Earth** (`earth-and-space/continents-and-oceans-of-the-earth`) — the Earth's surface sorted into its great lands — the continents — and its great waters — the oceans — with islands and seas between them (Cuba, Grade 6 — *Ciencias Naturales, Sexto grado*, printed pp. 27, 28, 34)
 
 
 ## Unit 20 — Motion, Force and Energy

@@ -1,6 +1,6 @@
 # Sources — Latitude Lines and the Equator
 
-countries: Ethiopia
+countries: Ethiopia, Cuba
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -29,3 +29,15 @@ COMPLETE: both Grade 4 regional teacher guides are complete in hand (SNNP printe
 COMPLETE: the Grade 6 student book's contents promise ends at printed p. 177 (Chapter 6) and the file's last printed page is 177.
 
 Searchable tags: latitude, የኬክሮስ ዲግሪ, equator, globe, ኬክሮስ, ኬንትሮስ, prime meridian, 90 degrees, latitude, parallels, hemisphere, 111 km, equator crossing, latitude, parallels, hemisphere, 111 km, equator crossingsg
+
+## Cuba growth (2026-11-14, General Science expansion)
+
+**Book (Cuba — Grade 5 student book):** *Ciencias Naturales, Quinto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Quinto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 2nd edition 2016 (© 1989), ISBN 978-959-13-2442-9. PDF 185 pages, 9,022,650 bytes. Verdict: COMPLETE (six chapters, vocabulary ends printed p. 172). Printed page = PDF page − 9. Records: 3 records (the TSV blob copy, the books.json record and the TSV "2nd route" release copy) = 1 distinct book — the blob and release copies are byte-identical (9,022,650 bytes, 185 pages, identical text), cited ONCE here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the circles of the geographic sphere: parallels and the Equator (Cuba, Grade 5) | Cuba, *Ciencias Naturales, Quinto grado*, printed p. 53 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Cuba).**
+
+Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, latitude lines and the equator

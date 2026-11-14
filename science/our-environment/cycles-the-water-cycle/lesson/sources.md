@@ -250,3 +250,21 @@ Searchable tags: pakistan, punjab, general science, cycles-the-water-cycle
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+## Cuba growth (2026-11-14, General Science expansion)
+
+**Book (Cuba — Grade 5 student book):** *Ciencias Naturales, Quinto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Quinto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 2nd edition 2016 (© 1989), ISBN 978-959-13-2442-9. PDF 185 pages, 9,022,650 bytes. Verdict: COMPLETE (six chapters, vocabulary ends printed p. 172). Printed page = PDF page − 9. Records: 3 records (the TSV blob copy, the books.json record and the TSV "2nd route" release copy) = 1 distinct book — the blob and release copies are byte-identical (9,022,650 bytes, 185 pages, identical text), cited ONCE here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+**Book (Cuba — Grade 5 teacher guide):** *Orientaciones Metodológicas, Ciencias Naturales, quinto grado* (teacher guide) — Cuba. Title as printed: Orientaciones Metodológicas, Ciencias Naturales, quinto grado. Publisher: Ministerio de Educación / Editorial Pueblo y Educación, Cuba (Tercer Perfeccionamiento materials), digital edition. PDF 325 pages, 1,439,744 bytes. Verdict: COMPLETE (general considerations, methodological conception, practical activities, three teaching units and annexes). The guide serves the reformed programme whose units are: 1. El movimiento y la energía en la naturaleza; 2. El aire y el agua en la naturaleza; 3. Relaciones de los seres vivos en la naturaleza. Records: the TSV record and the books.json record give the same repo path (grade-05/gov/cuba/ciencias-naturales/teacher/full-year.pdf) = 1 distinct book, cited ONCE here. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+**Book (Cuba — Grade 5 teacher programme):** *Programa, Ciencias Naturales, quinto grado* (teacher programme) — Cuba. Title as printed: Programa, Ciencias Naturales, quinto grado. Publisher: Ministerio de Educación / Editorial Pueblo y Educación, Cuba, 2024, ISBN 978-959-13-4575-2 (print) / 978-959-13-4661-2 (digital). PDF 45 pages, 426,678 bytes. Verdict: COMPLETE (characterisation, general objectives, thematic plan, unit objectives/contents/orientations). Curriculum document — PROGRAMME evidence only: cited as the evidence it is, outside the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the water cycle in nature (Cuba, Grade 5) | Cuba, *Ciencias Naturales, Quinto grado*, printed p. 102 |
+| Unit 2 teaching guidance: water in nature and its cycle (guide evidence) (Cuba, Grade 5) | Cuba, *Orientaciones Metodológicas, Ciencias Naturales, quinto grado*, Unidad 2 |
+| Unit 2 plan: air and water in nature, explaining the water cycle (guide evidence) (Cuba, Grade 5) | Cuba, *Programa, Ciencias Naturales, quinto grado*, printed p. 21 |
+
+**Acceptance count unchanged: taught in 15 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica, Uganda, Bulgaria, Moldova, United States, Pakistan (Punjab).** Cuba is already counted in this lesson through the Cuba books stocked by the earlier Physics expansion; the Ciencias Naturales rows above add these books' provenance, counted once.
+
+Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, cycles the water cycle

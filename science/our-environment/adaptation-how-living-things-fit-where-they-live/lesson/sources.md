@@ -1,6 +1,6 @@
 # Sources — Adaptation — how living things fit where they live
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Greece, United States
+countries: Djibouti (teacher-guide evidence only), Mongolia, Greece, United States, Cuba
 
 **Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -73,3 +73,17 @@ Placement choice, on the record: the United States placement(s) above were filed
 **Acceptance count: taught in 3 countries (Mongolia, Greece, United States).**
 
 Searchable tags: united states, utah, seed standards, utah oer, adaptation how living things fit where they live
+
+## Cuba growth (2026-11-14, General Science expansion)
+
+**Book (Cuba — Grade 5 student book):** *Ciencias Naturales, Quinto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Quinto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 2nd edition 2016 (© 1989), ISBN 978-959-13-2442-9. PDF 185 pages, 9,022,650 bytes. Verdict: COMPLETE (six chapters, vocabulary ends printed p. 172). Printed page = PDF page − 9. Records: 3 records (the TSV blob copy, the books.json record and the TSV "2nd route" release copy) = 1 distinct book — the blob and release copies are byte-identical (9,022,650 bytes, 185 pages, identical text), cited ONCE here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| changes in the environment and adaptations (placement slug: adaptation-how-living-things-fit-where-they-live — filed as NEW LESSON NEEDED; stocked into this lesson, our-environment/adaptation-how-living-things-fit-where-they-live, as the closest existing lesson covering that thing) (Cuba, Grade 5) | Cuba, *Ciencias Naturales, Quinto grado*, printed p. 160 |
+
+Placement choice, on the record: the Cuba placement(s) above were filed as "NEW LESSON NEEDED — adaptation-how-living-things-fit-where-they-live" — cuba-placements.md. Checked live at merge time: this lesson already covers that thing as its own lesson — adaptation — how living things fit where they live (the lesson built for Djibouti's filing of this same slug) — so the placement stocks into it and the original slug is recorded in each row above; no second lesson is built.
+
+**Acceptance count: taught in 4 countries (Mongolia, Greece, United States, Cuba).**
+
+Searchable tags: cuba, ciencias naturales, editorial pueblo y educacion, adaptation how living things fit where they live
