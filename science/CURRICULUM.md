@@ -516,6 +516,11 @@ solar-system comparison lessons.
 
 70. **Compound machines** (`materials/compound-machines`) — two or more simple machines joined together so they work as one — scissors (levers + wedges) and the bicycle (wheel and axle + levers + chain drive) (Afghanistan, Grade 4 — *Science, Health and Environment, Grade 4*, Lesson 26, printed p. 53; built for the Afghanistan placements, expansion-science-2026-11-13/afghanistan-placements.md)
 
+75. **Degradable and non-degradable things** (`materials/degradable-and-non-degradable-things`) — which things break down and return to the soil, and which stay for years without breaking down — the burying test tells them apart (Bhutan, Class IV — *Science, Class IV*, §1.5, printed p. 13; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)
+
+76. **Soluble and insoluble substances** (`materials/soluble-and-insoluble-substances`) — which substances dissolve in water and which never dissolve however long you stir — and that dissolving is a physical change, the substance still there and winnable back (Bhutan, Class IV — *Science, Class IV*, §3.2, printed p. 36, and Class V — *Science, Class V*, §2.3, printed p. 29; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)
+
+77. **Solutions — solute and solvent** (`materials/solutions-solute-and-solvent`) — a solution taken apart into its two named parts — the solute that dissolves and the solvent it dissolves in (Bhutan, Class VII — *Science, Class VII*, Ch. 7, printed p. 136; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)
 ## Unit 5 — Light
 
 1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
@@ -590,6 +595,7 @@ solar-system comparison lessons.
 24. **The route of water to the tap** (`soil-and-water/the-route-of-water-to-the-tap`) — following water's route through pipes, storage tanks and pumps to the tap, with domestic and industrial consumption told apart in a building drawing (Venezuela, Grade 2 — *Comunidad con Ciencia (Colección Bicentenario)*, printed pp. 45–47; built for the Venezuela placements, expansion-science-2026-11-13/venezuela-placements.md)
 25. **Water management — dams and distribution** (`soil-and-water/water-management-dams-and-distribution`) — reservoirs (embalses) behind named Venezuelan dams, controlled discharge, and distribution networks carrying water stored high down to the people (Venezuela, Grade 2 — *Comunidad con Ciencia (Colección Bicentenario)*, printed pp. 54–62; built for the Venezuela placements, expansion-science-2026-11-13/venezuela-placements.md)
 
+26. **Hard and soft water** (`soil-and-water/hard-and-soft-water`) — the lather test that tells hard water from soft, how hardness is removed, and hard water's advantages and disadvantages weighed on both sides (Bhutan, Class VI — *Science, Class VI*, §§2.3–2.5, printed pp. 24, 28, 31; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)
 ## Unit 8 — Plants
 
 1. **Fallen leaves feed the soil; plants hold the soil** (`plants/fallen-leaves-feed-the-soil`) — fallen leaves and grass rot into the topsoil and raise its fertility; plants stop soil erosion, shelter wild animals and give recreation — and cutt…
@@ -826,6 +832,8 @@ solar-system comparison lessons.
 
 28. **Building a clay oven** (`work-and-heritage/building-a-clay-oven`) — building a clay oven — making ovens from clay, the Mauritanian way, as a hands-on craft lesson (Mauritania, Grade 4 — *Sciences Naturelles, 4e année fondamentale*, printed p. 68; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
 29. **Taking apart and reassembling simple tools** (`work-and-heritage/taking-apart-and-reassembling-simple-tools`) — taking apart and reassembling simple tools — dismantling grinding tools in order to understand them, and reassembling them until they work again (Mauritania, Grade 4 — *Sciences Naturelles, 4e année fondamentale*, printed p. 63; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
+
+30. **Selective breeding of plants and animals** (`work-and-heritage/selective-breeding-of-plants-and-animals`) — improving crops and herds by choosing which plants and animals become the parents of the next generation — fitting by choosing, taught beside adaptation, fitting by survival (Bhutan, Class VIII — *Science, Class VIII*, Ch. 4, printed p. 88; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)
 ## Unit 14 — Keeping Healthy
 
 1. **Accidents and staying safe** (`keeping-healthy/accidents-and-staying-safe`) — accidents are sudden events that can harm — the guides teach pupils to name the things around them that can cause harm (open fire and flood among t…
@@ -2802,6 +2810,8 @@ solar-system comparison lessons.
 81. **Magmatic rocks — plutonic and volcanic** (`earth-and-space/magmatic-rocks-plutonic-and-volcanic`) — magmatic rocks — plutonic and volcanic — rocks born from molten rock, split by their cooling place: plutonic cooled slowly below the surface, volcanic cooled quickly at it (Mauritania, Grade 9 — *Sciences Naturelles, 3ème AS*, printed pp. 101, 110, and Grade 10 — *Sciences Naturelles, 4ème AS*, printed pp. 89, 93; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
 82. **Metamorphic rocks and the rock cycle** (`earth-and-space/metamorphic-rocks-and-the-rock-cycle`) — metamorphic rocks and the rock cycle — rocks changed by heat and pressure without melting, gneiss as the worked example, and the cycle linking all three rock families (Mauritania, Grade 9 — *Sciences Naturelles, 3ème AS*, printed pp. 129–137, and Grade 10 — *Sciences Naturelles, 4ème AS*, printed pp. 97, 101; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
 83. **Mauritania's geological ensembles** (`earth-and-space/mauritanias-geological-ensembles`) — Mauritania's geological ensembles — the country's great rock regions, taught between the geological eras and its mining resources (Mauritania, Grade 11 — *Sciences Naturelles, 5ème AS, série D*, printed p. 129; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
+
+84. **Polar day and polar night** (`earth-and-space/polar-day-and-polar-night`) — the days near the poles when the Sun never sets and the nights when it never rises, and the Earth's tilted axis that causes both (Bhutan, Class VI — *Science, Class VI*, §12.2, printed p. 202; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)
 ## Unit 20 — Motion, Force and Energy
 
 1. **Motion — motion needs a reference point** (`motion-force-and-energy/motion-needs-a-reference-point`) — motion is a change of position against a chosen reference point or frame — the same body can be moving and at rest at once, depending on the frame chosen (Grade 7 General Science)
@@ -2874,3 +2884,5 @@ solar-system comparison lessons.
 14. **Reading the electricity meter and the cost of units** (`electricity-and-magnetism/reading-the-electricity-meter-and-the-cost-of-units`) — reading an electricity meter, calculating the units used in a month and their cost, and measuring an appliance's power in watts (Seychelles, Grade 9 (P9) — *Seychelles Integrated Science — Conserving Our Energy*, Unit 11, Topic 5, printed booklet pp. 12–14; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
 
 15. **Using household electrical appliances safely** (`electricity-and-magnetism/using-household-electrical-appliances-safely`) — using household electrical appliances safely — the home's electrical machines used in their right order, and the electric iron studied part by part with its safe handling (Mauritania, Grade 4 — *Sciences Naturelles, 4e année fondamentale*, printed pp. 59, 61; built for the Mauritania placements, expansion-science-2026-11-13/mauritania-placements.md)
+
+16. **Sources of electricity** (`electricity-and-magnetism/sources-of-electricity`) — where electricity comes from, named before any circuit — cells and batteries that store it, and the mains supply, generators and solar cells that make it (Bhutan, Class IV — *Science, Class IV*, §7.1, printed p. 83; built for the Bhutan placements, expansion-science-2026-11-13/bhutan-placements.md)

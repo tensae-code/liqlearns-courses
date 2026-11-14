@@ -1,6 +1,6 @@
 # Sources — Simple machines
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela
+countries: Ethiopia, Canada (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -211,3 +211,17 @@ Searchable tags: afghanistan, afghanistan science health and environment, dari, 
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, materials simple-machines
+
+## Bhutan growth (2026-11-14, General Science expansion)
+
+**Book (Bhutan — Class VI):** *Science, Class VI* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class VI. Grade: 6 · Student textbook · PDF pages: 253 (byte size 5,087,024 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 12 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| simple machines (11.2) (Bhutan, Class VI) | Bhutan, *Science, Class VI*, printed p. 178 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Guyana, Mongolia, Pakistan (Punjab), Cambodia, Ecuador, Afghanistan, Venezuela, Bhutan).**
+
+Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: bhutan, bhutan science, science class vi

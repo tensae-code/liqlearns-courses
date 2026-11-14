@@ -1,6 +1,6 @@
 # Sources — Kinds of plants and their parts
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola
+countries: Ethiopia, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Vanuatu (teacher-guide evidence only), Sweden, Guyana, Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), India, Greece, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa, Egypt, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Bhutan
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -465,3 +465,34 @@ Searchable tags: ipn, mauritania, sciences naturelles, sn 5af, svt
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book (science, health, family, school and the local environment as one subject), and *Ciências da Natureza* (Grades 5–6) carries the same child into nature science — the rows above follow each book's own order — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, ciências da natureza 6, estudo do meio 1, estudo do meio 2, estudo do meio 3, grade 1, grade 2, grade 3, grade 6
+
+## Bhutan growth (2026-11-14, General Science expansion)
+
+**Book (Bhutan — Class IV):** *Science, Class IV* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class IV. Grade: 4 · Student textbook · PDF pages: 197 (byte size 4,242,462 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 11 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+**Book (Bhutan — Class V):** *Science, Class V* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class V. Grade: 5 · Student textbook · PDF pages: 242 (byte size 5,119,276 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 12 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+**Book (Bhutan — Class VI):** *Science, Class VI* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class VI. Grade: 6 · Student textbook · PDF pages: 253 (byte size 5,087,024 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 12 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how plants adapt in the habitat (8.3) (Bhutan, Class IV) | Bhutan, *Science, Class IV*, printed p. 104 |
+| the flower (9.5) (Bhutan, Class IV) | Bhutan, *Science, Class IV*, printed p. 129 |
+| plant characteristics (8.2) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 125 |
+| parts of a plant (9.1) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 138 |
+| functions of the root (9.2) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 141 |
+| functions of the stem (9.3) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 144 |
+| parts of a flower (9.4) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 146 |
+| functions of the parts of a flower (9.5) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 150 |
+| how plants adapt to a specific habitat (7.2) (Bhutan, Class VI) | Bhutan, *Science, Class VI*, printed p. 97 |
+| food for plants: photosynthesis introduced (8.1) (Bhutan, Class VI) | Bhutan, *Science, Class VI*, printed p. 113 |
+| the leaf, the food factory (8.2) (Bhutan, Class VI) | Bhutan, *Science, Class VI*, printed p. 118 |
+| transfer of pollen grains: pollination (8.3) (Bhutan, Class VI) | Bhutan, *Science, Class VI*, printed p. 122 |
+| how seeds are formed (8.4) (Bhutan, Class VI) | Bhutan, *Science, Class VI*, printed p. 125 |
+| dispersal and germination of seeds (8.5) (Bhutan, Class VI) | Bhutan, *Science, Class VI*, printed p. 128 |
+
+**Acceptance count: taught in 20 countries (Ethiopia, Sweden, Guyana, Mongolia, India, Greece, Moldova, Pakistan (Punjab), Cuba, Samoa, Egypt, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Bhutan).**
+
+Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: bhutan, bhutan science, science class iv, science class v, science class vi

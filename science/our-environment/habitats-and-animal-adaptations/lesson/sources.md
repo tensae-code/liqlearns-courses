@@ -1,6 +1,6 @@
 # Sources — Habitats — where a living thing lives
 
-countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles, Angola
+countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles, Angola, Bhutan
 
 **Book 1:** *Ciencias Naturales I — Guía de orientaciones metodológicas para docentes, Primero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales I, Guía de orientaciones metodológicas, Para docentes de primero básico. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Primero Básico (Grade 7), teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers). Fetched copy: 12,813,442 bytes, PDF 88 pages. Verdict: COMPLETE (4 learning experiences). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
 
@@ -94,3 +94,28 @@ Placement choice, on the record: the placement(s) above filed as NEW LESSON NEED
 Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, estudo do meio 2, grade 2
+
+## Bhutan growth (2026-11-14, General Science expansion)
+
+**Book (Bhutan — Class IV):** *Science, Class IV* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class IV. Grade: 4 · Student textbook · PDF pages: 197 (byte size 4,242,462 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 11 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+**Book (Bhutan — Class V):** *Science, Class V* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class V. Grade: 5 · Student textbook · PDF pages: 242 (byte size 5,119,276 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 12 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+**Book (Bhutan — Class VII):** *Science, Class VII* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class VII. Grade: 7 · Student textbook · PDF pages: 302 (byte size 6,488,273 — matches the books.json record exactly; cover/title page matches the record title; the TSV record for Class VII is the same book, cited once). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 13 chapters and annexures present and read; the contents page misprints Chapter 13's start as p. 325 — the chapter actually begins at printed p. 255. Scope as filed: in Classes VII–VIII, chapters that are purely Biology, Chemistry or Physics receive one chapter-level line each noting coverage by the earlier split-subject waves and are not placed item by item here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+**Book (Bhutan — Class VIII):** *Science, Class VIII* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class VIII. Grade: 8 · Student textbook · PDF pages: 316 (byte size 7,587,980 — matches the books.json record exactly; cover/title page matches the record title; the TSV record for Class VIII is the same book, cited once). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 13 chapters and annexures present and read. Scope as filed: in Classes VII–VIII, chapters that are purely Biology, Chemistry or Physics receive one chapter-level line each noting coverage by the earlier split-subject waves and are not placed item by item here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| plants and animals in their habitat (8.2) (Bhutan, Class IV) | Bhutan, *Science, Class IV*, printed p. 101 |
+| protecting habitat (10.5) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 167 |
+| adaptation and variation (Ch. 4, Living Things and their Environment) (Bhutan, Class VII) | Bhutan, *Science, Class VII*, printed p. 73 |
+| adaptation and survival (Ch. 4, Living Things and their Environment) (Bhutan, Class VIII) | Bhutan, *Science, Class VIII*, printed p. 76 |
+
+**Acceptance count: taught in 5 countries (Guyana, Mongolia, India, Angola, Bhutan).**
+
+Placement choice, on the record: the Bhutan placement(s) filed as "NEW LESSON NEEDED — animals/habitats-where-plants-and-animals-live" (bhutan-placements.md) are stocked into this lesson, which already covers that thing, and the original slug is recorded here in the provenance rows' filing. No duplicate lesson was built.
+
+Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: bhutan, bhutan science, science class iv, science class v, science class vii, science class viii

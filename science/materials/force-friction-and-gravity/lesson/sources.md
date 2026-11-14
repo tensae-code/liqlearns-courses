@@ -1,6 +1,6 @@
 # Sources — Force, friction and gravity
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Serbia, Iceland (teacher-guide evidence only), India, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -176,3 +176,20 @@ Searchable tags: afghanistan, afghanistan science health and environment, dari, 
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, materials force-friction-and-gravity
+
+## Bhutan growth (2026-11-14, General Science expansion)
+
+**Book (Bhutan — Class V):** *Science, Class V* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class V. Grade: 5 · Student textbook · PDF pages: 242 (byte size 5,119,276 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 12 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the force that opposes: friction introduced (4.1) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 53 |
+| frictional force in everyday life (4.2) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 55 |
+| increasing friction (4.3) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 57 |
+| decreasing friction (4.4) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 60 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Serbia, India, United States, Pakistan (Punjab, Samoa, Egypt, Cambodia, Afghanistan, Venezuela, Bhutan).**
+
+Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: bhutan, bhutan science, science class v

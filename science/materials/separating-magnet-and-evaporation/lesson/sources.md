@@ -1,6 +1,6 @@
 # Sources — Separating mixtures — magnet and evaporation
 
-countries: Ethiopia, Costa Rica, Sudan, Venezuela, Angola
+countries: Ethiopia, Costa Rica, Sudan, Venezuela, Angola, Bhutan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -64,3 +64,20 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, material
 Angola's own way — *Ciências da Natureza* (Grades 5–6) is Angola's nature-science book: the same child who met the world whole in *Estudo do Meio* now meets air, water, soil, energy and the body as nature science, in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: angola, ciências da natureza 5, grade 5
+
+## Bhutan growth (2026-11-14, General Science expansion)
+
+**Book (Bhutan — Class V):** *Science, Class V* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class V. Grade: 5 · Student textbook · PDF pages: 242 (byte size 5,119,276 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 12 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+**Book (Bhutan — Class VI):** *Science, Class VI* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class VI. Grade: 6 · Student textbook · PDF pages: 253 (byte size 5,087,024 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 12 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the magnet as separator (3.5) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 49 |
+| separating a soluble solid: evaporation (3.4) (Bhutan, Class VI) | Bhutan, *Science, Class VI*, printed p. 43 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Costa Rica, Sudan, Venezuela, Angola, Bhutan).**
+
+Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: bhutan, bhutan science, science class v, science class vi

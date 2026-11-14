@@ -1,6 +1,6 @@
 # Sources — Young are like, but not exactly like, their parents
 
-countries: United States
+countries: United States, Bhutan
 
 **Book (United States — Utah Grade 1):** *Utah OER Science Textbook – Grade 1* (student book) — United States. Title as printed: "1st Grade — for Utah SEEd Standards, Revised 2025", Utah State Board of Education OER (CK-12 based), © 2025, CC BY-NC-SA. No ISBN printed. PDF: 50,614,477 bytes (matches repo size), 141 PDF pages. Verdict: COMPLETE. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/united-states-placements.md.
 
@@ -17,3 +17,20 @@ countries: United States
 Placement choice, on the record: this NEW LESSON was built for the United States placement(s) "NEW LESSON NEEDED — young-are-like-but-not-exactly-like-their-parents" — united-states-placements.md, Grade 1 printed p. 83; Grade 3 printed p. 53. No existing general-science lesson covers young resembling their parents as its own thing at this level (checked the live repo at merge time: `animals/inheritance-genes-and-traits` teaches heredity at secondary depth — genes, Mendel's crosses — and no early lesson teaches the parent–young resemblance pattern), so it gets its own lesson. It sits in animals/ and is registered in CURRICULUM.md Unit 9 (Animals). The United States' own way — the Utah SEEd books teach this thing inside their standards order, in the standards named in the rows above — IS part of this lesson's content, carried exactly as the placements describe it.
 
 Searchable tags: inherited traits, parents, young, resemblance, variation, offspring, united states, utah, seed standards
+
+## Bhutan growth (2026-11-14, General Science expansion)
+
+**Book (Bhutan — Class V):** *Science, Class V* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class V. Grade: 5 · Student textbook · PDF pages: 242 (byte size 5,119,276 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 12 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| individuals are different (8.3) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 127 |
+| variation in plants and animals (8.4) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 131 |
+
+**Acceptance count: taught in 2 countries (United States, Bhutan).**
+
+Placement choice, on the record: the Bhutan placement(s) filed as "NEW LESSON NEEDED — animals/variation-in-living-things" (bhutan-placements.md) are stocked into this lesson, which already covers that thing, and the original slug is recorded here in the provenance rows' filing. No duplicate lesson was built.
+
+Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: bhutan, bhutan science, science class v

@@ -1,6 +1,6 @@
 # Sources — Separating mixtures — settling, pouring off and filtering
 
-countries: Ethiopia, Costa Rica, Seychelles, Ecuador, Sudan
+countries: Ethiopia, Costa Rica, Seychelles, Ecuador, Sudan, Bhutan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -58,3 +58,19 @@ Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ec
 
 **Acceptance count: taught in 4 countries (Ethiopia, Costa Rica, Ecuador, Sudan).**
 Searchable tags: sudan, sudan grade 6, materials/separating-settling-pouring-and-filtering
+
+## Bhutan growth (2026-11-14, General Science expansion)
+
+**Book (Bhutan — Class IV):** *Science, Class IV* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class IV. Grade: 4 · Student textbook · PDF pages: 197 (byte size 4,242,462 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 11 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| sedimentation and decantation (4.1) (Bhutan, Class IV) | Bhutan, *Science, Class IV*, printed p. 46 |
+| separating insoluble substances by sedimentation and decantation (4.2) (Bhutan, Class IV) | Bhutan, *Science, Class IV*, printed p. 49 |
+| separating insoluble substances by filtration (4.3) (Bhutan, Class IV) | Bhutan, *Science, Class IV*, printed p. 52 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Costa Rica, Ecuador, Sudan, Bhutan).**
+
+Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: bhutan, bhutan science, science class iv

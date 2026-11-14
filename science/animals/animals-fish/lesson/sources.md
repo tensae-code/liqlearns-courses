@@ -1,6 +1,6 @@
 # Sources — Animals — fish
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Cabo Verde (teacher-guide evidence only), Sudan
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Cabo Verde (teacher-guide evidence only), Sudan, Bhutan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -141,3 +141,17 @@ Searchable tags: cabo verde, ciencias integradas, atividades cientificas, minist
 
 **Acceptance count: taught in 8 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Sudan).**
 Searchable tags: sudan, sudan grade 6, animals/animals-fish
+
+## Bhutan growth (2026-11-14, General Science expansion)
+
+**Book (Bhutan — Class VI):** *Science, Class VI* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class VI. Grade: 6 · Student textbook · PDF pages: 253 (byte size 5,087,024 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 12 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| fishes (9.2) (Bhutan, Class VI) | Bhutan, *Science, Class VI*, printed p. 139 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Sweden, Nauru, Tuvalu, Niue, Bulgaria, Moldova, Sudan, Bhutan).**
+
+Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: bhutan, bhutan science, science class vi

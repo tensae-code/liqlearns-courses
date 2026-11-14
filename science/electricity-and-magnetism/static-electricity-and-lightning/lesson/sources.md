@@ -1,6 +1,6 @@
 # Sources — Static electricity and lightning
 
-countries: Pakistan (Punjab), Afghanistan, Sudan
+countries: Pakistan (Punjab), Afghanistan, Sudan, Bhutan
 
 **Book (Pakistan (Punjab) — Grade 5):** *General Science 5* (Urdu-medium edition) (student book) — Pakistan (Punjab), Punjab Curriculum and Textbook Board, Lahore (cover and imprint pages). Grade 5, student book, in Urdu with English section titles. Records: TSV blob record + books.json `grade-05/gov/pakistan/general-science/student/full-year.pdf` — the same book (one title, two records), cited once here. Fetched copy: 35,264,002 bytes, 104 PDF pages, image-only (the complete copy was verified by cover, contents and final index page). Printed pagination runs 1–102 (printed p. = PDF p. − 2). Verdict: COMPLETE — read in full from 100-DPI page renders. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/pakistan-placements.md.
 
@@ -38,3 +38,19 @@ Searchable tags: afghanistan, afghanistan science health and environment, dari, 
 Placement choice, on the record: the Sudan placement(s) above filed as "NEW LESSON NEEDED — static-electricity-and-lightning" stock into this existing lesson, which already covers that thing as its own lesson (built earlier in this wave / earlier in the course) — checked the live repo at merge time; no second lesson is built, and the original slug is recorded in each row above.
 **Acceptance count: taught in 3 countries (Pakistan (Punjab), Afghanistan, Sudan).**
 Searchable tags: sudan, sudan grade 5, electricity-and-magnetism/static-electricity-and-lightning
+
+## Bhutan growth (2026-11-14, General Science expansion)
+
+**Book (Bhutan — Class V):** *Science, Class V* (student textbook) — Bhutan, Department of School Education (DSE), Ministry of Education and Skills Development (MoESD), Thimphu; provisional edition 2013, first edition 2017, second edition 2020, reprint 2024; copyright 2023 DSE, MoESD. Title as printed: Science, Class V. Grade: 5 · Student textbook · PDF pages: 242 (byte size 5,119,276 — matches the books.json record exactly; cover/title page matches the record title). No ISBN printed in the front matter read. Verdict: COMPLETE — contents, all 12 chapters and annexures present and read. Scope as filed: Classes IV–VI are primary integrated science, placed section by section. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/bhutan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| static electricity (6.3) (Bhutan, Class V) | Bhutan, *Science, Class V*, printed p. 93 |
+
+**Acceptance count: taught in 4 countries (Pakistan (Punjab), Afghanistan, Sudan, Bhutan).**
+
+Placement choice, on the record: the Bhutan placement(s) filed as "NEW LESSON NEEDED — electricity-and-magnetism/static-electricity" (bhutan-placements.md) are stocked into this lesson, which already covers that thing, and the original slug is recorded here in the provenance rows' filing. No duplicate lesson was built.
+
+Bhutan's own way — its Classes IV–VIII *Science* textbooks open every level with the same nine-step scientific process (observation, questioning, hypothesis, background information, design, data collection, analysis, conclusion, sharing) and teach this lesson's thing in the order and at the places named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: bhutan, bhutan science, science class v
