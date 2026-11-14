@@ -1,6 +1,6 @@
 # Sources — Mixtures and how to separate them
 
-countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only)
+countries: Ethiopia, Timor-Leste (teacher-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Vanuatu (teacher-guide evidence only), Costa Rica
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -83,3 +83,15 @@ Vanuatu is named as teacher-guide evidence only (*SAENS — Tija Gaed, Yia 3* �
 Vanuatu's own way — matter that can dissolve, and materials sorted by whether they change in a short or a long time, taught in Bislama in the guide's Term 2 strand — is itself course content, carried exactly as filed.
 
 Searchable tags: vanuatu, saens tija gaed, bislama, year 3, dissolve, short or long time
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 7):** *Ciencias, Sétimo, Código 80002, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. Title as printed: Ciencias, Sétimo, Código 80002, Antologías CONED. Publisher: Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. PDF 126 pages, 2,240,726 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (six units, bibliography on printed p. 126). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Separating mixtures: the methods surveyed (Costa Rica, Grade 7) | Costa Rica, *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 94 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7

@@ -1,6 +1,6 @@
 # Sources — Seasons and climate zones of our country
 
-countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy, Mongolia
+countries: Ethiopia, Mexico, Zambia (teacher-module evidence only), Italy, Mongolia, Costa Rica
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -72,3 +72,15 @@ Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto,
 Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, seasons and climate zones of our country, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 1
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 9):** *Ciencias, Noveno, Código 80014, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED. Title as printed: Ciencias, Noveno, Código 80014, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED. PDF 292 pages, 12,221,835 bytes (matches books.json size_bytes and pages exactly; the TSV release record is the same file, verified by size). Verdict: COMPLETE (six units, annex and bibliography on printed pp. 291–292). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Are there seasons in Costa Rica? The country's own two-season answer (Costa Rica, Grade 9) | Costa Rica, *Ciencias, Noveno, Código 80014, Antologías CONED*, printed p. 266 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Mexico, Italy, Mongolia, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 9

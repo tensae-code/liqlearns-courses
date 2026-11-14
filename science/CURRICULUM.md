@@ -490,6 +490,7 @@ solar-system comparison lessons.
 60. **Dissolving — when solids disappear into liquids** (`materials/dissolving-when-solids-disappear-into-liquids`) — water and other liquids as solvents: a solid disappears into the liquid and is still there, and the dissolving races test what changes the speed — fine sugar against cubes, stirring against still, warm water against cold (Serbia, Grade 3 — *Природа и друштво 3*, printed p. 112)
 61. **Rocks — and what they are** (`materials/rocks-and-what-they-are`) — what rocks are: the hard, natural solid material the Earth itself is made of — not alive, not made by people — met in the cliff, the river stone and the pebble — teacher-guide evidence only, acceptance 0 (Albania, Grade 2 — *Libër mësuesi — Dituri natyre 2*, printed p. 43)
 62. **Evaporation — and what speeds it up** (`materials/evaporation-and-what-speeds-it-up`) — evaporation as a liquid turning into vapour from its surface without boiling, and its speed factors: warmth, moving air and a wider surface speed it up; cold, still air and a small surface slow it down — teacher-guide evidence only, acceptance 0 (Albania, Grade 5 — *Libër mësuesi — Dituri natyre 5*, printed p. 38)
+63. **Colloids and the Tyndall effect** (`materials/colloids-and-the-tyndall-effect`) — a colloid is a mixture whose tiny particles are spread through another substance and never settle out; the Tyndall effect — a light beam's path made visible as the colloid's particles scatter it — is the test that tells a colloid from a true solution (Costa Rica, Grade 7 — *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 92)
 
 
 ## Unit 5 — Light
@@ -522,6 +523,7 @@ solar-system comparison lessons.
 6. **Weather and climate** (`weather-and-seasons/weather-and-climate`) — weather changes hour by hour; climate is the air's long pattern — the Grade 3 book says judging it needs at least 30 years of records — and its ele…
 7. **What controls a place's climate** (`weather-and-seasons/what-controls-a-places-climate`) — three things control a place's climate — height above sea level, distance from the equator, and distance from seas and oceans: near the equator is …
 8. **El Niño — when the Pacific warms** (`weather-and-seasons/el-nino-when-the-pacific-warms`) — every 3–7 years the trade winds weaken, the upwelling stops and the eastern Pacific warms — named "the Christmas child" by South American fishermen because it is noticed near Christmas — teacher/article evidence only, acceptance 0 (Iceland, Grade 11 record — *El Niño* (Í dagsins önn article sheet), printed p. 1)
+9. **El Niño and La Niña — ENOS** (`weather-and-seasons/el-nino-and-la-nina-enos`) — ENOS, the El Niño–Southern Oscillation, taught whole: the warm phase (El Niño) and the cold phase (La Niña) as the two ends of one Pacific swing, each with its effects (Costa Rica, Grade 7 — *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 117)
 
 
 ## Unit 7 — Soil and Water
@@ -542,6 +544,7 @@ solar-system comparison lessons.
 14. **River basins — watersheds** (`soil-and-water/river-basins-watersheds`) — hydrographic basins: what a basin is and its characteristics — the land a river system drains — the distribution of Mexico's basins, and basins in economic development (Mexico, Grade 7 — *Ética, naturaleza y sociedades, Primer grado de secundaria*, printed pp. 87–92)
 15. **Rivers and lakes — where water gathers and flows** (`soil-and-water/rivers-and-lakes-where-water-gathers-and-flows`) — surface waters: the parts of a river — source, course, bed, mouth and banks — lowland and mountain rivers, and lakes and ponds (Serbia, Grade 3 — *Природа и друштво 3*, printed p. 6)
 16. **Frost heave and þúfur mounds** (`soil-and-water/frost-heave-and-thufur-mounds`) — þúfur, the heath's little mounds, are frost-made: moist soil put in a freezer expands and lifts as it freezes, and that same lifting, winter after winter, raises the mounds — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed p. 41)
+17. **Community water supply and rural aqueducts** (`soil-and-water/community-water-supply-and-rural-aqueducts`) — rural aqueducts that supply community drinking water, administered in Costa Rica by the community's own water association, an ASADA, under official rules — the country's own way (Costa Rica, Grade 7 — *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 113)
 
 
 ## Unit 8 — Plants
@@ -654,6 +657,7 @@ solar-system comparison lessons.
 44. **Cloud forest** (`our-environment/cloud-forest`) — the mountaintop forest standing in cloud: thin soil, small trees, and mosses and ferns covering everything (Micronesia, Grades 6–8 — *Pacific High Island Environments*, printed p. 7)
 45. **Estuaries — where river meets sea** (`our-environment/estuaries-where-river-meets-sea`) — fresh and salt water mix; the saltiness changes with the tide and with distance, and the mixing makes a rich food supply (Micronesia, Grades 6–8 — *Pacific High Island Environments*, printed p. 13)
 46. **Patch reefs** (`our-environment/patch-reefs`) — solid reef islands on the lagoon floor, growing toward the sunlight, giving shallow-water animals their hiding places (Micronesia, Grades 6–8 — *Pacific Low Island Environments*, printed p. 13)
+47. **Flood and landslide emergency plans** (`our-environment/flood-and-landslide-emergency-plans`) — making a community emergency plan for floods and landslides before the emergency comes — Costa Rica's own preparedness task (Costa Rica, Grade 7 — *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 124)
 
 
 ## Unit 12 — Family, School and Community
@@ -2598,6 +2602,8 @@ solar-system comparison lessons.
 59. **Iceland — the volcanic island and its landscapes** (`earth-and-space/iceland-volcanic-island-and-its-landscapes`) — learning about Iceland the volcanic island — the country's own home-island opening — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.6 aims, printed p. 1)
 60. **Highlands and lowlands** (`earth-and-space/highlands-and-lowlands`) — getting to know the difference between highland and lowland — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.6 aims, printed p. 1)
 61. **How an atoll and low island form** (`earth-and-space/how-an-atoll-and-low-island-form`) — a ring reef (atoll) in the sea, and piles of coral and shell sand growing on it into narrow, flat islands (Micronesia, Grades 6–8 — *Pacific Low Island Environments*, printed p. 2)
+62. **Rock types — igneous, sedimentary, metamorphic** (`earth-and-space/rock-types-igneous-sedimentary-metamorphic`) — all rocks sorted into three types by how they form: igneous from cooled melted rock, sedimentary from settled layers pressed into rock, metamorphic from existing rock changed by heat and pressure (Costa Rica, Grade 8 — *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 118)
+63. **Earthquakes and the Richter scale** (`earth-and-space/earthquakes-and-the-richter-scale`) — earthquakes (sismos) as phenomena that alter the geosphere, their classification, and the Richter scale that measures an earthquake's magnitude (Costa Rica, Grade 8 — *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 120)
 
 
 ## Unit 20 — Motion, Force and Energy
@@ -2622,6 +2628,8 @@ solar-system comparison lessons.
 18. **Lift — how a wing's pressure difference holds a glider up** (`motion-force-and-energy/lift-how-a-wing-holds-a-glider-up`) — a wing's curved top leaves lower pressure above and higher below, and the difference is lift: paper-helicopter rotors and engineless gliders both fly on it, a glider paying with height at the rate of its glide ratio G = D/H — instructor-pack evidence only, acceptance 0 (Finland, Grade 1 recorded — Fysiikkaa: Tutkitaan ilmaa ja lämpöä)
 19. **Energy — first noticing** (`motion-force-and-energy/energy-first-noticing`) — energy met for the first time, by noticing it at work in the things around us — shining, warming, sounding, moving — inside a materials unit, before forms, sources or measuring — teacher-module evidence only, acceptance 0 (Zambia, Grade 1 — *Mathematics and Science Teaching Module, Grade 1, Module 2*, Topic 4, Sub-Topic 2, printed p. 28)
 20. **Air and water resistance — drag** (`motion-force-and-energy/air-and-water-resistance-drag`) — learning about water resistance and air resistance, taught as one pair — teacher-guide evidence only, acceptance 0 (Iceland, Grade 3 — *Halló heimur 3*, Ch.2 aims, printed p. 1)
+21. **Conservation of energy and matter** (`motion-force-and-energy/conservation-of-energy-and-matter`) — the law of conservation of matter and energy stated as one law: matter is rearranged and energy is converted — neither is created or destroyed (Costa Rica, Grade 8 — *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 47)
+22. **Energy in food — calories and joules** (`motion-force-and-energy/energy-in-food-calories-and-joules`) — the joule, the unit of energy, met through the calories that measure the energy held in food (Costa Rica, Grade 8 — *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 54)
 
 
 ## Unit 21 — Sound

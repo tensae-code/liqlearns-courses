@@ -1,6 +1,6 @@
 # Sources — Measuring: units of mass, length and time
 
-countries: Ethiopia, Afghanistan
+countries: Ethiopia, Afghanistan, Costa Rica
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -32,3 +32,16 @@ Pairing note for this growth: the teacher guide's Unit 1 has NO scientific-measu
 Pairing note (carried exactly): the Grade 7 teacher guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.) — same syllabus and unit order, but its activity/exercise numbering differs. Guide material is filed as syllabus-level teacher evidence, never as a page-key to the student book.
 
 Growth (2026-11-12, Band GS-A): Grade 7 Unit 1 item 7 grows this lesson at greater depth — the same units teaching, raised to the fundamental/derived sort with SI units. The earlier Grade 4/5 parts above are unchanged.
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 7):** *Ciencias, Sétimo, Código 80002, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. Title as printed: Ciencias, Sétimo, Código 80002, Antologías CONED. Publisher: Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. PDF 126 pages, 2,240,726 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (six units, bibliography on printed p. 126). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Measuring and estimating: what measuring is, standards (patrones) and the SI base units (Costa Rica, Grade 7) | Costa Rica, *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 52 |
+| SI derived units, multiples and submultiples, and unit conversions step by step (Costa Rica, Grade 7) | Costa Rica, *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 55 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Afghanistan, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7

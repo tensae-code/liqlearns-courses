@@ -1,6 +1,6 @@
 # Sources — Cycles — the water cycle
 
-countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia
+countries: Ethiopia, Cuba, Finland, Mexico, Suriname, Guatemala (teacher-guide evidence only), Italy, Serbia, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Mongolia, Costa Rica
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -126,3 +126,15 @@ Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, cycles the water cycle, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 7):** *Ciencias, Sétimo, Código 80002, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. Title as printed: Ciencias, Sétimo, Código 80002, Antologías CONED. Publisher: Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. PDF 126 pages, 2,240,726 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (six units, bibliography on printed p. 126). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The hydrological cycle and its phases (evaporation, condensation, …) (Costa Rica, Grade 7) | Costa Rica, *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 110 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Cuba, Finland, Mexico, Suriname, Italy, Serbia, Mongolia, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7

@@ -1,6 +1,6 @@
 # Sources — Elements, compounds and mixtures
 
-countries: Ethiopia
+countries: Ethiopia, Costa Rica
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -32,3 +32,16 @@ Searchable tags: matter atoms, elements metals non-metals metalloids, compounds 
 | Grade 7 pure substances; elements (118 known, 92 natural); metals, non-metals, metalloids; mercury and bromine exceptions; Experiment 2.4; compounds in fixed ratio | Ethiopia, *General Science Student Textbook, Grade 7*, Unit 2, printed pp. 40–44 |
 
 Acceptance count unchanged: taught in 1 country (Ethiopia).
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 7):** *Ciencias, Sétimo, Código 80002, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. Title as printed: Ciencias, Sétimo, Código 80002, Antologías CONED. Publisher: Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. PDF 126 pages, 2,240,726 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (six units, bibliography on printed p. 126). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Classification of matter: pure substances, elements and compounds (Costa Rica, Grade 7) | Costa Rica, *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 88 |
+| Mixtures: heterogeneous and homogeneous mixtures (dissolutions), unsaturated/saturated (Costa Rica, Grade 7) | Costa Rica, *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 88 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7

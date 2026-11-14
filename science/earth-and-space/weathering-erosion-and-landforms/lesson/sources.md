@@ -1,6 +1,6 @@
 # Sources — Weathering, erosion and landforms
 
-countries: Mexico, Italy
+countries: Mexico, Italy, Costa Rica
 
 **Book 1:** *Ética, naturaleza y sociedades, Primer grado de secundaria* (student, Grade 7; Colección Ximhai, SEP) — Mexico, Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Title as printed: Ética, naturaleza y sociedades, Primer grado de secundaria. Publisher: Secretaría de Educación Pública (SEP), Mexico (Nueva Escuela Mexicana free textbook). Accessible PDF 311 pages (print edition 351 pp.). Verdict: COMPLETE. Distinct book cited once from its several records, as filed: the TSV file is a Braille/ink transcription of the same free textbook (258 PDF pages, its own note says it transcribes the printed book); the two books.json files are the Colección Ximhai accessible editions for secundaria and telesecundaria (both 311 PDF pages, text identical apart from a few front-matter lines). Scope note, carried as filed: this book mixes ethics, history, geography and civics with nature study — only the nature/science parts are placed. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/mexico-placements.md.
 
@@ -22,3 +22,17 @@ countries: Mexico, Italy
 Placement choice, on the record: This NEW LESSON was built for the Mexico placement "NEW LESSON NEEDED — weathering-erosion-and-landforms" — mexico-placements.md, printed pp. 54–61; the placements file notes it was already proposed for Italy's relief unit, and Italy stocks into this lesson at its own merge. No existing general-science lesson covers the generating and modelling of relief as its own thing (checked the live repo at merge time), so it gets its own lesson. It sits in earth-and-space/ and is registered in CURRICULUM.md Unit 19 (Earth and Space). Mexico's own way — relief taught as internal generation plus external modelling, over continental and ocean forms together — IS part of this lesson's content, carried exactly as the placement describes it.
 
 Searchable tags: weathering, erosion, landforms, relief, internal factors, external factors, continental relief, ocean relief, mexico, grade 7, etica naturaleza y sociedades
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 8):** *Ciencias, Octavo, Código 80008, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED, © 2018. Title as printed: Ciencias, Octavo, Código 80008, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED, © 2018. PDF 132 pages, 1,731,133 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (units through the geosphere, bibliography on printed p. 132). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| External agents that modify the relief of the surface — placement filed as NEW LESSON NEEDED — weathering-and-erosion-agents-that-shape-the-land, stocked into this existing lesson, which already covers the external factors that model relief; the original slug is recorded in this row (Costa Rica, Grade 8) | Costa Rica, *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 119 |
+
+**Acceptance count: taught in 3 countries (Mexico, Italy, Costa Rica).**
+
+Placement choice, on the record: this placement was filed as NEW LESSON NEEDED — weathering-and-erosion-agents-that-shape-the-land (costa-rica-placements.md, Ciencias CONED 8, printed p. 119); it is stocked into this existing lesson because that lesson already covers external factors modelling relief as its own sub lesson, so no new lesson was built for it.
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 8

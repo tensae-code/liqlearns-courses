@@ -1,6 +1,6 @@
 # Sources — Measurement — quantities, units, prefixes, accuracy and precision (Grade 8)
 
-countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only)
+countries: Ethiopia, Cuba (programme/teacher-guide evidence only), Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Costa Rica
 
 **Book 1:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp. Printed page = PDF page (1:1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
 
@@ -27,3 +27,17 @@ Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-sy
 Guide placement: Grade 8 teacher item 2 (§1.1, printed pp. 9–17). The Grade 8 student book contains no measurement section — its Unit 1 opens at doing investigations — so no part of this lesson is page-keyed to it. GUIDE KEY ERRORS, corrected before use and flagged here as required: (1) the guide's Exercise 1.5 key gives 0.0012 s as “1.2 µs” — wrong; 0.0012 s is 1.2 × 0.001 s = **1.2 ms**, and the lesson and questions teach 1.2 ms. (2) The guide's Exercise 1.12 key gives the SI unit of mass as “kilogram (m)” — the unit name is right and the symbol is wrong; the symbol is **kg** (m is the metre), and the lesson and questions teach kg. The Grade 7 partner lessons (units and relations; scalars, vectors and prefixes; accuracy and precision from boiling-water readings) stand on the Grade 7 student book; this lesson's dart-player example and 12.17 m/s² verdict are the guide's own, and no Grade 7 content is re-keyed here.
 
 Searchable tags: measurement, fundamental quantities seven, derived quantities, SI units, prefixes conversions, accuracy precision dart, 12.17 9.81 verdict, indigenous measures reliability, Grade 8 guide 1.1, jamaica, jamaica nsc integrated science, trinidad and tobago, trinidad and tobago ncse integrated science
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 8):** *Ciencias, Octavo, Código 80008, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED, © 2018. Title as printed: Ciencias, Octavo, Código 80008, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED, © 2018. PDF 132 pages, 1,731,133 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (units through the geosphere, bibliography on printed p. 132). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Estimación y Medición unit opening: estimating and measuring (Grade 8 unit) (Costa Rica, Grade 8) | Costa Rica, *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 63 |
+
+**Acceptance count: taught in 1 country (Costa Rica).**
+
+Costa Rica's student book is this lesson's first counted country; the earlier rows stand on guide/curriculum evidence only, counted nowhere.
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 8

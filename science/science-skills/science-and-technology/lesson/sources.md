@@ -1,6 +1,6 @@
 # Sources — Science and technology — how they differ and feed each other
 
-countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only), Suriname
+countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only), Suriname, Costa Rica
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -41,3 +41,20 @@ Searchable tags: science and technology, reciprocal, light bulb Edison 1879, dis
 Suriname's own way — Suriname's one technology lesson in the book is the learner's own machine — *Mijn computer*, my computer — is itself course content, carried exactly as filed.
 
 Searchable tags: suriname, mijn computer, my computer, technology, natuuronderwijs
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 7):** *Ciencias, Sétimo, Código 80002, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. Title as printed: Ciencias, Sétimo, Código 80002, Antologías CONED. Publisher: Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. PDF 126 pages, 2,240,726 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (six units, bibliography on printed p. 126). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+**Book (Costa Rica — Grade 9):** *Ciencias, Noveno, Código 80014, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED. Title as printed: Ciencias, Noveno, Código 80014, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED. PDF 292 pages, 12,221,835 bytes (matches books.json size_bytes and pages exactly; the TSV release record is the same file, verified by size). Verdict: COMPLETE (six units, annex and bibliography on printed pp. 291–292). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science, technology and society: how scientific advances (nanotechnology, fertilisers, antivenom sera made in Costa Rica) change daily life (Costa Rica, Grade 7) | Costa Rica, *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 33 |
+| Costa Rican scientists and what each contributed (the country's own way of teaching science-and-society) (Costa Rica, Grade 7) | Costa Rica, *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 39 |
+| Nanotechnology: the tool of the future (inside the compounds unit) (Costa Rica, Grade 9) | Costa Rica, *Ciencias, Noveno, Código 80014, Antologías CONED*, printed p. 146 |
+| Biotechnology techniques and the advances of 2018 (Costa Rica, Grade 9) | Costa Rica, *Ciencias, Noveno, Código 80014, Antologías CONED*, printed p. 216 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Cook Islands, Suriname, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7, grade 9

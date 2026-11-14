@@ -1,6 +1,6 @@
 # Sources — Doing science honestly — ethics and Ethiopian scientists
 
-countries: Ethiopia, Laos (teacher-guide evidence only), Australia
+countries: Ethiopia, Laos (teacher-guide evidence only), Australia, Costa Rica
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -37,3 +37,15 @@ Pairing warning (carried exactly): the Grade 8 teacher guide is a federal new-sy
 Growth (2026-11-12, Band GS-H): Grade 8 student item 5 (ethics of investigation, printed pp. 8–9 — end of §1.1; the page range was corrected on the completed re-read, the ethics passage itself sitting at pp. 8–9) grows this lesson at greater depth as Sub lesson 3 — the same ethics, raised from the Grade 7 five disciplines to subject work: honesty, transparency, objectivity, safety, no harm, and mice as model animals. The earlier Grade 7 parts above are unchanged. No Grade 8 guide material is used in this lesson.
 
 Searchable tags: scientific ethics, honesty, credit, unbiased, transparency, objectivity, safety, no harm, model animals mice, Kitaw Ejigu, Sossina Haile, Gebisa Ejeta, Rediet Abebe, Aklilu Lemma, Alemtsehay Mekonnen, Ethiopian scientists, Grade 7 Unit 1, Grade 8 Unit 1, laos, australia, pearson science 9
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 7):** *Ciencias, Sétimo, Código 80002, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. Title as printed: Ciencias, Sétimo, Código 80002, Antologías CONED. Publisher: Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. PDF 126 pages, 2,240,726 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (six units, bibliography on printed p. 126). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Case study: the 2010 swine-flu pandemic and judging health claims (Costa Rica, Grade 7) | Costa Rica, *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 45 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Australia, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7

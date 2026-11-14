@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only)
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -92,3 +92,15 @@ Placement choice, on the record: the Ghana placements were filed for `keeping-he
 Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
 
 Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 9):** *Ciencias, Noveno, Código 80014, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED. Title as printed: Ciencias, Noveno, Código 80014, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED. PDF 292 pages, 12,221,835 bytes (matches books.json size_bytes and pages exactly; the TSV release record is the same file, verified by size). Verdict: COMPLETE (six units, annex and bibliography on printed pp. 291–292). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Functional diseases of the human being: the common diseases of Costa Rica, their causes and consequences (Costa Rica, Grade 9) | Costa Rica, *Ciencias, Noveno, Código 80014, Antologías CONED*, printed p. 39 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 9

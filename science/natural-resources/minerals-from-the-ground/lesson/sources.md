@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy
+countries: Ethiopia, Italy, Costa Rica
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -37,3 +37,16 @@ Grade 5/6 extension (2026-11-12): both student books are COMPLETE. The teacher-g
 The Grade 5 teacher guide scan is TRUNCATED: printed pp. 1–75 (Units 1–3) are held; Units 4–5 (printed pp. 76–106) are missing from the library file. Rows from it are teacher-guide evidence and never count as pupil-taught.
 
 Searchable tags: minerals, non-renewable, stone gravel sand salt iron, coal gold, minerals from the ground, limestone, granite, opal, copper, jewellery, export income
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 8):** *Ciencias, Octavo, Código 80008, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED, © 2018. Title as printed: Ciencias, Octavo, Código 80008, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED, © 2018. PDF 132 pages, 1,731,133 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (units through the geosphere, bibliography on printed p. 132). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Minerals and their deposits (yacimientos) (Costa Rica, Grade 8) | Costa Rica, *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 121 |
+| Minerals in Costa Rica and their uses, gold first (the country's own way) (Costa Rica, Grade 8) | Costa Rica, *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 122 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Italy, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 8

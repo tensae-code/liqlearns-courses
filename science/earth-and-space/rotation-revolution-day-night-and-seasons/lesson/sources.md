@@ -1,6 +1,6 @@
 # Sources — The Earth — rotation, revolution, day-night and seasons
 
-countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia
+countries: Ethiopia, Finland (teacher-training evidence only), Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Albania (teacher-guide evidence only), Mongolia, Costa Rica
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -111,3 +111,15 @@ Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher gu
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, rotation revolution day night and seasons, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 5
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 9):** *Ciencias, Noveno, Código 80014, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED. Title as printed: Ciencias, Noveno, Código 80014, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED. PDF 292 pages, 12,221,835 bytes (matches books.json size_bytes and pages exactly; the TSV release record is the same file, verified by size). Verdict: COMPLETE (six units, annex and bibliography on printed pp. 291–292). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The change of the seasons (Costa Rica, Grade 9) | Costa Rica, *Ciencias, Noveno, Código 80014, Antologías CONED*, printed p. 264 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Uzbekistan, Vietnam, Cuba, Kazakhstan, Suriname, Mongolia, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 9

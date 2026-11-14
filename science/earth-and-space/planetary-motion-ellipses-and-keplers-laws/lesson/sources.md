@@ -1,6 +1,6 @@
 # Sources — Planetary motion — ellipses and Kepler's laws
 
-countries: Ethiopia, Malaysia, Kuwait, India, South Sudan, Kazakhstan
+countries: Ethiopia, Malaysia, Kuwait, India, South Sudan, Kazakhstan, Costa Rica
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -61,3 +61,15 @@ GUIDE KEY ERRORS, corrected before use: the guide's Exercises 6.2/6.4 answer key
 The ellipse-construction craft and the ESSTI / Ethiopian satellites material in Sub lesson 2 come from the teacher guide (guide item 19, printed pp. 103–107) and are labelled teacher evidence wherever they appear; the guide's Venus-watch project (Project 6.1) is carried in hands-on.md.
 
 Searchable tags: Kepler's laws, ellipse, eccentricity, foci, retrograde marble model, ESSTI, Entoto Observatory, Ethiopia satellites, Ethiopia Grade 8 General Science Unit 6, south sudan
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 9):** *Ciencias, Noveno, Código 80014, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / CONED. Title as printed: Ciencias, Noveno, Código 80014, Antologías CONED. Publisher: Universidad Estatal a Distancia / CONED. PDF 292 pages, 12,221,835 bytes (matches books.json size_bytes and pages exactly; the TSV release record is the same file, verified by size). Verdict: COMPLETE (six units, annex and bibliography on printed pp. 291–292). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Kepler's laws of planetary motion (Costa Rica, Grade 9) | Costa Rica, *Ciencias, Noveno, Código 80014, Antologías CONED*, printed p. 273 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Malaysia, Kuwait, India, South Sudan, Kazakhstan, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 9

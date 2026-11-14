@@ -1,6 +1,6 @@
 # Sources — Laboratory equipment — names, uses, and making your own
 
-countries: Ethiopia, Moldova, Cuba
+countries: Ethiopia, Moldova, Cuba, Costa Rica
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -20,3 +20,15 @@ countries: Ethiopia, Moldova, Cuba
 Pairing note (carried exactly): the Grade 7 teacher guide is an Addis Ababa bureau book (2023), NOT edition-matched to the Amhara student book (© 2015 E.C.) — same syllabus and unit order, but its activity/exercise numbering differs. Guide material is filed as syllabus-level teacher evidence, never as a page-key to the student book.
 
 Searchable tags: laboratory equipment, test tube, funnel, beaker, flask, wire gauze, tongs, microscope, magnifier, making your own, local materials, evaporation task, Grade 7 Unit 1
+
+## Costa Rica growth (2026-11-13, General Science expansion)
+
+**Book (Costa Rica — Grade 7):** *Ciencias, Sétimo, Código 80002, Antologías CONED* (student book) — Costa Rica, Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. Title as printed: Ciencias, Sétimo, Código 80002, Antologías CONED. Publisher: Universidad Estatal a Distancia / Colegio Nacional de Educación a Distancia (CONED), © 2017. PDF 126 pages, 2,240,726 bytes (matches books.json size_bytes and pages exactly). Verdict: COMPLETE (six units, bibliography on printed p. 126). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/costa-rica-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Measuring instruments including the vernier calliper for small, precise lengths (Costa Rica, Grade 7) | Costa Rica, *Ciencias, Sétimo, Código 80002, Antologías CONED*, printed p. 54 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Moldova, Cuba, Costa Rica).**
+
+Searchable tags: costa rica, ciencias, coned, antologías coned, grade 7
