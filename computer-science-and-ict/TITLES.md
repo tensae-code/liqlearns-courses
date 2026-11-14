@@ -763,3 +763,11 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Multimedia** (ICT expansion, from Azerbaijan): Text Inside a Picture in Paint
 
 **Computers in Society** (ICT expansion, from Mozambique): ICT in STEM Learning and Careers · Language and Netiquette in Digital Environments · ICT in Agriculture
+
+**Programming** (ICT expansion, from Finland): What Programming Is — Giving Instructions to a Computer · Starting a Script with an Event — the Green Flag · Adding and Drawing Your Own Scratch Sprite · Adding and Switching a Scratch Backdrop · Parallel Scripts — Running at the Same Time in Scratch · Controlling a Program by Changing the Backdrop · Hiding and Showing Sprites — and the Wait Until Block · Stopping Scripts — and Moving a Sprite with X and Y Coordinates · Designing a Maze Game — Story, Character and Goal · Drawing Maze Levels as Backdrops — One Wall Colour · Programming the Maze — Start, and Mouse Following · Moving Enemies — and a Chasing Enemy — in a Maze Game · Broadcasting Messages Between Sprites in Scratch · Remixing Shared Projects — and the Scratch Backpack · Descriptive Naming of Sprites, Costumes and Backdrops
+
+**Multimedia** (ICT expansion, from Finland): Adding Sounds and a Music Loop in Scratch · Gradients and Shadows That Make Depth in a Game · Bitmap Pictures and Vector Pictures in the Paint Editor
+
+**Files and Folders** (ICT expansion, from Finland): Saving and Versioning a Scratch Project
+
+**Computers in Society** (ICT expansion, from Finland): Giving Peer Feedback on a Programming Project
