@@ -12,6 +12,8 @@ countries: Ethiopia, Tanzania, Sudan
 
 **Book 5:** *مقدمة في نظم معالجة البيانات والبرمجة (Introduction to Data Processing Systems and Programming), Grade 11 — Second Secondary* (student book, Arabic; the record's علوم الحاسوب (Computer Science) is the subject name on the wrapper cover) — Sudan, Republic of Sudan, Ministry of Education and General Education, National Centre for Curriculum and Educational Research — Bakht Al-Ruda; prepared by Dr Awad Haj Ali. Year 2008, second edition (legal deposit 2008/769). ISBN 978-99942-53-26-5. 74 PDF pages. Verdict: COMPLETE — the PDF's text layer is garbled, so the book was read visually from 100-DPI contact sheets; the PDF carries a third-party student-site wrapper cover around the official book. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 6:** *Programa — Mi Mundo Digital III, quinto grado* (teacher programme, Spanish; title as printed: Programa — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4592-9 (print) / 978-959-13-4596-7 (digital). 27 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher programme — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Whole lesson — backup and recovery defined, what a backup copies, separate system or medium, the four dangers, restoring | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 1, printed pp. 20, 22 |
@@ -19,6 +21,7 @@ countries: Ethiopia, Tanzania, Sudan
 | Data backup | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 122 |
 | Unit 2, Topic File Management, Lesson 3: Importance of Backup (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 73 (teacher guide — evidence, PARTIAL) |
 | Unit 1, 1-7: Security of files in automated systems — backup copies | Sudan, *Computer Science, Grade 11*, printed p. 6 |
+| Unidad 2.8 Conservación en dispositivos de almacenamiento externos (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 14 (teacher programme — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Tanzania, Sudan).**
 
@@ -28,4 +31,6 @@ Papua New Guinea's own way (Grade 10): Grade 10 jumps from using computers to bu
 
 Sudan's own way (Grade 11): a university-style secondary text (single named author, Dr Awad Haj Ali of the University of Gezira) that teaches systems work before code — file types and file security in a floppy-disk/UPS world, a complete spare-parts-factory system as the running example, the algorithm named for al-Khwarizmi, desk-checking with real sales data, and then a full BASIC course (numbered lines, READ/DATA, GOSUB, DEF FN) with payroll and mean/variance programs — data processing taught as a school subject in its own right.
 
-Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania, papua new guinea, grade 10, sudan, grade 11
+Cuba's own way (Grade 5): The Grade 5 programme is built around extracting information from Cuban educational software, encyclopedias and EcuRed into word-processor documents, then Scratch — drawing/animation first (Unit 3), control/movement/appearance blocks in Unit 4. (teacher programme — evidence)
+
+Searchable tags: backup, recovery, operational recovery, restoring, data loss, virus, corruption, files and folders, grade 10, information technology, ict, ethiopia, tanzania, papua new guinea, grade 10, sudan, grade 11, cuba, grade 5

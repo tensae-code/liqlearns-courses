@@ -1,6 +1,6 @@
 # Sources — The database approach and the DBMS
 
-countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan
+countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23. 162 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -18,11 +18,14 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan
 
 **Book 8:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 9:** *Informática, onceno grado* (student book, Spanish; title as printed: Informática, onceno grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4817-3 (print) / 978-959-13-4818-0 (digital). 134 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — the database approach: all logically related data in one shared collection (a database) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 53–55 |
 | Sub lesson 2 — DBMS software manages the database (add, modify, delete, retrieve) and is the interface between the database and its users and programs; applications send queries, the DBMS returns matching data | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 53–55 |
 | Sub lesson 3 — advantages: data independence, data sharing, avoided redundancy, improved security (only authorised users can access or change data) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 3, printed pp. 53–55 |
+| Capítulo 1.1 Introducción a los sistemas de gestión de bases de datos (SGBD) | Cuba, *Informática, Grade 11*, printed p. 2 |
 
 | Sub lesson 4 (teacher guide — evidence) — the database-versus-DBMS distinction: a database is the schema designed with a DBMS to store data; the DBMS is the software tool used to maintain it; tool landscape MySQL, Oracle, MS SQL Server, MariaDB | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 52–54 |
 | Sub lesson 4 (teacher guide — evidence) — the NoSQL challenge: an RDBMS schema is not flexible enough for big data; NoSQL models address it; prerequisite MS Access 2013 or later | Ethiopia, *Information Technology, Grade 12 Teacher Guide*, Unit 3 (teacher guide — evidence), printed pp. 52–54 |
@@ -35,7 +38,7 @@ countries: Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan
 | Урок 10 "Система управления базами данных" (the DBMS) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 23 |
 | Урок 16 "Повторение пройденного материала" (review) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 38 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Nepal, Belarus, North Macedonia, Sudan, Uzbekistan, Cuba).**
 
 Belarus's own way (Grade 11): grade 11 is a web-and-data year — hand-written HTML in Notepad, then the same site rebuilt in FrontPage, a long PascalABC graphics practicum borrowed from other school subjects, and a full Access database course (tables, links, forms, queries, sorting, reports).
 
@@ -52,4 +55,6 @@ Sudan's own way (Grade 7): the middle-stage book spends half its length on one d
 
 Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, Access, Excel, then a nine-lesson algorithms block and a 28-lesson Turbo Pascal 7.0 course that runs from the alphabet of the language to files, procedures and graphics mode, closing with the Internet. Every chapter ends with a dedicated repetition lesson, placed here to that chapter's main lesson.
 
-Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9
+Cuba's own way (Grade 11): Databases are taught from the free-software perspective with SQLite (SQLiteAdministrator), explicitly as preparation for LiveCode; programming deepens into object-oriented, event-driven implementation in LiveCode and closes with the software-engineering development process and an integrative project. The book is dedicated to girls in pre-university, invoking Ada Byron against the stereotype that women cannot program.
+
+Searchable tags: database approach, DBMS, database management system, query, data independence, data sharing, redundancy, security, Ethiopia Grade 11, nepal, belarus, north macedonia, grade 11, sudan, grade 6, grade 7, uzbekistan, grade 9, cuba, grade 11

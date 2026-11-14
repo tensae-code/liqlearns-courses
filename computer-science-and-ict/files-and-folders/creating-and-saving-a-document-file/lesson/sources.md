@@ -14,6 +14,12 @@ countries: Ethiopia, Belarus, Uzbekistan
 
 **Book 7:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 8:** *Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4667-4 (print) / 978-959-13-4668-1 (digital). 44 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
+
+**Book 9:** *Programa — Mi Mundo Digital III, quinto grado* (teacher programme, Spanish; title as printed: Programa — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4592-9 (print) / 978-959-13-4596-7 (digital). 27 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher programme — evidence)
+
+**Book 10:** *Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4682-7 (print) / 978-959-13-4683-4 (digital). 28 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — Creating the document | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, §1.2, printed pp. 8–10 |
@@ -24,6 +30,10 @@ countries: Ethiopia, Belarus, Uzbekistan
 | § 11, workbook part "Захоўванне рабочай кнігі" (saving the workbook — the Excel workbook saved as a document file) | Belarus, *Інфарматыка. 10 клас*, § 11, printed p. 67 |
 | Урок 5 "Создание и сохранение документа" | Uzbekistan, *Informatika, Grade 6*, printed p. 25 |
 | Урок 27 "Создание документов" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 113 |
+| Unidad 2.3 Acciones Archivo del graficador: nuevo, abrir, guardar, cerrar (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 16 (teacher guide — evidence) |
+| Unidad 3.7 Guardar, abrir y modificar archivos creados (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 21 (teacher guide — evidence) |
+| Unidad 3.9 Guardar y abrir archivos creados (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 17 (teacher programme — evidence) |
+| Unidad 3 Guardar/abrir archivos; archivos y carpetas; protección de la información (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 16 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Belarus, Uzbekistan).**
 
@@ -38,4 +48,10 @@ Uzbekistan's own way (Grade 6): the whole of grade 6 is one application taught t
 
 Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
 
-Searchable tags: create document, word processor, WordPad, MS Word, LibreOffice Writer, Save, Save As, Ethiopian Cultural Foods, files and folders, grade 9, information technology, ict, ethiopia, belarus, uzbekistan, grade 6, grade 8
+Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficador (Paint-type drawing program) and educational software; correct workstation posture/ergonomics is taught explicitly in Grade 2, and files/folders are introduced intuitively through saving and opening drawings in a class-group folder. (teacher guide — evidence)
+
+Cuba's own way (Grade 5): The Grade 5 programme is built around extracting information from Cuban educational software, encyclopedias and EcuRed into word-processor documents, then Scratch — drawing/animation first (Unit 3), control/movement/appearance blocks in Unit 4. (teacher programme — evidence)
+
+Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-unit teaching tables with hour allocations; Unit 4 is renamed “Aprendiendo y creando” and taught purely as Scratch control, movement and appearance blocks. (teacher guide — evidence)
+
+Searchable tags: create document, word processor, WordPad, MS Word, LibreOffice Writer, Save, Save As, Ethiopian Cultural Foods, files and folders, grade 9, information technology, ict, ethiopia, belarus, uzbekistan, grade 6, grade 8, cuba, grade 2, cuba, grade 5, cuba, grade 5

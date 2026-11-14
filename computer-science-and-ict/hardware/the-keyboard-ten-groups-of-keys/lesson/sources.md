@@ -16,6 +16,12 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan
 
 **Book 7:** *Информатика — учебник для 5 класса средней общеобразовательной школы (Informatika, Grade 5)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: Б. Болтаев, М. Махкамов, А. Азаматов, С. Рахманкулова. 2008. ISBN 978-9943-05-161-4. 73 PDF pages. Verdict: COMPLETE. Scanned image-only; read via title/imprint/cover renders and the book's complete printed contents at reading resolution, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by Muxtor Mahkamov. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 8:** *Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4667-4 (print) / 978-959-13-4668-1 (digital). 44 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
+
+**Book 9:** *Programa — Mi Mundo Digital III, quinto grado* (teacher programme, Spanish; title as printed: Programa — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4592-9 (print) / 978-959-13-4596-7 (digital). 27 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher programme — evidence)
+
+**Book 10:** *Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4682-7 (print) / 978-959-13-4683-4 (digital). 28 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — The ten groups | Ethiopia, *Information Technology*, Student textbook, Unit 2 §2.1, printed pp. 20–21 |
@@ -27,6 +33,10 @@ countries: Ethiopia, Saudi Arabia, Uzbekistan
 | Strand 5 Unit 2, Topic Keyboarding, Lesson 1: Introduction to Keyboard (filed as first-steps/keyboard-tour; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 80 (teacher guide — evidence, PARTIAL) |
 | U.D.1 Séance 4 Le clavier (keyboard zones, typing text in Word) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 15 (teacher guide — evidence) |
 | Урок 6 "Знакомство с клавиатурой" (meeting the keyboard) | Uzbekistan, *Informatika, Grade 5*, printed p. 22 |
+| Unidad 2.7 El teclado para escribir textos sencillos (alfanuméricas, dirección, Delete, Backspace, Shift) (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 16 (teacher guide — evidence) |
+| Unidad 3.6 El teclado en el procesador de texto (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 21 (teacher guide — evidence) |
+| Unidad 2.7 Teclado para textos sencillos (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 14 (teacher programme — evidence) |
+| Unidad 2 Teclado para textos sencillos (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 14 (teacher guide — evidence) |
 
 **Acceptance count: taught in 3 countries (Ethiopia, Saudi Arabia, Uzbekistan).**
 
@@ -45,4 +55,10 @@ Morocco's own way (Grade 1): ICT from age 6 built entirely on handling real hard
 
 Uzbekistan's own way (Grade 5): informatics opens with a full lesson of safety and hygiene before the machine is even described, and Paint gets five of the seventeen lessons — drawing is the grade-5 child's main creative tool, with keyboard training on a typing trainer in between. The Boltaev-team informatics line runs from keyboard trainers and Paint in Grades 5–6 to a full Pascal course in Grades 8–9; this book is its Russian-language edition.
 
-Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5
+Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficador (Paint-type drawing program) and educational software; correct workstation posture/ergonomics is taught explicitly in Grade 2, and files/folders are introduced intuitively through saving and opening drawings in a class-group folder. (teacher guide — evidence)
+
+Cuba's own way (Grade 5): The Grade 5 programme is built around extracting information from Cuban educational software, encyclopedias and EcuRed into word-processor documents, then Scratch — drawing/animation first (Unit 3), control/movement/appearance blocks in Unit 4. (teacher programme — evidence)
+
+Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-unit teaching tables with hour allocations; Unit 4 is renamed “Aprendiendo y creando” and taught purely as Scratch control, movement and appearance blocks. (teacher guide — evidence)
+
+Searchable tags: keyboard, ten groups of keys, Escape, Backspace, function keys, Windows key, CTRL, numeric keypad, Ethiopia Grade 8, mauritania, grade 7, saudi arabia, grade 3, grade 4, papua new guinea, grade 9, morocco, grade 1, uzbekistan, grade 5, cuba, grade 2, cuba, grade 5, cuba, grade 5

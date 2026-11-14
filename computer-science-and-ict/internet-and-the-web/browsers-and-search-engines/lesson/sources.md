@@ -1,6 +1,6 @@
 # Sources — Browsers and search engines
 
-countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan
+countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -22,6 +22,8 @@ countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq, Sudan, Uzbeki
 
 **Book 10:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 11:** *Mi Mundo Digital III, sexto grado* (student book, Spanish; title as printed: Mi Mundo Digital III, sexto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5176-0 (print) / 978-959-13-5190-6 (digital). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Browser — exploring, locating, viewing, moving page to page | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 4, printed p.48 |
@@ -36,8 +38,9 @@ countries: Ethiopia, Djibouti, Afghanistan, North Macedonia, Iraq, Sudan, Uzbeki
 | U.D.1 Séance 2 Rechercher du texte sur Internet (search for information; find a word on a web page) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 2 (ma-g2)*, printed p. 13 (teacher guide — evidence) |
 | Unit 3 Lesson 5: Search engines | Sudan, *ICT, Grade 7*, printed p. 63 |
 | Урок 67 "Поиск информации в Интернете" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 123 |
+| Capítulo 5.2 Búsqueda de información mediante herramientas y recursos tecnológicos | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 102 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan).**
+**Acceptance count: taught in 7 countries (Ethiopia, Afghanistan, North Macedonia, Iraq, Sudan, Uzbekistan, Cuba).**
 
 Afghanistan's own way (Grade 11): grade 11 is the health-and-PowerPoint year — a full chapter on computer health and strain-relief exercises, then Word finished off (Format, Insert, Edit) before a five-lesson PowerPoint block and a first step onto the Web.
 
@@ -56,4 +59,6 @@ Sudan's own way (Grade 7): the middle-stage book spends half its length on one d
 
 Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, Access, Excel, then a nine-lesson algorithms block and a 28-lesson Turbo Pascal 7.0 course that runs from the alphabet of the language to files, procedures and graphics mode, closing with the Internet. Every chapter ends with a dedicated repetition lesson, placed here to that chapter's main lesson.
 
-Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9
+Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year — digital presentations, Scratch animation with event/control blocks, and spreadsheets with formulas and charts — closing with a TIC chapter on searching and processing digital information; computer generations are taught inside Chapter 1.
+
+Searchable tags: browser, search engine, Google, Yahoo, exploring the internet, Grade 7 ICT Ethiopia, djibouti, afghanistan, north macedonia, grade 10, mauritania, grade 7, mauritania, grade 8, iraq, grade 8, morocco, grade 2, sudan, grade 7, uzbekistan, grade 9, cuba, grade 6

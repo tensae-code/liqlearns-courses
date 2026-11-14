@@ -1,6 +1,6 @@
 # Sources — Inserting pictures and screenshots
 
-countries: Ethiopia, Iraq, Uzbekistan
+countries: Ethiopia, Iraq, Uzbekistan, Cuba
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Iraq, Uzbekistan
 
 **Book 6:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 7:** *Mi Mundo Digital, quinto grado* (student book, Spanish; title as printed: Mi Mundo Digital, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4709-1 (print) / 978-959-13-4710-7 (digital). 129 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — illustrations and what can be done to them; embedded objects; the insertion route in order; the Green Legacy worked document | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 3, printed pp. 93–94 |
@@ -24,8 +26,9 @@ countries: Ethiopia, Iraq, Uzbekistan
 | Unit 2 Ch.2 Lesson 2 The Insert tab: pictures | Iraq, *Computer, Grade 8*, printed p. 50 |
 | Урок 9 "Работа с картинками в документе" | Uzbekistan, *Informatika, Grade 6*, printed p. 35 |
 | Урок 30 "Работа с рисунками в документах" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 121 |
+| Capítulo 2.6 Las imágenes en el documento | Cuba, *Mi Mundo Digital, Grade 5*, printed p. 67 |
 
-**Acceptance count: taught in 3 countries (Ethiopia, Iraq, Uzbekistan).**
+**Acceptance count: taught in 4 countries (Ethiopia, Iraq, Uzbekistan, Cuba).**
 
 Mauritania's own way (Grade 7): Informatics is taught for the first time in 1AS as thirty 30-minute teacher fiches moving hardware → information systems (illustrated with Mauritanian systems Bankily, Masrvi, Houwiyeti and the Ministry's Sirage platform) → a long Microsoft Word sequence → a full unit on internet ethics before browsers and search are even introduced.
 
@@ -36,4 +39,6 @@ Uzbekistan's own way (Grade 6): the whole of grade 6 is one application taught t
 
 Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
 
-Searchable tags: Insert Pictures, Illustrations group, embedded object, Screenshot, Screen Clipping, Green Legacy, Haile G/Silase, Ethiopia Grade 10, mauritania, grade 7, iraq, grade 8, uzbekistan, grade 6, grade 8
+Cuba's own way (Grade 5): Student text mirrors the programme in four chapters; word-processing is taught as a research workflow (synonyms, symbols, searching, copying texts and images from sources), and Scratch is introduced through its paint editor before movement/appearance/control blocks.
+
+Searchable tags: Insert Pictures, Illustrations group, embedded object, Screenshot, Screen Clipping, Green Legacy, Haile G/Silase, Ethiopia Grade 10, mauritania, grade 7, iraq, grade 8, uzbekistan, grade 6, grade 8, cuba, grade 5

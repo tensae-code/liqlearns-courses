@@ -1,6 +1,6 @@
 # Sources — What a computer is — input, process, store, output
 
-countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan
+countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -26,6 +26,8 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, I
 
 **Book 12:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 13:** *Mi Mundo Digital III, sexto grado* (student book, Spanish; title as printed: Mi Mundo Digital III, sexto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5176-0 (print) / 978-959-13-5190-6 (digital). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | What a computer is | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed p. 10 |
@@ -42,8 +44,9 @@ countries: Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, I
 | U.D.1 Séance 1 L'ordinateur et ses périphériques (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 1 (ma-g1)*, printed p. 12 (teacher guide — evidence) |
 | Unit 3: Computer Basics | Sudan, *ICT, Grade 4*, printed p. 12 |
 | Урок 12 "Компьютеры" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 54 |
+| Capítulo 1.1 La computadora (historia y generaciones, hardware y software, dispositivos) | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 2 |
 
-**Acceptance count: taught in 9 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan).**
+**Acceptance count: taught in 10 countries (Ethiopia, Turkmenistan, Tanzania, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan, Cuba).**
 
 Yemen's own way (Grade 10): a skills ladder — every unit alternates short teaching topics with a named تدريب (guided training) and نشاط (activity), and Windows itself is taught as a school subject for a full unit before any application is opened.
 
@@ -66,4 +69,6 @@ Sudan's own way (Grade 4): a gentle first ICT book in six short units that ends 
 
 Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
 
-Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 11, morocco, grade 1, sudan, grade 4, uzbekistan, grade 8
+Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year — digital presentations, Scratch animation with event/control blocks, and spreadsheets with formulas and charts — closing with a TIC chapter on searching and processing digital information; computer generations are taught inside Chapter 1.
+
+Searchable tags: what a computer is — input, process, store, output, first steps, grade 7, information technology, ict, ethiopia, what a computer is, the four basic functions, turkmenistan, tanzania, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, iraq, grade 7, papua new guinea, grade 11, morocco, grade 1, sudan, grade 4, uzbekistan, grade 8, cuba, grade 6

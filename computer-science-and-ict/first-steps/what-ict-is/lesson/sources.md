@@ -1,6 +1,6 @@
 # Sources — What ICT is
 
-countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan
+countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). Language editor: Lemma Kassaye (PhD). Instructional design: Mehdi Abdo (MA, MPhil, Assistant Professor). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed; no year printed on the title pages read. 94 PDF pages. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave 1 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -24,6 +24,12 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yem
 
 **Book 11:** *تكنولوجيا المعلومات والاتصالات 4 — المرحلة الإبتدائية (Information and Communication Technology 4, Primary Stage), Grade 4* (student book, Arabic) — Sudan, Sudan Ministry of Education, National Centre for Curricula and Educational Research, Bakht al-Ruda. Year not printed on cover. No ISBN printed. 68 PDF pages. Verdict: COMPLETE — read from an external link and staged under the push-don't-delete rule on 2026-11-14 (byte size 24,181,685 matches the staging record exactly); read in full from the text layer. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 12:** *Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4667-4 (print) / 978-959-13-4668-1 (digital). 44 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
+
+**Book 13:** *Mi Mundo Digital III, sexto grado* (student book, Spanish; title as printed: Mi Mundo Digital III, sexto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5176-0 (print) / 978-959-13-5190-6 (digital). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
+**Book 14:** *Informática, séptimo grado* (student book, Spanish; title as printed: Informática, séptimo grado) — Cuba, Editorial Pueblo y Educación. 2023. ISBN 978-959-13-3796-2 (print) / 978-959-13-4108-2 (digital). 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The road map of this course, and its brainstorm-first rhythm | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 1, printed pp. 1–2 (placement item 1: printed pp. II, 1 and unit openings throughout; item 2: printed p. 2) |
@@ -39,8 +45,11 @@ countries: Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yem
 | Unit 1 assessment | Yemen, *Computer, Grade 11*, printed p. 15 |
 | Unit 4 Ch.1 Lesson 1 The concept of information technology | Iraq, *Computer, Grade 7*, printed p. 120 |
 | Unit 1: Introduction to Information Technology | Sudan, *ICT, Grade 4*, printed p. 2 |
+| Unidad 4.2 Las TIC en el mundo contemporáneo (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 26 (teacher guide — evidence) |
+| Capítulo 5.1 Las TIC: herramientas y dispositivos | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 95 |
+| Capítulo 1.1 Las TIC en el mundo contemporáneo (incl. reseña histórica de los medios de cómputo) | Cuba, *Informática, Grade 7*, printed p. 1 |
 
-**Acceptance count: taught in 10 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan).**
+**Acceptance count: taught in 11 countries (Ethiopia, Tanzania, Eritrea, Cambodia, Mozambique, Uganda, China, Yemen, Iraq, Sudan, Cuba).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -50,4 +59,10 @@ Iraq's own way (Grade 7): a four-unit spiral repeated at every grade — compute
 
 Sudan's own way (Grade 4): a gentle first ICT book in six short units that ends not with applications but with the keyboard and mouse themselves — hand skills before software. The Bakht Al-Ruda ICT series runs in the same pattern from Grade 4 to Grade 9.
 
-Searchable tags: what ict is, first steps, grade 7, information technology, ict, ethiopia, the road map of this course, and its brainstorm-first rhythm, what ict is, tanzania, eritrea, cambodia, mozambique, uganda, china, yemen, grade 11, iraq, grade 7, sudan, grade 4
+Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficador (Paint-type drawing program) and educational software; correct workstation posture/ergonomics is taught explicitly in Grade 2, and files/folders are introduced intuitively through saving and opening drawings in a class-group folder. (teacher guide — evidence)
+
+Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year — digital presentations, Scratch animation with event/control blocks, and spreadsheets with formulas and charts — closing with a TIC chapter on searching and processing digital information; computer generations are taught inside Chapter 1.
+
+Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietary Windows with Cuba's free operating system Nova; programming continues the primary Scratch line, here centred on the Scratch pen tool for drawing geometric figures and the linear function; word-processor work ends by exporting documents to HTML for the web.
+
+Searchable tags: what ict is, first steps, grade 7, information technology, ict, ethiopia, the road map of this course, and its brainstorm-first rhythm, what ict is, tanzania, eritrea, cambodia, mozambique, uganda, china, yemen, grade 11, iraq, grade 7, sudan, grade 4, cuba, grade 2, cuba, grade 6, cuba, grade 7

@@ -16,6 +16,10 @@ countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq
 
 **Book 10:** *الحاسوب Computer — الصف الثاني المتوسط (Computer, Second Intermediate Grade), Grade 8* (student book, Arabic) — Iraq, Republic of Iraq, Ministry of Education, General Directorate of Curricula. Year 2023 (1445H), second edition. No ISBN printed. 144 PDF pages. Verdict: COMPLETE. Read in full. Printed page numbers equal the PDF page numbers in this series. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/iraq-placements.md.
 
+**Book 11:** *Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4667-4 (print) / 978-959-13-4668-1 (digital). 44 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
+
+**Book 12:** *Programa — Mi Mundo Digital III, quinto grado* (teacher programme, Spanish; title as printed: Programa — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4592-9 (print) / 978-959-13-4596-7 (digital). 27 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher programme — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Opening Word, route 1 — Start → All Programs → Microsoft Office → Word 2016 | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.36–37 |
@@ -28,6 +32,8 @@ countries: Ethiopia, Eritrea, Afghanistan, Yemen, Iraq
 | Lesson 11 Interface of Microsoft Word (teacher guide — evidence) | Mauritania, *Guide-INF-1AS, Grade 7*, printed p. 21 (teacher guide — evidence) |
 | Unit 2, Lesson 1: Opening Microsoft Word and creating a new document (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 47 (teacher guide — evidence) |
 | Unit 2 Ch.1 Lesson 1 How to open Microsoft Word | Iraq, *Computer, Grade 8*, printed p. 32 |
+| Unidad 3.2 Localización y ejecución del procesador de texto (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 20 (teacher guide — evidence) |
+| Unidad 2.2 Localización y ejecución del procesador de texto (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 13 (teacher programme — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Eritrea, Afghanistan, Yemen, Iraq).**
 
@@ -50,4 +56,8 @@ Saudi Arabia's own way (Grade 4, Digital Skills): the primary Digital Skills cou
 
 Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware unit becomes “the computer platform” and opens with choosing a computer's specifications before buying; Word is taught tab by tab (Home, Insert, Design, Layout); the algorithms unit advances to selection statements and logic truth tables, still landing in Scratch; the internet unit ends with writing a report from web research.
 
-Searchable tags: opening Word, Word 2016 or later, Start tile, Blank document, Start search, Grade 9 ICT Ethiopia, Microsoft Word 2016, Start menu, All Programs, Microsoft Office, search, desktop shortcut, creating a document, default name, DOCUMENT1, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, eritrea, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 4, iraq, grade 8
+Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficador (Paint-type drawing program) and educational software; correct workstation posture/ergonomics is taught explicitly in Grade 2, and files/folders are introduced intuitively through saving and opening drawings in a class-group folder. (teacher guide — evidence)
+
+Cuba's own way (Grade 5): The Grade 5 programme is built around extracting information from Cuban educational software, encyclopedias and EcuRed into word-processor documents, then Scratch — drawing/animation first (Unit 3), control/movement/appearance blocks in Unit 4. (teacher programme — evidence)
+
+Searchable tags: opening Word, Word 2016 or later, Start tile, Blank document, Start search, Grade 9 ICT Ethiopia, Microsoft Word 2016, Start menu, All Programs, Microsoft Office, search, desktop shortcut, creating a document, default name, DOCUMENT1, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, eritrea, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 4, iraq, grade 8, cuba, grade 2, cuba, grade 5

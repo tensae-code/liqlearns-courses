@@ -16,6 +16,8 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan
 
 **Book 7:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 8:** *Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4667-4 (print) / 978-959-13-4668-1 (digital). 44 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — What a generation is | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.1, printed p. 2 |
@@ -27,6 +29,7 @@ countries: Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan
 | "The historical development of the computer" | Yemen, *Computer, Grade 10*, printed p. 13 |
 | Strand 5 Unit 1, Topic History of Computers, Lesson 2: Generation of Computers (filed as hardware/generations-of-computers-vacuum-tubes-to-ai; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 52 (teacher guide — evidence, PARTIAL) |
 | Глава III "Компьютеры", Урок 11 "Краткая история развития вычислительной техники" | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 50 |
+| Unidad 4.1 Reseña histórica de los medios de cómputo (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 26 (teacher guide — evidence) |
 
 **Acceptance count: taught in 5 countries (Ethiopia, Tanzania, Mozambique, Yemen, Uzbekistan).**
 
@@ -41,4 +44,6 @@ Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subj
 
 Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
 
-Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8
+Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficador (Paint-type drawing program) and educational software; correct workstation posture/ergonomics is taught explicitly in Grade 2, and files/folders are introduced intuitively through saving and opening drawings in a class-group folder. (teacher guide — evidence)
+
+Searchable tags: computer generations, five generations, vacuum tubes, transistors, integrated circuits, microprocessor, artificial intelligence, brainstorming, ICT course road map, Ethiopia Grade 8, tanzania, mozambique, yemen, grade 10, papua new guinea, grade 9, uzbekistan, grade 8, cuba, grade 2

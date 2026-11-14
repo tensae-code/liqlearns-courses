@@ -1,6 +1,6 @@
 # Sources — Excel formulas — operators and the equals sign
 
-countries: Ethiopia, Belarus, Afghanistan, Uzbekistan
+countries: Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -14,12 +14,15 @@ countries: Ethiopia, Belarus, Afghanistan, Uzbekistan
 
 **Book 6:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 7:** *Informática, octavo grado* (student book, Spanish; title as printed: Informática, octavo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4766-4 (print) / 978-959-13-4767-1 (digital). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Spreadsheet software and formulas; the six operators; every formula begins with =; the worked entry =5+3*3/2-4 in A1 | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 109–111 |
 | Seeing a formula — formula bar, double-click, Formulas tab → Show Formulas | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 109–111 |
 | The guide's name slip — "LibreOffice Excel" for Calc; Unit 3 answer keys (teacher guide — evidence) | Ethiopia, Ethiopia, *Information Technology, Teacher's Guide, Grade 9*, Unit 3, printed pp. 49–50, 56–58 |
 | Unit 3 Lesson 16 Adding basic formulas (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 41 (teacher guide — evidence) |
+| Capítulo 2.3 Procedimiento general de trabajo con una hoja de cálculo | Cuba, *Informática, Grade 8*, printed p. 66 |
 
 **Book (Grade 10 growth):** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -32,7 +35,7 @@ countries: Ethiopia, Belarus, Afghanistan, Uzbekistan
 | Lesson 19 "Formulas" | Afghanistan, *Computer, Grade 12*, printed p. 75 |
 | Урок 20 "Работа с математическими формулами" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 47 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, Belarus, Afghanistan, Uzbekistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, Belarus, Afghanistan, Uzbekistan, Cuba).**
 
 Afghanistan's own way (Grade 12): the final year turns outward — computers in society (e-commerce, communications, even military systems), system software and virus protection, then Excel for the first time and a closing block on the Web, e-mail and browsers (taught through Internet Explorer).
 
@@ -45,4 +48,6 @@ Mauritania's own way (Grade 8): The second year is organised as five applied uni
 
 Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, Access, Excel, then a nine-lesson algorithms block and a 28-lesson Turbo Pascal 7.0 course that runs from the alphabet of the language to files, procedures and graphics mode, closing with the Internet. Every chapter ends with a dedicated repetition lesson, placed here to that chapter's main lesson.
 
-Searchable tags: Excel formula, operators, equals sign, formula bar, Show Formulas, LibreOffice Calc, Ethiopia Grade 9, belarus, afghanistan, mauritania, grade 8, uzbekistan, grade 9
+Cuba's own way (Grade 8): Taught entirely in free software — LibreOffice Impress for presentations and LibreOffice Calc for spreadsheets; web work means designing and editing HTML pages with a plain text editor, and Scratch continues with arithmetic and logic operator blocks.
+
+Searchable tags: Excel formula, operators, equals sign, formula bar, Show Formulas, LibreOffice Calc, Ethiopia Grade 9, belarus, afghanistan, mauritania, grade 8, uzbekistan, grade 9, cuba, grade 8

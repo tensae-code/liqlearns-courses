@@ -1,6 +1,6 @@
 # Sources — Spreadsheet functions — SUM, AVERAGE, MAX, MIN
 
-countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan
+countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Chala Diriba (Assistant Professor), Workineh Tesema (Assistant Professor). Content editor: Mamo Fideno (MSc). Instructional design: Mehadi Abdo (MA, MPhil, Assistant Professor). Language editor: Lemma Kassaye (PhD). Book designer: Semeon Tiruneh (MSc). Illustrator: Umer Nuri (MSc). No ISBN or price printed (blank on cover); no year printed on the title pages read. 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -20,6 +20,10 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan
 
 **Book 11:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 12:** *Mi Mundo Digital III, sexto grado* (student book, Spanish; title as printed: Mi Mundo Digital III, sexto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5176-0 (print) / 978-959-13-5190-6 (digital). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
+**Book 13:** *Informática, octavo grado* (student book, Spanish; title as printed: Informática, octavo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4766-4 (print) / 978-959-13-4767-1 (digital). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — functions are predefined formulas: =, function name, opening parenthesis, arguments separated by commas, closing parenthesis; named: sum, average, maximum, minimum | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed p. 55 |
@@ -31,6 +35,8 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan
 | "Functions and mathematical formulas" | Yemen, *Computer, Grade 11*, printed p. 65 |
 | "Advanced Use of Formulas and Functions" | North Macedonia, *Informatics, Year 1*, Тема 5 §5.2, printed p. 228 |
 | Unit 3 Lesson 17 Using common functions (teacher guide — evidence) | Mauritania, *Guide-INF-2AS, Grade 8*, printed p. 43 (teacher guide — evidence) |
+| Capítulo 4.4 Introducción de fórmulas y funciones | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 86 |
+| Capítulo 2.4 Procesamiento de datos, cálculo dinámico y graficando | Cuba, *Informática, Grade 8*, printed p. 77 |
 
 **Book 3:** *Information Technology, Student's Textbook, Grade 10* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University (developed in collaboration with Addis Ababa University, Bahir Dar University and Jimma University). Writers: Abdella Kemal (Assistant Professor), Tegegn Gobana (Assistant Professor). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-041-3. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 227 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g10-student-placements.md.
 
@@ -48,7 +54,7 @@ countries: Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan
 | Unit 2 Ch.2 Lesson 5 AutoSum functions | Iraq, *Computer, Grade 11*, printed p. 67 |
 | Урок 19 "Применение математических формул и функций в MS Excel" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 44 |
 
-**Acceptance count: taught in 7 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan).**
+**Acceptance count: taught in 8 countries (Ethiopia, Eritrea, Belarus, Yemen, North Macedonia, Iraq, Uzbekistan, Cuba).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -67,4 +73,8 @@ Iraq's own way (Grade 11): the final preparatory year is the most forward-lookin
 
 Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, Access, Excel, then a nine-lesson algorithms block and a 28-lesson Turbo Pascal 7.0 course that runs from the alphabet of the language to files, procedures and graphics mode, closing with the Internet. Every chapter ends with a dedicated repetition lesson, placed here to that chapter's main lesson.
 
-Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9
+Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year — digital presentations, Scratch animation with event/control blocks, and spreadsheets with formulas and charts — closing with a TIC chapter on searching and processing digital information; computer generations are taught inside Chapter 1.
+
+Cuba's own way (Grade 8): Taught entirely in free software — LibreOffice Impress for presentations and LibreOffice Calc for spreadsheets; web work means designing and editing HTML pages with a plain text editor, and Scratch continues with arithmetic and logic operator blocks.
+
+Searchable tags: spreadsheet functions, SUM, AVERAGE, MAX, MIN, predefined formulas, arguments, range, C3:C6, Ethiopia Grade 8, eritrea, belarus, yemen, grade 11, north macedonia, grade 10, mauritania, grade 8, iraq, grade 11, uzbekistan, grade 9, cuba, grade 6, cuba, grade 8

@@ -1,6 +1,6 @@
 # Sources - High-level languages - compilers and interpreters
 
-countries: Ethiopia, North Macedonia, Sudan, Uzbekistan
+countries: Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba
 
 **Book 1:** *Information Technology, Student Textbook, Grade 11. Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Temtim Assefa Desta (PhD), Miftah Hassen Jemal (MSc). Editors: Gezahagn Gebeyehu Gamu (MA) (Curriculum Editor), Berhane Woldegabriel Zeweldi (MSc) (Content Editor), Temesgen Debelo Ayana (MA) (Language Editor). Illustrator: Selamneh Belete Tekle (MSc). Designer: Dagnachew Melesew Alemayehu (MSc). First Published August 2023 under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-042-0. Printed by Gravity Group Ind LLC, Sharjah, UAE, under contract MOE/GEQIP-E/LICB/G-01/23.* (student textbook) - 170 PDF pages. Printed page = PDF page - 6. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g11-student-placements.md.
 
@@ -20,6 +20,8 @@ countries: Ethiopia, North Macedonia, Sudan, Uzbekistan
 
 **Book 9:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 10:** *Informática, noveno grado* (student book, Spanish; title as printed: Informática, noveno grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5166-1 (print) / 978-959-13-5180-7 (digital). 58 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 - High-level languages (close to human language; concentrate on the problem; C, C++, Java, C#, Python, Perl, Ruby) | Ethiopia, *Information Technology, Student Textbook, Grade 11*, Unit 6, printed pp. 133-134 |
@@ -32,8 +34,9 @@ countries: Ethiopia, North Macedonia, Sudan, Uzbekistan
 | Unit 4, 4-2: The BASIC interpreter and the compiler | Sudan, *Computer Science, Grade 11*, printed p. 36 |
 | Unit 2 Lesson 2: Translating the program (compilers and interpreters) | Sudan, *ICT, Grade 9*, printed p. 25 |
 | Глава V "Основы программирования", Урок 37 "Программа и язык программирования" | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 76 |
+| Capítulo 1.3 Lenguajes de programación | Cuba, *Informática, Grade 9*, printed p. 4 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, North Macedonia, Sudan, Uzbekistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Sudan, Uzbekistan, Cuba).**
 
 No book error touches this lesson. The teacher guide's answer keys for this unit (teacher guide - evidence) were used as the verified answer source for this lesson's questions, as the guide's course-level placement directs (guide item 26; Unit 6 keys at guide printed pp. 118-121).
 
@@ -52,4 +55,6 @@ Sudan's own way (Grade 9): the whole Grade 9 book is programming — concepts an
 
 Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, Access, Excel, then a nine-lesson algorithms block and a 28-lesson Turbo Pascal 7.0 course that runs from the alphabet of the language to files, procedures and graphics mode, closing with the Internet. Every chapter ends with a dedicated repetition lesson, placed here to that chapter's main lesson.
 
-Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 6, grade 9, grade 11, uzbekistan, grade 9
+Cuba's own way (Grade 9): Grade 9 is the formal programming-foundations year — algorithms, data, variables, counters/accumulators, flowcharts and pseudocode, taught language-independently — paired with a full cybersecurity chapter (passwords/MFA, safe internet, safe social networks).
+
+Searchable tags: high-level languages, compiler, interpreter, translation, C, Java, Python, Grade 11 ICT Ethiopia, Unit 6 programming, north macedonia, grade 10, papua new guinea, grade 10, papua new guinea, grade 12, sudan, grade 6, grade 9, grade 11, uzbekistan, grade 9, cuba, grade 9

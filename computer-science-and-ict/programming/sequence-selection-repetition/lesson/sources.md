@@ -1,6 +1,6 @@
 # Sources — Sequence, selection, repetition
 
-countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sudan, Uzbekistan
+countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sud
 
 **Book 8:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 9:** *Informática, noveno grado* (student book, Spanish; title as printed: Informática, noveno grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5166-1 (print) / 978-959-13-5180-7 (digital). 58 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
+**Book 10:** *Informática, onceno grado* (student book, Spanish; title as printed: Informática, onceno grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4817-3 (print) / 978-959-13-4818-0 (digital). 134 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The three kinds of flow, with the umbrella, promotion and 100-numbers examples | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed pp. 226–227 |
@@ -29,8 +33,10 @@ countries: Ethiopia, Trinidad and Tobago, China, North Macedonia, Palestine, Sud
 | Unit 3, 3-3: The programming rules — sequence, selection, looping and branching | Sudan, *Computer Science, Grade 11*, printed p. 31 |
 | Урок 34 "Типы алгоритмов" (linear, branching and cyclic algorithms) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 72 |
 | Уроки 35–36 "Задания на повторение" (review tasks) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 75 |
+| Capítulo 2.8 Algoritmos secuenciales | Cuba, *Informática, Grade 9*, printed p. 29 |
+| Capítulo 2.2 La programación estructurada | Cuba, *Informática, Grade 11*, printed p. 39 |
 
-**Acceptance count: taught in 6 countries (Ethiopia, China, North Macedonia, Palestine, Sudan, Uzbekistan).**
+**Acceptance count: taught in 7 countries (Ethiopia, China, North Macedonia, Palestine, Sudan, Uzbekistan, Cuba).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -43,4 +49,8 @@ Sudan's own way (Grade 11): a university-style secondary text (single named auth
 
 Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, Access, Excel, then a nine-lesson algorithms block and a 28-lesson Turbo Pascal 7.0 course that runs from the alphabet of the language to files, procedures and graphics mode, closing with the Internet. Every chapter ends with a dedicated repetition lesson, placed here to that chapter's main lesson.
 
-Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine, sudan, grade 11, uzbekistan, grade 9
+Cuba's own way (Grade 9): Grade 9 is the formal programming-foundations year — algorithms, data, variables, counters/accumulators, flowcharts and pseudocode, taught language-independently — paired with a full cybersecurity chapter (passwords/MFA, safe internet, safe social networks).
+
+Cuba's own way (Grade 11): Databases are taught from the free-software perspective with SQLite (SQLiteAdministrator), explicitly as preparation for LiveCode; programming deepens into object-oriented, event-driven implementation in LiveCode and closes with the software-engineering development process and an integrative project. The book is dedicated to girls in pre-university, invoking Ada Byron against the stereotype that women cannot program.
+
+Searchable tags: sequence, selection, repetition, flow, loop, Grade 9 ICT Ethiopia Unit 6, trinidad and tobago, china, north macedonia, grade 10, mauritania, grade 9, palestine, sudan, grade 11, uzbekistan, grade 9, cuba, grade 9, cuba, grade 11

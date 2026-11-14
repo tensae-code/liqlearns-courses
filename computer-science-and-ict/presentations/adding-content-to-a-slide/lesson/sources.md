@@ -1,6 +1,6 @@
 # Sources — Adding content to a slide
 
-countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan
+countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -18,6 +18,10 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan
 
 **Book 8:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 9:** *Mi Mundo Digital III, sexto grado* (student book, Spanish; title as printed: Mi Mundo Digital III, sexto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5176-0 (print) / 978-959-13-5190-6 (digital). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
+**Book 10:** *Informática, octavo grado* (student book, Spanish; title as printed: Informática, octavo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4766-4 (print) / 978-959-13-4767-1 (digital). 149 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Text as default content; content by placeholder icon or the Insert tab | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 127–128 |
@@ -28,8 +32,10 @@ countries: Ethiopia, Afghanistan, Yemen, Iraq, Sudan
 | Lesson 05 Inserting text and formatting it (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 25 (teacher guide — evidence) |
 | Unit 2 Ch.1 Lesson 2 The Home and Insert tabs | Iraq, *Computer, Grade 10*, printed p. 41 |
 | Unit 3 Lesson 2: How to design a presentation — adding slides, text, colour and pictures, saving | Sudan, *ICT, Grade 6*, printed p. 25 |
+| Capítulo 2.2 Elaboración de diseños de presentación (vida escolar y contexto sociocultural) | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 32 |
+| Capítulo 1.3 Trabajando con diapositivas (LibreOffice Impress) | Cuba, *Informática, Grade 8*, printed p. 7 |
 
-**Acceptance count: taught in 5 countries (Ethiopia, Afghanistan, Yemen, Iraq, Sudan).**
+**Acceptance count: taught in 6 countries (Ethiopia, Afghanistan, Yemen, Iraq, Sudan, Cuba).**
 
 Yemen's own way (Grade 11): the book pivots from operating the machine to understanding information itself — data kinds, number systems and coding get full units before the applications (presentations, Excel) and a networks/Internet finale; every unit closes with a formal تقويم (assessment).
 
@@ -45,4 +51,8 @@ Iraq's own way (Grade 10): the preparatory stage turns practical and examinable 
 
 Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
 
-Searchable tags: content placeholder, six elements, Table, Chart, SmartArt, Pictures, Online Pictures, Video, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, sudan, grade 6
+Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year — digital presentations, Scratch animation with event/control blocks, and spreadsheets with formulas and charts — closing with a TIC chapter on searching and processing digital information; computer generations are taught inside Chapter 1.
+
+Cuba's own way (Grade 8): Taught entirely in free software — LibreOffice Impress for presentations and LibreOffice Calc for spreadsheets; web work means designing and editing HTML pages with a plain text editor, and Scratch continues with arithmetic and logic operator blocks.
+
+Searchable tags: content placeholder, six elements, Table, Chart, SmartArt, Pictures, Online Pictures, Video, Ethiopia Grade 9, afghanistan, yemen, grade 11, mauritania, grade 9, iraq, grade 10, sudan, grade 6, cuba, grade 6, cuba, grade 8

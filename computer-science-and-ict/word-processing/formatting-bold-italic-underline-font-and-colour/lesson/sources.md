@@ -36,6 +36,8 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, 
 
 **Book 17:** *Информатика — учебник для 6 класса общеобразовательной школы с русским языком обучения (Informatika, Grade 6)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом „Узбекистан", Tashkent. Authors: Б. Балтаев, М. Махкамов, А. Азаматов, С. Рахманкулова. 2009. No ISBN printed on the colophon page. 72 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks (the scan's front-cover image is damaged — grey render — but every content page is intact). Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 18:** *Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4667-4 (print) / 978-959-13-4668-1 (digital). 44 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | Sub lesson 1 — bold (darker and heavier, designed heavier), italic (slopes evenly to the right), underline (a line under the words) | Ethiopia, *Information Technology, Student's Textbook, Grade 8*, Unit 3, printed pp. 50–51 |
@@ -61,6 +63,7 @@ countries: Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, 
 | Unit 4 Lesson 2: Basic operations — changing font colour and size | Sudan, *ICT, Grade 5*, printed p. 41 |
 | Урок 7 "Форматирование документа" | Uzbekistan, *Informatika, Grade 6*, printed p. 32 |
 | Урок 8 "Упражнения по редактированию и форматированию документа" | Uzbekistan, *Informatika, Grade 6*, printed p. 35 |
+| Unidad 3.5 Menú Archivo, barra estándar, edición y formato (fuente, negrita, cursiva, subrayado, alineación) (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 21 (teacher guide — evidence) |
 
 **Acceptance count: taught in 11 countries (Ethiopia, Eritrea, Cambodia, Azerbaijan, Uganda, Afghanistan, Yemen, Saudi Arabia, Iraq, Sudan, Uzbekistan).**
 
@@ -87,4 +90,6 @@ Sudan's own way (Grade 5): a short, highly practical Arabic primary series that 
 
 Uzbekistan's own way (Grade 6): the whole of grade 6 is one application taught to mastery — MS Word from its interface to formulas and print — on the principle that one tool learned deeply beats many tools skimmed.
 
-Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, grade 4, iraq, grade 8, morocco, grade 2, sudan, grade 5, uzbekistan, grade 6
+Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficador (Paint-type drawing program) and educational software; correct workstation posture/ergonomics is taught explicitly in Grade 2, and files/folders are introduced intuitively through saving and opening drawings in a class-group folder. (teacher guide — evidence)
+
+Searchable tags: formatting, bold, italic, underline, font, font size, text colour, Ethiopian Airlines, Bole International Airport, DC-3, Ethiopia Grade 8, eritrea, cambodia, azerbaijan, uganda, afghanistan, yemen, grade 10, mauritania, grade 7, saudi arabia, grade 3, grade 4, iraq, grade 8, morocco, grade 2, sudan, grade 5, uzbekistan, grade 6, cuba, grade 2

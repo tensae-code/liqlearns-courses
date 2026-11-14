@@ -1,6 +1,6 @@
 # Sources — Project: build and present a slide deck
 
-countries: Ethiopia, Sudan
+countries: Ethiopia, Sudan, Cuba
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 243 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -10,14 +10,17 @@ countries: Ethiopia, Sudan
 
 **Book 4:** *تكنولوجيا المعلومات والاتصالات — الصف السادس، المرحلة الابتدائية (Information and Communication Technology, Sixth Grade, Primary Stage), Grade 6* (student book, Arabic) — Sudan, Republic of Sudan, Ministry of Education, National Center for Curricula and Educational Research (NCCER), Bakht Al-Ruda; printed by Sudan Currency Printing Press. Year 2020, first edition. No ISBN printed. 56 PDF pages. Verdict: COMPLETE — an image-only CamScanner scan, read in full from 100-DPI contact sheets. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/sudan-placements.md.
 
+**Book 5:** *Mi Mundo Digital III, sexto grado* (student book, Spanish; title as printed: Mi Mundo Digital III, sexto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5176-0 (print) / 978-959-13-5190-6 (digital). 130 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Practical Exercise 3.7 — the group presentation and its set tasks; saved in a Presentation Project folder in Documents | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed pp. 132, 135 |
 | The Mini Project — "Tourism Resources of Ethiopia" to its full specification; run from the Slide Show tab | Ethiopia, Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 3, printed p. 135 |
 | Lesson 08 Presenting and finalising the presentation (teacher guide — evidence) | Mauritania, *Guide-INF-3AS, Grade 9*, printed p. 40 (teacher guide — evidence) |
 | Unit 3 Lesson 2: Activity — design a four-slide presentation on a set topic | Sudan, *ICT, Grade 6*, printed p. 25 |
+| Capítulo 2.3 Creación de presentaciones con información extraída de software educativo y enciclopedias | Cuba, *Mi Mundo Digital III, Grade 6*, printed p. 36 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Sudan).**
+**Acceptance count: taught in 3 countries (Ethiopia, Sudan, Cuba).**
 
 No book error touches this part.
 
@@ -25,4 +28,6 @@ Mauritania's own way (Grade 9): The final secondary year is five practical block
 
 Sudan's own way (Grade 6): the final primary book is built around real Sudanese systems — networks and cloud first, then a full security unit taught through named children's everyday internet dilemmas, and a worked example of the ipSchools school-management system (with a real Bakht Al-Ruda school results table) before closing with computers in banks and police work.
 
-Searchable tags: project, group presentation, Tourism Resources of Ethiopia, Damask, Integral theme, SmartArt, Ethiopia Grade 9, mauritania, grade 9, sudan, grade 6
+Cuba's own way (Grade 6): Grade 6 adds the three productivity firsts in one year — digital presentations, Scratch animation with event/control blocks, and spreadsheets with formulas and charts — closing with a TIC chapter on searching and processing digital information; computer generations are taught inside Chapter 1.
+
+Searchable tags: project, group presentation, Tourism Resources of Ethiopia, Damask, Integral theme, SmartArt, Ethiopia Grade 9, mauritania, grade 9, sudan, grade 6, cuba, grade 6

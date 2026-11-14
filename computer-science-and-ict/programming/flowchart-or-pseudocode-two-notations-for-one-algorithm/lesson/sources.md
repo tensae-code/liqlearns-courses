@@ -1,6 +1,6 @@
 # Sources — Flowchart or pseudocode — two notations for one algorithm
 
-countries: Ethiopia, North Macedonia, Iraq, Uzbekistan
+countries: Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,9 +16,13 @@ countries: Ethiopia, North Macedonia, Iraq, Uzbekistan
 
 **Book 7:** *Основы информатики и вычислительной техники — учебник для 9 класса (Basics of Informatics and Computer Technology, Grade 9)* (student book, Russian edition) — Uzbekistan, Издательско-полиграфический творческий дом имени Чулпана (Chulpan Publishing), Tashkent. Authors: А. Абдукадыров, И. Тайлаков, Б. Болтаев, М. Махкамов, А. Азаматов, С. Хафизов. 2006. No ISBN printed on the colophon page. 129 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 8:** *Informática, noveno grado* (student book, Spanish; title as printed: Informática, noveno grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2025. ISBN 978-959-13-5166-1 (print) / 978-959-13-5180-7 (digital). 58 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Flowcharts and pseudocode defined and compared; conversion both ways | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 223 |
+| Capítulo 1.2 Formas de expresión de algoritmos | Cuba, *Informática, Grade 9*, printed p. 3 |
+| Capítulo 2.7.2 Expresión de algoritmos mediante pseudocódigo | Cuba, *Informática, Grade 9*, printed p. 24 |
 
 | Pseudocode — the algorithm in structured English; the sum-of-two worked example; the circle exercise (Grade 10 growth) | Ethiopia, *Information Technology, Student's Textbook, Grade 10*, Unit 6, printed pp. 216–217 |
 | Pseudocode's benefits; the worked circle (p = 2πr, A = πr²); sum of the first 10; pseudocode vs flowchart keyed (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 10*, Unit 6 (Activity 6.4 key), printed pp. 110–113 |
@@ -27,7 +31,7 @@ countries: Ethiopia, North Macedonia, Iraq, Uzbekistan
 | Unit 2, Topic Computer Terminology and Software programming, Lesson 2: Writing Pseudo codes in solving problems (filed as programming/pseudocode-writing-instructions-in-plain-words; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 69 (teacher guide — evidence) |
 | Урок 33 "Способы представления алгоритмов" (ways of representing algorithms) | Uzbekistan, *Basics of Informatics, Grade 9*, printed p. 70 |
 
-**Acceptance count: taught in 4 countries (Ethiopia, North Macedonia, Iraq, Uzbekistan).**
+**Acceptance count: taught in 5 countries (Ethiopia, North Macedonia, Iraq, Uzbekistan, Cuba).**
 
 North Macedonia's own way (Year 1): five themes move from modern digital technology and online living into a full structured-programming course taught in C++ (with Scratch/C++/Java/Python/PHP/Lisp compared), then advanced Word work (styles, contents, templates) and spreadsheets up to pivot tables.
 
@@ -38,4 +42,6 @@ Papua New Guinea's own way (Grade 11): the senior guide turns learners into juni
 
 Uzbekistan's own way (Grade 9): grade 9 is the capstone — computer graphics, Access, Excel, then a nine-lesson algorithms block and a 28-lesson Turbo Pascal 7.0 course that runs from the alphabet of the language to files, procedures and graphics mode, closing with the Internet. Every chapter ends with a dedicated repetition lesson, placed here to that chapter's main lesson.
 
-Searchable tags: flowchart, pseudocode, notation, algorithm, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, iraq, grade 7, papua new guinea, grade 11, uzbekistan, grade 9
+Cuba's own way (Grade 9): Grade 9 is the formal programming-foundations year — algorithms, data, variables, counters/accumulators, flowcharts and pseudocode, taught language-independently — paired with a full cybersecurity chapter (passwords/MFA, safe internet, safe social networks).
+
+Searchable tags: flowchart, pseudocode, notation, algorithm, Grade 9 ICT Ethiopia Unit 6, north macedonia, grade 10, iraq, grade 7, papua new guinea, grade 11, uzbekistan, grade 9, cuba, grade 9

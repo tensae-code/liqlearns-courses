@@ -1,6 +1,6 @@
 # Sources — The Pen in Scratch — Pen Down, Pen Up, Colour and Size
 
-countries: Palestine
+countries: Palestine, Cuba
 
 **Book 1:** *Programming (البرمجة), Grade 6* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "6" on cover) — Palestine, State of Palestine, Ministry of Education / Palestinian Curriculum Centre. Year 2019 (trial edition, 1440H/2019; adopted from 2019/20). No ISBN printed. 88 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
@@ -11,6 +11,8 @@ countries: Palestine
 **Book 4:** *Programming (البرمجة), Grade 9* (student book, Arabic; title as printed: البرمجة (Programming) — grade marked "9" on cover) — Palestine, State of Palestine, Ministry of Education / Curriculum Centre. Year 2019 (first edition, 1440H/2019; adopted from 2018/19). No ISBN printed. 136 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/palestine-placements.md.
 
 **Book 5:** *J'excelle en INFORMATIQUE — Guide de l'enseignant(e), 6e Année Primaire* (teacher guide, French) — Morocco, Dar Attakafa (DAR ATTAKAFA, Édition), 2022 (Édition : 2022). No ISBN printed. 34 PDF pages (printed p. = PDF page − 2). Verdict: COMPLETE — the final Scratch year: operators, variables, the Pen extension, and three applied projects; the 5th séance of each teaching unit is evaluation and is not placed. The book's record appears twice in the records (the TSV records and the books.json records are duplicates of the same books — 12 records / 6 distinct books); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/morocco-placements.md. (teacher guide — evidence)
+
+**Book 6:** *Informática, séptimo grado* (student book, Spanish; title as printed: Informática, séptimo grado) — Cuba, Editorial Pueblo y Educación. 2023. ISBN 978-959-13-3796-2 (print) / 978-959-13-4108-2 (digital). 185 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
 
 | Lesson part | Where it comes from |
 |---|---|
@@ -23,8 +25,9 @@ countries: Palestine
 | U.D.3 Séance 2 L'extension « Stylo » (2) (filed as programming/erasing-the-pens-trails-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 23 (teacher guide — evidence) |
 | U.D.3 Séance 3 L'extension « Stylo » (3) (filed as programming/changing-the-pens-colour-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 24 (teacher guide — evidence) |
 | U.D.3 Séance 4 L'extension « Stylo » (4) (filed as programming/changing-the-pens-size-in-scratch; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence) | Morocco, *J'excelle en informatique — Guide de l'enseignant(e), Grade 6 (ma-g6)*, printed p. 25 (teacher guide — evidence) |
+| Capítulo 4.2 Herramienta lápiz Scratch (trazado de figuras geométricas) — filed as programming/scratch-pen-tool-drawing-with-the-pencil; stocked here, in the lesson covering this topic | Cuba, *Informática, Grade 7*, printed p. 151 |
 
-**Acceptance count: taught in 1 country (Palestine).**
+**Acceptance count: taught in 2 countries (Palestine, Cuba).**
 
 Placement choice: this lesson was built new for the ICT expansion (Palestine, 2026-11-14) because no existing lesson in the course covers this thing as its own lesson — the live tree was checked for the slug and for near matches before building. The placements file named this slug directly (NEW LESSON NEEDED — programming/the-pen-in-scratch-pen-down-pen-up-colour-and-size). It sits in the Programming title (programming/), following the book's own order.
 
@@ -38,4 +41,6 @@ Palestine’s own way (Grade 9, Programming): Grade 9 is a full applications cou
 
 Morocco's own way (Grade 6): primary ICT ends by making things with code — a working calculator, a maths quiz and pen-drawn geometry — so the four-year Scratch spiral (Grades 3–6) finishes on operators, variables and extensions used for a purpose. (teacher guide — evidence)
 
-Searchable tags: pen, pen down, pen up, clear, pen colour, pen size, ornaments, free writing, scratch, palestine, grade 6, grade 7, grade 8, grade 9, morocco, grade 6
+Cuba's own way (Grade 7): Secondary Informática opens by contrasting proprietary Windows with Cuba's free operating system Nova; programming continues the primary Scratch line, here centred on the Scratch pen tool for drawing geometric figures and the linear function; word-processor work ends by exporting documents to HTML for the web.
+
+Searchable tags: pen, pen down, pen up, clear, pen colour, pen size, ornaments, free writing, scratch, palestine, grade 6, grade 7, grade 8, grade 9, morocco, grade 6, cuba, grade 7

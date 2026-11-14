@@ -16,6 +16,8 @@ countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan
 
 **Book 7:** *Основы информатики и вычислительной техники — учебник для 8 класса (Basics of Informatics and Computer Technology, Grade 8)* (student book, Russian edition) — Uzbekistan, „О'qituvchi" (O'qituvchi), Tashkent. Authors: Б. Балтаев, А. Абдукадыров, М. Махкамов, А. Азаматов, И. Тайлаков, А. Далиев, Т. Азларов. 2006. No ISBN printed on the colophon page. 145 PDF pages. Verdict: COMPLETE. Scanned image-only; the first grab was silently truncated by the Contents API route and the file was re-fetched complete via the Git Blob API, matching the repo blob size exactly; read via title/imprint renders and the book's complete printed contents, with body spot-checks. Russian translation edition of the Uzbek textbook, translated by G. E. Yunusova. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/uzbekistan-placements.md.
 
+**Book 8:** *Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4667-4 (print) / 978-959-13-4668-1 (digital). 44 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | What ergonomics is; hours at computers without knowing the consequences | Ethiopia, *Information Technology*, Student textbook, Grade 8, Unit 5 §5.1, printed pp. 81–82 |
@@ -28,6 +30,7 @@ countries: Ethiopia, Mozambique, Afghanistan, Uzbekistan
 | Strand 4 Computer Security and Safety, Topic Postures in Computer Equipment Usage, Lessons 1-3: Introduction to Ergonomics; Correct Posture or Positions; Case Study — Posture (yearly overview) (filed as safety-security-and-care/screen-ergonomics-sitting-well-to-work-well; stocked into this lesson as the closest existing lesson covering this thing) (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 123 (teacher guide — evidence, PARTIAL) |
 | Урок 1 "Правила техники безопасности и санитарно-гигиенические нормы" (sanitary-hygienic norms part) | Uzbekistan, *Informatika, Grade 5*, printed p. 4 |
 | Приложение "Санитарно-гигиенические требования" (appendix: sanitary-hygienic requirements) | Uzbekistan, *Basics of Informatics, Grade 8*, printed p. 140 |
+| Unidad 1 Orientaciones: postura correcta al usar la computadora (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 13 (teacher guide — evidence) |
 
 **Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Afghanistan, Uzbekistan).**
 
@@ -42,4 +45,6 @@ Uzbekistan's own way (Grade 5): informatics opens with a full lesson of safety a
 
 Uzbekistan's own way (Grade 8): grade 8 is theory-first — number systems, coding and Boolean logic before the machine's own story — then a full operating-system chapter and a five-lesson Word course; safety rules return as a closing appendix.
 
-Searchable tags: computer ergonomics, sitting posture, backache, overuse injury, elbow wrist hand, numbness, Grade 8 ICT Ethiopia, mozambique, afghanistan, papua new guinea, grade 9, uzbekistan, grade 5, grade 8
+Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficador (Paint-type drawing program) and educational software; correct workstation posture/ergonomics is taught explicitly in Grade 2, and files/folders are introduced intuitively through saving and opening drawings in a class-group folder. (teacher guide — evidence)
+
+Searchable tags: computer ergonomics, sitting posture, backache, overuse injury, elbow wrist hand, numbness, Grade 8 ICT Ethiopia, mozambique, afghanistan, papua new guinea, grade 9, uzbekistan, grade 5, grade 8, cuba, grade 2

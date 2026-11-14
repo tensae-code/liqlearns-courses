@@ -20,6 +20,12 @@ countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi 
 
 **Book 9:** *Technology and Industrial Arts — Computer Technology, Junior High, Grade 9 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-18-5. 188 PDF pages. Verdict: PARTIAL — the guide's detailed lesson content covers Strand 5 (Computer Architecture and Computer Software) in full; the Strand 4 Communication Technology lessons appear in the yearly content overview and standards tables with benchmarks and lesson titles but without detailed content sections in this guide, so those placements rest on the overview. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence, PARTIAL)
 
+**Book 10:** *Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital I, segundo grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4667-4 (print) / 978-959-13-4668-1 (digital). 44 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
+
+**Book 11:** *Programa — Mi Mundo Digital III, quinto grado* (teacher programme, Spanish; title as printed: Programa — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4592-9 (print) / 978-959-13-4596-7 (digital). 27 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher programme — evidence)
+
+**Book 12:** *Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado* (teacher guide, Spanish; title as printed: Orientaciones Metodológicas — Mi Mundo Digital III, quinto grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4682-7 (print) / 978-959-13-4683-4 (digital). 28 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md. (teacher guide — evidence)
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.3, printed pp. 7–8 |
@@ -31,6 +37,9 @@ countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea, Afghanistan, Saudi 
 | Lesson 3: Types of computer (desktop, laptop, handheld/palmtop, home games computer — PlayStation/Xbox/iPad) | Saudi Arabia, *Al-Hasib wa Tiqniyat al-Ma'lumat (Computer and Information Technology), Grade 3 Term 1*, printed p. 16 |
 | Unit 1 Ch.2 Lesson 3 Types of computers | Iraq, *Computer, Grade 8*, printed p. 26 |
 | Strand 5 Unit 1, Topic Computer System, Lesson 3: Types of Computer (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 9 Computer Technology TG*, printed p. 46 (teacher guide — evidence, PARTIAL) |
+| Unidad 4.3 Cámara fotográfica, teléfonos, pizarras digitales; computadoras y sus tipos (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital I, Grade 2*, printed p. 26 (teacher guide — evidence) |
+| Unidad 1.1 Dispositivos digitales, tipos de computadoras (personal, portátil, de mano, pantalla táctil) (teacher programme — evidence) | Cuba, *Programa — Mi Mundo Digital III, Grade 5*, printed p. 11 (teacher programme — evidence) |
+| Unidad 1 La computadora, tipos de computadoras y pantalla táctil (teacher guide — evidence) | Cuba, *Orientaciones Metodológicas — Mi Mundo Digital III, Grade 5*, printed p. 11 (teacher guide — evidence) |
 
 **Acceptance count: taught in 6 countries (Ethiopia, Tanzania, Eritrea, Afghanistan, Saudi Arabia, Iraq).**
 
@@ -46,4 +55,10 @@ Iraq's own way (Grade 8): the same four-unit spiral one year on — the hardware
 
 Papua New Guinea's own way (Grade 9): one TIA teacher guide carries two ICT subjects side by side — Communication Technology (networks, ergonomics, safety, societal impact) and Computer Technology (architecture, software) — organised by content standards and numbered benchmarks (9.4.x / 9.5.x), with the design brief used as the problem-solving method for both a product and a simple network, and typing assessed at 20 wpm with 80% accuracy. (teacher guide — evidence, PARTIAL)
 
-Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania, eritrea, afghanistan, saudi arabia, grade 3, iraq, grade 8, papua new guinea, grade 9
+Cuba's own way (Grade 2): Play-based (lúdico) introduction through the graficador (Paint-type drawing program) and educational software; correct workstation posture/ergonomics is taught explicitly in Grade 2, and files/folders are introduced intuitively through saving and opening drawings in a class-group folder. (teacher guide — evidence)
+
+Cuba's own way (Grade 5): The Grade 5 programme is built around extracting information from Cuban educational software, encyclopedias and EcuRed into word-processor documents, then Scratch — drawing/animation first (Unit 3), control/movement/appearance blocks in Unit 4. (teacher programme — evidence)
+
+Cuba's own way (Grade 5): Same Grade 5 content as the Programa, recast as per-unit teaching tables with hour allocations; Unit 4 is renamed “Aprendiendo y creando” and taught purely as Scratch control, movement and appearance blocks. (teacher guide — evidence)
+
+Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania, eritrea, afghanistan, saudi arabia, grade 3, iraq, grade 8, papua new guinea, grade 9, cuba, grade 2, cuba, grade 5, cuba, grade 5

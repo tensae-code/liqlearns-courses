@@ -1,6 +1,6 @@
 # Sources — Computational thinking
 
-countries: Ethiopia, Djibouti, North Macedonia
+countries: Ethiopia, Djibouti, North Macedonia, Cuba
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 9* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, with Hawassa University. Writers: Tesfaye Bayu (PhD), Werkneh Eshete (MSc). Content editor: Wogene Alemayehu (MSc). Instructional design editor: Jerusalem Yibeltal (PhD). Language editor: Tagesse Daniel (PhD). Illustrator: Kibrebeal Getinet (MSc). Book designer: Efrem Yohannes (PhD). First published August 2023, under the General Education Quality Improvement Program for Equity (GEQIP-E). ISBN: 978-99990-0-040-6. Printed by GRAVITY GROUP IND LLC, Sharjah, United Arab Emirates, under Ministry of Education Contract no. MOE/GEQIP-E/LICB/G-01/23. 251 PDF pp.; printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g09-student-placements.md.
 
@@ -16,6 +16,8 @@ countries: Ethiopia, Djibouti, North Macedonia
 
 **Book 7:** *Technology and Industrial Arts — Computer Technology, Grade 11 Teacher Guide, Standards-Based* (teacher guide, English) — Papua New Guinea, Department of Education, Papua New Guinea, 2023. ISBN 978-9980-921-20-8. 205 PDF pages. Verdict: COMPLETE. The book appears twice in the records (a TSV release record and a books.json pushed record for the same repo path); it is cited once per lesson. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/papua-new-guinea-placements.md. (teacher guide — evidence)
 
+**Book 8:** *Informática, onceno grado* (student book, Spanish; title as printed: Informática, onceno grado) — Cuba, Ministerio de Educación / Editorial Pueblo y Educación. 2024. ISBN 978-959-13-4817-3 (print) / 978-959-13-4818-0 (digital). 134 PDF pages. Verdict: COMPLETE. Read in full in the 2026-11-14 ICT expansion reading wave. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/cuba-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | Computational thinking defined; 21st-century skills set as research; Polya introduced | Ethiopia, *Information Technology, Student's Textbook, Grade 9*, Unit 6, printed p. 219 |
@@ -25,8 +27,9 @@ countries: Ethiopia, Djibouti, North Macedonia
 | Unit 3, Lesson 1: Scratch basics — problem solving and computational thinking (breaking a big problem into smaller sub-problems and solving them in order) (teacher guide — evidence; PARTIAL — Term 1 only) | Saudi Arabia, *Digital Skills Teacher Guide, Grade 4 Term 1 (PARTIAL — Term 1 only)*, printed p. 77 (teacher guide — evidence) |
 | Unit 2, Topic Programming, Lesson 1: Intermediate Programming Concepts (teacher guide — evidence, PARTIAL) | Papua New Guinea, *PNG Grade 10 Computer Technology TG*, printed p. 66 (teacher guide — evidence, PARTIAL) |
 | Unit 2, Topic Computer Terminology and Software programming, Lesson 1: Analyse problems in computational terms (six principles of computational thinking) (teacher guide — evidence) | Papua New Guinea, *PNG Grade 11 Computer Technology TG*, printed p. 68 (teacher guide — evidence) |
+| Capítulo 2.1 El pensamiento computacional y la lógica de la programación | Cuba, *Informática, Grade 11*, printed p. 26 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, North Macedonia).**
+**Acceptance count: taught in 3 countries (Ethiopia, North Macedonia, Cuba).**
 
 Teacher-guide answers for this lesson's review items were checked against the guide's closing answer keys (teacher guide — evidence; student book Unit review answers keyed in the guide, Unit 5 printed p. 82 and Unit 6 printed pp. 112–113).
 
@@ -38,4 +41,6 @@ Papua New Guinea's own way (Grade 10): Grade 10 jumps from using computers to bu
 
 Papua New Guinea's own way (Grade 11): the senior guide turns learners into junior system administrators and builders — computer administration, datasheets ("data books") and timing technology, documenting server and printer configurations, data science, pseudocode, Green IT, and building static web pages with tools like Canva and Figma; typing rises to 40 wpm at 85–100% accuracy. (teacher guide — evidence)
 
-Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11
+Cuba's own way (Grade 11): Databases are taught from the free-software perspective with SQLite (SQLiteAdministrator), explicitly as preparation for LiveCode; programming deepens into object-oriented, event-driven implementation in LiveCode and closes with the software-engineering development process and an integrative project. The book is dedicated to girls in pre-university, invoking Ada Byron against the stereotype that women cannot program.
+
+Searchable tags: computational thinking, 21st century skills, 4Cs, IMT, FLIPS, Grade 9 ICT Ethiopia Unit 6, djibouti, north macedonia, grade 10, saudi arabia, grade 4, papua new guinea, grade 10, papua new guinea, grade 11, cuba, grade 11

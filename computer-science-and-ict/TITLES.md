@@ -969,3 +969,19 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Safety, Security and Care** (ICT expansion, from Uzbekistan): Safety Rules in the Computer Room
 
 **Computers in Society** (ICT expansion, from Uzbekistan): About Computer Games · Puzzle and Word-Building Games
+
+**Software** (ICT expansion, from Cuba): Windows and Dialog Boxes — First Steps
+
+**Multimedia** (ICT expansion, from Cuba): Drawing Tools — Pencil, Brush, Fill and Text Tool
+
+**Word Processing** (ICT expansion, from Cuba): Building a Document from Extracted Sources · Using the Thesaurus — Synonyms in a Document · Diagrams and Schemes in a Document · Comments and Reviewing a Document
+
+**Presentations** (ICT expansion, from Cuba): Graphic Organisers — Mind Maps, Timelines and Org Charts
+
+**Databases** (ICT expansion, from Cuba): Creating a Database in SQLite with SQLiteAdministrator
+
+**Programming** (ICT expansion, from Cuba): Scratch Movement Blocks — Move, Turn and Point · Scratch Looks Blocks — Show, Hide and Say · Logic of Programming — Foundations · Data Types in Programming · Counters and Accumulators · Object-Oriented and Event-Driven Programming · Implementing Algorithms in LiveCode
+
+**New Technologies** (ICT expansion, from Cuba): Web 2.0 and Web 3.0 — Evolution of the Web
+
+**Computers in Society** (ICT expansion, from Cuba): Moodle as a Teleformación Platform · Bibliographic Managers for Citations and References
