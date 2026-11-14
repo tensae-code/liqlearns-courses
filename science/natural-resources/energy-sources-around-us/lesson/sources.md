@@ -1,6 +1,6 @@
 # Sources — Energy sources around us
 
-countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Saudi Arabia
+countries: Ethiopia, Suriname, Costa Rica, Greece, Bahamas (curriculum evidence only), Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), Bangladesh, Fiji, Saudi Arabia, Vietnam
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -311,3 +311,22 @@ Searchable tags: fiji, fiji science, ministry of education fiji, natural-resourc
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, natural-resources energy-sources-around-us
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Tidal energy and biomass energy from rotting plants, wood, straw and waste (extension box) (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 29 |
+| Lesson 10: fuel energy sources — coal from mines, oil from wells (giving petrol, kerosene, diesel), natural gas, and biogas made from rotted waste in sealed tanks (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 38 |
+| What fuel energy is used for: planes, ships, cooking, heating, farm and road machines (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 39 |
+| Lesson 11: using solar energy — drying salt, grain and food, solar water heaters, solar panels for pumping and street lighting (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 42 |
+| Using wind energy: sailing boats, winnowing grain, wind turbines, kites (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 43 |
+| Using flowing-water energy: waterwheels lifting water, the Hòa Bình hydroelectric dam, water-powered rice pounding, floating logs downstream; Vietnam's falling-water cooling system for stone rooms in mountain tourist areas (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 44 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Suriname, Costa Rica, Greece, Samoa, Seychelles, Ecuador, Venezuela, Mauritania, Bhutan, Dominican Republic, China, Syria, Bangladesh, Fiji, Saudi Arabia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, natural-resources energy-sources-around-us
+

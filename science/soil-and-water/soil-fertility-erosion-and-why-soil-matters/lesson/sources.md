@@ -1,6 +1,6 @@
 # Sources — Soil fertility, erosion, and why soil matters
 
-countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles, Venezuela, Angola, Dominican Republic, China, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh
+countries: Ethiopia, Mexico, Suriname, Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Barbados (curriculum evidence only), Uganda, Bulgaria, Gabon (teacher-guide evidence only), Cuba, Seychelles, Venezuela, Angola, Dominican Republic, China, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), Bangladesh, Vietnam
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -371,3 +371,18 @@ Searchable tags: zimbabwe, plusone, science and technology, heritage-based curri
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, soil-and-water soil-fertility-erosion-and-why-soil-matters
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The role of soil for crops: roots take minerals and humus, soil holds the plant upright and gives air and water (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 7 |
+| Soil erosion: what it is, its causes (rain, wind, slope, cutting forest) and the harm it does (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 11 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Mexico, Suriname, Nauru, Tuvalu, Niue, Serbia, Uganda, Bulgaria, Cuba, Venezuela, Angola, Dominican Republic, China, Eritrea, Sri Lanka, Rwanda, Bangladesh, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, soil-and-water soil-fertility-erosion-and-why-soil-matters
+

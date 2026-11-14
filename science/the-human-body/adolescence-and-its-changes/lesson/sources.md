@@ -1,6 +1,6 @@
 # Sources — Adolescence and its changes
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Guyana, India, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Venezuela (curriculum/proposal evidence only), Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Rwanda, Indonesia, Yemen
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Guyana, India, Gabon (teacher-guide evidence only), Cuba, Cambodia, Ecuador, Venezuela (curriculum/proposal evidence only), Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Rwanda, Indonesia, Yemen, Vietnam
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -246,3 +246,17 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, the-
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body adolescence-and-its-changes
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Puberty changes in girls and boys side by side (height, breasts and hips, menstruation; broader chest, deeper voice, ejaculation; shared changes: body hair, oily skin and acne, mood); girls start at 8–13, boys at 9–14 (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 83 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Guyana, India, Cuba, Cambodia, Ecuador, Bhutan, Dominican Republic, Kuwait, Laos, Eritrea, Rwanda, Indonesia, Yemen, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-human-body adolescence-and-its-changes
+

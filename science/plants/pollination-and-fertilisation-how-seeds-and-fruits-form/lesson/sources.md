@@ -1,6 +1,6 @@
 # Sources — Pollination and fertilisation — how seeds and fruits form
 
-countries: Sudan, Kuwait, North Macedonia
+countries: Sudan, Kuwait, North Macedonia, Vietnam
 
 **Book (Sudan — Grade 6):** Title as printed: العلوم (Science), Grade 6 Primary (الصف السادس، المرحلة الابتدائية). Publisher: Republic of Sudan, Ministry of Education, National Centre for Curricula and Educational Research — Bakht al-Ruda; prepared by a committee of teachers and experts commissioned by the Centre. First edition 2020, Sudan Currency Printing Press. Student book, Arabic. PDF 93 pages, 11,846,946 bytes (byte size and page count match the TSV record and the phase3-staging books.json record for this title exactly; the file is a CamScanner scan with no text layer). Verdict: COMPLETE (Units 1–8, printed pp. 1–83, through the Unit 8 assessment; PDF p. 93 is the back cover). Printed page = PDF page − 6. Read in full from page renders of every page. Two scan notes: printed pp. 34 and 35 are each scanned twice in the PDF (no printed page is missing), and the assessment printed on p. 5 — questions on feeding relationships, competition and parasites — belongs to Unit 4, not to the Unit 1 lesson it follows (a printing/binding fault in the book itself; Unit 1's own assessment is on printed p. 9). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sudan-placements.md.
 
@@ -47,3 +47,20 @@ Placement choice, on the record: the North Macedonia placement(s) above filed as
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, plants pollination-and-fertilisation-how-seeds-and-fruits-form
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Pollination and fertilisation step by step: pollen to stigma, pollen tube, zygote and embryo; the ovary becomes the fruit and the ovule becomes the seed (Vietnam, Grade 5) — filed as NEW LESSON NEEDED — the-flower-and-how-a-seed-forms; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Vietnam, *Khoa học 5*, printed p. 50 |
+| Pollination by insects (bright, sweet-scented flowers) and by wind (plain flowers, small or no petals) (Vietnam, Grade 5) — filed as NEW LESSON NEEDED — the-flower-and-how-a-seed-forms; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Vietnam, *Khoa học 5*, printed p. 51 |
+
+Placement choice, on the record: the Vietnam placement(s) above filed as NEW LESSON NEEDED — "the-flower-and-how-a-seed-forms" — vietnam-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+**Acceptance count: taught in 4 countries (Sudan, Kuwait, North Macedonia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, plants pollination-and-fertilisation-how-seeds-and-fruits-form
+

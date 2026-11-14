@@ -136,3 +136,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, earth-and-space the-daily
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, earth-and-space the-daily-motion-of-the-sun-moon-and-stars
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 6):** *KHOA HỌC TỰ NHIÊN 6* (student book) — Vietnam. Records: TSV release mid-size-books grade-06 natural-science student (48,437,804 bytes) + books.json grade-06/gov/vietnam/natural-science/student/full-year.pdf (48,437,804 bytes, 198 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 6 (Tái bản lần thứ năm — 5th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2021; book code G1HH6K001h26; ISBN 978-604-0-25149-7. PDF pages: 198. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–6 list all 55 lessons in 10 chapters through the glossary, printed p. 193; colophon and back cover present). Scope note: this is the combined Natural Science book. Chapter I (Introduction) and Chapter X (Earth and the Sky) are GENERAL science and are placed item by item below. The remaining chapters are the split-subject strands and are named in chapter lines only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Telling the celestial bodies apart: a star shines by its own light; a planet and a satellite do not shine but reflect sunlight; comets are bodies of frozen gas and dust with a broom-like shape; constellations are star patterns, like the Great Bear (the Plough) (Vietnam, Grade 6) | Vietnam, *Khoa học tự nhiên 6*, printed p. 181 |
+
+**Acceptance count: taught in 8 countries (Mongolia, Vietnam, United States, China, Laos, Sri Lanka, Bangladesh, Yemen).** — unchanged: Vietnam is already counted in this lesson (from Vietnam's Grade 10–11 Physics books stocked in the Physics expansion); the Vietnam General Science books above add their rows without changing the count.
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, earth-and-space the-daily-motion-of-the-sun-moon-and-stars
+

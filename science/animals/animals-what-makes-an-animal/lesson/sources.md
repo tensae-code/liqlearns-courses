@@ -1,6 +1,6 @@
 # Sources — Animals — what makes an animal
 
-countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Yemen
+countries: Ethiopia, Vanuatu (teacher-guide evidence only), Guyana, Bahamas (curriculum evidence only), Egypt, Seychelles, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, Zimbabwe (teacher-guide evidence only), North Macedonia, Bangladesh, Yemen, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -294,3 +294,18 @@ Searchable tags: bangladesh, bangladesh science, nctb, animals animals-what-make
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, animals animals-what-makes-an-animal
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 1):** *TỰ NHIÊN VÀ XÃ HỘI 1* (student book) — Vietnam. Records: TSV release mid-size-books grade-01 nature-and-society student (21,835,720 bytes) + books.json grade-01/gov/vietnam/nature-and-society/student/full-year.pdf (21,835,720 bytes, 126 pages) — verified exact match in size and pages; same book, cited once. Title as printed: TỰ NHIÊN VÀ XÃ HỘI 1 (Tái bản lần thứ sáu — 6th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2020; book code G1HH1X001h26; ISBN 978-604-0-19571-5. PDF pages: 126. Printed page = PDF page throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 28 lessons in 6 themes through the glossary pp. 122–123; colophon and back cover present). Scope note: this is a combined Nature and Society book. The NATURE/SCIENCE parts are placed below. The SOCIETY parts are NOT placed, namely: Lesson 1 (telling about your family, pp. 6–9), Lesson 6 (my classroom, pp. 24–29), Lesson 7 (exploring the school, pp. 30–35), Lesson 11 (the jobs of people where I live, pp. 46–49), Lesson 12 (celebrating Tết, pp. 50–53), and the review lessons 9, 14, 19, 25 and 28 except for the individual items placed from them. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 17: animals around us on an observation sheet: name, size, colour and special features (the ant is black and has many legs) (Vietnam, Grade 1) | Vietnam, *Tự nhiên và Xã hội 1*, printed pp. 70–71 |
+| Most animals have a head, a body and the parts they move with, and they move in different ways — the bee by wings, the frog by legs, the fish by fins (Vietnam, Grade 1) | Vietnam, *Tự nhiên và Xã hội 1*, printed pp. 72–73 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Guyana, Egypt, Seychelles, Venezuela, Mauritania, Angola, Syria, Laos, Sri Lanka, North Macedonia, Bangladesh, Yemen, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, animals animals-what-makes-an-animal
+

@@ -1,6 +1,6 @@
 # Sources — Measurement — accuracy and precision
 
-countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Seychelles, Venezuela, Indonesia, Bangladesh
+countries: Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Seychelles, Venezuela, Indonesia, Bangladesh, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -111,3 +111,17 @@ Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, scie
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, science-skills accuracy-and-precision
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 7):** *KHOA HỌC TỰ NHIÊN 7* (student book) — Vietnam. Records: TSV release mid-size-books grade-07 natural-science student (33,614,169 bytes) + books.json grade-07/gov/vietnam/natural-science/student/full-year.pdf (33,614,169 bytes, 182 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 7 (Tái bản lần thứ tư — 4th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2022; book code G1HH7K001h26; ISBN 978-604-0-30713-2. PDF pages: 182. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 42 lessons in 10 chapters through the glossary, printed p. 175; colophon and back cover present). Scope note: only Lesson 1 (methods and skills of learning Natural Science) is GENERAL science and is placed item by item below. Every other chapter is a split-subject strand and is named in a chapter line only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Measuring as a four-step skill: estimate the quantity to choose a suitable instrument, carry out the measurement and record and process the numbers, judge the accuracy from the instrument used, and analyse and discuss the result — practised by weighing this very textbook three times on an electronic balance and averaging (Vietnam, Grade 7) | Vietnam, *Khoa học tự nhiên 7*, printed p. 9 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Barbados, Bulgaria, India, Moldova, Jordan, Uganda, Venezuela, Indonesia, Bangladesh, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, science-skills accuracy-and-precision
+

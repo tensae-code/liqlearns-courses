@@ -1,6 +1,6 @@
 # Sources — Plants give us things and food
 
-countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia
+countries: Ethiopia, Mexico, Sweden, Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda, Zimbabwe (teacher-guide evidence only), Indonesia, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -377,3 +377,23 @@ Searchable tags: yemen, yemen science, ministry of education yemen, plants plant
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, plants plants-give-us-things-and-food
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 3):** *TỰ NHIÊN VÀ XÃ HỘI 3* (student book) — Vietnam. Records: TSV release mid-size-books grade-03 nature-and-society student (21,376,971 bytes) + books.json grade-03/gov/vietnam/nature-and-society/student/full-year.pdf (21,376,971 bytes, 126 pages) — verified exact match in size and pages; same book, cited once. Title as printed: TỰ NHIÊN VÀ XÃ HỘI 3 (Tái bản lần thứ tư — 4th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2022; book code G3HH3X001a26; ISBN 978-604-0-30723-1. PDF pages: 126. Verdict: COMPLETE (contents printed pp. 4–5 list all 30 lessons in 6 themes through the glossary pp. 122–123; colophon and back cover present). Scope note: this is a combined Nature and Society book. The NATURE/SCIENCE parts are placed below. The SOCIETY parts are NOT placed, namely: Lesson 1 (relatives on father's and mother's side and family memorial days, pp. 6–11) and its review in Lesson 4; Lesson 5 (school activities connecting with the community — except the recycling-exchange and tree-planting items placed below); Lesson 6 (school traditions, pp. 26–29) and Lesson 8 review; Lesson 9 (agricultural production activities and products, pp. 36–41 — except the composting and clean-agriculture items placed below); Lesson 10 (handicraft and industrial production, pp. 42–47 — except the thrifty-use item placed below); Lesson 11 (historical-cultural relics and natural landscapes, pp. 48–51 — except the site-cleanliness item placed below); Lesson 12 review. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 16: how people use plants and animals — food (vegetables, meat, fish, eggs, fruit), rattan furniture, milk, and gac-fruit oil as medicine (Vietnam, Grade 3) | Vietnam, *Tự nhiên và Xã hội 3*, printed p. 68 |
+
+**Book (Vietnam — Grade 1):** *TỰ NHIÊN VÀ XÃ HỘI 1* (student book) — Vietnam. Records: TSV release mid-size-books grade-01 nature-and-society student (21,835,720 bytes) + books.json grade-01/gov/vietnam/nature-and-society/student/full-year.pdf (21,835,720 bytes, 126 pages) — verified exact match in size and pages; same book, cited once. Title as printed: TỰ NHIÊN VÀ XÃ HỘI 1 (Tái bản lần thứ sáu — 6th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2020; book code G1HH1X001h26; ISBN 978-604-0-19571-5. PDF pages: 126. Printed page = PDF page throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 28 lessons in 6 themes through the glossary pp. 122–123; colophon and back cover present). Scope note: this is a combined Nature and Society book. The NATURE/SCIENCE parts are placed below. The SOCIETY parts are NOT placed, namely: Lesson 1 (telling about your family, pp. 6–9), Lesson 6 (my classroom, pp. 24–29), Lesson 7 (exploring the school, pp. 30–35), Lesson 11 (the jobs of people where I live, pp. 46–49), Lesson 12 (celebrating Tết, pp. 50–53), and the review lessons 9, 14, 19, 25 and 28 except for the individual items placed from them. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| What plants give us: shade, beauty, food for people, medicine, fodder for animals, and wood for paper and furniture (Vietnam, Grade 1) | Vietnam, *Tự nhiên và Xã hội 1*, printed pp. 64–65 |
+
+**Acceptance count: taught in 23 countries (Ethiopia, Mexico, Sweden, Nauru, Tuvalu, Niue, Serbia, Guyana, Armenia, Cuba, Cambodia, Ecuador, Cabo Verde, Venezuela, Angola, Kuwait, Syria, Laos, Rwanda, Indonesia, Yemen, Saudi Arabia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, plants plants-give-us-things-and-food
+

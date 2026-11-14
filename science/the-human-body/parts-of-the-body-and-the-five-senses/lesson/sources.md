@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Fiji (teacher-guide evidence only), Yemen, Vietnam
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -649,3 +649,27 @@ Searchable tags: fiji, fiji science, ministry of education fiji, the-human-body 
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body parts-of-the-body-and-the-five-senses
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 4):** *KHOA HỌC 4* (student book) — Vietnam. Records: TSV release mid-size-books grade-04 science student (22,137,197 bytes) + books.json grade-04/gov/vietnam/science/student/full-year.pdf (22,137,197 bytes, 127 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 4 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; approved by Decision 1908/QĐ-BGDĐT, 11 July 2022; book code G3HH4K001a26; ISBN 978-604-0-35122-7. PDF pages: 127. Verdict: COMPLETE (contents printed p. 4 lists all 31 lessons in 6 themes through the glossary p. 121 and image sources p. 123; colophon and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Protecting the eyes from light that is too strong (welding sparks, sun at the beach, phones in the dark, car headlights) and from too little light; sitting straight and keeping the book 25–30 cm away to avoid short sight (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 37 |
+
+**Book (Vietnam — Grade 1):** *TỰ NHIÊN VÀ XÃ HỘI 1* (student book) — Vietnam. Records: TSV release mid-size-books grade-01 nature-and-society student (21,835,720 bytes) + books.json grade-01/gov/vietnam/nature-and-society/student/full-year.pdf (21,835,720 bytes, 126 pages) — verified exact match in size and pages; same book, cited once. Title as printed: TỰ NHIÊN VÀ XÃ HỘI 1 (Tái bản lần thứ sáu — 6th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2020; book code G1HH1X001h26; ISBN 978-604-0-19571-5. PDF pages: 126. Printed page = PDF page throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 28 lessons in 6 themes through the glossary pp. 122–123; colophon and back cover present). Scope note: this is a combined Nature and Society book. The NATURE/SCIENCE parts are placed below. The SOCIETY parts are NOT placed, namely: Lesson 1 (telling about your family, pp. 6–9), Lesson 6 (my classroom, pp. 24–29), Lesson 7 (exploring the school, pp. 30–35), Lesson 11 (the jobs of people where I live, pp. 46–49), Lesson 12 (celebrating Tết, pp. 50–53), and the review lessons 9, 14, 19, 25 and 28 except for the individual items placed from them. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 20: naming the outside parts of the body and matching each part to its job — thinking, turning the head, holding and grasping, walking (Vietnam, Grade 1) | Vietnam, *Tự nhiên và Xã hội 1*, printed pp. 82–85 |
+| Bodies differ from person to person — skin colour and hair differ — and every difference is to be respected (Vietnam, Grade 1) | Vietnam, *Tự nhiên và Xã hội 1*, printed p. 83 |
+| Lesson 21: the five senses — eyes, nose, tongue, ears and skin — are how we know everything around us (Vietnam, Grade 1) | Vietnam, *Tự nhiên và Xã hội 1*, printed pp. 88–89 |
+| Protecting eyes and ears: sit straight to read so the eyes do not become short-sighted, never read in the dark, never poke things into the ears, and have eyes and ears checked (Vietnam, Grade 1) | Vietnam, *Tự nhiên và Xã hội 1*, printed pp. 90–91 |
+| Protecting nose, tongue and skin: avoid food that is too hot or too spicy, gargle with salt water, shade the skin in strong sun and wear a mask when dust is flying (Vietnam, Grade 1) | Vietnam, *Tự nhiên và Xã hội 1*, printed pp. 92–93 |
+
+**Acceptance count: taught in 29 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Yemen, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-human-body parts-of-the-body-and-the-five-senses
+

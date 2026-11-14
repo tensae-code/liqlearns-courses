@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Angola, Bhutan, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Fiji (teacher-guide evidence only), Saudi Arabia
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India, Pakistan (Punjab), Ecuador, Afghanistan, Cabo Verde (teacher-guide evidence only), Sudan, Angola, Bhutan, Kuwait, China, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Indonesia, Fiji (teacher-guide evidence only), Saudi Arabia, Vietnam
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -415,3 +415,18 @@ Searchable tags: fiji, fiji science, ministry of education fiji, light things-th
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, light things-that-block-light-and-shadows
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 4):** *KHOA HỌC 4* (student book) — Vietnam. Records: TSV release mid-size-books grade-04 science student (22,137,197 bytes) + books.json grade-04/gov/vietnam/science/student/full-year.pdf (22,137,197 bytes, 127 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 4 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; approved by Decision 1908/QĐ-BGDĐT, 11 July 2022; book code G3HH4K001a26; ISBN 978-604-0-35122-7. PDF pages: 127. Verdict: COMPLETE (contents printed p. 4 lists all 31 lessons in 6 themes through the glossary p. 121 and image sources p. 123; colophon and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Shadows: why a blocking thing casts a shadow behind it, and how the shadow grows or shrinks as the lamp or the thing moves; hand shadow animals (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 33 |
+| Review of Energy theme: the shadow-puppet problem — making the puppet's shadow smaller without moving the screen; which way a south-facing house's shadow falls on a sunny morning (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 52 |
+
+**Acceptance count: taught in 27 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Mongolia, India, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda, Indonesia, Saudi Arabia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, light things-that-block-light-and-shadows
+

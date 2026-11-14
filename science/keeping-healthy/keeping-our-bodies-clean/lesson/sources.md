@@ -1,6 +1,6 @@
 # Sources — Keeping our bodies clean
 
-countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia (guide evidence only), Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia
+countries: Ethiopia, Turkey, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Costa Rica (guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Pakistan (Punjab), Cuba, Cambodia (guide evidence only), Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Eritrea, Rwanda, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Fiji (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -653,3 +653,26 @@ Searchable tags: yemen, yemen science, ministry of education yemen, keeping-heal
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, keeping-healthy keeping-our-bodies-clean
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Why we wash hands with soap before eating and after the toilet; a healthy person's skin can carry up to 40,000 bacteria per square centimetre (WHO guidance) (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 67 |
+| Lesson 25: keeping the body clean at puberty — why it matters (skin infections, acne, genital inflammation from dirty water), washing with soap and clean water, drying the body (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 88 |
+| A one-week self-check table for body care (face washing, changing underwear and genital hygiene daily, morning exercise) (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 92 |
+
+**Book (Vietnam — Grade 1):** *TỰ NHIÊN VÀ XÃ HỘI 1* (student book) — Vietnam. Records: TSV release mid-size-books grade-01 nature-and-society student (21,835,720 bytes) + books.json grade-01/gov/vietnam/nature-and-society/student/full-year.pdf (21,835,720 bytes, 126 pages) — verified exact match in size and pages; same book, cited once. Title as printed: TỰ NHIÊN VÀ XÃ HỘI 1 (Tái bản lần thứ sáu — 6th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2020; book code G1HH1X001h26; ISBN 978-604-0-19571-5. PDF pages: 126. Printed page = PDF page throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 28 lessons in 6 themes through the glossary pp. 122–123; colophon and back cover present). Scope note: this is a combined Nature and Society book. The NATURE/SCIENCE parts are placed below. The SOCIETY parts are NOT placed, namely: Lesson 1 (telling about your family, pp. 6–9), Lesson 6 (my classroom, pp. 24–29), Lesson 7 (exploring the school, pp. 30–35), Lesson 11 (the jobs of people where I live, pp. 46–49), Lesson 12 (celebrating Tết, pp. 50–53), and the review lessons 9, 14, 19, 25 and 28 except for the individual items placed from them. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Hoa's daily body hygiene: brushing teeth, washing the face, combing the hair, washing hands, bathing and changing into clean clothes (Vietnam, Grade 1) | Vietnam, *Tự nhiên và Xã hội 1*, printed p. 86 |
+| Washing hands the right way, step by step with soap, and brushing teeth the right way, surface by surface (Vietnam, Grade 1) | Vietnam, *Tự nhiên và Xã hội 1*, printed p. 87 |
+
+**Acceptance count: taught in 27 countries (Ethiopia, Turkey, Guyana, Uganda, Bulgaria, Pakistan (Punjab, Bangladesh, Yemen, Saudi Arabia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, keeping-healthy keeping-our-bodies-clean
+

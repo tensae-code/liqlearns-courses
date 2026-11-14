@@ -1,6 +1,6 @@
 # Sources — Cycles of matter — carbon, nitrogen, water
 
-countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania, Dominican Republic, Kuwait, Syria, Bangladesh, Fiji, Yemen
+countries: Ethiopia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Iceland (teacher-guide evidence only), Bulgaria, United States, Pakistan (Punjab), Armenia, Ecuador, Sudan, Venezuela, Mauritania, Dominican Republic, Kuwait, Syria, Bangladesh, Fiji, Yemen, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -246,3 +246,29 @@ Searchable tags: fiji, fiji science, ministry of education fiji, our-environment
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, our-environment cycles-of-matter-carbon-nitrogen-water
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The environment holds living things' waste: bacteria and fungi break waste down into nutrients and carbon dioxide that plants use (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 102 |
+
+**Book (Vietnam — Grade 4):** *KHOA HỌC 4* (student book) — Vietnam. Records: TSV release mid-size-books grade-04 science student (22,137,197 bytes) + books.json grade-04/gov/vietnam/science/student/full-year.pdf (22,137,197 bytes, 127 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 4 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; approved by Decision 1908/QĐ-BGDĐT, 11 July 2022; book code G3HH4K001a26; ISBN 978-604-0-35122-7. PDF pages: 127. Verdict: COMPLETE (contents printed p. 4 lists all 31 lessons in 6 themes through the glossary p. 121 and image sources p. 123; colophon and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How an animal exchanges substances with its surroundings: taking in food, water and oxygen, giving out wastes, urine and carbon dioxide (diagram); a 30 kg pig gives out 1–2 litres of urine and 1–2 kg of dung a day, which must be collected and treated (extension box) (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 62 |
+
+**Book (Vietnam — Grade 8):** *KHOA HỌC TỰ NHIÊN 8* (student book) — Vietnam. Records: TSV release mid-size-books grade-08 natural-science student (37,593,744 bytes) + books.json grade-08/gov/vietnam/natural-science/student/full-year.pdf (37,593,744 bytes, 199 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 8 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; book code G1HH8K001h26; ISBN 978-604-0-35039-8. PDF pages: 199. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 47 lessons in 8 chapters through the glossary, printed p. 195; colophon and back cover present). Scope note: Lesson 1 (laboratory chemicals, equipment and safety) and Chapter VIII (Organisms and the Environment) are GENERAL science and are placed item by item below. The other chapters are split-subject strands and are named in chapter lines only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How matter and energy move through an ecosystem: substances travel from the environment into living bodies, along the chains and webs, and back to the environment, while energy enters as sunlight and flows in one direction through the feeding levels, diminishing as each level gives off heat (Vietnam, Grade 8) | Vietnam, *Khoa học tự nhiên 8*, printed p. 183 |
+
+**Acceptance count: taught in 16 countries (Ethiopia, Bulgaria, United States, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, our-environment cycles-of-matter-carbon-nitrogen-water
+

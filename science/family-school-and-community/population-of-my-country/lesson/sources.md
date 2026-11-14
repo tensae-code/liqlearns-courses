@@ -1,0 +1,19 @@
+# Sources — Population of my country
+
+countries: Vietnam
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam's population reached about 100 million in April 2023, 15th in the world, average age about 34 — a young, plentiful workforce (UN figures, extension box) (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 78 |
+
+| Do it first; key ideas; Do It Yourself | Vietnam, as cited in the rows above |
+
+**Acceptance count: taught in 1 country (Vietnam).**
+
+Placement choice, on the record: this NEW LESSON was built for the Vietnam placement(s) "NEW LESSON NEEDED — population-of-my-country" — vietnam-placements.md. No existing general-science lesson covers a learner's own country's population as its own lesson (checked the live repo at merge time — `family-school-and-community/population-growth-birth-death-and-migration` teaches how populations grow and move, not the count and standing of one's own country), so it gets its own lesson. It sits in family-school-and-community/ and is registered in CURRICULUM.md Unit 12 (Family, School and Community).
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, family-school-and-community population-of-my-country

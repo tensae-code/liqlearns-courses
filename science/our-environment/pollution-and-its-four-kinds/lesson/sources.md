@@ -1,6 +1,6 @@
 # Sources — Pollution and its four kinds
 
-countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia
+countries: Ethiopia, Mexico, Trinidad and Tobago (curriculum-guide evidence only), Guatemala (teacher-guide evidence only), Djibouti (teacher-guide evidence only), India, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Cabo Verde (teacher-guide evidence only), Sudan, Venezuela, Mauritania, Angola, Kuwait, Syria, Eritrea, Sri Lanka, Rwanda, North Macedonia, Indonesia, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam
 
 **Book 10:** *Environmental Science Student Textbook, Grade 5* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 5ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minilk Belay Akalu (MSc), Getachew Dilnesa Gedebe (MA), Melese Sinu W/Mariam (MSc). COMPLETE: 178 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g05-student-placements.md.
 
@@ -443,3 +443,25 @@ Searchable tags: yemen, yemen science, ministry of education yemen, our-environm
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, our-environment pollution-and-its-four-kinds
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2: soil pollution — causes (untreated waste, long use of chemical fertiliser, volcanoes, salt intrusion, acid sulfate soils) and its harm to plants, animals and people (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 9 |
+| Lesson 29: people's negative effects on the environment and natural resources — burning forest for farms, spraying chemical pesticides, dumping untreated waste, illegal gold mining causing landslides; resources run out when overused (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 104 |
+
+**Book (Vietnam — Grade 8):** *KHOA HỌC TỰ NHIÊN 8* (student book) — Vietnam. Records: TSV release mid-size-books grade-08 natural-science student (37,593,744 bytes) + books.json grade-08/gov/vietnam/natural-science/student/full-year.pdf (37,593,744 bytes, 199 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 8 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; book code G1HH8K001h26; ISBN 978-604-0-35039-8. PDF pages: 199. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 47 lessons in 8 chapters through the glossary, printed p. 195; colophon and back cover present). Scope note: Lesson 1 (laboratory chemicals, equipment and safety) and Chapter VIII (Organisms and the Environment) are GENERAL science and are placed item by item below. The other chapters are split-subject strands and are named in chapter lines only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 47: the human mark on the environment grows age by age — in the primitive age, gathering, hunting and burning forest to hunt; in the farming age, ploughing, settling in one place, taming plants and animals and digging irrigation canals; in the industrial age and Industry 4.0, machines, mining and mass production press hardest of all (Vietnam, Grade 8) | Vietnam, *Khoa học tự nhiên 8*, printed pp. 191–192 |
+| Pollution means the physical, chemical or biological character of the environment is changed beyond standard so that it harms health and nature; the causes named are industrial and household waste gases (CO, SO₂, CO₂ and NO₂, among them greenhouse gases), plant-protection chemicals used wrongly, radioactive substances from nuclear weapon tests and power stations, and disease-causing microbes multiplying in untreated waste (Vietnam, Grade 8) | Vietnam, *Khoa học tự nhiên 8*, printed pp. 192–193 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Mexico, India, Pakistan (Punjab, Bangladesh, Fiji, Yemen, Saudi Arabia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, our-environment pollution-and-its-four-kinds
+

@@ -1,6 +1,6 @@
 # Sources — Light — sources, and the straight-line rule
 
-countries: Ethiopia, Morocco (teacher-guide evidence only), Uganda, Ecuador, Rwanda, North Macedonia
+countries: Ethiopia, Morocco (teacher-guide evidence only), Uganda, Ecuador, Rwanda, North Macedonia, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -73,3 +73,17 @@ Searchable tags: rwanda, rwanda education board, reb, science and elementary tec
 North Macedonia's own way — its Ministry of Education and Science *Природни науки* (Natural Sciences) books, in Macedonian (the Grade 4 book in its Serbian translation), teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with North Macedonia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: north macedonia, north macedonia science, prirodni nauki, ministry of education and science north macedonia, light light-sources-and-the-straight-line-rule
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 4):** *KHOA HỌC 4* (student book) — Vietnam. Records: TSV release mid-size-books grade-04 science student (22,137,197 bytes) + books.json grade-04/gov/vietnam/science/student/full-year.pdf (22,137,197 bytes, 127 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 4 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; approved by Decision 1908/QĐ-BGDĐT, 11 July 2022; book code G3HH4K001a26; ISBN 978-604-0-35122-7. PDF pages: 127. Verdict: COMPLETE (contents printed p. 4 lists all 31 lessons in 6 themes through the glossary p. 121 and image sources p. 123; colophon and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 8: things that give out light and things lit by it (sun, torch, candle, lamp; moon, poles and trains only reflect); we see a thing when light from it reaches our eyes, tested with a ball hidden in a dark box (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 31 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Uganda, Ecuador, Rwanda, North Macedonia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, light light-sources-and-the-straight-line-rule
+

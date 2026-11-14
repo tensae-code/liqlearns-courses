@@ -1,6 +1,6 @@
 # Sources — Fungi — moulds, mushrooms and yeasts
 
-countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, Yemen
+countries: Ethiopia, Sweden, Iceland (teacher-guide evidence only), Uganda, Moldova, Pakistan (Punjab), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), Kuwait, Yemen, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -153,3 +153,23 @@ Searchable tags: kuwait, aloom, ministry of education kuwait, fungi moulds mushr
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, animals fungi-moulds-mushrooms-and-yeasts
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 4):** *KHOA HỌC 4* (student book) — Vietnam. Records: TSV release mid-size-books grade-04 science student (22,137,197 bytes) + books.json grade-04/gov/vietnam/science/student/full-year.pdf (22,137,197 bytes, 127 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 4 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; approved by Decision 1908/QĐ-BGDĐT, 11 July 2022; book code G3HH4K001a26; ISBN 978-604-0-35122-7. PDF pages: 127. Verdict: COMPLETE (contents printed p. 4 lists all 31 lessons in 6 themes through the glossary p. 121 and image sources p. 123; colophon and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 19: fungi come in very different shapes, sizes and colours — from mould threads too small to see up to big mushrooms — and their look can change with age and surroundings (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 70 |
+| Where fungi live: wood-ear fungus on rotten wood, mould on old bread and on damp house walls, straw mushrooms on rotting straw; fungi help rot away dead plants and animals (extension box) (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 72 |
+| Parts of a cap mushroom: cap, stem and base (foot) (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 73 |
+| Lesson 20: mushrooms people eat — straw mushroom, wood ear, oyster, enoki and shiitake — a food rich in vitamins, fibre and protein (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 74 |
+| Fungi in traditional medicine: lingzhi and cordyceps (extension box) (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 75 |
+| Yeast at work: making bread step by step (yeast, sugar and warm water; kneading; proving the dough 30–40 minutes; baking at 170–200 °C); yeast also makes steamed buns, wine and beer (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 76 |
+| Poisonous mushrooms (the red fly agaric and the white "destroying angel" kinds): never eat a mushroom you do not know; mushroom poisoning can kill and needs hospital first aid (extension box) (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 81 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Sweden, Uganda, Moldova, Pakistan (Punjab, Samoa, Kuwait, Yemen, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, animals fungi-moulds-mushrooms-and-yeasts
+

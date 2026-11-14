@@ -1,6 +1,6 @@
 # Sources — Reproducing plants — seeds and other ways
 
-countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Gabon (teacher-guide evidence only), Seychelles, Dominican Republic, China, Syria
+countries: Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Gabon (teacher-guide evidence only), Seychelles, Dominican Republic, China, Syria, Vietnam
 
 **Book (Djibouti — Grade 3 guide):** *Guide du maître — Sciences Expérimentales, 3ème année* (teacher guide) — Djibouti, CRIPEN — Centre de Recherche, d'Information et de Production de l'Éducation Nationale, Ministère de l'Éducation Nationale. Title as printed: Guide du Maître — Sciences Expérimentales, 3e année (Découverte du Monde), CRIPEN. Grade 3, TEACHER guide. PDF as secured: 1,469,198 bytes; pdfinfo reports 80 pages but the file is DAMAGED (broken page tree, "Kid object wrong type" errors) and only the first 44 pages yield text or render — Verdict: PARTIAL. Read and placed: front matter, the CB1 competency statement, and Modules 1–3 as far as the plant-life lessons (guide sequence 70). Missing: everything after that point in the guide. Page numbers cited are PDF pages (the guide's printed folios are only partly legible in the damaged copy). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -121,3 +121,20 @@ Placement choice, on the record: placement filed as NEW LESSON NEEDED — growin
 Syria's own way — its Ministry of Education science books (كتاب العلوم), in Arabic, teach this thing at the places and in the order named in the rows above, inside the books' own semester and unit order, with Syria's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: syria, syria science, ministry of education syria, nccd, reproducing plants seeds and other ways
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Young plants growing from other parts of the mother plant: sweet potato from root tubers, bryophyllum from leaf edges, spider plant from stems (Vietnam, Grade 5) — filed as NEW LESSON NEEDED — new-plants-from-roots-stems-and-leaves; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Vietnam, *Khoa học 5*, printed p. 54 |
+| Growth stages of the strawberry plant from a runner and of the potato plant from a tuber (Vietnam, Grade 5) — filed as NEW LESSON NEEDED — new-plants-from-roots-stems-and-leaves; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Vietnam, *Khoa học 5*, printed p. 55 |
+
+Placement choice, on the record: the Vietnam placement(s) above filed as NEW LESSON NEEDED — "new-plants-from-roots-stems-and-leaves" — vietnam-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+**Acceptance count: taught in 6 countries (Mongolia, Seychelles, Dominican Republic, China, Syria, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, plants reproducing-plants-seeds-and-other-ways
+

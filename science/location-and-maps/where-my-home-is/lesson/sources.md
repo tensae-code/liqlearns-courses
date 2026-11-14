@@ -1,6 +1,6 @@
 # Sources — Where My Home Is
 
-countries: Ethiopia, Mongolia, Angola, Indonesia
+countries: Ethiopia, Mongolia, Angola, Indonesia, Vietnam
 
 **Book 1:** *አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል — Environmental Science Teacher's Guide, Grade 1 (student book NOT held; this file is guide-sourced)* (teacher guide) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Guide printed page = PDF page − 8 (printed p.1 = PDF p.9). Read visually, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md
 
@@ -61,4 +61,18 @@ Searchable tags: angola, estudo do meio 1, grade 1
 Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, location-and-maps where-my-home-is
+
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 1):** *TỰ NHIÊN VÀ XÃ HỘI 1* (student book) — Vietnam. Records: TSV release mid-size-books grade-01 nature-and-society student (21,835,720 bytes) + books.json grade-01/gov/vietnam/nature-and-society/student/full-year.pdf (21,835,720 bytes, 126 pages) — verified exact match in size and pages; same book, cited once. Title as printed: TỰ NHIÊN VÀ XÃ HỘI 1 (Tái bản lần thứ sáu — 6th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2020; book code G1HH1X001h26; ISBN 978-604-0-19571-5. PDF pages: 126. Printed page = PDF page throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 28 lessons in 6 themes through the glossary pp. 122–123; colophon and back cover present). Scope note: this is a combined Nature and Society book. The NATURE/SCIENCE parts are placed below. The SOCIETY parts are NOT placed, namely: Lesson 1 (telling about your family, pp. 6–9), Lesson 6 (my classroom, pp. 24–29), Lesson 7 (exploring the school, pp. 30–35), Lesson 11 (the jobs of people where I live, pp. 46–49), Lesson 12 (celebrating Tết, pp. 50–53), and the review lessons 9, 14, 19, 25 and 28 except for the individual items placed from them. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 2: your home address — the village or hamlet name, the street name and the house number are what let people find your house (Vietnam, Grade 1) | Vietnam, *Tự nhiên và Xã hội 1*, printed p. 10 |
+
+**Acceptance count: taught in 4 countries (Mongolia, Angola, Indonesia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, location-and-maps where-my-home-is
 

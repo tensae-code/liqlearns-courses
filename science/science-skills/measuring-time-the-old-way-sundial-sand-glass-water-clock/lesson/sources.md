@@ -1,6 +1,6 @@
 # Sources — Measuring time the old way — sundial, sand-glass, water clock
 
-countries: Ethiopia, Zambia (teacher-module evidence only), China, Bangladesh, Fiji (teacher-guide evidence only)
+countries: Ethiopia, Zambia (teacher-module evidence only), China, Bangladesh, Fiji (teacher-guide evidence only), Vietnam
 
 **Book 1:** *General Science Teacher Guide, Grade 8* (teacher guide) — Ethiopia. Authors: Yonas Nibret (MA), Sefiw Melesse (MSc), Abebe Habte (MSc). Editors and evaluators: Getahun Getachew, Muluneh T/Birhan, Ali Kemal. No bureau, publisher or publication year is printed anywhere in the file; the guide states it serves the Federal Ministry of Education's new General Science syllabus for Grades 7 and 8, implemented from 2014 E.C. COMPLETE: 141 PDF pp. Printed page = PDF page (1:1). Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-teacher-placements.md.
 
@@ -74,3 +74,17 @@ Searchable tags: bangladesh, bangladesh science, nctb, science-skills measuring-
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, science-skills measuring-time-the-old-way-sundial-sand-glass-water-clock
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 6):** *KHOA HỌC TỰ NHIÊN 6* (student book) — Vietnam. Records: TSV release mid-size-books grade-06 natural-science student (48,437,804 bytes) + books.json grade-06/gov/vietnam/natural-science/student/full-year.pdf (48,437,804 bytes, 198 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 6 (Tái bản lần thứ năm — 5th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2021; book code G1HH6K001h26; ISBN 978-604-0-25149-7. PDF pages: 198. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–6 list all 55 lessons in 10 chapters through the glossary, printed p. 193; colophon and back cover present). Scope note: this is the combined Natural Science book. Chapter I (Introduction) and Chapter X (Earth and the Sky) are GENERAL science and are placed item by item below. The remaining chapters are the split-subject strands and are named in chapter lines only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Making a simple sundial: a stiff card disc about 15 cm across divided into 24 hour lines, a thin wire gnomon tilted at the latitude of your place (Hanoi 21°, Ho Chi Minh City 11°), the dial turned to face north so the wire's shadow tells the time (Vietnam, Grade 6) | Vietnam, *Khoa học tự nhiên 6*, printed p. 182 |
+
+**Acceptance count: taught in 3 countries (China, Bangladesh).** Fiji is named as Teacher Resource Material (teacher guide, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, science-skills measuring-time-the-old-way-sundial-sand-glass-water-clock
+

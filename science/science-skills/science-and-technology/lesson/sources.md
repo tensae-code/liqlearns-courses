@@ -1,6 +1,6 @@
 # Sources — Science and technology — how they differ and feed each other
 
-countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only), Suriname, Costa Rica, Uganda, Bahamas (curriculum evidence only), Moldova, Egypt, Sudan, Venezuela, Dominican Republic, Indonesia, Bangladesh, Yemen, Saudi Arabia
+countries: Ethiopia, Cook Islands, Jamaica (curriculum-guide evidence only), Suriname, Costa Rica, Uganda, Bahamas (curriculum evidence only), Moldova, Egypt, Sudan, Venezuela, Dominican Republic, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -239,3 +239,35 @@ Searchable tags: yemen, yemen science, ministry of education yemen, science-skil
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, science-skills science-and-technology
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The windmill through history: invented in 634 to grind corn and drain water, later milling flour in Europe and now making electricity (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 45 |
+
+**Book (Vietnam — Grade 4):** *KHOA HỌC 4* (student book) — Vietnam. Records: TSV release mid-size-books grade-04 science student (22,137,197 bytes) + books.json grade-04/gov/vietnam/science/student/full-year.pdf (22,137,197 bytes, 127 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 4 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; approved by Decision 1908/QĐ-BGDĐT, 11 July 2022; book code G3HH4K001a26; ISBN 978-604-0-35122-7. PDF pages: 127. Verdict: COMPLETE (contents printed p. 4 lists all 31 lessons in 6 themes through the glossary p. 121 and image sources p. 123; colophon and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| How tap water is made: the waterworks line from well and pump station through iron-removal, settling, filtering, storage and disinfection tanks to homes and factories (extension box) (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 16 |
+
+**Book (Vietnam — Grade 3):** *TỰ NHIÊN VÀ XÃ HỘI 3* (student book) — Vietnam. Records: TSV release mid-size-books grade-03 nature-and-society student (21,376,971 bytes) + books.json grade-03/gov/vietnam/nature-and-society/student/full-year.pdf (21,376,971 bytes, 126 pages) — verified exact match in size and pages; same book, cited once. Title as printed: TỰ NHIÊN VÀ XÃ HỘI 3 (Tái bản lần thứ tư — 4th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2022; book code G3HH3X001a26; ISBN 978-604-0-30723-1. PDF pages: 126. Verdict: COMPLETE (contents printed pp. 4–5 list all 30 lessons in 6 themes through the glossary pp. 122–123; colophon and back cover present). Scope note: this is a combined Nature and Society book. The NATURE/SCIENCE parts are placed below. The SOCIETY parts are NOT placed, namely: Lesson 1 (relatives on father's and mother's side and family memorial days, pp. 6–11) and its review in Lesson 4; Lesson 5 (school activities connecting with the community — except the recycling-exchange and tree-planting items placed below); Lesson 6 (school traditions, pp. 26–29) and Lesson 8 review; Lesson 9 (agricultural production activities and products, pp. 36–41 — except the composting and clean-agriculture items placed below); Lesson 10 (handicraft and industrial production, pp. 42–47 — except the thrifty-use item placed below); Lesson 11 (historical-cultural relics and natural landscapes, pp. 48–51 — except the site-cleanliness item placed below); Lesson 12 review. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 24: collecting information like a researcher — finding out about harmful substances and activities from television, books, newspapers and the internet, with adult help and search keywords, and filling in an information-collection form (name, harm, how to avoid, source) (Vietnam, Grade 3) | Vietnam, *Tự nhiên và Xã hội 3*, printed p. 98 |
+
+**Book (Vietnam — Grade 6):** *KHOA HỌC TỰ NHIÊN 6* (student book) — Vietnam. Records: TSV release mid-size-books grade-06 natural-science student (48,437,804 bytes) + books.json grade-06/gov/vietnam/natural-science/student/full-year.pdf (48,437,804 bytes, 198 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 6 (Tái bản lần thứ năm — 5th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2021; book code G1HH6K001h26; ISBN 978-604-0-25149-7. PDF pages: 198. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–6 list all 55 lessons in 10 chapters through the glossary, printed p. 193; colophon and back cover present). Scope note: this is the combined Natural Science book. Chapter I (Introduction) and Chapter X (Earth and the Sky) are GENERAL science and are placed item by item below. The remaining chapters are the split-subject strands and are named in chapter lines only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Science turned into technology changes life: horse messenger against smartphone, buffalo ploughing against tractor, bamboo raft against container ship and high-speed train — and applications used wrongly can harm people and the environment (Vietnam, Grade 6) | Vietnam, *Khoa học tự nhiên 6*, printed p. 9 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Cook Islands, Suriname, Costa Rica, Uganda, Moldova, Egypt, Sudan, Venezuela, Dominican Republic, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, science-skills science-and-technology
+

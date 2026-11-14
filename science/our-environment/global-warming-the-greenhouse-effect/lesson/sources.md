@@ -1,6 +1,6 @@
 # Sources — Global warming — the greenhouse effect
 
-countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela (curriculum/proposal evidence only), Mauritania, Dominican Republic, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji
+countries: Ethiopia, Uganda, North Macedonia, Jamaica (curriculum-guide evidence only), Palau (teacher's-edition evidence only), Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Italy, Nauru, Tuvalu, Niue, Ghana (curriculum evidence only), Costa Rica, Moldova, Gabon (teacher-guide evidence only), United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador, Cabo Verde (teacher-guide evidence only), Venezuela (curriculum/proposal evidence only), Mauritania, Dominican Republic, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -483,3 +483,23 @@ Searchable tags: bangladesh, bangladesh science, nctb, our-environment global-wa
 Fiji's own way — its Ministry of Education *Elementary Science* and *Basic Science* books (the books named above for this lesson) teach this thing at the places and in the order named in the rows above, inside the books' own unit and chapter order, with Fiji's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: fiji, fiji science, ministry of education fiji, our-environment global-warming-the-greenhouse-effect
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Rising Earth temperature melting Arctic ice and the polar bear losing its home (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 20 |
+
+**Book (Vietnam — Grade 8):** *KHOA HỌC TỰ NHIÊN 8* (student book) — Vietnam. Records: TSV release mid-size-books grade-08 natural-science student (37,593,744 bytes) + books.json grade-08/gov/vietnam/natural-science/student/full-year.pdf (37,593,744 bytes, 199 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 8 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; book code G1HH8K001h26; ISBN 978-604-0-35039-8. PDF pages: 199. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 47 lessons in 8 chapters through the glossary, printed p. 195; colophon and back cover present). Scope note: Lesson 1 (laboratory chemicals, equipment and safety) and Chapter VIII (Organisms and the Environment) are GENERAL science and are placed item by item below. The other chapters are split-subject strands and are named in chapter lines only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Climate change is the shift over decades to centuries in the average values of temperature, humidity and rainfall, caused mainly by human activity; adapting to it means building dykes and drainage, planting wave-breaking coastal forest and stopping bank erosion, changing to suitable crops and livestock, and building flood-proof houses (Vietnam, Grade 8) | Vietnam, *Khoa học tự nhiên 8*, printed p. 194 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Uganda, North Macedonia, Italy, Nauru, Tuvalu, Niue, Costa Rica, Moldova, United States, Pakistan (Punjab, Dominican Republic, Eritrea, Sri Lanka, Rwanda, Indonesia, Bangladesh, Fiji, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, our-environment global-warming-the-greenhouse-effect
+

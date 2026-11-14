@@ -1,6 +1,6 @@
 # Sources — The Earth — four spheres, one system
 
-countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Bahamas (curriculum evidence only), United States, Cuba, Egypt, Ecuador, Sudan, Venezuela, North Macedonia, Saudi Arabia
+countries: Ethiopia, Canada (teacher-guide evidence only), Nauru, Tuvalu, Niue, Bahamas (curriculum evidence only), United States, Cuba, Egypt, Ecuador, Sudan, Venezuela, North Macedonia, Saudi Arabia, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed ("ISBN No –"). COMPLETE: 207 PDF pp (199 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -202,3 +202,17 @@ Searchable tags: north macedonia, north macedonia science, prirodni nauki, minis
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, earth-and-space the-earths-four-spheres
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 8):** *KHOA HỌC TỰ NHIÊN 8* (student book) — Vietnam. Records: TSV release mid-size-books grade-08 natural-science student (37,593,744 bytes) + books.json grade-08/gov/vietnam/natural-science/student/full-year.pdf (37,593,744 bytes, 199 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 8 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; book code G1HH8K001h26; ISBN 978-604-0-35039-8. PDF pages: 199. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 47 lessons in 8 chapters through the glossary, printed p. 195; colophon and back cover present). Scope note: Lesson 1 (laboratory chemicals, equipment and safety) and Chapter VIII (Organisms and the Environment) are GENERAL science and are placed item by item below. The other chapters are split-subject strands and are named in chapter lines only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 45: the biosphere is the whole of life on Earth together with the non-living factors of its environment — one enormous ecosystem reaching into the outer lithosphere, the atmosphere and the hydrosphere, in which matter and energy are exchanged without pause (Vietnam, Grade 8) | Vietnam, *Khoa học tự nhiên 8*, printed pp. 185–186 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Nauru, Tuvalu, Niue, United States, Cuba, Egypt, Ecuador, Sudan, Venezuela, North Macedonia, Saudi Arabia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, earth-and-space the-earths-four-spheres
+

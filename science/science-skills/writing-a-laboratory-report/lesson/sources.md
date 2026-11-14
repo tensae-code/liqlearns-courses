@@ -1,6 +1,6 @@
 # Sources — Writing a laboratory report
 
-countries: Ethiopia, Bhutan, Timor-Leste (teacher-guide evidence only), Cook Islands, Australia, Cambodia (teacher-guide evidence only), Cabo Verde (teacher-guide evidence only), Sudan, Indonesia
+countries: Ethiopia, Bhutan, Timor-Leste (teacher-guide evidence only), Cook Islands, Australia, Cambodia (teacher-guide evidence only), Cabo Verde (teacher-guide evidence only), Sudan, Indonesia, Vietnam
 
 **Book 1:** *General Science Teacher's Guide, Grade 7* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp. Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -93,4 +93,27 @@ Searchable tags: sudan, sudan grade 7, grade 8, science-skills/writing-a-laborat
 Indonesia's own way — its Kementerian Pendidikan (Kemendikbudristek / Kemendikdasmen) IPAS and Ilmu Pengetahuan Alam books teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Indonesia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: indonesia, indonesia science, ipas, ilmu pengetahuan alam, science-skills writing-a-laboratory-report
+
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 7):** *KHOA HỌC TỰ NHIÊN 7* (student book) — Vietnam. Records: TSV release mid-size-books grade-07 natural-science student (33,614,169 bytes) + books.json grade-07/gov/vietnam/natural-science/student/full-year.pdf (33,614,169 bytes, 182 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 7 (Tái bản lần thứ tư — 4th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2022; book code G1HH7K001h26; ISBN 978-604-0-30713-2. PDF pages: 182. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 42 lessons in 10 chapters through the glossary, printed p. 175; colophon and back cover present). Scope note: only Lesson 1 (methods and skills of learning Natural Science) is GENERAL science and is placed item by item below. Every other chapter is a split-subject strand and is named in a chapter line only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The practical report follows a five-part model — purpose of the experiment, preparation, the steps carried out, results (data table, calculations, comment and conclusion), and answers to questions — and a good presentation is built the same way: purpose, preparation and steps, results and discussion, conclusion (Vietnam, Grade 7) | Vietnam, *Khoa học tự nhiên 7*, printed pp. 12–13 |
+
+**Book (Vietnam — Grade 9):** *KHOA HỌC TỰ NHIÊN 9* (student book) — Vietnam. Records: TSV release mid-size-books grade-09 natural-science student (44,515,147 bytes) + books.json grade-09/gov/vietnam/natural-science/student/full-year.pdf (44,515,147 bytes, 230 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 9 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; book code G1HH9K002h26; ISBN 978-604-0-39234-3. PDF pages: 230. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 51 lessons in 14 chapters through the glossary, printed p. 224, and the phonetic table, printed p. 227; colophon and back cover present). Scope note: only Lesson 1 (recognising laboratory equipment and chemicals; presenting a scientific problem) is GENERAL science and is placed item by item below. Every other chapter is a split-subject strand and is named in a chapter line only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| A scientific report has a fixed eight-part structure: title (exact and clearly describing the content), abstract (aim, method, results, conclusion), introduction (the problem and why it matters), methods (how the experiment or data collection was done, with materials, chemicals and equipment listed), results (data shown clearly in charts, pictures or tables), discussion (analysing the results and comparing with other studies), conclusion (main findings and suggestions for later research), and references (Vietnam, Grade 9) | Vietnam, *Khoa học tự nhiên 9*, printed p. 9 |
+| The book's worked example report: a field survey of digestive diseases and food-safety hygiene in the locality — questionnaire slips and direct interviews with 30 household heads and local officials, results set out in analysis tables, and solutions proposed from the findings (Vietnam, Grade 9) | Vietnam, *Khoa học tự nhiên 9*, printed pp. 10–11 |
+| Turning the report into a slide presentation: eight slides following the report's structure (title, introduction, research aims, methods, results, discussion, conclusion, questions and answers), presented in simple, clear language that keeps to the main message and interacts with the listeners (Vietnam, Grade 9) | Vietnam, *Khoa học tự nhiên 9*, printed pp. 11–12 |
+| The wall-poster report as the second way of presenting: standard A0 or A1 size, portrait or landscape; title readable from far away with the authors under it; the body divided into introduction, methods, results, discussion and conclusion with pictures, charts and graphs; restrained background colour with contrast between text and background, simple readable fonts, few words and the main message carried by images — displayed where it is easy to see (Vietnam, Grade 9) | Vietnam, *Khoa học tự nhiên 9*, printed pp. 13–14 |
+
+**Acceptance count: taught in 6 countries (Bhutan, Cook Islands, Australia, Sudan, Indonesia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, science-skills writing-a-laboratory-report
 

@@ -1,6 +1,6 @@
 # Sources — How winds form
 
-countries: Cuba, Egypt, Bangladesh
+countries: Cuba, Egypt, Bangladesh, Vietnam
 
 **Book (Cuba — Grade 5 student book):** *Ciencias Naturales, Quinto grado* (student book) — Cuba. Title as printed: Ciencias Naturales, Quinto grado. Publisher: Editorial Pueblo y Educación, La Habana (Ministerio de Educación, Cuba), 2nd edition 2016 (© 1989), ISBN 978-959-13-2442-9. PDF 185 pages, 9,022,650 bytes. Verdict: COMPLETE (six chapters, vocabulary ends printed p. 172). Printed page = PDF page − 9. Records: 3 records (the TSV blob copy, the books.json record and the TSV "2nd route" release copy) = 1 distinct book — the blob and release copies are byte-identical (9,022,650 bytes, 185 pages, identical text), cited ONCE here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/cuba-placements.md.
 
@@ -49,3 +49,19 @@ Placement choice, on the record: the Bangladesh placement(s) above filed as NEW 
 Bangladesh's own way — its National Curriculum and Textbook Board (NCTB) *Elementary Science* books (Classes 3–5) and its *Science Investigative Study* and *Science Exercise Book* books (Classes 6–9, under the National Curriculum 2022) teach this thing at the places and in the order named in the rows above, inside the books' own chapter order, with Bangladesh's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: bangladesh, bangladesh science, nctb, weather-and-seasons how-winds-form
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 4):** *KHOA HỌC 4* (student book) — Vietnam. Records: TSV release mid-size-books grade-04 science student (22,137,197 bytes) + books.json grade-04/gov/vietnam/science/student/full-year.pdf (22,137,197 bytes, 127 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 4 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; approved by Decision 1908/QĐ-BGDĐT, 11 July 2022; book code G3HH4K001a26; ISBN 978-604-0-35122-7. PDF pages: 127. Verdict: COMPLETE (contents printed p. 4 lists all 31 lessons in 6 themes through the glossary p. 121 and image sources p. 123; colophon and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 6: moving air makes wind — hot air rises and cooler air moves in (candle-and-chimney experiment); sea breeze by day and land breeze by night explained (Vietnam, Grade 4) — filed as NEW LESSON NEEDED — wind-how-moving-air-forms-and-grows-into-storms; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Vietnam, *Khoa học 4*, printed p. 25 |
+
+Placement choice, on the record: the Vietnam placement(s) above filed as NEW LESSON NEEDED — "wind-how-moving-air-forms-and-grows-into-storms" — vietnam-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+**Acceptance count: taught in 4 countries (Cuba, Egypt, Bangladesh, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, weather-and-seasons how-winds-form
+

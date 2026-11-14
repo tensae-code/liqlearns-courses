@@ -1,6 +1,6 @@
 # Sources — Measuring: making and using a balance
 
-countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia (teacher-guide evidence only), Yemen, Saudi Arabia
+countries: Ethiopia, Finland, Uganda (teacher-guide evidence only), Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Indonesia (teacher-guide evidence only), Yemen, Saudi Arabia, Vietnam
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -188,3 +188,17 @@ Searchable tags: yemen, yemen science, ministry of education yemen, science-skil
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, science-skills making-and-using-a-balance
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 6):** *KHOA HỌC TỰ NHIÊN 6* (student book) — Vietnam. Records: TSV release mid-size-books grade-06 natural-science student (48,437,804 bytes) + books.json grade-06/gov/vietnam/natural-science/student/full-year.pdf (48,437,804 bytes, 198 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 6 (Tái bản lần thứ năm — 5th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2021; book code G1HH6K001h26; ISBN 978-604-0-25149-7. PDF pages: 198. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–6 list all 55 lessons in 10 chapters through the glossary, printed p. 193; colophon and back cover present). Scope note: this is the combined Natural Science book. Chapter I (Introduction) and Chapter X (Earth and the Sky) are GENERAL science and are placed item by item below. The remaining chapters are the split-subject strands and are named in chapter lines only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 6: measuring mass — mass is the amount of substance in a body; the kilogram; the kinds of balance (Roberval, steelyard, dial, medical and electronic); and the five steps of weighing with a dial balance, starting from adjusting the pointer to zero (Vietnam, Grade 6) | Vietnam, *Khoa học tự nhiên 6*, printed pp. 20–21 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Finland, Seychelles, Cabo Verde, China, Syria, Laos, Eritrea, Sri Lanka, Yemen, Saudi Arabia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, science-skills making-and-using-a-balance
+

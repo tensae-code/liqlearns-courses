@@ -1,6 +1,6 @@
 # Sources — Caring so they last: looking after natural resources
 
-countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, United States, Pakistan (Punjab), Egypt, Cambodia, Ecuador, Afghanistan, Sudan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia
+countries: Ethiopia, Turkey, Palau (teacher's-edition evidence only), Vanuatu (teacher-guide evidence only), Nauru, Tuvalu, Niue, United States, Pakistan (Punjab), Egypt, Cambodia, Ecuador, Afghanistan, Sudan, Dominican Republic, China, Syria, Zimbabwe (teacher-guide evidence only), North Macedonia, Indonesia, Bangladesh, Yemen, Saudi Arabia, Vietnam
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -351,3 +351,31 @@ Searchable tags: yemen, yemen science, ministry of education yemen, natural-reso
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, natural-resources caring-so-they-last
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Smart, sustainable farming (automatic watering and fertilising by crop need) as Vietnam's way of keeping soil resources for future generations (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 8 |
+| Rowing boats at Hương Pagoda: why hand-rowed boats suit the environment better than petrol-engine boats there (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 109 |
+
+**Book (Vietnam — Grade 4):** *KHOA HỌC 4* (student book) — Vietnam. Records: TSV release mid-size-books grade-04 science student (22,137,197 bytes) + books.json grade-04/gov/vietnam/science/student/full-year.pdf (22,137,197 bytes, 127 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 4 (Tái bản lần thứ ba — 3rd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2023; approved by Decision 1908/QĐ-BGDĐT, 11 July 2022; book code G3HH4K001a26; ISBN 978-604-0-35122-7. PDF pages: 127. Verdict: COMPLETE (contents printed p. 4 lists all 31 lessons in 6 themes through the glossary p. 121 and image sources p. 123; colophon and back cover present). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Vietnam's own figure: farming uses the most water in Vietnam, about two thirds of all water used (extension box) (Vietnam, Grade 4) | Vietnam, *Khoa học 4*, printed p. 8 |
+
+**Book (Vietnam — Grade 3):** *TỰ NHIÊN VÀ XÃ HỘI 3* (student book) — Vietnam. Records: TSV release mid-size-books grade-03 nature-and-society student (21,376,971 bytes) + books.json grade-03/gov/vietnam/nature-and-society/student/full-year.pdf (21,376,971 bytes, 126 pages) — verified exact match in size and pages; same book, cited once. Title as printed: TỰ NHIÊN VÀ XÃ HỘI 3 (Tái bản lần thứ tư — 4th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2022; book code G3HH3X001a26; ISBN 978-604-0-30723-1. PDF pages: 126. Verdict: COMPLETE (contents printed pp. 4–5 list all 30 lessons in 6 themes through the glossary pp. 122–123; colophon and back cover present). Scope note: this is a combined Nature and Society book. The NATURE/SCIENCE parts are placed below. The SOCIETY parts are NOT placed, namely: Lesson 1 (relatives on father's and mother's side and family memorial days, pp. 6–11) and its review in Lesson 4; Lesson 5 (school activities connecting with the community — except the recycling-exchange and tree-planting items placed below); Lesson 6 (school traditions, pp. 26–29) and Lesson 8 review; Lesson 9 (agricultural production activities and products, pp. 36–41 — except the composting and clean-agriculture items placed below); Lesson 10 (handicraft and industrial production, pp. 42–47 — except the thrifty-use item placed below); Lesson 11 (historical-cultural relics and natural landscapes, pp. 48–51 — except the site-cleanliness item placed below); Lesson 12 review. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Using plants and animals sensibly: composting kitchen scraps (compost bin), finishing cooked food instead of throwing it away, using paper carefully because paper is made from many trees (extension box) (Vietnam, Grade 3) | Vietnam, *Tự nhiên và Xã hội 3*, printed p. 69 |
+| More sensible use: mending old trousers into a bag, refusing wild-animal meat at a restaurant, collecting used paper for recycling, and the class pledges (keep vegetable scraps for compost; never eat wild animal meat) (Vietnam, Grade 3) | Vietnam, *Tự nhiên và Xã hội 3*, printed p. 70 |
+
+**Acceptance count: taught in 21 countries (Ethiopia, Turkey, Nauru, Tuvalu, Niue, United States, Pakistan (Punjab, Bangladesh, Yemen, Saudi Arabia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, natural-resources caring-so-they-last
+

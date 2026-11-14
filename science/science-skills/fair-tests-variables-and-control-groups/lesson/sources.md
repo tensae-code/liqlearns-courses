@@ -1,6 +1,6 @@
 # Sources — Fair tests — variables and control groups
 
-countries: Ethiopia, Barbados, Indonesia, Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), China, North Macedonia, Bangladesh, Fiji, Saudi Arabia
+countries: Ethiopia, Barbados, Indonesia, Uganda, Cook Islands, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Micronesia (teaching-tips guide evidence only), Armenia (teacher-guide evidence only), Cuba (teacher-guide evidence only), Samoa, Seychelles, Cabo Verde (teacher-guide evidence only), China, North Macedonia, Bangladesh, Fiji, Saudi Arabia, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -236,3 +236,17 @@ Searchable tags: fiji, fiji science, ministry of education fiji, science-skills 
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, science-skills fair-tests-variables-and-control-groups
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 7):** *KHOA HỌC TỰ NHIÊN 7* (student book) — Vietnam. Records: TSV release mid-size-books grade-07 natural-science student (33,614,169 bytes) + books.json grade-07/gov/vietnam/natural-science/student/full-year.pdf (33,614,169 bytes, 182 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 7 (Tái bản lần thứ tư — 4th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2022; book code G1HH7K001h26; ISBN 978-604-0-30713-2. PDF pages: 182. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–5 list all 42 lessons in 10 chapters through the glossary, printed p. 175; colophon and back cover present). Scope note: only Lesson 1 (methods and skills of learning Natural Science) is GENERAL science and is placed item by item below. Every other chapter is a split-subject strand and is named in a chapter line only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| The book's worked example: does the size of sliding friction depend on the contact area? Daily observation suggests it does; the test — pulling the same wooden block steadily with a spring balance resting on two different faces — shows the friction reading unchanged, so the prediction is rejected (Vietnam, Grade 7) | Vietnam, *Khoa học tự nhiên 7*, printed p. 7 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Barbados, Uganda, Cook Islands, Australia, Samoa, Seychelles, China, North Macedonia, Indonesia, Bangladesh, Fiji, Saudi Arabia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, science-skills fair-tests-variables-and-control-groups
+

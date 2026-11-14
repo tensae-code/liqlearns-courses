@@ -1,6 +1,6 @@
 # Sources — The heart
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji, Yemen
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Barbados (curriculum evidence only), India, Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Seychelles, Afghanistan, Cabo Verde, Sudan, Mauritania, Angola, Bhutan, Kuwait, Syria, Laos, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji, Yemen, Vietnam
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -437,3 +437,20 @@ Searchable tags: fiji, fiji science, ministry of education fiji, the-human-body 
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body the-heart
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 3):** *TỰ NHIÊN VÀ XÃ HỘI 3* (student book) — Vietnam. Records: TSV release mid-size-books grade-03 nature-and-society student (21,376,971 bytes) + books.json grade-03/gov/vietnam/nature-and-society/student/full-year.pdf (21,376,971 bytes, 126 pages) — verified exact match in size and pages; same book, cited once. Title as printed: TỰ NHIÊN VÀ XÃ HỘI 3 (Tái bản lần thứ tư — 4th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2022; book code G3HH3X001a26; ISBN 978-604-0-30723-1. PDF pages: 126. Verdict: COMPLETE (contents printed pp. 4–5 list all 30 lessons in 6 themes through the glossary pp. 122–123; colophon and back cover present). Scope note: this is a combined Nature and Society book. The NATURE/SCIENCE parts are placed below. The SOCIETY parts are NOT placed, namely: Lesson 1 (relatives on father's and mother's side and family memorial days, pp. 6–11) and its review in Lesson 4; Lesson 5 (school activities connecting with the community — except the recycling-exchange and tree-planting items placed below); Lesson 6 (school traditions, pp. 26–29) and Lesson 8 review; Lesson 9 (agricultural production activities and products, pp. 36–41 — except the composting and clean-agriculture items placed below); Lesson 10 (handicraft and industrial production, pp. 42–47 — except the thrifty-use item placed below); Lesson 11 (historical-cultural relics and natural landscapes, pp. 48–51 — except the site-cleanliness item placed below); Lesson 12 review. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 20: the circulatory system — feeling the heartbeat; the heart and blood vessels (arteries carry blood from the heart, veins bring it back, capillaries in the lungs and body); the heart beats about 100,000 times a day (extension box) (Vietnam, Grade 3) | Vietnam, *Tự nhiên và Xã hội 3*, printed p. 82 |
+| Being a young doctor: finding the pulse at the wrist or neck and counting heartbeats for one minute sitting still and after exercise; an adult body holds about 4–5 litres of blood, and hospitals need donated blood (extension box) (Vietnam, Grade 3) | Vietnam, *Tự nhiên và Xã hội 3*, printed p. 84 |
+| Lesson 21: caring for the circulatory system — foods and habits that help or harm it (exercise and play in measure, no shoes so tight they block the blood, no stimulants such as alcohol, beer and tobacco, not too much salt or fried food) (Vietnam, Grade 3) | Vietnam, *Tự nhiên và Xã hội 3*, printed p. 86 |
+| A long-untreated sore throat can lead to rheumatic heart disease, which can damage heart valves and cause heart failure — a disease primary-school children can easily catch (extension box) (Vietnam, Grade 3) | Vietnam, *Tự nhiên và Xã hội 3*, printed p. 88 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Cook Islands, India, Moldova, Pakistan (Punjab, Eritrea, Sri Lanka, Rwanda, Bangladesh, Fiji, Yemen, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-human-body the-heart
+

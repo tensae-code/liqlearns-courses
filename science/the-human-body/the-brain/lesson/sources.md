@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen
+countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -358,3 +358,19 @@ Searchable tags: bangladesh, bangladesh science, nctb, the-human-body the-brain
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, the-human-body the-brain
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 3):** *TỰ NHIÊN VÀ XÃ HỘI 3* (student book) — Vietnam. Records: TSV release mid-size-books grade-03 nature-and-society student (21,376,971 bytes) + books.json grade-03/gov/vietnam/nature-and-society/student/full-year.pdf (21,376,971 bytes, 126 pages) — verified exact match in size and pages; same book, cited once. Title as printed: TỰ NHIÊN VÀ XÃ HỘI 3 (Tái bản lần thứ tư — 4th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2022; book code G3HH3X001a26; ISBN 978-604-0-30723-1. PDF pages: 126. Verdict: COMPLETE (contents printed pp. 4–5 list all 30 lessons in 6 themes through the glossary pp. 122–123; colophon and back cover present). Scope note: this is a combined Nature and Society book. The NATURE/SCIENCE parts are placed below. The SOCIETY parts are NOT placed, namely: Lesson 1 (relatives on father's and mother's side and family memorial days, pp. 6–11) and its review in Lesson 4; Lesson 5 (school activities connecting with the community — except the recycling-exchange and tree-planting items placed below); Lesson 6 (school traditions, pp. 26–29) and Lesson 8 review; Lesson 9 (agricultural production activities and products, pp. 36–41 — except the composting and clean-agriculture items placed below); Lesson 10 (handicraft and industrial production, pp. 42–47 — except the thrifty-use item placed below); Lesson 11 (historical-cultural relics and natural landscapes, pp. 48–51 — except the site-cleanliness item placed below); Lesson 12 review. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 22: the nervous system — the brain in the skull, the spinal cord in the backbone (about 45 cm) and the nerves; the brain controls thinking, feelings and behaviour and takes in messages from the senses (Vietnam, Grade 3) | Vietnam, *Tự nhiên và Xã hội 3*, printed p. 90 |
+| Reflexes: fast automatic reactions controlled by the spinal cord (pulling away from a bee sting or a hot cup, bracing in a fall) (extension box); an adult brain weighs about 1,220–1,440 g (Vietnam, Grade 3) | Vietnam, *Tự nhiên và Xã hội 3*, printed p. 92 |
+| Lesson 23: caring for the nervous system — things that help it (happy family time, outdoor play, helmets on motorbikes, enough sleep, music) and things that harm it (coffee, alcohol, exclusion and bullying, fighting) (Vietnam, Grade 3) | Vietnam, *Tự nhiên và Xã hội 3*, printed p. 94 |
+
+**Acceptance count: taught in 24 countries (Ethiopia, Australia, Guyana, India, Moldova, Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola, Dominican Republic, Kuwait, China, Syria, Laos, Sri Lanka, Bangladesh, Yemen, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, the-human-body the-brain
+

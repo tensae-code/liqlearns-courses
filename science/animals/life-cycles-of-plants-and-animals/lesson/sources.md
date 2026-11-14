@@ -1,6 +1,6 @@
 # Sources — Life cycles of plants and animals
 
-countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria, Sri Lanka, Indonesia, Saudi Arabia
+countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India, Bulgaria, Gabon (teacher-guide evidence only), United States, Seychelles, Cabo Verde (teacher-guide evidence only), Bhutan, Syria, Sri Lanka, Indonesia, Saudi Arabia, Vietnam
 
 **Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
 
@@ -292,3 +292,23 @@ Placement choice, on the record: the Saudi Arabia placement(s) above filed as "N
 Saudi Arabia's own way — its National Center for Curricula / Ministry of Education *Science* books (in Arabic) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Saudi Arabia's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: saudi arabia, saudi arabia science, national center for curricula, animals life-cycles-of-plants-and-animals
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 16: life cycle of the mosquito (egg, larva in water about five days, pupa about two days, adult) (Vietnam, Grade 5) — filed as NEW LESSON NEEDED — life-cycles-of-animals-egg-larva-adult; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Vietnam, *Khoa học 5*, printed p. 60 |
+| Life cycle of the chicken: fertilised egg, newly hatched chick, young hen, adult hen (Vietnam, Grade 5) — filed as NEW LESSON NEEDED — life-cycles-of-animals-egg-larva-adult; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Vietnam, *Khoa học 5*, printed p. 61 |
+| Life cycle of the butterfly: egg, caterpillar, chrysalis, adult — matching stages to pictures (Vietnam, Grade 5) — filed as NEW LESSON NEEDED — life-cycles-of-animals-egg-larva-adult; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Vietnam, *Khoa học 5*, printed p. 62 |
+| Life cycle of the dog: embryo in the mother, newborn puppy suckling, puppy, adult dog (Vietnam, Grade 5) — filed as NEW LESSON NEEDED — life-cycles-of-animals-egg-larva-adult; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Vietnam, *Khoa học 5*, printed p. 63 |
+| Review of Plants and Animals theme: ordering the frog's life-cycle stages (eggs, tadpole, young frog, adult frog) (Vietnam, Grade 5) — filed as NEW LESSON NEEDED — life-cycles-of-animals-egg-larva-adult; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Vietnam, *Khoa học 5*, printed p. 65 |
+
+Placement choice, on the record: the Vietnam placement(s) above filed as NEW LESSON NEEDED — "life-cycles-of-animals-egg-larva-adult" — vietnam-placements.md — are stocked into this existing lesson, which already covers that thing as its own lesson, so no second lesson was built for them; the original slug is recorded in each row above.
+
+**Acceptance count: taught in 13 countries (Sweden, Guyana, Mongolia, India, Bulgaria, United States, Seychelles, Bhutan, Syria, Sri Lanka, Indonesia, Saudi Arabia, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, animals life-cycles-of-plants-and-animals
+

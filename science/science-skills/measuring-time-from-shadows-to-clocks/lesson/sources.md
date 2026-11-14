@@ -1,6 +1,6 @@
 # Sources — Measuring time — from shadows to clocks
 
-countries: Ethiopia, Moldova, Egypt, Seychelles, Laos
+countries: Ethiopia, Moldova, Egypt, Seychelles, Laos, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -66,3 +66,17 @@ Searchable tags: egypt, science-skills measuring-time-from-shadows-to-clocks
 Laos's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: laos, lao pdr, science and environment grade 2
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 6):** *KHOA HỌC TỰ NHIÊN 6* (student book) — Vietnam. Records: TSV release mid-size-books grade-06 natural-science student (48,437,804 bytes) + books.json grade-06/gov/vietnam/natural-science/student/full-year.pdf (48,437,804 bytes, 198 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC TỰ NHIÊN 6 (Tái bản lần thứ năm — 5th reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2021; book code G1HH6K001h26; ISBN 978-604-0-25149-7. PDF pages: 198. Printed page = PDF page − 1 throughout. Verdict: COMPLETE (contents printed pp. 4–6 list all 55 lessons in 10 chapters through the glossary, printed p. 193; colophon and back cover present). Scope note: this is the combined Natural Science book. Chapter I (Introduction) and Chapter X (Earth and the Sky) are GENERAL science and are placed item by item below. The remaining chapters are the split-subject strands and are named in chapter lines only, per the wave rule. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 7: measuring time — the second as the base unit, with minutes, hours, days and years; sundial, hourglass, pendulum, wristwatch and stopwatch compared; and the stopwatch drill — start, stop at the exact moment, reset to zero (Vietnam, Grade 6) | Vietnam, *Khoa học tự nhiên 6*, printed pp. 22–23 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Moldova, Egypt, Laos, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, science-skills measuring-time-from-shadows-to-clocks
+

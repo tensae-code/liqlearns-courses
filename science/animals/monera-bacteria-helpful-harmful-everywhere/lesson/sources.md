@@ -1,6 +1,6 @@
 # Sources — Monera — bacteria: helpful, harmful, everywhere
 
-countries: Ethiopia, Peru, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Egypt, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, Sri Lanka, Yemen
+countries: Ethiopia, Peru, Uganda, Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Egypt, Afghanistan, Cabo Verde (teacher-guide evidence only), Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, Sri Lanka, Yemen, Vietnam
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -243,3 +243,21 @@ Searchable tags: sri lanka, sri lanka science, monera bacteria helpful harmful e
 Yemen's own way — its Ministry of Education *Science* books for Grades 1–9 (in Arabic, in two parts per year for most grades) teach this thing at the places and in the order named in the rows above, inside the books' own unit order, with Yemen's own examples where the rows name them — is itself course content, carried exactly as filed.
 
 Searchable tags: yemen, yemen science, ministry of education yemen, animals monera-bacteria-helpful-harmful-everywhere
+## Vietnam growth (2026-11-14, General Science expansion)
+
+**Book (Vietnam — Grade 5):** *KHOA HỌC 5* (student book) — Vietnam. Records: TSV release mid-size-books grade-05 science student (20,694,990 bytes) + books.json grade-05/gov/vietnam/science/student/full-year.pdf (20,694,990 bytes, 115 pages) — verified exact match in size and pages; same book, cited once. Title as printed: KHOA HỌC 5 (Tái bản lần thứ hai — 2nd reprint). Publisher: Nhà xuất bản Giáo dục Việt Nam, © 2024; approved by Decision 1963/QĐ-BGDĐT, 5 July 2023; book code G3HH5K002a26; ISBN 978-604-0-39363-0. PDF pages: 115. Verdict: COMPLETE (contents printed p. 4 lists all 30 lessons through the glossary p. 110 and image sources p. 111; colophon on last pages). It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/vietnam-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Lesson 18: bacteria are too small to see; scientists study them with microscopes magnifying thousands of times and photograph their shapes (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 66 |
+| Where bacteria live: in soil, water, air and food; on surfaces and light switches; on skin, in the gut and in the toilet (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 67 |
+| Lesson 19: lactic bacteria at work in food — pickling vegetables and fruit Vietnam's way (pickled figs in warm salt-sugar water, why sugar is added, pickling in cold winter weather) (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 69 |
+| Making yoghurt with lactic bacteria: starter into fresh milk, kept warm at 40–50 °C for 8–12 hours, then chilled (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 70 |
+| Review of Bacteria theme: bacteria concept map (size, homes, harm, usefulness) and stopping a cholera case spreading in the family (Vietnam, Grade 5) | Vietnam, *Khoa học 5*, printed p. 75 |
+
+**Acceptance count: taught in 15 countries (Ethiopia, Peru, Uganda, Pakistan (Punjab, Samoa, Egypt, Afghanistan, Venezuela, Mauritania, Bhutan, Dominican Republic, Kuwait, Sri Lanka, Yemen, Vietnam).**
+
+Vietnam's own way — the Kết nối tri thức với cuộc sống (Connecting Knowledge with Life) series (Nhà xuất bản Giáo dục Việt Nam / Vietnam Education Publishing House, Ministry of Education and Training) teaches this thing at the places and in the order named in the rows above, inside the books' own theme order, with Vietnam's own examples where the rows name them — is itself course content, carried exactly as filed.
+
+Searchable tags: vietnam, vietnam science, ket noi tri thuc voi cuoc song, animals monera-bacteria-helpful-harmful-everywhere
+
