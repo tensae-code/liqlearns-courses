@@ -743,3 +743,7 @@ Grown by band E4 (Grade 11 depth added, not duplicated): `internet-and-the-web/i
 **Internet and the Web** (ICT expansion, from Germany): Cookies — Small Files That Remember You
 
 **New Technologies** (ICT expansion, from Germany): Knowledge-Based and Data-Based AI · Training and Optimising an AI System · The Artificial Neuron · Neural Networks — Many Neurons Together
+
+**Software** (ICT expansion, from Eritrea): The Start Menu and Its Options
+
+**Spreadsheets** (ICT expansion, from Eritrea): Worksheet Tabs — Adding, Renaming and Moving · Inserting and Deleting Cells, Rows and Columns

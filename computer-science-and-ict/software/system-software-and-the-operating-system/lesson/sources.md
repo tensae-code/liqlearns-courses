@@ -1,6 +1,6 @@
 # Sources — System software and the operating system
 
-countries: Ethiopia, Djibouti, Tanzania
+countries: Ethiopia, Djibouti, Tanzania, Eritrea
 
 **Book 1:** *Information Technology, Student Textbook, Grade 7* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education. Writers: Birhanu Hailu (PhD), Belete Biazen (Assistant Professor). Content editor: Mamo Fideno (MSc). No ISBN or year printed on the title pages read. 90 printed pp. Printed page = PDF page − 4. Read in full, page by page, in the 2026-11-11 Ethiopia Wave reads. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g07-student-placements.md.
 
@@ -14,6 +14,8 @@ countries: Ethiopia, Djibouti, Tanzania
 
 **Book 6:** *Information and Computer Studies for Secondary Schools — Student's Book, Form One* (student book) — Tanzania, Tanzania Institute of Education (TIE), Dar es Salaam, 2021. ISBN 978-9987-09-275-8. Grade 8 (Form One). 140 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/tanzania-placements.md.
 
+**Book 7:** *Information and Communications Technology for Grade 8 — Textbook* (student book) — Eritrea, Ministry of Education, State of Eritrea (Curriculum Planning and Development Division), 2015. ISBN 99948-1-750-7. 93 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | System software — controls, integrates, manages; not the user's tasks | Ethiopia, *Information Technology, Student Textbook, Grade 7*, Unit 3, printed pp.31–32 |
@@ -23,11 +25,12 @@ countries: Ethiopia, Djibouti, Tanzania
 | Sub lesson 3 — the teacher must be able to install and delete operating systems such as Windows (teacher guide — evidence) | Ethiopia, *Information Technology, Teacher's Guide, Grade 8*, Unit 3 skills list, printed pp. 19, 20, 24, 25, 27, 29 |
 | Chapitre 2 Leçon 1 — L'environnement Windows — the Windows environment (teacher guide — evidence) | Djibouti, *Guide manuel Informatique, Grade 6*, printed p. 28 (teacher guide — evidence) |
 | Computer software: system software and operating systems (types of operating systems) | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 67 |
+| Unit 2 §2.1 — Basics of Microsoft Windows 7 | Eritrea, *ICT for Grade 8*, Unit 2 §2.1, printed p. 11 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Tanzania).**
+**Acceptance count: taught in 3 countries (Ethiopia, Tanzania, Eritrea).**
 
 The teacher guide's Unit 3 review key contains two items flagged unreliable in the placements and NOT used here: a discussion key that answers a screen-elements question with a list of Word capabilities, and a create-a-document key naming Microsoft Word 2010 where the student book teaches Word 2016.
 
 The Grade 8 teacher guide's Unit 3 answer key (printed pp. 32–33) was used as a verified-answer check for the Grade 8 questions added in Sub lesson 3 (teacher guide — evidence).
 
-Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania
+Searchable tags: system software, operating system, Windows, managing hardware, file management, memory management, process management, peripheral devices, Mac OS, Ubuntu, Unix, Linux, Grade 7 ICT Ethiopia, Grade 8 ICT Ethiopia, djibouti, tanzania, eritrea

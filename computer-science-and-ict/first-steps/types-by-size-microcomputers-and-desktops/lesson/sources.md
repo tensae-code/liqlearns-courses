@@ -1,6 +1,6 @@
 # Sources — Types of computer by size — microcomputers and desktops
 
-countries: Ethiopia, Trinidad and Tobago, Tanzania
+countries: Ethiopia, Trinidad and Tobago, Tanzania, Eritrea
 
 **Book 1:** *Information Technology, Student's Textbook, Grade 8* (student textbook) — Ethiopia, Federal Democratic Republic of Ethiopia, Ministry of Education, no year printed (no ISBN printed), 109 printed pp. Printed page = PDF page − 6. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/information-technology/g08-student-placements.md.
 
@@ -8,14 +8,17 @@ countries: Ethiopia, Trinidad and Tobago, Tanzania
 
 **Book 3:** *Information and Computer Studies for Secondary Schools — Student's Book, Form One* (student book) — Tanzania, Tanzania Institute of Education (TIE), Dar es Salaam, 2021. ISBN 978-9987-09-275-8. Grade 8 (Form One). 140 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/tanzania-placements.md.
 
+**Book 4:** *Information and Communications Technology for Grade 8 — Textbook* (student book) — Eritrea, Ministry of Education, State of Eritrea (Curriculum Planning and Development Division), 2015. ISBN 99948-1-750-7. 93 PDF pages. Verdict: COMPLETE. Read in full. Placements at liqlearns-courses-work/expansion-ict-2026-11-14/eritrea-placements.md.
+
 | Lesson part | Where it comes from |
 |---|---|
 | The whole lesson | Ethiopia, *Information Technology*, Student textbook, Unit 1 §1.3, printed pp. 7–8 |
 | Types of computers compared — mainframe, server, desktop, mobile, embedded, Raspberry Pi (Sample Lesson Plan Module 2, Topic 2.5) | Trinidad and Tobago, *Secondary School Teacher's Guide — Information and Communication Technology*, Form 1 Term 2 Teacher's Guide (teacher guide — evidence), printed p. 31 |
 | Chapter Five: classification of computers | Tanzania, *Information and Computer Studies, Form One Student's Book*, printed p. 91 |
+| Unit 1 §1.2 — Types of Computers | Eritrea, *ICT for Grade 8*, Unit 1 §1.2, printed p. 2 |
 
-**Acceptance count: taught in 2 countries (Ethiopia, Tanzania).**
+**Acceptance count: taught in 3 countries (Ethiopia, Tanzania, Eritrea).**
 
 Nothing in this lesson claims a page the placements do not give; the lesson's content is the placements' content, re-expressed for the learner, with the book's own examples kept.
 
-Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania
+Searchable tags: types by size, microcomputer, personal computer, desktop, all-in-one, classification, Ethiopia Grade 8, trinidad and tobago, tanzania, eritrea
