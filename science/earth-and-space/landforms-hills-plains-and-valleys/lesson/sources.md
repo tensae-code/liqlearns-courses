@@ -1,6 +1,6 @@
 # Sources — Landforms — hills, plains and valleys
 
-countries: Serbia, Bahamas (curriculum evidence only), Armenia, Cuba, Cambodia
+countries: Serbia, Bahamas (curriculum evidence only), Armenia, Cuba, Cambodia, Angola
 
 **Book 1:** *Природа и друштво — Уџбеник за трећи разред основне школе* (Nature and Society — textbook for the third grade of primary school) (student book) — Serbia, Milica Ćuk, Нова школа (Nova škola) d.o.o., Belgrade, first edition 2021; ISBN 978-86-6225-054-4; approved by the Minister of Education, Science and Technological Development, decision 650-02-00465/1/2020-07 of 1 February 2021. Grade 3, student book, in Serbian (Cyrillic). The record's "Nova škola 2021" matches. Records: TSV release record (mid-size-books). Fetched copy: 131,805,896 bytes, 124 PDF pages, image-only; verified by cover, contents (printed at the back, pp. 121–122) and imprint. PDF pages: 124; printed folios run 2–123 and match the PDF pages. Read in full from 100-DPI page renders — every page. Verdict: COMPLETE as scoped. Scope note, carried as filed: this is Serbia's integrated Nature-and-Society course; the society/history strands — Култура живљења's population and customs lessons (printed pp. 28–29) and the whole unit Прошлост / The Past (printed pp. 80–90) — are named in the placements file and not placed, as they are not science. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/serbia-placements.md.
 
@@ -81,3 +81,19 @@ Placement choice, on the record: this placement was filed as "NEW LESSON NEEDED 
 Cambodia's own way — the MoEYS វិទ្យាសាស្ត្រ (Science) student books teach this thing at Grade 7, in the chapter and lesson order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: cambodia, moeys, landforms hills plains and valleys
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 3 (Angola):** *Estudo do Meio — Manual do Aluno, 3ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 3.ª Classe (content: Maria Milagre de Lurdes Freitas, Piedade Silissole Agostinho, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 3, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-274-8; legal deposit 10254/2021. PDF pages: 96 (cover/title page matches the record title). Verdict: COMPLETE (Theme 2, Angola's history and traditions, is placed only for its culture item; national-history and national-symbols items are history, not science). Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| landforms (Formas de relevo) (Angola, Grade 3) — filed as NEW LESSON NEEDED — location-and-maps/landforms-of-our-land; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Angola, *Estudo do Meio 3*, printed p. 56 |
+
+**Acceptance count: taught in 5 countries (Serbia, Armenia, Cuba, Cambodia, Angola).**
+
+Placement choice, on the record: the placement(s) above filed as NEW LESSON NEEDED are stocked into this existing lesson instead of a new one, because this lesson already covers that thing as its own lesson; the original proposed slug is recorded in the provenance row.
+
+Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, estudo do meio 3, grade 3

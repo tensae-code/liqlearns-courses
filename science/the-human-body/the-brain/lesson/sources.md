@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania
+countries: Ethiopia, Australia, Guyana, India, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Armenia, Cuba, Samoa, Egypt, Seychelles, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -208,3 +208,17 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, the-huma
 Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: ipn, mauritania, sciences naturelles, sn 5af, svt
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 4 (Angola):** *Estudo do Meio — Manual do Aluno, 4ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 4.ª Classe (content: Piedade Silissole Agostinho, Maria Milagre de Lurdes Freitas, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 4, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-282-3. PDF pages: 97 (cover/title page matches the record title). Verdict: COMPLETE (the closing history retrospective theme is history, not placed). Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the nervous system (Sistema nervoso) (Angola, Grade 4) | Angola, *Estudo do Meio 4*, printed p. 36 |
+
+**Acceptance count: taught in 14 countries (Ethiopia, Australia, Guyana, India, Moldova, Armenia, Cuba, Samoa, Egypt, Afghanistan, Cabo Verde, Venezuela, Mauritania, Angola).**
+
+Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, estudo do meio 4, grade 4

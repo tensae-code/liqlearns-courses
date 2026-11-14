@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -359,3 +359,29 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, keeping-
 Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: ipn, mauritania, sciences naturelles, sn 6af, svt
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 2 (Angola):** *Estudo do Meio — Manual do Aluno, 2ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 2.ª Classe (content: Linda Chingolo Lussoke, Maria Milagre de Lurdes Freitas, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe). Grade: 2, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-307-3. PDF pages: 81 (cover/title page matches the record title). Verdict: COMPLETE. Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the diseases of my surroundings (Conheço as doenças do meu meio) (Angola, Grade 2) | Angola, *Estudo do Meio 2*, printed p. 23 |
+
+**Book 4 (Angola):** *Estudo do Meio — Manual do Aluno, 4ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 4.ª Classe (content: Piedade Silissole Agostinho, Maria Milagre de Lurdes Freitas, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 4, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-282-3. PDF pages: 97 (cover/title page matches the record title). Verdict: COMPLETE (the closing history retrospective theme is history, not placed). Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| COVID-19 (Angola, Grade 4) | Angola, *Estudo do Meio 4*, printed p. 26 |
+
+**Book 5 (Angola):** *Ciências da Natureza — Manual do Aluno, 5ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 5.ª classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 5, student book. Publisher: Texto Editores, Lda. for the Ministério da Educação, 2021, 2nd edition; ISBN 978-989-8884-83-1. PDF pages: 104 (cover/title page matches the record title). Verdict: COMPLETE. Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| scabies (A sarna) (Angola, Grade 5) | Angola, *Ciências da Natureza 5*, printed p. 99 |
+
+**Acceptance count: taught in 19 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab), Samoa, Cambodia, Ecuador, Afghanistan, Sudan, Venezuela, Mauritania, Angola).**
+
+Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book (science, health, family, school and the local environment as one subject), and *Ciências da Natureza* (Grades 5–6) carries the same child into nature science — the rows above follow each book's own order — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, ciências da natureza 5, estudo do meio 2, estudo do meio 4, grade 2, grade 4, grade 5

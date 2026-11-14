@@ -1,6 +1,6 @@
 # Sources — Habitats — where a living thing lives
 
-countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles
+countries: Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Guyana, Mongolia, India, Seychelles, Angola
 
 **Book 1:** *Ciencias Naturales I — Guía de orientaciones metodológicas para docentes, Primero Básico* (teacher guide) — Guatemala, Ministerio de Educación (MINEDUC), Guatemala. Title as printed: Ciencias Naturales I, Guía de orientaciones metodológicas, Para docentes de primero básico. Publisher: Ministerio de Educación (MINEDUC), Guatemala. Grade: Primero Básico (Grade 7), teacher guide ("Guía de orientaciones metodológicas para docentes" — methodological orientations guide for teachers). Fetched copy: 12,813,442 bytes, PDF 88 pages. Verdict: COMPLETE (4 learning experiences). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/guatemala-placements.md.
 
@@ -78,3 +78,19 @@ Searchable tags: mongolia, habitats and animal adaptations, khun ba orchin, khun
 India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
 
 Searchable tags: india, ncert, class vi, habitats-and-animal-adaptations
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 2 (Angola):** *Estudo do Meio — Manual do Aluno, 2ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 2.ª Classe (content: Linda Chingolo Lussoke, Maria Milagre de Lurdes Freitas, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe). Grade: 2, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-307-3. PDF pages: 81 (cover/title page matches the record title). Verdict: COMPLETE. Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| how some animals live (Modo de vida de alguns animais) (Angola, Grade 2) — filed as NEW LESSON NEEDED — animals/habitats-where-plants-and-animals-live; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Angola, *Estudo do Meio 2*, printed p. 71 |
+
+**Acceptance count: taught in 4 countries (Guyana, Mongolia, India, Angola).**
+
+Placement choice, on the record: the placement(s) above filed as NEW LESSON NEEDED are stocked into this existing lesson instead of a new one, because this lesson already covers that thing as its own lesson; the original proposed slug is recorded in the provenance row.
+
+Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, estudo do meio 2, grade 2

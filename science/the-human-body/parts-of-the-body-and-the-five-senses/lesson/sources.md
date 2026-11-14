@@ -1,6 +1,6 @@
 # Sources — Parts of the body and the five senses
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania
+countries: Ethiopia, Zambia (teacher-module evidence only), Suriname, Ghana (curriculum evidence only), Guyana, Djibouti (teacher-guide evidence only), Mongolia, Barbados (curriculum evidence only), Bahamas (curriculum evidence only), Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Seychelles, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -355,3 +355,36 @@ Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, the-huma
 Mauritania's own way — its IPN Sciences Naturelles books teach primary science in Arabic in three fields (health and nutrition, environment, experimentation) and its collège/lycée SVT books teach life and earth science in French (Arabic for the Lettres Originales stream), book by book in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: ipn, mauritania, sciences naturelles, sn 5af, svt
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 1 (Angola):** *Estudo do Meio — Manual do Aluno, 1ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 1.ª Classe (content: Piedade Silissole Agostinho, Maria António Joaquim, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 1, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-299-1. PDF pages: 77 (cover/title page matches the record title). Verdict: COMPLETE. Records: the placements file holds 10 records for 6 distinct books — Grades 1, 2, 4 and 6 each appear twice (TSV release record and books.json record — same title, grade, publisher and edition), Grades 3 and 5 are books.json only; each distinct book is cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| my body: head, trunk and limbs (O meu corpo) (Angola, Grade 1) | Angola, *Estudo do Meio 1*, printed p. 6 |
+| the sense organs (Os órgãos dos sentidos) (Angola, Grade 1) | Angola, *Estudo do Meio 1*, printed p. 11 |
+
+**Book 2 (Angola):** *Estudo do Meio — Manual do Aluno, 2ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 2.ª Classe (content: Linda Chingolo Lussoke, Maria Milagre de Lurdes Freitas, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe). Grade: 2, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-307-3. PDF pages: 81 (cover/title page matches the record title). Verdict: COMPLETE. Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| my body (O meu corpo) (Angola, Grade 2) | Angola, *Estudo do Meio 2*, printed p. 13 |
+
+**Book 3 (Angola):** *Estudo do Meio — Manual do Aluno, 3ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 3.ª Classe (content: Maria Milagre de Lurdes Freitas, Piedade Silissole Agostinho, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 3, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-274-8; legal deposit 10254/2021. PDF pages: 96 (cover/title page matches the record title). Verdict: COMPLETE (Theme 2, Angola's history and traditions, is placed only for its culture item; national-history and national-symbols items are history, not science). Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the division of the human body (A divisão do corpo humano) (Angola, Grade 3) | Angola, *Estudo do Meio 3*, printed p. 7 |
+
+**Book 4 (Angola):** *Estudo do Meio — Manual do Aluno, 4ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 4.ª Classe (content: Piedade Silissole Agostinho, Maria Milagre de Lurdes Freitas, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 4, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-282-3. PDF pages: 97 (cover/title page matches the record title). Verdict: COMPLETE (the closing history retrospective theme is history, not placed). Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| external structure of the human body (Angola, Grade 4) | Angola, *Estudo do Meio 4*, printed p. 8 |
+
+**Acceptance count: taught in 17 countries (Ethiopia, Suriname, Guyana, Mongolia, Moldova, United States, Pakistan (Punjab), Armenia, Egypt, Cambodia, Ecuador, Afghanistan, Cabo Verde, Sudan, Venezuela, Mauritania, Angola).**
+
+Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, estudo do meio 1, estudo do meio 2, estudo do meio 3, estudo do meio 4, grade 1, grade 2, grade 3, grade 4

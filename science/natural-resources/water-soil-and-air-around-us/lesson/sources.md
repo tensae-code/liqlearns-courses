@@ -1,6 +1,6 @@
 # Sources — Water, soil and air around us
 
-countries: Ethiopia, Moldova, Egypt, Sudan, Venezuela
+countries: Ethiopia, Moldova, Egypt, Sudan, Venezuela, Angola
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -66,3 +66,23 @@ Searchable tags: sudan, sudan grade 4, natural-resources/water-soil-and-air-arou
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, natural-resources water-soil-and-air-around-us
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 3 (Angola):** *Estudo do Meio — Manual do Aluno, 3ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 3.ª Classe (content: Maria Milagre de Lurdes Freitas, Piedade Silissole Agostinho, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 3, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-274-8; legal deposit 10254/2021. PDF pages: 96 (cover/title page matches the record title). Verdict: COMPLETE (Theme 2, Angola's history and traditions, is placed only for its culture item; national-history and national-symbols items are history, not science). Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| physical features of the natural environment (Aspectos físicos do ambiente natural) (Angola, Grade 3) | Angola, *Estudo do Meio 3*, printed p. 52 |
+
+**Book 5 (Angola):** *Ciências da Natureza — Manual do Aluno, 5ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 5.ª classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 5, student book. Publisher: Texto Editores, Lda. for the Ministério da Educação, 2021, 2nd edition; ISBN 978-989-8884-83-1. PDF pages: 104 (cover/title page matches the record title). Verdict: COMPLETE. Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| water in nature (A água na Natureza) (Angola, Grade 5) | Angola, *Ciências da Natureza 5*, printed p. 49 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Moldova, Egypt, Sudan, Venezuela, Angola).**
+
+Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book (science, health, family, school and the local environment as one subject), and *Ciências da Natureza* (Grades 5–6) carries the same child into nature science — the rows above follow each book's own order — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, ciências da natureza 5, estudo do meio 3, grade 3, grade 5

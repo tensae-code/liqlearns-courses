@@ -1,6 +1,6 @@
 # Sources — HIV and AIDS: how it spreads and how it does not
 
-countries: Ethiopia, Guyana, Gabon (teacher-guide evidence only), Samoa, Afghanistan
+countries: Ethiopia, Guyana, Gabon (teacher-guide evidence only), Samoa, Afghanistan, Angola
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -89,3 +89,17 @@ Afghanistan's own way — one combined subject, Science, Health and Environment,
 **Acceptance count: taught in 4 countries (Ethiopia, Guyana, Samoa, Afghanistan).**
 
 Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, keeping-healthy hiv-and-aids
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 6 (Angola):** *Ciências da Natureza — Manual do Aluno, 6ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 6.ª Classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 6, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-294-6. PDF pages: 116 (cover/title page matches the record title). Verdict: COMPLETE. Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| HIV/AIDS (O VIH/SIDA) (Angola, Grade 6) | Angola, *Ciências da Natureza 6*, printed p. 106 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Guyana, Samoa, Afghanistan, Angola).**
+
+Angola's own way — *Ciências da Natureza* (Grades 5–6) is Angola's nature-science book: the same child who met the world whole in *Estudo do Meio* now meets air, water, soil, energy and the body as nature science, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, ciências da natureza 6, grade 6

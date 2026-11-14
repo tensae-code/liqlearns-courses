@@ -1,6 +1,6 @@
 # Sources — Reproduction, puberty and staying safe
 
-countries: Ethiopia, Suriname, Bulgaria, Cuba, Cambodia, Venezuela
+countries: Ethiopia, Suriname, Bulgaria, Cuba, Cambodia, Venezuela, Angola
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank as printed (printed “ISBN No –”). PDF 241 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -87,3 +87,17 @@ Searchable tags: cambodia, moeys, reproduction puberty and staying safe
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, the-human-body reproduction-puberty-and-staying-safe
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 6 (Angola):** *Ciências da Natureza — Manual do Aluno, 6ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 6.ª Classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 6, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-294-6. PDF pages: 116 (cover/title page matches the record title). Verdict: COMPLETE. Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| reproduction and sexual life (A reprodução e a vida sexual) (Angola, Grade 6) | Angola, *Ciências da Natureza 6*, printed p. 87 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Suriname, Bulgaria, Cuba, Cambodia, Venezuela, Angola).**
+
+Angola's own way — *Ciências da Natureza* (Grades 5–6) is Angola's nature-science book: the same child who met the world whole in *Estudo do Meio* now meets air, water, soil, energy and the body as nature science, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, ciências da natureza 6, grade 6

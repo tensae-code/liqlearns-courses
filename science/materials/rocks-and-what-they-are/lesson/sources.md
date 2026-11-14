@@ -1,6 +1,6 @@
 # Sources — Rocks — and what they are
 
-countries: Albania (teacher-guide evidence only), Armenia, Afghanistan, Cabo Verde (teacher-guide evidence only)
+countries: Albania (teacher-guide evidence only), Armenia, Afghanistan, Cabo Verde (teacher-guide evidence only), Angola
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 2* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2016; ISBN 978-9928-08-234-3. Title as printed: Libër mësuesi — Dituri natyre 2 (Albanian translation of Heinemann Explore Science, Teacher's Book, New International Edition, Grade 2; authors Tara Lievesley, Deborah Herridge, John Stringer; © Pearson Education Limited 2012; Albanian adaptation Laureta (Shkoza) Çako). Grade 2, TEACHER guide — all placements from it are guide evidence. PDF: 126 pages, 5,513,233 bytes (verified: byte size and 126 pages match the books.json record exactly; cover/title page matches the record title). Records: the Grade 2 teacher guide appears twice — TSV release record and books.json record — the same book, verified identical byte size 5,513,233, cited once here. Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -76,3 +76,20 @@ Cabo Verde's own way — science in the first school years is taught as hands-on
 **Acceptance count unchanged: taught in 2 countries (Armenia, Afghanistan).** Cabo Verde is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: cabo verde, ciencias integradas, atividades cientificas, ministerio da educacao cabo verde, materials rocks-and-what-they-are
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 5 (Angola):** *Ciências da Natureza — Manual do Aluno, 5ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 5.ª classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 5, student book. Publisher: Texto Editores, Lda. for the Ministério da Educação, 2021, 2nd edition; ISBN 978-989-8884-83-1. PDF pages: 104 (cover/title page matches the record title). Verdict: COMPLETE. Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| rocks (As rochas) (Angola, Grade 5) — filed as NEW LESSON NEEDED — materials/rocks-and-what-they-are; that lesson already exists in the live repo under the filed slug (built in an earlier expansion merge), so Angola stocks into it here | Angola, *Ciências da Natureza 5*, printed p. 67 |
+| a key for classifying the rocks studied (Chave para classificação das rochas) (Angola, Grade 5) — filed as NEW LESSON NEEDED — materials/rocks-and-what-they-are; that lesson already exists in the live repo under the filed slug (built in an earlier expansion merge), so Angola stocks into it here | Angola, *Ciências da Natureza 5*, printed p. 70 |
+
+**Acceptance count: taught in 3 countries (Armenia, Afghanistan, Angola).**
+
+Placement choice, on the record: the placement(s) above were filed as NEW LESSON NEEDED under this lesson's own slug; the lesson already exists in the live repo (built for an earlier country's placements in this expansion), so Angola stocks into the shared lesson instead of rebuilding it.
+
+Angola's own way — *Ciências da Natureza* (Grades 5–6) is Angola's nature-science book: the same child who met the world whole in *Estudo do Meio* now meets air, water, soil, energy and the body as nature science, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, ciências da natureza 5, grade 5

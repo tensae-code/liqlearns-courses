@@ -1,6 +1,6 @@
 # Sources — Keeping our home clean
 
-countries: Ethiopia, Uganda, Afghanistan, Venezuela
+countries: Ethiopia, Uganda, Afghanistan, Venezuela, Angola
 
 **Book 1:** *አካባቢ ሳይንስ አንድኛ ክፍል የመምህር መምሪያ መጽሐፍ — Environmental Science Teacher Guide, Grade 1* (teacher guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2015 E.C. TRUNCATED scan: the file holds printed pp. 1–54 (Units 1–3); Units 4–5 are missing. Printed page = PDF page − 8. Read from page renders with Amharic OCR, spot-checked visually, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-teacher-placements.md
 
@@ -56,3 +56,29 @@ Searchable tags: afghanistan, afghanistan science health and environment, dari, 
 Venezuela's own way — its Colección Bicentenario *Ciencias Naturales* books teach this thing at the places and in the order named in the rows above, with Venezuela's own examples (the turpial as national bird, the Warao moriche palm, Venezuelan dams, fuels, foods and inventors where the rows name them) — is itself course content, carried exactly as filed.
 
 Searchable tags: venezuela, coleccion bicentenario, ciencias naturales, keeping-healthy keeping-our-home-clean
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 1 (Angola):** *Estudo do Meio — Manual do Aluno, 1ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 1.ª Classe (content: Piedade Silissole Agostinho, Maria António Joaquim, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 1, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-299-1. PDF pages: 77 (cover/title page matches the record title). Verdict: COMPLETE. Records: the placements file holds 10 records for 6 distinct books — Grades 1, 2, 4 and 6 each appear twice (TSV release record and books.json record — same title, grade, publisher and edition), Grades 3 and 5 are books.json only; each distinct book is cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| caring for the house (Os cuidados a ter com a casa) (Angola, Grade 1) | Angola, *Estudo do Meio 1*, printed p. 31 |
+
+**Book 2 (Angola):** *Estudo do Meio — Manual do Aluno, 2ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 2.ª Classe (content: Linda Chingolo Lussoke, Maria Milagre de Lurdes Freitas, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe). Grade: 2, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-307-3. PDF pages: 81 (cover/title page matches the record title). Verdict: COMPLETE. Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| hygiene rules of the home (Regras de higiene da habitação) (Angola, Grade 2) | Angola, *Estudo do Meio 2*, printed p. 33 |
+
+**Book 5 (Angola):** *Ciências da Natureza — Manual do Aluno, 5ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 5.ª classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 5, student book. Publisher: Texto Editores, Lda. for the Ministério da Educação, 2021, 2nd edition; ISBN 978-989-8884-83-1. PDF pages: 104 (cover/title page matches the record title). Verdict: COMPLETE. Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| hygiene of my neighbourhood (A higiene do meu bairro) (Angola, Grade 5) | Angola, *Ciências da Natureza 5*, printed p. 97 |
+
+**Acceptance count: taught in 4 countries (Uganda, Afghanistan, Venezuela, Angola).**
+
+Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book (science, health, family, school and the local environment as one subject), and *Ciências da Natureza* (Grades 5–6) carries the same child into nature science — the rows above follow each book's own order — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, ciências da natureza 5, estudo do meio 1, estudo do meio 2, grade 1, grade 2, grade 5

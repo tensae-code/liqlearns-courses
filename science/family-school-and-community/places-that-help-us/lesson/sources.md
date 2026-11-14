@@ -1,6 +1,6 @@
 # Sources — Our Community — Places That Help Us
 
-countries: Ethiopia, Uganda, Moldova
+countries: Ethiopia, Uganda, Moldova, Angola
 
 **Book 1:** *አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል — Environmental Science Teacher's Guide, Grade 1 (student book NOT held; this file is guide-sourced)* (teacher guide) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Guide printed page = PDF page − 8 (printed p.1 = PDF p.9). Read visually, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md
 
@@ -57,3 +57,17 @@ Searchable tags: uganda, uganda general science, ncdc, primary five, home-study 
 Moldova's own way — the *Științe* (Sciences) series teaches each thing inside its own module order, at the places and in the order named in the rows above — is itself course content, carried exactly as filed.
 
 Searchable tags: moldova, places that help us, stiinte, sciences, grade 2
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 4 (Angola):** *Estudo do Meio — Manual do Aluno, 4ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 4.ª Classe (content: Piedade Silissole Agostinho, Maria Milagre de Lurdes Freitas, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 4, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-282-3. PDF pages: 97 (cover/title page matches the record title). Verdict: COMPLETE (the closing history retrospective theme is history, not placed). Records: TSV release record and books.json record — the same book, cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| social services (Serviços sociais) (Angola, Grade 4) | Angola, *Estudo do Meio 4*, printed p. 54 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Uganda, Moldova, Angola).**
+
+Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, estudo do meio 4, grade 4

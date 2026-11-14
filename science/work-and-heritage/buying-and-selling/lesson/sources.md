@@ -1,6 +1,6 @@
 # Sources — Work and Livelihood — Buying and Selling
 
-countries: Ethiopia
+countries: Ethiopia, Angola
 
 **Book 5:** *አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል — Environmental Science Student Textbook, Grade 3* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md
 
@@ -33,3 +33,17 @@ COMPLETE: both Grade 4 regional teacher guides are complete in hand (SNNP printe
 COMPLETE: the Grade 6 student book's contents promise ends at printed p. 177 (Chapter 6) and the file's last printed page is 177.
 
 Searchable tags: trade, buying and selling, market, traders, markets, surplus, legal and illegal trade, foreign trade, single product dependence, Burundi coffee, Zambia copper, flower productio, foreign trade, single product dependence, Burundi coffee, Zambia copper, flower productiono
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 3 (Angola):** *Estudo do Meio — Manual do Aluno, 3ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 3.ª Classe (content: Maria Milagre de Lurdes Freitas, Piedade Silissole Agostinho, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 3, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-274-8; legal deposit 10254/2021. PDF pages: 96 (cover/title page matches the record title). Verdict: COMPLETE (Theme 2, Angola's history and traditions, is placed only for its culture item; national-history and national-symbols items are history, not science). Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| trade (O comércio) (Angola, Grade 3) | Angola, *Estudo do Meio 3*, printed p. 69 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Angola).**
+
+Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, estudo do meio 3, grade 3

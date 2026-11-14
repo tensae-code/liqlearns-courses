@@ -1,6 +1,6 @@
 # Sources — Where My Home Is
 
-countries: Ethiopia, Mongolia
+countries: Ethiopia, Mongolia, Angola
 
 **Book 1:** *አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል — Environmental Science Teacher's Guide, Grade 1 (student book NOT held; this file is guide-sourced)* (teacher guide) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Guide printed page = PDF page − 8 (printed p.1 = PDF p.9). Read visually, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md
 
@@ -32,3 +32,17 @@ Searchable tags: where my home is, relative location, school, woreda, kebele
 Mongolia's own way — the *Хүн ба орчин* (Man and Environment) series builds each year on the same five-unit frame (know myself; communicate and cooperate; know my school; observe and study my surroundings; observe natural phenomena), deepening it grade by grade — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, where my home is, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 3
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 1 (Angola):** *Estudo do Meio — Manual do Aluno, 1ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 1.ª Classe (content: Piedade Silissole Agostinho, Maria António Joaquim, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 1, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-299-1. PDF pages: 77 (cover/title page matches the record title). Verdict: COMPLETE. Records: the placements file holds 10 records for 6 distinct books — Grades 1, 2, 4 and 6 each appear twice (TSV release record and books.json record — same title, grade, publisher and edition), Grades 3 and 5 are books.json only; each distinct book is cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| where my home is located (Localização da habitação) (Angola, Grade 1) | Angola, *Estudo do Meio 1*, printed p. 27 |
+
+**Acceptance count: taught in 2 countries (Mongolia, Angola).**
+
+Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, estudo do meio 1, grade 1

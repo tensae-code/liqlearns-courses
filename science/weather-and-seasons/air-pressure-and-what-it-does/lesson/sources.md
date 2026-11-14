@@ -1,6 +1,6 @@
 # Sources — Air pressure and what it does
 
-countries: Armenia, Seychelles
+countries: Armenia, Seychelles, Angola
 
 **Book (Armenia — Grade 6, student book):** Title as printed: ԲՆՈՒԹՅՈՒՆ (Nature) — textbook for Grade 6 of general school; authors E. Ghazaryan, G. Melikyan, T. Vardanyan, L. Hakobyan Grade: 6 (student/teacher: STUDENT book) Publisher: Astghik Gratun (Աստղիկ Գրատուն), Yerevan, 2024; ISBN 978-9939-74-171-0; printed on the order of the RA Ministry of Education, Science, Culture and Sport PDF pages: 178 (printed 176 pages; byte size 247,728,579 for the full-quality release copy; imprint page verified against the record title; the text layer uses a legacy font encoding, decoded for the headings and contents) Verdict: COMPLETE Armenia's own way: «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides). Records: Armenia's set holds 8 records for 5 distinct books — the Grade 5, Grade 6 and Grade 10 student books each appear twice (TSV release record and books.json record), the same books, verified by title/publisher/year and cited once here. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/armenia-placements.md.
 
@@ -25,3 +25,21 @@ Placement choice, on the record: this NEW LESSON was built for the Armenia place
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: air pressure, atmospheric pressure, experiments, weather, armenia, grade 6, bnutyun
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 5 (Angola):** *Ciências da Natureza — Manual do Aluno, 5ª Classe* (student book) — Angola. Title as printed: Ciências da Natureza | Manual da 5.ª classe (content: Maria Milagre de Freitas, Piedade Silissóli Agostinho, Adriano Albano Manuel Tandela). Grade: 5, student book. Publisher: Texto Editores, Lda. for the Ministério da Educação, 2021, 2nd edition; ISBN 978-989-8884-83-1. PDF pages: 104 (cover/title page matches the record title). Verdict: COMPLETE. Record: books.json only. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| atmospheric pressure (A pressão atmosférica) (Angola, Grade 5) — filed as NEW LESSON NEEDED — materials/air-pressure-and-the-barometer; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Angola, *Ciências da Natureza 5*, printed p. 21 |
+| the barometer (O barómetro) (Angola, Grade 5) — filed as NEW LESSON NEEDED — materials/air-pressure-and-the-barometer; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Angola, *Ciências da Natureza 5*, printed p. 22 |
+| how atmospheric pressure changes (As variações da pressão atmosférica) (Angola, Grade 5) — filed as NEW LESSON NEEDED — materials/air-pressure-and-the-barometer; stocked into this existing lesson, which already covers that thing, and the original slug is recorded here | Angola, *Ciências da Natureza 5*, printed p. 22 |
+
+**Acceptance count: taught in 3 countries (Armenia, Seychelles, Angola).**
+
+Placement choice, on the record: the placement(s) above filed as NEW LESSON NEEDED are stocked into this existing lesson instead of a new one, because this lesson already covers that thing as its own lesson; the original proposed slug is recorded in the provenance row.
+
+Angola's own way — *Ciências da Natureza* (Grades 5–6) is Angola's nature-science book: the same child who met the world whole in *Estudo do Meio* now meets air, water, soil, energy and the body as nature science, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, ciências da natureza 5, grade 5

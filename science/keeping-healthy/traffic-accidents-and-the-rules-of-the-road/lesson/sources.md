@@ -1,6 +1,6 @@
 # Sources — Traffic accidents and the rules of the road
 
-countries: Ethiopia, Turkey, Suriname
+countries: Ethiopia, Turkey, Suriname, Angola
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -33,3 +33,17 @@ Searchable tags: road safety, traffic accidents, zebra crossing, pedestrian, tra
 Suriname's own way — Suriname teaches fire safety and traffic safety together in one lesson, *Brand- en verkeersveiligheid* — the traffic-safety half is placed here and the fire-safety half belongs with it as filed — is itself course content, carried exactly as filed.
 
 Searchable tags: suriname, verkeersveiligheid, brandveiligheid, fire and traffic safety, natuuronderwijs
+
+## Angola growth (2026-11-14, General Science expansion)
+
+**Book 1 (Angola):** *Estudo do Meio — Manual do Aluno, 1ª Classe* (student book) — Angola. Title as printed: Estudo do Meio | Manual da 1.ª Classe (content: Piedade Silissole Agostinho, Maria António Joaquim, Jorge Agostinho Lopes, Sâmia Elisa Martins Savingembe Prego). Grade: 1, student book. Publisher: Progresso Editora for the Ministério da Educação (MED), 2021, 1st edition; ISBN 978-989-762-299-1. PDF pages: 77 (cover/title page matches the record title). Verdict: COMPLETE. Records: the placements file holds 10 records for 6 distinct books — Grades 1, 2, 4 and 6 each appear twice (TSV release record and books.json record — same title, grade, publisher and edition), Grades 3 and 5 are books.json only; each distinct book is cited once here. It counts in the acceptance count (student book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/angola-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| traffic rules (As regras de trânsito) (Angola, Grade 1) | Angola, *Estudo do Meio 1*, printed p. 59 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Turkey, Suriname, Angola).**
+
+Angola's own way — *Estudo do Meio* (Grades 1–4) is Angola's integrated studies book: science, health, family, school and the local environment taught as one subject, so one grade book carries body, food, home, plants and animals side by side, in the order named in the rows above — is itself course content, carried exactly as filed.
+
+Searchable tags: angola, estudo do meio 1, grade 1
