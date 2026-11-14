@@ -1,6 +1,6 @@
 # Sources — Minerals from the ground
 
-countries: Ethiopia, Italy, Costa Rica
+countries: Ethiopia, Italy, Costa Rica, Greece
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -50,3 +50,21 @@ Searchable tags: minerals, non-renewable, stone gravel sand salt iron, coal gold
 **Acceptance count: taught in 3 countries (Ethiopia, Italy, Costa Rica).**
 
 Searchable tags: costa rica, ciencias, coned, antologías coned, grade 8
+
+## Greece growth (2026-11-13, General Science expansion)
+
+**Book (Greece — Grade 6 pupil book):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή* (student book) — Greece, Ministry of Education / Institute of Educational Policy; same author team as Grade 5. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή. Book code 0-10-0178. PDF: 48,725,095 bytes, 134 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (pupil book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 6 workbook):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών* (workbook) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών. Book code 0-10-0179. PDF: 18,112,118 bytes, 194 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 6 teacher guide):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού* (teacher guide) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού. Book code 0-10-0180. PDF: 5,174,207 bytes, 266 PDF pages. Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Energy ch. 7, Mineral coals: a precious solid (feature: diamond, a mineral coal in the jeweller's) (Greece, Grade 6 pupil book) | Greece, *«Φυσικά» ΣΤ΄ pupil book*, printed p. 26 |
+| Energy ch. 7, Mineral coals — a precious solid (Greece, Grade 6 workbook) | Greece, *«Φυσικά» ΣΤ΄ workbook*, printed p. 35 |
+| Guide evidence, Part II: commentary and answers for Energy ch. 7, Mineral coals — a precious solid (teacher guide — evidence) (Greece, Grade 6) | Greece, *«Φυσικά» ΣΤ΄ teacher guide*, printed p. 88 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Italy, Costa Rica, Greece).**
+
+Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy

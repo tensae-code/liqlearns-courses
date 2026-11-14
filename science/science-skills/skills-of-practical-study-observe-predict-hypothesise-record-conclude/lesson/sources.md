@@ -1,6 +1,6 @@
 # Sources — Skills of practical study — observe, predict, hypothesise, record, conclude
 
-countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria
+countries: Kuwait, Finland, Turkey, Jamaica (curriculum-guide evidence only), Timor-Leste (teacher-guide evidence only), Australia, Vanuatu (teacher-guide evidence only), Iceland (teacher-guide evidence only), Micronesia (teaching-tips guide evidence only), Mongolia, Barbados (curriculum evidence only), Uganda, Bulgaria, Greece
 
 **Book 1:** *الفيزياء، الصف الحادي عشر، الفصل الدراسي الأول — كتاب التطبيقات (Physics, Grade 11, Term 1 — applications workbook)* — Kuwait. Grade 11, applications (workbook) companion to the Grade 11 Term 1 student book, Term 1. Edition: 1448H / 2026–2027, Ministry of Education, Kuwait; ISBN 978-9921-33-021-2 (Pearson Scott Foresman series, per back cover). Repo path: grade-11/gov/kuwait/physics/student/term-1-workbook.pdf (release mid-size-books-8). Bytes: 36,421,985 (exact vs record). PDF pages: 34. Offset: PDF page = printed page + 1 (proven: front-matter pages PDF 9–12 carry printed folios 8–11). Verdict: COMPLETE read (all 7 numbered lab activities read visually). Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/kuwait-placements.md.
 
@@ -138,3 +138,18 @@ Searchable tags: uganda, uganda general science, ncdc, senior one, lower seconda
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, skills of practical study observe predict hypothesise record conclude
+
+## Greece growth (2026-11-13, General Science expansion)
+
+**Book (Greece — Grade 5 workbook):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών* (workbook) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών (workbook of experiments: hypothesis, experiment, conclusion sheets for every chapter). Book code 0-10-0133. PDF: 16,954,846 bytes, 202 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 5 teacher guide):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού* (teacher guide) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού. Book code 0-10-0134. PDF: 5,270,443 bytes, 258 PDF pages. Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introduction ch. 2, How we study the world around us: observing, measuring and recording as the way phenomena are studied (Greece, Grade 5 workbook) | Greece, *«Φυσικά» Ε΄ workbook*, printed p. 15 |
+| Guide evidence, Part II: commentary and answers for Introduction ch. 2, How we study the world around us (teacher guide — evidence) (Greece, Grade 5) | Greece, *«Φυσικά» Ε΄ teacher guide*, printed p. 59 |
+
+**Acceptance count: taught in 8 countries (Kuwait, Finland, Turkey, Australia, Mongolia, Uganda, Bulgaria, Greece).**
+
+Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy

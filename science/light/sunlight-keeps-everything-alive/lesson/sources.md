@@ -1,6 +1,6 @@
 # Sources — Sunlight keeps everything alive, and what light is used for
 
-countries: Ethiopia, Albania (teacher-guide evidence only)
+countries: Ethiopia, Albania (teacher-guide evidence only), Greece
 
 **Book 5:** *Grade 3 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 3ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 92 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g03-student-placements.md.
 
@@ -30,3 +30,15 @@ Searchable tags: sunlight, plants make food, Experiment 2, uses of light, solar 
 **Acceptance count unchanged: taught in 1 country (Ethiopia).**
 
 Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher guide, sun as a source of light, uses of light, dielli si burim drite, perdorimi i drites
+
+## Greece growth (2026-11-13, General Science expansion)
+
+**Book (Greece — Grade 6 pupil book):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή* (student book) — Greece, Ministry of Education / Institute of Educational Policy; same author team as Grade 5. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή. Book code 0-10-0178. PDF: 48,725,095 bytes, 134 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (pupil book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Energy ch. 2, Almost all energy comes from the Sun: the Sun as the origin of nearly every energy source on Earth (Greece, Grade 6 pupil book) | Greece, *«Φυσικά» ΣΤ΄ pupil book*, printed p. 16 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, Greece).**
+
+Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy

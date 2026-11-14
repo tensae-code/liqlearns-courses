@@ -1,6 +1,6 @@
 # Sources — Ecosystems — populations, communities and their surroundings
 
-countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria
+countries: Ethiopia, Australia, Palau (teacher's-edition evidence only), Suriname, Canada (teacher-guide evidence only), Guatemala (teacher-guide evidence only), Nauru, Tuvalu, Niue, Serbia, Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Djibouti (teacher-guide evidence only), Micronesia, India, Bulgaria, Greece
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). Read in full, page by page, in the 2026-11-11 Ethiopia Wave read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -260,3 +260,21 @@ Searchable tags: india, ncert, class vii, class x, ecosystems-populations-commun
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, ecosystems populations communities and their surroundings
+
+## Greece growth (2026-11-13, General Science expansion)
+
+**Book (Greece — Grade 6 pupil book):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή* (student book) — Greece, Ministry of Education / Institute of Educational Policy; same author team as Grade 5. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή. Book code 0-10-0178. PDF: 48,725,095 bytes, 134 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (pupil book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 6 workbook):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών* (workbook) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών. Book code 0-10-0179. PDF: 18,112,118 bytes, 194 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 6 teacher guide):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού* (teacher guide) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού. Book code 0-10-0180. PDF: 5,174,207 bytes, 266 PDF pages. Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ecosystems ch. 2, Ecosystems and humans: how people affect the ecosystems they live in (Greece, Grade 6 pupil book) | Greece, *«Φυσικά» ΣΤ΄ pupil book*, printed p. 78 |
+| Ecosystems ch. 2, The effect of humans on ecosystems (Greece, Grade 6 workbook) | Greece, *«Φυσικά» ΣΤ΄ workbook*, printed p. 102 |
+| Guide evidence, Part II: commentary and answers for Ecosystems ch. 2, The effect of humans on ecosystems (teacher guide — evidence) (Greece, Grade 6) | Greece, *«Φυσικά» ΣΤ΄ teacher guide*, printed p. 163 |
+
+**Acceptance count: taught in 12 countries (Ethiopia, Australia, Suriname, Nauru, Tuvalu, Niue, Serbia, Guyana, Micronesia, India, Bulgaria, Greece).**
+
+Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy

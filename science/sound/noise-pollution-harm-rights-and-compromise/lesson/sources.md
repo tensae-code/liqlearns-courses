@@ -1,6 +1,6 @@
 # Sources — Noise pollution — harm, rights and compromise
 
-countries: Ethiopia, Moldova, South Sudan, Cuba, Pakistan (Punjab), Serbia
+countries: Ethiopia, Moldova, South Sudan, Cuba, Pakistan (Punjab), Serbia, Greece
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -47,3 +47,21 @@ Searchable tags: noise pollution, hearing loss, loudspeaker debate, compromise, 
 Serbia's own way in this lesson — as carried in the rows above, exactly as filed — is itself course content.
 
 Searchable tags: serbia, priroda i drustvo, nature and society, grade 3, nova skola, milica cuk
+
+## Greece growth (2026-11-13, General Science expansion)
+
+**Book (Greece — Grade 5 pupil book):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή* (student book) — Greece, Ministry of Education / Institute of Educational Policy; authors Emmanouil Apostolakis, Eleni Panagopoulou, Stavros Savvas, Nektarios Tsagliotis, Giorgos Pantazis and others. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή. Book code 0-10-0197, ISBN 978-960-06-2599-8. PDF: 29,453,392 bytes, 118 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (pupil book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 5 workbook):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών* (workbook) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών (workbook of experiments: hypothesis, experiment, conclusion sheets for every chapter). Book code 0-10-0133. PDF: 16,954,846 bytes, 202 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 5 teacher guide):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού* (teacher guide) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού. Book code 0-10-0134. PDF: 5,270,443 bytes, 258 PDF pages. Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Sound ch. 5, Noise pollution – sound protection: how noise harms and how we protect ourselves from it (Greece, Grade 5 pupil book) | Greece, *«Φυσικά» Ε΄ pupil book*, printed p. 102 |
+| Sound ch. 6, Noise pollution – sound protection: experiments and measures against noise (Greece, Grade 5 workbook) | Greece, *«Φυσικά» Ε΄ workbook*, printed p. 158 |
+| Guide evidence, Part II: commentary and answers for Sound ch. 6, Noise pollution – sound protection (teacher guide — evidence) (Greece, Grade 5) | Greece, *«Φυσικά» Ε΄ teacher guide*, printed p. 208 |
+
+**Acceptance count: taught in 7 countries (Ethiopia, Moldova, South Sudan, Cuba, Pakistan (Punjab), Serbia, Greece).**
+
+Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy

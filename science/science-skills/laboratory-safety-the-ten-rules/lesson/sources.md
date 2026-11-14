@@ -1,6 +1,6 @@
 # Sources — Laboratory safety — the ten rules
 
-countries: Ethiopia, Moldova, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Uganda (teacher-guide evidence only)
+countries: Ethiopia, Moldova, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Uganda (teacher-guide evidence only), Greece
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -46,3 +46,18 @@ Uganda is named as teacher-guide evidence only (*General Science Teacher's Guide
 The guide's own way — the same ten chapters as the student book, carried as teaching method, answers and activity guidance, chapter by chapter — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum
+
+## Greece growth (2026-11-13, General Science expansion)
+
+**Book (Greece — Grade 5 workbook):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών* (workbook) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών (workbook of experiments: hypothesis, experiment, conclusion sheets for every chapter). Book code 0-10-0133. PDF: 16,954,846 bytes, 202 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 5 teacher guide):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού* (teacher guide) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού. Book code 0-10-0134. PDF: 5,270,443 bytes, 258 PDF pages. Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introduction ch. 3, The decalogue of the good experimenter: ten working rules for experimenting safely and carefully (Greece, Grade 5 workbook) | Greece, *«Φυσικά» Ε΄ workbook*, printed p. 16 |
+| Guide evidence, Part II: commentary and answers for Introduction ch. 3, The decalogue of the good experimenter (teacher guide — evidence) (Greece, Grade 5) | Greece, *«Φυσικά» Ε΄ teacher guide*, printed p. 60 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Moldova, Australia, Greece).**
+
+Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy

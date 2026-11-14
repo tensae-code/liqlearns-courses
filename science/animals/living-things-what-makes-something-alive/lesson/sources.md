@@ -1,6 +1,6 @@
 # Sources — Living things — what makes something alive
 
-countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria
+countries: Ethiopia, Cook Islands, Trinidad and Tobago (curriculum-guide evidence only), Zambia (teacher-module evidence only), Guatemala (teacher-guide evidence only), Albania (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Greece
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C., authors Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc), eds. Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc), team leader Ehtegebreal Aregehagn (MEd), illus. Belayhun Tsegaye, designer Atersaw Tigyhun (MSc), ISBN blank as printed, 207 pp (PDF). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -119,3 +119,21 @@ Searchable tags: uganda, uganda general science, ncdc, senior one, lower seconda
 Bulgaria's own way — «Човекът и природата» (Man and Nature) is one integrated subject for Grades 3–4 from the same author team and publisher; every chapter runs the same rhythm — new-knowledge lessons, exercise lessons, a consolidation, a hands-on project and a summary — with star self-assessment after each block, and Bulgaria-specific anchors throughout (the Red Book of Bulgaria, Bulgarian nature) — is itself course content, carried exactly as filed.
 
 Searchable tags: bulgaria, chovekat i prirodata, man and nature, bit i tekhnika, living things what makes something alive
+
+## Greece growth (2026-11-13, General Science expansion)
+
+**Book (Greece — Grade 6 pupil book):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή* (student book) — Greece, Ministry of Education / Institute of Educational Policy; same author team as Grade 5. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή. Book code 0-10-0178. PDF: 48,725,095 bytes, 134 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (pupil book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 6 workbook):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών* (workbook) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών. Book code 0-10-0179. PDF: 18,112,118 bytes, 194 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 6 teacher guide):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού* (teacher guide) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού. Book code 0-10-0180. PDF: 5,174,207 bytes, 266 PDF pages. Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Living and Non-living ch. 1, Characteristics of life: the signs that mark something as living (Greece, Grade 6 pupil book) | Greece, *«Φυσικά» ΣΤ΄ pupil book*, printed p. 54 |
+| Living and Non-living ch. 1, Characteristics of life: experiments sorting living from non-living (Greece, Grade 6 workbook) | Greece, *«Φυσικά» ΣΤ΄ workbook*, printed p. 62 |
+| Guide evidence, Part II: commentary and answers for Living and Non-living ch. 1, Characteristics of life (teacher guide — evidence) (Greece, Grade 6) | Greece, *«Φυσικά» ΣΤ΄ teacher guide*, printed p. 119 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Cook Islands, Uganda, Bulgaria, Greece).**
+
+Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy

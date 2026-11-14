@@ -23,3 +23,18 @@ countries: Argentina, Andorra (curriculum-programme evidence only), Haiti (progr
 Placement: NEW LESSON built for the Argentina placement "Energy degradation — why useful energy is lost as heat" — argentina-placements.md, Ch. 4, printed p. 43. This lesson rests on the student booklet only; Andorra's second-year programme is stocked above as curriculum-programme evidence only.
 
 Searchable tags: energy degradation dissipation heat loss efficiency conservation useful energy degraded argentina grade 7 NAP
+
+## Greece growth (2026-11-13, General Science expansion)
+
+**Book (Greece — Grade 5 workbook):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών* (workbook) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών (workbook of experiments: hypothesis, experiment, conclusion sheets for every chapter). Book code 0-10-0133. PDF: 16,954,846 bytes, 202 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 5 teacher guide):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού* (teacher guide) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού. Book code 0-10-0134. PDF: 5,270,443 bytes, 258 PDF pages. Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Energy ch. 4, Energy is degraded: experiments showing useful energy ending as heat (Greece, Grade 5 workbook) | Greece, *«Φυσικά» Ε΄ workbook*, printed p. 48 |
+| Guide evidence, Part II: commentary and answers for Energy ch. 4, Energy is degraded (teacher guide — evidence) (Greece, Grade 5) | Greece, *«Φυσικά» Ε΄ teacher guide*, printed p. 96 |
+
+**Acceptance count unchanged: taught in 2 countries (Argentina, Greece) — Greece was already counted in this lesson (from its Grade 10 General-Education Physics student book, Physics expansion); the primary «Φυσικά» workbook adds a row, not a new country, and the teacher-guide row is guide evidence only, counted nowhere.**
+
+Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy

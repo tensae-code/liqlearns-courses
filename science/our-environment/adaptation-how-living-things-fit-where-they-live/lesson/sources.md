@@ -1,6 +1,6 @@
 # Sources — Adaptation — how living things fit where they live
 
-countries: Djibouti (teacher-guide evidence only), Mongolia
+countries: Djibouti (teacher-guide evidence only), Mongolia, Greece
 
 **Book (Djibouti — Grade 4 guide):** *Guide de l'enseignant — Sciences Expérimentales, 4ème année* (teacher guide) — Djibouti, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Title as printed: Guide de l'Enseignant, 4ème année, 2021/2022 — Manuel de Sciences Expérimentales, Ministère de l'Éducation Nationale et de la Formation Professionnelle, République de Djibouti. Grade 4, TEACHER guide. PDF 83 pages, 1,226,442 bytes. Verdict: COMPLETE (24 lessons in four modules; printed pagination = PDF pagination, verified at Leçon 12 = printed p. 46). TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/djibouti-placements.md.
 
@@ -30,3 +30,23 @@ Searchable tags: adaptation, living environments, djibouti, sciences expériment
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, adaptation how living things fit where they live, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4
+
+## Greece growth (2026-11-13, General Science expansion)
+
+**Book (Greece — Grade 6 pupil book):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή* (student book) — Greece, Ministry of Education / Institute of Educational Policy; same author team as Grade 5. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή. Book code 0-10-0178. PDF: 48,725,095 bytes, 134 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (pupil book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 6 workbook):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών* (workbook) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών. Book code 0-10-0179. PDF: 18,112,118 bytes, 194 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 6 teacher guide):** *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού* (teacher guide) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού. Book code 0-10-0180. PDF: 5,174,207 bytes, 266 PDF pages. Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Animals ch. 4, Adaptation of animals to their environment: how animals are fitted to the places they live (placement slug: features-that-help-living-things-survive-where-they-live — stocked into this lesson, our-environment/adaptation-how-living-things-fit-where-they-live, as the closest existing lesson covering adaptation) (Greece, Grade 6 pupil book) | Greece, *«Φυσικά» ΣΤ΄ pupil book*, printed p. 72 |
+| Animals ch. 3, Adaptation of animals to their environment (placement slug: features-that-help-living-things-survive-where-they-live) (Greece, Grade 6 workbook) | Greece, *«Φυσικά» ΣΤ΄ workbook*, printed p. 93 |
+| Guide evidence, Part II: commentary and answers for Animals ch. 3, Adaptation of animals to their environment (teacher guide — evidence) (placement slug: features-that-help-living-things-survive-where-they-live) (Greece, Grade 6) | Greece, *«Φυσικά» ΣΤ΄ teacher guide*, printed p. 151 |
+
+Placement choice, on the record: the three Greece placements were filed as "NEW LESSON NEEDED — features-that-help-living-things-survive-where-they-live" — greece-placements.md. Checked live at merge time: this lesson, built for Djibouti and since stocked by Mongolia, already covers adaptation — how living things fit where they live — as its own thing (the same call Mongolia's merge made for its own adaptation placement), so Greece's animal-adaptation chapters stock into it and the original slug is recorded in each row above; no second adaptation lesson is built. Greece's pupil book and workbook count; the teacher-guide row is guide evidence only.
+
+**Acceptance count: taught in 2 countries (Mongolia, Greece).**
+
+Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy

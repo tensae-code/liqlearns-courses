@@ -1,6 +1,6 @@
 # Sources — The scientific method — observe, hypothesise, test, conclude
 
-countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only)
+countries: Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Jamaica (curriculum-guide evidence only), Uganda (teacher-guide evidence only), Greece
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed "ISBN No –"). COMPLETE: 241 PDF pp. Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -53,3 +53,22 @@ Uganda is named as teacher-guide evidence only (*General Science Teacher's Guide
 The guide's own way — the same ten chapters as the student book, carried as teaching method, answers and activity guidance, chapter by chapter — is itself course content, carried exactly as filed.
 
 Searchable tags: uganda, uganda general science, ncdc, senior one, lower secondary curriculum
+
+## Greece growth (2026-11-13, General Science expansion)
+
+**Book (Greece — Grade 5 pupil book):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή* (student book) — Greece, Ministry of Education / Institute of Educational Policy; authors Emmanouil Apostolakis, Eleni Panagopoulou, Stavros Savvas, Nektarios Tsagliotis, Giorgos Pantazis and others. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Μαθητή. Book code 0-10-0197, ISBN 978-960-06-2599-8. PDF: 29,453,392 bytes, 118 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (pupil book, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 5 workbook):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών* (workbook) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Τετράδιο Εργασιών (workbook of experiments: hypothesis, experiment, conclusion sheets for every chapter). Book code 0-10-0133. PDF: 16,954,846 bytes, 202 PDF pages. Printed page = PDF page − 1 (verified against printed folios). Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. It counts in the acceptance count (workbook, not evidence-only). Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+**Book (Greece — Grade 5 teacher guide):** *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού* (teacher guide) — Greece, Ministry of Education / Institute of Educational Policy. Title as printed: «Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω, Βιβλίο Εκπαιδευτικού. Book code 0-10-0134. PDF: 5,270,443 bytes, 258 PDF pages. Verdict: COMPLETE. Records: TSV + books.json — the same file twice, cited once. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/greece-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Introduction: the scientific method as the basic tool for studying the world — observe methodically, ask questions, state hypotheses, test them with experiments, discuss observations with classmates and draw conclusions (Greece, Grade 5 pupil book) | Greece, *«Φυσικά» Ε΄ pupil book*, printed p. 10 |
+| Introduction ch. 1, Investigating and discovering: the year's experiment cycle — stimulus, hypotheses, experimental test, conclusion (Greece, Grade 5 workbook) | Greece, *«Φυσικά» Ε΄ workbook*, printed p. 12 |
+| Guide evidence, Part I: becoming familiar with scientific methodology is a stated core aim, taught through the "inquiry-developing" teaching model and experiments with simple everyday means (teacher guide — evidence) (Greece, Grade 5) | Greece, *«Φυσικά» Ε΄ teacher guide*, printed pp. 24, 36–39 |
+| Guide evidence, Part II: completed-workbook commentary and answers for Introduction ch. 1, Investigating and discovering (teacher guide — evidence) (Greece, Grade 5) | Greece, *«Φυσικά» Ε΄ teacher guide*, printed p. 57 |
+
+**Acceptance count: taught in 6 countries (Ethiopia, Cambodia, North Macedonia, Peru, Cook Islands, Greece).**
+
+Searchable tags: greece, fysika, erevno kai anakalypto, i investigate and discover, ministry of education, institute of educational policy

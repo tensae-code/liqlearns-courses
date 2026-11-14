@@ -615,6 +615,12 @@ solar-system comparison lessons.
 7. **Water, soil and air around us** (`natural-resources/water-soil-and-air-around-us`) — soil, water and air are natural resources: soil is the fertile top layer where roots reach, in black, red and brown; water comes from river, well, …
 8. **What counts as a natural resource** (`natural-resources/what-counts-as-a-natural-resource`) — a natural resource is everything found in nature, on or under the Earth, that serves people directly or indirectly — soil, air, water, plants, anim…
 
+9. **Oil — from the ground to our home** (`natural-resources/oil-from-the-ground-to-our-home`) — oil's journey whole: searched for underground, drilled and brought up, then transported to the home that uses it — the book's feature name for oil is "black gold" (Greece, Grade 6 — *«Φυσικά» ΣΤ΄ Δημοτικού — Ερευνώ και Ανακαλύπτω*, Energy ch. 3, printed p. 18)
+10. **Refining crude oil — what a refinery does** (`natural-resources/refining-crude-oil`) — crude oil is the raw oil as it comes from the ground; a refinery processes it, and usable products come out — followed through the book's feature, a barrel with a history (Greece, Grade 6 — *«Φυσικά» ΣΤ΄ Δημοτικού*, Energy ch. 4, printed p. 20)
+11. **Oil as a raw material — more than fuel** (`natural-resources/oil-as-a-raw-material`) — oil's second life: not burned but built into products beyond fuels, with detergents as the book's feature example (Greece, Grade 6 — *«Φυσικά» ΣΤ΄ Δημοτικού*, Energy ch. 6, printed p. 24)
+12. **Natural gas — a precious gas** (`natural-resources/natural-gas-a-precious-gas`) — natural gas searched for underground and pumped up — the book calls it a precious gas, and gives its finding its own chapter before its use as an energy source (Greece, Grade 6 — *«Φυσικά» ΣΤ΄ Δημοτικού*, Energy ch. 9, printed p. 30)
+13. **Bioclimatic design of buildings** (`natural-resources/bioclimatic-design-of-buildings`) — houses designed around the Sun and water — the energy unit's closing feature spread, where technology meets the Sun and the water (Greece, Grade 6 — *«Φυσικά» ΣΤ΄ Δημοτικού*, Energy unit feature spread, printed p. 39)
+
 ## Unit 11 — Our Environment
 
 1. **Caring for our environment: soil, water and air** (`our-environment/caring-for-our-environment-soil-water-and-air`) — care, resource by resource: stopping soil erosion (eroded land against protected land), keeping water sources unpolluted, keeping the air clean — w…
@@ -787,6 +793,8 @@ solar-system comparison lessons.
 32. **Science and industry — technology in daily life** (`science-skills/science-and-industry-technology-in-daily-life`) — technological products and their uses, and industry as science organised to make things and keep them — foods and how they are preserved among its indicators — curriculum evidence only, acceptance 0 (Ghana, Basic 2 — *Science Curriculum for Primary Schools (Basic 1–3)*, printed p. 53; Basic 5 — *Science Curriculum for Primary Schools (Basic 4–6)*, printed p. 31; Basic 7 — *Science Curriculum for Junior High Schools*, printed p. 47)
 33. **Drawing biological specimens** (`science-skills/drawing-biological-specimens`) — how to draw a specimen: a drawing is not a diagram — true proportion, magnification stated, and ruled label lines — curriculum evidence only, acceptance 0 (Barbados, Appendix B — *Primary Science Syllabus, Class One–Four*, printed p. 119)
 34. **Fieldwork — observing a community in nature** (`science-skills/fieldwork-observing-a-community-in-nature`) — the school excursion as a prepared study: choose a community, frame questions, carry notebook and magnifier, record the living things and the traces of human activity (Bulgaria, Grade 4 — *Човекът и природата за 4. клас*, Lesson 54, printed p. 106)
+
+35. **Dealing with learners' misconceptions in science** (`science-skills/dealing-with-learners-misconceptions-in-science`) — pupils arrive with early and mistaken conceptions; the teacher surfaces the wrong first idea and works on it instead of just correcting it — teacher-guide evidence only, acceptance 0 (Greece, Grade 5 — *«Φυσικά» Ε΄ Δημοτικού teacher guide*, Part I, printed p. 29)
 
 ## Unit 16 — Biology
 
@@ -2648,6 +2656,8 @@ solar-system comparison lessons.
 21. **Conservation of energy and matter** (`motion-force-and-energy/conservation-of-energy-and-matter`) — the law of conservation of matter and energy stated as one law: matter is rearranged and energy is converted — neither is created or destroyed (Costa Rica, Grade 8 — *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 47)
 22. **Energy in food — calories and joules** (`motion-force-and-energy/energy-in-food-calories-and-joules`) — the joule, the unit of energy, met through the calories that measure the energy held in food (Costa Rica, Grade 8 — *Ciencias, Octavo, Código 80008, Antologías CONED*, printed p. 54)
 
+
+23. **Energy stores — where energy is kept** (`motion-force-and-energy/energy-stores-where-energy-is-kept`) — energy kept until it is used: fuels, foods, batteries and other stores, and stored energy waiting to be released in the workbook's experiments (Greece, Grade 5 — *«Φυσικά» Ε΄ Δημοτικού — Ερευνώ και Ανακαλύπτω*, Energy ch. 2, printed p. 28)
 
 ## Unit 21 — Sound
 
