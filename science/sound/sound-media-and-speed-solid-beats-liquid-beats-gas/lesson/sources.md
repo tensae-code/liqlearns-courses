@@ -1,6 +1,6 @@
 # Sources — Sound — media and speed: solid beats liquid beats gas
 
-countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece, Armenia
+countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece, Armenia, Afghanistan
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -34,3 +34,18 @@ countries: Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece, Armenia
 New lesson in the new Sound title, not a growth of the primary Sound and vibration lesson: the primary lesson states the speed order; this item earns it — a four-groups defended argument plus the particle-collision account — so it is built whole here.
 
 Searchable tags: sound speed, medium, vacuum, solid liquid gas, steel water air, particle collisions, Ethiopia Grade 8 General Science Unit 7, kenya, south sudan
+
+## Afghanistan growth (2026-11-14, General Science expansion)
+
+**Book (Afghanistan — Grade 5):** *Science, Health and Environment, Grade 5* (student book, in Dari: ساینس، صحت و محیط زیست، صنف پنجم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1399 HS (2020); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف پنجم» (Science, Health and Environment, Grade Five). Grade: 5 (student/teacher: STUDENT book). PDF pages: 134 (cover/title page verified against the record title; the book runs to its final TOC lesson, printed p. 126). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| spread and transmission of sound (Lesson 37) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 77 |
+| speed of sound (Lesson 38) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 79 |
+
+Afghanistan's own way — one combined subject, Science, Health and Environment, teaches science through the child's body, home and surroundings, ending every grade with disease prevention, first aid or drugs-harm lessons and a group-discussion activity in nearly every lesson — is itself course content, carried exactly as filed in the rows above.
+
+**Acceptance count: taught in 8 countries (Ethiopia, Barbados, Kenya, Uzbekistan, South Sudan, Greece, Armenia, Afghanistan).**
+
+Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 5, sound sound-media-and-speed-solid-beats-liquid-beats-gas

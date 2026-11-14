@@ -1,0 +1,4 @@
+# Parasites — inside and outside the body — depth
+
+Whole-lesson pass mark: the learner works through the lesson's sub lessons in order (Parasites — living on or in a host, Internal parasites — inside the body, External parasites — outside the body), explains each in their own words using the lesson's own examples, and answers the lesson's questions from the lesson text.
+This lesson has 3 sub lessons, proved in order: each opens by proving the previous one — a prove-it check of at most 5 questions, mixed with earlier parts, picked as the hardest from the rank right under the wanted sub lesson; on a fail the learner reviews the questions and answers just done, then resets with another set; nothing ever relocks. Practice deepens inside each part before the learner moves on — retelling without notes, sorting parasites by where they live, and naming the clean habits that keep each kind away.

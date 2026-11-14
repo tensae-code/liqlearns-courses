@@ -1,6 +1,6 @@
 # Sources — Materials around us — metal, wood and what things are made of
 
-countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa
+countries: Gabon (teacher-guide evidence only), Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan
 
 **Book 1:** *Super Efficace — Sciences, Guide pédagogique, 5e année* (teacher guide) — Gabon, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Title as printed: Super Efficace — Sciences, Guide pédagogique, 5e année, © EDIG/EDICEF 2024 (guide team led by Assengone Menvie Edith Olga épouse Kebila, Inspecteur Pédagogique). Grade 5. Teacher guide. Repo path: grade-05/gov/gabon/sciences/teacher/gabon-g05-sciences-teacher.pdf. Byte size: 1,435,808 (no size in record). PDF pages: 60. Offset: printed pp. 3–60 (sommaire: paliers at pp. 3–13, 14–24, 25–36, 37–47, 48–60). Verdict: COMPLETE — full text read (33,276 words); sommaire and lesson structure prove identity. Read in full in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/gabon-placements.md.
 
@@ -136,3 +136,17 @@ Searchable tags: moldova, materials around us metal wood and what things are mad
 Rows whose unit the filing describes as pure Biology, Chemistry or Physics, with its items not placed individually, are carried exactly as filed: the Samoa book is cited here at unit level for the topic that unit covers, and the unit's detailed items are stocked by the Biology / Chemistry / Physics waves in their own folders.
 
 Searchable tags: samoa, samoa mesc, materials materials around us metal wood and what things are made of
+
+## Afghanistan growth (2026-11-14, General Science expansion)
+
+**Book (Afghanistan — Grade 6):** *Science, Health and Environment, Grade 6* (student book, in Dari: ساینس، صحت و محیط زیست، صنف ششم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1398 HS (2019); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف ششم» (Science, Health and Environment, Grade Six). Grade: 6 (student/teacher: STUDENT book). PDF pages: 114 (cover/title page verified against the record title; the book runs through its final chapter, printed p. 104). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| kinds of materials (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 15 |
+
+Afghanistan's own way — one combined subject, Science, Health and Environment, teaches science through the child's body, home and surroundings, ending every grade with disease prevention, first aid or drugs-harm lessons and a group-discussion activity in nearly every lesson — is itself course content, carried exactly as filed in the rows above.
+
+**Acceptance count: taught in 6 countries (Guyana, India, Bulgaria, Moldova, Samoa, Afghanistan).**
+
+Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 6, materials materials-around-us-metal-wood-and-what-things-are-made-of

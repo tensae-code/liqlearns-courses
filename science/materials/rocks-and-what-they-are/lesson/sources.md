@@ -1,6 +1,6 @@
 # Sources — Rocks — and what they are
 
-countries: Albania (teacher-guide evidence only), Armenia
+countries: Albania (teacher-guide evidence only), Armenia, Afghanistan
 
 **Book (Albania):** *Libër mësuesi — Dituri natyre 2* (teacher guide) — Albania, Shtëpia Botuese Mediaprint, first edition 2016; ISBN 978-9928-08-234-3. Title as printed: Libër mësuesi — Dituri natyre 2 (Albanian translation of Heinemann Explore Science, Teacher's Book, New International Edition, Grade 2; authors Tara Lievesley, Deborah Herridge, John Stringer; © Pearson Education Limited 2012; Albanian adaptation Laureta (Shkoza) Çako). Grade 2, TEACHER guide — all placements from it are guide evidence. PDF: 126 pages, 5,513,233 bytes (verified: byte size and 126 pages match the books.json record exactly; cover/title page matches the record title). Records: the Grade 2 teacher guide appears twice — TSV release record and books.json record — the same book, verified identical byte size 5,513,233, cited once here. Verdict: COMPLETE. TEACHER GUIDE — evidence only: cited as the evidence it is, outside the acceptance count, never counted as pupil-taught. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/albania-placements.md.
 
@@ -30,3 +30,17 @@ Searchable tags: rocks, what are rocks, cfare jane shkembinjte, natural solid, e
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 6, astghik gratun, edit print
+
+## Afghanistan growth (2026-11-14, General Science expansion)
+
+**Book (Afghanistan — Grade 6):** *Science, Health and Environment, Grade 6* (student book, in Dari: ساینس، صحت و محیط زیست، صنف ششم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1398 HS (2019); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف ششم» (Science, Health and Environment, Grade Six). Grade: 6 (student/teacher: STUDENT book). PDF pages: 114 (cover/title page verified against the record title; the book runs through its final chapter, printed p. 104). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| rocks/stones (filed as NEW LESSON NEEDED — materials/rocks-and-what-they-are; stocked into this existing lesson, which already covers that thing) (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 35 |
+
+Afghanistan's own way — one combined subject, Science, Health and Environment, teaches science through the child's body, home and surroundings, ending every grade with disease prevention, first aid or drugs-harm lessons and a group-discussion activity in nearly every lesson — is itself course content, carried exactly as filed in the rows above.
+
+**Acceptance count: taught in 2 countries (Armenia, Afghanistan).**
+
+Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 6, materials rocks-and-what-they-are

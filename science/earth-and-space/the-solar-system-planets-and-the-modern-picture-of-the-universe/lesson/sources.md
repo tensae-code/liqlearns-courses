@@ -1,6 +1,6 @@
 # Sources — The Solar system — planets and the modern picture of the Universe
 
-countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa (curriculum evidence only), Egypt, Cambodia, Ecuador
+countries: Uzbekistan, Haiti, Jamaica (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, Iceland (teacher-guide evidence only), Costa Rica, India, Bulgaria, Bahamas (curriculum evidence only), Moldova, Gabon (teacher-guide evidence only), Pakistan (Punjab), Armenia, Cuba, Samoa (curriculum evidence only), Egypt, Cambodia, Ecuador, Afghanistan
 
 **Book 1:** *ФИЗИКА 9 (Fizika 9)* (student textbook) — Uzbekistan, Учебник для учащихся 9-х классов средней школы — N. Sh. Turdiev; Izdatelstvo «Turon-Iqbol», Tashkent 2006 (Russian edition; imprint: 160 printed pp., print run 26,000). Grade: 9 · Student book (Russian-medium edition) · Repo path: grade-09/gov/uzbekistan/physics/full-year.pdf. Byte size: 65,699,691. PDF pages: 161. Offset: printed p. N = PDF p. N+1 approx. (printed p. 3 = PDF p. 4; contents at printed pp. 157–158). Verdict: COMPLETE — identity proven by cover/title/imprint; complete contents read (printed pp. 157–158) and chapter content verified against it. Read basis stated honestly: contents-anchored full-structure read with chapter-level verification, not a line-by-line read of all 161 pages. Read in the 2026-11-12 Physics expansion read. Placements at liqlearns-courses-work/expansion-physics-2026-11-12/uzbekistan-placements.md.
 
@@ -257,3 +257,18 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 13 countries (Uzbekistan, Haiti, Guyana, Costa Rica, India, Bulgaria, Moldova, Pakistan (Punjab), Cuba, Egypt, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, the-solar-system-planets-and-the-modern-picture-of-the-universe
+
+## Afghanistan growth (2026-11-14, General Science expansion)
+
+**Book (Afghanistan — Grade 5):** *Science, Health and Environment, Grade 5* (student book, in Dari: ساینس، صحت و محیط زیست، صنف پنجم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1399 HS (2020); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف پنجم» (Science, Health and Environment, Grade Five). Grade: 5 (student/teacher: STUDENT book). PDF pages: 134 (cover/title page verified against the record title; the book runs to its final TOC lesson, printed p. 126). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| what is the (solar) system? (Lesson 29) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 59 |
+| the planets (Lesson 31) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 63 |
+
+Afghanistan's own way — one combined subject, Science, Health and Environment, teaches science through the child's body, home and surroundings, ending every grade with disease prevention, first aid or drugs-harm lessons and a group-discussion activity in nearly every lesson — is itself course content, carried exactly as filed in the rows above.
+
+**Acceptance count: taught in 14 countries (Uzbekistan, Haiti, Guyana, Costa Rica, India, Bulgaria, Moldova, Pakistan (Punjab), Cuba, Egypt, Cambodia, Ecuador, Afghanistan).**
+
+Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 5, earth-and-space the-solar-system-planets-and-the-modern-picture-of-the-universe

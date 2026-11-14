@@ -325,3 +325,18 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 21 countries (Ethiopia, Palestine, Slovenia, Iraq, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Serbia, Guyana, India, Bulgaria, United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, force-what-force-is-and-what-it-does
+
+## Afghanistan growth (2026-11-14, General Science expansion)
+
+**Book (Afghanistan — Grade 6):** *Science, Health and Environment, Grade 6* (student book, in Dari: ساینس، صحت و محیط زیست، صنف ششم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1398 HS (2019); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف ششم» (Science, Health and Environment, Grade Six). Grade: 6 (student/teacher: STUDENT book). PDF pages: 114 (cover/title page verified against the record title; the book runs through its final chapter, printed p. 104). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 5 Force: what force is (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 51 |
+| kinds of force (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 54 |
+
+Afghanistan's own way — one combined subject, Science, Health and Environment, teaches science through the child's body, home and surroundings, ending every grade with disease prevention, first aid or drugs-harm lessons and a group-discussion activity in nearly every lesson — is itself course content, carried exactly as filed in the rows above.
+
+**Acceptance count unchanged: taught in 21 countries (Ethiopia, Palestine, Slovenia, Iraq, Afghanistan, North Macedonia, Moldova, Libya, China, Mauritania, Kazakhstan, Serbia, Guyana, India, Bulgaria, United States, Pakistan (Punjab), Samoa, Egypt, Cambodia, Ecuador).** Afghanistan was already counted in this lesson from its earlier Afghanistan books; the General Science student-book rows above add provenance for the same country, counted once.
+
+Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 6, motion-force-and-energy force-what-force-is-and-what-it-does

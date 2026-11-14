@@ -1,6 +1,6 @@
 # Sources — Accidents and staying safe
 
-countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador
+countries: Ethiopia, Turkey, Suriname, Iceland (teacher-guide evidence only), Barbados (curriculum evidence only), Uganda, Bulgaria, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Cuba, Cambodia (guide evidence only), Seychelles, Ecuador, Afghanistan
 
 **Book 8:** *Grade 4 Environmental Science Teacher Guide — SNNP Regional State Education Bureau edition* (አካባቢ ሳይንስ የመምህሩ መምሪያ, 4ኛ ክፍል) (teacher's guide) — Ethiopia, SNNP Regional State Education Bureau. COMPLETE: printed pp. 1–143 (all 5 units + references + syllabus). Printed page = PDF page − 6. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-teacher-placements.md.
 
@@ -175,3 +175,28 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 6 countries (Turkey, Suriname, Uganda, Bulgaria, Cuba).** Cambodia is named as guide evidence only (the MoEYS books above — the Kindergarten core book and/or the Student-Centred Science Teaching teacher-training manuals, as the rows above state), not added to this count, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, accidents-and-staying-safe
+
+## Afghanistan growth (2026-11-14, General Science expansion)
+
+**Book (Afghanistan — Grade 4):** *Science, Health and Environment, Grade 4* (student book, in Dari: ساینس، صحت و محیط زیست، صنف چهارم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1398 HS (2019); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف چهارم» (Science, Health and Environment, Grade Four). Grade: 4 (student/teacher: STUDENT book). PDF pages: 122 (cover/title page verified against the record title; the book runs to its final TOC lesson, printed p. 114). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 8 First aid: what first aid is (Lesson 49) (Afghanistan, Grade 4) | Afghanistan, *Science, Health and Environment, Grade 4*, printed p. 95 |
+| wounds and wounding (Lesson 50) (Afghanistan, Grade 4) | Afghanistan, *Science, Health and Environment, Grade 4*, printed p. 97 |
+| burns (Lesson 51) (Afghanistan, Grade 4) | Afghanistan, *Science, Health and Environment, Grade 4*, printed p. 99 |
+| bone fractures (Lesson 52) (Afghanistan, Grade 4) | Afghanistan, *Science, Health and Environment, Grade 4*, printed p. 101 |
+| blows, sprains and dislocations (Lesson 53) (Afghanistan, Grade 4) | Afghanistan, *Science, Health and Environment, Grade 4*, printed p. 103 |
+| snake bite (Lesson 54) (Afghanistan, Grade 4) | Afghanistan, *Science, Health and Environment, Grade 4*, printed p. 105 |
+
+**Book (Afghanistan — Grade 5):** *Science, Health and Environment, Grade 5* (student book, in Dari: ساینس، صحت و محیط زیست، صنف پنجم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1399 HS (2020); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف پنجم» (Science, Health and Environment, Grade Five). Grade: 5 (student/teacher: STUDENT book). PDF pages: 134 (cover/title page verified against the record title; the book runs to its final TOC lesson, printed p. 126). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| dangers of electricity and preventing them (Lesson 48) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 102 |
+
+Afghanistan's own way — one combined subject, Science, Health and Environment, teaches science through the child's body, home and surroundings, ending every grade with disease prevention, first aid or drugs-harm lessons and a group-discussion activity in nearly every lesson — is itself course content, carried exactly as filed in the rows above.
+
+**Acceptance count: taught in 7 countries (Turkey, Suriname, Uganda, Bulgaria, Cuba, Afghanistan).**
+
+Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, grade 5, keeping-healthy accidents-and-staying-safe

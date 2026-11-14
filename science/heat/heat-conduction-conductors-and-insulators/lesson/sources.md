@@ -253,3 +253,17 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 27 countries (Ethiopia, Argentina, Sri Lanka, Syria, United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Serbia, Bulgaria, Cuba, Samoa, Egypt, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, heat-conduction-conductors-and-insulators
+
+## Afghanistan growth (2026-11-14, General Science expansion)
+
+**Book (Afghanistan — Grade 4):** *Science, Health and Environment, Grade 4* (student book, in Dari: ساینس، صحت و محیط زیست، صنف چهارم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1398 HS (2019); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف چهارم» (Science, Health and Environment, Grade Four). Grade: 4 (student/teacher: STUDENT book). PDF pages: 122 (cover/title page verified against the record title; the book runs to its final TOC lesson, printed p. 114). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 2 Heat and light: uses of heat (Lesson 17) (Afghanistan, Grade 4) | Afghanistan, *Science, Health and Environment, Grade 4*, printed p. 31 |
+
+Afghanistan's own way — one combined subject, Science, Health and Environment, teaches science through the child's body, home and surroundings, ending every grade with disease prevention, first aid or drugs-harm lessons and a group-discussion activity in nearly every lesson — is itself course content, carried exactly as filed in the rows above.
+
+**Acceptance count unchanged: taught in 27 countries (Ethiopia, Argentina, Sri Lanka, Syria, United States, Uganda, Kenya, Iraq, Kuwait, Yemen, Afghanistan, Belarus, Uzbekistan, India, Iran, Laos, South Sudan, Mozambique, Mauritania, Greece, Armenia, Serbia, Bulgaria, Cuba, Samoa, Egypt, Ecuador).** Afghanistan was already counted in this lesson from its earlier Afghanistan books; the General Science student-book rows above add provenance for the same country, counted once.
+
+Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, heat heat-conduction-conductors-and-insulators

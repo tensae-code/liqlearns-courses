@@ -1,6 +1,6 @@
 # Sources — What disease is, and how it spreads
 
-countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador
+countries: Ethiopia, Peru, Jamaica (curriculum-guide evidence only), Trinidad and Tobago (curriculum-guide evidence only), Australia, Suriname, Serbia, Ghana (curriculum evidence only), Costa Rica, India, Uganda, Bulgaria, Greece, Bahamas (curriculum evidence only), Gabon (teacher-guide evidence only), Pakistan (Punjab), Samoa, Cambodia, Seychelles, Ecuador, Afghanistan
 
 **Book 1:** *Environmental Science Teacher's Guide, Grade 1* (አካባቢ ሳይንስ የመምህራን መምሪያ 1ኛ ክፍል) (teacher's guide — the file held in the library as the Grade 1 "student" book; the Grade 1 student textbook itself is NOT held) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. The held file is damaged and truncated: it holds guide printed pp. i–v and 1–27 only, of a guide running to at least printed p. 85. Guide printed page = PDF page − 8 in the genuine pages. Read visually, page by page, in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g01-student-placements.md.
 
@@ -283,3 +283,39 @@ Ecuador's own way — its Ministerio de Educación books teach this thing at the
 **Acceptance count: taught in 14 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab), Samoa, Cambodia, Ecuador).**
 
 Searchable tags: ecuador, ecuador ciencias naturales, ministerio de educacion ecuador, what-disease-is-and-how-it-spreads
+
+## Afghanistan growth (2026-11-14, General Science expansion)
+
+**Book (Afghanistan — Grade 4):** *Science, Health and Environment, Grade 4* (student book, in Dari: ساینس، صحت و محیط زیست، صنف چهارم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1398 HS (2019); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف چهارم» (Science, Health and Environment, Grade Four). Grade: 4 (student/teacher: STUDENT book). PDF pages: 122 (cover/title page verified against the record title; the book runs to its final TOC lesson, printed p. 114). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 7 Diseases and their causes: diseases (Lesson 44) (Afghanistan, Grade 4) | Afghanistan, *Science, Health and Environment, Grade 4*, printed p. 86 |
+| how diseases are transmitted (Lesson 45) (Afghanistan, Grade 4) | Afghanistan, *Science, Health and Environment, Grade 4*, printed p. 88 |
+| preventing the transmission of diseases (Lesson 46) (Afghanistan, Grade 4) | Afghanistan, *Science, Health and Environment, Grade 4*, printed p. 90 |
+
+**Book (Afghanistan — Grade 5):** *Science, Health and Environment, Grade 5* (student book, in Dari: ساینس، صحت و محیط زیست، صنف پنجم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1399 HS (2020); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف پنجم» (Science, Health and Environment, Grade Five). Grade: 5 (student/teacher: STUDENT book). PDF pages: 134 (cover/title page verified against the record title; the book runs to its final TOC lesson, printed p. 126). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| carriers/transmitters of diseases (Lesson 53) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 113 |
+| the mosquito as disease carrier (Lesson 54) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 115 |
+| the louse as disease carrier (Lesson 55) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 117 |
+| ways of preventing the spread of diseases (Lesson 56) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 119 |
+
+**Book (Afghanistan — Grade 6):** *Science, Health and Environment, Grade 6* (student book, in Dari: ساینس، صحت و محیط زیست، صنف ششم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1398 HS (2019); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف ششم» (Science, Health and Environment, Grade Six). Grade: 6 (student/teacher: STUDENT book). PDF pages: 114 (cover/title page verified against the record title; the book runs through its final chapter, printed p. 104). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| diarrhoea and dysentery (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 81 |
+| typhoid fever (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 83 |
+| cholera (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 86 |
+| tuberculosis (TB) (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 89 |
+| the common cold (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 91 |
+| preventing the spread of diseases (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 93 |
+
+Afghanistan's own way — one combined subject, Science, Health and Environment, teaches science through the child's body, home and surroundings, ending every grade with disease prevention, first aid or drugs-harm lessons and a group-discussion activity in nearly every lesson — is itself course content, carried exactly as filed in the rows above.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Peru, Australia, Suriname, Serbia, Costa Rica, India, Uganda, Bulgaria, Greece, Pakistan (Punjab), Samoa, Cambodia, Ecuador, Afghanistan).**
+
+Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 4, grade 5, grade 6, keeping-healthy what-disease-is-and-how-it-spreads

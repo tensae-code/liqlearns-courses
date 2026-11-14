@@ -507,6 +507,8 @@ solar-system comparison lessons.
 
 69. **Growing crystals** (`materials/growing-crystals`) — growing crystals of magnesium sulphate or copper sulphate from solution; crystals have regular shapes with straight edges (Seychelles, Grade 7 (P7) — *Seychelles Integrated Science — Water*, Unit 3, Project, printed booklet p. 12; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
 
+70. **Compound machines** (`materials/compound-machines`) — two or more simple machines joined together so they work as one — scissors (levers + wedges) and the bicycle (wheel and axle + levers + chain drive) (Afghanistan, Grade 4 — *Science, Health and Environment, Grade 4*, Lesson 26, printed p. 53; built for the Afghanistan placements, expansion-science-2026-11-13/afghanistan-placements.md)
+
 ## Unit 5 — Light
 
 1. **Light and dark: what light is** (`light/light-and-dark`) — light and dark are a pair: where there is no light, there is darkness — ጨለማ
@@ -840,6 +842,8 @@ solar-system comparison lessons.
 35. **Testing foods for sugar, fat and protein** (`keeping-healthy/testing-foods-for-sugar-fat-and-protein`) — testing foods for sugar with Benedict's reagent, for fat or oil by the grease-spot method, and for protein with Millon's reagent (Seychelles, Grade 8 (P8) — *Seychelles Integrated Science — Food and Growth*, Unit 7, Topic 6, printed booklet pp. 15–18; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
 
 36. **Keeping our senses safe** (`keeping-healthy/keeping-our-senses-safe`) — looking after your eyes and the other senses you learn through: light, rest, glare and early help when sight changes (Seychelles, Grade 9 (P9) — *Seychelles Integrated Science — Conserving Our Health*, Unit 12, Topic 'Looking after your eyes', PDF scan p. 68; built for the Seychelles placements, expansion-science-2026-11-13/seychelles-placements.md)
+
+37. **Parasites — inside and outside the body** (`keeping-healthy/parasites-inside-and-outside-the-body`) — a parasite lives on or in a host and feeds off it; internal parasites inside the body (in places like the gut, taking the body's food) and external parasites outside it (on skin, hair or clothes, biting and sometimes carrying disease) (Afghanistan, Grade 5 — *Science, Health and Environment, Grade 5*, Lessons 50–52, printed pp. 107, 109, 111; built for the Afghanistan placements, expansion-science-2026-11-13/afghanistan-placements.md)
 
 ## Unit 15 — Science Skills
 

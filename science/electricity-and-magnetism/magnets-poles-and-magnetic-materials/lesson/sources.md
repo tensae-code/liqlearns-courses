@@ -236,3 +236,20 @@ Searchable tags: samoa, samoa mesc, electricity and magnetism magnets poles and 
 Egypt's own way — its ministry books teach science as Discovery Education Science Techbooks at primary level (Wonder–Learn–Share inquiry through the book), as integrated science at preparatory level, and as Integrated Science joining physics, chemistry, life sciences and earth and space sciences around Earth's sustainability at secondary level, with Arabic, English and French language variants of the same grade-term book cited once — is itself course content, carried exactly as filed in the rows above.
 
 Searchable tags: egypt, electricity-and-magnetism magnets-poles-and-magnetic-materials
+
+## Afghanistan growth (2026-11-14, General Science expansion)
+
+**Book (Afghanistan — Grade 5):** *Science, Health and Environment, Grade 5* (student book, in Dari: ساینس، صحت و محیط زیست، صنف پنجم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1399 HS (2020); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف پنجم» (Science, Health and Environment, Grade Five). Grade: 5 (student/teacher: STUDENT book). PDF pages: 134 (cover/title page verified against the record title; the book runs to its final TOC lesson, printed p. 126). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| the magnet (Lesson 39) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 82 |
+| natural magnets (Lesson 40) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 84 |
+| artificial magnets (Lesson 41) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 86 |
+| uses of magnets (Lesson 42) (Afghanistan, Grade 5) | Afghanistan, *Science, Health and Environment, Grade 5*, printed p. 88 |
+
+Afghanistan's own way — one combined subject, Science, Health and Environment, teaches science through the child's body, home and surroundings, ending every grade with disease prevention, first aid or drugs-harm lessons and a group-discussion activity in nearly every lesson — is itself course content, carried exactly as filed in the rows above.
+
+**Acceptance count unchanged: taught in 21 countries (Ethiopia, Barbados, Slovenia, Fiji, Kenya, Kuwait, Afghanistan, Iran, North Macedonia, Moldova, South Sudan, Mozambique, China, Mauritania, Guyana, Mongolia, India, Bulgaria, United States, Samoa, Egypt).** Afghanistan was already counted in this lesson from its earlier Afghanistan books; the General Science student-book rows above add provenance for the same country, counted once.
+
+Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 5, electricity-and-magnetism magnets-poles-and-magnetic-materials

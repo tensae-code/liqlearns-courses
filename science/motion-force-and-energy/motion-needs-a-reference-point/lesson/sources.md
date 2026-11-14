@@ -1,6 +1,6 @@
 # Sources — Motion — motion needs a reference point
 
-countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia
+countries: Ethiopia, Djibouti (teacher-guide evidence only), Andorra (curriculum-programme evidence only), Syria, Sudan, Morocco (teacher-guide evidence only), Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia, Afghanistan
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -113,3 +113,18 @@ Searchable tags: moldova, motion needs a reference point, stiinte, sciences, gra
 Armenia's own way — «Բնություն» (Nature) in Grades 5–6 and «Բնագիտություն» (Natural Science) in Grade 10 are one integrated subject — the whole of nature in its large structural units (Earth, water, air, life, the human, the Universe), deliberately not split into separate sciences at this age (stated in both teacher guides) — is itself course content, carried exactly as filed.
 
 Searchable tags: armenia, bnutyun, bnagitutyun, nature, natural science, grade 10, grade 5, astghik gratun, edit print
+
+## Afghanistan growth (2026-11-14, General Science expansion)
+
+**Book (Afghanistan — Grade 6):** *Science, Health and Environment, Grade 6* (student book, in Dari: ساینس، صحت و محیط زیست، صنف ششم) — Afghanistan, Ministry of Education (وزارت معارف), Afghanistan; year of printing 1398 HS (2019); no ISBN printed. Title as printed: ساینس، صحت و محیط زیست «صنف ششم» (Science, Health and Environment, Grade Six). Grade: 6 (student/teacher: STUDENT book). PDF pages: 114 (cover/title page verified against the record title; the book runs through its final chapter, printed p. 104). Verdict: COMPLETE. Records: 3 (3 distinct books, all books.json records; read from the repo copies in scratch — byte size and pages verified against the PDFs on hand, covers match the record titles) — this book cited once here. It counts in the acceptance count (student book, not evidence-only), except where Afghanistan is already counted in this lesson from its earlier books, as the acceptance line below states. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/afghanistan-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 6 Motion: what motion is (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 63 |
+| origin, path and direction of motion (Afghanistan, Grade 6) | Afghanistan, *Science, Health and Environment, Grade 6*, printed p. 67 |
+
+Afghanistan's own way — one combined subject, Science, Health and Environment, teaches science through the child's body, home and surroundings, ending every grade with disease prevention, first aid or drugs-harm lessons and a group-discussion activity in nearly every lesson — is itself course content, carried exactly as filed in the rows above.
+
+**Acceptance count: taught in 15 countries (Ethiopia, Syria, Sudan, Iraq, Bulgaria, Belarus, Uzbekistan, Moldova, Mozambique, China, Cuba, Mauritania, Greece, Armenia, Afghanistan).**
+
+Searchable tags: afghanistan, afghanistan science health and environment, dari, grade 6, motion-force-and-energy motion-needs-a-reference-point
