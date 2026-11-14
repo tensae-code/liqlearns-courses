@@ -1,6 +1,6 @@
 # Sources — Cells — inside a cell: organelles and their jobs
 
-countries: Ethiopia, Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only)
+countries: Ethiopia, Guatemala (teacher-guide evidence only), Ghana (curriculum evidence only), India
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed (printed "ISBN No –"). COMPLETE: 207 PDF pp. Printed page = PDF page − 8. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -50,3 +50,20 @@ Searchable tags: guatemala, ciencias naturales, mineduc, ciclo basico, guia de o
 Ghana's own way — organising all of primary and JHS science into the same five strands (Diversity of Matter, Cycles, Systems, Forces and Energy, Humans and the Environment) revisited every year at greater depth — is itself course content, carried exactly as filed.
 
 Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class VIII):** *Science, Textbook for Class VIII* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class VIII. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 264 pages, 46,422,547 bytes. Verdict: COMPLETE (18 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+**Book (India — Class IX):** *Science, Textbook for Class IX* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class IX. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 225 pages, 29,576,571 bytes. Verdict: COMPLETE (15 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 8 Cell — Structure and Functions (India, Class VIII) | India, *Science, Textbook for Class VIII* (NCERT), Ch. 8, printed p. 90 |
+| Ch. 5 The Fundamental Unit of Life (India, Class IX) | India, *Science, Textbook for Class IX* (NCERT), Ch. 5, printed p. 57 |
+
+**Acceptance count: taught in 2 countries (Ethiopia, India).**
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class viii, class ix, inside-a-cell-organelles-and-their-jobs

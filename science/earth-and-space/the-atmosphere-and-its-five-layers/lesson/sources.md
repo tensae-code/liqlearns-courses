@@ -1,6 +1,6 @@
 # Sources — The Earth — the atmosphere and its five layers
 
-countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only)
+countries: Ethiopia (teacher-guide evidence only), Iraq, Cuba, Guatemala (teacher-guide evidence only), Italy, Iceland (teacher-guide evidence only), India
 
 **Book 2:** *General Science Teacher's Guide, Grade 7* (teacher's guide) — Ethiopia, Addis Ababa City Administration Education Bureau, © 2023. Authors: Andualem Beka, Sagni Megersa, Goshu Asab, Michael Getachew, Gemechis Nemera, Diriba Kebede. COMPLETE: 236 PDF pp (220 printed pp). Printed page = PDF page − 15. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-teacher-placements.md.
 
@@ -68,3 +68,17 @@ Searchable tags: italy, il globo terrestre, zanichelli, lupia palmieri, parotto,
 **Acceptance count unchanged: taught in 3 countries (Iraq, Cuba, Italy).** Iceland is named as teacher-guide evidence only, not added to this count.
 
 Searchable tags: iceland, halló heimur 3, ozone layer, atmosphere, mms, teacher aims sheet, grade 3
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class VIII):** *Science, Textbook for Class VIII* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class VIII. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 264 pages, 46,422,547 bytes. Verdict: COMPLETE (18 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 15 Some Natural Phenomena (lightning and earthquakes) (India, Class VIII) | India, *Science, Textbook for Class VIII* (NCERT), Ch. 15, printed p. 184 |
+
+**Acceptance count: taught in 4 countries (Iraq, Cuba, Italy, India).**
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class viii, the-atmosphere-and-its-five-layers

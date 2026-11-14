@@ -1,6 +1,6 @@
 # Sources — Reflection — laws, mirror images and the periscope
 
-countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only), Guyana, Mongolia
+countries: Ethiopia, Andorra (curriculum-programme evidence only), Barbados, Bahamas (curriculum evidence only), Haiti (programme evidence only), Fiji, Morocco (teacher-guide evidence only), United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Albania (teacher-guide evidence only), Guyana, Mongolia, India
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -114,3 +114,23 @@ Searchable tags: guyana, science around us, ministry of education guyana, grade 
 Mongolia's own way — the *Хүн ба байгаль* (Man and Nature) books teach through named investigation chapters, each opening with its own question — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, reflection laws mirror images and the periscope, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 4
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class VII):** *Science, Textbook for Class VII* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class VII. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 248 pages, 37,569,959 bytes. Verdict: COMPLETE (18 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+**Book (India — Class VIII):** *Science, Textbook for Class VIII* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class VIII. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 264 pages, 46,422,547 bytes. Verdict: COMPLETE (18 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+**Book (India — Class X):** *Science, Textbook for Class X* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class X. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 290 pages, 74,897,177 bytes. Verdict: COMPLETE (16 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 15 Light (India, Class VII) | India, *Science, Textbook for Class VII* (NCERT), Ch. 15, printed p. 174 |
+| Ch. 16 Light (India, Class VIII) | India, *Science, Textbook for Class VIII* (NCERT), Ch. 16, printed p. 199 |
+| Ch. 10 Light — Reflection and Refraction (India, Class X) | India, *Science, Textbook for Class X* (NCERT), Ch. 10, printed p. 160 |
+
+**Acceptance count: taught in 13 countries (Ethiopia, Barbados, Fiji, United States, Kuwait, Afghanistan, Uzbekistan, Libya, Mozambique, Mauritania, Guyana, Mongolia, India).**
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class vii, class viii, class x, reflection-laws-mirror-images-and-the-periscope

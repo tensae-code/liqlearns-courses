@@ -1,6 +1,6 @@
 # Sources — Life cycles of plants and animals
 
-countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only)
+countries: Sweden, Albania (teacher-guide evidence only), Ghana (curriculum evidence only), Guyana, Mongolia, Barbados (curriculum evidence only), India
 
 **Book (Sweden):** *Samtalsbilder, Tio små kryp* (student) — Sweden, SPSM. Title as printed: "Samtalsbilder, Tio små kryp" (Conversation pictures, Ten small creeping things), filed as Grade 1. Records: TSV + books.json — the same file, cited once here. PDF: 4,399,499 bytes, 20 PDF pages. Verdict: COMPLETE. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/sweden-placements.md.
 
@@ -105,3 +105,19 @@ Barbados is named as curriculum evidence only (*Primary Science Syllabus, Class 
 Barbados's own way — one integrated-science syllabus spirals the same twelve strands through all four classes (Data handling, Skill Development, Living Things, The Human Body, Ecology, Agricultural Science, Natural Resources, Matter, Weather, Energy, Forces and Solid Waste), with Caribbean content throughout — is itself course content, carried exactly as filed.
 
 Searchable tags: barbados, barbados primary science syllabus, class one-four, curriculum evidence, caribbean
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class VIII):** *Science, Textbook for Class VIII* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class VIII. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 264 pages, 46,422,547 bytes. Verdict: COMPLETE (18 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 9 Reproduction in Animals (India, Class VIII) — filed as animals/how-animals-reproduce-and-grow; stocked into this existing lesson, the closest existing lesson covering that thing, and the original slug is recorded here | India, *Science, Textbook for Class VIII* (NCERT), Ch. 9, printed p. 100 |
+
+**Acceptance count: taught in 4 countries (Sweden, Guyana, Mongolia, India).**
+
+Placement choice, on the record: the filed slug(s) above do not exist in the live course; each was stocked into this closest existing lesson covering that thing, following the same choice made for the same filed slug in earlier merges of this wave where one exists, with the original slug recorded in its provenance row.
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class viii, life-cycles-of-plants-and-animals

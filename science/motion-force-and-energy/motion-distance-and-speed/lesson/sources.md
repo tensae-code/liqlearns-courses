@@ -1,6 +1,6 @@
 # Sources — Motion — distance and speed
 
-countries: Ethiopia, Zambia (teacher-module evidence only), Djibouti (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Slovenia, Sudan, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Moldova, Kazakhstan
+countries: Ethiopia, Zambia (teacher-module evidence only), Djibouti (teacher-guide evidence only), Nigeria (teacher-guide evidence only), Slovenia, Sudan, Morocco (teacher-guide evidence only), Iraq, Cambodia (private-booklet evidence only), Bhutan, Uzbekistan, Moldova, Kazakhstan, India
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -85,3 +85,17 @@ Record debt, named here in sources only: the Form 1 module is recorded in the li
 Placement: Student item 79 — g07-student-placements.md (Unit 7). This lesson rests on the student book only. BOOK ERROR, taught corrected and flagged here: the student book's §7.3.1 worked example 1 states a 50-second walk, then prints "t = 30 sec" in its Given block while solving with 50 s — the Given line is a misprint; this lesson uses the working's value, 50 s, throughout. Cross-reference: the Materials title treats distance and speed at primary depth; this lesson is the Grade 7 measuring treatment in the new title, not a copy of that file.
 
 Searchable tags: distance average speed ball rolling practical grade 7 unit 7 ethiopia, iraq, cambodia
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class VII):** *Science, Textbook for Class VII* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class VII. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 248 pages, 37,569,959 bytes. Verdict: COMPLETE (18 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 13 Motion and Time (India, Class VII) | India, *Science, Textbook for Class VII* (NCERT), Ch. 13, printed p. 143 |
+
+**Acceptance count: taught in 9 countries (Ethiopia, Slovenia, Sudan, Iraq, Bhutan, Uzbekistan, Moldova, Kazakhstan, India).**
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class vii, motion-distance-and-speed

@@ -1,6 +1,6 @@
 # Sources — Describing things: matter and its properties
 
-countries: Ethiopia, Sudan, Trinidad and Tobago (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana
+countries: Ethiopia, Sudan, Trinidad and Tobago (curriculum-guide evidence only), Ghana (curriculum evidence only), Guyana, India
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -52,3 +52,17 @@ Searchable tags: ghana, ghana nacca science curriculum, ghana five strands
 **Acceptance count: taught in 3 countries (Ethiopia, Sudan, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 1
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class VI):** *Science, Textbook for Class VI* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class VI. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 176 pages, 30,692,840 bytes. Verdict: COMPLETE (16 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 4 Sorting Materials into Groups (India, Class VI) | India, *Science, Textbook for Class VI* (NCERT), Ch. 4, printed p. 26 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Sudan, Guyana, India).**
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class vi, describing-things

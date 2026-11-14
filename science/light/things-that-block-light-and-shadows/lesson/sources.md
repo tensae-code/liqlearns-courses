@@ -1,6 +1,6 @@
 # Sources — Things that block light, and shadows
 
-countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia
+countries: Ethiopia, Gabon (teacher-guide evidence only), Slovenia, Morocco (teacher-guide evidence only), Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Zambia (teacher-module evidence only), Albania (teacher-guide evidence only), Mongolia, India
 
 **Book 3:** *Grade 2 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 2ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 113 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g02-student-placements.md.
 
@@ -118,3 +118,17 @@ Searchable tags: albania, dituri natyre, mediaprint, libër mësuesi, teacher gu
 Mongolia's own way — the *Хүн ба орчин* (Man and Environment, Grades 1–3) five-unit frame deepening year by year, then the *Хүн ба байгаль* (Man and Nature, Grades 4–5) named investigation chapters — is itself course content, carried exactly as filed.
 
 Searchable tags: mongolia, things that block light and shadows, khun ba orchin, khun ba baigal, man and environment, man and nature, grade 2, grade 4
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class VI):** *Science, Textbook for Class VI* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class VI. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 176 pages, 30,692,840 bytes. Verdict: COMPLETE (16 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 11 Light, Shadows and Reflections (India, Class VI) | India, *Science, Textbook for Class VI* (NCERT), Ch. 11, printed p. 107 |
+
+**Acceptance count: taught in 11 countries (Ethiopia, Slovenia, Uganda, Kenya, North Macedonia, Moldova, South Sudan, Mozambique, Mauritania, Mongolia, India).**
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class vi, things-that-block-light-and-shadows

@@ -1,6 +1,6 @@
 # Sources — Heat and how it travels
 
-countries: Ethiopia, Australia
+countries: Ethiopia, Australia, India
 
 **Book 12:** *Environmental Science Student Textbook, Grade 6* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 6ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Mulugeta Awayehu (MA, Assoc. Prof.), Belete Kebede (MSc), Melese Sinu (MSc), Minilk Belay (MSc), Neqiqneh Zewdie (MSc). COMPLETE: 177 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g06-student-placements.md.
 
@@ -18,3 +18,17 @@ countries: Ethiopia, Australia
 The Grade 6 student book is COMPLETE (printed pp. 1–177). Experiment 8 (focusing sunlight to burn paper) is carried in its SAFE form, per the build rules: a teacher-demonstration visual in the book's own framing, never set as a pupil task, and no GIF of it was made.
 
 Searchable tags: heat transfer, conduction conductors, convection circulation, radiation, Experiment 8 lens safety, australia, pearson science 9
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class VII):** *Science, Textbook for Class VII* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class VII. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 248 pages, 37,569,959 bytes. Verdict: COMPLETE (18 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 4 Heat (India, Class VII) | India, *Science, Textbook for Class VII* (NCERT), Ch. 4, printed p. 35 |
+
+**Acceptance count: taught in 3 countries (Ethiopia, Australia, India).**
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class vii, heat-and-how-it-travels

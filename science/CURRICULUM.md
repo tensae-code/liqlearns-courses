@@ -598,6 +598,7 @@ solar-system comparison lessons.
 22. **Snails and slugs in the grassland** (`animals/snails-and-slugs-in-the-grassland`) — grassland snails: how the brekkubobbi may have reached Iceland (with birds or people), and the measure-a-snail's-speed activity — teacher-guide evidence only, acceptance 0 (Iceland, Grade 5 — *Líf á landi — Kennsluleiðbeiningar*, printed pp. 29–30)
 23. **Animal teeth — and what they eat** (`animals/animal-teeth-and-what-they-eat`) — do all animals have the same teeth? Teeth and diet: an animal's teeth fit what it eats — teacher-guide evidence only, acceptance 0 (Djibouti, Grade 3 — *Guide du maître — Sciences Expérimentales, 3ème année*, printed p. 27; PARTIAL — damaged file, as filed)
 24. **Camouflage — how animals hide** (`animals/camouflage-how-animals-hide`) — camouflage defined, taught through insect examples, and why it matters for survival — curriculum evidence only, acceptance 0 (Barbados, Class 3 — *Primary Science Syllabus, Class One–Four*, printed p. 14)
+25. **Inheritance — genes and traits** (`animals/inheritance-genes-and-traits`) — inherited traits against acquired traits, genes as DNA instructions showing through proteins, Mendel's tall × short pea crosses (all tall first, short returning 1 in 4 — dominant and recessive), sex determination by the father's X or Y, and evolution as inherited variation kept by selection over generations (India, Class X — *Science, Textbook for Class X* (NCERT), Ch. 9 Heredity and Evolution, printed p. 142)
 
 
 ## Unit 10 — Natural Resources

@@ -1,6 +1,6 @@
 # Sources — What counts as a natural resource
 
-countries: Ethiopia, Nauru, Tuvalu, Niue
+countries: Ethiopia, Nauru, Tuvalu, Niue, India
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -68,3 +68,23 @@ Searchable tags: tuvalu, usp reader 4, ecological services, natural resources, t
 Niue’s own way — natural resources taught as ecological services — everything Niue's own land provides, from drinking water to traditional medicines, in the adopted USP reader — is itself course content, carried exactly as filed.
 
 Searchable tags: niue, usp reader 4, ecological services, natural resources, traditional medicines
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class VIII):** *Science, Textbook for Class VIII* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class VIII. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 264 pages, 46,422,547 bytes. Verdict: COMPLETE (18 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+**Book (India — Class IX):** *Science, Textbook for Class IX* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class IX. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 225 pages, 29,576,571 bytes. Verdict: COMPLETE (15 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+**Book (India — Class X):** *Science, Textbook for Class X* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class X. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 290 pages, 74,897,177 bytes. Verdict: COMPLETE (16 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 5 Coal and Petroleum (India, Class VIII) | India, *Science, Textbook for Class VIII* (NCERT), Ch. 5, printed p. 56 |
+| Ch. 14 Natural Resources (India, Class IX) | India, *Science, Textbook for Class IX* (NCERT), Ch. 14, printed p. 189 |
+| Ch. 16 Sustainable Management of Natural Resources (India, Class X) | India, *Science, Textbook for Class X* (NCERT), Ch. 16, printed p. 266 |
+
+**Acceptance count: taught in 5 countries (Ethiopia, Nauru, Tuvalu, Niue, India).**
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class viii, class ix, class x, what-counts-as-a-natural-resource

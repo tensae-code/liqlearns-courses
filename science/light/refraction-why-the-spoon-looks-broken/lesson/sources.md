@@ -1,6 +1,6 @@
 # Sources — Refraction — why the spoon looks broken
 
-countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab), Armenia
+countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab), Armenia, India
 
 **Book 1:** *General Science Student Textbook, Grade 8* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Minbale Admas (Ph.D.), Dawud Yimer (M.Sc.), Getachew Tarekegn (Ph.D.). Editors: Agmas Amare (M.Sc.), Kindu Nibret (M.Sc.), Hassen Worku (Ph.D.). Team leader: Ehtegebreal Aregehagn (M.Ed.). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (M.Sc.). ISBN blank on cover (printed “ISBN No –”). COMPLETE: 241 PDF pp (233 printed pp). Printed page = PDF page − 8. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g08-student-placements.md.
 
@@ -39,3 +39,17 @@ countries: Ethiopia, Bahamas (curriculum evidence only), Malaysia, Afghanistan, 
 New lesson at Grade 8 depth, not a growth of the primary combined Reflection, refraction and splitting light lesson: that lesson carries refraction as one part of three at primary depth (coin and pencil); this item is a full Grade 8 section with the towards/away rule and the one-plane law-form, so it is built whole here.
 
 Searchable tags: refraction, normal, denser medium, spoon looks broken, bending light, Ethiopia Grade 8 General Science Unit 7
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class X):** *Science, Textbook for Class X* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class X. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 290 pages, 74,897,177 bytes. Verdict: COMPLETE (16 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 11 The Human Eye and the Colourful World (India, Class X) | India, *Science, Textbook for Class X* (NCERT), Ch. 11, printed p. 187 |
+
+**Acceptance count: taught in 8 countries (Ethiopia, Malaysia, Afghanistan, Jordan, Greece, Pakistan (Punjab), Armenia, India).**
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class x, refraction-why-the-spoon-looks-broken

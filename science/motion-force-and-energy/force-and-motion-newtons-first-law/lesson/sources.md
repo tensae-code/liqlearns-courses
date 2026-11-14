@@ -1,6 +1,6 @@
 # Sources — Force and motion — Newton's first law
 
-countries: Ethiopia, Mozambique, Jordan
+countries: Ethiopia, Mozambique, Jordan, India
 
 **Book 1:** *General Science Student Textbook, Grade 7* (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. Authors: Hassen Worku (PhD), Awoke Debebe (MSc), Seid Mohammed Shfaw (MSc), Muluneh Workie (MSc). Editors: Getachew Tarekegn (PhD), Kindu Nibret (MSc), Agmas Amare (MSc). Team leader: Ehtegebreal Aregehagn (MEd). Illustrator: Belayhun Tsegaye. Designer: Atersaw Tigyhun (MSc). ISBN blank as printed. PDF 207 pp. Printed page = PDF page − 8. COMPLETE. Read in full, page by page, in the 2026-11-11 Ethiopia read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/general-science/g07-student-placements.md.
 
@@ -21,3 +21,17 @@ countries: Ethiopia, Mozambique, Jordan
 Placement: Student item 84 — g07-student-placements.md (Unit 7). This lesson rests on the student book only.
 
 Searchable tags: newtons first law inertia net force cup and paper grade 7 unit 7 ethiopia, mozambique
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class IX):** *Science, Textbook for Class IX* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class IX. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 225 pages, 29,576,571 bytes. Verdict: COMPLETE (15 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 9 Force and Laws of Motion (India, Class IX) | India, *Science, Textbook for Class IX* (NCERT), Ch. 9, printed p. 114 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Mozambique, Jordan, India).**
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class ix, force-and-motion-newtons-first-law

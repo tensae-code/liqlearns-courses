@@ -1,6 +1,6 @@
 # Sources — The brain
 
-countries: Ethiopia, Australia, Guyana
+countries: Ethiopia, Australia, Guyana, India
 
 **Book 7:** *Grade 4 Environmental Science Student Textbook* (አካባቢ ሳይንስ የተማሪ መጽሐፍ 4ኛ ክፍል) (student textbook) — Ethiopia, Amhara National Regional State Education Bureau, © 2015 E.C. COMPLETE: 148 printed pp. Printed page = PDF page − 7. Read in full, page by page, from the text layer in the 2026-11-11 Ethiopia Wave 2 read. Placements at liqlearns-courses-work/ethiopia-2026-11-11/environmental-science/g04-student-placements.md.
 
@@ -30,3 +30,19 @@ Placement choice, on the record: the Guyana placement was filed for `the-human-b
 **Acceptance count: taught in 3 countries (Ethiopia, Australia, Guyana).**
 
 Searchable tags: guyana, science around us, ministry of education guyana, grade 6
+
+## India growth (2026-11-13, General Science expansion)
+
+**Book (India — Class X):** *Science, Textbook for Class X* (student book) — India, National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. Title as printed: Science, Textbook for Class X. Publisher: National Council of Educational Research and Training (NCERT), New Delhi, 2020-21. PDF 290 pages, 74,897,177 bytes. Verdict: COMPLETE (16 chapters). Records: 2 (1 distinct book; the TSV record and the books.json record are the same NCERT book, verified by size and pages, cited once here). It counts in the acceptance count. Read in the 2026-11-13 General Science expansion read. Placements at liqlearns-courses-work/expansion-science-2026-11-13/india-placements.md.
+
+| Lesson part | Where it comes from |
+|---|---|
+| Ch. 7 Control and Coordination (India, Class X) — filed as the-human-body/the-nervous-system-the-brain-spinal-cord-and-nerves; stocked into this existing lesson, the closest existing lesson covering that thing, and the original slug is recorded here | India, *Science, Textbook for Class X* (NCERT), Ch. 7, printed p. 114 |
+
+**Acceptance count: taught in 4 countries (Ethiopia, Australia, Guyana, India).**
+
+Placement choice, on the record: the filed slug(s) above do not exist in the live course; each was stocked into this closest existing lesson covering that thing, following the same choice made for the same filed slug in earlier merges of this wave where one exists, with the original slug recorded in its provenance row.
+
+India's own way — NCERT's *Science* is India's integrated general-science series, one book per class carrying the living world, materials and the physical sciences together in a single textbook — is itself course content, carried exactly as filed.
+
+Searchable tags: india, ncert, class x, the-brain

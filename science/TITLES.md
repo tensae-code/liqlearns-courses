@@ -99,7 +99,7 @@ The titles, in ladder order:
    snails and slugs in the grassland (the brekkubobbi, how it
    may have reached Iceland with birds or people, and the
    measure-a-snail's-speed activity — teacher-guide evidence
-   only, acceptance 0) — plus Djibouti's lesson — animal teeth — and what they eat (do all animals have the same teeth? — teeth fit the food; teacher-guide evidence only, acceptance 0, the Grade 3 guide PARTIAL as filed) — plus Barbados's lesson — camouflage — how animals hide (camouflage defined, taught through insect examples, and why it matters — curriculum evidence only, acceptance 0) — 24 lessons in
+   only, acceptance 0) — plus Djibouti's lesson — animal teeth — and what they eat (do all animals have the same teeth? — teeth fit the food; teacher-guide evidence only, acceptance 0, the Grade 3 guide PARTIAL as filed) — plus Barbados's lesson — camouflage — how animals hide (camouflage defined, taught through insect examples, and why it matters — curriculum evidence only, acceptance 0) — plus India's lesson — inheritance — genes and traits (inherited against acquired traits, Mendel's tall × short pea crosses and dominant/recessive forms, and evolution as inherited variation kept by selection) — 25 lessons in
    CURRICULUM.md Unit 9.
 10. **Natural Resources** — water, soil, air and minerals around
     us, and what is made from them.
